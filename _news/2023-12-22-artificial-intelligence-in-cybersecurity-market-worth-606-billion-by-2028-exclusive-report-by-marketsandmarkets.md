@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Natural Language Processing Market Analysis and Insights to 2027, Featuring Profiles of 3M, Apple, IBM, Meta Platforms and SAS Institute - ResearchAndMarkets.com"
-    excerpt: "Global Market Analysis and Insights\" report has been added to ResearchAndMarkets.com's offering. The global market for NLP was estimated to be valued at $23.8 billion in 2022. It is projected the NLP market will grow at a compound annual growth rate (CAGR) of 26."
-    publishedDateTime: 2023-12-20T12:20:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231220249647/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
   - title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets™"
     excerpt: "CHICAGO, Dec. 21, 2023 /PRNewswire/ -- In the cybersecurity space, AI's future lies in behavioural analytics, sophisticated threat detection, and further automation of processes like incident response. AI is anticipated to be crucial in improving cloud and endpoint security, resolving the skills gap, and adjusting to changing hostile strategies."
     publishedDateTime: 2023-12-21T15:28:00Z

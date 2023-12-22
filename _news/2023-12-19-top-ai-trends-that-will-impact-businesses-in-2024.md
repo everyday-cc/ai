@@ -125,20 +125,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
-    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
-    publishedDateTime: 2023-12-19T15:27:00Z
-    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 39
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "iVip6j+z0ljxCgCz+WWdcI2J1ZAcDmySNyjWOh697fvuEBsxr22UqpxUfjTNWwX42pEmbgbmsfZON+rXEsHi40vG65euInNayAXvbat6el0D6vW3vbZjEkUAVlVTYuxD+Hh8GocDHx3xJtsDxAPEEFJogaVbVIw84Lwc3DHE8iN3z+4EHOnmwebrEvs7tJ6XcNF8RxrrvvCJva81Cp3OzRUU/MvzV25gUJJdS0zebzFntQWaS3LnbKOIIQLbCruf8kgHg6JJ2Axlfmj9LaUWjxjrFafud4cNDabdjyKVY3qCeilptd7fMdsD4XCuQ7NznkXhUDCl0bs/Pri2ruxfv5CIfGVZoxC3RckJYn1c5kFrsycdD+vrszmysJWe51tQzO2YLpX7giLVsx+4w025pL+FiCc0JPLvzhLZj2wOGQPK3VU13NOF/oWLLyvcceLDIWIIhpY6K0itseLqeGz7eJfPffKGwi+q96vfemO1bi4O+AwjCxOqNhsTurTxKOFy763STAE5FacApMpD2WTBUg==;aSaqP9PSE0+clWhwVtsTIg=="
 ---

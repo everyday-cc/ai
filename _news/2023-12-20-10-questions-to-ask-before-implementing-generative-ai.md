@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
 type: article
 quality: 89
-heat: 279
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,68 @@ images:
     isCached: true
 
 related:
+  - title: "How To Maximize The Power Of Generative AI In Sales And Marketing"
+    excerpt: "Generative AI has become a must-have tool for businesses, and its outputs can create real efficiency in countless ways. However, the outputs depend on the information that goes into it—whether that's the prompts it's given or the data it's trained on."
+    publishedDateTime: 2023-12-22T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65847e661d555578eb9149d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 835
+        isCached: true
+  - title: "Artificial Intelligence And The Future Of Content Marketing"
+    excerpt: "Artificial intelligence, often simply known as AI, has been a hot topic across many industries, from healthcare to transportation. Yet its influence on content marketing has been nothing short of revolutionary. Remember the days when articles were general ..."
+    publishedDateTime: 2023-12-22T12:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI"
+    excerpt: "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it."
+    publishedDateTime: 2023-12-20T15:22:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1500
+        height: 900
+        isCached: true
+  - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
+    excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
+    publishedDateTime: 2023-12-21T18:19:00Z
+    webUrl: "https://venturebeat.com/ai/ignitions-new-funding-fuels-expansion-of-ai-powered-sales-and-marketing-platform/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 96
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_a_laptop_marketing_platform_03843535-9228-4591-8e6d-f5fc2e0900c2-transformed.jpg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Getting The Most Out Of Generative AI"
     excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
     publishedDateTime: 2023-12-21T12:00:00Z
@@ -47,6 +109,22 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "The AI Revolution in Therapy"
+    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
+    publishedDateTime: 2023-12-18T16:57:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 74
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Tackling Ethical and Security Concerns of Generative AI Models"
     excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
     publishedDateTime: 2023-12-19T12:14:00Z
@@ -60,6 +138,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
         width: 1000
         height: 500
+        isCached: true
+  - title: "How Generative AI is Reshaping Banking & Finance in India"
+    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
+    publishedDateTime: 2023-12-18T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 69
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
@@ -105,19 +197,19 @@ related:
         width: 800
         height: 475
         isCached: true
-  - title: "3 essential considerations for generative AI on campus"
-    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+  - title: "The Role of Artificial Intelligence in Affiliate Marketing: A Glimpse into 2024"
+    excerpt: "Introduction: In the dynamic landscape of digital marketing, the symbiotic relationship between artificial intelligence (AI) and affiliate marketing is poised to redefine the industry in 2024. As technology continues to advance at an unprecedented pace,"
+    publishedDateTime: 2023-12-20T03:51:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-affiliate-marketing-a-glimpse-into-2024/"
     type: article
     provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
     images:
-      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
-        width: 500
-        height: 500
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Role-of-Artificial-Intelligence-in-Affiliate-Marketing-A-Glimpse-into-2024.png"
+        width: 650
+        height: 450
         isCached: true
   - title: "Generative AI Dictates Trillions of Dollars in Industry"
     excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
@@ -132,6 +224,48 @@ related:
       - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
         width: 845
         height: 396
+        isCached: true
+  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
+    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
+    publishedDateTime: 2023-12-19T15:27:00Z
+    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 39
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Sai Buddhavarapu on the power of generative AI in supply chains"
+    excerpt: "For supply chain professionals, success is reliant on good planning. But volatile market conditions and a proliferation of data are making this increasingly difficult. “With supply chain solutions spanning vast networks with diverse data silos,"
+    publishedDateTime: 2023-12-19T09:54:00Z
+    webUrl: "https://www.technologyrecord.com/article/sai-buddhavarapu-on-the-power-of-generative-ai-in-supply-chains"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4760/Sai-Buddhavarapu_975x548.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "How Generative AI Could Revolutionize Manufacturing"
+    excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
+    publishedDateTime: 2023-12-19T22:43:00Z
+    webUrl: "https://www.manufacturing.net/artificial-intelligence/blog/22882290/how-generative-ai-could-revolutionize-manufacturing"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/12/Generative_AI.6582177d58359.png?auto=format%2Ccompress&fit=max&q=70&rect=91%2C171%2C3158%2C1775&w=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "How Your Organization Can Prepare for Generative AI"
     excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in"
@@ -161,19 +295,19 @@ related:
         width: 953
         height: 635
         isCached: true
-  - title: "5 questions about artificial intelligence, answered"
-    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
-    publishedDateTime: 2023-12-18T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
+  - title: "Unlocking the Power of Generative AI: Opportunities for Technology Services"
+    excerpt: "The AI chatbot known as GitaGPT was created by Mr. Sukuru Sai Vineet, a software developer for Google India. It leverages GPT-3 technology and the Bhagavad Gita to provide solutions to life's issues. Users can ask questions on the GitaGPT app, and a chatbot will respond by investigating the teachings of the Bhagavad Gita."
+    publishedDateTime: 2023-12-20T10:23:00Z
+    webUrl: "https://www.ibef.org/blogs/unlocking-the-power-of-generative-ai-opportunities-for-technology-services"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
+      name: IBEF
+      domain: ibef.org
     quality: 37
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.ibef.org/uploads/blog/1703067123_54f67ac84d35429b5e54.jpg"
+        width: 704
+        height: 419
         isCached: true
   - title: "Generative AI poised to revolutionize capture management"
     excerpt: "GenAI tools have immense potential for federal contractors when it comes to both proposal and capture management and writing compelling proposals."
@@ -189,34 +323,29 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "The Premature Quest for International AI Cooperation"
-    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
-    publishedDateTime: 2023-12-21T05:48:00Z
-    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+  - title: "How agencies will leverage virtual reality, generative AI over the next 2 years"
+    excerpt: "A new Deloitte report forecasts that “spatial computing and the industrial metaverse” will have growing applications for state and federal organizations and said that “investigating these technologies can help agencies get a leg up on the future."
+    publishedDateTime: 2023-12-19T21:35:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2023/12/how-agencies-will-leverage-virtual-reality-generative-ai-over-next-2-years/392888/"
     type: article
     provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
     images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
-        width: 1200
-        height: 630
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/12/19/121923VRAING/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
-    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
-    publishedDateTime: 2023-12-20T23:20:00Z
-    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
+  - title: "New generation of chips will drive the AI wave"
+    excerpt: "But US chip designers Nvidia and AMD are breathing new life into the advanced technology that has now become a critical component in all AI chips. The most pressing issue for AI chipmakers is the ever-growing demand for more processing power and bandwidth ..."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983?sharetype=blocked"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
     publishedDateTime: 2023-12-19T23:45:00Z
@@ -230,6 +359,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Harnessing the Power of Artificial Intelligence for Optimal Solar Energy Systems"
+    excerpt: "Introduction Solar power stands out as a promising and sustainable solution to meet our growing energy needs. As we strive towards a greener future, the integration of artificial intelligence (AI) has emerged as a revolutionary force in optimizing solar energy systems."
+    publishedDateTime: 2023-12-19T23:40:00Z
+    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-for-optimal-solar-energy-systems/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 32
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Harnessing-the-Power-of-Artificial-Intelligence-for-Optimal-Solar-Energy-Systems.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
     excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
@@ -249,23 +392,23 @@ related:
       name: computable
       domain: computable.be
     quality: 19
-  - title: "Doctors have a few simple AI asks"
-    excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
-    publishedDateTime: 2023-12-19T18:01:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/12/19/doctors-have-a-few-simple-ai-asks-00132402"
+  - title: "Navigating a shifting customer-engagement landscape with generative AI"
+    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
+    publishedDateTime: 2023-12-18T19:55:00Z
+    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: MIT Technology Review
+      domain: technologyreview.com
     quality: 17
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+  - title: "How 4 health systems plan to adopt generative AI in 2024"
+    excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
+    publishedDateTime: 2023-12-22T04:59:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/gernative-ai-2024-providence-cleveland-clinic-baptist-health-memorial-hermann"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
+      name: Modern Healthcare
+      domain: modernhealthcare.com
     quality: 17
   - title: "Google to limit answers to election queries on Bard AI tool and generative search"
     excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
@@ -276,6 +419,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 14
+  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
+    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
+    publishedDateTime: 2023-12-19T14:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "FU+In1bEsD+B6sccs/O+4OrHwI/4wd6vuJsYEzlZ97n5BkzT0YVBHbVVF39dy6OI/ZoinNWgIWkWB3h98yUUkbM1uZXyg0up9kDNLWYREu2ZfVSjaJ6gqztiqfSm9YL7lX8c1GRaUmlYK5vEYCtONfPRY744qFwPLO2Z1FVzQI5eGTz87fLhWJ41K0KMZQCpN1oJk63Pj90XV7OOhJBP2z/OAGyBtj4AUnJkSPrI4CNq+H5KD4V1WSeVBttt7zxHqXuSVQGymINQS9RTRsGVHao51h9525pWz1/sqhj5Bd+Tr3cJ2Ol15hBAAFtJq66zahFBGOqket0AKJnXQh2a1KEVRYoqr5mOdMzvlpGFNLm7mHp5myR+/3pYl5bYLO4mNf3CqJRaG4p8X8TFI2wQSjOjMFZkBsGRXqbXXYmDZC2XefwSrexxwpb12cxxZFvBT1vYJCHgeukzITCjY9qrgqyPgqD7MaZj3KA1amDIhpLEciPMtbHIewjA7ewwLwlC9Af5Nw+iltIjz4LFdwQutg==;s+owyIUmLKhuzYt30e31pQ=="
 ---

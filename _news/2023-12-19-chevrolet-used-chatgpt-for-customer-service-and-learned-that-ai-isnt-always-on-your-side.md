@@ -57,20 +57,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 49
-  - title: "ChatGPT Invented An Upstart Netflix Rival For Me"
-    excerpt: "On December 13, in response to a series of prompts, ChatGPT came up with the name of the business - StreamSphere - and suggested the features the service should provide to win over enough customers to dominate the online streaming industry by 2034."
-    publishedDateTime: 2023-12-17T11:50:00Z
-    webUrl: "https://www.inc.com/peter-cohan/chatgpt-invented-an-upstart-netflix-rival-for-me.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chat-gpt-netflix-chatbot-inc_535803_y2feub.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "rlc9Jv99CkcJ/Fz1QRIaRg879xSATHMLC7WVLKDCFtxVVMihBUl8ECN1FWIX5xgUGqFQnX/Y9JPPVyy87WyPuV3nImRTTbxQksARKUSWqDkTQN5eRmiqilerzqRfsMRdIM/MUe5Reg4fa4aykdoFLRUf/douE9c4SQ1gc1hGpn2TSzFtxa+XrMtlN6864CZEfT9WHRTXOIBKVi+PjBQ4xNC2BMtuxF4qpKFlXdDgt1fzYqcB8/jSwbct/TFmnhKnPHaQ/v9QnPfLDW0228qgDJ/nUayePAh8n0a7Op3oqfHfNj24hHTfxAWcDOWjV6o5MBwrSfT/V1fwP7ckcGgRHuja5l5g98GdcjvupbxJJyt7EKH9cgXp6g1LHei0fsXCS6qaMJrrxp8+0nVu2N53/xq4bJq5xDUhBZu/M2RcXyXSCKrSIBjzmGpoqyArITnGwdKjt+xrzlF0bTdUpKjOsgwIycV/Xepj8q1fVW/2M2dCX12wgO96odvFAez1EYAnoifuN/uAnz7WTeDXxt85aA==;PWWx4eZ1NYV2BK6vBRsiiA=="
 ---

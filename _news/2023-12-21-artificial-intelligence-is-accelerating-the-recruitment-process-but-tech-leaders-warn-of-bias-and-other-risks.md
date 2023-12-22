@@ -36,15 +36,20 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
-    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
-    publishedDateTime: 2023-12-19T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
+  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
+    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
+    publishedDateTime: 2023-12-20T23:20:00Z
+    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "x6n+nVdczlABHdAHes31qzrfLJR7OtU/+2PYNIwxRc0zRexgtTS3g/2EEIHUzypOUAtiT6JTYBEKF6Fm9+sW5ieTnYL9W3CSzqlaZbRJQev7p2YegIpzJFbK4bJylKCaG6mqXwBhKMH+SUDjnWBGLXmeo8aFP2uHDXNC9ALJSWDAMpwHRUz0sRbXWgiz2dDIJkDAsUamdZsoyXqIag5NOxw8OswrkxPQ3aWNf0Q3DQkFoyZtNbRXxHEbZQbT0HRCRNJ9Etao3CMYH0zlcqIq/LI24cvNLJpWql8anB4A6bVY/APuH/ifm/m41j5JPM0D/x5/sOV2wFrhY5POJLLmXLG6+YNCLwnmvSINpa4l7kCtBiRJixuGYM3K2Y4Ug6WQVPUbbrKZAMvVVqFLYuPCaW2AWlIpopoDXsbHQjN3kJHnZV84ssz70ENqTpfYBD2dCpyMAzWlZIAWJa75MqTZgR+p1UqTYPSbGc6JZeZ9WjaA0BVk2WFieLCgRy1FXLNvGl8bPen4XDzYGT/OLyczuA==;0Cl/iHNa1n4DSxZQU+qGEg=="
 ---

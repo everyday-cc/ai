@@ -8,8 +8,8 @@ webUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intellige
 ampWebUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
 cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "AI self-replication: Machine intelligence can now replicate independently"

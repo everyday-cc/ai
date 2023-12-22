@@ -68,6 +68,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Images of child sexual abuse found in dataset used to train AI image-generating tools"
+    excerpt: "A spokesperson for Stability AI, the London-based startup behind Stable Diffusion, told CNN in a statement that this earlier version, Stable Diffusion 1.5, was released by a separate company and not by Stability AI. And the Stanford researchers do note ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/children-eye-screen-time-e1575997913680.jpg"
+        width: 1194
+        height: 672
+        isCached: true
   - title: "Large AI Dataset Has Over 1,000 Child Abuse Images, Researchers Find"
     excerpt: "A massive public dataset used to build popular artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, a new report from the Stanford Internet Observatory found."
     publishedDateTime: 2023-12-20T12:00:00Z

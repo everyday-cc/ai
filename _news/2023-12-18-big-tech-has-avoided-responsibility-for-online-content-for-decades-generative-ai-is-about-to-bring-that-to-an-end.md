@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
+    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
+    publishedDateTime: 2023-12-20T23:20:00Z
+    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Artificial intelligence is accelerating the recruitment process — but tech leaders warn of bias and other risks"
     excerpt: "Artificial intelligence can be used for recruiting top talent. Experts say that hiring teams could use AI for tasks such as sourcing talent and reviewing job applications."
     publishedDateTime: 2023-12-20T18:50:00Z
@@ -38,15 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
-    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
-    publishedDateTime: 2023-12-19T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "2tyxzDuZjekDeZS0Mni/WTSQjY4cdhu0LM/zpL5YgH0EmusImBqPcdrQk2MSh0a+Ah3fOWUse3e5vXikWFfmk0fyV+RrW4uK47T8qHOrVQ9GxuXlg22rzsL4Vg+GF+xOuJSDAn+qJrItUhaJTfVrc6X149idk0NL7kBVrpSCUs7MOxxd3xyCVEZ8I43anxkK+256gzS6rZh+E56p0UfXur5PclSqvjdQaRl8LAgrX9orkY+qeDLuOYD1u6ysuqy9OVXJOIUhPV1DKs6UhlQu7F8qOTRhHkLG1qAch7GmxXsip83Gm80Fcv+/TE1jSMu90uOFoPrc5EMxqdK5CD9KJXQRMmZQg0pTVkFuz8J5dbI3i77E/MUCc4jnebxFtWeOPPvVSigh+ICHTFkQoBSt33jgaxChDHw1L8NzC4/jj0efcr6MT3Itk1LYvwIIGydDxIvP6EL13QDGxMjlaDEd3sLTxa0wNV9+9nlt7baBSWTNLqEU4kd5SVThWCdgjV2XaJ5Gv+uyAz1Z14mze78QQg==;XRqhARYZt0oak52+n20+gA=="
 ---

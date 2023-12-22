@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-22T10:49:00Z
 originalUrl: "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning"
 webUrl: "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg"
@@ -24,6 +25,6 @@ images:
     height: 267
     isCached: true
 
-secured: "UwvJc2icZM6qcg+bwDS048yYcY5dbfB269GC6Zke0a8wu0vlv2Rn6GeMaHoJvrhf4bXrCwDHvYBoFsUANQkNnL17Bhi/DVy6MPRsodBgVAxzMaSmyukwnVj22ZKWxqT3KFraCld0/8ndorFy9KB/a40x1DClUMcmYwlwsLyBB0CMB/kbaneir1uRFBL6fROlD8hKAUkO+x5wR/G0sGGG1rvub3I41xtQ6TVB5DkwbuYU1lAc0takCYpVdP7ANQIb11zOGrJkDhXjgbT78y2A5P//xfyvxcRMLtH0RF163bC0uJb5s185vzxcptLc0G9HbHTiJdb7GGbVJ1wHuhOvXV8kx9dSIihGW7DRKYrOoXk=;O3voHqxjaEZ/MV2pmAL08w=="
+secured: "D+p1+BLK2SZaP02+507Gmc5PtQ9YfbVb1aWHcIXApj1K7TuFlH0OA4fKY5vaaU/Dzt77+bn+9IZjhhdjyIyT/DXKohEdLVFbCvfRryRHwx5J5+F46hYSXSb2agn6bMrQXVsEcK8Iu0VP7zk0Jzd0a7mO40YSttd5ZuOMd7L11uOD2NSOBxlEbhjeVitn+en3BvYdFVhO2qqVvC6gF1BwaaO7VgKbY6VrO7gvN51OaMJbn+VZWB5950/OZOvMBDk5ETyVjVoAbPox/xQ9SSmYlQy+iyHo4oMCbrh1FO2enOgTVKCUG8tP1QrP2MszdGwB6aEmrPjal5h1S6TK9UbWfj2DVBFFAF4phWUuyqA2t1Xb2evfEZZ9ns7qgx/pEsHLQobcsiie143HDLRxIqZAm2N+++ScHxRuGwOKZuCtA3Mw+OFqhtuGd9cVr4oBERgWdimlS5U+Awsteu8ZAmrah+ga2lktSoYOVGCx6se0+uF83pntUbBNrwkiNO65ihzToBDx7R55OpXbEtqriXuVRQ==;0/An+G9BpGl7Dr3uKYrElw=="
 ---
 

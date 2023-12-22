@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the Power of Generative AI: Opportunities for Technology Services"
-    excerpt: "The AI chatbot known as GitaGPT was created by Mr. Sukuru Sai Vineet, a software developer for Google India. It leverages GPT-3 technology and the Bhagavad Gita to provide solutions to life's issues. Users can ask questions on the GitaGPT app, and a chatbot will respond by investigating the teachings of the Bhagavad Gita."
-    publishedDateTime: 2023-12-20T10:23:00Z
-    webUrl: "https://www.ibef.org/blogs/unlocking-the-power-of-generative-ai-opportunities-for-technology-services"
+  - title: "Large language models and generative AI: a recent hack day"
+    excerpt: "Developers in the Product and Engineering department came together with colleagues from across the Guardian to explore the potential of LLMs and more"
+    publishedDateTime: 2023-12-22T10:02:00Z
+    webUrl: "https://www.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
+    ampWebUrl: "https://amp.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
     type: article
     provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 37
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://www.ibef.org/uploads/blog/1703067123_54f67ac84d35429b5e54.jpg"
-        width: 704
-        height: 419
+      - url: "https://i.guim.co.uk/img/media/606f5ac0f77c78cd168dd713f386f99b09c2c71f/0_165_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=fca54e27bbe799a702d84a1f23a97eaa"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "82zSs2eA8nWKI6cURJh1GfLv6a1yq96zJO973K9q8MxDVsHUu8q8JDMYoYtzv+FDdB7zJzyy2FwLhY7WXKxfsvB0bbGRYf5z939idWOc1joDR0dd+xhqJQoY0/9w1gFJmRAqYObd9uCXV/xtQVgh7AqKvfyoY8El2jVu+sk2Lm1/rrIw6WxTf3+StjnksCjwFSqmHLe2BpMhiyeUTT/gjlbCTtKejI7xBygN1fjIhnuZDDJ+ls4E0W5hPGVaxlL8sTiRkrAoqDoObJBGKfDoCfgdVJaMDOGseM2V1FXf1oMxdMwu3M9gQjMIcnAQ7qd7Dg7vRw8KeIR+8sHE/Q+oklP3PKv1up4wgBr8M71xOss=;+gVMWeZCIL1sQZs/aD5TvA=="

@@ -138,6 +138,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Rite Aid hit with a five-year freeze on facial recognition"
+    excerpt: "Rite Aid has agreed to a five-year ban on using facial recognition technology for surveillance as part of a settlement with the US Federal Trade Commission (FTC)."
+    publishedDateTime: 2023-12-20T17:45:00Z
+    webUrl: "https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.html"
+    ampWebUrl: "https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/04/spot_analytics_05_cw_eye_surrounded_by_virtual_sensors_metrics_tracking_monitoring_privacy_surveillance_by_thinkstock_843652348_3x2_2400x1600_hero-100884339-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rite Aid banned from using AI facial recognition technology, US FTC says"
     excerpt: "Pharmacy chain Rite Aid will be prohibited from using facial recognition technology for surveillance purposes for five years to settle U.S. Federal Trade Commission charges it harmed consumers, the FTC said on Tuesday."
     publishedDateTime: 2023-12-19T21:51:00Z

@@ -30,7 +30,7 @@ related:
     provider:
       name: FOX 10 Phoenix
       domain: fox10phoenix.com
-    quality: 40
+    quality: 42
 
 secured: "zn7Snm4TKoE4sGrFZPtUOPyrj4xAjDMwLlCbzRyOr0feCpqMYpLUoDb37TZEXg0IHu4YpWJ6KegWiv0CczujvCtzUzK44whtIUKPQTvhpQnHxBYO5t+jkXNMsRqU9/bcudvvFiQJDHCOs/wT6u51gXrKQuNVwLr2pnUJb5iawsUazad0Zwz1b4twP66DHJl8FGIPL/ZMw1kAKDsE01g4ynMooYXKAYK9TR8Lhvo++jVdxjxBeF+i4IW+TYHq1NecqFqBoXJi+ZfRiqO+XQ0+rNf0RxaTzxNJtWR/941AXf3Pqpo/KFSw5ODWhaR+k+8qvD+LL5l6WgnYODQn6NL8T1yp5OYRUid+bwdTmDMuNpaEKXMVReqMnx2hGp4Ag6vuMFAsn8hnZpG2PUDleFCaiDLe+9/Hpyj+KP5ufAOUznC2taISh+QvONrYI88CPl6xsqgBxUfFWZquKn7+LwWud4AuOtSD1USe1lOLVROFwNxKNh06emRty+D5KYBQST3TWCM1X7el5lfvB4IWO4f9/A==;wumsrIVctZGcYsSVnxibRA=="
 ---

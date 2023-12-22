@@ -47,22 +47,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The AI Revolution in Therapy"
-    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T16:57:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 74
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-pixabay-373543.jpg?itok=wBzUJjRQ"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "eJIldqe9v0ugXzjiggwJZioQd97LMqQL8iAD0+QmYF2ILKgdyjmt8vyCevwFxWUymWHQ3L4jOiZwJRNvCcQQZUvEG7OycnEstelosXrkwWccV55Qkqgg/9xL2eJ0GR2YNswgX3dHhAwy8vna9HpGyePXZcQkgQR1/EKNs/g30qRGrcVy/MPnKVCDXPxp0LP4s512K1raiTZHXmQdgXSCIAPsJ7BUYnL8b9BIpzN7gWY+7iFqukm5tv0h18Rjjz6Uwpz5otH6OM6tsJxEx4hjGmEBBa2745zW5HsqfAwvYOs+pEvlsnrTkYyADH+9XCv8qRHejHRrBjAF1mblycRE3/HnZdPdKNoJgAWTLmefJVzAn21AcKkwLtuMkc9S64/b+vr7O2YHzPDikz/kFAl6zucUDx4L0l0Pk4Quy1dS/IGKPhMGls7G0xBYMX1ZmgZll4eq1ImhcIASfyA6wp8nVJcSMbSIK0HBgqEaa1JLXNzH2IejuJ9nGeDvjVd4iMTdTSTRhloKtC/waEM368qnsw==;6sBsBoYt8SH5aHJkXPGnaw=="
 ---

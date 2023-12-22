@@ -25,101 +25,198 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways AI Transformed Music, Movies and Art in 2023"
-    excerpt: "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world."
-    publishedDateTime: 2023-12-20T22:09:00Z
-    webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
+  - title: "Revolutionizing Performance Reviews With Generative AI"
+    excerpt: "HR leaders and people managers should consider incorporating generative AI technologies into the performance review process for better insights."
+    publishedDateTime: 2023-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65846043702a508c2f2c1107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI Revolutionizing the Automotive Industry"
+    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 67
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85"
-        width: 1024
-        height: 683
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
+  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
+    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
+    publishedDateTime: 2023-12-22T07:59:00Z
+    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
+    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 66
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
+      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "This AI transformer tech-powered robot taught itself to walk"
-    excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
-    publishedDateTime: 2023-12-20T11:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/humanoid-taught-itself-to-walk"
+  - title: "AI generates proteins with exceptional binding strengths"
+    excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
+    publishedDateTime: 2023-12-18T16:54:00Z
+    webUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.html"
+    ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/DPsWRbtuTA2gmzC7Yov3mD07KgfEQeqFEWjbzHRf.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-generates-proteins-1.jpg"
+        width: 1280
+        height: 1706
         isCached: true
-  - title: "7 ways doctors and nurses are using AI"
-    excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
-    publishedDateTime: 2023-12-21T09:19:00Z
-    webUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "3 essential considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
     quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2023/12/Shutterstock1155104248I1CL_0.jpg"
-        width: 1010
-        height: 720
+      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "What’s Ahead for AI In 2024: The Transformative Journey Continues"
-    excerpt: "Organizations increasingly recognize AI’s role in driving decision-making and fostering growth. Here’s what we can expect from AI in 2024."
-    publishedDateTime: 2023-12-21T10:40:00Z
-    webUrl: "https://tdwi.org/Articles/2023/12/21/ADV-ALL-Whats-Ahead-for-AI-In-2024-Transformative-Journey-Continues.aspx"
+  - title: "Amdocs Revolutionising Telecom with Generative AI"
+    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
+    publishedDateTime: 2023-12-18T06:44:00Z
+    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
     type: article
     provider:
-      name: TDWI
-      domain: tdwi.org
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/trends1.jpg"
-        width: 976
-        height: 400
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
+        width: 512
+        height: 288
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: Purdue Exponent
+      domain: purdueexponent.org
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Legislature eyes AI issues in 2024"
-    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
-    publishedDateTime: 2023-12-21T10:32:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
+    excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
+    publishedDateTime: 2023-12-19T09:06:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3"
+    excerpt: "Hitch Interactive, the company connecting innovators and providing immersive experiences in AI, robotics, fintech, and the Metaverse, today announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs."
+    publishedDateTime: 2023-12-19T13:05:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/hitch-interactive-unveils-generative-ai-within-programmable-nfts-forging-a-new-era-for-web3/article_4b70e2c9-bb52-5378-835d-44b26fa10495.html"
+    type: article
+    provider:
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 30
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
+    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
+    publishedDateTime: 2023-12-21T07:12:00Z
+    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI-generated weapons of mass misinformation have arrived"
+    excerpt: "That frightening prediction is already coming true."
+    publishedDateTime: 2023-12-21T11:00:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
+  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
+    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+    publishedDateTime: 2023-12-21T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "m6gvmXBdMolHL8Uqd+V0a/C+Tc7FsQjCMXy/L2b3fGZEoQgLkMgIY4d5ysN24cs+HUYp/Z6Ek3SdK8puHHFMs3kJlWIJx/3/LUUmGNmdRYa9wIEOMBmx94H0chzrA+Z3ya9J5qetyXPR52SgpcSZmig+MJknnvOEipadFj9CA2PIB4F9nLHNWynnTOnyG7sJ75uDfVXpbhjuGP5ct2+pXTVIe14v7WCIVtS2sFes8VUoqMo2fqbX6cysVt5PICok+r+MBvqRyeBgBS2qvpyhFyFYj8dxRAH/Nvo+XkANcK2fRJzGaxjTOTlUeTstUJRYXA28xVOa/LKbcED1aqEJ/lTX+SNxay8/nQAMdtN4asqYQWzlNH7In4Sz9km1m8iMKibA6AqY7pN6O5OjncDUA/9qkQdj78y2Y1RHibopNfKQl+HdRgVhLFbpRnsFEDokXnMRstu6C3f58oyHvIRZSzojCHRF6xrPxU7ob/RjJZBTxllJrKwZYcNwdOwJkmu7tLuJPM1vPpv7djUD45uGdg==;GgFb6+7VQVf8f0J0S8ZhOQ=="
 ---

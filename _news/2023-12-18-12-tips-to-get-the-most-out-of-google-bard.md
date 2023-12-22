@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/12-tips-to-get-the-most-out-of-googl
 webUrl: "https://www.geeky-gadgets.com/12-tips-to-get-the-most-out-of-google-bard/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "15 Tips to Hack Google Bard Results: Unleash the Power of Language AI"
+    excerpt: "Google Bard, the advanced AI language model developed by Google, is renowned for its wide array of abilities. It excels in providing detailed answers to a"
+    publishedDateTime: 2023-12-22T10:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/15-tips-to-hack-google-bard-results-unleash-the-power-of-language-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Bard-4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gvSvndR1N6Hcknt4I8nojmixAvEdgWjsf6n+Sj05qIr7LyYCQewIavrqX7e82f8749k9DGyqFwpZax+GcOQ2DKi13k0/s96HP4LNZCGLmpc14eKG/+FqOc2qO4pFL1nqJWjw6J4lwowbsLR9Lf7I3NkGjIkVBJv7YGkrAeK7sAYatjTuhPdy3KXtLPqcaz3ld0s9HC8m723/cdr1nSB1UIh6MRz8mJZ24LM81CrJjpkl4vwqfwZNNIv7UIHPIeiiVrIen5SdpNb1eLxAOq03PAajUyFaS7fL4Hm9JB38llhF3XJC+1ldMlUShPB+t9Qc62XiXE8Gv4zlZH+Uun4T3l9oAKGAWjF4eYM5bFB6UqQ=;xqRg9M3i0TKNc1z5Lh8spQ=="
 ---

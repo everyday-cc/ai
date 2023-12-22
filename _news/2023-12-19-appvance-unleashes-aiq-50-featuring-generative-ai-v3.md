@@ -25,93 +25,198 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
+  - title: "Revolutionizing Performance Reviews With Generative AI"
+    excerpt: "HR leaders and people managers should consider incorporating generative AI technologies into the performance review process for better insights."
+    publishedDateTime: 2023-12-22T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65846043702a508c2f2c1107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI Revolutionizing the Automotive Industry"
+    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
+    publishedDateTime: 2023-12-19T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
+    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
+    publishedDateTime: 2023-12-17T16:56:00Z
+    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 67
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
+    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
+    publishedDateTime: 2023-12-22T07:59:00Z
+    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
+    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 66
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI generates proteins with exceptional binding strengths"
+    excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
+    publishedDateTime: 2023-12-18T16:54:00Z
+    webUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.html"
+    ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-generates-proteins-1.jpg"
+        width: 1280
+        height: 1706
+        isCached: true
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "3 essential considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-12-18T10:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 39
+    images:
+      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "Amdocs Revolutionising Telecom with Generative AI"
+    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
+    publishedDateTime: 2023-12-18T06:44:00Z
+    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 69
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
+        width: 512
+        height: 288
         isCached: true
-  - title: "Facebook whistleblower docs: How AI is hurting India – and Indians"
-    excerpt: "Users need to understand that since many platforms are developed outside of India, their preparedness to understand and manage nuances of language, culture, and regions fall short. Engineers are playi"
-    publishedDateTime: 2023-12-18T08:52:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/facebook-whistleblower-docs-artificial-intelligence-india-9072751/lite/"
+  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
+    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 61
+      name: Purdue Exponent
+      domain: purdueexponent.org
+    quality: 39
     images:
-      - url: "https://images.indianexpress.com/2023/12/artificial.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Huawei Cloud and Pangu AI model reshaping finance industry"
-    excerpt: "Huawei Cloud is helping to transform the finance industry with powerful AI model Pangu and Everything as a Service smart solutions"
-    publishedDateTime: 2023-12-19T07:15:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/huawei-cloud-and-pangu-ai-model-reshaping-finance-industry"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/7655ab029d6a7bb14a14eb6b5e035cd9:194b6a8ee3bcce0296c82be369f226dc/20231219-090709-welinkpc.JPG.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 629
+        height: 630
         isCached: true
-  - title: "How India's tryst with Artificial Intelligence will ensure its developed status by 2024"
-    excerpt: "Under Prime Minister Modi's tech-focused policies, India has shifted from being a follower to a leader. Hosting the Global Partnership on Artificial Intelligence (GPAI) summit and leading GPAI in 2024"
-    publishedDateTime: 2023-12-20T10:04:00Z
-    webUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-indias-tryst-with-artificial-intelligence-will-ensure-its-developed-status-by-2024-13525902.html/amp"
+  - title: "3 ways generative AI will transform your people strategy in 2024"
+    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
+    publishedDateTime: 2023-12-19T16:19:00Z
+    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 51
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Screenshot-752.jpg"
-        width: 640
-        height: 363
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Google Unveils AI-Powered Features For Maps In India"
-    excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
-    publishedDateTime: 2023-12-20T07:56:00Z
-    webUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/"
-    ampWebUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
+  - title: "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3"
+    excerpt: "Hitch Interactive, the company connecting innovators and providing immersive experiences in AI, robotics, fintech, and the Metaverse, today announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs."
+    publishedDateTime: 2023-12-19T13:05:00Z
+    webUrl: "https://www.valdostadailytimes.com/ap/business/hitch-interactive-unveils-generative-ai-within-programmable-nfts-forging-a-new-era-for-web3/article_4b70e2c9-bb52-5378-835d-44b26fa10495.html"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
-  - title: "Spacenet Enterprises India Ltd Accelerates Global Trade with Rs 99.55 Crore Investment in Fintech and AI Innovations"
-    excerpt: "This investment, led by VIKASA India EIF I Fund with a substantial Rs 50 crore at Rs 26 per share, demonstrates robust investor confidence and a shared vision for the future of digital trade., Technology & Science News,"
-    publishedDateTime: 2023-12-18T09:05:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/spacenet-enterprises-india-ltd-accelerates-global-trade-with-rs-99-55-crore-investment-in-fintech-and-ai-innovations-article-106086365/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 36
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 30
     images:
-      - url: "https://static.tnn.in/thumb/msid-106086427,thumbsize-47144,width-1280,height-720,resizemode-75/106086427.jpg"
-        width: 1280
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
+  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
+    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
+    publishedDateTime: 2023-12-21T07:12:00Z
+    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "AI-generated weapons of mass misinformation have arrived"
+    excerpt: "That frightening prediction is already coming true."
+    publishedDateTime: 2023-12-21T11:00:00Z
+    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
+  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
+    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+    publishedDateTime: 2023-12-21T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "5UDcMvqMCBGsoZjvyExjoLFsQn1xnZUP7weGmdPbqOVMI0FUORzeIVsDthavYGoJLLjzQrZZbM+W7cQLr8ZEdFD8HADDlQGQRpMnNurMuJggLOmq25Z+LpbTwXpo9i1JLW0t/pQi/mb4yb20PbyRZW+8Ig76+g7yCb9OMb0sCA4H++kPj80a/AI2zj9pLDknZqQPt1CfuwBJPPbeyTPKirkIlIOdRJDM9t7xpT79rCgQ/PpNJdnBHw7wpjQLAt97VRKM8MXszEBKjcMFHsCeApX2OFpFkbgCCh6ch7nkCcGz+96bSrNPHuzgce55RujKZgjcKa6453ScUMSdJY14rQhFtBtbH5U0sm4SuYVaD/8=;Sqa6cYZUsZSs6F9a9cCvmg=="
 ---

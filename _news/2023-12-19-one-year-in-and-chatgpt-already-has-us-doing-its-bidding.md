@@ -46,20 +46,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "ChatGPT Invented An Upstart Netflix Rival For Me"
-    excerpt: "On December 13, in response to a series of prompts, ChatGPT came up with the name of the business - StreamSphere - and suggested the features the service should provide to win over enough customers to dominate the online streaming industry by 2034."
-    publishedDateTime: 2023-12-17T11:50:00Z
-    webUrl: "https://www.inc.com/peter-cohan/chatgpt-invented-an-upstart-netflix-rival-for-me.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chat-gpt-netflix-chatbot-inc_535803_y2feub.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Chevrolet Used ChatGPT for Customer Service and Learned That A.I. Isn't Always on Your Side"
     excerpt: "Can artificial intelligence be too smart for its own good? While a promising use case for generative A.I. is handling simple customer service tasks, Chevrolet recently learned that integrating the tech into your website can lead to problems if you don't narrow the scope of its abilities."
     publishedDateTime: 2023-12-18T21:45:00Z

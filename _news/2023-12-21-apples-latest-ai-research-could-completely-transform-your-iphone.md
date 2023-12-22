@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New Research Paper Shows How Apple Could Bring On-Device AI To Older iPhones"
+    excerpt: "Apple's new research hints at a breakthrough for running AI models on iPhones with limited RAM, while boosting processing speeds, too."
+    publishedDateTime: 2023-12-22T11:19:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36359722/new-research-paper-shows-how-apple-could-bring-on-device-ai-to-older-iphones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36359722"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36359722"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/iPhone-Photo-by-Attila-Fodemesi-on-Shutt.jpeg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
+        isCached: true
   - title: "Apple’s new AI research could totally transform your iPhone"
     excerpt: "LLMs are the backbone of AI chatbots and assistants, such as Apple's Siri, that can converse with humans and provide useful information and services. However, LLMs are also memory-hungry, requiring gigabytes of RAM to function properly."
     publishedDateTime: 2023-12-22T05:06:00Z

@@ -21,43 +21,54 @@ topics:
   - AI
 
 related:
-  - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
-    excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
-    publishedDateTime: 2023-12-21T18:19:00Z
-    webUrl: "https://venturebeat.com/ai/ignitions-new-funding-fuels-expansion-of-ai-powered-sales-and-marketing-platform/"
+  - title: "Reshoring manufacturing to the US: The role of AI, automation and digital labor"
+    excerpt: "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-21T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 96
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "Future of manufacturing is phygital as human-robot collaboration rises: Twyn’s Avi Dahiya"
+    excerpt: "As manufacturing in India is quickly adapting new-age technologies, a Noida-based company is working to accelerate the adoption of Industry 4.0 in India."
+    publishedDateTime: 2023-12-19T05:21:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/articleshow/106112078.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_a_laptop_marketing_platform_03843535-9228-4591-8e6d-f5fc2e0900c2-transformed.jpg?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2406586,msid-106112055/avi-profile-hz-1.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "HSBC: Utilising quantum protection for AI-powered FX trading"
-    excerpt: "In a world first, HSBC used quantum protection to safeguard an AI-powered trading scenario involving the foreign exchange (FX) of €30 million for dollars"
-    publishedDateTime: 2023-12-19T11:52:00Z
-    webUrl: "https://fintechmagazine.com/banking/hsbc-quantum-protection-for-fx-trading"
+  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
+    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
+    publishedDateTime: 2023-12-18T18:34:00Z
+    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
+      name: Law
+      domain: law.com
+    quality: 43
     images:
-      - url: "https://assets.bizclikmedia.net/1200/18c1fb94a2a7b6ff2cb8bf18a652427e:e2e7f7f03db6fbac990942c869393a30/180502-hsbc-logo-london-1-high-res.jpg.jpg"
-        width: 1200
-        height: 629
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "STEP CONFERENCE ELEVATES ITS POSITION AS A LEADING KNOWLEDGE SHARING PLATFORM WITH THE INTRODUCTION OF NEW AI TRACK"
-    excerpt: "(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_2 tdi_2 img{margin:0 auto 0 0}@media tdi_2{text-align:center}} Dubai's premier tec"
-    publishedDateTime: 2023-12-18T20:46:00Z
-    webUrl: "https://menafn.com/1107620380/STEP-CONFERENCE-ELEVATES-ITS-POSITION-AS-A-LEADING-KNOWLEDGE-SHARING-PLATFORM-WITH-THE-INTRODUCTION-OF-NEW-AI-TRACK"
+  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
+    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
+    publishedDateTime: 2023-12-19T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "rMPydn0ewEsPUoRHQlD4McrXl2ibf9fq8qcK/ztMiAJVL7TbSMH+9Fh6BK3l0YThHLcsuRboUl7Jnl2efTNbKfAlmK1HTFhQfbgkOn9lKb0JBHR+yBKDKhFdlOGNilYjPF4g2qYyMi7fQJxAp4oCjio0oLsIpAYOPxfHKJ1VRFGWgtnf8nAhLIWetwVfssL+me4RnzxGofNS4np2K9rxJorUv7Lg5tzPJMUNWvDw/3T416qbInhIoNiI/R04sBIMwggtHSGxzTV33km38HQFqMWPjPYxy9sPtoVw0o8BHbvH7+PRniMH/lfkuUzOVAWRhV+VOr9bcyI+9Sh+3vbmnaT+QWE1JEjglExQ1p9txta8VrZMwys3nAawKImWSzbXunSRogE3DVNY1gp3+lxVHIwbnLvaM6uOceuUuVvdJEtBArpiD/2T8uEQqjJtpuVVO94KLq9cJ7pxC7yiahNTZbkCyPsKy+dlHOr2nx3sJ4h5lXGquLpZETVVkSH5WZp3UAeMxmlY8iQOliuCWgxIpA==;zPTotwvyykYg9ERVDbZ9Ww=="
 ---

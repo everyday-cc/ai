@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1600
     height: 874
     isCached: true
-
-related:
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "But US chip designers Nvidia and AMD are breathing new life into the advanced technology that has now become a critical component in all AI chips. The most pressing issue for AI chipmakers is the ever-growing demand for more processing power and bandwidth ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
 
 secured: "57iIrBH15O3xzem+y/9BfKrQQIJS+EZymXR9LW2dsQi315nGbEDNO5T8ujckqPyjH8gRAHBOmGZfA1Hh+atHGJtYdI1HhoKeQ8YkuMOHHUptj6sWOvPviN/KaUUod1/wOWEwfLXCX+ZFr7nF0WBKJ3YFDPxMxLntMsA2XZuA92NWeU87yuCaTzKVC2Nmwl/Azkjt5fyXoBqvHDasxoOxjqbtgVEAjxo3iBoXZfVIAllp63dPc0wErdEETTyJQERdZLYGWWY4v1S+1uHWL9S+ShWkL5gQ9f7lw83dhmS6xDYswnNdx41H5evEUaIFla7VBlGMq3fLZQrQjxPgubs00JPBe863zFbF1lQhVaTnV2HNQUTQxKuWKq3w0Epis8vzRCai+z6AQOsKZTt3m96ZBr1bp8KTY0RUbJPBZTcJ74+D6qgkPsj93tW2h9g7NAJ2dCuMW2XjxDvtIKrLSzYIsQZVV0q3C1B5FqG1vL55s/6FJZqvWdYujW/mzlK4twNWBTtXrEKGnJA8E8S4r4jXEw==;hFUmehqBIN4y451mJPYoEg=="
 ---

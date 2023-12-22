@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of autonomous vehicles (AVs) and artificial intelligence stocks is"
     publishedDateTime: 2023-12-20T10:24:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-play-the-rise-of-autonomous-vehicles-1032915449"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
     type: article
     provider:
       name: Business Insider

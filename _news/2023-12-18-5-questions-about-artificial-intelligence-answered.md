@@ -24,253 +24,179 @@ images:
     isCached: true
 
 related:
-  - title: "10 Questions To Ask Before Implementing Generative AI"
-    excerpt: "To decide on prioritization of generative AI, consider its expected outcome, your available internal resources and the potential downsides of not adopting it. Your board and leadership team may see its priority differently, so be sure to align with them."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
+  - title: "Alphabet to limit election queries Bard and AI-based search can answer"
+    excerpt: "Alphabet's Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run up to 2024 U.S. Presidential election."
+    publishedDateTime: 2023-12-19T21:46:00Z
+    webUrl: "https://www.cnbc.com/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1347
-        height: 900
-        isCached: true
-  - title: "Getting The Most Out Of Generative AI"
-    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
-    publishedDateTime: 2023-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNBC
+      domain: cnbc.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 945
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/107279974-1690906783801-gettyimages-1569405373-Omarques_01082023_techPOL_1_of_21.jpeg?v=1690906813"
+        width: 5000
+        height: 3327
         isCached: true
-  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
-    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
-    publishedDateTime: 2023-12-19T12:14:00Z
-    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
+  - title: "2024 election: Google to restrict queries from Bard, AI-based search"
+    excerpt: "Google will restrict election-related queries from Bard and AI-based searches, Reuters reported. The announcement from the Alphabet company comes ahead of the pivotal 2024 US Presidential election."
+    publishedDateTime: 2023-12-20T01:46:00Z
+    webUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search-11703033406851.html"
+    ampWebUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Examining Generative AI's Transformative Effects"
-    excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
-    publishedDateTime: 2023-12-19T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/committeeof200/2023/12/19/examining-generative-ais-transformative-effects/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6581ae2799cf43a352b7bfcb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://www.livemint.com/lm-img/img/2023/12/20/1600x900/FILES-US-INTERNET-TECHNOLOGY-GOOGLE-0_1703036494739_1703036516954.jpg"
         width: 1600
         height: 900
         isCached: true
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
+  - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
+    excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
+    publishedDateTime: 2023-12-20T04:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
+      name: The Hindu
+      domain: thehindu.com
+    quality: 56
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
-  - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
-    excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
-    publishedDateTime: 2023-12-22T02:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-phone-revolutionizes-communication-with-generative-ai-powered-efficiency-and-intelligence-1032920896"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1703164744410-0.png"
-        width: 800
-        height: 475
-        isCached: true
-  - title: "3 essential considerations for generative AI on campus"
-    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/12/18/3-essential-considerations-for-generative-ai-on-campus/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 39
-    images:
-      - url: "https://www.ecampusnews.com/files/2023/12/generative-AI-educause.jpeg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "Generative AI Dictates Trillions of Dollars in Industry"
-    excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
-    publishedDateTime: 2023-12-18T17:09:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/16697/Generative-AI-Dictates-Trillions-of-Dollars-in-Industry"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
-        isCached: true
-  - title: "How Your Organization Can Prepare for Generative AI"
-    excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in"
-    publishedDateTime: 2023-12-20T09:09:00Z
-    webUrl: "https://www.computable.nl/2023/12/20/how-your-organization-can-prepare-for-generative-ai/"
-    type: article
-    provider:
-      name: Computable
-      domain: computable.nl
-    quality: 39
-    images:
-      - url: "https://www.computable.nl/wp-content/uploads/2023/12/PhilLe-Brun800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "How Generative AI Promises to Transform Procurement"
-    excerpt: "Therefore, implementing strong data privacy and security measures, such as anonymizing datasets before training the AI, is imperative. The decision-making process in procurement is often complex and multifaceted, involving considerations of ethics ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/38643-how-generative-ai-promises-to-transform-procurement"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/08/03/Artificial-Intelligence-iStock--Udomdech-Jaroenthanaporn--1473127506.jpg?height=635&t=1691122544&width=1200"
-        width: 953
-        height: 635
-        isCached: true
-  - title: "Generative AI poised to revolutionize capture management"
-    excerpt: "GenAI tools have immense potential for federal contractors when it comes to both proposal and capture management and writing compelling proposals."
-    publishedDateTime: 2023-12-21T02:40:00Z
-    webUrl: "https://washingtontechnology.com/opinion/2023/12/generative-ai-poised-revolutionize-capture-management/392920/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 37
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/12/20/GettyImages_1781530895/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Premature Quest for International AI Cooperation"
-    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
-    publishedDateTime: 2023-12-21T05:48:00Z
-    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
+      - url: "https://th-i.thgim.com/public/incoming/k55tuv/article67656884.ece/alternates/FREE_1200/Google_Top_Searches_99272.jpg"
         width: 1200
-        height: 630
+        height: 757
         isCached: true
-  - title: "Why Generative AI Startups Are So Dependent on Big Tech"
-    excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
-    publishedDateTime: 2023-12-20T23:20:00Z
-    webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
+  - title: "Google will restrict election-related queries that Bard and AI-search can answer"
+    excerpt: "Google restricts Bard and SGE for election queries to curb misinformation ahead of 2024 U.S. Presidential elections."
+    publishedDateTime: 2023-12-20T10:07:00Z
+    webUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/"
+    ampWebUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
+    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 54
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-81981235_535958_nj3ycu.jpg"
-        width: 1024
-        height: 576
+      - url: "https://thetechportal.com/wp-content/uploads/2023/12/12-23_Elections_1_1.width-1200.format-webp-1.png"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
-    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
-    publishedDateTime: 2023-12-19T23:45:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
+  - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
+    excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
+    publishedDateTime: 2023-12-20T03:15:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36319364/after-meta-google-limits-bard-and-ai-search-queries-related-to-elections-ahead-of-2024-presidential"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36319364"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36319364"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
-        width: 640
-        height: 427
+      - url: "https://cdn.benzinga.com/files/images/story/2023/Google-Bard_2.jpeg?width=1200&height=800&fit=crop"
+        width: 618
+        height: 412
         isCached: true
-  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
-    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
-    publishedDateTime: 2023-12-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
+  - title: "Google to restrict election-related queries on Bard, AI-powered Search"
+    excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
+    publishedDateTime: 2023-12-20T03:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-to-restrict-election-related-queries-on-bard-ai-powered-search/articleshow/106138152.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106138143,width-1070,height-580,imgsize-1566910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "Alphabet to Reduce Election Queries Bard and AI-based Search Answer"
+    excerpt: "United States Presidential election, various tech companies have found themselves in tight positions. One such is Alphabet"
+    publishedDateTime: 2023-12-21T07:58:00Z
+    webUrl: "https://techreport.com/news/alphabet-to-reduce-election-queries-bard-and-ai-based-search-answer/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/12/Apple-Watch.jpg"
+        width: 752
+        height: 379
+        isCached: true
+  - title: "Google to limit election queries Bard and AI-based search can answer"
+    excerpt: "Google will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run up to 2024 US Presidential election. The restrictions are set to be enforced by early 2024, the company said."
+    publishedDateTime: 2023-12-20T20:52:00Z
+    webUrl: "https://www.itnews.com.au/news/google-to-limit-election-queries-bard-and-ai-based-search-can-answer-603614"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/USelection.jpg"
+        width: 725
+        height: 482
+        isCached: true
+  - title: "Google plans to restrict election-related queries in 2024 on Bard"
+    excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
+    publishedDateTime: 2023-12-20T00:53:00Z
+    webUrl: "https://interestingengineering.com/culture/google-plans-to-restrict-election-related-queries-in-2024-on-bard"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 24
-  - title: "How Your Organization Can Prepare for Generative AI"
-    excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in history that have ignited the public’s"
-    publishedDateTime: 2023-12-19T14:05:00Z
-    webUrl: "https://www.computable.be/artikel/sponsored/cloud-computing/7586123/5950220/how-your-organization-can-prepare-for-generative-ai.html"
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/MlyTWOS2jPk0xyLcfQMdQaSsHyX9BVEgft53EPdd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
+    excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
+    publishedDateTime: 2023-12-20T10:03:00Z
+    webUrl: "https://www.econotimes.com/Google-to-Restrict-Election-Related-Queries-for-Chatbot-Bard-and-Search-Experience-1668306"
     type: article
     provider:
-      name: computable
-      domain: computable.be
-    quality: 19
-  - title: "Doctors have a few simple AI asks"
-    excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
-    publishedDateTime: 2023-12-19T18:01:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/12/19/doctors-have-a-few-simple-ai-asks-00132402"
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 20
+    images:
+      - url: "https://f1.econotimes.com/2023/12/5w35ell8j1_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "Google restricting election-related responses on AI products ahead of 2024"
+    excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."
+    publishedDateTime: 2023-12-20T18:16:00Z
+    webUrl: "https://www.aol.com/news/google-restricting-election-related-responses-161641362.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: AOL
+      domain: aol.com
     quality: 17
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+  - title: "Google Approaches US Elections With Caution, Restricts Election-Related Queries For Bard, SGE"
+    excerpt: "Facebook owner Meta announced it would restrict political campaigns and advertisers from using its new generative AI advertising products."
+    publishedDateTime: 2023-12-21T07:08:00Z
+    webUrl: "https://www.ibtimes.co.uk/google-approaches-us-elections-caution-restricts-election-related-queries-bard-sge-1722314"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 13
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722031/us-elections.jpg"
+        width: 1920
+        height: 1282
+        isCached: true
 
 secured: "Y+mD0JzGP1O9wfnREhbrdGbw+0BHPygW+MSsl5Be2GfSSf5hY3EzfY2Zm6dORBUTByVZhVgPe+98xn51OJ9DgpdSsveGs4I8G0VxHB6phiYG5wmWJhKfZCSun1BVE+8nw8S65kxYmot6XCrnuUsk0/rQW2r/+7vOUAZRpP2n2/MZ2oTDG3EC9xFhhiASy1AFuvsqOAR5vdFM9iRvKceXCt1T9Jv1MY4MnhOZ101tjSxRdTMIOTMe17cScTt8ZuFt0wTwf7KDD5K4xKX8zeqQTMWmpq9U7UYuvltYFLw9WzMa9YdKlktP/Qh8SzbLnxsq4sFND2Rxhug1DFXTQoDgPBd3a9dyASd/cuddKPoB1Cqv1npeu9Rl+ECDe+PIzYn//JpCBZvzpysj56AACzjHdIoYV1pa3idWraIP6JaKHYA8hAsba//purDVEbMAFOHrs0Zzp4uNwIs1zaTYos/JXBjgsN2a1XBNnERVPFg34yzVlD4yy23Os4VHsRf+RFuCA2EqzI0IxDiIq8k1FwhXZw==;RUe0Hh3XfZj6ASltiU/MSA=="
 ---

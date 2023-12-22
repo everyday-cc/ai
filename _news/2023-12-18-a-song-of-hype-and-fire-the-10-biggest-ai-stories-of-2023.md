@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "From the generative AI boom to X's advertising crash — these were the 5 biggest ad industry shocks in 2023 and what they mean for next year"
+    excerpt: "The ad industry dealt with major changes this year, from generative AI to X's big ad crash. Here's what it all means for 2024."
+    publishedDateTime: 2023-12-22T11:00:00Z
+    webUrl: "https://www.businessinsider.com/5-biggest-ad-industry-surprises-of-2023-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/6581d59e1c5c7b8c9a09c4d4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "p0G9IY9Dy2DhZFuzVH9loQKCTdmNSYoWvx/aJbUTVvzEWE3JZEVXxgWNEvCmfzp9No6raI1THOi+zTNFyEFNeRLq6LCgFhYOClM6z+xLJA425Ji+3huyz6pkw7mhTOkRFUlYmZ+9LdzfyC7Ufr0wD9MfJIXDaeMf/Qy0iTwtdtcEZZQBWV3cluNQPwDPg2oKhGw6unxG4Sy6qdTordjrexkRJfGpsysOLGJN0F4nUfiiLhgj6wmTnXDetJRCyChzP9IUbGdTP2a7LzmolGXtNC1ARNa28RlEGvX42yFGRK6zapqliPTSW80eMfpmqNx3loLYLDsghd1b75PGVHLI9SdNqN80le1SMGLeDC/9qW0DSvbKDd0malNbe999vJW1ABRCeVjkra04eRRnfz7CxqI4eZoh6IS9aV+JA0JWBv1WG5lh/k86J6K6z8aOBg8XQugVaJjj+7ytGZTJ1UkAEmVvFSe7AfSSJgPu/iDIQQW6kFEZwTsUVYxlQS8w8mKZcR4QMR25H6RCp8wCbPOzlQ==;ghVl4In8BhwMVBIKUswngg=="
 ---
 

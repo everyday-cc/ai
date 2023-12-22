@@ -55,34 +55,6 @@ related:
         width: 766
         height: 431
         isCached: true
-  - title: "AI Revolutionizing the Automotive Industry"
-    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Revolutionizing Industries: How AI Apps are Transforming Healthcare, Finance, and More"
-    excerpt: "Welcome to the era of AI revolution! We stand witness to incredible technological innovations that are reshaping industries like never before. Among these groundbreaking advancements, artificial intelligence applications have emerged as the game-changers across numerous sectors."
-    publishedDateTime: 2023-12-17T16:56:00Z
-    webUrl: "https://techbullion.com/revolutionizing-industries-how-ai-apps-are-transforming-healthcare-finance-and-more/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 67
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-App.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "The nascent AI industry is being overrun by men"
     excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
     publishedDateTime: 2023-12-21T01:12:00Z
