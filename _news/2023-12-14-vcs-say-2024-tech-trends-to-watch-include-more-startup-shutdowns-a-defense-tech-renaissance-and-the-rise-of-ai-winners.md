@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/657a292d50edbc52a863fe3c?width=1200&format=jpeg"

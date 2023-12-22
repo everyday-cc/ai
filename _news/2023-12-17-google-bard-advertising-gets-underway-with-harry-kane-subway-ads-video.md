@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Google Bard advertising gets underway with Harry Kane, subway ads [Video]"
-excerpt: "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane and subway ads. Google has partnered with Bayern Munich striker and English ..."
+excerpt: "With the addition of Gemini Pro, Google has been advertising Bard a great deal more. The latest involves Harry Kane"
 publishedDateTime: 2023-12-17T13:06:00Z
-originalUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/?n=@"
-webUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/?n=@"
+originalUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/"
+webUrl: "https://9to5google.com/2023/12/17/google-bard-advertising/"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
   name: 9to5google
@@ -18,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-bard-advertising-kane.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "FiE1n02Bv6BIQ2qSmjgWtSUSe12KJLyprGHE0ha8dPCJRd7wtOoWl1Imiipd3PZT6vZXXt/SMEJfaWAItxM0VF99V9cAeUu5jci4Mrwp2/JlJaDD9wn4/BUDaWm4O7Wew+6C3t1gds5g9qAyJQ78iUxt7/wk1r4GuLDH6f92Vo+1fEg7+r05AnCL0g1MZl4qLUw2h38znjT9ef3JCWCWHGiMz06UvkdspYmyNNzLSJwVqO5UDO4SfegLW4QX5aDa9BUoqfvu7oRyftdNQlykB6tkBCHaQgjMyNG8iXTLvuebQpS/GPaWcXWoDUPbdRai/WOtUpsivA3x4PoHpkH/zWbDEoGpI2wnTvqlxsQRlEk=;gcTwpT4VXE2zMdFxvuS88w=="
+secured: "gqQGaAl6X6c9kvgRtzWMcFG2JquThN+j3Jh0crHMsr9KfUZTq6ysrsSWBdXd7N6Ki4jbKBHDXa2wDP3PCilirRn35vV6VEn0ANlcDYq5QF9XL7z4feOrT0ZvJvQcd1aFAg6p1XQPUZnXnZIMB+/BlCVhXIWhWdZvsWN3pRzpWOXpd192x2/xJKfYF04fkPyqiX8/whRl562POeTdMnOqhC83NqtmJJ0b2veX4OWXlnpT5Y8ZKjdIn+umXoAUUtakpaMZIOtVWTQo4Y1pLZQGCOR+p2Y9RIpjzeWiN4WQ5LNdlj43gZ8ht7oJAXHwynSvUtlZA/ff7Er8wiU3fLlK+p4L8GzLN2Kk/ZIIpd4zgSGO9AWwy4n+joi3LAuyixnb/SFnHwkT+P+Ad546dub79U6+QU2GopfO59hiONUn1Yn1zP5gQt59rAW8hW7PmGpZ3DvFfTdcWhakvargNXEjyAFdiLpIx5+QmyQ3IFu4InLl8uJcanw6evE/XKOfNp/FnJRptebI7Vxo2SzvSUMhag==;EUZIe9ygx+ljERdEf2OJRw=="
 ---
 
