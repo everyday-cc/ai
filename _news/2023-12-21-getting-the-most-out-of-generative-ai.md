@@ -1,25 +1,31 @@
 ---
 category: news
-title: "The Premature Quest for International AI Cooperation"
-excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
-publishedDateTime: 2023-12-21T05:48:00Z
-originalUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
-webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+title: "Getting The Most Out Of Generative AI"
+excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
+publishedDateTime: 2023-12-21T12:00:00Z
+originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
+webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Foreign Affairs
-  domain: foreignaffairs.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
-    width: 1200
+  - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 945
     height: 630
     isCached: true
 
@@ -39,22 +45,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1347
         height: 900
-        isCached: true
-  - title: "Getting The Most Out Of Generative AI"
-    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
-    publishedDateTime: 2023-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 945
-        height: 630
         isCached: true
   - title: "Tackling Ethical and Security Concerns of Generative AI Models"
     excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
@@ -198,6 +188,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "The Premature Quest for International AI Cooperation"
+    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
+    publishedDateTime: 2023-12-21T05:48:00Z
+    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Generative AI Startups Are So Dependent on Big Tech"
     excerpt: "Generative AI has developed at a breakneck pace, and Silicon Valley's corporate giants do not want the technology to run away without them. In January, Microsoft's $10 billion investment in OpenAI catalyzed the funding stampede of 2023,"
     publishedDateTime: 2023-12-20T23:20:00Z
@@ -272,6 +276,6 @@ related:
       domain: cointelegraph.com
     quality: 14
 
-secured: "+G1p9t6hIeKFkAgDMNeIqlG1zDuh+cgmooqohfduyYtwlMzmnJVU7wnItcm/UnsR5nxOTXs8N7mxouoclyAXUes7eqZqJzfl9ngsNC66SCdEsOxwzAtgQi0HRk3k7ZUiKWZothycsQQFlATCASDZPT9Mc4nijd82tyQpX3fR81DYQVg/OScqt535grnS5wCeWrEAgw3TGtS6NhdNPhuPajXNXXtVS+Vp9Il/eUbjF0T5Ziy2CGW9rxEF7Y1KD3u+bt+O20w5dyfaL4ypHkYKFXmKDiCrns/+1hs0AEzWghoORBXEGd8JqqNjz9B1G8zdogYAqrdPss2jwvBIyQ2TulkYrjSV2Vijr7Y8SciDQfk=;ojb1DpOJB7tB+QgYW0GNYg=="
+secured: "SQ9Ulbv/z23hr5ea/C+9dc9rAGEErQjy/anJ6jlJ7889jNw7zEEYk2xZCDc7CKy5fcy2sxs4R7x5Wh7UAzJrP0SWoyCfkpoy8QJQXjN2PELFFQ0nIvjiqq0K+JpS4+N7hiahWJmNl9vWeu1J8UZ31E/f5pRALdSBxmDb0XPCxxgXkyc285emtEtTWH0kab6PCaUQ9bpz3qTIhyJVaPLLF7LV3Dd7Zsm+NULgo6D/fzwRoCktLCr7yHxLijeXkkobeGnF2bYJJ7fQZ9ukqaPvif6eCQqGGM/UmgmYcgd3sVOU1pVoarSlMMNiP6yVLCMJPaYM++5Cmj/SxA62Rcq/kw8tS0PqerEExTcheY99S0A=;fWKE8EJNXYl3zdN9vaZIfQ=="
 ---
 

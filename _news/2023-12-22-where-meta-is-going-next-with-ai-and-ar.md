@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-boswo
 webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
 type: article
 quality: 67
-heat: 97
+heat: 100
 published: true
 
 provider:
@@ -66,6 +66,6 @@ related:
         height: 500
         isCached: true
 
-secured: "At4wpx7vJa05dnva828g4dHcrM32Q0SfJlidxcnVurQmOnziXX8wR2m9DwwhbyQjWg9ZUuy/t5a0okQLkF5SemLCEF/9tzNK08IFV6Mb4R/WOwAzvMlMnzzKAbCuv9mq7azE98kSr4RDHMgymyjMgj4Q7SZZobJtd0RhEkodfieZ2Up54/+pJpJqDDIyNjquIXuxbkrzlGNermeXF1OHX7PdqEpHvwQYsvs5ib9vmwEGIzLclqo3t0V0WKNQdItme7kfsc4LqkqNjbrRgvEEDN9RB1dSN1laQYYxthkmI+WiaetgRWe7YyNqdETjmqZnQzvEukxRXqdzmeCbLpk+4EVY5XPWoorQpB8L9njTBmQ=;igSS0gzhuaksPVGubxRehA=="
+secured: "fSiMQAyJbDeFwOXrgGtA2YRUz8ajB8TLQZB7WwQRfxonLtxwaVy9lG7AvBbiWk38sS3+Amrz5MAta4AItN6JAcTFBm3gXCbDHKO7BV5BGlvdbXCuox48RyVTopcv5lDwaAnrqCKPvidUArkEoyLfPqd0FUBbDVb3X7Mb133WA4cfmKFLwDV9+x1ZNHPWrblfMWRh/0xHFdOH6Gf1AlGtl7Mu9lJtG2g2WeXSxNKcaZHCXKlfTxM5H8M4Af3nD2ahRUn1qrKjXlGLX1ONN8IFbXD1UjOCbu2Okryd+4cX5sDTNg3TGYcM2m+fpZIkN9bF1ekQoVT1fRn5ActHb0Y2Z37PnAbH50O5JoSDgzHFytjJyjAOMJygiQoRDIcBMM3nKCTVpI7xIRuxkRDydwKzGEpxV5RvlYI4oYOapI+tKviDQpPa2ZvPyo48+ElBJ0tuapmpC+yhpSpH7H1CP0K+tGklyFfYSSdRPjDAKh78s/2UKztl254HllBgQR3CQi3UF0gah2wcI5raD12C6d0doQ==;y+5RQeLbOjGRASCMIs7PkA=="
 ---
 

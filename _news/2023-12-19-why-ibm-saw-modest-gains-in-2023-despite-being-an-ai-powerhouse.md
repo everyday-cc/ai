@@ -1,26 +1,28 @@
 ---
 category: news
-title: "IBM to Acquire Two Enterprise Data Integration Platforms From Software AG"
-excerpt: "IBM continues to invest in AI and hybrid cloud with the Dec. 18 announcement of a definitive agreement with Software AG to acquire StreamSets and webMethods, two integration platform-as-a-service enterprise technology platforms. The deal is expected to close in Q2 2024 for $2.3 billion in cash."
-publishedDateTime: 2023-12-18T19:13:00Z
-originalUrl: "https://www.techrepublic.com/article/ibm-software-ag-enterprise-data-integration-acquisition/"
-webUrl: "https://www.techrepublic.com/article/ibm-software-ag-enterprise-data-integration-acquisition/"
+title: "Why IBM Saw Modest Gains in 2023 Despite Being an AI Powerhouse"
+excerpt: "On Monday, IBM (NYSE: IBM) announced a $2.33 billion deal to acquire data integration platform StreamSets and API management/integration platform webMethods. Both platforms belonged to German multinational Software AG as iPaaS (integration platform-as-a-service)."
+publishedDateTime: 2023-12-18T17:31:00Z
+originalUrl: "https://tokenist.com/why-ibm-saw-modest-gains-in-2023-despite-being-an-ai-powerhouse/"
+webUrl: "https://tokenist.com/why-ibm-saw-modest-gains-in-2023-despite-being-an-ai-powerhouse/"
 type: article
-quality: 33
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechRepublic
-  domain: techrepublic.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tokenist
+  domain: tokenist.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://tokenist.com/wp-content/uploads/2023/12/141236670_m_normal_none.jpg"
+    width: 2508
+    height: 1672
+    isCached: true
 
 related:
   - title: "IBM makes $2B+ deal to add more AI, cloud computing solutions"
@@ -55,21 +57,16 @@ related:
         width: 1031
         height: 683
         isCached: true
-  - title: "Why IBM Saw Modest Gains in 2023 Despite Being an AI Powerhouse"
-    excerpt: "On Monday, IBM (NYSE: IBM) announced a $2.33 billion deal to acquire data integration platform StreamSets and API management/integration platform webMethods. Both platforms belonged to German multinational Software AG as iPaaS (integration platform-as-a-service)."
-    publishedDateTime: 2023-12-18T17:31:00Z
-    webUrl: "https://tokenist.com/why-ibm-saw-modest-gains-in-2023-despite-being-an-ai-powerhouse/"
+  - title: "IBM to Acquire Two Enterprise Data Integration Platforms From Software AG"
+    excerpt: "IBM continues to invest in AI and hybrid cloud with the Dec. 18 announcement of a definitive agreement with Software AG to acquire StreamSets and webMethods, two integration platform-as-a-service enterprise technology platforms. The deal is expected to close in Q2 2024 for $2.3 billion in cash."
+    publishedDateTime: 2023-12-18T19:13:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-software-ag-enterprise-data-integration-acquisition/"
     type: article
     provider:
-      name: The Tokenist
-      domain: tokenist.com
-    quality: 39
-    images:
-      - url: "https://tokenist.com/wp-content/uploads/2023/12/141236670_m_normal_none.jpg"
-        width: 2508
-        height: 1672
-        isCached: true
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 33
 
-secured: "5QUvpKGQnkpKSH0a656LemD1sumcX9SokVruusts0roQNxCSc0ilpy2hKzu5TaQCWV8Km+arKBBZsebNBRPUsWlnTsGH15Ys/qx2i+jYsbpO1x8cwFdk+Fryn/Lnk5X2XkaTK96nPsynx/n1P3mNclW4EzhCIn/Jdj3GE5MMlYuOUWGTc/ZpcwsL+PqPlB3Juvn+xgKg9u4RwAd2DFm74QDs/u/6TqMikpwEzmiUml+e8MvrRIJI0aO/CRPGFWO7V8kS3SkAm694u1TB1wXqVaR4gpG4vM+jLJGRdjd7U8tQFa+/BEOCpgk733Vs/UB0tlGsh9Bb4bYPcOE6oBsDSB1MK6rQvxLBmHXnmZNxh+37qwab/1z/VfjtjdVI13+W7uFshOroiG/Zes+8lBpWuosj5iSH+IGpdrJZi7bKts30CGDOKYQqeVZhpt1bLRUKcSGley2BnNIkIaht36iKt0PPpBQxfZXWmphY2QZZRHTWAZeN5Ig9gdGjO85SuBAJpsjwp5BGjkY8wrgZGLxmxg==;vpCjzLjz67pu90y6WxZeAw=="
+secured: "NpGlHRzGzlZYj3hd2MPT/Tu0AIhhgEhIBhcMF5I1AAFEOZKXdEOY0jNvOXL5j4pRLtbS+ajLtKxReMdEi4H2U00yqk8q0b8P7Thbgi64zi04Ai9KUOwGTO4nKE4TrPerR7Q+LkQ33+WdPpw1sYx7oFWBqB/WzCz1zrEOaQipLzXQZ048iKBDYEq8iSPSFy0iaOU8aXRHfT1mz5FWQiO0PSGXZixJBw9VqPCgZu0W6pK+2hDdQrPLvyheSvdQzCGx1l0JbpHgUJJFXk5ZqQ+QqJc58sqCvgx/01AaMxwUxd2Fssmipy0cvfT6DJaTVqvBp9pC3lMA4ySCJ/RrVLdMiZu+dKQXOuk9gsHpDIMo9AA=;KLLRJiKabNCl5bL0g7LVlA=="
 ---
 

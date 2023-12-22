@@ -42,6 +42,22 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "Getting The Most Out Of Generative AI"
+    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
+    publishedDateTime: 2023-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
     publishedDateTime: 2023-12-19T14:59:00Z

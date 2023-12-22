@@ -39,19 +39,19 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Healthcare Companion Robots Market Projected to Hit US$ 11.73 Million with an 18% CAGR in the 2023-2033 Forecast Period-FMI Study"
-    excerpt: "The healthcare companion robots market is expected to grow at a pace of 18% CAGR between 2023 and 2033, according to Future Market Insights. By 2033, it is projected that the global healthcare companion robot industry would be valued at US$11."
-    publishedDateTime: 2023-12-20T06:15:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/20/healthcare-companion-robots-market-projected-to-hit-us-11-73-million-with-an-18-cagr-in-the-2023-2033-forecast-period-fmi-study/"
+  - title: "Eldercare-Assistive Robots Market Surges with a Projected 12.4% CAGR, Aiming for an Impressive Valuation of US$ 8,096.3 Million by 2033"
+    excerpt: "The eldercare assistive robots market is expected to grow steadily at a CAGR of 12.4% over the forecast period. As of the year 2023, the market is valued at approximately US$ 2,508.1 million, and there are projections suggesting that it could potentially reach a value of US$ 8,"
+    publishedDateTime: 2023-12-22T02:38:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/22/eldercare-assistive-robots-market-surges-with-a-projected-12-4-cagr-aiming-for-an-impressive-valuation-of-us-8096-3-million-by-2033/"
     type: article
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 27
+    quality: 22
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Healthcare-Companion-Robots-Market-1024x683.jpeg"
-        width: 1024
-        height: 683
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Eldercare-Assistive-Robots-Market.jpg"
+        width: 999
+        height: 633
         isCached: true
   - title: "Autonomous Mobile Robots for Logistics and Warehousing Market Set to Dominate with a Projected 22.7% CAGR, Eyeing a US$ 17 Billion Market by 2032"
     excerpt: "The market for autonomous mobile robots for logistics and warehousing market is predicted to grow at a CAGR of 22.7% throughout the projection period and will account for US$ 17 billion in market share in 2032,"
@@ -67,15 +67,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Global Animal Artificial Insemination Industry Set to Skyrocket at 6.0% CAGR, Projected to Reach US$ 3.91 Billion by 2033 | FMI Analysis"
-    excerpt: "Future Market Insights (FMI), a leading market intelligence firm, has recently released compelling statistics indicating a momentous trajectory for the Global Animal Artificial Insemination Industry."
-    publishedDateTime: 2023-12-20T13:46:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/20/global-animal-artificial-insemination-industry-set-to-skyrocket-at-6-0-cagr-projected-to-reach-us-3-91-billion-by-2033-fmi-analysis/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "OFQ2gyRDAY+LLvZbecTVZ9PW9dp1F9gdX29eSv+W+HqP5VMsxv9uZuwQoc6UWirx6qso/V/slexVXRy3yBTGPg6zpYhEFibatKrT3PZ89mMTLsbLTjCjkFLlIlrO+tZ28UX6lkrqdvC+Wsqv3VoP/EAnn4/O2eZHzopPIjVx5HFxYPEj3u1wLb4pKoFXGPlAcd11f5exH2gmUBIMZiy7H/8HPfeUdLR4G8NXr7QC873cjHzat0e0Zm8YGROLfoZ4cYUbGnVnDQN3OobkTscB5v6YNHWCi9CFBIRg7U9KjKHvWgfmHGMMGg5EnqOue21Gu449IErBg7AF28SfoxPLt5TME4SeiIMgLPhhXvbXVR1+/vDNzUK9UJuZEjWNdZv7oLx17MesRAgS6g6j2ZCw1rCFte5bah2+WtNKPfHSpJ8jPjCIdbVpYb/49Xeg3tP9kKAx2uqKmpyYTeWCDKUTIAohq9i/GeCKqZT3KNghFuhLckMy0ZzpkA2GIwzVYDfoMRZE0oAK1T2u2tjz3goEnw==;DUrdHFKVqSjV0fLy0JR0Qw=="
 ---

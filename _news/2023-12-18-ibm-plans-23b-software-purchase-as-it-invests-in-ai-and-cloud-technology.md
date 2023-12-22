@@ -43,6 +43,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Why IBM Saw Modest Gains in 2023 Despite Being an AI Powerhouse"
+    excerpt: "On Monday, IBM (NYSE: IBM) announced a $2.33 billion deal to acquire data integration platform StreamSets and API management/integration platform webMethods. Both platforms belonged to German multinational Software AG as iPaaS (integration platform-as-a-service)."
+    publishedDateTime: 2023-12-18T17:31:00Z
+    webUrl: "https://tokenist.com/why-ibm-saw-modest-gains-in-2023-despite-being-an-ai-powerhouse/"
+    type: article
+    provider:
+      name: The Tokenist
+      domain: tokenist.com
+    quality: 39
+    images:
+      - url: "https://tokenist.com/wp-content/uploads/2023/12/141236670_m_normal_none.jpg"
+        width: 2508
+        height: 1672
+        isCached: true
   - title: "IBM to Acquire Two Enterprise Data Integration Platforms From Software AG"
     excerpt: "IBM continues to invest in AI and hybrid cloud with the Dec. 18 announcement of a definitive agreement with Software AG to acquire StreamSets and webMethods, two integration platform-as-a-service enterprise technology platforms. The deal is expected to close in Q2 2024 for $2.3 billion in cash."
     publishedDateTime: 2023-12-18T19:13:00Z

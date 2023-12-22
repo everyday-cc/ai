@@ -34,6 +34,22 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "Getting The Most Out Of Generative AI"
+    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
+    publishedDateTime: 2023-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Tackling Ethical and Security Concerns of Generative AI Models"
     excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
     publishedDateTime: 2023-12-19T12:14:00Z

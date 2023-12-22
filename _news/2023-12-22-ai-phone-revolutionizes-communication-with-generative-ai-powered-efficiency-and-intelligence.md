@@ -45,6 +45,22 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "Getting The Most Out Of Generative AI"
+    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
+    publishedDateTime: 2023-12-21T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Tackling Ethical and Security Concerns of Generative AI Models"
     excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
     publishedDateTime: 2023-12-19T12:14:00Z
@@ -261,6 +277,6 @@ related:
       domain: cointelegraph.com
     quality: 14
 
-secured: "6vut6OERxV13IJR5ClpHN7Ypv2Uif4eIw3JNQMM6XyDFZ2LKcgWGiAo91f+EFjaeE021YWE7lQtB+IfDjYqm6EGf2eaFrr9I/YkaPhrkGbOYtf9crUi+7F+AXtLviKIVWRoybF35wYN7ORSFIOs/QzHKCZyCaZRjmc3hAq0XUTa0l57nBmMjHvOYSFrwh0OY58WHA7wZ96+nUbKGkmrTT+EEvSEEFslbw/m91OhpCJEfn8cJWExuKJDsst/H0C8YzcDpi3YGxBZyaQrbQhWapB0Nptfo5yiqljF9AApnEaWecGqBKoQGMrgZeGG8wl9hWv8ipwUyHSa7c4KdMGJ37Ky4nmWhbMs4wXCvWkp4YSQ=;hltX8uD18BcxlCO1DWHDmA=="
+secured: "0g5yJ47qXyqZEIbn8SIa9Lnd2qvG6pAd+kls04YjlcsalrNgJOvG8z73lUpO96vM+SSHXQB088egH4Oln6ISicXZ7G942SqpxtITZLld76DbicoQhBoCFFYFGz/ro/WKj+xPLLKWy3Ud/O5pc7Yo4YZn0MaCDHh1PZb1zz5/nMlmh5WWGN7nAYxbrlnwoh6CsDbYbruOMqL8UJYKOcAZJLOfLBThtB6iTdzT1GITMm+xPgFaHKTsq/FR0xZKMv6wJLMoMin5/9dmMHzCQbX7gNyvOSnTOOh6bUF3ntgETTBFdd7paiVKwVtNwr97uco+xib3y9USwPh+4JDKeU70XFoU8nb+TrEQKeHjonXgPd9NYAFe3QWEvy/+v0Ks77mbZfwBhxPlb/dIvG93qVY+ZgrgpWXJOsp3ep5jB6tNmGh470+UdOPGxUkHE2FqLGeeNWAgFVeHbdFn0/ScZQ17hspUhCnByq+50Q90owQ1YFASfqAQau7ZVka2e2UeHwZ9sguhVO0azyJKu3k9cHmWDg==;d48OlPWBN9dSLPeFcI573Q=="
 ---
 
