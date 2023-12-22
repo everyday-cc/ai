@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3711802/qa-how-athenahealth-mo
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

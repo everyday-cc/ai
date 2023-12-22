@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-22T04:42:00Z
 originalUrl: "https://www.fmiblog.com/2023/12/22/artificial-intelligence-ai-in-automotive-market-set-to-surge-with-a-55-cagr-from-2023-to-2033-fmi/"
 webUrl: "https://www.fmiblog.com/2023/12/22/artificial-intelligence-ai-in-automotive-market-set-to-surge-with-a-55-cagr-from-2023-to-2033-fmi/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/FMi-logo.jpeg-1-420x300.jpg"

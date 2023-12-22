@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "When will you die? Meet the 'doom calculator,' an artificial intelligence algorithm"
+    excerpt: "Danish researchers created the life2vec machine-learning computer model, which was able to correctly predict the deaths of millions."
+    publishedDateTime: 2023-12-22T00:03:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2023/12/21/artificial-intelligence-ai-death-calculator/72003778007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 11
+
 secured: "lmYii3lu9V3zMlu8sSAZ8aJANVfq51QMIRfk6mHThmB2Mqhsg6wlyIaYjfhcqjOK8JdEag0kVv1V8Saz5zUYVAruQqiFOnzn4LUggph7SOp8DklyjW2Vql4tW7ecsqtPsBzv4c+hecWMr57H+QrTYYUhYsUqjhef7Uc9NgVHw1W1S96GoYY989Uejr9o8lqXEVLB+CRHI84ityLzvJ0oWem1IASHpQgt+8zxTvg9apC8z60mcR/v8H/UtMa3auZqoC9p7s8LyULYqOlehLWjJIvJ8cp/lPFaLVQq+UfPTJBt6sBFIlRY29VQO+wF+TJwDZVPadVxNuL9bhIB0y+5lk4cr+B/DyqW1D2f+8NBaOI=;WC/6EGRpVt48hcczx8JY2w=="
 ---
 

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple’s new AI research could totally transform your iPhone"
+    excerpt: "LLMs are the backbone of AI chatbots and assistants, such as Apple's Siri, that can converse with humans and provide useful information and services. However, LLMs are also memory-hungry, requiring gigabytes of RAM to function properly."
+    publishedDateTime: 2023-12-22T05:06:00Z
+    webUrl: "https://interestingengineering.com/innovation/apples-new-ai-research-could-totally-transform-your-iphone"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/22/image/jpeg/rVZ2flIcsE9EjvaTTHEjE37yhPZlcwT7Q0BVQJYO.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
     excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
     publishedDateTime: 2023-12-21T12:38:00Z

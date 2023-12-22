@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
-    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
-    publishedDateTime: 2023-12-21T13:11:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 16
 
 secured: "cBhcy1jaX8yGe6qMfUaRQ4j+obZkAHN3b698SCnMzYlLrMMV0n13dUIGU5sUzw0EU1pQdiLv5lDiihYVKWC0fbStKzs0Z22dhzieHPBAfqrZv1rF4YdO9WOCtZukdiyDXMkgLk80P5BDnk0qJ3QZaSqWxWAkB0wYD16F82PHfuocPT85lbfh+Ohvg4f4zpZ9DxuLC6/iY+VIZjqBjnxLZoKIzDKX/EpkPP2RThs73xsN2KkXaPuBnYMRKyJOylOm4CuXvpfNeff+/kBrGbm2xq1uK4PFEua4V06+/64S7ABiWGOOiC3zvPn8xaVacBYvWyVlit31q/ISoW7jnrGzxs1rVFgnVTOxhIcA1VkyEEI=;3QG0/URdXUBvH+r6PA36Nw=="
 ---

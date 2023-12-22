@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Apple wants AI to run directly on its hardware instead of in the cloud"
-excerpt: "While Microsoft and Google have largely focused on delivering chatbots and other generative AI services over the Internet from their vast cloud computing platforms, Apple’s research suggests that it will instead focus on AI that can run directly on an iPhone."
-publishedDateTime: 2023-12-21T14:42:00Z
-originalUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/"
-webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/"
+excerpt: "Apple’s latest research about running large language models on smartphones offers the clearest signal yet that the iPhone maker plans to catch up with its Silicon Valley rivals in generative artificial intelligence. The paper, entitled “LLM in a Flash ..."
+publishedDateTime: 2023-12-21T06:43:00Z
+originalUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me"
+webUrl: "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: Ars Technica
@@ -21,6 +21,23 @@ provider:
 topics:
   - AI
 
-secured: "7xr2ogUtbplnenmcjAd1zfSxz2lqKXvVijI/Kr3ZSh7blQ8jsI4r9+026OA3PH/DvRB+GfRozwhfM2eofkf4WnnQEcBvphtiJQjJQ79tZIs3PF4z5vyZEaT60op0AFgBUf7FLdE+ybTdayxV+pOzgjhQsdMB2ghsRz8aoaoibavauibqcMHbrepN00D6OmwXI1zJWjbeiwBFobc1z3GoFMHDFcRi9DrYzWPrW879jcq59I31K9SiezyPkFA31cRoFN/qDcASm2o0JbpI3CCNHkFcTpJ0qIm1jPDXHnjYJmLlF4D1Wx7U7kSJwTOgV6LR1HIll7hC2qIyqu8kxQxd8xaRN0KaBQFBSMR38fAf0BhYaWdgqHu1O3O231m/Apg8TPi0WSErtnoCRPGWD5LFvVNLiwYHUyEk31wNn2LjpZcQqoO507wjtFZ/9Oq2dpXJUdGVsP6KAp1ejgVdfsQ31kFl/QwVG5dIGUopTY9Kb4BUi0Mnk6StwPrbVflpqZuD8sKILjT94iOK8SKf8i2TUA==;MzhbrKnYvIjgMFblDarUKA=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg"
+    width: 760
+    height: 380
+    isCached: true
+
+related:
+  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
+    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
+    publishedDateTime: 2023-12-21T13:11:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
+
+secured: "cfTnkUUR+QB20lnIysG5AhNVFJPm+1F1hkWfKUbwMHnvtUDDMzPglobkXiCGPCoYjM8SRHnPIJwm/aY7SAMPGY8FX5ThTrEazzXZSBRKfM2WIsVnMy6H+3yzZk8Yc3OIpskdGZn2VaUbgKLuW+L2g3cksme360M3hI+usgRKWL0s3guD07PDbtKLjNo6H1Ik1EBzq2EYsPLgW7eKSitiOrAW+kw4gLWjj7irOe8PmWqfa03W2CWWTMA6b+ZNKAjKvOR/vhty0xstHm38bTYbADTxZi3zPJPlk4JBBNCCA6r66OVYDnqK7cX6AoTEQICBA4lg4ZmoKkSlQNzosIJVEmk5G2GYky7Z7qE8HvL8Ld8=;nnIXb22k5DO8PVmB3A0GEA=="
 ---
 

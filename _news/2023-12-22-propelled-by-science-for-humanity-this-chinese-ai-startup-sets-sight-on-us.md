@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 96
 published: true
 
 provider:

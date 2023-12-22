@@ -34,7 +34,7 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/FMi-logo.jpeg-1-420x300.jpg"
         width: 420
