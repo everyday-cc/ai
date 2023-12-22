@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/new-generative-ai-powered-saas-se
 webUrl: "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

@@ -26,31 +26,38 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?"
-    excerpt: "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text."
-    publishedDateTime: 2023-12-17T01:00:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html"
+  - title: "A guide to navigating the next-generation robotics wave"
+    excerpt: "The fusion of AI and robotics promises a transformative wave for industries venturing into large-scale automation."
+    publishedDateTime: 2023-12-20T14:01:00Z
+    webUrl: "https://thenextweb.com/news/guide-next-generation-robotics-wave"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 69
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 64
+  - title: "Navigating the Technological Tides: A Review of ‘The Coming Wave’"
+    excerpt: "Drawing from his experiences as a co-founder of DeepMind and an influential figure in the artificial intelligence community, Suleyman weaves a narrative that delves into the profound societal implications of emerging technologies. As I peruse the pages of ..."
+    publishedDateTime: 2023-12-18T00:00:00Z
+    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/12/18/navigating-technological-tides-review-coming-wave"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 24
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png"
-        width: 1600
-        height: 900
+      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-12/Coming%20Wave.jpg?itok=-5xBYhRW"
+        width: 480
+        height: 319
         isCached: true
-  - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
-    excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
-    publishedDateTime: 2023-12-18T02:06:00Z
-    webUrl: "https://beebom.com/google-gemini-ai/"
+  - title: "Here's Google's strategy for navigating the 2024 US election chaos"
+    excerpt: "Google is taking precautionary measures ahead of the 2024 US elections to combat the spread of AI-related misinformation, including requiring disclosure of AI-altered ads and notifying viewers of AI-generated content in YouTube videos."
+    publishedDateTime: 2023-12-19T19:09:00Z
+    webUrl: "https://www.androidpolice.com/google-2024-us-elections-ai-misinformation-policy/"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 19
+      name: Android Police
+      domain: androidpolice.com
+    quality: 4
 
 secured: "6YBuzdcon/3PQBHvzr4zWKJkR73J+hLXc6ssX3/dbaSy7RiptEQPjemhPArHe9h8fBTse5PpZpOZ0m9UHyU/WQkQ15RmpuhBN1EOgxWKuoMTuXorjYou5lXym6MYypX9VzZZaoN+1tqU4Yv7RvTcMWN7/6ePAs3Uz7DbYH91OZP5AMY0wjwONRpmWNgbarbon1ITc4U6HB+VS63rRvTqLqgIrxDzmQH0/UCFhq1Gw8nbwqGFZ/frNqh6o2xLgN6AXP4mkymfo2jhEACPNIy0hV/zQlPrHnmif+zbFeWD7AxVp1EzsTHeYufRrtNzsXBv0eh7n59fY10Gbe5FTtonIGlGD75beso39c+MtLkLA29LhxqycDNpSdxPwvx5Xwl84DpWmOcGagTTaLB1KB3m7A9uCf0SmynNskdlZHgIoEJ8mpcEUh2zy2cOXdPT0K2WeIlfDqpeHi5hmpi+uUj4olfyvm2y9nvKhUMo8+u55iBpsiylFdenDykgR4/aQg/45jKQSuSMIT/6FMsVHWKRRg==;oIA5QPdkqGabwVIl5s+3Zw=="
 ---

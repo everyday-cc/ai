@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-
 webUrl: "https://venturebeat.com/ai/the-widening-web-of-effective-altruism-in-ai-security-the-ai-beat/"
 type: article
 quality: 86
-heat: 88
+heat: 86
 published: true
 
 provider:

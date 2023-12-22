@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-disco
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
 type: article
 quality: 57
-heat: 97
+heat: 98
 published: true
 
 provider:

@@ -57,20 +57,6 @@ related:
         width: 1067
         height: 800
         isCached: true
-  - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
-    excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
-    publishedDateTime: 2023-12-17T00:45:00Z
-    webUrl: "https://www.inferse.com/842172/openai-chatgpt-vs-google-bard-which-ai-chatbot-is-the-real-disruptor-business-today/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
     excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
     publishedDateTime: 2023-12-19T12:02:00Z

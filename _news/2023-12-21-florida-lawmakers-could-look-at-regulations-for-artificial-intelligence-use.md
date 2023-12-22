@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
 type: article
 quality: 57
-heat: 117
+heat: 118
 published: true
 
 provider:

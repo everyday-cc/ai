@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 type: article
 quality: 67
-heat: 137
+heat: 138
 published: true
 
 provider:

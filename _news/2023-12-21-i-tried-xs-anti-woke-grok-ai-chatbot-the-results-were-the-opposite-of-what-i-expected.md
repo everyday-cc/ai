@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
         width: 1067
         height: 800
-        isCached: true
-  - title: "OpenAI ChatGPT VS Google Bard: Which AI chatbot is the real disruptor? – Business Today"
-    excerpt: "FeedbackEver since OpenAI introduced its AI chatbot, ChatGPT, in November last year, we witnessed a sudden rise in generative AI chatbots in the industry. One"
-    publishedDateTime: 2023-12-17T00:45:00Z
-    webUrl: "https://www.inferse.com/842172/openai-chatgpt-vs-google-bard-which-ai-chatbot-is-the-real-disruptor-business-today/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 48
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/12/wp-header-logo-8704.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google rolls out upgrade to AI chatbot Bard across UK"
     excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
@@ -112,6 +98,6 @@ related:
       domain: diatribe.org
     quality: 17
 
-secured: "spGr9tQSr3wPE0BG7E3Fxvutzgxd4feifh/ggbcUnWGtgI8xqpgqswmB5vf7snpn/qnHFYcokBR/HUtWFrKa0HwBLXXy/z6j8wp2+if3Mslhn3KnQNG766+zcC/dha7zDa/cUERowLIynR6hvPvxX9wrsTnU6egS7KlsLK3bVCQsNcN4eQlRavmkx5suMqLlpWqQaQzP6k0nErDSVnS0gTE1gESUIgRbu0L4cXBYhDJxYf8fTwA/DtS/bCMABXi0aDbe4Dv53dNF5BJJaqjM5mOV84DBRqByn9SpUoLUuUNG8/h9DTxyU6uXKcK+ZF1SUFda4ouR4KgH0telR5cSThrrDMkYjaOEY1+PHUGhA84=;rZbv3lxosiKhd7GTQo15bQ=="
+secured: "2hMT6OvbSvYaLLInq+ZVN1uCc73n6n7YDXzPBfOLi/AscqGKfTTPWtTpeT7LRH7Cafb3uZTpiUZYA8WSToXRGxlBlhqeGoHcnN1jTZAd6GfzPHedx5rZ37AW/fV+tB2E6zII+ar2ocFskhuZ5hboGhmRuyj8KiC7uwiJAANh/uBhq3ANDB9bgSrhi1YSSgsJhAvQPfb470gHPZ/L+ooIPI5KsMdzSdK7otbPVY2q7TDZHjojEZjJyV9MkUlBMfh8IF2ebM9apklLh06+/5H8M4YjN65wVPFaAs1xShkU0gpX+3WBdmNh12sd/eG4KsZ3sg3MBEj/ErHyKspvsP65o6p/Rag4pAzSkuLQ5CX4P7KHOpgx2oQnmHU0ILRUP4Y5Ah+90f0ZAxyLYZk1BvKRjvOcO9qK5RNx0zYrSOwCW9uLF6QW60sipjdjxuSpbX6cFXeihIVGYrdgGHpFuPrUzMIHPWmYBc6lPZGDd57w81kLPv4KosUvJTemWTJEHyjm6Hd6yM8B/dsJvO3o2X9y5w==;QqaOICsPWtoVq2OynlIaoA=="
 ---
 

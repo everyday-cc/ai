@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/ibm-software-ag-enterprise-da
 webUrl: "https://www.techrepublic.com/article/ibm-software-ag-enterprise-data-integration-acquisition/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,40 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "IBM makes $2B+ deal to add more AI, cloud computing solutions"
+    excerpt: "IBM is investing more than $2 billion in cash to bolster its artificial intelligence and cloud computing lineup by acquiring an integration platform as a service suite from Germany-based Software AG."
+    publishedDateTime: 2023-12-18T15:32:00Z
+    webUrl: "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "IBM plans $2.3B software purchase as it invests in AI and cloud technology"
+    excerpt: "IBM announced this morning it plans to buy German software company Software AG’s webMethods and StreamSets divisions for $2.32 billion, The Wall Street Journal reports. The acquisition comes as the U."
+    publishedDateTime: 2023-12-18T14:42:00Z
+    webUrl: "https://www.businessreport.com/business/ibm-plans-2-3b-software-purchase-as-it-invests-in-ai-and-cloud-technology"
+    ampWebUrl: "https://www.businessreport.com/business/ibm-plans-2-3b-software-purchase-as-it-invests-in-ai-and-cloud-technology?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/ibm-plans-2-3b-software-purchase-as-it-invests-in-ai-and-cloud-technology?amp=1"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 57
+    images:
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2019/06/IBM.jpg.optimal.jpg"
+        width: 1031
+        height: 683
+        isCached: true
 
 secured: "5QUvpKGQnkpKSH0a656LemD1sumcX9SokVruusts0roQNxCSc0ilpy2hKzu5TaQCWV8Km+arKBBZsebNBRPUsWlnTsGH15Ys/qx2i+jYsbpO1x8cwFdk+Fryn/Lnk5X2XkaTK96nPsynx/n1P3mNclW4EzhCIn/Jdj3GE5MMlYuOUWGTc/ZpcwsL+PqPlB3Juvn+xgKg9u4RwAd2DFm74QDs/u/6TqMikpwEzmiUml+e8MvrRIJI0aO/CRPGFWO7V8kS3SkAm694u1TB1wXqVaR4gpG4vM+jLJGRdjd7U8tQFa+/BEOCpgk733Vs/UB0tlGsh9Bb4bYPcOE6oBsDSB1MK6rQvxLBmHXnmZNxh+37qwab/1z/VfjtjdVI13+W7uFshOroiG/Zes+8lBpWuosj5iSH+IGpdrJZi7bKts30CGDOKYQqeVZhpt1bLRUKcSGley2BnNIkIaht36iKt0PPpBQxfZXWmphY2QZZRHTWAZeN5Ig9gdGjO85SuBAJpsjwp5BGjkY8wrgZGLxmxg==;vpCjzLjz67pu90y6WxZeAw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp"
 type: article
 quality: 71
-heat: 131
+heat: 132
 published: true
 
 provider:

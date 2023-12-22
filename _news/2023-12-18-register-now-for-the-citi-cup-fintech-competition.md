@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 1188
         isCached: true
+  - title: "The Future of Finance: Exploring the Best Fintech Companies"
+    excerpt: "Are you ready to step into the future of finance? The financial industry has undergone a major transformation in recent years, thanks to the rise of financial technology or “fintech” companies. These innovative startups are revolutionizing the way we save,"
+    publishedDateTime: 2023-12-20T10:24:00Z
+    webUrl: "https://techbullion.com/the-future-of-finance-exploring-the-best-fintech-companies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/FinTech-Companies.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "F|T: The FinTech Times – Synctera and Monarch Money seek to fill Canadian finance gaps"
     excerpt: "Since Intuit decided to shut down its free budgeting app, Mint, last month, San Francisco-based personal finance app Monarch Money identified a gap in the market and decided to hasten its Canadian expansion plans."
     publishedDateTime: 2023-12-18T15:06:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2023/12/Synctera.jpg"
         width: 1050
         height: 700
-        isCached: true
-  - title: "Register now for the Citi Cup fintech competition"
-    excerpt: "SUZHOU, China, Dec. 18, 2023 /PRNewswire/ -- Citigroup Services and Technology ( China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
-    publishedDateTime: 2023-12-16T23:59:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/17/9935362.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "FinTech Magazine’s Top 10 regtech companies"
     excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"

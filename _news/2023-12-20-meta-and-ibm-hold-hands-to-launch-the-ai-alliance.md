@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance"
 ampWebUrl: "https://diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meta-and-ibm-hold-hands-launch-ai-alliance?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-20%20at%2008.41.30.png"

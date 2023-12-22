@@ -24,17 +24,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "Can you sign up for Google's new Bard AI search tool? What to know – Mashable"
-    excerpt: "Everybody is hopping on the ChatGPT bandwagon, including Google. But you can't play with Google's new toy just yet.Earlier this week, Google announced Bard,"
-    publishedDateTime: 2023-12-17T00:45:00Z
-    webUrl: "https://www.inferse.com/842174/can-you-sign-up-for-googles-new-bard-ai-search-tool-what-to-know-mashable/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 16
-
 secured: "lwlC56Or5H+/4yKDKhWlv41N100/w7sEHDUCVZHc5GK13mmV6uA7yGfJJXVZWrsbMl0EKShS/ZXLsa/4NvOPE4dfzPHmtnnivy7MiMyFb1hkMCpfY9yAWJXU7wy7ACRTIFGaQu9Vw5fCVb0mloEhpxfynM54RRD7ghTg8Y6lIdiyto3JgULl0PymAPCmn8LClSgS6r1U/I2YrRthMb9QLvgk/QHYzg1ZDGdX5o3cpX62E3Go4ESGh+0Qkw8El3rhof9vkWFnZcw5KnMxw6kHMZ04WsVpsZRNyYe8qfKp08kkiz7eubBB5qNfEzgT1k1gc/B6f/BH5VPxXfnBP6llyOmo6oHkq9E7sVWsDdtEoyM=;GHSI1a41Yi/02apzUipTwg=="
 ---
 

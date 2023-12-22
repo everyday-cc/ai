@@ -27,20 +27,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 51
-  - title: "AI trained on millions of life stories can predict risk of early death"
-    excerpt: "A model trained on 6 million people’s health, employment and financial records can predict death more accurately than tools used by the insurance industry"
-    publishedDateTime: 2023-12-18T16:01:00Z
-    webUrl: "https://www.newscientist.com/article/2408480-ai-trained-on-millions-of-life-stories-can-predict-risk-of-early-death/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/18120222/SEI_184209485.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "ErNwjL1LYrOT6RMR3SWbpZqVY5TFI2kSwM59cULp53MdP+glEoZ8pFeIHElddisgYsA5bFNu/IyHpSuy6GLk7oIzv3KKXXkohwbq/9/OtwBfWp9xVopWiXOr7oBnIePvUZNl8CfJRpWJkzcJGHx9sfex+yYvHxLhNQd0FffDtjeY57e5NaKrIdciZ1XXKGpTLKo3diSowPtJo5rAoYcGU+wRO0jcatOQ2X19Id6XiKOVlwkTXXwqpvhiSVsHT85mkR0SF5qz76FrXzs9Gq0Hc96BbPwr892y1bdA2axxLFniwbbkqWFJ4Kf0JJCN1s1P6XrhgL+aGWq/a4hRn88+2keKVjbO+0Joj9idSBIIDpruqibxa+RwOGOgXqffVVRGmHJvZqsOSWI/dop3kOwDx7L/fymFMlfxgxMd4ElCjrlgLzJL7JiiNFfl86GRZCcqTuZ1GAq3hO9BKwVZvkRT/K/9aecd6IKxzo0FmB5KwxUwik693Obht/6YLylaeZUhDrkomJ52qJM8gAktlGOnlQ==;kB2FX9ohlsLgRjKRPAGPDQ=="
 ---

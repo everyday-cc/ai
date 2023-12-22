@@ -57,6 +57,17 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "MSI’s 2024 Prestige Notebooks Now Has AI Smarts"
+    excerpt: "MSI updates its 13-inch and 16-inch Prestige laptops for 2024 with AI smart and Intel's Core Ultra processors."
+    publishedDateTime: 2023-12-21T00:41:00Z
+    webUrl: "https://unbox.ph/gadget/msi-2024-prestige-ai/"
+    ampWebUrl: "https://unbox.ph/gadget/msi-2024-prestige-ai/amp/"
+    cdnAmpWebUrl: "https://unbox-ph.cdn.ampproject.org/c/s/unbox.ph/gadget/msi-2024-prestige-ai/amp/"
+    type: article
+    provider:
+      name: Unbox
+      domain: unbox.ph
+    quality: 39
 
 secured: "BeMtjKNY96hdblIkqf8N2EV/D445TNK6hrZLaPdRPdCvIDUq9/uwxTav/7gVpUHPHfp2AhHtzL5fiBufanUJyrWgjEvsXWakDSjXD+f5Side1S+rMpMBidChz7ikXuaYHjLVQnP8aX5l89apNKbRAbAygxE9/i7T4z2KOmwK8f1hJkaPhG2Nbbv3uZ6G4pEeUo+pR+Zg+JE+XXVd2CgID85Ispe0p/lhPm9O2eGIPxA8FcOnNdxmMNLKTej6wa2TRM365pC8kJToXSHdvhvcvwxZcQRNgHlNshRtl0tx6XcNfwHfKI118Rs0D7KgFe2qAC/Wy+UqjF2siI5sjQJVk8XF8iAxhA/I9MzR7xuedPs=;XYgepp7OBSpSnvnmRPV38w=="
 ---

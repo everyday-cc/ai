@@ -121,6 +121,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Rite Aid’s A.I. Facial Recognition Wrongly Tagged People of Color as Shoplifters"
+    excerpt: "Under the terms of a settlement with the Federal Trade Commission, the pharmacy chain will be barred from using the technology as a surveillance tool for five years."
+    publishedDateTime: 2023-12-21T23:22:00Z
+    webUrl: "https://www.nytimes.com/2023/12/21/business/rite-aid-ai-facial-recognition.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 79
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/22/multimedia/21xp-riteaid-lqkc/21xp-riteaid-lqkc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Bankrupt US pharmacy chain Rite Aid banned from using AI facial recognition"
     excerpt: "Rite Aid deployed artificial intelligence-based facial recognition technology from 2012 to 2020 to identify shoplifters but the company falsely flagged some consumers as matching someone who had previously been identified as a shoplifter,"
     publishedDateTime: 2023-12-20T03:29:00Z
