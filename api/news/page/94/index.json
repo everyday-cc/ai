@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
+      "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
+      "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T04:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
       "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
       "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",

@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-12-07-self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground.md",
+      "title": "Self-Driving Cars: A Revolution in Safety or a New Legal Battleground?",
+      "excerpt": "While technology has failed to present us with the flying cars predicted decades ago, we have advanced to the point of self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "originalUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2023/12/brock-wegner-pWGUMQSWBwI-unsplash-1024x819.jpg",
+          "width": 1024,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lawyer Monthly",
+        "domain": "lawyer-monthly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
       "title": "AMD is taking the gloves off in the AI arms race",
       "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
@@ -697,8 +740,8 @@
       "title": "Driverless cars were the future but now the truth is out: they’re on the road to nowhere",
       "excerpt": "The dream of these vehicles ruling the roads remains just that. Focusing on public transport would be much smarter, says transport writer Christian Wolmar",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?ref=biztoc.com",
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/06/driverless-cars-future-vehicles-public-transport?trk=public_post_comment-text",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1114,40 +1157,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-adastra-launches-ai-innovation-centre-to-accelerate-ai-solution-development-and-adoption.md",
-      "title": "Adastra Launches AI Innovation Centre to Accelerate AI Solution Development and Adoption",
-      "excerpt": "With Adastra’s AI solution expertise, combined with Azure AI, Adastra strives to help organizations innovate and re-imagine business operations. With the power of Azure OpenAI Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "originalUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T07:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-
 webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
 type: article
 quality: 95
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -38,6 +38,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "2023 - the year in AI use cases"
+    excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://diginomica.com/2023-year-ai-use-cases"
+    ampWebUrl: "https://diginomica.com/2023-year-ai-use-cases?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-use-cases?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
+        width: 1472
+        height: 832
         isCached: true
   - title: "Breathing new life into fight to save the seas with artificial intelligence"
     excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."

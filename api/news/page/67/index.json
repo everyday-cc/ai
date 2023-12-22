@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-10-29-ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns.md",
+      "title": "AI in Healthcare: WHO's Call for Regulation Underscores Risk Concerns",
+      "excerpt": "The WHO has introduced six domains for overseeing AI in the healthcare sector, emphasizing the need to address the risks linked to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "originalUrl": "https://www.medindia.net/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/infertile-men-faster-accurately-than-doctors.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-in-healthcare-whos-call-for-regulation-underscores-risk-concerns-213993-1.htm",
+      "publishedDateTime": "2023-10-29T09:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-29-ai-expert-its-the-age-of-ai-right-now-in-health-care.md",
       "title": "AI expert: 'It’s the age of AI right now in health care'",
       "excerpt": "During a routine visit with the medical oncologist, a cancer patient brings up a new symptom that could be a side effect of cancer treatment.",
@@ -1082,57 +1125,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-28-google-expands-bug-bounty-program-to-include-generative-ai-attacks.md",
-      "title": "Google Expands Bug Bounty Program to Include Generative AI Attacks",
-      "excerpt": "Expanding to include AI threats 'will incentivize research around AI safety and security, and bring potential issues to light that will ultimately make AI safer for everyone,' Google says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-expands-bug-bounty-program-to-include-generative-ai-attacks",
-      "originalUrl": "https://www.pcmag.com/news/google-expands-bug-bounty-program-to-include-generative-ai-attacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00Z41UTjyP9OYB16T5CQypG-1.fit_lim.size_1200x630.v1698432209.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

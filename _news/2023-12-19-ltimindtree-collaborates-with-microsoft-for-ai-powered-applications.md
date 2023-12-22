@@ -92,22 +92,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft unveils powerful AI 'Compact Language Model' tailored for research applications"
-    excerpt: "Our line of work with the Phi models aims to answer this question by training SLMs that achieve performance on par with models of much higher scale (yet still far from the frontier models).”"
-    publishedDateTime: 2023-12-17T09:21:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-unveils-powerful-ai-compact-language-model-tailored-for-research-applications-2023-12-17-907665"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 67
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/12/microsoft-may-bring-its-own-ai-chips-to-compete-with-nvidia-1702804833.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
     excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
     publishedDateTime: 2023-12-20T15:06:00Z
@@ -232,6 +216,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
+    excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
+    publishedDateTime: 2023-12-22T10:29:00Z
+    webUrl: "https://www.law.com/international-edition/2023/12/22/allen-overy-collaborates-with-microsoft-to-debut-ai-contract-tool/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
     excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
     publishedDateTime: 2023-12-20T10:01:00Z
