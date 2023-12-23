@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.h
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.html"
 type: article
 quality: 74
-heat: 86
+heat: 84
 published: true
 
 provider:

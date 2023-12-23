@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Much-hyped reality of the driverless car finally edges into view"
+    excerpt: "With the push of a button, Zoe2 is transporting us into the future. The steering wheel turns on its own accord, indicators snap on and off, the accelerator pumps as the most advanced driverless car in Australia hits 50km/hr."
+    publishedDateTime: 2023-12-19T16:03:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Tesla Recalls Two Million Self-Driving Cars Due to Autopilot-Related Accidents"
     excerpt: "ALBAWABA - Tesla sent a letter to the National Highway Traffic Safety Administration, recalling two million of its self-driving cars due to the Autopilo"
     publishedDateTime: 2023-12-18T08:15:00Z
@@ -47,15 +58,6 @@ related:
     provider:
       name: RealClearMarkets
       domain: realclearmarkets.com
-    quality: 19
-  - title: "Much-hyped reality of the driverless car finally edges into view"
-    excerpt: "With the push of a button, Zoe2 is transporting us into the future. The steering wheel turns on its own accord, indicators snap on and off, the accelerator pumps as the most advanced driverless car in Australia hits 50km/hr."
-    publishedDateTime: 2023-12-19T16:03:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
     quality: 19
 
 secured: "gChIlOq4VI8xES4w6iWBRQ04FeX18ig2/w2WqRIJK/o7/2cZx0LXmQYTMzPBAXGr7DBgGmMgg5tzHBNMsISTW/6LHGJ35EEjqiLggy1+tA2i71mkroLbvtVp1Ms5OjFc+Ewvdg80jyngqYsmHDeB07AjVTj1cIOIR6Xcv2Jo1z7us7cCPmbsMM2RmHC8rUZSzBTfueuvbRvqRg8/In6zumv05XPC35Xq1l7tTr15HmrGJ3LvYPR6IK0iN6kV4yQ38L2QO+Fgu2HNa7rF7Z2PWAgKzbbxEQwmQOevGKujJCwOweUpzs2SZE/xHdCZKuDI+MlpUt0APwi94QnFQjmAtCq2rT6WbVw3zK57b1/en3Ma9JjGA5G78Kfw9DRaxnsKG/s2jP5U7XlpeihgOtZ3uoY4OVpywM9jUKTdMrBe/Vh6iHJQdUTbSj4CsUhfmal1swHzBONef48O2zsanw5jwQ4gfcAEXr+O+WybOxLjLWVX/SUrZR3N/sLxDCTZxE7Da1yDZlnumz3vmWAejXWKcA==;MfwfAdyfMJdhE4CkjmvPWg=="

@@ -35,20 +35,6 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 64
-  - title: "Navigating the Technological Tides: A Review of ‘The Coming Wave’"
-    excerpt: "Drawing from his experiences as a co-founder of DeepMind and an influential figure in the artificial intelligence community, Suleyman weaves a narrative that delves into the profound societal implications of emerging technologies. As I peruse the pages of ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/12/18/navigating-technological-tides-review-coming-wave"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 24
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-12/Coming%20Wave.jpg?itok=-5xBYhRW"
-        width: 480
-        height: 319
-        isCached: true
   - title: "How the next generation is changing the future of payments"
     excerpt: "Due largely to their advanced technical preferences in commerce, Generation Z (Gen Z) and Millennials have summoned a new era of payments."
     publishedDateTime: 2023-12-22T16:52:00Z

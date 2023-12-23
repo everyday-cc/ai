@@ -39,34 +39,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
-    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
-    publishedDateTime: 2023-12-18T01:30:00Z
-    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
-    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
-    publishedDateTime: 2023-12-20T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 51
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
     excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
     publishedDateTime: 2023-12-22T15:29:00Z
@@ -81,15 +53,6 @@ related:
         width: 708
         height: 425
         isCached: true
-  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
-    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
-    publishedDateTime: 2023-12-19T14:00:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 15
 
 secured: "+UZNqqpkzu3D1EKJApdo8HJFtx4Tfh+HGyfSeDE8A535IlpIQc8aDWY2xb3BKcpkosieFy5gmv4/63pd31OCbqmxnzEUn6sxj/StBB/Lb2sibtIFYsegXXrUmHboQnT8KWkApuAzOcW5uOc/1kZZuE7q5uZ1RhJdbDJ0Hn1g3Tj36E3DZm7gVarn98bWW8K/nLBTJrchXhoGPrLv1LxcYCVZE6e3h2MMCXfvjDg8EEY3aqivs+pGXB6KLA/K9dwcYqiXVdsBHH0nAhYb3mVSbR2SNy97NPwkbOk8+47nrYM3Xr0bs8UXNHnED81jP++1GuQ+KQok68CnacjQlbxMVmrEpVw8WzPaNx408l87P/CFfmRWsjOSwjwFTDLlRhofIYkZ+wTllcDabRwoQ8YjaT+u+jekOumSnw0UF5PtW1p1Jv4FUVisAsYcxjkWWt7ygHMGwtNonOlJzSJIaXToBZaL/ciMVL0hG6OnqXrxbbjRuVz2Nu8PFvmX/+1AQgRtj1hw+vn2nBes7+H7S9NsOQ==;zpA/5vBWIXqO+cWVz9kRRg=="
 ---

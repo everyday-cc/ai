@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 type: article
 quality: 91
-heat: 113
+heat: 111
 published: true
 
 provider:

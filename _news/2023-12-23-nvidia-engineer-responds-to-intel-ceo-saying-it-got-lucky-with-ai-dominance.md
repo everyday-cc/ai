@@ -27,7 +27,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
         width: 904
@@ -62,6 +62,34 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
+    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
+    publishedDateTime: 2023-12-18T01:30:00Z
+    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
+    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
+    publishedDateTime: 2023-12-20T03:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Why Intel has joined the race for the AI-enabled laptop"
     excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
@@ -100,6 +128,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 18
+  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
+    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
+    publishedDateTime: 2023-12-19T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 15
 
 secured: "zQg/n40d7/NhuRMy6CnGOh2fsF9ylWZvFEZCSLVQQ3Y1Ojy+1N/ioW83U4Fc5U7+BttT/G5lzD7c+kekox5Jd+fa4MhXGkBssooVYLctkDzbUo/BXz+oSKSfnN272xWr3LXclXVL6D54hef0gV9gSdx209zgpe3bEEM9CUtsdKdTQV7kRnomUlxWzYD9AxwQNi5JpWywoTCF5YsSLhntqRlMdT43cWWC6zeYZWl15yY7ps8UyT9vTM/3GQqnVQMlJT80Fw3ZaE2ZovLcRqgEl/RpweEmNjzCvMm+kB55L/SIeLaJLvpgTnOeEdnjWdJ1PF2DW0snTKiGBUDe0iOck4JtfMPN/m3o/xfrX57MF83hqZj1uB6p8VtGe7HSQgj8coY3xCsFqYsjNuuacEoDcMBvDO/BlHlUAw6VpGnZ5e4SoM1WDh5iNjt7fDjFIurIdsBK0nArSOATsOXhbuI5pnx1BiBcDfqcUqih/BqOjPEQgCHgMlp5pYqJr2dmNoo7jUhqVneNfgv5IQSr2rjWuA==;xCKv+YYfB5bqmZnaBXBBjg=="
 ---

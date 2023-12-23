@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/guide-next-generation-robotics-wave"
 webUrl: "https://thenextweb.com/news/guide-next-generation-robotics-wave"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Is-ChatGPT-Smarter-Than-You.jpeg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Navigating the Technological Tides: A Review of ‘The Coming Wave’"
-    excerpt: "Drawing from his experiences as a co-founder of DeepMind and an influential figure in the artificial intelligence community, Suleyman weaves a narrative that delves into the profound societal implications of emerging technologies. As I peruse the pages of ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/12/18/navigating-technological-tides-review-coming-wave"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 24
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-12/Coming%20Wave.jpg?itok=-5xBYhRW"
-        width: 480
-        height: 319
         isCached: true
   - title: "How the next generation is changing the future of payments"
     excerpt: "Due largely to their advanced technical preferences in commerce, Generation Z (Gen Z) and Millennials have summoned a new era of payments."

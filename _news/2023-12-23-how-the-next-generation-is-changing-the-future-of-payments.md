@@ -48,20 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Navigating the Technological Tides: A Review of ‘The Coming Wave’"
-    excerpt: "Drawing from his experiences as a co-founder of DeepMind and an influential figure in the artificial intelligence community, Suleyman weaves a narrative that delves into the profound societal implications of emerging technologies. As I peruse the pages of ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://www.insidehighered.com/opinion/blogs/learning-innovation/2023/12/18/navigating-technological-tides-review-coming-wave"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 24
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/styles/large/public/2023-12/Coming%20Wave.jpg?itok=-5xBYhRW"
-        width: 480
-        height: 319
-        isCached: true
   - title: "Here's Google's strategy for navigating the 2024 US election chaos"
     excerpt: "Google is taking precautionary measures ahead of the 2024 US elections to combat the spread of AI-related misinformation, including requiring disclosure of AI-altered ads and notifying viewers of AI-generated content in YouTube videos."
     publishedDateTime: 2023-12-19T19:09:00Z

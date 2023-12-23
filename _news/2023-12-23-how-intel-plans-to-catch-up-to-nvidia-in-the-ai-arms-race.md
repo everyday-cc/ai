@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-22T21:29:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
-quality: 69
-heat: 129
+quality: 71
+heat: 161
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
@@ -58,6 +59,34 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
+    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
+    publishedDateTime: 2023-12-18T01:30:00Z
+    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 51
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
+    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
+    publishedDateTime: 2023-12-20T03:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 51
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Why Intel has joined the race for the AI-enabled laptop"
     excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
@@ -105,7 +134,16 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 17
+  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
+    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
+    publishedDateTime: 2023-12-19T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 15
 
-secured: "cWSerIiiSrEKxceZTpr8Yp8XTxrhz5LnjRUt8AyRfn3ZH6z4id1qaOintEUech2EcIpMvhKl+aVPNuw3HAQzNIZ7JxG8+F4bcpBaXnZF9hsyGuGMs30aPi4C0suMGQp8PaRfAlxcGbT5coZqZbutn/xRz4X0kXAeMgTSjMZcbaElHDixoLmBHAM3LiOGbEUlYyZ3ilrloh5otyxVNuXu5cRqQW5pby9BSEo8buc8Wl1u6LWeusGR6/q9Mr2jnt8WSXHSYtJSn4ZO2NqJv4j/cTvBnQvVZOSZspnsDbrncvfyfER2+loziMwetxlKg6gyklPZc6/xQdmCYGWphK7gMirujguxe9LxCnejuicyyFA=;jrrJNGvWMUTgjJRV8fsp9A=="
+secured: "vCr+inSXwnCPts87nPnrpVcw4XTQXpm4pAl6HPvYP6go5xV2BAgPGCe4vG3VuqHFW8biHmcwZNFrbddLuOm5f6GJ2uEEawPPjdmFjEIcrcocpMoOZxY0Y1bh6S++4ReF0evc1+NT33dp/Uqb83CP527Mtq/L4JM5iQNUM2t4Bfb4asPVbzzQRK58aVNwUcJEHtCPfZUe1NRza4hTaUDUovvL6nCOnXbP7nPI1JI4AKjA7aG9duPZiky61McnrAsc3i0XXE2lGyTUOUZ+2lgxWXujF304wQAdNQMSOFg29uCzlm3BdvONhDl4MofO7T10acyzVOoM0a/fBmHVERWsizOSiXG/8Coehv2hsb2eUFjKnrfn+kOTy/FI4hqPP16gIhB6i0VfpT49Q5egZQ5tOb9X9tmJP8Z+FUGPJv/OahEETDfvp4f2WdGW88g+q/qrTc90cSAcBQGQPpupyhT6EnIpcWm4LO7wyngRPV7hKduCNMv/yz/Fat2pYGocsKj0J8Tse7oMoJd2MiaCqBp6vg==;ppPdtrC9QI1+kO4qdaOvaA=="
 ---
 

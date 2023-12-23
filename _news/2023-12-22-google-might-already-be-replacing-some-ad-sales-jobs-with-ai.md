@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2023/12/report-google-ads-restruct
 webUrl: "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Unveils Redesigned Labs with AI Experiments"
+    excerpt: "Google recently revealed a revamped design for Labs, featuring 12 innovative artificial intelligence (AI) experiments, tools, and projects."
+    publishedDateTime: 2023-12-22T23:41:00Z
+    webUrl: "https://www.dmnews.com/google-unveils-redesigned-labs-with-ai-experiments/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Redesigned-AI-Labs.jpg"
+        width: 1000
+        height: 571
+        isCached: true
   - title: "Alphabet at 2-month high on report of AI-led ad-sales restructuring"
     excerpt: "Google, the global leader in online search, is reportedly looking to restructure its ad sales division as AI takes a greater role in generating revenue."
     publishedDateTime: 2023-12-20T15:02:00Z

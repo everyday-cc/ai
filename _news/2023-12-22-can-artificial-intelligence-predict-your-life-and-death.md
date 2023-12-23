@@ -3,13 +3,13 @@ category: news
 title: "Can Artificial Intelligence Predict Your Life, and Death?"
 excerpt: "Ever since the explosion in popularity of ChatGPT about a year ago, there has been much discussion around the use of artificial intelligence in academia, health care, and in consumer's everyday lives."
 publishedDateTime: 2023-12-21T19:53:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
-webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
+webUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -41,6 +42,6 @@ related:
         height: 900
         isCached: true
 
-secured: "1omkeVEx/xhd1D7VWCG2Ze1Bl0ufe6x2fmqMyOt3VogWGCSWN70AiqbfAOTkTLM0ie9HXR/TMpLcmkWntIz+lMAssPioQwc1Mwn5tzTmivXZhmhDzsWXWNB/dJqq2pMNvHyRwcFGdVaPGptdcueITXH3JRMVPGcRbJ+tnh3sz87PLHMePtMCsajjTpKyf41iO52V+zEFQ5DF94UdFEHUZZ8mfKRKnreJIm59BkwKRcg8eOxmTf1AjnVtafidFBdhtrveZXzsjc3asvU8GoFuT9M3Hw1IWsWTjY81T83bDtOG5Q9xnMK852LeXkrVFemNVELo5fiGoLtJ7mLj9WRIeSFi50XITeNOdfrnXggWWSQ=;YYHN+mn0GziYEu6z1tZztg=="
+secured: "fu0fbTtC3RRCR3aglRkhFG6m10XmMBBhEF2adzDfby/Yv8C+bObpKLcHQ1Yl4zMVzwlp0nDwbVEBwdqrdDzKiVkH56ULMTfJXt/SkuLUJ18A9bjGtVpg8XAE448vLYGWmmKDgGhtEnnKJOU0lPGqfi+UMgbkFkDr3lMm2nPE5gAUBRGQnydKg9g1E8OmKCwcn4hEu/PeE8mvGAnOzwQh08YmJ5JdY/y1meCHMMfgC6UTRY4QXtuRmOXVgpMfWvKPCVWVcwggDWQ0xPv0aqrlXnoPf5spDpmRzcJkAka87YLeHxr39c9aLMhWsnj1gKDiM0+Cjzgh6HkC7Tw2voMQt2yolPLA7/5P5I61fEWwk60=;F15RLqigEvGdE03h/22dJw=="
 ---
 

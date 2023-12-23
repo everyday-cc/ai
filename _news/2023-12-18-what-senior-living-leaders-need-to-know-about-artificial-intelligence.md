@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence: What teachers and students need to know"
-    excerpt: "It is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence combines the intellectual knowledge of different fields such as computer science, physiology ..."
-    publishedDateTime: 2023-12-18T00:00:00Z
-    webUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/"
-    ampWebUrl: "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
-    cdnAmpWebUrl: "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/"
+  - title: "Bhashini: Everything you need to know about AI language translation tool"
+    excerpt: "Bhashini is an AI-driven language translation tool that marks a transformative step in digital inclusivity for Indian languages"
+    publishedDateTime: 2023-12-18T12:11:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
     type: article
     provider:
-      name: The Nation Newspaper
-      domain: thenationonlineng.net
-    quality: 61
-    images:
-      - url: "https://cdn.thenationonlineng.net/wp-content/uploads/2023/09/26030926/AI-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
 
 secured: "j5iRl1VDu3Z/WMNRtaCiCgm3xum3DHCs0rcP5en6Qt4375d1UIroOLIPmd2qcL9J7wHcQjuwzlDsKw09SjCbQyjFan3lABS8S0IBPWrt797LL+53t6Xj0ZpkbVJMicjb6xbgm0hcFd/cmVD3Z8cqsO8luseKwtCpuwz/s4fOz10lpKsnI9ryRd4YOspLK92KxZUAAiu4NYAhBy1zl7PNO53ognaDlAJygH5I7iuF7GXCuy30xw8T4bXobgnFw7CLovrwB1YZwFYuRoXA6pui8UbubImIrmGUVMYivq6RLg/nctTjsJtMWMCaxHiQWwm5BOyicFE3cAVRrzy2S7k+tYF7ONy5GFvu83SmfoTI8LI=;IiH+RVXJiVo0lWhBqLKLJw=="
 ---

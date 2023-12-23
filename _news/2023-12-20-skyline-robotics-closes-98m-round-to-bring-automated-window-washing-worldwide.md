@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-
 webUrl: "https://www.therobotreport.com/skyline-robotics-closes-9-8m-round-to-bring-automated-window-washing-worldwide/"
 type: article
 quality: 80
-heat: 90
+heat: 91
 published: true
 
 provider:

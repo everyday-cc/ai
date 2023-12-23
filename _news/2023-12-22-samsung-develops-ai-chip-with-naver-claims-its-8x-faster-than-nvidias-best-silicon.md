@@ -39,34 +39,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
-    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
-    publishedDateTime: 2023-12-18T01:30:00Z
-    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
-    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
-    publishedDateTime: 2023-12-20T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 51
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "SuperNIC network accelerator for AI cloud data introduced by NVIDIA"
     excerpt: "Learn more about the new SuperNIC network accelerator for AI cloud data launched by NVIDIA. But what is SuperNIC and why does it matter?"
     publishedDateTime: 2023-12-18T14:34:00Z
@@ -81,15 +53,6 @@ related:
         width: 1280
         height: 792
         isCached: true
-  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
-    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
-    publishedDateTime: 2023-12-19T14:00:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 15
 
 secured: "J9gw8M4eYnqR2THPV/jGD3jMsC+lmO1XAT0mQdyQU+gpPJwyiIvZFNkAk2usn0huCUJt6FFgoO3rszr4XZRiMHoaoiPKyf+MiZQqrszx34aFzE1em2to32XP0h/TnPxzhb+wnOZkGzDnIvamT9XxmDfTWGq31rUBz8rHuF4CIh8hpv2SRzzMAicXc1U8GLz5VIUC+3Tn+Yh4NT4Bq6BXG6KLAQ9H4Mgs6uol3MPfoLwCM/QglvlNqu/JZaHernvTXxjwTPum8+pEzbfiQ0xOIt2PMgHosffayw3HijSyH1q+a3sLsBDqj1/heiTV+o9e56Ywh6cihYjl2PlEfVGQBk/1YHnxD5sfRhUS1eMBtwNf/BrkG0TeA6MGSsbCy2HagB5dEfhvCwv7EuIX3Jy7ynXUF3lxfAfoxt2exQ24RJT9nJRu8fxI4U4ox/v5k9NbAYa0r7bLdLzMX4003uPjNMhdYZAXooDTKshj4nUKq8tt95urvy+803zIhxgDTSZCx4ie9ex1NRmlvb+xOL2qfw==;waGiXa0WI5ZNqR3Ee84TjA=="
 ---

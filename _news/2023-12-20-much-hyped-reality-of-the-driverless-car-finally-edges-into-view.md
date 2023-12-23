@@ -5,8 +5,10 @@ excerpt: "With the push of a button, Zoe2 is transporting us into the future. Th
 publishedDateTime: 2023-12-19T16:03:00Z
 originalUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728"
 webUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728"
+ampWebUrl: "https://www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728?amp"
+cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/muchhyped-reality-of-the-driverless-car-finally-edges-into-view/news-story/c1c3e0dbabb2d18e5e39dea0a6033728?amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -57,6 +59,6 @@ related:
       domain: realclearmarkets.com
     quality: 19
 
-secured: "ixgMNX54V/POCYAxnxDd4XgPIhKURrsvmndDBoK4zOIOZkg6jDJTdDFSO+vzmls8JSxsaxC0qn91UrV3lbW7/n5CmEL3N5mdTk09asLYDPm2o+/MjVCrPXNKv4ty2KBeumvJR8AAmkbKt6tCExevuViYYd7n2d0UoHPvhhrOBxkBgDxywwdtXL/90D4fO9dl3KyabkUXGWQl2JAWw6gEn5TINRFhWY2CIMUMvOrxXZnz4VHEOjQ9ag9BtcpWSw6NDA6F5MvUQvwocgkfqIlSa7X4nZfhl6y3Zv1ig9NTi/94LjxTQRrm8ms811bKatS82DOVddq5rtErRXGcJ9oyqQfQMtxUtSJdC0ICCEG8bA4=;IkHiP5XQ0uZ8xugAuzB/hQ=="
+secured: "oVgEpoUey3+G2uNpQIaYTIJfnp36fBWFe/8WZ2yMo7K75rSLCJpCjT2iAeSP+XK2KoRaHOX/kY1bJyh5CdenLBWDgRUCQp+36hXlxS3lqUde9TTIwTsujQfFhRyS8mMxj+0r8gsY+p1U7IPO47NIvgDCRl7oOttpoEdaXD9vN0zmDgcFz/Luvn2jlwjg+FhFilXImKM42m3Wr6tz6JmXaKwSaYyUKfikLRFL3KNjGsSR7zae+Cbi+Q2I0M/JVt0/cVmoaYcOEcdcgJg5wHo/H8Sipbx17aB1g4PPTQo8/XZDcWM59L9C+L2yoDm2OKyHUabz2xcrHZEP1BSEiqpnU9ueCPWN+cxBp4/G/JcN4XM8tvCbVKCR/xbpwZxah8Jt70mP6GG+AZEWqNSAP97aL1gRQiop+ef+lsz25VHrV2LAiI3PbRSUtK3D8VcDzeRuwbNqh2bSvyahgs24Zxj35J+uXeog/24uPYOivP3gg4UUfc2lqK2JzcV2Q3GeiggAy9iwsPU+ztVRKynjqmM7cQ==;dtmEElvOgCFlfWn2BG62kg=="
 ---
 

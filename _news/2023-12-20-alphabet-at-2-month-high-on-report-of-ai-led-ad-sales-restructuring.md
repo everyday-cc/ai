@@ -33,6 +33,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google Unveils Redesigned Labs with AI Experiments"
+    excerpt: "Google recently revealed a revamped design for Labs, featuring 12 innovative artificial intelligence (AI) experiments, tools, and projects."
+    publishedDateTime: 2023-12-22T23:41:00Z
+    webUrl: "https://www.dmnews.com/google-unveils-redesigned-labs-with-ai-experiments/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Redesigned-AI-Labs.jpg"
+        width: 1000
+        height: 571
+        isCached: true
 
 secured: "/0+jSoYSOR2a4jvq6GsVAS8rjHFWLNV3j93bdKy4ah54xnML39vnAzGiS2oDGoCTGi3J4SLnyz8aYrLGSNb92mwr5OeBLJw/tVl+m6HNvqxgIeLBfYwWELpRIjUEqQIdwjz6Rl4dnrJ8cFj8z9U94W1NkgORV29tblG/N5pr9EnwgEXud62xRSagAkzhbE3nqsHs5PdAUebo2DnBWLiJ/x8rNRVBqvRZYB/Ba/qaFFuW6Yg9KRtdEkeSjlESdw7ZIRQ5gcYDW6iyEm8WHJTc57EHDM0R1QontvCNOTt4NAorvwoB+X+Z59qIVkPnFjHBgYpSzpBULgOwRy+J133hwfZQ71EhQ2kahotXGxL4sHPQBvyi8ENj0l9opfKkBg/2AKbYO1lY4Px+jdU7YkiyDPrZTlmBb/zR5TEqGYRB44Wix1y8mUigxsLEiZqsxhTJtG9Gf3FR6nCTDZtP2V2YlXqaQBzBrcjZStdbSHDIFMu9BHL3b+GkQ1ql07bFWJBB77EAbdL4SWyMASf8WOkIgg==;ScxTjWbtwMQBMrij0xLKRg=="
 ---
