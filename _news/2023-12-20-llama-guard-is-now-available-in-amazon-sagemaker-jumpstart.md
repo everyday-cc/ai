@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/21/truera-intro.jpg"
         width: 469
         height: 248
-        isCached: true
-  - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
-    excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"
-    publishedDateTime: 2023-12-18T16:42:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/ML-14327_image001-1260x438.png"
-        width: 1260
-        height: 438
         isCached: true
 
 secured: "Q8yvi7SY7bxjvmQiDdjlbX+1qfZzLLdi7CGcKD+junYCxnr70Oc0pLNGSUPe7yMJbYhQZxTOlwel4zprqX63hfuiDfQQ2jXivqN1voxjwPGmbyV8GvlNAErmC532JQc5DWRQG97GY8rtWDVu81wLJ3Rb59YwBjsOtlLqSChXE1puc2L723U60D7jTmc4B0WOiBXaaqrjmFsbHA2OVPB3QQwARZSEcczrRw8D0t/SPhcl3IJdcJPH6mkAOL1Daeap1AXCWBI9hk1y/af6HT+yBi5TE4LWgIZdZPrP4snTar91NPffyGXJEab58jKcUSFZoaG4lTE4+wYjHmWZtEzYjcGKYh2c2z1GkMIzx19bJPw=;7JIrO9TYg+usgcznlt+OqA=="

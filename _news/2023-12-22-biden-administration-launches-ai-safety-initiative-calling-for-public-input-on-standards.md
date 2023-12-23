@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/biden-administration-launches-ai-safety-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-administration-launches-ai-safety-initiative-calling-public-input-standards.amp"
 type: article
 quality: 78
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "28 health care providers commit to Biden’s AI safety pledge"
-    excerpt: "As part of Pres. Biden’s executive order to establish AI safety standards, CVS Health, Houston Methodist and other health care companies will align to FAVES' – fair, appropriate, valid, effective and safe – principles."
-    publishedDateTime: 2023-12-18T16:44:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/18/28-health-care-providers-commit-to-bidens-ai-safety-pledge/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/05/Houston-Methodist-Hospital-Article-202105281401.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Biden administration must stop removing razor wire barriers from Texas border, judge rules"
     excerpt: "The ruling is a temporary measure while the legal fight over the barriers proceeds — a recognition that the federal government ... The terrestrial and floating razor wire barriershave been the object of a court battle between Texas Governor Greg Abbott ..."
     publishedDateTime: 2023-12-20T16:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1070
         height: 578
         isCached: true
-  - title: "Prime Minister Modi uses AI tool ‘Bhasini’ for the first time | What is 'Bhasini'?"
-    excerpt: "At Kashi Tamil Sangamam event in Varanasi, PM Modi used an AI tool ‘Bhasini’ for the first-time. AI ‘Bhasini’ live-translated PM Modi’s Hindi speech in Tamil. It uses AI-driven language transition tool,"
-    publishedDateTime: 2023-12-18T14:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/videos/business/prime-minister-modi-uses-ai-tool-bhasini-for-the-first-time-what-is-bhasini-11922051.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 13
 
 secured: "cYvM5NADAn2lPAZN76uX3uxTLGD9SXQJ5PJYcNGN5fRgjo4Mldn9yvERCVUdPTgk/+Aw2O2CzuTiFhjmTgO/xi8CzkTFFN+gkzT8NAIeui1jHMJZASai0i5LoyJJMNW48Oh2FLYBGaTjkmKujHRGGjxkVm8YCnumJ/6r+u/fIQBzxjcMXCDwkmO6brvGSdxmu8263jmYVzRU0tl9bdurK8wd/hkfKwfCMRN2azByTmEfQUbz7jcyWj4l3p0bxljsYiXlnncKwzcvy8rw/i9VB/h300I8PajPT24QLq8QaM8cKQdAuJyUalzJuTrlMXLhtzHN2HvuAp3W5aD49UTe0lN56g5PTMtP1l5NzQrUzFXHXB3kzhlSfL/huZDlG6i7xjMntzIOMDZAxTurG/I7B3jNRsm92sMmgeSQK53G+qDPV0T4E2sUzkQG6/cmjR9rug7wyKhZZ7Mjweqi9/Vd2lM6Sbc0QoFfa8fVXrFg100sQzywqFEhXUmzJ9EgUu7QygwRb+d/IMEuYeVHx682WQ==;6kBSg+/4Z4WplhLoTwZyJA=="
 ---

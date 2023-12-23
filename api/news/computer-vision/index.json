@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-20-samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-night-mode-enhancements.md",
-      "title": "Samsung Galaxy S24 Ultra Leaks Reveal AI-Powered Camera Features, Night Mode Enhancements",
-      "excerpt": "Explore the latest leaks on Samsung's Galaxy S24 series, highlighting advanced AI-centric camera features and enhanced night mode capabilities. Get insights into the One UI 6.1 update, rumored features,",
+      "path": "_news/2023-12-21-police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders.md",
+      "title": "Police to be able to run face recognition searches on 50m driving licence holders",
+      "excerpt": "Exclusive: Privacy campaigners say clause in new criminal justice bill will put all UK drivers on ‘permanent police lineup’",
       "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792",
-      "originalUrl": "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792",
+      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://static.tnn.in/thumb/msid-106144744,thumbsize-295180,width-1280,height-720,resizemode-75/106144744.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.guim.co.uk/img/media/911c47e92f20471b307595b933fe4be7e671675e/0_25_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=df04491dbc8a743f01a8d04c53b53511",
+          "width": 620,
+          "height": 372,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp",
-      "publishedDateTime": "2023-12-20T06:06:00Z",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "publishedDateTime": "2023-12-20T21:24:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -38,34 +38,6 @@ related:
         width: 628
         height: 478
         isCached: true
-  - title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
-    excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
-    publishedDateTime: 2023-12-18T13:15:00Z
-    webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/Dec23_18_BanksResilient.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Use Copilot AI to summarize long content to improve efficiency and productivity"
-    excerpt: "Using Copilot AI to summarize long content can provide measurable impact on efficiency and productivity. Enabling you to quickly gain insight"
-    publishedDateTime: 2023-12-18T14:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/use-copilot-ai-to-summarize/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 35
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/summarise-long-content-using-Microsoft-Copilot-AI-assistant.jpg"
-        width: 1280
-        height: 733
-        isCached: true
 
 secured: "mbqpVtHE/lgFvx8OeE00730gP+yfRv6TKSs8zd4NzDZW4FUZtVJstwO5HWtA1DF8TVAs5VQoe4zb6OMG4adtPQJ2q0mNMhG9UHTLdzgBeeu/xvFPmHRK6nbXUC20k5+yE3palBO0/UMsfqb4GJ2ylH4GL2BkM3oiFcfT46yf5lj2I2e2APULGZ9o5eQYU5+QaopIr7W0kZk1qDWh2btIfA5MYKZ94DwQVVqMeECHw1evhpkK1LCKnFCdLGLbpXUX7svjFvkNGD1ENxrVP173XPfw1tuJoUN23V994SJNtkZ8Bm42izwhlCDCh9hoNCF5+jVGBDy8duFwlRKxD746gnZFtvhCQ/1ckfTg6aWvB97SuKq4kfvImzrhg8D5Et+mlJUA2V8bcBisEWJ6h4NbRY0p7FFrLlY6qEjJwL1aL/+ysq46TiUUQogBlpQ36TOKnCa0MtI5YI0FT/+MN+1dw4Jsc1q/skw5cZbRN4E8qKVLkES1zxrRpxcWFQ9x0YR7zoMt3WTU/6baj9N7kSp8ZA==;o7S7fjyOutdnoO7JWK+4OA=="
 ---

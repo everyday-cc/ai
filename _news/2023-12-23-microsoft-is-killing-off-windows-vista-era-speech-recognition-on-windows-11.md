@@ -1,0 +1,469 @@
+---
+category: news
+title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
+excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
+publishedDateTime: 2023-12-23T15:16:00Z
+originalUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
+webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
+ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
+cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
+type: article
+quality: 74
+heat: -1
+published: false
+
+provider:
+  name: Windows Latest
+  domain: windowslatest.com
+
+topics:
+  - Natural Language Processing
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Microsoft 365 Copilot Set To Provide A Generative AI Revenue Boost"
+    excerpt: "Microsoft's new 365 Copilot generative AI assistant will begin to provide incremental revenue growth, with demand expected to ramp up over the next few years."
+    publishedDateTime: 2023-12-19T23:44:00Z
+    webUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/"
+    ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65821a161d7392cf357b1997/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
+  - title: "TomTom and Microsoft develop in-vehicle AI voice assistant"
+    excerpt: "TomTom has teamed up with Microsoft to launch an AI assistant for vehicles, enabling drivers to converse with their car."
+    publishedDateTime: 2023-12-19T15:41:00Z
+    webUrl: "https://thenextweb.com/news/tomtom-microsoft-develop-vehicle-ai-voice-assistant"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2FAI-assistant-vehicle-.jpg&signature=abf53810844f2f4c7dd5b797cd3d1daf"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "TomTom and Microsoft are teaming up to bring (more) AI to your car"
+    excerpt: "Do you know what the world needs more of this morning? That's right -- AI. TomTom and Microsoft, apparently mistaking our sarcasm for"
+    publishedDateTime: 2023-12-19T08:43:00Z
+    webUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/"
+    ampWebUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
+    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
+    type: article
+    provider:
+      name: stuff.co.za
+      domain: stuff.co.za
+    quality: 74
+    images:
+      - url: "https://stuff.co.za/wp-content/uploads/2023/12/TomTom-sat-nav-header-AI.png"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
+    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
+  - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
+    excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
+    publishedDateTime: 2023-12-19T07:00:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-azure-openai-service-is-2x-more-expensive-than-google-vertex-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 68
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/1-Microsoft-Azure-is-2x-higher-than-Google-Vertex-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
+    excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
+    publishedDateTime: 2023-12-20T15:06:00Z
+    webUrl: "https://www.nbcsandiego.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/"
+    ampWebUrl: "https://www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
+    type: article
+    provider:
+      name: NBC 7 San Diego
+      domain: nbcsandiego.com
+    quality: 62
+    images:
+      - url: "https://media.nbcsandiego.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
+    excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
+    publishedDateTime: 2023-12-20T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 62
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/20/1600x900/TOMTOM-RESULTS--0_1703037060640_1703037087769.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption"
+    excerpt: "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ..."
+    publishedDateTime: 2023-12-21T10:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 61
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it"
+    excerpt: "Windows AI Studio, a new developer tool designed to help programmers integrate generative AI into apps, only works on Linux, the company has revealed. Specifically, it requires Ubuntu 18.04 Bionic Beaver or later, an LTS Linux distro that was first made available in April 2018."
+    publishedDateTime: 2023-12-19T14:50:00Z
+    webUrl: "https://www.techradar.com/pro/microsofts-new-windows-ai-studio-developer-tool-makes-you-install-linux-to-use-it"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 57
+  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
+    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
+    publishedDateTime: 2023-12-21T15:17:00Z
+    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
+    excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
+    publishedDateTime: 2023-12-19T09:51:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+  - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
+    excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
+    publishedDateTime: 2023-12-19T11:32:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-tom-tom-are-bringing-a-generative-ai-assistant-to-vehicles/articleshow/106125585.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106125586,width-1070,height-580,imgsize-526522,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1068
+        height: 580
+        isCached: true
+  - title: "TomTom and Microsoft bringing generative AI to cars"
+    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
+    publishedDateTime: 2023-12-19T07:08:00Z
+    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
+    type: article
+    provider:
+      name: absolutegeeks.com
+      domain: absolutegeeks.com
+    quality: 54
+    images:
+      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
+        width: 960
+        height: 550
+        isCached: true
+  - title: "A renowned GPS brand and Microsoft look to help drivers with AI"
+    excerpt: "Using Microsoft's Azure OpenAI system, the assistant can perform functions and tasks around the car that would typically require drivers to take their hands off the steering wheel and eyes off the road."
+    publishedDateTime: 2023-12-19T17:07:00Z
+    webUrl: "https://www.news-journal.com/arena/thestreet/a-renowned-gps-brand-and-microsoft-look-to-help-drivers-with-ai/article_88f291de-f521-5f1e-a5ac-334554fb73f8.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/0e/a0eb24ef-aa5f-56b6-b111-5c1ea906fe16/6581ecd0f13ad.image.jpg?crop=1132%2C594%2C0%2C102&resize=1132%2C594&order=crop%2Cresize"
+        width: 1132
+        height: 594
+        isCached: true
+  - title: "TomTom & Microsoft Generative AI for Automotive"
+    excerpt: "TomTom the location technology specialist, announced that, together with Microsoft, it is bringing the benefits of generative artificial intelligence (AI) to the global automotive industry."
+    publishedDateTime: 2023-12-20T01:05:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/12/tomtom-microsoft-generative-ai-for-automotive/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 54
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/12/microsoft-css_og_1200x630px_nbb-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
+  - title: "Coforge ties with Microsoft for generative AI; shares up"
+    excerpt: "Coforge Ltd. collaborates with Microsoft to use Azure OpenAI service to help enterprises adopt generative AI with Coforge Quasar platform."
+    publishedDateTime: 2023-12-21T06:49:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+  - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
+    excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
+    publishedDateTime: 2023-12-22T10:29:00Z
+    webUrl: "https://www.law.com/international-edition/2023/12/22/allen-overy-collaborates-with-microsoft-to-debut-ai-contract-tool/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
+    excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
+    publishedDateTime: 2023-12-20T10:01:00Z
+    webUrl: "https://www.econotimes.com/TomTom-and-Microsoft-Team-Up-to-Launch-Cutting-Edge-In-Car-Voice-AI-Solution-1668303"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 51
+    images:
+      - url: "https://f1.econotimes.com/2023/12/o82nod3f80_th_1024x0.jpg"
+        width: 1024
+        height: 678
+        isCached: true
+  - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
+    excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
+    publishedDateTime: 2023-12-19T20:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/LTIMindtree-and-Microsoft-collaborate-to-deliver-an-AI-powered-employee-experience-161923.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 48
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
+    excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."
+    publishedDateTime: 2023-12-20T09:42:00Z
+    webUrl: "https://www.technologyrecord.com/article/tomtom-develops-ai-powered-voice-assistant-for-vehicles-in-partnership-with-microsoft"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 47
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4763/Microsft_TomTom_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
+  - title: "TomTom and Microsoft Collaborating To Bring Generative AI and Cloud Analytics To Vehicles"
+    excerpt: "TomTom and Microsoft are collaborating to develop new automotive solutions that leverage AI capabilities, cloud analytics, and Microsoft’s automotive"
+    publishedDateTime: 2023-12-19T14:57:00Z
+    webUrl: "https://www.indianweb2.com/2023/12/tomtom-and-microsoft-collaborating-to.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 45
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmoQQPlBWTaljYRECTj8gkRXl-vbziUmnhI5H9DHIVXLRJVpyNKBVQyOoEz35NQCYIt1W1P47qWQPRFGat2cPynAHNFLoc8NkKYub7Q0VvzRC1l7c1ebzS6zPWrFH8YUB5NJ4yOgmD3I9LOBzDrQmFcFXo2kkjmD_nuDscK1208mKogOE0VmaR3wwPUQ/s16000/tomtom_microsoft_genai.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
+    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
+    publishedDateTime: 2023-12-21T07:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 38
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
+        width: 450
+        height: 397
+        isCached: true
+  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
+    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
+    publishedDateTime: 2023-12-22T00:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
+    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
+    publishedDateTime: 2023-12-18T19:52:00Z
+    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 34
+  - title: "Microsoft and TomTom partner on in-car Generative AI"
+    excerpt: "TomTom has announced a new partnership with Microsoft to bring Generative AI to vehicles, TomTom has developed an advanced AI-powered voice assistant"
+    publishedDateTime: 2023-12-20T14:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/microsoft-and-tomtom-partner-on-in-car-generative-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
+  - title: "TomTom and Microsoft Are Bringing Generative AI to Cars"
+    excerpt: "Partnering with Microsoft gives TomTom access to the latest OpenAI language models, as well as Microsoft's Azure cloud infrastructure. Its goal is to integrate the AI with its Digital Cockpit platform, which it hopes to sell to automakers. TomTom hasn't ..."
+    publishedDateTime: 2023-12-19T18:09:00Z
+    webUrl: "https://www.extremetech.com/cars/tomtom-and-microsoft-are-bringing-generative-ai-to-cars"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "TomTom and Microsoft unveil generative AI for connected vehicles"
+    excerpt: "TomTom has joined forces with Microsoft to bring generative AI to the automotive industry. This collaboration has resulted in the development of a fully-integrated AI-powered conversational assistant that enhances voice interaction with infotainment, location search, and vehicle command systems."
+    publishedDateTime: 2023-12-19T16:22:00Z
+    webUrl: "https://www.iottechnews.com/news/2023/dec/19/tomtom-microsoft-unveil-generative-ai-connected-vehicles/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 34
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom develops an advanced AI-powered voice assistant for drivers based on Microsoft Azure OpenAI Service. The solution is built into TomTom’s Digital Cockpit and can be integrated into other automotive infotainment systems."
+    publishedDateTime: 2023-12-19T06:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936012.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
+    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 32
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
+    publishedDateTime: 2023-12-21T12:37:00Z
+    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 32
+  - title: "Microsoft, TomTom Launch Voice Assistant That Makes Google Assistant and Siri Feel Old"
+    excerpt: "While Apple is building an electric vehicle from scratch and Google is betting big on the software and services side of the automotive space, Microsoft"
+    publishedDateTime: 2023-12-19T18:45:00Z
+    webUrl: "https://www.autoevolution.com/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350.html"
+    type: article
+    provider:
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 31
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350_1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas"
+    excerpt: "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
+    publishedDateTime: 2023-12-19T20:31:00Z
+    webUrl: "https://visualstudiomagazine.com/Articles/2023/12/19/semantic-kernel-v1.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 27
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "LTIM, BSE: 540005], a global technology consulting and digital solutions company, announced a strategic collaboration with Microsoft to introduce cutting-edge, AI Powered Employee Engagement Applications."
+    publishedDateTime: 2023-12-19T13:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936224.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
+    publishedDateTime: 2023-12-19T22:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 22
+  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
+    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
+    publishedDateTime: 2023-12-21T20:50:00Z
+    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
+  - title: "Microsoft changes songwriting forever (for better or worse) as Copilot AI now can write you tunes"
+    excerpt: "Copilot has steadily been receiving updates over the last few months and can even produce generative AI images from prompts thanks to being powered by DALL-E. Today, Microsoft announced it has partnered with Suno via a plugin to turn your ideas into songs."
+    publishedDateTime: 2023-12-19T18:27:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-changes-songwriting-forever-for-better-or-worse-as-copilot-ai-now-can-write-you-tunes"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 21
+
+secured: "psdyVscFve1KcbRdb3MKapgKMFwGnHcir3z/tSGYL4h8kMP1DmNmttNXSPpy6UBFpSqe/YmQ6FWN5fnDVX40ZaE7duAL8yWkIpdTHNoscw9sPkI88nua+2zOF5qy9eoYV3z4ci6H6d17WtdzBVMZgxHdVmzyv9zFFtC75UXVADafWmyo0EZ1oqgB/JB6FYLEceWSOondgofE1zgiIDq491MXOPmeM+w98DzMAnHl34zHNYk50QtpyfX79wVPUrFqtKBODx47D9eyHWKVh3n9eEV0pd4lNQSzXqHTCo73edfAhV2FNdXRejNuZVMCiaRiQCtFpXhHbSyhM6bmIUna9SxC2AuPE6tZdL3OUfmX8Og=;VMfITsJWcpB2rgj7Ubnm2w=="
+---
+

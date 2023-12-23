@@ -33,15 +33,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "KC tech startup taps AI to help detect mental health issues, find help sooner"
-    excerpt: "Mental health issues are insidious and often invisible to outsiders. A #KansasCity tech startup uses AI to lift the veil and connect people to help."
-    publishedDateTime: 2023-12-18T16:32:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2023/12/18/raise-health-innovations-ai-mental-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "+8myV0SmHNMfWg9E6TEPIAvIrgCX4QINty5fExZVcl+QQbeToLqTWgGfATAN53wXGIpScIUfME//QEITJVLbEUwWWbD8RlVa6s1nru0imXX1ypywCFm+L3uFK1kImAoTWFDDRWOFlhFIaQLh5rqkkMupGK5LfENaCEZ0svNFRK19AIAeikrHlTjgXg5tOcdzVtrNBiNcu5/2ApEsYopLUghKewPElCW1a1owUSnEbHAzrBjf6RPo5jTGHZUAZ5kSF2QKBJqEPFelX5WDFLz/AnVLOkaHJ78tZyIIBaNUTzWvnmtUFaG/mgxNd7UhQN1gonNifEFw6sqnhgxrNO2zaPNcXtxc2Z+uZHug2d6KKldkhJXgjpPDg+6eJQBBs3LmTGkHLkPxvaCixAJ9lJIc9MGymxNwZTMo8TmIWphnX4c2HVTY68XAy5JzO7Gf3GiUhnwxKhUSaGD0zW0lUJVcaxEOFtJu3komzbybnp3dFIQRDSSTdET5eTcTA2S/Zxl4mKj2axJ9oHBcikWob74+9Q==;+dLa8lT5QjZKzEXIYAVE7A=="
 ---

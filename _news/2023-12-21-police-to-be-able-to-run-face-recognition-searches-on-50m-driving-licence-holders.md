@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Guardian
@@ -45,6 +45,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "UK Police Could Soon Use Every Driver’s Licence Photo For Facial Recognition Searches"
+    excerpt: "New criminal justice bill would automatically include 50 million British drivers’ images in giant searchable database without their consent"
+    publishedDateTime: 2023-12-23T12:58:00Z
+    webUrl: "https://www.carscoops.com/2023/12/uk-police-could-soon-use-every-drivers-licence-photo-for-facial-recognition-searches/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 12
 
 secured: "HgPKeDZzyYFIxRmCGo8x1XunxALx/tFrIQku2Aem+jff6SoX5U9LJhRrJB/lVtG3iohTQKdVdZmZjVGvp+fSfQlkwxkqpmDdpsxuNMK1Pm+R41N0LTvHqLOm3Vy9I1SieICVwi6kqJM6huVQVHYWrYzpD0BMRPpw5cwqD6iFDqK97iP/3rFsvdh41zKh8Fuoa3cIn8UPtJSJBarz/XLbgw3jUjRqBHELe0evYln/uKFwPMagyOdN2u0lxA3nlM2zwHEVgyLS+WgwTyViiheZEo8ZGXtd70T0PtZZkerbXyuM6tfNjTToYXz/UZzAOmsJytpmHXq0LZw1ouo3EF/pw3NtSLNph1iHNPIQ//D6dl324C1wen64QSjhoS7iVxccE5tOPlym3/86WFH8PcT3wS5RXK19ypbA/FH4SblyVU0JxZFK+rKXqYd05wwdUz5jK3Nn2xWiYKZnRS1Ph7VdoN33LHOpzWTsIhcSNiz/z9u6racR+hNQrKYMTkaDiM/u9lqH/de8vXYCX32dnqX3yg==;L0QWNEQ3n+qEOJvQl5ll7Q=="
 ---

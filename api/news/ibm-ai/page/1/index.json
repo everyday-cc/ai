@@ -311,6 +311,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-19-ibm-aims-to-boost-ai-offerings-with-23b-acquisition.md",
+      "title": "IBM aims to boost AI offerings with $2.3B acquisition",
+      "excerpt": "IBM announced on Monday its plans to buy Software AG's StreamSets and webMethods platforms for $2.3 billion cash in a move aimed at bolstering the tech giant's artificial intelligence and hybrid cloud offerings. The two platforms together make up Software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html",
+      "originalUrl": "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/1lhUwd9L5b6zsah.p0e7rg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/631ef33a676d3e6831d0200d2fdf01c5",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html",
+      "publishedDateTime": "2023-12-19T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-why-you-shouldnt-use-global-anycast-dns-in-china.md",
       "title": "Why you shouldn’t use Global Anycast DNS in China",
       "excerpt": "Anycasting an authoritative DNS service isn’t always the right answer. Learn how to improve the performance and reliability of your digital properties in mainland China. \nThe post Why you shouldn’t use Global Anycast DNS in China appeared first on IBM Blog.\n",
@@ -608,7 +651,7 @@
       "originalUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 135,
       "tags": null,
       "images": null,
       "content": "",
@@ -1320,40 +1363,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-bayesian-health-ceo-thinks-ai-is-ready-for-prime-time.md",
-      "title": "Bayesian Health CEO thinks AI is 'ready for prime time'",
-      "excerpt": "Bayesian Health CEO Suchi Saria discussed the role regulators could play next year regarding the use of artificial intelligence in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
-      "originalUrl": "https://www.modernhealthcare.com/digital-health/bayesian-health-suchi-saria-ai-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

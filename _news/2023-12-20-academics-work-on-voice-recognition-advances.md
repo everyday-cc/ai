@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "UK Police Could Soon Use Every Driver’s Licence Photo For Facial Recognition Searches"
+    excerpt: "New criminal justice bill would automatically include 50 million British drivers’ images in giant searchable database without their consent"
+    publishedDateTime: 2023-12-23T12:58:00Z
+    webUrl: "https://www.carscoops.com/2023/12/uk-police-could-soon-use-every-drivers-licence-photo-for-facial-recognition-searches/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 12
 
 secured: "1NdmoM49GDssaO1QR3DNclOMHSSHPSjxHXH9k73nYLvxV2v5CC7/XnY6NGYIcXdchionv2CO5XWKR1AIgszuiHiFvh0CFKgfCXeFsdsZH/Z2FJ4Rl7F5IegibsMi/xsuDfZOHCyOboyBYxZ4PmlxRBgzGoZYYrgVX1NMAOsVhEMNnkEk8KRqU4zLd6Rg4Wt7AYv2TlDqIsELv83uZL+b9u8ejEymzrCMHft5Wny0GeyqsOR3lwma4N69+k4y4jwhWvQlj8yX+Utdl9AEx9C/WHDIKK45aF8QHEysvvTtOS8CrYWCtnMs2qi2yOCHypydJnJoD4cWr1WwkBcmDSXpfVE7DO4ymdVqfWO76prWyHPjTuhqtvPUhC2dFEDZqxX9I7eBnieomxr5hpFbgyABDPsS+ik+k+Lw1Fx0dEeFJMtf4Du6ALXVB+aIPqPkWWsQPxFdysQtUUbz4jJZGCGkeQn5JfwQCdwOk6QhgH5GerL52XD3U3iJMrYYBg+eb6h8mrLLrDY+lYEvF5ChyOUxvA==;PwRSENDYuNqpBuuiSXKJqg=="
 ---

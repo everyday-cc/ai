@@ -85,20 +85,6 @@ related:
         width: 469
         height: 248
         isCached: true
-  - title: "Accelerating time-to-insight with MongoDB time series collections and Amazon SageMaker Canvas"
-    excerpt: "This is a guest post co-written with Babu Srinivasan from MongoDB. As industries evolve in today’s fast-paced business landscape, the inability to have real-time forecasts poses significant challenges for industries heavily reliant on accurate and timely insights. The absence of real-time forecasts in"
-    publishedDateTime: 2023-12-18T16:42:37Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-time-to-insight-with-mongodb-time-series-collections-and-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/27/ML-14327_image001-1260x438.png"
-        width: 1260
-        height: 438
-        isCached: true
 
 secured: "udvOfGO7pt9zKr1MMaMmDC+aUnhP3qR8k084GYaMzhxj49ThfwPdR8DAW1gcAEPK6fTM37bGOPNoL0HMeWwpSPN8fXqGizMOYed5/3cHNpJUo9zfiF5sGYo8gFYizBdoNP5HsPVC2Uvp5OLfI3LVyTOxSwUiKFcpwjxVfHFdQYl7gWhtOmzCrqO4Okd+RrF9HykBYAQkmJNEP1qOD553LdhOm3/NuWJdsWXTsH/mtoA2ECVCTIMrL7O9LR21teMIe7Am8hAbccsVqh9jeBkxFlNrLvYWteKZSaYNDuU0jqTkeShXvf2GcSoLcGMMD5LDzbeuVnxSH2p7vVMfncwbSX3X6I0MlLOs1CbzgodFwlM=;+Kp2KooUi0G9Hj21w14/9A=="
 ---

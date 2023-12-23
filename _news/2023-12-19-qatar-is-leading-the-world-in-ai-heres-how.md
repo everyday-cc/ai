@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Where Agriculture Meets Artificial Intelligence"
-    excerpt: "At the same time, we associate AI with high-tech inventions like generative chat bots, facial recognition and self-driving cars. But when you put agriculture and AI together, something amazing happens. Unless you’re an industry insider, you may not ..."
-    publishedDateTime: 2023-12-18T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/12/18/where-agriculture-meets-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "xqpA90uTXLom7keF7ca3HwTFSr4/gMXxABdyxqlR48Ielwq9JK9ur2t1qmrhADCcxT1ukST5pvg1SUJnAz8v6UGQH6LuAjFMVZXo8Dsf7ObvqlSeVnSjJZaT47xcOZQGfSZrgoFWMWpDIVwJzfdJN+pr5bVH3vncS+UPt+sQbq1fBKvzkMqS40Dxqh7gtk5lSMsFgf5JWLwLpml6IIrz2Vx4p8yTIaGupRlS4z06+G8dxJ8rz128eiw6855iudJP2KncXSQlgBcJwx9IhoFYFRUqUiIWuOA09PnbHzeYUWhcSipYQ8FX2O7DmujvqIt1H9pCzsjvMtiNeEGEkYtpaUKz4ByEf66um2/Svd5B7Wk=;JZG04YDk+8IQlCziAoicvQ=="
 ---

@@ -34,6 +34,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Brainstorm AI 2023: Shopping for New Uses of AI in Retail"
+    excerpt: "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE"
+    publishedDateTime: 2023-12-23T16:19:00Z
+    webUrl: "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023"
+    ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 87
+    images:
+      - url: "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
     publishedDateTime: 2023-12-22T15:35:00Z

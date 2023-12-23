@@ -36,6 +36,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
+  - title: "Sorry Santa, AI Is Replacing Elves In Toy Manufacturing"
+    excerpt: "AI in Design and Prototyping Toy manufacturers have significantly enhanced their design and prototyping capabilities through AI."
+    publishedDateTime: 2023-12-23T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658643d2441d885475fa8a3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1125
+        height: 900
+        isCached: true
   - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
     excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
     publishedDateTime: 2023-12-18T18:34:00Z
@@ -50,17 +66,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Taking stock of AI-powered digital lending"
-    excerpt: "AI promotes operational efficiency and can drive faster financial inclusion. But there are challenges that can lead to systemic risks"
-    publishedDateTime: 2023-12-18T15:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/taking-stock-of-ai-powered-digital-lending/article67651486.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 39
   - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
     excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
     publishedDateTime: 2023-12-19T14:07:00Z

@@ -33,15 +33,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "KC tech startup taps AI to help detect mental health issues, find help sooner"
-    excerpt: "Mental health issues are insidious and often invisible to outsiders. A #KansasCity tech startup uses AI to lift the veil and connect people to help."
-    publishedDateTime: 2023-12-18T16:32:00Z
-    webUrl: "https://www.bizjournals.com/kansascity/news/2023/12/18/raise-health-innovations-ai-mental-health.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "6qLSmIyJ64QDEPQtJC/yAf2+PY0EnRpNZJwj2y3w2L46D7d4nHArBYlAvOJVJzkupRVCek8yHpfqNDNvkJQ3N+lQfufpk85UpPMNBj6SkTP2iV6Av716mtm216rrhba2xUVbUZHjRRIloa9ay2mJnqzwQ5WdbG57oQ583NniVxfhcqps0i5QjgVEJA0aHUk5vKA3MGdvpbkNbsfHNh8KnpOTHMa+J5HUWVIzbuDymH/+h1bbhODk/FaShCQpk9XqDSRgIoOy69cmiEqH5UoOdqyzcZD16nXHcFQiv2rAai0V6hZec/EOXejZKGqkj2VL0jQzHICvyZyWbONtM13/2QWN23CcHS5lfM1RGwXYUg8=;BFI4NRoY/a3wiT8MS+KGdg=="
 ---

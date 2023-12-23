@@ -24,17 +24,6 @@ images:
     height: 731
     isCached: true
 
-related:
-  - title: "Santa’s Helpers: How Google Bard Can Assist with Your Holiday Shopping"
-    excerpt: "As the festive season approaches, the quest for the perfect gifts for loved ones intensifies, often turning into a daunting task amidst the overwhelming"
-    publishedDateTime: 2023-12-18T14:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/santas-helpers-how-google-bard-can-assist-with-your-holiday-shopping/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-
 secured: "tXXb7BJvt+6ENqJmtwArjXWbxm+mDqSzZSngdTNrLcGMkPQHD5AcUrJEmSs+xboKKaf1TvPqAKPY3seSjdFdM+QjGFEF8Tgzvrs3yOAr0ZJaJ2ojeQtuYQFWkMrv0sldHOhDyHpsxWmw/nZV0LaQHPL3xr/T2bQ5it/wH6418/dtP6GMNCUOzo3AwVk5O/KWD7w+qXk4QvQhtL8bzWGnknyFQzR8LvelLBO4ua8Nh1qME1c+WIKuCz8/hHwJkEOVn7J+lNvpYwUkQOoEyYxx9g7Nsa3C4xHRLrFaN3oKiGnkGaGo+YMnONpr/GUOW4wLUZVpQ1U+SvqfrjMGVblPS5oS7PivwJoQ2GjQ67McFIufoR2eNLETmzYfW8wLoLVjenWWw9eI+SZZJIlUHAR23LHogdHk4vTZ1gsiIQLbjC+KFLjTTbcVmu+dqGBmYE0IH8UYe4Aq9NAUo8Y++OR1TJZQbb4VMh0ztzicl11sQG33hM8g6BM2bsMFBMwhcr837yMJOLmZMGU2Jmw0+XMkxA==;kxiNwhgCYUGH0dTJB+cyfw=="
 ---
 

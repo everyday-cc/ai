@@ -182,6 +182,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Top 10 financial services and fintech stories of 2023"
+    excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
+    publishedDateTime: 2023-12-22T04:59:00Z
+    webUrl: "https://www.computerweekly.com/news/366562857/Top-10-financial-services-and-fintech-stories-of-2023"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
     excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
     publishedDateTime: 2023-12-22T08:03:00Z

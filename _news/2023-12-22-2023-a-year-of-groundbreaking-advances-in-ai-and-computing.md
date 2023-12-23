@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "2023: the year of the AI boom"
     excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
     publishedDateTime: 2023-12-19T23:59:00Z

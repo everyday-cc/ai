@@ -91,20 +91,6 @@ related:
         width: 500
         height: 354
         isCached: true
-  - title: "Nvidia's AI Boom And The Ghost Of Cisco's Internet Bust"
-    excerpt: "Nvidia Corporation established dominance in AI advancements, where it already had a foothold in data center market. Find out why NVDA stock is a Sell."
-    publishedDateTime: 2023-12-18T13:45:00Z
-    webUrl: "https://seekingalpha.com/article/4658450-nvidia-nvda-ai-boom-and-ghost-of-cisco-internet-bust"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/949315604/image_949315604.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
     publishedDateTime: 2023-12-22T20:30:00Z

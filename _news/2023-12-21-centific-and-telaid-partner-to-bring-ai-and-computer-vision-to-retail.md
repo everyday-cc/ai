@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Centific and Telaid Partner to Bring AI and Computer Vision to Retail"
-excerpt: "AI-Powered Computer Vision Meets Deployment Expertise for Retail and QSR Innovation SEATTLE, Dec. 21, 2023 /PRNewswire/ -- Centific, a global provider of AI and data services, has announced its partnership with Telaid ,"
-publishedDateTime: 2023-12-21T14:49:00Z
-originalUrl: "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/"
-webUrl: "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/"
+excerpt: "AI-Powered Computer Vision Meets Deployment Expertise for Retail and QSR Innovation"
+publishedDateTime: 2023-12-21T13:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937540.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937540.htm"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Ez/zA6p608ULTW+BgZiF+LGYyu+1+dbMVgkkqmGQQ0LT4FaNH0/EigkaTgCWq9U+6DXLMKiJGjxAB8R7LzPlhnFsS2/MBjX3+j9MKkltYHNKHRzOKar99tGh/HvJ1gr9JqW3PeQp2G4CnFDWyn6grunaKV57GA7zvxWNBiNov8UFNvoMmucqd7Ykw/DIXWOvjtO6P4tXp6aXOHDnPxGfTa5Nvkt3BhJ85lOuvA2wsVSvtDAB6km08Z3dptJKdrK3XSzvTIdKrUxkjcDfakGmNeyCxqlrMTL+8FeGl8mxJcZTxB5UDFud1fKHjeMAiHkNikz62loqyZFKiPql9KD3JSiI4lw7wYIJ/4t9us0HZEg=;5vlYe3qMRrayM7yzbQ7Bvw=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "doyo1ZfuCrIuJ+h0vSYe3SBFkb+F6NzhKKOGGpjm6Svm7t1fqGie9AzPna89yfG/7m34u0/W9uoc9i44AXkUZFV49/PB7iVqYvChtUrkxjzp+OxRqeIRO8J6+iFyJcAayYKmneiHJo/4ZenBzotMXintU8TVWbXDdbH+n7MSArf0NQKWE5BlyNJZ9ipPS5gFzIx6CSDLgYoDd99oNeJiJwhNJdQeqHHtGmtHkxW/TtcIE0jWgyqwLC5JpaCX2HLcCq4kg4U4tJx9eeMMGxsZT3wbXvQ8HToE+vwcQKF/UHFY2WBQH4JI+dtYgt8mv7tkroLQ+eM+I9JL2lQeDTx8DAdcjMH4FKtQiJtoKG0F3hI=;zybSJhmsOGYjqkPJ0aw3GQ=="
 ---
 

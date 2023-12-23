@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Music AI in 2023: a database of tools"
     excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
     publishedDateTime: 2023-12-19T13:55:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.plantservices.com/technology/artificial-intelligence/a
 webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Plant Services
@@ -25,6 +25,96 @@ images:
     isCached: true
 
 related:
+  - title: "This week in AI: AI ethics keeps falling by the wayside"
+    excerpt: "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ..."
+    publishedDateTime: 2023-12-23T16:01:00Z
+    webUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/"
+    ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Future with AI: Artificial intelligence will be a weapon in the fight against climate change"
+    excerpt: "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations."
+    publishedDateTime: 2023-12-20T10:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "2023 - the year in AI use cases"
+    excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://diginomica.com/2023-year-ai-use-cases"
+    ampWebUrl: "https://diginomica.com/2023-year-ai-use-cases?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-use-cases?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
+        width: 1472
+        height: 832
+        isCached: true
+  - title: "Digital Ethics Summit 2023: The year in AI"
+    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "AI and ethics in journalism"
+    excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
+    publishedDateTime: 2023-12-19T16:58:00Z
+    webUrl: "https://kathmandupost.com/columns/2023/12/19/ai-and-ethics-in-journalism"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 54
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2023/opinion/DownShutterstock-1703005940.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The Silent Bias in AI: Exploring the Troubling Reality"
     excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
     publishedDateTime: 2023-12-20T12:06:00Z
@@ -39,43 +129,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "The nascent AI industry is being overrun by men"
-    excerpt: "This work continued into the second world war, when they were actively encouraged to take on wartime jobs as computers in the absence of men. Women continued to work as computers into the early days of the American space program in the 1960s, playing a pivotal role in advancing NASA’s space projects."
-    publishedDateTime: 2023-12-21T01:12:00Z
-    webUrl: "https://ia.acs.org.au/article/2023/the-ai-industry-is-overrun-with-men.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2023/altman-mira-murtai.jpg"
-        width: 1214
-        height: 683
-        isCached: true
-  - title: "How to get started with AI for industry and business leaders"
-    excerpt: "Learn from Microsoft leaders how to transform your organization with AI and align AI technology with your business goals with a video series."
-    publishedDateTime: 2023-12-19T16:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2023/12/19/how-to-get-started-with-ai-for-industry-and-business-leaders/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 37
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2023/12/MSC22_PICHA.jpg"
-        width: 1260
-        height: 841
-        isCached: true
-  - title: "How UPS is using AI to combat package thefts"
-    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
-    publishedDateTime: 2023-12-20T14:14:00Z
-    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "8Qmv65CMve6xz45f9U3UkgInEQ4SV0SpGCbXN3UeDkG/yFx/JkvxC3xfsy4uUhZ8Ck6mAMrPq4ZIZ19laTjKzPV6MaMN2nOzOrfbeqVPtMY6K0VMcsr232Kz+tYL4hMDdJNWRUV9A7jjwwUbGSt6zvvVZQh6R5jmbHVVkUU2fPJeScmksYWNI8LlY4EsiXOgJJLmLdaBaIU1htLVVXvhP0X4rIi6xkpOzoTqFm1RjMTD1aIIYgtf4Oqhve7UR1L92QKebYM1E53y5KBq7AXXeZ+6os1iz1+5/K/t/GrNlEG1dpUqgwGDdKP+b7v1Z9JFCF5ANmVDrNpCl0ru6A6iwQ0b2WQphzhC6JP9bd9Q5EccZoefxvHndtBS7Nj2VP0hPqksFAA+cT5UC4qxwhpQz43Mb2xkvkjnjHuaL+aBHVfNU40Ktb/9h1t2J0BFd0Uu6mQ78M1QsDSbQ+bR+ryrNL4mCWqAZOZMy72WYbIxqzPiwfzhZdxpfuo/KqD7FRzH2im8t8ME8+QDN5wpdsSMbg==;GMVGrdyv0zq7XLXxAr4jDQ=="
 ---

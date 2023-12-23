@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-boswo
 webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
 type: article
 quality: 67
-heat: 91
+heat: 82
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Where Agriculture Meets Artificial Intelligence"
-    excerpt: "At the same time, we associate AI with high-tech inventions like generative chat bots, facial recognition and self-driving cars. But when you put agriculture and AI together, something amazing happens. Unless you’re an industry insider, you may not ..."
-    publishedDateTime: 2023-12-18T16:04:00Z
-    webUrl: "https://www.forbes.com/sites/delltechnologies/2023/12/18/where-agriculture-meets-artificial-intelligence/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Qatar is leading the world in AI; here’s how"
     excerpt: "An advanced society capable of sustaining its development and providing a high standard of living for its people.” - That is the essence of Vision"
     publishedDateTime: 2023-12-19T06:22:00Z

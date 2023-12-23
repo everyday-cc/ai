@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/artificial-intelligence-experts-share
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
         isCached: true
   - title: "2023: the year of the AI boom"
     excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."

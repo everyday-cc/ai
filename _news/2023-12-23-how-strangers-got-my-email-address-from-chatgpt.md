@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
         isCached: true
   - title: "How to get a shareable link to a ChatGPT conversation"
     excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."

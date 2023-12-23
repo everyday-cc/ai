@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-22-ai-news-roundup-december-2023.md",
+      "title": "AI news roundup December 2023",
+      "excerpt": "We’ve seen AI features in Adobe apps and hints at future features in Adobe MAX 2023 sneak peeks, but AI isn’t waiting. It’s finally starting to look like Snowcrash. This is a short summary of other news summaries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/ai-news-roundup-december-2023/",
+      "originalUrl": "https://www.provideocoalition.com/ai-news-roundup-december-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/deepakpal.jpg",
+          "width": 1588,
+          "height": 1059,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/ai-news-roundup-december-2023/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-news-roundup-december-2023/amp/",
+      "publishedDateTime": "2023-12-21T23:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-where-meta-is-going-next-with-ai-and-ar.md",
+      "title": "Where Meta is going next with AI and AR",
+      "excerpt": "Generative AI has changed a lot of product roadmaps this year. At Meta, it has big implications for AR glasses, according to CTO Andrew Bosworth. I recently caught up with Bosworth, who goes by Boz, to chat about all things AI and AR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses",
+      "originalUrl": "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-52FlQjDAxR5JKt5OPW0kTtXNFo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24719857/Meta.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T23:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-propelled-by-science-for-humanity-this-chinese-ai-startup-sets-sight-on-us.md",
       "title": "Propelled by ‘science for humanity,’ this Chinese AI startup sets sight on US",
       "excerpt": "One bold startup called DP Technology stands out from the crowd ... While the world is currently fixated on using AI to generate text, images and videos, DP finds itself in a less-tapped field: combining machine learning, which allows computers to ...",
@@ -61,7 +155,7 @@
       "originalUrl": "https://www.foxnews.com/us/biden-administration-launches-ai-safety-initiative-calling-public-input-standards",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -944,7 +1038,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/articleshow/106161438.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1113,108 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-4-ways-ai-transformed-music-movies-and-art-in-2023.md",
-      "title": "4 Ways AI Transformed Music, Movies and Art in 2023",
-      "excerpt": "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
-      "originalUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T22:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-how-ai-can-supercharge-your-job-search.md",
-      "title": "How AI Can Supercharge Your Job Search",
-      "excerpt": "Step 1: Develop your resume and online profile. The first step in any job search is to prepare your resume and online profile (on Handshake or LinkedIn) and pull together the core components of your cover letter. These documents should list relevant education and employment history as well as your skills, abilities, and interests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658354bcbd785accb21900ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
-      "publishedDateTime": "2023-12-20T21:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

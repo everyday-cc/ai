@@ -27,81 +27,107 @@ images:
     isCached: true
 
 related:
-  - title: "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead"
-    excerpt: "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T17:13:44Z
-    webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
+  - title: "This week in AI: AI ethics keeps falling by the wayside"
+    excerpt: "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ..."
+    publishedDateTime: 2023-12-23T16:01:00Z
+    webUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/"
+    ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
-  - title: "Navigating cloud concentration and AI lock-in"
-    excerpt: "All the worry over technical debt and the risks of cloud vendor lock-in has spread to AI, only the stakes are now much higher."
-    publishedDateTime: 2023-12-19T10:02:00Z
-    webUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
-    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
-    publishedDateTime: 2023-12-22T18:54:00Z
-    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
+  - title: "Future with AI: Artificial intelligence will be a weapon in the fight against climate change"
+    excerpt: "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations."
+    publishedDateTime: 2023-12-20T10:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AI or not to AI: How artificial intelligence is changing the industry"
+    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
+    publishedDateTime: 2023-12-18T18:25:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 733
+        height: 630
         isCached: true
-  - title: "Breathing new life into fight to save the seas with artificial intelligence"
-    excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
-    publishedDateTime: 2023-12-18T14:57:00Z
-    webUrl: "https://www.reuters.com/sustainability/land-use-biodiversity/breathing-new-life-into-fight-save-seas-with-artificial-intelligence-2023-12-18/"
+  - title: "Digital Ethics Summit 2023: The year in AI"
+    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
-  - title: "Crypto Analysts are Building a Position in This AI Token – What Do They Know?"
-    excerpt: "As crypto analysts spot potential in an emerging crypto startup's AI token, what insights are driving their interest?"
-    publishedDateTime: 2023-12-21T21:55:00Z
-    webUrl: "https://cryptonews.com/news/crypto-analysts-are-building-a-position-in-this-ai-token-what-do-they-know.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 34
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
     images:
-      - url: "https://cryptonews.com/wp-content/uploads/2023/12/1703190377-adobestock_631398404-min-scaled.jpeg"
-        width: 2560
-        height: 1435
-        isCached: true
-  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
-    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 26
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
         width: 1200
-        height: 900
+        height: 400
+        isCached: true
+  - title: "AI and ethics in journalism"
+    excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
+    publishedDateTime: 2023-12-19T16:58:00Z
+    webUrl: "https://kathmandupost.com/columns/2023/12/19/ai-and-ethics-in-journalism"
+    type: article
+    provider:
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 54
+    images:
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2023/opinion/DownShutterstock-1703005940.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
+    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
+    publishedDateTime: 2023-12-19T00:56:00Z
+    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 48
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
+    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
+    publishedDateTime: 2023-12-20T12:06:00Z
+    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "TyxnQaujRfCSf7eoK4twe53Qi9JNP/V0382HgJ+CvbVpEq4TSzUat1Eo+xMEeSVI8enK8BV8pTM7MWjmL5jox7dkMcyIacZpspqPWTqzJGdiTyD67OlJPZF28dvmS+12nG1vLJWtw2jIvBcixcviTQyMqETkYkLEJ9JlXVPh3i8nw5e75pw7tGLliEDxZO7Iz843+OQ9ZeVsvvWvzwuSjBqKO+RgfMGZXI3T4ohMTqUKSwuoSE7i1pcJNaGElU1KouwfE9vTGaytD4OafHgncJ+XpzfoKOoR6IaMY+NlZgsL06vOPoZoZG/MlLKJFHdTaHYLaSExKyeS63GbufXD2IL/Rc23B/0IYMnvkQBdFvFxsvDtIzFlhc1VbkWXCojQZB+bJNuAPwDdfWCgzRpfdsyDA34kDXcUnVm2xtgoRfhHO55B2TZxS952H8/+l2eeJgmtxtSkhwIM/WW0Jjy1SWcxMIr4vzWkpNl+8rBB0WKdk8/ob0BE0unZoJqqnP6d7s/lgl39BmbtxM5ybz1BiQ==;kuk6Tj2XcdBEax8FdEclCA=="

@@ -51,22 +51,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Further your AI ChatGPT and Python knowledge and build your own chatbot with this mega bundle, now $29.97"
-    excerpt: "Take on the rising world of AI with The 2023 Ultimate AI ChatGPT & Python Programming Bundle, now on sale for only $29.97 through Christmas."
-    publishedDateTime: 2023-12-18T16:46:00Z
-    webUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/"
-    ampWebUrl: "https://www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-content/ai-chatgpt-python-bundle-deal/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/18/image.png?auto=webp"
-        width: 1067
-        height: 800
-        isCached: true
   - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
     excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
     publishedDateTime: 2023-12-19T14:39:00Z

@@ -2,6 +2,160 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-21-4-ways-ai-transformed-music-movies-and-art-in-2023.md",
+      "title": "4 Ways AI Transformed Music, Movies and Art in 2023",
+      "excerpt": "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
+      "originalUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T22:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-how-ai-can-supercharge-your-job-search.md",
+      "title": "How AI Can Supercharge Your Job Search",
+      "excerpt": "Step 1: Develop your resume and online profile. The first step in any job search is to prepare your resume and online profile (on Handshake or LinkedIn) and pull together the core components of your cover letter. These documents should list relevant education and employment history as well as your skills, abilities, and interests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658354bcbd785accb21900ab/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecruzvergara/2023/12/20/how-ai-can-supercharge-your-job-search/amp/",
+      "publishedDateTime": "2023-12-20T21:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders.md",
+      "title": "Police to be able to run face recognition searches on 50m driving licence holders",
+      "excerpt": "Exclusive: Privacy campaigners say clause in new criminal justice bill will put all UK drivers on ‘permanent police lineup’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/911c47e92f20471b307595b933fe4be7e671675e/0_25_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=df04491dbc8a743f01a8d04c53b53511",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
+      "publishedDateTime": "2023-12-20T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-tech-slips-as-ai-speculation-slows-tech-roundup.md",
       "title": "Tech Slips as AI Speculation Slows -- Tech Roundup",
       "excerpt": "Shares of technology companies fell slightly as a speculative rush into AI stocks slowed. The semiconductor rally is set to resume Friday after",
@@ -251,7 +405,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1058,153 +1212,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-what-happens-when-facebook-heats-your-home.md",
-      "title": "What Happens When Facebook Heats Your Home",
-      "excerpt": "Big Tech data centers are not only being used to power the internet but also to heat people’s homes. But who’s really winning when Facebook keeps you warm at night?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-energy-heating-homes/",
-      "originalUrl": "https://www.wired.com/story/facebook-energy-heating-homes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/658226459e524a9c9b3eb79f/191:100/w_1280,c_limit/Facebook-Heating-Homes-Business-1427597715.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-ai-beats-humans-for-the-first-time-in-physical-skill-game.md",
-      "title": "AI beats humans for the first time in physical skill game",
-      "excerpt": "AI’s ability to beat human players in games like chess and GO is no longer surprising. After all, artificial intelligence has proved it can outperform its animate creators in certain tasks, especially when it comes to processing and analysing information. But physical skill has remained a human prerogative — until now.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
-      "originalUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2023/12/labyrinth-game-image-1-796x553.jpg",
-          "width": 796,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-future-with-ai-artificial-intelligence-will-be-a-weapon-in-the-fight-against-climate-change.md",
-      "title": "Future with AI: Artificial intelligence will be a weapon in the fight against climate change",
-      "excerpt": "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html",
-      "originalUrl": "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp",
-      "publishedDateTime": "2023-12-20T10:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

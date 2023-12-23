@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-art
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "AI trained on millions of life stories can predict risk of early death"
-    excerpt: "A model trained on 6 million people’s health, employment and financial records can predict death more accurately than tools used by the insurance industry"
-    publishedDateTime: 2023-12-18T16:01:00Z
-    webUrl: "https://www.newscientist.com/article/2408480-ai-trained-on-millions-of-life-stories-can-predict-risk-of-early-death/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/18120222/SEI_184209485.jpg"
-        width: 1350
-        height: 900
-        isCached: true
-
-secured: "AMXYfzvrcbZbfvr0WSG/UzGgy5OHMpHDAQaKIhzjbYOQbC0c7nFampKyFXYcUfSJPw966OsrV4hLa/dBEwPR4G/EvzASa06BXoERIyxfMCtHcwkQ3sWIbUNowPlzHMhYbfjnVTLhaE9+Zrxh02SMBNlQoJ2ftNnz1gwGVWVRsUDyOTMkvfejE5VpQoj4lSIe4SYEQ7XdhmSEvIBTaPHuVp1s6wLhYd/gn/985Q3F+gu/ukX67Th8wgZo8dyU2Zo+/uZiQnBeP7mWaNh11j+odO5cF0GebvBXm+LwJbIc3GPBnu97+CQpDGVObLkLdTsii6ie7oX4dfXXqGKPUoULU35KXKa/2ZjtWSUVf2liLPQ=;16bqQPh0/yWGpXtvActY2A=="
+secured: "ysRi9iNO4pKn++j+i0i+3ATh+5xrRfxFyJeFJfK+RQQ8FdKgzhVo4SKe0YiZMkYfrUqgmNbHZjOqJf/ZgWAwLjs9oSlLP/NsHr/hoCFWxKXvFlqJhl9EFTMeGbt25e1mlyM+SuO+t2KsSe25YT0AEUbWSv2kAogt1zdpW99RSfHZxpTOc6jxPVo1QtlYKJS2nbpn3742DWaaOrZKRn60R7aedy+TTGykNuVlrf9gZSJQCWQe4A3AnnnyFby8dG5tiQKQIqdiF8sj7X0/xEKUnN76zUWcwZj17zioh7NlKJJICi/K1oe5QWn6WLeRIskUlFdmTFzbyMmC8FCapT8fKFigbqTisbBF3jcMQFl7oOw=;z9xVXRCZyTSWmwjzFY22WQ=="
 ---
 

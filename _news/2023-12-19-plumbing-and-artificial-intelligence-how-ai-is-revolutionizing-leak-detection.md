@@ -24,156 +24,110 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Performance Reviews With Generative AI"
-    excerpt: "HR leaders and people managers should consider incorporating generative AI technologies into the performance review process for better insights."
-    publishedDateTime: 2023-12-22T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
+  - title: "This week in AI: AI ethics keeps falling by the wayside"
+    excerpt: "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ..."
+    publishedDateTime: 2023-12-23T16:01:00Z
+    webUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/"
+    ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65846043702a508c2f2c1107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AI Revolutionizing the Automotive Industry"
-    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
-    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
-    publishedDateTime: 2023-12-22T07:59:00Z
-    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
-    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 66
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI generates proteins with exceptional binding strengths"
-    excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
-    publishedDateTime: 2023-12-18T16:54:00Z
-    webUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.html"
-    ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
+  - title: "Future with AI: Artificial intelligence will be a weapon in the fight against climate change"
+    excerpt: "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations."
+    publishedDateTime: 2023-12-20T10:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 63
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-generates-proteins-1.jpg"
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg"
         width: 1280
-        height: 1706
+        height: 720
         isCached: true
-  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
-    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
-    publishedDateTime: 2023-12-18T14:42:00Z
-    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
+  - title: "2023 - the year in AI use cases"
+    excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://diginomica.com/2023-year-ai-use-cases"
+    ampWebUrl: "https://diginomica.com/2023-year-ai-use-cases?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-use-cases?amp"
     type: article
     provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
-    quality: 39
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
+        width: 1472
+        height: 832
+        isCached: true
+  - title: "AI or not to AI: How artificial intelligence is changing the industry"
+    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
+    publishedDateTime: 2023-12-18T18:25:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true
-  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-    excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
-    publishedDateTime: 2023-12-19T09:06:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
+  - title: "Digital Ethics Summit 2023: The year in AI"
+    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
+    publishedDateTime: 2023-12-19T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 39
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
+      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
+        width: 1200
+        height: 400
         isCached: true
-  - title: "3 ways generative AI will transform your people strategy in 2024"
-    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
-    publishedDateTime: 2023-12-19T16:19:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
+  - title: "AI and ethics in journalism"
+    excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
+    publishedDateTime: 2023-12-19T16:58:00Z
+    webUrl: "https://kathmandupost.com/columns/2023/12/19/ai-and-ethics-in-journalism"
     type: article
     provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
+      name: kathmandupost
+      domain: kathmandupost.com
+    quality: 54
     images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
-        width: 620
-        height: 372
+      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2023/opinion/DownShutterstock-1703005940.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3"
-    excerpt: "Hitch Interactive, the company connecting innovators and providing immersive experiences in AI, robotics, fintech, and the Metaverse, today announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs."
-    publishedDateTime: 2023-12-19T13:05:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/hitch-interactive-unveils-generative-ai-within-programmable-nfts-forging-a-new-era-for-web3/article_4b70e2c9-bb52-5378-835d-44b26fa10495.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
-    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
-    publishedDateTime: 2023-12-21T07:12:00Z
-    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
+  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
+    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
+    publishedDateTime: 2023-12-20T12:06:00Z
+    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 30
+    quality: 41
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
-        width: 600
-        height: 450
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
-  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-    publishedDateTime: 2023-12-21T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "swPf0d4BBATinxrgdjc1+1AfcUpLa5U1FuyUsgja7j4+DN/MuyCHyfz9SEswEkeC0JjmZfUtypxFsX5Uk47IJo0tJmz/wXGef2G797RDzqgOfSkFofvzonnzJtv4+aoREkfvz1p+WqcDmCl2QoptsqEjBzyrGv492d3GwASlkIGQ74ZfACclpNEq4nfVvH2pIur6Zvm06ZWTeBLz+bYr7YQOrxov6hsOmTaKHEdam88HecSttZNxiCvGO/vnkpERDfMobT+sHxXgejOVkTFq4VHF9w2f0BVBrI6mijvLnwpDocrDJtESDfswHamScAoJeGsLUNRNMo1k0IlAHycWOoDw3GE7Pi0CsZ/Te2gnvUFk5e9OSukWnrcxJjVdATQp7lTEd8hcNdRfwjBkKWkzc64DK48sT+AGf/PZ6/8jsyfA5oUXBZIjCwFIonSekBYC3CRupqtm0C/fr1VUf4IDw1jUcRT8/iOzx7wZM1VndQAuzjy859YEWwNTZdYBrzLP/swvlsXmn4WwaXElydZUzg==;lglrEWAtCKo3iS9nCH0JAA=="
 ---

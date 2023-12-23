@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferkitepowell/2023/12/19/how-creators-can-use-ai-to-be-more-efficient-and-still-be-creative/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 97
 published: true
 
 provider:
@@ -39,34 +39,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How Banks Can Stay Resilient As AI Becomes More Disruptive"
-    excerpt: "Historically, disruption is extremely rare. Only 23 of the 568 companies included in the Fortune 500 since 1997 were under 15 years old when they entered. But right now, there are three forces converging that might transform finance and other industries."
-    publishedDateTime: 2023-12-18T13:15:00Z
-    webUrl: "https://hbr.org/2023/12/how-banks-can-stay-resilient-as-ai-becomes-more-disruptive"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/Dec23_18_BanksResilient.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Use Copilot AI to summarize long content to improve efficiency and productivity"
-    excerpt: "Using Copilot AI to summarize long content can provide measurable impact on efficiency and productivity. Enabling you to quickly gain insight"
-    publishedDateTime: 2023-12-18T14:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/use-copilot-ai-to-summarize/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 35
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/summarise-long-content-using-Microsoft-Copilot-AI-assistant.jpg"
-        width: 1280
-        height: 733
-        isCached: true
 
 secured: "blSi0osN0V0wz/qcFEtdsusThoONva6RDN1x/3JfjXJCUKajagP3XsBTYUl9CSZvj2jvGQ5PRj2acSgFCh79SfmwRH3DAggcZPFd5EQtsT2EP3AfGkMWPSDTKzGCpqtF8DYQbO2fbxboNnE6ltGhQaHmJApOt/5iNeZ1DT4df+xYhsGjc/TfTOWKomjOUNucdojDGMeE7n/3m00K0ey45VaLKZSNbe0KoDt0f1DtS3PhzybHeywHvhixi2KwSBgqGbWpqdAvIpkkYRbXupEhbtg8e7IzffHqtLhMMQ10EMzIGTM1Anw5jeWFV+Rl4f1YZ1+XnY4SGsI4Qp0WEve6q5na4jy1CHWAlLObDAa7go0=;GCYCxy9Dx1JTcxEgLRbjuA=="
 ---

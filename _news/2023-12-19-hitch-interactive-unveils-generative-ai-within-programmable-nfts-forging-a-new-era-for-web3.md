@@ -72,50 +72,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI generates proteins with exceptional binding strengths"
-    excerpt: "A new study in Nature reports an AI-driven advance in biotechnology with implications for drug development, disease detection, and environmental monitoring. Scientists at the Institute for Protein Design at the University of Washington School of Medicine used software to create protein molecules that bind with exceptionally high affinity and specificity to a variety of challenging biomarkers,"
-    publishedDateTime: 2023-12-18T16:54:00Z
-    webUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.html"
-    ampWebUrl: "https://phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-ai-generates-proteins-exceptional-strengths.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-generates-proteins-1.jpg"
-        width: 1280
-        height: 1706
-        isCached: true
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Revolutionary mind-reading AI system can turn thoughts into text"
-    excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
-    publishedDateTime: 2023-12-18T14:42:00Z
-    webUrl: "https://www.purdueexponent.org/news/national/article_d7056113-b0e0-58b5-acbf-7b0d01242308.html"
-    type: article
-    provider:
-      name: Purdue Exponent
-      domain: purdueexponent.org
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/purdueexponent.org/content/tncms/assets/v3/editorial/d/2b/d2b7e9ba-3330-5ede-a722-ec78a67a3928/65806cdb088f3.image.jpg?crop=1500%2C788%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
     excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
     publishedDateTime: 2023-12-19T09:06:00Z

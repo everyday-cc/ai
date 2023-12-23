@@ -1,31 +1,22 @@
 ---
 category: news
 title: "Apple explores AI deals with news publishers"
-excerpt: "Big tech has been investing aggressively to integrate generative AI. On the other hand, Apple has used the technology to improve basic functions in its new gadgets. Apple also introduced new MacBook Pro and iMac computers and three new chips to power them ..."
-publishedDateTime: 2023-12-23T00:00:00Z
-originalUrl: "https://tribune.com.pk/story/2450922/apple-explores-ai-deals-with-news-publishers"
-webUrl: "https://tribune.com.pk/story/2450922/apple-explores-ai-deals-with-news-publishers"
-ampWebUrl: "https://tribune.com.pk/story/2450922/apple-explores-ai-deals-with-news-publishers?amp=1"
-cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2450922/apple-explores-ai-deals-with-news-publishers?amp=1"
+excerpt: "Apple has floated multiyear deals worth at least $50 million to license the archives of news articles, said people with knowledge of talks."
+publishedDateTime: 2023-12-23T12:00:00Z
+originalUrl: "https://www.seattletimes.com/business/apple-explores-ai-deals-with-news-publishers/"
+webUrl: "https://www.seattletimes.com/business/apple-explores-ai-deals-with-news-publishers/"
 type: article
-quality: 59
-heat: 59
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: The Express Tribune
-  domain: tribune.com.pk
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
-  - AI Hardware
   - AI
 
-images:
-  - url: "https://i.tribune.com.pk/media/images/apple1703313881-0/apple1703313881-0.jpg"
-    width: 2822
-    height: 1882
-    isCached: true
-
-secured: "6Ps0DmCXnrC6O/AN2Oqc9Xma1Z1oEW8wMbP7Lk4HNHu0ABgl+UBrp23vpHBoAvNL0wDUFse/jllf918jEteRpNW0ZvZnlkPHlkBUENdooNJkgxadf2Y0OOXDbK25GzEz6dJewepBBKfCOl82RBmQ+jWk4zkfdo0i3N0Ht7/ZlsUTEoCMsltgE5aBJnEKjey/5PU/sTEjUaM4UhlLDIC22PXlaRQwc4E513iKhcu0Ilp8J2dPm4Bm+aNjB9EThlOdpYZWGcWN26drFZiYgRxmZ61lt/u+N21xw8uiXFIMShZ2JYDgi4Ct521Y7ZRUKc6leY91gDsbJrQuRPqrRtgb2JZWQRDaM6RfPctmqadnq+A=;71COBQz4e+WrTX+iDUWbOQ=="
+secured: "Q3aNq2fOXYOijCFI22I/lhq4IQM7QRSIT+SOuoctL8uO5YZx3p74TfS/f21HDwRnzcOUTNhCaAHhmQskVuO/TdqEn2utDQlPml4gO1yljn059L7PcXCI9HihXmQmaC+ogwynINcVyPIqm46Yv5ltdtT3F3tCs+KZlan36VTblwkcqqPbjfS2cAS1kHDqckt3C7QjYDrSBzHpI3/ydrxi0yemQRQoKBdjt4Qx5NxKCqhqr2w1LNZH4IKeV4icXmk9AvDyZZRKD/qdcDPGD1+EnHfSO7lC/oW4Yn22jdKtxaUneJxSmFiMN9At3xBcUWyJeHf7SuG7zc31HMRhq2yU5EonjQHqgHkRIzjbDoebcH9KlDYHh07xLQANJcmlAikz+hel7HhNyZz3eL6ks2s9R+TXZahQKTwPyoc5/EReq9TiqpkQe1I8YlYjnHQPPtqPbyxj/Q/6ePJLfswHcRainLVTHWpvLWu88ClM/3B4zeIvCn9UJdUXYJrWEarexxiySfnWWt7+xM035LHrKOxXpw==;mqw4sZu+HLSCFe9srfnY8g=="
 ---
 

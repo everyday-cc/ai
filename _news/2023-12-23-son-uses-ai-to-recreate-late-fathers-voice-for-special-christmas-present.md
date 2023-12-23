@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-v
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
 type: article
 quality: 56
-heat: 87
+heat: 89
 published: true
 
 provider:

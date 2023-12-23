@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "4 ways robotics, AI will transform industry in 2024"
+    excerpt: "How will robotics and AI impact industry in 2024? Anders Billesø Beck, VP of Innovation and Strategy at Universal Robots, weighs in."
+    publishedDateTime: 2023-12-23T14:30:00Z
+    webUrl: "https://www.therobotreport.com/4-ways-robotics-ai-will-transform-industry-in-2024/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
   - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
     excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
     publishedDateTime: 2023-12-20T10:16:00Z
@@ -47,20 +56,6 @@ related:
       - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
         width: 300
         height: 201
-        isCached: true
-  - title: "How artificial intelligence is transforming higher education"
-    excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
-    publishedDateTime: 2023-12-18T14:38:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/education/how-ai-is-transforming-higher-education-artificial-intelligence/83-65fbb04e-bf3a-4b0e-8dc8-11cd32addad2"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 54
-    images:
-      - url: "https://media.wfmynews2.com/assets/WFMY/images/d6c9631c-6688-4aa7-9ab7-b5a7149521d4/d6c9631c-6688-4aa7-9ab7-b5a7149521d4_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
 
 secured: "dQ2h4wKgMV5W3VUWdiqQsx+uNHKBzTF9GbIWWjbYVBhayEtWmNY1bO7KZKTPxzlaAkMlYYyNFitt5yhN/q5BouBplG84X4jM387L8kDSPBo1k71FeuFS/ckUejTvJ5WxlglfQ0iQWXUelb6yaD5jVbcYGFQQSNa9muM6rttdz0Sn+dUbdFl6EZhLx8eIFwpvjQPoyMXJGGedsK7DCvBIMNygpjwXiPTltGXIhsw6W8UefqMeBt1rjOHhDXx97J71bBXIvO3NyzCs6ajXZe09D9qEFQ4YeV4XtVZfSWDuRcy1jpbDEbDcPpo85dJn7G83MX7JmRvrJW2NCSE9Myul3wOUPIC3iZjRy3Iya2d1y5Pmb+ITorxabS19AfzLD0vvLy+D2M66cXITjt9gYjQGfkrexnZXVAQmVt2qQxIul86mPLOOE/M6MrB2V23XtNFeZZXxP5imAL5gIW/ohFLcVKhbePJoKPpB0ijLJw5tkr3FszyAqGcAIeKDmrfiB9m3Bn2ECizstjlU1/smRXKwKg==;6F7hiQJMcSsb3pB1nnDHEQ=="

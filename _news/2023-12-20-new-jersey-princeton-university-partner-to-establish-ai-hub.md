@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/new-jersey-princet
 webUrl: "https://www.govtech.com/artificial-intelligence/new-jersey-princeton-university-partner-to-establish-ai-hub"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,26 +22,6 @@ images:
     width: 1440
     height: 700
     isCached: true
-
-related:
-  - title: "New Jersey touts new East Coast AI hub at Princeton University"
-    excerpt: "New Jersey and Princeton University announced plans to establish a new AI hub for AI researchers, industry leaders, and startups."
-    publishedDateTime: 2023-12-18T14:05:00Z
-    webUrl: "https://venturebeat.com/ai/new-jersey-touts-new-east-coast-ai-hub-at-princeton-university/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Governor Murphy and Princeton announce plans to establish an artificial intelligence hub in New Jersey"
-    excerpt: "The governor described the hub as “a new home for the world’s boldest and brightest to pioneer breakthroughs for the betterment of humankind.”"
-    publishedDateTime: 2023-12-20T14:05:00Z
-    webUrl: "https://www.princeton.edu/news/2023/12/20/governor-murphy-and-princeton-announce-plans-establish-artificial-intelligence-hub"
-    type: article
-    provider:
-      name: Princeton University
-      domain: princeton.edu
-    quality: 1
 
 secured: "ZTKrepqYMtU1fZcHpvl/nSEXFrISaTftUd9uAIaHyy2kxV8iTPLMe3ujLClE8gSvnUHRdRRKtFLIz53S4LW9YrZnSetkEF6PU0vLy14OdIgaiQR0FkeSbd080tkJj7ocW9qUsI/ZfK6RNiS/VJrmclCQ+PPYQALpDu6NT3aZ20X/ie8+85QQ5zo70sT1n4mPxv/mpEcB++ahrWE3HXW7DCWtNvMGsor1P5K60CJN1Xuv17RdZPUZlQXdfMvVXnPxlQDr9WC5GID1vVp3VcAXudH1sY8tn+QhzWJ6S7RDTLotJC2SgvWsYE+D3GerAVxq5vefmqzUEfbV6xoCWww6sxyKsMXpByIwp3yw+wbP6FQEnErAX/SnsY42xiEk3rCncyiKB8zgelIqGawysEPPZ/LgdSS5ZG6gp7MwGDqT6FrqRlMURx/vAsCHa7LV6oXZ6dsIDEE84aCwB5NrBMJ/6REn68cWj8+OpNUgvTDDkyqqbz1w0P3IT3uszkQx45EBzenrH7UxuK3cM+o9rVzikg==;hxladsxkseO2NQh/RxQp+w=="
 ---

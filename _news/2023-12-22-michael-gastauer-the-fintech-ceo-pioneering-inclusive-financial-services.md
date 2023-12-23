@@ -196,6 +196,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Top 10 financial services and fintech stories of 2023"
+    excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
+    publishedDateTime: 2023-12-22T04:59:00Z
+    webUrl: "https://www.computerweekly.com/news/366562857/Top-10-financial-services-and-fintech-stories-of-2023"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
     excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
     publishedDateTime: 2023-12-21T14:55:00Z

@@ -55,31 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "2023 - the year in AI use cases"
-    excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://diginomica.com/2023-year-ai-use-cases"
-    ampWebUrl: "https://diginomica.com/2023-year-ai-use-cases?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-use-cases?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
-        width: 1472
-        height: 832
-        isCached: true
-  - title: "Breathing new life into fight to save the seas with artificial intelligence"
-    excerpt: "It’s hard to imagine our planet without its oceans – their vast scale and depth, teeming with life. They’re also critical to tackling the climate crisis by storing vast quantities of carbon dioxide. But securing and expanding their stores of carbon depends on us being able to locate those stores and assess how healthy they are."
-    publishedDateTime: 2023-12-18T14:57:00Z
-    webUrl: "https://www.reuters.com/sustainability/land-use-biodiversity/breathing-new-life-into-fight-save-seas-with-artificial-intelligence-2023-12-18/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 45
   - title: "Crypto Analysts are Building a Position in This AI Token – What Do They Know?"
     excerpt: "As crypto analysts spot potential in an emerging crypto startup's AI token, what insights are driving their interest?"
     publishedDateTime: 2023-12-21T21:55:00Z

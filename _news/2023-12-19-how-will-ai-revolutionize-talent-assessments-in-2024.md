@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-a
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
   - title: "How Artificial Intelligence Is Set to Change Work in 2024"
     excerpt: "(TNS) — If AI was a hit new toy this year, 2024 will cement it as a tool. AI, or artificial intelligence, grabbed the attention of every industry in 2023, creating hope for easier, more streamlined work processes and stoking fear that the technology ..."
     publishedDateTime: 2023-12-21T00:00:00Z

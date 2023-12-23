@@ -2,19 +2,19 @@
 category: news
 title: "California Highway Patrol officers rescue llama named Challenger from freeway"
 excerpt: "The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet from a NorCal freeway. Officers had to corral a llama named Challenger, who was roaming westbound Interstate 80 at Donner Summit. Challenger had gotten out from his home but officers eventually caught up and apprehended him."
-publishedDateTime: 2023-12-23T02:00:00Z
-originalUrl: "https://abc7chicago.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-webUrl: "https://abc7chicago.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-ampWebUrl: "https://abc7chicago.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+publishedDateTime: 2023-12-22T21:00:00Z
+originalUrl: "https://abc13.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+webUrl: "https://abc13.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+ampWebUrl: "https://abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: ABC 7 Chicago
-  domain: abc7chicago.com
+  name: abc13
+  domain: abc13.com
 
 topics:
   - Meta AI
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kfCFy1xq5cNeuSCwPHuP9u34IiTTvRw9zbpJJbVXxyHfsCekWPyCGeHf83QN+ZRS1ZBbTeUeBQxXx0//+GbPjYOUpELPLn2GDB4DMiZci9bpydxMd4YwzwDKAq5Xt46wqn2bH3Lhp3FNorRycwIDeGFglW75O9SC0fjTHVs3WYE/dlK4eY/7xLxLuXDe5XQdNx+ijpSLf3mllYGbup9H56AgCMBQ6Qj6SwDrFKU5E3IG5VqzMogxYmsUPtXkI5MW+439WwbdLE923C+UW4/O82KbBkLa16PpnDu9i8ywsB2hng5moXLz0U7G5H6p6n8HjZSMAT/vHYVoOxX9FVubiN9iXpsd+T7HXTjSzOXcGUg=;Mza73f7KiL7g7l2GUMlpKA=="
+secured: "Sj3yuh8hRVeigxSzdaA1d5GzKQatqseAtXvrYmZhKurJIzABnft9mXUORuFJudcIs7imffNLp6LOOa7oU1myaXU0209tsKWja5RXeY73s/bxWnw20ZwZnbvv8xK+v0HH3IXQRV1jAPv2KFD6w+C6hQF7dLnY3XWgCps6+pciFbHGSTE7UH64PEuIcIoZXYkhyADBEwOYFIWNYAKC25T5fYrKW+zhtt3kEd9Ov1Eq6jLEAH6qpB01c/nDEzB4k/2Lgl+Gr9ri9npTBO1wRTTxv2lyj0W2LRTYWmB7vjky41/z5YK1nD0iRpTf6H6yQ/sH37uzY1lc3ff+1Lne8IDMoFFNBX34cDhCQhIFK9xcsq4=;hrTTkbKz2l/0xijgZAVapA=="
 ---
 

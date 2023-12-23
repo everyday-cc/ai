@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: timesnownews
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/aBevHWNetepvytotSnLpu3-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Baby Llama Runs on Samsung Galaxy Watch 4"
-    excerpt: "A user on X, who goes by the name Joey (e/λ), shared a video where he ran 'llama.c' on a Samsung Galaxy Watch 4."
-    publishedDateTime: 2023-12-18T13:30:00Z
-    webUrl: "https://analyticsindiamag.com/baby-llama-runs-on-samsung-galaxy-watch-4/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/07/OpenAIs-Karpathy-Creates-Baby-Llama-Instead-of-GPT-5.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "Jo8j8O/OwAkAlFfNrGCyp1u/LT4z41/o7nWDtKVawNDP5qXeP7/qR1qu4w8Vqs/7LOPAILdrHQajKwpbbxB4Ca6a/spb5lAqb/DTJDOPa4O3bswc/GYqFOO7N4rXrphrIBHbTG3yTEejht5/vi+fH0w/5/P7x9MHha/eNzjdzBei+kx493rNDLDpeNKufnvj6c/U0ICAxaomnY4ZhmRulHU4Ez4ioHe+FnJcrz9HNoxV36YVcf2xC2y1cO9Bk6GKgKfZNJLvoNA5T2ha0lLVjz+rPjAgdLNlczl1q+1Cjz5ZOXScLL0o8YNhAYCwnX8pIhGdVx8DEzk9lOW6nF5EUfzRP6LpXdQ8vbxOpcu/8H8=;E8RITsQTM+7MzL/yQyWp9g=="

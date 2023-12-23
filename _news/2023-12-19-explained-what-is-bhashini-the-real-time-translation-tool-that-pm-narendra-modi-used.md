@@ -55,15 +55,6 @@ related:
         width: 4640
         height: 3476
         isCached: true
-  - title: "Prime Minister Modi uses AI tool ‘Bhasini’ for the first time | What is 'Bhasini'?"
-    excerpt: "At Kashi Tamil Sangamam event in Varanasi, PM Modi used an AI tool ‘Bhasini’ for the first-time. AI ‘Bhasini’ live-translated PM Modi’s Hindi speech in Tamil. It uses AI-driven language transition tool,"
-    publishedDateTime: 2023-12-18T14:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/videos/business/prime-minister-modi-uses-ai-tool-bhasini-for-the-first-time-what-is-bhasini-11922051.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 13
 
 secured: "IxaIApyLtRvnRJcETje5E7xKyJQAwaUktMnmIMwyyrD+L/niN4Sw6zH3+IFYPEtNHcOqnwOaLAjO1IeN2mYhasW7V1i3+gEI54dLt2LICoSxoWDUY/O/W1cXaGDNbKLHUElYmzgZ6nxLZ96IPUtodoFlLTwzOY869OuXT0htu3/C1zKVqs4oKIJgo8Tb7ty/dyqAYpc+ONcLdoZlirTM8cUCY0hr5mfbc9Uk1AI1ak6hAdLzctl0WGYqFSPzjwOjGG6Ufy/HH5jIsW7cu22Pe2nSyKfBJx960+IG72otEIVwiXLOCURhlpvguUHNk7Y/ydJzQHB4BsPZ0EnGFeAg7kChJKGanjj9zyWiIy+5lH0=;3xUzN1Xz/gnxh/n/rp5kSA=="
 ---

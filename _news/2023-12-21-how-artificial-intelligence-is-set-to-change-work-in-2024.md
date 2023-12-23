@@ -41,17 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Gen AI is a game-changer in bond investment risk assessment"
-    excerpt: "Generative AI is changing the equation, though. It has emerged as a transformative force in managing bond investment risks by automating and optimizing complex analytical tasks. Gen AI models can sift through vast quantities of unstructured data related to bonds, identify critical information, and compare it against risk parameters."
-    publishedDateTime: 2023-12-18T16:16:00Z
-    webUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html"
-    ampWebUrl: "https://www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1265414/gen-ai-is-a-game-changer-in-bond-investment-risk-assessment.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
   - title: "Shrinking Revenue, Exacting Clients, and AI: This Will Be Asset Management in 2024"
     excerpt: "The future is never certain but investment firms are bracing for these challenges next year, according to management consultants."
     publishedDateTime: 2023-12-22T14:33:00Z

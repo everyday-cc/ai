@@ -67,6 +67,22 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
+    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
+    publishedDateTime: 2023-12-23T15:16:00Z
+    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
+    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
+    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
+    type: article
+    provider:
+      name: Windows Latest
+      domain: windowslatest.com
+    quality: 74
+    images:
+      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
     excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
     publishedDateTime: 2023-12-21T09:21:00Z
@@ -299,20 +315,6 @@ related:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmoQQPlBWTaljYRECTj8gkRXl-vbziUmnhI5H9DHIVXLRJVpyNKBVQyOoEz35NQCYIt1W1P47qWQPRFGat2cPynAHNFLoc8NkKYub7Q0VvzRC1l7c1ebzS6zPWrFH8YUB5NJ4yOgmD3I9LOBzDrQmFcFXo2kkjmD_nuDscK1208mKogOE0VmaR3wwPUQ/s16000/tomtom_microsoft_genai.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "AFL-CIO and Microsoft Announce New Tech-Labor Partnership on AI and the Future of the Workforce"
-    excerpt: "This collaboration will start this winter and take the form of Microsoft hosted labor summits. The partners will bring labor leaders and workers together with Microsoft's key AI product developers, researchers and business leaders for intensive discussions ..."
-    publishedDateTime: 2023-12-18T16:20:00Z
-    webUrl: "https://www.contractormag.com/technology/article/21279485/afl-cio-and-microsoft-announce-new-tech-labor-partnership-on-ai-and-the-future-of-the-workforce"
-    type: article
-    provider:
-      name: CONTRACTOR
-      domain: contractormag.com
-    quality: 42
-    images:
-      - url: "https://img.contractormag.com/files/base/ebm/contractormag/image/2023/12/65806d0a72ae3d001e84df07-aflciologowhitetag1200x630.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
     excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."

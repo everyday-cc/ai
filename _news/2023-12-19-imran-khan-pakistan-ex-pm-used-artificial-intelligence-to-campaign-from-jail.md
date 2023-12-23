@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-asia-67752610.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-67752610.amp"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pakistan’s Jailed Ex-Leader Uses AI Clone After Public Rally Ban"
-    excerpt: "Imran Khan, the jailed former prime minister of Pakistan, was able to deliver a public campaign speech Monday using a voice clone that was created with artificial intelligence. Khan has been behind bars since he was convicted on corruption charges in August."
-    publishedDateTime: 2023-12-18T14:39:00Z
-    webUrl: "https://www.thedailybeast.com/imran-khan-pakistans-jailed-ex-leader-uses-ai-clone-after-public-rally-ban"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2458,w_4370,x_365,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702910307/Screenshot_2023-12-18_at_14.33.50_eg2xdb"
-        width: 1480
-        height: 832
-        isCached: true
   - title: "Imran Khan deploys AI clone to campaign from behind bars in Pakistan"
     excerpt: "PTI party uses ‘voice clone’ of imprisoned opposition leader to give impassioned speech in ‘virtual rally’"
     publishedDateTime: 2023-12-18T18:15:00Z

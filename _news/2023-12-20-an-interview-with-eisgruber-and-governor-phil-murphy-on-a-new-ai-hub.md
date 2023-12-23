@@ -24,6 +24,17 @@ images:
     height: 521
     isCached: true
 
+related:
+  - title: "Governor Murphy and Princeton announce plans to establish an artificial intelligence hub in New Jersey"
+    excerpt: "The governor described the hub as “a new home for the world’s boldest and brightest to pioneer breakthroughs for the betterment of humankind.”"
+    publishedDateTime: 2023-12-20T14:05:00Z
+    webUrl: "https://www.princeton.edu/news/2023/12/20/governor-murphy-and-princeton-announce-plans-establish-artificial-intelligence-hub"
+    type: article
+    provider:
+      name: Princeton University
+      domain: princeton.edu
+    quality: 1
+
 secured: "AihEju6eO4MlYDnRSdM6WtYnDxOPCTAYKjwpwZYcbP75qoheCoKvwihas0ttbXifBJyIJlBVGSWLls2VOYrhfcXFXlydIVSl7fUYvpO0u3SKZb/nvwhJ3zNSvjkz8qjifiCF2AMCTO1hAjGEvVbzl97lxoDaiaxuym1RUiu+8kSl2qPcq78vjz8QA6oi4LYgGTqJu1NOB90xqauW41i3sA4cCyBmx3KiAxVq2QL1f0lJKTyAyzQYiM6K67CNDf2jzC5s/K6YUJ/LBhMpnHLRKAMkPO95mpm12xBhtOrjMeYfpoYN8M+GpYddcEI/SsZBvGFxiAkZpVRMwY9qd2h+TVRxJsrybZiJr9qv61f3hGf7bNTihizoxNryMLDVCmYt78oXvJKvSOcNkftkhv9Zdp4esoBU1/5LhDUoutXXqjVFsvsIq1txvCxWg7GEUQTvnSUiz1L8TF0puhHyiGSccywE+PpFLVWL4AMrbCEUhGScPBotJ+m8I3/Rb2IWBtQrbkBBwQI9O5UNN6xWz0nptA==;0zsKsLiJS/eA2Di5Nkuobg=="
 ---
 
