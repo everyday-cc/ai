@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
-excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
-publishedDateTime: 2023-12-22T08:03:00Z
-originalUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
-webUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
+title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+publishedDateTime: 2023-12-23T08:01:00Z
+originalUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
 type: article
-quality: 23
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Impacts
-  domain: techbullion.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://techbullion.com/wp-content/uploads/2023/12/Sports-Events-450x270.png"
-    width: 450
-    height: 270
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+    width: 960
+    height: 1280
     isCached: true
 
 related:
@@ -86,22 +88,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163506,msid-106171422/istock-866905356.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
-    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
-    publishedDateTime: 2023-12-23T08:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-        width: 960
-        height: 1280
         isCached: true
   - title: "Dubai FinTech Summit 2024: Catalysing the MEASA Financial Ecosystem"
     excerpt: "The Dubai FinTech Summit is a strategic platform aligned with Dubai's vision to become one of the top four global financial hubs by 2033."
@@ -210,6 +196,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
+    excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
+    publishedDateTime: 2023-12-22T08:03:00Z
+    webUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 23
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Sports-Events-450x270.png"
+        width: 450
+        height: 270
+        isCached: true
   - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
     excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
     publishedDateTime: 2023-12-21T14:55:00Z
@@ -252,6 +252,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "3WnE+ddBuD5S8vP/K2xkQm7B3PYsCIXBCBwB+PGuO0urNmtG+ZLkBIp0mKGCEW6wnuhxG3Vq/0I43oI4DtAzNNKAE0Ytm7eAjbWbGI1isibM8rSesrtmi+2hU3STpNrekddKQ3MFms7OMHvxKsF+qkcU24RcSkWYBoDBA/CaHKxdZmIqsU/Xj35sKKYHzZM1AZKLRSzIrzLUyr7WAqdp1ZS/0hwPLQ7kXcvHAWh8QG+vVfAA83je+1OpNVUKCzKgzJlYuZ3uYG6NGo4B/FA/LY2zwNwPTw1424hIYcsqObF269ChuKunbLnypKl0XdFc8ijXZ81x/3gyWQd6izinW+H4e4+xkSYqu1BE/PqaOrk=;3q/c+WUSqWCBfq1U7B1Iug=="
+secured: "yqyBdeqkTpeiI9JUEIeVfeKfTC1+3dhureD5NOM2H8wTrJzB5ZYAxnsIvk+aGE5ofu1sdQOaMbsugDo2vbAJFHRJrmiQG9e8eCWcxsxKO/P5JFdwu2NsF6PkcHkUQZ3Sd9ixci454Z78paVQ+L8Y2TYb90YuzOgQlEQ1ufpBiIs4qSa0/O6lp91lxtTyVT0ESNlp4PLFwyh18NmWeG2fpwIR6kHVstVGSUqTv5rlzP8yzeecrWxDRxp6HGbnZsYz5GankpmYMJlX9txwONxCFrPnAlJtsx9vO9MhEX3RD8VV7pMASzIfcwNGi3W6hSz+G1eFHFGCGIxeMnCF8CKi8uyPPDzfxFjzmBlRHhb+HyE=;matP0bHcMS+fq9n7VsPcrg=="
 ---
 

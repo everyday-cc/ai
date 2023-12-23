@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Dick Smith warns about growing threat of artificial intelligence scams"
-    excerpt: "Scammers are increasingly using artificial intelligence to con hardworking Australians with one of the country’s leading businessmen urging the government to do more to protect the vulnerable."
-    publishedDateTime: 2023-12-18T09:15:00Z
-    webUrl: "https://www.news.com.au/entertainment/dick-smith-warns-about-growing-threat-of-artificial-intelligence-scams/news-story/7438641f1dfb029626869f3c4d87f0b7"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 17
-
 secured: "9Io4ytTj+4sw05dnBr4rpjPP4u3aDbDj/d65/dhTs8A7s1179oHi5qYPqsa1Y4Ez+SjRcRfvMmNi5mIjKs+XCLv/5w3ijs16+N+XtwqqSBA9XksZzNWnS4NamWjzdAa0byje9cjf9UbUi2P1K16UONjL4VWCchARK73m311hjzTurfadvI5lAcYJoGTO50dRyXNWNBMCqm5EeRIiSrGrWsTnJLqSiB880u2qlBQj417l9+E6WS58/BAIZm2Fe5v4eh6v0583roTH5m5CVHu1KZ/lyAbvpBIcMd1d3LEUnJ/PF45PObnCJANqR0+vSXXBItbuyAP+KgLaSvIeLSORLQO7WTNxwRPn2/4SHXs2Io1DMY9LY4tq4ucCGtdVUIu6T4yhNun1n4/X53wlaGqqnhpO5GS0RRecbyqihagW3CoumtitGlzraUHx3pjcaKT/X9c7nH3XtOU7Pn1F5M2wIhFQSpPy7VmEuAVsYcEniMnnfTFGgBAr4QpVvTmRs5jBUPidXKhW6R0ZwJtP4/OUag==;qke+lvJzUGQ9UslnGvcfTQ=="
 ---
 

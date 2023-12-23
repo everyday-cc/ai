@@ -329,20 +329,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft releases Phi-2 small language model."
-    excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
-    publishedDateTime: 2023-12-18T11:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58122-microsoft-releases-phi-2-small-language-model"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4ef80b49eecc3f00ffdcd8a966211d06_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
     excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
     publishedDateTime: 2023-12-22T00:55:00Z

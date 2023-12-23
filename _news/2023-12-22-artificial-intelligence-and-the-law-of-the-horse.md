@@ -90,20 +90,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "VCs predict the AI trends that will transform e-commerce in 2024"
-    excerpt: "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Top AI Trends That We Can Expect in 2024"
     excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
     publishedDateTime: 2023-12-20T05:14:00Z

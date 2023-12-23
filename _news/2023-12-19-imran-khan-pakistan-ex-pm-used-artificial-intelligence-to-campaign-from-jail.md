@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-asia-67752610.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-asia-67752610.amp"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1480
         height: 832
         isCached: true
-  - title: "Imran Khan deploys AI clone to campaign from behind bars in Pakistan"
-    excerpt: "PTI party uses ‘voice clone’ of imprisoned opposition leader to give impassioned speech in ‘virtual rally’"
-    publishedDateTime: 2023-12-18T10:37:00Z
-    webUrl: "https://www.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Imran Khan deploys AI clone to campaign from behind bars in Pakistan"
     excerpt: "PTI party uses ‘voice clone’ of imprisoned opposition leader to give impassioned speech in ‘virtual rally’"
     publishedDateTime: 2023-12-18T18:15:00Z

@@ -77,20 +77,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "VCs predict the AI trends that will transform e-commerce in 2024"
-    excerpt: "It was a tough year for startups, and for e-commerce. These VC firms are still funding startups in the space."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.businessinsider.com/vc-firms-investing-in-e-commerce-share-criteria-2024-predictions-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/656f38f258e7c0c29a29a572?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence and the Law of the Horse"
     excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
     publishedDateTime: 2023-12-21T21:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-depend
 webUrl: "https://www.inc.com/sam-blum/why-generative-ai-startups-are-dependent-on-big-tech.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,38 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Big Tech has avoided responsibility for online content for decades. Generative AI is about to bring that to an end."
-    excerpt: "Big Tech companies are moving from being intermediaries to content creators with the use of generative AI. That brings new responsibilities."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.businessinsider.com/generative-ai-big-tech-responsible-online-content-section-230-2023-12"
+  - title: "Big tech’s year of partnering up with AI startups"
+    excerpt: "In the wake of Microsoft Corp.’s US$10 billion ($13.31 billion) investment in OpenAI in January, other tech giants raced to partner with leading AI startups through funding and cloud computing deals."
+    publishedDateTime: 2023-12-19T13:31:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/artificial-intelligence/big-techs-year-partnering-ai-startups"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/657bc6ec50edbc52a864963d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Artificial intelligence is accelerating the recruitment process — but tech leaders warn of bias and other risks"
-    excerpt: "Artificial intelligence can be used for recruiting top talent. Experts say that hiring teams could use AI for tasks such as sourcing talent and reviewing job applications."
-    publishedDateTime: 2023-12-20T18:50:00Z
-    webUrl: "https://www.businessinsider.com/artificial-intelligence-hr-hiring-recruitment-benefits-2023-12"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "KC tech startup taps AI to help detect mental health issues, find help sooner"
+    excerpt: "Mental health issues are insidious and often invisible to outsiders. A #KansasCity tech startup uses AI to lift the veil and connect people to help."
+    publishedDateTime: 2023-12-18T16:32:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2023/12/18/raise-health-innovations-ai-mental-health.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
-  - title: "2024 forecast: Will generative AI find what it needs to deliver for patients?"
-    excerpt: "leaving their audience calling for new debates on their ethics and safety. But as the medtech industry watches from the wings—hearing that artificial intelligence has finally, finally arrived and will now begin to reshape our lives, for good or ill ..."
-    publishedDateTime: 2023-12-22T09:00:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/2024-forecast-will-generative-ai-find-what-it-needs-deliver-patients"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 16
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "6qLSmIyJ64QDEPQtJC/yAf2+PY0EnRpNZJwj2y3w2L46D7d4nHArBYlAvOJVJzkupRVCek8yHpfqNDNvkJQ3N+lQfufpk85UpPMNBj6SkTP2iV6Av716mtm216rrhba2xUVbUZHjRRIloa9ay2mJnqzwQ5WdbG57oQ583NniVxfhcqps0i5QjgVEJA0aHUk5vKA3MGdvpbkNbsfHNh8KnpOTHMa+J5HUWVIzbuDymH/+h1bbhODk/FaShCQpk9XqDSRgIoOy69cmiEqH5UoOdqyzcZD16nXHcFQiv2rAai0V6hZec/EOXejZKGqkj2VL0jQzHICvyZyWbONtM13/2QWN23CcHS5lfM1RGwXYUg8=;BFI4NRoY/a3wiT8MS+KGdg=="
 ---

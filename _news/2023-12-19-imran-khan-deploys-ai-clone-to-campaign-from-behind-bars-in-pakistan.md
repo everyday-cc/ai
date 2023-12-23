@@ -52,15 +52,6 @@ related:
         width: 1480
         height: 832
         isCached: true
-  - title: "Imran Khan deploys AI clone to campaign from behind bars in Pakistan"
-    excerpt: "PTI party uses ‘voice clone’ of imprisoned opposition leader to give impassioned speech in ‘virtual rally’"
-    publishedDateTime: 2023-12-18T10:37:00Z
-    webUrl: "https://www.theguardian.com/world/2023/dec/18/imran-khan-deploys-ai-clone-to-campaign-from-behind-bars-in-pakistan?ref=upstract.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "FTMfPS7RVoIxIcN6baI61Qw4L2+uRoZmH+9f5B7idOyI6/V/Z9heNuJPf18EqjqUMSENQT5OK3Cbwg/qdxVIGQdk0gdMX1s5M2r6INGoil5Z8cudGy1ULJO1fdykz69VDDNUxD2+vTyha4hXAQiUn9epXtphxCYrYyhlEk0DLxITsQvwz74Aim1aglXxjEiqZmI5ideX43C93dGyzxCcWBNUVFuMCordvk6unQGw6U+gn9rXakMHHrnoZ0IrJ+M+cg/DyJZA0rLO1rJsjGup2aLiirVd5ieXBMg0hZ6qWRO9Dpk0NWGlszNv33jcJv55uJmE959NU5YzFqPAWbyfrvfjB7dmgNGqS4tGNrvh1CVER8lZZS33hePV4EeNXEnL6PnG6GKFqB6lGF6yRV0Y74hIMbDOuFl6aEQM2Ux96P8F4krKvEwI22jPH+ADaHWm/xal9KTQ226ZiBTxeo39yi1RDdrmNz8KLOrC4jFR9U4BhhYU8XGVG//qAdxy1kMIjC7gKCAbIkfQ8X+LE5J2ig==;lcZ/fElY2A/EKbjLUYQTOQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fox4news.com/news/ai-self-replication-machine-intellig
 webUrl: "https://www.fox4news.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -18,19 +18,6 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
-
-related:
-  - title: "AI self-replication: Machine intelligence can now replicate independently"
-    excerpt: "One device Sun and Chen demonstrated — a human activity tracker that uses AI to gather and analyze motion data — was housed in a chip smaller than a dime. That sensor is an example of tiny machine learning, small AI systems that can be used in compact ..."
-    publishedDateTime: 2023-12-18T10:46:00Z
-    webUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently"
-    ampWebUrl: "https://www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-self-replication-machine-intelligence-can-now-replicate-independently.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 42
 
 secured: "zn7Snm4TKoE4sGrFZPtUOPyrj4xAjDMwLlCbzRyOr0feCpqMYpLUoDb37TZEXg0IHu4YpWJ6KegWiv0CczujvCtzUzK44whtIUKPQTvhpQnHxBYO5t+jkXNMsRqU9/bcudvvFiQJDHCOs/wT6u51gXrKQuNVwLr2pnUJb5iawsUazad0Zwz1b4twP66DHJl8FGIPL/ZMw1kAKDsE01g4ynMooYXKAYK9TR8Lhvo++jVdxjxBeF+i4IW+TYHq1NecqFqBoXJi+ZfRiqO+XQ0+rNf0RxaTzxNJtWR/941AXf3Pqpo/KFSw5ODWhaR+k+8qvD+LL5l6WgnYODQn6NL8T1yp5OYRUid+bwdTmDMuNpaEKXMVReqMnx2hGp4Ag6vuMFAsn8hnZpG2PUDleFCaiDLe+9/Hpyj+KP5ufAOUznC2taISh+QvONrYI88CPl6xsqgBxUfFWZquKn7+LwWud4AuOtSD1USe1lOLVROFwNxKNh06emRty+D5KYBQST3TWCM1X7el5lfvB4IWO4f9/A==;wumsrIVctZGcYsSVnxibRA=="
 ---

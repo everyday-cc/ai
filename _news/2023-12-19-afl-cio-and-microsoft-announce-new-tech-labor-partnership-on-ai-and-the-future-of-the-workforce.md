@@ -315,20 +315,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Microsoft releases Phi-2 small language model."
-    excerpt: "Better than a Llama Microsoft Research has announced the release of its Phi-2 small language model (SML), a text-to-text AI programme that is \"small enough to run on a laptop or mobile device.\" Phi-2 has 2."
-    publishedDateTime: 2023-12-18T11:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58122-microsoft-releases-phi-2-small-language-model"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 41
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4ef80b49eecc3f00ffdcd8a966211d06_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
     excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
     publishedDateTime: 2023-12-21T07:57:00Z

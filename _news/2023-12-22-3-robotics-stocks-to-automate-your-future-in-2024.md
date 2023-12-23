@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850"
 type: article
 quality: 64
-heat: 95
+heat: 94
 published: true
 
 provider:

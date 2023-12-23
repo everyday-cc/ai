@@ -300,15 +300,6 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "Implementing AI technology in business education"
-    excerpt: "With that idea in mind, I want to share my experiences and those of my colleagues here at Gies College of Business at the University of Illinois Urbana–Champaign . Our approach to adopting artificial intelligence (AI) illustrates how we can embrace new technologies and prepare students for what they will encounter in their future careers."
-    publishedDateTime: 2023-12-18T10:00:00Z
-    webUrl: "https://www.chicagobusiness.com/crains-content-studio/implementing-ai-technology-business-education"
-    type: article
-    provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 36
   - title: "Rite Aid banned for 5 years from using facial recognition technology"
     excerpt: "The pharmacy reached a settlement with the Federal Trade Commission after the agency found Rite Aid used the software to unfairly target people of color."
     publishedDateTime: 2023-12-21T12:48:00Z
