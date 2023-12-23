@@ -7,7 +7,7 @@ originalUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
 webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -23,98 +23,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "2023: A Year of Groundbreaking Advances in AI and Computing"
-    excerpt: "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications."
-    publishedDateTime: 2023-12-22T13:30:00Z
-    webUrl: "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    type: article
-    provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
-    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
-    publishedDateTime: 2023-12-20T11:41:00Z
-    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "2023: the year of the AI boom"
-    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://theweek.com/tech/2023-ai-boom"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Music AI in 2023: a database of tools"
-    excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
-    publishedDateTime: 2023-12-19T13:55:00Z
-    webUrl: "https://musically.com/2023/12/19/music-ai-in-2023-a-database-of-tools/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
-    type: article
-    provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 6
 
 secured: "oGV7DxaAntBGAEbEhwe16A7945ynQhSo/+BbBdHJ8Kd2F8Ez0XkbPmW94tKXG6v4g3Iwsgj3hBcioAzbY3vu+Hejf73DogIRKq83UBPB2WL93OwNfTvCBvPDlP0j1CtN8RaAsh/Zb2wzv09ry6zyD0uUGs4pCIhevdKrUa9gWVZo8NLzmDAXFuL7hCu1H8O+DBuAo60BUWPJcUoqJSR2btuTozDKHDk8/v74pu6M1N49xs9rmJQadPTBbFndyXi2bJvU/aA5a4r5HM569ofnAyR2QyIZI0jJAmYg56aYFx98d+jwkrY7Y9PgV0RbkrvtLNa7xWjCVhlYqnvKjYXwJj6pIroBLUarqgUftJVRMDBKwLqLkPhFBrdea1DGmbvfg1sxOLdUZQxidwbODcXZPLovyYLTiCPgdGRe/qPplzwfrVhkGXWu2TzlK9yzdvOco8NMjhwYCrufJUet6RySZiFsATat+8ObCb/1/QZg/WTCfG8604DSILau+Fau4HkOwBl75Lfg9HECVh9x/E1GaA==;ccKRYar39qlqDumPBnYUWQ=="
 ---

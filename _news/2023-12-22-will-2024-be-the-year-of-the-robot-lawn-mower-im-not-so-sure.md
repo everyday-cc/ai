@@ -25,6 +25,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Will 2024 be the year of chief AI officer?"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
+    publishedDateTime: 2023-12-23T11:22:00Z
+    webUrl: "https://invezz.com/news/2023/12/23/will-2024-be-the-year-of-chief-ai-officer/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 39
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/11/possessed-photography-jibmsms4-ka-unsplash-1-1024x737.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+
 secured: "DFnR6R5gDg4L40q96sAfUmXdnnIAy91cwkOPu0eY6aenyJ27XBZ6lgrEKcyKQaWp7ojDfr2eFhgcab1R4/Hn4By8fzTGEL9B7/11NNjnn/cxFQR/Cd89T5IcHKFLTH9u6k8K1G7bL4fAWojLCDJ0Ea1Db2Rp5ebX914OtNxV/nE64AmVIIqB2wNaj7BeNGuQJaK4QFjuXCm/pWFaw5apYmui/c/oxKKdZJyI9wYv6+Izxme9VRjEflYysPh7sNanZktsk4/nZ0u5gcZnNfNvKeH2MEvvmfabUaGjmc+z3XWZlY0cGC9edtgxWe+6R+DQYlu1e0K7r331wJ/XdbRfLosttgQPt6ZVq4kUWwlgRIQ=;uvHTmmG+NKPHEvHfq0Ibgw=="
 ---
 

@@ -25,96 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "2023: A Year of Groundbreaking Advances in AI and Computing"
-    excerpt: "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications."
-    publishedDateTime: 2023-12-22T13:30:00Z
-    webUrl: "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/"
+  - title: "Son uses AI to recreate late father's voice for special Christmas present"
+    excerpt: "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice."
+    publishedDateTime: 2023-12-22T20:56:00Z
+    webUrl: "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
+    ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: ABC
+      domain: abcnews.go.com
+    quality: 56
     images:
-      - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
+      - url: "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "‘Twas the Night Before Christmas, and ChatGPT Was Rhyming"
+    excerpt: "Hello and welcome to the weekly Odd Lots newsletter, where Joe Weisenthal and Tracy Alloway bring you their thoughts on the most interesting developments in markets, finance and economy."
+    publishedDateTime: 2023-12-22T17:39:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2023-12-22/-twas-the-night-before-christmas-and-chatgpt-was-rhyming"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
+  - title: "Delivery robots will transform Christmas"
+    excerpt: "Delivery robots like this have become part of the scenery since they started work in this town, some 80km northwest of London, in 2018. “That’s when you know a new technology is successful,” says Ed Lovelock."
+    publishedDateTime: 2023-12-18T18:37:00Z
+    webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    type: article
-    provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "2023: the year of the AI boom"
-    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://theweek.com/tech/2023-ai-boom"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Music AI in 2023: a database of tools"
-    excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
-    publishedDateTime: 2023-12-19T13:55:00Z
-    webUrl: "https://musically.com/2023/12/19/music-ai-in-2023-a-database-of-tools/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
-  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
-    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
-    publishedDateTime: 2023-12-21T13:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 19
-    images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
-    type: article
-    provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 6
 
 secured: "O6xLTuVsHZbpiTYBz5Xk/u4/RzYoMOFhimskwfuGvdKXXlQTockRwRQ0VxVOopBdtK8+hKxYFQNv5uOSoiJ3ce0BlLydavBzwJoEM2FB+lopZa8hkdFlPgDZ1TPXb+QPYWLfWtZ5DOzquPgxrvexzoNTNXD6JB+PSHJG3H/WLv26yyPbrNvhcFZxuSvbnTvQJrqSC7wgkI/xr9P9Ncd/XOwYvRzoQCW3krEeppbwAi1aEO7NHpSIE01k4Y9XI4sCnpTZy3QVy+M9Xu8AwNSIC/EYzNVEvCcqx3DoHbe/IZyw0i8x2RRoUA9nygoeWwf7AgYT9iCoQX9dhMixiBhD8NNO6QqP3IkNnt2YmCHs7LU=;apdRR8tav0JSX1geyUufwA=="
 ---

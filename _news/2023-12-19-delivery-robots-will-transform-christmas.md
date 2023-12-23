@@ -50,6 +50,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "yy9x89Y/Z/o47saUzOKw2XYjkQe3zEjx2cf7DT5/GM0RXG7ctWEtKDs0kc+h30+RpweM1JgULOBQ6tYlL649Csrxg5VYBbBH7KFNJ9f17WdzifgP/prY48ALruZmM0HU7emppZRmOPvvSI7Iv67VSdSveeWafD6IQUoRH5XRo18Y6aZJr18527xAVLglPiy/UfUl29Jq2MeCXPYbBpektVPRjw+GanibOi9EOGhVFOg8Sq0C5eKXLLJ6AwvyBSdnxOvSCwfSBTdjYt8NAG/9vah+YeGFoeIsnxhR38tUheC/UpxBVHN6yzCvUIe74sN7MSqC5jKy9b3MeA5rAqacsylBKcMmqJqPrn12LUvunKs=;sTmuzd1y7IXgDxCp5mT1Xw=="
 ---

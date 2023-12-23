@@ -49,17 +49,6 @@ related:
         width: 4640
         height: 3476
         isCached: true
-  - title: "Bhashini: Everything you need to know about AI language translation tool"
-    excerpt: "Bhashini is an AI-driven language translation tool that marks a transformative step in digital inclusivity for Indian languages"
-    publishedDateTime: 2023-12-18T12:11:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/bhashini-everything-you-need-to-know-about-ai-language-translation-tool-123121800769_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 38
   - title: "Explained: What is Bhashini, the real-time translation tool that PM Narendra Modi used"
     excerpt: "Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI,"
     publishedDateTime: 2023-12-19T10:17:00Z

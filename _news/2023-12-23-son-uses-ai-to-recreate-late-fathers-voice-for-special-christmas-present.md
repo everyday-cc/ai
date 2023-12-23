@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-v
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
 type: article
 quality: 56
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "jgHRpLpiBBqCzsuWrJPlNqiYLUmukhLnxXjde0m2UqPjeNOKc6Jm0x7JHJ0pMhTVV9Ixwg14if49WvYLY7kVR6goE0RXy7PKIsQe/4Dz7X4IRzPdVr+Sx35PiOh/5eRrWgOK3vm4M7jpJ0sXiV7lWi3jLPTfzP8BrurJcTWxU+xOQ3yf8gnBKSlh62p5uichZZPJLo2WxkhrB781gkFIYCi1szjFr496hunS91+cuGRiIpLmC4sLgc2q60QvjqXW9SIfiR2SMESN1rnIU3Uoh7hxsPmf36fFj4aCRVtAZ2K7t2nIwUctJ1tUgmuOQG6z4rpQ1Fd4wsFfCF0YLK4u05fCwoKAtJsNKxSfDIH6ICO4j1Bu1qVznUcQHX7b6535zPSESNeJYUgCBmEMrViHnm1rqO3Fh8isbPYUO9FZL8yX8FUXWfhrc43Dd291T9Uc5DrpNj1E5fO7bw3XHdlDIm78zV4Z5g1aN6r0x9VvhUM6hqskhxTIJqrxvOjmeK46NmRbFgJQFD+Dgcg+v6UV5g==;4+NlmlCjDUeYfymI+e78eg=="

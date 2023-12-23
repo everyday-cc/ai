@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the Holiday Travel Maze: Google Bard’s Travel Planner as Your Digital Companion"
-    excerpt: "This guide is designed to show you show you how to use Google Bard to help plan your Holiday Travel. The holiday season is a time for celebration, family"
-    publishedDateTime: 2023-12-18T13:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/navigating-the-holiday-travel-maze/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 14
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Holiday-Travel.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Santa’s Helpers: How Google Bard Can Assist with Your Holiday Shopping"
     excerpt: "As the festive season approaches, the quest for the perfect gifts for loved ones intensifies, often turning into a daunting task amidst the overwhelming"
     publishedDateTime: 2023-12-18T14:36:00Z

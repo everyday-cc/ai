@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Using artificial intelligence to talk to the dead"
-    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
-    publishedDateTime: 2023-12-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
 
 secured: "de5lCvbYOvkaD5px0PxbJoFmGl0MlnkQFHDtLzD3InrX+XdTbfsmJVjnlsvdI9rVFptjlcukyskeytUDuxPeWqw8AfLhdy52bMr9FxnQOOPOux/BCaLn7TlP7mKNautqEvZUDy19x/TN7ej6AeugpYmfWheoIxrnmjLDbXJecg8SnJ1io/MAbfFNfGejLCtQ0OcK/KXKFx5INqVM4qxLa0iFo9TFykPTOL2grI9F55WZ8P5X6AB09YRbZWsmKvAeYsPnj7NEFGoOKSFUkCAa9/hVPElqE779dt/gbnBo6Ly+MZArYLVfaCZrX5RTPSTMlopcLM+xD4JwUqr2DdaxuVLvmHwruRPcIwk4sMSLSbe2KXXsIYNGJUQw1GD/usH+5MKDEDiNSeDdwsMRP2XVx9vqWNkdUF/ojcgR/poJmQ/1HAQ4beK18FFrKMlRUzKGnE6Ddu3XD6cpGDwlzHSgJ3DR1DCahBQGoyHKLhwIWKHiNQeUdzL4SHoM7NUBzhxhgHDiH21kE6CG7+6El0nkjg==;59zg6jQysqxoDt/CljlgLA=="
 ---

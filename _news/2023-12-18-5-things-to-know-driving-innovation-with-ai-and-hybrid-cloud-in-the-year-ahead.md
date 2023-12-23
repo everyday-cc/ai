@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-
 webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
 type: article
 quality: 95
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Using artificial intelligence to talk to the dead"
-    excerpt: "Some people are turning to AI technology as a way to commune with the dead, but its use as part of the mourning process has raised ethical questions."
-    publishedDateTime: 2023-12-18T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/using-artificial-intelligence-to-talk-to-the-dead/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 21
 
 secured: "CuElluwWnNnJuTYzRv8tQMz3WPVoKB0PXdrhDkFb2BOgWL8Jz3mhIeK6rZtIOYlilNPmNJAbtMPC9w3p6VI9GQZ4o+RWMpKXa0UZJ+aWDkgZ+C3ni1ys8NRMRAoz1D2DraWrYmWth5BTWSpwm9vT3lGTmdkrnZ+ZYgqeDdN4bmeaCXSCmUZru9A2DEHnLXO/4BC8J1PfY/CmYFOf43kR3m0cl6PTKBCRCS1IeQ3fNLUl0guHbL7oEsDzwfQofI2ro658p6ra8Vy7dI458z/tKOJqmliLvoscOmOPGwj0uTpEWIb3McTeGmDfjo8nFpOfZLfIz2wcgkLNPzkKqM8fnVQkerdzNQ3pIzpzdLvtOiU=;XjkIS+dOcLYAIJ223DQiBg=="
 ---

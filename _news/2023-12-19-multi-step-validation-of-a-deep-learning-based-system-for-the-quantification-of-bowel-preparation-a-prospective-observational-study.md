@@ -50,20 +50,6 @@ related:
         width: 1440
         height: 812
         isCached: true
-  - title: "Deep Learning Object Detection Model to Scan the Planet for Free Hydrogen"
-    excerpt: "As the push to move beyond fossil fuels intensifies in the search for low-carbon energy alternatives, scientists have devised a deep learning model designed to survey the Earth's surface for indications of subsurface reservoirs containing naturally occurring free hydrogen."
-    publishedDateTime: 2023-12-18T12:32:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14539"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 38
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/SocialSharingImage_14539_17029026789189416.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Revolutionizing GM Rice Seed Detection: Novel Spectral Phenotyping and Deep Learning Approach Unveiled"
     excerpt: "Cereals, crucial for food and biofuel, are increasingly using genetically modified (GM) technology in production to enhance resistance and nutrition."
     publishedDateTime: 2023-12-20T18:14:00Z

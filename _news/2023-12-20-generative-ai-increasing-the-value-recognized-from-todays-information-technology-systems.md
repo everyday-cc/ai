@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/606f5ac0f77c78cd168dd713f386f99b09c2c71f/0_165_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=fca54e27bbe799a702d84a1f23a97eaa"
         width: 620
         height: 372
+        isCached: true
+  - title: "Education and Artificial Intelligence: Navigating the Path to Transformation"
+    excerpt: "In a world where technology is evolving at an unprecedented pace, education stands on the cusp of transformation. Imagine classrooms where teachers are"
+    publishedDateTime: 2023-12-18T17:57:00Z
+    webUrl: "https://www.edsurge.com/news/2023-12-18-education-and-artificial-intelligence-navigating-the-path-to-transformation"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 53
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15641/Shutterstock_1958892118-1701817153.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "82zSs2eA8nWKI6cURJh1GfLv6a1yq96zJO973K9q8MxDVsHUu8q8JDMYoYtzv+FDdB7zJzyy2FwLhY7WXKxfsvB0bbGRYf5z939idWOc1joDR0dd+xhqJQoY0/9w1gFJmRAqYObd9uCXV/xtQVgh7AqKvfyoY8El2jVu+sk2Lm1/rrIw6WxTf3+StjnksCjwFSqmHLe2BpMhiyeUTT/gjlbCTtKejI7xBygN1fjIhnuZDDJ+ls4E0W5hPGVaxlL8sTiRkrAoqDoObJBGKfDoCfgdVJaMDOGseM2V1FXf1oMxdMwu3M9gQjMIcnAQ7qd7Dg7vRw8KeIR+8sHE/Q+oklP3PKv1up4wgBr8M71xOss=;+gVMWeZCIL1sQZs/aD5TvA=="

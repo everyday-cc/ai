@@ -126,20 +126,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Key Trends Set to Shape Fintech Throughout 2024."
-    excerpt: "Innovations in fintech continued to evolve over the course of 2023. Leading into 2024, Gen Z continues to lead the way with fintech service adoption as digital wallet use surges, and the adoption of AI advances the industry."
-    publishedDateTime: 2023-12-18T11:03:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/key-trends-set-shape-fintech-throughout-2024"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/lanistar_21.png"
-        width: 1150
-        height: 648
-        isCached: true
   - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
     excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
     publishedDateTime: 2023-12-19T16:53:00Z
@@ -252,6 +238,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "yqyBdeqkTpeiI9JUEIeVfeKfTC1+3dhureD5NOM2H8wTrJzB5ZYAxnsIvk+aGE5ofu1sdQOaMbsugDo2vbAJFHRJrmiQG9e8eCWcxsxKO/P5JFdwu2NsF6PkcHkUQZ3Sd9ixci454Z78paVQ+L8Y2TYb90YuzOgQlEQ1ufpBiIs4qSa0/O6lp91lxtTyVT0ESNlp4PLFwyh18NmWeG2fpwIR6kHVstVGSUqTv5rlzP8yzeecrWxDRxp6HGbnZsYz5GankpmYMJlX9txwONxCFrPnAlJtsx9vO9MhEX3RD8VV7pMASzIfcwNGi3W6hSz+G1eFHFGCGIxeMnCF8CKi8uyPPDzfxFjzmBlRHhb+HyE=;matP0bHcMS+fq9n7VsPcrg=="
+secured: "47Xdfgx4ZGxqb3tW1Clb9OsJkVrNPkhT66MUPHA7ce65Ni+F/bIiO/gzCojw197JL6zVF5gdCrV6w92LXBmaN9yKFu61NMSHk7lFT6HoaEY90oM3SEzTzovQfvcJGPcaQy1hEWTJG6M3tvRNo3WhqLaTia5Te4WHgLek6bptimX+PYbyReOGorGQULQaRdKrJqJrStLb/nlqgFxuaY8U8GmDC5ZBWzJsWjQq+zyxYP6WlJXgDKjQ4Btxet0yLKpkM2Rihg5RPuKjqgk4lNoOgcUFP1/bycae+DZ0xu/eeQ3JN8Xs05bH4M8sZD38JV4RL266WClD/wZzpS1hS3kxSIlBFZNnByEBbdGIvbsryw/aALqBm7Gr7yn0qpRtZfVo9uaimcTa7nI9Z75FRFJYujQANzZxOdj2XjqAPnfLsGbSlTVRcOxK8D8OJa0073BwHlasjlF8hS2TnRN6DwB9gIaLjvYEPk1aL9K7dzh8kpuw3WJXW/Ku1CQr6qk3y0VK1h1CBk+5nhzUx0NstV+K8g==;4STixfQNywdrKOTuhK3Trw=="
 ---
 

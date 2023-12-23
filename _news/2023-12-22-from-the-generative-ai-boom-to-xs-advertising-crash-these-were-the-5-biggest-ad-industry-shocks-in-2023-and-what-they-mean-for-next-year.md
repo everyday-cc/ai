@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "A song of hype and fire: The 10 biggest AI stories of 2023"
-    excerpt: "\"Here, There, and Everywhere\" isn't just a Beatles song. It's also a phrase that recalls the spread of generative AI into the tech industry during 2023. Whether you think AI is just a fad or the dawn of a new tech revolution, it's been impossible to deny that AI news has dominated the tech space for the past year."
-    publishedDateTime: 2023-12-18T12:31:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/12/a-song-of-hype-and-fire-the-10-biggest-ai-stories-of-2023/"
+  - title: "Here's what the experts and executives think AI will look like next year"
+    excerpt: "As Microsoft CEO Satya Nadella recently said: \"There is no doubt 2023 was the year of AI.\"  Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023."
+    publishedDateTime: 2023-12-21T00:01:00Z
+    webUrl: "https://www.dcourier.com/news/2023/dec/20/heres-what-the-experts-and-executives-think-ai-wil/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
+      name: The Daily Courier
+      domain: dcourier.com
+    quality: 36
+    images:
+      - url: "https://westernnews.media.clients.ellingtoncms.com/img/photos/2023/12/20/collage_gIZ6hnj.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+K4EGvNukYAkdcFUCcjcFHVHV2QXgaltSa1C05om3I3FKRXzQMuqm07YQLoAn0gy+HQh/UFYnqnAMJNxY9mCjQW4W7S+rbR0SJsUM/auIWNSXpvtT1fC5YMrvDlPwEYA9fkzi49CA2ebACZ+LK1ldDeCpnkhv9nI1aMh8wv0fufq9l58dLyBlSyBD7V5iZv+pcWHcvFmfnpUlQSGOM25Hh+O0Cp3uXD29GVG6UiTvG6g1+7HJoZI1yyhukikWHxIOANlFihtqGvM6YycPO8IIdwENGbwSZtWtwDcDvBiqzQp9duhoG5OgZde43vGXysxWETms+vq15YbiT7Rx8dCIXr8CHt+RPVwUWhpCo2uqivBvcPKg0t4rrL7Belt9xjwJwg7obdMUpLehhVMXuuAlnZEHKHs5EOBpQsUV7G1CRzJYSWnnpTW+pCk4qnK/V+VQzAAW1QqF2IquS9/KCJsaFYjTKb2RxWc0YnPHlB/tVe1FYx0Nm2vevOpknshGpkQaTmkVqQKPFnRjLaGxA92sg==;otfFc+jqsjS77bo/YlATFQ=="
 ---

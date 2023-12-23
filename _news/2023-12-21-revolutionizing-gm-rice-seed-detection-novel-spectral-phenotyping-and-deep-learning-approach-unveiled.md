@@ -42,20 +42,6 @@ related:
         width: 1440
         height: 812
         isCached: true
-  - title: "Deep Learning Object Detection Model to Scan the Planet for Free Hydrogen"
-    excerpt: "As the push to move beyond fossil fuels intensifies in the search for low-carbon energy alternatives, scientists have devised a deep learning model designed to survey the Earth's surface for indications of subsurface reservoirs containing naturally occurring free hydrogen."
-    publishedDateTime: 2023-12-18T12:32:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14539"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 38
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/SocialSharingImage_14539_17029026789189416.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
     excerpt: "Read full research: Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
     publishedDateTime: 2023-12-19T10:51:00Z

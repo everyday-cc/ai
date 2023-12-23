@@ -24,6 +24,22 @@ images:
     height: 585
     isCached: true
 
+related:
+  - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
+    excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
+    publishedDateTime: 2023-12-22T15:29:00Z
+    webUrl: "https://hothardware.com/news/samsung-develops-ai-chip-with-naver"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 47
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63421/content/samsung-naver-hero.jpg"
+        width: 708
+        height: 425
+        isCached: true
+
 secured: "ZqNyXHr/vbKhs0G0RMuG6cm3acKpdC+SbEGAV6SowfS6uidTWxcPTdSqlR0U6URrTN8mqmHrs4kcyBZfCuIpIOqx+xHCoOoFaUhYFizZ6UqY1fDaKL1EU3J41r8CQUPvkfZK8MGgNv8G48RtAJfAeD2P3njBnd/BaYrqoKYJmrxr9STNc/CtjWogXB4KyQMvUAYAe3ysvBmJcbRQl7VTja53+cVyKr1G1cUS0yJXPHLTMqLj5BWY4IdYL+v/vZR6v6D8VuSsxfoQd0OmAR3Ovo6VHyXEvCvju5T8tJHm6H0CdDHHkpM2+OoyXv6ZNxNaR7mYZhlAexFvUojwtEzGPJRJsP9Sl0hLEEE8V13O3YgyXo2Y0q77/zu3aAJ/ZQfxat0BxfZ8xjZlj6GR6P3gWt+9fi1WiJ3iBJz2sf/P/UzaucCvd1PCWFUwtjfNi6ygxYmrlFwsCryPPpOQvf5GNYsW3ac1JakSrOU6Zc1ZjaSzzQGQFCN8XZM9dYytuQjn6KqrDx0njXSIy9AO9uN0nw==;eYre3Yj4UMpLtZnek76rFw=="
 ---
 

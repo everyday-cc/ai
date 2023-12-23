@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 246
+heat: 236
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Key Trends Set to Shape Fintech Throughout 2024."
-    excerpt: "Innovations in fintech continued to evolve over the course of 2023. Leading into 2024, Gen Z continues to lead the way with fintech service adoption as digital wallet use surges, and the adoption of AI advances the industry."
-    publishedDateTime: 2023-12-18T11:03:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/key-trends-set-shape-fintech-throughout-2024"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/lanistar_21.png"
-        width: 1150
-        height: 648
-        isCached: true
   - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
     excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
     publishedDateTime: 2023-12-19T16:53:00Z

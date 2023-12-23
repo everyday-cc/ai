@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence experts share 6 of the biggest AI innovations of 2023: 'A landmark year'"
+    excerpt: "If you received medical care any time this year, there’s a good chance you had a close encounter with artificial intelligence. Widely regarded as the breakout year for AI, 2023 ushered in a ..."
+    publishedDateTime: 2023-12-20T09:45:00Z
+    webUrl: "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year"
+    ampWebUrl: "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 91
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52c268ef-c3f6-47aa-8178-7aee2d0f2522/a28c42f7-38e8-4493-932f-3bd1cc25dc75/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2023: A Year of Groundbreaking Advances in AI and Computing"
     excerpt: "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications."
     publishedDateTime: 2023-12-22T13:30:00Z
@@ -52,36 +68,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    type: article
-    provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
-    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
-    publishedDateTime: 2023-12-20T11:41:00Z
-    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Music AI in 2023: a database of tools"
     excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
     publishedDateTime: 2023-12-19T13:55:00Z
@@ -91,29 +77,6 @@ related:
       name: Music Ally
       domain: musically.com
     quality: 19
-  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
-    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
-    publishedDateTime: 2023-12-21T13:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 19
-    images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
-    type: article
-    provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 6
 
 secured: "aCNmYAtC6xlu44Q+8iSm6lzlJ+3Gh69gOHy4SIquwKWuw/DqVAPXWnAQTrNNpKbq0rQv8r79oqnSwlllJawXPfPNdmsrMr6K/usr95PRFEfElUvzS0eUOgywewcnGfsj63R5ennjzKn2qTNyqf33GOBhDnWuFRBSldeftljM2M7vGhnLSEfwOIQLfb1/tNe7baN3kx2hg4VcaT9KTs0kVTYxhzVHLu4wFB2edDCARe+SSomLWC6Y2SwVxrtkTimj0BZungYPS9u1+bxv9FaVh1Y5tapZ9TIG142W7gi4kMi9v5zV0q64v8MRdtLzd6BFM1rLhVlE8SM3UFlPoCEpfq9er6J7hsvma1Xl8D2L434=;vLlNUfSIJ/tTf3Q4NR1nAQ=="
 ---

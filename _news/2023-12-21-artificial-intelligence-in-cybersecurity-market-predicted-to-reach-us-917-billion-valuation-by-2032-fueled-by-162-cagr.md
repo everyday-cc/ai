@@ -39,21 +39,19 @@ related:
         width: 906
         height: 630
         isCached: true
-  - title: "2024 US NDAA boosts nuclear cybersecurity, highlights artificial intelligence"
-    excerpt: "This year's annual national defense funding bill is chock-full of cybersecurity-related provisions with spending focused on nuclear weapons and systems security, artificial intelligence, digital diplomacy,"
-    publishedDateTime: 2023-12-18T12:07:00Z
-    webUrl: "https://www.csoonline.com/article/1265288/2024-us-ndaa-boosts-nuclear-cybersecurity-highlights-artificial-intelligence.html"
-    ampWebUrl: "https://www.csoonline.com/article/1265288/2024-us-ndaa-boosts-nuclear-cybersecurity-highlights-artificial-intelligence.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1265288/2024-us-ndaa-boosts-nuclear-cybersecurity-highlights-artificial-intelligence.html/amp/"
+  - title: "The Role of Artificial Intelligence and Machine Learning in Gaming and Cyber Security"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) have become essential tools in the gaming and cybersecurity industries. As someone who has experience in developing machine learning models to identify fraudulent activity and maintain safety in online gaming environments,"
+    publishedDateTime: 2023-12-23T11:07:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security/"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 56
+      name: Impacts
+      domain: techbullion.com
+    quality: 64
     images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2023/12/shutterstock_1845969991.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 463
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/1-73-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "NVIDIA: Advancing cybersecurity efforts with Gen AI"
     excerpt: "NVIDIA's David Reber Jr. discusses Gen AI's role in cybersecurity, fraud detection, and threat analysis for banks. Stay ahead of evolving risks"

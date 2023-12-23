@@ -42,36 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Create news directly from analytics of large data sets – ‘data journalism’ & AI is here"
-    excerpt: "I’d like to focus on the increasing trend of “data journalism”. This is the practice of analyzing large data sets for the purpose of generating new news stories. Data analysis has long been a part of supporting journalism."
-    publishedDateTime: 2023-12-18T12:45:00Z
-    webUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/"
-    ampWebUrl: "https://wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/create-news-directly-from-analytics-of-large-data-sets-data-journalism-ai-is-here/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 49
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2023/10/artificial-intelligence-hand.jpg"
-        width: 1280
-        height: 719
-        isCached: true
-  - title: "Ecommerce’s AI Playbook: Data, Personalization and Scalability"
-    excerpt: "The use of AI in ecommerce has uncovered numerous lessons about how modern businesses should operate and engage with their customers."
-    publishedDateTime: 2023-12-18T12:40:00Z
-    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/ecommerces-ai-playbook-data-personalization-and-scalability"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 39
-    images:
-      - url: "http://www.retailtouchpoints.com/wp-content/uploads/2023/12/VP_FastSimon.png"
-        width: 1680
-        height: 945
-        isCached: true
   - title: "Generative AI (GenAI) 2023 and Beyond: Growth Opportunities in CX, Advanced Analytics, KM Performance, Language Translation at Scale"
     excerpt: "Generative AI (GenAI) has sparked significant interest and shows great potential in enhancing business operations through the automation of routine tasks, streamlining workflows, and offering intelligent insights to boost efficiency, quality, and performance."
     publishedDateTime: 2023-12-20T16:23:00Z
