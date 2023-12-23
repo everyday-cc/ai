@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
-    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
-    publishedDateTime: 2023-12-18T01:30:00Z
-    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
     excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."

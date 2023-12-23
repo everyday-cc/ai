@@ -756,7 +756,7 @@
       "originalUrl": "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -881,49 +881,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level.md",
-      "title": "DeepMind’s Highly Capable Multimodal Model Gemin Reaches Human-Expert Level",
-      "excerpt": "The Multimodal Large Language Model (MLLM) has recently emerged as a prominent research focus, harnessing the capabilities of powerful Large Language Models (LLMs) to undertake diverse multimodal tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/",
-      "originalUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/",
-      "publishedDateTime": "2023-12-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -1216,6 +1173,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x.md",
+      "title": "Waymo says its self-driving cars are safer than human drivers by up to 10x",
+      "excerpt": "Waymo claims its self-driving cars are 57% less likely to be in a crash and 85% less likely to injure anyone – or 90% less likely in SF.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
+      "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/12/BlogAsset1_SafetyPaper_Hero_VR4-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

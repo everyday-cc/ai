@@ -2,49 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2023-12-08-automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers.md",
-      "title": "Automation Anywhere collaborateswith AWS to expand GenAI for customers",
-      "excerpt": "Automation Anywhere continues to work with AWS to build and deploy generative AI powered solutions in customer experience, document processing and contact center intelligence using Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers/105810802",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers/105810802",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-105810802,imgsize-54728,width-1200,height=765,overlay-etcio/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T21:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-08-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
       "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
       "excerpt": "SAN JOSE, Calif., Dec. 7, 2023 — Supermicro, Inc., a Total IT Solution Manufacturer for AI, Cloud, Storage, and 5G/Edge, is announcing three new additions to its AMD-based H13 generation of GPU Servers, optimized to deliver leading-edge performance and ...",
@@ -1100,6 +1057,41 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-social-robots-leave-students-wanting-education-researchers-find.md",
+      "title": "Social robots leave students wanting, education researchers find",
+      "excerpt": "Social robots, artificial intelligence (AI) systems designed to interact with humans, are marketed as capable of fulfilling certain human roles. Elementary and middle school students who ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "originalUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

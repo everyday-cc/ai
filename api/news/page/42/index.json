@@ -2,49 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
-      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
-      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
-      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
       "title": "The mind’s eye of a neural network system",
       "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
@@ -1134,6 +1091,49 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-17-voice-based-biometric-for-online-banking-eyed.md",
+      "title": "Voice-based biometric for online banking eyed",
+      "excerpt": "SINGAPORE – Aboitiz-led Union Bank of the Philippines plans to introduce voice recognition as another biometric verification as it builds on scalable technology for safer and more efficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
+      "originalUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.philstar.com/photos/2023/11/16/9_2023-11-16_19-31-05.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "philstar.com",
+        "domain": "philstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

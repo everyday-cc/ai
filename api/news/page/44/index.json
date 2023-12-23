@@ -2,40 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
-      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
-      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-16-the-minds-eye-of-a-neural-network-system.md",
       "title": "The mind's eye of a neural network system",
       "excerpt": "Aug. 31, 2023 — An artificial intelligence with the ability to look inward and fine tune its own neural network performs better when it chooses diversity over lack of diversity, a new study ...",
@@ -1113,6 +1079,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-global-artificial-intelligence-ai-in-healthcare-collaboration-and-licensing-deals-analysis-report-2023-with-a-directory-of-869-deals-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Collaboration and Licensing Deals Analysis Report 2023 with a Directory of 869 Deals - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence (AI) Collaboration and Licensing Deals 2016-2023\" report has been added to ResearchAndMarkets.com's offering. This report contains a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231115377072/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T10:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

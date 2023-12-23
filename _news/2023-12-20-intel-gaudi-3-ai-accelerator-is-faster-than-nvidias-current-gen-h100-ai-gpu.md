@@ -69,20 +69,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Intel unleashes AI chips for PCs and data centers, challenging AMD and Nvidia"
-    excerpt: "Intel ushered in the AI PC era with Core Ultra chips tailored for Windows laptops and PCs and introduced new 5th gen Xeon server processors."
-    publishedDateTime: 2023-12-18T01:30:00Z
-    webUrl: "https://techwireasia.com/12/2023/how-will-intel-ai-chips-for-pcs-and-data-centers-challenge-amd-and-nvidia/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 51
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2023/12/GBVwD7YaYAAcY_5-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Why Intel has joined the race for the AI-enabled laptop"
     excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
     publishedDateTime: 2023-12-19T10:33:00Z

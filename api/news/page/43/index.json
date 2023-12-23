@@ -2,49 +2,6 @@
   "page": 43,
   "value": [
     {
-      "path": "_news/2023-11-17-voice-based-biometric-for-online-banking-eyed.md",
-      "title": "Voice-based biometric for online banking eyed",
-      "excerpt": "SINGAPORE – Aboitiz-led Union Bank of the Philippines plans to introduce voice recognition as another biometric verification as it builds on scalable technology for safer and more efficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
-      "originalUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2023/11/16/9_2023-11-16_19-31-05.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-17-are-humanoid-robots-the-processing-and-packaging-labor-force-of-the-future.md",
       "title": "Are Humanoid Robots the Processing and Packaging Labor Force of The Future?",
       "excerpt": "With advanced AI software, dexterous “hands,” and full body mobility, will humanoid robots be the answer to the shortage of labor on the packaging line?",
@@ -1086,6 +1043,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-16-scale-ai-to-enable-enterprises-to-customize-large-language-models-and-build-robust-generative-ai-applications-on-microsoft-azure.md",
+      "title": "Scale AI to Enable Enterprises to Customize Large Language Models and Build Robust Generative AI Applications on Microsoft Azure",
+      "excerpt": "Scale AI, the data engine that powers the most advanced AI applications, today announced a collaboration with Microsoft at Microsoft Ignite to deliver",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
+      "originalUrl": "https://www.businesswire.com/news/home/20231115149949/en/Scale-AI-to-Enable-Enterprises-to-Customize-Large-Language-Models-and-Build-Robust-Generative-AI-Applications-on-Microsoft-Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

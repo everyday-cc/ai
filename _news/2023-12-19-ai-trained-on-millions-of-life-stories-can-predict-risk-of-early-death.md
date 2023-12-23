@@ -27,14 +27,14 @@ related:
   - title: "Can Artificial Intelligence Predict Your Life, and Death?"
     excerpt: "Ever since the explosion in popularity of ChatGPT about a year ago, there has been much discussion around the use of artificial intelligence in academia, health care, and in consumer's everyday lives."
     publishedDateTime: 2023-12-21T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/markus-winkler-tGBXiHcPKrM-unsplash.jpg?itok=4Oj_y_4C"
         width: 1528

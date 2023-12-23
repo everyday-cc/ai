@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-10-19-evaluating-social-and-ethical-risks-from-generative-ai.md",
-      "title": "Evaluating social and ethical risks from generative AI",
-      "excerpt": "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "originalUrl": "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-10-19-after-50000-hours-this-ai-can-play-pokemon-red.md",
       "title": "After 50,000 hours, this AI can play Pokémon Red",
       "excerpt": "Other researchers have used reinforcement learning to study the use of AI in gaming, like with DeepMind’s AlphaGo, which was the first computer program to defeat a professional Go player. But Whidden’s video has garnered so much attention because he ...",

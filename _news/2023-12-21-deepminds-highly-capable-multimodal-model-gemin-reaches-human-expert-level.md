@@ -9,8 +9,8 @@ ampWebUrl: "https://syncedreview.com/2023/12/20/deepminds-highly-capable-multimo
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/12/20/deepminds-highly-capable-multimodal-model-gemin-reaches-human-expert-level/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: syncedreview
@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google Gemini AI: Multimodal, GPT-4 Competitor, and More"
-    excerpt: "Google Gemini AI models have set a new benchmark in the AI industry and it is being touted to outrank OpenAI's GPT-4 model."
-    publishedDateTime: 2023-12-18T02:06:00Z
-    webUrl: "https://beebom.com/google-gemini-ai/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 19
 
 secured: "X5qYvcUg0EvpaKUvyTyCqLLVJyarYzq0bG41SH51SayBYMoSvMjM1hejbdrHr7jrvSz5Z94fQWBQlLhigq7JOpIPF34emCngbXfVthXhJ05cnuGJ73lE5FHN18NkdIS/qi9Vj2QkdjNWMhR8PE8x0aXXC6q0Emhm5XKzMNZa3mBH9JMCrBgaFfFSG5sm0NuP5Ju2lBGyERaMHMyr4XDD7o7Lu5zZbsapwj2oxwyisb6vVxTs0GiwChTvi+9Rvq76X5wrW4MIvACkK/hen910TdxOj+yZUTdhq/zqax49GOLETFn3n9Xi6afoqq8QBvVXoUyYqHYm30yPKJgP1Vfd/GaLl4xvurUkpcX7P315k+E=;DOX7S3McBQxx5QoXhmatrA=="
 ---
