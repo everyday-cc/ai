@@ -60,20 +60,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
-        isCached: true
   - title: "How artificial intelligence is transforming higher education"
     excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
     publishedDateTime: 2023-12-18T14:38:00Z
@@ -88,15 +74,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Modern Healthcare is evolving along with the industry"
-    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "33QLEFVeb8rmLk7j6phBFJKk0v3+mOkI3KUciF7jbdeNA+VWE7Kbir6ELD+PaPNKL1aXBG1greEXpk0zYtE9GQ0LWUcis7m++W3YtPjCoXmS4aV9g7wZKZVtzgr7oQQf5BGEA43uMWEcbx8NLHwfrbbsv1mwAfJp2oYsTjaKAUYSqixGYFm8hMNA2DnxYDEXbXfdZkNDFDUiOGaYQ3ha69qVTyxj/mV6yAbs6goDfnc1qIq1EPvVfUp+jfSMD9Oh1g2P3GdxS0nbr1PBgrkPFrLbrHR6Tqjlsg1y5+Vh1qHR1+X3qHau1NVAMJ+cDRHOiTy8j+A8qWEKGM7TTd6hAj6WXE4jamw++iIxQlHoACE=;kTiE4Cf/fRxobsV1j8dshw=="
 ---

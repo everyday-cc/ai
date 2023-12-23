@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Mercedes to test self-driving cars in Beijing"
-    excerpt: "Mercedes-Benz Group AG revealed on Monday that it will begin with level 3 (L3) autonomous driving tests on designated highways in Beijing, becoming one of the first companies to secure approval from"
-    publishedDateTime: 2023-12-18T07:53:00Z
-    webUrl: "https://www.teletrader.com/mercedes-to-test-self-driving-cars-in-beijing/news/details/61161747"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/61161747"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/61161747"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 44
-    images:
-      - url: "https://cdn.ttweb.net/News/images/308736.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
   - title: "If You See A Mercedes With Turquoise Lights, It’s Driving Autonomously"
     excerpt: "Autonomous Mercedes vehicles in California and Nevada will soon shine turquoise lights to let others know they're in self-driving mode"
     publishedDateTime: 2023-12-19T17:33:00Z
@@ -55,21 +39,19 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "Texas should take a cautious approach to self-driving cars and trucks"
-    excerpt: "Despite a growing list of problems, Texas cities cannot regulate self-driving cars or trucks in their communities. One major company has just announced it will be sending autonomous trucks to terminals in Dallas and Houston next year. In addition ..."
-    publishedDateTime: 2023-12-19T17:30:00Z
-    webUrl: "https://www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/"
-    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2023/12/20/texas-should-take-a-cautious-approach-to-self-driving-cars-and-trucks/?outputType=amp"
+  - title: "Self-driving cars could get these turquoise lights to warn you when they’re in autonomous mode"
+    excerpt: "This comes following the news of a number of accidents involving the alleged improper use of Tesla’s Auto-Pilot and Full Self-Driving systems, where the technology was deployed on roads where it is not legal or permitted to do so. Currently, the ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/self-driving-cars-could-get-these-turquoise-lights-to-warn-you-when-theyre-in-autonomous-mode"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
+      name: TechRadar
+      domain: techradar.com
+    quality: 42
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/6vhEL8brCTC9xwLmcYi9vfqzw4Y=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/UGFFWHNFGR7CPFZA74JV5IB74I.jpg"
-        width: 830
-        height: 467
+      - url: "https://cdn.mos.cms.futurecdn.net/YGowrE5G936VdwUwJZoAPU-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Mercedes-Benz Installing New Tail Lights to Show When Car Is Self-Driving"
     excerpt: "Mercedes-Benz just received approval for first-of-its-kind turquoise car lights that indicate a vehicle in self-driving mode."

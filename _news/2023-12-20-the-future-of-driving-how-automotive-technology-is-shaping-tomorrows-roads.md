@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-future-of-driving-how-automotive-techn
 webUrl: "https://techbullion.com/the-future-of-driving-how-automotive-technology-is-shaping-tomorrows-roads/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could get these turquoise lights to warn you when they’re in autonomous mode"
-    excerpt: "This comes following the news of a number of accidents involving the alleged improper use of Tesla’s Auto-Pilot and Full Self-Driving systems, where the technology was deployed on roads where it is not legal or permitted to do so. Currently, the ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/self-driving-cars-could-get-these-turquoise-lights-to-warn-you-when-theyre-in-autonomous-mode"
+  - title: "Frisco PD helps train self-driving truck technology"
+    excerpt: "Self-Driving trucks are already rolling through Texas and now Frisco police are helping to teach the technology how to respond when police lights go off."
+    publishedDateTime: 2023-12-20T12:40:00Z
+    webUrl: "https://www.cbsnews.com/texas/video/frisco-pd-helps-train-self-driving-truck-technology/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YGowrE5G936VdwUwJZoAPU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: CBS News
+      domain: cbsnews.com
+    quality: 19
 
 secured: "NT94aJo/CgRhg2Rd/oim8zW0HLRzPLRGEbU33FaPlHogVsbNB94aDbWM7rdfwsgeec7qF2SCu8GAri6Q66ma1xbC1SEn3mH0JAmmzlnyGKxb6gEqC3AtQ+9zvTcd9XcBMaqgHLVzMsXweHO0FSxvVkmR1Xv8cn8yaSRlIKk/S+hfvAaJVlO4r7GzW8Ej/bwzDNHabBamWadKeq+qxfs2E2LC811vrbud72F0lO6u2gEMidmxGMVaa73Op4/fundlHoFE6NhzECQ+Bb7DROflAm+XC7AhcySszLPtA8PiXrbj3OeBvvO8kxPRKk2bYtz49j3GbSfEGhGozsm65fGCwyQEqoc2npXmQe7+yQfREIk=;0Zaya6fUIBDYkB3oJLKgMQ=="
 ---

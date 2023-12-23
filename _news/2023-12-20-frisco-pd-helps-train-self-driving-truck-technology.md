@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/texas/video/frisco-pd-helps-train-self-dri
 webUrl: "https://www.cbsnews.com/texas/video/frisco-pd-helps-train-self-driving-truck-technology/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "The Future of Driving: How Automotive Technology is Shaping Tomorrow’s Roads"
+    excerpt: "Welcome to the road trip of the future! Strap yourself in as we embark on a thrilling journey through the realm of automotive technology and its astounding impact on tomorrow’s roads. From self-driving cars to electrified vehicles,"
+    publishedDateTime: 2023-12-19T16:34:00Z
+    webUrl: "https://techbullion.com/the-future-of-driving-how-automotive-technology-is-shaping-tomorrows-roads/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 21
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Automotive-Technology.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "PfcwH8EVY1RffvybaAjKdYbE5bEZWnHC/IcrlKOchfol7oE2OV2aXMKH1u6gBPNRNX0hGQdO/mz1ZrBM1y0S7BFYu4WjMtHBBOOOYg7K8Dc2RlRlE8h7DL5fixapfjEDjDmroLofWSE/TSgYepZXhbMXlR99ar0YIk2YVc/sL6K2nkUmJTXnH2775yveuvw+a3Av5uWEAdxrvHC52LBh9jAMa3Ay+1NACpAwnL3WPuNRvkeRyeOesoB5YQP5rMduvT83V/NjMrncSsPd/8etYAQZ49KwvtLvDtZe/uT+eEz/00zkVQ0VayZQ7YKf9KuBJK7qgQa9eO+0Aeo9FCjL6ShZIygqFmSX+Oe/ZPd27FIO0nkDPo1BSYPb27eaSaxR95bnSBFasiuX+T5o02+so/dXZawfNHzbt7OXuxzYPaxEBLQ7gONZl+cT1/l1W4m8udr7+mP0PdlhQfBamiJEVIybs7THv9pZ11s7X0lMHdVWTTKzO5UQ0fXtQ+pRoiGIA1s6hm1q7bc2BMugInpuvA==;IS5ve+ZYYAVAFCOuMQPSEQ=="
 ---

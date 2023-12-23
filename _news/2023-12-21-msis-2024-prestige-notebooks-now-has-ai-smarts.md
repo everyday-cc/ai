@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "MSI dives into the AI laptops era with the new Prestige 16 AI Series"
-    excerpt: "On the other hand, MSI springs into action by coming up with the new MSI AI Engine, which delves into different AI-determined user scenarios to automatically adjust the hardware settings without any manual involvement, including “Intelligent Gaming”, “Intelligent Work”, “Intelligent Meeting” and “Intelligent Entertainment”."
-    publishedDateTime: 2023-12-18T08:17:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/msi-dives-into-the-ai-laptops-era-with-the-new-prestige-16-ai-series/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 39
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/20231107msi1898-res.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "5pbnmPqm0PgHdr62nfHXq+nDvaSZP8mm7oYDrhG7b6c7CLQaPXL7Z1QleKC1wfGgRVs0dITNaDUqQedZqsc176U32AHtHllppGIT7FIIZMpC1o/WSYgibmOvNVCqznlodrBWKYzp+AI91o/t1Ohzhu7fhUiQ24P7TvmgCU/eWdReyqmTP0yf7+7ffHawTuTR3jWgPyC4ZZbPEXJ6GlEakeskMW7Fe/ASEuI0KQ0PXcFijXEiSUC6ohn954b1Sws3gIMfKSJVGGigevcdXRaJohgOCn+UZ2yyNNXtoiUot1dmgOAHqQZIzR2ohWIyggNL4jeLkCRvqTlxO3hYgSiKwJFrZ7VgLtoruZjSOpXYNBEzER7Dg2l6ovhq5ERUgowI4h3dfQoTS7dgaApiC5dwIvt16dBF39v6N3dc4MBAUztw5JZ8biqta05SU/NVu+NgJKBR0FFsZ92Wgfa85GfgGih6dv2zoXH8deogP2AdsazFzJud8rYRF3z74VjLs8YQVojMY7GQ1NoTmdAQRJgS+A==;IQ+lmkrMwaSV4ccNjzm0cg=="
 ---

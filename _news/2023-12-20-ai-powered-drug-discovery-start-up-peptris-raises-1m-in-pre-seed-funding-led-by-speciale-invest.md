@@ -85,6 +85,17 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 37
+  - title: "Google Unveils AI-Powered Features For Maps In India"
+    excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
+    publishedDateTime: 2023-12-20T07:56:00Z
+    webUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/"
+    ampWebUrl: "https://inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/google-unveils-ai-powered-features-for-maps-in-india/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
 
 secured: "AI6ECbUZy4Mu4XZIKzs60vbQ76qgKaG1znfDy+cLspaOIeEjD1FU+7aYL2oma4znV86Mm6L2TgBHsYzp3/ARoYwL6/dDjpEyTSNQP5LzJQBTcRLS3zY6A7g9jTyjDifOAFZhv6HPp9WBZZugRR95Ms5KG3HjP8W5ctb3VCD6611FrAR+7lZfXoB20ArrvcgyUwl8LM8PBGoWLtvL5r9/G3brPb85uYY18bSSTrxH3+ITZk4j61UB1ipoET6VZvtaIHIZC76LLO88Cx5Q8Mm0rSrc9a3MjxsLsCc2/xY7iW656Rc8yAZhUvBtrxg3D14BZtcnI2XaH9bpbv75DEt/hYodCwRhWNYUgTPVKQX+OfjGFc9gg3G3KQEoi0nhRK3p/OEUV15I3MJhUbFjv4KT2k6nY4mQKwuZY1TXrP5v0Rd3ST/6S0mMNh9FnlBr8aOP65QH4VFlsV/nbtpA5ySyDOMGtjlZsG7GWFJ5GBlwtCOQZLCM3bduqN3gHMXCcAu/RSWIbK5NrVXtvuHftO803Q==;qfcNmeYb7MHCS74TIDuZpw=="
 ---

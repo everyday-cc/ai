@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatmen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
 type: article
 quality: 92
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
-        isCached: true
   - title: "How artificial intelligence is transforming higher education"
     excerpt: "WINSTON-SALEM, N.C. — Improving the educational experience of students is a top priority for Dr. Betsy Barre. As the Executive Director of the Center for Advancement of Teaching at Wake Forest University, she works to find innovative teaching practices for faculty. Her latest project is how to address the use of artificial intelligence."
     publishedDateTime: 2023-12-18T14:38:00Z
@@ -92,15 +78,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Modern Healthcare is evolving along with the industry"
-    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "dQ2h4wKgMV5W3VUWdiqQsx+uNHKBzTF9GbIWWjbYVBhayEtWmNY1bO7KZKTPxzlaAkMlYYyNFitt5yhN/q5BouBplG84X4jM387L8kDSPBo1k71FeuFS/ckUejTvJ5WxlglfQ0iQWXUelb6yaD5jVbcYGFQQSNa9muM6rttdz0Sn+dUbdFl6EZhLx8eIFwpvjQPoyMXJGGedsK7DCvBIMNygpjwXiPTltGXIhsw6W8UefqMeBt1rjOHhDXx97J71bBXIvO3NyzCs6ajXZe09D9qEFQ4YeV4XtVZfSWDuRcy1jpbDEbDcPpo85dJn7G83MX7JmRvrJW2NCSE9Myul3wOUPIC3iZjRy3Iya2d1y5Pmb+ITorxabS19AfzLD0vvLy+D2M66cXITjt9gYjQGfkrexnZXVAQmVt2qQxIul86mPLOOE/M6MrB2V23XtNFeZZXxP5imAL5gIW/ohFLcVKhbePJoKPpB0ijLJw5tkr3FszyAqGcAIeKDmrfiB9m3Bn2ECizstjlU1/smRXKwKg==;6F7hiQJMcSsb3pB1nnDHEQ=="
 ---

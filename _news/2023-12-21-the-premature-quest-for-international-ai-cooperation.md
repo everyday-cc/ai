@@ -7,7 +7,7 @@ originalUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-co
 webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Infobip Unveils AI Hub For AI-Driven Conversational Customer Experiences"
-    excerpt: "AI Hub enables businesses to build conversational customer experiences that solve business problems and generate results <li /> Infobip"
-    publishedDateTime: 2023-12-18T07:18:00Z
-    webUrl: "https://menafn.com/1107613259/Infobip-Unveils-AI-Hub-For-AI-Driven-Conversational-Customer-Experiences"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/17/MON_4abe7image_story.jpg"
-        width: 800
-        height: 418
-        isCached: true
 
 secured: "+G1p9t6hIeKFkAgDMNeIqlG1zDuh+cgmooqohfduyYtwlMzmnJVU7wnItcm/UnsR5nxOTXs8N7mxouoclyAXUes7eqZqJzfl9ngsNC66SCdEsOxwzAtgQi0HRk3k7ZUiKWZothycsQQFlATCASDZPT9Mc4nijd82tyQpX3fR81DYQVg/OScqt535grnS5wCeWrEAgw3TGtS6NhdNPhuPajXNXXtVS+Vp9Il/eUbjF0T5Ziy2CGW9rxEF7Y1KD3u+bt+O20w5dyfaL4ypHkYKFXmKDiCrns/+1hs0AEzWghoORBXEGd8JqqNjz9B1G8zdogYAqrdPss2jwvBIyQ2TulkYrjSV2Vijr7Y8SciDQfk=;ojb1DpOJB7tB+QgYW0GNYg=="
 ---

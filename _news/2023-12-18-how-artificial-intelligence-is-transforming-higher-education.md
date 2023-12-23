@@ -73,29 +73,6 @@ related:
         width: 300
         height: 201
         isCached: true
-  - title: "How AI Is Influencing The Mortgage Industry"
-    excerpt: "In the not-so-distant future, you might join a video call and meet with a virtual representative to discuss your mortgage options. Afterward, an AI-written document will deliver personalized recommendations based on the conversation."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.forbes.com/advisor/mortgages/how-ai-affects-mortgage-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://www.forbes.com/advisor/wp-content/uploads/2023/12/How-AI-Is-Influencing-The-Mortgage-Industry-Ft-Image.jpg"
-        width: 766
-        height: 431
-        isCached: true
-  - title: "Modern Healthcare is evolving along with the industry"
-    excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
-    publishedDateTime: 2023-12-18T08:59:00Z
-    webUrl: "https://www.modernhealthcare.com/opinion/modern-healthcare-evolving-along-industry"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "lqSCtrUseGeKYWkYqJOqD5iP+BIz0QbVBLYlXBE4d1MZGhUI0Skk9UvjqwYpMXgI556sktgJ57bO9aq6FKfY/5SMAWsD4hjx+ErV9ouzqgxUksCsYSdAFduIp2rNdQhIAh9kgiNzjtysLAwljc+0lhvxLYHNDFSx2vGBzbDG2iuhhdp61EenMLV2zTF2D2mu7ltl3KI7OopWAYy784y+UvA2B+ruOHHE7jtMAnVGJvcs8UoZLIgLUXNfkLQTWF9y0qctxJteQOGQEytp9CYGy5MELhnXZF6nrM75KwPOmzdQ9IIbXQpulCzrMG6GxmD0phcNx2ImPkgx7u7BQV7qtBsP5FltE7LH4dpUKHXVOsnB6Vt5fPX8nodJ3tnGGlXL11p81BlQ84ngdd+26DpKN3YupugpS/s+kMC5bsgS0vzPes/ZKtZXMvMhXZx3oO/naMsKCG+Op2imVkzBWhZyNhUe0I8WPvg7f35ByhaWMLhK5ExR4hvW1qCB5G7+na6Y8cDntttJswGhNkdSn8ALbg==;tX/whifVqNnzOFAc6UKkzA=="
 ---
