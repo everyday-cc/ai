@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-24-a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai.md",
+      "title": "A Call For A Systemic Dismantling: These Women Refuse To Be Hidden Figures In The Development Of AI",
+      "excerpt": "This convergence of events: the week at OpenAI and the dreaded New York Times article shed light on a disconcerting reality—the increasing marginalization of women in artificial intelligence, a glaring lack of recognition and lack of respect for their work that is emblematic within both industry and media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2023/12/23/a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2023/12/23/a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65874510afdfe7c6f816bae7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1021,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2023/12/23/a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2023/12/23/a-call-for-a-systemic-dismantling-these-women-refuse-to-be-hidden-figures-in-the-development-of-ai/amp/",
+      "publishedDateTime": "2023-12-23T21:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-brainstorm-ai-2023-shopping-for-new-uses-of-ai-in-retail.md",
+      "title": "Brainstorm AI 2023: Shopping for New Uses of AI in Retail",
+      "excerpt": "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023",
+      "originalUrl": "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp",
+      "publishedDateTime": "2023-12-23T16:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-24-this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside.md",
       "title": "This week in AI: AI ethics keeps falling by the wayside",
       "excerpt": "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ...",
@@ -10,7 +112,7 @@
       "originalUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -62,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -165,7 +267,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -262,48 +364,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-23-son-uses-ai-to-recreate-late-fathers-voice-for-special-christmas-present.md",
-      "title": "Son uses AI to recreate late father's voice for special Christmas present",
-      "excerpt": "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
-      "originalUrl": "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
-      "publishedDateTime": "2023-12-22T20:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
       "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
       "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
@@ -365,7 +425,7 @@
       "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -781,7 +841,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -1206,49 +1266,6 @@
         "name": "The Financial Express",
         "domain": "financialexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-3-robotics-stocks-to-automate-your-future-in-2024.md",
-      "title": "3 Robotics Stocks to Automate Your Future in 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to forward-looking investment ideas, few are as relevant as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

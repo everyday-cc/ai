@@ -92,20 +92,15 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+  - title: "7 Incredible Musicians and Their AI Compositions"
+    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "bU/q4NR7FmAKNXxMhw0cRMeRIRWOAwybjwCaXxKntuxVrkE4iNZpnA7TogrnEQwMy3rQ6dXFUB4zpp6Q/JZ2eUSnkOyMdp/MwUYkDC2oqUCUDOooIAJ0qsr5MZWqdsg0hmBjx9qR7oAMI2z6e117a+YDcMyH4rZNtb3YPt54UjzuB/HTkatXrc9mriN9LEjNhWaCwU6NUZ192myo0ttqstGecKmztszl8QQ+uPJWeannOFp/c6g9FzPpuU1ow4Kn+kej3rs78oXh2y06L5l1n3RvzK71oK+SkO05jzwcyrkwXNRWoPE/xH4CDjXCxrKJY1De80b21vfY6KG+OwXh5iqUYHgdjUahUPvlpCioNtHE6QNS2uNEWpltp0hwatoPyIlXPvRSWOjqgdauSjpJ7himVyti0Rvy8rTLspwaigqX3dJgSPyqI90/lkB8VzHQnUvGhrFxPZBIXvHg/BmX4IogGHNuNS3j+CvE2RbrTEqLKn+q025Wyp2Fo4PUFS+d9xUoJ668jAowTMESUe32Cg==;jZFZh2UgYSsgQWiWtFbIZg=="
 ---

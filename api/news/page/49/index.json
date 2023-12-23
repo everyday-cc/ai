@@ -2,6 +2,40 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-11-14-sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students.md",
+      "title": "SJI Utilities Hosted Mark Cuban Foundation’s Artificial Intelligence Bootcamp for Local High School Students",
+      "excerpt": "As part of its commitment to invest in our communities, SJI Utilities was proud to welcome over 40 local high school students to the Mark Cuban Foundation’s Artificial Intelligence (AI) Bootcamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
+      "originalUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T17:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Trentonian",
+        "domain": "trentonian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-artificial-intelligence-unexpected-results.md",
       "title": "Artificial intelligence: Unexpected results",
       "excerpt": "Artificial intelligence (AI) is on the rise. Until now, AI applications generally have “black box” character: How AI arrives at its results remains",
@@ -850,40 +884,6 @@
       "provider": {
         "name": "Geeky Gadgets",
         "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
-      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
-      "excerpt": "Artificial intelligence is poised to dramatically influence how kids develop their sense of self and interact with one another, their teachers, their families, and the broader world. And this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "originalUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Education Week",
-        "domain": "edweek.org",
         "images": null,
         "publishers": null,
         "authors": null

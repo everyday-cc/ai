@@ -2,6 +2,40 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-10-31-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud.md",
+      "title": "L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud",
+      "excerpt": "Read more about L&T Technology Services transitions to smart vehicles with Gen AI on AWS cloud on Devdiscourse",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2687731-lt-technology-services-transitions-to-smart-vehicles-with-gen-ai-on-aws-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T05:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-real-time-ai-is-a-game-changer-for-fintech-startups-heres-how.md",
       "title": "Real-time AI is a game changer for fintech startups: Here’s how",
       "excerpt": "The artificial intelligence (AI) sector in India has seen incredible growth over the last few years and is projected to",
@@ -892,41 +926,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
-      "title": "The Future of Artificial Intelligence",
-      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
-      "sourceUrl": null,
-      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
-      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-30T22:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kashmir Reader",
-        "domain": "kashmirreader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

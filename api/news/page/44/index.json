@@ -2,6 +2,40 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2023-11-16-the-trends-of-2023-artificial-intelligence.md",
+      "title": "The trends of 2023: artificial intelligence",
+      "excerpt": "Grigory Mindlin, general manager for broadcast at disguise, says that the dawn of AI is bringing new sorts of discussions into the broadcast industry… and that doesn’t have to be a bad thing! What industry trends have particularly stood out for you in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
+      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/the-trends-of-2023-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T06:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-16-nvidia-stock-nasdaqnvda-striving-for-ai-dominance-with-new-chip-launch.md",
       "title": "Nvidia Stock (NASDAQ:NVDA): Striving for AI Dominance with New Chip Launch",
       "excerpt": "Nvidia (NASDAQ:NVDA), a leading global chipmaker, has emerged as a big winner in AI technology, and the company is striving for dominance in",
@@ -1062,58 +1096,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-windows-11-will-soon-harness-your-gpu-for-generative-ai.md",
-      "title": "Windows 11 will soon harness your GPU for generative AI",
-      "excerpt": "Microsoft has partnered with Nvidia to launch a new release of TensorRT-LLM to make demanding AI workloads more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
-      "publishedDateTime": "2023-11-15T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -344,15 +344,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "Microsoft Only Cloud Giant 'Leader' in AI Governance Research Report"
-    excerpt: "In fact, among the largest general cloud computing platforms, IBM is the only other player covered in the 'IDC MarketScape: Worldwide AI Governance Platforms 2023 Vendor Assessment,' with fellow hyperscalers AWS and Google Cloud Platform not included."
-    publishedDateTime: 2023-12-18T19:52:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/12/18/ai-governance.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 34
   - title: "Microsoft and TomTom partner on in-car Generative AI"
     excerpt: "TomTom has announced a new partnership with Microsoft to bring Generative AI to vehicles, TomTom has developed an advanced AI-powered voice assistant"
     publishedDateTime: 2023-12-20T14:01:00Z

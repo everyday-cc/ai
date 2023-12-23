@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artifi
 ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "+eAOlWdsd5pcm+SgzbmXWVECYcSB34LOgUSwHyl29wvetBILqOXtewvSfTqRl7KSfuRbaV0vlYOqUsj8ZW4DJu5uyHE+86p1+EotgESgR/ubPZrTgCFHVQ0bC9e9g2a188JNn+eNCKrWpAiKutuVai/G0vUyCXDm2wyP90KvJAZyCFWTqqdNI4SS/x24hTkH6LontRj2yQkENMA6E+T49meMrh4uXVarHGQ6ACNBEGMWlY072msQNXPM9tvqY7cZyYV7A3tpaJDkVz4JEjy1H4SQSxCshVRz5fVOw7V1ekVpJX26og+q/CAifs5nDfTUUC/Xl3J8f9UEXretki2sgoCmQBY4GrOWqunmzm7fT+8=;UKtf3egn+0mJgnS8vhabVg=="
+secured: "OcRGmxALkVNnQ307PfuTTRuJCDMBO0GQp7o6UGRboTecqrGZBR9hEKp4eA5+yVdb1a0Qjr/Tn7RF6y4/lvTMIyA4sBJ6A+4/RZcDJiCqY9cciCIkFX1bmfxVSqj5ypCfPv8Svw1mMN+U0yrTmPOz6MXTzp57/JhbunUPLPFj1e4TV5mCaMyDS/QnbaMqr8rcRJn4hr/MnYnd2miM2iP7zMZQiNN75nXwxdsm4eDWG1r+IefbQTGk6GlI/5vSW5eZhyIyDQmcs3WRUGZkDDBVmA44x3vD9kR6z2ElUsMqu8TWMy9rf397rl/3J27lJ2ZjpBjOW4AG+h21gSqFFZMfBC8maznhUXLhEVfsVza+dIA=;cRFL/r5x5z5dZ2TO9eGMmg=="
 ---
 

@@ -59,20 +59,6 @@ related:
         width: 432
         height: 222
         isCached: true
-  - title: "SOFI, COIN, HOOD, UPST, or AFRM: Who’s Winning the Fintech Stocks Race?"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips There’s no denying that the past few years have been difficult for"
-    publishedDateTime: 2023-12-18T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/11/koyfin_20231110_013904628.png"
-        width: 2400
-        height: 1240
-        isCached: true
   - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
     excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
     publishedDateTime: 2023-12-23T08:01:00Z

@@ -18,47 +18,79 @@ topics:
   - AI
 
 related:
-  - title: "Humane announces AI Pin will start shipping in March"
-    excerpt: "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs."
-    publishedDateTime: 2023-12-22T19:55:00Z
-    webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
+  - title: "Brainstorm AI 2023: Shopping for New Uses of AI in Retail"
+    excerpt: "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE"
+    publishedDateTime: 2023-12-23T16:19:00Z
+    webUrl: "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023"
+    ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
+      name: Fortune
+      domain: fortune.com
+    quality: 87
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Humane AI's $699 Wearable Will Start Shipping in March"
-    excerpt: "The Humane AI Pin is expected to start shipping in March. On Friday, the company posted a tweet on Twitter/X indicating plans to start shipping the device early next year."
-    publishedDateTime: 2023-12-23T16:37:00Z
-    webUrl: "https://au.pcmag.com/wearables/103203/humane-ais-699-wearable-will-start-shipping-in-march"
+  - title: "AI-based automation has changed contact centre performance in 2023: Report"
+    excerpt: "fintech, NBFC, banking, real estate, and logistics, among others. “The 2023 Contact Center Report reveals advancements in customer experience and reflects the evolving role of contact centers across the customer journey. AI can free up agents for high ..."
+    publishedDateTime: 2023-12-22T06:50:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/h/humane-ais/humane-ais-699-wearable-will-start-shipping-in-march_vuhk.1200.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design399.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Humane AI's $699 Wearable Will Start Shipping in March"
-    excerpt: "The Humane AI Pin is expected to start shipping in March. On Friday, the company posted a tweet on Twitter/X indicating plans to start shipping the device early next year. According to the tweet, those who placed priority orders for the pin will be the ..."
-    publishedDateTime: 2023-12-23T00:00:00Z
-    webUrl: "https://uk.pcmag.com/wearables/150233/humane-ais-699-wearable-will-start-shipping-in-march"
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Music Ally
+      domain: musically.com
+    quality: 39
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/humane-ais/humane-ais-699-wearable-will-start-shipping-in-march_b9qs.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "AI news to watch for in 2024"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
+    publishedDateTime: 2023-12-20T11:00:00Z
+    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
+        width: 1157
+        height: 900
+        isCached: true
+  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
+    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "DBZm1NulADFwXRkKdeFgEFMUAU5v67hbnJaakoGIMU3briFSqrOiQUY++GQaaxOxiQFoEhQBbgHfg1dqf3i+kXrAfmL21g6lS88mhe125YOz9a4gbXzA31OZXaKEoxv0GDyEblsaLqdjZFm7wbT16qHthqYgnZbXBQ09ZPFrrSxbTkwfFHWbx8Scy1WelSi+s2vHs4dZvgNe603qbaC8RpUyN/7GWpuAozT9baUmHu4AKEYll9zjUW2pW6CjnOip/eI+U+gqrsmsXnPXGQA+AXhCa5Dgfqi7Q226DSObjhvRzf3QtGQSFq8Hfe85MIb9/QfTubK1FtWtH2d8TbCUrW2qLgKmxWgKjCbASotphWkwSMub4wkDX5t+Ck8vJlJL+1rqrXwyS+5qAJW735B3xRaLdh8qZwt5oskDz+iChTxTqaskP9KIwp4Bu9tdLmOFgYFdLR4H3oGyy6mB4GRzfU+tA2MJeN/SsSHWa5EJadDXqLaq0lMybWY0gW1JHMkgoXago1DGoM+M80nAGwEeMQ==;q4E8bI/0CWqDQe/vpPW4Ng=="

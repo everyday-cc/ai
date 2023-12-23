@@ -2,6 +2,40 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-11-13-artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course.md",
+      "title": "Artificial Intelligence and Social-Emotional Learning Are on a Collision Course",
+      "excerpt": "Artificial intelligence is poised to dramatically influence how kids develop their sense of self and interact with one another, their teachers, their families, and the broader world. And this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "originalUrl": "https://www.edweek.org/artificial-intelligence-and-social-emotional-learning-are-on-a-collision-course/2023/11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Education Week",
+        "domain": "edweek.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-artificial-intelligence-continues-to-transform-healthcare.md",
       "title": "Artificial Intelligence Continues to Transform Healthcare",
       "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
@@ -944,48 +978,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-11-google-in-talks-for-a-major-investment-in-ai-start-up-characterai.md",
-      "title": "Google in talks for a major investment in AI start-up Character.AI",
-      "excerpt": "the rapidly growing AI chatbot start-up, as per a Reuters report. The move comes as Character.AI seeks capital to train models and meet the increasing demand from users, according to sources familiar with the matter. The potential investment, which might ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html",
-      "originalUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/11/11/1600x900/GOOGLE-PIXEL-ASSISTANT-0_1696435041435_1699665353094.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai/amp-11699665159400.html",
-      "publishedDateTime": "2023-11-11T01:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

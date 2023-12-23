@@ -57,20 +57,6 @@ related:
         width: 432
         height: 222
         isCached: true
-  - title: "SOFI, COIN, HOOD, UPST, or AFRM: Who’s Winning the Fintech Stocks Race?"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips There’s no denying that the past few years have been difficult for"
-    publishedDateTime: 2023-12-18T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sofi-coin-hood-upst-or-afrm-whos-winning-the-fintech-stocks-race-1032910353"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/11/koyfin_20231110_013904628.png"
-        width: 2400
-        height: 1240
-        isCached: true
   - title: "From RegTech to cross-border, fintech trends to watch out for in 2024"
     excerpt: "UPI transactions hit a new record of Rs 17.4 lakh crore in November 2023, a 54% YoY increase in terms of the number of transactions and a 46% YoY increase in terms of value."
     publishedDateTime: 2023-12-21T04:42:00Z

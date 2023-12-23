@@ -211,6 +211,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
+    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
+    publishedDateTime: 2023-12-23T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
     excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
     publishedDateTime: 2023-12-19T15:27:00Z
@@ -378,15 +387,6 @@ related:
       name: computable
       domain: computable.be
     quality: 19
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "Google to limit answers to election queries on Bard AI tool and generative search"
     excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
     publishedDateTime: 2023-12-20T08:03:00Z

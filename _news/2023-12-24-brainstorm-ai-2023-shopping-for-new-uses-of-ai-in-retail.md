@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Fortune
@@ -30,47 +30,73 @@ images:
     isCached: true
 
 related:
-  - title: "CEO Initiative 2023: Where Do We Start, Pause, Or Stop With AI"
-    excerpt: "December 18, 2023 00:00 AM UTC - Updated 1 hour ago Erik Brynjolfsson, Jerry Yang and Akiko Yamazaki Professor and Senior Fellow, Stanford Institute for Human-Centered AI (HAI), Julie Sweet, Chair and CEO, Accenture Hemant Taneja, Managing Director and CEO ..."
-    publishedDateTime: 2023-12-18T22:52:00Z
-    webUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b"
-    ampWebUrl: "https://fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/ceo-initiative-2023%3A-where-do-we-start%2C-pause%2C-or-stop-with-ai/331ba556-0b4a-41cb-9cb0-3569dae6595b/amp"
+  - title: "AI-based automation has changed contact centre performance in 2023: Report"
+    excerpt: "fintech, NBFC, banking, real estate, and logistics, among others. “The 2023 Contact Center Report reveals advancements in customer experience and reflects the evolving role of contact centers across the customer journey. AI can free up agents for high ..."
+    publishedDateTime: 2023-12-22T06:50:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 87
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
     images:
-      - url: "https://d2byebo1j9i40c.cloudfront.net/331ba556-0b4a-41cb-9cb0-3569dae6595b/Images/posterImage-ver2-1280x720.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design399.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
     type: article
     provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
+      name: Music Ally
+      domain: musically.com
+    quality: 39
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. Catalyzing a year of AI fanfare was ChatGPT. The chatbot gave ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://smdp.com/2023/12/20/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+  - title: "AI news to watch for in 2024"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
+    publishedDateTime: 2023-12-20T11:00:00Z
+    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
     type: article
     provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 6
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
+        width: 1157
+        height: 900
+        isCached: true
+  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
+    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
+    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
+    publishedDateTime: 2023-12-23T13:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "Hn/oIJ5Y7XNGtodZfFLIzrDJNnbfeFbXPvNY3pHEPRZGr0Yu8sIZ45FAhu6aDnkEEOJC5gdC6qs5fhgr3c5phRnNfVq/kfy/0ttfHUr2ano9y+wQVOkLVK3AO5JMUh0zmJNrLSbhQ5q4x12NTv7is6q9S0DYZAQEKSEisX7+UhPRIBfeUZnLp690k1NWicXRRv9DSVxBpJTeStmhmAul7cc/Grr5OVbeV3pG3oC5xhZ+J9bV06Mfzc2OuyQ6VueFkMIshG6ip0KwrPXPABd54Iki8fTBeu1bk6yKjH15b93pva+qBS5ei1htSlGx6HX35a4UX0bWlWUtvr3qhWd10OlhdA8geJmEXVx25Jk0Nvfw5nxUHbgYEc0rMpwhCpGixirCaxJrsdEEaDvG5Q0lNB5/3kyn2/TAKyF4/HKId3mmTnYGQMHOsxUlitKnnHg6nVI7dT+/8xp3NFjUbNfTBm39unmn2TOHzwo8ez7fdDLlmPSJTNkekGxRrPKbeoWT4B+W+UTaJ8rZk8WkcET0pw==;d1RFYNz5KXL+ukRlQUQALw=="
 ---

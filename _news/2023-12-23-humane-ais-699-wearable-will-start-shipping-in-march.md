@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
-    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
-    publishedDateTime: 2023-12-23T13:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "0RlYbjtm0jtWl+k6kNZJwpgtmpMjmfTv+flqJJbNv6R1lP3S0MCqRILIyQSAXGmDzM7PtPPSAEeOwdUaWKigijKVT9lRneC1trb725QxAlqtoSHC1qFlu8R3njBY2xuE8/XzFdkjmNhObE0ccK8MbIN0wdSlLtIRGFDmZE9aHs0Ut6ye3uEcBF1ixRVXQIj7SQsIUlfoN1g6D9Sb9zOdE+i/LYHLTHT0g/gLd3oYol4SNfgtcEFGPa6uJtf64OjgSA3JFMH/8PJGIhvhdeDlo0WdmnWVbyx7QhV38aVlLFap3DXsmOMtxikvXo/np3BkZ9w20xUcOfYX02xJ5bPShedyYEFBVNnLJ/WMTeRNKXTMD0cX2zmet049+8ujubTCrmXbIE5SJDG8U9Kn+ouAa6+rvAv7KHr9F+P9WOfpmZDoUwcWfxyl9m7RDucOAUjJrpC3Jn1RAux8f5r9iMLJt12keGb+z85RdEQwtlmv4fx53blpSlxjNYpJLu7BFQLI7PRgEkDB20MUft08l6KatQ==;iOD5pyIRIHoOn/ujQokHqg=="
 ---

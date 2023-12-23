@@ -24,87 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways AI Transformed Music, Movies and Art in 2023"
-    excerpt: "From Drake impersonators to the Hollywood strike, AI provoked both enthusiasm and panic across the entertainment world."
-    publishedDateTime: 2023-12-20T22:09:00Z
-    webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
+  - title: "Brainstorm AI 2023: Shopping for New Uses of AI in Retail"
+    excerpt: "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE"
+    publishedDateTime: 2023-12-23T16:19:00Z
+    webUrl: "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023"
+    ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Fortune
+      domain: fortune.com
+    quality: 87
     images:
-      - url: "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1252545292.jpg?quality=85"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "This AI transformer tech-powered robot taught itself to walk"
-    excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
-    publishedDateTime: 2023-12-20T11:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/humanoid-taught-itself-to-walk"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/DPsWRbtuTA2gmzC7Yov3mD07KgfEQeqFEWjbzHRf.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "7 ways doctors and nurses are using AI"
-    excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
-    publishedDateTime: 2023-12-21T09:19:00Z
-    webUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/12/Shutterstock1155104248I1CL_0.jpg"
-        width: 1010
+      - url: "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png"
+        width: 1280
         height: 720
         isCached: true
-  - title: "What’s Ahead for AI In 2024: The Transformative Journey Continues"
-    excerpt: "Organizations increasingly recognize AI’s role in driving decision-making and fostering growth. Here’s what we can expect from AI in 2024."
-    publishedDateTime: 2023-12-21T10:40:00Z
-    webUrl: "https://tdwi.org/Articles/2023/12/21/ADV-ALL-Whats-Ahead-for-AI-In-2024-Transformative-Journey-Continues.aspx"
+  - title: "AI-based automation has changed contact centre performance in 2023: Report"
+    excerpt: "fintech, NBFC, banking, real estate, and logistics, among others. “The 2023 Contact Center Report reveals advancements in customer experience and reflects the evolving role of contact centers across the customer journey. AI can free up agents for high ..."
+    publishedDateTime: 2023-12-22T06:50:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
     type: article
     provider:
-      name: TDWI
-      domain: tdwi.org
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design399.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
+    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
+    publishedDateTime: 2023-12-20T11:41:00Z
+    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
     quality: 39
     images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/trends1.jpg"
-        width: 976
-        height: 400
+      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
+        width: 1024
+        height: 1024
         isCached: true
-  - title: "Legislature eyes AI issues in 2024"
-    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
-    publishedDateTime: 2023-12-21T10:32:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+  - title: "AI news to watch for in 2024"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
+    publishedDateTime: 2023-12-20T11:00:00Z
+    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
+      name: Technical
+      domain: technical.ly
+    quality: 37
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
+        width: 1157
+        height: 900
+        isCached: true
+  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
+    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
+    publishedDateTime: 2023-12-23T13:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
 
 secured: "r+cDAaRmVNuR0w9ch9QYdcdH0XQnhjS2w1dtX6YEtmKkjwz2VP6ZtEUEsZevdHrD6N0rBhHxoklZaBVJbYzARseSfWmFEveYlQWbxgxm5Cf32RYheRDjjn6CEd6z3dCAEhaNU0TK1gMNEuH/I00lwwlIw4RQKn5m+quh0znytUE7BEe27A37MqSu1ii8vHNhFD5qsu/CI3z0Uc2yNwkZlApFh3STz9FNNu3XhIP13155UWfW6kk049rkz1cGK/qxXOdE036UcicChqDQqz6aFO1p56sLNrHb7aALp4JqeawJ2B3n32VpMcLlv3nSVcg/wlseainwdhWVR1leSbTBkx//EM6QeAOWq3AjSiYSmLx1cksMWZFyRZEcu+zC8rzpEr/GJvtKBAUC1kIr5fq+NuBeSlAEyasqh68gI9e4N1dgEh6aXSvvI9sqkUMqgZK/OLyuXjHxFcRqNmYWAt1DNF/5r+8UG3SbrqL1Md3k4/40kVJj7P83uPgu7DfumXgWWHzDbRCSfF+AR39Rq0lVgQ==;S8mruqENLls1+z/RECkX3w=="
 ---

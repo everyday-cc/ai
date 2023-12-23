@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "3 AI Stocks Poised for Explosive Growth in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Businesses and consumers have used artificial intelligence (AI) before 2023,"
-    publishedDateTime: 2023-12-18T20:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-poised-for-explosive-growth-in-2024-1032910289"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "3 Stocks to Play the Rise of Autonomous Vehicles"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of autonomous vehicles (AVs) and artificial intelligence stocks is"
     publishedDateTime: 2023-12-20T10:24:00Z

@@ -84,20 +84,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Legislature eyes AI issues in 2024"
     excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
     publishedDateTime: 2023-12-21T10:32:00Z
@@ -107,6 +93,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "7 Incredible Musicians and Their AI Compositions"
+    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "nSYurT12lSwsZ3WCS4+1UC05+ZRUgPwIORHxqutMcsyJVvf8yO96qLSek71yI2j80IiEZEEyy4Gy9qiKZEkVU79bmR/MQj2KaHC2gt/sQutqtuKcSvNIvfETxAmkFhIaobL4IaDGF0mHr8S/3lcmxvnf9ZFfWO92NBDiF7G4fdXhVbzZhufKcnCoPrqvIMiJtjXgbfPRjswMZFnnFf/xsJVu4V7oCGrk2Ieb/Dw22WoKNfrZJLtPuWikoGGnDECsvdhNfWVFKbeH8kIg1CVIZ0/SNq1CNyemN3Tl5U+buGnl0cgP8geZbBeyCCcmoRsUCzVFz1MGcaBmNucmm+YJW0TZyI2BqYU6kPjF8+g8fV7OYVJZn2EXp8hz5Reh2hFs1rnQAJJNOju1kEZ4/3PEogF35sBJut4HTAWEcjB0WWAanK62mI0w0oSqzA8fvKooRelW9bNEZe5iYrQyqYGOhgj0aKU6bWwdUXMumCbR/Xy9vuUTLAhrzFmpzaElTQBM5WZALRAEtp7sJLh+FnsQDw==;1flpC2qNMAe4Y0KWExikaQ=="
 ---

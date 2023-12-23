@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-10-19-bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first.md",
+      "title": "Bluebirds bags $5M for sales AI that finds the ‘best leads first’",
+      "excerpt": "Bluebirds will use the funding to grow its tech team and add new AI-powered triggers to identify strong prospects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first/",
+      "originalUrl": "https://venturebeat.com/ai/bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/line_art_cute_blue_birds_flying_in_dollar_rainf.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T20:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-amazon-is-finally-offering-free-drone-delivery-for-prescriptions.md",
       "title": "Amazon is finally offering free drone delivery for prescriptions",
       "excerpt": "If you order your medications through Amazon Pharmacy, you could soon have a drone deliver them for free within 60 minutes of ordering. With this service, Amazon seeks to reduce the time window between consumers feeling sick and getting treatment.",
@@ -1136,57 +1188,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers.md",
-      "title": "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?",
-      "excerpt": "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 388,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/",
-      "publishedDateTime": "2023-10-18T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

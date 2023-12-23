@@ -199,6 +199,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Rite Aid Facial Recognition Lawsuit Shows AI Risks Of Shopping While Black"
+    excerpt: "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid RAD +5.4% has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts."
+    publishedDateTime: 2023-12-22T02:33:00Z
+    webUrl: "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-ai-lessons-from-a-federal-case-against-rite-aid/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 62
   - title: "FTC bans Rite Aid from using facial recognition technology"
     excerpt: "The Rite Aid pharmacy chain can’t use facial recognition technology to identify customers for five years after a Federal Trade Commission investigation found the company inappropriately used it to criminally profile customers. The FTC described Rite Aid ..."
     publishedDateTime: 2023-12-19T23:59:00Z

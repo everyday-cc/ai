@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-11-01-meeting-looks-at-music-intelligence.md",
+      "title": "Meeting looks at music intelligence",
+      "excerpt": "Li Xiaobing, executive director of the concert and head of the music AI and information technology department of the Central Conservatory of Music. [Photo provided to China Daily] The Second Summit on Music Intelligence was launched in Beijing on Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202311/01/WS6541c793a31090682a5ebdca_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202311/01/6541c793a3109068caff34a4.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-01T03:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-aws-offers-more-flexible-access-to-nvidia-gpus-for-short-duration-ai-workloads.md",
       "title": "AWS offers more flexible access to Nvidia GPUs for short-duration AI workloads",
       "excerpt": "Amazon Elastic Compute Cloud (EC2) Capacity Blocks for ML is generally available now, and allows customers to reserve access to “hundreds” of Nvidia Corp.’s most advanced H100 Tensor Core GPUs colocated in Amazon EC2 UltraClusters that are geared towards high-performance machine learning workloads.",
@@ -932,40 +975,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold.md",
-      "title": "Google DeepMind, Isomorphic Labs Unveil Next Generation of AlphaFold",
-      "excerpt": "AlphaFold model shows significantly improved accuracy and expands coverage beyond proteins to other biological molecules, including ligands‍",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
-      "originalUrl": "https://analyticsindiamag.com/google-deepmind-isomorphic-labs-unveil-next-generation-of-alphafold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

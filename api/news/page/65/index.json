@@ -2,6 +2,41 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-10-31-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "In this AI-driven age, staying informed is crucial as the future unfolds as a rich mosaic, interwoven with both challenges and opportunities Artificial Intelligence (AI) is no longer a buzzword confined to the realms of science fiction;",
+      "sourceUrl": null,
+      "webUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "originalUrl": "https://kashmirreader.com/2023/10/31/the-future-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-30T22:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kashmir Reader",
+        "domain": "kashmirreader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-31-iust-hosts-intl-conference-on-ai-machine-learning-and-intelligent-systems.md",
       "title": "IUST hosts int’l conference on AI, Machine Learning and Intelligent Systems",
       "excerpt": "A two-day International Conference on Artificial Intelligence, Machine Learning, and Intelligent Systems (ICAIMLIS) was today inaugurated at Islamic University of Science and Technology (IUST). Shri Rajeev Rai Bhatnagar,",
@@ -945,49 +980,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-30-three-things-to-know-about-the-white-houses-executive-order-on-ai.md",
-      "title": "Three things to know about the White House’s executive order on AI",
-      "excerpt": "Experts say its emphasis on content labeling, watermarking, and transparency represents important steps forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/10/GettyImages-1561041883.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/amp/",
-      "publishedDateTime": "2023-10-30T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2023-11-15-windows-11-will-soon-harness-your-gpu-for-generative-ai.md",
+      "title": "Windows 11 will soon harness your GPU for generative AI",
+      "excerpt": "Microsoft has partnered with Nvidia to launch a new release of TensorRT-LLM to make demanding AI workloads more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/rtx-4090-suprim-x-5.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-nvidia-tensorrt-llm-update-ignite-2023/?amp",
+      "publishedDateTime": "2023-11-15T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-baidu-upgrading-to-buy.md",
       "title": "Baidu: Upgrading To Buy",
       "excerpt": "Although I never invested in Baidu, Inc. (NASDAQ:BIDU), I found the company attractively valued back in 2021 when BIDU stock was still in a free fall. Last June, I rated Baidu stock a hold despite ...",
@@ -963,49 +1015,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-llama-factory-lets-you-easily-fine-tune-and-train-large-language-models-llms.md",
-      "title": "LLaMA Factory lets you easily fine tune and train large language models (LLMs)",
-      "excerpt": "If you are looking for ways to easily fine-tune and train large language models (LLMs) you might be interested in a new project called LLaMA Factory. that incorporates the LLaMA Board a one-stop online web user interface method for training and refining ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
-      "originalUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/LLaMA-Factory-fine-tunes-and-trains-large-language-models.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

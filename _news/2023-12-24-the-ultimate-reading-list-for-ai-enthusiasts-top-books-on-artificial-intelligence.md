@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-23T16:28:00Z
 originalUrl: "https://techbullion.com/the-ultimate-reading-list-for-ai-enthusiasts-top-books-on-artificial-intelligence/"
 webUrl: "https://techbullion.com/the-ultimate-reading-list-for-ai-enthusiasts-top-books-on-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI Ethics
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/artificial-intelligence-5.jpg"

@@ -2,6 +2,50 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-11-27-privacera-ai-governance-integrates-with-aws-on-foundational-model-security.md",
+      "title": "Privacera AI Governance Integrates with AWS on Foundational Model Security",
+      "excerpt": "Last month, Privacera announced the General Availability of Privacera AI Governance (PAIG), one of the industry's first comprehensive AI data governance solutions. Visit Privacera's website to request a demo on PAIG or to learn about generative AI Governance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-privacera-ai-governance-integrates-with-aws-foundational-model-/2023/11/27/9923370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 266,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-amazon-is-using-ai-to-deliver-packages-faster-than-ever-this-holiday-season.md",
       "title": "Amazon is using AI to deliver packages faster than ever this holiday season",
       "excerpt": "Amazon is boasting its quickest delivery time yet, saying that packages are being prepared for dispatch within 11 minutes of an order placement at same-day facilities. That pace is an hour faster ...",
@@ -1101,57 +1145,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-want-a-job-in-ai-advice-from-the-founder-of-the-ladders.md",
-      "title": "Want A Job In AI? Advice From The Founder Of The Ladders",
-      "excerpt": "One of the fastest growing career fields is AI. To understand how to break into the field, I sought insight from the founder of The Ladders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
-      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65470abbbdee2debeb036233/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/11/26/want-a-job-in-ai-advice-from-the-founder-of-the-ladders/amp/",
-      "publishedDateTime": "2023-11-26T08:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -218,6 +218,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
+    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
+    publishedDateTime: 2023-12-23T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Sai Buddhavarapu on the power of generative AI in supply chains"
     excerpt: "For supply chain professionals, success is reliant on good planning. But volatile market conditions and a proliferation of data are making this increasingly difficult. “With supply chain solutions spanning vast networks with diverse data silos,"
     publishedDateTime: 2023-12-19T09:54:00Z
@@ -371,15 +380,6 @@ related:
       name: computable
       domain: computable.be
     quality: 19
-  - title: "Navigating a shifting customer-engagement landscape with generative AI"
-    excerpt: "Enterprises need clear roadmaps as the rapid advent of generative AI reshapes the way they engage with customers."
-    publishedDateTime: 2023-12-18T19:55:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/18/1085299/navigating-a-shifting-customer-engagement-landscape-with-generative-ai/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z

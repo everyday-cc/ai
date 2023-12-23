@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-int
 webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-set-to-change-work-in-2024"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Will AI Revolutionize Talent Assessments In 2024?"
-    excerpt: "For decades, companies have relied heavily on selection tools like psychometrics (e.g. ability tests, personality assessments, work preference inventories), competency-based assessments (e.g. situational judgment tests),"
-    publishedDateTime: 2023-12-18T22:48:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/happybytes/202312/how-will-ai-revolutionize-talent-assessments-in-2024?amp"
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-google-deepmind-17483868.jpg?h=4f52e0ef&itok=0WmKPJMA"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Shrinking Revenue, Exacting Clients, and AI: This Will Be Asset Management in 2024"
-    excerpt: "The future is never certain but investment firms are bracing for these challenges next year, according to management consultants."
-    publishedDateTime: 2023-12-22T14:33:00Z
-    webUrl: "https://www.institutionalinvestor.com/article/2cm2hc524og7lf42z2ebk/corner-office/shrinking-revenue-exacting-clients-and-ai-this-will-be-asset-management-in-2024"
-    type: article
-    provider:
-      name: Institutional Investor
-      domain: institutionalinvestor.com
-    quality: 13
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "wAQ2eFIRImnR3fJqla9sdXUmWmc0VdPDy4k8KjNuivPiM44rWSqWcJnQIVynLgUPSzwAoK8CnxW8LJ0pY/W3W/Wm89PytvYDTx6h5hxRT5vyJy0EsKqEx6ZOzl9oKroHR9YQnDigRfHzdemgZWVk4AYyncA2BzUvrF5M4aJbv0YsBtBRh5BIIGPL+oryniPDfCW2vJ+yAwfd9I9wrB9V8genEBYXCs67yUk8sYG0twzGxly6SrzaiWPUXboBWKq+82WNyZ/CG3guy4vh07wl3e20IxZEW8SraKQ96E09vhbt2Hq8s4G7AWELW1KdBr5OvXAANNvfXgEsPY3t6qUqvjW9nNcqwFXi3bpxHXL8bCQ=;ZAtESnlDYnzKy4B9n9zLBg=="
 ---

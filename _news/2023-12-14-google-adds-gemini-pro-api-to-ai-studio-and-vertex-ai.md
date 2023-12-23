@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/google-ai-studio-api-key-fig-a-dec-23.png"

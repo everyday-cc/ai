@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "Nvidia closes in on chip revenue crown as AI booms"
+    excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
+    publishedDateTime: 2023-12-23T21:14:00Z
+    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
+    type: article
+    provider:
+      name: Nikkei Asia
+      domain: nikkei.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+        width: 1260
+        height: 630
         isCached: true
   - title: "MSI Prestige 16 AI Series laptops with up to Intel Core Ultra 9 processor, RTX 4070 Laptop GPU announced in India"
     excerpt: "MSI has announced the new Prestige 16 AI series of laptops featuring the latest Intel Core Ultra 9 processor for India. The series will rely on Intel’s integrated NPU (Neural Processing Unit) technology,"

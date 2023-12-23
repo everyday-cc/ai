@@ -83,20 +83,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Legislature eyes AI issues in 2024"
     excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
     publishedDateTime: 2023-12-21T10:32:00Z
@@ -106,6 +92,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "7 Incredible Musicians and Their AI Compositions"
+    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "8iCkBr3JyUXNhRA9pU8dQg4dhEDBDdVsBpl8l2sK+Sib7jpJ0oJTUPfbX25/f71wl8PbpdAmzwyZpldcs9bg7GPtSD9ao/PS6YYfhr4g1Jg+Rq1F/FulrnvFm3FN605R5ljd3i1dBqI7DWLjdgpO7dGJnndRgJm9LQyXFBi1IErKPcHa+SHq3nb1Uiqw1xqqNYg2ZWzm2sqVg7JpnM7UakpijyT0KR/q/lCkXoOEkAuWK4I8smYWrH8zGC5MF4NlQ/crpDq1I9OeQp3ADI1CIFdj2RakKFh2SX/hXyW54QMil+l/yeKvE4FLOps0G7ADFmJqAlh2cCaZ5dUlGKl31BDb6O3Vg0py+8+lkgFp8da1QrQKR3aNPGjS4im0nYw+tV8mNfwmVbfemxjrCl2SGtqDEgkAW7etSyiFGvgZebVrl/syl/kNkl9UzZ4Asffy8fEU7dodBUmHhDWZ0IQqbkMfPUs4BoyzOLZcXitsPuk7iGpURXnFXl+P3dFeHXG25Ow0SxG4tjY2m8RgjFaWcw==;g+XCPGajFiCg9SwHsV/IFQ=="
 ---

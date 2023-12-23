@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 535
         isCached: true
+  - title: "Chinese GPU manufacturer 'Moore Threads' announces GPU 'MTT S4000' for AI training and data centers"
+    excerpt: "Moore Threads introduces MTT S4000 48GB AI GPU with MTLink and zero-cost NVIDIA CUDA framework translation - VideoCardz.com https://videocardz.com/newz/moore-threads ..."
+    publishedDateTime: 2023-12-20T12:13:00Z
+    webUrl: "https://gigazine.net/gsc_news/en/20231220-moore-threads-mtt-s4000/"
+    type: article
+    provider:
+      name: GIGAZINE
+      domain: gigazine.net
+    quality: 20
 
 secured: "2Y4yOYtIAPVHC7PCu5uEjqqfXXgZqDFN7U99ZHkW0jNa2WoraaWxuMH4V3yH/BpLOPlgf4RIMGZBzloYIaqvF0sme60ByYx3jm8r73fpo7whk09qB0UleVqrwiwBTzHOGlgIEUQcyzpwokki4FzcCX57kPgRxxR4J7RAGZJYPqEqQFw5nYfSMkXXsn8/1L12pe1IzQNzlXqx4AqtzvvoWyRSfu24tKkGlumkwtG4D/ibGvaUr3kiaIimFwqF7FYGpV/ilCdzcCbxZYo0vBRiNSD/8Fl9WxovGDrHas1CYuRBmDpxKUD8/hDjTty8V3EXy23wML7WHd/TyEqd9Ek8U+jeWyCnhWDF/8Rmx6/W+LZdr6TkukNIlgicf4rlCs60oIsoJKlmnYQReIcV9d97He0xxs04SAw4x7UqSTJT64y0Qe+AGqZlatGcFWz9Bc0l7/KSZyJL+C3Rh9igdVGhuC7CbgHY0BPKiEw68UlLTBKnj6a8lLyMFdkSHJ5ZvBW7288zAwOM2ldBTbwuh8dY1g==;t9nsT66akZERkHSCJpK5vQ=="
 ---

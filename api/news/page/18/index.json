@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-12-08-driverless-cars-were-once-the-future-now-they-are-on-the-road-to-nowhere.md",
+      "title": "Driverless cars were once the future, now they are on the road to nowhere",
+      "excerpt": "Developing driverless cars has been artificial intelligence’s (AI) greatest test. Today, we can say it has failed miserably, despite the expenditure of tens of billions of dollars in attempts to produce a viable commercial vehicle. Moreover, the recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
+      "originalUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2023/12/08/p09-231208-gp.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-french-ai-start-up-mistral-secures-2bn-valuation.md",
       "title": "French AI start-up Mistral secures €2bn valuation",
       "excerpt": "French artificial intelligence start-up Mistral has been valued at €2bn in a blockbuster funding round set to close as early as Friday, becoming the latest beneficiary of the investor frenzy to buy into the world’s hottest AI companies. The Paris-based ...",
@@ -1036,40 +1079,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
-      "excerpt": "The collaboration will make it easier for customers to leverage the full breadth of Automation Anywhere's intelligent automation capabilities through their AWS investments and streamline go-to-market opportunities between the two companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T05:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Net India 123",
-        "domain": "netindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

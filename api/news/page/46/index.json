@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2023-11-15-llama-factory-lets-you-easily-fine-tune-and-train-large-language-models-llms.md",
+      "title": "LLaMA Factory lets you easily fine tune and train large language models (LLMs)",
+      "excerpt": "If you are looking for ways to easily fine-tune and train large language models (LLMs) you might be interested in a new project called LLaMA Factory. that incorporates the LLaMA Board a one-stop online web user interface method for training and refining ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
+      "originalUrl": "https://www.geeky-gadgets.com/fine-tune-and-train-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/11/LLaMA-Factory-fine-tunes-and-trains-large-language-models.jpg",
+          "width": 1280,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-self-driving-cars-are-not-yet-safe.md",
       "title": "Self-Driving Cars Are Not (Yet) Safe",
       "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
@@ -904,40 +947,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities.md",
-      "title": "Quantiphi Signs Strategic Collaboration Agreement With AWS to Leverage Generative AI Capabilities",
-      "excerpt": "Premier Tier Services Partner, announced today that it has signed a Strategic Collaboration Agreement (SCA) with",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35782058/quantiphi-signs-strategic-collaboration-agreement-with-aws-to-leverage-generative-ai-capabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

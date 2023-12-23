@@ -2,6 +2,40 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-11-14-ai-based-image-recognition-face-blur-function.md",
+      "title": "AI-Based Image Recognition Face Blur Function",
+      "excerpt": "we have developed an automatic blurring function using image recognition-based AI for object detection as a plug-in for editing machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "originalUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
       "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
@@ -907,40 +941,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students.md",
-      "title": "SJI Utilities Hosted Mark Cuban Foundation’s Artificial Intelligence Bootcamp for Local High School Students",
-      "excerpt": "As part of its commitment to invest in our communities, SJI Utilities was proud to welcome over 40 local high school students to the Mark Cuban Foundation’s Artificial Intelligence (AI) Bootcamp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
-      "originalUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T17:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Trentonian",
-        "domain": "trentonian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

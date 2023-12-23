@@ -64,15 +64,6 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "Types of business strategy"
-    excerpt: "Today’s business environment requires leaders to use one or more types of business strategy to remain competitive.\nThe post Types of business strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T21:54:08Z
-    webUrl: "https://www.ibm.com/blog/business-strategy-types/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "How to Build Trust in Artificial Intelligence"
     excerpt: "OpenAI fired and then rehired CEO Sam Altman. When the dust settled, Open AI emerged looking even more like a for-profit corporation than a nonprofit, with a board that is indistinguishable from those of other tech startups—right down to the lack of diversity."
     publishedDateTime: 2023-12-21T17:00:00Z

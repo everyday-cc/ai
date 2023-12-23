@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-10-20-is-artificial-intelligence-the-new-weapon-in-global-threats.md",
+      "title": "Is artificial intelligence the new weapon in global threats?",
+      "excerpt": "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,",
+      "sourceUrl": null,
+      "webUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
+      "originalUrl": "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newschannel20.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg",
+          "width": 648,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
+      "cdnAmpWebUrl": "https://newschannel20-com.cdn.ampproject.org/c/s/newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university",
+      "publishedDateTime": "2023-10-19T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NewsChannel20",
+        "domain": "newschannel20.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler.md",
       "title": "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler",
       "excerpt": "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain",
@@ -1119,57 +1162,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-fugees-rapper-says-his-lawyers-use-of-ai-helped-tank-his-case.md",
-      "title": "Fugees Rapper Says His Lawyer's Use Of AI Helped Tank His Case",
-      "excerpt": "Grammy-winning Prakazrel “Pras” Michel wants a new trial in the multimillion-dollar conspiracy case in which he was convicted earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d",
-      "originalUrl": "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/653105c7230000f9092883d0.jpeg?cache=XWTn8QI9Fs&ops=1200_630",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp",
-      "publishedDateTime": "2023-10-19T10:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -86,20 +86,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Legislature eyes AI issues in 2024"
     excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
     publishedDateTime: 2023-12-21T10:32:00Z
@@ -109,6 +95,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
+  - title: "7 Incredible Musicians and Their AI Compositions"
+    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
+    publishedDateTime: 2023-12-19T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "M2xc5GM+uA6c+eoaTn5st3a0Qbf8lVs752wP+r8GHi39WAya4Uk9YY/FM173FIr479UG+sjFGLitfmx93yJc21QvWwyvfCsO2eetpQVZID3/ZnI6JiOmoxxyAVHDgSnBVMRL521EAPxxodkw3C/XTn5euqiqCfQTjgeQvGacH/iQQVGIGejrz4AyJH/NdeGjeCZU57TZK67EtPybMzqQLe9Zs3/+OOyRGkOIeRF519nRuuhN1bRwXOJC+FR5/qEvbXCEgpJbz8bp7WoXmo5s7Z+xIYGTMixvVs7Tvhkmc7zW9udmP2kKk6rzCst0qCtHT0dyvNrCcidIzEVo9Es8MMk3Rjj/R2Y+sZEV/Veqx3k=;SYeOz1XnnZuO4GJbIMhGeQ=="
 ---

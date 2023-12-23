@@ -67,15 +67,6 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "Types of business strategy"
-    excerpt: "Today’s business environment requires leaders to use one or more types of business strategy to remain competitive.\nThe post Types of business strategy appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T21:54:08Z
-    webUrl: "https://www.ibm.com/blog/business-strategy-types/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Business strategy examples"
     excerpt: "A successful business strategy dictates the allocation of resources and outlines how a company will achieve its strategic goals.\nThe post Business strategy examples appeared first on IBM Blog.\n"
     publishedDateTime: 2023-12-20T17:36:14Z
