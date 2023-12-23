@@ -101,20 +101,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Amdocs Revolutionising Telecom with Generative AI"
-    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
-    publishedDateTime: 2023-12-18T06:44:00Z
-    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
     excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
     publishedDateTime: 2023-12-19T09:06:00Z

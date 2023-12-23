@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-max
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 451
+heat: 441
 published: true
 
 provider:
@@ -132,20 +132,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."

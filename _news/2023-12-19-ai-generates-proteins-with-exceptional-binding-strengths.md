@@ -86,20 +86,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Amdocs Revolutionising Telecom with Generative AI"
-    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
-    publishedDateTime: 2023-12-18T06:44:00Z
-    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Revolutionary mind-reading AI system can turn thoughts into text"
     excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."
     publishedDateTime: 2023-12-18T14:42:00Z

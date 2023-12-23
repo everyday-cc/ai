@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Best Artificial Intelligence Software for Small Businesses in 2024"
-    excerpt: "Artificial intelligence is helping upscale small businesses. You might also like Activision Blizzard Settles Lawsuit for Over $50 Million, Paving the Way for Microsoft’s Takeover BlackRock Engages in Extensive Consultations with SEC Regarding Spot Bitcoin ETF Application Tether’s Strategic Move: Collaborating with FBI and Secret Service to Enhance Platform Security For a long time,"
-    publishedDateTime: 2023-12-18T06:24:00Z
-    webUrl: "https://techstory.in/5-best-artificial-intelligence-software-for-small-businesses-in-2024/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2023/12/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Responsible AI adoption: 5 steps every startup must take"
     excerpt: "Explore the 5 essential steps for responsible AI use in startups. Learn how to gain approval, assess risks, and make continuous improvements."
     publishedDateTime: 2023-12-21T01:51:00Z

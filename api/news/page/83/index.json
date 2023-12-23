@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-10-18-deepmind-wants-to-use-ai-to-solve-the-climate-crisis.md",
+      "title": "DeepMind Wants to Use AI to Solve the Climate Crisis",
+      "excerpt": "DeepMind, the Google-owned artificial intelligence lab, has been using its AI expertise to tackle the climate change problem in three different ways, as Sims Witherspoon, DeepMind’s climate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
+      "originalUrl": "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
       "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
       "excerpt": "A more ethically responsible tech industry and AI products and services are possible. With the stakes so high, it has to be worth it. Ann Skeet and Brian Green are authors of \"Ethics in the Age of ...",
@@ -1076,49 +1119,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer.md",
-      "title": "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?",
-      "excerpt": "They began adding artificial intelligence technology to ... to the American Cancer Society on their behalf. What’s Hot in Healthcare is a monthly feature of the South Florida Sun Sentinel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sun-sentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/",
-      "originalUrl": "https://www.sun-sentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sun-sentinel.com/wp-content/uploads/2023/10/Dr.-Louise-Morrell-x-Cancer-Support-Wall-Images-1.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T00:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

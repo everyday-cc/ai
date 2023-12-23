@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Amdocs Revolutionising Telecom with Generative AI"
-    excerpt: "Amdocs' partnerships with NVIDIA, and Microsoft Azure entails customisation of enterprise-grade AI framework for telcos."
-    publishedDateTime: 2023-12-18T06:44:00Z
-    webUrl: "https://analyticsindiamag.com/amdocs-revolutionising-telecom-with-generative-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/unnamed-44.jpg"
-        width: 512
-        height: 288
         isCached: true
   - title: "Revolutionary mind-reading AI system can turn thoughts into text"
     excerpt: "People's thoughts can be turned into text in a world-first using artificial intelligence. The mindreading portable technology could aid communication for people who are unable to speak due to illness or injury, including stroke or paralysis."

@@ -2,6 +2,49 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-11-01-new-orleans-facial-recognition-tool-mostly-used-against-black-suspects.md",
+      "title": "New Orleans facial recognition tool mostly used against Black suspects",
+      "excerpt": "Facial recognition technology has long been controversial. The city of New Orleans previously had banned the use of facial recognition software, which went into effect in 2020 following the death of George Floyd. Then, in 2022, the city reversed course, allowing it to be used.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/orleans-facial-recognition-tool-mostly-224218079.html",
+      "originalUrl": "https://www.aol.com/orleans-facial-recognition-tool-mostly-224218079.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_independent_us_877/2455b9f2facb0079778ba0a9988f6829",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-31T22:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-01-deepmind-touts-alphafolds-new-skills-as-protein-folding-ai-models-face-off.md",
       "title": "DeepMind touts AlphaFold’s new skills as protein-folding AI models face off",
       "excerpt": "AlphaFold can now predict what proteins look like in combination with several classes of molecules — capabilities that are key for drug development.",
@@ -903,40 +946,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us.md",
-      "title": "Exploring Unfulfilled Frontiers in Artificial Intelligence: What Awaits Us",
-      "excerpt": "The realm of Artificial Intelligence (AI) machine has been continuously evolving and advancing, reshaping our world in unprecedented ways. However, there are still some uncharted territories, some frontiers in AI that are yet to be fully realized.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
-      "originalUrl": "https://techbullion.com/exploring-unfulfilled-frontiers-in-artificial-intelligence-what-awaits-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

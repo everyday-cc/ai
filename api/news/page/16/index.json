@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-12-11-local-llama-rancher-overcomes-obstacles-skin-cancer.md",
+      "title": "Local llama rancher overcomes obstacles, skin cancer",
+      "excerpt": "As far as transitions go, Sally Rucker traded the upscale lifestyle in Texas to toiling in the dirt to become a nationally recognized llama rancher. Rucker opened the 76-acre Stage Stop Llamas in ...",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "originalUrl": "https://gazette.com/pikespeakcourier/local-llama-rancher-overcomes-obstacles-skin-cancer/article_c5b5912a-961a-11ee-a598-330973c20793.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-10-ai-and-robotics-the-future-that-awaits-us.md",
       "title": "AI and Robotics: The future that awaits us",
       "excerpt": "Stephen Hawking, a prominent figure in the discussion of artificial intelligence's potential benefits, expressed concerns about future thinking robots and even suggested that AI advancements could potentially end the human race.",
@@ -1083,40 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform.md",
-      "title": "Former Microsoft Product Leader to Help Launch VERSES AI Developer Platform",
-      "excerpt": "VERSES AI Inc. (CBOE:VERS) (OTCQX:VRSSF) (\"VERSES'' or the \"Company”), a cognitive computing company specializing in next-generation of intelligent software systems, welcomes",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform/article_1b3ef768-5434-52ee-9d8b-67817d1c3bb3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T13:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

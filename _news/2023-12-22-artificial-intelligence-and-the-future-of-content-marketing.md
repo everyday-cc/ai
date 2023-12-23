@@ -133,20 +133,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "How Generative AI is Reshaping Banking & Finance in India"
-    excerpt: "The finance sector's initial reluctance to adopt generative AI is because of regulatory scrutiny, data privacy, security, compliance, and industry risk aversion, but now it is slowly changing,” Ashish Vora,"
-    publishedDateTime: 2023-12-18T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-generative-ai-is-reshaping-banking-finance-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 69
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/s-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
     publishedDateTime: 2023-12-19T14:59:00Z

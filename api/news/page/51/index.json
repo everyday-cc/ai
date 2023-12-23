@@ -2,6 +2,58 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-11-11-ai-makes-you-worse-at-what-youre-good-at.md",
+      "title": "AI makes you worse at what you’re good at",
+      "excerpt": "I know, this happens every damn week: I start with the intention of writing this newsletter without going up to my eyelashes into the AI morass, and every week, y’all keep reading our AI news as if your livelihood depends on it. Because, well ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
+      "originalUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-648822953.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-makes-you-worse-at-what-youre-good-at/amp/",
+      "publishedDateTime": "2023-11-10T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-a-hyped-ai-based-restaurant-opened-to-fanfare-last-month-in-san-francisco-now-its-empty.md",
       "title": "A hyped AI-based restaurant opened to fanfare last month in San Francisco; now its empty",
       "excerpt": "A bespoke San Francisco nutrition shop promised to blend up AI-inspired smoothies. Two months after opening, the shop's owners shuttered the business.",
@@ -1166,49 +1218,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-wearable-ai-pin-launched-by-humane-backed-by-ex-apple-execs-and-microsoft.md",
-      "title": "Wearable 'Ai Pin' Launched by Humane, Backed by Ex-Apple Execs and Microsoft",
-      "excerpt": "The Ai Pin, as the device is called, is designed to be worn on clothing and can be tapped to talk to a virtual assistant powered by technologies from ChatGPT-creator OpenAI and cloud computing power from Microsoft. It uses a laser projection system to display text and monochromatic images on a user's hand.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-11-09/wearable-ai-pin-launched-by-humane-backed-by-ex-apple-execs-and-microsoft",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-11-09/wearable-ai-pin-launched-by-humane-backed-by-ex-apple-execs-and-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-09T22:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
