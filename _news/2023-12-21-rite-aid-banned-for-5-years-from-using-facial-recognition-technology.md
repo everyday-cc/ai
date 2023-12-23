@@ -305,6 +305,17 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Rite Aid can no longer use facial recognition after 'reckless use' of the technology, says FTC"
+    excerpt: "The pharmacy chain was barred by the FTC from using face surveillance after incidents in several cities, including Philadelphia"
+    publishedDateTime: 2023-12-23T18:19:00Z
+    webUrl: "https://www.phillyvoice.com/rite-aid-facial-recognition-ftc-surveillance/"
+    ampWebUrl: "https://www.phillyvoice.com/rite-aid-facial-recognition-ftc-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/rite-aid-facial-recognition-ftc-surveillance/amp/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 44
   - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
     excerpt: "FILE - A Rite Aid sign is displayed on the facade of a store in Pittsburgh, Jan. 23, 2023. Rite Aid has been banned from using facial recognition technology for five years over allegations that a surveillance system it used incorrectly identified potential ..."
     publishedDateTime: 2023-12-20T09:52:00Z

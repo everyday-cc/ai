@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/why-you-shouldnt-use-global-anycast-dns-i
 webUrl: "https://www.ibm.com/blog/why-you-shouldnt-use-global-anycast-dns-in-china/"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Troubleshoot your network with DNS Insights"
+    excerpt: "If you’re seeing NXDOMAINs and other network errors, do you have the DNS data to do something about it? NS1’s DNS Insights provides the data you need to correct misconfigurations that hurt performance.\nThe post Troubleshoot your network with DNS Insights appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-18T21:57:27Z
+    webUrl: "https://www.ibm.com/blog/troubleshoot-your-network-with-dns-insights/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/Software-developer-working-in-office-typing-on-laptop.png"
+        width: 2400
+        height: 1260
+        isCached: true
 
 secured: "wi1JIBRnKhycNCDwbVNzfzyzOoR3jEqXB+Wq+RylYeEjHcTELB8lbE8/WhG27KXUgcEJkXQWcwOOWl4jU/hLVR/lIaCwGcWfGLsFiLSgjR2uAJbtyFKgrNeokNPoYjCq2bXiidM3GU9TQh29+SHI0FJJORvYdiox5i1JBP4HIyTfL015C/aa7A+H6HJcfXVzheI7K966nb0IL8X90ZCRDhgPB7QVta5KI8uOrZxYKQyXwOEuvaLkRl3T4BEdgBYVmPkmXDKnPWnQ1VM1JiMMN6ozGSGR9ISgpytJ9JB/s61uBZMI8b/iJbolPXiGIB7rCH3wrbXAlGCa2VZlY4MwjTVqRpjYbqwbnYia1LIFndE=;8EMSn4UwiLTZp54mX17uiQ=="
 ---

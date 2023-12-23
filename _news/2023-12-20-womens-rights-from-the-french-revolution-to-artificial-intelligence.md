@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Should Artificial Intelligence Have Rights?"
-    excerpt: "The utility and role of artificial intelligence (AI) in society are growing by leaps and bounds. And the very nature of these \"thinking machines\" has sparked a hypothetical discussion that is both fascinating and troubling: Should artificial intelligence entities be granted rights?"
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202312/should-artificial-intelligence-have-rights?amp"
+  - title: "Future-ready CHROs: the AI revolution in banking HR"
+    excerpt: "Traditional recruitment strategies are giving way to an approach focused on skills, propelled by artificial intelligence (AI) and digital upskilling. This transformation is crucial as banks compete with fintech start-ups and other high-profile sectors to ..."
+    publishedDateTime: 2023-12-20T15:33:00Z
+    webUrl: "https://www.ft.com/partnercontent/workday/future-ready-chros-the-ai-revolution-in-banking-hr.html?es_id=dcfde7327c"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/TechRights.png.jpg?itok=3iHeitYH"
-        width: 1528
-        height: 800
+      - url: "https://ft.com/partnercontent/workday/img/hero2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "oQB1PYCk4ea65AC30ZDrKxwBjGqIp/fVQKfEZ6bzrVkImkssIojpvwJ4KfWhereA0u52DShjrwICrEtnGXxl2RGdukJkAYOhNz6hawYSjJPLnpPyEQZf4oZadXK707wg7vkHGr/zMqjOSpMfSgxPP8JJylUaJBUIWN856r7IPHGwIu/3/QXCs9+yf77dnluyrYeejh1bHU5N+KzV+F6gUg588N0n5oiTfykRTiULqt/38R9+Jf0Ib+y/GGFTNUE9aeVAfI0Nj3GSaz9uAyUvBxyP5SVha+sHc+2d7MPxuh75uT5sYekM/wZA0GG4k0cS+YnaFnGVI52iy6jCTeofBGKRzCoWjTPVcQbQ2vQmXak=;KP4Fbiq72/sFmxUw3tu8ZQ=="

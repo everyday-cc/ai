@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/troubleshoot-your-network-with-dns-insigh
 webUrl: "https://www.ibm.com/blog/troubleshoot-your-network-with-dns-insights/"
 type: article
 quality: 102
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: IBM
@@ -28,24 +28,10 @@ images:
     isCached: true
 
 related:
-  - title: "How NS1 ensures seamless DNS migrations"
-    excerpt: "Migrating authoritative DNS doesn’t have to involve unnecessary risk. Here’s how NS1’s proven approach delivers seamless migrations with no downtime.\nThe post How NS1 ensures seamless DNS migrations appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T18:47:32Z
-    webUrl: "https://www.ibm.com/blog/how-ns1-ensures-seamless-dns-migrations/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/12/Businessman-using-laptop-during-a-late-night-at-the-office.png"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "How to optimize application performance with NS1 traffic steering"
-    excerpt: "If you’re in the business of delivering applications and services, meeting the demand for “now” poses logistical challenges. \nThe post How to optimize application performance with NS1 traffic steering appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T21:44:41Z
-    webUrl: "https://www.ibm.com/blog/how-to-optimize-application-performance-with-ns1-traffic-steering/"
+  - title: "Why you shouldn’t use Global Anycast DNS in China"
+    excerpt: "Anycasting an authoritative DNS service isn’t always the right answer. Learn how to improve the performance and reliability of your digital properties in mainland China. \nThe post Why you shouldn’t use Global Anycast DNS in China appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-18T22:07:22Z
+    webUrl: "https://www.ibm.com/blog/why-you-shouldnt-use-global-anycast-dns-in-china/"
     type: article
     provider:
       name: IBM

@@ -40,6 +40,15 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "The adoption of Artificial Intelligence in different domains"
+    excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
+    publishedDateTime: 2023-12-23T00:00:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/12/23/the-adoption-of-artificial-intelligence-in-different-domains/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 36
 
 secured: "KUtjz35QN/KQe3pNLPmrD0uAl0J/EzHBGywDBcV8ojA4z4YYyuGqUVZC8q//AMLIiVPn+717MZESE/o38A54JjzQnvcfKg54vDMU2Ivc3Q7BfDJ+lSomcK8YxNxF+oQQMpP5FgllwzBNeeqFLdEHiHmO2kUBIgT2Vn0j+FdTVmWA4SYmyxc6kalEDCPSqSMFqePh3697bNE4dHq0nk4LNVa2MbHmq53oEsryThzTcket8mQ2AphZ/dofe4azZLc1IiErf5NpTssSHM+WmnsmtD60TqtivOf+aK63Skem3GQoPCCVnUtbA9qEYOb/2LU/z/fF7Zr9KKbgM6m9w+svO2Il+vmP8PR0E3/NuZCM7rK+fxI1vhljTnt5Rr2k2JNQ5wKKrsScbO1/hhahq5nC42n+rzTYu08r4gNTnmlDEB0rtWK+eqz0o/tX2p+orUMFaCzD7uE3LAoQfDDcIAteH9+VpMSpgvd9hudp3k40MnGQO6w7AKHJm3vA8SsnMNgr3HmUOsg86g6PbR9Rp3/6HQ==;smSutGAF0sVe8DVeJOzbUA=="
 ---

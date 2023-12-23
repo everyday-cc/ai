@@ -39,20 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why IBM Saw Modest Gains in 2023 Despite Being an AI Powerhouse"
-    excerpt: "On Monday, IBM (NYSE: IBM) announced a $2.33 billion deal to acquire data integration platform StreamSets and API management/integration platform webMethods. Both platforms belonged to German multinational Software AG as iPaaS (integration platform-as-a-service)."
-    publishedDateTime: 2023-12-18T17:31:00Z
-    webUrl: "https://tokenist.com/why-ibm-saw-modest-gains-in-2023-despite-being-an-ai-powerhouse/"
+  - title: "IBM To Boost Watsonx With $2B Purchase Of Two Software AG Platforms"
+    excerpt: "IBM plans to spend about $2 billion on Software AG StreamSets and WebMethods, part of Super iPaaS, to improve Watsonx."
+    publishedDateTime: 2023-12-18T19:30:00Z
+    webUrl: "https://www.crn.com/news/cloud/ibm-to-boost-watsonx-with-2b-purchase-of-software-ag-platforms"
     type: article
     provider:
-      name: The Tokenist
-      domain: tokenist.com
-    quality: 39
-    images:
-      - url: "https://tokenist.com/wp-content/uploads/2023/12/141236670_m_normal_none.jpg"
-        width: 2508
-        height: 1672
-        isCached: true
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "5QUvpKGQnkpKSH0a656LemD1sumcX9SokVruusts0roQNxCSc0ilpy2hKzu5TaQCWV8Km+arKBBZsebNBRPUsWlnTsGH15Ys/qx2i+jYsbpO1x8cwFdk+Fryn/Lnk5X2XkaTK96nPsynx/n1P3mNclW4EzhCIn/Jdj3GE5MMlYuOUWGTc/ZpcwsL+PqPlB3Juvn+xgKg9u4RwAd2DFm74QDs/u/6TqMikpwEzmiUml+e8MvrRIJI0aO/CRPGFWO7V8kS3SkAm694u1TB1wXqVaR4gpG4vM+jLJGRdjd7U8tQFa+/BEOCpgk733Vs/UB0tlGsh9Bb4bYPcOE6oBsDSB1MK6rQvxLBmHXnmZNxh+37qwab/1z/VfjtjdVI13+W7uFshOroiG/Zes+8lBpWuosj5iSH+IGpdrJZi7bKts30CGDOKYQqeVZhpt1bLRUKcSGley2BnNIkIaht36iKt0PPpBQxfZXWmphY2QZZRHTWAZeN5Ig9gdGjO85SuBAJpsjwp5BGjkY8wrgZGLxmxg==;vpCjzLjz67pu90y6WxZeAw=="
 ---

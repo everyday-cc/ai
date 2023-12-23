@@ -7,7 +7,7 @@ originalUrl: "https://www.ibc.org/features/the-state-of-ai-development-according
 webUrl: "https://www.ibc.org/features/the-state-of-ai-development-according-to-google/10589.article"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Age of AI Demands Faster Chip Development: Only Arm and Cadence Deliver"
-    excerpt: "Strategic collaboration accelerates Custom Silicon for evolving AI workloads As AI continues its rapid evolution, optimized silicon is crucial to unlock"
-    publishedDateTime: 2023-12-21T15:50:00Z
-    webUrl: "https://www.design-reuse.com/industryexpertblogs/55445/the-age-of-ai-demands-faster-chip-development-only-arm-and-cadence-deliver.html"
+  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
+    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
+    publishedDateTime: 2023-12-22T18:54:00Z
+    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 32
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+        width: 1200
+        height: 733
+        isCached: true
 
 secured: "q/ZCAm+cP3CS4fZg+gHYHGcv55cTl8/mziykKoyhPh7bZKskxB5Thlq2+P3c2OW9WCgQ/mvgYzBny0i/l/1p7tqCxX6TkN+WC7SeU0dH0eGPng9DeRT/sXf9NLLwcNlpgihCP7RJufuqbCSZ+iyufx/pSm+UTHEbUkmu/kHTzQqoa3EAviParkKS7B2GMdLOMgsptssSMs/0jz1WwQ1/d1NBr67CJz3VaBvRYLpuchuxls698PNVCausb+opW/6RZodd5HSQZ4VUh57zWSxLf0sLO+wS3cEZses8rBGrfruSJS947oIwYiYfMRwZsD8VAo0q4ckuqkbbBSkLwDA4fSk2VzJKiZymQkOERIdAj+w=;Shej1265QIdLZ1fdWLI0xA=="
 ---

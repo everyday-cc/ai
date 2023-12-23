@@ -205,20 +205,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Generative AI Dictates Trillions of Dollars in Industry"
-    excerpt: "This year was the breakout year for Generative artificial intelligence (Gen AI). Tech companies, according to McKinsey, are positioned to see the most disruption from Gen Ai, “adding value equivalent to as much as 9 percent of global industry"
-    publishedDateTime: 2023-12-18T17:09:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/16697/Generative-AI-Dictates-Trillions-of-Dollars-in-Industry"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
     excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
     publishedDateTime: 2023-12-19T15:27:00Z
@@ -339,15 +325,6 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 34
-  - title: "The AI Revolution in Therapy"
-    excerpt: "Artificial intelligence (AI) has proven to be a powerful tool in the world of behavioral health, already aiding in assessments and enhancing therapy. This transformative technology helps healthcare providers deliver true value in their behavioral ..."
-    publishedDateTime: 2023-12-18T17:11:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/leadership-diversity-and-wellness/202312/the-ai-revolution-in-therapy"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
     quality: 34
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."

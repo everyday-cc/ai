@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-v
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
 type: article
 quality: 56
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
-  - title: "Delivery robots will transform Christmas"
-    excerpt: "Delivery robots like this have become part of the scenery since they started work in this town, some 80km northwest of London, in 2018. “That’s when you know a new technology is successful,” says Ed Lovelock."
-    publishedDateTime: 2023-12-18T18:37:00Z
-    webUrl: "https://www.aol.com/finance/delivery-robots-transform-christmas-163718462.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
     excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
     publishedDateTime: 2023-12-20T11:41:00Z

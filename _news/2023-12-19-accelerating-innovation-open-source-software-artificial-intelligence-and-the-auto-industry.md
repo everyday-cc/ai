@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead"
-    excerpt: "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-12-18T17:13:44Z
-    webUrl: "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
   - title: "Navigating cloud concentration and AI lock-in"
     excerpt: "All the worry over technical debt and the risks of cloud vendor lock-in has spread to AI, only the stakes are now much higher."
     publishedDateTime: 2023-12-19T10:02:00Z
@@ -49,34 +40,57 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Crucial Skills Gaps in the UK Include AI and Strategic Thinking, According to Red Hat"
-    excerpt: "The survey also detailed the biggest barriers to innovation. Read what experts say about how generative AI has impacted the job market."
-    publishedDateTime: 2023-12-22T18:54:00Z
-    webUrl: "https://www.techrepublic.com/article/red-hat-uk-tech-skills-gap-survey/"
+  - title: "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting"
+    excerpt: "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the"
+    publishedDateTime: 2023-12-23T07:32:00Z
+    webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2022/10/tr-hr-interview-panel-image.jpeg"
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg"
+        width: 441
+        height: 300
+        isCached: true
+  - title: "AI and Cloud: The Proving Ground for Regulatory Resilience in 2024"
+    excerpt: "Cloud infrastructure and artificial intelligence (AI) are key technological drivers enabling financial ... Download this Finextra impact study, produced in association with Microsoft Azure, to learn more."
+    publishedDateTime: 2023-12-22T12:24:00Z
+    webUrl: "https://www.finextra.com/researcharticle/298/ai-and-cloud-the-proving-ground-for-regulatory-resilience-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/microsoft-paper-22122023-hp.png"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "The Premature Quest for International AI Cooperation"
+    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
+    publishedDateTime: 2023-12-21T05:48:00Z
+    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
         width: 1200
-        height: 733
+        height: 630
         isCached: true
-  - title: "Crypto Analysts are Building a Position in This AI Token – What Do They Know?"
-    excerpt: "As crypto analysts spot potential in an emerging crypto startup's AI token, what insights are driving their interest?"
-    publishedDateTime: 2023-12-21T21:55:00Z
-    webUrl: "https://cryptonews.com/news/crypto-analysts-are-building-a-position-in-this-ai-token-what-do-they-know.htm"
+  - title: "Navigating 2024 with AI, Civility, and Global Resilience"
+    excerpt: "As we step into 2024, the business landscape is undergoing a profound transformation driven by the confluence of technology, societal shifts, and the need for heightened global resilience. In this dynamic environment,"
+    publishedDateTime: 2023-12-22T14:45:00Z
+    webUrl: "https://www.usatoday.com/story/sponsor-story/media-planet-shrm/2023/12/22/navigating-2024-with-ai-civility-and-global-resilience/71970191007/"
     type: article
     provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 34
-    images:
-      - url: "https://cryptonews.com/wp-content/uploads/2023/12/1703190377-adobestock_631398404-min-scaled.jpeg"
-        width: 2560
-        height: 1435
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "czpZHh1yxFcUA//oCQrPKz0m9fr1gN+M5Ndb+zA4q/CZr9ubfuEZmbjzPv2ppsN5DSg6WJqQ9fuJgBHFzhSDcE6OL793meNFxPZWNgN1acbTWPMV22kadJE93B06rlpaYUWnpNMyENzwebVzxk7c9NdSi2QhEsltWGxTzga7jIths3fKZnMnPF1ZdcZT5q4sZvA5k+DuYmEF9F+2PuQXri+xroAdPvnW6VNiwhIh84fFcd6hzl2wvB2fAoPqtTLOJzkfjtaIJHzxaSHQbuCmCRy4ZxpieA/TWMk5R4NBzx2Z8BcqZ99qZJJJRZxZ/fTthTVcHEQAcb7kqJOauBMPBAX7I9viL2vK1kOQj4KuaNU=;vVohr3G1Z4KfTqkFqy0eJg=="
 ---

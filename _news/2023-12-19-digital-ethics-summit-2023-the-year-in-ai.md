@@ -73,20 +73,6 @@ related:
         width: 1472
         height: 832
         isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
-    images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI and ethics in journalism"
     excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
     publishedDateTime: 2023-12-19T16:58:00Z

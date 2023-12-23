@@ -55,20 +55,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
-    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
-    publishedDateTime: 2023-12-18T18:34:00Z
-    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 43
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
     excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
     publishedDateTime: 2023-12-19T14:07:00Z
@@ -79,6 +65,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "+/PhkK2g/zOlI4VCc4IIH7Qb8vyCVbFTxDdWEL0dRKkawC+nrXuTnWZrBtK9ZDyorcPnl88n+L7Bx6PV1vM4Ayol/u0S4vICGnf1nqTv0xt/0WJGcZFjBd5KJi0Lb4XkjTOLfSCxTcPjQyGoMOOclsiMBBHGmc7L4du45tTUsDLeaNvZunx+0KaTM7+/Di/BLgXF3690uT6AEfm4TGiWzZshhFTr8kwL1TJpfzKxbtQcJIIBr2Qqsx7YJ5r3xOG8zQxmGYOj3cGQoiBWiHfUKITbenU2EKj8zsaoNrbSlBu3HYOw2ozG8zafPD3PB/aXJMdivVEwJtzzMQj22b2PenKPEFnesFjErpfCewc3Az4=;PWp6R3StCHfUqRm827Yz8w=="
+secured: "wTgguW0uKDuYmr6+Noib5mp9+kFUjgeCuSq+Cds8MImpBQqlbii+DbnKgbn2/PjSPOQ/gHORXs+d/XStmZBNyeQqovQ7/iHyFSqaVwzEUg1jjaW7qUqQbN5X41dMWZ1wid7M3SnygNPorw0hYAoju3hUAWbudUc9vVMW1M7qp81kQwO8FfrLMat1w1pjU++UPxSTMkxgmrcOR0StAlYQ7aCz5icb84saVAWucJkzCgtZSjUHxheRYs1xgEC46j7BQ14Ic9vqeAvzCiI70H5Ssi0WYKGoJhLhipRgES4WzL46J8dIbPwVBMGYFAHXOW7xojP1O9Oc6AvtpbOLUjetHxOV3MvuGdfnM4uK6SqG4Xrz0T0b07UDFNHRHHOAceQfw2lq7iRF3qzOjF1vJiabbCObuNbTYXVUJ1oX75cnOtovRvtxOP0QqfSf2VfdT3B6dDT4KUK9q4Q5Gm3bdncaP8qLxa4Nb9p6fCWM/qHOI+jCK7V2csvu5Z83URhHvBU5fe54JJ4r1mfi5mt5SBJQMA==;1B0By9bn4E4DLjeGe+2LrQ=="
 ---
 

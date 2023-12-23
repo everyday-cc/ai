@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Global Natural Language Processing Market Analysis and Insights to 2027, Featuring Profiles of 3M, Apple, IBM, Meta Platforms and SAS Institute - ResearchAndMarkets.com"
+    excerpt: "Global Market Analysis and Insights\" report has been added to ResearchAndMarkets.com's offering. The global market for NLP was estimated to be valued at $23.8 billion in 2022. It is projected the NLP market will grow at a compound annual growth rate (CAGR) of 26."
+    publishedDateTime: 2023-12-20T12:20:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231220249647/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
   - title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets"
     excerpt: "The global Artificial Intelligence in Cybersecurity Market is projected ... and proactive safety to sensitive industries such as manufacturing, logistics, and healthcare. Check Point Software Technologies Ltd, collaborated with Intel."
     publishedDateTime: 2023-12-21T16:24:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Artificial Intelligence (AI) Applications in 2024"
-    excerpt: "What will be the next game-changing applications of AI as we head into 2024? With unstoppable advances in machine learning and voice computing, artificial intelligence stands ready to transform more business use cases than ever."
-    publishedDateTime: 2023-12-18T17:26:00Z
-    webUrl: "https://techbullion.com/top-10-artificial-intelligence-ai-applications-in-2024/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 60
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Future-of-Googles-AI-Advancements-and-Applications-We-Can-Expect.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
     publishedDateTime: 2023-12-22T02:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-rol
 webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
 type: article
 quality: 95
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2406586,msid-106112055/avi-profile-hz-1.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
-    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
-    publishedDateTime: 2023-12-18T18:34:00Z
-    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 43
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
     excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"

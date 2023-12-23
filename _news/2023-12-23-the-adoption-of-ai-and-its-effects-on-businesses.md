@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 111
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "The adoption of Artificial Intelligence in different domains"
+    excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
+    publishedDateTime: 2023-12-23T00:00:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/12/23/the-adoption-of-artificial-intelligence-in-different-domains/"
+    type: article
+    provider:
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 36
 
 secured: "IkzxfT/n/ChuqD+KO5tD4j4pnXk+Z+A0IZaKxEbHlZBP/+H/utjQecGE3AAtKxJlWrgrpr6yZOXSpKVmBR32GZ4m//2I2iy7zBv4kUG8eI2smN+1+sJBaxUsfE5qXLxYgE8ZX9rOkW2WkxPETnYJYqaPSz74zTAmuvYmrgd7V9o9Q3YWinu96S7oTgGgJ44oNaLIRAlAjWbqwPKL8QrNCm9bu4/xiT9D1kCThjuSswxwqLcZwJdLZlDcBArSq6gpKDzD0yUlUSOlpZWplMMXc/528V9uPKWbHuezzFJfhE6C/3Jk0LRNTOc2Oe5i4tvs3ORFDmacAV5guAobwURPxtj1FDYbZNqhgaAw+f1/bWbyAXAGMbQpgh1+34K5IS5puFweLU+nfIGYcJyx5R4zWk3y7VTmnOGBszbSiB2dIcLXDdATYy7KrLVoMW0ADgRkdeladUgf85Y+TDVy33wNSZpnErMl9A6X/q3xRd960QWoQUBa3BUSb0hgjSl5TYZX6FWNF60DM35rECD+LXNx/g==;rsO4x7QtYKcP+eOTE1uVfg=="
 ---

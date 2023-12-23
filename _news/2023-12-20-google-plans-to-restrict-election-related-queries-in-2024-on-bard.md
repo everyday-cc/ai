@@ -147,6 +147,20 @@ related:
         width: 725
         height: 482
         isCached: true
+  - title: "Alphabet to limit election queries Bard and AI-based search can answer"
+    excerpt: "Alphabet's Google said on Tuesday it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run-up to the 2024 U.S. presidential election."
+    publishedDateTime: 2023-12-23T14:56:00Z
+    webUrl: "https://www.ksl.com/article/50824019/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2962/296235/29623532.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
     excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T10:03:00Z

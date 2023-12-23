@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-23T16:28:00Z
 originalUrl: "https://techbullion.com/the-ultimate-reading-list-for-ai-enthusiasts-top-books-on-artificial-intelligence/"
 webUrl: "https://techbullion.com/the-ultimate-reading-list-for-ai-enthusiasts-top-books-on-artificial-intelligence/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2023/12/artificial-intelligence-5.jpg"
@@ -26,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "nR0qZlg8QmTiPSz93hPT1QZgc2TLhenqXwn2Qsv31Mii6Z0loJLwbkh6TeO4ppaYjYh+bnR2PWqkS6P5AbPIXR/K/IdxQY8fTEQ4LcSrKMMJ0qRnveUAa38bEuoUSRlc7wz2SzHPN3GISP+G/RnfULz+0z/L+dZiOJQTfA69aIrszuHVmSUtFlBZHIUSwPKL021JZKX9nfhU5YLYXflrUO5uOLV/ug/SRfGeTIC+9lsbSr0nfvKZrPM+5tnNiiLnVCwkCTL8KvnwfaPwetI/Dkurh6EoPD2U6XX+bP0+MivajvYsEyJS6u81DuIdXmwvk1aU4+JHbVG0z/lzVpjYWVVqR1kh0fXRFGlu6+jWUb4=;42u298L+axUrDXcOk1yLUQ=="
+secured: "UKx7xVtAI4OYFu/QmIRUIYXPxCFbB4OAwK6j7WCEcl8QrwlEfe7YTXw6Hn50jPZmWcjGfEwfGzJU53XVjEarLanWpePY6n3tMBpdBl2ARnq5GGuAFsHerEJcBZdtogKBu+52uQIOKsb1pI29t2X+uWP/J6N2MhExLUhVpkBz3Un9keumw1rXRsyiLtG/eeMp8oFI2jWnc6Bxjr3eTk8+Fu66sx87R/PYZ78/U4wRQuLMrKg9QSPS1ZHhpBeXMaxze/4XU3SZGaCxhtFN0V4TBbSrJHM/7++hMF3oafLg1gNZadaovGjLc0DGCQjqmZmVUjCCggGTHHlFT+JJBHI71NZJI2YTys3GGdPWMTdtJgqWD0Lj+S+94343naRYFvq5RacpfGMkIbnEi1Ii0Ks+SFcb+mO4i63ujsaT3FfodD+BvKcQQqgu648XSDBbcVhim78+GhxwB6Ztble9KhInoqvXWSFXQOehOsvGuhUJhIHXuvajei89AUDLzNqSZoyy2q8V50xqu78pg1WhRQDqPQ==;Taq/DCUkluHmWsHbO6iidg=="
 ---
 

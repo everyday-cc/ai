@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 821
         height: 497
         isCached: true
-  - title: "Can an AI Chatbot Revolutionize Insulin Dosing?"
-    excerpt: "Study shows AI chatbot enhances insulin dosing for type 2 diabetes, improving glycemic control and reducing distress, marking a new era in diabetes management."
-    publishedDateTime: 2023-12-18T18:49:00Z
-    webUrl: "https://diatribe.org/can-ai-chatbot-revolutionize-insulin-dosing"
-    type: article
-    provider:
-      name: diaTribe
-      domain: diatribe.org
-    quality: 17
 
 secured: "uv2dNvL4qElBFpF+ncwFQmSUqydB17HPvDl/Y46RV/dgrdE+QjwPjEuHaFypLBcBH16YVtZUGPnczsaJGx/MJkLd7q2oLl2v4ZEVngtLufnEnzyU9/W0mN/EDFb2ooBj5DsQy6C7CA0yuT5G+HwvgMAaZP8MiIFwmEL4EQrNO3ngLsCunUi3a7uE41MlThVozCHbdUwx0OdR7m2cU7NOqCAauS5C4tanPdbfJKw5/zWfv/+pXF3d/7ehW+3wiPfZ4NjYSsaiNMRm5Hsc9EwlZTkN/jAnr4Vil5zsD1AsBW9XZ2ZXH3NTtDYv0snna8Qtf2hOl3gVTknksqDtw4IO9F6vRLe1dy2W7ID4+YO8iJJrVx+F7sJALlSKHK14uyvcxEB3WILoKDYZKVzgYQZ45AS2SQuLFaj3YSCYd+f6MPdfcZUeLD2nUa6mKSrEmceREoAhxQ8peoiNW2lEIdAZ6Xgqr3VFroOa40XIqCWxexwh7NjoFeKVytasaYJQI1pOm70UXRw3dceG8jMFCjb2+w==;Xi7QPMwZqiW4dmZ98TKQoQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/openai-says-board-final-safety-234352839
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/openai-says-board-final-safety-234352839.html"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 960
     height: 540
     isCached: true
-
-related:
-  - title: "OpenAI Says Board Can Overrule CEO on Safety of New AI Releases"
-    excerpt: "The arrangement was mentioned in a set of guidelines released Monday explaining how the ChatGPT-maker plans to deal with AI risks."
-    publishedDateTime: 2023-12-18T18:03:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-18/openai-says-board-can-overrule-ceo-on-safety-of-new-ai-releases"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "k4VykPCJnkxy7HVYr0fmX8Gmdb7C+7NZNjZ6C08R4tsK8OD8tVmmRThaBWno+52PuW/TFTIo/Rv8Uz0RbI47zfjIaqEhZIzM1QxS66XL1bvpKSoTkEbu8qN+3BsCZRs36aMtOMwasZUwLWkyJihaKFHmLbIVGeOQzfDKAPDhKdDghW8kLjmnxMr0bLDvJDAyWHr00eiL6ahiwBTEGWmhiVUTQ3Bb4cFkg4a2izV9/pIIZSe/0MZ7aUJFvGexdB7gwZRccCqYWCOXzX5KF+SzRURiBqAPVzgqIEpTjXUXDfnStHBWQJUckYzHyOZeUhZigJEiP+vgsoyWp/lEsxAXinv3mVeVUC7fmUm+OOL+QBM=;TEx7gwh4kDBG+O6UC/ugFQ=="
 ---

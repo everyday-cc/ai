@@ -64,20 +64,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Telling My Whole Life With AI’s Words: Ethical Considerations Regarding Attorney Use and Misuse of Artificial Intelligence"
-    excerpt: "Fugees rapper Pras Michel is set to make his case for a new trial after his attorney allegedly violated ethics rules when he used an AI tool the lawyer invested in to draft a closing statement in the artist's foreign influence case."
-    publishedDateTime: 2023-12-18T18:34:00Z
-    webUrl: "https://www.law.com/therecorder/2023/12/18/telling-my-whole-life-with-ais-words-ethical-considerations-regarding-attorney-use-and-misuse-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 43
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2023/12/Lin-Graber-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "PcaGq0zTRWAbrUbm/VGeOzcSeUmha6xWejxrlfS0y56fyIzkLqGi/l61bYvrF6IfI5f5a3P/RxVSqfmkIKh+hZFgYFrwFSNbdfZaLMCJiQsfJTGZl4K4d4tIGNt+FjNtPfaKpI/aKgKW4i92vceMqhIAq23aA6jzNX/dcZIde4LcrOUasUBCLiGNM9pQHCPtXls57VdEs1SznKg/Oo5E7C4WIZEOzPRmA8G2FNxgGZR8w4tthRj4IYhveFMu3uxAx92lUyWNDrk1SWMMx92IP55ki+16gCJD8KfqyTajnW+feD715NZ57KssbMSOMxiJja+vbRfmprsmz5VoycBl1+uE0abGFabOCKfQk+7S20Q=;n5WMv3VJIJIuUm3MU/xbyA=="
 ---

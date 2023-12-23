@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-fa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 166
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
         width: 1472
         height: 832
-        isCached: true
-  - title: "AI or not to AI: How artificial intelligence is changing the industry"
-    excerpt: "One of the most profound statements that I’ve ever heard on artificial intelligence was presented in the form of a joke. It was delivered decades ago by an English Lit professor of mine who taught classes both on John Milton and on science fiction and fantasy literature."
-    publishedDateTime: 2023-12-18T18:25:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33016391/ai-or-not-to-ai-how-artificial-intelligence-is-changing-the-industry"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
-    images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2023/12/657b45e23fa0aa001efeca59-ai_or_not_to_ai_how_artificial_intelligence_is_cha.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Digital Ethics Summit 2023: The year in AI"
     excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
@@ -134,6 +120,6 @@ related:
         height: 500
         isCached: true
 
-secured: "1QszA2xLXIpMZSr2LPnaVAcgBlK8E/v+vNM/RA9bIzZL3nWamofvdi8qs/w7SpGy6+hEwGWHamRfEQzXgvNT5a44btWRHdkzJYbMylweo/8miXyATWQhs6OpTohx/B1ij5nuZqOcGSzuC+rkugodcZlaot5Ib+oPiCvSdwfA0qXW45M15YsvexjbvvSikaUPXgLL7IeC3Vv8sG4UBNBGVyxDSAESK6rjks/CZG4FkrhUtfu72VMDS2WYhyuBohiPHt/2HyZIDG/ySsNESlaRhU1sYBBFp4+Gy+t48eg3DKm1hd0wJqE+rUCgpy8obKQRyMrCgejf3DDZanUlyQNe/czFBArty+bu/QsLuZmijjE=;FbrxN3o2IlTl9g9u5ZfbRQ=="
+secured: "Ul7fGHTfrF7RQe5M4uacMfiSQrOQ0JKH1uDX1OFHxHzn4e7FBGp4LHslHUeKxFEjJfh/9TLcrE9EfqoGVHJd2c2U8RoFJeMk4RDi2ZlQi7uYhFrHCTX5rKZsOb2jtjgjBrPXGjZ9GSenJscoesyvT9h95dmNGLfsVK8Kpjz0HFGyZuHOlDpW6vbZfKXaCKbThuSRjrS0M/nwSg6YvFfOx6RKMgjYzIjbPdoNjCZyq2F1R6VgmSNir3099G/wEjpAEA6ACaWyQ+7i4MOllKxi35NgJeeJWIhO93g1EELWq5hzFOzC7OWSHU+unU9oR+FDFUK0IGh+w6nc7DmhIDs1NmWrtRCpQA5/IHW/TfRTAF0=;2pnd0icUiYKu0ZfaEnSexA=="
 ---
 

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting"
-    excerpt: "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the"
-    publishedDateTime: 2023-12-23T07:32:00Z
-    webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 54
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg"
-        width: 441
-        height: 300
-        isCached: true
   - title: "Anthropic Builds Methods for Reducing Bias in Generative AI – But Doesn’t Recommend AI for High-Stakes Decisions"
     excerpt: "Anthropic released a method to reduce discrimination in the output of large language models used by companies through prompt engineering."
     publishedDateTime: 2023-12-21T15:14:00Z
