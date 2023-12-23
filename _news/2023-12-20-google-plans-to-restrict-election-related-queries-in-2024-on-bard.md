@@ -147,20 +147,6 @@ related:
         width: 725
         height: 482
         isCached: true
-  - title: "5 questions about artificial intelligence, answered"
-    excerpt: "Artificial intelligence is one of the most incredible tools mankind has ever created. It’s also one of the most controversial. Some of AI’s pioneering researchers and developers think that, without proper management,"
-    publishedDateTime: 2023-12-18T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2023/12/18/artificial-intelligence-frequently-asked-questions/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WAMJ6PSJ4RCT3EDACYU7WDGUOU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
     excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
     publishedDateTime: 2023-12-20T10:03:00Z

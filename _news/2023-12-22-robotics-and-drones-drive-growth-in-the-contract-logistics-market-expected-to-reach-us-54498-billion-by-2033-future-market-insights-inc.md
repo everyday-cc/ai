@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Motion Control Software in Robotics Market Soars with a 19.6% CAGR, Projected to Exceed US$ 37.86 Billion by 2029"
-    excerpt: "The motion control software in robotics market has witnessed remarkable growth in recent years, with its estimated value reaching approximately US$ 10.81 Billion in 2022. This dynamic sector is poised for even more substantial expansion,"
-    publishedDateTime: 2023-12-18T04:58:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/18/motion-control-software-in-robotics-market-soars-with-a-19-6-cagr-projected-to-exceed-us-37-86-billion-by-2029/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 33
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Motion-Control-Software-in-Robotics-Market.jpg"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Eldercare-Assistive Robots Market Surges with a Projected 12.4% CAGR, Aiming for an Impressive Valuation of US$ 8,096.3 Million by 2033"
     excerpt: "The eldercare assistive robots market is expected to grow steadily at a CAGR of 12.4% over the forecast period. As of the year 2023, the market is valued at approximately US$ 2,508.1 million, and there are projections suggesting that it could potentially reach a value of US$ 8,"
     publishedDateTime: 2023-12-22T02:38:00Z

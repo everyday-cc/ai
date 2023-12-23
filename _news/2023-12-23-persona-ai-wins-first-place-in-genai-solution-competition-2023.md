@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-23T01:41:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502"
 webUrl: "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Meta AI
+  - Natural Language Processing
 
 images:
   - url: "https://ml.globenewswire.com/Resource/Download/1d25f63f-1273-4dcf-a84a-00f3e40ab974/1.jpg"
@@ -45,6 +47,6 @@ related:
         height: 801
         isCached: true
 
-secured: "9kn8uIsoncw0Vgb8DXtHZYamBIr1C0cdjtOS5JBMcl6brqGbHlhxHDppfIWNlNg94225enb/qWkp/pQSevrjaODWMhIVnPK6kUA6zmpN/G7xwDeqIM3dLLAnv20DZGueY7wbMzttzWrmhisckPZ/7SrDxSS7mdO+nzjKPcJ8IkwWBI/07NAvlrf1/ElsssptUG8qPfAVhJmmn+vOwkHil8OdnE6TPRKkNloA50dXnnMRkFTxdJNhfDQdJqmVwPvNY9+PmaObnQb2tCsRXyImGIgFL9nBls5NnNzHxFK3fqxL2rwUOUXZlzQhEVA1+FynxSLn/EPzzuRLlJ4ApTtDTFQbku4Y6SPCKzLTndLa6Cs=;nP60A71kxbXNsl+Byhx2SA=="
+secured: "1lquPsfYU0XKTkBG2Wn+yhs8V9HsHrJaoZ4LrpbkCdDa3Mub2WpwhBFhAonwfAVjFlc1hV0bVPN9g9KSD4Fu2q/9lyWSBL/GGk68UAEL4rHKmPoGOnU33ulmqQpsItr1KpBHkgM2gogxLGuBjJ5D7WH+uH+CqzwB9q/WLsOBhF8RKJb957dnT8aPLuFlU1N7M1jnoYD7pghJn38MmShuAX8JpuON+JFTlfjzPSznaQB8N5u0/JVMALvDW4/U8NC4lAcABzMzmMUX0jFTNzKb9RgGpUVDcPKqKAKv0mnsCx4FqAP/g9ZmPtPNPtVo+o61nBNLVeqc8gE4UnWO72DCqPUBtpGs4m/75Bj0rtr3aFlekzm/3hjCLdCzfXiAl6Z+29wt0HcqY969u1H7bWWjhFculRlXnRkVtx1YYeotiWADav212CHB2DFwHo06XdtBJBMERZQRUkO9Yr+gIqNQSs+Y4SvCL0B4GXZv4VqnYIz9B3CRTlFTUoGTZ6f9t69Janflms4aOltEBvhRYQQmKA==;o495yTu4uunLB9UDiKR4XQ=="
 ---
 

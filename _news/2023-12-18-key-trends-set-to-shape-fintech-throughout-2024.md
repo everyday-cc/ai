@@ -133,29 +133,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Quasar Markets Partners with Dragon List Global to Revolutionize FinTech Research"
-    excerpt: "This partnership aims to enhance financial research and market insights across emerging global markets.New York, NY, United States - December"
-    publishedDateTime: 2023-12-18T03:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quasar-markets-partners-with-dragon-list-global-to-revolutionize-fintech-research-1032907242"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Register now for the Citi Cup fintech competition"
-    excerpt: "Citigroup Services and Technology (China) (CSTC) has announced that the 19th Citi Financial Innovation Application Competition (also known as the Citi Cup) is open for online registration. CSTC leads Citigroup's financial technology and financial operations services industry in China."
-    publishedDateTime: 2023-12-18T04:16:00Z
-    webUrl: "https://www.aap.com.au/aapreleases/cision20231217ae95944/"
-    type: article
-    provider:
-      name: Australian Associated Press
-      domain: aap.com.au
-    quality: 24
-    images:
-      - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/sport300x250.108183d0.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
     excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
     publishedDateTime: 2023-12-19T16:53:00Z

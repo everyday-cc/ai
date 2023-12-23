@@ -91,20 +91,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Bay Area Professors and Students Reorient Around AI"
-    excerpt: "Artificial intelligence is having an impact across disciplines and campuses in Bay Area, where both students and professors are applying the technology and learning about its implications for their fields."
-    publishedDateTime: 2023-12-18T03:31:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/bay-area-universities-turn"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/cf1aaf7/2147483647/strip/true/crop/1170x569+0+119/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F33%2F3b%2Fb869edf602aab64879ce1e8f2f3f%2Fbay-area-tilt-shift.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "Modern Healthcare is evolving along with the industry"
     excerpt: "It’s an exciting time to be journalists covering the industry. And for that reason, Modern Healthcare is evolving in 2024 too."
     publishedDateTime: 2023-12-18T08:59:00Z

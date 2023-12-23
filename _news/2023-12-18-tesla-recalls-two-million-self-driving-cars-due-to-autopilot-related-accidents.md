@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Face Reality Check"
-    excerpt: "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding."
-    publishedDateTime: 2023-12-18T21:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html"
-    type: article
-    provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
-    quality: 24
-    images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg"
-        width: 718
-        height: 300
-        isCached: true
   - title: "Tesla's Self-Driving Safety Under Scrutiny After Insider Leak"
     excerpt: "An ex-Tesla employee's leak shockingly reveals alarming safety issues in the company's advanced Autopilot system, raising serious public concerns."
     publishedDateTime: 2023-12-19T14:18:00Z

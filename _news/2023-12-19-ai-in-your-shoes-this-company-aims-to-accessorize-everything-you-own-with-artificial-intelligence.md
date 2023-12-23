@@ -8,8 +8,8 @@ webUrl: "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-every
 ampWebUrl: "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp"
 type: article
-quality: 90
-heat: 100
+quality: 92
+heat: 102
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
@@ -41,6 +42,6 @@ related:
       domain: outsideonline.com
     quality: 19
 
-secured: "htcn5+TPsb4d8UXz1I4nZ9YpJhOsOhvurSiRKNfuu/xS+/5aTP2I2lwXX7ePSqsv98eN8EBYt9fOyv+pyUKVK/B4U8e6SJb3Trtqpz+hKUFHQ2vDBPVM9OnHquw0UsPVcMRdbhSuxjJw2VuLNUKir7cl9GGKo6kjT/L3lCxKQ8r0pR5WuUAiNOU/1CROY4xPZ4Welj1jAO6pzuLjv9DTiFR+RR4uQjqwtum1uRG9mJj/kG5NIlgkAsOwnhwKMfqMbRWvVTQkQj4s01hAS6sI1Qh4ysRE60A5Ignsf2EXB7XAo4dgn7ZfoiPQ5kZv+fqkxYhQWq1DkHLtH3gVyE4756NdY+p5tPESGIdl5uqTn48=;JuE4HGA7kKnSDO8wUzBtJw=="
+secured: "/DsQnfct905j9KCh9BV5BfYuaKPwp85nCpPvu6i1U6UY+BpZYX2sV9Rhd+FsAEpJeOP7dqjziuhWFV4kH4JK2rhocoQDaYtOhTW8OC/+HWhfU4Sz65ITskDLvv5XmJKkoebiV2DCaclnaSIy8e6t/0N4iKakEYEWZ/ID+Xb/pmb7NGak048vlPFPqQGFejdxDhtB89QPX5gYeUo0FYut+dSnxA6ode28ow13fqNE6gTcAUEdZtgH6l9NxrnoJHLovUYECo6ccgNYVgsYnxoFOl5N3wMlMtmd9Z8ToTosmvt38E2a1WXcIiJlnsexUU/vfxMuTnfkzhPq+x7QPM2KegX/NBl+5FjxszFrArp7B6se08v48MRAPDCIHH4ruQns60215kBAB2OZt1Y2uOfU71dTfZJs+r12y4jfKidUmsx6NW4OhQy1q1nBdemsPlAC4XBYd1MEFwq+Iq6gxhUuvzzvwpv3kmCOAGXL0Lu4bGZWj+CBVGz5NBVtTR27Y2g+9kNPh52rnUWMBJo7o2dztA==;JWeE8LKS9KShNUvm8qdCPw=="
 ---
 
