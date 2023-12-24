@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
         width: 4640
         height: 3476
-        isCached: true
-  - title: "Explained: What is Bhashini, the real-time translation tool that PM Narendra Modi used"
-    excerpt: "Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI,"
-    publishedDateTime: 2023-12-19T10:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-bhashini-the-real-time-translation-tool-that-pm-narendra-modi-used/articleshow/106122854.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-106122854,width-1070,height-580,imgsize-26491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 578
         isCached: true
   - title: "Revolutionizing Language Translation: PM Modi uses AI Tool to Speak in Tamil in Latest Speech"
     excerpt: "Discover how the AI-based translation tool, Bhashini, is bridging the language gap in Indias linguistically diverse society, in PM Modis latest speech."

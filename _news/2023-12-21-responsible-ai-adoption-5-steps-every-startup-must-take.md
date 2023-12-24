@@ -40,6 +40,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Use AI and UBA to protect your business from insider threats"
+    excerpt: "The latest research, including findings from IBM’s 2023 Cost of a Data Breach Report, underscores the significant toll that insider incidents can take on a company’s time and finances. To combat these issues, AI and machine learning are stepping into ..."
+    publishedDateTime: 2023-12-24T09:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/protect-your-busines-using-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/protect-your-business-using-AI.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
     publishedDateTime: 2023-12-23T00:00:00Z

@@ -147,17 +147,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "LTIMindtree collaborates with Microsoft for AI-powered applications"
-    excerpt: "LTIMindtree and Microsoft collaborate to introduce AI-powered Employee Engagement Applications. It will use Microsoft Azure OpenAI Service and Azure Cognitive Search to enable AI-led capabilities, including content summarisation,"
-    publishedDateTime: 2023-12-19T09:51:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ltimindtree-collaborates-with-microsoft-for-ai-powered-applications/article67653699.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 54
   - title: "Microsoft, Tom Tom are bringing a generative AI assistant to vehicles"
     excerpt: "TomTom and Microsoft collaborate on a conversational automotive assistant powered by OpenAI's language models and Microsoft products like Azure Cosmos"
     publishedDateTime: 2023-12-19T11:32:00Z

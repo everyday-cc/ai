@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/anthropic-claude-discriminati
 webUrl: "https://www.techrepublic.com/article/anthropic-claude-discrimination-bias-mitigation/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting"
+    excerpt: "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the"
+    publishedDateTime: 2023-12-23T07:32:00Z
+    webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
+    type: article
+    provider:
+      name: The Post-Journal
+      domain: post-journal.com
+    quality: 54
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg"
+        width: 441
+        height: 300
+        isCached: true
   - title: "AI startup Anthropic reportedly in talks to raise $750M on a $15B valuation"
     excerpt: "Amazon.com Inc. and Google LLC-backed artificial intelligence startup Anthropic PBC is reportedly in talks to raise $750 million in new funding on a valuation of $15 billion, according to a report from The Information and later a report from Bloomberg."
     publishedDateTime: 2023-12-21T01:49:00Z

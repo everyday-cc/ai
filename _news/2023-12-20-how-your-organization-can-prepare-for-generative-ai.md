@@ -170,22 +170,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "These six questions will dictate the future of generative AI"
-    excerpt: "Generative AI was trained on the internet and so has inherited many of its unsolved issues, including those related to bias, misinformation, copyright infringement, human rights abuses, and all-round economic upheaval. But we’re not going in blind."
-    publishedDateTime: 2023-12-19T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1084505/generative-ai-artificial-intelligence-bias-jobs-copyright-misinformation/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "How generative AI is changing social media content"
     excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
     publishedDateTime: 2023-12-24T01:07:00Z
@@ -261,20 +245,6 @@ related:
       - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Sai Buddhavarapu on the power of generative AI in supply chains"
-    excerpt: "For supply chain professionals, success is reliant on good planning. But volatile market conditions and a proliferation of data are making this increasingly difficult. “With supply chain solutions spanning vast networks with diverse data silos,"
-    publishedDateTime: 2023-12-19T09:54:00Z
-    webUrl: "https://www.technologyrecord.com/article/sai-buddhavarapu-on-the-power-of-generative-ai-in-supply-chains"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4760/Sai-Buddhavarapu_975x548.jpg"
-        width: 975
-        height: 548
         isCached: true
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."

@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "This AI transformer tech-powered robot taught itself to walk"
     excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
     publishedDateTime: 2023-12-20T11:54:00Z
@@ -92,15 +76,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
-  - title: "7 Incredible Musicians and Their AI Compositions"
-    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
-    publishedDateTime: 2023-12-19T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "5sGJh2ei7ME/ppM09rdaVUpl/fNWmdu6kVTT4rZplzVKtZq4ZRq6t6oi23ifQGiMg3lXIxpbM3k2dujVkukImIZe4/iGwegztjxAK4Zz1JxXNHViw1F9pUsCp/+omtVhEhBL8580KFQBuU6gevtjUlmFZPpFZRLBcJIYUN822CdDVzJED7pAJzpc1qfDmx5m9wH9ZVXae+HbDfKQijepCJMrD4a1neJVbmoBH8uvEClF4rlYgSpow2OlvsdyaKeBzM0IM0A5IDsvJUEqmqdbRsdGjPI6xljk9UyMRd2z3nxow62+/7D+pHH0A5sh0fecF54lePzf4mjeDN17tj3P7idAKUzvyJAq3lCqnfNNuQonIZULVo0/JP9fob/Q/TIWGXFEoTsgibayyySjIiROn53XdatNdasgzS6nfh14WgYjlISF6YBtKaGh/b7CJmPusqEyv8BArAgMT+ReyAuUmG8+3uiNuvEUG3Rp5pJy1peSRDaJrEsux0D/74NJjF8/am4HFJjcXAbTBz8ldo0RNQ==;TkOKWB68f6Yo4igkhoOkgg=="
 ---

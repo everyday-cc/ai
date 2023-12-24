@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Four trends that changed AI in 2023"
-    excerpt: "This has been one of the craziest years in AI in a long time."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/"
-    ampWebUrl: "https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/03/image_dissolves_into_noise2.jpeg?w=2048"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "This AI transformer tech-powered robot taught itself to walk"
     excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
     publishedDateTime: 2023-12-20T11:54:00Z
@@ -92,15 +76,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
-  - title: "7 Incredible Musicians and Their AI Compositions"
-    excerpt: "Hybe, the Korean music powerhouse responsible for BTS, had employed voice AI to debut their news artist Midnatt, in various languages at the same time. The songs were launched in six languages including Korean, English, Spanish, Chinese, Japanese and Vietnamese."
-    publishedDateTime: 2023-12-19T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/7-incredible-musicians-and-their-ai-compositions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "43VahPvQEH8wuZN7q+OdOns3CpQNfhn9Ar8we270p/nxwD1CaJRPNl6oA2Yb6jh6br+/d0xdG2CsG4REqxeO9U5F7zXVCIY2/rdlO9jpOFnQSl2v+0Bz7Nw+0DpVzy1FiJtyZKI3/xaqFsp0rn0JKQFnWtlT/N40lb5MtrTN6bthBqaGmuDu6x/sv5jbioQ4V7nsCr6gd0/VUbE4fx+dPCrU7G/iK6TUESxc/Tcly5rFUt+/3KZlFZT9gG3ky0Da36YTEJ/PL/jv+j92gxr5wjBmhcO1j1mR4MAGDiLpGsuQJa/QemW/pr82UVIi6iKiwSK3P8AG8FsxUxq70FGk72z8qaDwXU0i2DJWaIukzmo=;ucjcxtkaAhM36dtS2BBdOw=="
 ---

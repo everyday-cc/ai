@@ -2,6 +2,49 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-10-26-from-ai-timber-to-a-turtle-robot-three-new-tech-developments.md",
+      "title": "From AI timber to a turtle robot: Three new tech developments",
+      "excerpt": "Cross-laminated timber that uses artificial intelligence to fit together; an advanced form of machine vision; a device that can make",
+      "sourceUrl": null,
+      "webUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/",
+      "originalUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://createdigital.org.au/wp-content/uploads/2023/10/TW-October-1024x718.png",
+          "width": 1024,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
+      "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
+      "publishedDateTime": "2023-10-26T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "createdigital",
+        "domain": "createdigital.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-exclusive-softbank-takes-indian-founders-on-ai-tour-in-silicon-valley.md",
       "title": "Exclusive: SoftBank takes Indian founders on AI tour in Silicon Valley",
       "excerpt": "Indian startup founders at SoftBank’s office in Silicon Valley. Earlier this week, a group of 20 founders and CXOs from some of India’s biggest start-ups backed by SoftBank engaged in discussions with top executives of leading artificial intelligence (AI) firms in Silicon Valley.",
@@ -1143,57 +1186,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-pirr-raised-an-angel-round-to-help-you-co-write-erotica-with-an-ai.md",
-      "title": "Pirr raised an angel round to help you co-write erotica with an AI",
-      "excerpt": "Pirr, which means a “state of excitement” in Swedish, enables users to generate their own narratives with the help of AI. The startup’s mission is to break the stigma around the genre, which despite being among the largest and most lucrative in ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/25/pirr-ai-erotica/",
-      "originalUrl": "https://techcrunch.com/2023/10/25/pirr-ai-erotica/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/pirr.jpg?resize=1200,714",
-          "width": 1200,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/25/pirr-ai-erotica/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/pirr-ai-erotica/amp/",
-      "publishedDateTime": "2023-10-25T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

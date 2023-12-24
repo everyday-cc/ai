@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "This AI can find your location just by looking at a few photos"
-    excerpt: "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View."
-    publishedDateTime: 2023-12-19T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+Akv1zbbaaELkW77uOlfYEkPDiDq6tjZrXgMTFBXANco0WHshZpbMpFUjQFoINcqlMwtl8U/9FuQ67oRIdzXPXxIKETmFN6J7tJ0QGzjHJzwq8Q2B5sbfKt2obOLG6cvys8OmqxIk4eordcMTrq2JBkWndzhGJIDnpX2IX7d4JCd4RkArBoQFUTNIr8A8MRPtnLpvfKtzdRKgMV0e9oeNtAViPp/9GmrG0YFURgm2y6QYCC5nEG7IEnPfo2YNV3IzzNRw/tWvp0IrwxNaJYRwp6qE3eRuZ2WDuKaQKXTkDbRvBGkXLIEWcUmrk00ONUe+Ci2odHG+Vv2Ecx4+QCI+8p4S4V+qI0GpKuyhfyu++v677Cioym2xLzEMDrvAebAphPDeZ6wLyyfOILOaOUWwq52KKEE9kJXO0jBPapFN6YvrKQREIM7PZOYCf1VuiUm4/V2vE5i501ilbbbibdsOsukDd1h+qfrjEeNtc9EebyuLfqc/swnNkIs0YGCVsGIri6ltdGx1KgLi/loWRuxvw==;qv2YJinQVv1SZtqetRBuaw=="
 ---

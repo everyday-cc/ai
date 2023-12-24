@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-11-08-optimize-for-sustainability-with-amazon-codewhisperer.md",
+      "title": "Optimize for sustainability with Amazon CodeWhisperer",
+      "excerpt": "This post explores how Amazon CodeWhisperer can help with code optimization for sustainability through increased resource efficiency. Computationally resource-efficient coding is one technique that aims to reduce the amount of energy required to process a line of code and, as a result, aid companies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/02/Picture1.gif",
+          "width": 936,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T17:41:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-ibm-aws-set-up-innovation-lab-in-bengaluru.md",
       "title": "IBM, AWS set up innovation lab in Bengaluru",
       "excerpt": "The lab is open to clients from around the world to explore companies’ solutions and test prototypes and proof of value that aim to help accelerate innovation across industries such as banking and financial services,",
@@ -1236,40 +1288,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-25-amazon-web-services-to-launch-aws-european-sovereign-cloud.md",
-      "title": "Amazon Web Services to Launch AWS European Sovereign Cloud",
-      "excerpt": "Telia uses AWS DeepRacer as part of its program to educate 2,000 staff on artificial intelligence and machine learning with AWS. “Telia Company welcomes the development of the AWS European ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231024960766/en/Amazon-Web-Services-to-Launch-AWS-European-Sovereign-Cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-25T05:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

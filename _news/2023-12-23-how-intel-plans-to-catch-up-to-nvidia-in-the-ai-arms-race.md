@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Why Intel has joined the race for the AI-enabled laptop"
-    excerpt: "But Intel has been talking up AI-PC and the fact that it’s building AI-dedicated cores into its newest processors for quite some time. Its hardware partners have also dropped AI-PC mentions, and all this suggests that Intel thinks it can still take control of the narrative, or at least some of it."
-    publishedDateTime: 2023-12-19T10:33:00Z
-    webUrl: "https://www.computerweekly.com/blog/Write-side-up-by-Freeform-Dynamics/Why-Intel-has-joined-the-race-for-the-AI-enabled-PC"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
-        width: 500
-        height: 354
         isCached: true
   - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
     excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"

@@ -42,22 +42,6 @@ related:
         width: 1440
         height: 812
         isCached: true
-  - title: "Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
-    excerpt: "Read full research: Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
-    publishedDateTime: 2023-12-19T10:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 28
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/PSharma_HeadShot.png"
-        width: 783
-        height: 762
-        isCached: true
 
 secured: "itPbBWeozTRE+DJG8o7R/MCj8DZuj2fJmnwfBXyxe8kz3CimVgL0OsyuzFVXKdVQGi6TvEjNn/KWznK1KZNNgyBNaFJ11QvHIkkHreANv+xEa8TOlL2mdrZrtUFJE96u0MjZW1dhEh7GWBdT7w8TZH6Z4sLMn1VDA8qvE0zUqT0hZHZlVOvrloNmyszueHU4oC5WcUTVn+NbyzrVV6dI8bru1w5DVcQqJFcv3nclTocrxv+ixAPPbqSQvz1yRKirBkONvDADXzw7L0DL6A0y8ZmnBE0UzPLNaFKR2Cw8v3V6fc+nqwj2YAxi9pjWZ3D0pvX+zaZjMhLbwgz1ffdwu9uUl0iG/05flG0u4JO/2cs=;TX3PF3uj0bZzh4yvDb5Ydw=="
 ---

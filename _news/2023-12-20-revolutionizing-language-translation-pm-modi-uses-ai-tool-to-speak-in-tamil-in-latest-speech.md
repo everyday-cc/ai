@@ -55,20 +55,6 @@ related:
         width: 4640
         height: 3476
         isCached: true
-  - title: "Explained: What is Bhashini, the real-time translation tool that PM Narendra Modi used"
-    excerpt: "Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI,"
-    publishedDateTime: 2023-12-19T10:17:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-bhashini-the-real-time-translation-tool-that-pm-narendra-modi-used/articleshow/106122854.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 31
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-106122854,width-1070,height-580,imgsize-26491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 578
-        isCached: true
 
 secured: "vHZ/Pec8rbMZTHSVD2wEFq/DaR/bibA/k8yJCNzzorKRIsAWYPgFhksb8fDKIfoWwAPJgQXmxky79KN4MwelvSmRPb8k7vdlLabiKp2TBFnal4v8bX3uA6G/EORH2KqEvrfofPDUYU8XF1vx+LT+g1DQhCZEnEEoyyWhKsNNAOtCxqIjM6PNQbAf4gSrPR768y/qJwO9IknEUaJSZeMfuSF7hP5COJ82qh23GzoR9iSNNlLp1pyJHZNkaj/YTYA8EjOM7ryxepnTU4GJSC/b6+tcKWbETzVGZTMPx2uB2MoYdf7neGd/XSx6g+a/5R/FL884QxtXKAUXxhQskoaa98EMUEnva19U13WxQKfgT6f7P44tvCYPdV+R/CYffj7JGTJBhF9udGkgSo1J6K77/3v6ZydVHm/mAqPZc/M9gxikdY69Qk3f0S1b0nALuZg26Jd2xk3zGzGYfIxYgTN/xDMSnxS7XlCh+voWu/SSz0Ded3Q1F7uRGQ630FdTvVPTfW5ETNHAg8qLraVi8dbugw==;tKZwAlvZMO6Q52y7aMUbFA=="
 ---

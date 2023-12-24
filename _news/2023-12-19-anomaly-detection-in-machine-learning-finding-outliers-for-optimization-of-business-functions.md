@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/anomaly-detection-machine-learning/"
 webUrl: "https://www.ibm.com/blog/anomaly-detection-machine-learning/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       - url: "https://scitechdaily.com/images/Light-Waves-Passing-Through-Physical-System.jpg"
         width: 1440
         height: 812
-        isCached: true
-  - title: "Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
-    excerpt: "Read full research: Multi-step validation of a deep learning-based system for the quantification of bowel preparation: a prospective, observational study"
-    publishedDateTime: 2023-12-19T10:51:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/sharma-digest/multi-step-validation-of-a-deep-learning-based-system-for-the-quantification-of-bowel-preparation-a-prospective-observational-study/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 28
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/PSharma_HeadShot.png"
-        width: 783
-        height: 762
         isCached: true
   - title: "Revolutionizing GM Rice Seed Detection: Novel Spectral Phenotyping and Deep Learning Approach Unveiled"
     excerpt: "Cereals, crucial for food and biofuel, are increasingly using genetically modified (GM) technology in production to enhance resistance and nutrition."

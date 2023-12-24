@@ -86,15 +86,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-    excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AI-generated weapons of mass misinformation have arrived"
     excerpt: "That frightening prediction is already coming true."
     publishedDateTime: 2023-12-21T11:00:00Z
@@ -105,9 +96,9 @@ related:
       domain: msnbc.com
     quality: 17
   - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-    publishedDateTime: 2023-12-21T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+    excerpt: "The innovative AI chatbot is based on generative AI and was created using the Amazon SageMaker service. It provides only relevant answers that are important to the business and if a question cannot be answered with certainty due to insufficient data ..."
+    publishedDateTime: 2023-12-21T03:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
     type: article
     provider:
       name: Business Wire

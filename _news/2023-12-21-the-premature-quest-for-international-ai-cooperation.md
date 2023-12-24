@@ -7,7 +7,7 @@ originalUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-co
 webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,61 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Navigating cloud concentration and AI lock-in"
-    excerpt: "All the worry over technical debt and the risks of cloud vendor lock-in has spread to AI, only the stakes are now much higher."
-    publishedDateTime: 2023-12-19T10:02:00Z
-    webUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.html"
-    ampWebUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/11/20/level_bolt_doorentry_handopening-100943200-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting"
-    excerpt: "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the"
-    publishedDateTime: 2023-12-23T07:32:00Z
-    webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
-    type: article
-    provider:
-      name: The Post-Journal
-      domain: post-journal.com
-    quality: 54
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg"
-        width: 441
-        height: 300
-        isCached: true
-  - title: "AI and Cloud: The Proving Ground for Regulatory Resilience in 2024"
-    excerpt: "Cloud infrastructure and artificial intelligence (AI) are key technological drivers enabling financial ... Download this Finextra impact study, produced in association with Microsoft Azure, to learn more."
-    publishedDateTime: 2023-12-22T12:24:00Z
-    webUrl: "https://www.finextra.com/researcharticle/298/ai-and-cloud-the-proving-ground-for-regulatory-resilience-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/microsoft-paper-22122023-hp.png"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Navigating 2024 with AI, Civility, and Global Resilience"
-    excerpt: "As we step into 2024, the business landscape is undergoing a profound transformation driven by the confluence of technology, societal shifts, and the need for heightened global resilience. In this dynamic environment,"
-    publishedDateTime: 2023-12-22T14:45:00Z
-    webUrl: "https://www.usatoday.com/story/sponsor-story/media-planet-shrm/2023/12/22/navigating-2024-with-ai-civility-and-global-resilience/71970191007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "+G1p9t6hIeKFkAgDMNeIqlG1zDuh+cgmooqohfduyYtwlMzmnJVU7wnItcm/UnsR5nxOTXs8N7mxouoclyAXUes7eqZqJzfl9ngsNC66SCdEsOxwzAtgQi0HRk3k7ZUiKWZothycsQQFlATCASDZPT9Mc4nijd82tyQpX3fR81DYQVg/OScqt535grnS5wCeWrEAgw3TGtS6NhdNPhuPajXNXXtVS+Vp9Il/eUbjF0T5Ziy2CGW9rxEF7Y1KD3u+bt+O20w5dyfaL4ypHkYKFXmKDiCrns/+1hs0AEzWghoORBXEGd8JqqNjz9B1G8zdogYAqrdPss2jwvBIyQ2TulkYrjSV2Vijr7Y8SciDQfk=;ojb1DpOJB7tB+QgYW0GNYg=="
 ---

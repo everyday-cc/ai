@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 597
         isCached: true
-  - title: "AI-powered Drug Discovery start-up Peptris raises $1 million in pre seed funding"
-    excerpt: "Peptris is broadening its research scope to include rare diseases, in addition to its ongoing work in oncology and inflammation, the company stated."
-    publishedDateTime: 2023-12-19T10:48:00Z
-    webUrl: "https://www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/"
-    ampWebUrl: "https://www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/healthcare/healthtech/ai-powered-drug-discovery-start-up-peptris-raises-1-million-in-pre-seed-funding/3342505/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 52
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/artificial-intelligence-2-620x400-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "AI-powered Drug Discovery start-up Peptris raises $1M in pre-seed funding led by Speciale Invest"
     excerpt: "Peptris, through its AI platform, aims to transform the traditionally lengthy ... This investment aligns with Speciale Invest’s mission to support deep tech start-ups set to revolutionize their industries through scientific research and innovative ..."
     publishedDateTime: 2023-12-20T04:19:00Z

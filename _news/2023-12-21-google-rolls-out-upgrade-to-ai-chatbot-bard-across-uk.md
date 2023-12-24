@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google rolls out upgrade to AI chatbot Bard across UK"
-excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
-publishedDateTime: 2023-12-21T14:23:00Z
-originalUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
-webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+excerpt: "Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT."
+publishedDateTime: 2023-12-21T09:21:00Z
+originalUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
+webUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: theoldhamtimes
-  domain: theoldhamtimes.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://www.theoldhamtimes.co.uk/resources/images/17565378/?type=og-image"
-    width: 945
-    height: 630
+  - url: "https://s.yimg.com/ny/api/res/1.2/t.YwO5QIF7YoiRj.FtDSfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/78de7fbe39bbf6e2b7b608f769e06c82"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 497
         isCached: true
 
-secured: "SnhktyFtYPRW63lN955x6rTgmAaV04AmXUAiLSyyIcQaipYkx1HW6tj35ExDebos/Nm6zNtOtNuMEEFCnethJrO46k5I0JHiM8eVigZ8+oL5MJJTm9ua7VVA/T8U5goiRqc+BsJJeglE+fOSjS69yLeTQBO9J2tV+LAzYEKE920RI72hkFsZVqCAVfJlE+Tq7i6Nkq2jF+GMSxN5MhU6xMJoGec6WyeO560awlHKgyJ2aNyCp2yXsf+z+TQkcyQAeamBo2D0C8t8mJIaES2vfiiTQS7VpKecBhd01ZA+Z/x0NtQf518PoZJEXMkkQzVdfzrE4PhdN2wBNe+Ghgg75UYWJGfnkHtzXDP2cNM97ZI=;ynalgngpo4WulUxcOD9qEQ=="
+secured: "ldpCvBTGgMtzvP0T9rtLWBEp7uSiFJVOhDVZO9QyWLHlVki0zvVRE8j+qrGHyNN0ghyUPwD9NBVZCo/IHfesMc5+q3fJlEY3Z5PX1X3SuE+Lvls/DZWCL2MsS83AUCNh+Dw9IeAqYiyUvW0IpBr5qQS9JyfaM3zDMN+Grgdd90+KfWSm6NfOd1Y/dvQzLgfowVPe66G8ILZi/9I99WipUA8+YQT41i2B1Qi27KeO250OZzCHRJerxcJu9UGH6d5J1mwS/qySmq1C7SqegIDBM7Z5RKzjLmzkCwVRK4G9mHOgTm7sbzDLGwWUSLY+rh6KqrhYZErQihyYahbJrYdIXpU8+tFMk6MUDeWlSKntyP4=;L0sh3GvGCTA4j69/+ZP3dA=="
 ---
 

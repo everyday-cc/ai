@@ -1,10 +1,10 @@
 ---
 category: news
 title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-publishedDateTime: 2023-12-21T07:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
-webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+excerpt: "The innovative AI chatbot is based on generative AI and was created using the Amazon SageMaker service. It provides only relevant answers that are important to the business and if a question cannot be answered with certainty due to insufficient data ..."
+publishedDateTime: 2023-12-21T03:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
+webUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
 type: article
 quality: 6
 heat: -1
@@ -93,15 +93,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-    excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
-    publishedDateTime: 2023-12-19T10:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AI-generated weapons of mass misinformation have arrived"
     excerpt: "That frightening prediction is already coming true."
     publishedDateTime: 2023-12-21T11:00:00Z
@@ -112,6 +103,6 @@ related:
       domain: msnbc.com
     quality: 17
 
-secured: "MDU3PTaRWOGQFd7A0zKFKP2hYIy9fGhPzF1uZSFvASj0buN437KVxV8aTAgGMn1IUAHYp/fiSK4bZyhtB8iY3T+WVzQ3mj3gIqkvi1brDAYxXu/C/SMcakxtVALLPznAVNDhnHNtbBdnAY1ZHFCpXaLgr5Ued7OAI16iTSzTp55zgSQkoccr6jZ45qobRll/h5qck39WPEDd1oekhh45NZw7bFOBbPVI8gydWEL5oV+Zc76tOxBh9jmlO8rP1zAwrBULsEdrUQPnAJC6x1p6x2bFiT31QJVJ2PKd+Fo9a2Y1RUVzdP9xYAlN5haH4EmDriZ4ZKldCB+IarBqTcnIcG2bV4eIItJuuLnwekTH6wwWXCZLht62cR6+iJFs9vSipm2LOE4i9XvawTpb67brDnaAelTbWt22+bjuMbqeOAgG8hX/DGr9JOHdTX+gzr030ksSeh0m1qEraVPjdZ0nESKvS31vUx33Hb7JLIWAqP1SRCGiNu2RGeo2bNqJC4Mc4hjTS5sGBxbby7C8agsJ1Q==;s0t9o5f4ZZswC/D8RGbydQ=="
+secured: "TERAZN6+nUo1nr57pHF0hC4uPgPXIC9VJidLtcKsMmiEgmTwtrkd86+uRaGH+5SMxULtQQWArJBR8SsfPg9mzAfgOd7UK0jDjwtv6vdMuYSr2119gFOH8k+C1YyaBlP3aeK9Z2mLwv4eoVZHAkiaNcR36lDoYMDwN+jQlmG0w4J0XGgfWXyM6Ok2ivVvro5yKMFTVV48W9YhZlrXscRvnFQC5D9xXm59jdNsw62WeiFIqEygMdjc2LbpS9H9HU4JUex8pBKuPlKdJhMCx5quAvHVglw+WtUDoJSYOVSpzVghFYRwRhGie5O5SMUzLm05RwAb/wRIHZt+JAL34ZSlnCRZiKs8dwgPHeaO91fZwkFg6R0pVEBEOHhHB9QlNzsEox0oaPT4pNe+TyylIASBkrTQuH5JLHIDy8sB35xDP55cuqERmf/WgHwAC51l9h6m8fTZY9bVS0J1t7Uo27O/tFMk9ZeDz5BPLm6Vx3r3BrC/wyij8jqt5QRhX3/SFhHBjVOTugth2aQk2dJob7Rdmg==;GHDkGgh1d4GQPtGI3Gkerw=="
 ---
 

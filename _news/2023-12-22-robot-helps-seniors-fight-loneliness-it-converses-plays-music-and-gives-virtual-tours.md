@@ -41,6 +41,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Meet ELLiQ, an AI-enabled chatty companion robot for the elderly"
+    excerpt: "Leveraging advancements in Genrative AI, the robot enables more immersive and continuous conversations, deepening the user-device connection."
+    publishedDateTime: 2023-12-24T09:42:00Z
+    webUrl: "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/24/image/jpeg/89pjLt7gnIxx0nQu3WmdmL7JJteS9BvekQubbkDw.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chatty robot ElliQ helps seniors fight loneliness through AI companionship"
     excerpt: "Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans. “It’s entertaining. You can actually talk to ..."
     publishedDateTime: 2023-12-22T00:00:00Z

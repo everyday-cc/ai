@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI can find your location just by looking at a few photos"
-    excerpt: "Developed by Stanford graduate students, an AI model can determine -- with impressive accuracy -- a specific location simply by looking at Google Street View."
-    publishedDateTime: 2023-12-19T09:30:00Z
-    webUrl: "https://www.zdnet.com/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-can-find-your-location-just-by-looking-at-a-few-photos/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/58157e43f877c0437e9c99979c3b85c1b708481e/2023/12/19/99dbcc02-ed35-41ed-b328-12ad8204338c/stretviewgettyimages-1247162865.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A look into artificial intelligence in 2023"
     excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
     publishedDateTime: 2023-12-21T02:18:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2023/12/unlocking-new-opportunities-computer
 webUrl: "https://yourstory.com/2023/12/unlocking-new-opportunities-computer-vision-wealth-management"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Advanced Computer Vision Platform Brings New Opportunities For MENA Market"
-    excerpt: "tdi_2 tdi_2 img{margin:0 auto 0 0}@media tdi_2{text-align:center}} DUBAI- VisionLabs, an industry leader in advanced computer vision technologies, launches its flagship product in the Middle East Market – the LUNA ACE Management Server. The IoT platform ..."
-    publishedDateTime: 2023-12-19T10:19:00Z
-    webUrl: "https://menafn.com/1107627843/Advanced-Computer-Vision-Platform-Brings-New-Opportunities-For-MENA-Market"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134935"
-        width: 306
-        height: 249
-        isCached: true
 
 secured: "P1IVuuW2hSor/FNVdiAkXdGsA2lIRATQu8ZjuTSz36gMmaOtk433UNouE3k4LPzZogZDrnH2VHm5mfA58SCtSCEwoyDAQSY7iV8JbR3IvD2rVgd0ZHrgwPDA0KmMUK83kBf7hXT9jbDNBBxDTWjqNPG7TG//enYqMSfe65ehzNTXz0UIlY9eZz5TSbmFn9pnbqKT1KFZ+XT4tUScYxGQ7cLxtns3+dW5868og6by3mdNdUY7QqmW2PSNeQ4xEojqN6zVQJeMGBRso+6rUtdl/S1z3Yq3oNoBZMBr7cK+8N2hC8xnTDgvit424Y7XUyeminenPK0xkrJb8lrDS5KX3o/hg8DPvLN1ww4zsZczKIs1nH9Pw17mIpsA9e4cXujbPxIufzvRcLC/O4euWKG3j5jdOPeZqzTvnqpupvwZ8CgjYv+IOmRD8Fem8+hY7mjF3Qce1MtgzY2CHYZ9Py1l9HBkgZm0gCgz+4ZM9YZcuYdHy9g9uD+IVMFbiA6cAlv9TtBeJoLoapdhsqLgRYeMjQ==;Xpzh7uh0AJ99Layv1KuOGA=="
 ---

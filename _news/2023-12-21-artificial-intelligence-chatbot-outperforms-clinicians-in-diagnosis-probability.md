@@ -42,18 +42,18 @@ related:
         height: 675
         isCached: true
   - title: "Google rolls out upgrade to AI chatbot Bard across UK"
-    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
-    publishedDateTime: 2023-12-21T14:23:00Z
-    webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+    excerpt: "Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT."
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
     type: article
     provider:
-      name: theoldhamtimes
-      domain: theoldhamtimes.co.uk
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.theoldhamtimes.co.uk/resources/images/17565378/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://s.yimg.com/ny/api/res/1.2/t.YwO5QIF7YoiRj.FtDSfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/78de7fbe39bbf6e2b7b608f769e06c82"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
     excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use AI and UBA to protect your business from insider threats"
+    excerpt: "The latest research, including findings from IBM’s 2023 Cost of a Data Breach Report, underscores the significant toll that insider incidents can take on a company’s time and finances. To combat these issues, AI and machine learning are stepping into ..."
+    publishedDateTime: 2023-12-24T09:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/protect-your-busines-using-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/protect-your-business-using-AI.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "Responsible AI adoption: 5 steps every startup must take"
     excerpt: "Explore the 5 essential steps for responsible AI use in startups. Learn how to gain approval, assess risks, and make continuous improvements."
     publishedDateTime: 2023-12-21T01:51:00Z
