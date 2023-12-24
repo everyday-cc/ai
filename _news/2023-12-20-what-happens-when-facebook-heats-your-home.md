@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/facebook-energy-heating-homes/"
 webUrl: "https://www.wired.com/story/facebook-energy-heating-homes/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Wired
@@ -45,15 +45,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Fake videos resurfacing in Facebook ahead of election: reports"
-    excerpt: "A distorted video featuring a speech by Begum Khaleda Zia, Chairperson of Bangladesh Nationalist Party (BNP), has once again surfaced on Facebook, raising concerns about the spread of misinformation during the upcoming election."
-    publishedDateTime: 2023-12-19T12:27:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/fake-videos-resurfacing-facebook-ahead-election-reports-3498361"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
 
 secured: "Hmlx6PNtUZ9e3NXdQ1eBQaIjw1aOWJuM7hQ1A65hHvvVFUHke2lpB6XokWaEg9FmBWhLVqh2oyZRo0RnTBN1kmF6GGsDN+OC3fFleiBrpUQx6U8pMx9EKNqTUfdV2TPu0peeWLyheS6PUJmzA29Z+mJ+u8soGV7jfSVrNzXPqFZBZgdn37uHu/yd/Xu/hBKBUGv+8iTC4OPhl7rDW0Avb67Iez1Snjf7i6ttLcbpp92g+NZLcy5nPuhSY9kMIdioUDkn+fZ/IkomjglWa1ZeVzlq/PJ52yzC2Ko3RpTBsZ24Iaj8RAHCxTyAbT3T/Otr1NA7DlITGb3Ieowv42/IP8vH6M7YQBnBlBbvdGP8WFMpA1wiIFAOvT1DKrNipEQeZqy+D17ADFj8x3bGWi2XWa4Y7/eSYpCRCUmdCvyjLyoUXSvGUb3te+ORqkBxQUqtmx+XibAppqZeGjoOBkktJ4NYv0/mvqvNb6HHnRGcKWeV8F3QoFYpgjn7PIdxxLmMppf5qvDA+R4qtTIWDlAUiA==;hmMQDOAirOx6uaI1G6qmDg=="
 ---

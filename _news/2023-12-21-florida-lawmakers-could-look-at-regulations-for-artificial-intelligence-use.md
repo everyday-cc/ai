@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
-    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
-    publishedDateTime: 2023-12-19T12:55:00Z
-    webUrl: "https://www.tcpalm.com/story/news/politics/2023/12/19/florida-lawmakers-may-take-up-artificial-intelligence-legislation/71906062007/"
-    type: article
-    provider:
-      name: Treasure Coast Newspapers
-      domain: tcpalm.com
-    quality: 14
 
 secured: "dkjOKPSL5Z7edRdm9xsBin6belblOaimND1PNwbItLChWLrd2m8/SQoyXS+gNmZFEPix3+uE2iAoqFMxkReF7Fxi4S0tpLn5hI+xdK4k15NSgzeCy/DTc/mnLqjoxFpxo3XNAgRmaC6gV8WUEO2L18K9Z/cQnFxVbDauAyEy49FYDd/ivfPbiBU2JZEFnMlbh1mi25rSBR2ZwxdJZPpPg3DP2ttePsFWZnM2xqnM0Ba2BjpI6g6zq2yc9QzQorJuDckPwZd/HSyf+AxXKNqwRQ53eYzjbvePj5C4WI1/U4nX+9eUFrbuAjMasjyP4/xSNphsdRxX/ehZqQoCXG2V2d6U278TMptU60n9RKX/PEyICmLB3qnieBgvq2bH/IdlERSc2stMkwLx5YcBMG93IOmefrBqJtX5yA235hSq46HZ6F3mgdnyvSwv7fGkpeSaBVVUGhxFn7GqORMgD50DWzSkDgKpi8zufu2Ny3gsVxPGIb0DylVQOXBj/lLk+gI2J0pKdocUaaOy+uE+AFaagg==;etKquAHPCh2WbFXq920eiQ=="
 ---

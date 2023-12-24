@@ -3,8 +3,8 @@ category: news
 title: "Seek AI and Prodigy integrate, combining natural language querying with marketing analytics"
 excerpt: "Seek AI, a developer of generative AI for data solutions, is debuting the integration of its natural language to SQL (NL2SQL) solution into Prodigy, a cloud-based production data SaaMS (Software as Managed Service) platform."
 publishedDateTime: 2023-12-19T15:30:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=161909"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=161909"
+originalUrl: "https://www.kmworld.com/Articles/News/News/Seek-AI-and-Prodigy-integrate-combining-natural-language-querying-with-marketing-analytics--161909.aspx"
+webUrl: "https://www.kmworld.com/Articles/News/News/Seek-AI-and-Prodigy-integrate-combining-natural-language-querying-with-marketing-analytics--161909.aspx"
 type: article
 quality: 46
 heat: -1
@@ -52,6 +52,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ORdUeM4MTwQaHMwvZyzGCfQM9KOpjFuDkUYFVf8/jP4kFSr14j4cmdewW8HteboQgIDkN2hCovxca0cJrqjXHHcIZMgIbIKR8WwcpZjVil7tgFlVC5v1e+DbbA//HYykRGmT7gFlfdCS6KhcXLAHfM3ryTs4ntQ2hHpQJLHGQ3NacuQSXKn09wQiUxsQw93ddL/+fk1J6gHtowUy+GIfec1lD7dcXzBebghQyPd43gKEQ6TzyOMclqC2Nc2/dVOly+ahoH8bLxOCk2gm5IaFt5E2Ei+xP56fneQQTrM2OuoPeasozY+JyLilaCy7XLsiMd1dqfXpYdjunAs+LWvbtCg9ORqAOKeJi1s9zHjiOLw=;Re/hiDGL/Gzr9GzuF7ak8Q=="
+secured: "4yeyHs4ieAtmFH80x134ls6wg/1Dtgju/5Bee8tkvnky2ZjoQP9xWZnkRxrdxEFOJh8eWtDRdKwjKb73pBOMaf/TCXpVrLUjE1oLUMkNluaOyAVsgfZdTevalCyuAuc272NAOMTuI9dPJzXNmRuSX+CZlbAN65TD0hZRX+aOzRTRWD6Jyl1NHJDkOnulaG84tVlSI9P+XWvO73S18G32WMejiv9EQCr5JhkOmAnSxVau90ntOEcAX1boRmUcV4Qyj2BP3NkpSkRYYMkpYJ8K2r+htAr+fyl2pLQd3ZoB7jtsf0pg9fbcGzvErG3IVJ18oD1mqDclkX6jzFGFD3LJUVU+wODx+YEI6BUurikRmDk=;GqZJSH9oEwU5SVMJo3aUHQ=="
 ---
 

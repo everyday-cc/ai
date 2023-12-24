@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google announces AI uses for health care market"
+    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
+    publishedDateTime: 2023-12-20T11:45:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "mqZufIL3HTceEelJ1x49G+S66z254opDeXvyXYvFoizDcrEbEOqJf1xHOUmHA0UmF4bSG1x8Tzt0m7k26y0SWysg+0Qt+RRqf/0BH65FajJLk3FgafHLuSPooXGHcmnEng1TZD6XawnyIP/LJRKE4zvt41AWQQQBWeiQQLqeE1IPtTDIwxdthIZbNsBz58j/8tKUzChSBl064cPNkdNgSREZ+SvgOjsRudLSCQumb1IlNAujITbcJXpYJdkTxCsMrA+TX8JS6ru49tNUZp2JKFxD+YxH2WYyvM2CXgvF5K7TONwRUwz3VG1LPXkAhSXJ7cPhkob4/JGIoZaBV+E0J/8zcWYAx299Tc913YAmhzlyNz2exXvunurlbcD7hvmM32xcaeGJm1U9d5o7taqsc1LINKoNgkm0sQkfFbmw+6WJw/UioKkxFXcE5kEIoXiRbS7r7v3LZwoTskPZPELoKxLz4ijkqdjNRAJW+TAKPHHZv534+JxZssDyo36xxOMrZHOOcgBwumHmWLqgjDAuug==;UzHYVdRSxjrZamFtmnwi4Q=="
 ---

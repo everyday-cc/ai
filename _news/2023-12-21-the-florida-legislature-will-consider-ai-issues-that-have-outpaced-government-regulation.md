@@ -98,15 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
-    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
-    publishedDateTime: 2023-12-19T12:55:00Z
-    webUrl: "https://www.tcpalm.com/story/news/politics/2023/12/19/florida-lawmakers-may-take-up-artificial-intelligence-legislation/71906062007/"
-    type: article
-    provider:
-      name: Treasure Coast Newspapers
-      domain: tcpalm.com
-    quality: 14
 
 secured: "hdhOG1xW0P8ZnJPgGKW7mkUgcmBRxjAeZsDKhH5C5GIuwdHP1tBfFfijrh1ziVToK3zO7d2Ktrz2kEaDXgsnMkwjgm/r+Nnfd/WCjAnwwAO5tqyacLkClVtnQP8XhZDtxYbPI1ANLByLCOV4zxupBSsLCZEGlb1m1ViZ023A77RVwJOJTJ9qAY0eLF0dpDKWFoXtWd11N5uILYIOZcUFsVYVA1Go1jk7sqoEPY2ktT76VLfUUaMwPPLvlyB4Jrvla59532XXsqogQXaEcQ+nejZGOot0Ve6virynIav8dUMgdhDa2muC+IEpVhT6rrc+Nl0g/SQCzP+wIZy+VeQCPBzfPwQ76UUsvpDiPYhkkI4zNvfyNYE5ZMdA89rJQFRUmU46SPyvGtiStO+N1wqFQFcpS+cm+U2jqkaSDIiPN/IfQJMXXBivf9znT08gtjNgwmls0nnWiTBlSCc1etJWAXUAqpO4Qoa2AgSnsOYCZgLGNG9a6ngkJIZFyG/J0bUKmK0SmnXPhJm+/Vp3t/J03g==;BTljEvPp298vTK1K63to+w=="
 ---

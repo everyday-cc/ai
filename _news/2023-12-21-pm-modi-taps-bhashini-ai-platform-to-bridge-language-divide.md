@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Modi utilizes homegrown AI gadget to speak to people"
-    excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
-    publishedDateTime: 2023-12-19T12:43:00Z
-    webUrl: "https://menafn.com/1107625044/Modi-utilizes-homegrown-AI-gadget-to-speak-to-people"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
-        width: 4640
-        height: 3476
-        isCached: true
   - title: "Revolutionizing Language Translation: PM Modi uses AI Tool to Speak in Tamil in Latest Speech"
     excerpt: "Discover how the AI-based translation tool, Bhashini, is bridging the language gap in Indias linguistically diverse society, in PM Modis latest speech."
     publishedDateTime: 2023-12-20T11:57:00Z

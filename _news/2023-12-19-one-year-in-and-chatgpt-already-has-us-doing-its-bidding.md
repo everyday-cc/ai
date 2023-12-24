@@ -51,15 +51,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How to get a shareable link to a ChatGPT conversation"
-    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
-    publishedDateTime: 2023-12-19T12:40:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
+  - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
+    excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
+    publishedDateTime: 2023-12-24T11:32:00Z
+    webUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    ampWebUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 68
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "ZGHWf3vkVP93MN/3bvuEvTZrHIV68T6paNmdi4DrO/KMniGavvj2vDAo/QPKrMzvM1oVoiP77JceZtGO5rBXGqIOZ0gZecMoe/RwX97sVnDCMfXzbtfe9Q+WBsx8ScyUajY7zz3kOAZCViSvoG7hJPxqUtWp2tVbWEDNGXK3HEYO67C7C1eakYy2uTyNh/4bRcqSKRo4b7gkqT+pjpBxXB6rokTbljkvZ7ih4x/cN+E6lNBJ+NNOekndCEP2UlWGZ6mzNxEOtXZsnaxfAIonvq1NwYDpiUPOLF0jJ5jrl81VsQtPmhws7p4zqhDEbEcbM3/OpIVkO84ikU/6E7lHDbwRWFEk0FG3ZvexhaE+Fj3vH+SA6jEDN7kyYO967pewwN9Id0sE4Oh0tNgJXKOBGUINDU3NeRFuqlc9qvGxHK8FsGJ8PdJ0xlaUtoAQAaHtzYDNDJ8rWuoue+a9oERwzzqw+SxKZWeAqT0i7l2cvDX2d2M5/A+9mpxNJ3Znt3v8lyA7zCrZj3uDzqRA94DStg==;hoZWLpXvLL87x0TFzoTHQw=="
 ---

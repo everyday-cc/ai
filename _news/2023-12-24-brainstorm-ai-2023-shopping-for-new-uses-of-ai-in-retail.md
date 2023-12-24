@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
         width: 1024
         height: 1024
-        isCached: true
-  - title: "AI news to watch for in 2024"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 37
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
-        width: 1157
-        height: 900
         isCached: true
   - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
     excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."

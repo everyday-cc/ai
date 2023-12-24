@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Modi utilizes homegrown AI gadget to speak to people"
-    excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
-    publishedDateTime: 2023-12-19T12:43:00Z
-    webUrl: "https://menafn.com/1107625044/Modi-utilizes-homegrown-AI-gadget-to-speak-to-people"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
-        width: 4640
-        height: 3476
-        isCached: true
 
 secured: "vHZ/Pec8rbMZTHSVD2wEFq/DaR/bibA/k8yJCNzzorKRIsAWYPgFhksb8fDKIfoWwAPJgQXmxky79KN4MwelvSmRPb8k7vdlLabiKp2TBFnal4v8bX3uA6G/EORH2KqEvrfofPDUYU8XF1vx+LT+g1DQhCZEnEEoyyWhKsNNAOtCxqIjM6PNQbAf4gSrPR768y/qJwO9IknEUaJSZeMfuSF7hP5COJ82qh23GzoR9iSNNlLp1pyJHZNkaj/YTYA8EjOM7ryxepnTU4GJSC/b6+tcKWbETzVGZTMPx2uB2MoYdf7neGd/XSx6g+a/5R/FL884QxtXKAUXxhQskoaa98EMUEnva19U13WxQKfgT6f7P44tvCYPdV+R/CYffj7JGTJBhF9udGkgSo1J6K77/3v6ZydVHm/mAqPZc/M9gxikdY69Qk3f0S1b0nALuZg26Jd2xk3zGzGYfIxYgTN/xDMSnxS7XlCh+voWu/SSz0Ded3Q1F7uRGQ630FdTvVPTfW5ETNHAg8qLraVi8dbugw==;tKZwAlvZMO6Q52y7aMUbFA=="
 ---

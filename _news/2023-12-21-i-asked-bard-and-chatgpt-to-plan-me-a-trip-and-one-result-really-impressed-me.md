@@ -44,15 +44,22 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "How to get a shareable link to a ChatGPT conversation"
-    excerpt: "Even though I used my paid subscription to ChatGPT Plus for this session, anyone can click the link and read the conversation."
-    publishedDateTime: 2023-12-19T12:40:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-get-a-shareable-link-to-a-chatgpt-conversation/"
+  - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
+    excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
+    publishedDateTime: 2023-12-24T11:32:00Z
+    webUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    ampWebUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 68
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
     excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
     publishedDateTime: 2023-12-19T14:39:00Z

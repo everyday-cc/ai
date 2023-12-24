@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-24T10:31:00Z
 originalUrl: "https://www.orlandosentinel.com/2023/12/24/commentary-on-artificial-intelligence-eu-shows-us-what-not-to-do/"
 webUrl: "https://www.orlandosentinel.com/2023/12/24/commentary-on-artificial-intelligence-eu-shows-us-what-not-to-do/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.orlandosentinel.com/wp-content/uploads/2023/12/TNS_US-NEWS-FLA-LAWMAKERS-AI-GET.jpg?w=1024&#038;h=683"
@@ -23,6 +24,6 @@ images:
     height: 682
     isCached: true
 
-secured: "yEvFJis3IZ+U7GGMfxzFbuFQEeizlGYVNRFF5aObZ5Pf2Y/UpaguSmYAm+cz8GJcXbYW4ptb+/qwPeMAXekU9rMTyeZY+YtR2Z/mdcYfBrjLpl0TDLFD4sxVJs8saSuWvNPb1Ct39usCkH758t863rWIgVIjIlgpYVDOBYUYXl6Yjkq5JECEKHITcX4Nl+4IvBsebOaTSukCYZVvKoUisHMrr7M9p5DjrG8XOUCOamOaoY6Q77xdslA47IuSJ2Ij6rE8a+UpRPdbRicFichY0SflU3NTMRFUw8PLbDmBjhmvqyXD1OIVHQys/1/8WIs8l4wAG4fCt0xtXNBvaodbXrRxEFnsEO1NcLxWDt5n8gw=;bvNT/EC0gBvQxibJ43U9nw=="
+secured: "dFYhIm7F/GcdgxOV7SFgsb6SkEKl8cdYxuCLxri56D1Qx2g9bEnlDA3GDZAAWfoZWOuCjyzp9MW40SmuJp7L/IsPo5cFBaSw41V9/M7/A4wOUzt4q7jvcOSiqg5XYcUqSenQoZPbLupr8LpBcUWF6YAVV+MdokCxqlzF4tBC6SwSJ63G+HI3U/RNi8kF7rd1yEkvdE6v2Hr4QgVLwtQZ7Fsudgo/wkBFUsNYS9vELIPYoyu+X5i9oVG4UU8eQ7ycFtWVr94ayNtMSTt79PBR1z3U0sTMbUvgYe+9QRHNe71oumhiRANsQhG/gU9AhkKJMHE138okfaUgIWaJth2qNBFk/KeuMSPh5su3F3nwvkkJF/AGzFOLkDyArTHdANWkAgK14fyLj/0CSVgmFTNFdag0pPumU7r8xDbr84itLoORKMyFoNZ4cEg/PtwG7ezn0mCUgOTVo4prUHC7diasYaKBYNc4gweFr+6RGsse22iWAVC2p2GT+q1Zxg7S0m6wAXFxtf5AUY54RsGAOOTELw==;Af/LLAqtWMiKB8QS6Ci/PA=="
 ---
 

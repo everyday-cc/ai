@@ -132,20 +132,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 79
-  - title: "Tackling Ethical and Security Concerns of Generative AI Models"
-    excerpt: "Artificial Intelligence (AI) has been rapidly transforming different industries across the globe for the last decade, but 2023 has been a banner year for AI with generative AI tools like ChatGPT, Bard and now Gemini – Google’s newest and most capable AI model – making waves in the AI world."
-    publishedDateTime: 2023-12-19T12:14:00Z
-    webUrl: "https://techbullion.com/tackling-ethical-and-security-concerns-of-generative-ai-models/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 71
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Ethical-03.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
     publishedDateTime: 2023-12-19T14:59:00Z

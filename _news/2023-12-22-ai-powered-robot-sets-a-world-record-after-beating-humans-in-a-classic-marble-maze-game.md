@@ -55,15 +55,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Meet The AI That Will Beat You At Physical Challenges As Well As Mind Games"
-    excerpt: "CyberRunner, an AI-powered robot, can learn how to accomplish challenging physical tasks more quickly than humans, and then perform them to a higher standard"
-    publishedDateTime: 2023-12-19T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/12/19/meet-the-ai-that-will-beat-you-at-physical-challenges-as-well-as-mind-games/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Revolutionizing Physical Skills: AI Robot Surpasses Human Ability in Labyrinth Marble Game"
     excerpt: "In a groundbreaking development, researchers at ETH Zurich have made a significant leap in artificial intelligence, demonstrating that AI can now outperform humans in tasks requiring physical skills."
     publishedDateTime: 2023-12-19T22:23:00Z

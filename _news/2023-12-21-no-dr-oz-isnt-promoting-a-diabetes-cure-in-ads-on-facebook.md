@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Fake videos resurfacing in Facebook ahead of election: reports"
-    excerpt: "A distorted video featuring a speech by Begum Khaleda Zia, Chairperson of Bangladesh Nationalist Party (BNP), has once again surfaced on Facebook, raising concerns about the spread of misinformation during the upcoming election."
-    publishedDateTime: 2023-12-19T12:27:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/fake-videos-resurfacing-facebook-ahead-election-reports-3498361"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 4
 
 secured: "gcm83QzGeukU4QZpAR61XiVWFEqmOte84ESuISsdvadTHM8KqDyrzPbTwlPrd+IYV4DKK0pQzK7OfDzZXCShDZDcRJozhZPufkh3jBYj86iZb2/Uot1mwU8yiIV54dcPBgHW2Vo7riOt4kdOM8CbV8oEMstU+VYdSW7DFWFSV/BaBw10zR1cy/0RS9cHAF/8WmkG1Dmox2ILo2OJvI1lPp9Giqd/cD01KnE9gs4/HXBwhEX6cCYUemOSbIfy2UXhEaQrhwT9OtFmnlqtL9TCAXfxcq7HyJ+EFXnrwyLCMzjBcmort15pwJafmlhG6ksUbkeriLe5aW/7CcIcFRY2MxkcXMotWmWhAN1iKDOtT+Tw0Q1HgJYjvmDds1UstoPH7g/+ktkq6y0A02bCffKSiG6k4R1RwJe8x+dXh7KsG0NRhDJA1O31b2fTbq3qLoOoBl/oyYg3rlujqFvJdp/FDTXk1KQUHpK3omoXgIfXoYc2fTbtRVHiFQrKqGI0Or1eYv2nIS65RJAsEyRQp/RLhQ==;DVu9JyaFj5UU/DIUQH1mAg=="
 ---

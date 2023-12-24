@@ -59,20 +59,6 @@ related:
         width: 1472
         height: 832
         isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "AI and ethics in journalism"
     excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
     publishedDateTime: 2023-12-19T16:58:00Z

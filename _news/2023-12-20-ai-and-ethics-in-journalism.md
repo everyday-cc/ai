@@ -73,20 +73,6 @@ related:
         width: 1472
         height: 832
         isCached: true
-  - title: "Digital Ethics Summit 2023: The year in AI"
-    excerpt: "At trade association TechUK’s seventh annual Digital Ethics Summit, public officials, industry figures and civil society groups met to discuss the state of AI regulation and the direction of travel set for 2024."
-    publishedDateTime: 2023-12-19T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366563872/Digital-Ethics-Summit-2023-the-year-in-AI"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/German/article/ethics-morals-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "The Silent Bias in AI: Exploring the Troubling Reality"
     excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
     publishedDateTime: 2023-12-20T12:06:00Z

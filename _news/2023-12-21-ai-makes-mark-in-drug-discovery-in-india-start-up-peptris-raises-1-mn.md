@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-disco
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://th-i.thgim.com/public/news/cities/bangalore/2sfe5y/article67653632.ece/alternates/FREE_1200/Left%20to%20right-%20Narayanan%20Venkatasubramanian%2C%20Co-founder%2C%20Anand%20Budni%2C%20Co-founder%2C%20Shridhar%20Narayanan%2C%20Co-founder%20and%20Amit%20Mahajan%2C%20Co-founder.jpeg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Peptris, an AI drug discovery startup, raises $1 million in the pre-seed round, led by Speciale Invest"
-    excerpt: "Peptris Technologies has raised $1M in pre-seed funding led by Speciale Invest. The investment will support Peptris in advancing its AI-driven solutions for drug discovery, focusing on undruggable targets in oncology,"
-    publishedDateTime: 2023-12-19T11:28:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/articleshow/106125483.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/amp_articleshow/106125483.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/amp_articleshow/106125483.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 41
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-106125483,imgsize-40599,width-800/106125483.jpg"
-        width: 800
-        height: 466
         isCached: true
   - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
     excerpt: "Peptris is revolutionizing drug discovery through the implementation of its state-of-the-art AI platform. It is transforming the traditionally lengthy and costly drug discovery process"

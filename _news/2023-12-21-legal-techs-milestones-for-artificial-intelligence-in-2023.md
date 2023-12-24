@@ -70,20 +70,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "AI news to watch for in 2024"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 37
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
-        width: 1157
-        height: 900
-        isCached: true
   - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
     excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
     publishedDateTime: 2023-12-23T13:12:00Z

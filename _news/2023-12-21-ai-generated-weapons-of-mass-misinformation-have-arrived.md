@@ -64,20 +64,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Hitch Interactive Unveils Generative AI Within Programmable NFTs, Forging a New Era for Web3"
-    excerpt: "Hitch Interactive, the company connecting innovators and providing immersive experiences in AI, robotics, fintech, and the Metaverse, today announced the integration of large language models (LLMs) with its Immutable Miniverse NFTs."
-    publishedDateTime: 2023-12-19T13:05:00Z
-    webUrl: "https://www.valdostadailytimes.com/ap/business/hitch-interactive-unveils-generative-ai-within-programmable-nfts-forging-a-new-era-for-web3/article_4b70e2c9-bb52-5378-835d-44b26fa10495.html"
-    type: article
-    provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 30
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
     excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
     publishedDateTime: 2023-12-21T07:12:00Z
@@ -93,9 +79,9 @@ related:
         height: 450
         isCached: true
   - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "The innovative AI chatbot is based on generative AI and was created using the Amazon SageMaker service. It provides only relevant answers that are important to the business and if a question cannot be answered with certainty due to insufficient data ..."
-    publishedDateTime: 2023-12-21T03:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
+    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+    publishedDateTime: 2023-12-21T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
     type: article
     provider:
       name: Business Wire

@@ -39,6 +39,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "I replaced Google Search with Opera's Aria AI feature and I don't miss the former one bit"
+    excerpt: "So, at least for me, Aria is beating Google at its own game and I don't see this changing any time soon. Give Opera's Aria a try. I believe you'll find it can often best Google at helping you find the answers you need for your queries, without worrying about what site you're being sent to."
+    publishedDateTime: 2023-12-24T04:30:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/20ed62e65986f0048f51f75bfe26abcdca67886d/2023/11/20/62ebbeb1-0fc3-4abe-ac80-75acb54f1630/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Alphabet at 2-month high on report of AI-led ad-sales restructuring"
     excerpt: "Google, the global leader in online search, is reportedly looking to restructure its ad sales division as AI takes a greater role in generating revenue."
     publishedDateTime: 2023-12-20T15:02:00Z

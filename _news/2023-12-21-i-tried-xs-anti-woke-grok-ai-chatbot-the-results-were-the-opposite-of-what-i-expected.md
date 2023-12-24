@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/t.YwO5QIF7YoiRj.FtDSfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/78de7fbe39bbf6e2b7b608f769e06c82"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Chevy dealership’s AI chatbot suggests Ford F-150 when asked for best truck"
-    excerpt: "As an AI, I don't have personal preferences but ... which works with car dealerships around the U.S. The tech startup with 150 workers monitors all activity, and noticed \"a ton of activity\" in Watsonville, Horwitz said. \"We took measures to block ..."
-    publishedDateTime: 2023-12-19T12:02:00Z
-    webUrl: "https://www.aol.com/chevy-dealership-ai-chatbot-suggests-170256165.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/CXGWpMkJBu.7srrOAZfCLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_gannett_aggregated_707/22598e9f3d8cdef9fab287108c81acb3"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Artificial Intelligence Chatbot Outperforms Clinicians in Diagnosis Probability"
     excerpt: "AI chatbots outperformed human clinicians in probabilistic reasoning when estimating the probability of a diagnosis following a negative test result"

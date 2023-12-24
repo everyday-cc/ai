@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Peptris, an AI drug discovery startup, raises $1 million in the pre-seed round, led by Speciale Invest"
-    excerpt: "Peptris Technologies has raised $1M in pre-seed funding led by Speciale Invest. The investment will support Peptris in advancing its AI-driven solutions for drug discovery, focusing on undruggable targets in oncology,"
-    publishedDateTime: 2023-12-19T11:28:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/articleshow/106125483.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/amp_articleshow/106125483.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/peptris-an-ai-drug-discovery-startup-raises-1-million-in-the-pre-seed-round-led-by-speciale-invest/amp_articleshow/106125483.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 41
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-106125483,imgsize-40599,width-800/106125483.jpg"
-        width: 800
-        height: 466
-        isCached: true
   - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
     excerpt: "Peptris is revolutionizing drug discovery through the implementation of its state-of-the-art AI platform. It is transforming the traditionally lengthy and costly drug discovery process"
     publishedDateTime: 2023-12-20T10:32:00Z
