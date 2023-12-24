@@ -39,22 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
-  - title: "Future of manufacturing is phygital as human-robot collaboration rises: Twyn’s Avi Dahiya"
-    excerpt: "As manufacturing in India is quickly adapting new-age technologies, a Noida-based company is working to accelerate the adoption of Industry 4.0 in India."
-    publishedDateTime: 2023-12-19T05:21:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/articleshow/106112078.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/future-of-manufacturing-is-phygital-as-human-robot-collaboration-rises-twyns-avi-dahiya/amp_articleshow/106112078.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2406586,msid-106112055/avi-profile-hz-1.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
     excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
     publishedDateTime: 2023-12-19T14:07:00Z

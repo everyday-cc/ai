@@ -100,20 +100,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 69
-  - title: "Microsoft Azure OpenAI Service is 2x More Expensive than Google Vertex AI"
-    excerpt: "When compared with Microsoft Azure OpenAI Service advanced models, say GPT-4, especially for training, it's two times more expensive than Vertex AI. For instance, Vertex AI training costs range from $0."
-    publishedDateTime: 2023-12-19T07:00:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-azure-openai-service-is-2x-more-expensive-than-google-vertex-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 68
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/1-Microsoft-Azure-is-2x-higher-than-Google-Vertex-AI.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
     excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
     publishedDateTime: 2023-12-20T01:55:00Z
@@ -367,15 +353,6 @@ related:
       name: iottechnews.com
       domain: iottechnews.com
     quality: 34
-  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
-    excerpt: "TomTom develops an advanced AI-powered voice assistant for drivers based on Microsoft Azure OpenAI Service. The solution is built into TomTom’s Digital Cockpit and can be integrated into other automotive infotainment systems."
-    publishedDateTime: 2023-12-19T06:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936012.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
     excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
     publishedDateTime: 2023-12-20T19:44:00Z

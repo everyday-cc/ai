@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/12/231218125850.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/12/231218125850.htm"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
-
-related:
-  - title: "Artificial Intelligence Can Predict People's Lives"
-    excerpt: "Artificial intelligence developed to model written language can be utilized to predict events in people's lives. A research project from DTU, University of Copenhagen, ITU, and Northeastern University"
-    publishedDateTime: 2023-12-19T06:00:00Z
-    webUrl: "https://www.realclearscience.com/2023/12/19/artificial_intelligence_can_predict_peoples_lives_999770.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 17
 
 secured: "2m/N6Rk6gGCgXfPcVqdBRSG6/fN9QDvcZBzN0+5q4f0FubdiQ/wHBYSAkHMwpteBUDUfPYEAagbjVQc2rxY+jVwr4E1u+WLiaQh1v/EvW7pjdjcIm81l5XDRJK2MpvOFeMEA/uYyGBON0WGtHTf7ekEqCBXstRCMrvaGYASMAlDU+6WVtFg2CDiZtWasjCA4CVVqz296rqjOMM1YxiVYCXMmuyoQ7Nd9wefa38ZxdFG0Q612ahiOrFD0ItWf6pHAVrFxOT6NgTXeBXDik5sUTsf0NJcvCYFpvLbbN3mTKDNFmnKT+eGlZqdQzGKdL2mu0jR9w0V6fjFmprtbc/0VFqQvklfbP6BPkGK7w0PcDnI=;hXoeBZQPCuKLNLaczRSwZA=="
 ---
