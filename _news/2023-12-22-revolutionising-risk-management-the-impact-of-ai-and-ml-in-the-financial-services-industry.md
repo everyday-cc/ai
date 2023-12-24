@@ -44,20 +44,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI Revolutionizing the Automotive Industry"
-    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
     excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
     publishedDateTime: 2023-12-19T09:06:00Z

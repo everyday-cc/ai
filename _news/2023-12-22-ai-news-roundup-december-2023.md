@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/ai-news-roundup-december-2023/amp/
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-news-roundup-december-2023/amp/"
 type: article
 quality: 59
-heat: 86
+heat: 79
 published: true
 
 provider:

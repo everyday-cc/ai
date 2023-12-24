@@ -339,15 +339,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "But US chip designers Nvidia and AMD are breathing new life into the advanced technology that has now become a critical component in all AI chips. The most pressing issue for AI chipmakers is the ever-growing demand for more processing power and bandwidth ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Harnessing the Power of Artificial Intelligence for Optimal Solar Energy Systems"
     excerpt: "Introduction Solar power stands out as a promising and sustainable solution to meet our growing energy needs. As we strive towards a greener future, the integration of artificial intelligence (AI) has emerged as a revolutionary force in optimizing solar energy systems."
     publishedDateTime: 2023-12-19T23:40:00Z

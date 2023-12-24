@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "UK Police Can Now Use Your Driver's License Photo In Facial Recognition Searches"
+    excerpt: "A recent change to a single clause in a UK criminal justice law will soon allow police or the National Crime Agency to run facial recognition searches on a database of 50 million driver’s license holders in the country,"
+    publishedDateTime: 2023-12-21T17:35:00Z
+    webUrl: "https://jalopnik.com/uk-police-driver-license-photo-facial-recognition-1851117632"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 34
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/39af6a8e35f1c1d47d4c470d97bb1337.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Academics work on voice-recognition advances"
     excerpt: "Researchers from the University of Glasgow have conducted a study using wireless sensors to analyse muscle movements, with the resultant data being made freely available to support new tech developmen"
     publishedDateTime: 2023-12-20T01:01:00Z

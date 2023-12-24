@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711745/navigating-cloud-concentra
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711745/navigating-cloud-concentration-and-ai-lock-in.amp.html"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
-    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 26
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Navigating 2024 with AI, Civility, and Global Resilience"
     excerpt: "As we step into 2024, the business landscape is undergoing a profound transformation driven by the confluence of technology, societal shifts, and the need for heightened global resilience. In this dynamic environment,"

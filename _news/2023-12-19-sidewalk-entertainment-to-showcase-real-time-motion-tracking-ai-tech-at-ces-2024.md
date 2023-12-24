@@ -31,15 +31,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
-  - title: "TooliP unveils real-time AI-powered patent translation service"
-    excerpt: "TooliP has garnered attention as a specialized service that utilizes AI language models trained exclusively on patent documents. When compared to conventional methods, TooliP enables real-time translation of patent documents with a remarkable reduction of over 80% in the time required for translating and editing patent specifications."
-    publishedDateTime: 2023-12-19T00:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/18/9935961.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "iPhone 15 Pro's iOS 17.2 Update Unleashes Advanced Speech Translation with Context Recognition"
     excerpt: "The device's Action Button now includes new technology that allows users to translate speech into other languages, representing a substantial increase in language capabilities., Technology & Science News,"
     publishedDateTime: 2023-12-20T12:58:00Z

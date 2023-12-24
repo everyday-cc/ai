@@ -102,20 +102,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Plumbing and Artificial Intelligence: How AI is Revolutionizing Leak Detection"
-    excerpt: "Introduction: Artificial intelligence (AI) has become a game-changer in various industries, and plumbing is no exception. One of the critical challenges in plumbing is the timely detection of leaks, which can lead to significant water damage if left unchecked."
-    publishedDateTime: 2023-12-19T00:56:00Z
-    webUrl: "https://techbullion.com/plumbing-and-artificial-intelligence-how-ai-is-revolutionizing-leak-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 48
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Plumbing-and-Artificial-Intelligence-How-AI-is-Revolutionizing-Leak-Detection.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "FVnr2mCv7gUUo3EmkRLPrlKFedtNpxGMR5IsdVyvfACJpjggNZ+24VR2yfWnnbW9QZnPmH7fnZS5Dz91ebz38YENqOxSnh4T+1tQMsseaa6Up+i8K9OstYP0PnpbQUvNBBZen9hy9ITTfD+rfmFDSVcBTdBp5o5gLGmQZVIo6C5d+hOFMkmnTK66kbQM59X29PEF45D9SeecnbnXhEw7fqcjXq2sSZcaPCZ6+tVQWn/tv1qiyS/ISSXG0TFDM8pWWqjVv4ocBOwyGsUDCJmkANnL9rQmPoI9TZKNhKkdn63DuZK5nBu9kzWOJCJ7uHNkuYUEepd2jgGkI2GJ+/iyvi3NYdsyZQpzvCiBenaJc3o=;1wjAXIvybSBr+UqmI7sTrg=="
 ---

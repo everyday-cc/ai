@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Revolutionizing the Automotive Industry"
-    excerpt: "Integration of Artificial Intelligence (AI) in the automotive sector is transforming ... Applications of AI technology are vast in automotive, from industrial robots to driverless vehicles, today, AI has brought about remarkable developments in vehicles."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ai-revolutionizing-the-automotive-industry/467197"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1702981433-Hithere3.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
     excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
     publishedDateTime: 2023-12-22T07:59:00Z

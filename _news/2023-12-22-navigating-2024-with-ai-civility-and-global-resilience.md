@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Accelerating Innovation: Open-source Software, Artificial Intelligence, and the Auto Industry"
-    excerpt: "THE RISE – AND IP RISKS – OF GENERATIVE ARTIFICIAL INTELLIGENCE The past year has seen an explosion in the advancement of generative artificial intelligence (AI) programs such as ChatGPT, but the auto industry has been using traditional and generative ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/accelerating-innovation-open-source-8626129/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 26
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9266_0649.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "07Ayv0u8oEEetEUYHiHEyZJt/lmYt+oflm4zi+L6ZTedciTfVmBpc+LkzLsqcT5mlOQ123fsXfi7hqQ6IglW1IridHuxVqRRi3Ct9wnF06ezQ7t14lPNoqGpTEFNZLLH68Pk9hX4fTaWI5FxaEYPAb1d9XNo1KvFHbjc6upzVBq72ys3xQPnP5cdO8yMRL4NCLnnpJKGy13Vne2e14rNS/pDkNFlonwRW5uto04oyJOM4YcXi5rsVaXxx8sGjWO7n3hXTSRn46Dk8XbgeiiK5STxv/GAWdSanjLDvdpTQxIHEbFKN0d80/+yBQy+BWWVKO3S6DP/yWPSLJFHEiSDFqknK3EjNfJl/qOgtOLYu6j+/FedPLXttMYwt8JpfR3YC5fjScR46HzYKveQ2qhSctl/AKW6u7WF4kZGJ3gyfmNyErPFbaC7GeIE608TaSiiwbBVcUvasb58GxWxpUD15L+lM4m0S5P6LbGY7FV20lxccOo+rEQ/3VH9CLAHs7aMw49yJV/SnpYMb3N7JyHRsw==;Kx2Nk68kC+yj6I94C5mtIw=="
 ---

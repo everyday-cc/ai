@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-comba
 webUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-combat-package-theft/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,34 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Lake Central grad sells AI therapy app to Silicon Valley tech company"
-    excerpt: "A recent Lake Central High School graduate sold an artificial intelligence therapy app he developed in his dorm room at Indiana University to a Silicon Valley tech firm."
-    publishedDateTime: 2023-12-18T23:15:00Z
-    webUrl: "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html"
+  - title: "How AI and machine learning help NFT market combat wash trading and counterfeits"
+    excerpt: "AI and machine learning technologies are helping to legitimize the NFT market by combating wash trading and plagiarism"
+    publishedDateTime: 2023-12-23T10:00:00Z
+    webUrl: "https://cointelegraph.com/news/how-ai-and-machine-learning-help-nft-market-combat-wash-trading-and-counterfeits"
     type: article
     provider:
-      name: The Times of Northwest Indiana
-      domain: nwitimes.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/custom/image/62705d74-c54a-11ea-8606-37fa834f20c5.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Indiana University Student Builds AI Therapy App"
-    excerpt: "A junior at Indiana University built an app that checks in with users daily and learns more about them as they talk to it, referring them to therapists if needed. He sold the app to a Silicon Valley tech firm."
-    publishedDateTime: 2023-12-19T18:23:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/indiana-university-student-builds-ai-therapy-app"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 54
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/e61413a/2147483647/strip/true/crop/2666x1296+0+149/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F76%2Fa7%2F32ec11fc4486bd2696f03db8fd46%2Fsocial-media-mental-health.jpg"
-        width: 1440
-        height: 700
-        isCached: true
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 29
 
 secured: "B1TpfawjxiInCEO8aJ92fxrRmKp3LeAFUi10k7HGXErp3IHZmv0MRHb9jE8DQIv68cU4ZrXXfduMlB2UsIJEkuzPK3ebsJTga9UCWnkUFyyY25P0x/p9+k/cmjPyr4xZmm0ke5uSWJdpjKuiNg3BaM58FqAXUfCmIyP6fXhZ1DmqxCfYVkkafYCC8VltA14VZZLD3C+wztMlQUWk79ibmLfmvx90q74mUoV7W7LZ4AGuZ6VE2KK9rNwhES1zANTJ5U4oocd0l0zOLY579wbnv/eMtZMZ9rdpXt7SqOr595x19T+tFkcjKj+68Wby8tKcHOAhAaREDkeB6AVCh9SCgMMZXUdYT89cTKFRF96YA58=;2lzCdUbaL4PQ22OHE3hUaQ=="
 ---

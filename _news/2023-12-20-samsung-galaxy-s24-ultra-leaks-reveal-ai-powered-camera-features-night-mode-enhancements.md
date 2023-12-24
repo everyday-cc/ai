@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/samsung-galaxy-s24-ultra-leaks-reveal-ai-powered-camera-features-article-106144792/amp"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Big Samsung Galaxy S24 leak just revealed a ton of AI photo and video upgrades"
-    excerpt: "This is one of the non-AI features that many users will be looking forward to, especially with the improved Snapdragon 8 Gen 3 chip promising upgraded power-saving features over its predecessor. The post also confirms other rumors we have heard such as the ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.tomsguide.com/news/big-samsung-galaxy-s24-leak-just-revealed-a-ton-of-ai-photo-and-video-upgrades"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 35
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/aBevHWNetepvytotSnLpu3-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Jo8j8O/OwAkAlFfNrGCyp1u/LT4z41/o7nWDtKVawNDP5qXeP7/qR1qu4w8Vqs/7LOPAILdrHQajKwpbbxB4Ca6a/spb5lAqb/DTJDOPa4O3bswc/GYqFOO7N4rXrphrIBHbTG3yTEejht5/vi+fH0w/5/P7x9MHha/eNzjdzBei+kx493rNDLDpeNKufnvj6c/U0ICAxaomnY4ZhmRulHU4Ez4ioHe+FnJcrz9HNoxV36YVcf2xC2y1cO9Bk6GKgKfZNJLvoNA5T2ha0lLVjz+rPjAgdLNlczl1q+1Cjz5ZOXScLL0o8YNhAYCwnX8pIhGdVx8DEzk9lOW6nF5EUfzRP6LpXdQ8vbxOpcu/8H8=;E8RITsQTM+7MzL/yQyWp9g=="
 ---

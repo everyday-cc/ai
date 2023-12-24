@@ -328,15 +328,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "New generation of chips will drive the AI wave"
-    excerpt: "But US chip designers Nvidia and AMD are breathing new life into the advanced technology that has now become a critical component in all AI chips. The most pressing issue for AI chipmakers is the ever-growing demand for more processing power and bandwidth ..."
-    publishedDateTime: 2023-12-19T00:00:00Z
-    webUrl: "https://www.ft.com/content/e5c97253-90f3-4158-846f-07aaf3945983?sharetype=blocked"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
     publishedDateTime: 2023-12-19T23:45:00Z
