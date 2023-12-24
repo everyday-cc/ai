@@ -2,6 +2,40 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
+      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
+      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
       "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
       "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
@@ -635,6 +669,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-11-technologies-like-artificial-intelligence-are-changing-our-understanding-of-war.md",
+      "title": "Technologies like artificial intelligence are changing our understanding of war",
+      "excerpt": "Artificial intelligence (AI) is widely regarded as ... Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "originalUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/war.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-10-use-of-ai-could-be-a-game-changer-in-tourism-industry.md",
       "title": "Use of AI could be a game changer in tourism industry",
       "excerpt": "December is well underway, and soon we’ll enter a new year. Looking back, how will 2023 be remembered in travel and tourism?",
@@ -999,82 +1076,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-automation-anywhere-announces-collaboration-agreement-with-aws.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS",
-      "excerpt": "Automation Anywhere also announced general availability of Amazon Bedrock and Amazon SageMaker integrations for generative AI-based enterprise automation deployments San Jose, Calif., (ANTARA/PRNewswire)- Automation Anywhere, a leader in intelligent ...",
-      "sourceUrl": null,
-      "webUrl": "https://en.antaranews.com/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
-      "originalUrl": "https://en.antaranews.com/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.antaranews.com/cache/800x533/2023/12/09/aws-logo.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://en.antaranews.com/amp/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
-      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/300627/automation-anywhere-announces-collaboration-agreement-with-aws",
-      "publishedDateTime": "2023-12-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Antara News",
-        "domain": "antaranews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-eu-agrees-landmark-rules-on-artificial-intelligence.md",
-      "title": "EU agrees landmark rules on artificial intelligence",
-      "excerpt": "EU lawmakers have agreed the terms for landmark legislation to regulate artificial intelligence, pushing ahead with enacting the world’s most restrictive regime on the development of the technology. Thierry Breton, EU commissioner, confirmed in a post on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
-      "originalUrl": "https://www.ft.com/content/d5bec462-d948-4437-aab1-e6505031a303?sharetype=gift",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -68,20 +68,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Bills on artificial intelligence filed in lead-up to Florida legislative session"
-    excerpt: "Legal and technology experts say AI is a complicated area to regulate. Florida lawmakers are going to try anyway."
-    publishedDateTime: 2023-12-19T17:19:00Z
-    webUrl: "https://www.aol.com/bills-artificial-intelligence-filed-lead-135527594.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/rwULf76MJfbNNa5Lzo9Jqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNjE1/https://media.zenfs.com/en/aol_gannett_aggregated_707/f6785b6adb30e1f368f3441223bfd153"
-        width: 1200
-        height: 1615
-        isCached: true
   - title: "The Florida Legislature will consider AI issues that have “outpaced government regulation”"
     excerpt: "Under the bill, the proposed council’s tasks would include assessing “the need for legislative reform and the creation of a state code of ethics for the use of artificial intelligence systems in state government.” The council also would be required ..."
     publishedDateTime: 2023-12-21T11:13:00Z

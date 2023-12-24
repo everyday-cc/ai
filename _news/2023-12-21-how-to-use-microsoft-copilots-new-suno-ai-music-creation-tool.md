@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A renowned GPS brand and Microsoft look to help drivers with AI"
-    excerpt: "Using Microsoft's Azure OpenAI system, the assistant can perform functions and tasks around the car that would typically require drivers to take their hands off the steering wheel and eyes off the road."
-    publishedDateTime: 2023-12-19T17:07:00Z
-    webUrl: "https://www.news-journal.com/arena/thestreet/a-renowned-gps-brand-and-microsoft-look-to-help-drivers-with-ai/article_88f291de-f521-5f1e-a5ac-334554fb73f8.html"
-    type: article
-    provider:
-      name: Longview News-Journal
-      domain: news-journal.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/0e/a0eb24ef-aa5f-56b6-b111-5c1ea906fe16/6581ecd0f13ad.image.jpg?crop=1132%2C594%2C0%2C102&resize=1132%2C594&order=crop%2Cresize"
-        width: 1132
-        height: 594
-        isCached: true
   - title: "TomTom & Microsoft Generative AI for Automotive"
     excerpt: "TomTom the location technology specialist, announced that, together with Microsoft, it is bringing the benefits of generative artificial intelligence (AI) to the global automotive industry."
     publishedDateTime: 2023-12-20T01:05:00Z
@@ -258,15 +244,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "TomTom and Microsoft Are Bringing Generative AI to Cars"
-    excerpt: "Partnering with Microsoft gives TomTom access to the latest OpenAI language models, as well as Microsoft's Azure cloud infrastructure. Its goal is to integrate the AI with its Digital Cockpit platform, which it hopes to sell to automakers. TomTom hasn't ..."
-    publishedDateTime: 2023-12-19T18:09:00Z
-    webUrl: "https://www.extremetech.com/cars/tomtom-and-microsoft-are-bringing-generative-ai-to-cars"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
     excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
     publishedDateTime: 2023-12-20T19:44:00Z
@@ -285,20 +262,6 @@ related:
       name: sensorsandsystems.com
       domain: sensorsandsystems.com
     quality: 32
-  - title: "Microsoft, TomTom Launch Voice Assistant That Makes Google Assistant and Siri Feel Old"
-    excerpt: "While Apple is building an electric vehicle from scratch and Google is betting big on the software and services side of the automotive space, Microsoft"
-    publishedDateTime: 2023-12-19T18:45:00Z
-    webUrl: "https://www.autoevolution.com/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350.html"
-    type: article
-    provider:
-      name: autoevolution
-      domain: autoevolution.com
-    quality: 31
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/microsoft-tomtom-launch-voice-assistant-that-makes-google-assistant-and-siri-feel-old-226350_1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas"
     excerpt: "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
     publishedDateTime: 2023-12-19T20:31:00Z
@@ -326,15 +289,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 22
-  - title: "Microsoft changes songwriting forever (for better or worse) as Copilot AI now can write you tunes"
-    excerpt: "Copilot has steadily been receiving updates over the last few months and can even produce generative AI images from prompts thanks to being powered by DALL-E. Today, Microsoft announced it has partnered with Suno via a plugin to turn your ideas into songs."
-    publishedDateTime: 2023-12-19T18:27:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-changes-songwriting-forever-for-better-or-worse-as-copilot-ai-now-can-write-you-tunes"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 21
 
 secured: "mohLzs6WiBj9IwugeyJxPulTuN+rOEH7/DEzTwT0+deljJpyxT5Y0Z0bga583yVDpwwZXEUEk6PjYtr8NorpOES2fAdXXixpcNqLrNDJ4z9i9hby7T6MI+FW9yI7dP8DTu/nacptTMpsSFrr1LifM/q1j8txd1r9kfXZ7k57nJww3ks/Q6wFh3g4rYlsSF3NYqTd1HM5aBhopDDTLrtaEmNPdDitBhPYiLF7HQnaFSq10APr+VOi6GynjOsRJnzsViCGhuGXbgVB6mNCoX26kqvePI99mSbg43PiSeRqz4zIh+MoPtUVC8GbYODLSXcJB/x/9UwB2SuXrj0Rs9nbLtrpPfL8jGXjS3gIJ7JhwmfjaqnTwfIwLeEijFpkjS7fRUjQzP1z1Eg/b0JBbAYXcVeElmT1sVzHAFH505iR6Kqff+7oS3lpbDBmLAftZ0oS7ZOj23P2bevhU6vxrbIak/UWji/TVx3eZR9ouu2/YXJoriZc4FTxXLPE/R074Aks27RyxEtxPVpHF3fYVkPBXg==;RNJPmBjj1OBKxv8TyQgnfg=="
 ---

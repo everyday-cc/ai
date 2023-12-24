@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-26-from-ai-timber-to-a-turtle-robot-three-new-tech-developments.md",
+      "title": "From AI timber to a turtle robot: Three new tech developments",
+      "excerpt": "Cross-laminated timber that uses artificial intelligence to fit together; an advanced form of machine vision; a device that can make",
+      "sourceUrl": null,
+      "webUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/",
+      "originalUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://createdigital.org.au/wp-content/uploads/2023/10/TW-October-1024x718.png",
+          "width": 1024,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
+      "cdnAmpWebUrl": "https://createdigital-org-au.cdn.ampproject.org/c/s/createdigital.org.au/ai-timber-turtle-robot-three-tech-developments/amp/",
+      "publishedDateTime": "2023-10-26T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "createdigital",
+        "domain": "createdigital.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-northwestern-universitys-ai-designs-a-new-robot-in-seconds.md",
       "title": "Northwestern University’s AI Designs a New Robot in Seconds",
       "excerpt": "Researchers at Northwestern University used artificial intelligence to create a program that designed, iterated and refined a new walking robot from scratch, based on a simple prompt, within 26 seconds.",
@@ -1276,49 +1319,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-amazon-revamps-warehouses-with-robots-ai-to-reduce-delivery-times.md",
-      "title": "Amazon revamps warehouses with robots, AI to reduce delivery times",
-      "excerpt": "Amazon will add a slew of new robotics and artificial intelligence-technologies into its warehouses in an effort to reduce delivery times and speed up inventory operations, the e-commerce behemoth said Wednesday. The high-tech upgrade — which debuted at ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
-      "originalUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000061798828.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/",
-      "publishedDateTime": "2023-10-18T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

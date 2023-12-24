@@ -115,20 +115,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What Are The Most Interesting FinTech Startups?"
-    excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
-    publishedDateTime: 2023-12-19T18:35:00Z
-    webUrl: "https://techbullion.com/what-are-the-most-interesting-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/What-Are-The-Most-Interesting-FinTech-Startups-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Fintech in Singapore: 2023 in Review"
     excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
     publishedDateTime: 2023-12-21T06:27:00Z

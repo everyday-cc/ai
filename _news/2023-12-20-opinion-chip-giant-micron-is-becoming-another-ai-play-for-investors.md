@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-an
 webUrl: "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 523
         height: 523
         isCached: true
-  - title: "OPINION: Why artificial intelligence holds great promise for improving student outcomes"
-    excerpt: "The prevalent narrative around AI and cheating is overshadowing the technology’s true potential: Artificial intelligence holds great promise for dramatically enhancing the reach and impact of postsecondary institutions and improving outcomes for all students."
-    publishedDateTime: 2023-12-19T18:15:00Z
-    webUrl: "https://hechingerreport.org/opinion-why-artificial-intelligence-holds-great-promise-for-improving-student-outcomes/"
-    type: article
-    provider:
-      name: The Hechinger Report
-      domain: hechingerreport.org
-    quality: 9
 
 secured: "M4m4zc6ehwc8V2tp26dIYugBGJfnlm44TzeavoTi/JIa0BZL0Kx9w3EgFdCrpJFFdHK4GtkFtsSO/ONQkMF/e7Dl2tbDxUmq1NcvzRqEPtlsszS+WT6c+RYX34ghZUVXheFrcyBI/KEUNJ11na2ffFpLPknPj3thLY1tuBWE75d2gOFGLAcEXzTs0AfBNDlYTC6JxbicmtWnOLY1eN3jP89RXNsmH0vjGdPvRXU050tOFsXBrdz+CPqjUe71FC4qOZ6zwBdNP0/HAncTnHIbOHK5/t59WuE96ifqKUYn2NY5JxGFkygVHO7+m7QgNuOl4jmgIWxlJ4tW/EgQ++m4/0w/aN3el2eqDwNunOUGdcg=;A/iMm24kwkvqYbp5xgswGQ=="
 ---

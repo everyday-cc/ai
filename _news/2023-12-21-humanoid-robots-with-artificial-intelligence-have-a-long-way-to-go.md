@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-hum
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,16 +41,7 @@ related:
         width: 1160
         height: 680
         isCached: true
-  - title: "Doctors have a few simple AI asks"
-    excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
-    publishedDateTime: 2023-12-19T18:01:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2023/12/19/doctors-have-a-few-simple-ai-asks-00132402"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 17
 
-secured: "Aj5hQv16V7Vjzs5gOa4LHNawOipxYDdMIAwifpRUgrt/06OesQLoqOl0JTSjfMP+TvZ5t5rpvTGzaw9MJaUihMyS6vhjU9d2U23Q26PDPYahAnbcXNynaQKniTPwTF9d0If26ZP7OLKoKGCX4s52B1Z8JYyqPpUHD2zjXuXGuL5Ow4oCATMO+5AToLS/AgcGOFI5wUj+i1evQblHeIZ/Z8iwLw4II14gyF3zybyOj7jNHP4SU7Sbo1msEgoUarh2ftb4I8aaTfNPI3SOTrGDCw55pii+Q4BlBsRXW3w/osM4JCvP+hTTS+IjmguGFUfPTDWganBbDIliKdi+ELnWWp4OUfXm21FVdyG4Hv29LU0=;NzMSktsH5mKdpvG/AAsxFA=="
+secured: "q+bD1c1AzqL0kqp3rPttcXJUhY47Owun+vI6dRz9F66GlWtWAQj5QR6Q8+l6fY9327AO+9voh+uA1dYNSTh8uoiWB9IJ5PRmhVEhGkv9UmXP7fNa1P4ZqGOirJYrCyqAzNw4v0Xr6DCvCYrH7pkIUovyt3B0t8sVzfFNSsa3fdJXD2kBSW88e0Li93Paww02kp0LGyeGWFtIjqmoTv8vhCh+LP0Xid5z3jSqq2vIt+zd3IeJRC7eG85OiKK14evWqlq3/h+lDRLzWw3NMlDKiXe85AVCQRcug1TO93c61Yq+ty7iUDpxHb0nojsTceM0YHhYxzK/BfqhUWDCITFmEFix1+ik/DXMdThbAlhIUv4=;6d/epjGsvaFGFOGzF1CXMA=="
 ---
 

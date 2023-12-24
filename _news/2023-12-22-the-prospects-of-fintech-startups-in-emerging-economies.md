@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "What Are The Most Interesting FinTech Startups?"
-    excerpt: "What Are The Most Interesting FinTech Startups? From the innovative approach of wallet passes to the democratization of fractional investing, eight founders and COOs weigh in on the most captivating FinTech startups today."
-    publishedDateTime: 2023-12-19T18:35:00Z
-    webUrl: "https://techbullion.com/what-are-the-most-interesting-fintech-startups/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/What-Are-The-Most-Interesting-FinTech-Startups-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Fintech in Singapore: 2023 in Review"
     excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."

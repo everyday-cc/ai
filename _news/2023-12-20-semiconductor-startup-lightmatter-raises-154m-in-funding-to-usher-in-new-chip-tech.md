@@ -18,17 +18,6 @@ topics:
   - AI
   - AI Hardware
 
-related:
-  - title: "Riding the AI wave, Lightmatter hits 'unicorn' status with $155M investment"
-    excerpt: "The Boston-based developer of photonic chips specialized for AI made headlines for closing an additional $155 million in new funding and revealing its new valuation of $1.2 billion"
-    publishedDateTime: 2023-12-19T18:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/fundings/2023/12/19/lightmatter-series-c-unicorn.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-
 secured: "8+QzDvZd6HTsiMPUtboBsfxGWMUrssfEFlStv1Hspzph6tI96g7ZNGur8hSK7m3hr4qzdP7ZAPxvHGads+9w0JYZHbHrtCaUqAcVBgomRC3mTywP/PKZFwiyS0sG8+rr3SkVmWrp5l1OtRHlGINz18x90A2540sHU+1gPdstD/hDPCOngDQEr3PigjAmBjcDW2WYQE7ZGc+hC17eFeajhfndar4elWYIUbspPZhXg0Qc2aT5cduDurqcXLLTbUz+Veixolfre5UjaEIf2aItKaWsyqkGRrOhWWU77uB8h3Zp867fGTEpBQ00nE78pyXF3d8xu707ebTnNO6gcGm5jeExOZkWrSaF1t6IIsUPO18snn2PhROcz0kbGL+C/4PG3WYQyIg5PlIXgs6fc2fbNMz5GBUcJBuRZhZDc6gRfkxbS4LBQwBcryEIQpkrxsfL2ImeYc+nlBGscRm14c3L0PlxyGBMRNTjjdsMY83NjIyi+Iqe1tEpQisp+WkYxNlyMun1/SvAS5yLsuFb4ngDoA==;HoK1GbxpU4u8twdHuWE+qw=="
 ---
 

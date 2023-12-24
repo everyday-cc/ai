@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Generative AI Platform Harvey Announces $80 Million Investment"
-    excerpt: "In a blog post announcing the funding, Harvey noted that it planned to use this latest investment to expand our custom model building, scale our team and build out our suite of product features."
-    publishedDateTime: 2023-12-19T17:51:00Z
-    webUrl: "https://www.law.com/2023/12/19/generative-ai-platform-harvey-announces-80-million-investment/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Harvey-AI-Website-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
-
 secured: "F49fCBRuuijmHrPG3v2EchB37MDg4uk4RuMV94ZSlIRk3CAme6kiV5TKhqaBd8Q5MQ0TKuEvIc7+kvVABctRhH4Vg9FvsIs2EdPDH4UF9MHtWXlIUBLgj3LF0bYKvEHTbSyTJETZ2yRWbLMooYWNvy77VxiMkq7IIiDi6PGpiJaElw2h+7mun3mmXi/9iFvLmKABIoD/hELAWwYltjlrTgzRrQdPeY8E6GhCmiZcWupaClv6HvBKL2EPHRzjLaJXLnoILWTZLXBShp6mvqR4gJaAKW7UZl2sQF7ZDbarCwg1WC6RPf3KcItFg5A6e/Y0F8XCI2gEkuh0cX8nwfIgjo/Mn5PR/XWJQggxHozRRSRchOBI++r4czjz1UZyY0SUvSKVLphNZ6sYyQC2OzkOQFK9PEagE5mELzAyMb2iHTAurmXmOf63JGg604/gI2Xtwj/8pl9uIRychd3dobHlA8QGeEY2iTh8HJva+CjIXAVuJIWDGxsaySrcytltVg81fXJvnx1F/sBNc/HGIXtnJQ==;7sR7RyqWriepqpO6H789Kw=="
 ---
 

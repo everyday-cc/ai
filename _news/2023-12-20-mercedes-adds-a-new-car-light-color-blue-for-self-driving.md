@@ -19,45 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "If You See A Mercedes With Turquoise Lights, It’s Driving Autonomously"
-    excerpt: "Autonomous Mercedes vehicles in California and Nevada will soon shine turquoise lights to let others know they're in self-driving mode"
-    publishedDateTime: 2023-12-19T17:33:00Z
-    webUrl: "https://www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/"
-    ampWebUrl: "https://www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/12/if-you-see-a-mercedes-with-turquoise-lights-its-driving-autonomously/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/12/2023-Mercedes-EQS-Turquoise-AV-Light-3-copy.jpg"
-        width: 2200
-        height: 1238
-        isCached: true
-  - title: "Self-driving cars could get these turquoise lights to warn you when they’re in autonomous mode"
-    excerpt: "This comes following the news of a number of accidents involving the alleged improper use of Tesla’s Auto-Pilot and Full Self-Driving systems, where the technology was deployed on roads where it is not legal or permitted to do so. Currently, the ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/self-driving-cars-could-get-these-turquoise-lights-to-warn-you-when-theyre-in-autonomous-mode"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YGowrE5G936VdwUwJZoAPU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mercedes-Benz debuts turquoise exterior lights to indicate the car is self-driving"
-    excerpt: "Most street legal vehicles utilize a combination of three colored lights: white for headlights and reverse lights, red for tail and brake lights, and orange for"
-    publishedDateTime: 2023-12-19T18:02:00Z
-    webUrl: "https://www.techspot.com/news/101268-mercedes-benz-adds-turquoise-exterior-lights-denote-autonomous.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 28
   - title: "Mercedes-Benz Installing New Tail Lights to Show When Car Is Self-Driving"
     excerpt: "Mercedes-Benz just received approval for first-of-its-kind turquoise car lights that indicate a vehicle in self-driving mode."
     publishedDateTime: 2023-12-20T14:26:00Z
@@ -67,15 +28,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 18
-  - title: "Mercedes adds turquoise lights to indicate self-driving cars"
-    excerpt: "California and Nevada are the only states where Mercedes’ “conditionally autonomous” Drive Pilot technology is legal."
-    publishedDateTime: 2023-12-19T19:28:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/12/19/mercedes-adds-turquoise-lights-for-self-driving/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 4
   - title: "Mercedes Adds Blue Car Light for Self-Driving"
     excerpt: "Mercedes-Benz has received approval to add external turquoise blue lights to its vehicles that indicate when they are in self-driving mode."
     publishedDateTime: 2023-12-22T17:26:00Z
@@ -85,15 +37,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 4
-  - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
-    excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
-    publishedDateTime: 2023-12-20T19:15:00Z
-    webUrl: "https://www.inverse.com/tech/mercedes-benz-self-driving-car-drive-pilot-light-indicator"
-    type: article
-    provider:
-      name: Inverse
-      domain: inverse.com
-    quality: 0
 
 secured: "XzQRlerpyYUWw1su4kgnhjtY3i1zqVASOD+UyKx3ElFNJbwC3rDs7qkgusAxQ+x94lbGdCU/sIq79dmg9LfWVQd0PhvO9nwvceL5EAtIzYT1HQIYr8nDp8MHa0yWZEhb03P/gzVX6Sw+8+kqprr3AlmP2CyGqqOTS41CoWxEg3J937AmjjshANddRUOkxK+oQsRtGRnLHeY/oDrJnIIg4Nia3MhUDlJLt1gRGrOnvoLsmsnvZ7PFhIJxwAechNl/ixe7ZawasIS912Q3PHagzF6Iyy1KGs81GiIrxVbz+Y1s7XRU3/eypCy5txE4j711j5LjTuO0ZBVXfHnxqH/ErFQKba/s0SkCLuj6Ji319SWposazuDUwsh7kploV2kl8i1dsvOticbC17SwpAniGhpHiaSwJPtb6x0lTnf9aSQWHsuCpH0E/UHK8tNzZ1I4zCN4vK3pSLHj9JuSg5DbpNkgw7oCd5FQ1UtCFO3aGpTracaERi9p/jEXJi/+Daj9LrWvnXAC/nmkQyIW4sAZ6XQ==;y/JnQrGGqVBfx5Cz6S2jtw=="
 ---

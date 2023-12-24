@@ -7,7 +7,7 @@ originalUrl: "https://leadership.ng/nasarawas-phoenix-university-to-foster-robot
 webUrl: "https://leadership.ng/nasarawas-phoenix-university-to-foster-robotic-tech-ai-innigeria-vc/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Nasarawa varsity gets approval to establish robotics, AI laboratory"
+    excerpt: "The Phoenix University, Agwada, in the Kokona Local Government Area of Nasarawa State, said it has established a Robotics and Artificial Intelligence laboratory for its intending students in line ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://punchng.com/nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory/"
+    ampWebUrl: "https://punchng.com/nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 89
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/21124659/The-Phoenix-University-Agwada-726x630.jpg"
+        width: 726
+        height: 630
+        isCached: true
 
 secured: "fbK6DC0F83sHVuD7YoEtCRdj6gk5T+qp1Mdvf+aUt/XKK/4PW/ZH1Y/aFDiqxe0lspzRfI1GJlFTIInD9TP0E58o0SrTiwfruI+ORQJhglljsU4qvarDyiT6NN0zHXEwMiELA/t/CjO5eoGvBiUFXF5CWdgRX5yxuKSegfy+0b9e4d8DjBBJ+R4Y33GO1OGFTT/guCYUpc0E2SSCUytRgxuYrZGRldfuNcKvOVIL6Z6+cJGxJZYz9h2u662I6zomLw1LnDmLjnZGEPexgJbWtgF+nfhUtueo/ulJwKoiCBtbrJU10Pww0vxh21HJ0VAKIU+NiM+gN4TcLdOfx9+KZhTBo47TvZXZ3na+51/taPg=;YeaUI1zPO7yjUa9sCIwmRQ=="
 ---
