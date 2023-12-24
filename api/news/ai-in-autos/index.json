@@ -247,6 +247,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
+      "title": "Self-Driving Cars Face Reality Check",
+      "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
       "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
       "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
@@ -1366,49 +1409,6 @@
       "provider": {
         "name": "wsbt",
         "domain": "wsbt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-can-artificial-intelligence-be-regulated.md",
-      "title": "Can Artificial Intelligence be regulated?",
-      "excerpt": "We then had US President Biden’s Executive Order on “Safe, Secure and Trustworthy Development and Use of Artificial Intelligence\" on October 30, 2023. That was followed by the UK Bletchley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated-11701927112996.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/07/1600x900/GERMANY-US-INTERNET-AI-ARTIFICIAL-INTELLIGENCE-2_1701063682799_1701927872945.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/can-artificial-intelligence-be-regulated/amp-11701927112996.html",
-      "publishedDateTime": "2023-12-07T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
