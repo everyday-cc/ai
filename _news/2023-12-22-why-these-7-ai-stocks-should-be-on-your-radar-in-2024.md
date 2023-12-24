@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Analysts Eye AMD and Nvidia's AI Rivalry: Who Leads the Tech Race?"
+    excerpt: "Rosenblatt analyst Hans Mosesmann flagged salient articles in the last week specific to AI, Bandwidth, and Computing that are important and merely interesting as they relate to critical secular themes."
+    publishedDateTime: 2023-12-21T19:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-eye-amd-and-nvidia-s-ai-rivalry-who-leads-the-tech-race-1032920439"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
     excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
     publishedDateTime: 2023-12-20T20:23:00Z

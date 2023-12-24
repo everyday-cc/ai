@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot plays constant companion to elderly"
+    excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
+    publishedDateTime: 2023-12-24T10:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/dec/24/robot-plays-constant-companion-to-elderly/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 19
 
 secured: "1Wtx6kguKcrrtm3qX2JB4L1UxstZ15H5NrJvcEhqZ0W+Rz9fES14ID8lbBMasxa16u4CF7rD8pAXnRMHh1d++IYAcJ/eizyAEAyAozxkt7h3eUbtwc8Ot8u2GqVByWD5W/HVkK+KDjlvWyvo7gkpsrR2/x4dZd+iJbTPzwDL6q3kqS0w1z8QbKpc7b+TlomzfgJhfzZLr8Vj9wkGw4fh7/UqmVPkJ0n0gZO62Kxic+5l3I2FhcaNU2GoJ4fe7QvHKBtcHtFHGZYOEndFeXUn0z+dzXHEJbBwz3/nuvmU7lkGNPYC5tnGlfK5X8aKeW6pjDwZCcoYjrpkgiVpepOImED4pkRxoqEtRjrzz3QD9to=;D/CSfxJ+aHz60XZTkf4vFA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.physiciansweekly.com/artificial-intelligence-models-im
 webUrl: "https://www.physiciansweekly.com/artificial-intelligence-models-improve-clinicians-diagnostic-accuracy/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 800
     height: 535
     isCached: true
-
-related:
-  - title: "Explanations Don't Help Clinicians Spot Biased AI"
-    excerpt: "Providing clinicians with artificial intelligence (AI) predictions along with model explanations can boost diagnostic accuracy, but that accuracy drops when using a biased AI model -- and explanations don't mitigate those negative effects, according to a randomized clinical vignette survey study."
-    publishedDateTime: 2023-12-19T22:28:00Z
-    webUrl: "https://www.medpagetoday.com/special-reports/features/107944"
-    type: article
-    provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 39
-    images:
-      - url: "https://assets.medpagetoday.net/media/images/107xxx/107944.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ubPGLKqCYjt+L6QDkS1x8MPQK1NBL4Zh/U5XvnDuevAQKDxhDzqAVXD20dBFU2RWWssdl1TVjtZJxhbAG75FZbWVgyoEnw9imjV2XAe9YWzEgBJsUIvzNEBGM1KHMC8r6p+XK6jTVBr2t3SBEsPnR6hz7BLCP+wK8ZPRfIAnNC+zHKgkiehAjrVEFaPgXykHX8NDPysPAiBwQOTWo/4aAGgyXFTghT+t0nqalEzrExp0VvoffWjBY/F1SW8q1CrxPAnYGdV7ni4+qqjXk0f6xXgFP8NEudPET6TzE2m50TFfAZavPsGwOnWHEIb1ydBnd6DzK9AGYgK9lqKmOqiQ6HZLF4ileg7OBpOByiD6rVw=;gCqDXt9JAC5H35hacg80Wg=="
 ---

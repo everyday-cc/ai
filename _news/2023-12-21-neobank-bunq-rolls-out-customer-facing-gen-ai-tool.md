@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Digital Bank bunq Claims to be First AI Powered Bank in Europe"
-    excerpt: "Amsterdam-based digital bank bunq has claimed the title as the first “AI powered bank in Europe.” bunq says it is the second-largest digital bank in Europe. Today, the Fintech announced “Finn” a new GenAI platform that is available to all its customers. The AI powered service is said to help users to manage finances."
-    publishedDateTime: 2023-12-19T20:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218616-digital-bank-bunq-claims-to-be-first-ai-powered-bank-in-europe/amp/"
+  - title: "Bunq replaces search with a generative AI called Finn"
+    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
+    publishedDateTime: 2023-12-20T10:13:00Z
+    webUrl: "https://www.altfi.com/article/bunq-replaces-search-with-a-generative-ai-called-finn"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 74
+      name: altfi
+      domain: altfi.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Euros-iPhone-Payments-Digital-Money.jpg"
-        width: 1600
-        height: 1285
+      - url: "https://images.ctfassets.net/2chiqpnroeav/7CAHkvUE151n3wnvCu8pbm/8955308560e02f88587e05c714b359e6/518705-7_Image_-_Finn-a8a2c6-original-1702993037.jpeg"
+        width: 1080
+        height: 608
+        isCached: true
+  - title: "You Can Run a Generative AI Locally on Your Computer"
+    excerpt: "If you want to have your own ChatGPT or Google Bard on your local computer, you can. LM Studio lets you set up generative LLM AI models on a local Windows or Mac machine."
+    publishedDateTime: 2023-12-20T16:29:00Z
+    webUrl: "https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 39
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HJ3PEGJ2J1V0X16MBSH2GHG6/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "TN7xxtlY0nazr99YBX6glVH7BSAqnNArXq/Tc8t/gXgslGgMndlleqky1WmqRhqrZIAR2BpVbubHvD3DhfvrP56SlPShpsfpwPa4tRE+QG15UBUQvjUl8cq3Y16VbK7K6wDuj1DnIkFBKXe+3eogbU004q9P23K8l6jWePWN7v0XZDX3E24RFIGFktZ97lv+IdCYMo094NqW+iAfcmndeLpUqYey6uqiLl0KiKtoaHLE43GmAYqfotz3l5DAYszERksnllQBBHiWusDkF4aMwkgJgfgikB4qkhJOX33dDVfZX7Wpjfpq9mphUlKmEbNwXk1v6DOlQMwyvmF2tvYDZn5POziVHhHSi/QuZh4eZN4=;Gs5hQkcm3skwjIhwsFmHlw=="

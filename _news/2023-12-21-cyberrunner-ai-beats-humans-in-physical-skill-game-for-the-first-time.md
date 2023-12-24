@@ -68,20 +68,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Revolutionizing Physical Skills: AI Robot Surpasses Human Ability in Labyrinth Marble Game"
-    excerpt: "In a groundbreaking development, researchers at ETH Zurich have made a significant leap in artificial intelligence, demonstrating that AI can now outperform humans in tasks requiring physical skills."
-    publishedDateTime: 2023-12-19T22:23:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-physical-skills-ai-robot-surpasses-human-ability-in-labyrinth-marble-game/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 44
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/12/labyrinth-game-image-2-942x600.jpg"
-        width: 942
-        height: 600
-        isCached: true
   - title: "AI Beats Humans on Unsolved Math Problem"
     excerpt: "Large language model does better than human mathematicians trying to solve combinatorics problems inspired by the card game Set"
     publishedDateTime: 2023-12-21T12:15:00Z

@@ -103,6 +103,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
+    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
+    publishedDateTime: 2023-12-24T09:50:00Z
+    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
+    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 38
   - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
     publishedDateTime: 2023-12-21T11:50:00Z

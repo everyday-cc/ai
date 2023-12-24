@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-sk
 webUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.popsci.com/uploads/2023/12/21/labyrinth-game-image-2.jpg?auto=webp"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Revolutionizing Physical Skills: AI Robot Surpasses Human Ability in Labyrinth Marble Game"
-    excerpt: "In a groundbreaking development, researchers at ETH Zurich have made a significant leap in artificial intelligence, demonstrating that AI can now outperform humans in tasks requiring physical skills."
-    publishedDateTime: 2023-12-19T22:23:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-physical-skills-ai-robot-surpasses-human-ability-in-labyrinth-marble-game/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 44
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/12/labyrinth-game-image-2-942x600.jpg"
-        width: 942
-        height: 600
         isCached: true
   - title: "CyberRunner AI beats humans in physical skill game for the first time"
     excerpt: "In an exciting bit of progression, the CyberRunner AI has managed to complete a physical labyrinth maze faster than a human can."

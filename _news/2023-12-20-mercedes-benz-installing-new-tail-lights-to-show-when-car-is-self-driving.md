@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mercedes adds a new car light color: Blue for self-driving"
-    excerpt: "The Society of Automotive Engineers recommends this specific blue shade to signify autonomous vehicle operation, but Mercedes is the first automaker to receive approval for its use. The lights will appear at the back and front of the vehicle around the taillights and headlights."
-    publishedDateTime: 2023-12-19T19:19:00Z
-    webUrl: "https://www.ocregister.com/2023/12/19/mercedes-adds-a-new-car-light-color-blue-for-self-driving/"
-    type: article
-    provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 4
   - title: "Mercedes Adds Blue Car Light for Self-Driving"
     excerpt: "Mercedes-Benz has received approval to add external turquoise blue lights to its vehicles that indicate when they are in self-driving mode."
     publishedDateTime: 2023-12-22T17:26:00Z

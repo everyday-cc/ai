@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mercedes adds turquoise lights to indicate self-driving cars"
-    excerpt: "California and Nevada are the only states where Mercedes’ “conditionally autonomous” Drive Pilot technology is legal."
-    publishedDateTime: 2023-12-19T19:28:00Z
-    webUrl: "https://www.eastbaytimes.com/2023/12/19/mercedes-adds-turquoise-lights-for-self-driving/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 4
   - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
     excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
     publishedDateTime: 2023-12-20T19:15:00Z

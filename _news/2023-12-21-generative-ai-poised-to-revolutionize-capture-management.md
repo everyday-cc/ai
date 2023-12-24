@@ -203,20 +203,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How Generative AI Could Revolutionize Manufacturing"
-    excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
-    publishedDateTime: 2023-12-19T22:43:00Z
-    webUrl: "https://www.manufacturing.net/artificial-intelligence/blog/22882290/how-generative-ai-could-revolutionize-manufacturing"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2023/12/Generative_AI.6582177d58359.png?auto=format%2Ccompress&fit=max&q=70&rect=91%2C171%2C3158%2C1775&w=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "How Your Organization Can Prepare for Generative AI"
     excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in"
     publishedDateTime: 2023-12-20T09:09:00Z
@@ -258,20 +244,6 @@ related:
       - url: "https://www.ibef.org/uploads/blog/1703067123_54f67ac84d35429b5e54.jpg"
         width: 704
         height: 419
-        isCached: true
-  - title: "How agencies will leverage virtual reality, generative AI over the next 2 years"
-    excerpt: "A new Deloitte report forecasts that “spatial computing and the industrial metaverse” will have growing applications for state and federal organizations and said that “investigating these technologies can help agencies get a leg up on the future."
-    publishedDateTime: 2023-12-19T21:35:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2023/12/how-agencies-will-leverage-virtual-reality-generative-ai-over-next-2-years/392888/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 35
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/12/19/121923VRAING/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
     excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."

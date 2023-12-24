@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tried-xs-anti-woke-grok-ai-chatbot-the-results-were-the-opposite-of-what-i-expected/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.emjreviews.com/wp-content/uploads/2023/12/Pic-1.jpg"
         width: 821
         height: 497
+        isCached: true
+  - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
+    excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
+    publishedDateTime: 2023-12-20T10:03:00Z
+    webUrl: "https://www.econotimes.com/Google-to-Restrict-Election-Related-Queries-for-Chatbot-Bard-and-Search-Experience-1668306"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 20
+    images:
+      - url: "https://f1.econotimes.com/2023/12/5w35ell8j1_th_1024x0.jpeg"
+        width: 1024
+        height: 614
         isCached: true
 
 secured: "uv2dNvL4qElBFpF+ncwFQmSUqydB17HPvDl/Y46RV/dgrdE+QjwPjEuHaFypLBcBH16YVtZUGPnczsaJGx/MJkLd7q2oLl2v4ZEVngtLufnEnzyU9/W0mN/EDFb2ooBj5DsQy6C7CA0yuT5G+HwvgMAaZP8MiIFwmEL4EQrNO3ngLsCunUi3a7uE41MlThVozCHbdUwx0OdR7m2cU7NOqCAauS5C4tanPdbfJKw5/zWfv/+pXF3d/7ehW+3wiPfZ4NjYSsaiNMRm5Hsc9EwlZTkN/jAnr4Vil5zsD1AsBW9XZ2ZXH3NTtDYv0snna8Qtf2hOl3gVTknksqDtw4IO9F6vRLe1dy2W7ID4+YO8iJJrVx+F7sJALlSKHK14uyvcxEB3WILoKDYZKVzgYQZ45AS2SQuLFaj3YSCYd+f6MPdfcZUeLD2nUa6mKSrEmceREoAhxQ8peoiNW2lEIdAZ6Xgqr3VFroOa40XIqCWxexwh7NjoFeKVytasaYJQI1pOm70UXRw3dceG8jMFCjb2+w==;Xi7QPMwZqiW4dmZ98TKQoQ=="

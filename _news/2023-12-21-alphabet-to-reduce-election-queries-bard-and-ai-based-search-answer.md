@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet to limit election queries Bard and AI-based search can answer"
-    excerpt: "Alphabet's Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run up to 2024 U.S. Presidential election."
-    publishedDateTime: 2023-12-19T21:46:00Z
-    webUrl: "https://www.cnbc.com/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107279974-1690906783801-gettyimages-1569405373-Omarques_01082023_techPOL_1_of_21.jpeg?v=1690906813"
-        width: 5000
-        height: 3327
-        isCached: true
   - title: "2024 election: Google to restrict queries from Bard, AI-based search"
     excerpt: "Google will restrict election-related queries from Bard and AI-based searches, Reuters reported. The announcement from the Alphabet company comes ahead of the pivotal 2024 US Presidential election."
     publishedDateTime: 2023-12-20T01:46:00Z
@@ -160,20 +144,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/MlyTWOS2jPk0xyLcfQMdQaSsHyX9BVEgft53EPdd.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Google to Restrict Election-Related Queries for Chatbot Bard, Search Experience"
-    excerpt: "Alphabets Google announced on Tuesday that it will implement restrictions on election-related queries for its chatbot, Bard, and search generative experience leading up to the 2024 U.S. Presidential election."
-    publishedDateTime: 2023-12-20T10:03:00Z
-    webUrl: "https://www.econotimes.com/Google-to-Restrict-Election-Related-Queries-for-Chatbot-Bard-and-Search-Experience-1668306"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 20
-    images:
-      - url: "https://f1.econotimes.com/2023/12/5w35ell8j1_th_1024x0.jpeg"
-        width: 1024
-        height: 614
         isCached: true
   - title: "Google restricting election-related responses on AI products ahead of 2024"
     excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."

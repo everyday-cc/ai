@@ -69,6 +69,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot plays constant companion to elderly"
+    excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
+    publishedDateTime: 2023-12-24T10:14:00Z
+    webUrl: "https://www.arkansasonline.com/news/2023/dec/24/robot-plays-constant-companion-to-elderly/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 19
 
 secured: "fAaHEC0EUKoCj4s4F9FP0l6WRT2zy8SRzCCwuxjrIbT8J2yRB5KUYbdJ2jV+xqfT6MpSVTvI95156fFAmPQR16KWFJTPCSpCZ5ztUCsCJQwavz49mazt8L84Pxvyt3vs4LOssMSgFHcklPzYWVzCYqwvvQ7Qi1/Hsx7tRX8kXr9mmITmBnNoDlxd1Sz+DL4kMjaarWrCvF03Vq9s+VIaA+xzWZhJLqHV5BBB7IW1+uH0TPp2LlNd737ex8SLSsxgkn2InWkU4v9ZLhFq1MMVlQZ3ycrYgAJufk8NrgfW1ei6+UxQrxYb1ObeNdkrQM0ZFA8r3J2PObNgm3CDkH8wc1MM17om1mgUl4zB82FaRO1i1XrtgNucF4jq9pbgc+G8ZyQDYDQmo200u/MahcnE6dyjHa/1/9tlllEacIG6dMUsXSqjJ1TsiL4i9uOklc5a6vxNHgXJvIUqIk0lkxOssZMxGPuoLwOUuf7NJ28xEKQHv/LOfoPbMhFNdfFosW7KFwJKVP1KN8jkLPl3YNJ8+Q==;ZectuAqADfaPDHfKKwyNYw=="
 ---

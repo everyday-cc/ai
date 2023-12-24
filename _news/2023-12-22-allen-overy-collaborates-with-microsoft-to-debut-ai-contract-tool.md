@@ -183,20 +183,6 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "LTIMindtree and Microsoft collaborate to deliver an AI-powered employee experience"
-    excerpt: "LTIMindtree, a global technology consulting and digital solutions company, is announcing a strategic collaboration with Microsoft to drive the delivery of effective and personalized employee and customer experiences."
-    publishedDateTime: 2023-12-19T20:00:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/LTIMindtree-and-Microsoft-collaborate-to-deliver-an-AI-powered-employee-experience-161923.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 48
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
-        isCached: true
   - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
     excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."
     publishedDateTime: 2023-12-20T09:42:00Z
@@ -261,24 +247,6 @@ related:
       name: sensorsandsystems.com
       domain: sensorsandsystems.com
     quality: 32
-  - title: "Microsoft's Semantic Kernel SDK Ships with AI Agents, Plugins, Planners and Personas"
-    excerpt: "Microsoft's Semantic Kernel AI SDK has new documentation to explain its capability to create AI agents that can interact with users, answer questions, call existing code, automate processes and perform various other tasks."
-    publishedDateTime: 2023-12-19T20:31:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2023/12/19/semantic-kernel-v1.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 27
-  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
-    excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
-    publishedDateTime: 2023-12-19T22:21:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 22
   - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
     excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
     publishedDateTime: 2023-12-21T20:50:00Z
@@ -287,6 +255,15 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
+    quality: 22
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
+    publishedDateTime: 2023-12-23T18:02:00Z
+    webUrl: "https://www.afp.com/pt/news/1313/ltimindtree-collaborates-microsoft-deliver-ai-powered-employee-engagement-applications-202312189544151"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
     quality: 22
 
 secured: "mcQrqsn8DZILXc/yeFRUarW4vpr+hBDVsPrWpOQDuLku5OJ5GW5VN6KaiABdb/a6Jew8jUEQp4kRMMR/GMtpWxKtw2lyC5yUiT0SSkpOj90Lq1okGRTIRLcHLzKsTXXRN2ErurGN6JBPB0dyM9GzwcfWIx8HBvcajKZ0FqUb/04tvqoKC4SA7dz5osXv1HK4k+oXjJ0sOgNqLGSpr/1GwCApnpq36luSW21CnsHIxqpMl7bFQJuD43MS773LslvYVEdmPiihiK7ygtaHTrgErE00muK1vmV5rP+zRE+zxuUdk5UgKKMqAv8q1uQHlq2ZAXfujIzJpcekL+M/BB5bIAxvE5un0raE7+fPC0bATh4=;MegaB2Bfma1vW2o0jgjS7g=="

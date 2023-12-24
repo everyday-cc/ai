@@ -39,6 +39,15 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Neobank Bunq rolls out customer-facing gen AI tool"
+    excerpt: "The new tool, called Finn, replaces the search function on Bunq’s app, allowing consumers to plan their finances, budget, navigate the platform and find transactions."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://www.bankingdive.com/news/dutch-neobank-bunq-gen-ai-tool-fintech-ali-niknam/703114/"
+    type: article
+    provider:
+      name: bankingdive
+      domain: bankingdive.com
+    quality: 34
 
 secured: "b4dk0YVWT9SmwUvbcfESyOH+xwYLwzGUXBfHu+le09NaTu1AYkSS673KWNj04r+PR/tfKDWWG56AMjb+bmFNYToeXHW70m0qSPTpVzEMKxpfEPUe5jkVmvW/iXiKAe++ORWDbIJuWNTb6Ma58HHZ7YH2BljN8Q1J5vNm4M3xHzVaFJuBUSm/u/M9b4TZWiUQPMMtB8B7rise6cp324LToI/nz6xwb8hmSKkjd917XPLue1JEx8cXALtWVwZSoWjLFPmYb/2FhsdpOUssYvPQun93voqFKUKbJ/5A++YzXzD/NIRE7SyOEhsQSiY0RFLTOTJyf5Ps68Czn0xIjsPytW5eL8Kebmf9X50kRFwy9xM0s4OlwZoIMDYRetaB0GCHTyiCOsFqt/OziqWXAdGDXNqhoKWZVCCl+UkRdGNiMfB3dx4m+Fd6cQ01jgHxp61LtrPaOvmO9HF5CCXtvRWQ9hxmE8rmXdt7Upx6pMCvmd7avNbvBIt5eTrN1rg0sfI+l2qtEs9sNZjVTzfpE7YUqA==;SJdZ0YnFpiEllpJMYw/PWQ=="
 ---

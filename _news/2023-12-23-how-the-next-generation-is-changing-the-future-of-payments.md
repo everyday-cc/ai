@@ -48,15 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here's Google's strategy for navigating the 2024 US election chaos"
-    excerpt: "Google is taking precautionary measures ahead of the 2024 US elections to combat the spread of AI-related misinformation, including requiring disclosure of AI-altered ads and notifying viewers of AI-generated content in YouTube videos."
-    publishedDateTime: 2023-12-19T19:09:00Z
-    webUrl: "https://www.androidpolice.com/google-2024-us-elections-ai-misinformation-policy/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
 
 secured: "IJfz2aYL/rPMGEg32Lur8VB1glCiDTVDfT9k5iUxu3wiuaKaxTJUDB0EJqQWr+0Y7SdiYt2RtUB+8FhRsVRTk3M6gQHkXxQhJKeEEzZbwau7LqQytzLC5axOw/PZNICGh5Cd69DqVB1MxFm02irKJNPxvfxp78DtnsgSXmY53SwPV5rn07qSY7f9eJ4esdDzLUCegKSrSb6LJ59OPz2n+c0PXzdCYK1FJfAtuxxM7eTi71oKbmTxbmp6tfTSu4xjZHa0K79steEOgm3VPsFCmY6QcWRTE3MT9zK6m9FhwojecHvu33grn/22SI4of7YNhXz432Lj6zPTjn1aLxDlUyliNkOsPakH5xzVpNval8HYLqaEI0OdNaszaQv2i79H0nfXEB5eNsHNjdADD4UeBLi5zNKKKXM5wvCTYYBxeQtHHG2ixaYP5hSAhFViHKPoeFEmO2gB8kzFyg90yrz2lubtoXxo9/NusxHTYoQYuUtQH0lMXefNIlEKpP8oOq2tpp2ij5Eo7jl9QFzfzHcE+Q==;3sHc1rUXx3VTtmaLWSrn6w=="
 ---
