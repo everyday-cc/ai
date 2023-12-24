@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
-publishedDateTime: 2023-12-19T09:06:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
+excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
+publishedDateTime: 2023-12-19T10:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Revolutionizing Performance Reviews With Generative AI"
@@ -118,6 +112,6 @@ related:
       domain: businesswire.com
     quality: 6
 
-secured: "5UDcMvqMCBGsoZjvyExjoLFsQn1xnZUP7weGmdPbqOVMI0FUORzeIVsDthavYGoJLLjzQrZZbM+W7cQLr8ZEdFD8HADDlQGQRpMnNurMuJggLOmq25Z+LpbTwXpo9i1JLW0t/pQi/mb4yb20PbyRZW+8Ig76+g7yCb9OMb0sCA4H++kPj80a/AI2zj9pLDknZqQPt1CfuwBJPPbeyTPKirkIlIOdRJDM9t7xpT79rCgQ/PpNJdnBHw7wpjQLAt97VRKM8MXszEBKjcMFHsCeApX2OFpFkbgCCh6ch7nkCcGz+96bSrNPHuzgce55RujKZgjcKa6453ScUMSdJY14rQhFtBtbH5U0sm4SuYVaD/8=;Sqa6cYZUsZSs6F9a9cCvmg=="
+secured: "teRNJCruG6OdjQiL1c+iTn58W8MrrYIFzDKeq0BuC9poAjg30iTQzDnR4ahmGGiV8RMOgRCGHFULjYt6BgUH/XZ8ghVJLs+81PTnCSrVTBU6PCW3XWtBg5zgNicAjcbVsluIKxKHcGwgMeaozBwFn4PmGAG80lYqsMkfbnyX4GiGjwz6gnrmabCkQY+7N05gaeYc0K+WcQ4eqzxvbh2/zEK7GscRsE4EeLDWzzCM0qyR9GcczMDa6DP+7mbHWBLvOc7TghqcMoJPYDKzT9Cflq1KSs/HqeFl38tcb0HHzYY6RB8TvZ1nzSOap2iM3Yqz1B2U9E+RBiPz/DwDwQh9NlEVtZFhMVnyYjmnJxj/ErY=;JoE84SsV7xwF8NmUAvqCqw=="
 ---
 

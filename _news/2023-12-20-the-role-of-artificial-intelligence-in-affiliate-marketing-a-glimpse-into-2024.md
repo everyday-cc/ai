@@ -142,6 +142,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
+    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
+    publishedDateTime: 2023-12-23T19:16:00Z
+    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_A_double_helix_spiral_made_of_glowing_green_computer_f8394a15-b3e9-416a-9e23-6aaabf2e88a6-1.png?w=1200&strip=all"
+        width: 858
+        height: 686
+        isCached: true
   - title: "Examining Generative AI's Transformative Effects"
     excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
     publishedDateTime: 2023-12-19T14:59:00Z
@@ -171,6 +185,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "How generative AI is changing social media content"
+    excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
+    publishedDateTime: 2023-12-24T01:07:00Z
+    webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
+    ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
     excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
@@ -203,15 +233,6 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
-  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
-    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
-    publishedDateTime: 2023-12-23T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
     quality: 47
   - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
     excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."

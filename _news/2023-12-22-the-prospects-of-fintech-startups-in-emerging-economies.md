@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
         width: 960
         height: 1280
-        isCached: true
-  - title: "Dubai FinTech Summit 2024: Catalysing the MEASA Financial Ecosystem"
-    excerpt: "The Dubai FinTech Summit is a strategic platform aligned with Dubai's vision to become one of the top four global financial hubs by 2033."
-    publishedDateTime: 2023-12-19T02:56:00Z
-    webUrl: "https://gulfbusiness.com/dubai-fintech-summit-2024-catalysing-the-measa-financial-ecosystem/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 39
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/07/DIFC-innovation-Hub-launches-FinTech-Accelerator-Programme-2023-Image-Dubai-Media-Office-DIFC.jpeg"
-        width: 930
-        height: 620
         isCached: true
   - title: "The Future of Finance: Exploring the Best Fintech Companies"
     excerpt: "Are you ready to step into the future of finance? The financial industry has undergone a major transformation in recent years, thanks to the rise of financial technology or “fintech” companies. These innovative startups are revolutionizing the way we save,"

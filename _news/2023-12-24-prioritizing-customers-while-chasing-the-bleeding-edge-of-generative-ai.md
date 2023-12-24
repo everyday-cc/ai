@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-23T19:16:00Z
 originalUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
 webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
 type: article
-quality: 47
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,13 @@ provider:
 
 topics:
   - AI
+  - Meta AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_A_double_helix_spiral_made_of_glowing_green_computer_f8394a15-b3e9-416a-9e23-6aaabf2e88a6-1.png?w=1200&strip=all"
+    width: 858
+    height: 686
+    isCached: true
 
 related:
   - title: "How To Maximize The Power Of Generative AI In Sales And Marketing"
@@ -168,6 +175,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2023/12/GenAI_Uncertain_Selman_RGB2.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "How generative AI is changing social media content"
+    excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
+    publishedDateTime: 2023-12-24T01:07:00Z
+    webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
+    ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 59
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
     excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
@@ -401,6 +424,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "KyoCqJ+5gtQAjvg4ZsK9bGqlS2JXmxE49Mac1HTtdofd2QV90TB8y4gWIKY2kIemVci2j9WAiSgowXpyDUq33F8rHwEaHW1T0pOGxI8fKxe1JEO4LGwi7Mf6/ytXP9HqlcxsRuHEpFgCR0Ndz3Hq3oNkLAfgn1ouf6VewTstFhEe814DQ7w20tPj3hkROHI65vtbVN2FI2UBWpYC5d4l0gbWNbocILIj7PSf0YD2qrQIrQiB6gPPiVfpZOzR4FjaaKSvImAEJyEFW1uUm1y/X5NCCn5PvfLLbkBWsFyrbl/XqXLio1728JUq1J5jAJ2srddXngCyAPyAQDg4T9Y3RD1N5Ioe2+XujNx2YMnCfVonsWS9g4hr1aqQbG7ZpiXT4riezCg6zOYG+2v9cQlbHLrHV5iREm+cjLWcTB90KNlf71R1p26FehrOOFMeBQVGxlpzLc1e4136IiRBPVtJkKXaEyS24hhp/mNH2HAn5iom89Rlrn5sDvrDXyY+ZbwL8SXkYssZ19/iqG+Ahibxuw==;9SIaSzq0ojNxPXo9aU4Ocw=="
+secured: "S5CogmsW+R+wBIgB4fvHR6StNEuoxxvVFAI/iVvclsAmO3MrQ6/NjtIjimawGWbQqJU00omQwSb9MjM7Qd2WDhb28sQb7lEFE/CRjNP4yQPDi6bKbJtNQBfdQbuTG+TMRDI9tz2S6Xz4eGbRiw6hEDyjV1l+xExxZXPqFsZ0m88qOmGnZCe6V0uCAO1Uw0sSAv+Aso9H+gGq3YFlB/SwwWO5LgRssTnq2CYI1TPuZRe7MY3un+KZBKNz8qipoevPw9zgpIpI2kJhfrR/n1er2RlgSYUisjNAGu5w5+ptM5JarXbpkJ3T5ZdKet902XYJhKwvnUkfj8GjmxerjaiqbyMIFvQytb+C5NZa0Ds8tn8=;vJLrXEz2RZgVsOI82sLm3w=="
 ---
 

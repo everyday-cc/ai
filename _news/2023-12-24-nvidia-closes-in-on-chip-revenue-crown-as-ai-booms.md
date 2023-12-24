@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia closes in on chip revenue crown as AI booms"
 excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
-publishedDateTime: 2023-12-23T21:14:00Z
-originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
-webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
+publishedDateTime: 2023-12-24T01:05:00Z
+originalUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
+webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
 type: article
 quality: 54
 heat: -1
@@ -125,6 +125,6 @@ related:
       domain: extremetech.com
     quality: 15
 
-secured: "Pbh3JYA2Fc9A8ysLemDx+uBH+AFLz1qDV+tfXk2qZjs7td8+MvcDkTjecoiyJGPjvz1H0zFarzzaWTELFM0nB0zAMi7EHOQeK1MNmERe2fZePisj552/ecFVLejtz0z1nQs6+O7b6axj1gOsU4DPxXoJKecbRn2ZgJ5xTAhK1NbmYFcwFoBUqVyHdY4GjNrnNdGUMQulwqzW3JbPLXzZ82Lyk7dDZEqkQ34tO2L2OcG7tDW8WXc5xrk6AetXDfgJEpsWp54CIvql9Z3dTYjbCaxhYEE8TrTV8+1+mM6lSQpitd5+5BHX+fwZiZ8Z9qcHN33QP/srbamQqQ/Vqst4S7efeNr0AJN/gmPd6IU0TwM=;mOMx7zfY1+I/o6lNCihUAQ=="
+secured: "h2n7o7parC+uif4a7Odztz240B+uNPy0ztpBfffrC7fAREVCXJ/7jctBVXoSbSpucC1YehvGbb0cvkQe5VimK/JTZeTnf8jQcKvR5YXA5zyaxRoZgVHuAyQ2b/Jlp5JzBfi9mNsGnebBa/Cw3QmHfAiIsSi6apHaU6xsQduOhvEXcPMmhFtp1WuZd/bHVAvZhLpD+rW/cZg5km4yte+S8WBGoMcod4iEykILpJ+15SrJKtA0Pk0FtmELYPVvtHCYi/mLTTTbV2d/gVn6jd858i/DB9edv44mn3M3FMXxWLramuzESOIAndQzP8JZCyFXh4WhFEP0pLT9pbBySUaFtraVGhQY6Z/O1wjUDVgsuOc=;a7DvUTeuDSPoHgYD24B77g=="
 ---
 

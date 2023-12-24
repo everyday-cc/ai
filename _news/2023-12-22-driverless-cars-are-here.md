@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving cars are rolling out in LA. Are they safe?"
-    excerpt: "A series of high-profile accidents involving autonomous vehicles has some Angelenos nervous about their future in the city."
-    publishedDateTime: 2023-12-19T02:08:00Z
-    webUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-risks"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 24
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
-        isCached: true
   - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
     excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
     publishedDateTime: 2023-12-20T20:40:00Z

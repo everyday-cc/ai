@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
-excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
-publishedDateTime: 2023-12-22T13:30:00Z
-originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/why-generative-ai-is-a-cio-nightmare-and-how-to-fix-that/"
-webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/why-generative-ai-is-a-cio-nightmare-and-how-to-fix-that/"
+title: "How generative AI is changing social media content"
+excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
+publishedDateTime: 2023-12-24T01:07:00Z
+originalUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
+webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
+ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
 type: article
-quality: 49
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Punch Newspapers
+  domain: punchng.com
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
+    width: 700
+    height: 400
+    isCached: true
 
 related:
   - title: "How To Maximize The Power Of Generative AI In Sales And Marketing"
@@ -184,22 +188,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "How generative AI is changing social media content"
-    excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
-    publishedDateTime: 2023-12-24T01:07:00Z
-    webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
-    ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
     excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
     publishedDateTime: 2023-12-22T02:52:00Z
@@ -228,6 +216,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
+    excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
+    publishedDateTime: 2023-12-22T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/why-generative-ai-is-a-cio-nightmare-and-how-to-fix-that/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Risks of unleashing generative AI on company data"
     excerpt: "Ken D. Kumayama and Pramode Chiruvolu of Skadden, Arps, Slate, Meagher & Flom LLP discuss risks that can arise when companies train or prompt GenAI models with data, including infringement of intellectual property rights and disclosure of confidential information."
     publishedDateTime: 2023-12-22T13:13:00Z
@@ -423,6 +420,6 @@ related:
       domain: tmcnet.com
     quality: 1
 
-secured: "SbOLiGshtzpZL23dpzE6NnJgBH2JEMJ3I+fSjhNJ5S0Y/CHCKOyEHLruxTj0YoOs+hyX1gflOea7yiTfxB8KQLnybiO1H1T5qrFLT3S9NwxW0L2R5zvj67TIy927g9TxqKQqc1qf7OkUaLPXX+O76Nj+vojCMg/iLfYIcncHPdlWeTHWJcQUwUoNwt/vOU2YllsxO4UF3A/C/vqebfb6AGqH9ahOMb3Lumt4niAe50Q65aAkyQ1K8MgXYIMwAE67v0IwPcXOQpS5oTj0bVjoPSR78WIi0KWJTaTfKBr1Kdffwg1L7aknt1zvlJSSda223I1eeYxOixTrGv1m+rKg5x8Xz7CMdEdXfSzOIMHTL8mAl5j1l0pVc4GQkveWhOY7Bw+/bzfDMMNI+UzlKtsbAhXNHwQLlMzt/NreE71PsSifMh4exGvAlUZHNjh2skCXiGbTHLzhSYKtPB7wsRnb7IfQG8AarRdow3Rmpa1SA3kyF+nTySSimVT86S1JRM23c5U2JAbS9LLTPLSYYZDvSA==;Ver7gbZcvwUv25Xqasds5Q=="
+secured: "Y4wUhUABWxi0HV6r7roeB4KJhZtHFvAEcjnBi2z8XkzLirKAXugIw10NtzuRN6ZDDMn1jPLhktycdLJTc/VcQi7pSDT/cpNkuqbNSkJ2TTUUP+k3gKaNuVMENmYWHhSTWhWvReurG+2/PYy6g0E5fJWtC2pdbpacSe2uCFZ/WB3r5XGXBLoAmOcG093sNQYymMcPj7jq2qSZuiGGUEi/l+tWHrLRvCdhqyss6qhG3T3+0RSIM/FI5CMIVA4KSIVRiLw9L3Tfg+8jLNG6naXAqeBZOxGCcm6/Sjagx7RpoEAEl1ZaFgIb9RQQ933zqsdnY7nwjyZhHySyyR0dZ1tfBcxWwVmEueWBnrJOyNx0BjA=;R50OdbgrYgMjeT/xQHDOYA=="
 ---
 

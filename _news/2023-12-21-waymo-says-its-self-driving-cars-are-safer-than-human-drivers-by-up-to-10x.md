@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-ar
 webUrl: "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.theintermountain.com/images/2016/09/26134117/fblike.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Self-driving cars are rolling out in LA. Are they safe?"
-    excerpt: "A series of high-profile accidents involving autonomous vehicles has some Angelenos nervous about their future in the city."
-    publishedDateTime: 2023-12-19T02:08:00Z
-    webUrl: "https://www.kcrw.com/news/shows/greater-la/waymo/driverless-cars-risks"
-    type: article
-    provider:
-      name: KCRW
-      domain: kcrw.com
-    quality: 24
-    images:
-      - url: "https://www.kcrw.com/++theme++kcrw.theme/images/KCRW_Logo_White.png"
-        width: 542
-        height: 384
         isCached: true
   - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
     excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."

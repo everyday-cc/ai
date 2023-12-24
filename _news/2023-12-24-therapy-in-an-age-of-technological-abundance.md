@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Therapy in an Age of Technological Abundance"
-excerpt: "but something between these suggests that unlimited therapy will be somewhat more complex in its deliverances. As I noted at the outset, this entire discussion presupposes a certain amount of optimism about technology, particularly artificial intelligence ..."
-publishedDateTime: 2023-12-23T19:57:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance"
-webUrl: "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp"
+excerpt: "For many people today, therapy is difficult to obtain and expensive. If therapy were more widely available, presumably, more people would avail themselves of it. People who now ca"
+publishedDateTime: 2023-12-23T19:49:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance"
+webUrl: "https://www.psychologytoday.com/us/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "CLmGxOfOtHoqYlru4XLvDPEmp10THIPNpGTE03LHfmL1eUzLiVby70ppcXx1OmzFk5777oXIUcpYTtU932PkiFNSq44O/TdqiioRThf5zSO12Wk7dWAfXdltM8JP1ef4cVque4ZF9X5a4ZIsfgZLRqh6SEv44dFbrsWfNKncom47K9DKLQ8u8ef+Y31iQSlFJadBKDb3EdduD+FJkoF9HSF8cdduCHa745qJ+NNWIT26iwnaqE4SWJ7SzFWkOZrtx50IdYGYA53CuGo0mpeA6gGeqQHzDdClfZqUVfbp801F15xNEmqM8K0JAHFRn6Jbu1YpRID5SlKzdC6hRNFWxpAUTkJK5wUdMDhkHzKp5lxMjGl2Fi8sD02rZcbcfCZrcucuF0dnlSOE6BIQpCTSxUibT8ltv2hyD3j0JzaNvuNwC0Wi4vbS5A4HTcb50YBtktN7LLE6mRvLqUf28d01kHqvqJ8aYoe2Vl6XHzYOxzLHT431LsXqdlEOmNqR0It1O4HZS84cqSEtRNxjP2t7vQ==;evSULY8MPy6MiZZgNg5REQ=="
+secured: "dWjkoKClxvKf4cDQZ1IVUS9OEB0aA+n1KzxRs8HcWVUTiXXqs4pdcrrS8qZW4Svb7Js+rdswcQnCgSaivM2H1o6+t9hfaH5fm29Bn/Woipk5VWIcFTwKhKrurZvm23h+2PEdarxyfZpaFW5VrN7lOZ1znhqrL/lAw1/emppFejqay9xcVRGlAUtyV3p/vQB6cR4o3hRhcpKWuwNQHHQViFHMqy70yzAQJTUnTZm6UEI0KkwlXhu4rldgdr9wTZilcZ8HFJgPLghDkKKMfoXbCEY9JiuZm9/qoLIWB5Guj/9FaRCb8COMabAcGT5iTXcKrY6G5H/91ac+YXzyjrT8loruWY22HxhbqUtrQ5p7HGc=;gNmyoGoBTe9adDQs+zlpsA=="
 ---
 

@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Nvidia closes in on chip revenue crown as AI booms"
     excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
-    publishedDateTime: 2023-12-23T21:14:00Z
-    webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
+    publishedDateTime: 2023-12-24T01:05:00Z
+    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
     type: article
     provider:
       name: Nikkei Asia
