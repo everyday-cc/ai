@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why 2023 was a such bumpy ride for self-driving cars in The City"
+    excerpt: "All autonomous-vehicle driven roads led to San Francisco in 2023. Cruise and Waymo reached several key milestones in 2023, highlighted by a pivotal CPUC vote, which cleared the way for both companies to expand full-bore throughout San Francisco. But as AVs ..."
+    publishedDateTime: 2023-12-24T00:00:00Z
+    webUrl: "https://www.sfexaminer.com/news/transit/cruise-downfall-in-sf-defined-2023-for-autonomous-vehicles/article_fd633bb2-a043-11ee-95bb-af856b305f07.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/78/2784d072-a053-11ee-8758-a31968fe4516/6584c0e614164.image.jpg?crop=1500%2C788%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "STOSSEL: Enjoy the ride"
     excerpt: "Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for “Way Forward in Mobility.” Regulators in San Francisco and Phoenix legalized Waymo cars because the robo-cars drive better than people do."
     publishedDateTime: 2023-12-22T00:00:00Z

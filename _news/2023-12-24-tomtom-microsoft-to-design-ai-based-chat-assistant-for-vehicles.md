@@ -1,22 +1,28 @@
 ---
 category: news
-title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
-excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
-publishedDateTime: 2023-12-19T22:21:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
+title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+publishedDateTime: 2023-12-24T07:08:00Z
+originalUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
 type: article
-quality: 22
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Microsoft 365 Copilot Set To Provide A Generative AI Revenue Boost"
@@ -225,20 +231,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
-    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
-    publishedDateTime: 2023-12-24T07:08:00Z
-    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
     excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
     publishedDateTime: 2023-12-20T10:01:00Z
@@ -395,6 +387,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 22
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
+    publishedDateTime: 2023-12-19T22:21:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231219/4150471.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 22
   - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
     excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
     publishedDateTime: 2023-12-21T20:50:00Z
@@ -414,6 +415,6 @@ related:
       domain: windowscentral.com
     quality: 21
 
-secured: "OVjPV1ph01uU6NuNAZU/grHBRBUux3gqyHqhaRTSNIiZoO7j5/q5z+AJ2wZTt2Z0OkL3RyEPrNP8i9WrIkBDHFefEaNeg+zLpTSoPeJZCKbDuq1iBJsaihQ7kJpxJ5o09uYYCl+FnNHfXHtff7eBRY14jxfFkRYkjHJN64PMyl4P1R/m3LkomCa0kQwUIsV/xk8qqzDYR0jLg/Ux9nwOujidBa9z97CW5NkN5T/z8k3Ze29Mvew57SoPN7pr+V1RgJ8Qdt/GtX8k4UVeku0t7ay43VCD/PfQKaDI/n3WbNXa9PhmBy6LXM6SRNzDz/cKLpYaKMkZUIXsiyXwCGEDP/m/lWRzqUFOiAYwv7EIyuw=;GiUTd27RRAg262Ify0d0ng=="
+secured: "wiAmB+YHYTeWq5HXs/aPXln/zbs9uroeVIqSv/mfUOPizcVa3jo5YSL3yvJgActvkgnxh59olh+gGhK9o9RSo7ISFaHe6OUb4vR1Bzj/SpJsXmUUWuuHUnDx8RfWDdBAcrO7Vofi7fg6cqL7fQhweY8ngEW1I1Bduf7t1LCBEfy5v2UhfrCafmszKKbOZeZdNzQRVo60g0kt0R6dAdaPlCVABErIyVGLY+MBgaNCZAYinkK/XJIwJ2lS5TU3p2dvk7+fEYeDz9kZAHx047Rhb4Q6YuTQIfiCRWtKpwBt/lkeMO/g7elR2bA1NGMb3GgbPQ/s7jcWuh6RdsvqeNswDdvqoD2t1vOUKxRvHu7Q4Y4=;lV/0mNc+cUtFybptTUdrXg=="
 ---
 

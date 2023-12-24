@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Sidewalk Entertainment to Showcase Real-time Motion Tracking AI Tech at CES 2024"
-    excerpt: "After MWC 2023, at CES 2024, Sidewalk Entertainment will demonstrate avatar's real-time synchronization with user movements and their intention"
-    publishedDateTime: 2023-12-19T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sidewalk-entertainment-to-showcase-real-time-motion-tracking-ai-tech-at-ces-2024-1032912471"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "iPhone 15 Pro's iOS 17.2 Update Unleashes Advanced Speech Translation with Context Recognition"
     excerpt: "The device's Action Button now includes new technology that allows users to translate speech into other languages, representing a substantial increase in language capabilities., Technology & Science News,"
     publishedDateTime: 2023-12-20T12:58:00Z

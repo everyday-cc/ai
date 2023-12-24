@@ -32,7 +32,7 @@ related:
   - title: "Why AI is a disaster for the climate"
     excerpt: "Amid all the hysteria about ChatGPT and co, one thing is being missed: how energy-intensive the technology is"
     publishedDateTime: 2023-12-23T15:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=biztoc.com"
+    webUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=mc.news"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology"
     type: article

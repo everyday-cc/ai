@@ -55,6 +55,20 @@ related:
         width: 4640
         height: 3476
         isCached: true
+  - title: "Revolutionizing Language Translation: PM Modi uses AI Tool to Speak in Tamil in Latest Speech"
+    excerpt: "Discover how the AI-based translation tool, Bhashini, is bridging the language gap in Indias linguistically diverse society, in PM Modis latest speech."
+    publishedDateTime: 2023-12-20T11:57:00Z
+    webUrl: "https://www.gizbot.com/news/revolutionizing-language-translation-pm-modi-ai-tool-speak-tamil-latest-speech-gen-089243.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 28
+    images:
+      - url: "https://www.gizbot.com/img/2023/12/pm-modi-latest-speech-ai-tool-1703073426.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "IxaIApyLtRvnRJcETje5E7xKyJQAwaUktMnmIMwyyrD+L/niN4Sw6zH3+IFYPEtNHcOqnwOaLAjO1IeN2mYhasW7V1i3+gEI54dLt2LICoSxoWDUY/O/W1cXaGDNbKLHUElYmzgZ6nxLZ96IPUtodoFlLTwzOY869OuXT0htu3/C1zKVqs4oKIJgo8Tb7ty/dyqAYpc+ONcLdoZlirTM8cUCY0hr5mfbc9Uk1AI1ak6hAdLzctl0WGYqFSPzjwOjGG6Ufy/HH5jIsW7cu22Pe2nSyKfBJx960+IG72otEIVwiXLOCURhlpvguUHNk7Y/ydJzQHB4BsPZ0EnGFeAg7kChJKGanjj9zyWiIy+5lH0=;3xUzN1Xz/gnxh/n/rp5kSA=="
 ---

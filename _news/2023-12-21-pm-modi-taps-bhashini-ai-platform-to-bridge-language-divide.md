@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-106122854,width-1070,height-580,imgsize-26491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1070
         height: 578
+        isCached: true
+  - title: "Revolutionizing Language Translation: PM Modi uses AI Tool to Speak in Tamil in Latest Speech"
+    excerpt: "Discover how the AI-based translation tool, Bhashini, is bridging the language gap in Indias linguistically diverse society, in PM Modis latest speech."
+    publishedDateTime: 2023-12-20T11:57:00Z
+    webUrl: "https://www.gizbot.com/news/revolutionizing-language-translation-pm-modi-ai-tool-speak-tamil-latest-speech-gen-089243.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 28
+    images:
+      - url: "https://www.gizbot.com/img/2023/12/pm-modi-latest-speech-ai-tool-1703073426.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "cYvM5NADAn2lPAZN76uX3uxTLGD9SXQJ5PJYcNGN5fRgjo4Mldn9yvERCVUdPTgk/+Aw2O2CzuTiFhjmTgO/xi8CzkTFFN+gkzT8NAIeui1jHMJZASai0i5LoyJJMNW48Oh2FLYBGaTjkmKujHRGGjxkVm8YCnumJ/6r+u/fIQBzxjcMXCDwkmO6brvGSdxmu8263jmYVzRU0tl9bdurK8wd/hkfKwfCMRN2azByTmEfQUbz7jcyWj4l3p0bxljsYiXlnncKwzcvy8rw/i9VB/h300I8PajPT24QLq8QaM8cKQdAuJyUalzJuTrlMXLhtzHN2HvuAp3W5aD49UTe0lN56g5PTMtP1l5NzQrUzFXHXB3kzhlSfL/huZDlG6i7xjMntzIOMDZAxTurG/I7B3jNRsm92sMmgeSQK53G+qDPV0T4E2sUzkQG6/cmjR9rug7wyKhZZ7Mjweqi9/Vd2lM6Sbc0QoFfa8fVXrFg100sQzywqFEhXUmzJ9EgUu7QygwRb+d/IMEuYeVHx682WQ==;6kBSg+/4Z4WplhLoTwZyJA=="

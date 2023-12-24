@@ -3,8 +3,8 @@ category: news
 title: "Why AI is a disaster for the climate"
 excerpt: "Amid all the hysteria about ChatGPT and co, one thing is being missed: how energy-intensive the technology is"
 publishedDateTime: 2023-12-23T15:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=biztoc.com"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=mc.news"
+webUrl: "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "zFNPRA9fpk0JIr/nVDdRXy4c3pL9Ibn/yeNNWzl0/WgmS4XFlYPgeVU2mvdubmGtq7o9wUHOJnHRIBUj8e4gHQL4dPiSN94Y2svIrrZEYfMLck6FzO9L0p+k8PwCfPYO0+NyrddiuJhgfhAYzumpaiw38cNOVwjNiykAchYDbRoYBey7iT41wVXyee1fK/9z/2w0g+QGH6Gge/N3YleQVRqvKX3OzLeBqu0rHl/ZI/KicIwa4lOYJgnOhldPJj+YIVo2cMXwFAY+ARgIgXy3ofPCa6hoorxw79qw5iuIUblZI7wK4VWh8Shp7ILXRU/ko6LnQDfzlRe6PXZwCtGDNlYetet/BwIucVnHGNDXTLoQIYNMpelvrhv7pnNDpfxnw6PYAnYyC+k/Mhr1XTjDsEv+Q15EznraeeVxA+LNiiaQ40YCkdIeMoeqYMdMV61LbwdlNabBQblW2eG7FJUyu8Or/Iv6ZpP4egJME9jyqdMUs2QjS3cff6e8afDjHLqEfWFJqLSyBXzD2M5MmLe8/A==;YurTLb/H6TAwhsMVyT23QQ=="
+secured: "awApY94cS6HM9v1rTkMv5kCxby3PobFXJqUx+F7/iCsBd7vjBgvwFcVz9os9Thrz2gIqgVdNBDoSiKi1QZNmR9Q6XG8si+Z5Nmone60QLuXMJDnSs6LmcWgT4fxUwS8xTWxEj3JqaOZsW3l6RpP9ny3O0qV3sM1TE0ckbvd3s8gtP9b63i3cTLMV8ySXLrHjwRtyhO4Ys3VX+PS7CWtJPyaTWVSBa9rM6/SGZq5b9EzJ9443aP3tfQLqyKmNoJ5lPPbAXKWOumJVw0ni6BksqGnSvSOQa5ZsuE+8gq/yf9wLadxYMTYKTRpzLOcwsYigO7gU0gVOuUGiWsZjyGT8lwtkWJa+deVADl9cIoqaIWE=;AJKN1EHSrK1s6TDbESLScg=="
 ---
 

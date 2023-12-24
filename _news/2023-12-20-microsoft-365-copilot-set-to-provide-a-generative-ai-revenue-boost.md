@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/amp/"
 type: article
 quality: 104
-heat: 434
+heat: 424
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2FAI-assistant-vehicle-.jpg&signature=abf53810844f2f4c7dd5b797cd3d1daf"
         width: 1280
         height: 640
-        isCached: true
-  - title: "TomTom and Microsoft are teaming up to bring (more) AI to your car"
-    excerpt: "Do you know what the world needs more of this morning? That's right -- AI. TomTom and Microsoft, apparently mistaking our sarcasm for"
-    publishedDateTime: 2023-12-19T08:43:00Z
-    webUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/"
-    ampWebUrl: "https://stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
-    cdnAmpWebUrl: "https://stuff-co-za.cdn.ampproject.org/c/s/stuff.co.za/2023/12/19/ai-powered-voice-assistant-thanks-to-tomtom/?amp=1"
-    type: article
-    provider:
-      name: stuff.co.za
-      domain: stuff.co.za
-    quality: 74
-    images:
-      - url: "https://stuff.co.za/wp-content/uploads/2023/12/TomTom-sat-nav-header-AI.png"
-        width: 1600
-        height: 1000
         isCached: true
   - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
     excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
@@ -184,20 +168,6 @@ related:
         width: 1068
         height: 580
         isCached: true
-  - title: "TomTom and Microsoft bringing generative AI to cars"
-    excerpt: "The engine powering this AI revolution is a potent combination of TomTom’s expertise in mapmaking, traffic data, and driver behavior analysis, and Microsoft’s Azure OpenAI service, a powerful platform for developing and deploying cutting-edge generative AI models."
-    publishedDateTime: 2023-12-19T07:08:00Z
-    webUrl: "https://www.absolutegeeks.com/article/geek-stream/tomtom-and-microsoft-bringing-generative-ai-to-cars/"
-    type: article
-    provider:
-      name: absolutegeeks.com
-      domain: absolutegeeks.com
-    quality: 54
-    images:
-      - url: "https://www.absolutegeeks.com/wp-content/uploads/2023/12/e6a73560-9ab5-11ee-9dbf-ece57daa102b.png"
-        width: 960
-        height: 550
-        isCached: true
   - title: "A renowned GPS brand and Microsoft look to help drivers with AI"
     excerpt: "Using Microsoft's Azure OpenAI system, the assistant can perform functions and tasks around the car that would typically require drivers to take their hands off the steering wheel and eyes off the road."
     publishedDateTime: 2023-12-19T17:07:00Z
@@ -250,6 +220,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
     excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"

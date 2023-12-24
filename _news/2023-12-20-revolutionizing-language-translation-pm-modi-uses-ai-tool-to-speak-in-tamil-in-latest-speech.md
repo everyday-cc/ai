@@ -25,31 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation"
-    excerpt: "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India"
-    publishedDateTime: 2023-12-19T08:09:00Z
-    webUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp"
+  - title: "PM Modi taps Bhashini AI platform to bridge language divide"
+    excerpt: "Bhashini counts among its various products and technologies, real time speech to speech machine translation, and automatic speech recognition, which Prime Minister Narendra Modi used on December 19 to interact with students in various parts of India via video conferencing."
+    publishedDateTime: 2023-12-21T00:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/articleshow/106161438.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/pm-modi-uses-bhashini-at-kashi-tamil-sangamam-and-smart-india-hackathon/amp_articleshow/106161438.cms"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 74
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg"
-        width: 640
-        height: 362
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1577423,msid-106161480/narendra-modi.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "2024 Is the Year Of Vision: Large Vision Models, Apple Vision Pro, And AI Wearables That Can See"
-    excerpt: "From computer vision to Large Vision Models and Apple's Vision Pro launch, 2024 is the year we will see through the eyes of the machine and wearable technology will take center stage."
-    publishedDateTime: 2023-12-20T14:10:00Z
-    webUrl: "https://www.forbes.com/sites/cathyhackl/2023/12/20/2024-is-the-year-of-vision-large-vision-models-apple-vision-pro-and-ai-wearables-that-can-see/"
+  - title: "Modi utilizes homegrown AI gadget to speak to people"
+    excerpt: "In a historic move, Indian Prime Minister Narendra Modi utilized an AI-based language translation tool during his public speech on Sunday in Varanasi"
+    publishedDateTime: 2023-12-19T12:43:00Z
+    webUrl: "https://menafn.com/1107625044/Modi-utilizes-homegrown-AI-gadget-to-speak-to-people"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 36
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_247.jpg"
+        width: 4640
+        height: 3476
+        isCached: true
+  - title: "Explained: What is Bhashini, the real-time translation tool that PM Narendra Modi used"
+    excerpt: "Prime Minister Narendra Modi utilized Bhashini, an AI-based translation tool, during a speech in Varanasi. Bhashini breaks language barriers using AI,"
+    publishedDateTime: 2023-12-19T10:17:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-bhashini-the-real-time-translation-tool-that-pm-narendra-modi-used/articleshow/106122854.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 31
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106122854,width-1070,height-580,imgsize-26491,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 578
+        isCached: true
 
 secured: "vHZ/Pec8rbMZTHSVD2wEFq/DaR/bibA/k8yJCNzzorKRIsAWYPgFhksb8fDKIfoWwAPJgQXmxky79KN4MwelvSmRPb8k7vdlLabiKp2TBFnal4v8bX3uA6G/EORH2KqEvrfofPDUYU8XF1vx+LT+g1DQhCZEnEEoyyWhKsNNAOtCxqIjM6PNQbAf4gSrPR768y/qJwO9IknEUaJSZeMfuSF7hP5COJ82qh23GzoR9iSNNlLp1pyJHZNkaj/YTYA8EjOM7ryxepnTU4GJSC/b6+tcKWbETzVGZTMPx2uB2MoYdf7neGd/XSx6g+a/5R/FL884QxtXKAUXxhQskoaa98EMUEnva19U13WxQKfgT6f7P44tvCYPdV+R/CYffj7JGTJBhF9udGkgSo1J6K77/3v6ZydVHm/mAqPZc/M9gxikdY69Qk3f0S1b0nALuZg26Jd2xk3zGzGYfIxYgTN/xDMSnxS7XlCh+voWu/SSz0Ded3Q1F7uRGQ630FdTvVPTfW5ETNHAg8qLraVi8dbugw==;tKZwAlvZMO6Q52y7aMUbFA=="
 ---
