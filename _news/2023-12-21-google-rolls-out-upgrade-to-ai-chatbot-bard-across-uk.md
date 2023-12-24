@@ -2,26 +2,26 @@
 category: news
 title: "Google rolls out upgrade to AI chatbot Bard across UK"
 excerpt: "Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT."
-publishedDateTime: 2023-12-21T09:21:00Z
-originalUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
-webUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
+publishedDateTime: 2023-12-21T00:00:00Z
+originalUrl: "https://www.independent.co.uk/business/google-rolls-out-upgrade-to-ai-chatbot-bard-across-uk-b2466270.html"
+webUrl: "https://www.independent.co.uk/business/google-rolls-out-upgrade-to-ai-chatbot-bard-across-uk-b2466270.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Independent
+  domain: independent.co.uk
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/t.YwO5QIF7YoiRj.FtDSfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/78de7fbe39bbf6e2b7b608f769e06c82"
+  - url: "https://static.independent.co.uk/2023/12/19/00/13113044-32ea5ee0-efc1-4c05-a422-6b8218486e6e.jpg?quality=75&width=1200&auto=webp"
     width: 1200
-    height: 675
+    height: 800
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 497
         isCached: true
 
-secured: "ldpCvBTGgMtzvP0T9rtLWBEp7uSiFJVOhDVZO9QyWLHlVki0zvVRE8j+qrGHyNN0ghyUPwD9NBVZCo/IHfesMc5+q3fJlEY3Z5PX1X3SuE+Lvls/DZWCL2MsS83AUCNh+Dw9IeAqYiyUvW0IpBr5qQS9JyfaM3zDMN+Grgdd90+KfWSm6NfOd1Y/dvQzLgfowVPe66G8ILZi/9I99WipUA8+YQT41i2B1Qi27KeO250OZzCHRJerxcJu9UGH6d5J1mwS/qySmq1C7SqegIDBM7Z5RKzjLmzkCwVRK4G9mHOgTm7sbzDLGwWUSLY+rh6KqrhYZErQihyYahbJrYdIXpU8+tFMk6MUDeWlSKntyP4=;L0sh3GvGCTA4j69/+ZP3dA=="
+secured: "O4AVPYMKw/S8SEoHocNHYAvmqSqRxuP99C9omQbycVc0rFtZ0wS4tUS7wa8v2HDI22CM5dIufYcfOffG2cO5VrMWsB5PseRNcohcOdF583oTE+ViL6BbWVLsFRTTIs1hJhnF9PwfZNd2X3PyVFp3aXpDbGXUYgFdiNj7paOgT9w1VRUko1lHOXKw3jM5cE1pOSRpHkchmXkKJCe7ko/kkWTJzIEHzbKzu+gg2pSTBMlaXW4mJ80XxXmL9htKwZAO5krFuhLBUCaIdXnHAoUB100gpG5/kPaR254DjKDqVt/ENsvFWdTaFDlVyX78W1Zncexwui2cSNrKoKM2ORndmDqQPkcUDbzF+PJweTFXlzg=;y/PJYZ+rEm3uIRbosEnbSA=="
 ---
 

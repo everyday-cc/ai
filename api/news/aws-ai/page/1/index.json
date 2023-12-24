@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-22-a-new-group-at-amazon-is-helping-customers-including-pga-tour-and-bridgewater-make-generative-ai-applications.md",
+      "title": "A new group at Amazon is helping customers including PGA Tour and Bridgewater make generative-AI applications",
+      "excerpt": "Companies such as Bridgewater Associates are experimenting with generative AI with the help of AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12",
+      "originalUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/658465b51c5c7b8c9a0b1481?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp",
+      "publishedDateTime": "2023-12-21T16:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-llama-guard-is-now-available-in-amazon-sagemaker-jumpstart.md",
       "title": "Llama Guard is now available in Amazon SageMaker JumpStart",
       "excerpt": "Today we are excited to announce that the Llama Guard model is now available for customers using Amazon SageMaker JumpStart. Llama Guard provides input and output safeguards in large language model (LLM) deployment. It’s one of the components under Purple Llama, Meta’s initiative featuring open trust",
@@ -158,7 +210,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -1381,49 +1433,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-final-four-thoughts-from-aws-reinvent-2023.md",
-      "title": "Final four thoughts From AWS re:Invent 2023",
-      "excerpt": "It’s back. Like all re:Invents, there was plenty of news ranging from compute to generative artificial intelligence to visionary stuff, such as Project Kuiper, AWS’ low Earth orbit satellites ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/12/09/final-four-thoughts-aws-reinvent-2023/",
-      "originalUrl": "https://siliconangle.com/2023/12/09/final-four-thoughts-aws-reinvent-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/selipskyreinvent2023-world.jpg",
-          "width": 4896,
-          "height": 3672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-10T04:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

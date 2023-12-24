@@ -28,20 +28,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 28
-  - title: "Lightmatter Accelerates Growth and Expands Photonic Chip Deployments With $155M in New Funding; Now Valued at $1.2B"
-    excerpt: "Lightmatter is developing photonic technologies that reconstruct how chips calculate and communicate, which can be leveraged by the biggest cloud providers, semiconductor companies, and enterprises for their computing needs."
-    publishedDateTime: 2023-12-19T16:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936470.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "EjJZUzslDoVAVgQfmhTQu9Yk78afqYOdGE4FRw7kUZQdxNL8jjxqlh/Fx8ozvKJjDKpa3WvqvZN6Ap+XFw6maz0EpxCnIjdhGfRpWsn7wZR4hY78aE/mFYPjKqXVKwDdyhj7oE4YezQieAwwsXIZPoWqmicsV/jdsM32Rk2dt/HFiwXXX16+NhyY+bo9j1nww5G3Cxi0VIZSYnleszaL9fkGIl1LZ2VKqfrfbxqJ6PVPKW8NxI9ji5e5Bvri9xx5V8HYpJSdQg5z/MsDVkKnDfFKVtxHRvTPdrp81J3GGftEjbYUMAzwemDxJBhRggw7bBgz779tzqHYKdqOTblONxmQa5+GmXLQr+YGtLMoaQI9oBCWsIZPV7uTpiO/Q8tba8jTI63IhvK4dK8qnUeT+LYNuWFKyzFg/7RgrHwEbWi9I2890UOsYDKnGpmCqHC7gGS7Ebxx6RV3HEB7l2SzTmWpIYQqY3lGqyxLq3ZRQq25zkuaw5DlWSRM6yrVEragjc9yYi2AUH9CuAaHtAmWdA==;bLFPa3LALJamkB3mBXMe+w=="
 ---

@@ -40,6 +40,20 @@ related:
         height: 628
         isCached: true
   - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
+    excerpt: "Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for \"Way Forward in Mobility.\" Regulators in San Francisco and Phoenix legalized Waymo cars ..."
+    publishedDateTime: 2023-12-20T11:40:00Z
+    webUrl: "https://reason.com/?p=8259274"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 24
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/12/john-stossel-driverless-cars-1024x526.png"
+        width: 1024
+        height: 526
+        isCached: true
+  - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
     excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
     publishedDateTime: 2023-12-20T20:40:00Z
     webUrl: "https://reason.com/2023/12/20/self-driving-cars-have-arrived-they-will-make-us-safer/"

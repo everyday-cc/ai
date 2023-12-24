@@ -198,6 +198,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "Google Restricts Election-Related Queries, Bill Gates Enthused By AI Innovations And More: This Week In Artificial Intelligence"
+    excerpt: "The week was once again a thrilling one for technology enthusiasts, especially for those keeping tabs on the evolving AI landscape."
+    publishedDateTime: 2023-12-24T13:00:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36376762/google-restricts-election-related-queries-bill-gates-enthused-by-ai-innovations-and-more-this-week-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "NJv2Ch8P511a2hONo3mYAcXXY5sjV+4LYm7qP0xUTPu/eE+kNesK3OT+2WwCSwIZb3wSIuzgegcSo4VvrwBI5MVmBgiJQuGTU3wxxAb/5HwV+ggD1CMYtd/a3hQPR6sXoAaOSI3sDKlB1yLgkWqiM8VAuwCMfMBUijCsK4cr625b0G4N9K675e75dPIIcvlrzZCdHO5itwnPar4Py5Xfp+aMTj746/kckRDeHl/Ls7OalFfIyLNi/ZKA4Wga9aTx89xfgBSKn8NFowvZi0LBpjyGqJdibdIebmz21SwxQJZd+L81QC78QBcUDMWkhYeOBexq5irOV9yubPwPV33eJ+LUg5OYN+PKzA42D4UfTth/EMX9PWQIL/TxKxVlInJL3tuk1D3ezfzftoi6l+2CM45hPDD7gYKMKWxRSPzpLVSqOG8MgvJiQzqfh1MpORdzaA/irJzOmKLH0sDOHkAM2DJOWlF9k4okE4345kiQNy2w5JF2Q6LSvj+avtgVqfbsEQITjXRsjKTwcAIRx8KS/A==;jzRGeqzmpSegUaORkO+GCQ=="
 ---

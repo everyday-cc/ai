@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/artificial-intelligence-experts-share
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Music AI in 2023: a database of tools"
-    excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
-    publishedDateTime: 2023-12-19T13:55:00Z
-    webUrl: "https://musically.com/2023/12/19/music-ai-in-2023-a-database-of-tools/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
 
 secured: "hI6sANuc53LS//FjA51LLZiBZzSRblcS9xj8POH/7ICJllkamLsJrPnlNccCypbPCt8/BnOnmjWdKc7DQC3fb+BMpI37F8W3U/VGttrG8MxChZsePGfaSNDwHREUdQQZ2k9XPlLsetXCq+OIsQO9SoItpmzBu3QdrUeNHqysm/YzMGNZBxVH37ObuZp8/SNUJrYvOAKN31CuBQOJ/HsXIG0NaLqE6JsGTJ73iLZHir5Y6xTzlcMBOXzJmqVUkxYcZOH1789jldaWB9GTzNhEF6dyZ8s/Rn8P9bHtm3ARSFHOb8Llsm9sxyjjygPCsq5Fqm88EAjh1hWPuo3AMCqwU9ZkmW7JTqPjB2/tPQoOfZU=;ueD6WxkHBOdFJDASAXuIqw=="
 ---

@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
+    publishedDateTime: 2023-12-22T02:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
     excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
     publishedDateTime: 2023-12-20T20:23:00Z
@@ -106,15 +115,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 17
-  - title: "Intel: Upcoming Gaudi3 AI Accelerator Will Compete With Nvidia H100, AMD MI300"
-    excerpt: "Given its advanced manufacturing process and addition of the newest memory standards, Gaudi3 could be very competitive with Nvidia's and AMD's products while costing less. Intel says it's rapidly expanding its Gaudi pipeline thanks to \"growing and proven performance advantages combined with highly competitive TCO and pricing.\""
-    publishedDateTime: 2023-12-19T14:00:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-upcoming-gaudi3-ai-accelerator-will-compete-with-nvidia-h100-amd"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 15
 
 secured: "vCr+inSXwnCPts87nPnrpVcw4XTQXpm4pAl6HPvYP6go5xV2BAgPGCe4vG3VuqHFW8biHmcwZNFrbddLuOm5f6GJ2uEEawPPjdmFjEIcrcocpMoOZxY0Y1bh6S++4ReF0evc1+NT33dp/Uqb83CP527Mtq/L4JM5iQNUM2t4Bfb4asPVbzzQRK58aVNwUcJEHtCPfZUe1NRza4hTaUDUovvL6nCOnXbP7nPI1JI4AKjA7aG9duPZiky61McnrAsc3i0XXE2lGyTUOUZ+2lgxWXujF304wQAdNQMSOFg29uCzlm3BdvONhDl4MofO7T10acyzVOoM0a/fBmHVERWsizOSiXG/8Coehv2hsb2eUFjKnrfn+kOTy/FI4hqPP16gIhB6i0VfpT49Q5egZQ5tOb9X9tmJP8Z+FUGPJv/OahEETDfvp4f2WdGW88g+q/qrTc90cSAcBQGQPpupyhT6EnIpcWm4LO7wyngRPV7hKduCNMv/yz/Fat2pYGocsKj0J8Tse7oMoJd2MiaCqBp6vg==;ppPdtrC9QI1+kO4qdaOvaA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tech-slips-as-ai-speculation-s
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-slips-as-ai-speculation-slows-tech-roundup-c173782f"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "OpenWeb Appoints AI Foundation Founder Rob Meadows as Chief Technology Officer"
-    excerpt: "Respected expert and ethical AI advocate joins community engagement platform to redouble AI innovation, shepherd the community economyNEW YORK,"
-    publishedDateTime: 2023-12-19T13:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/openweb-appoints-ai-foundation-founder-rob-meadows-as-chief-technology-officer-1032912197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
 secured: "aS65RYid2DQtEPDkhgch65lUpkCib299vZBGs8M4fEc7p7JJLG2gWa4c7yIC9EGl4FqYgxxLAWdgrB/pDZoAqgpmCgfbo5uHmtAJrElNJht0zUI2offDJHcwJlD8LF2h8rwF/MenTBWnbzLBd56YgvdOCRQGX2J63ju4yGGOer3NfZzUoT2RsMvgrDvRzqebrzlQYAoZLykTuflsWyQjI2bbLKEzH6kReslWC4jGKzh135Z/ROsXbfMOrx3XkEfNrZhNxT42mA6SvCJER/6TPg/ETaFgO5/X13k6duIZClmaCHKJrhBRBVvHnASTF0VOxk60KKG2eKND8y5OFP0Jcz69X2RKhe04hgv1U0oFXGM=;iTXFEBrY9hBNyD9XA/sxCQ=="
 ---

@@ -252,7 +252,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -288,35 +288,35 @@
     },
     {
       "path": "_news/2023-12-21-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
-      "title": "Humanoid Robots With Artificial Intelligence Have a Long Way To Go",
-      "excerpt": "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI",
+      "title": "Humanoid robots with artificial intelligence have a long way to go",
+      "excerpt": "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
       "publishedDateTime": "2023-12-21T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -326,8 +326,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Meta AI"
+        "AI"
       ]
     },
     {
@@ -520,7 +519,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

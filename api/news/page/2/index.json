@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-22-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
+      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
+      "excerpt": "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_a343409477b7aea350254f94daf52eb7_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
+      "publishedDateTime": "2023-12-22T08:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-ai-and-hipaa-navigating-the-privacy-crossroads.md",
+      "title": "AI And HIPAA: Navigating The Privacy Crossroads",
+      "excerpt": "It's not about whether healthcare workers should embrace AI, but how they can harness its power to the full extent",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/",
+      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65851b674cc9567d325049f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1197,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/amp/",
+      "publishedDateTime": "2023-12-22T05:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-flying-dragon-robot-harnesses-the-crazy-hose-effect-to-fight-fires.md",
       "title": "\"Flying dragon\" robot harnesses the \"crazy hose\" effect to fight fires",
       "excerpt": "Japanese researchers have created and open-sourced a flying firefighting hose that levitates and steers itself to fight fires using its own water pressure as a two-part propulsion system, spraying water down onto fires and keeping operators safe.",
@@ -105,7 +199,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -439,6 +533,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-22-a-new-group-at-amazon-is-helping-customers-including-pga-tour-and-bridgewater-make-generative-ai-applications.md",
+      "title": "A new group at Amazon is helping customers including PGA Tour and Bridgewater make generative-AI applications",
+      "excerpt": "Companies such as Bridgewater Associates are experimenting with generative AI with the help of AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12",
+      "originalUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/658465b51c5c7b8c9a0b1481?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp",
+      "publishedDateTime": "2023-12-21T16:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor.md",
       "title": "Reshoring manufacturing to the US: The role of AI, automation and digital labor",
       "excerpt": "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n",
@@ -447,7 +593,7 @@
       "originalUrl": "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "",
@@ -741,35 +887,35 @@
     },
     {
       "path": "_news/2023-12-21-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
-      "title": "Humanoid Robots With Artificial Intelligence Have a Long Way To Go",
-      "excerpt": "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI",
+      "title": "Humanoid robots with artificial intelligence have a long way to go",
+      "excerpt": "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 94,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
       "publishedDateTime": "2023-12-21T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -779,8 +925,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Meta AI"
+        "AI"
       ]
     },
     {
@@ -936,7 +1081,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -976,58 +1121,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-2-spectacular-artificial-intelligence-ai-stocks-primed-to-beat-the-sp-500-in-2024.md",
-      "title": "2 Spectacular Artificial Intelligence (AI) Stocks Primed to Beat the S&P 500 in 2024",
-      "excerpt": "Ellison says OCI's new Gen2 Cloud is now the No. 1 choice among generative AI developers, and it attracted top start-ups like Cohere and Elon Musk's xAI. They have already committed to spending billions of dollars on Gen2 Cloud computing capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/758878/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
-          "width": 5127,
-          "height": 3418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T05:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1113,109 +1206,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-ai-and-the-entrepreneurial-spirit-perfect-together.md",
-      "title": "AI And The Entrepreneurial Spirit: Perfect Together",
-      "excerpt": "Venture capitalists and business leaders are finding AI is opening up opportunities for innovation beyond what anyone could imagine even just a couple of years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651758e6ae1c40714bd13536/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1339,
-          "height": 893,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
-      "publishedDateTime": "2023-12-21T04:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-warehouse-robotics-startup-greyorange-raises-135m-in-series-d-funding.md",
-      "title": "Warehouse Robotics Startup GreyOrange Raises $135M in Series D funding",
-      "excerpt": "\"This Series D funding amplifies our commitment to leadership within the AI and robotics orchestration space and affirms our thought leadership within this market.\" GreyOrange's latest funding round also reflects a strong vote of confidence from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/warehouse-robotics-startup-greyorange-raises-135m-in/467346",
-      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/warehouse-robotics-startup-greyorange-raises-135m-in/467346",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1703149207-akashguptanew.png?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

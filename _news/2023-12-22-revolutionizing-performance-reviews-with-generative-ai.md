@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "3 ways generative AI will transform your people strategy in 2024"
-    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
-    publishedDateTime: 2023-12-19T16:19:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
-        width: 620
-        height: 372
         isCached: true
   - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
     excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"

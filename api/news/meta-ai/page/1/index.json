@@ -63,7 +63,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -148,50 +148,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
-      "title": "Humanoid Robots With Artificial Intelligence Have a Long Way To Go",
-      "excerpt": "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Meta AI"
       ]
     },
     {
@@ -352,7 +308,7 @@
       "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -893,6 +849,49 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-lego-fortnite-how-to-find-loot-llamas.md",
+      "title": "LEGO Fortnite: How to Find Loot Llamas",
+      "excerpt": "In LEGO Fortnite, you can explore a vast world that sometimes offers surprises, such as treasures and supply drops, but if you're lucky, you'll come across a Loot Llama. If you are having problems ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
+      "originalUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/lego-fortnite-loot-llamas.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {

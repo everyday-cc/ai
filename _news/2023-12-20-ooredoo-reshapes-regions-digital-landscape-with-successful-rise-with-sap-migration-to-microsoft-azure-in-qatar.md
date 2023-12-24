@@ -41,15 +41,6 @@ related:
         width: 253
         height: 300
         isCached: true
-  - title: "Ooredoo reshapes region’s digital landscape with successful RISE with SAP migration to Microsoft Azure in Qatar"
-    excerpt: "Doha, Qatar: In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to Microsoft cloud datacenter region in Qatar."
-    publishedDateTime: 2023-12-19T13:16:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/ooredoo-reshapes-regions-digital-landscape-with-successful-rise-with-sap-migration-to-microsoft-azure-in-qatar-e8afk723"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 14
 
 secured: "iYuStfnRFTOAoPa1v0uUG1yov8ijyQ2Nsf3KbOj/RmvncPDJ3VP0UiSNh5DM128DThVRo0piUiOdinGWXPTYBVwZSdvauD2r471vz0FbZ6xSLbUr1xoR8P8EMl1jJx2ldDFCPbrTWodW80JP1zKazSPs6KF7wMvVyZJIIA7FEckY0eO9P69VmGPF+LK0AH/H9SB6SIKxqGyO52XQPcbGA4Y7WuExKY+jpUEQL9zvDzfHR878amHsZPsUKbHQz1sf8a4nNNsPbU8vNaWVjImE4Ue+vqjo82ngnQmWZ3VzcTdeeGUj8eUbFrj7fo6AG6o/Pikq5XbBTRi5+ssknNA8YewSyKkrhNEAMNMgyg6a63Q=;hutF/kdG8wOu93WY0wn6dA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2023/12/robotics-surgery-healthcare-ultras
 webUrl: "https://medcitynews.com/2023/12/robotics-surgery-healthcare-ultrasound/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Butterfly Network to bring Ultrasound-on-Chip tech to surgical robotics"
-    excerpt: "Butterfly Network (NYSE:BFLY) announced today that it partnered with Mendaera to commercialize a new surgical robotic system."
-    publishedDateTime: 2023-12-19T14:47:00Z
-    webUrl: "https://www.massdevice.com/butterfly-network-surgical-robotics-deal-mendaera/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 71
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2023/12/Butterfly-Network-Ultrasound-on-Chip.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Butterfly Network teams with medical robot startup Mendaera in ultrasound commercialization deal"
     excerpt: "Butterfly Network has selected the medical robotics startup Mendaera to serve as the first participant in its ultrasound hardware commercialization program.  | The pair aims to deliver an interventional robot that incorporates Butterfly’s semiconductor-based ultrasound technology to guide needle-based procedures."
     publishedDateTime: 2023-12-19T17:34:00Z

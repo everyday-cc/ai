@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-20-microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot-jefferies.md",
+      "title": "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies",
+      "excerpt": "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T13:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems.md",
       "title": "Generative AI: Increasing The Value Recognized From Today's Information Technology Systems",
       "excerpt": "By leveraging GenAI, there is a tremendous potential to unlock the latent value within these existing applications.",
@@ -209,7 +244,7 @@
       "originalUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -261,7 +296,7 @@
       "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -303,6 +338,58 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-2-red-hot-artificial-intelligence-ai-stocks-to-buy-in-2023-and-beyond.md",
+      "title": "2 Red-Hot Artificial Intelligence (AI) Stocks to Buy in 2023 and Beyond",
+      "excerpt": "The AI revolution has just started and is powering the growth of several high-quality stocks. Tech powerhouse Microsoft sees its Azure cloud computing business as a key growth catalyst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/758380/analyst_with_a_calculator__studying_stock_chart_on_desktop_screen.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T07:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -558,7 +645,7 @@
       "originalUrl": "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -601,7 +688,7 @@
       "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/19/microsoft-365-copilot-set-to-provide-a-generative-ai-revenue-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -809,7 +896,7 @@
       "originalUrl": "https://www.cnbc.com/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 207,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -1001,7 +1088,7 @@
       "originalUrl": "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1043,49 +1130,6 @@
         "Meta AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar.md",
-      "title": "Ooredoo migrates RISE with SAP to Microsoft Azure in Qatar",
-      "excerpt": "Ooredoo Group has announced the successful migration of its cloud ERP landscape, RISE with SAP, from Amsterdam to the Microsoft cloud data centre region in Qatar.The migration is",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
-      "originalUrl": "https://www.gulf-times.com/article/673887/business/ooredoo-migrates-rise-with-sap-to-microsoft-azure-in-qatar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/gulftimes/uploads/images/2023/12/19/thumbs/300x300/116762.jpg",
-          "width": 253,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1181,59 +1225,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator.md",
-      "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator",
-      "excerpt": "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/19/ML-4740_Figure1-final-1260x554.jpg",
-          "width": 1260,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T16:05:39Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

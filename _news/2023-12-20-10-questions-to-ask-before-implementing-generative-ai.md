@@ -132,20 +132,6 @@ related:
         width: 858
         height: 686
         isCached: true
-  - title: "Examining Generative AI's Transformative Effects"
-    excerpt: "Explore the evolution of generative AI—most exemplified by ChatGPT—from record-breaking user adoption to its pivotal role in shaping the future of business."
-    publishedDateTime: 2023-12-19T14:59:00Z
-    webUrl: "https://www.forbes.com/sites/committeeof200/2023/12/19/examining-generative-ais-transformative-effects/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6581ae2799cf43a352b7bfcb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How generative AI is changing social media content"
     excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
     publishedDateTime: 2023-12-24T01:07:00Z
@@ -208,20 +194,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Generative AI for CPGs: The Latest Use Cases to Boost Operations"
-    excerpt: "Generative AI is being used by people all over the world to complete any given task at a faster rate. For use at home, such uses include recipe ideas, travel help, and summarizing large amounts of research or data. For business use, it gets more specific."
-    publishedDateTime: 2023-12-19T15:27:00Z
-    webUrl: "https://www.packworld.com/news/business-intelligence/article/22882216/generative-ai-use-cases-for-cpgs"
-    type: article
-    provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 39
-    images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2023/12/AI_for_CPGs.6581b1e143314.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Generative AI Could Revolutionize Manufacturing"
     excerpt: "Generative AI is everywhere and it is predicted that the technology will boost industry revenues by enabling faster, more precise innovation, as well as automating processes. ABI Research predicts that generative AI will unlock $10.5 billion in new revenues for the manufacturing industry by 2033."
     publishedDateTime: 2023-12-19T22:43:00Z
@@ -343,15 +315,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 24
-  - title: "How Your Organization Can Prepare for Generative AI"
-    excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in history that have ignited the public’s"
-    publishedDateTime: 2023-12-19T14:05:00Z
-    webUrl: "https://www.computable.be/artikel/sponsored/cloud-computing/7586123/5950220/how-your-organization-can-prepare-for-generative-ai.html"
-    type: article
-    provider:
-      name: computable
-      domain: computable.be
-    quality: 19
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z
@@ -370,15 +333,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 14
-  - title: "HGS Next-Gen Accelerator for Contact Centers Harnessing the Power of Generative Artificial Intelligence, Now Available to All Brands"
-    excerpt: "Part of the multi-billion-dollar conglomerate Hinduja Group, HGS takes a \"globally local\" approach. HGS has over 19,947 employees across 35 delivery centers in nine countries, making a difference to some of the world's leading brands across verticals. For the year ended March 31, 2023, HGS had revenues of Rs. 5,006.7 crore (US$ 621.5 million)."
-    publishedDateTime: 2023-12-19T14:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936411.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "FU+In1bEsD+B6sccs/O+4OrHwI/4wd6vuJsYEzlZ97n5BkzT0YVBHbVVF39dy6OI/ZoinNWgIWkWB3h98yUUkbM1uZXyg0up9kDNLWYREu2ZfVSjaJ6gqztiqfSm9YL7lX8c1GRaUmlYK5vEYCtONfPRY744qFwPLO2Z1FVzQI5eGTz87fLhWJ41K0KMZQCpN1oJk63Pj90XV7OOhJBP2z/OAGyBtj4AUnJkSPrI4CNq+H5KD4V1WSeVBttt7zxHqXuSVQGymINQS9RTRsGVHao51h9525pWz1/sqhj5Bd+Tr3cJ2Ol15hBAAFtJq66zahFBGOqket0AKJnXQh2a1KEVRYoqr5mOdMzvlpGFNLm7mHp5myR+/3pYl5bYLO4mNf3CqJRaG4p8X8TFI2wQSjOjMFZkBsGRXqbXXYmDZC2XefwSrexxwpb12cxxZFvBT1vYJCHgeukzITCjY9qrgqyPgqD7MaZj3KA1amDIhpLEciPMtbHIewjA7ewwLwlC9Af5Nw+iltIjz4LFdwQutg==;s+owyIUmLKhuzYt30e31pQ=="
 ---

@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Cars Have Arrived. They Will Make Us Safer."
+    excerpt: "Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for \"Way Forward in Mobility.\" Regulators in San Francisco and Phoenix legalized Waymo cars ..."
+    publishedDateTime: 2023-12-20T11:40:00Z
+    webUrl: "https://reason.com/?p=8259274"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 24
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2023/12/john-stossel-driverless-cars-1024x526.png"
+        width: 1024
+        height: 526
+        isCached: true
 
 secured: "vleBN/aAUlAZRlvZXLqbPNHdCMBrCRBkB1tXlYegUG1ngCT0BHe++6jTNOZXwApUCnWPANo6wtvrHqrvPGxD+ERdqF/99tdEldO3oe4yPbz0e8TFN3b1mDB/ja78L2p4MvEkkuh5J4b0ufGwiAMtEFWKhGzanMry7+DlSrM/1ynv1FKAuIDDfR8/mnDCY3sNoy0jllp481FUzXiEuAmZieYzqku3/LZhkqE5w3ht3jq8viyynG9jzYcf2y1kBNrYemewgVGxKYOW36FddAxHM3XM5NU8VJMOwaWtaKR/N5HKGr/8gwN9fBCrcdo+Dwh/wW6G3W9BLa0PxWZo62EftLz95ur1EWFEhvbsG+0SYxq3M7BPB5lYVHaQswhjlbBvZSTZKUouz5TtGIgZNwfwV4sew50gX1tIJmCidVWZu+b8OdcU+sCNqGQPj3+GymPIEw0t0SsNCtg0AVVVeEZF63tVlFzV6f+nAeHb53VN7iJ9/owm24iii9oc70AV273lUXuMCuDW1Pixn+22r7gtTQ==;Bh6EwIgKwaXQxMkoHKRSmg=="
 ---

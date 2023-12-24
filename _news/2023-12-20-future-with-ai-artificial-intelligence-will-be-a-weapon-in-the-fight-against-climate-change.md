@@ -59,20 +59,6 @@ related:
         width: 1472
         height: 832
         isCached: true
-  - title: "AI and ethics in journalism"
-    excerpt: "Media organisations must develop policies for AI use and ensure transparency and ethical implementation. Technology has been a timeless force shaping the landscape of journalism from the telegraph in the 1840s to the recent surge of various generative Artificial Intelligence (AI) tools,"
-    publishedDateTime: 2023-12-19T16:58:00Z
-    webUrl: "https://kathmandupost.com/columns/2023/12/19/ai-and-ethics-in-journalism"
-    type: article
-    provider:
-      name: kathmandupost
-      domain: kathmandupost.com
-    quality: 54
-    images:
-      - url: "https://assets-cdn.kathmandupost.com/uploads/source/news/2023/opinion/DownShutterstock-1703005940.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The Silent Bias in AI: Exploring the Troubling Reality"
     excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
     publishedDateTime: 2023-12-20T12:06:00Z

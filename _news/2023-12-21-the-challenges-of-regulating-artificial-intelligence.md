@@ -24,40 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Pioneering Students From Swiss Boarding School Issue Global AI Charter Calling For AI Regulation"
-    excerpt: "Artificial intelligence is disrupting the way we live, work, and learn, and our students understand the profound impact this powerful technology will have on our society."
-    publishedDateTime: 2023-12-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/"
+  - title: "Four Essential Challenges To Be Prepared For When Adopting AI"
+    excerpt: "For your AI product to be compatible with other solutions, you may need to adjust your technology stack, skill set and even workflow."
+    publishedDateTime: 2023-12-20T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/four-essential-challenges-to-be-prepared-for-when-adopting-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6580769d0586643c25a05e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 365
-        isCached: true
-  - title: "How Artificial Intelligence is Rapidly Changing Human Society"
-    excerpt: "Artificial Intelligence (AI) is revolutionizing human society at an unprecedented pace. With advancements in technology, AI has found its way into various aspects of our lives, transforming the way we work,"
-    publishedDateTime: 2023-12-19T19:42:00Z
-    webUrl: "https://thecostaricanews.com/how-artificial-intelligence-is-rapidly-changing-human-society/"
-    type: article
-    provider:
-      name: The Costa Rica News
-      domain: thecostaricanews.com
-    quality: 19
-  - title: "OPINION: Why artificial intelligence holds great promise for improving student outcomes"
-    excerpt: "The prevalent narrative around AI and cheating is overshadowing the technology’s true potential: Artificial intelligence holds great promise for dramatically enhancing the reach and impact of postsecondary institutions and improving outcomes for all students."
-    publishedDateTime: 2023-12-19T18:15:00Z
-    webUrl: "https://hechingerreport.org/opinion-why-artificial-intelligence-holds-great-promise-for-improving-student-outcomes/"
-    type: article
-    provider:
-      name: The Hechinger Report
-      domain: hechingerreport.org
-    quality: 9
+    quality: 47
 
 secured: "uciMpgMayXAx+y9awOsLFae8J7EYIMV9Knw+9dPqh9gG+Ho88lDXQIljs45Xi6XoDhmgO+00jvUUzvdBR6UwlLxqSl3vvDolojbZHWooCzTsHaY/nZtF/jql0k91r4sYQxToAqEyLoyMa4Z3EqW90wr/8ZFvCG9G7FStEegOc2nPDuHVgpd2LaSeq32WZyNoirHKQtXEJBdDh+ZMNSdi9epp8RKIt9mUKkDZb5WKtR+pdDVpgT1D1rac2nDOlUuA3WndabM+kvHzNI3qO/mPRBFl8rlECkhPtmNLxNPqTG8P6itOpLOQaP8/jzxyLahdwnn8fo7REajV9BhLlvPPSBhrDcoDxz9uzlWzexZasyHP5Du78Md6C7HId1q3CVn4F6Kb9CQHNCqYZRhG8gpXBqmMS7/ouD41FwJrFgvh7qNtTfmi5yZTY8Y+YW26DzI/kDJ1TsVQxoCHMyM82orpGrDn7rd9LCc70xbSEP+tZS2XI1G/RiprO0w2go4aXWeMmsgcWRXM2GHxCZkfstewDA==;mxcIPasNnChtKCQ2vHkEcQ=="
 ---

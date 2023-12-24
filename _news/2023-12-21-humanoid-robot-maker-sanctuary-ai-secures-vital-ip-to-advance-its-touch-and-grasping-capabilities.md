@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid Robots With Artificial Intelligence Have a Long Way To Go"
-    excerpt: "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI"
+  - title: "Humanoid robots with artificial intelligence have a long way to go"
+    excerpt: "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ..."
     publishedDateTime: 2023-12-21T10:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go"
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 66
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Doctors have a few simple AI asks"
     excerpt: "The AMA recently asked doctors how they felt about using AI in their practices, Ehrenfeld said. The survey revealed their excitement that AI could improve care and ease burdens — but also some trepidation. Cautionary tales: Prior experience with new tech tools has some doctors worried, he said."
     publishedDateTime: 2023-12-19T18:01:00Z

@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Google rolls out upgrade to AI chatbot Bard across UK"
     excerpt: "Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT."
-    publishedDateTime: 2023-12-21T09:21:00Z
-    webUrl: "https://www.aol.com/google-rolls-upgrade-ai-chatbot-000100425.html"
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://www.independent.co.uk/business/google-rolls-out-upgrade-to-ai-chatbot-bard-across-uk-b2466270.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: The Independent
+      domain: independent.co.uk
     quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/t.YwO5QIF7YoiRj.FtDSfQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/78de7fbe39bbf6e2b7b608f769e06c82"
+      - url: "https://static.independent.co.uk/2023/12/19/00/13113044-32ea5ee0-efc1-4c05-a422-6b8218486e6e.jpg?quality=75&width=1200&auto=webp"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
 
 secured: "Ai5MukCBrOaDNVD0KRCSq8nk+qP0sNT2ICAGN0XoepnjV8d3OeVFYIk4qDGzAz+6AN9QM/ZSRCn4LMj3SRF7JZzp963ZMZS7O9VkH7h9IR06vDiYize4ggYL+/WA1bvRyZTEtKXobZxW9fIUH+UXdf83NkmSEB3Sr4y2kI3P4QJdGEFw91nMHAXrbcmyYLWdb+dbfPboG3U+BKShLYktJ9IuGR7fdAczxXD2tiZNMEivWtJoit3B4Hoo6jSky8xY1boNrzo0IbCWndf1TCd5vgVM+b8M5LlHhloo3WkBxy7w8QmEOqB2TjUxXniLMatnCIGpTouplO1G6X2O0wR9PY3VbCj7t5OVPwkUll4hgkU=;IgAHbFrLRfjzIjigz8tuYg=="

@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 Automation Stocks to Reshape the Future of Work"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Recently, three M&A possibilities were discussed for automation stocks in"
+    publishedDateTime: 2023-12-21T18:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-automation-stocks-to-reshape-the-future-of-work-1032920387"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
 
 secured: "V1bV4JiBNy2P8Cte1qXKvLPV0WRA+WRhM4A0IJg0jHodkESAkNO1uunM0d9KlWQ9UZ3BbyrXuPyN2OziOUWhGzSPWDiJ7wNZxt2Mz/DQ5akCBAEzzmOIJK/JSnuZY890Bvritv4+8g1093gTh/aOND68C33HaaCYZFVcIzunH//Ch2B2ZcrcSMQNX2kEsgjutix6UBeCVct/2P60nvtZy8GxMqB3houKO7J3TrYD8v/BInbL5BiHFfTx4528TtqXsl1bsOnWXGothjL5h7PvjAftmQWOBo++/aRQ0FbnV2DYjbDNOBFfp0FVFl3T/PgY6D6wsFHCVPe3W6hj1A9dAUiKxSQDoh3Rnn2Fmp7r+AI2x6r3tJRxHRjvxz8qrwdaT9O21D9q3X0N4IXxw+0QQgi/Ppg+3D5v+PmPKDerQBJC4NQwkqzaH2KNJmYsZHdldYiXCU9BWLUsi5vBEjHF8vXBjknK0821QFiiHNyvvpMFiVJ32wwdRzXhn787wDb3ycu9O2ViuY2XRFyBeNVg2Q==;ko8bHJbZr2u2lKDpD1BXUA=="
 ---

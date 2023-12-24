@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Music AI in 2023: a database of tools"
-    excerpt: "It almost feel superfluous to say it, but 2023 has unequivocally been The Year Of AI. Music Ally has reported on the various music AI developments as closely and quickly as we could, although the"
-    publishedDateTime: 2023-12-19T13:55:00Z
-    webUrl: "https://musically.com/2023/12/19/music-ai-in-2023-a-database-of-tools/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 19
 
 secured: "aCNmYAtC6xlu44Q+8iSm6lzlJ+3Gh69gOHy4SIquwKWuw/DqVAPXWnAQTrNNpKbq0rQv8r79oqnSwlllJawXPfPNdmsrMr6K/usr95PRFEfElUvzS0eUOgywewcnGfsj63R5ennjzKn2qTNyqf33GOBhDnWuFRBSldeftljM2M7vGhnLSEfwOIQLfb1/tNe7baN3kx2hg4VcaT9KTs0kVTYxhzVHLu4wFB2edDCARe+SSomLWC6Y2SwVxrtkTimj0BZungYPS9u1+bxv9FaVh1Y5tapZ9TIG142W7gi4kMi9v5zV0q64v8MRdtLzd6BFM1rLhVlE8SM3UFlPoCEpfq9er6J7hsvma1Xl8D2L434=;vLlNUfSIJ/tTf3Q4NR1nAQ=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Butterfly Network to bring Ultrasound-on-Chip tech to surgical robotics"
-    excerpt: "Butterfly Network (NYSE:BFLY) announced today that it partnered with Mendaera to commercialize a new surgical robotic system."
-    publishedDateTime: 2023-12-19T14:47:00Z
-    webUrl: "https://www.massdevice.com/butterfly-network-surgical-robotics-deal-mendaera/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 71
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2023/12/Butterfly-Network-Ultrasound-on-Chip.jpg"
-        width: 770
-        height: 500
-        isCached: true
   - title: "Butterfly Network Partners with Mendaera to Co-Develop a ‘New Category of Robotics’"
     excerpt: "The new partnership helps Mendaera widen the reach of its technology as well, pointed out Josh DeFonzo, the startup’s CEO ... Under the partnership, Mendaera will develop robotics, software and AI models that work in conjunction with Butterfly ..."
     publishedDateTime: 2023-12-19T18:01:00Z

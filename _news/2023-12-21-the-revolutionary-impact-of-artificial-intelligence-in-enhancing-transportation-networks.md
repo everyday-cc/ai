@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "3 ways generative AI will transform your people strategy in 2024"
-    excerpt: "As we navigate this pivotal time, we explore three transformations on the horizon that we believe HR and talent leaders should be mindful of in the coming year."
-    publishedDateTime: 2023-12-19T16:19:00Z
-    webUrl: "https://www.benefitspro.com/2023/12/19/3-ways-generative-ai-will-transform-your-people-strategy-in-2024/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/10/Business-Global-Network-Article-202310031603.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "AI-generated weapons of mass misinformation have arrived"
     excerpt: "That frightening prediction is already coming true."
     publishedDateTime: 2023-12-21T11:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-sk
 webUrl: "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 34
-  - title: "Artificial intelligence robot 'physically beats' humans and out-thinks them in new breakthrough"
-    excerpt: "Researchers in Switzerland created an AI robot that learned in just six hours to master a popular game of physical skill"
-    publishedDateTime: 2023-12-19T13:08:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/ai-artificial-intelligence-robot-beats-humans-frontier-threat-benefits-b1127933.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 22
 
 secured: "XCuNXOPXFYYU29Ao9djDKa2KRpHJrQBwIRXkA7fV/T1iIzKf1+rFOhPKfAd9FbpYml2lLnFpyv0mABqZg9yBRtghhvvX0y3pQalnnG77sNrz96CI+71PU0v4mxEB7a1I0E4q4RtgigPNX24wouxrWF+iiFO36xXYc8LCDU35I5YNJ7VdaojfPSiTX5etLHp9JUBdy4ztIgxOiL7qGgWZUkaaOlDn3CpGSc/adyBBvcGeuOFMk5ijbeFfG10QTDX45QDPG3M26Wp4Us2WAqdUCBIvcKrkSqG2RZOcPXf/VclkQWZH6yCBiqrQ01CTUf3iQT2wGbGkAJthI+j7OY/h/7BJueTky+wuU627VFwygUSUiIecsshlQa+EVC3Z0fAapOOwuuc/ukoYnrmHVWwGP5PASxeK983hAeYORVkVec+uyc1lubOBVPj0cjblwj1wbT/ZZoJEYxTZ0cnoCF+a7Tr2ek76SkfAh6dAaIxEHT7L+1gpElA4kjGYoJFd8hCOZ8Bt3cUfovgsJgex7qhkZw==;pS2U/B3LLmC3RrIMmpxo0Q=="
 ---

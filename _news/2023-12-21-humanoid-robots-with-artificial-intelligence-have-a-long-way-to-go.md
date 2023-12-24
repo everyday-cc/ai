@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Humanoid Robots With Artificial Intelligence Have a Long Way To Go"
-excerpt: "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI"
+title: "Humanoid robots with artificial intelligence have a long way to go"
+excerpt: "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ..."
 publishedDateTime: 2023-12-21T10:00:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go"
-webUrl: "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go"
+originalUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
+webUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
+ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
+cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
 type: article
-quality: 66
-heat: 86
+quality: 74
+heat: 94
 published: true
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Financial Express
+  domain: financialexpress.com
 
 topics:
   - AI in Robotics
   - AI
-  - Meta AI
+
+images:
+  - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Humanoid robot maker Sanctuary AI secures vital IP to advance its touch and grasping capabilities"
@@ -48,6 +51,6 @@ related:
       domain: politico.com
     quality: 17
 
-secured: "xpBSF5hcswCfII504V8GxVcmGIaS48t3Arixhx1n77fAUcTE2o0W269pbdUJxLk89G73aiWvv6OALt3dA79+ksN+vVfwQHTHM/O4+g70cgS80BOo/bgnYbjKwRVwJPET3LwdDMHbuq4yyXw6YPCtZAgrfLU96Wzo11V+GpZfZf4fnigTaDO/AriiJYEBJ+omzeR8kbFK5InnCOLVSIJMusXFFUZytXcgCFNmR3bY1Ji4vg8CGM+FGaQYu6uLmqPMwVYa5x+tCgtBZ6oUronLccBVgsB+v2l+q0EsD5NOPIwiqFZxB6dqopVm3tKf6p1Z7v6taD8/CkwKJ1rN3F5VNIU6WkthWvId0TbY6U2FOZ2chzEgX1hMXDctOtXa14snT6B76AaB+tgShZdemAnqtJ1HtkDlc0KI1QwHYtGuKmFw2k5CW3R3mL+dVqykB2MkrGIcsTmm9mJ40aW1S4LVepQQrM5rNYioiIitkCxRJwQYxU8pzu45KmXto5g5K8ICSiALbKr3lMnDi8gQpzsvoQ==;NhxfArgWSAPOkeiWmCDnBQ=="
+secured: "Aj5hQv16V7Vjzs5gOa4LHNawOipxYDdMIAwifpRUgrt/06OesQLoqOl0JTSjfMP+TvZ5t5rpvTGzaw9MJaUihMyS6vhjU9d2U23Q26PDPYahAnbcXNynaQKniTPwTF9d0If26ZP7OLKoKGCX4s52B1Z8JYyqPpUHD2zjXuXGuL5Ow4oCATMO+5AToLS/AgcGOFI5wUj+i1evQblHeIZ/Z8iwLw4II14gyF3zybyOj7jNHP4SU7Sbo1msEgoUarh2ftb4I8aaTfNPI3SOTrGDCw55pii+Q4BlBsRXW3w/osM4JCvP+hTTS+IjmguGFUfPTDWganBbDIliKdi+ELnWWp4OUfXm21FVdyG4Hv29LU0=;NzMSktsH5mKdpvG/AAsxFA=="
 ---
 

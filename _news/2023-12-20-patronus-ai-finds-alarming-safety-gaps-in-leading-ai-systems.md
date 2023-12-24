@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-
 webUrl: "https://venturebeat.com/ai/patronus-ai-finds-alarming-safety-gaps-in-leading-ai-systems/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Patronus AI rolls out SimpleSafetyTests to identify harmful AI models"
-    excerpt: "Artificial intelligence model evaluation and security startup Patronus AI Inc. is rolling out a suite of tests developers can use to ensure their AI applications are safe to release in the wild. The company said its open-source SimpleSafetyTests offering ..."
-    publishedDateTime: 2023-12-19T14:00:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/patronus-ai-rolls-simplesafetytests-identify-harmful-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/humanoid-robot-working-with-machine-factory-ai-generative.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "YXRkByfvSomotwH/DAzbG24FXm1sYEIiy6GJmuovE3ipdwytzY/hjPtmGBt9Qwq7hvhONRXsPuuywbJPtTPZCcmj6XH1Go15mJ8CppB10vGLmNYq+YnZWrDt9KVMJK2x5UdYfSSTllofXT/xkOttvBiN2/Wlb5fEJCUEgHcMD98E2TAJvx0lGKFIJn4yNsTUMTSCHi5ay0O8gqOZTH8rkHjKRVa8FoN9lMR14JXxYrEnTOBGBUENMbRZPk/rMIDle/Ugt2P+TU1RbPggfLv8NrWqivAuLB6ZOouhHut/dF6+JJ/RoDUn1RzFm7d6HnryJadZEos2Hl2oDdcWVQ0ri5YjJ2+PmyQjSX6YUL2akgTz0lslw3+b53oeiPKop2JYu+8xuguP++V8P6NPaxE8i0aFhE1yEqi+otpjIm7zACyN1Igmb+LucQ5BbYEhQ5NGIARMxAF03BDhLcIb9bxO8Mgjr5JW3reTqT+42pYtFqBwmH3IwJbtVuyDWia57ky453q8B7LE1MEuuYxyvIhu+w==;Q3G1OSzJ+C2wFr4FiNdlxQ=="
 ---

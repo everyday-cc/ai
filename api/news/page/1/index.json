@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-24-ai-discovers-first-new-antibiotic-in-over-60-years.md",
+      "title": "AI Discovers First New Antibiotic in Over 60 Years",
+      "excerpt": "For the first time in over 60 years, a new class of antibiotics to treat drug-resistant staph infections has been discovered using artificial intelligence (AI) machine learning; a landmark breakthrough to address the antimicrobial resistance (AMR) crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic10181111.jpg?itok=swzVv9Ia",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp",
+      "publishedDateTime": "2023-12-24T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-24-ai-enabled-hyper-personalisation-next-thing-in-finance-industry.md",
       "title": "AI-enabled hyper-personalisation: Next thing in finance industry",
       "excerpt": "A significant catalyst behind this evolution is the emergence of Artificial Intelligence (AI), which is reshaping the fintech space in profound ways. AI-enabled hyper-personalization is becoming the next big thing in the finance industry, leading to ...",
@@ -207,7 +249,7 @@
       "originalUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -248,6 +290,57 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-why-ai-is-a-disaster-for-the-climate.md",
+      "title": "Why AI is a disaster for the climate",
+      "excerpt": "Amid all the hysteria about ChatGPT and co, one thing is being missed: how energy-intensive the technology is",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=mc.news",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology?ref=mc.news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a9eca3ac86e36f60cc449e3f00a104fc8827ce24/0_74_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9e8e39283d3e28b79eec229798eadc67",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology",
+      "publishedDateTime": "2023-12-23T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -459,7 +552,7 @@
       "originalUrl": "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -511,7 +604,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -874,7 +967,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 391,
+      "heat": 351,
       "tags": null,
       "images": [
         {
@@ -927,7 +1020,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1175,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1150,100 +1243,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
       "publishedDateTime": "2023-12-22T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
-      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
-      "excerpt": "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_a343409477b7aea350254f94daf52eb7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
-      "publishedDateTime": "2023-12-22T08:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-ai-and-hipaa-navigating-the-privacy-crossroads.md",
-      "title": "AI And HIPAA: Navigating The Privacy Crossroads",
-      "excerpt": "It's not about whether healthcare workers should embrace AI, but how they can harness its power to the full extent",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/",
-      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65851b674cc9567d325049f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1197,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2023/12/22/ai-and-hipaa-navigating-the-privacy-crossroads/amp/",
-      "publishedDateTime": "2023-12-22T05:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

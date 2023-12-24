@@ -56,16 +56,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
-    excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
-    publishedDateTime: 2023-12-19T14:39:00Z
-    webUrl: "https://www.nytimes.com/2023/12/19/opinion/artificial-intelligence-chatgpt.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
 
-secured: "OylWiXR3SMwZOshoYpXf83IOyVmSB73t4gYhEAchSLXVErKqFDMwUNlRKrnnow7RZoI70J4lBC/Mq1PzWOPhVbac6aNiL2FU8WSctQHnIdhEg8jwopviqGZNisgRml61D/M9jFQBZa0bYoK26Ce3hgrn4GFhBFkpiWmY42YkmXIN51ugqCgY/Nk6vjBtT2OIaJmFihusEJFfFwWP0EsGkSTTbohncOPvBT57nx65I0l5CTl7lIdGMjPzmz9q3x0O/wUkVsLgRcVkW5WRFyLTUEu1IcgQzL8B1hxsWoE52LZO7ksE15+Ctso20eERFq0dlgxak7X2GZee8z3mPP4g4PHpOOr3STO1mAtODBsKl/I=;zg3WCd1cOIeco5ovgpGXEg=="
+secured: "Ju9MRQE8+VIrF0YzJechRbEjO05ql8COJQy45pXNgfH7vHpm/V3IPl0Tjw8oNNYj/l8ARPAfMo7b1QYRSFl0aZ5RxxqeOHssoUvrLDMLUcXfPQKYxHcuNiCuQ5agr2GuSo7zgAcIQprTpyHwPgHaNd1fqB/k9jwVrmuB6IHrRd7Ou7tlfsylxKwuFJw/ZS1Kle20OgFjPo5JMauWQNuCXoUZNqpXE/wEMCqMwk6Sy3+Lf+bVZgd0cg59qApYIMjbWAydfh2WhPn66nrXE6rN0bntygaIVYAiqI4Q9A2kzeQT+oKYsKlm/vuzaQcqvqcRp3yfaQ4TMX05bitudtF3hyPuOH1Rh7ZksCDofskNV0GTCoVgo0aU1WsXZsOEmMy98oQ4iUqNq/ZZItZXTlVE66NIRhpwEoAmFvMfENqnNg2vN0tZWL2ztOmJQiHDgplSjq3ZEJlZuxdSd5hIRy5VivoB3v9qSbYmnpSASfjznT0ZLRyVAj54oJOB3tU36hKSo3n4iBI/s8BD0x99DpFcRg==;598knfCwCeaZH/glgNj4cw=="
 ---
 

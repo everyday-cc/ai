@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queri
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/19/alphabet-to-limit-election-queries-bard-and-ai-based-search-can-answer.html"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -201,6 +201,15 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "Google Restricts Election-Related Queries, Bill Gates Enthused By AI Innovations And More: This Week In Artificial Intelligence"
+    excerpt: "The week was once again a thrilling one for technology enthusiasts, especially for those keeping tabs on the evolving AI landscape."
+    publishedDateTime: 2023-12-24T13:00:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36376762/google-restricts-election-related-queries-bill-gates-enthused-by-ai-innovations-and-more-this-week-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "nzjLMzPGC2ThKAgC5GbcUHW5I8bYcIE+WoLwUykjvsYja8U0sTgs0WxdgSwFY1iCbkxNhjSRv2WxXvKfrvzIo/5yKYGYkSRFgcElkA2UneujCRTj0o4g18S8NU5rXb/X+eoUf8IOcZIoh4O5vH1tn727i0EsyzV306+rrr1wq42adDUibhmJgqihAzX9JJi/9pauD+iES3nG7wAKFAGqEZOJYoWKRLQM3UKa7ESEdhGbHJaTERTWXo+N1zRMl15EXQquRzS87e0aNV/eAhmtwGP3l+K1R4Hs8qx3j4TkS01H0aEitDtJOLQy4j+f6QEa5JM4Xy3vTphdcq3w9Ky+ExjkDAsdCjXF8PvE3+PLtj0BMZbOPe2kYPdyWElu082Hhv6TlPIvkmrjs3LHJTkuGPBSzj/BywK3ap9YSlrqTjY/8zXSF9XBMn0TeUGDPKdpGO3A3gMuwQsH6SNY71AvsbOpNsZulvu77s4pijd46z+VVqiLj6EKqQt4LytNUAqXOh7SanbR8N1xJ8DwRJGTMw==;S5iWwnH0aUt5EQffTgZvow=="
 ---

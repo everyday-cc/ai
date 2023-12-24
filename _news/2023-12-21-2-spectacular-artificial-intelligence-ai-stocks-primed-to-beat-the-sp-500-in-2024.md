@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-
 webUrl: "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/"
 type: article
 quality: 77
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
-    publishedDateTime: 2023-12-22T02:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
+  - title: "2 Red-Hot Artificial Intelligence (AI) Stocks to Buy in 2023 and Beyond"
+    excerpt: "The AI revolution has just started and is powering the growth of several high-quality stocks. Tech powerhouse Microsoft sees its Azure cloud computing business as a key growth catalyst."
+    publishedDateTime: 2023-12-20T07:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/758380/analyst_with_a_calculator__studying_stock_chart_on_desktop_screen.jpg"
+        width: 4000
+        height: 2667
+        isCached: true
 
 secured: "3fYOIqqv7VcPPeO+5lC+WIjTG3ZeNsEgKnSA7UbkBc81h6OtVtDc0AhHWYIGdaZ4LUHicJQypjbVBFdCDoina8TB/ZazUKwo94um+hS0mfgYfMY0noXBIG11Ag5obMyO8HK5vQ+Y4UNCZ2LPqQBAZFl+T5a5/+QSGoJqb7cvz7NHiWBTTd2RSUK4sEk/wQdBqeepSTtfItIpGllH8dpsRUjxEcHiyIxEyfkLUzLRWGXgkyZy1RPjksLlDxm9IRS75z1m4OCdLqZiUMcE1k+xmHZ/wXrfv3lqQgN5YcrxfLAn1GqVvTW4uYWx8/1m0SOZqhq+x31xz4kResY/rOOLmP3IyUPCGLpu6lxQUuCIhoE=;ccouNz3QtG4ZhEwX4973tA=="
 ---

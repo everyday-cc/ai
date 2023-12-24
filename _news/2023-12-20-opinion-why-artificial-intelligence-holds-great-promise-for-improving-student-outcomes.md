@@ -18,45 +18,38 @@ topics:
   - AI
 
 related:
-  - title: "Pioneering Students From Swiss Boarding School Issue Global AI Charter Calling For AI Regulation"
-    excerpt: "Artificial intelligence is disrupting the way we live, work, and learn, and our students understand the profound impact this powerful technology will have on our society."
-    publishedDateTime: 2023-12-19T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/19/pioneering-students-from-swiss-boarding-school-issue-global-ai-charter-calling-for-ai-regulation/amp/"
+  - title: "Opinion: Chip giant Micron is becoming another AI play for investors"
+    excerpt: "Micron Technology Inc.’s return to revenue growth last quarter as it recovers from the memory-chip downturn was in part due to the boom in AI-related chips, putting more of a spotlight on the chip maker as another potential AI investment. The company ..."
+    publishedDateTime: 2023-12-19T23:59:00Z
+    webUrl: "https://www.marketwatch.com/story/chip-giant-micron-is-becoming-another-ai-play-for-investors-fd5aae8f"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+  - title: "Opinion: These 5 guiding principles can help keep AI from going rogue"
+    excerpt: "Read: AI needs a strong code of ethics to keep its dark side from overtaking us Good governance is anchored in solid evidence. We foresee the need for objective assessments of the state of AI and its trajectory, to give citizens and governments a sound ..."
+    publishedDateTime: 2023-12-21T20:04:00Z
+    webUrl: "https://www.marketwatch.com/story/these-5-guiding-principles-can-help-keep-ai-from-going-rogue-6b76553e"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+  - title: "Opinion: Enjoy the Ride – John Stossel"
+    excerpt: "The magic of the driverless vehicle is the artificial intelligence behind the sensors. That allows the cars to operate like a human nervous system. Sensors and radar are the eyes and ears. The brain is algorithms trained by billions of simulated trips. The more the robo-cars drive, the more they learn, and the smarter and safer they get."
+    publishedDateTime: 2023-12-20T07:07:00Z
+    webUrl: "https://prescottenews.com/index.php/2023/12/20/opinion-enjoy-the-ride-john-stossel/"
+    type: article
+    provider:
+      name: Prescott eNews
+      domain: prescottenews.com
+    quality: 24
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6580769d0586643c25a05e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 365
+      - url: "https://prescottenews.com/wp-content/uploads/2021/09/John-Stossel-main.jpg"
+        width: 523
+        height: 523
         isCached: true
-  - title: "The challenges of regulating artificial intelligence"
-    excerpt: "The European Union reached an agreement to regulate artificial intelligence. CBS News Bay Area anchor Elizabeth Cook asks Olaf Groth, PhD, from UC Berkeley's Haas School of business, about the future"
-    publishedDateTime: 2023-12-20T20:38:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/video/the-challenges-of-regulating-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/e3edb272-d110-4c11-ac40-2703324dcf67/thumbnail/1200x630/34abc44066c4a0f3ad660829971c657d/b76b006c669e7d1697ac4f0a016e0ee4.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Artificial Intelligence is Rapidly Changing Human Society"
-    excerpt: "Artificial Intelligence (AI) is revolutionizing human society at an unprecedented pace. With advancements in technology, AI has found its way into various aspects of our lives, transforming the way we work,"
-    publishedDateTime: 2023-12-19T19:42:00Z
-    webUrl: "https://thecostaricanews.com/how-artificial-intelligence-is-rapidly-changing-human-society/"
-    type: article
-    provider:
-      name: The Costa Rica News
-      domain: thecostaricanews.com
-    quality: 19
 
 secured: "UayPJh5EdUFqfJdu4xLBcMbF6h0ONuO+yCVK403H+EZ7b8I3n7CwJtszGs+XvHz+Tu/HiOtCP7i8qcPABZrBApkb/RwbEFGjkXC5IyxlUSLhe3gtokJHkiauGkJZ3NIjBlySK3hKK9pu46KA9TTI2GkJbD0GdAoVDiLOBhHpAKsj54QzMS0Cd3f/O/ob1QkpOmeJtGWQRreb2z0eOjEp5dHVvFRA2KTpr0dqLR9ejlDc94UyGV+vVWFRWZkpB1RYw3ljuy+922zQjo5AbqAxsbn5uaKJohE8lBSFYV+1rtsCxYCfWsRVzqblM1fCdBm1tQyksm2Iey9i6sF+zNpKo6An//bJqSezjfbgk0Taius=;FBYH0mVjVCJRRVunr27epw=="
 ---

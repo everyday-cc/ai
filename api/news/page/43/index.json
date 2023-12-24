@@ -2,6 +2,83 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-11-18-european-regulation-on-artificial-intelligence-threatened-by-stalled-negotiations.md",
+      "title": "European regulation on artificial intelligence threatened by stalled negotiations",
+      "excerpt": "A wind of panic is blowing over the AI Act. Negotiations on the draft European regulation on artificial intelligence (AI) have been very tense since MEPs walked out of a meeting with member-state ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "originalUrl": "https://www.lemonde.fr/en/economy/article/2023/11/18/artificial-intelligence-european-regulation-threatened-by-stalled-negotiations_6265152_19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Monde.fr",
+        "domain": "lemonde.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-18-corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
+      "title": "Corpus Christi Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
+      "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in TexasKnow this: \"Here's the thing, we know",
+      "sourceUrl": null,
+      "webUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
+      "originalUrl": "https://kdhnews.com/news/texas/corpus-christi-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains/article_b0c71ec5-a0ce-5a87-8442-3dfce6e226ec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/custom/image/d24d118c-8888-11e9-94c1-a36b64682479.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-17T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Killeen Daily Herald",
+        "domain": "kdhnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-18-philadelphia-health-update-poor-cognitive-function-tied-to-poor-sleep-doctor-explains.md",
       "title": "Philadelphia Health Update: Poor Cognitive Function Tied to Poor Sleep. Doctor Explains",
       "excerpt": "Dr. Puja Uppal says, \"Sharp brains need good rest!\"Doctor's Expert Insights About Poor Cognitive Function & Your Sleep Health in PennsylvaniaKnow this: \"Here's the thing, we know",
@@ -1048,92 +1125,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-17-ai-is-already-being-melded-with-roboticsone-outcome-could-be-powerful-new-weapons.md",
-      "title": "AI is already being melded with robotics—one outcome could be powerful new weapons",
-      "excerpt": "Interest in the incorporation of robots into security, policing and military operations has been steadily increasing over the last few years. It's an avenue already being explored in both North America and Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.html",
-      "originalUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-is-already-being-me.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-ai-melded-roboticsone-outcome-powerful.amp",
-      "publishedDateTime": "2023-11-16T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-what-will-artificial-intelligence-mean-for-your-pay.md",
-      "title": "What will artificial intelligence mean for your pay?",
-      "excerpt": "Such fears have intensified as artificial-intelligence (ai) capabilities have leapt ahead. On November 2nd, speaking after Britain’s ai summit, Elon Musk predicted: “There will come a point ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/artificial-intelligence-mean-pay-111209036.html",
-      "originalUrl": "https://www.aol.com/finance/artificial-intelligence-mean-pay-111209036.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_the_economist_398/a2623ff513e7c7ba77db3b3d1c694fb9",
-          "width": 608,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

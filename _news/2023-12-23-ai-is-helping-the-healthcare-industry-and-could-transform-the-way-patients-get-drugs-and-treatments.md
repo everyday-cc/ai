@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatmen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
 type: article
 quality: 92
-heat: 114
+heat: 112
 published: true
 
 provider:

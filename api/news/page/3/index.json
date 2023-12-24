@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-21-ai-and-the-entrepreneurial-spirit-perfect-together.md",
+      "title": "AI And The Entrepreneurial Spirit: Perfect Together",
+      "excerpt": "Venture capitalists and business leaders are finding AI is opening up opportunities for innovation beyond what anyone could imagine even just a couple of years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651758e6ae1c40714bd13536/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1339,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/20/ai-and-the-entrepreneurial-spirit-perfect-together/amp/",
+      "publishedDateTime": "2023-12-21T04:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-warehouse-robotics-startup-greyorange-raises-135m-in-series-d-funding.md",
+      "title": "Warehouse Robotics Startup GreyOrange Raises $135M in Series D funding",
+      "excerpt": "\"This Series D funding amplifies our commitment to leadership within the AI and robotics orchestration space and affirms our thought leadership within this market.\" GreyOrange's latest funding round also reflects a strong vote of confidence from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/warehouse-robotics-startup-greyorange-raises-135m-in/467346",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/warehouse-robotics-startup-greyorange-raises-135m-in/467346",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1703149207-akashguptanew.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-can-ai-therapy-help-ease-americas-mental-health-crisis.md",
       "title": "Can AI therapy help ease America’s mental health crisis?",
       "excerpt": "Artificial intelligence can't replace human therapists, at least not yet. But optimists hope it can help fill in gaps that cause millions of Americans to go without any mental health treatment at all.",
@@ -250,7 +353,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tech-slips-as-ai-speculation-slows-tech-roundup-c173782f",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -302,7 +405,7 @@
       "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -543,7 +646,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -844,7 +947,7 @@
       "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-strategy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -884,49 +987,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning.md",
-      "title": "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning",
-      "excerpt": "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "originalUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1170,41 +1230,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot-jefferies.md",
-      "title": "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies",
-      "excerpt": "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
-      "originalUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T13:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -90,15 +90,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 4
-  - title: "Mercedes Receives Approval To Use Turquoise-Colored Lights For Self-Driving Cars"
-    excerpt: "Mercedes-Benz has received approval to use special exterior lighting for Drive Pilot-equipped Mercedes-Benz S-Class and EQS models in California and Nevada."
-    publishedDateTime: 2023-12-19T14:29:00Z
-    webUrl: "https://carbuzz.com/news/embargo-dec-19-9-30-a-m-est-mercedes-receives-approval-to-use-turquoise-colored-lights-for-self-driving-cars"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 0
   - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
     excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
     publishedDateTime: 2023-12-20T19:15:00Z

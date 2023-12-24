@@ -47,16 +47,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenWeb Appoints AI Foundation Founder Rob Meadows as Chief Technology Officer"
-    excerpt: "Respected expert and ethical AI advocate joins community engagement platform to redouble AI innovation, shepherd the community economyNEW YORK,"
-    publishedDateTime: 2023-12-19T13:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/openweb-appoints-ai-foundation-founder-rob-meadows-as-chief-technology-officer-1032912197"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
 
-secured: "BsHPTVGrdlsMMjvhy3pmMmgw6T7uV2GWP6gQVvD8myqH7TprCX4JgdT7Sukz/FjfEfrmhrjnqDAWqN/y4shpUYbHKsrTWvdES/5v7MtzYNzyKm/TYr4LmUCFfslwDk8DdTIpli+5JGGF4mFqSm59UNtkBkRB9hrWodsssiqsKGlW8weAAktmHpkKqq4v7ejjuvT101CLFh81GxJsc3wz8w7XHOMBIHIWmgsQPPtyse2Fy5gOnIXnJm1u9HgYkvnhYPCuXYtYlX7kFNEfqbzx57RTBe2cF2h4cNxQc/71PWeperBFu3fWCI1Da4O/737RIW8+wMInInAXibRUUNunUAouhBgCRudfU0N/93k8MLw=;oqSIBWa/R1aiWjHmz6iQ3w=="
+secured: "WG08Sqb2MIMTxsYeusWdCPCgXOYqMAb8TFGlCeKK5zO8S6gMDcdU8FzCc6QtIduS0Ype7Que8+xLSF0QwI2Cj/wk04l50n3h/65NpvJioiw5dieuAxFqOuVOWZd/J/sWDLKWVasAx14dThMKvumW0K6T8Q3cZsU0gIDHQ3gO17ybe777aE/5mxGil72qPxtk/ro/Td4WJcOifMRpeYS240NXMPOJUgdhwVpN78e9xAN3SpWf9Jo2cTQLIcx5PJ+QzDLIRBFgXgEoXKq60SeCswe6PRe4yVljK5hBYoZ+yNPOZM5q56MfLsRPDGjI1Y9xrfs4+D0fH3QINi3WpJ9iR0xJOcbym6SLrMYLKYZMSvjEeJJkQecz54T7MBaBSUzFXYO18863EVvvgfSgMzJK/hV1b0ogiZxuzaH5/YHOq4LGhKLqQ5mV78cuAsfwThbBwikS3cYZvBQmb62qBNUGn0VZnBWYDG8Gd/iVprSY98bd1Wk2HWIARStkCgRzqZuZ6QpCc9enAW4pNCYM+xn1Nw==;HGcnZeExHaIP8Qs4do9Y1w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.shropshirestar.com/news/farming/2023/12/22/farmers-nee
 webUrl: "https://www.shropshirestar.com/news/farming/2023/12/22/farmers-needed-to-help-train-robots-to-spot-slugs/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 905
     isCached: true
-
-related:
-  - title: "Farmers called on to help train robots to spot slugs"
-    excerpt: "Farmers are being called on to help train robots to spot slugs and the damage they cause to arable crops as part of a ground-breaking trial."
-    publishedDateTime: 2023-12-19T13:54:00Z
-    webUrl: "https://www.farminguk.com/news/farmers-called-on-to-help-train-robots-to-spot-slugs_63870.html"
-    type: article
-    provider:
-      name: Farming UK
-      domain: farminguk.com
-    quality: 34
 
 secured: "LO9Mq+yGOAHmc2VT7d8nsxbxkBGq28HjSpjH3/f4nYkz3zBMNOp7V/lnXiScoTCwgcN0Vk3sad8LVYH+l7Q10FlrYI2VAEnVKQ9CcKRCM1RykYV07XAog6p9wU4wR4utYXbGH2lnm7UZICnBnqiXwW5ImBbmofvnM1YCB/BigZ7CyamIBgNemZBHOiOvsEmQtYhe0Gp0Adevay8p3EFgWT8tqDfeLLAIvNfQXX/Exh/g7iAOfFLuG5HJPIPKBCCbJRVvSZlWr2kIOVmx0m6DWKcn8xKKK2LrkxXirs5zgU1XwFHw6XXiOsVoyco/PZ7Rrov4sg4zkllpsTyg1szFbDebmKYkj6a9UeMSei4rtCQ=;ERVETri0k0hgn5YaHuUwew=="
 ---

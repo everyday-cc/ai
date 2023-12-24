@@ -64,6 +64,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "io.net Celebrates a Successful Launch with BC8.AI Platform"
+    excerpt: "New York, United States, December 24th, 2023, Chainwireio.net, a leading innovator in artificial intelligence, proudly"
+    publishedDateTime: 2023-12-24T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/io-net-celebrates-a-successful-launch-with-bc8-ai-platform-1032923756"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "How to Build Trust in Artificial Intelligence"
     excerpt: "OpenAI fired and then rehired CEO Sam Altman. When the dust settled, Open AI emerged looking even more like a for-profit corporation than a nonprofit, with a board that is indistinguishable from those of other tech startups—right down to the lack of diversity."
     publishedDateTime: 2023-12-21T17:00:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -650,20 +650,20 @@
     },
     {
       "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
-      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
-      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
+      "title": "2023: The year we played with artificial intelligence — and weren't sure what to do about it",
+      "excerpt": "ChatGPT was the catalyst for a year that took artificial intelligence mainstream ... objects and individual faces and help guide self-driving cars. Speech recognition advances made voice ...",
       "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
+      "webUrl": "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
+          "url": "https://s.abcnews.com/images/Business/wirestory_565ff5b817b5db0d4e74829ae3d68611_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -671,13 +671,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "publishedDateTime": "2023-12-14T03:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

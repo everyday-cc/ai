@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-en
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/23/ai-chat-gpt-environmental-impact-energy-carbon-intensive-technology"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,19 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why an AI Pioneer Is Worried"
-    excerpt: "This approach, known as deep learning, was on the fringes of AI research for a long time ... which could be useful in Facebook or e-commerce, but it could also be a little bit disturbing. We don't want to be manipulated behind our back."
-    publishedDateTime: 2023-12-19T16:00:00Z
-    webUrl: "https://www.wsj.com/podcasts/the-journal/why-an-ai-pioneer-is-worried/8a11f1da-14e3-447f-904a-89818c3e36c7"
+  - title: "Can artificial intelligence aid climate solutions in the Middle East?"
+    excerpt: "Robotics, artificial intelligence (AI) and automation are relevant to creating change and efficiencies in our energy sector. For oil and gas-dependent political economies, especially those in the Middle East,"
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.al-monitor.com/pro/memos/can-artificial-intelligence-aid-climate-solutions-middle-east"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 54
     images:
-      - url: "https://images.wsj.net/im-853641?width=1280"
-        width: 1280
-        height: 1280
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-12/GettyImages-519630250.jpg?h=1d34674f&itok=04QQ1FJs"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Why artificial intelligence is the 2023 newsmaker of the year"
+    excerpt: "Artificial intelligence (AI) is the 2023 newsmaker of the year for the B.C. business community because of its rapid rise from nascency to being a technology that almost all executives are either using or fear that they should be using to protect their ventures’ futures."
+    publishedDateTime: 2023-12-20T15:00:00Z
+    webUrl: "https://www.squamishchief.com/economy-law-politics/why-artificial-intelligence-is-the-2023-newsmaker-of-the-year-8006449"
+    type: article
+    provider:
+      name: Squamish Chief
+      domain: squamishchief.com
+    quality: 39
+    images:
+      - url: "https://www.vmcdn.ca/f/files/biv/ai-credit-vertigo3d-istock-getty-images-plus-getty-images.jpg;w=1200;h=800;mode=crop"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "FjttdiZ+fihxdiPT+LbvDnRUKbv0oWa3AV4mWfei5VFoqX3MrYOuUKP2VMDU5KLBDXQFw0Dv+VqTlBz9hdbl26Y0o2elhbc2Wv1ddLmvL/ajGY4qu3zdkeHTFuuM7RxLa53H4FazDft3XCN7oeFfVsCfmJwnJ60O2dP07ty94D4coH1x7ObRPCjUf3oE+osm2ekZPLIWBlvQxW77RD7nuXhy7gQmIHdfBZmYf2uMwuIdP2Wi8+qzTqvss1p4qidD+TLfEvMnhSgbSNcWY7N/u1NmVDE6IN+P+7RRmu5VKqI2EfjgYeyguFBttLAfEu9xqMv7TBBqKchpWY6dbYujcv3dZM3XyF57JUGMX9eRPxuHRQiFbvC+gI+m4ZyeruaChmNpsv4SY8mK5qZ6YTHNGW4p4x4j1F2hEyGHg+EcU/b4WLqB7t3OShf5J0b+Knsonl3jXGbkdgcuYOdN+7qtJCLt6MVeKhG18lHwVF4eMvAC8nC+2KUbQ5DgBJ/3nOcFO3GGyWOOw+RGucLHzCim1A==;mVwwerATFfobNkV1g58qRw=="

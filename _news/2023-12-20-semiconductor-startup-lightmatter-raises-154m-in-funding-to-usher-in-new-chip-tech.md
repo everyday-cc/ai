@@ -19,20 +19,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Lightmatter Accelerates Growth and Expands Photonic Chip Deployments With $155M in New Funding; Now Valued at $1.2B"
-    excerpt: "Lightmatter is developing photonic technologies that reconstruct how chips calculate and communicate, which can be leveraged by the biggest cloud providers, semiconductor companies, and enterprises for their computing needs."
-    publishedDateTime: 2023-12-19T16:31:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936470.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Riding the AI wave, Lightmatter hits 'unicorn' status with $155M investment"
     excerpt: "The Boston-based developer of photonic chips specialized for AI made headlines for closing an additional $155 million in new funding and revealing its new valuation of $1.2 billion"
     publishedDateTime: 2023-12-19T18:18:00Z

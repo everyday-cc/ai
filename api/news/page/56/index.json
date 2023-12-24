@@ -2,6 +2,92 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-11-08-automotive-voice-recognition-system-market-to-reach-147-billion-globally-by-2032-at-161-cagr-allied-market-research.md",
+      "title": "Automotive Voice Recognition System Market to Reach $14.7 Billion, Globally, by 2032 at 16.1% CAGR: Allied Market Research",
+      "excerpt": "WILMINGTON, Del., Nov. 8, 2023 /PRNewswire/ -- Allied Market Research published a report, titled, \"Automotive Voice Recognition System Market by Technology (Embedded, Cloud based, and Hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-11/60594080-automotive-voice-recognition-system-market-to-reach-dollar-14-7-billion-globally-by-2032-at-16-1-cagr-allied-market-research-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ibm-aws-set-up-innovation-lab-in-bengaluru.md",
+      "title": "IBM, AWS set up innovation lab in Bengaluru",
+      "excerpt": "The lab is open to clients from around the world to explore companies’ solutions and test prototypes and proof of value that aim to help accelerate innovation across industries such as banking and financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/business/Industry/avk4lo/article67508611.ece/alternates/FREE_320/2023-11-07T051349Z_917874144_RC2484AVDD65_RTRMADP_3_WIPRO-LTD-WORKERS.JPG",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
+      "publishedDateTime": "2023-11-08T05:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund.md",
       "title": "IBM Continues AI Push With $500M Enterprise AI Venture Fund",
       "excerpt": "IBM has unveiled a $500 million venture fund to invest in AI companies, ranging from early-stage startups to high-growth enterprises.",
@@ -1047,109 +1133,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-im-anxious-and-excited-about-this-bonkers-industry-changing-phone-chip.md",
-      "title": "I’m anxious and excited about this bonkers, industry changing phone chip",
-      "excerpt": "from everyday speed to games and the latest AI features. The thing is, it’s all rather untested out in the wild, and it could go either way. The Dimensity 9300 could be the first of a new generation of chips that transform mobile devices and a design ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/11/dimensity-9300-in-hand.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/im-anxious-and-excited-about-mediatek-dimensity-9300-processor/?amp",
-      "publishedDateTime": "2023-11-07T16:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence.md",
-      "title": "Actors’ Strike Continues: Here’s What’s Holding Up Negotiations, Including Artificial Intelligence",
-      "excerpt": "The union rejected an offer that would permit film studios to use AI scans of deceased performers without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a70561b74b22cb618482c/0x0.jpg?format=jpg&crop=3200,1798,x0,y17,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-07T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

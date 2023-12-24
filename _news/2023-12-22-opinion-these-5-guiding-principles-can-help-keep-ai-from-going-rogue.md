@@ -46,6 +46,15 @@ related:
         width: 523
         height: 523
         isCached: true
+  - title: "OPINION: Why artificial intelligence holds great promise for improving student outcomes"
+    excerpt: "The prevalent narrative around AI and cheating is overshadowing the technology’s true potential: Artificial intelligence holds great promise for dramatically enhancing the reach and impact of postsecondary institutions and improving outcomes for all students."
+    publishedDateTime: 2023-12-19T18:15:00Z
+    webUrl: "https://hechingerreport.org/opinion-why-artificial-intelligence-holds-great-promise-for-improving-student-outcomes/"
+    type: article
+    provider:
+      name: The Hechinger Report
+      domain: hechingerreport.org
+    quality: 9
 
 secured: "CP/k0xslf3ow95g04+19MridYZ5KG7kKSq6U2UAtKpsTKxCMrlX832k2xFQFaPxKT3YdQgJWrA8HrJ54Cgq1VGXH0mystyZJYy0bTkj+3SPFYms8Wadgxx4xlkJLKs6uQzH5Hj5EvxotDO2+k4nRJgGvf5Di0VHDCJaHe7VbFmt0NKQH6o4FcvqQFmV+iwZFxGTiuOXxHRPTSzizwxe3Z/QGlUI2qA8cDZQI0gb8+3OH8TW1mpKUPu2gAiVtPvWa1utYe5j9QkeIfaXUq/9oKFJSEZmeHTAzZI0LHkJ9M2s98ldbC9PrLsKhPQXx5XWWL+7xHrX8JFKqKJbTksIIEFL3Y9CZ4gFjAG+RO8obmOQ=;IXysXM0OqM/UT+Jh7z7eHg=="
 ---

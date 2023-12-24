@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-rol
 webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 1125
         height: 900
         isCached: true
-  - title: "Manufacturing CEOs Are Stepping Into 2024 Embracing AI, Accelerating Reshoring And Investing In High-Tech Talent"
-    excerpt: "Drawn From A Year’s Worth Of Proprietary Polling, Xometry’s 2024 Predictions Show An Industry Embracing High-Tech Tools And Talent To Navigate A"
-    publishedDateTime: 2023-12-19T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/manufacturing-ceos-are-stepping-into-2024-embracing-ai-accelerating-reshoring-and-investing-in-high-tech-talent-1032912359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
 
 secured: "nyFaRerYUVUyA/WejF1TbG09fTj41WxrxEC9Gx4n9tTcpN028RA2/bFu67PcrWRJliZTdmUE7g5fi3PaFWMhaEKbztcYSmuylIMmXKjw9kpbKqTOG4pD20NR9/6Pfzvq/ExpFyqNEYL9eokTaJFpIgjIcB3+2tfokDVDqrw3tE7Ko5/WAlM8KGG21pqfJWbOywrMdp/JFpS/hF7KxsnF1D/if4hpCX4OecqcW32vysM3V38EcNIhTckKOXApZMcFZlLprZ8S0gi0NGjYeaquks3fSNt22NriKFnfj+XgkszXJqfQt6IVxX17TXnTfZZgGsiuSfchQLZcjFyzXHxNGMMjaHdh419lGdiFvQbheDM=;rdE6aWar3dQjdiIKGJhEaw=="
 ---

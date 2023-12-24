@@ -198,6 +198,15 @@ related:
         width: 1920
         height: 1282
         isCached: true
+  - title: "Google Restricts Election-Related Queries, Bill Gates Enthused By AI Innovations And More: This Week In Artificial Intelligence"
+    excerpt: "The week was once again a thrilling one for technology enthusiasts, especially for those keeping tabs on the evolving AI landscape."
+    publishedDateTime: 2023-12-24T13:00:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36376762/google-restricts-election-related-queries-bill-gates-enthused-by-ai-innovations-and-more-this-week-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 6
 
 secured: "TSHik4Zzccyug6t49Y3Gob+wFWXd8APhxdFjry42HUYsSDVLHXBu3j/PR/C6eKpYuNMyCHwB82BNW4RcPZ2DZBCWOPROqlsy7SGQdPTqgG+WDnSoYjDNtqjzB4qNPKYVfjiQGq75kvQ2yE9b96O4RUs/y/tJqDikpD6ZXe436KBiv90gM2k74eyXLrQRx0M6AiEIHijJh5TZ1b2LdlLpOqySpTwG6kUh3JJjzw2oav9kkgbhDlm4c1cms29c5CPvC8T/zyYZ2k4QQpTmMnRDj42T/OO0BEI4JTBbSwWPCYAmLaX2vMt1R/HQmkxh1uUjrpiQ5nOHM4xA07WMTi91aNY0ZdZFCDA1PVUFQz0nriqWrVHO5KHgvE49Tb9Anx8a49OuI9vNyIyvoguADqYxLJ+E4i6ZBSuXFYVYPM4mz+51jh+cjZVQBVKaLOvxb7Ijd6wD5ZqiN4MpPHRBp2gT2uXd5ti7wui8IABxJjGJStP6jvtRp9LFvZgP5NY4ar5NdejgkwYn3d1F/ofbzG4TeQ==;QiQ7ieSwKJzRboU3h/uHJw=="
 ---

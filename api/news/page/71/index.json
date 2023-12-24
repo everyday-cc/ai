@@ -2,6 +2,92 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-10-27-uber-launches-rides-in-self-driving-waymo-vehicles-in-phoenix.md",
+      "title": "Uber launches rides in self-driving Waymo vehicles in Phoenix",
+      "excerpt": "Oct. 26 (UPI) --Uber announced Thursday it will begin using driverless cars to transport customers in the metro Phoenix area through a partnership with Waymo. Uber said in a statement that riders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/4841698335576/2023/1/31753a31b0b03f843dfe5a3f70028f4a/v1.5/Uber-launches-rides-in-self-driving-Waymo-vehicles-in-Phoenix.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/10/26/Uber-driverless-rides-Phoenix-Waymo/4841698335576/",
+      "publishedDateTime": "2023-10-26T17:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-26-exploring-the-details-of-an-energy-saving-ai-chip.md",
+      "title": "Exploring the details of an energy-saving AI chip",
+      "excerpt": "Hussam Amrouch has developed an AI-ready architecture that is twice as powerful as comparable in-memory computing approaches. As reported in the journal Nature Communications, the professor at the Technical University of Munich (TUM) applies a new computational paradigm using special circuits known as ferroelectric field effect transistors (FeFETs).",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-energy-saving-ai-ch.jpg",
+          "width": 1750,
+          "height": 1466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-exploring-energy-saving-ai-chip.amp",
+      "publishedDateTime": "2023-10-26T16:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-26-come-together-new-ai-enhanced-beatles-song-drops-nov-2.md",
       "title": "Come Together: New, AI-Enhanced Beatles Song Drops Nov. 2",
       "excerpt": "Now and Then' is based on a demo John Lennon made before his death. It was on ice for more than 25 years until an AI algorithm and director Peter Jackson helped bring it back to life.",
@@ -1087,99 +1173,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-amazon-launches-new-ai-product-image-generator.md",
-      "title": "Amazon launches new AI product image generator",
-      "excerpt": "The functionality works similar to other open-ended text-to-image generators such as OpenAI's DALL-E 3 and Midjourney.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/",
-      "originalUrl": "https://venturebeat.com/ai/amazon-launches-new-ai-product-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/assets.aboutamazon-2.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-26T04:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-26-artificial-intelligence-company-from-silicon-valley-enters-bihar.md",
-      "title": "Artificial Intelligence company from Silicon Valley enters Bihar",
-      "excerpt": "Tiger Analytics is primarily a consulting company in the field of artificial intelligence and machine learning.We hope that taking this lead into account, many more companies will come to Bihar in the same way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar",
-      "originalUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_46_53_9831308.png?width=1280",
-          "width": 1280,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2682311-artificial-intelligence-company-from-silicon-valley-enters-bihar?amp",
-      "publishedDateTime": "2023-10-26T04:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

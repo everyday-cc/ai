@@ -101,20 +101,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Exclusive video: Financial Services Forum at FinTech LIVE"
-    excerpt: "Experts from MSU Federal Credit Union, Convera and Minka tackle all the big questions during the Financial Services Forum at FinTech LIVE London 2023"
-    publishedDateTime: 2023-12-19T16:53:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/finserv-forum-fintech-live-london-2023"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/b9e0c5f7d85f6923a52198d6087d2b56:c3c44a7bf9a3fc9004a075d1bed81c3c/maxresdefault.jpg.jpg"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "FinTech Magazine’s Top 10 regtech companies"
     excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
     publishedDateTime: 2023-12-20T09:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-
 webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-to-automate-your-future-in-2024-1032920850"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rise of autonomous vehicles (AVs) and artificial intelligence stocks is"
     publishedDateTime: 2023-12-20T10:24:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-play-the-rise-of-autonomous-vehicles-1032915449"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "3 Automation Stocks to Reshape the Future of Work"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Recently, three M&A possibilities were discussed for automation stocks in"
+    publishedDateTime: 2023-12-21T18:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-automation-stocks-to-reshape-the-future-of-work-1032920387"
     type: article
     provider:
       name: Business Insider

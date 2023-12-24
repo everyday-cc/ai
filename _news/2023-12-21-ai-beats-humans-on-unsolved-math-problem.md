@@ -91,15 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Artificial intelligence robot 'physically beats' humans and out-thinks them in new breakthrough"
-    excerpt: "Researchers in Switzerland created an AI robot that learned in just six hours to master a popular game of physical skill"
-    publishedDateTime: 2023-12-19T13:08:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/ai-artificial-intelligence-robot-beats-humans-frontier-threat-benefits-b1127933.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 22
 
 secured: "yDhnA5T8x06h+tHTGwPBmfgC1EmetbT1iQaeZ8VuJxQ5FlDLvhIGtZ+VdgH+cBrr8kQ2PaKJ5u/4lhZ10FqCAVQw0o+hih9muq4ZV6/IxrIyrwHjiVNDTHxzmsroS4e5Rh+A3bIkEnIrj6arSNu4eu7bmkdRzdfzQYT2b9uhUt11Zha9PZUOTAGWoyIvAtBW4cyvAXAWSNdxZOYA/HhBs8jZsBLLF7OKLMWtIWWykYZQQKH4QJGoU3UNlGCjhvJVhaQAPMaGmeLJuCJeSfrFwxQa8Wtkq8HwTKYEpx5yjvB2Q+SXmaNA9J4nc/xuNfyFt8zamkEGXWOgcAKgGTvE1anNErNL/t1jmroc2/2v+KXVPU9EKQLufI7or/0iv+oUA6Ez3KD0T1RyM5NR3LQjNeu/6GCmLNadh7geLpyc/uJRX99yYkCC4x9Fdxw4++bi3LbVOIrkea1pOYWekyUW6Ru8xsFz3O02iGpPw7dqRWv+UsU87B4/cXKIs1b77693UpSMKLmzGtqo8Zn9CImTQw==;2gjWwTRSBpZRF7wCBL5guQ=="
 ---

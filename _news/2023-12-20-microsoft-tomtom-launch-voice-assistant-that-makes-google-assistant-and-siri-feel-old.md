@@ -41,20 +41,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "TomTom and Microsoft develop in-vehicle AI voice assistant"
-    excerpt: "TomTom has teamed up with Microsoft to launch an AI assistant for vehicles, enabling drivers to converse with their car."
-    publishedDateTime: 2023-12-19T15:41:00Z
-    webUrl: "https://thenextweb.com/news/tomtom-microsoft-develop-vehicle-ai-voice-assistant"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F12%2FAI-assistant-vehicle-.jpg&signature=abf53810844f2f4c7dd5b797cd3d1daf"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
     excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
     publishedDateTime: 2023-12-23T15:16:00Z
@@ -130,15 +116,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's new Windows AI Studio developer tool... makes you install Linux to use it"
-    excerpt: "Windows AI Studio, a new developer tool designed to help programmers integrate generative AI into apps, only works on Linux, the company has revealed. Specifically, it requires Ubuntu 18.04 Bionic Beaver or later, an LTS Linux distro that was first made available in April 2018."
-    publishedDateTime: 2023-12-19T14:50:00Z
-    webUrl: "https://www.techradar.com/pro/microsofts-new-windows-ai-studio-developer-tool-makes-you-install-linux-to-use-it"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 57
   - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
     excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
     publishedDateTime: 2023-12-21T15:17:00Z
@@ -262,20 +239,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "TomTom and Microsoft Collaborating To Bring Generative AI and Cloud Analytics To Vehicles"
-    excerpt: "TomTom and Microsoft are collaborating to develop new automotive solutions that leverage AI capabilities, cloud analytics, and Microsoft’s automotive"
-    publishedDateTime: 2023-12-19T14:57:00Z
-    webUrl: "https://www.indianweb2.com/2023/12/tomtom-and-microsoft-collaborating-to.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 45
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSmoQQPlBWTaljYRECTj8gkRXl-vbziUmnhI5H9DHIVXLRJVpyNKBVQyOoEz35NQCYIt1W1P47qWQPRFGat2cPynAHNFLoc8NkKYub7Q0VvzRC1l7c1ebzS6zPWrFH8YUB5NJ4yOgmD3I9LOBzDrQmFcFXo2kkjmD_nuDscK1208mKogOE0VmaR3wwPUQ/s16000/tomtom_microsoft_genai.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
     excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
     publishedDateTime: 2023-12-21T07:57:00Z
@@ -317,15 +280,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "TomTom and Microsoft unveil generative AI for connected vehicles"
-    excerpt: "TomTom has joined forces with Microsoft to bring generative AI to the automotive industry. This collaboration has resulted in the development of a fully-integrated AI-powered conversational assistant that enhances voice interaction with infotainment, location search, and vehicle command systems."
-    publishedDateTime: 2023-12-19T16:22:00Z
-    webUrl: "https://www.iottechnews.com/news/2023/dec/19/tomtom-microsoft-unveil-generative-ai-connected-vehicles/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 34
   - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
     excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
     publishedDateTime: 2023-12-20T19:44:00Z
@@ -353,15 +307,6 @@ related:
       name: Visual Studio Magazine
       domain: visualstudiomagazine.com
     quality: 27
-  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
-    excerpt: "LTIM, BSE: 540005], a global technology consulting and digital solutions company, announced a strategic collaboration with Microsoft to introduce cutting-edge, AI Powered Employee Engagement Applications."
-    publishedDateTime: 2023-12-19T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936224.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
   - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
     excerpt: "Under the umbrella of LTIMindtree's innovative Canvas.AI suite of AI offerings and solutions, these Generative AI Powered Employee Engagement Applications will redefine enterprise effectiveness and enable greater personalization."
     publishedDateTime: 2023-12-19T22:21:00Z

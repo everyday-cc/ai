@@ -91,15 +91,6 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 34
-  - title: "Artificial intelligence robot 'physically beats' humans and out-thinks them in new breakthrough"
-    excerpt: "Researchers in Switzerland created an AI robot that learned in just six hours to master a popular game of physical skill"
-    publishedDateTime: 2023-12-19T13:08:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/ai-artificial-intelligence-robot-beats-humans-frontier-threat-benefits-b1127933.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 22
 
 secured: "0YGTNYy68r5vb4/jgPWBtBh1cND+o6Y3Xbb1EJyxda1sWcLEDjo6E3kWX5ceahDoCM86kiXUATNMafFIUoIFFHuBPnFnxKaaBGgswrnA3CrGAiLG6RrcljKfRSeL7KqfTWZ5KLLdN6JVGn3EFXeFI0jbNGpqS4Eu6qB7hBVhPbC+aBRLIUS6/7k6Uk7oNCXKowskMnYWf1lo2NHlnkiXRVkCdLZwxHC1Y8SoxSJhF8OKObRxmKOLe/AIHFGR/pk9wnJ6VYKRsHCa9vlWQNRMi8TSS4mUvkQuqHuWocvgnEJygg8sZwZjKqr08JbJ9hpt6+lN7iqBbnNPvSNX+9h2xhfhVAhGQfDQsAaNEcnTsF9bArp1n69LUj/Bc2YvH0URLnSPJN6WExhLau2tYFofBpwJw/vzwa6wo18gss+0lPL6LyWSddsxsmuBwMTOeUUoO7mDuCaiW41tv2pKOG++rlYIOPcfQ0HyzVz6T7V6tCvtevPsmnoLwqD0b22Es0AxbCA1eDKYXNacBLdZK9Hl7w==;LJR2CmDLpAlRI+lg0+k20g=="
 ---

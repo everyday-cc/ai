@@ -8,9 +8,9 @@ webUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-1
 ampWebUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://i.insider.com/658465b51c5c7b8c9a0b1481?width=1200&format=jpeg"

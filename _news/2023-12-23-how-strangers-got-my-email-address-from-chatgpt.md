@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "One Year In and ChatGPT Already Has Us Doing Its Bidding"
-    excerpt: "One of the first things I asked ChatGPT about, early this year, was myself: “What can you tell me about the writer Vauhini Vara?” It told me I’m a journalist (true, though I’m also a fiction writer),"
-    publishedDateTime: 2023-12-19T14:39:00Z
-    webUrl: "https://www.nytimes.com/2023/12/19/opinion/artificial-intelligence-chatgpt.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 49
 
 secured: "tka80cLqlJHd1IjogvLLHI1CireloZA3XAcbhib6kAF1xXTP0xMrrfYkGAw82qIJIG/RkIaqTAe51KJAYhtbLkjpaB0goNcfEifib1+bzvbjK0kJ/SNjVapii1wM32qlmroCn1MnJzd88WUPEESUStyPPKKQXCiiPVn2oo5DezLRLM9hr96P+H5NA5piADEZi+6sLZRGmC/+YRmd3wnWdFZvr2Eytza3HfHif0H7ANSU3id5WOb+7tBlqE9MvMDXnTqc6jEFakaZ0FKY4gi77afajit9D2ig8bgjf4XTpxwQbTrPvomj0P9elEowpVmIsgPl4h39yX+/nMEXrfOmb1BoxEdQWI3c63pHsy6fkIytIo3t4pUjVZceUXdaCYmytlBfEa4hZCOSvfOuQNSbVOyr2ZL0R3GhzpMyTlvS9Q6kxXD7zBttyANg/Je3VpbM7W9KZRBwRmolggig01NnizpHRyBlhB6AlaOa9jBJbEmpabCmm46ene2yjQNqz3XHVMC1gZV0E9aoL0zyZcNpbw==;WAyAkyE/N0ExAyd+3A53HQ=="
 ---
