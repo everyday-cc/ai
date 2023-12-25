@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 121
+heat: 117
 published: true
 
 provider:

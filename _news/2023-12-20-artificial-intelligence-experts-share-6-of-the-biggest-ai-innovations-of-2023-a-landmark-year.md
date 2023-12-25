@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/health/artificial-intelligence-experts-share
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/artificial-intelligence-experts-share-biggest-ai-innovations-2023-landmark-year.amp"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
         width: 1200
         height: 630
-        isCached: true
-  - title: "2023: the year of the AI boom"
-    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://theweek.com/tech/2023-ai-boom"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "hI6sANuc53LS//FjA51LLZiBZzSRblcS9xj8POH/7ICJllkamLsJrPnlNccCypbPCt8/BnOnmjWdKc7DQC3fb+BMpI37F8W3U/VGttrG8MxChZsePGfaSNDwHREUdQQZ2k9XPlLsetXCq+OIsQO9SoItpmzBu3QdrUeNHqysm/YzMGNZBxVH37ObuZp8/SNUJrYvOAKN31CuBQOJ/HsXIG0NaLqE6JsGTJ73iLZHir5Y6xTzlcMBOXzJmqVUkxYcZOH1789jldaWB9GTzNhEF6dyZ8s/Rn8P9bHtm3ARSFHOb8Llsm9sxyjjygPCsq5Fqm88EAjh1hWPuo3AMCqwU9ZkmW7JTqPjB2/tPQoOfZU=;ueD6WxkHBOdFJDASAXuIqw=="

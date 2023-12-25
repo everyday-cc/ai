@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-23-microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11.md",
+      "title": "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11",
+      "excerpt": "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/",
+      "originalUrl": "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/",
+      "cdnAmpWebUrl": "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/",
+      "publishedDateTime": "2023-12-23T15:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Latest",
+        "domain": "windowslatest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-23-how-strangers-got-my-email-address-from-chatgpt.md",
       "title": "How Strangers Got My Email Address From ChatGPT",
       "excerpt": "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees.",
@@ -158,7 +202,7 @@
       "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -190,41 +234,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot-jefferies.md",
-      "title": "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies",
-      "excerpt": "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
-      "originalUrl": "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T13:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -319,6 +328,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft.md",
+      "title": "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft",
+      "excerpt": "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/12/20/1600x900/TOMTOM-RESULTS--0_1703037060640_1703037087769.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html",
+      "publishedDateTime": "2023-12-20T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1417,49 +1469,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-microsoft-afl-cio-reach-deal-on-ai-labor-neutrality.md",
-      "title": "Microsoft, AFL-CIO Reach Deal on AI, Labor Neutrality",
-      "excerpt": "Microsoft has a major partnership with ChatGPT maker OpenAI and committed to pumping more than $10 billion into the startup. Surging popularity of so-called generative AI, which uses data to create new content like ChatGPT's human-sounding prose, could remake human society and make obsolete many jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-12-11/microsoft-afl-cio-reach-deal-on-ai-labor-neutrality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T14:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

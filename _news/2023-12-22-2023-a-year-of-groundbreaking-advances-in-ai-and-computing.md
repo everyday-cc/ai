@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2023: the year of the AI boom"
-    excerpt: "Here's a look at how generative AI took over the tech industry in 2023: The start of the AI 'gold rush' OpenAI wasn't expecting ChatGPT to be \"much more than a passing curiosity among AI obsessives on Twitter,\" Charlie Warzel wrote for The Atlantic ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://theweek.com/tech/2023-ai-boom"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QZtf9HYwZCMGyAGCmbCz73-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "amRzWFSgbVV44bgNqpqWG+DnEQRRsStEBN72T71VTsZm34erIVwZdD5E4cNVBU9IzmTVfw2xDX2tSRMvOS37MOVd7/lF0mqb4s4GCXKYiPyDx3abBcxBD6kzlIVqQ482I9i1ExRblGBrumF0KrR5JieRjgDS+KUPzTZXiFrshIDZWHmE4GpWbvc3i4vaRIBA2PUXdXrQ9cSlmwv2/Khkd4lTQfYa7v+/yutc9wF2IMNeCXlwM9PgPF7Aj95SXKqX+bOlrVnTsgLhuJ3zy/vLC23csc9S7stSFtd6Uhnl0BU3VWn2XR3lf0tGhTlvKa60C+itMgK9IENjozgn3MOmy5SbK5iviQg1DrurDYAKlgk=;nWCmdAqF4FF/BcZAoqRbEQ=="
 ---

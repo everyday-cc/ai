@@ -53,18 +53,18 @@ related:
         height: 900
         isCached: true
   - title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
-    excerpt: "AWS is a leader in the cloud market and a deeply profitable ... Amazon’s investment in the artificial intelligence startup Anthropic and the future of generative AI. The conversation has been edited for length and clarity. Q: Companies have been cutting ..."
-    publishedDateTime: 2023-12-24T22:24:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_320bbc05-8708-5fad-ad8d-0afea22c3d8b.html"
+    excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
+    publishedDateTime: 2023-12-24T22:15:00Z
+    webUrl: "https://tucson.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_e7147fc2-2989-5690-ad5e-9b8b17fa4d33.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Arizona Daily Star
+      domain: tucson.com
     quality: 41
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/20/320bbc05-8708-5fad-ad8d-0afea22c3d8b/6581c7158ce7d.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/71/e7147fc2-2989-5690-ad5e-9b8b17fa4d33/6581c7158ebf7.preview.jpg?crop=794%2C447%2C0%2C16&resize=794%2C447&order=crop%2Cresize"
         width: 794
-        height: 417
+        height: 447
         isCached: true
 
 secured: "JnyZQckvzVayZ2w48O9mkqHbOtmIVj4pGgYRhYBpFqQOPIymLURhmokOOOIRhcki9UmNStGjCUdSbB1AC7G2ioXFoA9H087WLk7oLHraq+MdUEe0JNzBelk4AIUfudSW/ADXQXPZYDhmB9bUw8ECBM99knpcytqme9E+35vs4j0ut/noB3iJF2IpIrJCNPCM+EgiHFYnzjG/i72z8aiafd19xO04e0Uue9FX4jUcWFeNDOTPahGbSjn1d6VNgfYYwL/ybRHXVLBCxoimD00a5L17rm2IuWJ/Imtm0eGY7p1uFEcCTyISikKSHzqTHMce+cVG/KoWRql+4PrauvNBq/zNHxwNBWUBV9CDyTNisVjo8AJWElTjcGwp0b6QYKfEgiGKB7n6wCA3bBsDvYyc1XlSEvy02VuEj15mbqbN6n9XI7GUiUW5UmB35Crjm9H3tXU86b9xWO/MLwRB5OE+YN1ewepJxFr0zKO9PSxOIPzzOTSMFE8cLEMPHxdfsLsYTJSkJAeYYqMsBt5w2pCV3w==;S+UUbioA5P4zJJ6RJBGxtw=="

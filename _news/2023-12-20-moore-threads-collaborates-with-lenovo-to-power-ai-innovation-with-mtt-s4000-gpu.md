@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Moore Threads MTT S4000 48GB AI GPU: with MTLink and zero-cost NVIDIA CUDA framework"
-    excerpt: "Moore Threads introduces the new MTT S4000 AI GPU with 48GB GDDR6 memory, 25 TFLOPs of compute performance, on the PCIe Gen5 x16 standard."
-    publishedDateTime: 2023-12-20T01:02:00Z
-    webUrl: "https://www.tweaktown.com/news/95058/moore-threads-mtt-s4000-48gb-ai-gpu-with-mtlink-and-zero-cost-nvidia-cuda-framework/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 47
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95058_411_moore-threads-mtt-s4000-48gb-ai-gpu-with-mtlink-and-zero-cost-nvidia-cuda-framework_full.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chinese GPU manufacturer 'Moore Threads' announces GPU 'MTT S4000' for AI training and data centers"
     excerpt: "Moore Threads introduces MTT S4000 48GB AI GPU with MTLink and zero-cost NVIDIA CUDA framework translation - VideoCardz.com https://videocardz.com/newz/moore-threads ..."
     publishedDateTime: 2023-12-20T12:13:00Z

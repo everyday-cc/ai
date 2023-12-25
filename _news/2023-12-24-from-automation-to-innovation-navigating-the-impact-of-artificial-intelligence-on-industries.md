@@ -57,6 +57,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "TomTom & Microsoft Generative AI for Automotive"
+    excerpt: "TomTom the location technology specialist, announced that, together with Microsoft, it is bringing the benefits of generative artificial intelligence (AI) to the global automotive industry."
+    publishedDateTime: 2023-12-20T01:05:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/12/tomtom-microsoft-generative-ai-for-automotive/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 54
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/12/microsoft-css_og_1200x630px_nbb-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "4TIIgzTMRso2yBh5//FufUQe3V2LawlqJqZ4cGNsx91I9rZF0l9j3uXejIp4a8C4k2p/Re4LzJ48hkJVqnl4iCOsuq1MdV1n5CXB5IJBVaPkVncacFaAKgVUCTMWpemOAZ07QXOsURMR6F6PfxIlszioCewqcYTJbtOL65joPipTkjdy/XDZCSwOvt91Tkb3iYhruQtC0vHyo9Pp/1ZeLPzylZaATtEuQhAo8KB9LlPX5QhjgizWIIQffTOZnRrsS1oT7MiZf4ptGUgoMlR89QCu/2C76UtABk+0wC35WQwPXpUzL8qfQLPI3vSmfctO7Cs0Nn+qKnHVscbwG4W0RV15uvS00Afv1VC9E9kwF+D/336o/vGoJHjeUnCkKlGOHgs59LEizIqiX/cq0N9hqZvMoGfK0+2g3ISnGXMUfs4LFBJXUTxqb6XdK9JiJYsaoBwAhxSbn/a2xd9djl2j5wo12XlrN9G0ZQpRegkWaHgFuZSkZo81yT45QEm2JzH6/666SzqqHHQSqKVFGIpBSw==;Ta+KnDe6PUMUWWzCEym5lw=="
 ---

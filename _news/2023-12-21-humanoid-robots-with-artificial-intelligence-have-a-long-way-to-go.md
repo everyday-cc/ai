@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Humanoid robots with artificial intelligence have a long way to go"
-excerpt: "The tech industry has long taken a page from science fiction in thinking up new products. Robots that look like humans are a staple of everything from Star Trek’s Data to Blade Runner’s Rachael. But making a real humanoid robot—let alone one that’s commercially viable—is extraordinarily difficult."
-publishedDateTime: 2023-12-21T13:15:00Z
+excerpt: "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ..."
+publishedDateTime: 2023-12-21T10:00:00Z
 originalUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
 webUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
 ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
@@ -42,6 +42,6 @@ related:
         height: 680
         isCached: true
 
-secured: "cP8H3QODPP0eefh8wie7AcKOeftuWF5ETBqxyi7OLkVsU7fskrAxcHwcZconER4fkbMb7dgkYowGtwVfquayUGYgki2dNPBZ+9lBMSEORDoBnAmkf3dBQ517lK9xLG7925JgC3wdsWfYsGRJVN1wXvUiuxJGoHf0ETTAuwq8kON7EKrKr482cYS3+lba1cI6MRlhvDBwV+oTYgns5Lc5SMT1ZwkS3tA27RF6g4/jhx/wpfpIylLbclu+iJR/DPz+hB1iZ+SZWBbp7LHlCOCxecXXX0pMH2JbItqki4kefAnfIH6XWwdvtoucLCXFdJF1eyyd7pdQXXVwOvlGqgeBHE+iCVL/OmFIF/LrO/chPgk=;wIBQOce30dtBwl054PaKJQ=="
+secured: "h5fvumE2OAvJtT5Kz1VUdxu5vAQ57gCMAlYG2xEXIGNOzlwh3T/1OJ2cnAoYKZE4yzHq3wPSlesFuXZ76pInBMZ8I9fXor4Npe0QFr7Tgfxj4Yo2CxrRhithgW/42eK7wL+NrwElEncpa+LLJgyYxp87B1+wgz1Gxf9/rySM8ji/Fw6SVKxj8ebK0iF7tj6aDY4lHZYViiMu02lQMj5ZIAuZWPFlyQH24erbmTr5Ag9QM12ZRpkgazBdbBHRL4c/kl2cy+h0dCwGuTyGcJCfAielqSU3hm84RUMVH32TNtkeoT7W26r1cg+gxbdFaYlW3XQCVjraqj5p+5iHNiSiZ9mAVvkp9ZVSpdL60B5b4cQ=;NA4ViYygl5kICf/fXs6zDQ=="
 ---
 

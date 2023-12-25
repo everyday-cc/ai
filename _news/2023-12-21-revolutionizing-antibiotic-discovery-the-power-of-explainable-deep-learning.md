@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-
 webUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/"
 type: article
 quality: 51
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Class of Antibiotics Discovered Using AI"
-    excerpt: "A deep-learning algorithm helped identify new compounds that are effective against antibiotic-resistant infections in mice, opening the door to AI-guided drug discovery"
-    publishedDateTime: 2023-12-20T16:08:00Z
-    webUrl: "https://www.scientificamerican.com/article/new-class-of-antibiotics-discovered-using-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B0612C40-8B54-49BD-8B0B9703042404BD_source.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Catalyzing Drug Discovery with Explainable Deep Learning"
     excerpt: "Published in Nature, the peer-reviewed paper, entitled “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong,"
     publishedDateTime: 2023-12-21T20:18:00Z
@@ -48,15 +34,6 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
-  - title: "Drug Discovery Using Deep Learning"
-    excerpt: "Published in Nature, the peer-reviewed paper, “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.genengnews.com/news/drug-discovery-using-deep-learning/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
   - title: "Drug Discovery Using Deep Learning"
     excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
     publishedDateTime: 2023-12-20T22:41:00Z

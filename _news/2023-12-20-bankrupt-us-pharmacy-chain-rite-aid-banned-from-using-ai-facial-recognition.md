@@ -75,20 +75,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "FTC bans Rite Aid from using facial recognition surveillance for five years"
-    excerpt: "The FTC alleges that from 2012 until 2020, Rite Aid scanned the faces of shoppers across hundreds of locations to identify suspected thieves."
-    publishedDateTime: 2023-12-19T23:13:00Z
-    webUrl: "https://venturebeat.com/automation/ftc-bans-rite-aid-from-using-facial-recognition-surveillance-for-five-years/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-18.04.54-A-person-standing-in-line-at-a-pharmacy-counter-with-their-face-being-scanned-by-a-wireframe-beam-of-light.-The-scene-shows-a-busy-pharmacy-environme.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "Rite Aid’s A.I. Facial Recognition Wrongly Tagged People of Color as Shoplifters"
     excerpt: "Under the terms of a settlement with the Federal Trade Commission, the pharmacy chain will be barred from using the technology as a surveillance tool for five years."
     publishedDateTime: 2023-12-21T23:22:00Z
@@ -144,20 +130,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FTC bans Rite Aid from using facial recognition technology"
-    excerpt: "The Rite Aid pharmacy chain can’t use facial recognition technology to identify customers for five years after a Federal Trade Commission investigation found the company inappropriately used it to criminally profile customers. The FTC described Rite Aid ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/dec/20/ftc-bans-rite-aid-using-facial-recognition-technol/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 54
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/12/20/Rite_Aid-Facial_Recognition_Ban_49168_c0-102-6000-3602_s1200x700.jpg?f76d500cd13554a610de086d8bf4279800b35aac"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "FTC bans Rite Aid’s ‘reckless’ use of facial recognition tech"
     excerpt: "Bankrupt pharmacy chain Rite Aid used facial recognition tech in hundreds of its stores, which caused harm to numerous customers."
     publishedDateTime: 2023-12-20T09:20:00Z
@@ -171,20 +143,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/12/AdobeStock_506747144_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "FTC blames Rite Aid for ‘reckless’ AI facial recognition, bans use"
-    excerpt: "The FTC said Tuesday the retailer “failed to implement reasonable procedures and prevent harm to consumers” in its use of the technology in hundreds of stores.\""
-    publishedDateTime: 2023-12-19T23:09:00Z
-    webUrl: "https://www.securityinfowatch.com/retail/article/53081012/ftc-blames-rite-aid-for-reckless-ai-facial-recognition-bans-use"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/6582202c00d54b001e5f3615-federal_trade_commission.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Rite Aid banned from using facial recognition in stores for 5 years"
     excerpt: "Rite Aid is now banned from using facial recognition technology in its drug stores for the next five years. Facial recognition was used in some New York City locations. Read more:"

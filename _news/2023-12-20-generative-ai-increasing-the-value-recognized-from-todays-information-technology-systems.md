@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/606f5ac0f77c78cd168dd713f386f99b09c2c71f/0_165_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=fca54e27bbe799a702d84a1f23a97eaa"
         width: 620
         height: 372
+        isCached: true
+  - title: "TomTom & Microsoft Generative AI for Automotive"
+    excerpt: "TomTom the location technology specialist, announced that, together with Microsoft, it is bringing the benefits of generative artificial intelligence (AI) to the global automotive industry."
+    publishedDateTime: 2023-12-20T01:05:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/12/tomtom-microsoft-generative-ai-for-automotive/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 54
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/12/microsoft-css_og_1200x630px_nbb-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "From Automation to Innovation: Navigating the Impact of Artificial Intelligence on Industries"
     excerpt: "Introduction: In the relentless march of technological progress, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the very essence of work. This article delves into the profound changes AI is bringing,"

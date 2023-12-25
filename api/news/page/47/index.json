@@ -2,6 +2,108 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-11-15-nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.md",
+      "title": "Nvidia unveils new GPU-based platform to fuel generative AI performance",
+      "excerpt": "The new Nvidia HGX H200 has been designed to support the high performance computing workloads required to train generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "originalUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-is-edge-to-cloud-the-future-of-facial-recognition-systems.md",
+      "title": "Is edge-to-cloud the future of facial recognition systems?",
+      "excerpt": "Businesses have a need for applications that must operate in remote far-edge locations, where the installation of lengthy fiber connections is impractical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
+      "originalUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-caton-media-xstream-successfully-completes-the-aws-foundational-technical-review-and-becomes-aws-managed-service-provider-partner.md",
+      "title": "Caton Media XStream successfully completes the AWS Foundational Technical Review and becomes AWS Managed Service Provider Partner",
+      "excerpt": "Organization offers IP transmission globally with extreme reliability over the public internet, technology transformation and an elevated user experience",
+      "sourceUrl": null,
+      "webUrl": "https://www.streamingmedia.com/PressRelease/Caton-Media-XStream-successfully-completes-the-AWS-Foundational-Technical-Review-and-becomes-AWS-Managed-Service-Provider-Partner_55132.aspx",
+      "originalUrl": "https://www.streamingmedia.com/PressRelease/Caton-Media-XStream-successfully-completes-the-AWS-Foundational-Technical-Review-and-becomes-AWS-Managed-Service-Provider-Partner_55132.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-machine-learning-helps-air-pollution-researchers-trace-sources-contributing-to-ozone.md",
       "title": "Machine learning helps air pollution researchers trace sources contributing to ozone",
       "excerpt": "Vehicles exit the Lynchburg Ferry along Independence Parkway on Thursday, April 14, 2022, in Baytown. Researchers used a nearby air monitor to collect data for a recently-published study that used machine learning to pinpoint air polluters contributing to ozone formation.",
@@ -826,108 +928,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
-      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
-      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
-      "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
-      "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-new-robot-control-system-unveiled.md",
-      "title": "New robot control system unveiled",
-      "excerpt": "With the rapid development of technology, intelligent robots have gradually permeated various aspects of people's lives. In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

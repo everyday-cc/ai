@@ -250,34 +250,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Google takes steps to prevent abuse of its generative AI tools during U.S. elections"
-    excerpt: "Google LLC said today it is planning to restrict the ability of its artificial intelligence chatbot Bard and Search Generative Experience to respond to election-related queries, ahead of the U.S. Presidential election taking place next year. The restrictions will be introduced early next year, the company said."
-    publishedDateTime: 2023-12-19T23:45:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/google-takes-steps-prevent-abuse-generative-ai-tools-u-s-elections/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/element5-digital-T9CXBZLUvic-unsplash-1.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Harnessing the Power of Artificial Intelligence for Optimal Solar Energy Systems"
-    excerpt: "Introduction Solar power stands out as a promising and sustainable solution to meet our growing energy needs. As we strive towards a greener future, the integration of artificial intelligence (AI) has emerged as a revolutionary force in optimizing solar energy systems."
-    publishedDateTime: 2023-12-19T23:40:00Z
-    webUrl: "https://techbullion.com/harnessing-the-power-of-artificial-intelligence-for-optimal-solar-energy-systems/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 32
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Harnessing-the-Power-of-Artificial-Intelligence-for-Optimal-Solar-Energy-Systems.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
     excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
     publishedDateTime: 2023-12-20T11:30:00Z

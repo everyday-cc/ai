@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/39af6a8e35f1c1d47d4c470d97bb1337.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Academics work on voice-recognition advances"
-    excerpt: "Researchers from the University of Glasgow have conducted a study using wireless sensors to analyse muscle movements, with the resultant data being made freely available to support new tech developmen"
-    publishedDateTime: 2023-12-20T01:01:00Z
-    webUrl: "https://www.publictechnology.net/2023/12/20/society-and-welfare/academics-work-on-voice-recognition-advances/"
-    type: article
-    provider:
-      name: Public Technology
-      domain: publictechnology.net
-    quality: 24
-    images:
-      - url: "https://www.publictechnology.net/wp-content/uploads/2023/12/woman-1696756-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "UK Police Could Soon Use Every Driver’s Licence Photo For Facial Recognition Searches"
     excerpt: "New criminal justice bill would automatically include 50 million British drivers’ images in giant searchable database without their consent"

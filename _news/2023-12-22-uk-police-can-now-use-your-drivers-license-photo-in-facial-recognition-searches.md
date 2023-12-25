@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Academics work on voice-recognition advances"
-    excerpt: "Researchers from the University of Glasgow have conducted a study using wireless sensors to analyse muscle movements, with the resultant data being made freely available to support new tech developmen"
-    publishedDateTime: 2023-12-20T01:01:00Z
-    webUrl: "https://www.publictechnology.net/2023/12/20/society-and-welfare/academics-work-on-voice-recognition-advances/"
-    type: article
-    provider:
-      name: Public Technology
-      domain: publictechnology.net
-    quality: 24
-    images:
-      - url: "https://www.publictechnology.net/wp-content/uploads/2023/12/woman-1696756-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "UK Police Could Soon Use Every Driver’s Licence Photo For Facial Recognition Searches"
     excerpt: "New criminal justice bill would automatically include 50 million British drivers’ images in giant searchable database without their consent"
     publishedDateTime: 2023-12-23T12:58:00Z

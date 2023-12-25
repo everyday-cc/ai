@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/health-care-climbs-amid-deal-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

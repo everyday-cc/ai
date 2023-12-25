@@ -24,55 +24,53 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning"
-    excerpt: "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics."
-    publishedDateTime: 2023-12-20T16:01:00Z
-    webUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/"
+  - title: "Robotics company using AI that does engineering work by climbing walls"
+    excerpt: "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships."
+    publishedDateTime: 2023-12-24T19:03:00Z
+    webUrl: "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
+    ampWebUrl: "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
+    cdnAmpWebUrl: "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 51
+      name: wjactv
+      domain: wjactv.com
+    quality: 89
     images:
-      - url: "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png"
+        width: 986
+        height: 555
         isCached: true
-  - title: "Catalyzing Drug Discovery with Explainable Deep Learning"
-    excerpt: "Published in Nature, the peer-reviewed paper, entitled “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong,"
-    publishedDateTime: 2023-12-21T20:18:00Z
-    webUrl: "https://www.labmanager.com/catalyzing-drug-discovery-with-explainable-deep-learning-31554"
+  - title: "Addressing AI's Demand For Software Engineers"
+    excerpt: "As technology continues to become central to more industries, from healthcare to hospitality, the demand for skilled engineers is projected to reach new heights."
+    publishedDateTime: 2023-12-21T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/addressing-ais-demand-for-software-engineers/"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Drug Discovery Using Deep Learning"
-    excerpt: "Published in Nature, the peer-reviewed paper, “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.genengnews.com/news/drug-discovery-using-deep-learning/"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How one company is using AI to combat package theft"
+    excerpt: "As the holiday season ramps up, one shipping company is using AI to help prevent packages from being stolen after they're delivered. Janet Shamlian has the story."
+    publishedDateTime: 2023-12-20T21:03:00Z
+    webUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-combat-package-theft/"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
-  - title: "Drug Discovery Using Deep Learning"
-    excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
-    publishedDateTime: 2023-12-20T22:41:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/drug-discovery-using-deep-learning/"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/ec5cabfa-650f-45b0-8a55-5c2c624478aa/thumbnail/1200x630/2af675e06789dc217140e8941bb1a1c1/1219-en-shamlian.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
-  - title: "AI Discovers First New Antibiotic in Over 60 Years"
-    excerpt: "For the first time in over 60 years, a new class of antibiotics to treat drug-resistant staph infections has been discovered using artificial intelligence (AI) machine learning; a landmark breakthrough to address the antimicrobial resistance (AMR) crisis."
-    publishedDateTime: 2023-12-24T14:18:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 17
 
 secured: "6+UkMVguVbEhPYB8YUmNfQr9apqOwEVT9YhdQLw+0yBIh0h17piyEzjuSUcJjngciYSRA67pS0Ut/DB6fLl3u4JzJlWWK2u67sG7WXyuE9nVv0xUvZ8//0s4z8iRhKHaZtCbmNQub/hodglh4m6BkcQsQ306LxZ3HM+tBzW50ushbe18TbX4mMSlBBiRG7zxslwoecAMzThYIoOy3fxsjzs4WhuSHVPfycK6FUKzYJ05vfp22tAcTT+sVKhgjemnRvfcuA+9+FNWuY7ks7CkAmaQoiqiEw+d0VGpDtOqpCXRPXa0kxLiCCoMNrH7wj3K3Gf7nMX5ZAaEhaYa02hbKzMG/ceXFmf3G66hYxs3qa0z1q+sou0pagc5dcCniZEPFacmYnlbWTG7Kyf9SVtuGt7JJszBOgXS3/wH/BsL88Pd36FFOSRBtttYGjJQk2NOmmP+SaEiGPWmLRjz54nNCklfMLUtR7TT6x+ErEraeOsZo+22wolJIKPjjS5rlYErMxzxCTZlY4I6Ctc+29Qegg==;vTgKBK/HuX4hYxeRcJiwCw=="

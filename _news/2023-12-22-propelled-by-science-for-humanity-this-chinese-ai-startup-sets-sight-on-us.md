@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/21/ai-for-science-dp-technology/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1080
     height: 524
     isCached: true
-
-related:
-  - title: "Chinese Startup Moore Threads Defies US Sanctions with New GPU-Based AI Center"
-    excerpt: "especially in sensitive areas like AI and chip manufacturing. Despite these hurdles, Moore Threads has shown remarkable agility. After a round of layoffs, the company has refocused its resources on advancing its GPU development, a move that mirrors the ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/20/moore-threads-us-sanctions-gpu-based-ai/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 60
 
 secured: "toPEtIjVzEWPAFaMeRyeHGz8cl1hlFx0/EnacYyA0ABqbTfO8w6LKtqZbmyTxpo1ceXSuWPmaONPPPZC7itylrPVA+PAcGuLpH84Qkl3ddrtFAJNWp1aMXGSrgPIc1/wb2s4pM2nubCe+KAUhHO0FRilAc/sL/cPwjnQ9gooSJgKrXGagHrDTY3akVvN0N77L+oZtqHe+Hi2zNjauys22rNnj6xVAwaOq9psXldluYCkfvkQqCOgl7q/dsJHZeSkX96pxzGB1tJxb6ortEIgfnoThYfaB9U5PwbUT3Oqtc8QIqmCldrexdsKo3EwulQR8aHdou0kix0x0Nyr01uPy4/CxEakgQbzFCuyP7fP1cU=;41rmUd2OJ4a43Vafd3nmTQ=="
 ---

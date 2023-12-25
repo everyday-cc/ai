@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-comba
 webUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-combat-package-theft/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,54 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning help NFT market combat wash trading and counterfeits"
-    excerpt: "AI and machine learning technologies are helping to legitimize the NFT market by combating wash trading and plagiarism"
-    publishedDateTime: 2023-12-23T10:00:00Z
-    webUrl: "https://cointelegraph.com/news/how-ai-and-machine-learning-help-nft-market-combat-wash-trading-and-counterfeits"
+  - title: "Robotics company using AI that does engineering work by climbing walls"
+    excerpt: "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships."
+    publishedDateTime: 2023-12-24T19:03:00Z
+    webUrl: "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
+    ampWebUrl: "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
+    cdnAmpWebUrl: "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 29
+      name: wjactv
+      domain: wjactv.com
+    quality: 89
+    images:
+      - url: "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png"
+        width: 986
+        height: 555
+        isCached: true
+  - title: "Addressing AI's Demand For Software Engineers"
+    excerpt: "As technology continues to become central to more industries, from healthcare to hospitality, the demand for skilled engineers is projected to reach new heights."
+    publishedDateTime: 2023-12-21T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/addressing-ais-demand-for-software-engineers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "New Class of Antibiotics Discovered Using AI"
+    excerpt: "A deep-learning algorithm helped identify new compounds that are effective against antibiotic-resistant infections in mice, opening the door to AI-guided drug discovery"
+    publishedDateTime: 2023-12-20T16:08:00Z
+    webUrl: "https://www.scientificamerican.com/article/new-class-of-antibiotics-discovered-using-ai/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B0612C40-8B54-49BD-8B0B9703042404BD_source.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How UPS is using AI to combat package thefts"
+    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
+    publishedDateTime: 2023-12-20T14:14:00Z
+    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 17
 
 secured: "B1TpfawjxiInCEO8aJ92fxrRmKp3LeAFUi10k7HGXErp3IHZmv0MRHb9jE8DQIv68cU4ZrXXfduMlB2UsIJEkuzPK3ebsJTga9UCWnkUFyyY25P0x/p9+k/cmjPyr4xZmm0ke5uSWJdpjKuiNg3BaM58FqAXUfCmIyP6fXhZ1DmqxCfYVkkafYCC8VltA14VZZLD3C+wztMlQUWk79ibmLfmvx90q74mUoV7W7LZ4AGuZ6VE2KK9rNwhES1zANTJ5U4oocd0l0zOLY579wbnv/eMtZMZ9rdpXt7SqOr595x19T+tFkcjKj+68Wby8tKcHOAhAaREDkeB6AVCh9SCgMMZXUdYT89cTKFRF96YA58=;2lzCdUbaL4PQ22OHE3hUaQ=="
 ---

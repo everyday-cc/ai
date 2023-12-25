@@ -139,20 +139,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Google plans to restrict election-related queries in 2024 on Bard"
-    excerpt: "Google, the internet giant now a subsidiary of Alphabet, announced on Tuesday that it will limit the kinds of queries related to elections that its chatbot Bard and search generative experience can answer ahead of the 2024 U.S. Presidential election."
-    publishedDateTime: 2023-12-20T00:53:00Z
-    webUrl: "https://interestingengineering.com/culture/google-plans-to-restrict-election-related-queries-in-2024-on-bard"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/MlyTWOS2jPk0xyLcfQMdQaSsHyX9BVEgft53EPdd.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google Approaches US Elections With Caution, Restricts Election-Related Queries For Bard, SGE"
     excerpt: "Facebook owner Meta announced it would restrict political campaigns and advertisers from using its new generative AI advertising products."
     publishedDateTime: 2023-12-21T07:08:00Z

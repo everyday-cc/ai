@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-boswo
 webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
 type: article
 quality: 67
-heat: 73
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Verge

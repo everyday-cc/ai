@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
+      "title": "Robotics company using AI that does engineering work by climbing walls",
+      "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
+      "sourceUrl": null,
+      "webUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "originalUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "cdnAmpWebUrl": "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "publishedDateTime": "2023-12-24T19:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wjactv",
+        "domain": "wjactv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024.md",
       "title": "Don't Be A Robot, Build The Robot: Three Tech Predictions For 2024",
       "excerpt": "In 2023, artificial intelligence and generative AI were pushed into the spotlight when OpenAI commoditized them. In a short time, products like ChatGPT and copilot tools, built on generative AI, progressed user productivity and minimized the time invested to perform basic tasks.",
@@ -289,7 +332,7 @@
     {
       "path": "_news/2023-12-21-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
       "title": "Humanoid robots with artificial intelligence have a long way to go",
-      "excerpt": "The tech industry has long taken a page from science fiction in thinking up new products. Robots that look like humans are a staple of everything from Star Trek’s Data to Blade Runner’s Rachael. But making a real humanoid robot—let alone one that’s commercially viable—is extraordinarily difficult.",
+      "excerpt": "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ...",
       "sourceUrl": null,
       "webUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
       "originalUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/",
@@ -311,7 +354,7 @@
       "type": "article",
       "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
       "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/",
-      "publishedDateTime": "2023-12-21T13:15:00Z",
+      "publishedDateTime": "2023-12-21T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Financial Express",
@@ -1316,49 +1359,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants.md",
-      "title": "Health Plan: A snake-like robot, real-time heart health and soft robotic implants",
-      "excerpt": "In the final part of our Health Plan series, we see how a snake-like robot developed for remote inspection has been adapted for use in throat cancer surgery, look at a wearable ECG monitor, hear how soft robotic implants could be used for drug delivery, and speak to the company behind a device that continually monitors IV therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
-      "originalUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/jj_viscero_ecg-vest_context_podaqua.jpg?sfvrsn=2b754411_0&size=705",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institution of Mechanical Engineers",
-        "domain": "imeche.org",
         "images": null,
         "publishers": null,
         "authors": null

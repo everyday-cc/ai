@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
-excerpt: "AWS is a leader in the cloud market and a deeply profitable ... Amazon’s investment in the artificial intelligence startup Anthropic and the future of generative AI. The conversation has been edited for length and clarity. Q: Companies have been cutting ..."
-publishedDateTime: 2023-12-24T22:24:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_320bbc05-8708-5fad-ad8d-0afea22c3d8b.html"
-webUrl: "https://www.stltoday.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_320bbc05-8708-5fad-ad8d-0afea22c3d8b.html"
+excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
+publishedDateTime: 2023-12-24T22:15:00Z
+originalUrl: "https://tucson.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_e7147fc2-2989-5690-ad5e-9b8b17fa4d33.html"
+webUrl: "https://tucson.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_e7147fc2-2989-5690-ad5e-9b8b17fa4d33.html"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/20/320bbc05-8708-5fad-ad8d-0afea22c3d8b/6581c7158ce7d.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/71/e7147fc2-2989-5690-ad5e-9b8b17fa4d33/6581c7158ebf7.preview.jpg?crop=794%2C447%2C0%2C16&resize=794%2C447&order=crop%2Cresize"
     width: 794
-    height: 417
+    height: 447
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5y7VFMTfKKGmcv59MLCKYyDF6BMVuVO7LR+fJCyTWSI0kZcWXvHWnUB4SIL5Usuk4Weo7frxmYmJcsz/djktbGHmURH8njZCsdU2oIU6DAWpj8G6GChxO/v6UI1VN3nAe8Uu8mi74VyEy8mocg/M6+7zB6wz8P++Uc4p+Sv/rMjubjPUuMCLJsg21KmY/Kq6IXCbIlRS7GRH4Hk9vufmiOUnm065hbj14Frhs6fO2ZILvXWqAEOPoRa9YIJugnC06FOIVVIJtRO7N00cFlqN7RtfxF08e493YGfahIPoLZw6WgK/XJVDWuA3hkygeMefHxwgUHKA3qcR2vYQJ70LG0TfO0CGUlD8DpU24ekbhwQ=;Cir+IGE960QaUUAkm1tzNA=="
+secured: "C5FEAMcv6kj2Zk8UgnbV8YZ6sjXX8UmK3OcJcLcc/2gRBlw7ulLNhaR5OM+clCUPF93FwvEndG+f5biHfL54WLKBN+cm0qouwUze6F/6Qob3uFgsVOoGwrAToQBH7d/kB+AcsIl7fMr53TPsk7wgN1fykw9aqvtaqFqCdeDuE6e7a1HGzFC5Nw9EADJpRaC5Q/I0PxjRczeQ9SwRV1CLP/bynrSTNqNXchtdIz8xoUO3pP8kCNBmT5aU+m83jAmJ3G+t+p+VN/D9MxgC/iWlr697o/fE45dMpoJpxzsqUXKimT6BCpTaNFsfZg1WtgxBoitfhPKneMuvCqF2G6wr1gs/mVT7PLjq1gjK9G9f7/0=;kzx65J9Ny5PtHNs5LdLEiw=="
 ---
 

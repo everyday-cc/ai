@@ -19,20 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars could get these turquoise lights to warn you when they’re in autonomous mode"
-    excerpt: "This comes following the news of a number of accidents involving the alleged improper use of Tesla’s Auto-Pilot and Full Self-Driving systems, where the technology was deployed on roads where it is not legal or permitted to do so. Currently, the ..."
-    publishedDateTime: 2023-12-19T23:59:00Z
-    webUrl: "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/self-driving-cars-could-get-these-turquoise-lights-to-warn-you-when-theyre-in-autonomous-mode"
+  - title: "Mercedes-Benz Installing New Tail Lights to Show When Car Is Self-Driving"
+    excerpt: "Mercedes-Benz just received approval for first-of-its-kind turquoise car lights that indicate a vehicle in self-driving mode."
+    publishedDateTime: 2023-12-20T14:26:00Z
+    webUrl: "https://futurism.com/the-byte/mercedes-tail-lights-self-driving"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YGowrE5G936VdwUwJZoAPU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Futurism
+      domain: futurism.com
+    quality: 18
+  - title: "Mercedes Adds Blue Car Light for Self-Driving"
+    excerpt: "Mercedes-Benz has received approval to add external turquoise blue lights to its vehicles that indicate when they are in self-driving mode."
+    publishedDateTime: 2023-12-22T17:26:00Z
+    webUrl: "https://cacm.acm.org/news/278914-mercedes-adds-blue-car-light-for-self-driving"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 4
 
 secured: "AMN4SsOr8vbonmhqXmWsjB3yl83ZuJIC6J4hQQHPUE7i+0POFYM3EDJmuQrNVdH2VBYbDyiz2nZd753bFmxPurDTFjDkoPj1aPJhRce174fPgl2TDR31bE8K4qxn8z8R+YuyUmjeY0jiBPY4Pec88QBbbF495uxNAYmrr5YHWYRoQVtMb5261t1Mc+eQS4+gQYY+ITeoy+6G/Hy/JngAeFMcud4dBfYQYWpVGwO5wLHvv96U//5XCyR3wnQEQupL1CqjIGOmD9tKG5C0/7INeB3qeZouFs8TDhIDCIK6p1P6BKrwPGSxQsdOAr9oC68AGt9Q6R0SQBH1GxEu8GQNj1uvuRgr5qcv1xu8/sm2+j2O1VIjNI35RKSBm3nk0XzY9E/enNtWPUfrgjQpiOnRifpTVe5WUNK0BchUxVcze/ZPM/gW2e7VIvws+tIN4Aeai21oxjHeaaWwf3U12vomlq/B0hMrjRk7mNqkBkJPbyvozy74zeEPYhTN8Ca8jQy0zL1UH41Y5SSPY0NBcXDIRQ==;iXK5u6TyOzBZuAxPR62fsg=="
 ---
