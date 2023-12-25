@@ -50,22 +50,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI"
-    excerpt: "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it."
-    publishedDateTime: 2023-12-20T15:22:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
     excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
     publishedDateTime: 2023-12-21T18:19:00Z
@@ -211,6 +195,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Has Entered the Resale Market"
+    excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
+    publishedDateTime: 2023-12-25T14:00:00Z
+    webUrl: "https://www.aol.com/artificial-intelligence-entered-resale-market-140000797.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "nJG9TYAUA+CI+4gpP4FO+Yi/OLVAFeTT0PrrqnR9hAlYY+58wEu/LZzjahqveIfUH3xDYtItTD2jb/4oPyAGKGRrqJzUKDt9gn+IExKv1X2VkjgY209RMdlcIsMuSY11QVVhrTcRzS8U6a58SrR1ddzrrtCQnhxeSpJMYYJiLrqjQd5Ll9oTOFXUXZNW9bhBks8LVNIipqcg3KfY6M+dPM9N9JXK/vt1CvNh/ucctYkJUIGhghumzvEO3TOrjGhFgIXojc+XeNwf6mEX3pfK7iwLZEqgopMypaxFyWxuj250F3jk2D7jTQePu8SXRSOVPg6zLb9EN3rqOfF8/iWNoOJIzo4echxiFdgupj5FTcE=;Eki3maXtQBVVlpm3lt7aWQ=="
 ---

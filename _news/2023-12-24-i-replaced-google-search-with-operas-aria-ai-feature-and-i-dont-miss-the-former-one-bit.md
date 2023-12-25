@@ -58,15 +58,6 @@ related:
         width: 1000
         height: 571
         isCached: true
-  - title: "Alphabet at 2-month high on report of AI-led ad-sales restructuring"
-    excerpt: "Google, the global leader in online search, is reportedly looking to restructure its ad sales division as AI takes a greater role in generating revenue."
-    publishedDateTime: 2023-12-20T15:02:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/google-hits-2-month-high-on-report-of-ai-lead-ad-sales-restructuring"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 34
 
 secured: "It8J2Zm0wNoQ2C4E+nS/t1DixYoxxmvP4BeGHcJBkkdw20yq8abRKO7hlTnIiLT0v4PMrwclgmLy0BWQmvvOtTN49Dzk+uO9EYUs+YtwqXxXf5FZzSZZ1hXr6MdcrJilYkonb1hVu6ClzdQ38BpusnFb3q5hHFiz/VVn+E89v2vBrK9R+pP9tzMy2FzsGTncjZpfcAxp1pTo/SzV/AQ40qmkfXUxnWMe85z/NZOFs2v/ju/he2ICom/DcyRQ71N9OYEzJqmPVVf9mN9clQ0f6AGULnt1h1YlTC9bpaIxyikDG8IRL6Y1044HAu+8xbNboDf8JmX0YoYMu6myz3FCAIktjizBy/Ci6c/Quir5Jbs=;kBdv+sI7PNOId89FdEc1mA=="
 ---

@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mercedes-Benz Installing New Tail Lights to Show When Car Is Self-Driving"
-    excerpt: "Mercedes-Benz just received approval for first-of-its-kind turquoise car lights that indicate a vehicle in self-driving mode."
-    publishedDateTime: 2023-12-20T14:26:00Z
-    webUrl: "https://futurism.com/the-byte/mercedes-tail-lights-self-driving"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 18
   - title: "Mercedes Adds Blue Car Light for Self-Driving"
     excerpt: "Mercedes-Benz has received approval to add external turquoise blue lights to its vehicles that indicate when they are in self-driving mode."
     publishedDateTime: 2023-12-22T17:26:00Z

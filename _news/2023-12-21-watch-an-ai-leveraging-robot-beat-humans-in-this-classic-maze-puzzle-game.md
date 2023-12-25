@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Video: AI robot learns to beat labyrinth marble game"
-    excerpt: "In what the team called a world’s first, the AI robot was tasked with learning and beating a labyrinth marble game, which requires physical skill to steer a marble from a starting point to an ending point without the marble falling into any holes on the board."
-    publishedDateTime: 2023-12-20T14:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/20548/video-ai-robot-learns-to-beat-labyrinth-marble-game"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 34
 
 secured: "khuRnJhZoSEykijLEbkDmLjtXWA+VkLKlysoZYxfttuad7qXe4EnXzj6U80TZ323oF2PYYzRAJbNdR7NchM3OV+DVWeKF12x67EF8/IAGT0Q4fZ2UIyszlLNxEyboUyejVau3cwiije4xBi/1dbWUET7hROz0n4T97TEe0fjdMnxBF3UCOO6mry8gMh9INiE8J0psLwTlj36eMgV/GeOAr9U1yu/eBTNmNTOstufyS8nb2CGfIgJhUY9fErnWHJUkZhjCZcJeHZ55QdbfbVuBKk6qNlpUyruhBw6DPMe10uaDZRheQ8q6Vrj38F9zWIMgRjgGPPGjhWo7D7iB4+8R7Rilxr9NO2/N8i6rufShH1BiEaW9lautzS2/IAGOUqY6fwm0GsjBG+5EHmnn42LMswcV4tWfZTHzgS/LeLFQwnEohnjfDOWscy7nibr/JO1rQ7QiTvHEAHI9bhFRr+RHmk6ZGK0o2e8feZC39hg6U7d9BTQQGbP9iQeJWl9Gi6w+X7Y1BvO6dsSujzkGnPIiA==;OkrHl6WqocC5GdKThOKgsA=="
 ---

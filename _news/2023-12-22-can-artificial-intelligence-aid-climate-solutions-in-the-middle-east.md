@@ -41,20 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Why artificial intelligence is the 2023 newsmaker of the year"
-    excerpt: "Artificial intelligence (AI) is the 2023 newsmaker of the year for the B.C. business community because of its rapid rise from nascency to being a technology that almost all executives are either using or fear that they should be using to protect their ventures’ futures."
-    publishedDateTime: 2023-12-20T15:00:00Z
-    webUrl: "https://www.squamishchief.com/economy-law-politics/why-artificial-intelligence-is-the-2023-newsmaker-of-the-year-8006449"
-    type: article
-    provider:
-      name: Squamish Chief
-      domain: squamishchief.com
-    quality: 39
-    images:
-      - url: "https://www.vmcdn.ca/f/files/biv/ai-credit-vertigo3d-istock-getty-images-plus-getty-images.jpg;w=1200;h=800;mode=crop"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "xAghhCacFwI+7D3TDzoy/3so1ltm1Zvf3i/OVLkleJbpKAfPbGosqAQEJ2UKSwul4Pqutc4CuTnUOETurY0dNf3czDnNf/WBmbBm7th8cm9VnCvyUbtWeSbjp1pJiPzLEZzzJoR4RTZQNnvM6rqYiEFaKHGfAVK+ps95S06lJ284vdFdJia92eVv1/pKALwEv3KUybp0Kbh/8oco0WvhXrRJR39a/vUHXbIGZc+WcI49PsbmBZ7QyjlnSkAOENHHGnfVrTiRdljlY0G2mla3JH+Vf8AepNh/ztTc6+EknbCVdjNNFdk+vpYcmqw7JMtuS0PieEdd+9SCjlcuVDLpGDdDj1eKLll/8n9aH8FAvaKDOutzusTABbkkanGQhXFbdv4cqV84y5D9Z+kyinOZFEoBq2Iq9vB58sX4BdL66skp/sY5ucK0CJUqUrKTe63WSZXbcZDKQdwEBr7CbUGR/l8VAU5FPFEWNsUxJabxL37NgitvumukI/B3bj3+5cdKoX5nnTP12245r11CwVKciw==;pAfCvquTD3FufO+hGXZ4Ew=="
 ---

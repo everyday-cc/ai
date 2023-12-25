@@ -62,22 +62,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI"
-    excerpt: "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it."
-    publishedDateTime: 2023-12-20T15:22:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "The wonder-filled year of generative AI"
     excerpt: "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?"
     publishedDateTime: 2023-12-25T10:00:00Z
@@ -217,6 +201,15 @@ related:
     provider:
       name: Modern Healthcare
       domain: modernhealthcare.com
+    quality: 17
+  - title: "Artificial Intelligence Has Entered the Resale Market"
+    excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
+    publishedDateTime: 2023-12-25T14:00:00Z
+    webUrl: "https://www.aol.com/artificial-intelligence-entered-resale-market-140000797.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 17
 
 secured: "AA7saNTmjPyXX4Q9wZUoHKcXazwtg2QDanEd8otD1TF6I/VvW1u+FWngj5urCg555ht6rhLllA+rrhDLbUjon14UZLKEAer24QJxnTcqlVmiL4yM0C4GmMzbxprquPop6aBDMcVaCKL1NEBYCRTk/pCKujTePK3fvrboBohUGpY4hh6Qfk4C3P0PuDyHD5XWybdtMjg2Vh8uuvdHM13G7p/f7e1o3oZQkA3sotReGWq0akF/Zl2g9wJ2gn776TMgBM84/swA8K8r1U49YDXHfEhRUAradirKPglF9hEt6r4qqAddvhGaHnY62tGjA7b89Djx2dqazoSF7oNxFNjBpc/xucWkCJMrqIHt8boljnF8PUmn1qYDnbK7fMbfMbwrrmcZPTqY8oQzTeP8YFE80aLMdKbEisciOdk/hqgBx3bPnRTGgY2D1sobQd2l6t9wn2rIhls8PLYEiVFyifqvWQoV7CpuCUW9N5fGrgT/U22RU1isq2w9Chl9+Sit9eIZ8GrWQGQ/JL7P9cC+AL6RHQ==;fFt43HFfssTtmoG2LVn+gg=="

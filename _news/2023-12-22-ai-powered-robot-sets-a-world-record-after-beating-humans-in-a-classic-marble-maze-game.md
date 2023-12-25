@@ -9,7 +9,7 @@ ampWebUrl: "https://windsorstar.com/news/ai-powered-robot-sets-a-world-record-af
 cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game/wcm/0acaf506-7289-42a7-9122-2dd4c91ddd92/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Video: AI robot learns to beat labyrinth marble game"
-    excerpt: "In what the team called a world’s first, the AI robot was tasked with learning and beating a labyrinth marble game, which requires physical skill to steer a marble from a starting point to an ending point without the marble falling into any holes on the board."
-    publishedDateTime: 2023-12-20T14:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/20548/video-ai-robot-learns-to-beat-labyrinth-marble-game"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 34
 
 secured: "oN8dNsnG2B3ZEsIj88VCVaBPCOAjZSSvLP9CobyMDgf2VRdz8SXR6QU40qMc0cb1zNql2lDZncgk7gIUCtNczty/5C9T1CW8coat40xzTUPkKS3v4r2K5ni5ALZbf9YSr5CshKQpxAtAeVI3usa6SpNmqXZzGtm4+PmT8n/2OxgjJSt0ctnlV2RiroqPNRk4Fld8fAX3Mw3lZDD/iE57EjSYOo7PDjZOeVMKXVgb6b0M4ElEiUBd/Wu8vhqkCfq0jTMRHTqEbLJeonGb2sab7Vsy4cpYuLHdXpZadP1MUAIGEEsJL8kITQr2AszBJF9HAbJMyum485nZ5owPDlU7miK7m8wKzYxQ4tKfzp+G56M=;t5c2+vZwq2v0cWDA3hDCnw=="
 ---

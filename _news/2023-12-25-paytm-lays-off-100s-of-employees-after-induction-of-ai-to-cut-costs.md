@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-af
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1"
 type: article
 quality: 59
-heat: 109
+heat: 120
 published: true
 
 provider:
@@ -89,6 +89,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm bets big on AI to drive efficiency, save employee costs"
+    excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
+    publishedDateTime: 2023-12-25T16:05:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
     excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
     publishedDateTime: 2023-12-25T00:00:00Z

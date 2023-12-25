@@ -49,29 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "New Class of Antibiotics Discovered Using AI"
-    excerpt: "A deep-learning algorithm helped identify new compounds that are effective against antibiotic-resistant infections in mice, opening the door to AI-guided drug discovery"
-    publishedDateTime: 2023-12-20T16:08:00Z
-    webUrl: "https://www.scientificamerican.com/article/new-class-of-antibiotics-discovered-using-ai/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B0612C40-8B54-49BD-8B0B9703042404BD_source.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How UPS is using AI to combat package thefts"
-    excerpt: "With the holiday shipping season in high gear, the concern of lost or stolen packages is of top concern. CBS News' Janet Shamlian went inside UPS World Headquarters to see how the company is using artificial intelligence to combat package thefts."
-    publishedDateTime: 2023-12-20T14:14:00Z
-    webUrl: "https://www.cbsnews.com/video/how-ups-is-using-ai-to-combat-package-thefts/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 17
 
 secured: "B1TpfawjxiInCEO8aJ92fxrRmKp3LeAFUi10k7HGXErp3IHZmv0MRHb9jE8DQIv68cU4ZrXXfduMlB2UsIJEkuzPK3ebsJTga9UCWnkUFyyY25P0x/p9+k/cmjPyr4xZmm0ke5uSWJdpjKuiNg3BaM58FqAXUfCmIyP6fXhZ1DmqxCfYVkkafYCC8VltA14VZZLD3C+wztMlQUWk79ibmLfmvx90q74mUoV7W7LZ4AGuZ6VE2KK9rNwhES1zANTJ5U4oocd0l0zOLY579wbnv/eMtZMZ9rdpXt7SqOr595x19T+tFkcjKj+68Wby8tKcHOAhAaREDkeB6AVCh9SCgMMZXUdYT89cTKFRF96YA58=;2lzCdUbaL4PQ22OHE3hUaQ=="
 ---

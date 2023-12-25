@@ -7,7 +7,7 @@ originalUrl: "https://www.cardrates.com/news/2024-predictions-and-trends/"
 webUrl: "https://www.cardrates.com/news/2024-predictions-and-trends/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,167 @@ images:
     width: 1250
     height: 650
     isCached: true
+
+related:
+  - title: "10 AI Predictions For 2024"
+    excerpt: "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ..."
+    publishedDateTime: 2023-12-21T16:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1374
+        height: 900
+        isCached: true
+  - title: "10 Best Artificial Intelligence Stocks For 2024"
+    excerpt: "AI's sweeping applicability has the potential to transform business processes across many industries. Here are 10 stocks that have embraced the benefits of this technology."
+    publishedDateTime: 2023-12-21T16:34:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "PERSONA AI Wins First place in GenAI Solution Competition 2023"
+    excerpt: "SEOUL, KOREA, Dec. 22, 2023 (GLOBE NEWSWIRE) -- Recently, PERSONA AI ( https://personaai.co.kr/) has won the 1st place in GenAI Solution Competition 2023."
+    publishedDateTime: 2023-12-23T01:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/1d25f63f-1273-4dcf-a84a-00f3e40ab974/1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IBM’s 2024 predictions show gen AI is the new DNA of cyberattacks"
+    excerpt: "The new year signals the start of a new era of deception and identity abuse, IBM’s predictions warn, with attackers compromising networks with counterfeit and stolen privileged access credentials."
+    publishedDateTime: 2023-12-22T21:00:00Z
+    webUrl: "https://venturebeat.com/security/ibms-2024-predictions-show-gen-ai-is-the-new-dna-of-cyberattacks/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-Hero-image-IBM-Predictions-.png?w=1200&strip=all"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Can Artificial Intelligence Predict Your Life, and Death?"
+    excerpt: "Ever since the explosion in popularity of ChatGPT about a year ago, there has been much discussion around the use of artificial intelligence in academia, health care, and in consumer's everyday lives."
+    publishedDateTime: 2023-12-21T19:53:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/markus-winkler-tGBXiHcPKrM-unsplash.jpg?itok=4Oj_y_4C"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+    publishedDateTime: 2023-12-23T08:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
+        isCached: true
+  - title: "How Artificial Intelligence Is Set to Change Work in 2024"
+    excerpt: "(TNS) — If AI was a hit new toy this year, 2024 will cement it as a tool. AI, or artificial intelligence, grabbed the attention of every industry in 2023, creating hope for easier, more streamlined work processes and stoking fear that the technology ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-set-to-change-work-in-2024"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/260c365/2147483647/strip/true/crop/7777x3780+0+30/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F74%2F05%2Fa76fd2a14493bc501dd0aa5c1ffd%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xMTE0MDUwNDQ5L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NTIyNDMzOTMsICJtIjogMX0sICJvOEI1R1NDY05FMFdVV1dYS2Q0NUx0NjErT2siXQ%3D%3D%2Fshutterstock_1114050449.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
+    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Premature Quest for International AI Cooperation"
+    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
+    publishedDateTime: 2023-12-21T05:48:00Z
+    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Legislature eyes AI issues in 2024"
+    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
+    publishedDateTime: 2023-12-21T10:32:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
+  - title: "Google restricting election-related responses on AI products ahead of 2024"
+    excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."
+    publishedDateTime: 2023-12-20T18:16:00Z
+    webUrl: "https://www.aol.com/news/google-restricting-election-related-responses-161641362.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
+    type: article
+    provider:
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 4
 
 secured: "L1LKNHqrJwM26gfAnmvvXfKwflhPTaQAGvlzCUiui4ObPy3+nG+PnqcdoS+VNYCZg0AevZt0iwt+vaLWXZz8Wq+rOlNUVRWJb+Igo24C0Z+JS6x85w3Xy8E1G4PaSrEie4m6glEvGqSwLS5FGnVlJcLvZk8BZ75rV8cy94CKIq12l3AqD/5h3yYAyR6S0wPXXuG+2bQRi8xfDYcJ9bDFJ6fP2PIIGChvDxSBei38Dx++5SHMGXvwHWVK7nBqJVhEZcYYUlDzJE31z8PMW0B7Nk7jUTLnCZkzlyiVCP+HVuimwoUUmTxrzdnXNuDhGpT88rt/ppCd8jswKEYDCiTYebVGop119nUAk/SV4Bicwfg=;CKtiWkQkNg+HBLw1G7vpdQ=="
 ---

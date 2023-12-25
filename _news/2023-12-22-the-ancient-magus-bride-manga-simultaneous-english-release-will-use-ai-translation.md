@@ -24,6 +24,17 @@ images:
     height: 522
     isCached: true
 
+related:
+  - title: "The Ancient Magus’ Bride AI Controversy Sets A Bad Precedent For Manga Translations"
+    excerpt: "It seemed like only a matter of time, but if AI is going to be used to translate manga, it's worth confronting the costs head-on."
+    publishedDateTime: 2023-12-22T18:30:00Z
+    webUrl: "https://gamerant.com/ancient-magus-bride-ai-controversy/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 13
+
 secured: "Q93jf+2z7zAbj6lxsy1QWGxYplWsnKPp306JGp94aWbOqE7aqNCmHWen0q4lfDoWO7qD+pP4Sg6RsX94vwZ5a23JQb6+mjiJ/PW7UdhAhhgtzthXHmkrJ+uqInAIBvdu90R613fal/RR9zkORFDtApLFsZad2/fttWXiuD3iJEUnaWH7LwCdnxi2aL7MVZYkBaZLdugt4bW53O6OT2MiiywjTrmWxjhl/IBbFG9dNpZ8S/jBLtFk+HRjmv2N+l2CHqz4PsVXrbjYmNmYSju60+P4Wv12TonsFzRLQa5TLU9JLAiLr56UlPvA5G7DrskA0yrJGMuCNYOsdBpMnEDwMisGXXH4GXAQd6rP3xPYEAg=;vhoeYX1pH6+10TkQuF5e6w=="
 ---
 

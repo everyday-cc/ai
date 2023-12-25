@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-ove
 cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Pasadena Star-News
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "A free AI image dataset, removed for child sex abuse images, has come under fire before"
-    excerpt: "This isn't the first time the massive open source AI dataset, LAION-5B, has had to defend itself against problematic images."
-    publishedDateTime: 2023-12-20T15:39:00Z
-    webUrl: "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/"
+  - title: "Study shows AI image-generators being trained on explicit photos of children"
+    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report."
+    publishedDateTime: 2023-12-21T07:34:00Z
+    webUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/"
+    ampWebUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
+    cdnAmpWebUrl: "https://www-kotatv-com.cdn.ampproject.org/c/s/www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: KOTA TV
+      domain: kotatv.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-09.41.42-An-abstract-conceptual-illustration-that-portrays-a-dataset-containing-hundreds-of-images.-The-image-should-give-a-sense-of-a-moderately-large-collec.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://gray-kota-prod.cdn.arcpublishing.com/resizer/v2/PMZ65TUILBH7HIM2H4QTBCGWZY.jpg?auth=da174f320edeb60b2beb1f6027af58c0e29c3ea189176e5182e35f9fe97e032f&width=800&height=450&smart=true"
+        width: 800
+        height: 450
         isCached: true
   - title: "Images of child sexual abuse found in dataset used to train AI image-generating tools"
     excerpt: "A spokesperson for Stability AI, the London-based startup behind Stable Diffusion, told CNN in a statement that this earlier version, Stable Diffusion 1.5, was released by a separate company and not by Stability AI. And the Stanford researchers do note ..."
@@ -72,15 +74,20 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
-    excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
-    publishedDateTime: 2023-12-20T19:36:00Z
-    webUrl: "https://www.androidauthority.com/new-in-ai-3396270/"
+  - title: "Study shows AI image-generators being trained on explicit photos of children"
+    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report that urges companies to take action to address a harmful flaw in the technology they built."
+    publishedDateTime: 2023-12-21T18:06:00Z
+    webUrl: "https://www.stripes.com/theaters/us/2023-12-21/ai-image-generators-explicit-photos-children-12430194.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 41
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 34
+    images:
+      - url: "https://www.stripes.com/incoming/hcaaw3-343417237_556100956651617_4895395656519303604_n.jpg/alternates/LANDSCAPE_480/343417237_556100956651617_4895395656519303604_n.jpg"
+        width: 480
+        height: 299
+        isCached: true
 
 secured: "X0VUlxk91fdUwn7fZV18eFkqG/sxheXjK3usTawdCHzCZwh7JJJKn5V1VplUujfCY4rH81ZpIFNjAq/UpwxEyaWyih2XxvQNIh4EbeJbZKtU4uATcualFJPZ5TVw8HIsinSOjpFo1WzjUy5zelQ7+7zhb14O93t93DCWAHEvM3ayr099PqaTTE/tAPRqBlVBCfFk9KHik3cc40uxipo2za6n9N4tFRbvmjp8q9TjM9yimXni9jTcwVnrhGZRsb9dRJHAWPegQTLOUc0iE5fDrPJvLZE8oDRpCW+UbyIB4/jw55sHKgLewEGXiiL/QVx3ct6Ypd6EKKaERthwLaoEEf6anePs/rhhyBnWMDoeRrE=;OuyfX4rTRLw3Ki6BM6xArw=="
 ---

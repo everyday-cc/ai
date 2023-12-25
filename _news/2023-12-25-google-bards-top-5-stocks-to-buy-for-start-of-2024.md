@@ -7,7 +7,7 @@ originalUrl: "https://finbold.com/google-bards-top-5-stocks-to-buy-for-start-of-
 webUrl: "https://finbold.com/google-bards-top-5-stocks-to-buy-for-start-of-2024/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 682
     isCached: true
 
-secured: "X5kKODWZhy+AYB3dTL8r+vvqnFTetiy5ZG7cB1kJEzTat645dTka+NL+SBX9w5Y1RrOlnQnwvQTr7W067PHSoq6Wgj4uTtccZSZZL4z8M3ZL11Q+kaO7288iE0BcrltXGvkbap8XAXmxIPN10xCAydPc1+ytR7PNALFgn24YGYqMkBXr/kYCyAqDjmU/icTW4R13pKciJOJmf40QVyDwvjwljnmLaAHc1wAZKCSwi+1AiQ52RoJ5cY4Ooio5J1+BgVr0NKbqjnMuEY3gKvgiRu8XIZeXfp3RZrVKZAwq6AOE4VpQgRZ+4kb4nIotWjZto9uNI6C5P9Nq0Ugr1cGgFZwfRLJ0/6hdQy+PpCZ8cLI=;jNRnaYZVTy4bah74x848Kw=="
+related:
+  - title: "Google Bard’s top 5 cryptocurrencies to buy for start of 2024"
+    excerpt: "The new year is near and Google Bard has demonstrated its capacity to analyze the trends in the crypto market at the start of 2024."
+    publishedDateTime: 2023-12-25T14:00:00Z
+    webUrl: "https://finbold.com/google-bards-top-5-cryptocurrencies-to-buy-for-start-of-2024/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 24
+    images:
+      - url: "https://finbold.com/app/uploads/2023/12/Google-Bards-top-5-cryptocurrencies-to-buy-for-start-of-2024.jpg"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "OOmw+e5k/aE5xEW8Mg6ys6RMvLfAouXi3lOH6J7N3wd1S3ZtwSLw5EnAxuyvLSpLmSOROptNCO/0tcOTdZ4ymmenq3jQ/SwS/ZvtZf0eNvwGc00y5hF99f396c9xubxh83XmkUQkojkAUXZ84BS7g1QqsJ5z02uJSBF887HFj9BuktXbjYzr+6T9xU8Rkw7zH+gzfI7ZCoFDUmETZQE6X25czoq6XvGNMCW/9cayS5vtBKlgmkl+leicOEQcAdC3ByQ0Jsi7vFfrcZby8mOvDUu79XATTt5WJZSYUt3mRtt4OlC9tBL7zeRdk+AW7vEYjFAAaMwpg3YiqvNQya/WU65Y/w1HnEUKWcCuGXw5t22YSqbqNi2Iwn+byQQC7XNjoC+JvOWgUaBZzUMNWFRUsr0V+SNO+Py8r0cbSasZvI2CvriPGU1SeQioJCkOu5II5gXS7x2I1YeT46iD0Tp8wqyHhPdCqgBuq44vzGKa9tX2E5QFCed3cV7LFjdBR+B0CdRXkoKbMwWbqlk+8NVhJg==;LVk9aPs7nqUNhdw9ONZNww=="
 ---
 

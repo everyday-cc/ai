@@ -89,22 +89,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
-    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
-    publishedDateTime: 2023-12-23T08:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-        width: 960
-        height: 1280
-        isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
     publishedDateTime: 2023-12-25T03:38:00Z
@@ -186,15 +170,6 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
-    quality: 4
-  - title: "Top six predictions for fintech in 2024"
-    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
     quality: 4
 
 secured: "cMukhc93it01Vqg5v7sib+Fg3I8kdrqcc2i9B052gwqxKluLVfH0pDqKG42G8BXy32qmgyjfEhmKhAIzUc8o1ri/DppX8GPGo/+jnCTXHO6FcePe3K5vrdhxfuLzYhs+StvMiSDAq+KQcaQ6WMlrmq6GzGvfc/ThVODxioRl/OKqr/1QUDoMgg/sWJ82RX80uVPIvntU081nJ0rdxk7NRv5XT6ase1Bczhqiimj+idJp4/OMv8jphuOQwqXGxXEEv+K+XE0aQQ6j7tVNhW74rlaDJr7UPG+Qp1WVHR+EuVPzsXrSc/Kh3ttTC/AoIYdU5fg9ZgJkzhqVwVKQFQEBS8NNQAa5rcKyCrAgTCk0YjAEi0eE3rkYqEHt3M8sw4dTxposm6IjZRCetYbGEflfw0YW8qrkGp6EJyjWci6Pcpzl+lzJ1urMJHNVNftavUr99Fee+yQIxcWjWvkJZpXgBpbRkoG1/w4xR+pwAhnNmBjMw3FUvFMbqtlORAVdG6GlvarDh+oe6W33GavTDNPy8Q==;9FR+fAnwR5Atj0F2s7tw3A=="

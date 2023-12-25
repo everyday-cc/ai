@@ -98,20 +98,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Rite Aid banned from using facial recognition technology in stores for five years"
-    excerpt: "The company has been banned from using facial recognition technology for five years over allegations that its surveillance system was used to incorrectly identify potential shoplifters, especially Black,"
-    publishedDateTime: 2023-12-20T14:46:00Z
-    webUrl: "https://www.bostonglobe.com/2023/12/20/business/rite-aid-facial-recognition-ban/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 49
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/No642v4czI6KYb3hHecX6FeePLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/RBWLALSL25VK2LDLBRQKD5PHFM.jpg"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Rite Aid can no longer use facial recognition after 'reckless use' of the technology, says FTC"
     excerpt: "The pharmacy chain was barred by the FTC from using face surveillance after incidents in several cities, including Philadelphia"
     publishedDateTime: 2023-12-23T18:19:00Z

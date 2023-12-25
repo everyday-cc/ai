@@ -24,22 +24,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Socure Announces New Additions to Executive Leadership Team Amid Rapid Growth"
-    excerpt: "Identity verification and fraud prevention leader adds Arun Kumar as CTO, Steve Rooney as SVP of Global Sales and Katia Mar as SVP of Marketing to Bolster Executive Bench. INCLINE"
-    publishedDateTime: 2023-12-20T16:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/20/9937038.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/2305030/Screenshot_2023_12_19_at_5_59_24_PM.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "LRPgd4bVh29FcCdo2GmfrMO3a63jIp/aD0r4+K1tR9uJetFRtoKSFU+6xMa73IfcZHtB5HyxAANJKhx2ofJDs/wRA73sb1Bb2QcGuvZ51AaMjxloKi+rS1oz5qAFYWAMtaBnZguYUiN9mmBwbZE1K40vYfCC8tr/SB7ajnJKgLALU8dvh7vD6j9jewq3bli74EyV7PDl7d655wtLMpkq2sd0Tf3/Pkdrp8x8TDF3K1kkXIvMhkc9GvxbIInZ9hqRsc0T2g1AII6i2fVojeMDwfvclSY9NyZc3HyenL5iT9Wnl4eEd85JAblDJCJ8qMvM8lNt0y/jozeuYNUT50d6wKNu/BEDuLBEoBnm1Vq4HMg=;iF2ruyU0zOKgHHvWSonYKQ=="
 ---
 

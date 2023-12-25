@@ -2,6 +2,127 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-11-14-28-day-mortality-predicted-by-machine-learning-in-patients-with-crc.md",
+      "title": "28-Day Mortality Predicted by Machine Learning in Patients With CRC",
+      "excerpt": "Critically ill older patients with colorectal cancer (CRC) had their 28-day mortality predicted using machine learning algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/28-day-mortality-predicted-by-machine-learning-in-patients-with-crc",
+      "originalUrl": "https://www.ajmc.com/view/28-day-mortality-predicted-by-machine-learning-in-patients-with-crc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-neural-decoding-of-visual-information-across-different-neural-recording-modalities-and-approaches.md",
+      "title": "Neural decoding of visual information across different neural recording modalities and approaches",
+      "excerpt": "It is also critical to the development of artificial vision used by brain-computer interfaces ... are difficult to reconstruct with this type of method. The third is deep neural network methods, which include the introduction of CNN, RNN, generative ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-11-neural-decoding-visual-modalities-approaches.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-11-neural-decoding-visual-modalities-approaches.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T21:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-nvidia-introduces-the-h200-an-ai-crunching-monster-gpu-that-may-speed-up-chatgpt.md",
+      "title": "Nvidia introduces the H200, an AI-crunching monster GPU that may speed up ChatGPT",
+      "excerpt": "According to Nvidia, the H200 is the first GPU to offer HBM3e memory. Thanks to HBM3e, the H200 offers 141GB of memory and 4.8 terabytes per second bandwidth, which Nvidia says is 2.4 times the memory bandwidth of the Nvidia A100 released in 2020. (Despite the A100's age, it's still in high demand due to shortages of more powerful chips.)",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia_h200_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/11/nvidia-introduces-its-most-powerful-gpu-yet-designed-for-accelerating-ai/amp/",
+      "publishedDateTime": "2023-11-13T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
       "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
       "excerpt": "Messagepoint announced today enhancements to its generative AI capabilities to further support organizations in creating communications that are easy",
@@ -792,108 +913,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk.md",
-      "title": "Self-driving car-makers could face prison for misleading adverts in UK",
-      "excerpt": "The UK's Automated Vehicles Bill would make it a criminal offence for car-makers to use certain marketing terms unless their vehicles are fully self-driving, with a punishment of up to two years in pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2402075-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk/",
-      "originalUrl": "https://www.newscientist.com/article/2402075-self-driving-car-makers-could-face-prison-for-misleading-adverts-in-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them.md",
-      "title": "Humanoid robots are here, but they're a little awkward. Do we really need them?",
-      "excerpt": "(AP Photo/Matt Freed) Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/humanoid-robots-are-here-but-theyre-a-little-awkward-do-we-really-need-them/article_2eb7c7f8-1938-5aa7-bf59-8c969534bc20.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T09:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-13-exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience.md",
-      "title": "Exploring the Power of AI in Gaming: Unveiling the Tools That Drive the Experience",
-      "excerpt": "Introduction In the dynamic realm of gaming, the integration of artificial intelligence (AI) has become a game-changer, revolutionizing the way players interact with virtual worlds. AI tools play a pivotal role in enhancing gameplay,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "originalUrl": "https://techbullion.com/exploring-the-power-of-ai-in-gaming-unveiling-the-tools-that-drive-the-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T09:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

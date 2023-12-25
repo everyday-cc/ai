@@ -48,22 +48,6 @@ related:
         width: 1600
         height: 835
         isCached: true
-  - title: "How CrowdStrike Is Navigating Risks And Ethics For Its Generative AI"
-    excerpt: "CrowdStrike weighs in on how it is developing generative AI while managing the potential Pandora's box of challenges that come with it."
-    publishedDateTime: 2023-12-20T15:22:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2023/12/20/how-crowdstrike-is-navigating-risks-and-ethics-for-its-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658305d10679a059770fa8e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
     excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
     publishedDateTime: 2023-12-21T18:19:00Z
@@ -217,6 +201,15 @@ related:
     provider:
       name: Modern Healthcare
       domain: modernhealthcare.com
+    quality: 17
+  - title: "Artificial Intelligence Has Entered the Resale Market"
+    excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
+    publishedDateTime: 2023-12-25T14:00:00Z
+    webUrl: "https://www.aol.com/artificial-intelligence-entered-resale-market-140000797.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 17
 
 secured: "ete8zT/DrP17vw3T5k4v5lUz158PBD8XA4b2vUX2Tc8hSj2whXZP2NYmR4N3fyqv/G9H6KhN7fppAysVA6U+fsOqreYjwh8L+Y1Xe+FAWsZQMz64x9y9Za0xg6TnHXKXWrUnF2LNtOIQbkh0LF04/9rI+D474WbL0nENYWxIu1tqgeInXtOVrRy1JZXgd7YKWbt1kb/yNZtOeKYwytTYcRPt87jy7sx1xPWYw8mTzT/szKKDGYxoEx6jk8zsyaB23AaFBrUWKdZU36WtWdTVn6VeG+ZD6XvjzSB9mlugQtIrJVz5840SJmPhKPZnIWgalOFCTTnktTlylIwFplnnNw4no94BgFy17FdmJtzHj/lIg/wbzRa+insQsYW+Y/xX/LLQcZXfEB6JK9ezTGwpoG5A+TASjYqIUJcwI/xHEAYu+0DduZ+EgxmEqZAsgSGSorDxQmLN/5HmXz7yADcLLp+znXOcF4JTO60Gsf7nSWGbqAG+Jtn7ZEje+y9kA/SNiFIDgFZsb0PtTKvh1icYFA==;FBWBeLlQrl0/TCNiA8Z1uw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-wi
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 114
 published: true
 
 provider:
@@ -39,31 +39,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 69
-  - title: "For gen AI like Microsoft Copilot, it's looking like 2024 will be a big corporate spending year"
-    excerpt: "It’s more than just AI hype. A majority of top tech officers across the economy say their companies are accelerating spend on software like Microsoft Copilot."
-    publishedDateTime: 2023-12-20T15:06:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/business/money-report/for-gen-ai-like-microsoft-copilot-its-looking-like-2024-will-be-a-big-corporate-spending-year/3384933/?amp=1"
-    type: article
-    provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 62
-    images:
-      - url: "https://media.nbcsandiego.com/2023/12/107329682-1699299150834-gettyimages-1778708098-js2_4099_isifrhca.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft Azure gaining steam but Amazon's AWS still holds top spot - Jefferies"
-    excerpt: "Jefferies surveyed 40 U.S. CIOs and found that both platforms are best positioned to gain incremental spend over the next two years, with 80% of CIOs planning to boost cloud spending in 2024. According to the firm, Azure screened positively, with a higher share of CIOs planning to spend \"significantly more\" over the next 24 months."
-    publishedDateTime: 2023-12-20T13:17:00Z
-    webUrl: "https://za.investing.com/news/microsoft-azure-gaining-steam-but-amazons-aws-still-holds-top-spot--jefferies-432SI-2962657"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 62
   - title: "Santa Tracker 2023: Google Vs. Microsoft, Bing, AWS, And NORAD"
     excerpt: "Compare Google's interactive holiday experience vs. the official 2023 NORAD Santa Tracker powered by Microsoft, Bing, Azure, AWS, and Zillow."
     publishedDateTime: 2023-12-21T22:56:00Z
@@ -103,29 +78,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "Oracle Database Services Running on OCI Can Now be Deployed Directly in Microsoft Azure"
-    excerpt: "Oracle announced that its first Oracle Database@Azure service is now generally available in the Microsoft Azure East U.S. region. Oracle will operate and manage Oracle Exadata Database Service, the first of several planned Oracle database services to run on Oracle Cloud Infrastructure (OCI) in Azure data centers."
-    publishedDateTime: 2023-12-20T15:06:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Oracle-Database-Services-Running-on-OCI-Can-Now-be-Deployed-Directly-in-Microsoft-Azure-161906.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 46
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft and TomTom partner on in-car Generative AI"
-    excerpt: "TomTom has announced a new partnership with Microsoft to bring Generative AI to vehicles, TomTom has developed an advanced AI-powered voice assistant"
-    publishedDateTime: 2023-12-20T14:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/microsoft-and-tomtom-partner-on-in-car-generative-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "HozF6IMNAo/E9A+RxvfkUOsOZZJaoDMnrOokqakQa+bmiR4h+I0EBHf5LZXTfwa6zkVXEPkc1Gc4JvAHeLqsrrEAKdAFNjpvFUdK09sLqtrPJMeyz6KsajIXPxlGBKxsF6JS/1dHy2XX4gwdKoJIzWvJLrEXwywp8ZuC89PxSsG6TDZJErCnXGxx7URaQq0mJOHp5U5qxOuKVcFs4AktP2mp84E7FiO6m9j1su0tfaXPy0EdtDu+v7vUvwAZszYWgH4L6O/J3QjBf3y05Cc9G1JXzC/ZXBA9B5OZm984OgsnEW39VWu6XWjR3gNOhDsqXVeUxoW7mRZrn1/BOpLe0IY5eVyjCMsZ4MssMROWv/qOuBr2LC+FnFOkZEcFv0ILBOSOdt8MvVABILv69HB2YmznAPqenrqKfkjzaa9H6Sebgd3Ko9q96ceoYTG+F51nzMy+iHyv5P868Fycdt4ICJlHSSyh/P4obRLXA1EjnilllVXSBSdRZEkHztTqf70ZjFRth0wvo+8DTceyehVRBw==;UUnRZQWTAL1sr4IkqrTq+A=="
 ---

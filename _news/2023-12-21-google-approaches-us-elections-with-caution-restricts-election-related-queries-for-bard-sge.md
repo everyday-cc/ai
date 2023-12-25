@@ -67,15 +67,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Google restricting election-related responses on AI products ahead of 2024"
-    excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."
-    publishedDateTime: 2023-12-20T18:16:00Z
-    webUrl: "https://www.aol.com/news/google-restricting-election-related-responses-161641362.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
   - title: "Google Restricts Election-Related Queries, Bill Gates Enthused By AI Innovations And More: This Week In Artificial Intelligence"
     excerpt: "The week was once again a thrilling one for technology enthusiasts, especially for those keeping tabs on the evolving AI landscape."
     publishedDateTime: 2023-12-24T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-inte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI cannot patent inventions, UK Supreme Court confirms"
-    excerpt: "\"The response concluded that there should be no legal change to UK patent law now, and noted that many share the view that any future change would need to be at an international level. The decision of the Supreme Court does not alter that conclusion,\" the IPO wrote."
-    publishedDateTime: 2023-12-20T14:51:00Z
-    webUrl: "https://www.bbc.com/news/technology-67772177"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor"
     excerpt: "On today’s ExchangeWire digest: Instagram Reels Outperform TikTok for Brand-Owned Video Content; UK Supreme Court Confirms AI Can’t be Named as Patent Inventor; AUS Proposed Ban on Gambling Ads Met with Resistance"
     publishedDateTime: 2023-12-21T08:00:00Z

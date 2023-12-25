@@ -53,29 +53,6 @@ related:
         width: 976
         height: 400
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Legislature eyes AI issues in 2024"
-    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
-    publishedDateTime: 2023-12-21T10:32:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "43VahPvQEH8wuZN7q+OdOns3CpQNfhn9Ar8we270p/nxwD1CaJRPNl6oA2Yb6jh6br+/d0xdG2CsG4REqxeO9U5F7zXVCIY2/rdlO9jpOFnQSl2v+0Bz7Nw+0DpVzy1FiJtyZKI3/xaqFsp0rn0JKQFnWtlT/N40lb5MtrTN6bthBqaGmuDu6x/sv5jbioQ4V7nsCr6gd0/VUbE4fx+dPCrU7G/iK6TUESxc/Tcly5rFUt+/3KZlFZT9gG3ky0Da36YTEJ/PL/jv+j92gxr5wjBmhcO1j1mR4MAGDiLpGsuQJa/QemW/pr82UVIi6iKiwSK3P8AG8FsxUxq70FGk72z8qaDwXU0i2DJWaIukzmo=;ucjcxtkaAhM36dtS2BBdOw=="
 ---

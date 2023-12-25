@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/inside-google/google-most-helpful-tips-2023/"
 webUrl: "https://blog.google/inside-google/google-most-helpful-tips-2023/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Google
@@ -27,38 +27,6 @@ images:
     width: 1300
     height: 541
     isCached: true
-
-related:
-  - title: "23 of our biggest moments in 2023"
-    excerpt: "A look back at 2023 at Google, from AI announcements to hardware launches and more."
-    publishedDateTime: 2023-12-20T16:10:00Z
-    webUrl: "https://blog.google/technology/ai/google-product-launches-2023/"
-    ampWebUrl: "https://blog.google/technology/ai/google-product-launches-2023/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-product-launches-2023/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 94
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Still_for_social_1.width-1300.png"
-        width: 1046
-        height: 435
-        isCached: true
-  - title: "Looking back at 4 of the biggest automotive industry headlines in 2023"
-    excerpt: "Review: key automotive industry news, focusing on autonomous vehicles, UAW victories, Elon Musk's impact, and EV market trends."
-    publishedDateTime: 2023-12-22T09:04:00Z
-    webUrl: "https://www.cbtnews.com/looking-back-at-4-of-the-biggest-automotive-industry-headlines-in-2023/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 24
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/03/Future-of-Automotive.png"
-        width: 1500
-        height: 844
-        isCached: true
 
 secured: "bBZsqaChFDqlCmPfLIjxFjuM9C2U0IpWb6o0ZZSJHHeG4ih6ut21UCU40nPm2GqGOPtyEY+b3cbriqrX4JXxV9euE+cYlKB2zVtcDDEx7EjZKq4qILHqWPER7LW+MYMIZ1VIv7kwVUWK7AyI6rmzqIDBjiLpukxY7yfaP3cPby7KWgG5h7WXCCt/dlS2LcgCxHx0mLpjqplqydXtzilE004mBh+kpXxxQPL9VMQiS3bSSd2gXEVgSqY01vi84psHSu9B6pTTLqU1RcFgpljtzqP0g7pa4bEbfupU2jw7jG0SmXmoLaqL7ZrtTZGyW3eTXz0T5eM802q1UF5aPuWrR0Ayvk+waDQiApBDhMV0/TM=;FmDfrlQ85aNnwukIjXdj0g=="
 ---

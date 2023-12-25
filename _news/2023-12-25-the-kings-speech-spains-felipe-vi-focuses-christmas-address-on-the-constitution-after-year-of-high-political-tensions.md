@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Son uses AI to recreate late father's voice for special Christmas present"
-    excerpt: "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice."
-    publishedDateTime: 2023-12-22T20:56:00Z
-    webUrl: "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
-    ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
+  - title: "King’s Speech 2023 LIVE — Charles to deliver message of ‘ harmony’ in Christmas address as royals gather in Sandringham"
+    excerpt: "KING Charles will deliver his second Christmas address as monarch to the nation today as he is expected to spread a message of “peace and harmony.” The King will take to our screens at"
+    publishedDateTime: 2023-12-25T09:04:00Z
+    webUrl: "https://www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/page/1"
+    ampWebUrl: "https://www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 20
     images:
-      - url: "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/Kings-speech.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "‘Twas the Night Before Christmas, and ChatGPT Was Rhyming"
-    excerpt: "Hello and welcome to the weekly Odd Lots newsletter, where Joe Weisenthal and Tracy Alloway bring you their thoughts on the most interesting developments in markets, finance and economy."
-    publishedDateTime: 2023-12-22T17:39:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-12-22/-twas-the-night-before-christmas-and-chatgpt-was-rhyming"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
 
 secured: "4eHsUs4UHdlMOs0OheSfzzNOuf4UhmxZPPmczh69ZQa+DDuh+uXQVyfoooB9b8K0OxCBdCXGSnncpxgVA4L/fhHa8bJkxGqiQ31QhNp/RnU5hznBVkOoc1q0zrdAAHBUOH5h1VKf2Pd6ghp2kT9gZ5cPLuy3vmWwk6NHXWnGWkUjjdHPcNLvVcBMv80FnGxShVx9juga/V9xGLkXkkOimIVdJYkD5JcaJrEF8b8ExyH/1RFHeAbTv4KN6xGuevqurwNrhSPC9rkVm8SSLZ+HfpDuHxij3FgJU2AHN+Q01ZeFHOPUT47q/FPXwLh6q6Jah7Ctz2eFdUc0e3J9ifLo76SaP1Ouwxq/7ys2eFG9TiQ=;2MOTJ9lh5jLPq+Eh3KBscw=="
 ---

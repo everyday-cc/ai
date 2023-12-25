@@ -78,6 +78,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Intel’s benchmarks back AMD AI"
+    excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58152-intel-s-benchmarks-back-amd-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/200403e85e1315eb8fd3c06120843872_L.jpg"
+        width: 620
+        height: 467
+        isCached: true
   - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
     excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
     publishedDateTime: 2023-12-20T20:23:00Z

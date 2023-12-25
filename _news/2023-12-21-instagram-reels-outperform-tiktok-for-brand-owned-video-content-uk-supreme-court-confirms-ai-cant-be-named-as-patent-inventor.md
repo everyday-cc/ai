@@ -57,15 +57,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "AI cannot patent inventions, UK Supreme Court confirms"
-    excerpt: "\"The response concluded that there should be no legal change to UK patent law now, and noted that many share the view that any future change would need to be at an international level. The decision of the Supreme Court does not alter that conclusion,\" the IPO wrote."
-    publishedDateTime: 2023-12-20T14:51:00Z
-    webUrl: "https://www.bbc.com/news/technology-67772177"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "Artificial intelligence system can’t be registered as inventor of a patent, UK court says"
     excerpt: "An artificial intelligence system can't be registered as the inventor of a patent, Britain's Supreme Court ruled Wednesday in a decision that denies machines the same status as humans."
     publishedDateTime: 2023-12-21T11:04:00Z

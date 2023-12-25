@@ -41,22 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Meet 'Coscientist,' your AI lab partner: System succeeds in planning and carrying out real-world chemistry experiments"
-    excerpt: "In less time than it will take you to read this article, an artificial intelligence-driven system was able to autonomously learn about certain Nobel Prize-winning chemical reactions and design a successful laboratory procedure to make them."
-    publishedDateTime: 2023-12-20T16:00:00Z
-    webUrl: "https://phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.html"
-    ampWebUrl: "https://phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-coscientist-ai-lab-partner-succeeds.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 35
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/meet-coscientist-your.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
 
 secured: "Eow5X01g0/zMVx1g5UTJGlxG1PG9oQb7O65TSteVbo5skQZvW432qwvNoqBKBYGIJIerh0j6WHRheYs5VzutpYWLREjtLQgr2jJuaKGSv6Ho2tcUzSiPpGt4AIJkIBCpHoL0zFGdsbYTsMFEF28z+/8It3xO19c+8mVBpNC4H3QA9PqDl7cF1/PT9Hq5U7t6DyHSMttmADzfG/2KcbGXF+xFmlt7WQuzy8elvEZBEWSEkY5HCVfr9rdoy3DfApf+KxJ/8h5fzJy0Qv+DdC53TV0EcVU3zBFsuEZd7fNq3vxo4c7BChTlpgvC1lJv2vajl7zGZASl9sCJhws30h1Q07DqxDIsq+2wmiBOncX1Y9AASNhv3tJL4aeUvoOzlsDJZ/irqW7dZ/yR0Wu1+KJ0FmoFjG9di6JrdM9LfJcljorE6Cf43hHCjAxPgcP+h3bdLcji9DjxQ22bcmMHUsPH8/HLTJqH9QLoJxTatOJWLTJ4vwGYLcHLNOFsAxZMidCQgdNmdaRxq8OZ/qFWpX/6Fw==;MazOX0McQ3Q8n8U4apl5Eg=="
 ---

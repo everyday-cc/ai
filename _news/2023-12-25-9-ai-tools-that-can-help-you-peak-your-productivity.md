@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: timesnownews
@@ -42,20 +42,6 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "You Can Run a Generative AI Locally on Your Computer"
-    excerpt: "If you want to have your own ChatGPT or Google Bard on your local computer, you can. LM Studio lets you set up generative LLM AI models on a local Windows or Mac machine."
-    publishedDateTime: 2023-12-20T16:29:00Z
-    webUrl: "https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 39
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HJ3PEGJ2J1V0X16MBSH2GHG6/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "GyJ0g8xL9BSJg7Mh0texPJgFVOzDoVzpgsI/i8X5NnqWOgC++W4BVOz1AGV5hY+L5fGpbUuh+ax6uKgb4WmxaiH9WFQWmNMNb5YWGLmIAUmge0903O0EvhZ2W/yyQbzGTvDee3ETWKssK4ubGdqJcwvWfSOSvy4APRXV9eN4MCySM16RuQ4g6QX6h5pavmoCy8aAlXHKy4voppCMK7icTCAcRFk1hElFu5GdIF6Rjap1BSAWXNCUXfhxGcacBOiPayAtsev14NVFo7neLg9sKpFmmN0wWe+6PgyfuNOdkMN5QL6jacnAOrpmCQCBARh7R5wf7k7d04a/om+AkulE4lf3I7Ic41OHBnVQfi7PxqE=;Z5KcXch/JRXudv430nZQKw=="

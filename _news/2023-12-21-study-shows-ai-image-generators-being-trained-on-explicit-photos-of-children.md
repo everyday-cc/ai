@@ -26,21 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "AI image generators trained on pictures of child sexual abuse, study finds"
-    excerpt: "Images might have helped AI systems produce realistic sexual imagery of fake children; the database was taken down in response"
-    publishedDateTime: 2023-12-20T16:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/ai-image-generators-child-sexual-abuse"
+  - title: "Large AI dataset has over 1,000 child abuse images"
+    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
+    publishedDateTime: 2023-12-21T00:41:00Z
+    webUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
+    ampWebUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
+    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Pasadena Star-News
+      domain: pasadenastarnews.com
+    quality: 57
     images:
-      - url: "https://i.guim.co.uk/img/media/657f7fcb7f847447432b65d346dbde25e8726919/0_46_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=0a31fc1cd00192baf8060e17d4d2a771"
-        width: 620
-        height: 372
+      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Images of child sexual abuse found in dataset used to train AI image-generating tools"
+    excerpt: "A spokesperson for Stability AI, the London-based startup behind Stable Diffusion, told CNN in a statement that this earlier version, Stable Diffusion 1.5, was released by a separate company and not by Stability AI. And the Stanford researchers do note ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/"
+    ampWebUrl: "https://wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/11/children-eye-screen-time-e1575997913680.jpg"
+        width: 1194
+        height: 672
+        isCached: true
+  - title: "Researchers find more than 1,000 child sexual abuse images inside AI image generation training data"
+    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
+    publishedDateTime: 2023-12-21T02:02:00Z
+    webUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
+    ampWebUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
+    type: article
+    provider:
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 45
+    images:
+      - url: "https://www.dailynews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Study shows AI image-generators being trained on explicit photos of children"
     excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report that urges companies to take action to address a harmful flaw in the technology they built."
@@ -56,15 +88,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "Study shows AI image-generators being trained on explicit photos of children"
-    excerpt: "A prominent LAION user that helped shape the dataset's development is London-based startup Stability AI, maker of the Stable Diffusion text-to-image models. New versions of Stable Diffusion have made it much harder to create harmful content, but an older ..."
-    publishedDateTime: 2023-12-20T13:18:00Z
-    webUrl: "https://www.wftv.com/news/study-shows-ai-image/2VTJ24GEQNXPGWPQ456MRATVMI/"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 14
 
 secured: "4qjaacLDLiZJtRTX1bbCVDUi8KlQyMEQCB3QCGDn6km84biSQQJPjShUTnRqpiKkUTe+tOoi8yNENPuwpypYRlfCeWinc9/+IJpyKt3UsQI5quz0j9OIS1m3dFynImTcEpufGLIPbrwkdPc1r7GvYN3d6+RAMZ+Jp/l+tuDsvR9jLUc5BDytgJ+mLTGujjiKULok6QD9IfzgdsEG3blkTA+3kKymGBPOqtswRQlEDxH/QgHQCwRSf4va6INflioFMSr6axC7IhWRHvE0n8dixz2zNo+JRwNeRJMCk0J/twSw5gfgZeS6auhZ892yCHqXC6MHUZOsP6PcHCAVWlcB0QMWCuTtY5N151lUglCyw0E=;EQLFAIR2OA11fp7hHzRhxw=="
 ---

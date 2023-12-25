@@ -7,7 +7,7 @@ originalUrl: "https://cacm.acm.org/news/278914-mercedes-adds-blue-car-light-for-
 webUrl: "https://cacm.acm.org/news/278914-mercedes-adds-blue-car-light-for-self-driving"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mercedes-Benz Installing New Tail Lights to Show When Car Is Self-Driving"
-    excerpt: "Mercedes-Benz just received approval for first-of-its-kind turquoise car lights that indicate a vehicle in self-driving mode."
-    publishedDateTime: 2023-12-20T14:26:00Z
-    webUrl: "https://futurism.com/the-byte/mercedes-tail-lights-self-driving"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 18
   - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
     excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
     publishedDateTime: 2023-12-20T19:15:00Z

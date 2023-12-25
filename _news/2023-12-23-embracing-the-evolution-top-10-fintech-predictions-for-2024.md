@@ -27,166 +27,154 @@ images:
     isCached: true
 
 related:
-  - title: "The Prospects Of Fintech Startups In Emerging Economies"
-    excerpt: "Fintech companies can implement solutions like two-factor authentication, data encryption, biometric identification, real-time alerts, AI-driven security analytics and network data routing to fortify security. Digital identities, an essential component of ..."
-    publishedDateTime: 2023-12-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
+  - title: "10 AI Predictions For 2024"
+    excerpt: "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ..."
+    publishedDateTime: 2023-12-21T16:01:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6584582f009220b5cf280d5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1374
         height: 900
         isCached: true
-  - title: "5 Promising Fitness Tech Niches For New Startup Projects"
-    excerpt: "From personalized AI-driven fitness plans to engaging virtual experiences ... While manufacturing has a rather high value to entry for new startup projects, specializing in the tech needed for this niche could be a great opportunity."
-    publishedDateTime: 2023-12-22T09:48:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
+  - title: "10 Best Artificial Intelligence Stocks For 2024"
+    excerpt: "AI's sweeping applicability has the potential to transform business processes across many industries. Here are 10 stocks that have embraced the benefits of this technology."
+    publishedDateTime: 2023-12-21T16:34:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 72
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658563e81363936b4fab7890/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 432
-        height: 222
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
-    excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
-    publishedDateTime: 2023-12-25T04:59:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 47
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "From RegTech to cross-border, fintech trends to watch out for in 2024"
-    excerpt: "UPI transactions hit a new record of Rs 17.4 lakh crore in November 2023, a 54% YoY increase in terms of the number of transactions and a 46% YoY increase in terms of value."
-    publishedDateTime: 2023-12-21T04:42:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/articleshow/106171316.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163506,msid-106171422/istock-866905356.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Fintech Future 2024: Unveiling latest innovations and trends"
-    excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
-    publishedDateTime: 2023-12-25T03:38:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 44
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274078-fintechnew.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
-    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
-    publishedDateTime: 2023-12-24T09:50:00Z
-    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
-    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 38
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
+  - title: "PERSONA AI Wins First place in GenAI Solution Competition 2023"
+    excerpt: "SEOUL, KOREA, Dec. 22, 2023 (GLOBE NEWSWIRE) -- Recently, PERSONA AI ( https://personaai.co.kr/) has won the 1st place in GenAI Solution Competition 2023."
+    publishedDateTime: 2023-12-23T01:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 34
-  - title: "Fintech in Singapore: 2023 in Review"
-    excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
-    publishedDateTime: 2023-12-21T06:27:00Z
-    webUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
+    quality: 71
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/1d25f63f-1273-4dcf-a84a-00f3e40ab974/1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "IBM’s 2024 predictions show gen AI is the new DNA of cyberattacks"
+    excerpt: "The new year signals the start of a new era of deception and identity abuse, IBM’s predictions warn, with attackers compromising networks with counterfeit and stolen privileged access credentials."
+    publishedDateTime: 2023-12-22T21:00:00Z
+    webUrl: "https://venturebeat.com/security/ibms-2024-predictions-show-gen-ai-is-the-new-dna-of-cyberattacks/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintech-in-Singapore-2023-in-Review.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-Hero-image-IBM-Predictions-.png?w=1200&strip=all"
         width: 1024
-        height: 567
+        height: 576
         isCached: true
-  - title: "Top 10 financial services and fintech stories of 2023"
-    excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
-    publishedDateTime: 2023-12-22T04:59:00Z
-    webUrl: "https://www.computerweekly.com/news/366562857/Top-10-financial-services-and-fintech-stories-of-2023"
+  - title: "Can Artificial Intelligence Predict Your Life, and Death?"
+    excerpt: "Ever since the explosion in popularity of ChatGPT about a year ago, there has been much discussion around the use of artificial intelligence in academia, health care, and in consumer's everyday lives."
+    publishedDateTime: 2023-12-21T19:53:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
-        width: 500
-        height: 354
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/markus-winkler-tGBXiHcPKrM-unsplash.jpg?itok=4Oj_y_4C"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
-    excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
-    publishedDateTime: 2023-12-22T08:03:00Z
-    webUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
+  - title: "How Artificial Intelligence Is Set to Change Work in 2024"
+    excerpt: "(TNS) — If AI was a hit new toy this year, 2024 will cement it as a tool. AI, or artificial intelligence, grabbed the attention of every industry in 2023, creating hope for easier, more streamlined work processes and stoking fear that the technology ..."
+    publishedDateTime: 2023-12-21T00:00:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-set-to-change-work-in-2024"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Sports-Events-450x270.png"
-        width: 450
-        height: 270
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/260c365/2147483647/strip/true/crop/7777x3780+0+30/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F74%2F05%2Fa76fd2a14493bc501dd0aa5c1ffd%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xMTE0MDUwNDQ5L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NTIyNDMzOTMsICJtIjogMX0sICJvOEI1R1NDY05FMFdVV1dYS2Q0NUx0NjErT2siXQ%3D%3D%2Fshutterstock_1114050449.jpg"
+        width: 1440
+        height: 700
         isCached: true
-  - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
-    excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
-    publishedDateTime: 2023-12-21T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937523.htm"
+  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
+    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Top 7 Fintech Trends Predicted for 2024"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-12-20T19:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/25427/top-7-fintech-trends-predicted-for-2024"
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Premature Quest for International AI Cooperation"
+    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
+    publishedDateTime: 2023-12-21T05:48:00Z
+    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2024 Predictions & Trends: Inflation and Student Loans Problematic, AI Adoption Rises — Expert Q&A"
+    excerpt: "Student loans will be problematic in 2024, and more people may see credit score damage due to borrower default. Neobanks and digital banks will continue to introduce new borrower-friendly products, while major issuers may pull back on expensive rewards and perks."
+    publishedDateTime: 2023-12-21T15:58:00Z
+    webUrl: "https://www.cardrates.com/news/2024-predictions-and-trends/"
+    type: article
+    provider:
+      name: CardRates
+      domain: cardrates.com
+    quality: 25
+    images:
+      - url: "https://www.cardrates.com/wp-content/uploads/2023/12/predictions-and-trends.jpg"
+        width: 1250
+        height: 650
+        isCached: true
+  - title: "Legislature eyes AI issues in 2024"
+    excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
+    publishedDateTime: 2023-12-21T10:32:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2023/12/21/legislature-eyes-ai-issues-in-2024.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
+  - title: "Google restricting election-related responses on AI products ahead of 2024"
+    excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."
+    publishedDateTime: 2023-12-20T18:16:00Z
+    webUrl: "https://www.aol.com/news/google-restricting-election-related-responses-161641362.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
   - title: "Top six predictions for fintech in 2024"
     excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
     publishedDateTime: 2023-12-22T02:30:00Z

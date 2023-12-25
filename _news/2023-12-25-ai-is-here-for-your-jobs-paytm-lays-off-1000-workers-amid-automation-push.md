@@ -103,6 +103,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm bets big on AI to drive efficiency, save employee costs"
+    excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
+    publishedDateTime: 2023-12-25T16:05:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
 
 secured: "gy8eCZYGyEh18aR+hgTwWJPpEGb9s8vtXcmkaKbfTqh+2TfhcuAbJ1kc0pMoi19P1/AZTwcRZ3jfGIH+7z9ZdBSHNPF3hz4aYANFhrvClmiCoqO+4zlWFpuvq8Rq3Hx4dXVq+h3KGojZyZAWrBuS3CwnHNKqYNv5q9ifzbBsr7jCEBpzQJgfaHYme5prgnSxnTbJ/geudkdwKOOMt9KjpxX+5aMj+C5SM068tO+H4Vmr8gRx9Ofnpzh/ot3KwTf9Iy5RJI9v4A9gtH3kG6RSXewVbhqTC4EV0GBA5RdVIbiO5fYGE/y99MFem66LCYty/tsub50HFQ6n5A7YvTQOxEfB5XUIufMbUbUxnIACEdRHyXMUZH0bCGBkEA36zFJwvXN/yilnABdcQvK8PfjLiGVFNNl319oGrXdyfBSlnge8OOKBRgB4zXM0nLnIFOHr4KXoy6hfskXPx7ouCs1DLFHcH8cilG3AMxpdVsu9DHA5ZbqtiC/Mj6OuOt7GF9YLAO2O/qvykB5iyF0T2j5ceA==;4SJrYi8FBLmwaeijUHqtLA=="
 ---
