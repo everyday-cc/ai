@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
 type: article
 quality: 70
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,45 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas"
+    excerpt: "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing"
+    publishedDateTime: 2023-12-21T16:29:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png"
+        width: 1260
+        height: 431
+        isCached: true
+  - title: "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra"
+    excerpt: "This blog is co-written with Josh Reini, Shayak Sen and Anupam Datta from TruEra Amazon SageMaker JumpStart provides a variety of pretrained foundation models such as Llama-2 and Mistal 7B that can be quickly deployed to an endpoint. These foundation models perform well with generative tasks, from crafting"
+    publishedDateTime: 2023-12-22T16:42:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/21/truera-intro.jpg"
+        width: 469
+        height: 248
+        isCached: true
+  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
+    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
+    publishedDateTime: 2023-12-21T14:11:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 14
 
 secured: "RFprLjn6wuDtROtRHPNdRsTTiJnU0pNsF0rJj/E29+QWCVuC90wTQ5JhIccP0b6Br4C6eAEv/M6UPKGtgkH3Jl4b+l0UyPsi79OZjvlnQj6LSIC0WaKylqMlPfl8t62kL9b6JJCTv5BvgqnIeantpEub1OVW5Sn3LcQ/XB8tx8J5d5i95ArTFQ6JEwMWI8kDvO8S87wEvpq6LgekgxhBQIV3TOo7mdaeRu8uhUo4T6OvuK3QCu40KCLtNLVSF2PIJ7gAufOspoapQdojamDX8ykabxgbFCBahRMxzHJjX9zdm0Tqq6WG3Fid1QvRXYMRshFf3YCpSVx4vz89MhT7cr0FLnuFeqt8h+dC4dqXIHyKz95sEzrw6dFW7hVeDkFLbA/KAUbD/n8P97z4QS+c+GBGgBy9F2fMXHNQ0h1xPZTYwrJS8TZCCWSSE6dvVyVurxZtpne7H75tAktD9AKQzRBiM1Y9SP5nCHCKrGDaulBPU95TOQ/0iauXtX8/u3/vE/PuXyb3uv2Cb/NDlgGObA==;EPO2ARv/DRhgLJzuiYC+aw=="
 ---

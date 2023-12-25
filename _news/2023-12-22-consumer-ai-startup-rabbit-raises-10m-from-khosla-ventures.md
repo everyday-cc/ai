@@ -27,15 +27,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 34
-  - title: "Harvey raises $80M to build generative AI for legal professionals"
-    excerpt: "Harvey, a generative artificial intelligence startup focused on the legal profession, announced Tuesday that it has secured a $80 million Series B funding round that raised the company’s valuation to $715 million."
-    publishedDateTime: 2023-12-20T17:35:00Z
-    webUrl: "https://siliconangle.com/2023/12/20/harvey-raises-80m-build-generative-ai-legal-professionals/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "oauvXB7PvBeBqG+1+XZ/FgEwbJAZQz2xFKgg3n57gNSAf2B2pyD0bnLbAvUKd/B0FsvbTWu8BZCOAGKxXIKeUyub7UZh6/h8kbD5l7gRvfqfsu1nx6pFyezay0C78lHAKXuet3kFN13NI5Ckblg3Eg5qV42caYe7Fzoja6lVX88LmunZGtRiMWHW5KpgXrWBLPXozsyngqZCSjp3XlyS8vulcMOR6QX8whxXmaWj3nqc4BVWCWi7pWehhwNHFGP5pSILTlNqZG64Dj3THeW66fUcJK6/ppq0YQJZBuHqmk/N0i/EpHecPwBEvUz6Wk1WDtXT8YmFSmylFsXWQvlxol94GHADNtsT+EY27pUU75N9ZbmTONCZd5Fat3/EIm8ihvxKNx+JtA33wfk1OSWNEy04yl1xIYdnL20njd3d5kLfn3P/fcsaJgR3Cp1Cw4gW9BtooKjNc4+5eRoqzBlWA3llJ7Seqy1+ZEJQhaAte0hAsXEWdTQQC7W/kV2wAT0tRf0agXX7n815yqm0Fm8Xmw==;UW32tsby2dMCwMU1xjIrtQ=="
 ---

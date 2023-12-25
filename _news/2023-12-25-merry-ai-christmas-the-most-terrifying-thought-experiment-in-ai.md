@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christ
 ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65877c778f11281955aa8fa6/0x0.jpg?format=jpg&crop=1214,911,x0,y79,safe&height=900&width=1600&fit=bounds"
@@ -57,6 +58,6 @@ related:
       domain: bloomberg.com
     quality: 49
 
-secured: "Ofq9khYhA2N4fka/kZbpMFfqadZosxe2dJFQeodfNe9niXFLu6pOj00du+7cuQmc/fnzdC9x8ieqf51LKiCTZe5ckD/j7H3E4U3yVw76PhX2DQ3wwS+G8EBRRTw+v4V9SkTnA+xw1ULfStv1KDv3lJ8ZU+FOWwadS42cw9gI30X0L74Aa40Xc4oe4aSW5g1qRbkjkxA/cEZWXvZTtQyuOCkOQ8OcYTJcxVEUshQcwv/jzQEscEigZSTAFodrVD8hqrdHAcBiCHzQEE7+1MADRTTy8PWu3Hes4yTjAJAEXCFL87xxyMtiPgXwqdBk0lNSGN7O4l0GnrXslX9uT7NrNAHqqsuMdW4Du8tXXHBO360=;rAOrbPGDx082/oz7fCU/BA=="
+secured: "iGLaGuJruV+l8Us1YNYp2+JCsS95uaibi9D6PQjfXezSgTEfj1eFuLkGNK8eOrGgHa0d1pA5r+p5h/PO2cylqNMKgDZPu42VqTRnTkJCglF4ofyq8JW6bk8yZ98omyC6qeWq+P+Ldvh6CGkZwMMwUvcnf9f+b7/IJNGR1uzfLkoosO1QLfgVOLlwedT5lfDrxb9uUhXd71Z4he3m5iXvAezSh3Vcy8AvbsSYdM7k/abUaCnUk+EHvPltMUTN9sHxR1ZOwxegCTN2RekSAaeY4z9ygaYx4Ir47WFJaB4oi5qxrF9nqyPqKoOTv9Dah0PizRW9Tvr2QLZVsAcrJ7ELAot3EOzYTlR55jE1y/BXeIPr2m2PIkZdIBBNicQmQhZkitfk3+IaPgLwkTMudpTnrE/e0zOAyQnSeACDD4bUwlcikONVin1Js6Ajyw9R0miL3rp7W/iDZI67d/KVaVG6mbsMmiubI4gkz/X/EJlw4wycCzrClLhcsGtXJARBzmD9RdzQeB/+QuxUjyNEMOe0LQ==;uPgSBDQ4BykNhAKs6rZc0w=="
 ---
 

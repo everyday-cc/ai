@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/auto-news/selfdriving-vehicles-are-finding-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/selfdriving-vehicles-are-finding-a-home-in-industrial-operations/amp-11703241138563.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Vehicles Are Finding a Home in Industrial Operations"
+    excerpt: "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ..."
+    publishedDateTime: 2023-12-21T19:50:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-903976/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "L3 self-driving vehicle tests hot up in China"
     excerpt: "Mercedes-Benz announced last week it gained the permit to test L3 vehicles on designated highways in Beijing. It was one of the first batch of companies approved by the Beijing government to run such tests."
     publishedDateTime: 2023-12-25T01:36:00Z

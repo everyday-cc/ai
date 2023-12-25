@@ -1,16 +1,11 @@
 ---
 category: news
 title: "IBM aims to boost AI offerings with $2.3B acquisition"
-excerpt: "IBM announced on Monday its plans to buy Software AG's StreamSets and webMethods platforms for $2.3 billion cash in a move aimed at bolstering the tech giant's artificial intelligence and hybrid cloud offerings. The two platforms together make up Software ..."
+excerpt: "IBM announced on Monday its plans to buy Software AG's StreamSets and webMethods platforms for $2.3 billion cash in a move aimed at bolstering the tech giant's artificial intelligence and hybrid ..."
 publishedDateTime: 2023-12-19T07:00:00Z
-originalUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html"
-webUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html"
-ampWebUrl: "https://www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ibm-aims-boost-ai-offerings-120029357.html"
+originalUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/ibm-aims-boost-ai-offerings-120029357.html?ref=biztoc.com"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: AOL
@@ -26,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "8mpc0ITynGMh80HLZHRuQUTlwHXDGmnGuRqNRR8aKZNw99GWqcVCUCia4YBn/1kWBiG1mm4ubiSLmtHOXomlt3lN2zqdn+5X1gNiwGj9Y6dZkdYy1Ut2ya/GRT50hVHal1MsD7FGCyd53mWx9RCwPm9xwoi4ilZ7n+wv/mn4iriX5UnFr48moptdumY1EjLz0rM68Wt+sCpCmLTAodLYGaEXK/RYGuInsB/QJBLqp893Mj/wZme2wV2eOa8Nta1oi6Jq+sJZJYxdYenqOHBHBOL5ejah9QWtnud2sSK3RvvjBiM2vi88kXW5f0JiEP9gcE4Pbj83Q9PuYxkoWWfu9adJOVU0ufclNlvVBrdlyIuTmrcU5cFZKv7w9g12AGGuvyuwBxOSlcSXoFY70X2IMmiuoknR09E1OF6Xf5FOdS2YM5p3KKsZ6LGycoZCAgthQ6wwFuh06LKATn1s/qxDw6r5lPEsZtlwnznVZOn91TV0FDynB2tKk7SG7cO1YMeC5ab5ehx4X5GToKmKcZWveQ==;anNP7tRIOyyk9LXOdaUxXg=="
+secured: "ryH9cSVkHYNaM7252POqfVAa7IGljF9ptszE+KFQrV7ENandIdfErz6ItC06O3drH9YRuLQPKrKsk9rFR5onlzlPAYl/0jiu59K30VBNfvibroSIhh/Y65+LlIxHvwukvqWdqPARDEf7WN9DPXEu6Ow7s8uvylrBhetjKyvT5oLQ6vuxc/uNjV8+RiFFeBgN6+q92sjzjTb2xfOzyuEb6DD79Do3lXs3ajURVhTC+ZQz3PTtsPZN8DCLd6k89+QpEkRnICAd0DfaBjdgoiuPmvgSwh3y2x2MOZJT3WD6vhoRtZ1Qk3Iogf9Svr+y4iz2Y/H5L1fbdXqgAdWkbLmtXgjH56ffdtQ7hWsL4PUpxA4=;ZTYvUg2XE4rDQ9K9VTYNQw=="
 ---
 

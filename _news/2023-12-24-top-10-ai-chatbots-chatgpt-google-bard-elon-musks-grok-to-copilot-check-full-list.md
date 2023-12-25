@@ -56,20 +56,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
-    excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
-    publishedDateTime: 2023-12-20T18:24:00Z
-    webUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 68
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "5 Stocks That Will Make You Rich in 5 Years According to ChatGPT"
     excerpt: "Nvidia’s single GPU AI training speed performance has increased by a dramatic 1000x in 10 years with only 2.5x coming from Moore’s Law3 driven increases in chip density. Besides better chip ..."
     publishedDateTime: 2023-12-21T16:26:00Z

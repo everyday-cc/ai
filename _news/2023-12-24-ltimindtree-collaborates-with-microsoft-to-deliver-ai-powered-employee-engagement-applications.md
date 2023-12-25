@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
-    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
-    publishedDateTime: 2023-12-22T00:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
 
 secured: "8AqycnasZtfdl5jKr42QQyeJBWVU6WlaD9FCiVrw3+CWzQDeGmF384yee1aCiqDKmIwllG2qzgDYs5mxdOCxc9FfbXqmS67SJUDjlJvw4MqJkq5e+IrGbZv8X3qHiwkzKp9nz3y4UnkcxM2WLtHVW+i2BIl/8s2pzuFXFOBqdfStLXcPHfefT9y+gplwIQZ2wdrYs1V/2TVlNoEuHgI93LmJfWSSUFWEsqHILcXEzSGgGMiqFzbjcuhbAckApohYzC+rKQmGlgCpEDvgj/G+eo+1NyJ04bC6CU1XKAO0csQ/RrNH6eEx01mBJELyeI4wqBWjIPHpE4pPn1cvdk1LYpVb8ifct8Cj6+I5yWOO+hk=;Jk0+3oemytYKGffhcq0lgg=="
 ---

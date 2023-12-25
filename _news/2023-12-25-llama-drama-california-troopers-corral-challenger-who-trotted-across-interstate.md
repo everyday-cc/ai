@@ -28,6 +28,22 @@ images:
 
 related:
   - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
+    excerpt: "The California Highway Patrol received calls on Thursday evening about a llama on the loose on the busy thoroughfare that connects Reno to northern California - I-80. Officer Tanguay quickly ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://kfoxtv.com/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+    ampWebUrl: "https://kfoxtv.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+    cdnAmpWebUrl: "https://kfoxtv-com.cdn.ampproject.org/c/s/kfoxtv.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+    type: article
+    provider:
+      name: kfoxtv
+      domain: kfoxtv.com
+    quality: 44
+    images:
+      - url: "https://kfoxtv.com/resources/media/fe157395-c122-4979-9ead-26db04b51ce9-large16x9_Challengerthellama.PNG"
+        width: 986
+        height: 554
+        isCached: true
+  - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
     excerpt: "A Challenger caused some chaos along a California interstate and it wasn't the kind with four wheels built by Dodge."
     publishedDateTime: 2023-12-22T17:28:00Z
     webUrl: "https://komonews.com/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"

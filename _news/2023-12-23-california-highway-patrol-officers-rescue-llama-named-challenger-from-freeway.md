@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
-    excerpt: "TRUCKEE, Calif. (KGO) -- There was some llama drama in the Sierra Nevada on Friday. The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet from a NorCal freeway. Officers had to corral a llama ..."
+    excerpt: "TRUCKEE, Calif. -- There was some llama drama in the Sierra Nevada on Friday. The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet ..."
     publishedDateTime: 2023-12-22T13:00:00Z
-    webUrl: "https://abc7news.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    ampWebUrl: "https://abc7news.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    webUrl: "https://abc7.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    ampWebUrl: "https://abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
     type: article
     provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
+      name: ABC7
+      domain: abc7.com
     quality: 41
     images:
       - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"

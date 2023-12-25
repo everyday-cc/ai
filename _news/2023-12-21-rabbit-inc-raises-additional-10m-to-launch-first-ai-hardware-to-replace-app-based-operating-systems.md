@@ -23,15 +23,6 @@ topics:
   - Meta AI
 
 related:
-  - title: "Harvey raises $80M to build generative AI for legal professionals"
-    excerpt: "Harvey, a generative artificial intelligence startup focused on the legal profession, announced Tuesday that it has secured a $80 million Series B funding round that raised the company’s valuation to $715 million."
-    publishedDateTime: 2023-12-20T17:35:00Z
-    webUrl: "https://siliconangle.com/2023/12/20/harvey-raises-80m-build-generative-ai-legal-professionals/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
   - title: "Consumer AI startup Rabbit raises $10M from Khosla Ventures"
     excerpt: "The Series A investment, which was led by Khosla Ventures, comes a few months after Rabbit received $20 million from the venture capital firm and other backers. That earlier round reportedly valued the startup at between $100 million and $150 million."
     publishedDateTime: 2023-12-21T19:26:00Z

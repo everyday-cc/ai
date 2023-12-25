@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
-    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
-    publishedDateTime: 2023-12-24T11:53:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
-        width: 650
-        height: 450
-        isCached: true
 
 secured: "SIh+29wKbqjzTa+RQywjd7I2bz76AqP18tdLXWhWSvHgViG3CjiRffiG8R/oPXQtk7X72+82RdyYXEKR4RO7OBdiZ2Azt/KaziEZOIKU9Mwj/p2LeMuvfXqHCJG9BmSiOXMi+YOocMUUhCxgNfdeB5QC6+n3fPRcgUNAyTg6NpsIaqmalVUfoiZpJeTPkjrtIn4Ps8RT2N/Jk4mVO968hujBno44B9FJH8dYudF53WtYE7MuYLJ0GOJNZ25mQoDRS8KDIH83YPx+2/8wqOeK+Gk4xKcTm1q8bh50FLcg6v2k7KUousiGrw9/c4iTkE1H6liXa4s0b4Q0OpmUfEI4L06B2eMAg6wWh+XobFw1O4HB+pAg8V9/Nipz9KGf07njPaOXTdaw9FpRksmVibuUMf/Q284lij1/KcyLj+8QzQiqH6Pq36p7OusMwYSSu7vxy+Q3Bsl+3PsDA11hMuGJItMj7AalG+IE+ROPDlJbEmlHajChil/jVh1wsdnEYF9brASqI+qqJucjJ1ttBjV59A==;MOXDa6aB/tL0MqlpYVWhXQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
 type: article
 quality: 57
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Psychology Today
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Unveils Novel Antibiotics"
+    excerpt: "Researchers acquired 280 compounds, testing them against MRSA in lab dishes. Two from the same class emerged as potent antibiotic candidates."
+    publishedDateTime: 2023-12-25T18:15:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/combining-more-antibiotics-is-safe.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "MIT Researchers Leverage AI To Identify Antibiotic That Can Kill Drug-Resistant Bacteria"
     excerpt: "As bacteria continue to evolve to withstand the effects of antibiotics, it has rendered bacterial infections more challenging to treat. The issue of"
     publishedDateTime: 2023-12-21T20:49:00Z

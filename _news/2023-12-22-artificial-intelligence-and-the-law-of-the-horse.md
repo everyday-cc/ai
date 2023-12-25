@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-21T21:16:00Z
 originalUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
 webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://images.wsj.net/im-903923/social"

@@ -50,15 +50,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 33
-  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
-    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
-    publishedDateTime: 2023-12-21T14:11:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 14
 
 secured: "cBhcy1jaX8yGe6qMfUaRQ4j+obZkAHN3b698SCnMzYlLrMMV0n13dUIGU5sUzw0EU1pQdiLv5lDiihYVKWC0fbStKzs0Z22dhzieHPBAfqrZv1rF4YdO9WOCtZukdiyDXMkgLk80P5BDnk0qJ3QZaSqWxWAkB0wYD16F82PHfuocPT85lbfh+Ohvg4f4zpZ9DxuLC6/iY+VIZjqBjnxLZoKIzDKX/EpkPP2RThs73xsN2KkXaPuBnYMRKyJOylOm4CuXvpfNeff+/kBrGbm2xq1uK4PFEua4V06+/64S7ABiWGOOiC3zvPn8xaVacBYvWyVlit31q/ISoW7jnrGzxs1rVFgnVTOxhIcA1VkyEEI=;3QG0/URdXUBvH+r6PA36Nw=="
 ---

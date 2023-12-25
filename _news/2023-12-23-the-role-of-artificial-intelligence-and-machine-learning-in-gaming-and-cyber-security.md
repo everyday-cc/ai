@@ -26,57 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker"
-    excerpt: "In this post, you learn how to prepare data sourced from Amazon Security Lake, and then train and deploy an ML model using an IP Insights algorithm in SageMaker. This model identifies anomalous network traffic or behavior which can then be composed as part of a larger end-to-end security solution."
-    publishedDateTime: 2023-12-20T18:10:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/"
+  - title: "Reshoring manufacturing to the US: The role of AI, automation and digital labor"
+    excerpt: "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-12-21T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
+      name: IBM
+      domain: ibm.com
+    quality: 95
+  - title: "Sorry Santa, AI Is Replacing Elves In Toy Manufacturing"
+    excerpt: "AI in Design and Prototyping Toy manufacturers have significantly enhanced their design and prototyping capabilities through AI."
+    publishedDateTime: 2023-12-23T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/"
+    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2023/12/23/sorry-santa-ai-is-replacing-elves-in-toy-manufacturing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/04/ml-14050-amazon-securitylake-sagemaker-ipinsights-architecture-906x630.png"
-        width: 906
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658643d2441d885475fa8a3c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1125
+        height: 900
         isCached: true
-  - title: "NVIDIA: Advancing cybersecurity efforts with Gen AI"
-    excerpt: "NVIDIA's David Reber Jr. discusses Gen AI's role in cybersecurity, fraud detection, and threat analysis for banks. Stay ahead of evolving risks"
-    publishedDateTime: 2023-12-21T09:01:00Z
-    webUrl: "https://fintechmagazine.com/articles/nvidia-advancing-cybersecurity-efforts-with-gen-ai"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/8f788e41b38c630338e6aeb130f4658a:40991132fb311307bde85bdc4fd92ca0/gettyimages-493247947.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Cybersecurity Market Predicted to Reach US$ 91.7 Billion Valuation by 2032, Fueled by 16.2% CAGR"
-    excerpt: "The artificial intelligence in cybersecurity market is valued at over US$ 16.5 billion. The market is anticipated to have risen at a CAGR of 16.2% during the ensuing ten years by the end of 2032 and be valued at around US$ 91."
-    publishedDateTime: 2023-12-21T09:59:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/21/artificial-intelligence-in-cybersecurity-market-predicted-to-reach-us-91-7-billion-valuation-by-2032-fueled-by-16-2-cagr/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 13
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-In-Cybersecurity-Market.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Enhancing Cybersecurity: Unveiling the Crucial Role of Artificial Intelligence in Future Threat Detection"
-    excerpt: "Introduction: In an era where digital landscapes are expanding at an unprecedented rate, the importance of cybersecurity cannot be overstated. As cyber threats evolve in complexity, traditional methods of defense fall short,"
-    publishedDateTime: 2023-12-24T13:04:00Z
-    webUrl: "https://techbullion.com/enhancing-cybersecurity-unveiling-the-crucial-role-of-artificial-intelligence-in-future-threat-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "2hbVaINOyQeIlv6XvOgqynHqhJ755cZnDzujqmn/0ztJvN2pWv5+ChpVgw+kRqHXyPMxDRK/mmXMowzBxUmPwzquKQmnoHPddzXLV0rBtl9Q/YE102dNU7HIq3Tt51BUfjcpRPA3ZY/WKqm0jVlC0kdxKsrs3r+2BBgmrr05Dqn6+spwf0/3lO3WiLXPurd1VTKrIWeZPQ7SftZYx1NSuBaghW+waJk9xVWE2WenBHNWPKvrQ5/lg8FDp5YfPSCyKhTxO9Hwg1Xb7PVsb92nEnL6QgoQ/0A51Hy3JbEFT2svYamo2zTXl4cGCK2sAxiO+dkOq6Y7s78p+fsyfFEj+R+8tgx8uMZEhdWVsTM8L0TSxXzY6XaJb2/cTxvpPTTGK4AjNqmFX/PfMbOZMg8K9Fn94wZZNwHcQBfhyzbFJQm1wesR3qBMmCd6vQP1aUTjspjDYSAdMWxuCC6p69b8Q06Sm8q+S9DhIR7mloWFN7NIpyiSp8/uNEsLWK+iH0TWvUJXeteqVcgVwbfwV3Wf/Q==;+L7SCo/CkU5TnueSaGIHdw=="
 ---

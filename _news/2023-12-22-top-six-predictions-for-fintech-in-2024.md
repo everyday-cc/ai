@@ -123,20 +123,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
   - title: "The Premature Quest for International AI Cooperation"
     excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
     publishedDateTime: 2023-12-21T05:48:00Z
@@ -150,6 +136,20 @@ related:
       - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fears grow over AI’s impact on the 2024 election"
+    excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"
+    publishedDateTime: 2023-12-25T17:14:00Z
+    webUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/8249bb2c2317ad997df4e313cfa1a85d"
+        width: 900
+        height: 505
         isCached: true
   - title: "2024 Predictions & Trends: Inflation and Student Loans Problematic, AI Adoption Rises — Expert Q&A"
     excerpt: "Student loans will be problematic in 2024, and more people may see credit score damage due to borrower default. Neobanks and digital banks will continue to introduce new borrower-friendly products, while major issuers may pull back on expensive rewards and perks."
@@ -174,15 +174,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 21
-  - title: "Google restricting election-related responses on AI products ahead of 2024"
-    excerpt: "Google plans to restrict the types of election-related questions to which its generative artificial intelligence (AI) products, including the AI-powered chatbot Bard, will return responses ahead of the 2024 presidential election."
-    publishedDateTime: 2023-12-20T18:16:00Z
-    webUrl: "https://www.aol.com/news/google-restricting-election-related-responses-161641362.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "UhuOGKcwPBJTRLs74APl2cUZugmcYoyia6QWxvAK0meKPpQA3X8PiiE0bZLUvnvegw36PQhqc6hIIH4PPwXNUj84D9kPfezR7oXo90N4gga8kTk4veNfeEHm3rtub8qWFhOHEUXr3ZrAYTFUmuD/FbuhDWem4twMjmbPl5Z8C+Rc/m5SErSKTex5FbuBGh4n0t625GjwnnQSqPFqEOwSLpDeTYrKHQGxuHdDsxDjiDjNGHEW5svTWCgUx/+cFFHQNH/r9tSZsvpUCZi6jid6h7kh7/6jlpLB+cgq7Ov2aIGxQswCPMi3AQkyeDu0V9+SSJjK2SURqGlRWXhWLEJ3ZXcgNbeGa7t5XZ+FIQvcwDP2IZK9keqTxDSD1YWS9xEeqprpWblO1nfmLXGfdqqQy7vyIT9nC3dI5mdJV0Rin1KhWdY1lEz1rcL+3kWS6T+Y4MBeKFCwFhmRi5wONWvsKCZf+s0M3X+zTuBeNB/amR8k43zJDiWASVQEk/w/QQKpuOM4Ehro0Lfruu1cH46rXQ==;msxoMsJnf7ujB1HL2C80lg=="
 ---

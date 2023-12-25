@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo200656453996"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo200656453996"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://static01.nyt.com/images/2023/12/22/multimedia/21xp-riteaid-lqkc/21xp-riteaid-lqkc-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Rite Aid hit with a five-year freeze on facial recognition"
-    excerpt: "Rite Aid has agreed to a five-year ban on using facial recognition technology for surveillance as part of a settlement with the US Federal Trade Commission (FTC)."
-    publishedDateTime: 2023-12-20T17:45:00Z
-    webUrl: "https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.html"
-    ampWebUrl: "https://www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711841/rite-aid-hit-with-a-five-year-freeze-on-facial-recognition.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/04/spot_analytics_05_cw_eye_surrounded_by_virtual_sensors_metrics_tracking_monitoring_privacy_surveillance_by_thinkstock_843652348_3x2_2400x1600_hero-100884339-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Rite Aid Facial Recognition Lawsuit Shows AI Risks Of Shopping While Black"
     excerpt: "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid RAD +5.4% has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts."

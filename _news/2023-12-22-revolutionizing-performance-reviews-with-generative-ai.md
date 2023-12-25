@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
-    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
-    publishedDateTime: 2023-12-21T07:57:00Z
-    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 38
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
-        width: 450
-        height: 397
         isCached: true
   - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
     excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"

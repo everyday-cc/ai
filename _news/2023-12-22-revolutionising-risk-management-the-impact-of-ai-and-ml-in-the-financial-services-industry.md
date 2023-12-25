@@ -44,20 +44,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
-    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
-    publishedDateTime: 2023-12-21T07:57:00Z
-    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 38
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
-        width: 450
-        height: 397
-        isCached: true
   - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
     excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
     publishedDateTime: 2023-12-21T07:12:00Z

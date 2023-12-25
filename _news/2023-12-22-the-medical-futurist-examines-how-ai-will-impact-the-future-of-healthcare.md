@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
-    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
-    publishedDateTime: 2023-12-21T14:11:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 14
 
 secured: "086SPjKy3C9mR6TxerDdTfn66J4wZDJ8WWeEcmB4GWqj8cpj1u6kJJayctbX1SpLKgqcA0Ch2zBfmXB1QK1OQdlsss1Ubt6GJO5pjyM8gNliFt3MmsYyjPFWomEFyRhYCmu5doXo6AYDFPBqWTJs/RlWYeVODZHJ7dAP5ZuExQNOfTnqche9dhNvhKAnZJxCkKb2vpjZlBj/wzJP7JUSfaGgtG6qm8FqDfOBMzw8Xh9OnyCMOjU2aaKID2lEMVfcjcg8nOCI33KPai+UzeN6o/Xg6CqqKzXU4gOe4eXO0xZi5YUFA4l6X2Z+sANPXlArkBroxZzSCNri2mdzb9MMCJWN1CK+Sp/8RRHxRic6v/270sgTrNkxao+xDVSQgBs6OQVfZQLaZtqaRphvAT+nAJ74rgncGXTbhDEOuUKYx9+XtuySqLAK+RAnVcKB6qS2YsUB5FTVDIUbsUFTPeg5UixjC/U4g1aw8i9ctVd7QIcDCgaQKbmF9xNlIM4n04NSFIPbprsuMD4lKoLLXECoCA==;/OC2aSaxLUPXUdzziwtpQA=="
 ---

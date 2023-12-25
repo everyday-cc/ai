@@ -25,70 +25,152 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Performance Reviews With Generative AI"
-    excerpt: "HR leaders and people managers should consider incorporating generative AI technologies into the performance review process for better insights."
-    publishedDateTime: 2023-12-22T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
+  - title: "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies"
+    excerpt: "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ..."
+    publishedDateTime: 2023-12-22T11:39:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Neowin
+      domain: neowin.net
+    quality: 126
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65846043702a508c2f2c1107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg"
+        width: 760
+        height: 505
         isCached: true
-  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
-    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
-    publishedDateTime: 2023-12-22T07:59:00Z
-    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
-    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
+  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
+    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 66
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
+  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
+    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
+    publishedDateTime: 2023-12-25T05:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
     images:
-      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
-    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
-    publishedDateTime: 2023-12-21T07:12:00Z
-    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
+  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
+    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
+    publishedDateTime: 2023-12-21T15:17:00Z
+    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Coforge ties with Microsoft for generative AI; shares up"
+    excerpt: "Coforge Ltd. collaborates with Microsoft to use Azure OpenAI service to help enterprises adopt generative AI with Coforge Quasar platform."
+    publishedDateTime: 2023-12-21T06:49:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
+  - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
+    excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
+    publishedDateTime: 2023-12-22T10:29:00Z
+    webUrl: "https://www.law.com/international-edition/2023/12/22/allen-overy-collaborates-with-microsoft-to-debut-ai-contract-tool/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
+    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
+    publishedDateTime: 2023-12-24T11:53:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
     type: article
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 30
+    quality: 50
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
-        width: 600
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
+        width: 650
         height: 450
         isCached: true
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
+  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
+    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
+    publishedDateTime: 2023-12-22T00:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
     type: article
     provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
-  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-    publishedDateTime: 2023-12-21T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
+    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
+      name: BGR
+      domain: bgr.com
+    quality: 32
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
+    publishedDateTime: 2023-12-21T12:37:00Z
+    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 32
+  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
+    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
+    publishedDateTime: 2023-12-21T20:50:00Z
+    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
 
 secured: "qKgy2mXe+L+vB7Xd/XJG894Hv7zrxzFAbEad8mWUmPtepzFgB1yR6IGCw8hdS+N1ACf842sS9/th7MKXqR1xJdcxwLGorEkvEiCPPLpnOC9tbgsOXsnUyy0QwAhHQ0L5hf6TlXMplYSdyNV9X70pIEUBHG+dsZXpECB3oRBprljQGOHPhiqQgp20s8SzW7J9qyc3hfcFz4IaHndNgUZZeYmXIXlWMraV+YkpzjhVAVKRV4ltWhMUfoRZrHV/oTmyz/UASHPrPAyk9iujZTr07xstJXvWWRVxoKCJW7CJSVW4dCw0W7j8ufULNnb0JFtHW1TKsd7LRISqhVvalUsWz+dwdKpJUwnDkWtsotP0QbN5eO+bLCplg1Pas3jKtjaA31Ap99JpSp25B3yYmxuAb1W79vJny9wWBw6ZBtTLJAfvSNgbc2tilQ29p8ARbOv/Zi0A83LL9+YTPpkZLwCrs8o4daaDi9PpNo3X0yE6FU2OMlVSLl7MXoPtkHDUsVH0ruaD173TkUDZKeNzn4Bz5w==;pRqCwsX2HXg+r4/oTVXN0A=="
 ---

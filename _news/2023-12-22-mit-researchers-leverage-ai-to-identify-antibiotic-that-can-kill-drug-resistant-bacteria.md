@@ -34,6 +34,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Artificial Intelligence Unveils Novel Antibiotics"
+    excerpt: "Researchers acquired 280 compounds, testing them against MRSA in lab dishes. Two from the same class emerged as potent antibiotic candidates."
+    publishedDateTime: 2023-12-25T18:15:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-unveils-novel-antibiotics-214595-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/combining-more-antibiotics-is-safe.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
 
 secured: "CDqnZdyU8jxqfSIIMM8dQJr0UHi6YJWOgz1c5sGZ+wH1xGunP4NB8IJU1fFwUmqmUb7djby1WOQMXLmAP9Amdkb7iT0oOJgwkV0jhl2e2Nkxoff20fQoc2GrBV1+B9GGLQhl98lEv75MGTtgYk6zuOGDS0YDWMyfviVzIrDpdvhHf28pXy0M1c1EahSILXXjpTpa8HD++Ul4pkbQl54dCZ9JN70QZyPCiLtmp2Xe8UIIHYRvPywEsDAscBB9IZ/KwvcoljwlR5Rr4YYR7gWZsmoeguCE0NXcHF1vOPETBaHOVVl3Aw6/+VaU+sWCQC5fR02BCu0+jP5uef25AZs/uC0MoESC5s1gYtZd6MMYyeVXYhs8Yxt7wrX/5Np8kH48JFMps7eyrFJ4SQsI23GevLJVGuq4zLuLS27s3F/H9/SFlrMASfGKYP+Rbo9ykXWNDsXPKlcQ4llGOKnyzOKi7p/bmMsO/oE+h/9NueORTvY0lBRIJMImMQ/DU9q99SGn8TRZYvvWFZ0ArnUd1oNs0A==;N3qhk6zgksvGgY6TZaoMXA=="
 ---

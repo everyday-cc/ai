@@ -18,34 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Identify cybersecurity anomalies in your Amazon Security Lake data using Amazon SageMaker"
-    excerpt: "In this post, you learn how to prepare data sourced from Amazon Security Lake, and then train and deploy an ML model using an IP Insights algorithm in SageMaker. This model identifies anomalous network traffic or behavior which can then be composed as part of a larger end-to-end security solution."
-    publishedDateTime: 2023-12-20T18:10:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identify-cybersecurity-anomalies-in-your-amazon-security-lake-data-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 97
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/04/ml-14050-amazon-securitylake-sagemaker-ipinsights-architecture-906x630.png"
-        width: 906
-        height: 630
-        isCached: true
-  - title: "The Role of Artificial Intelligence and Machine Learning in Gaming and Cyber Security"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) have become essential tools in the gaming and cybersecurity industries. As someone who has experience in developing machine learning models to identify fraudulent activity and maintain safety in online gaming environments,"
-    publishedDateTime: 2023-12-23T11:07:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 64
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/1-73-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "NVIDIA: Advancing cybersecurity efforts with Gen AI"
     excerpt: "NVIDIA's David Reber Jr. discusses Gen AI's role in cybersecurity, fraud detection, and threat analysis for banks. Stay ahead of evolving risks"
     publishedDateTime: 2023-12-21T09:01:00Z
@@ -74,6 +46,24 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "CHICAGO, Dec. 21, 2023 /PRNewswire/ -- In the cybersecurity space, AI's future lies in behavioural analytics, sophisticated threat detection, and further automation of processes like incident response. AI is anticipated to be crucial in improving cloud and endpoint security, resolving the skills gap, and adjusting to changing hostile strategies."
+    publishedDateTime: 2023-12-21T15:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937676.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Artificial Intelligence in Cybersecurity Market worth $60.6 billion by 2028 - Exclusive Report by MarketsandMarkets"
+    excerpt: "The global Artificial Intelligence in Cybersecurity Market is projected ... and proactive safety to sensitive industries such as manufacturing, logistics, and healthcare. Check Point Software Technologies Ltd, collaborated with Intel."
+    publishedDateTime: 2023-12-21T16:24:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-12/60988745-artificial-intelligence-in-cybersecurity-market-worth-dollar-60-6-billion-by-2028-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "NUTrW5OOj3ZmzYG2H9xZyY/y1aAz5IRow/oHQGnrx4xiW0bhwdvWnBF3YVM3P06MPZJLhVuqd6JPnho3L4R/1rczANmmPjDtVYguQr0x2++S2aIOYM6SffQsSS24W4Z3Lx1jngJI1gl2r4XndC8QIcmdkXGEbSKDhB8IbRB9JO8tBXSo4nNYhbqB3n2K4nKE2XhIrdD8seX70JIekIHMdRlAlfnfwLSqiPDgDTV8tpWgD7Y25cdeP5cifJnbFSVY8+cwu0EstoB2lyDsIteaEEQDiqq59ZRpV5wiHr7bkaoMkRecvYkTW6tbiJSF6w4sLgda6tRT8ohKpYCfhWovOWn2A8utAyBmSdkhmi5rGdai/2qUbFChlXG8FOyGl4ZNO+4RVTP97AWMBN8qFh1/FtKU0XmQO1EizxRKKube4O8XOEq5uy8HEiX9geaVqOKZvUk760UMiIaq1YtANv5+LuX3PmVinABq47d83uusCfz85GQeNg+CJzKZvh747u7omjwABhg+urqpApznlFFyZg==;C3wrxUUYDTcu/CLvIzHyTA=="
 ---

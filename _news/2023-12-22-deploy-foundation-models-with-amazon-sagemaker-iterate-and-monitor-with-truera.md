@@ -29,48 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Llama Guard is now available in Amazon SageMaker JumpStart"
-    excerpt: "Today we are excited to announce that the Llama Guard model is now available for customers using Amazon SageMaker JumpStart. Llama Guard provides input and output safeguards in large language model (LLM) deployment. It’s one of the components under Purple Llama, Meta’s initiative featuring open trust"
-    publishedDateTime: 2023-12-20T18:20:44Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/llama-guard-is-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/20/llama-guard-sagemaker.jpg"
-        width: 1010
-        height: 504
-        isCached: true
-  - title: "Mixtral-8x7B is now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion"
-    publishedDateTime: 2023-12-22T17:15:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg"
-        width: 1005
-        height: 504
-        isCached: true
-  - title: "Amazon SageMaker model parallel library now accelerates PyTorch FSDP workloads by up to 20%"
-    excerpt: "Large language model (LLM) training has surged in popularity over the last year with the release of several popular models such as Llama 2, Falcon, and Mistral. Customers are now pre-training and fine-tuning LLMs ranging from 1 billion to over 175 billion parameters to optimize model performance for"
-    publishedDateTime: 2023-12-22T22:04:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-model-parallel-library-now-accelerates-pytorch-fsdp-workloads-by-up-to-20/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 96
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/sagemaker-model-parallel-library-pytorch.jpg"
-        width: 1010
-        height: 505
-        isCached: true
   - title: "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas"
     excerpt: "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing"
     publishedDateTime: 2023-12-21T16:29:44Z
@@ -85,6 +43,31 @@ related:
         width: 1260
         height: 431
         isCached: true
+  - title: "A new group at Amazon is helping customers including PGA Tour and Bridgewater make generative-AI applications"
+    excerpt: "Companies such as Bridgewater Associates are experimenting with generative AI with the help of AWS."
+    publishedDateTime: 2023-12-21T16:27:00Z
+    webUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/658465b51c5c7b8c9a0b1481?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
+    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
+    publishedDateTime: 2023-12-21T14:11:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 14
 
 secured: "EclZZm86s48F/A1CEePYlStn0t5q7psBCGrwuIKbga+bWErBGoeFmU8PkrWdANmHldGhp9O+58BTazVZpnvoxJkGjNsrAhbquxnKiJp7VXnDq3WxKDl0VqNRxtDSFXH41WYVwctLSzwMmFFhAD1HvBTLb02J6Sv917g0FQvS+RY2rvNqufvdjxFCcrhzZIPtyzcONO+cEnq+pKTiDp0WJHD/P/C1XcYQWv7h7jP135o6Aj2ioUlS4d9vFMnD8BC48fstkYa42dSh+mrfc5jqFaHVCUTef6+TltdyUGOVA51y6MXTvB5morpMhzctNCKyCZbM5dh0BavKEgUBML437w35XOVibWOwG/QnlwfwQoM=;usFYle97JS7yzbUo/DKrpg=="
 ---

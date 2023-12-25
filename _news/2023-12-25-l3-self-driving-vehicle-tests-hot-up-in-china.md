@@ -26,6 +26,20 @@ images:
 
 related:
   - title: "Self-Driving Vehicles Are Finding a Home in Industrial Operations"
+    excerpt: "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ..."
+    publishedDateTime: 2023-12-21T19:50:00Z
+    webUrl: "https://www.wsj.com/articles/self-driving-vehicles-are-finding-a-home-in-industrial-operations-096784fe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-903976/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-Driving Vehicles Are Finding a Home in Industrial Operations"
     excerpt: "ABI estimates millions of artificial-intelligence-enabled cameras will be installed outside ... Over the past year, Alphabet-owned Waymo paused work on its autonomous trucking technology, Embark Technology wound down its autonomous trucking operations ..."
     publishedDateTime: 2023-12-22T21:37:00Z
     webUrl: "https://www.livemint.com/auto-news/selfdriving-vehicles-are-finding-a-home-in-industrial-operations-11703241138563.html"

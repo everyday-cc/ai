@@ -19,6 +19,33 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies"
+    excerpt: "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ..."
+    publishedDateTime: 2023-12-22T11:39:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 126
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg"
+        width: 760
+        height: 505
+        isCached: true
+  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
+    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
+    publishedDateTime: 2023-12-21T09:21:00Z
+    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
   - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
     excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
     publishedDateTime: 2023-12-25T05:12:00Z
@@ -35,6 +62,31 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
+    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
+    publishedDateTime: 2023-12-21T15:17:00Z
+    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 56
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Coforge ties with Microsoft for generative AI; shares up"
+    excerpt: "Coforge Ltd. collaborates with Microsoft to use Azure OpenAI service to help enterprises adopt generative AI with Coforge Quasar platform."
+    publishedDateTime: 2023-12-21T06:49:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/coforge-ties-with-microsoft-for-generative-ai-shares-up/article67661073.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 54
   - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
     excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
     publishedDateTime: 2023-12-22T10:29:00Z
@@ -63,6 +115,43 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
+    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
+    publishedDateTime: 2023-12-24T11:53:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
+    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
+    publishedDateTime: 2023-12-21T07:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 38
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
+        width: 450
+        height: 397
+        isCached: true
+  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
+    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
+    publishedDateTime: 2023-12-22T00:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
     excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
     publishedDateTime: 2023-12-21T12:37:00Z

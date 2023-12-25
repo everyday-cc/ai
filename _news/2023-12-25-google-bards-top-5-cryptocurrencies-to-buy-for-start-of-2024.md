@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "Google Bard’s top 5 stocks to buy for start of 2024"
-    excerpt: "Finbold has utilized Google Bard to find the best 5 stocks to buy in 2024, as Bard has proved a worthy tool for stock predictions."
-    publishedDateTime: 2023-12-25T10:32:00Z
-    webUrl: "https://finbold.com/google-bards-top-5-stocks-to-buy-for-start-of-2024/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 24
-    images:
-      - url: "https://finbold.com/app/uploads/2023/12/Google-Bards-Top-5-stocks-to-buy-for-start-of-2024.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-
-secured: "bhql0d0IynaMSrWDFdmEGNxHNEXRqW7fBW9Pb2/IOLumUFTc0CdgYYqfjY+jjhVE+KDl+nmAotUHdXkjJm980JgO6BYkC6voqriIl01+UnO3Crv+rvaxwR3A2y+3ZfQxkR8ffaSJPDrpvGInA3eksTNh6mDU3jk8YMXU/CyVShtHrgtJJ3YmKsnxDdTG8q00KOn3Xv6Rn5WWm/C4+Jn+4EJDYAcUrWCZ7TCcgfLS8pPwpePEKIHVCPiUgvWZsWoyLbi1qrI+dYl7OPeQw1Dh69ULL1sk+EQzmDXAYoMDu81XnluH7yQSptrFNuNLC0cFCCRMksVpKaWEc+R8NSYx1Y/7NOX4bmp+9ZSHYyCCrQI=;sE1jz1UcHoPnZuk7HqRVWg=="
+secured: "r+rKb/xKp8TLbWW+Qw/YQBBBIkAyIpmXGw3TL+gX6y5DsAG8gFb9IhoxVCh8T9OSNdp3Irr8IkuHZ41MoMLoa4jh0Ner8hlLf/v1iLQp6k6K7fUL8nZO7q3cMva2PkRTsZnGHfvH12Ir/Et4pzsvn1C1BRPGME+fgrb++wXTIetaOxFrO8KDJ7bndibWkKfQ9ex6VxgW48dJdnrzHLQcTJ8ZG6B0pCVZjIsHzdEsg4pDxB9rSwDmwVd8ptuKV1yXo7JeCllkQGhJQ93ZmFrtfH3jNPlLZGkrq6y0kVbXgKiLBSZgwZKrU2I7nN5zcZL0NjXxNn02QgVvrIHLWhe+f2zC2yzstNPD1DcaKDAW+hfPfsmJWdqlf8qqA+sbcSjVbcsTC9exDipEoPpHswJIcPTd+U9WbjKC5z2fFaJNpolal5McnfpwqGZ3DHUze+r3oF6hwEFbDuHt4WJ8fb3RneeHunUVxWNiNX33HpraUrOD3j4rT/oF573Oigs4nyqVW05fymD0nGVSCZHT1xkWnQ==;O9Lp3XlbN/65AxogbN8WjQ=="
 ---
 

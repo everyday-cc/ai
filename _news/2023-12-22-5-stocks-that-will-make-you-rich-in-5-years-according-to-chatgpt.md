@@ -54,20 +54,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
-    excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
-    publishedDateTime: 2023-12-20T18:24:00Z
-    webUrl: "https://www.androidauthority.com/bard-vs-chatgpt-trip-3395897/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 68
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
     excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
     publishedDateTime: 2023-12-24T11:32:00Z

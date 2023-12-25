@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 33
-  - title: "Fortifying the Future: The Crucial Role of Red Teaming as AI Assumes Centre Stage"
-    excerpt: "While Red Teaming has been a longstanding practice in traditional cybersecurity, its application in the AI landscape is relatively novel, and it constitutes a crucial component of the solution for the secure implementation and utilisation of AI technologies."
-    publishedDateTime: 2023-12-21T14:11:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/21/fortifying-the-future-the-crucial-role-of-red-teaming-as-ai-assumes-centre-stage/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 14
 
 secured: "0QQYh96YC+RJC58xgHydYM78qpuKwDdn4FLoMGo15ITCjuUu7Ch7KTutBv09n1t7iOOmTgEetW5i7YrzlAux1MK7TQmOSyQr3kLTyWJIVa4yxtu4+zQ9MqX9Lu74CZ+a8gilKNx6vRvWhA5lBFpTYDZAk3N4Hg9l4xyr650dX/aMYEsOht2OHB979MKJqcGezQq1ekVdPY41TWJZCG1gmKh2rNEBWdGtlt+5RoUks3Y9XXTFsjiCTuL66SutYWHHPFV29pFCi/AcGHMKg7YrHyhaxB9i2ZdyxnugUGpdUVNA9P1erqHf4PYQov/QpdCv05h1MKbqoDrJ029rvQaBAzj6IOsleQ8YiGJjamuzOho=;9sQHcX+Jw3z0mo06uO5Tpw=="
 ---

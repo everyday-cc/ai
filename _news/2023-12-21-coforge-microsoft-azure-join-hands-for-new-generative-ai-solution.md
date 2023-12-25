@@ -21,35 +21,37 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
-    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
-    publishedDateTime: 2023-12-23T15:16:00Z
-    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
+  - title: "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies"
+    excerpt: "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ..."
+    publishedDateTime: 2023-12-22T11:39:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
     type: article
     provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 74
+      name: Neowin
+      domain: neowin.net
+    quality: 126
     images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg"
+        width: 760
+        height: 505
         isCached: true
-  - title: "Santa Tracker 2023: Google Vs. Microsoft, Bing, AWS, And NORAD"
-    excerpt: "Compare Google's interactive holiday experience vs. the official 2023 NORAD Santa Tracker powered by Microsoft, Bing, Azure, AWS, and Zillow."
-    publishedDateTime: 2023-12-21T22:56:00Z
-    webUrl: "https://www.searchenginejournal.com/santa-tracker-2023-google-vs-microsoft-bing-aws-and-norad/504562/"
+  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
+    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
+    publishedDateTime: 2023-12-25T05:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 58
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/12/santa-tracker-2023-norad-google-microsoft-aws-zillow-6584b7c8dd0ab-sej.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
     excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
@@ -76,6 +78,98 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
+  - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
+    excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
+    publishedDateTime: 2023-12-22T10:29:00Z
+    webUrl: "https://www.law.com/international-edition/2023/12/22/allen-overy-collaborates-with-microsoft-to-debut-ai-contract-tool/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
+    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
+    publishedDateTime: 2023-12-24T11:53:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
+    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
+    publishedDateTime: 2023-12-21T07:57:00Z
+    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 38
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
+        width: 450
+        height: 397
+        isCached: true
+  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
+    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
+    publishedDateTime: 2023-12-22T00:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
+    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
+    publishedDateTime: 2023-12-20T19:44:00Z
+    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 32
+  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
+    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
+    publishedDateTime: 2023-12-21T12:37:00Z
+    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
+    type: article
+    provider:
+      name: sensorsandsystems.com
+      domain: sensorsandsystems.com
+    quality: 32
+  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
+    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
+    publishedDateTime: 2023-12-21T20:50:00Z
+    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 22
 
 secured: "YM0puumnREBgcGN1/7UsbVxqFrZLrlTFqhjdxpS8P5WPYs+k00SYU49OQOBiS6ucpNRxD4SBFqUfw8syK6lCtXgexc5rbrBTK5pt1n3n3fQSeYyGlWnkCWun0oJvy1j6dEzrblSFO/FWXYL5h2L8+p/Y4Xlu3KdmysFaqv84oKxnPHky+VgxT1rMqkv2YWMvZH2N+shF+w/WMxDfN0bjv8tB9tD3n51EwTH+UTjsUUxfZ267hf5B6uhCW2dCOVIDVBMf/qipK6YPb69e1TFL/fJQ2WchIcVeqI2n58UJjWisCH9v7VSj/yy2zFlGeYXbbgeVfHDMauY9U5+5s3NjP5FAIf9IpIaIljfSxYOFTy5YOPUGmd+m+8/ZHQg+1d/KbsuHV0lIuV4W9TFXQ1KH4RugiQVMQbsSHwYG1FgzqoDjhOeSux5Dxgt2k8yY/ozMaGV2T8eThyH5tVGwdY21UjpGHvYrnIbl/sDdcV9zE6meZu/lSNPK3XBmT2rPN/5bUiARAOO/oR+bn5+/Z+h1Cg==;3H3UqQ1p4r8lswnR7umKEw=="
 ---

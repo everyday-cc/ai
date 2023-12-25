@@ -19,45 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "From AI to responsible AI – the future?"
-    excerpt: "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,"
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
+  - title: "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas"
+    excerpt: "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing"
+    publishedDateTime: 2023-12-21T16:29:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 94
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png"
+        width: 1260
+        height: 431
         isCached: true
-  - title: "AI in the Near Future: Artificial Intelligence is Everywhere"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous by revolutionizing numerous industries. AI everywhere is an era that we are rapidly entering whereby the end users are increasingly accustomed to mass personalisation at scale otherwise they will switch to the offerings provided by business rivals who may be using AI to create customised services and user experiences."
-    publishedDateTime: 2023-12-21T18:34:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere"
+  - title: "Deploy foundation models with Amazon SageMaker, iterate and monitor with TruEra"
+    excerpt: "This blog is co-written with Josh Reini, Shayak Sen and Anupam Datta from TruEra Amazon SageMaker JumpStart provides a variety of pretrained foundation models such as Llama-2 and Mistal 7B that can be quickly deployed to an endpoint. These foundation models perform well with generative tasks, from crafting"
+    publishedDateTime: 2023-12-22T16:42:51Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-foundation-models-with-amazon-sagemaker-iterate-and-monitor-with-truera/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
     images:
-      - url: "https://www.bbntimes.com/images/articles/society/The_Future_of_AI_-_AI_Everywhere.jpg"
-        width: 1200
-        height: 800
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/21/truera-intro.jpg"
+        width: 469
+        height: 248
         isCached: true
-  - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
-    excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
-    publishedDateTime: 2023-12-22T14:01:00Z
-    webUrl: "https://www.usatoday.com/story/sponsor-story/bertalan-mesko/2023/12/22/the-medical-futurist-examines-how-ai-will-impact-the-future-of-healthcare/71963510007/"
+  - title: "A new group at Amazon is helping customers including PGA Tour and Bridgewater make generative-AI applications"
+    excerpt: "Companies such as Bridgewater Associates are experimenting with generative AI with the help of AWS."
+    publishedDateTime: 2023-12-21T16:27:00Z
+    webUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-aws-generative-ai-bedrock-2023-12?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://i.insider.com/658465b51c5c7b8c9a0b1481?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0T62eS6twktooAkCWo74ECCrQ0KKp68z48XevQdiWyYbmyl5pXOK1TjzvHyMYgnhWvy5gb9e33HrxB+pSJ1gQFCRhsEP/9nh/6vDz0Ih/QT0UaxSlbFSnG6SyDAC/Cv1e6R6qIfyic+PtvWaQxyb+G6uBy6z2S+JXFhSjUgG5oAGh5D9LaRstEmdKM2bCaihs9JbnIakbLogg0cyDZKCDCfbNDaEGMWkRldQKA59omRnZluBblXI8e27xJHGcWKOR+WJZQJma8AE2gR45xmLbi2f9OtAYXnChxmwCrvNm9ZcRdi404AYcdpX2zoHUXJBBJ6XOiEVFU3+fr/08ZDBwhzDC6zIiuHU/QR5/Q+6aGR7h1++vAL8pH+DQgu4dGsA2s4duAH7/xfFPkmGKshe9WdtTUY6JFkJYD6yv/ewGWxPY9RDZY6zveWMeP1ORxC0Vza3Fxh6pXR18a7lPd/A7RnNgbVuSAVoUq2lqBS+aBLrRtiu6d83nNML+3AgKTY85OH79FBtOTBveMrdsMuE9A==;PFd22kmEatgV8wYKS2sbKg=="
 ---

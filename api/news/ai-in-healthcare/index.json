@@ -62,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -104,6 +104,59 @@
         "AI in Healthcare",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies.md",
+      "title": "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies",
+      "excerpt": "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg",
+          "width": 760,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
+      "publishedDateTime": "2023-12-22T11:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -250,8 +303,8 @@
       "title": "Can Artificial Intelligence Detect Autism?",
       "excerpt": "Researchers at Duke University have been exploring whether artificial intelligence (AI) can be used for autism screening in real-world settings, such as primary care. Their goal is to develop an objective,",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -268,8 +321,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-science-of-autism/202312/can-artificial-intelligence-detect-autism?amp",
       "publishedDateTime": "2023-12-19T22:45:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -1343,49 +1396,6 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-artificial-intelligence-for-aging-research-in-cancer-drug-development.md",
-      "title": "Artificial intelligence for aging research in cancer drug development",
-      "excerpt": "A new editorial paper was published in <a href=\" entitled, “<a href=\" intelligence for aging research in cancer drug development.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1010424",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1010424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6d35b3c1-02af-46d9-b8b8-1f42671d43f2/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
