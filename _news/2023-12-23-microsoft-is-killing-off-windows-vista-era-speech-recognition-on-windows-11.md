@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-wi
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -91,22 +91,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Ooredoo Reshapes Region’s Digital Landscape with Successful RISE with SAP Migration to Microsoft Azure in Qatar"
-    excerpt: "In a groundbreaking move set to redefine the digital landscape in the region, Ooredoo Group today announced the successful migration of its cloud ERP la"
-    publishedDateTime: 2023-12-20T07:46:00Z
-    webUrl: "https://www.albawaba.com/business/pr/ooredoo-reshapes-region’s-digital-landscape-successful-rise-sap-migration-microsoft"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/ooredoo-reshapes-region%E2%80%99s-digital-landscape-successful-rise-sap-migration-microsoft"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/ooredoo-reshapes-region%E2%80%99s-digital-landscape-successful-rise-sap-migration-microsoft"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 54
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-12/d3fedfd6-3b0b-41e4-8b2a-e248099ccb0a.jpg?itok=ouSURFq_"
-        width: 960
-        height: 540
         isCached: true
   - title: "Coforge ties with Microsoft for generative AI; shares up"
     excerpt: "Coforge Ltd. collaborates with Microsoft to use Azure OpenAI service to help enterprises adopt generative AI with Coforge Quasar platform."

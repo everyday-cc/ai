@@ -141,20 +141,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "FinTech Magazine’s Top 10 regtech companies"
-    excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
-    publishedDateTime: 2023-12-20T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech in Singapore: 2023 in Review"
     excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
     publishedDateTime: 2023-12-21T06:27:00Z
@@ -225,6 +211,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "nV+85SNsMjHbwEIAC4/eg8KnmHw628TeoDHfKTEx6uult9Tst4T4q5Li+BbMfK2uYWmIqmVQUAdAPlPYaXAkrsIeeHSc7Zd7qhodnAM0W0U/Clfjliae781KEEIqdp34xL8MGxacH2qmkQS009Ekd0p5QQ55BdU4UyAwXhJe9PoOaRehXjOqMx59D7siUyNlAx2otjDwWY+e9QPhWVIofVb2HZsSPJgVm70V9fsy6gZB9pGLIKO6KcPmm0ZMz+fz6ja/pjrY1DWyOd9LWE63Z4kTnA2F3TieXPeG0e5mDeEp1HWHCRJRiUjQxexVixUEfetb1KIEuD2HHvsQGCxKLB8ELraHXr0sbulw2ymzKP8=;LbiR8hbEY8vvh/tvcHmUNQ=="
+secured: "mXPwGn4ACsu5V6Lct2X3JtOxEF4QR9EE1zlWro5KcsUIAsa6AmQ3wQ5PShD7682ECToSRNBxai8X12x17E/Id/YrTc64PaPd31LHof0s6SFKwR04zos8usF1i99H2Yobv9ucyUyJNRIOnS0ejwuPbQ4fxrw7eRv9FKY3KdcZFh0H5DjXsST5AFeW9YdN5NW+x+pot0hHn25Q2FHNJgZlfYkE4ymXGRcK0n0Tv3sNVNoI19hlEClz0KvYwVBlJ2uUXqb06NR6PRCEKh0UQ1/ndHCpeIrjj1ny6yUQwzPlPzKPO12PGLgkQBry+/n72rCrL6SrZkp0BSiMTLUCJZnwuUh2hG8QvqzoOdHQWplJ9tqBeEAvKa6LQn/YmQj1PSA3wGJriODHEnO+Nn0qXgqoprhvjpYKeHMYPq7CdK7gkSrHPe3KO/DdncQku2OpsMbeOvCnXh60AAgSvhJpnr1GZCCSv6vYDsoLWd708hCqA7F6LmA6zuK3lsw6hvQ2VdxXSTQ6HCGVStoPqzeUkKIg4g==;NNrsFLy4Jt1Ah88sO3tTew=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
     excerpt: "Rosenblatt analyst Hans Mosesmann flagged salient articles in the last week specific to AI, Bandwidth, and Computing that are important and merely interesting as they relate to critical secular themes."
     publishedDateTime: 2023-12-21T19:09:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/analysts-eye-amd-and-nvidia-s-ai-rivalry-who-leads-the-tech-race-1032920439"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
-    publishedDateTime: 2023-12-22T02:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
     type: article
     provider:
       name: Business Insider

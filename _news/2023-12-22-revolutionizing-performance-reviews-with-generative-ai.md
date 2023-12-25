@@ -84,9 +84,9 @@ related:
       domain: msnbc.com
     quality: 17
   - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "The innovative AI chatbot is based on generative AI and was created using the Amazon SageMaker service. It provides only relevant answers that are important to the business and if a question cannot be answered with certainty due to insufficient data ..."
-    publishedDateTime: 2023-12-21T03:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
+    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+    publishedDateTime: 2023-12-21T07:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
     type: article
     provider:
       name: Business Wire

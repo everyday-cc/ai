@@ -39,6 +39,15 @@ related:
         width: 564
         height: 840
         isCached: true
+  - title: "STOSSEL: Enjoy the ride"
+    excerpt: "Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for “Way Forward in Mobility.” Regulators in San Francisco and Phoenix legalized Waymo cars because the robo-cars drive better than people do."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://www.oaoa.com/opinion/stossel-enjoy-the-ride/"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 4
 
 secured: "s/pIcv4gY/nWGAu0ciE5PjY8g5iT/CfxDv0Mdf6dxnrbpWKHEM9sRbOSxCNr00vOHc9vQgVKinIxO1Doq8zWBgZbIDuC/xt7MafWaMZ87Rkmu1k9MZoOLQaVRuduheF0mRAexUohaWh0TseosmYrqy8RB7xMPVAUrn6LC1fdL+snao1ppadO0qmgVItBaMnl5BFgokMLOPFfhiczqr9xv1FNh8YkSQYinYqzXfgMBBvP5x4JdjDQGjpWJHE5TfKKZmdBcu+Ay3JytZWlNtiRfTb11k++H14WEL1HCL71nQsoKmvz1CGYgSNS+iH1V8qyjstVaESDJ+w9b9VtMEmsySBYYErgp0WlEvU6YhgkdM+pwH1rHJmujxy0/Tu+3ERkcE83k7MF9DMBZOD1qYoa+zl9UaYcLT47iSuGck19HpRC8dBYnRdXfHUnpzFjA1TIQHQZEpq11aMRdbvjNuTJz+qDSCfJvKbwHgQQtHFCQl7Euk6BUwc7hRRMuYYrttm8BYPFj6SzKytPUgNMWFMLVg==;kIF0dHcZ/HPTFqnaSuXGiw=="
 ---

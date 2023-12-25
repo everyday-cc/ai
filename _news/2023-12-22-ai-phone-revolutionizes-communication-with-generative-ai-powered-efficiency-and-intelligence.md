@@ -254,15 +254,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 17
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "0g5yJ47qXyqZEIbn8SIa9Lnd2qvG6pAd+kls04YjlcsalrNgJOvG8z73lUpO96vM+SSHXQB088egH4Oln6ISicXZ7G942SqpxtITZLld76DbicoQhBoCFFYFGz/ro/WKj+xPLLKWy3Ud/O5pc7Yo4YZn0MaCDHh1PZb1zz5/nMlmh5WWGN7nAYxbrlnwoh6CsDbYbruOMqL8UJYKOcAZJLOfLBThtB6iTdzT1GITMm+xPgFaHKTsq/FR0xZKMv6wJLMoMin5/9dmMHzCQbX7gNyvOSnTOOh6bUF3ntgETTBFdd7paiVKwVtNwr97uco+xib3y9USwPh+4JDKeU70XFoU8nb+TrEQKeHjonXgPd9NYAFe3QWEvy/+v0Ks77mbZfwBhxPlb/dIvG93qVY+ZgrgpWXJOsp3ep5jB6tNmGh470+UdOPGxUkHE2FqLGeeNWAgFVeHbdFn0/ScZQ17hspUhCnByq+50Q90owQ1YFASfqAQau7ZVka2e2UeHwZ9sguhVO0azyJKu3k9cHmWDg==;d48OlPWBN9dSLPeFcI573Q=="
 ---

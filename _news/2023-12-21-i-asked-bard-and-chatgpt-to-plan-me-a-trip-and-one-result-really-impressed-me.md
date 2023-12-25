@@ -44,6 +44,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "How Strangers Got My Email Address From ChatGPT’s Model"
+    excerpt: "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees."
+    publishedDateTime: 2023-12-22T16:07:00Z
+    webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/20/multimedia/openai-chatgpt-exploit-promo-image/openai-chatgpt-exploit-promo-image-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
     excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
     publishedDateTime: 2023-12-24T11:32:00Z

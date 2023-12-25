@@ -96,22 +96,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 62
-  - title: "Rite Aid's 'reckless' use of facial recognition got it banned from using the technology in stores"
-    excerpt: "Rite Aid said in a statement that it's \"pleased to reach an agreement\" with the FTC but added that \"we fundamentally disagree with the facial recognition allegations in the agency's complaint.\" The tech was a pilot program and was only used in a \"limited ..."
-    publishedDateTime: 2023-12-20T08:37:00Z
-    webUrl: "https://abc7.com/rite-aid-facial-recognition-ban-surveillance/14206439/"
-    ampWebUrl: "https://abc7.com/amp/rite-aid-facial-recognition-ban-surveillance/14206439/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/rite-aid-facial-recognition-ban-surveillance/14206439/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 61
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/14206621_rite_aid_facial.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Rite Aid banned from using facial recognition in stores for 5 years"
     excerpt: "Rite Aid is now banned from using facial recognition technology in its drug stores for the next five years. Facial recognition was used in some New York City locations. Read more:"
     publishedDateTime: 2023-12-21T00:26:00Z

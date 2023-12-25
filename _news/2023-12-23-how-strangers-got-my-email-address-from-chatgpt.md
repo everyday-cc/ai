@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Strangers Got My Email Address From ChatGPT’s Model"
+    excerpt: "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees."
+    publishedDateTime: 2023-12-22T16:07:00Z
+    webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 84
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/20/multimedia/openai-chatgpt-exploit-promo-image/openai-chatgpt-exploit-promo-image-facebookJumbo.png"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "I asked Bard and ChatGPT to plan me a trip and one result really impressed me"
     excerpt: "I recently asked Bard and ChatGPT to plan me a fake trip. While both were able to do the job well enough, one result stood above the other."
     publishedDateTime: 2023-12-20T18:24:00Z

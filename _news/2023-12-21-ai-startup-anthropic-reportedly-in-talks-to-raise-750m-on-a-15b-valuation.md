@@ -55,14 +55,14 @@ related:
   - title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
     excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
     publishedDateTime: 2023-12-24T21:14:00Z
-    webUrl: "https://fredericksburg.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_d7d71e9d-0951-5621-aec4-d32bd7150f65.html"
+    webUrl: "https://journalstar.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_bf2e1d3c-804b-5a58-a3cf-19c72eaf0772.html"
     type: article
     provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
-    quality: 41
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/d/7d/d7d71e9d-0951-5621-aec4-d32bd7150f65/6581c7147d042.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/f2/bf2e1d3c-804b-5a58-a3cf-19c72eaf0772/6581c714c03b0.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
         width: 794
         height: 417
         isCached: true

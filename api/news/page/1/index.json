@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-25-paytm-lays-off-100s-of-employees-after-induction-of-ai-to-cut-costs.md",
+      "title": "Paytm Lays Off 100s Of Employees After Induction Of AI To Cut Costs",
+      "excerpt": "Paytm's induction of AI in its operations meant a reduction in costs, improved efficacy of operation, and removal of repetitive tasks and roles in the fintech firms as it seeks to improve its core business of payment by increasing its manpower. Paytm said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491",
+      "originalUrl": "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-07/1vht6534_paytm_625x300_23_July_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1",
+      "publishedDateTime": "2023-12-25T07:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-25-2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles.md",
       "title": "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles",
       "excerpt": "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in",
@@ -388,7 +431,7 @@
       "originalUrl": "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -630,7 +673,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -683,7 +726,7 @@
       "originalUrl": "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1098,7 +1141,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 301,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1151,7 +1194,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1191,57 +1234,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-the-dukes-of-hazzard-star-john-schneider-says-ai-cannot-simulate-heart-and-soul.md",
-      "title": "‘The Dukes of Hazzard’ star John Schneider says AI cannot simulate ‘heart’ and ‘soul’",
-      "excerpt": "\"Dukes of Hazzard\" star John Schneider explains why he isn't afraid of artificial intelligence, comparing it to artificial non-dairy creamer and calling it \"phony.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/the-dukes-of-hazzard-star-john-schneider-says-ai-cannot-simulate-heart-and-soul",
-      "originalUrl": "https://www.foxnews.com/entertainment/the-dukes-of-hazzard-star-john-schneider-says-ai-cannot-simulate-heart-and-soul",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/1200/675/JohnSchneider.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/the-dukes-of-hazzard-star-john-schneider-says-ai-cannot-simulate-heart-and-soul.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/the-dukes-of-hazzard-star-john-schneider-says-ai-cannot-simulate-heart-and-soul.amp",
-      "publishedDateTime": "2023-12-22T11:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

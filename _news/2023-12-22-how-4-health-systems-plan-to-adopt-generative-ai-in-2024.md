@@ -248,15 +248,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 24
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "nJG9TYAUA+CI+4gpP4FO+Yi/OLVAFeTT0PrrqnR9hAlYY+58wEu/LZzjahqveIfUH3xDYtItTD2jb/4oPyAGKGRrqJzUKDt9gn+IExKv1X2VkjgY209RMdlcIsMuSY11QVVhrTcRzS8U6a58SrR1ddzrrtCQnhxeSpJMYYJiLrqjQd5Ll9oTOFXUXZNW9bhBks8LVNIipqcg3KfY6M+dPM9N9JXK/vt1CvNh/ucctYkJUIGhghumzvEO3TOrjGhFgIXojc+XeNwf6mEX3pfK7iwLZEqgopMypaxFyWxuj250F3jk2D7jTQePu8SXRSOVPg6zLb9EN3rqOfF8/iWNoOJIzo4echxiFdgupj5FTcE=;Eki3maXtQBVVlpm3lt7aWQ=="
 ---

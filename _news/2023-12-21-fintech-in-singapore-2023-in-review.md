@@ -155,20 +155,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "FinTech Magazine’s Top 10 regtech companies"
-    excerpt: "Discover the Top 10 RegTech Companies reshaping compliance for financial institutions in the rapidly evolving fintech landscape"
-    publishedDateTime: 2023-12-20T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/fintech-magazines-top-10-regtech-companies"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top 10 financial services and fintech stories of 2023"
     excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
     publishedDateTime: 2023-12-22T04:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-max
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -255,15 +255,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 17
-  - title: "Google to limit answers to election queries on Bard AI tool and generative search"
-    excerpt: "Google said that the restrictions will be enforced by early 2024 in the run-up to the upcoming U.S. presidential election in November 2024."
-    publishedDateTime: 2023-12-20T08:03:00Z
-    webUrl: "https://cointelegraph.com/news/google-limit-answers-election-queries-bard-ai-generative-search"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "PHNbFEkWEyxvEUOWEUnOUD/njMGrPwhp3LbGGevJeL8FCuiKsHS34YsfD67JDTz4CIU0jy9OJa6U5noRgBDENe29aulEMTUk3dk8hLWx0a67r6AezGkn8ZoMvTpVjC5wg15lUx0eo4v1I1ZTUniUsJO0CLavE9qwJ4CSaN94VpsWSvBtF5Tl5pZFd90tZ29iBoUHTLUa1is+CJ4QA+oD/nAvcfJKXCrkSwRz2K2LN/ML62vx4L4wyfVfRMH5A05pKuI/SqOlhJo8MKRaGgZXHHQ4QcNX7zESRSG8FwHycxeWJBy0DkK5JZBRwA7euR4Hta/dNw8qU8UnfWjXUnF1aujFSCwjmZLkBr8KBd+12sW9ucAdu9Jzio1ao53aYCuXkngNWWOoDM3a3EHuhBv8X3ltrbKDi5sEzmX0PJtBhs2jU5RWqwrYjvIEq5HU0mO35m2EZ9QV+1N1EHBuO7FTwtc9NWFYvaZGGSs9AvfzRZPLEt1MmZID/fvc4NggMZ0laVy1EvI/Yo8OcbAdrS3KDw==;AWnLfDE7iAFSsUGOeVCY4g=="
 ---
