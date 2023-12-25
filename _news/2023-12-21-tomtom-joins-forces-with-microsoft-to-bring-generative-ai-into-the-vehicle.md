@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption"
-    excerpt: "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ..."
-    publishedDateTime: 2023-12-21T10:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
+  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
+    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
+    publishedDateTime: 2023-12-25T05:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 61
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
     excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
@@ -49,6 +49,36 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
+    publishedDateTime: 2023-12-22T15:35:00Z
+    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
+    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+    type: article
+    provider:
+      name: Windsor Star
+      domain: windsorstar.com
+    quality: 48
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
     excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."
     publishedDateTime: 2023-12-20T09:42:00Z
@@ -63,15 +93,6 @@ related:
         width: 975
         height: 548
         isCached: true
-  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
-    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
-    publishedDateTime: 2023-12-22T00:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
     excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
     publishedDateTime: 2023-12-20T19:44:00Z
@@ -89,15 +110,6 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 22
-  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
-    excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
-    publishedDateTime: 2023-12-23T18:02:00Z
-    webUrl: "https://www.afp.com/pt/news/1313/ltimindtree-collaborates-microsoft-deliver-ai-powered-employee-engagement-applications-202312189544151"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
     quality: 22
 
 secured: "F2yTvXgUHRmIRSl/cnndJvH0mHMxrRHV691QvYgT2FLRCaJRS/+Zj4m8iVl5jcEGyK08K3o3GzwumSNY9tdqTjjGoD56e/QEL9ZA7onDNjOvZG8U2C7ayklneVZOGHkX1ViSdRtc4RsXzAbvCgll0nEf/uvJLug7RgD7Xa52nOkjlFYIDA+tH2cj38FYP+rdBrMcjn95A3qDMXKCLWHUbcvV4y3bFQlsSWIwCpxl/7saFS2VL4MfxlnHPQbrIRNfMdEae75PwRFwwlE8waojFjITy1LzBJJaCuBgwVXjWMuDD9280y4tzSJW3cM4cqZOzlZSYpo77q6RQmAC001BgA9zb6MwYFVLQzg6WojJ9jE=;htAzwdRLYCYfLrjVe2vDRQ=="

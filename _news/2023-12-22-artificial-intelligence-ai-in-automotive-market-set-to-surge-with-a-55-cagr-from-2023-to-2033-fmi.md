@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Companion Robots Market Projected to Hit US$ 11.73 Million with an 18% CAGR in the 2023-2033 Forecast Period-FMI Study"
-    excerpt: "The healthcare companion robots market is expected to grow at a pace of 18% CAGR between 2023 and 2033, according to Future Market Insights. By 2033, it is projected that the global healthcare companion robot industry would be valued at US$11."
-    publishedDateTime: 2023-12-20T06:15:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/20/healthcare-companion-robots-market-projected-to-hit-us-11-73-million-with-an-18-cagr-in-the-2023-2033-forecast-period-fmi-study/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 27
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Healthcare-Companion-Robots-Market-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Global Animal Artificial Insemination Industry Set to Skyrocket at 6.0% CAGR, Projected to Reach US$ 3.91 Billion by 2033 | FMI Analysis"
     excerpt: "Future Market Insights (FMI), a leading market intelligence firm, has recently released compelling statistics indicating a momentous trajectory for the Global Animal Artificial Insemination Industry."
     publishedDateTime: 2023-12-20T13:46:00Z

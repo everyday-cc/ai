@@ -33,20 +33,6 @@ related:
         width: 420
         height: 300
         isCached: true
-  - title: "Healthcare Companion Robots Market Projected to Hit US$ 11.73 Million with an 18% CAGR in the 2023-2033 Forecast Period-FMI Study"
-    excerpt: "The healthcare companion robots market is expected to grow at a pace of 18% CAGR between 2023 and 2033, according to Future Market Insights. By 2033, it is projected that the global healthcare companion robot industry would be valued at US$11."
-    publishedDateTime: 2023-12-20T06:15:00Z
-    webUrl: "https://www.fmiblog.com/2023/12/20/healthcare-companion-robots-market-projected-to-hit-us-11-73-million-with-an-18-cagr-in-the-2023-2033-forecast-period-fmi-study/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 27
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Healthcare-Companion-Robots-Market-1024x683.jpeg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "lgXjzQ4+2XT5fyZfIOj/IF1yhWhqIHjCu+4oMUhKOC/9FORvAuYrhtNf4HDDIWrt5NByBklAufSYrMkbptcyAvmvb1gu7tUdRehPRKNgU99LY9kkAomoT8DLHhXL7a49eUSffX+3+T8LRb8JLiGPe2oFIRKiC5iFPKyJb/qO9m6QbUPwI9xirblesX8UUAlZtCVhML1KpFJcblLast48zOy5B+WzM7Poy6iRD0NlmNmG0MQCvovZcpwvGOmhBwUzwFoN1b2rhUq5J1wJYw1T089FO1Q4xQ7zrDkcV9Vn1e588wLUYI02fdGV55R36NuFIn+uG6sse/+hfnxFzOsnQhhuGxC9ENcpPq2xFXeWGU/pjut6EKWucHBkIfVXxxCDeTfCYbsQbACJI7wvPZ8WM9p7Uvpf2Fj/sfPxutBV5hrwkJWjnYoXWYQ+IQG7DnS7SKw/kEiUg/vuk2dGyepmtnQuQUbgTWc0dzlZRMjxuVWoGPCR90yVSfW4kuBgphT1bIyDI827sNgL9bkCVG1xNw==;UBX4hYxnuNi6Rcvz+jMO2A=="
 ---

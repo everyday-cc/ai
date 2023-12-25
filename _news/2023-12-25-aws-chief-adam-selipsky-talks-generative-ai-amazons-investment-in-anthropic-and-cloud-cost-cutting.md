@@ -3,23 +3,24 @@ category: news
 title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
 excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
 publishedDateTime: 2023-12-24T21:14:00Z
-originalUrl: "https://missoulian.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_0afa0644-3cd0-5040-b564-ac8c9bd7b408.html"
-webUrl: "https://missoulian.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_0afa0644-3cd0-5040-b564-ac8c9bd7b408.html"
+originalUrl: "https://fredericksburg.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_d7d71e9d-0951-5621-aec4-d32bd7150f65.html"
+webUrl: "https://fredericksburg.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_d7d71e9d-0951-5621-aec4-d32bd7150f65.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: Fredericksburg.com
+  domain: fredericksburg.com
 
 topics:
-  - AWS AI
+  - AI Hardware
   - AI
+  - AWS AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/0/af/0afa0644-3cd0-5040-b564-ac8c9bd7b408/6581c714df030.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/d/7d/d7d71e9d-0951-5621-aec4-d32bd7150f65/6581c7147d042.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
     width: 794
     height: 417
     isCached: true
@@ -68,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "IinXBB45adefI9B6JSFD1Ys6vqImZTR9xXCZRLhQMlz9Snr/C2qlCBaWTwyVNeyoDf0J28YDSKeteDAo3xyZs69NByt673m3Vd4k8mUyZAXB0XvaUgomW5PGvP8XbHYvQXxZHQALqb54Ogbvjum/AefMNqHT1aiPQ62604jKA98WL/P1l4AiNggDmQbgTVYQglylWtiiOXGhrUYsIpTJ+zXBkJEEs8VoB9ByDIsEvl3HqcMBOtQh5fx8SWHMmdoRqsSiitBCu3QiFdDu/it/7sUO/J9UzkHHdB7KnuCP/SLmvlSbfni8jg1UYcpPDB/u81TJ2Juunp/LUtQ8KBr2aHcBNvoIn49jIL1wASRsjWo=;0DuvSbtnEr5fJGwHH0aZpg=="
+secured: "2G662e0P3dfSeUR+zZSWmO5aj9OmU0wQmqZiOqp3NkvcMZ8KDZVN4x1gCnULf/6k0v/ITjPfeRqnMQ1iotxZIzJvdUfA3ZrrCWMPCHyuYA4fFmOrVQ30EBrMOsv1RRdNJi5LhyoWMprVx0OETadsfM9GPcn03e5tAYEL1ScA9oVOaM1YuCuFm4/TKOXSD9S2WRtZlj5VzkU8GmKzC/094POcqomEeXEaqPah7TxtqplJ/JtWFNUR9nM52pbkEBWn5C7hi6sFc0+8h3tBlWB3I8PzWPsy5K5CzVBABF35hW5X5gzs+5hQaBGoubi+1d22i85HCoyXH3bL93Pe4yCQtP952p2KBg0HnFViyI303nI=;7X04QBJpzUuDoEi9OJwxdA=="
 ---
 

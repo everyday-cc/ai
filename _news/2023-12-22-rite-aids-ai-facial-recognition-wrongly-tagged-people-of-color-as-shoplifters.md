@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Amazon heads off facial recognition rebellion"
-    excerpt: "But Amazon has not disclosed how many other public authorities have done so. Part of Rekognition's appeal is that it is cheaper to use than several rival facial recognition technologies."
-    publishedDateTime: 2023-12-20T05:29:00Z
-    webUrl: "https://www.bbc.com/news/technology-48339142"
-    ampWebUrl: "https://www.bbc.com/news/technology-48339142.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-48339142.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 91
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DDE7/production/_107070865_43fd08e7-86a5-459b-8727-b89a4828d276.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Rite Aid hit with a five-year freeze on facial recognition"
     excerpt: "Rite Aid has agreed to a five-year ban on using facial recognition technology for surveillance as part of a settlement with the US Federal Trade Commission (FTC)."
     publishedDateTime: 2023-12-20T17:45:00Z

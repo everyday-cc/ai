@@ -70,22 +70,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Top AI Trends That We Can Expect in 2024"
-    excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
-    publishedDateTime: 2023-12-20T05:14:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-106143143,thumbsize-81260,width-1280,height-720,resizemode-75/106143143.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "acFXjIVG254uUNiBNr6A4844lYsS4QRB6fJT/4OCy1tge08+b61HrXpzu1geIvoufRpuIbz5Vq5eqYJYg+ckjpCuErIFBgSKhYtKLZz0mGiENo5NmWZcXShvfF7cm/D+LHGYYtq0k+TtZCQWXJ2LIJGvTn+ZX/px62PsnD7Cl4uOCTQYaAa/b6XR1ywbWVRHG5Ky94v5sbowbKif9EeFTPbtF8GulAzrybJc0V9V59kiMJv3D8Nz83kVskWyTvPwrymty6Ol79GfY4Zx9lPzFyozx8MF0mUcXMBInMpJt/AzJdv6aH4IeOwlLd1HrTUzXo+0qsdCIqv/oPS8YApB8+/ng4Xr6RsBpKZtmoD/Gqg=;yqWgZT2/nKHq8Cls5YDS8w=="
 ---

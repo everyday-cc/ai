@@ -59,6 +59,22 @@ related:
         width: 432
         height: 222
         isCached: true
+  - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
+    excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
+    publishedDateTime: 2023-12-25T04:59:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 47
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "From RegTech to cross-border, fintech trends to watch out for in 2024"
     excerpt: "UPI transactions hit a new record of Rs 17.4 lakh crore in November 2023, a 54% YoY increase in terms of the number of transactions and a 46% YoY increase in terms of value."
     publishedDateTime: 2023-12-21T04:42:00Z
@@ -190,20 +206,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Leading Indonesia Fintech JULO Adds Insurance Inclusion to Financial Inclusion with JULO Cares"
-    excerpt: "JULO, a leading Indonesian peer-to-peer financial technology company, launched JULO Cares on December 15th 2023, a first-in-market unique insurance cover embedded within the core JULO digital credit solution."
-    publishedDateTime: 2023-12-20T06:51:00Z
-    webUrl: "https://www.malaysiasun.com/news/274070674/leading-indonesia-fintech-julo-adds-insurance-inclusion-to-financial-inclusion-with-julo-cares"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 12
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1702998968519.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Top 7 Fintech Trends Predicted for 2024"
     excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2023-12-20T19:20:00Z
@@ -223,6 +225,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "oT3cNkK8ULwfUOvydJXIfXiTLFUUUT2d4rfdwBGXtRRUCp2BnQzC2z8bSCmmb4jV1NyJoAoed6m0WI7y1CGx5c08ZsCXqmADyBa2ItinGDUP/ZoL/YnqY8UQXJ66XnBzdlVtsrxFfONt+HQ5qYpFl5vG4tSAFiY9F9x97A970XoVYRGHfUg3ho+cplF+Aqyj9DD+nT8Sm/jstavpeAiR45uwC206bno/C1DTMAi3gbjnvOXcW3JhAazIcZqGwPIVfjFIxeBdvmaaREiBVgDdoyvkwHpTeY4I0VRyWMnb4VW01FOvvjeXauPns23h4QMv1NTWZO/7XvP46nDOhW5xQjx0WZA0iqhNi9yViRnUI2w=;W9cvA2gPzJRpEy2Hbe9vwA=="
+secured: "Wn7nXbFAcAbMD0r5cNyrDDmIRPaybn1AHOOVKEtb6BKXU0hRRaTRzMsaSacFl8AJu/ZnKzgE2GUEnZbmRmX7U/uneLcsacHponBAMdjXigDMrDCJ4v/9RtbJk3Fzx9merS+RPv6xdjKvjlI3pgvvcj0Rn0kTsWdhetmov3B4G4gW7SfS2CTOiP5EShjz68OlNSw7GPYer0mwIibpDjr0dLjqwkUd6FrKCmTIzH2E8gOa8ZvGsooiZCiPWoJqsOZYYEe+J42Y3EB8sWQjd4kpgbs7tN2w89VDQLJV2jKQfSN68sbnvMyHBIA0FzjPTDidqwhtEAAJQ5CzedsTBUxO42yqzuea7KQKeIFrcz7z1Z6Jd407nUUQlmGICbyfqR5KaeJ2azmrLi9TeJKj1NPbaEUpGgmqqYMQejy4JwLidW8D+H9qeJinEgPOjRHkURTPIpTfz2AlbVZLuht5lzMp+bTDmD12oBprZ1MCczPMHwRO7S96xI1yLFE+UEgAYmQ1iJhtaqM6B8zfUf1mHsAGeg==;c/lPxCMwNR9To40u8+G5AQ=="
 ---
 

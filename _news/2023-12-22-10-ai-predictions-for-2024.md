@@ -61,22 +61,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Top AI Trends That We Can Expect in 2024"
-    excerpt: "As AI reaches new levels of maturity in 203, broad production deployment is expected across industries like healthcare, finance, animation, and education to increase security, reduce costs, and enhance workflows in the upcoming year."
-    publishedDateTime: 2023-12-20T05:14:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/top-ai-trends-that-we-can-expect-in-2024-article-106141575/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-106143143,thumbsize-81260,width-1280,height-720,resizemode-75/106143143.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI news to watch for in 2024"
     excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
     publishedDateTime: 2023-12-20T11:00:00Z
