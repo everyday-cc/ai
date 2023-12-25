@@ -31,6 +31,31 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "UK Police Can Now Use Your Driver's License Photo In Facial Recognition Searches"
+    excerpt: "A recent change to a single clause in a UK criminal justice law will soon allow police or the National Crime Agency to run facial recognition searches on a database of 50 million driver’s license holders in the country,"
+    publishedDateTime: 2023-12-21T17:35:00Z
+    webUrl: "https://jalopnik.com/uk-police-driver-license-photo-facial-recognition-1851117632"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 34
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/39af6a8e35f1c1d47d4c470d97bb1337.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UK Police Could Soon Use Every Driver’s Licence Photo For Facial Recognition Searches"
+    excerpt: "New criminal justice bill would automatically include 50 million British drivers’ images in giant searchable database without their consent"
+    publishedDateTime: 2023-12-23T12:58:00Z
+    webUrl: "https://www.carscoops.com/2023/12/uk-police-could-soon-use-every-drivers-licence-photo-for-facial-recognition-searches/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 12
+
 secured: "hJBdCz0MTjaSZ4s/pB5xHGUCKhEpZvI8yNu/Y3EynV6c2zSzNLUB+o1fxt/72BLIr0QnAZzEKTbowqj9f+ZDOhcj8uCnyaPqKxmXml+TUvuwhSgTAjfH47CxBbNuD5G9hcsJj6mlp1pQPxOMoSmXmfjphQGmQaUpEx0HmGBf5nYU7bnz5ylQHWE1sG6stqpKf4vPkCuG2RMc9UmkJCvHKmKV3oxK89aVYXI0bf39OJlAbTr7/8BIzU4T7P3EwsNfulpd8jNoLI8UIZDIi9TVXkjS3MOoYOEII9+I2xc0pXkgZNJV652clO+ZUgNp7HRBAVcUbe0h0LlxVSRKf6ZnpLOHMo4/61jb8pTotX2byoLqN/fizuAGh08NnHez233jsd266MIC5Cj9XIaEu9OGSjBi6wFMT/UxHOar9Pn4PF7C5sGGq23y2USkd9H8aAaXaLk7slAf6dGl6CIFyQRqi0kEmc6fbRJbgcVmhUbJBLkuo9V72dCDEkHzszzWVoGUQQFXwMvonUVlOSD5Mrl7Tg==;LIabpj0Ig6lfDytlOF1jFA=="
 ---
 

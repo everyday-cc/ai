@@ -34,15 +34,6 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
-  - title: "Drug Discovery Using Deep Learning"
-    excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
-    publishedDateTime: 2023-12-20T22:41:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/drug-discovery-using-deep-learning/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
 
 secured: "iOF3kVnS+TkTly4yROpyi2boHIB8SnahFbp6mAm2bkAaG3R5OcocOhZUw0V6sFa1nRxlF+XBUvnAByH0z+T3LK4+BMn7Zaz7vS0u00fG+rFgR9gfcudpPwFR2AhYqsoeB0UTJxotPgxh3pPbC2xHeiRuIgngBSUjRK92RKXsj21OFdwROw+Q7sWY+T9RnXA39xcSEIYDuAmyIObU6EnUwVBYxhyDgiey93cr5V5lQEFZwy4/Q+Kf6zDkhwFDVQSUYoLeKuZtfpncr+radNnIMLJVI/CaFvaLXkHsa1xv5dxChupnvhHwpZ2/+8ndGfJOlElUpVC3qvausTjN/+n4MeC9gS4IAnz8kCuXpfy5t1M=;V+Ru6fxueh/hYTKriXuVsQ=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Google rolls out upgrade to AI chatbot Bard across UK"
-excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year. Google has launched its revamped artificial ..."
-publishedDateTime: 2023-12-21T00:00:00Z
-originalUrl: "https://www.standard.co.uk/news/tech/google-london-deepmind-alphabet-chrome-b1127806.html"
-webUrl: "https://www.standard.co.uk/news/tech/google-london-deepmind-alphabet-chrome-b1127806.html"
+excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
+publishedDateTime: 2023-12-21T14:23:00Z
+originalUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: London Evening Standard
-  domain: standard.co.uk
+  name: theoldhamtimes
+  domain: theoldhamtimes.co.uk
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://static.standard.co.uk/2023/12/19/00/13113044-32ea5ee0-efc1-4c05-a422-6b8218486e6e.jpg?width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "I tried X's 'anti-woke' Grok AI chatbot. The results were the opposite of what I expected"
@@ -56,6 +50,6 @@ related:
         height: 497
         isCached: true
 
-secured: "N5Fkhq133x7VFwglFeBXsoK2Cn/EVrEoOdyHD0qJdjojMBMYodPn3bv6nDmWteN4IinOoEgK53LGBN0dntqRxZUfM+fTPIF2D+59DENfpH5KrFDhEU4KfeJyuhq1quWqPxw63vxtal5uSXj33gjmoVQN93wiDsx/N1/nQAweraHivAB0RovfdM9izG1Z7c1xf56LuGhxATxFRXx+ZsMciG7OffmovXGbND7aXH/wSbvSmwU2O26J4W0hy5zivN0uGiP6TkwcUkWVzGgtA5yZeahKjw/TWZl5cm4109D7RlZPB2Uj3ej87ascXF5BqbCrsiyD5sJSiWsQp4umvIg5avxIDiE9fVvQv/04y+j5Fxk=;oWj2kGK3CYbCgTt2JsYdZw=="
+secured: "E4oMMNZb4O0XBSGW9TXvKNU7JFzp8+aeqKvrvB9n9dNHG6nQFXqTYvgawyPR8/Hju/9BixJHank57onlWjLsmNP5Lu6shmNcIeX8r0tGdU2CX5CyPeP44+XuY0niwBkig07cTi8TzgXUhfetyFs6V2ddhtm9ZTdb9n1iCrN8vxI+YXGepDo6Kxll3qhrzHK9uyqCw/XYGVFqxYGMFJY3MoBQTs+JD27t6eUERIBVL2CyrGuq2zOUEc8bj6lFF6B8Ay1AXhV2lt06ZSp8fA1uyccZKdxl5fXJYHrt383kGAeNBQ6YcAxB05pDFKC/mSDPca7OVIhhvSeR6IfNtQJlQYxBaxZUu0l1ZWhhtpvU2T8=;uA77zYQ8MFif3Vvd0+m3dQ=="
 ---
 

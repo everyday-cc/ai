@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artific
 webUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 2122
     height: 1412
     isCached: true
+
+related:
+  - title: "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?"
+    excerpt: "Multiple companies rolled out impressive AI chips, large language models, and AI applications. Cathie Wood stands out as one big winner from the AI explosion. Her Ark Invest exchange-traded funds (ETFs) have been and still are heavily invested in many high ..."
+    publishedDateTime: 2023-12-25T22:56:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/22940231/cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 21
 
 secured: "7C8d26j/KS0RqU3NXZ4ZuUwguzQ+K7359qXSPGfb3Lczvu2FIyG2B1H5liLZ5xfk6uYAhLl7acW+eu5UJdKfJGpYL0z/+I6MSApjMrdS6k6Uk4rI/kfz4fuEuaqOaQs2i9FjwuamItckVFFcBAruQZwyTSS8kF0bYXMatWooHMFBwKeRMjFrLqzuDGNvdR22U2B9NME5nBdSYuVxU0HvBmIleI0+j2pmitKQgH2Aae6ZtGkHzfOVEb2N7eGdWwMG8ty+DNPd457kchPQhwut5RS6sGTbXo5dgL+ijqMRMLuG0C+/w+GwCqNEPVPwsaqcRhZHqno1mG9lNIxPAnCkheMlLapASAHMx4ezalmyl0k=;BOQFCZQfWhm5reHZIekazw=="
 ---

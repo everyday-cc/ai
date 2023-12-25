@@ -157,6 +157,20 @@ related:
         width: 900
         height: 505
         isCached: true
+  - title: "PS5 Pro or next-gen PlayStation 6 may use AI processor for real-time predictive gaming"
+    excerpt: "Sony's PlayStation 5 Pro or next-gen PlayStation 6 console could feature some sort of dedicated AI processor that enables interesting new functionality."
+    publishedDateTime: 2023-12-25T22:31:00Z
+    webUrl: "https://www.tweaktown.com/news/95154/ps5-pro-or-next-gen-playstation-6-may-use-ai-processor-for-real-time-predictive-gaming/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 31
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95154_61_ps5-pro-or-next-gen-playstation-6-custom-ai-processor-may-power-predictive-assistance-tech_full.png"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Legislature eyes AI issues in 2024"
     excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."
     publishedDateTime: 2023-12-21T10:32:00Z

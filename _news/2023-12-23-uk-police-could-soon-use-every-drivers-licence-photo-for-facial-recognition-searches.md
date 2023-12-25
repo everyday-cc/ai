@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Police to be able to run face recognition searches on 50m driving licence holders"
-    excerpt: "Exclusive: Privacy campaigners say clause in new criminal justice bill will put all UK drivers on ‘permanent police lineup’"
-    publishedDateTime: 2023-12-20T21:24:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders"
+  - title: "Friday briefing: Will facial recognition turn the UK public into a ‘permanent police line-up’?"
+    excerpt: "Inside plans to swell a searchable database using driving licences that will make the UK an ‘omni-surveillance society’"
+    publishedDateTime: 2023-12-22T05:40:00Z
+    webUrl: "https://www.theguardian.com/world/2023/dec/22/first-edition-facial-recognition"
+    ampWebUrl: "https://amp.theguardian.com/world/2023/dec/22/first-edition-facial-recognition"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2023/dec/22/first-edition-facial-recognition"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 54
+    quality: 49
     images:
-      - url: "https://i.guim.co.uk/img/media/911c47e92f20471b307595b933fe4be7e671675e/0_25_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=df04491dbc8a743f01a8d04c53b53511"
+      - url: "https://i.guim.co.uk/img/media/c429e437a45f2cb6798d21a0ced0f819b9f11f4f/0_324_5859_3515/master/5859.jpg?width=620&quality=85&auto=format&fit=max&s=55176736e2830253dc12d389f86d9f74"
         width: 620
         height: 372
         isCached: true

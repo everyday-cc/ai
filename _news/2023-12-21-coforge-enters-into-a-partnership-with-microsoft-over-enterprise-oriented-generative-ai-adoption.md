@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cof
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Centific and Telaid Partner to Bring AI and Computer Vision to Retail"
+    excerpt: "AI-Powered Computer Vision Meets Deployment Expertise for Retail and QSR Innovation SEATTLE, Dec. 21, 2023 /PRNewswire/ -- Centific, a global provider of AI and data services, has announced its partnership with Telaid ,"
+    publishedDateTime: 2023-12-21T14:49:00Z
+    webUrl: "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 34
   - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
     excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
     publishedDateTime: 2023-12-23T18:02:00Z

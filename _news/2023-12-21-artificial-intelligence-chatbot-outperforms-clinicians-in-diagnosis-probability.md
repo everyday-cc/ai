@@ -42,19 +42,14 @@ related:
         height: 675
         isCached: true
   - title: "Google rolls out upgrade to AI chatbot Bard across UK"
-    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year. Google has launched its revamped artificial ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/google-london-deepmind-alphabet-chrome-b1127806.html"
+    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
+    publishedDateTime: 2023-12-21T14:23:00Z
+    webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
-    images:
-      - url: "https://static.standard.co.uk/2023/12/19/00/13113044-32ea5ee0-efc1-4c05-a422-6b8218486e6e.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
+      name: theoldhamtimes
+      domain: theoldhamtimes.co.uk
+    quality: 19
 
 secured: "Ai5MukCBrOaDNVD0KRCSq8nk+qP0sNT2ICAGN0XoepnjV8d3OeVFYIk4qDGzAz+6AN9QM/ZSRCn4LMj3SRF7JZzp963ZMZS7O9VkH7h9IR06vDiYize4ggYL+/WA1bvRyZTEtKXobZxW9fIUH+UXdf83NkmSEB3Sr4y2kI3P4QJdGEFw91nMHAXrbcmyYLWdb+dbfPboG3U+BKShLYktJ9IuGR7fdAczxXD2tiZNMEivWtJoit3B4Hoo6jSky8xY1boNrzo0IbCWndf1TCd5vgVM+b8M5LlHhloo3WkBxy7w8QmEOqB2TjUxXniLMatnCIGpTouplO1G6X2O0wR9PY3VbCj7t5OVPwkUll4hgkU=;IgAHbFrLRfjzIjigz8tuYg=="
 ---

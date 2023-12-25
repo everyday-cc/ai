@@ -147,15 +147,6 @@ related:
         width: 450
         height: 397
         isCached: true
-  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
-    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
-    publishedDateTime: 2023-12-20T19:44:00Z
-    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 32
   - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
     excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
     publishedDateTime: 2023-12-21T12:37:00Z

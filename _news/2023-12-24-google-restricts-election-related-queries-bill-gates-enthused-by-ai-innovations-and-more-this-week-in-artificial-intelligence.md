@@ -33,20 +33,6 @@ related:
         width: 752
         height: 379
         isCached: true
-  - title: "Google to limit election queries Bard and AI-based search can answer"
-    excerpt: "Google will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run up to 2024 US Presidential election. The restrictions are set to be enforced by early 2024, the company said."
-    publishedDateTime: 2023-12-20T20:52:00Z
-    webUrl: "https://www.itnews.com.au/news/google-to-limit-election-queries-bard-and-ai-based-search-can-answer-603614"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/USelection.jpg"
-        width: 725
-        height: 482
-        isCached: true
   - title: "Alphabet to limit election queries Bard and AI-based search can answer"
     excerpt: "Alphabet's Google said on Tuesday it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for, in the run-up to the 2024 U.S. presidential election."
     publishedDateTime: 2023-12-23T14:56:00Z

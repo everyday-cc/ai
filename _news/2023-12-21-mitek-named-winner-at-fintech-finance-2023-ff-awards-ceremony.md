@@ -161,15 +161,6 @@ related:
         width: 450
         height: 270
         isCached: true
-  - title: "Top 7 Fintech Trends Predicted for 2024"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-12-20T19:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/25427/top-7-fintech-trends-predicted-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "kIH90zzRxSB5/KYDSmX7FqZXQAXpaHB0RIpmpSxxKiOhO7bUhw8s2VJfnAp4qEbGtU0CQ4kDHyH5GxXDOwccJxERj5sFe28kPS9A/DcOx8Bw1EYfkVIxgt59upyVujfh+1L5n6hrgFpxCVsZlR9RomxQIaZyvs0SzLwK15jZaI3yfGc7kUX3spTCn1IUiukTFESQtR+xLaqvlN5Uzb52nyIwginUiCXt6+sCkHLH5SQl45um2j3k9YfgT7zpxxLfi3bDEsmEqqnDipumaPUm6lfcF+qCfQoWukd8OFrN7yvi0+L04SDcTz+mBJF+OzTTDkwul8U7mWyv3WnbSmcJIxZoDY8TQ8eZNj950+RBqc8=;PHaLEwsIyLTExPY4lFH0bA=="
 ---

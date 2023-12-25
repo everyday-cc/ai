@@ -152,15 +152,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
-    excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
-    publishedDateTime: 2023-12-20T19:44:00Z
-    webUrl: "https://bgr.com/tech/i-never-wanted-to-make-music-but-microsoft-copilot-ai-could-help-with-that/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 32
   - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
     excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
     publishedDateTime: 2023-12-21T20:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wmnf.org/florida-legislature-consider-ai-issues-outpac
 webUrl: "https://www.wmnf.org/florida-legislature-consider-ai-issues-outpaced-government-regulation/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -26,50 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Florida lawmakers could look at regulations for artificial intelligence use"
-    excerpt: "Among the bills filed ahead of session: requiring a disclaimer on political ads that use AI-generated content."
-    publishedDateTime: 2023-12-20T22:14:00Z
-    webUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/"
-    ampWebUrl: "https://www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/florida-politics/2023/12/20/artificial-intelligence-ai-political-ads-regulation-technology/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 57
-    images:
-      - url: "https://www.tampabay.com/resizer/_gX9Wb5jIYkcOcbEosJkK2XdOOs=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/7R4G3W4FFX2GUDXETZO6XJPTEI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Florida taking steps to regulate Artificial Intelligence in 2024"
-    excerpt: "Florida lawmakers have filed several different proposals to keep artificial-intelligence-generated content under control."
-    publishedDateTime: 2023-12-20T20:28:00Z
-    webUrl: "https://winknews.com/2023/12/20/artificial-intelligence-florida-senate-2024/"
-    type: article
-    provider:
-      name: WINK NEWS
-      domain: winknews.com
-    quality: 41
-    images:
-      - url: "https://winknews.com/wp-content/uploads/2023/11/Artificial-Intelligence.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Campaigns are using AI. These Florida Republicans want to do something about it"
-    excerpt: "Generative AI has become widely accessible through programs such ... speech recognition, decisionmaking, and translation between languages.” Gruters’ bill would define artificial intelligence systems, in part, as “perceiving an environment through ..."
-    publishedDateTime: 2023-12-21T11:17:00Z
-    webUrl: "https://www.aol.com/campaigns-using-ai-florida-republicans-161733434.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_miami_herald_mcclatchy_670/39370932384a8eceac803ae709537aa3"
-        width: 1140
-        height: 760
-        isCached: true
   - title: "Florida legislature looks at defamation, election integrity dangers of artificial intelligence"
     excerpt: "TALLAHASSEE — As access to artificial intelligence, or AI, continues to spread, state lawmakers are poised to consider ways to set up guardrails around a technology that one senator said has “outpaced government regulation.” Measures filed by Senate ..."
     publishedDateTime: 2023-12-21T16:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -166,15 +166,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Top 7 Fintech Trends Predicted for 2024"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-12-20T19:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/25427/top-7-fintech-trends-predicted-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "hQNqnlOWT69ayNW0+bkCBVhQ8QmnunPOWjjICeygCAIbdHYWqfvVhjdnRGJ1qfDZCoJ8seMzbBPU0TOyx6Dd/UB7Eg9Bo08oA3Nm76eHnkwVV6Onc0vth+HKP8CqLHYeYQzAF1W8mDX9/ScMQoU9uXDdHjFCYuFVdzVd/H5CabE0QbsQRXXt3RkZTeFgODMwgOI2UHkQSUjYpmL5D8mW+JoSY8dWRovhKFz0cx9bO4+oRwJq2UKwEr6pZN/US/5SKN4+ufJbVhiHHCASOz2OFSV6BILHu+p7E+iI2dN6pdmujeWJ7ck3vQc3j804hTdjXvamEESNb5OOtjfMxzI5UdDBXWHgo0rRnkzR95ZZGuQeehmjGWAHe2i91+Q+BxZRg/lzmXLwy1P80qa20XklImPGIAuA2adLstoNjIkBkJLJx5E3Ae+lDc6i7CbbQlCmDG/WyGHG/x4kivevtM6j6LbfUpQwQH7H9oEZp8jRr5u3yU5HarIH4WIc2EBcGXgoMMkfScLr6/7QwHR7vjTMBQ==;w9r4S06LzEvcUdOXpgOt0w=="
 ---

@@ -18,17 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Mercedes Invented a Way To Easily Identify When Cars Are Self-Driving on the Road"
-    excerpt: "With regulatory approval, Mercedes-Benz is able to add a turquoise light to its cars using its Drive Pilot self-driving feature."
-    publishedDateTime: 2023-12-20T19:15:00Z
-    webUrl: "https://www.inverse.com/tech/mercedes-benz-self-driving-car-drive-pilot-light-indicator"
-    type: article
-    provider:
-      name: Inverse
-      domain: inverse.com
-    quality: 0
-
 secured: "jES5WfQnEIzaXN2MZDrSwz4bC11sVR2qUxPNu1jWRmwoCVhfYeNszIrUGTef+w1jJoiDaUuoH9MDIvmk+Rrbo69B9pWJwgc1ZdXpXczAgK7ow6mgkbQLqjM9nZpUMe1tE6P+HzePUEKyp13tRpvwi1oNmx31tpjj8Rrug0oX8/YhN8klAQrkg3CJobAad5VhV0ShGcOU0vk1uQD0QSsQMnViahkBCIbQSZapU6qX+oxouU+7nN2UKBNj2inTGmIfurrU3URAdcMvwuVm4zwWonewp5WUQ0a/ATUEARA7SfeLEbdT3PdFat+ByljHOJNcs2PpoaU8PmhTsua30ua6VZspYoGwKwMGl4X4fXxTw2N9dbPOhiRkxtlC2lOlXOC7LMNlg44hUGQJiLQTGyqaYnW0VLzZJOE2izmyOWeM9Oe9cxGlO51EgH6UagLZcSbY6rpCDzKqjoGE2Q31ny4no47WxCQwqSwrTSdGr7k4oyIbQYt0WtnrAwrFhf3oCtD3woraS09x86PiHnqe7jiHZA==;0DwbMJALeOZ/s6bfT12tTA=="
 ---
 

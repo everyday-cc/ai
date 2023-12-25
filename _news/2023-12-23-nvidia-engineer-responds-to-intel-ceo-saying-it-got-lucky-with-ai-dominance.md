@@ -100,15 +100,6 @@ related:
         width: 620
         height: 467
         isCached: true
-  - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
-    excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
-    publishedDateTime: 2023-12-20T20:23:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-ceo-nvidia-got-extraordinarily-lucky-in-dominating-the-ai-market"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 18
 
 secured: "zQg/n40d7/NhuRMy6CnGOh2fsF9ylWZvFEZCSLVQQ3Y1Ojy+1N/ioW83U4Fc5U7+BttT/G5lzD7c+kekox5Jd+fa4MhXGkBssooVYLctkDzbUo/BXz+oSKSfnN272xWr3LXclXVL6D54hef0gV9gSdx209zgpe3bEEM9CUtsdKdTQV7kRnomUlxWzYD9AxwQNi5JpWywoTCF5YsSLhntqRlMdT43cWWC6zeYZWl15yY7ps8UyT9vTM/3GQqnVQMlJT80Fw3ZaE2ZovLcRqgEl/RpweEmNjzCvMm+kB55L/SIeLaJLvpgTnOeEdnjWdJ1PF2DW0snTKiGBUDe0iOck4JtfMPN/m3o/xfrX57MF83hqZj1uB6p8VtGe7HSQgj8coY3xCsFqYsjNuuacEoDcMBvDO/BlHlUAw6VpGnZ5e4SoM1WDh5iNjt7fDjFIurIdsBK0nArSOATsOXhbuI5pnx1BiBcDfqcUqih/BqOjPEQgCHgMlp5pYqJr2dmNoo7jUhqVneNfgv5IQSr2rjWuA==;xCKv+YYfB5bqmZnaBXBBjg=="
 ---

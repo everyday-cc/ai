@@ -162,15 +162,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Top 7 Fintech Trends Predicted for 2024"
-    excerpt: "Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
-    publishedDateTime: 2023-12-20T19:20:00Z
-    webUrl: "https://www.finextra.com/blogposting/25427/top-7-fintech-trends-predicted-for-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "3WnE+ddBuD5S8vP/K2xkQm7B3PYsCIXBCBwB+PGuO0urNmtG+ZLkBIp0mKGCEW6wnuhxG3Vq/0I43oI4DtAzNNKAE0Ytm7eAjbWbGI1isibM8rSesrtmi+2hU3STpNrekddKQ3MFms7OMHvxKsF+qkcU24RcSkWYBoDBA/CaHKxdZmIqsU/Xj35sKKYHzZM1AZKLRSzIrzLUyr7WAqdp1ZS/0hwPLQ7kXcvHAWh8QG+vVfAA83je+1OpNVUKCzKgzJlYuZ3uYG6NGo4B/FA/LY2zwNwPTw1424hIYcsqObF269ChuKunbLnypKl0XdFc8ijXZ81x/3gyWQd6izinW+H4e4+xkSYqu1BE/PqaOrk=;3q/c+WUSqWCBfq1U7B1Iug=="
 ---

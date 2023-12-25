@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "AI tech: Paytm will axe jobs to cut costs"
+    excerpt: "One 97 Communications, parent of fintech firm Paytm, on Monday confirmed a “slight reduction” in its workforce as part of cost-cutting meas."
+    publishedDateTime: 2023-12-25T22:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/ai-tech-paytm-will-axe-jobs-to-cut-costs/articleshow/106275666.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/ai-tech-paytm-will-axe-jobs-to-cut-costs/amp_articleshow/106275666.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/ai-tech-paytm-will-axe-jobs-to-cut-costs/amp_articleshow/106275666.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106275617,width-1070,height-580,imgsize-35592,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Paytm Layoff: Implements AI-powered automation, resulting in workforce reduction"
     excerpt: "To achieve EBITDA-level profitability, Paytm has reportedly generated free cash for the past two quarters. The company's leadership further anticipates that this trajectory will persist, and further emphasizes the potential of AI-driven initiatives to contribute to sustained financial success."
     publishedDateTime: 2023-12-25T08:18:00Z

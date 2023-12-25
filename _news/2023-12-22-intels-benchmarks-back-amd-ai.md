@@ -92,15 +92,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Intel CEO: Nvidia Got 'Extraordinarily Lucky' in Dominating the AI Market"
-    excerpt: "Gelsinger's comments came in response to a professor who asked what Intel was doing along the lines of AI hardware. This query prompted Gelsinger to recap Intel's ill-fated history with GPUs and \"throughput computing\" (as opposed to scalar),"
-    publishedDateTime: 2023-12-20T20:23:00Z
-    webUrl: "https://www.extremetech.com/computing/intel-ceo-nvidia-got-extraordinarily-lucky-in-dominating-the-ai-market"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 18
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
     publishedDateTime: 2023-12-22T20:30:00Z

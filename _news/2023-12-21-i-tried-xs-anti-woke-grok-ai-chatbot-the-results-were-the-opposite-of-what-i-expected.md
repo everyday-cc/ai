@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google rolls out upgrade to AI chatbot Bard across UK"
-    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year. Google has launched its revamped artificial ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/google-london-deepmind-alphabet-chrome-b1127806.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 39
-    images:
-      - url: "https://static.standard.co.uk/2023/12/19/00/13113044-32ea5ee0-efc1-4c05-a422-6b8218486e6e.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence Chatbot Outperforms Clinicians in Diagnosis Probability"
     excerpt: "AI chatbots outperformed human clinicians in probabilistic reasoning when estimating the probability of a diagnosis following a negative test result"
     publishedDateTime: 2023-12-21T08:59:00Z
@@ -58,6 +44,15 @@ related:
         width: 821
         height: 497
         isCached: true
+  - title: "Google rolls out upgrade to AI chatbot Bard across UK"
+    excerpt: "Google boss Sundar Pichai has hailed Gemini as its ‘most capable’ model yet and the biggest upgrade to Bard since it launched earlier this year."
+    publishedDateTime: 2023-12-21T14:23:00Z
+    webUrl: "https://www.theoldhamtimes.co.uk/news/national/23998714.google-rolls-upgrade-ai-chatbot-bard-across-uk/"
+    type: article
+    provider:
+      name: theoldhamtimes
+      domain: theoldhamtimes.co.uk
+    quality: 19
 
 secured: "uv2dNvL4qElBFpF+ncwFQmSUqydB17HPvDl/Y46RV/dgrdE+QjwPjEuHaFypLBcBH16YVtZUGPnczsaJGx/MJkLd7q2oLl2v4ZEVngtLufnEnzyU9/W0mN/EDFb2ooBj5DsQy6C7CA0yuT5G+HwvgMAaZP8MiIFwmEL4EQrNO3ngLsCunUi3a7uE41MlThVozCHbdUwx0OdR7m2cU7NOqCAauS5C4tanPdbfJKw5/zWfv/+pXF3d/7ehW+3wiPfZ4NjYSsaiNMRm5Hsc9EwlZTkN/jAnr4Vil5zsD1AsBW9XZ2ZXH3NTtDYv0snna8Qtf2hOl3gVTknksqDtw4IO9F6vRLe1dy2W7ID4+YO8iJJrVx+F7sJALlSKHK14uyvcxEB3WILoKDYZKVzgYQZ45AS2SQuLFaj3YSCYd+f6MPdfcZUeLD2nUa6mKSrEmceREoAhxQ8peoiNW2lEIdAZ6Xgqr3VFroOa40XIqCWxexwh7NjoFeKVytasaYJQI1pOm70UXRw3dceG8jMFCjb2+w==;Xi7QPMwZqiW4dmZ98TKQoQ=="
 ---

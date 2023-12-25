@@ -38,20 +38,6 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "How one company is using AI to combat package theft"
-    excerpt: "As the holiday season ramps up, one shipping company is using AI to help prevent packages from being stolen after they're delivered. Janet Shamlian has the story."
-    publishedDateTime: 2023-12-20T21:03:00Z
-    webUrl: "https://www.cbsnews.com/video/how-one-company-is-using-ai-to-combat-package-theft/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/20/ec5cabfa-650f-45b0-8a55-5c2c624478aa/thumbnail/1200x630/2af675e06789dc217140e8941bb1a1c1/1219-en-shamlian.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PluNMwxNAAclp4hocyjS3u30Qd2FExrgeJ65vzClr8BJdmJBSCAJowHjF4FICSQ0Z0KvkKJBxd5LE2NMjQEhWN2V5BAdFlbFif0icBnvXx7d93kAAwUbJIM6S0SG4lmP4Hpm9X8NiZUJyq7L4NYEXNEpkIxTwNacLoNepCWKjKpe1N2e78mIozBEhEKyHk895Klnkh7Km4GhvltyN0mejxtCe8GtDDkuY2MEzI48+XJ0tM3CfqEZ92SzFnFmQ++xCuRgzvUj4QtO0/JuSfURxQXNCN812DwyD3quuOM82O+kCcYlbWqoPXja/K+K6XKqo061nLkvTvxsfgX+5NOtkMsS/JekHY6ChW5NLHRH2BtqNFqZ7Hn0nXbgyw1OjsSxL7ao8V9OuqbRDRa7NhbGAdrbN/bLttIFCwVtFzaKl6kdBcm8BYdrDKWsV7sBrPyFrpVLxHqSaUACZuUVeROnToSDKX/ByPS2TgNFlgjEyrBvHBaWBiltZNMsYIv2qWuKwoNQaDM5C6yFRt4csmgTvg==;9QWWWb5MTyYa5fgdXKuEjA=="
 ---

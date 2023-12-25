@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rite Aid to face five-year facial recognition technology ban"
-    excerpt: "Rite Aid is banned from using artificial intelligence facial recognition technology in all of its stores for five years after secretly using it on customers, and wrongly accusing many of shoplifting."
-    publishedDateTime: 2023-12-20T21:00:00Z
-    webUrl: "https://www.nbcnews.com/now/video/rite-aid-to-face-five-year-facial-recognition-technology-ban-200656453996"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo200656453996"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo200656453996"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 104
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2023_12/1703105965146_now_daily_b_tech_riteaid_231220_1920x1080-b54ugy.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Rite Aid’s A.I. Facial Recognition Wrongly Tagged People of Color as Shoplifters"
     excerpt: "Under the terms of a settlement with the Federal Trade Commission, the pharmacy chain will be barred from using the technology as a surveillance tool for five years."
     publishedDateTime: 2023-12-21T23:22:00Z
@@ -55,29 +39,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Rite Aid Facial Recognition Lawsuit Shows AI Risks Of Shopping While Black"
-    excerpt: "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid RAD +5.4% has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts."
-    publishedDateTime: 2023-12-22T02:33:00Z
-    webUrl: "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-ai-lessons-from-a-federal-case-against-rite-aid/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-  - title: "Rite Aid can’t use facial recognition technology for the next five years"
-    excerpt: "Rite Aid is banned from utilizing facial recognition programs within any of its stores for the next five years. The pharmacy retail chain agreed to the ban as part of a Federal Trade Commission settlement regarding “reckless use” of the surveillance technology which “left its customers facing humiliation and other harms,"
-    publishedDateTime: 2023-12-20T21:00:00Z
-    webUrl: "https://www.popsci.com/technology/rite-aid-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 53
-    images:
-      - url: "https://www.popsci.com/uploads/2023/12/20/Depositphotos_616971216_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Rite Aid can no longer use facial recognition after 'reckless use' of the technology, says FTC"
     excerpt: "The pharmacy chain was barred by the FTC from using face surveillance after incidents in several cities, including Philadelphia"
     publishedDateTime: 2023-12-23T18:19:00Z
@@ -89,29 +50,6 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 44
-  - title: "Rite Aid banned for 5 years from using facial recognition technology"
-    excerpt: "The pharmacy reached a settlement with the Federal Trade Commission after the agency found Rite Aid used the software to unfairly target people of color."
-    publishedDateTime: 2023-12-21T12:48:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/rite-aid-banned-for-5-years-from-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
-  - title: "Live facial-recognition cameras catch 22 criminals in one day"
-    excerpt: "Ministers are pushing for live facial-recognition cameras to be routinely deployed in town centres across the country after trials found they can catch criminals in just a fraction of the time it would otherwise take. Chris Philp, the policing minister ..."
-    publishedDateTime: 2023-12-24T07:02:00Z
-    webUrl: "https://www.thetimes.co.uk/article/96793cf2-95b3-4baf-8532-c18a362fb3b5?shareToken=d8605e3b3936558dc9ee361f3bb55f52"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F904dbc01-748e-4cee-8d7c-941dee8c27ca.jpg?crop=1600%2C900%2C0%2C0&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
     excerpt: "The technology sent alerts to Rite Aid employees either by email or phone when it identified people entering the store on its watchlist."
     publishedDateTime: 2023-12-21T13:07:00Z
@@ -121,15 +59,6 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 20
-  - title: "Live facial-recognition cameras catch 22 criminals in one day"
-    excerpt: "Ministers are pushing for live facial-recognition cameras to be routinely deployed in town centres across the country after trials found they can catch criminals in just a fraction of the time it would otherwise take. Chris Philp, the policing minister ..."
-    publishedDateTime: 2023-12-22T21:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/96793cf2-95b3-4baf-8532-c18a362fb3b5?shareToken=0a9f28459f1a279bc7650383d81c0351"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 4
 
 secured: "mUlOXo8uouBX4jBXstcunOZdqpNeKRepZtzk+4QxDkujPmgFYG/UaPHfTdU5Db5PqEzbc5ZnFigCJFNsguW/Cc/IkMhRkzDiYFiYHs75CZd39zaZEEOTv7TJysMZ/iy8aVzYefPxi8+8HhxDmo23dx92/W1Mk2SNN4ZM/bXweW5Dn1U3ZHU+M2xZtZ0lzFJNYQ1YdJI/K8tRPiMp3OXYf6h0Rm6/vLVRN7D+gCMX9lTmtNjet/TMv/odr3kFIGvtIYjF7c0jxTyZ88dllxi3XJSjZQnxkCTz8boOS6klcnKr1HCyrnOaQ18sFnVu2BdhJPXx8w+xW553ow0s89nlyN2mjqd4yOmlR+ybT9rGcjdcem8nGFbW2QxSZ8Xj4EGU3b1+CYl4qVeZ3tYRYqvE621AqSyGSBQp1wCIndNuAZednJIzBOEAsvbfBAb2UCdscdc6BVQcxH6sEFC8DtcUKHBeZcaNLG98xWLH/nCs3lQArRP0tEbk21ywzaYeIATgU1DvM2b3pDu5ihDkQPYvgg==;H1Hk85RkADTsfICIF9M3mA=="
 ---
