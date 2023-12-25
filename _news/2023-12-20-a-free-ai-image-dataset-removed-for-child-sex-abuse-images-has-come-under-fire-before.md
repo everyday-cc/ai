@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-chi
 webUrl: "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/"
 type: article
 quality: 61
-heat: 121
+heat: 101
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "Large AI Dataset Has Over 1,000 Child Abuse Images, Researchers Find"
-    excerpt: "A massive public dataset used to build popular artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, a new report from the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-20T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-20/large-ai-dataset-has-over-1-000-child-abuse-images-researchers-find"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "Researchers find more than 1,000 child sexual abuse images inside AI image generation training data"
     excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
     publishedDateTime: 2023-12-21T02:02:00Z
@@ -95,20 +86,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 41
-  - title: "Artificial Intelligence Harmful Images"
-    excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
-    publishedDateTime: 2023-12-20T11:05:00Z
-    webUrl: "https://www.goshennews.com/news/national_news/artificial-intelligence-harmful-images/image_c5c2962b-f7ec-591e-a0af-3cfe58aad6eb.html"
-    type: article
-    provider:
-      name: The Goshen News
-      domain: goshennews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/c/5c/c5c2962b-f7ec-591e-a0af-3cfe58aad6eb/6582dcf474c94.image.jpg?crop=1690%2C887%2C0%2C169&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OaPjD/rILoa76bjPdY/QD2H1Iz1xGqXaI35apYCz0VQ8z1WwT/VcxlXGLf5iL59VMYJ66668rU4GtUpbwjASN/7GzgDX+0Nd1DpdSoeDN5MWZ2NBS/Gi9d3LkY+BCJxR5J1QqCUGtXCkEspQ9AYntvO6GAVyNVt8FFs7Ompu4rInXT5cfldWUnJCtg5OPdXWDJoO62MhS8tAP/7FqaRkZYRLeXMhW6bsrbAeW3uZVY9WDxyVRXhX24fqm8icv//poVZwKvT3nUjPohTzU/gi/Hpp5cOtoblyh734Raj+ltDKCykze1JX5Gi7PHeMvKKB3Jvfj8TCKWGnvx6nERWTUZD9XK4rxG/WGHhFw+eFHqQah+2NBs0zUUSshCYm5pid1OZphv8jSA7Xmz6DA2tkMw7tERPBbvIw8EQ3/d1c4a3ujgaLSyVkvppD7GHDCIotDj8FJoJta1CdVL/G3CwTBNCVYDK6obzHl0KqJKS3REVc2bYSePMlw91XStNgzuLf3IZuZlYWCNMYY/y1dcBxQg==;l0TCvRMbsXE6P1wZnRHyWQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-fa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
         width: 1472
         height: 832
-        isCached: true
-  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
-    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
-    publishedDateTime: 2023-12-20T12:06:00Z
-    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "Ul7fGHTfrF7RQe5M4uacMfiSQrOQ0JKH1uDX1OFHxHzn4e7FBGp4LHslHUeKxFEjJfh/9TLcrE9EfqoGVHJd2c2U8RoFJeMk4RDi2ZlQi7uYhFrHCTX5rKZsOb2jtjgjBrPXGjZ9GSenJscoesyvT9h95dmNGLfsVK8Kpjz0HFGyZuHOlDpW6vbZfKXaCKbThuSRjrS0M/nwSg6YvFfOx6RKMgjYzIjbPdoNjCZyq2F1R6VgmSNir3099G/wEjpAEA6ACaWyQ+7i4MOllKxi35NgJeeJWIhO93g1EELWq5hzFOzC7OWSHU+unU9oR+FDFUK0IGh+w6nc7DmhIDs1NmWrtRCpQA5/IHW/TfRTAF0=;2pnd0icUiYKu0ZfaEnSexA=="

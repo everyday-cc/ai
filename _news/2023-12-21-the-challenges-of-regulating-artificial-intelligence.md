@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Four Essential Challenges To Be Prepared For When Adopting AI"
-    excerpt: "For your AI product to be compatible with other solutions, you may need to adjust your technology stack, skill set and even workflow."
-    publishedDateTime: 2023-12-20T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/four-essential-challenges-to-be-prepared-for-when-adopting-ai/"
+  - title: "Busting 3 Myths About Teaching AI in the Classroom"
+    excerpt: "While there’s nothing wrong with that scenario, it doesn’t have to look that way, educators and experts say. Teaching AI can start as early as kindergarten. Students can learn key AI concepts without plugging in a single device. And AI can be applied to just about any subject—even basketball practice."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.edweek.org/technology/busting-3-myths-about-teaching-ai-in-the-classroom/2023/12"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: Education Week
+      domain: edweek.org
+    quality: 39
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/8fabc7e/2147483647/strip/true/crop/2000x1297+0+0/resize/971x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F38%2F07%2Fe44f8c6f41e1afbb72e8b3f07072%2Fmyth-ai-1454707439.jpg"
+        width: 971
+        height: 630
+        isCached: true
 
 secured: "uciMpgMayXAx+y9awOsLFae8J7EYIMV9Knw+9dPqh9gG+Ho88lDXQIljs45Xi6XoDhmgO+00jvUUzvdBR6UwlLxqSl3vvDolojbZHWooCzTsHaY/nZtF/jql0k91r4sYQxToAqEyLoyMa4Z3EqW90wr/8ZFvCG9G7FStEegOc2nPDuHVgpd2LaSeq32WZyNoirHKQtXEJBdDh+ZMNSdi9epp8RKIt9mUKkDZb5WKtR+pdDVpgT1D1rac2nDOlUuA3WndabM+kvHzNI3qO/mPRBFl8rlECkhPtmNLxNPqTG8P6itOpLOQaP8/jzxyLahdwnn8fo7REajV9BhLlvPPSBhrDcoDxz9uzlWzexZasyHP5Du78Md6C7HId1q3CVn4F6Kb9CQHNCqYZRhG8gpXBqmMS7/ouD41FwJrFgvh7qNtTfmi5yZTY8Y+YW26DzI/kDJ1TsVQxoCHMyM82orpGrDn7rd9LCc70xbSEP+tZS2XI1G/RiprO0w2go4aXWeMmsgcWRXM2GHxCZkfstewDA==;mxcIPasNnChtKCQ2vHkEcQ=="
 ---

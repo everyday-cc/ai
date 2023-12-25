@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-21-uk-supreme-court-rules-that-artificial-intelligence-systems-cannot-be-registered-as-patent-inventors.md",
+      "title": "UK Supreme Court rules that artificial intelligence systems cannot be registered as patent 'inventors'",
+      "excerpt": "The Supreme Court of Britain has ruled that an artificial intelligence system cannot be registered as the inventor of a patent, asserting that \"an inventor must be a person.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
+      "originalUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9968e609-43a3-47a6-93db-4c3223da9b66/074b4cdd-86de-4969-9373-ae511a249962/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
+      "publishedDateTime": "2023-12-20T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-getting-the-most-out-of-ibm-cloud-vpc-images.md",
+      "title": "Getting the most out of IBM Cloud VPC images",
+      "excerpt": "Images are used to create instances on IBM Cloud VPC. Depending on your needs, you can select a stock image, custom image or catalog image.\nThe post Getting the most out of IBM Cloud VPC images appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
+      "originalUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:10:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-2023-at-google.md",
       "title": "2023 at Google",
       "excerpt": "Explore our collection looking back on some of our biggest moments and milestones from 2023.",
@@ -209,49 +302,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-21-revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning.md",
-      "title": "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning",
-      "excerpt": "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "originalUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-20-3-ai-trends-that-every-leader-needs-to-know-for-2024.md",
       "title": "3 AI Trends That Every Leader Needs To Know For 2024",
       "excerpt": "As a leader or manager, you need to understand the key trends that will shape 2024 so you can make informed decisions and realign strategies for your workforce.",
@@ -312,7 +362,7 @@
       "originalUrl": "https://venturebeat.com/ai/a-free-ai-image-dataset-removed-for-child-sex-abuse-images-has-come-under-fire-before/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -490,6 +540,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm.md",
+      "title": "WiMi Announced the Optimization of Artificial Neural Networks Using Group Intelligence Algorithm",
+      "excerpt": "This algorithm facilitates the process of determining the network structure and the training of the artificial neural network. The group intelligence algorithm is better at finding the optimal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group",
+      "originalUrl": "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1123,102 +1207,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-2024-election-google-to-restrict-queries-from-bard-ai-based-search.md",
-      "title": "2024 election: Google to restrict queries from Bard, AI-based search",
-      "excerpt": "Google will restrict election-related queries from Bard and AI-based searches, Reuters reported. The announcement from the Alphabet company comes ahead of the pivotal 2024 US Presidential election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search-11703033406851.html",
-      "originalUrl": "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search-11703033406851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/20/1600x900/FILES-US-INTERNET-TECHNOLOGY-GOOGLE-0_1703036494739_1703036516954.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html",
-      "publishedDateTime": "2023-12-20T01:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-new-generative-ai-powered-saas-security-expert-from-appomni.md",
-      "title": "New generative AI-powered SaaS security expert from AppOmni",
-      "excerpt": "Users can ask the SaaS assistant security questions and receive, in plain language, critical data and remediation steps.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/",
-      "originalUrl": "https://venturebeat.com/security/new-generative-ai-powered-saas-security-expert-from-appomni/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_vector_art_of_colorful_data_pipelines_7e9c4b03-374e-4ad3-beb1-2dc622ac9ff0-transformed.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T01:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

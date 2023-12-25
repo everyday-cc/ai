@@ -3,12 +3,14 @@ category: news
 title: "AI Discovers First New Antibiotic in Over 60 Years"
 excerpt: "For the first time in over 60 years, a new class of antibiotics to treat drug-resistant staph infections has been discovered using artificial intelligence (AI) machine learning; a landmark breakthrough to address the antimicrobial resistance (AMR) crisis."
 publishedDateTime: 2023-12-24T14:18:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
 type: article
-quality: 17
-heat: -1
-published: false
+quality: 57
+heat: 87
+published: true
 
 provider:
   name: Psychology Today
@@ -16,6 +18,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic10181111.jpg?itok=swzVv9Ia"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning"
@@ -32,25 +40,30 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Catalyzing Drug Discovery with Explainable Deep Learning"
-    excerpt: "Published in Nature, the peer-reviewed paper, entitled “Discovery of a structural class of antibiotics with explainable deep learning,” was co-authored by a team of 21 researchers, led by Felix Wong,"
-    publishedDateTime: 2023-12-21T20:18:00Z
-    webUrl: "https://www.labmanager.com/catalyzing-drug-discovery-with-explainable-deep-learning-31554"
+  - title: "AI discovers new class of antibiotics to kill drug-resistant bacteria"
+    excerpt: "Artificial intelligence helped screen millions of chemical compounds to find a class of antibiotics capable of killing two different types of drug-resistant bacteria"
+    publishedDateTime: 2023-12-20T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2409706-ai-discovers-new-class-of-antibiotics-to-kill-drug-resistant-bacteria/"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Drug Discovery Using Deep Learning"
-    excerpt: "While AI continues to make an impact, it is also limited by the many black box models that obfuscate the underlying decision-making process."
-    publishedDateTime: 2023-12-20T22:41:00Z
-    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/drug-discovery-using-deep-learning/"
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/20154428/SEI_184756832.jpg"
+        width: 1350
+        height: 899
+        isCached: true
+  - title: "MIT Researchers Leverage AI To Identify Antibiotic That Can Kill Drug-Resistant Bacteria"
+    excerpt: "As bacteria continue to evolve to withstand the effects of antibiotics, it has rendered bacterial infections more challenging to treat. The issue of"
+    publishedDateTime: 2023-12-21T20:49:00Z
+    webUrl: "https://www.datanami.com/2023/12/21/mit-researchers-leverage-ai-to-identify-antibiotic-that-can-kill-drug-resistant-bacteria/"
     type: article
     provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 19
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
 
-secured: "D1jQDlM1PQFf45z0jVsvnYr0czo0ygDqf0HHyxNBJHMv1/JwlhDWMDwF2qAYB2FVWhMw7exYC9hxd5U138ixSX4QGZC+d0yZXU3Sy1LOX6jUqvjeXHY+xbildlDu8JTeol31/yxLxxEt1TIEx3keQ5VkW4BzEGHVqAnGsjTljaKOXBJAY33xgLbNfhggeLAzs8DVXZeYsdAfSMgy8m1JNP2+CRBLaZNRn8BIO9sqsuqPdTlbOlNhKbjcYT0NiTSjCRyicNJ1BowyQo6kDaxA3KwExSqKymhplgvyb72lJZHL/tApNdfx/TVJNOokwwKy9HRQqH42i9XX/74HiJZuo43Pma+dsSLnw1tTdIIh3SVvt9qK+v8z46mQihbmYf5kEfVMbjKI6AHFnFexKLgiqad0WoOtjKkHJLNOifyAUwFnyhosDE7MHvJuKMxKd/kV/u9tD35qHcBS7lrTq/qbS1n5dm+fsLmTWk+LWvLdmgIiHv0mgNuCVhWzmHlzqSDe3F49ZYgip3MoSZQdvtF5wQ==;vKhe6MVclG69g2uGZD99bg=="
+secured: "jm091HCII4g9tCx5yJ7/LoPxEuayTtaTBtYeyK//EucvIicqxfXv5JGrvepBMk6mBFs4p/yLtcyov/epFljJD6/m9YEQltOWzxQiBtvGt7FDnYNgqDJuPIECoawOuCDBiyGgcxYIsifOi7K322EcQE5L/OvD3ALOrm9c0d2ynWmH6WWGYdNnkURvwjkeAcdmHGbmVJT65aW6yFM09IWSxrLlD8vs147sW1cgC2OXrvUv6be9F0AQfQTCGOFvprDwI7Io0Z4DKm3x10rdjqztDyj47RUXBrZGpOewlgM2JtdTrytoSA5TdrLjZoZEeGBwDsdzdJGXRrW7gW827KqGzZGGyTRcBZSCsZUJma/APvg=;yZoEhZUnyri4EdP5o7ivhw=="
 ---
 

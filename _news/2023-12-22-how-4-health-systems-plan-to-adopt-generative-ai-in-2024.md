@@ -211,15 +211,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
-    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
-    publishedDateTime: 2023-12-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 24
 
 secured: "nJG9TYAUA+CI+4gpP4FO+Yi/OLVAFeTT0PrrqnR9hAlYY+58wEu/LZzjahqveIfUH3xDYtItTD2jb/4oPyAGKGRrqJzUKDt9gn+IExKv1X2VkjgY209RMdlcIsMuSY11QVVhrTcRzS8U6a58SrR1ddzrrtCQnhxeSpJMYYJiLrqjQd5Ll9oTOFXUXZNW9bhBks8LVNIipqcg3KfY6M+dPM9N9JXK/vt1CvNh/ucctYkJUIGhghumzvEO3TOrjGhFgIXojc+XeNwf6mEX3pfK7iwLZEqgopMypaxFyWxuj250F3jk2D7jTQePu8SXRSOVPg6zLb9EN3rqOfF8/iWNoOJIzo4echxiFdgupj5FTcE=;Eki3maXtQBVVlpm3lt7aWQ=="
 ---

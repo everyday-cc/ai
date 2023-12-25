@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2409706-ai-discovers-new-clas
 webUrl: "https://www.newscientist.com/article/2409706-ai-discovers-new-class-of-antibiotics-to-kill-drug-resistant-bacteria/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI Discovers First New Antibiotic in Over 60 Years"
+    excerpt: "For the first time in over 60 years, a new class of antibiotics to treat drug-resistant staph infections has been discovered using artificial intelligence (AI) machine learning; a landmark breakthrough to address the antimicrobial resistance (AMR) crisis."
+    publishedDateTime: 2023-12-24T14:18:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic10181111.jpg?itok=swzVv9Ia"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning"
+    excerpt: "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics."
+    publishedDateTime: 2023-12-20T16:01:00Z
+    webUrl: "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 51
+    images:
+      - url: "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "MIT Researchers Leverage AI To Identify Antibiotic That Can Kill Drug-Resistant Bacteria"
     excerpt: "As bacteria continue to evolve to withstand the effects of antibiotics, it has rendered bacterial infections more challenging to treat. The issue of"
     publishedDateTime: 2023-12-21T20:49:00Z

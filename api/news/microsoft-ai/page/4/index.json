@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-21-microsoft-an-ai-powerhouse-to-reckon-with-in-the-future.md",
+      "title": "Microsoft- An AI Powerhouse To Reckon With In The Future",
+      "excerpt": "In doing so, Microsoft became an even greater force to reckon with Microsoft now could have less reason to lean on OpenAI for future AI breakthroughs and advanced",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655be7de4854a016a0b983ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/11/21/microsoftan-ai-powerhouse-to-reckon-with-in-the-future/amp/",
+      "publishedDateTime": "2023-11-21T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-how-might-openai-outcomes-impact-nvidia-amd-intel-and-microsoft.md",
       "title": "How Might Open.ai Outcomes Impact NVIDIA, AMD, Intel And Microsoft?",
       "excerpt": "NVIDIA has already increased the outlook for GPUs astronomically based on demand for Hopper and GraceHopper chips with associated CoSWoS capacity needed for HBM. NVIDIA wins if they can redirect a few tens of thousands to the new Microsoft AI Subsidiary (in Azure) without losing customers to AMD.",
@@ -1296,50 +1348,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.md",
-      "title": "Data security firm Rubrik launches ‘Ruby’ genAI companion to improve cyber resilience",
-      "excerpt": "The company will leverage Microsoft’s Azure OpenAI, in combination with its machine learning-driven Data Threat Engine, to help discover, investigate, remediate, and report on cyber incidents. Ruby helps customers of all levels of cyber expertise through ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-105088070,imgsize-50970,width-1200,height=765,overlay-ettelecom/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/enterprise-services/data-security-firm-rubrik-launches-ruby-genai-companion-to-improve-cyber-resilience/105088070",
-      "publishedDateTime": "2023-11-09T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

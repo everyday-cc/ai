@@ -1,27 +1,20 @@
 ---
 category: news
 title: "WiMi Announced the Optimization of Artificial Neural Networks Using Group Intelligence Algorithm"
-excerpt: "WiMi used a group intelligence algorithm to optimize artificial neural networks to improve the generalization ability of artificial neural networks by optimizing the connection weights, weights, and biases or network structure. The following are the steps of the algorithm:"
-publishedDateTime: 2023-12-20T13:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822"
+excerpt: "This algorithm facilitates the process of determining the network structure and the training of the artificial neural network. The group intelligence algorithm is better at finding the optimal ..."
+publishedDateTime: 2023-12-20T13:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group"
+webUrl: "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "E3SmvpBzaCLdGv2YoHTwhueGqWmHmrSGmIP+Rg5Do5YD5u/rl5iwopIjtnJImDoKLNcFkJFlXVArpDT9lcegk6+rpewNlqvl9BOVZ6wBFqQboHMFFx4w4jv58KHA80cT7hZxTPjSsbdyiscWMneJwh8Sho6LA78bObzF3sbAMTOPYmTDZR76mVlloVWnVAXYidFT2VXwne0nrZemaGg8w+eQzRJpVFI6cYxDLs/afBDwmLbg5dS3j8in/91wLz58J5sK/Xzi7vORm3o76WiuzZreSJL8F35JurLeN+Q7EoXWfVor5A7a18n6Y+7puI/vbQ4waZz4fZlxpzebS8EerVgotANaI+55pcwdPbH+gg0=;XaqBKJbg+9PNHcYcGyhLxg=="
+secured: "99LhDqYeexQIpjF1QmMul4HIxlGFars4Awx8vjHCe0ClScinEntFEWdVsao9qEyxMZcN/XhuFCPFqjMPKQ3BuTas0Tt3OzXttGdwR1rZ8RAYpTcpC7I/lqoa6p53aSd/vUgwZugJusIHDLtYpKbGgzEZSCfpiwE9TF3mF8f6xBAQE86hNaV/aE2mAeHQInpRUYkcP8gu93/9kVHs6snak7/8jGayiXapdYfvejUoBKtzlt7FSKVN2mvmVLwnoMgJzRUA6YIVEhuPob+MX+UDNK2gedDaEt3xziSS57SR0rInNlq9MDEUeqnSAkxSbLfmt5SJ8Uca778z00kqJNT/JGA9PpEhtjkXsehjg5yWHyY=;6NthXj9+8dgi/sJo4mwv2w=="
 ---
 

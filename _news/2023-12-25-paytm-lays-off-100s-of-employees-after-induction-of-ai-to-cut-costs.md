@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-af
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -103,17 +103,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Paytm Betting On Paytm Money, Merchants & AI To Turn Operationally Profitable In A Year"
-    excerpt: "Paytm aims to generate an operating profit within a year by bolstering its online wealth management services, onboarding more merchants, along with cost savings from AI automation"
-    publishedDateTime: 2023-12-20T11:23:00Z
-    webUrl: "https://inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/"
-    ampWebUrl: "https://inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
 
 secured: "7TMnTssFKpmYI3RMvO964hH9eApOndXydO5c58LUdCxwpdZ4Y5Q2pFgotX9ELgzD50U4YSHNmBYOiWv+luq/MztHKiQdQ6/tWwFCwjnhiYxMHWD30pbt+010sngFUqFDrTlFJBKtqfgXTnbVTPb4PTrSCQc2u+6ydMiad5GduhDQvfFE604DsXZ1iJEiBUOR1Uhdxh0f4zdp2Qx0g4ZtUUVCdJTvqxAY1YOSw282H4ZGssy7Pq3ilIHQj9IWEirLZU86pg7VpyC4RLVXsZzujCoVJ+1pnDhUhKdfuFE1Qe1Qqxm4Dwzlgfgdo1OOndo92YGhIpw+UhMNRdIWJzXZIyU13IcFl2H16YHvePwUayc=;N1gxjlwxAsywNoIoSFin0w=="
 ---

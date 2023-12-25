@@ -22,17 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "iPhone 15 Pro's iOS 17.2 Update Unleashes Advanced Speech Translation with Context Recognition"
-    excerpt: "The device's Action Button now includes new technology that allows users to translate speech into other languages, representing a substantial increase in language capabilities., Technology & Science News,"
-    publishedDateTime: 2023-12-20T12:58:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/iphone-15-pros-ios-17-2-update-unleashes-advanced-speech-translation-with-context-recognition-article-106158687"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 0
-
 secured: "lN/3JMtnABAkqPjtmWYHuSM+GzJbS1cW71/tjfHqq3dPJrukwxSESKq/Ws61MtfeXTSW2GbxJG/422BM0s6jz3Dc4Ifki3e38euiKAZ03yBm3j2VP+xKUNocxFlU/Mwq4nj9auVgKwCIyGvdndxXwRAYOI7JdcH/CmkipJTKDOd5R8exzANpSK2grwPHWAFc3SJdlh34YndAh1ryFfIbmX1HCqDmPWpGZczST4lB8b4AITqpobGWoBPlwp8mGplqzQWZnivDZS1TJPJx3Ayetfd4wXONg08zj7O7Kei4yKtxRqGe5ZXtih1AF3fPSR+TkI4F1BESGsH+mfVjbXXld2CV9W06qczowmYsq4SO8gI=;447DSqeAsBnlT+ZmYYpoVA=="
 ---
 

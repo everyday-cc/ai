@@ -73,15 +73,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "Large AI Dataset Has Over 1,000 Child Abuse Images, Researchers Find"
-    excerpt: "A massive public dataset used to build popular artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, a new report from the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-20T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-20/large-ai-dataset-has-over-1-000-child-abuse-images-researchers-find"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "A report reveals AI image-generators are being trained on child sexual abuse images"
     excerpt: "Welcome to What’s New in AI, our weekly update where we bring you all the latest AI news, tools, and tips to help you excel in this new brave AI-driven world. Let’s start by focusing on the biggest (and currently breaking) story of the week:"
     publishedDateTime: 2023-12-20T19:36:00Z
@@ -91,20 +82,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 41
-  - title: "Artificial Intelligence Harmful Images"
-    excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
-    publishedDateTime: 2023-12-20T11:05:00Z
-    webUrl: "https://www.goshennews.com/news/national_news/artificial-intelligence-harmful-images/image_c5c2962b-f7ec-591e-a0af-3cfe58aad6eb.html"
-    type: article
-    provider:
-      name: The Goshen News
-      domain: goshennews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/c/5c/c5c2962b-f7ec-591e-a0af-3cfe58aad6eb/6582dcf474c94.image.jpg?crop=1690%2C887%2C0%2C169&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "c4WFT7rElkgyWgtW9zYDSRPaw219XqHB7nLthhx0SwEnGi9XztjWRwbLyOb080/mzdjBAQ0YcBNC2nxmmtl6yLQx0Y8WVTlKfX9CwPzShcL0jpFGNIeKJanp2nnOLpffIB9c5p9veiAdldre1On4GNh2S+6SwqLoaOSM+JDT7x5wBYv/VPeXuOTzvSQ1R4jODHZj9zWKS+Vnjb6YXJYEGfCTx4hLPxzH3accGw0ewnt06KUI+gF75qPftBTwDsKZyWPUDkuLmpRX1iii3vfFXltR88zTde6r+cROF+DwVp9PcSrwino5ztMYKze7Ye8hJNw8vHtp8ISXuNKb63V0XFDRLulqoStnTQrGAgHsM1d282VkN5cr44kc19xQXTXznLZMKv1jILIS3fKRejz/XdFBtg53ieVRk81vQt1fqQixy2FpAlo0f+wr4oP08BShSdyj1zQu/AM8Pe2znoSNxl0Aoc2X5RbK0YdWaoQDFKgt3OKfGuGVEjGFuXXrP8mA6KDb6tJXYi9f7leqAwo1Dw==;g7hUYbxOuuJoH5Eh1m1aOA=="
 ---

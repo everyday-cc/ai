@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Silent Bias in AI: Exploring the Troubling Reality"
-    excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
-    publishedDateTime: 2023-12-20T12:06:00Z
-    webUrl: "https://techbullion.com/the-silent-bias-in-ai-exploring-the-troubling-reality/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 41
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/AI-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "TyxnQaujRfCSf7eoK4twe53Qi9JNP/V0382HgJ+CvbVpEq4TSzUat1Eo+xMEeSVI8enK8BV8pTM7MWjmL5jox7dkMcyIacZpspqPWTqzJGdiTyD67OlJPZF28dvmS+12nG1vLJWtw2jIvBcixcviTQyMqETkYkLEJ9JlXVPh3i8nw5e75pw7tGLliEDxZO7Iz843+OQ9ZeVsvvWvzwuSjBqKO+RgfMGZXI3T4ohMTqUKSwuoSE7i1pcJNaGElU1KouwfE9vTGaytD4OafHgncJ+XpzfoKOoR6IaMY+NlZgsL06vOPoZoZG/MlLKJFHdTaHYLaSExKyeS63GbufXD2IL/Rc23B/0IYMnvkQBdFvFxsvDtIzFlhc1VbkWXCojQZB+bJNuAPwDdfWCgzRpfdsyDA34kDXcUnVm2xtgoRfhHO55B2TZxS952H8/+l2eeJgmtxtSkhwIM/WW0Jjy1SWcxMIr4vzWkpNl+8rBB0WKdk8/ob0BE0unZoJqqnP6d7s/lgl39BmbtxM5ybz1BiQ==;kuk6Tj2XcdBEax8FdEclCA=="
 ---

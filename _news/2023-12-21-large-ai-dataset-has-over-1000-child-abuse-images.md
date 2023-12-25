@@ -56,15 +56,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "Large AI Dataset Has Over 1,000 Child Abuse Images, Researchers Find"
-    excerpt: "A massive public dataset used to build popular artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, a new report from the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-20T12:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-12-20/large-ai-dataset-has-over-1-000-child-abuse-images-researchers-find"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "Researchers find more than 1,000 child sexual abuse images inside AI image generation training data"
     excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
     publishedDateTime: 2023-12-21T02:02:00Z
@@ -90,20 +81,6 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 41
-  - title: "Artificial Intelligence Harmful Images"
-    excerpt: "- Students walk on the Stanford University campus on March 14, 2019, in Stanford, Calif. Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of"
-    publishedDateTime: 2023-12-20T11:05:00Z
-    webUrl: "https://www.goshennews.com/news/national_news/artificial-intelligence-harmful-images/image_c5c2962b-f7ec-591e-a0af-3cfe58aad6eb.html"
-    type: article
-    provider:
-      name: The Goshen News
-      domain: goshennews.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/c/5c/c5c2962b-f7ec-591e-a0af-3cfe58aad6eb/6582dcf474c94.image.jpg?crop=1690%2C887%2C0%2C169&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "X0VUlxk91fdUwn7fZV18eFkqG/sxheXjK3usTawdCHzCZwh7JJJKn5V1VplUujfCY4rH81ZpIFNjAq/UpwxEyaWyih2XxvQNIh4EbeJbZKtU4uATcualFJPZ5TVw8HIsinSOjpFo1WzjUy5zelQ7+7zhb14O93t93DCWAHEvM3ayr099PqaTTE/tAPRqBlVBCfFk9KHik3cc40uxipo2za6n9N4tFRbvmjp8q9TjM9yimXni9jTcwVnrhGZRsb9dRJHAWPegQTLOUc0iE5fDrPJvLZE8oDRpCW+UbyIB4/jw55sHKgLewEGXiiL/QVx3ct6Ypd6EKKaERthwLaoEEf6anePs/rhhyBnWMDoeRrE=;OuyfX4rTRLw3Ki6BM6xArw=="
 ---

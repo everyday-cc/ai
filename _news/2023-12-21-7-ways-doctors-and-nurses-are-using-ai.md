@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "This AI transformer tech-powered robot taught itself to walk"
-    excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
-    publishedDateTime: 2023-12-20T11:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/humanoid-taught-itself-to-walk"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/DPsWRbtuTA2gmzC7Yov3mD07KgfEQeqFEWjbzHRf.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "What’s Ahead for AI In 2024: The Transformative Journey Continues"
     excerpt: "Organizations increasingly recognize AI’s role in driving decision-making and fostering growth. Here’s what we can expect from AI in 2024."
     publishedDateTime: 2023-12-21T10:40:00Z

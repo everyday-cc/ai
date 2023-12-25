@@ -47,14 +47,14 @@ related:
   - title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
     excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
     publishedDateTime: 2023-12-24T21:14:00Z
-    webUrl: "https://madison.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_f60f5b75-2149-5d99-a511-0e74ae6d0ebd.html"
+    webUrl: "https://fredericksburg.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_d7d71e9d-0951-5621-aec4-d32bd7150f65.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 39
+      name: Fredericksburg.com
+      domain: fredericksburg.com
+    quality: 41
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/60/f60f5b75-2149-5d99-a511-0e74ae6d0ebd/6581c714c83d0.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/d/7d/d7d71e9d-0951-5621-aec4-d32bd7150f65/6581c7147d042.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
         width: 794
         height: 417
         isCached: true

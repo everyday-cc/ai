@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-21-a-first-look-at-windows-ai-studio.md",
+      "title": "A first look at Windows AI Studio",
+      "excerpt": "Windows AI Studio offers an interesting hybrid of Windows and Linux tools, working across both your CPU and GPU, using the Windows Subsystem for Linux (WSL) to host and run models. It’s an approach that does demand capable hardware, with plenty of memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
+      "originalUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/user_in_thought_thinking_consideration_intelligence_strategy_by_rowan_jordan_gettyimages-1090113184_2400x1600-100858483-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html",
+      "publishedDateTime": "2023-12-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption.md",
+      "title": "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption",
+      "excerpt": "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/",
+      "publishedDateTime": "2023-12-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go.md",
       "title": "Humanoid robots with artificial intelligence have a long way to go",
       "excerpt": "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ...",
@@ -576,7 +672,7 @@
       "originalUrl": "https://time.com/6343945/ai-music-movies-art-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -825,7 +921,7 @@
       "originalUrl": "https://electrek.co/2023/12/20/waymo-says-its-self-driving-cars-are-safer-than-human-drivers-by-up-to-10x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1108,99 +1204,6 @@
         "AI",
         "AWS AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-uk-supreme-court-rules-that-artificial-intelligence-systems-cannot-be-registered-as-patent-inventors.md",
-      "title": "UK Supreme Court rules that artificial intelligence systems cannot be registered as patent 'inventors'",
-      "excerpt": "The Supreme Court of Britain has ruled that an artificial intelligence system cannot be registered as the inventor of a patent, asserting that \"an inventor must be a person.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
-      "originalUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9968e609-43a3-47a6-93db-4c3223da9b66/074b4cdd-86de-4969-9373-ae511a249962/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/uk-supreme-court-rules-artificial-intelligence-systems-cannot-registered-patent-inventors.amp",
-      "publishedDateTime": "2023-12-20T17:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-getting-the-most-out-of-ibm-cloud-vpc-images.md",
-      "title": "Getting the most out of IBM Cloud VPC images",
-      "excerpt": "Images are used to create instances on IBM Cloud VPC. Depending on your needs, you can select a stock image, custom image or catalog image.\nThe post Getting the most out of IBM Cloud VPC images appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
-      "originalUrl": "https://www.ibm.com/blog/getting-the-most-out-of-ibm-cloud-vpc-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:10:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

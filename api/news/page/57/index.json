@@ -2,6 +2,194 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-11-08-ibm-aws-set-up-innovation-lab-in-bengaluru.md",
+      "title": "IBM, AWS set up innovation lab in Bengaluru",
+      "excerpt": "The lab is open to clients from around the world to explore companies’ solutions and test prototypes and proof of value that aim to help accelerate innovation across industries such as banking and financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/business/Industry/avk4lo/article67508611.ece/alternates/FREE_320/2023-11-07T051349Z_917874144_RC2484AVDD65_RTRMADP_3_WIPRO-LTD-WORKERS.JPG",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ibm-aws-set-up-innovation-lab-in-bengaluru/article67509749.ece/amp/",
+      "publishedDateTime": "2023-11-08T05:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund.md",
+      "title": "IBM Continues AI Push With $500M Enterprise AI Venture Fund",
+      "excerpt": "IBM has unveiled a $500 million venture fund to invest in AI companies, ranging from early-stage startups to high-growth enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/11/08/ibm-continues-ai-push-with-500m-enterprise-ai-venture-fund/amp/",
+      "publishedDateTime": "2023-11-08T05:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ai-summit-a-start-but-global-agreement-a-distant-hope.md",
+      "title": "AI summit a start but global agreement a distant hope",
+      "excerpt": "The UK has also diverged from the EU by proposing light-touch approach to AI regulation, in contrast to Europe's AI Act, which is close to being finalised and will bind developers of what are deemed \"high risk\" applications to stricter controls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617",
+      "originalUrl": "https://www.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/world_news_3_69x52._800x533_L_1419494235.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
+      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/world-news/ai-summit-a-start-but-global-agreement-a-distant-hope-3222617?ampMode=1",
+      "publishedDateTime": "2023-11-08T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-08-ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office.md",
+      "title": "FTC takes shots at AI in rare filing to US Copyright Office",
+      "excerpt": "Critics are accusing the FTC of overstepping its bounds and ultimately undermining the long-held legal doctrine of Fair Use.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
+      "originalUrl": "https://venturebeat.com/ai/ftc-takes-shots-at-ai-in-rare-filing-to-us-copyright-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_vector_art_line_art_flat_illustration_dramatic_angle_si_6500c01e-6e48-4b29-b8fa-df9f7d44a111.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-08T02:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-08-adobe-responds-to-controversy-over-ai-generated-images-of-gaza-explosion.md",
       "title": "Adobe responds to controversy over AI-generated images of Gaza explosion",
       "excerpt": "Adobe responded today to a controversy over AI-generated images of a Gaza explosion that were published on several small blogs and websites.",
@@ -953,214 +1141,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence.md",
-      "title": "Actors’ Strike Continues: Here’s What’s Holding Up Negotiations, Including Artificial Intelligence",
-      "excerpt": "The union rejected an offer that would permit film studios to use AI scans of deceased performers without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a70561b74b22cb618482c/0x0.jpg?format=jpg&crop=3200,1798,x0,y17,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/conormurray/2023/11/07/actors-strike-continues-heres-whats-holding-up-negotiations-including-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-07T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-ai-helps-make-supply-chains-less-brittle-to-an-extent.md",
-      "title": "AI Helps Make Supply Chains Less Brittle, To An Extent",
-      "excerpt": "Skills shortfalls in supply chains is the top concern for 2,000 supply chain executives, cited 57% participating in a survey by MHI, a supply-chain industry trade association, con",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a6f73918f7643d7c28f87/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/11/07/ai-helps-make-supply-chains-less-brittle-to-an-extent/amp/",
-      "publishedDateTime": "2023-11-07T16:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-08-microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access.md",
-      "title": "Microsoft partners with VCs to give startups free AI chip access",
-      "excerpt": "Microsoft is launching a program that'll allow startups at partnered VCs, including Y Combinator and M12, to use Azure infrastructure to train AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
-      "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-472556610.jpg?resize=1200,797",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
-      "publishedDateTime": "2023-11-07T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-07-risc-v-gains-momentum-as-eda-ai-chip-design-leader-announces-new-ip.md",
-      "title": "RISC-V Gains Momentum As EDA & AI Chip Design Leader Announces New IP",
-      "excerpt": "Another key value add for the ARC-V Processor IP is that the company’s Synopsys.ai full-stack AI-driven EDA software and ... time to market and ultimately fully optimized ARC-V-based chips and SoCs. In addition, the Synopsys MetaWare software development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654a496df2c4e40a9aa31575/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 960,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2023/11/07/risc-v-gains-momentum-as-eda--ai-chip-design-leader-announces-new-ip/amp/",
-      "publishedDateTime": "2023-11-07T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

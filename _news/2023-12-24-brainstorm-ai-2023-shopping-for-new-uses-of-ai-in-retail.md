@@ -60,20 +60,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
-    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
-    publishedDateTime: 2023-12-20T11:41:00Z
-    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
     excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
     publishedDateTime: 2023-12-21T13:15:00Z

@@ -45,35 +45,26 @@
       ]
     },
     {
-      "path": "_news/2023-12-21-revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning.md",
-      "title": "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning",
-      "excerpt": "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics.",
+      "path": "_news/2023-12-20-wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm.md",
+      "title": "WiMi Announced the Optimization of Artificial Neural Networks Using Group Intelligence Algorithm",
+      "excerpt": "This algorithm facilitates the process of determining the network structure and the training of the artificial neural network. The group intelligence algorithm is better at finding the optimal ...",
       "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "originalUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
+      "webUrl": "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group",
+      "originalUrl": "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T16:01:00Z",
+      "publishedDateTime": "2023-12-20T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

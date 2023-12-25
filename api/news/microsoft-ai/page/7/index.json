@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-17-purplecubeai-introduces-cognitive-data-insights-a-game-changer-in-unstructured-data-processing-and-data-governance.md",
+      "title": "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance",
+      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Cognitive Data ... available on both Microsoft Azure and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "originalUrl": "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T11:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-how-does-cognitive-behavioral-therapy-work.md",
       "title": "How does cognitive behavioral therapy work?",
       "excerpt": "Cognitive behavioral therapy (CBT) is a therapy technique that aims to help people find new ways to behave by changing their thought patterns. Therapists may use strategies such as role-playing ...",

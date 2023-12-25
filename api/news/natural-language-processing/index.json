@@ -54,7 +54,7 @@
       "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -626,6 +626,49 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation.md",
+      "title": "Wondershare Virbo Unveils AI-Powered Video Translator: Bridging Language Divides with Innovation",
+      "excerpt": "Translate videos into over 20+ languages with lip sync and voice cloning. Edit and proofread scripts, and auto-generate subtitles. 300+ AI Avatars: Up to 300+ AI avatars from various countries and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html",
+      "originalUrl": "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/e7/ee771f62-8b87-54c1-9f75-a464cc01265c/657ac4559ccb4.image.jpg?crop=1487%2C781%2C0%2C28&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1365,58 +1408,6 @@
         "name": "datanami.com",
         "domain": "datanami.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-best-speech-to-text-app-of-2023.md",
-      "title": "Best speech-to-text app of 2023",
-      "excerpt": "So essentially you get the same excellent speech recognition as seen on the desktop software – the only meaningful difference we noticed was a very slight delay in our spoken words appearing on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "originalUrl": "https://www.techradar.com/news/best-speech-to-text-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/NW5VUzGuY6UiVMXmzjd4zj-1200-80.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T09:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

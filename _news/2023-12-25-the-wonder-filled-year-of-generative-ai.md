@@ -208,15 +208,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
-    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
-    publishedDateTime: 2023-12-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 24
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z
@@ -227,6 +218,6 @@ related:
       domain: modernhealthcare.com
     quality: 17
 
-secured: "0biW9xwVbciDUMLiK8R7zfRYRxu16wJ8ERhoxLAJiBO4fGJRF8ycHbtrObZ70Ow+xWQjNtXc014ZKj4gSWcnu3Ax543CLpZcB80fQetHemNH2wQNMlQHIAxJcBHKYkCUkBlrT3k5guEn8BXbW1qVv0ofRQi5UQvVxT5soL2aCJpJTxjlCyRwDQKPWu6xK+werfZk7dLTBv6K1Kxh2yRJsjfpJx66y0m5ESe8LDuxg9506ui69d4nIKmlCWUYGbw1ps5etXgH44VJh4R9K+TUe5vt2rFYxNGKemQGZobVoNJRaDDPRI4ziQpTEYjTrf5Q4EukyUYOrgde6ULOHs5AWMOKW1kmM1yiZSB6EMPAlII=;M2xvVeQJ33oRBjSioNBEgQ=="
+secured: "pCyQaCvQzk9ayQOm8LVmihzNDWAys6BrKsf+dyhB15PUEDmlHRLOqbQrNd4nbl3oD1suJWEZD+bNoJd2kIJAlDCiA4VYS3o7USp/ieza6kVNRkDmvUJkJbCEexD0bPXrhvrMz14Z9akjXkOhQ+JpTvbe+Iok3KlDdzLbxi3AdQ96JgBtVw2AgljHe2VkvCRu+LuT7BKY922qW4TSkLFyhAHxLwMeKeXCAwsuMkM5W2nEb9W7AvTZDzERxiJK2AMeCBKatLKnRVlvdRgcXWam1BpnuBGHkKQ8A0iYEhamNlqnzvxMlVk8iiyVSbEu6l3sqSrDxlOi/oGUFYKMWcQ1IENNGgTUsiFUABtnDORXCpLvH8FRXJxEMsOnrWNUgdrBLLhQmzwO/VRmb2sFWNQ6ajlf1jSboK8hxsNjF7QcPmVfSgTtjd1gMccUGAGR8TBRNn51EfLKaDbezg+eyai0/lE4+LZscsmJNDxKECrnEZZLZNEozYCoOjtcOsBEarnZ4RfwA61oK711CPPI5zm8Fg==;q+VxxTNKJPcYcZNRBjDMlg=="
 ---
 

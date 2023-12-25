@@ -62,7 +62,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -226,6 +226,48 @@
       ]
     },
     {
+      "path": "_news/2023-12-24-ai-discovers-first-new-antibiotic-in-over-60-years.md",
+      "title": "AI Discovers First New Antibiotic in Over 60 Years",
+      "excerpt": "For the first time in over 60 years, a new class of antibiotics to treat drug-resistant staph infections has been discovered using artificial intelligence (AI) machine learning; a landmark breakthrough to address the antimicrobial resistance (AMR) crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pic10181111.jpg?itok=swzVv9Ia",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp",
+      "publishedDateTime": "2023-12-24T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-24-ai-enabled-hyper-personalisation-next-thing-in-finance-industry.md",
       "title": "AI-enabled hyper-personalisation: Next thing in finance industry",
       "excerpt": "A significant catalyst behind this evolution is the emergence of Artificial Intelligence (AI), which is reshaping the fintech space in profound ways. AI-enabled hyper-personalization is becoming the next big thing in the finance industry, leading to ...",
@@ -234,7 +276,7 @@
       "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -380,7 +422,7 @@
       "originalUrl": "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -771,6 +813,48 @@
       ]
     },
     {
+      "path": "_news/2023-12-23-son-uses-ai-to-recreate-late-fathers-voice-for-special-christmas-present.md",
+      "title": "Son uses AI to recreate late father's voice for special Christmas present",
+      "excerpt": "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
+      "originalUrl": "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954",
+      "publishedDateTime": "2023-12-22T20:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
       "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
       "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
@@ -779,7 +863,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -832,7 +916,7 @@
       "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1131,111 +1215,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-2023-a-year-of-groundbreaking-advances-in-ai-and-computing.md",
-      "title": "2023: A Year of Groundbreaking Advances in AI and Computing",
-      "excerpt": "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
-      "originalUrl": "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing.md",
-      "title": "How To Maximize The Power Of Generative AI In Sales And Marketing",
-      "excerpt": "Generative AI has become a must-have tool for businesses, and its outputs can create real efficiency in countless ways. However, the outputs depend on the information that goes into it—whether that's the prompts it's given or the data it's trained on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65847e661d555578eb9149d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/",
-      "publishedDateTime": "2023-12-22T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
       ]
     }
   ],

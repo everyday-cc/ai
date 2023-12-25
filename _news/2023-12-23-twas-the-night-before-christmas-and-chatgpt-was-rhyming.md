@@ -39,6 +39,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The king’s speech: Spain’s Felipe VI focuses Christmas address on the Constitution after year of high political tensions"
+    excerpt: "IN A break from tradition, Spain’s King Felipe VI used his televised Christmas Eve address to focus on just one issue: the Spanish Constitution and the"
+    publishedDateTime: 2023-12-25T10:10:00Z
+    webUrl: "https://www.theolivepress.es/spain-news/2023/12/25/the-kings-speech-spains-felipe-vi-focuses-christmas-address-on-the-constitution-after-year-of-high-political-tensions/"
+    type: article
+    provider:
+      name: Olive Press
+      domain: theolivepress.es
+    quality: 14
+    images:
+      - url: "https://www.theolivepress.es/wp-content/uploads/2023/12/RF_MENSAJE-_NAVIDAD_20231224_08-490x330.jpeg"
+        width: 490
+        height: 330
+        isCached: true
 
 secured: "qLiby/+BjAvQBijnhZO4ngXD7ZteZHZgKE9eERT/RxrLYDsY53Zo2X2cZSyhkeOC2x/tY0O7+Cx/Hg6KmsgpGG3f29/yW1M1zHqhGodFHR9+uw7ZjLlMh6u7ulGFyO5P0ukAjZSk5s+mqR0gOlI2reHrXlsJxgtsXrEzZcRB8T3cF9tbj3FbhBDzxfGwmxpm2GK9DAbFqymM6bhLkw1dBVeIEsLQf9DzfelMKQ5+b9eu+/p91IEoiP/7NnJCnew6ZG+Mdoze+Mzd99Iy5ft1l/p2mGtR8hX1pVosqf8iHt6KX/7KrdNWTONHt+ZzJvWOzBkk5IwZ39Bw9i1pBCtIA44sn1kK3Y/FFvKoupTCocKmXd0Z23mQTeHoaUsrM7rC0x5+IM3cA8ZagnMqWJSOPvOgclImC0ICNHpWRn0pstXYzpHJyCScf/XgAZKGoZDc5c0Kx2qzkfhqHVqKlFPCMf/S8iZGlsbIqSR+rJQ/SMB6VCLdES4dRva1Qv8F6lW1my7pAQmHlpKfAONN0odAhg==;Ugh0/p9YfSPVQYTqXxYFkw=="
 ---

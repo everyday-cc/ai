@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-14-ai-startup-aims-to-give-voice-actors-a-digital-twin.md",
+      "title": "AI Startup Aims to Give Voice Actors a Digital Twin",
+      "excerpt": "Morpheme is entering an increasingly crowded market. In 2022, investors poured $378.6 million into voice-related AI startups across 47 deals, according to data from PitchBook. Some are using AI to clone voices, alter voices and generate audio from text.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Artificial-Intelligence_1696699324463_1697299539048.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html",
+      "publishedDateTime": "2023-10-14T16:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-australians-decide-against-creating-an-indigenous-voice-to-advise-parliament.md",
       "title": "Australians decide against creating an Indigenous Voice to advise Parliament",
       "excerpt": "CANBERRA, Australia >> Australians voted in a referendum today against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives.",

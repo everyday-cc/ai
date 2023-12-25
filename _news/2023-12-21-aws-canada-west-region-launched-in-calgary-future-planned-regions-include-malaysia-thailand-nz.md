@@ -41,15 +41,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AWS Launches Second AWS Infrastructure Region In Canada; To Invest $17.9 Bln In Canada Through 2037"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (AMZN) announced Wednesday the launch of its second AWS infrastructure Region"
-    publishedDateTime: 2023-12-20T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aws-launches-second-aws-infrastructure-region-in-canada-to-invest-17-9-bln-in-canada-through-2037-1032915610"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "AWS launches second cloud region in Canada"
     excerpt: "The cloud region will give customers access to AWS technologies including data analytics, security, machine learning (ML), and artificial intelligence (AI), and consists of three Availability Zones. AWS is planning to invest $17.9bn in Canada through 2037 ..."
     publishedDateTime: 2023-12-22T00:00:00Z

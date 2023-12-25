@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatmen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
+  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
+    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
+    publishedDateTime: 2023-12-24T11:53:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "dQ2h4wKgMV5W3VUWdiqQsx+uNHKBzTF9GbIWWjbYVBhayEtWmNY1bO7KZKTPxzlaAkMlYYyNFitt5yhN/q5BouBplG84X4jM387L8kDSPBo1k71FeuFS/ckUejTvJ5WxlglfQ0iQWXUelb6yaD5jVbcYGFQQSNa9muM6rttdz0Sn+dUbdFl6EZhLx8eIFwpvjQPoyMXJGGedsK7DCvBIMNygpjwXiPTltGXIhsw6W8UefqMeBt1rjOHhDXx97J71bBXIvO3NyzCs6ajXZe09D9qEFQ4YeV4XtVZfSWDuRcy1jpbDEbDcPpo85dJn7G83MX7JmRvrJW2NCSE9Myul3wOUPIC3iZjRy3Iya2d1y5Pmb+ITorxabS19AfzLD0vvLy+D2M66cXITjt9gYjQGfkrexnZXVAQmVt2qQxIul86mPLOOE/M6MrB2V23XtNFeZZXxP5imAL5gIW/ohFLcVKhbePJoKPpB0ijLJw5tkr3FszyAqGcAIeKDmrfiB9m3Bn2ECizstjlU1/smRXKwKg==;6F7hiQJMcSsb3pB1nnDHEQ=="
 ---

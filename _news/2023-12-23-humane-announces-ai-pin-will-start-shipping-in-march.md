@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google announces AI uses for health care market"
-    excerpt: "Google introduced a suite of AI health models \"instead of trying to build a ‘one-size-fits-all’ solution,\" one company executive said."
-    publishedDateTime: 2023-12-20T11:45:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2023/12/20/google-announces-ai-uses-for-health-care-market.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
     excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
     publishedDateTime: 2023-12-23T13:12:00Z

@@ -38,20 +38,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "This AI transformer tech-powered robot taught itself to walk"
-    excerpt: "The researchers allowed the bot to learn how to walk inside a simulator and then transferred the knowledge to the robot without the need for any fine-tuning."
-    publishedDateTime: 2023-12-20T11:54:00Z
-    webUrl: "https://interestingengineering.com/innovation/humanoid-taught-itself-to-walk"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/20/image/jpeg/DPsWRbtuTA2gmzC7Yov3mD07KgfEQeqFEWjbzHRf.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "7 ways doctors and nurses are using AI"
     excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
     publishedDateTime: 2023-12-21T09:19:00Z

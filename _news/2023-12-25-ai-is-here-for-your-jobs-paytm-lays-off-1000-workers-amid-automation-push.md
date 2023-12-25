@@ -103,17 +103,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Paytm Betting On Paytm Money, Merchants & AI To Turn Operationally Profitable In A Year"
-    excerpt: "Paytm aims to generate an operating profit within a year by bolstering its online wealth management services, onboarding more merchants, along with cost savings from AI automation"
-    publishedDateTime: 2023-12-20T11:23:00Z
-    webUrl: "https://inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/"
-    ampWebUrl: "https://inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/paytm-betting-on-paytm-money-merchants-ai-to-turn-operationally-profitable-in-a-year/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
 
 secured: "gy8eCZYGyEh18aR+hgTwWJPpEGb9s8vtXcmkaKbfTqh+2TfhcuAbJ1kc0pMoi19P1/AZTwcRZ3jfGIH+7z9ZdBSHNPF3hz4aYANFhrvClmiCoqO+4zlWFpuvq8Rq3Hx4dXVq+h3KGojZyZAWrBuS3CwnHNKqYNv5q9ifzbBsr7jCEBpzQJgfaHYme5prgnSxnTbJ/geudkdwKOOMt9KjpxX+5aMj+C5SM068tO+H4Vmr8gRx9Ofnpzh/ot3KwTf9Iy5RJI9v4A9gtH3kG6RSXewVbhqTC4EV0GBA5RdVIbiO5fYGE/y99MFem66LCYty/tsub50HFQ6n5A7YvTQOxEfB5XUIufMbUbUxnIACEdRHyXMUZH0bCGBkEA36zFJwvXN/yilnABdcQvK8PfjLiGVFNNl319oGrXdyfBSlnge8OOKBRgB4zXM0nLnIFOHr4KXoy6hfskXPx7ouCs1DLFHcH8cilG3AMxpdVsu9DHA5ZbqtiC/Mj6OuOt7GF9YLAO2O/qvykB5iyF0T2j5ceA==;4SJrYi8FBLmwaeijUHqtLA=="
 ---

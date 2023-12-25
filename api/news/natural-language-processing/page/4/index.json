@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-10-ai-robotics-gpt-moment-is-near.md",
+      "title": "AI robotics’ ‘GPT moment’ is near",
+      "excerpt": "Building AI-powered robots that can learn how to interact with the physical world will enhance all forms of repetitive work.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "originalUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/robustai.jpg?resize=1200,957",
+          "width": 1200,
+          "height": 957,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/10/ai-robotics-gpt-moment-is-near/amp/",
+      "publishedDateTime": "2023-11-10T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-11-10-former-apple-designers-launch-700-humane-ai-pin-as-smartphone-replacement.md",
       "title": "Former Apple designers launch $700 Humane AI Pin as smartphone replacement",
       "excerpt": "The Humane AI Pin attaches to the lapel and is designed to replace your smartphone, allowing the user to make calls, send texts and look up information",
@@ -1237,40 +1291,6 @@
       "provider": {
         "name": "FOX40 News",
         "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service.md",
-      "title": "Lilt Supports AI-Powered Translated Forecasts Offered By NOAA's National Weather Service",
-      "excerpt": "the leading AI solution for enterprise translation, is proud to provide the AI-powered technology behind a new experimental language translation website by NOAA and the National Weather Service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_04614bc6-8b57-56d7-bae3-57ab9cc7529a.html",
-      "originalUrl": "https://www.victoriaadvocate.com/lilt-supports-ai-powered-translated-forecasts-offered-by-noaas-national-weather-service/article_04614bc6-8b57-56d7-bae3-57ab9cc7529a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

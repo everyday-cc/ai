@@ -71,20 +71,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
-    excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
-    publishedDateTime: 2023-12-20T11:41:00Z
-    webUrl: "https://musically.com/2023/12/19/music-allys-12-days-of-christmas-2023-artificial-intelligence/"
-    type: article
-    provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 39
-    images:
-      - url: "https://musically.com/wp-content/uploads/2023/04/AI-music·E-2023-04-28-10.24.00-a-photograph-of-an-algorithm-creating-and-performing-music-for-an-audience-of-robots.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "oGV7DxaAntBGAEbEhwe16A7945ynQhSo/+BbBdHJ8Kd2F8Ez0XkbPmW94tKXG6v4g3Iwsgj3hBcioAzbY3vu+Hejf73DogIRKq83UBPB2WL93OwNfTvCBvPDlP0j1CtN8RaAsh/Zb2wzv09ry6zyD0uUGs4pCIhevdKrUa9gWVZo8NLzmDAXFuL7hCu1H8O+DBuAo60BUWPJcUoqJSR2btuTozDKHDk8/v74pu6M1N49xs9rmJQadPTBbFndyXi2bJvU/aA5a4r5HM569ofnAyR2QyIZI0jJAmYg56aYFx98d+jwkrY7Y9PgV0RbkrvtLNa7xWjCVhlYqnvKjYXwJj6pIroBLUarqgUftJVRMDBKwLqLkPhFBrdea1DGmbvfg1sxOLdUZQxidwbODcXZPLovyYLTiCPgdGRe/qPplzwfrVhkGXWu2TzlK9yzdvOco8NMjhwYCrufJUet6RySZiFsATat+8ObCb/1/QZg/WTCfG8604DSILau+Fau4HkOwBl75Lfg9HECVh9x/E1GaA==;ccKRYar39qlqDumPBnYUWQ=="
 ---

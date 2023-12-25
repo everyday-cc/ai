@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI: Increasing The Value Recognized From Today's Information Technology Systems"
-    excerpt: "By leveraging GenAI, there is a tremendous potential to unlock the latent value within these existing applications."
-    publishedDateTime: 2023-12-20T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/generative-ai-increasing-the-value-recognized-from-todays-information-technology-systems/amp/"
+  - title: "AI-enabled hyper-personalisation: Next thing in finance industry"
+    excerpt: "A significant catalyst behind this evolution is the emergence of Artificial Intelligence (AI), which is reshaping the fintech space in profound ways. AI-enabled hyper-personalization is becoming the next big thing in the finance industry, leading to ..."
+    publishedDateTime: 2023-12-24T10:01:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/lite/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 77
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6581d482be031a176db9c2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Large language models and generative AI: a recent hack day"
-    excerpt: "Developers in the Product and Engineering department came together with colleagues from across the Guardian to explore the potential of LLMs and more"
-    publishedDateTime: 2023-12-22T10:02:00Z
-    webUrl: "https://www.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
-    ampWebUrl: "https://amp.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/dec/22/large-language-models-and-generative-ai-a-recent-hack-day"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/606f5ac0f77c78cd168dd713f386f99b09c2c71f/0_165_5000_3002/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=fca54e27bbe799a702d84a1f23a97eaa"
-        width: 620
-        height: 372
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/pexels-edvin-richardson-796206.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "4TIIgzTMRso2yBh5//FufUQe3V2LawlqJqZ4cGNsx91I9rZF0l9j3uXejIp4a8C4k2p/Re4LzJ48hkJVqnl4iCOsuq1MdV1n5CXB5IJBVaPkVncacFaAKgVUCTMWpemOAZ07QXOsURMR6F6PfxIlszioCewqcYTJbtOL65joPipTkjdy/XDZCSwOvt91Tkb3iYhruQtC0vHyo9Pp/1ZeLPzylZaATtEuQhAo8KB9LlPX5QhjgizWIIQffTOZnRrsS1oT7MiZf4ptGUgoMlR89QCu/2C76UtABk+0wC35WQwPXpUzL8qfQLPI3vSmfctO7Cs0Nn+qKnHVscbwG4W0RV15uvS00Afv1VC9E9kwF+D/336o/vGoJHjeUnCkKlGOHgs59LEizIqiX/cq0N9hqZvMoGfK0+2g3ISnGXMUfs4LFBJXUTxqb6XdK9JiJYsaoBwAhxSbn/a2xd9djl2j5wo12XlrN9G0ZQpRegkWaHgFuZSkZo81yT45QEm2JzH6/666SzqqHHQSqKVFGIpBSw==;Ta+KnDe6PUMUWWzCEym5lw=="

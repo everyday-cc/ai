@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-max
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
 type: article
 quality: 121
-heat: 271
+heat: 261
 published: true
 
 provider:
@@ -209,15 +209,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Theory Of Mind As An Emergent Property Of Generative AI Could Be A Linchpin For AI-Powered Mental Health Advisement Apps"
-    excerpt: "Humans are said to possess Theory of Mind, and some say generative AI does so too. This is closely explored, along with how it pertains to AI-based mental health apps."
-    publishedDateTime: 2023-12-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/12/20/theory-of-mind-as-an-emergent-property-of-generative-ai-could-be-a-linchpin-for-ai-powered-mental-health-advisement-apps/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 24
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z
