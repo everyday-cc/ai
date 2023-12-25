@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Fintech in Singapore: 2023 in Review"
-excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
-publishedDateTime: 2023-12-21T06:27:00Z
-originalUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
-webUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
+title: "Fintech Future 2024: Unveiling latest innovations and trends"
+excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
+publishedDateTime: 2023-12-25T03:38:00Z
+originalUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
+webUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
+ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
+cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Fintech Singapore
-  domain: fintechnews.sg
+  name: Zee Business
+  domain: zeebiz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintech-in-Singapore-2023-in-Review.jpg"
-    width: 1024
-    height: 567
+  - url: "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274078-fintechnew.jpg?im=FitAndFill=(1200,900)"
+    width: 1200
+    height: 900
     isCached: true
 
 related:
@@ -89,22 +91,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Fintech Future 2024: Unveiling latest innovations and trends"
-    excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
-    publishedDateTime: 2023-12-25T03:38:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 44
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274078-fintechnew.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "The Future of Finance: Exploring the Best Fintech Companies"
     excerpt: "Are you ready to step into the future of finance? The financial industry has undergone a major transformation in recent years, thanks to the rise of financial technology or “fintech” companies. These innovative startups are revolutionizing the way we save,"
     publishedDateTime: 2023-12-20T10:24:00Z
@@ -152,6 +138,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/4fc27e3500f6aee9de4466e554791938:26d8ecc7055dc30bd0a9b6ade722341d/fintech-top10-website-dec2023-regtech.jpg.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech in Singapore: 2023 in Review"
+    excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
+    publishedDateTime: 2023-12-21T06:27:00Z
+    webUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintech-in-Singapore-2023-in-Review.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Top 10 financial services and fintech stories of 2023"
     excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
@@ -223,6 +223,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "7s4RJWzXDfO1KO2KXZ+Gav2kOLkk9kx2F4Gb3RL7majQPVrE5SwFu5OQCm4CEGkarJDrPQLeTOQsXBYbMtdxTVKqq2X7Hs1WL2dnz2KdKrozKP79GVvg7c1+anZsj8JLqVAGZew8qoBZFWgfu7yB5ORT3KuJJV9f3aPBCW4kfFqLCQdZjkCir+QLnJELfo+0ULx+g74MbUDlQn5JQxDmZhO77jGK25jq5tMRSCzFP5nsz18XCDfG1U6Ow3JaZUm6rTn0QxBo7693btge1nzX0vZ1jKtb/B3NQvgOysZMtaOHMOz4oqae7USYQLvvSXTKCfUKm3XLhRkcv3ISFv1YqoLT3B4HEH65v8q+PE7meO8sWyDkVLis5LsVp59yFRgZBCCXCN7srf04Zp3Dd0QEJG7VW/5YziMR/RcHTiXTGolD/XKoO//svar79nDJJ2um8T+JP097OqXJSZjC5dFNj2pMDbByf/OCe7eEtDlWfv1V4eZboyYlq8nvmwnYWcDCwtxjGrDDHxpryKx6cVAC7w==;doUNOSC6YGG0It0Mz7D5rw=="
+secured: "oT3cNkK8ULwfUOvydJXIfXiTLFUUUT2d4rfdwBGXtRRUCp2BnQzC2z8bSCmmb4jV1NyJoAoed6m0WI7y1CGx5c08ZsCXqmADyBa2ItinGDUP/ZoL/YnqY8UQXJ66XnBzdlVtsrxFfONt+HQ5qYpFl5vG4tSAFiY9F9x97A970XoVYRGHfUg3ho+cplF+Aqyj9DD+nT8Sm/jstavpeAiR45uwC206bno/C1DTMAi3gbjnvOXcW3JhAazIcZqGwPIVfjFIxeBdvmaaREiBVgDdoyvkwHpTeY4I0VRyWMnb4VW01FOvvjeXauPns23h4QMv1NTWZO/7XvP46nDOhW5xQjx0WZA0iqhNi9yViRnUI2w=;W9cvA2gPzJRpEy2Hbe9vwA=="
 ---
 

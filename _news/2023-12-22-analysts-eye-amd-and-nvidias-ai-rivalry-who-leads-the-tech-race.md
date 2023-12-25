@@ -81,20 +81,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Intel Gaudi 3 AI accelerator is faster than NVIDIA's current-gen H100 AI GPU"
-    excerpt: "Intel says its next-gen Gaudi 3 AI accelerator will compete against NVIDIA's current-gen H100 AI GPU, and AMD's new Instinct MI300X in AI performance."
-    publishedDateTime: 2023-12-20T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/95026/intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 51
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95026_904_intel-gaudi-3-ai-accelerator-is-faster-than-nvidias-current-gen-h100-gpu_full.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
     publishedDateTime: 2023-12-22T02:23:00Z

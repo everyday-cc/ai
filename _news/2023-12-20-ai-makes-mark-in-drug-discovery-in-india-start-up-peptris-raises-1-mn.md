@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 597
         isCached: true
-  - title: "AI-powered Drug Discovery start-up Peptris raises $1M in pre-seed funding led by Speciale Invest"
-    excerpt: "Peptris, through its AI platform, aims to transform the traditionally lengthy ... This investment aligns with Speciale Invest’s mission to support deep tech start-ups set to revolutionize their industries through scientific research and innovative ..."
-    publishedDateTime: 2023-12-20T04:19:00Z
-    webUrl: "https://www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/news/cities/bangalore/2sfe5y/article67653632.ece/alternates/FREE_1200/Left%20to%20right-%20Narayanan%20Venkatasubramanian%2C%20Co-founder%2C%20Anand%20Budni%2C%20Co-founder%2C%20Shridhar%20Narayanan%2C%20Co-founder%20and%20Amit%20Mahajan%2C%20Co-founder.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Unveils AI-Powered Features For Maps In India"
     excerpt: "Google Maps is introducing a fuel-efficient routing feature in India for both four-wheelers and two-wheelers by January next year, promoting sustainability. This feature, already estimated to have prevented 2.4 Mn metric tons of CO2e globally, considers real-time traffic data, road elevation, and vehicle type."
     publishedDateTime: 2023-12-20T07:56:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-r
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: thetechportal.com
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
-    excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
-    publishedDateTime: 2023-12-20T04:02:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 56
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/k55tuv/article67656884.ece/alternates/FREE_1200/Google_Top_Searches_99272.jpg"
-        width: 1200
-        height: 757
-        isCached: true
-  - title: "After Meta, Google Limits Bard And AI-Search Queries Related To Elections Ahead Of 2024 Presidential Race"
-    excerpt: "In anticipation of the 2024 U.S. Presidential election, Google, a subsidiary of Alphabet Inc. GOOG GOOGL, has decided to restrict the range of election-related queries that its AI chatbot Bard and search generative experience can answer. What ..."
-    publishedDateTime: 2023-12-20T03:15:00Z
-    webUrl: "https://www.benzinga.com/news/23/12/36319364/after-meta-google-limits-bard-and-ai-search-queries-related-to-elections-ahead-of-2024-presidential"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36319364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36319364"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/Google-Bard_2.jpeg?width=1200&height=800&fit=crop"
-        width: 618
-        height: 412
-        isCached: true
-  - title: "Google to restrict election-related queries on Bard, AI-powered Search"
-    excerpt: "Google will restrict certain types of election-related queries on AI chatbot Bard and AI-powered Search in preparation for the 2024 US Presidential el"
-    publishedDateTime: 2023-12-20T03:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-to-restrict-election-related-queries-on-bard-ai-powered-search/articleshow/106138152.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-106138143,width-1070,height-580,imgsize-1566910,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Alphabet to Reduce Election Queries Bard and AI-based Search Answer"
     excerpt: "United States Presidential election, various tech companies have found themselves in tight positions. One such is Alphabet"
     publishedDateTime: 2023-12-21T07:58:00Z

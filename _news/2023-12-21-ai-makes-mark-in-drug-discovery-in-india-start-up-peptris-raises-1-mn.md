@@ -9,7 +9,7 @@ ampWebUrl: "https://m.rediff.com/amp/business/report/ai-makes-mark-in-drug-disco
 cdnAmpWebUrl: "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/business/report/ai-makes-mark-in-drug-discovery-in-india-start-up-peptris-raises-1-mn/20231221.htm"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered Drug Discovery start-up Peptris raises $1M in pre-seed funding led by Speciale Invest"
-    excerpt: "Peptris, through its AI platform, aims to transform the traditionally lengthy ... This investment aligns with Speciale Invest’s mission to support deep tech start-ups set to revolutionize their industries through scientific research and innovative ..."
-    publishedDateTime: 2023-12-20T04:19:00Z
-    webUrl: "https://www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/ai-powered-drug-discovery-start-up-peptris-raises-1m-in-pre-seed-funding-led-by-speciale-invest/article67653635.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/news/cities/bangalore/2sfe5y/article67653632.ece/alternates/FREE_1200/Left%20to%20right-%20Narayanan%20Venkatasubramanian%2C%20Co-founder%2C%20Anand%20Budni%2C%20Co-founder%2C%20Shridhar%20Narayanan%2C%20Co-founder%20and%20Amit%20Mahajan%2C%20Co-founder.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI makes mark in drug discovery in India; start-up Peptris raises $1 mn"
     excerpt: "Peptris is revolutionizing drug discovery through the implementation of its state-of-the-art AI platform. It is transforming the traditionally lengthy and costly drug discovery process"
     publishedDateTime: 2023-12-20T10:32:00Z
