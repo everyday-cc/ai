@@ -110,20 +110,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
-    excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
-    publishedDateTime: 2023-12-20T10:01:00Z
-    webUrl: "https://www.econotimes.com/TomTom-and-Microsoft-Team-Up-to-Launch-Cutting-Edge-In-Car-Voice-AI-Solution-1668303"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 51
-    images:
-      - url: "https://f1.econotimes.com/2023/12/o82nod3f80_th_1024x0.jpg"
-        width: 1024
-        height: 678
-        isCached: true
   - title: "Oracle Database Services Running on OCI Can Now be Deployed Directly in Microsoft Azure"
     excerpt: "Oracle announced that its first Oracle Database@Azure service is now generally available in the Microsoft Azure East U.S. region. Oracle will operate and manage Oracle Exadata Database Service, the first of several planned Oracle database services to run on Oracle Cloud Infrastructure (OCI) in Azure data centers."
     publishedDateTime: 2023-12-20T15:06:00Z

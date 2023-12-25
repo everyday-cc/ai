@@ -55,36 +55,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    type: article
-    provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
-    excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."
-    publishedDateTime: 2023-12-20T09:42:00Z
-    webUrl: "https://www.technologyrecord.com/article/tomtom-develops-ai-powered-voice-assistant-for-vehicles-in-partnership-with-microsoft"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 47
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4763/Microsft_TomTom_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "I’ve never made music, but Microsoft Copilot AI can write me a masterpiece"
     excerpt: "Microsoft Copilot now supports music creation via a new plugin from Suno - here's everything you need to know."
     publishedDateTime: 2023-12-20T19:44:00Z

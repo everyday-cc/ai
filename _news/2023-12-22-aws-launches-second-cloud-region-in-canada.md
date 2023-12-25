@@ -58,15 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "AWS Launches Second Infrastructure Region in Canada"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastructure Region in Canada—th"
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231219899872/en/AWS-Launches-Second-Infrastructure-Region-in-Canada"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "G3eDh6Z0bkZB4NZY37lZmaa5X+dnWIBVXez6xRDUQjdK4n/0PvXZu9/tBfmkEgIXxVwg2fGk6mttE/HEfNdtZjlIBxvtiSX3E/nBJ7T/j1aFVqx6cFWYJfOS6TaIiU4fiWLq/XmzYFmQoqxsXX4jIiADsjX5kxJRwF7n5YZ/4UPNrBdmU/rMfH22zhoncQMYfWO6J7FCfhGhmGhkv+EupfObPXBeBYX3rbubIsI3hxmoCo+6gdypE60CXoYeo9RDqAHj5vlOIdwOXCeLHti5WZ984az+BHOc6HO7gdzFvCgfMSvTsVUfZZWr5JDR8ZxO1bmJ9emoeKFHGPzl51QPTsGti85wQaHMwa9wJvL1n4DFffA9cJfhO71J9Ie+2GkgosI6VrZ92dfpbKhxSwXZqIDX6emtIAzmw190ih3N1QPGvB227TZe9QVAi/u76G0TjafxV1lPb9ZtS2k6U6MzHkUT9VQJgRyLTU7vpND7oTu1OiP9OnbYF7/q/nSF8rHg5CBPQufzQ0dTvwVDxwVezQ==;GGmejK9VpkevNgVEQ2tX0Q=="
 ---

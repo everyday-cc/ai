@@ -62,20 +62,6 @@ related:
         width: 1374
         height: 900
         isCached: true
-  - title: "AI news to watch for in 2024"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 37
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
-        width: 1157
-        height: 900
-        isCached: true
 
 secured: "lFsI1pNVdzsBSt3oPgGRQR2IdBfgz+3R0kJEgwrSzwG8xqSJYZjhiKNCV6JNc54R7hIKCkkOpkUpQv9aSKsIwXiym76bfPygAjkBSasGkhMedj2EQRmpmj7Nn283dP8fD2rIzJ9se2fg4BB5ftxUftIRA+GGTQN2QBdvR2j7zoqEZdmOBEzzJauiu6XIzuXRqCSg+oU92MfpPIFaahnERtdAhGJnnIM3RuwJIryqycLnNcrTvcvbU5B+FzjVSxl/+9g/ovu59cTDvkr6oHMGHsgMzPgKFK+u1XjHD6kaYhIdXRzVPZ6SiAhZVSVNBon9LTXnIYu5DvNCj85JQ8sjdAfsRryj3MGhM5IomXPXccuGp5QS8Pj89OJhNn68uVJDvOByk8qQZo3Yadr9C3tQtYtFf+6895D40J9AWMTnlWox8gUeCvA/R1tBZvMljTTRu0WPTv4Y4UDIW3iG5EoxqhjMbv+yyO9yk5dhXbT9KKShS1SWH3OSUu09+vud8yACrSVdMXg5IszKSwDqQHjPsg==;j7HOIhrDq+tcLDNo9QWqqQ=="
 ---

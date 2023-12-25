@@ -43,14 +43,14 @@ related:
   - title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
     excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
     publishedDateTime: 2023-12-24T21:14:00Z
-    webUrl: "https://journalstar.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_bf2e1d3c-804b-5a58-a3cf-19c72eaf0772.html"
+    webUrl: "https://madison.com/news/nation-world/business/amazon-aws-generative-ai-anthropic-chatgpt/article_f60f5b75-2149-5d99-a511-0e74ae6d0ebd.html"
     type: article
     provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
+      name: Madison.com
+      domain: madison.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/b/f2/bf2e1d3c-804b-5a58-a3cf-19c72eaf0772/6581c714c03b0.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/60/f60f5b75-2149-5d99-a511-0e74ae6d0ebd/6581c714c83d0.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
         width: 794
         height: 417
         isCached: true

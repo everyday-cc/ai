@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google will restrict election-related queries that Bard and AI-search can answer"
-    excerpt: "Google restricts Bard and SGE for election queries to curb misinformation ahead of 2024 U.S. Presidential elections."
-    publishedDateTime: 2023-12-20T10:07:00Z
-    webUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/"
-    ampWebUrl: "https://thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
-    cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2023/12/20/google-will-restrict-election-related-queries-that-bard-and-ai-search-can-answer/?amp"
-    type: article
-    provider:
-      name: thetechportal.com
-      domain: thetechportal.com
-    quality: 54
-    images:
-      - url: "https://thetechportal.com/wp-content/uploads/2023/12/12-23_Elections_1_1.width-1200.format-webp-1.png"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Alphabet to Reduce Election Queries Bard and AI-based Search Answer"
     excerpt: "United States Presidential election, various tech companies have found themselves in tight positions. One such is Alphabet"
     publishedDateTime: 2023-12-21T07:58:00Z

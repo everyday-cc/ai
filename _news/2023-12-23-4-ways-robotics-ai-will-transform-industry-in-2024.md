@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Unleashing AI’s Power: Chatbots Transforming Healthcare Experiences"
-    excerpt: "Artificial Intelligence (AI)-powered chatbots are becoming significant tools in the transformation of healthcare in the 21st century, facilitating the convergence of technology and delivery of medical services."
-    publishedDateTime: 2023-12-20T10:16:00Z
-    webUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
-    ampWebUrl: "https://disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
-    cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/12/20/unleashing-ais-power-chatbots-transforming-healthcare-experiences/"
-    type: article
-    provider:
-      name: disrupt-africa
-      domain: disrupt-africa.com
-    quality: 74
-    images:
-      - url: "https://disrupt-africa.com/wp-content/uploads/2023/07/DA-logo-on-transparent-with-tag-small-e1414593297539-1.png"
-        width: 300
-        height: 201
-        isCached: true
 
 secured: "SIh+29wKbqjzTa+RQywjd7I2bz76AqP18tdLXWhWSvHgViG3CjiRffiG8R/oPXQtk7X72+82RdyYXEKR4RO7OBdiZ2Azt/KaziEZOIKU9Mwj/p2LeMuvfXqHCJG9BmSiOXMi+YOocMUUhCxgNfdeB5QC6+n3fPRcgUNAyTg6NpsIaqmalVUfoiZpJeTPkjrtIn4Ps8RT2N/Jk4mVO968hujBno44B9FJH8dYudF53WtYE7MuYLJ0GOJNZ25mQoDRS8KDIH83YPx+2/8wqOeK+Gk4xKcTm1q8bh50FLcg6v2k7KUousiGrw9/c4iTkE1H6liXa4s0b4Q0OpmUfEI4L06B2eMAg6wWh+XobFw1O4HB+pAg8V9/Nipz9KGf07njPaOXTdaw9FpRksmVibuUMf/Q284lij1/KcyLj+8QzQiqH6Pq36p7OusMwYSSu7vxy+Q3Bsl+3PsDA11hMuGJItMj7AalG+IE+ROPDlJbEmlHajChil/jVh1wsdnEYF9brASqI+qqJucjJ1ttBjV59A==;MOXDa6aB/tL0MqlpYVWhXQ=="
 ---

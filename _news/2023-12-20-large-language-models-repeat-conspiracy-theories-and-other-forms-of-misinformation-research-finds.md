@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-12-large-language-conspiracy-theori
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-large-language-conspiracy-theories-misinformation.amp"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Large Language Models that Made Noise this Year"
-    excerpt: "Let’s take a look at the most prominent large language models that were released this year:"
-    publishedDateTime: 2023-12-20T10:12:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/top-large-language-models-that-made-noise-this-year/article67657728.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/top-large-language-models-that-made-noise-this-year/article67657728.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/top-large-language-models-that-made-noise-this-year/article67657728.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 44
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/k0b9ci/article67657766.ece/alternates/FREE_1200/2023-12-14T140120Z_686204124_RC2Y40AN81FM_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG"
-        width: 1200
-        height: 814
-        isCached: true
   - title: "Large language models validate misinformation, finds study"
     excerpt: "Because large language models are always learning, Khatun said, evidence that they may be learning misinformation is troubling. \"These language models are already becoming ubiquitous,\" she says. \"Even if a model's belief in misinformation is not immediately evident, it can still be dangerous.\""
     publishedDateTime: 2023-12-20T11:52:00Z

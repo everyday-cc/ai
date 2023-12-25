@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/12/20/3-ai-trends-that-every-leader-needs-to-know-for-2024/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 899
-        isCached: true
-  - title: "AI news to watch for in 2024"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. One of the things that has been scary about generative AI since the launch of ChatGPT in November 2022 is the complete lack of regulation. Large Language models are trained on ..."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://technical.ly/software-development/ai-news-to-watch-for-in-2024/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 37
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2023/12/KKXq7wXKPQjoKIe8dxxq-1-i40fl_2x-e1703019523645.jpg"
-        width: 1157
-        height: 900
         isCached: true
 
 secured: "XlfkaTcTnzzlRllGFDjtWkN0fCVvRmtGilAR9VcrDGiPqJo8/05iB9Y7wzuAMq1NVYpMrYMRDTBTtMP08TIYpXHPX/ff1olWOTbObrldb/D494w6iUBpG1bJri+XOSjX+7xwA8cs32FAiV8B9ee26xP5yEiKMii+DFidq46VW/nPZzksRHpIekX+zwm9bTCRX6oFVt3v7SLTSX2l0P/zaf7wPzeOOKmgokziAqrhA5n5BtRNKWQIRIPiC9OcCSSxGZS0afq/KriwH+O3muIdI8zJsflChic6OwywfQrBj2A1pzKIv4qtsQHtoWpXB5P3RCrV7EuFdkohdEI4gNVpqRb6Dt8ubcF3nTSjI9w9lzu4id6DaOOFH8LKmKZcoM3hWZTyaxjuCmgzQHPidytja6LvuLMvIiOcAeH83P3/7/Ph27YdChzWbmVyw2/Rz7uoNayqZqijpiJ5vzL3kVIhit/EsffstspiS5Fj6ofxMop5l4Vs9+BBqEf+06QQ4QUE0BVTrumKX4afO65J2OWmRg==;sId6+DZY3uPho3lRAnG19A=="

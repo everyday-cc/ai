@@ -1,21 +1,27 @@
 ---
 category: news
-title: "The year of social media soul-searching: Twitter dies, X and Threads are born and AI gets personal"
-excerpt: "Musk revealed the X logo in July. It quickly replaced Twitter’s name and its whimsical blue bird icon, online and on the company’s San Francisco headquarters. “And soon we shall bid adieu to the twitter brand and, gradually, all the birds,” Musk posted on the site."
-publishedDateTime: 2023-12-24T16:01:00Z
-originalUrl: "https://www.seattletimes.com/business/the-year-of-social-media-soul-searching-twitter-dies-x-and-threads-are-born-and-ai-gets-personal/"
-webUrl: "https://www.seattletimes.com/business/the-year-of-social-media-soul-searching-twitter-dies-x-and-threads-are-born-and-ai-gets-personal/"
+title: "The year of social media soul-searching: Twitter dies, X and Threads are born, and AI gets personal"
+excerpt: "We lost Twitter and got X. We tried out Bluesky and Mastodon (well, some of us did). We fretted about AI bots and teen mental health. We cocooned in private chats and scrolled endlessly as we did in years past. For social media users, 2023 was a year of beginnings and endings, with some soul-searching in between."
+publishedDateTime: 2023-12-25T10:25:00Z
+originalUrl: "https://www.bostonglobe.com/2023/12/25/business/year-social-media-soul-searching-twitter-dies-x-threads-are-born-ai-gets-personal/"
+webUrl: "https://www.bostonglobe.com/2023/12/25/business/year-social-media-soul-searching-twitter-dies-x-threads-are-born-ai-gets-personal/"
 type: article
-quality: 3
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI
+
+images:
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/gmfuKJbBwASFxuIbAk_0r2bcIoQ=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/W7C52A5RZ3RA4NF6OEBSXFU7M4.jpg"
+    width: 506
+    height: 337
+    isCached: true
 
 related:
   - title: "The year of social media: Twitter dies, X and Threads are born and AI gets personal"
@@ -28,6 +34,6 @@ related:
       domain: lasvegassun.com
     quality: 11
 
-secured: "EXZbJWcDij4Dq2bjtlDyKwfm7PNYM/SbhotBOvQCsrMqfuMkGUABwqt2JkQr2dbOjuBTrnqN0PjZvhIcEj5sqXOaDnorn+Bbo1fLYIdb5JCCNkAifhq/vHaRXdi5PQcnQwFWvH3W6mPjy/mirPsY1sQ9aIP3uITLGuTElBZrWklwpySAxbY6cR9oTtLtHz14iuNdVZkons9mNOU9pI/zRMDSLkSlf1E8QTqctyxM3q8WMY//DorNTeKILLstnftdIGuoV5H2KOZdi/6igDpWX4QzdV8yTlYqwItnwBBLWrjhqdgzRLpqiXcfOikUx5kM5ND4sMAHGHBNZ3uyYGmxKwT0X1CCkHA5Pyv4JDqMMgkrmkbYbWyhBFA948vi8mvM/plTFR2uOYONBmcDPfXH7alOiBS4QJiIX6+Go7E6UDsa7KR+1DTorK4YCEfHTxbocS9kcxHJvrt7sBbp6sDrr8sE2yz2/FZAvQIry/kTmUi2Q1qzhrI5pnviLFPopAyAGYrC06YH0EM4ESGY4lRvuA==;AeGD7upH5NPDZJO5vqa3Dg=="
+secured: "Jlx4jMGN+neRsFG6ZpcR82HdbM7ADugQAl6WlPBkw+UTwr5UyjKsNNhfvBMehfmuiiGm9iBuz4LkXrcT5H8XKExQu/EwyyJYXM38803Qn+iBPSeTR6wkI2JThtPmepqtzPS3iG9hHTtIIc6I6pd3xOs7PCNe+jNtsJ6e8Ey9t3NeLrRRIxo1FgAN/pop9kvd80hZLCI9CuIhW6fhgBy5Lj3heNdVAt8X2Y0u1g2ZNwZK6/oMQw3egaPRCz7+Lg2UtC3/CkMsAiQqBBggTfoM78BPpWTZBNo9usMFByHDnCPYb56msmWwdlbyXxrorjG0P8ndiWYs8jw8RATs1uloPUJ6OVZGOtmlPnnvFcLzfZU=;EP3nEXu2sFembvkTRz5U1A=="
 ---
 

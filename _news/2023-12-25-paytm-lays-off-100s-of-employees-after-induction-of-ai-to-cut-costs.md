@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-af
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,19 +59,35 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Paytm Lays Off Employees As It Implements AI-Powered Automation"
-    excerpt: "Fintech leader Paytm has laid off several hundred employees from its operations, sales and engineering team, according to re"
-    publishedDateTime: 2023-12-25T07:55:00Z
-    webUrl: "https://menafn.com/1107654638/Paytm-Lays-Off-Employees-As-It-Implements-AI-Powered-Automation"
+  - title: "After laying off over 1,000 employees, Paytm CEO's to-do list for 2024 features major AI upgrades"
+    excerpt: "Paytm CEO Vijay Shekhar Sharma said that 'AI has actually delivered more than what we expected it to,' and that the company would be able to save the 'targeted 10 percent to 15 percent that we had planned in employee costs'."
+    publishedDateTime: 2023-12-25T09:50:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 46
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/Vijay-Shekhar-Sharma.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Paytm lays off employees as it implements AI-powered automation"
+    excerpt: "Fintech leader Paytm has laid off several hundred employees from its operations, sales and engineering team, according to reports."
+    publishedDateTime: 2023-12-25T09:13:00Z
+    webUrl: "https://www.thehansindia.com/business/paytm-lays-off-employees-as-it-implements-ai-powered-automation-846641"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2023-12/25/I_ea543image_story.jpg"
-        width: 400
-        height: 262
+      - url: "https://assets.thehansindia.com/h-upload/2023/08/07/1370807-paytm-payments.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
     excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
@@ -99,6 +115,6 @@ related:
       domain: inc42.com
     quality: 31
 
-secured: "HF4F+jcMMGOR81y38wbU3HaBvUnTs5WwMzU9bZHyeWbm4oM3NjGA5AuIfWu8LWpttRLYflYc4zgRJGDUSeB9sSFepTscm61loLC3ROFAuUlXGKHZSI/5tlNd0Lhwvp4ONV9NHqNUSayOcu4JFhZpLiPOtU7YLqQH/ST4kMUQPTHkJc2XUk/MutpUJP81an9dEUX9OaGBZ/rkIFr0AG/zSH8AYSl/Z6cLEpo3awj4t4QS1opI/whKr4pmZOrrOQU6GhtS+nM4rIyy1T65TynrYVlyeXcfpvI5qiypb33V1251xfQpjFCCEHbGQ1IENCtDx+Qbs/DORMSudxxa7RGoi5w5aW8mG8zb/O4l9JrnNtw=;4C0MQTv7n96aep2fUJT0iQ=="
+secured: "7TMnTssFKpmYI3RMvO964hH9eApOndXydO5c58LUdCxwpdZ4Y5Q2pFgotX9ELgzD50U4YSHNmBYOiWv+luq/MztHKiQdQ6/tWwFCwjnhiYxMHWD30pbt+010sngFUqFDrTlFJBKtqfgXTnbVTPb4PTrSCQc2u+6ydMiad5GduhDQvfFE604DsXZ1iJEiBUOR1Uhdxh0f4zdp2Qx0g4ZtUUVCdJTvqxAY1YOSw282H4ZGssy7Pq3ilIHQj9IWEirLZU86pg7VpyC4RLVXsZzujCoVJ+1pnDhUhKdfuFE1Qe1Qqxm4Dwzlgfgdo1OOndo92YGhIpw+UhMNRdIWJzXZIyU13IcFl2H16YHvePwUayc=;N1gxjlwxAsywNoIoSFin0w=="
 ---
 

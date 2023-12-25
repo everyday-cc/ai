@@ -116,20 +116,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 54
-  - title: "TomTom and Microsoft Team Up to Launch Cutting-Edge In-Car Voice AI Solution"
-    excerpt: "TomTom, a leading mapping/navigation company, has partnered with Microsoft to develop an advanced in-car voice AI assistant. The solution will revolutionize the driving experience by enabling natural voice"
-    publishedDateTime: 2023-12-20T10:01:00Z
-    webUrl: "https://www.econotimes.com/TomTom-and-Microsoft-Team-Up-to-Launch-Cutting-Edge-In-Car-Voice-AI-Solution-1668303"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 51
-    images:
-      - url: "https://f1.econotimes.com/2023/12/o82nod3f80_th_1024x0.jpg"
-        width: 1024
-        height: 678
-        isCached: true
   - title: "Microsoft and TomTom partner on in-car Generative AI"
     excerpt: "TomTom has announced a new partnership with Microsoft to bring Generative AI to vehicles, TomTom has developed an advanced AI-powered voice assistant"
     publishedDateTime: 2023-12-20T14:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-d
 cdnAmpWebUrl: "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
 type: article
 quality: 89
-heat: 130
+heat: 129
 published: true
 
 provider:

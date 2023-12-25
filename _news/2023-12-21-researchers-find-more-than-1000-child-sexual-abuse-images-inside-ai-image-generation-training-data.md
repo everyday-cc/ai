@@ -42,22 +42,6 @@ related:
         height: 685
         isCached: true
   - title: "Large AI dataset has over 1,000 child abuse images"
-    excerpt: "A spokesperson for Stability AI, the British AI startup that funded and popularized Stable Diffusion, said the company is committed to preventing the misuse of AI and prohibits the use of its image models for unlawful activity, including attempts to edit ..."
-    publishedDateTime: 2023-12-20T09:41:00Z
-    webUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
-    ampWebUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 57
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Large AI dataset has over 1,000 child abuse images"
     excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
     publishedDateTime: 2023-12-21T00:41:00Z
     webUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"

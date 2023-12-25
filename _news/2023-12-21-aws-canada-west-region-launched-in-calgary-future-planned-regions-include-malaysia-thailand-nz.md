@@ -50,15 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "AWS Launches Second Infrastructure Region in Canada"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second AWS infrastructure Region in Canada—th"
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231219899872/en/AWS-Launches-Second-Infrastructure-Region-in-Canada"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "AWS launches second cloud region in Canada"
     excerpt: "The cloud region will give customers access to AWS technologies including data analytics, security, machine learning (ML), and artificial intelligence (AI), and consists of three Availability Zones. AWS is planning to invest $17.9bn in Canada through 2037 ..."
     publishedDateTime: 2023-12-22T00:00:00Z

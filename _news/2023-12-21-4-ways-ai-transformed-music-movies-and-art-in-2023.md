@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 webUrl: "https://time.com/6343945/ai-music-movies-art-2023/"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/trends1.jpg"
         width: 976
         height: 400
+        isCached: true
+  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
+    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
+    publishedDateTime: 2023-12-20T18:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Legislature eyes AI issues in 2024"
     excerpt: "House leaders are gearing up to make sure AI can continue to be developed and used in ways that are beneficial to Floridians."

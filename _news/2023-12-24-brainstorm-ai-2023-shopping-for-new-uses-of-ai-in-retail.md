@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fortune
@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based automation has changed contact centre performance in 2023: Report"
-    excerpt: "fintech, NBFC, banking, real estate, and logistics, among others. “The 2023 Contact Center Report reveals advancements in customer experience and reflects the evolving role of contact centers across the customer journey. AI can free up agents for high ..."
-    publishedDateTime: 2023-12-22T06:50:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-based-automation-has-changed-contact-centre-performance-in-2023-report-3345065/lite/"
+  - title: "2023: A Year of Groundbreaking Advances in AI and Computing"
+    excerpt: "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications."
+    publishedDateTime: 2023-12-22T13:30:00Z
+    webUrl: "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design399.jpg"
+      - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
         width: 1200
-        height: 675
+        height: 630
+        isCached: true
+  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
+    publishedDateTime: 2023-12-22T15:35:00Z
+    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
+    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+    type: article
+    provider:
+      name: Windsor Star
+      domain: windsorstar.com
+    quality: 48
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Music Ally’s 12 Days of Christmas 2023: Artificial Intelligence"
     excerpt: "On the ninth day of Christmas, my true love sent to me: nine ladies dancing! But were they real, human ladies, or AI-generated avatar-ladies?"
@@ -60,29 +74,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Legal Tech's Milestones for Artificial Intelligence in 2023"
-    excerpt: "Legal industry experts make their picks for the biggest developments in AI for the legal industry in the past year."
-    publishedDateTime: 2023-12-20T18:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/12/20/legal-techs-milestones-for-artificial-intelligence-in-2023/"
+  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
+    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
+    publishedDateTime: 2023-12-21T13:15:00Z
+    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 19
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/12/Display-Arts-01-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
-    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
-    publishedDateTime: 2023-12-23T13:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "nx9tRZpqFbEHC3Y9Pg+MVc89QkMlQSC3FO8nP/Lw0q8EAKukpjB1jp8AoliXz44dE5niB2SVh7nfnYopqMrvAcmgkf4AlPTNtGATGFbUeqzGg7V1d+VmU44QJvr1cdB2ekASDd9PwU1wr/qr/ROU4ot6PLLXyRHqImvr0pvCDE0TIrymkEEwFuMVjYl5KtRGA6BjnjwZ8otSb0zN9t9aXofgpxIAq88rGRVsmVmZpDqdozKUl2XDLIZNRU/hWnb8X8T8hP2gaUZDMcdsNVDNs8QTxX8YxrfRSO6sFHuguYCPUVwItoPJDQtae5Ge9yS2EatJxrq1q3MmPvPU8ZGYsD3P/1wktWTNQ1ynTTr7YYfMYHgAEbf/zss3SRhQCOFtRX2jqNaW8pvrBvLuqRxpiDNKgl9uVZlRVTu5dUyd4ubX6KjI9WRG4EjBuWOY06BcVVVNUUf9yhtQ7KV+1jtZ+QQJLIa+tWRRa3aK8KsdURUuhFg1kESleMy5Hh96vBjuWQnFe8exCY/HPa80WPkhxQ==;zB3R8vYqX6+UD4RRzuqRQw=="
 ---

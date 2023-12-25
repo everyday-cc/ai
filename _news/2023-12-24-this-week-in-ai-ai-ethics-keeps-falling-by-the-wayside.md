@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-fa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Future with AI: Artificial intelligence will be a weapon in the fight against climate change"
-    excerpt: "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations."
-    publishedDateTime: 2023-12-20T10:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 63
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "2023 - the year in AI use cases"
     excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
     publishedDateTime: 2023-12-22T00:00:00Z

@@ -80,21 +80,21 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "10 Questions To Ask Before Implementing Generative AI"
-    excerpt: "To decide on prioritization of generative AI, consider its expected outcome, your available internal resources and the potential downsides of not adopting it. Your board and leadership team may see its priority differently, so be sure to align with them."
-    publishedDateTime: 2023-12-20T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/20/10-questions-to-ask-before-implementing-generative-ai/amp/"
+  - title: "The wonder-filled year of generative AI"
+    excerpt: "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?"
+    publishedDateTime: 2023-12-25T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1347
-        height: 900
+      - url: "https://images.idgesg.net/images/article/2023/12/shutterstock_1209641578-100951456-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 850
         isCached: true
   - title: "Getting The Most Out Of Generative AI"
     excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
@@ -183,20 +183,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How Your Organization Can Prepare for Generative AI"
-    excerpt: "Brun, Enterprise Strategist and Evangelist, Amazon Web Services (AWS) I’m fascinated by the technological tipping points in"
-    publishedDateTime: 2023-12-20T09:09:00Z
-    webUrl: "https://www.computable.nl/2023/12/20/how-your-organization-can-prepare-for-generative-ai/"
-    type: article
-    provider:
-      name: Computable
-      domain: computable.nl
-    quality: 39
-    images:
-      - url: "https://www.computable.nl/wp-content/uploads/2023/12/PhilLe-Brun800x600.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How Generative AI Promises to Transform Procurement"
     excerpt: "Therefore, implementing strong data privacy and security measures, such as anonymizing datasets before training the AI, is imperative. The decision-making process in procurement is often complex and multifaceted, involving considerations of ethics ..."
     publishedDateTime: 2023-12-21T00:00:00Z
@@ -210,20 +196,6 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/2023/08/03/Artificial-Intelligence-iStock--Udomdech-Jaroenthanaporn--1473127506.jpg?height=635&t=1691122544&width=1200"
         width: 953
         height: 635
-        isCached: true
-  - title: "Unlocking the Power of Generative AI: Opportunities for Technology Services"
-    excerpt: "The AI chatbot known as GitaGPT was created by Mr. Sukuru Sai Vineet, a software developer for Google India. It leverages GPT-3 technology and the Bhagavad Gita to provide solutions to life's issues. Users can ask questions on the GitaGPT app, and a chatbot will respond by investigating the teachings of the Bhagavad Gita."
-    publishedDateTime: 2023-12-20T10:23:00Z
-    webUrl: "https://www.ibef.org/blogs/unlocking-the-power-of-generative-ai-opportunities-for-technology-services"
-    type: article
-    provider:
-      name: IBEF
-      domain: ibef.org
-    quality: 37
-    images:
-      - url: "https://www.ibef.org/uploads/blog/1703067123_54f67ac84d35429b5e54.jpg"
-        width: 704
-        height: 419
         isCached: true
   - title: "Generative AI poised to revolutionize capture management"
     excerpt: "GenAI tools have immense potential for federal contractors when it comes to both proposal and capture management and writing compelling proposals."

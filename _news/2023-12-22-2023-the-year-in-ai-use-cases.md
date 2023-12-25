@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Future with AI: Artificial intelligence will be a weapon in the fight against climate change"
-    excerpt: "Many climate scientists feel artificial intelligence can play a key role in the battle against climate change. Others warn it is not a magic pill and has its limitations."
-    publishedDateTime: 2023-12-20T10:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/environment/future-with-ai-fight-against-climate-change-11931871.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 63
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/12/pexels-google-deepmind-17485609.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The Silent Bias in AI: Exploring the Troubling Reality"
     excerpt: "Welcome to our eye-opening blog post, where we delve into the world of Artificial Intelligence (AI) to uncover a disturbing truth that has long remained silent. While AI continues to revolutionize various aspects of our lives,"
     publishedDateTime: 2023-12-20T12:06:00Z
