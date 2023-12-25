@@ -25,29 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Bunq replaces search with a generative AI called Finn"
-    excerpt: "Keep up with the latest in the world of fintech and alternative finance by subscribing to our newsletters. Get the latest headlines, expert insights and reports and be the first to know about upcoming events."
-    publishedDateTime: 2023-12-20T10:13:00Z
-    webUrl: "https://www.altfi.com/article/bunq-replaces-search-with-a-generative-ai-called-finn"
+  - title: "9 AI Tools That Can Help You Peak Your Productivity"
+    excerpt: "Explore 10 essential AI tools to elevate productivity, from Anthropic Assistant for task management to Otter AI for transcription. Discover powerful aids like Grammarly, Evernote, and Quillbot for diverse tasks."
+    publishedDateTime: 2023-12-25T02:31:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp"
     type: article
     provider:
-      name: altfi
-      domain: altfi.com
-    quality: 39
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 59
     images:
-      - url: "https://images.ctfassets.net/2chiqpnroeav/7CAHkvUE151n3wnvCu8pbm/8955308560e02f88587e05c714b359e6/518705-7_Image_-_Finn-a8a2c6-original-1702993037.jpeg"
-        width: 1080
-        height: 608
+      - url: "https://static.tnn.in/thumb/msid-106238996,thumbsize-103258,width-1280,height-720,resizemode-75/106238996.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Neobank Bunq rolls out customer-facing gen AI tool"
-    excerpt: "The new tool, called Finn, replaces the search function on Bunq’s app, allowing consumers to plan their finances, budget, navigate the platform and find transactions."
-    publishedDateTime: 2023-12-20T19:44:00Z
-    webUrl: "https://www.bankingdive.com/news/dutch-neobank-bunq-gen-ai-tool-fintech-ali-niknam/703114/"
+  - title: "New artificial intelligence tool can help in nerve disorder screening"
+    excerpt: "If the car is moving on the road, you want to track the car, said study corresponding author Phaneendra K Yalavarthy, Professor at CDS.In the same way, we are able to track the nerve throughout the video,"
+    publishedDateTime: 2023-12-22T08:07:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
     type: article
     provider:
-      name: bankingdive
-      domain: bankingdive.com
-    quality: 34
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 57
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "b4dk0YVWT9SmwUvbcfESyOH+xwYLwzGUXBfHu+le09NaTu1AYkSS673KWNj04r+PR/tfKDWWG56AMjb+bmFNYToeXHW70m0qSPTpVzEMKxpfEPUe5jkVmvW/iXiKAe++ORWDbIJuWNTb6Ma58HHZ7YH2BljN8Q1J5vNm4M3xHzVaFJuBUSm/u/M9b4TZWiUQPMMtB8B7rise6cp324LToI/nz6xwb8hmSKkjd917XPLue1JEx8cXALtWVwZSoWjLFPmYb/2FhsdpOUssYvPQun93voqFKUKbJ/5A++YzXzD/NIRE7SyOEhsQSiY0RFLTOTJyf5Ps68Czn0xIjsPytW5eL8Kebmf9X50kRFwy9xM0s4OlwZoIMDYRetaB0GCHTyiCOsFqt/OziqWXAdGDXNqhoKWZVCCl+UkRdGNiMfB3dx4m+Fd6cQ01jgHxp61LtrPaOvmO9HF5CCXtvRWQ9hxmE8rmXdt7Upx6pMCvmd7avNbvBIt5eTrN1rg0sfI+l2qtEs9sNZjVTzfpE7YUqA==;SJdZ0YnFpiEllpJMYw/PWQ=="
 ---

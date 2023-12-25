@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
-    excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
-    publishedDateTime: 2023-12-20T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 62
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/20/1600x900/TOMTOM-RESULTS--0_1703037060640_1703037087769.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Coforge enters into a partnership with Microsoft over enterprise-oriented Generative AI adoption"
     excerpt: "Coforge Limited (NSE: COFORGE), a digital services and solutions provider, has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative artificial intelligence (AI) across enterprises. According to an official release ..."
     publishedDateTime: 2023-12-21T10:00:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T173344.327.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
-    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
-    publishedDateTime: 2023-12-24T07:08:00Z
-    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
     excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."

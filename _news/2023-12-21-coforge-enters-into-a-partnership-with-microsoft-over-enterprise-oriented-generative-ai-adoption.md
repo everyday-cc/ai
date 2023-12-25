@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-cof
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-coforge-enters-into-a-partnership-with-microsoft-over-enterprise-oriented-generative-ai-adoption-3344461/lite/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: The Financial Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Maps rival TomTom creates AI-based conversational assistant for vehicles with Microsoft"
-    excerpt: "Digital mapping specialist TomTom said on Tuesday it has partnered with tech giant Microsoft to create an artificial intelligence (AI)-powered conversational assistant for vehicles."
-    publishedDateTime: 2023-12-20T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-maps-rival-tomtom-creates-ai-based-conversational-assistant-for-vehicles-with-microsoft-71703007416998.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 62
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/20/1600x900/TOMTOM-RESULTS--0_1703037060640_1703037087769.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
     excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
     publishedDateTime: 2023-12-22T10:29:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
-    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
-    publishedDateTime: 2023-12-24T07:08:00Z
-    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "TomTom develops AI-powered voice assistant for vehicles in partnership with Microsoft"
     excerpt: "TomTom, a location technology provider, is partnering with Microsoft to introduce an artificial intelligence-powered voice assistant for drivers. The solution is based on the Microsoft Azure OpenAI Service and is built into TomTom’s Digital Cockpit platform for vehicles."

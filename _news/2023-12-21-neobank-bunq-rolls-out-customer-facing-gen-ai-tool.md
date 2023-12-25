@@ -33,20 +33,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "You Can Run a Generative AI Locally on Your Computer"
-    excerpt: "If you want to have your own ChatGPT or Google Bard on your local computer, you can. LM Studio lets you set up generative LLM AI models on a local Windows or Mac machine."
-    publishedDateTime: 2023-12-20T16:29:00Z
-    webUrl: "https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 39
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HJ3PEGJ2J1V0X16MBSH2GHG6/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "TN7xxtlY0nazr99YBX6glVH7BSAqnNArXq/Tc8t/gXgslGgMndlleqky1WmqRhqrZIAR2BpVbubHvD3DhfvrP56SlPShpsfpwPa4tRE+QG15UBUQvjUl8cq3Y16VbK7K6wDuj1DnIkFBKXe+3eogbU004q9P23K8l6jWePWN7v0XZDX3E24RFIGFktZ97lv+IdCYMo094NqW+iAfcmndeLpUqYey6uqiLl0KiKtoaHLE43GmAYqfotz3l5DAYszERksnllQBBHiWusDkF4aMwkgJgfgikB4qkhJOX33dDVfZX7Wpjfpq9mphUlKmEbNwXk1v6DOlQMwyvmF2tvYDZn5POziVHhHSi/QuZh4eZN4=;Gs5hQkcm3skwjIhwsFmHlw=="
 ---

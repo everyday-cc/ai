@@ -1,26 +1,28 @@
 ---
 category: news
-title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-excerpt: "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ..."
-publishedDateTime: 2023-12-14T13:45:00Z
-originalUrl: "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
-webUrl: "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+title: "2023: The year we played with artificial intelligence — and weren't sure what to do about it"
+excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream ... objects and individual faces and help guide self-driving cars. Speech recognition advances made voice ..."
+publishedDateTime: 2023-12-14T03:15:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001"
+webUrl: "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001"
 type: article
 
 provider:
-  name: WTOP News
-  domain: wtop.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg"
-    width: 2560
-    height: 1706
+  - url: "https://s.abcnews.com/images/Business/wirestory_565ff5b817b5db0d4e74829ae3d68611_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "h7EF+NaTgYXz/oUd53mkcpeMv2jqVAYTEhuNugRxi3ctRLrHSQzxltwnlsjDJC6gu2oVwCBvkN0qQqCQI7TueLeyGLPypXozZilb/gXvqUxI80/sa+qyIXRGCqt6mtTeOqpmCNxNBUoCYbE3ZV2pVIeUjBtXP8jngtlcV7fWr68MpPIOv5EgCApS2jZCqQUu6FcIcpNm33F5gcD/URLxO9VmAWf7LjDaj1zvwM6jVX1aR7pInafbtBv8ipr+V6NIwlfdQs5yeWFEwzOzdWuHqX9tUrV7dacbKFpRIsuHIAxMmVI3J7/q/Q+cUlcQqWIUMVRNw+NLxGWnV+PL8063+hEN77aCDsRA3CPGMN/oYQM=;hrlCqTIOtevjEjxlfbIMWw=="
+secured: "Ij0f8wF3VNOgV7LUp5uzfwsU/0Vh9uUzE2ZNc4KLYLAObRx3Odfy1z13BGLDjdFW8zDe0jlClJV/HOsqasCjogIw3t5lXaNRYhErNRhniUi1BgXEtdhqm4lqmn7d/iX+BM7MYlzcoKxIsP8sNGh/R88AC0Fn652Ju8Gaabgm4jA/Phjf1VXKv71e2R3RdOUwZHKYDCY3iS5nuJaF0EvC8qsstDGqk8fH9lj25M1J6rZnnEtSibgTPwv002UDiljVl1guEdivtQRlkmquE9dcIDIdO6xzjw72Q0dQeVU6Llo3QY5c53QMMY/CuULmRvzgao0vKnNJR57DR6LcgeZgTtLCF0RlPT3l+mPcJF//OxI=;TNme3jsIe2uSSiEtuy/NIw=="
 ---
 

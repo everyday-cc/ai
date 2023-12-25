@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-21-apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud.md",
+      "title": "Apple wants AI to run directly on its hardware instead of in the cloud",
+      "excerpt": "Apple’s latest research about running large language models on smartphones offers the clearest signal yet that the iPhone maker plans to catch up with its Silicon Valley rivals in generative artificial intelligence. The paper, entitled “LLM in a Flash ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
+      "originalUrl": "https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/?ref=birchtree.me",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/Screenshot-2023-09-12-at-1.59.20-PM-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T06:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-21-the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai.md",
+      "title": "The New HR Playbook: Catalyze Innovation With Analytics And AI",
+      "excerpt": "Explore the exciting advancements in HR analytics powered by data and AI. Gain insights into how no-code solutions, along with metaverse and blockchain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6583ea74bb752dfa5d2947e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
+      "publishedDateTime": "2023-12-21T06:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.md",
       "title": "Q&A: How Athenahealth moved from traditional AI to genAI and ChatGPT",
       "excerpt": "Athenahealth has used AI for years, but generative AI opened up new efficiencies in processing healthcare requests and records. There were challenges, too, as Heather Lane, Athenahealth’s senior architect of data science and platform engineering,",
@@ -534,7 +636,7 @@
       "originalUrl": "https://www.nbcnews.com/now/video/rite-aid-to-face-five-year-facial-recognition-technology-ban-200656453996",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -1108,101 +1210,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-how-to-build-a-successful-ai-strategy.md",
-      "title": "How to build a successful AI strategy",
-      "excerpt": "Explore these steps to building an AI strategy that can help your organization address the complex challenges associated with AI.\nThe post How to build a successful AI strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/hyperlapse_0015.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T16:01:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning.md",
-      "title": "Revolutionizing Antibiotic Discovery: The Power of Explainable Deep Learning",
-      "excerpt": "Researchers at MIT, the Broad Institute of MIT and Harvard, Integrated Biosciences, the Wyss Institute for Biologically Inspired Engineering, and the Leibniz Institute of Polymer Research have identified a new structural class of antibiotics.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "originalUrl": "https://scitechdaily.com/revolutionizing-antibiotic-discovery-the-power-of-explainable-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Drug-Discovery-Concept.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

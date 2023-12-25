@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "2024 election: Google to restrict queries from Bard, AI-based search"
-    excerpt: "Google will restrict election-related queries from Bard and AI-based searches, Reuters reported. The announcement from the Alphabet company comes ahead of the pivotal 2024 US Presidential election."
-    publishedDateTime: 2023-12-20T01:46:00Z
-    webUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search-11703033406851.html"
-    ampWebUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/12/20/1600x900/FILES-US-INTERNET-TECHNOLOGY-GOOGLE-0_1703036494739_1703036516954.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Alphabet to limit election queries Google Bard and AI-based search can answer"
     excerpt: "Google said it will restrict the types of election-related queries its chatbot Bard and search generative experience can return responses for."
     publishedDateTime: 2023-12-20T04:02:00Z

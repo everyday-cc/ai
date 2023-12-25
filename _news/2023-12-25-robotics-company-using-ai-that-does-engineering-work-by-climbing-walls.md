@@ -9,7 +9,7 @@ ampWebUrl: "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-d
 cdnAmpWebUrl: "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:
@@ -74,6 +74,6 @@ related:
       domain: cbsnews.com
     quality: 17
 
-secured: "T6GzYbfCgHw6DS3bWdO/r9k5tQudEIWoynmzi8r9tXv44DBLOjHiTLdPGhgASIfwTg68Rcv4R87cpeKkf701eIAdmnj3hVNJUtkpHTIzh5d7YhCHXGcMcQY2qhHvVHCRFlXoPRYXZpvmNmduBbSTNhOK/wZpK1bWL4WX0aftREu6uNIzK0xctrta0Lfe5z0rr617FjbETIi07jjXHvOjZVh3kGeAIMhoy+aYyXLFQwIQDQAmAvMWniFGpPJWcLBrX339qmlV5iJobhLV8J9n6Zv/sXlIAO6GmNoSgjOaceXTh8ALyPu6mb45EvRqEAZSYgDyHBSsYybC6qsnOREeGbtruKLfyd/NQrBIxCXkEXk=;JjpQPrUDLHU799o4zjdNYQ=="
+secured: "OYPWiYkhk6Xd0QZYJrzCI+kcLOHQbZ/PclDZdLvbKqIZc4JkYTRx+SQH68iFHohC3ANC/WYjbNnW98k1LKODy/wuUrPE6m2t1ez6nU/e5/pZJBwQIaB+n+ELPKv4dZdJN4SpVuteeI2A3aw7V46aLdVkUTELP92xyqmOZ3hSInCUg+iQTp5CLQ4MFgr0KRDd9kms7AnfxpPwzdvW22oM7ZVnfgYRA9zkAyovwf/GVRbTtH/wQJutBjQF+4Nwxmm3iU+xFFp0mSD48zzVyi6iPal8ScZ7wiif5ptfE7K1JKzQuYpvTixC7mGZS2b6q/W0HUE+xEqhwBfhjnKlHzXIGwVyzuP20HpBJSi9XKQ64wfyTng59IVIQb/d45r2tae/G2yYdcHWT1stbb3EjYVizHHmRdfKi1DGMcmk53L3mB3zdE/wr8yf/ybd/AZY9zjefujORQ+f3oUWkSyipWxcUtjjSTQgWPGd2jDP/2R29lJUpcGghScaMh8FlKKD25+MzqeYvco4O7GY9jFXkHHPDA==;jDRPiBhz1rbI+eoU4yBfCw=="
 ---
 

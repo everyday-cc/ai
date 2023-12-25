@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Networking through Introbot, an AI platform that helps discover and build professional connections"
+    excerpt: "Introbot is an AI-powered platform that helps attendees access and nurture business relationships with relevant decision makers at events and business communities."
+    publishedDateTime: 2023-12-25T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/networking-through-introbot-ai-platform-for-professional-connections"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 40
+    images:
+      - url: "https://images.yourstory.com/cs/2/fe056c90507811eea8de27f99b086345/CopyofImageTaggingnoframesEditorialTeamMaster16-1703156713799.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Robot plays constant companion to elderly"
     excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
     publishedDateTime: 2023-12-24T10:14:00Z

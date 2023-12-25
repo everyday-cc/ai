@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-25-9-ai-tools-that-can-help-you-peak-your-productivity.md",
+      "title": "9 AI Tools That Can Help You Peak Your Productivity",
+      "excerpt": "Explore 10 essential AI tools to elevate productivity, from Anthropic Assistant for task management to Otter AI for transcription. Discover powerful aids like Grammarly, Evernote, and Quillbot for diverse tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814",
+      "originalUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-106238996,thumbsize-103258,width-1280,height-720,resizemode-75/106238996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp",
+      "publishedDateTime": "2023-12-25T02:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
       "title": "Robotics company using AI that does engineering work by climbing walls",
       "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -157,7 +200,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1327,49 +1370,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meet-the-researcher-building-real-robots-for-real-household-chores.md",
-      "title": "Meet the Researcher Building Real Robots for Real Household Chores",
-      "excerpt": "If you wonder what is the robotics equivalent of ChatGPT, \"there are not many answers\", believes Lerrel Pinto, a robotics researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
-      "originalUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/analyticsindiamag.com/wp-content/uploads/2023/12/Meet-the-Roboticist-Who-is-Solving-Household-Issues-with-Robots.jpg?fit=1920%2C1080&ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T11:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

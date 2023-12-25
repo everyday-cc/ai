@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/alphabet-limit-election
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/alphabet-limit-election-queries-google-bard-ai-based-search-can-answer/article67656883.ece/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: The Hindu
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2024 election: Google to restrict queries from Bard, AI-based search"
-    excerpt: "Google will restrict election-related queries from Bard and AI-based searches, Reuters reported. The announcement from the Alphabet company comes ahead of the pivotal 2024 US Presidential election."
-    publishedDateTime: 2023-12-20T01:46:00Z
-    webUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search-11703033406851.html"
-    ampWebUrl: "https://www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/news/2024-election-google-to-restrict-queries-from-bard-ai-based-search/amp-11703033406851.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/12/20/1600x900/FILES-US-INTERNET-TECHNOLOGY-GOOGLE-0_1703036494739_1703036516954.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google will restrict election-related queries that Bard and AI-search can answer"
     excerpt: "Google restricts Bard and SGE for election queries to curb misinformation ahead of 2024 U.S. Presidential elections."
     publishedDateTime: 2023-12-20T10:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo200656453996"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo200656453996"
 type: article
 quality: 104
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -171,20 +171,6 @@ related:
       - url: "https://www.popsci.com/uploads/2023/12/20/Depositphotos_616971216_L.jpg?auto=webp"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "FTC calls pharmacy Rite Aid “reckless” after facial recognition use in stores"
-    excerpt: "The FTC said Rite Aid had acted recklessly when it used the technology in its stores from 2012 to 2020 to capture images of its customers in an effort to decrease the number of shoplifting incidents. Customers who had acted suspiciously had their faces saved in a database, sometimes at the side of personal information."
-    publishedDateTime: 2023-12-20T02:17:00Z
-    webUrl: "https://siliconangle.com/2023/12/19/ftc-calls-pharmacy-rite-aid-reckless-facial-recognition-use-stores/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/nick-loggie-fRVPzBYcd5A-unsplash.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Rite Aid banned from using facial recognition technology in stores for five years"
     excerpt: "The company has been banned from using facial recognition technology for five years over allegations that its surveillance system was used to incorrectly identify potential shoplifters, especially Black,"

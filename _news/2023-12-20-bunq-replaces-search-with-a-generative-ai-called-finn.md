@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "You Can Run a Generative AI Locally on Your Computer"
-    excerpt: "If you want to have your own ChatGPT or Google Bard on your local computer, you can. LM Studio lets you set up generative LLM AI models on a local Windows or Mac machine."
-    publishedDateTime: 2023-12-20T16:29:00Z
-    webUrl: "https://lifehacker.com/tech/how-to-run-generative-ais-locally-on-your-computer"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 39
-    images:
-      - url: "https://lifehacker.com/imagery/articles/01HJ3PEGJ2J1V0X16MBSH2GHG6/hero-image.fill.size_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Neobank Bunq rolls out customer-facing gen AI tool"
     excerpt: "The new tool, called Finn, replaces the search function on Bunq’s app, allowing consumers to plan their finances, budget, navigate the platform and find transactions."
     publishedDateTime: 2023-12-20T19:44:00Z
