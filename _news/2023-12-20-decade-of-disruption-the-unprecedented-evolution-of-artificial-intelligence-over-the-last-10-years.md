@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://financialbuzz.com/wp-content/uploads/2023/12/VCI-logo-400x250.png"

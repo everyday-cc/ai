@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
 type: article
 quality: 57
-heat: 80
+heat: 81
 published: true
 
 provider:

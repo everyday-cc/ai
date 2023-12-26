@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-26T10:00:00Z
 originalUrl: "https://www.businessinsider.com/top-investment-bankers-for-generative-ai-acquisitions-capital-raising-advice"
 webUrl: "https://www.businessinsider.com/top-investment-bankers-for-generative-ai-acquisitions-capital-raising-advice"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/658202eca79e5746976b2f28?width=1200&format=jpeg"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "INCLljxx2tXGY/NluCDFQST+YICjauQHHAgzrpIoavA39x1PeblyepLuCHV/FUw1CPqGZyYcU5PvlGYR9/I0C7aUmkP59731Vyo2id7ttbb/vim55Wt8zWFnI8mXvMQxwMLtsP7z0tOtK0qc78q8rI7T1QJX1+fVGLjuyTCCBbscWiNKyOm+ZS4XqNCg/fS7STopjEXRNhMPbHW2Y2+lWWoX7RXBUpJEqELPLxTgYmH+HuyXqpAsrHX40ERfxSw7rNb1cQ6QYa6FwT6bciBHccADM7/ReNrvVeZ+hyeSIx8Eg9qIk1Hb7f3M2KnB3ovul/gY+ju7oHs92xUYLP9e7kEZn9pg9AcMenZJ1uSCGTA=;1qjMeMSyyMvN3C+8V6+dwQ=="
+secured: "Ae1hfnlM42IGt+xv0PjBfCnVSE7TkDLaaR00I3VDH8XI4xSKKTYQvb7x5l4pm7lWAC1VJrPQJVMPERhmpJuZ/FaWj8wrYV9PN4aDOdx6sMRIJD6bTiyyOdjfVgC+TyOR11fLsEVSOARz61ImvxbQicaGER2pcZicTm3KRq8l4i97sZ6KJvsSp7htKeHRc7ME7YR5QPIpm1gHsVloy9Me5BfQNgoEcnOWDGakGiNtjq2Aq+TI4cX8MUxSR/rqw2vzvvBVU1MIP3JECm2k0c+adDpJaNuZmlBzR5rRkQryaBKgFEH4yzBzvyyM50xUq6SQRPcYNTHupDU9RP4CwMIvfxyDsLPKmSpL/wW/s9bddzB6niCMX3G8KboGwi/BB6BGX/NM4/lAuXZfca2uvV+U+klacVhOeM8wwa/fVQfctD75k2pzNQVt6Ac8G/4bzBEZnDixnQfO1n9TjbTAkJFaSKOlnuHEelZZFElymLhmnPmkyOxVPb6MnFVPRo670vT+6OmU759BBdUU5kU3jt3UhA==;EAV3P4us7y+zB9xshAAAXg=="
 ---
 

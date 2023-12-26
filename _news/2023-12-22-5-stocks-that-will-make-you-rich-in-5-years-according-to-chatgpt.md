@@ -57,7 +57,7 @@ related:
   - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
     excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
     publishedDateTime: 2023-12-26T09:21:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
+    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=mc.news"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
     type: article

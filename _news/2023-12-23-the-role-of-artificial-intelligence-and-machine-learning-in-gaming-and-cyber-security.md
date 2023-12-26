@@ -51,6 +51,20 @@ related:
         width: 1125
         height: 900
         isCached: true
+  - title: "China is shoring up the great firewall for the AI age"
+    excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
+    publishedDateTime: 2023-12-26T11:48:00Z
+    webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2hbVaINOyQeIlv6XvOgqynHqhJ755cZnDzujqmn/0ztJvN2pWv5+ChpVgw+kRqHXyPMxDRK/mmXMowzBxUmPwzquKQmnoHPddzXLV0rBtl9Q/YE102dNU7HIq3Tt51BUfjcpRPA3ZY/WKqm0jVlC0kdxKsrs3r+2BBgmrr05Dqn6+spwf0/3lO3WiLXPurd1VTKrIWeZPQ7SftZYx1NSuBaghW+waJk9xVWE2WenBHNWPKvrQ5/lg8FDp5YfPSCyKhTxO9Hwg1Xb7PVsb92nEnL6QgoQ/0A51Hy3JbEFT2svYamo2zTXl4cGCK2sAxiO+dkOq6Y7s78p+fsyfFEj+R+8tgx8uMZEhdWVsTM8L0TSxXzY6XaJb2/cTxvpPTTGK4AjNqmFX/PfMbOZMg8K9Fn94wZZNwHcQBfhyzbFJQm1wesR3qBMmCd6vQP1aUTjspjDYSAdMWxuCC6p69b8Q06Sm8q+S9DhIR7mloWFN7NIpyiSp8/uNEsLWK+iH0TWvUJXeteqVcgVwbfwV3Wf/Q==;+L7SCo/CkU5TnueSaGIHdw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
 excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
 publishedDateTime: 2023-12-26T09:21:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "v1eDA6hN+q+sA4BcxWJFMjG3L6qw27xujhKW5y30lrcGgTsY07W+1VdkRLD726MM//OLmr+aRqjkmat3+Gc4OX4+8p8U2fpfwTdxCawVfmO2ty9Il4QBggobist9Po3SF8NBgp/lFsqAgqztlnOG8QvDEZyGlkZ+ulOtE84As6RHKCuoqgha5exGcT0fnTbgjZoJDClS+Tjuyk2GKgd0oBeHyrH4p0Lf/fBnmcH9i8HnI4IN8fyDEqY8Lwzht8vg/c5wFTPsYPb7zHNQGdd6LQ16yX2Eys5VUPM3Dx5ECIT0bE9pgL6ctDMPK+KRZEauA0QhwPpXA1ll9RNOg10irQ9CPkrjDd2Edfw7hMDj12Y=;UhOkDEmMmNKMvBmCTVf3uA=="
+secured: "YQ1jAw/2pKdc42CqfiYeUsGRJSgVLvsbIaLiq59JWMvMjije5+JCIQsy6XAH6lz/I/k5HlVHyFmYVzFkKrU338uvj/ecS7v6nvF1V2b6s0QU0hLvKP52W1I4KB8bdc6km+bUOrd1qa5W+ZHGDF+xTtFT80LFjshSz4OiVfEhwu3YO2zRN8PVCRP3gmc08+O6Xlli89YSWA3TVloowWhJxhP8o/x/NdQgoKH7QTPPPTjQuaN+KBuiiVM1wIXJ8SVq/ZKlMj+8kOdKvDOeu7nJX4JUWJ0Tk6O0lgAEH/bhFAB7IvYqBPrQZvPe+3E1uXyml1sBV9XWL45h6ARiet4AxVXwemhcNdWhgaXnMk979S8=;NR7nSp3MkZ/YORbgKVvHUw=="
 ---
 

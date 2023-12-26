@@ -10,7 +10,7 @@
       "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -244,6 +244,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years.md",
+      "title": "Decade of Disruption: The Unprecedented Evolution of Artificial Intelligence Over the Last 10 Years",
+      "excerpt": "AI has made significant advancements over the past decade. Here are some key areas where AI has evolved in the last 10 years:",
+      "sourceUrl": null,
+      "webUrl": "https://financialbuzz.com/decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years/",
+      "originalUrl": "https://financialbuzz.com/decade-of-disruption-the-unprecedented-evolution-of-artificial-intelligence-over-the-last-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialbuzz.com/wp-content/uploads/2023/12/VCI-logo-400x250.png",
+          "width": 400,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1377,49 +1421,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-artificial-intelligence-creates-terrible-iowa-superhero-watch.md",
-      "title": "Artificial Intelligence Creates Terrible Iowa Superhero [WATCH]",
-      "excerpt": "Artificial Intelligence can be an incredibly useful tool for many people daily. We use AI in our phones, automated cars, online shopping, advertising, smart thermostats, etc. At its core, AI is the ability of a machine to display human-like capabilities such as reasoning,",
-      "sourceUrl": null,
-      "webUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "originalUrl": "https://khak.com/artificial-intelligence-creates-terrible-iowa-superhero-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/726/files/2023/12/attachment-esteban-lopez-6yjAC0-OwkA-unsplash.jpg?w=980&q=75",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHAK",
-        "domain": "khak.com",
         "images": null,
         "publishers": null,
         "authors": null

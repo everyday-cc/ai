@@ -85,22 +85,6 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Getting The Most Out Of Generative AI"
-    excerpt: "Like many transformational technologies, I have found that the adoption of generative AI is dependent on three pillars: people, processes and technology."
-    publishedDateTime: 2023-12-21T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/21/getting-the-most-out-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e5071996eeb1b2554af6bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Top robotics names discuss humanoids, generative AI and more"
     excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
     publishedDateTime: 2023-12-22T17:14:00Z
@@ -179,6 +163,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Using generative artificial intelligence as a financial tool"
+    excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
+    publishedDateTime: 2023-12-26T11:00:00Z
+    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/sagemaker-model-parallel-library-pytorch.jpg"
         width: 1010
         height: 505
+        isCached: true
+  - title: "How to fine tune Mixtral 8x7B Mistral Ai Mixture of Experts (MoE) AI model"
+    excerpt: "To begin the fine-tuning process, it’s important to set up a robust GPU environment. A configuration with at least ... verify that the model is ready for deployment. Engaging with the AI community by sharing your progress and seeking feedback can provide ..."
+    publishedDateTime: 2023-12-26T11:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/fine-tune-mixtral-8x7b/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 37
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/How-to-fine-tune-Mixtral-8x7B.jpg"
+        width: 1280
+        height: 716
         isCached: true
 
 secured: "udvOfGO7pt9zKr1MMaMmDC+aUnhP3qR8k084GYaMzhxj49ThfwPdR8DAW1gcAEPK6fTM37bGOPNoL0HMeWwpSPN8fXqGizMOYed5/3cHNpJUo9zfiF5sGYo8gFYizBdoNP5HsPVC2Uvp5OLfI3LVyTOxSwUiKFcpwjxVfHFdQYl7gWhtOmzCrqO4Okd+RrF9HykBYAQkmJNEP1qOD553LdhOm3/NuWJdsWXTsH/mtoA2ECVCTIMrL7O9LR21teMIe7Am8hAbccsVqh9jeBkxFlNrLvYWteKZSaYNDuU0jqTkeShXvf2GcSoLcGMMD5LDzbeuVnxSH2p7vVMfncwbSX3X6I0MlLOs1CbzgodFwlM=;+Kp2KooUi0G9Hj21w14/9A=="

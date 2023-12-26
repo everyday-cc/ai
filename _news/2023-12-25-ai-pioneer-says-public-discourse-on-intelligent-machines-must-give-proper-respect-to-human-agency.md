@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-12-ai-discourse-intelligent-machine
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-ai-discourse-intelligent-machines-proper.amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1920
     height: 1357
     isCached: true
+
+related:
+  - title: "AI pioneer says public discourse on intelligent machines must give 'proper respect to human agency'"
+    excerpt: "She's an important figure behind today's artificial intelligence boom, but not all computer scientists thought Fei-Fei Li was on the right track when she came up with the idea for a giant visual database called ImageNet that took years to build."
+    publishedDateTime: 2023-12-26T12:40:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-pioneer-says-public-discourse-on-intelligent-machines-must-give-proper-respect-to-human-agency-71703524361923.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-pioneer-says-public-discourse-on-intelligent-machines-must-give-proper-respect-to-human-agency-71703524361923.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-pioneer-says-public-discourse-on-intelligent-machines-must-give-proper-respect-to-human-agency-71703524361923.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 45
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/26/1600x900/3_1703165062761_1703552786622.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "8d9NLSbuMJPO+wVFhvsk413Msq42669E8z5CMmtJ8/gLVv7coyBsxa9z8wkYodIV4pwLKgtTT5DXLBTNPxNO6sgSQV1abtTgn9rN5GyE8ZMLHa1gzXnp2f/egAL3/4Nyi3ebAQV4lCOMd3EZxv0RCkGRas9QJmjL3a2WlXivxcFiduvO1fPE+9SVf8Hv5f627pR+sZvJCgQbVuPKeGSqvWILAGsJ2MjnnQDDBKb5Clmo5sX+EMkuVtZFqtaVP6Z33yqzA+6a8lm3Zitr0cjcxdKrBNO1jP6Grhmx7tPUnpZ4AqeCQ8XY7TWvc0Gr+LsppbMzSd6oj04yy7Hdng7WW5WoZUbJiOpxHGMuHhZ9mF4=;/l8VHsIU5/mYS0oLpH8t4w=="
 ---

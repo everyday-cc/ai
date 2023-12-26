@@ -2,6 +2,212 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-23-the-adoption-of-ai-and-its-effects-on-businesses.md",
+      "title": "The Adoption Of AI And Its Effects On Businesses",
+      "excerpt": "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/",
+      "publishedDateTime": "2023-12-22T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow.md",
+      "title": "Grimes And Her AI Toy Grok: The Fearless Leaders Of Tomorrow",
+      "excerpt": "In the maze of AI uncertainty, branding and positioning become even more essential to illuminate the path and help make sense of it all. Enter Grimes and her AI toy Grok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/",
+      "originalUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6585ca69f03fcb1a08300c65/0x0.jpg?format=jpg&crop=3999,2250,x0,y199,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/amp/",
+      "publishedDateTime": "2023-12-22T18:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Mixtral-8x7B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg",
+          "width": 1005,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T17:15:59Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-apple-is-working-on-running-ai-on-iphones-and-ipads.md",
+      "title": "Apple is Working on Running AI on iPhones and iPads",
+      "excerpt": "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apple-llm-iphone/",
+      "originalUrl": "https://www.techrepublic.com/article/apple-llm-iphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/apple-store-dec-23.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T17:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain.md",
       "title": "Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain",
       "excerpt": "Generative AI agents are capable of producing human-like responses and engaging in natural language conversations by orchestrating a chain of calls to foundation models (FMs) and other augmenting tools based on user input. Instead of only fulfilling predefined intents through a static decision tree,",
@@ -271,7 +477,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -323,7 +529,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -727,7 +933,7 @@
       "originalUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1058,204 +1264,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-google-might-already-be-replacing-some-ad-sales-jobs-with-ai.md",
-      "title": "Google might already be replacing some Ad sales jobs with AI",
-      "excerpt": "Google is wrapping its head around the idea of being a generative AI company. The \"code red\" called in response to ChatGPT has had Googlers scrambling to come up with AI features and ideas. Once all the dust settles on that work,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T17:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-the-existential-state-of-generative-aiit-isnt-what-you-think.md",
-      "title": "The Existential State Of Generative AI—It Isn’t What You Think",
-      "excerpt": "Marketers can't overlook the astonishing number of vibrant startups out there. OpenAI is just a poster child for an explosion of promising entrants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daviddoty/2023/12/21/the-existential-state-of-generative-ai-it-isnt-what-you-think/",
-      "originalUrl": "https://www.forbes.com/sites/daviddoty/2023/12/21/the-existential-state-of-generative-ai-it-isnt-what-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65847dcf6d02017d878f19ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1361,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/daviddoty/2023/12/21/the-existential-state-of-generative-ai-it-isnt-what-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daviddoty/2023/12/21/the-existential-state-of-generative-ai-it-isnt-what-you-think/amp/",
-      "publishedDateTime": "2023-12-21T17:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas.md",
-      "title": "Overcoming common contact center challenges with generative AI and Amazon SageMaker Canvas",
-      "excerpt": "Great customer experience provides a competitive edge and helps create brand differentiation. As per the Forrester report, The State Of Customer Obsession, 2022, being customer-first can make a sizable impact on an organization’s balance sheet, as organizations embracing this methodology are surpassing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/overcoming-common-contact-center-challenges-with-generative-ai-and-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/16/wisdom-s3-sync-diagram-1260x431.png",
-          "width": 1260,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T16:29:44Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game.md",
-      "title": "AI powered robot sets a world record after beating humans in a classic marble maze game",
-      "excerpt": "We’ve become almost complacent with the idea of computer systems learning how to beat the best human players at games of intellect such as chess, poker and Go. Now researchers at ETH Zurich, a university in Switzerland,",
-      "sourceUrl": null,
-      "webUrl": "https://windsorstar.com/news/ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game",
-      "originalUrl": "https://windsorstar.com/news/ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2023/12/win.png",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://windsorstar.com/news/ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game/wcm/0acaf506-7289-42a7-9122-2dd4c91ddd92/amp/",
-      "cdnAmpWebUrl": "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game/wcm/0acaf506-7289-42a7-9122-2dd4c91ddd92/amp/",
-      "publishedDateTime": "2023-12-21T16:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windsor Star",
-        "domain": "windsorstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

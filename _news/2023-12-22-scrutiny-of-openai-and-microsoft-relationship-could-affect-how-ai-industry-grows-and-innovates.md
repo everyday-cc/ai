@@ -116,15 +116,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
-    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
-    publishedDateTime: 2023-12-21T12:37:00Z
-    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
-    type: article
-    provider:
-      name: sensorsandsystems.com
-      domain: sensorsandsystems.com
-    quality: 32
 
 secured: "RTl9+iVHsP5qfnyuQdNvs9F/8Jwucg6Ecz7eO+61xsXBIJKu2bmx5rrn9xUC9auMRD2lLiIFi6te+YiJ4hUBRpHfa1JJhWMvrZoZU6uT9qFg1aMwRIE1m1eqA3s2yMTs5qyP7nNfT9qtw4A0+qeURSY3c43IeIR30eRwMDTmr8z9mtVFUceR4IJQWi8v9snLhWnXV7Lq+4deLHuhihohhBpSYjLBTOzhkFL5i5im0YRTgX9kmc24+nIhb32nuxD3gQ/Gvm4y5LQXhVMpDuHLxSWfDV821v9ZF1qiR6gofG3DpFReZACrmu5ukC7ZDcszvJkK248WyCyCzUZ3PJo1jxfxTfopFMAgwn4W1xJWajbBgt6tzSc7ELjEsoKRylrVG4EtAxEWm7BdDzYVxxzATO6UVF9uFpfn7cNkXzUSaM7pLLBJpRsbq5QxhvILncreaj5UP8hUecLs9WKogJPw0nIghR939Zok9B3u1rX3cfih9xzR0Iecv28wUDZ7aEsJQNKOoQC4UWglXRHINBn7Zw==;L9VolYpKqU7vD5J5qvMuYw=="
 ---

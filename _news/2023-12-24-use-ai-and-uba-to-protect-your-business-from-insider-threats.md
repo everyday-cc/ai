@@ -41,6 +41,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "The Benefits And Risks Of AI In Financial Services"
+    excerpt: "The financial services industry finds itself undergoing a transformation driven by the rapid evolution of technology, with AI spearheading this revolution."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Artificial Intelligence and the Law of the Horse"
     excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
     publishedDateTime: 2023-12-21T21:16:00Z

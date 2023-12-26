@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-rol
 webUrl: "https://www.ibm.com/blog/reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor/"
 type: article
 quality: 95
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2023/12/1-73-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "China is shoring up the great firewall for the AI age"
+    excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
+    publishedDateTime: 2023-12-26T11:48:00Z
+    webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "nyFaRerYUVUyA/WejF1TbG09fTj41WxrxEC9Gx4n9tTcpN028RA2/bFu67PcrWRJliZTdmUE7g5fi3PaFWMhaEKbztcYSmuylIMmXKjw9kpbKqTOG4pD20NR9/6Pfzvq/ExpFyqNEYL9eokTaJFpIgjIcB3+2tfokDVDqrw3tE7Ko5/WAlM8KGG21pqfJWbOywrMdp/JFpS/hF7KxsnF1D/if4hpCX4OecqcW32vysM3V38EcNIhTckKOXApZMcFZlLprZ8S0gi0NGjYeaquks3fSNt22NriKFnfj+XgkszXJqfQt6IVxX17TXnTfZZgGsiuSfchQLZcjFyzXHxNGMMjaHdh419lGdiFvQbheDM=;rdE6aWar3dQjdiIKGJhEaw=="

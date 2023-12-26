@@ -41,6 +41,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Not to Brag, but My Stock Pick for 2024 Is a Super Player in the AI Space"
+    excerpt: "The surge in AI applications has created a strong demand for a new breed of servers that can handle the significant heat and electricity needs of robust GPUs such as the ones Nvidia ( NVDA) provides. Traditional data centers can't manage generative AI and large language models (LLMs)."
+    publishedDateTime: 2023-12-26T12:00:00Z
+    webUrl: "https://realmoney.thestreet.com/stocks/not-to-brag-but-my-stock-pick-for-2024-is-a-super-player-in-the-ai-space-16140725"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 16
 
 secured: "xAghhCacFwI+7D3TDzoy/3so1ltm1Zvf3i/OVLkleJbpKAfPbGosqAQEJ2UKSwul4Pqutc4CuTnUOETurY0dNf3czDnNf/WBmbBm7th8cm9VnCvyUbtWeSbjp1pJiPzLEZzzJoR4RTZQNnvM6rqYiEFaKHGfAVK+ps95S06lJ284vdFdJia92eVv1/pKALwEv3KUybp0Kbh/8oco0WvhXrRJR39a/vUHXbIGZc+WcI49PsbmBZ7QyjlnSkAOENHHGnfVrTiRdljlY0G2mla3JH+Vf8AepNh/ztTc6+EknbCVdjNNFdk+vpYcmqw7JMtuS0PieEdd+9SCjlcuVDLpGDdDj1eKLll/8n9aH8FAvaKDOutzusTABbkkanGQhXFbdv4cqV84y5D9Z+kyinOZFEoBq2Iq9vB58sX4BdL66skp/sY5ucK0CJUqUrKTe63WSZXbcZDKQdwEBr7CbUGR/l8VAU5FPFEWNsUxJabxL37NgitvumukI/B3bj3+5cdKoX5nnTP12245r11CwVKciw==;pAfCvquTD3FufO+hGXZ4Ew=="
 ---

@@ -109,15 +109,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
-    excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
-    publishedDateTime: 2023-12-21T12:37:00Z
-    webUrl: "https://sensorsandsystems.com/tomtom-joins-forces-with-microsoft-to-bring-generative-ai-into-the-vehicle/"
-    type: article
-    provider:
-      name: sensorsandsystems.com
-      domain: sensorsandsystems.com
-    quality: 32
   - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
     excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
     publishedDateTime: 2023-12-21T20:50:00Z

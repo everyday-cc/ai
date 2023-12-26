@@ -89,15 +89,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 38
-  - title: "Why These 7 Fintech Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the macro picture appears increasingly brighter, fintech stocks are coming"
-    publishedDateTime: 2023-12-21T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-fintech-stocks-should-be-on-your-radar-in-2024-1032918833"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Top 10 financial services and fintech stories of 2023"
     excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
     publishedDateTime: 2023-12-22T04:59:00Z

@@ -46,6 +46,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "The Benefits And Risks Of AI In Financial Services"
+    excerpt: "The financial services industry finds itself undergoing a transformation driven by the rapid evolution of technology, with AI spearheading this revolution."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Use AI and UBA to protect your business from insider threats"
     excerpt: "The latest research, including findings from IBM’s 2023 Cost of a Data Breach Report, underscores the significant toll that insider incidents can take on a company’s time and finances. To combat these issues, AI and machine learning are stepping into ..."
     publishedDateTime: 2023-12-24T09:15:00Z

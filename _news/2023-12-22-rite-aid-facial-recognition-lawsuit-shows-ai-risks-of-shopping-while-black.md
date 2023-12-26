@@ -39,15 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Rite Aid banned for 5 years from using facial recognition technology"
-    excerpt: "The pharmacy reached a settlement with the Federal Trade Commission after the agency found Rite Aid used the software to unfairly target people of color."
-    publishedDateTime: 2023-12-21T12:48:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/rite-aid-banned-for-5-years-from-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 34
 
 secured: "yBe8OKg+Ckwj1/YpIYULRshp5p5KYXf2j8ERM2EebLcjreXeyYxeS+D5GhRspzG6JNbjZ+0M7Sz6gwOWCmiFyQVRh5qNprOSVfhSNP+lxmwAxB1ReBUnJwIv48cxDJnSB2PqZMzdeb7Q994RzS1PeAYRLY36xzYs3G/7uQTB6mv3LkiEy8g8yOEHWNf7be4W0n9otb/aiGqh/dWE1xgESLkQoQ9K8TOX9cJate6lcJtghKVl2kpZllKfl5GqMruUrbBzwT6jwrFnUjoP/E2+MOKaojNUREAPSyrpClDgMWbokGsoOwzOzfm7Jwqvc2x+JKi5hc+Rhhk77f5mcO9CWkMNEO/XjlNNezN9HojocQNeHe2zgY1avyTJ0X2wm73kGncZ5fZ+ZFQLyNSZJE2kXmki5kwW7urW12m3pO5g5/yrl8k7NwrWDNt9eMULPbX1GRc/miEFWvQGoRt8OAs+NvHLwzMMawG8nCfcgtMaS5O6Ob70Nx+2tR6YzSaAluzrV31pWxCaEENXbzNWutE0eA==;mtyifQdlS53mtNLXnJjNeQ=="
 ---
