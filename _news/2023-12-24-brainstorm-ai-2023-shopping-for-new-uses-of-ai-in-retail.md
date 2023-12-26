@@ -60,19 +60,19 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
-    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
-    publishedDateTime: 2023-12-21T13:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
+  - title: "Navigating AI Trends for Startup Founders in 2024"
+    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
+    publishedDateTime: 2023-12-26T04:21:00Z
+    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 19
+      name: Nerdbot
+      domain: nerdbot.com
+    quality: 39
     images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
-        width: 600
-        height: 600
+      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "nx9tRZpqFbEHC3Y9Pg+MVc89QkMlQSC3FO8nP/Lw0q8EAKukpjB1jp8AoliXz44dE5niB2SVh7nfnYopqMrvAcmgkf4AlPTNtGATGFbUeqzGg7V1d+VmU44QJvr1cdB2ekASDd9PwU1wr/qr/ROU4ot6PLLXyRHqImvr0pvCDE0TIrymkEEwFuMVjYl5KtRGA6BjnjwZ8otSb0zN9t9aXofgpxIAq88rGRVsmVmZpDqdozKUl2XDLIZNRU/hWnb8X8T8hP2gaUZDMcdsNVDNs8QTxX8YxrfRSO6sFHuguYCPUVwItoPJDQtae5Ge9yS2EatJxrq1q3MmPvPU8ZGYsD3P/1wktWTNQ1ynTTr7YYfMYHgAEbf/zss3SRhQCOFtRX2jqNaW8pvrBvLuqRxpiDNKgl9uVZlRVTu5dUyd4ubX6KjI9WRG4EjBuWOY06BcVVVNUUf9yhtQ7KV+1jtZ+QQJLIa+tWRRa3aK8KsdURUuhFg1kESleMy5Hh96vBjuWQnFe8exCY/HPa80WPkhxQ==;zB3R8vYqX6+UD4RRzuqRQw=="

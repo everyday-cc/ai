@@ -80,6 +80,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Fears grow over AI’s impact on the 2024 election"
+    excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"
+    publishedDateTime: 2023-12-25T17:14:00Z
+    webUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/8249bb2c2317ad997df4e313cfa1a85d"
+        width: 900
+        height: 505
+        isCached: true
 
 secured: "rkNZDiWoXPYxj0H2RsssPIYz62XyziCrkdCHEHc3BUtGhxkmGvt5oUKbiae4mXsQAxn9khmWvXf0EjyDSr+LS3TWz5GBUNSvZkGl1TbUOWTAHONO3K/2V+zdwYHqmRlOgTV4EGvodAwuIfGLA3LHWBxsDiiwIJqMGs2ygOvkFfWt1YD0P7bQhQgw8fGVHCqY8BY/jIjRrR6DRXZlg4bB427sQEkX6KX4r2X0BE/c/AOsPmQUB3BnBbJo+Svs5mXWWoVal+zzCdZUGj9zM7FIRXmYA66HBN7+blMeGEPzJ0IKrIXhX3wIck6fOkKlQt9KvZh0Aalic2o8cKDXFRFzg6jv49FL7T7+m+tT+fHVLSL6K2XHiuufPWL4HhrEvwcr1wYkJVM5J2HElIi2gB0gXd4fMsSGnGhHvexNz6SiM1EtHyX6y+CDp8BmGyI+HfEi51S0uoGqW5+iDxs2LR9D8xLfAFy7V8SCns8LLk76WvuEd9svISB9sBH/CxEFI9QPdcix6VMm367EOl4ECQv+5w==;mnCGMDE261cgk+FznvDkmQ=="
 ---

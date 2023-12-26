@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/12/21/business/rite-aid-ai-facial-rec
 webUrl: "https://www.nytimes.com/2023/12/21/business/rite-aid-ai-facial-recognition.html"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 44
-  - title: "Rite Aid banned from facial recognition tech use for 5 years after faulty theft targeting in stores"
-    excerpt: "The technology sent alerts to Rite Aid employees either by email or phone when it identified people entering the store on its watchlist."
-    publishedDateTime: 2023-12-21T13:07:00Z
-    webUrl: "https://www.boston.com/news/technology/2023/12/21/rite-aid-facial-recognition-tech-use-5-year-ban-faulty-theft-targeting/"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 20
 
 secured: "70dGQTCO2M7Lo4mGOsfREICVaAlaqJg/0iyEFcFc9B/Fcn3fgC2cSTmQf2K4CjwSsMD9ghVXVWhZzjYsDFmTdX2ftnk2eXfwMU413tlvVCs6ak2qpLPLRI09UOKUFUuMMxRn82DvnklF+jl8iLsVN/UXeth36dOs9yDTAhCnx9JBj1oYKKsr97SGASs+3mYtHl4FnhmAf5u44/MDsgohJFuTO144dq4X8b4ASMUJgKlh+78nd+IGvGtNkN7JaqVmrhuckZWgK68PDq31nuxyBH75qa5NvNNZAbnQmqsxuApMUOdgBBCQIM+J5qASDS0wm8Aj2AGfY4g1/YnEBuIo1x2QsUAVle5EkOY3cZbPYvMBTW9RwkXBJP4z7wVtao1/JXTWHzSKB2TubrgRi0Bs1KBgdeRrKNk4fm7cXTlwjoze4GPURyC7evAp/mI5QO3rZuTjnzH88rqVYCQFqGUO74Z4A/3axX2MVene0ReYKFmhMyHJFcJOFr46WZ7VwbxFYg3LaefetcUstBXeLX/cEg==;KB0uc8VW2JJU0rsLMNNL9w=="
 ---

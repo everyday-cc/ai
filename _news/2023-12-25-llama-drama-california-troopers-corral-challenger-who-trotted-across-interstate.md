@@ -3,63 +3,55 @@ category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
 publishedDateTime: 2023-12-25T04:46:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+originalUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
 type: article
-quality: 38
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: WHIO
+  domain: whio.com
 
 topics:
   - Meta AI
   - AI
 
-images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-    width: 1440
-    height: 810
-    isCached: true
-
 related:
-  - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
-    excerpt: "The California Highway Patrol received calls on Thursday evening about a llama on the loose on the busy thoroughfare that connects Reno to northern California - I-80. Officer Tanguay quickly ..."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://kfoxtv.com/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
-    ampWebUrl: "https://kfoxtv.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
-    cdnAmpWebUrl: "https://kfoxtv-com.cdn.ampproject.org/c/s/kfoxtv.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+  - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
+    excerpt: "TRUCKEE, Calif. -- There was some llama drama in the Sierra Nevada on Friday. The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet ..."
+    publishedDateTime: 2023-12-22T13:00:00Z
+    webUrl: "https://abc7.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    ampWebUrl: "https://abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
     type: article
     provider:
-      name: kfoxtv
-      domain: kfoxtv.com
-    quality: 44
+      name: ABC7
+      domain: abc7.com
+    quality: 41
     images:
-      - url: "https://kfoxtv.com/resources/media/fe157395-c122-4979-9ead-26db04b51ce9-large16x9_Challengerthellama.PNG"
-        width: 986
-        height: 554
+      - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
-    excerpt: "A Challenger caused some chaos along a California interstate and it wasn't the kind with four wheels built by Dodge."
-    publishedDateTime: 2023-12-22T17:28:00Z
-    webUrl: "https://komonews.com/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
-    ampWebUrl: "https://komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
-    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+  - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
+    excerpt: "The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet from a NorCal freeway. Officers had to corral a llama named Challenger, who was roaming westbound Interstate 80 at Donner Summit. Challenger had gotten out from his home but officers eventually caught up and apprehended him."
+    publishedDateTime: 2023-12-22T21:00:00Z
+    webUrl: "https://abc13.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    ampWebUrl: "https://abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
     type: article
     provider:
-      name: komonews
-      domain: komonews.com
-    quality: 44
+      name: abc13
+      domain: abc13.com
+    quality: 41
     images:
-      - url: "https://komonews.com/resources/media/fe157395-c122-4979-9ead-26db04b51ce9-large16x9_Challengerthellama.PNG"
-        width: 986
-        height: 554
+      - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
-secured: "oEhj6hl3odnUFKHgaSw2nv/vUUb2GRaaxvn4Feh3ztineXT4038Y8QKv1/JOHag8oBagpoLCuqYErroyJKXCNUV6a0DkZSLSe+fSZX5qy5dXeoJThxp2jCej3WyDnuQNx7KM7vsHENvIGK7S0tRt9QEXppVX2kCcQt1gycOz8TxEgdAeDQwkUeOrUb/AeNElGw+y8YQyqwEXI80m1OaSwCRUuDVNeEXFnt8P2fyN6206o/1DrBuLLMqlTQamWG8eiPiaMKschqw8u2+DhtfBh22Xf2xl9OAyHo7U+ci/OQlEyOsY+Z9L07f03BVurD1ZeNYQg+Ptz0cSth/m8UNlAmb3prZkT9Qtgpbehu55n3M=;HuIf83k0Bhom6jZPTu69dg=="
+secured: "SEvHj5uwqxvGNL8bQ3XWmJMJ0rtIPJSVzijq4VfVD7ErmH+/QvvgpKg30uqk/jm5RMLb29KSTtf2UuMMALBAy2JO0tdpMiWPF+hpSkn5IcCZDN6g7eGYzE2OKQGusGpuzvSsyajDGvmupT8UjBzjByjDoklNZWI0QUATaYR/H8JZ0kXfxD09FqtJIauZ08NAK1XgVmXo8BIUWZqup3INO0NTi/f4IciEa+KKaruZVGhzKwsSthvcde3ZYlrBxXJfmcyIEO2FyAzRmD+cf0xQtXBOzwZCp/ez6/LV+klh2EHvhmbGHPJ5/uW5kD3aO2epw+zm6u75l87FMxSes4/CpWqZVahApnAhc7zrTUzkk7iJrXbhsvJoPjezRURIrGmWpCFPc0FtZ576GPIlefM5FMHQhaouc9MeXjnS68I7GqifRfQsseqE9THuYC76bS2uXk7KI+fGNkwto/4VCT4xSkRrPOG9MMIAD2jjQUPGUi19iJeIdMIOStd/VzEoZFErrVOHm6fxB3mkTfa831HIVg==;oJkMHDszd73+uJRii9TTlw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "From connection to contention: How AI curbs access to information"
+    excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
+    publishedDateTime: 2023-12-26T16:53:00Z
+    webUrl: "https://www.aa.com.tr/en/world/from-connection-to-contention-how-ai-curbs-access-to-information/3093160"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 17
 
 secured: "dLEYKd6ma7DFUNsgxDMy9/xtDL/6xXQXiTlrXbfe0t3eMETBb20PdB4qWIt0UtRl2HpNpUn0oSpxTIrtmg0s4K5ZuOv62y0W6N1+ojcvb/ncVaPkcFTbKLiVjFGIWVg0uikTF3lkyHclBciBuDfq3iw0j4VhYZ0smIMWiD3SU0lr9zIajZo+xQ/9PEcW4rSF9xEUr2lwC5fTdgPqIWTF6e3MXhoqB71yTtbH50hp0DoPxRDg8Jqg3hNiDz2ba24/psOmpBh5Kf+k6AEFZGNB5+bfbnpjb7bxhdbEhaVt/r/vNbNivaBY7A/hSTxx+w7zt+yZaxCvQT5ww3FPFZAirBXz2las4hkhRkreQettUgxscMcHU2cUTI3et6fbQ50qC37cNkUDBY5dlR7r4T04okUFqbK+7A30B5A2a4PLUMV7tOGfpIrJ44QzJSJDSWFHlxhAI0ZpA+bubeq1Axf25O0uTYsD4l+8fgXgeUUaDq6CvHdFT1CCGEj7E8YhvaNESSPKSUAsTj3BMQh+OSGSuw==;2VNqo0KvwZJMRruCtc8xtA=="
 ---

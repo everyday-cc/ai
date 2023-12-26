@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+    publishedDateTime: 2023-12-23T08:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
         isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
@@ -118,15 +134,15 @@ related:
         width: 450
         height: 270
         isCached: true
-  - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
-    excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
-    publishedDateTime: 2023-12-21T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937523.htm"
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 4
 
 secured: "hQNqnlOWT69ayNW0+bkCBVhQ8QmnunPOWjjICeygCAIbdHYWqfvVhjdnRGJ1qfDZCoJ8seMzbBPU0TOyx6Dd/UB7Eg9Bo08oA3Nm76eHnkwVV6Onc0vth+HKP8CqLHYeYQzAF1W8mDX9/ScMQoU9uXDdHjFCYuFVdzVd/H5CabE0QbsQRXXt3RkZTeFgODMwgOI2UHkQSUjYpmL5D8mW+JoSY8dWRovhKFz0cx9bO4+oRwJq2UKwEr6pZN/US/5SKN4+ufJbVhiHHCASOz2OFSV6BILHu+p7E+iI2dN6pdmujeWJ7ck3vQc3j804hTdjXvamEESNb5OOtjfMxzI5UdDBXWHgo0rRnkzR95ZZGuQeehmjGWAHe2i91+Q+BxZRg/lzmXLwy1P80qa20XklImPGIAuA2adLstoNjIkBkJLJx5E3Ae+lDc6i7CbbQlCmDG/WyGHG/x4kivevtM6j6LbfUpQwQH7H9oEZp8jRr5u3yU5HarIH4WIc2EBcGXgoMMkfScLr6/7QwHR7vjTMBQ==;w9r4S06LzEvcUdOXpgOt0w=="
 ---

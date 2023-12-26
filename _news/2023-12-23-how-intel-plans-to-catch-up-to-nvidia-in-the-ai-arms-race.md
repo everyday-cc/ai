@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stage Is Set For Nvidia, AMD, Intel Shoot-Out At The AI Corral In 2024"
+    excerpt: "Nvidia, AMD and Intel all announced the launch of next generation AI solutions as they set the stage for an epic generative AI shoot-out in 2024."
+    publishedDateTime: 2023-12-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658afc3d21e13fea88a2e29c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1272
+        height: 900
+        isCached: true
   - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
     excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
     publishedDateTime: 2023-12-22T10:27:00Z
@@ -62,15 +78,6 @@ related:
     excerpt: "Rosenblatt analyst Hans Mosesmann flagged salient articles in the last week specific to AI, Bandwidth, and Computing that are important and merely interesting as they relate to critical secular themes."
     publishedDateTime: 2023-12-21T19:09:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/analysts-eye-amd-and-nvidia-s-ai-rivalry-who-leads-the-tech-race-1032920439"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
-    publishedDateTime: 2023-12-22T02:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
     type: article
     provider:
       name: Business Insider

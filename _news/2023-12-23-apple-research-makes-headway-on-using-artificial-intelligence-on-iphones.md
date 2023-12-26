@@ -91,15 +91,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
-    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
-    publishedDateTime: 2023-12-21T13:11:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 16
 
 secured: "+SpSoaPmFMwlQ4ALgrjuGUdAEIBK1Dr//77qu5vqdycUWLv5R+wAhaezshk4+6CbfU7bGiG9hmRxspZnqHXTdhSBtjCYtj2ExMDFm7IYJyVm4nRaVw7nDI8BOvHQmoTjh+toL2OlUGzxjWYuopVn0iMPHfYYukrCaGBok5K7irR3TDbgf/8idz+AJCd4/BQ3sCzjrupHZvfb41Yc/L6wmxGC2lHLmab1ga9S8yVniuLVhfqJyxBn2zsY4MkMmKcZ6hhq4yuqCOKSttXj+aSx9H5RF2pIlTz4917SWBJByCxe8inlKzEAeFXCz5nkLJ4STGttgBv9VnEjdc1XVg8oTsWn0a5KZsLlu+PrtaYBe8yLVr5+c2bPf4ypwRKjfQFP6NJZZYscGf2bHhzKB3AV78WlhFxwFh6r+xdlE5/XDT8rFRg9sIQRT9gX/1Nv7D8IuVnRhHdchna09znkBsNI7J7iRaibu8P8+qrCDNSOcCfjKNMvPar8xe4BzywftRmqt1UIwYHrNAdOmW+niy9elw==;Z5We3cF+ECtQf/tcGdC5jA=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "You Can Run a Generative AI Locally on Your Computer"
+    excerpt: "To get started, you’ll need a program to run the AI, and you’ll need a Large Language Model (or LLM) to generate the responses. These LLMs underpin AI text generators. GPT-4 is the latest one powering ChatGPT, and Google has now pushed out Gemini as a new and improved LLM to run behind Google Bard."
+    publishedDateTime: 2023-12-26T04:50:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/12/you-can-run-a-generative-ai-locally-on-your-computer/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 37
+    images:
+      - url: "https://www.lifehacker.com.au/wp-content/uploads/2023/12/General-2023-12-21T115044.725.jpg?quality=75"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Or1idbAX4GRLWqvrdUjz3vMp6EpIbIOUJy0UZhl9IymNpS9gMhIsNfY3zBaQ5M/KQAyAYIcdxMurDsfjkSflPMLwNSmfu6LD4tqDsulgtSeZU6IO8yr2ZK0vGBhm6Xge9fYkpqp//b4rmMrBDfrlIWA3LY9106uD7ix5knzh4ralnlG5WFK4fFacOLlP6GyjH4AN2QlzljqT65rTFkYf8uvWTAGxj9As01Qazun2CsgJv67Oe4zyJ7vSFjyM8ciKWg4LTGVykqJp9DX5Nyj8hZthjh3OLtmyHbgQN3lBzYOV4v/yoV33f3f8HoLg4yZggToL5C9MeTVcOZVDpp3yYDyvEY9CQG3AR4NwJzriI70=;5IW+8tLmZl+WbPj51GMIvw=="
 ---

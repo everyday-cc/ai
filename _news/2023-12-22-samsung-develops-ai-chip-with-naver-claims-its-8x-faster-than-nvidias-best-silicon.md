@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street"
+    excerpt: "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost"
+    publishedDateTime: 2023-12-26T12:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102265308-1572620689645arista.jpg?v=1685029641"
+        width: 1968
+        height: 1312
+        isCached: true
   - title: "Samsung and Naver Unveil AI Chip: 8x More Power-Efficient Than NVIDIA’s Competitors"
     excerpt: "Samsung is advancing significantly in the realm of AI chip design, both through independent efforts and strategic collaborations within the industry. In a"
     publishedDateTime: 2023-12-22T05:43:00Z

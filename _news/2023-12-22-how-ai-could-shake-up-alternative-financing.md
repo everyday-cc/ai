@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "How AI Is Shaping Customer Service in Financial Services"
+    excerpt: "Consultation helps organizations understand out their AI journey from start to finish, providing a roadmap for investments and costs. And with customization, financial service firms can ensure that AI frameworks support use cases and deliver on business goals."
+    publishedDateTime: 2023-12-26T16:00:00Z
+    webUrl: "https://biztechmagazine.com/article/2023/12/how-ai-shaping-customer-service-financial-services"
+    ampWebUrl: "https://biztechmagazine.com/article/2023/12/how-ai-shaping-customer-service-financial-services?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/how-ai-shaping-customer-service-financial-services?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/GettyImages_624978806r.jpg?itok=kmTUXvYz"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "brZNWVx8iOiLmJMTRn/6voc4W8DSMYSc00lLZEjLu0J+9ZAqLxLS3YVYUGp4hpZ8bnYoSyFjUxigdvNpR0is6o22PX+pd0j4MSJ14bCK5JrGbTLYw1cveO/G+7N6vISVppxE9ZmiEnlZSFRS+3sqwwHNyMWVFk4ThRVeMfFFjFIiKITNjRBDeAG9z1GY1pjpHS+z3eBYX9FqD04rPRVjCWgoQTV/Ms0oRCx6ecWncJxJsNHkZYcf5LipytyvmwhEhsgR/l8kKob+SYQsYcE7aEWKYXvwQV+Hk39UkvhDzk0CZscj0Ju/666vHLSg8YLmD5DUaLxqoqbeWkA8oDJPHU/iNchrx4b+QOGdVlNwIWHxe9udG1p6vDuQ2gX7xpd+sVDA+bxeB606WdsXdDaw48dPW22mTnwA/mjdRV3PEGeDsX4A4G5b49eWxchIXiKKCQEGivNyJUDLCH1OuqZPV852M3uuaiq8GEIpKKlyNrJymhVXyy1F4l1NJf9JUXAYHMkGd18mCluscf18esowcA==;/PyYu8jxnoq+L/W87WQhCw=="
 ---

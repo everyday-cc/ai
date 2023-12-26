@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 related:
   - title: "Using AI-related technologies can significantly enhance human cognition, finds new study"

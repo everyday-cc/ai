@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
 webUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
-  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
-    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
-    publishedDateTime: 2023-12-21T13:11:00Z
-    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 16
 
 secured: "GRBHL+3EjWU7OnlfinT2G46aZqqtXndw842N+hWHkWGr3An3ysTmgGvPiPLM4ZWHBE70xC0O48N7giqcL4vKKpi1XsLidrLDmI4tjPOwXgVF6nKrPOygdYFovzhuum3B9+DIg1fb7VTDf1e7eQA82/ViUL5+qhxEvR1MBW0Tj6wTOMpSgYiN8FeN3e7rAtQHmGZ+VQesyUPr4Ua2ttRGWEswzZw5hZz+a0j5Kt/oWEY8of2aLAR76MbxjgJxeei64vQv/Twmmhsz2A9D5nFpDIxb+z8xh2WB4rtu4kmMs7ydm0LwRhigXWJazGv+ysxSMw1Ka8gBgDDAo3ANrb76+JCRyTfWWFDEz1R59JCNrcumOLPp9LJ80LTnFbBT2NCy7F8XBPDm+s8kmvzSt/egUoRTU6WMy3+QIa3GepghtYtrWZRSdM5IVqstog6wvBHnnMCiQgd5AvmPZ1xNzjk4+t98sG5iHSl91wxXThgJF3bHM9CUNI74cuQDxsavMTpLf+nYT9AGb+DGJRjwivbYiA==;YJPuMwT3OwvjUBzntEtuZA=="
 ---

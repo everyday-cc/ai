@@ -83,6 +83,15 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "Chatty robot helps seniors fight loneliness through AI companionship"
+    excerpt: "\"It's entertaining. You can actually talk to her,\" said Loaiza, 81, whose ElliQ in suburban Fort Lauderdale nicknamed her \"Jellybean\" for no particular reason. \"She'll make comments like, 'I would go outside if I had hands,"
+    publishedDateTime: 2023-12-26T13:09:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 34
   - title: "Robot plays constant companion to elderly"
     excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
     publishedDateTime: 2023-12-24T10:14:00Z

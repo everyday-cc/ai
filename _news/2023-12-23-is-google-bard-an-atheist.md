@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "🙏🏼 Is Google Bard an atheist?"
+    excerpt: "A pivotal scene has Linus reciting a Bible passage. I wanted to share the exact verse, so I asked Google Bard for help. What happened next was a revealing look into the reality of using ..."
+    publishedDateTime: 2023-12-24T00:00:00Z
+    webUrl: "https://www.komando.com/issue/is-google-bard-an-atheist/899191/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 24
+    images:
+      - url: "https://nl-static1.komando.com/wp-content/uploads/icon-email-v2.png"
+        width: 532
+        height: 532
+        isCached: true
+
 secured: "lkTTM85UqMFTmWAca6xZj2IZpjWv/b1yGtdPRSIepPzSGPa5RvMqXl5fOCGGriXR8/AbfumtXfwTF0RxnS1zmdXGyFe3FzUDJia92NnfMLLZXEkUQq2Mb/UQQHNgh69KXA6/dnrRNqAEg3NOP+EayT/VoAh0av3fceziN1gSAP4yz6D/0omm3MW9hWjhNIykgZIPDugxgnW1BXEfUpnc0wZW5EyqYYk2jLVRjQ+SY52Ploqud+As2jT+zhKy3qN5kJd1dem+EC+WWB5yE8RnOtnTfipdmC5xIWSsXpCP0hwLVTr8Ar3LKYgOw61Ct7fE4NtBROUSwmaBMuF7LkBBKrn4x1jvQsxBJEqon/XouQM=;knOEC3dOpXOJM3jCZb4rfw=="
 ---
 

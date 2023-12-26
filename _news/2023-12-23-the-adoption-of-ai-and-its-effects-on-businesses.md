@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/protect-your-business-using-AI.jpg"
         width: 1280
         height: 717
+        isCached: true
+  - title: "Fears grow over AI’s impact on the 2024 election"
+    excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"
+    publishedDateTime: 2023-12-25T17:14:00Z
+    webUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/8249bb2c2317ad997df4e313cfa1a85d"
+        width: 900
+        height: 505
         isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."

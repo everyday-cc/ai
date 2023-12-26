@@ -41,6 +41,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI is transforming the video surveillance sector"
+    excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
+    publishedDateTime: 2023-12-26T15:49:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/article/53081272/how-ai-is-transforming-the-video-surveillance-sector"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/658af10d6576b2001e837f6c-gettyimages1473350489.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "China is shoring up the great firewall for the AI age"
+    excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
+    publishedDateTime: 2023-12-26T13:48:00Z
+    webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "za7gBog1AcM+x1Dtb8Ef6rpdzpLYjPp+DsFNvm1iJSHwzyplqLKWFazTbXycu3KWg/pzVkp+cXvytbryYMto1qkLOBxUMZgVaUGN4gmjVC3jzDcqQllniDncO7jh70lo+ATO1FkYxg56jJHHrt7sZvJ6zBQUTWCnyrRmoougSkhrW6fWZcNYbergnXWgpaTdIYo8FXmcoZEHbf1Q4myE6MUviDzfy+aaHRi1LEhW0cTQWkYbA54yw71eY9XYNSPJ3LSYkYZu3J5kZ74Rn4MBibmgnuZHf53UujIf/1YOPR/nJ1GLCkN52smfH8tmh037ZF0KHtB1hD138YSrycZExSJ3W9HnqPAIe+xIo8utfOmiGptMf0wMBZWrIYuwyhZsP83yjfsVn1BpesckE4AQ+yQkO5gPRX3zavyAQk5P48h5FsTFwuF+jJDqqA9cB1a7cMe/+FKpDHVfxCOyKl5eW43KMUmXgsI/1z2WnWslM5o8Vd1/VTgIa4rYW+vBPXWea9FzhcxnI8OYKSZ7+KJZ7w==;z66YF2vYso3tYMJdNo8d4w=="
 ---

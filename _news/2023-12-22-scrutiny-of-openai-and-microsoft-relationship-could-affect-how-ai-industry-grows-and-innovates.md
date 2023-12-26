@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
-    excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
-    publishedDateTime: 2023-12-21T15:17:00Z
-    webUrl: "https://tech.co/news/how-to-use-microsoft-copilot-suno-ai-music"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 56
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/12/21101457/AdobeStock_665889467_Editorial_Use_Only-1-e1703171746881.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
     excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
     publishedDateTime: 2023-12-22T10:29:00Z
@@ -116,6 +102,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
+    excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
+    publishedDateTime: 2023-12-26T14:48:00Z
+    webUrl: "https://9to5google.com/2023/12/26/microsoft-copilot-andorid-app/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 33
 
 secured: "RTl9+iVHsP5qfnyuQdNvs9F/8Jwucg6Ecz7eO+61xsXBIJKu2bmx5rrn9xUC9auMRD2lLiIFi6te+YiJ4hUBRpHfa1JJhWMvrZoZU6uT9qFg1aMwRIE1m1eqA3s2yMTs5qyP7nNfT9qtw4A0+qeURSY3c43IeIR30eRwMDTmr8z9mtVFUceR4IJQWi8v9snLhWnXV7Lq+4deLHuhihohhBpSYjLBTOzhkFL5i5im0YRTgX9kmc24+nIhb32nuxD3gQ/Gvm4y5LQXhVMpDuHLxSWfDV821v9ZF1qiR6gofG3DpFReZACrmu5ukC7ZDcszvJkK248WyCyCzUZ3PJo1jxfxTfopFMAgwn4W1xJWajbBgt6tzSc7ELjEsoKRylrVG4EtAxEWm7BdDzYVxxzATO6UVF9uFpfn7cNkXzUSaM7pLLBJpRsbq5QxhvILncreaj5UP8hUecLs9WKogJPw0nIghR939Zok9B3u1rX3cfih9xzR0Iecv28wUDZ7aEsJQNKOoQC4UWglXRHINBn7Zw==;L9VolYpKqU7vD5J5qvMuYw=="
 ---

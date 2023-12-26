@@ -34,15 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Science Without the Scientist: AI Can Help"
-    excerpt: "Perhaps, there is no more iconic image in science than the tireless investigator holding court in the laboratory. However, scientific research is undergoing a transformative shift. A recent study is introducing us to the capabilities of Coscientist,"
-    publishedDateTime: 2023-12-21T16:01:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
 
 secured: "mVehEb6HpbNHW6UIjG2DJDqgmpR9p8YH8IlsvP6DHHQumGz/VHtUMr9fGbxoJXJSZP6BFgshBbUyCAF3Uei75j3lQqlPOVQaGdXs/9BkUBlP+haxODnz8m2Wuqg++ByEauFsWK/GnTzoDxLb+jlH5bhN075Wu1v6G8ofI2tx29OX7hd1C41qQdZPf76Dyap/ZYGPhXy9w4TbvyGmvtMH94HD9C9cxqt2rrQYCK+ua0UuLXYgxoKOYjfJkbDdn3Itk98tJqYXDXyiwhljG/Mx3LHwM6mwryjwQoAgIarFzng10B/mjJowa+EspHPu1e+b25CVlYNFWeke09YsMpdux/UpbSB+nvYqeFNWQ5OCkz8=;QR2QE2hLM583LNia8scgnw=="
 ---

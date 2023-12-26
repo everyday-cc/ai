@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Llama drama: CHP rescues woolly wanderer on I-80 over Donner Summit"
+    excerpt: "Deputies with the California Highway Patrol received calls on Thursday evening about a llama on the loose on the busy thoroughfare that connects Reno to northern California. Officer Tanguay ..."
+    publishedDateTime: 2023-12-22T00:00:00Z
+    webUrl: "https://mynews4.com/news/local/llama-drama-chp-rescues-woolly-wanderer-on-i-80-over-donner-summit"
+    ampWebUrl: "https://mynews4.com/amp/news/local/llama-drama-chp-rescues-woolly-wanderer-on-i-80-over-donner-summit"
+    cdnAmpWebUrl: "https://mynews4-com.cdn.ampproject.org/c/s/mynews4.com/amp/news/local/llama-drama-chp-rescues-woolly-wanderer-on-i-80-over-donner-summit"
+    type: article
+    provider:
+      name: mynews4
+      domain: mynews4.com
+    quality: 44
+    images:
+      - url: "https://mynews4.com/resources/media/fe157395-c122-4979-9ead-26db04b51ce9-large16x9_Challengerthellama.PNG"
+        width: 986
+        height: 554
+        isCached: true
   - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
     excerpt: "The California Highway Patrol received calls on Thursday evening about a llama on the loose on the busy thoroughfare that connects Reno to northern California - I-80. Officer Tanguay quickly ..."
     publishedDateTime: 2023-12-22T00:00:00Z
@@ -43,21 +59,21 @@ related:
         width: 986
         height: 554
         isCached: true
-  - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
-    excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
-    publishedDateTime: 2023-12-25T04:46:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+  - title: "Photo: CHP officer apprehends Challenger the llama on I-80"
+    excerpt: "YEAH. SOME TROUBLE ON THE ROADS TONIGHT IN THE DONNER SUMMIT AREA, BUT NOT FOR THE REASON YOU MIGHT THINK THE CHP HAD TO WRANGLE A LLAMA THAT ESCAPED ON WESTBOUND INTERSTATE 80 TONIGHT."
+    publishedDateTime: 2023-12-22T16:35:00Z
+    webUrl: "https://www.kcra.com/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
+    ampWebUrl: "https://www.kcra.com/amp/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
+    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 38
+      name: kcra.com
+      domain: kcra.com
+    quality: 44
     images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-        width: 1440
-        height: 810
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/llama-6585b937dd209.jpg?crop=1.00xw:0.423xh;0,0.344xh&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "mKdRjIaNSpC6mW2mRYZlJhS5W8Wil4OgQhaQrjBMkHbKyYetzSQg+imZPsVEhXUF4Xq0C6HU/gzIY1xuRxer+i2xjvzUcKN5WO+FfRFCnGY30PeUiOacSrwLbpW9B4AaAuTWCpar98FktefO1X8siPFRnJKrt3o5pBNnKNYzrakjRatcm8UTOUABCdEzZgKZocND0/rqdgNCQv2SR9FqsMUwT30iOllpvASyAFqrPkaBLylly1OUB5oVtqTy81dvqSgxGo/tNF5FW5VWALtanIfpe1aWVsq884RSsurhf6WHmXHrqOCQxYPtLFG6CfjSXO9M4SEHoi4lOBZE8ZLsi7YttS3wV56C3msObNLdkvGeic7Rpu0B12cmkRGtWf+0toH72yv/h94rXN22FPjzT7QvcRxpoR69FfT2KfEQAYKxIXJClJ7D8Ik6uuTvkau5DcYz1flla7FvBxibxiUdteoJ5wJSAWaYswnfSqG51qM0iiM281AuQZWo4ersNFPuqjcWBEr/bRTUI91EQ7gDvg==;5IFhp2RtwmppFz+iW1gs7Q=="

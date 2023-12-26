@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
         width: 1600
         height: 899
-        isCached: true
-  - title: "5 Stocks That Will Make You Rich in 5 Years According to ChatGPT"
-    excerpt: "Nvidia’s single GPU AI training speed performance has increased by a dramatic 1000x in 10 years with only 2.5x coming from Moore’s Law3 driven increases in chip density. Besides better chip ..."
-    publishedDateTime: 2023-12-21T16:26:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-stocks-that-will-make-you-rich-in-5-years-according-to-chatgpt-1240891/2/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 41
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/03/16102945/levart_photographer-drwpcjkvxuU-unsplash.jpg"
-        width: 1920
-        height: 1280
         isCached: true
 
 secured: "tka80cLqlJHd1IjogvLLHI1CireloZA3XAcbhib6kAF1xXTP0xMrrfYkGAw82qIJIG/RkIaqTAe51KJAYhtbLkjpaB0goNcfEifib1+bzvbjK0kJ/SNjVapii1wM32qlmroCn1MnJzd88WUPEESUStyPPKKQXCiiPVn2oo5DezLRLM9hr96P+H5NA5piADEZi+6sLZRGmC/+YRmd3wnWdFZvr2Eytza3HfHif0H7ANSU3id5WOb+7tBlqE9MvMDXnTqc6jEFakaZ0FKY4gi77afajit9D2ig8bgjf4XTpxwQbTrPvomj0P9elEowpVmIsgPl4h39yX+/nMEXrfOmb1BoxEdQWI3c63pHsy6fkIytIo3t4pUjVZceUXdaCYmytlBfEa4hZCOSvfOuQNSbVOyr2ZL0R3GhzpMyTlvS9Q6kxXD7zBttyANg/Je3VpbM7W9KZRBwRmolggig01NnizpHRyBlhB6AlaOa9jBJbEmpabCmm46ene2yjQNqz3XHVMC1gZV0E9aoL0zyZcNpbw==;WAyAkyE/N0ExAyd+3A53HQ=="

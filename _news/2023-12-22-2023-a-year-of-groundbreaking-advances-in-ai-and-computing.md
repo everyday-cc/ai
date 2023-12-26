@@ -61,19 +61,19 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
-    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
-    publishedDateTime: 2023-12-21T13:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
+  - title: "Navigating AI Trends for Startup Founders in 2024"
+    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
+    publishedDateTime: 2023-12-26T04:21:00Z
+    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 19
+      name: Nerdbot
+      domain: nerdbot.com
+    quality: 39
     images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
-        width: 600
-        height: 600
+      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "amRzWFSgbVV44bgNqpqWG+DnEQRRsStEBN72T71VTsZm34erIVwZdD5E4cNVBU9IzmTVfw2xDX2tSRMvOS37MOVd7/lF0mqb4s4GCXKYiPyDx3abBcxBD6kzlIVqQ482I9i1ExRblGBrumF0KrR5JieRjgDS+KUPzTZXiFrshIDZWHmE4GpWbvc3i4vaRIBA2PUXdXrQ9cSlmwv2/Khkd4lTQfYa7v+/yutc9wF2IMNeCXlwM9PgPF7Aj95SXKqX+bOlrVnTsgLhuJ3zy/vLC23csc9S7stSFtd6Uhnl0BU3VWn2XR3lf0tGhTlvKa60C+itMgK9IENjozgn3MOmy5SbK5iviQg1DrurDYAKlgk=;nWCmdAqF4FF/BcZAoqRbEQ=="

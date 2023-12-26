@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 900
     isCached: true
 
-secured: "NQX3MoOpNsyLFpdim4aqvXs4xtevXzUFdZp+euJZIF7QoeHe0eODgS6Vzm3nCkarr50fX3kTfMMPbw0ZPmtNmJzgqlHWFhIJRApHxxYdII9AzeBElT3B+qoftFoL3YoVJ10M1ax/hc2Ln9ohD//y0MSUzNwrUGHOkcBjdtleI+wWvnpKR+ep9V/81QXCHi1e94pRN35AUzuMLbCpHmDMw+sOyD8mgtUnH86EaWEtn6MkqQ2Df+9As0aVYR1RrG8XAla5xGFWrD+LC4Bvz0xiOUmNkeel15oyr7bxlBLaGXAyFjH6uKj+O1I61b/l1maVKFnvYBp5lCo/SpGdW4Wy/tsHQgJz+AxsnmBCk36c9Yw=;j5HFBCwpsBQy4XBuZdvsIg=="
+related:
+  - title: "Designing A Coach Training Program For AI Transition In HR"
+    excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/12/26/designing-a-coach-training-program-for-ai-transition-in-hr/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
+secured: "Bi0LWNlULPfA+bob/eh88MJQdQiYNNibfuubSKfuUacAO5Ltn0Mz2kCLSgq1KPmsSsxXdFyo/slS35jDjoMvyec6H1D49dT0G9EtgxVObJrZufWgS4HvKjGjHiwjmNSufm5cGJ6R/xX03g5yELk2AAFXHyXyGxwi0J5zBN1QWxvz+NG/EhLN2A4URNeRBWIukEOo/KYYxiRqQfrUP10XUeb1HF9PQmoMLdOwt1JI3jRTDQbQPhrAKxxc/Onu5lllLw+JnEX+Jb+zpotc+9wFi/dp+D0fOQe1hgq2t8Pwa4G9Py1t8x19oll9+y5PTc4x3cbZtuJPCHIhZb7csfTW+nXjXEb45mZpuudUG9C1iyUSxVJ603q3hpdc1C78sMEw/HEqgS0ekShvcn9iB5yJqka445KenmIsrXnrwJrR5NZLNrYyyMVKbADLEVrngQtu0ATiGXXiSZhpvvSqofnRTlIqdZRX7NdS5Pt1jGo6FlQvm2BQ4+QXklJ+83wMw4Wq7DIu1mc27NJ6+GLIUaBJ8w==;1ZFYk8ZPRXW3+btoIfbtlA=="
 ---
 

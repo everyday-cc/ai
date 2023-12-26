@@ -7,7 +7,7 @@ originalUrl: "https://technosports.co.in/samsung-and-naver-unveil-ai-chip/"
 webUrl: "https://technosports.co.in/samsung-and-naver-unveil-ai-chip/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street"
+    excerpt: "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost"
+    publishedDateTime: 2023-12-26T12:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/102265308-1572620689645arista.jpg?v=1685029641"
+        width: 1968
+        height: 1312
+        isCached: true
   - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
     excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
     publishedDateTime: 2023-12-22T15:29:00Z

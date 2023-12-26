@@ -24,147 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "10 AI Predictions For 2024"
-    excerpt: "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ..."
-    publishedDateTime: 2023-12-21T16:01:00Z
-    webUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
+  - title: "The Adoption Of AI And Its Effects On Businesses"
+    excerpt: "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau"
+    publishedDateTime: 2023-12-22T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1374
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
         height: 900
         isCached: true
-  - title: "10 Best Artificial Intelligence Stocks For 2024"
-    excerpt: "AI's sweeping applicability has the potential to transform business processes across many industries. Here are 10 stocks that have embraced the benefits of this technology."
-    publishedDateTime: 2023-12-21T16:34:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/best-artificial-intelligence-stocks-2024/"
+  - title: "The Benefits And Risks Of AI In Financial Services"
+    excerpt: "The financial services industry finds itself undergoing a transformation driven by the rapid evolution of technology, with AI spearheading this revolution."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence and the Law of the Horse"
+    excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
+    publishedDateTime: 2023-12-21T21:16:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6584574a44e8d0346aa460b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
+      - url: "https://images.wsj.net/im-903923/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "PERSONA AI Wins First place in GenAI Solution Competition 2023"
-    excerpt: "SEOUL, KOREA, Dec. 22, 2023 (GLOBE NEWSWIRE) -- Recently, PERSONA AI ( https://personaai.co.kr/) has won the 1st place in GenAI Solution Competition 2023."
-    publishedDateTime: 2023-12-23T01:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502"
+  - title: "Use AI and UBA to protect your business from insider threats"
+    excerpt: "The latest research, including findings from IBM’s 2023 Cost of a Data Breach Report, underscores the significant toll that insider incidents can take on a company’s time and finances. To combat these issues, AI and machine learning are stepping into ..."
+    publishedDateTime: 2023-12-24T09:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/protect-your-busines-using-ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/1d25f63f-1273-4dcf-a84a-00f3e40ab974/1.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/protect-your-business-using-AI.jpg"
+        width: 1280
+        height: 717
         isCached: true
-  - title: "IBM’s 2024 predictions show gen AI is the new DNA of cyberattacks"
-    excerpt: "The new year signals the start of a new era of deception and identity abuse, IBM’s predictions warn, with attackers compromising networks with counterfeit and stolen privileged access credentials."
-    publishedDateTime: 2023-12-22T21:00:00Z
-    webUrl: "https://venturebeat.com/security/ibms-2024-predictions-show-gen-ai-is-the-new-dna-of-cyberattacks/"
+  - title: "The adoption of Artificial Intelligence in different domains"
+    excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
+    publishedDateTime: 2023-12-23T00:00:00Z
+    webUrl: "https://www.pakistantoday.com.pk/2023/12/23/the-adoption-of-artificial-intelligence-in-different-domains/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-Hero-image-IBM-Predictions-.png?w=1200&strip=all"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Can Artificial Intelligence Predict Your Life, and Death?"
-    excerpt: "Ever since the explosion in popularity of ChatGPT about a year ago, there has been much discussion around the use of artificial intelligence in academia, health care, and in consumer's everyday lives."
-    publishedDateTime: 2023-12-21T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/friendship-20/202312/can-artificial-intelligence-predict-your-life-and-death?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/markus-winkler-tGBXiHcPKrM-unsplash.jpg?itok=4Oj_y_4C"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
-    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
-    publishedDateTime: 2023-12-23T08:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-        width: 960
-        height: 1280
-        isCached: true
-  - title: "Navigating AI Trends for Startup Founders in 2024"
-    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
-    publishedDateTime: 2023-12-26T04:21:00Z
-    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
-    type: article
-    provider:
-      name: Nerdbot
-      domain: nerdbot.com
-    quality: 37
-    images:
-      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "PS5 Pro or next-gen PlayStation 6 may use AI processor for real-time predictive gaming"
-    excerpt: "Sony's PlayStation 5 Pro or next-gen PlayStation 6 console could feature some sort of dedicated AI processor that enables interesting new functionality."
-    publishedDateTime: 2023-12-25T22:31:00Z
-    webUrl: "https://www.tweaktown.com/news/95154/ps5-pro-or-next-gen-playstation-6-may-use-ai-processor-for-real-time-predictive-gaming/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 31
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95154_61_ps5-pro-or-next-gen-playstation-6-custom-ai-processor-may-power-predictive-assistance-tech_full.png"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "2024 Predictions & Trends: Inflation and Student Loans Problematic, AI Adoption Rises — Expert Q&A"
-    excerpt: "Student loans will be problematic in 2024, and more people may see credit score damage due to borrower default. Neobanks and digital banks will continue to introduce new borrower-friendly products, while major issuers may pull back on expensive rewards and perks."
-    publishedDateTime: 2023-12-21T15:58:00Z
-    webUrl: "https://www.cardrates.com/news/2024-predictions-and-trends/"
-    type: article
-    provider:
-      name: CardRates
-      domain: cardrates.com
-    quality: 25
-    images:
-      - url: "https://www.cardrates.com/wp-content/uploads/2023/12/predictions-and-trends.jpg"
-        width: 1250
-        height: 650
-        isCached: true
-  - title: "Top six predictions for fintech in 2024"
-    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 4
+      name: Pakistan Today
+      domain: pakistantoday.com.pk
+    quality: 36
 
 secured: "tLUhFpqpbYDaXtSGq2ZKjkQ0Y7drH0rBXUgNNkf+TMY/GRG+eVVPgqeh6p6jznzSY8Wh/KNjVMPYmogKg9bEv6w3EeOLd40i8/f+T9/N//r0WmjBiH4xhSlcPSexS4QhznCU0xXWhET9M6/IYPE2GTWrFzWkMDDabf6qpQEsJlvAtLgGfy9PnD+7hNoVwiaMI54jmnBAAHvVcFqPzwUt9pdaBJv/c40ArnFZ2JbyFD48CgoZ3s2J0x6giVMWpWW0cj9/iIxpDUPMi0d3RCOWZqdSvyxaa6otHzJtWYm18EM+82K7OthQPRUAos5Iwy+TfHyujWqOoHwaXFT7DbAFi47noChiCdc1ayg7uYFdaP4=;DxfIBdFU6Pga+OxipoIyxg=="
 ---

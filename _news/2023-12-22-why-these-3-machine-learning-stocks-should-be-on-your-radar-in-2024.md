@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
+    publishedDateTime: 2023-12-22T02:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Automation Stocks to Reshape the Future of Work"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Recently, three M&A possibilities were discussed for automation stocks in"
     publishedDateTime: 2023-12-21T18:28:00Z

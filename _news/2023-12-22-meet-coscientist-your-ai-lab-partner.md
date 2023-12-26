@@ -37,15 +37,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Science Without the Scientist: AI Can Help"
-    excerpt: "Perhaps, there is no more iconic image in science than the tireless investigator holding court in the laboratory. However, scientific research is undergoing a transformative shift. A recent study is introducing us to the capabilities of Coscientist,"
-    publishedDateTime: 2023-12-21T16:01:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202312/science-without-the-scientist"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
 
 secured: "afy+u33GEqUmJhuuoTL2GAZBP7pDRtpEYMYn8Odezy5+PK8K0FSNuCRKmO0/vo939grFmtoKvPIaGXLgvY2uu1QU6ybPFbMeuzui0T3MWZU3miwked5CecGOJIqpj34ZzQW++LdYiC1SKUfoihU9o90Mdkn+/NvwwKCt9xTKGRaP2xCCXQYXb6gfiBP2HV/J9Ja+7IKJTFoTYQt8Lp2EqmmW4Krid0ZC6DJlQMMzbXSKCCAOr5bMXlUv8AUtX1Y9kvwcp8fw70tHV32dO6c+eXKA5Y/Nva+T9ObrRBV+HWkLp2OatQdFeWXU7E3TeOF7P651zY8yv8pw176/RC5DC58LJrZxpYWsf21qkfVwmGQ=;7xQisW4kYRZSUnwYZnNiog=="
 ---

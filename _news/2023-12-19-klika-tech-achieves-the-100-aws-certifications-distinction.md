@@ -6,9 +6,6 @@ publishedDateTime: 2023-12-19T14:54:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: TMCnet
@@ -24,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "94yfou29KYu2Zdmmt/gX+BE/WkuRSOJ1d9MdvbDVOxZpP/bHROSQEXqWSnjqUuBBt8WIEStENIbpOSosxmRZFA6Q9TZI2wCH+ggKJupldp2Pf68Ap5/DqUfGELAZaJT9BlVTEIEgYgroFHe0avILCJnU/HaUwGtSdCWIIur3MXtf5Z8S2yEvfV06VJsiV3n+o4s1k2R63/zP9gKQUYgSkj+9Hy/5AuwPqFLyf5aP0da94SYfEBVM7c6bGbdrdyJa15rTB5lqzse6Njf/w9u3CVHk1I3U1+pBSjs4d9+0OQ+h4k2ajpzvw4Ie5oypHQuMsiyXNKUAl+D8Mggc3jdT/v64S0RwHcAOpZit9zzhEN4=;eiEvFsFrHt1ckhIPAaaM8w=="
+secured: "cO2sQkWQFwDG7TvdkmnKBtdUoSiPuPECnlF5WcnRG/xYxKSZvgxkTxYR/5jlVOZZvvn0xQgxUwXw6ywxIc0j2bhUMVlS9IdGoX65UJnJoyr23Vyl55ccA14Y4CDjQwwC68JLqrwRYLaJdzGLQ4/7yPB8wAuIR/dKvqN4i8Bn4664VNba/6fsPToBaozw1wevgXrDydy8VUVWH8E9+jJnpEJ7nQmTwyXVm4qkBf20PzePMoHn0ySldLad9doK64FP0nO0rVVZpVe+xokigG+hJfGsAtzmfnmCI/Piw4ZRwCURQLUaVclAPT6p/hkxmpJKvXZMR52oV7uYiMorUhZuSHZocphi3X59Fgmsr6fj0Sk=;9CnD4pqQg/oVglGRPXAiaQ=="
 ---
 

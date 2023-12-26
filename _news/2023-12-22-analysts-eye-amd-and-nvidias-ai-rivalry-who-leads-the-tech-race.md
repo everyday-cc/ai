@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Stage Is Set For Nvidia, AMD, Intel Shoot-Out At The AI Corral In 2024"
+    excerpt: "Nvidia, AMD and Intel all announced the launch of next generation AI solutions as they set the stage for an epic generative AI shoot-out in 2024."
+    publishedDateTime: 2023-12-26T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658afc3d21e13fea88a2e29c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1272
+        height: 900
+        isCached: true
   - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
     publishedDateTime: 2023-12-22T21:29:00Z
@@ -65,15 +81,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Why These 7 AI Stocks Should Be on Your Radar in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2024 is shaping up to be very similar to 2023 for artificial intelligence."
-    publishedDateTime: 2023-12-22T02:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-7-ai-stocks-should-be-on-your-radar-in-2024-1032920876"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Intel’s benchmarks back AMD AI"
     excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
     publishedDateTime: 2023-12-22T00:00:00Z

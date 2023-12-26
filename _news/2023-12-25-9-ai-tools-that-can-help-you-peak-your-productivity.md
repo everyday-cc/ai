@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: timesnownews
@@ -40,6 +40,20 @@ related:
     quality: 57
     images:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "You Can Run a Generative AI Locally on Your Computer"
+    excerpt: "To get started, you’ll need a program to run the AI, and you’ll need a Large Language Model (or LLM) to generate the responses. These LLMs underpin AI text generators. GPT-4 is the latest one powering ChatGPT, and Google has now pushed out Gemini as a new and improved LLM to run behind Google Bard."
+    publishedDateTime: 2023-12-26T04:50:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/12/you-can-run-a-generative-ai-locally-on-your-computer/"
+    type: article
+    provider:
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
+    quality: 37
+    images:
+      - url: "https://www.lifehacker.com.au/wp-content/uploads/2023/12/General-2023-12-21T115044.725.jpg?quality=75"
         width: 1280
         height: 720
         isCached: true

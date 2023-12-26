@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/"
 type: article
 quality: 104
-heat: 155
+heat: 154
 published: true
 
 provider:

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Fintech behemoth Paytm goes all in on AI, Insurance and Wealth Management backed by USD 1 billion cash reserve"
-excerpt: "India leading payments and financial services company Paytm is rapidly steering toward diversifying into the wealth and insurance industry With the biggest c"
-publishedDateTime: 2023-12-26T12:32:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274076456/fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve"
-webUrl: "https://www.bignewsnetwork.com/news/274076456/fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve"
+excerpt: "With a proven credit distribution business, Paytm now aims to plan game-changing moves in the insurance and wealth management industry."
+publishedDateTime: 2023-12-26T11:48:00Z
+originalUrl: "https://www.devdiscourse.com/article/business/2757956-fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve"
+webUrl: "https://www.devdiscourse.com/article/business/2757956-fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve"
+ampWebUrl: "https://www.devdiscourse.com/article/business/2757956-fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2757956-fintech-behemoth-paytm-goes-all-in-on-ai-insurance-and-wealth-management-backed-by-usd-1-billion-cash-reserve?amp"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1703593976.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/26_12_2023_11_48_16_0368033.jpg?width=1280"
+    width: 1280
+    height: 960
     isCached: true
 
-secured: "gREBtKbb9cQdFFjw0cySZQFUnXF2VFbynyZueiQoW3XqSUdQXg0HaZOUA0ANUAkzk5QVDCjmwJiFW23+CZ/AfAIcNy4NrELMIOrBBo8sd8bVybqtODtuPuBGs/Boz6BMXTDrqOvqhjD/YYZYwerl3mYp+bXf1EiOchmF7V/Nnn7Jk0Y3+VZs0Eh/zB0Ow2jyn+/7KP+4fk2hhr7QfV+6EP93AM9bgGMGGOPEptvyYD6vlU5ekRMSIKc6S/KOmOlNrU4Kg+TPethi/kHL4qqD977WeTM3/bl9FLd+XZaD8gkVuVus2tBOr58pz8Z31noYZEaaglGkBsi+2nW2Mc6jVgUOZyOq7H2C0crTsTnXN4w=;GmxijHnjpTkLDuYGtzvmQg=="
+secured: "syBhlqOOvUCxJMq88Eycp0p1QA4GyJ9lkJ8/QNeqH5UdWTJqoegAjUnzAX+DLnD9TCurakWYPj2OgL6tX+wQyAEi1IXLPn3g7xpX5eO3fyP0MrKXOylS1vLjNeK1G9qukSn2KdLv6FJNlfErBY+iJwL+oNQUw7aw3bLb6jFimb3fs8TuyeFT3RUpYbGhEDMEfjtdjR+fyfsO34LKQ/pCf6b74GrlgiBBgGBlTsTmg4bF6P3rqeUjkN6+cQwLDVYTuUVSa4MMh+g1tFzcjydFpN0vzqi81ygxFc2hyU3vADLMuFJQYUzuBSYXPrN6WqHuSaIDwJ7zRcUly1RPkOzzJD1QwO/tutKoGL/f7tCtUyM=;tf3sBVKCHFa9STO9nB+vlw=="
 ---
 

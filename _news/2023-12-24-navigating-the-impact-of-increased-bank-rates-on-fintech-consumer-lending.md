@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+    publishedDateTime: 2023-12-23T08:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
+        isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
     publishedDateTime: 2023-12-25T03:38:00Z
@@ -113,15 +129,15 @@ related:
         width: 450
         height: 270
         isCached: true
-  - title: "Mitek Named Winner at FinTech Finance 2023 FF Awards Ceremony"
-    excerpt: "Mitek Systems, Inc. (NASDAQ: MITK) was named winner in the Identity Verification and Know Your Customer category at FinTech Finance's 2023 FF Awards ceremony Nov. 28 in London. FinTech Finance covers the global financial services sector."
-    publishedDateTime: 2023-12-21T14:55:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/21/9937523.htm"
+  - title: "Top six predictions for fintech in 2024"
+    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
+    publishedDateTime: 2023-12-22T02:30:00Z
+    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Travel Daily Media
+      domain: traveldailymedia.com
+    quality: 4
 
 secured: "/n0Cepx3Ql7qdw0eO6YNmyjqfhc3GhvNSET1ye6nTIxoRBicVfeFwlRJ1gxa2OQeMcMhSSI/bo0GbOuOBHRh27PHTJxYVdR3N6n4o6a7wPloTpBag4/XbTsp7fBroSdSc53loD/kHd6agy0I/hcyvBmUMuAESVjmIqdWHsl2zhBEIl8yQ49CL1zSmlcN2LBcdMz2XlIHbCp2tk3cq269RcKKbllPQUr1kTFsIYOL+QlTP4rcC8l5VC1U5tpMLUuq8nflXCLeTP3NkDgIdEMg6jm2MNqIeaQBiWFLjpUBSiSrP7RHRa0JNHwY9oEJldvA7vWF6IQjTlfmYaV1QsSbSuzN4lXpqJ1oX80LBoW3bpi4KL+jZQTl1COT5JG9jC1ywLws+39JKflU1lnHQWnwjGm1bDguSgxjmz+cq5L11FPHWCECZOf6NR5iqYlYNCF5wRegt8juu1NHFyPuQBVrkB3SEivu34boLa5oFuXLhTJVGC98bzuBWPVVt+PFtcvLstIKFUgyGvo82RCTK+P+Dg==;pL8tKIQnkZpaXNszHVRZSw=="
 ---

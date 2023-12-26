@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Fears grow over AI’s impact on the 2024 election"
+    excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"
+    publishedDateTime: 2023-12-25T17:14:00Z
+    webUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/8249bb2c2317ad997df4e313cfa1a85d"
+        width: 900
+        height: 505
+        isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
     publishedDateTime: 2023-12-23T00:00:00Z
@@ -84,6 +98,6 @@ related:
       domain: pakistantoday.com.pk
     quality: 36
 
-secured: "eibygG6+IzrDLpXC4uwwy6EQoQcx/ceto9nEzmh8lWJQ7mv8urEgwBQQwRcZ5lNom0GAk5dPOAuwb4y0A++zV4m1MFMuvQ2n7m4WIO6Cp/jO9ldEg8BUt7iqHjk5kMvbtX4tJljt4ziaRw+acNHWi2UScBTpMjxqYGDtB9uTSDpBeKn9HmIbgi5pOD5MfY16stH78tz++STuLbpw+G1H7bH8OZgHp1sqvzDfPb1X5Kok+p202dHlBGARR1PvT2kz3F+kukMZlk0BtM/+WjyAIV9GlZw4G/pOi6iJa2GpiAxu9Sk13+T1lTNayG/6CXLB2gk84W5kwo4nRVss4xs6uaLgGAa9NAXOCF6WLLh4NyU=;c02mjM47xxnCox7mtKlfTA=="
+secured: "Nvuf7zb+wv32rrGnANDdai4r2rntJanKxim6kELPriYt5iyAWBEfABB5pnCjKDgbE3hC1xClA6aVqGacHsMoBpgl3zvFRJXRufss273AE7lJX7tK1VxBCJa3nBiMZimwlZUOGXkKDArfrAL2M5OwtyodRVJaiU14ho0kYzFqZsFMjDw9wKU17MbJvEcIN7HY2atrTKXY2BMwUbKg9KXIdOaNsWKhF0JkyOsJnfpFy/jj5fCvIVi8hlfoVbTUytkXO65/LFTsuuc+Cw8wVrWPxSR+g2JYOm/5KUXSu2C3md5vSgwCBjwNGrRcZEuOv5ODd2+p8LDJRtJOuhv3OelxOTME8e/qIQNLqxaQUToQN/IycYanfc/7Mvc3j9LdffXnRaHNM8hwLViJLyt5q9c5rleDqY/0fqQBGMwWzc6Afn/rgJTTylQxUJkQslk2CJ/nMBpr/CzsysArgxBz4pvm7k8CNslJFJnLN8RWb1rWrkRnpq9N6PMxHt8od5qiVawbZ9tbtTn1Bmgq76oTE0neQA==;nviU8XPRecjayWycib4baw=="
 ---
 

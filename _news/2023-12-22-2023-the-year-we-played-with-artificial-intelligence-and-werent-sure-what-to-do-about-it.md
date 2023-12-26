@@ -57,19 +57,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Top 10 Patents of 2023: Energy Harvesting Roadways, Deep AI Infrastructure and Controllable CRISPR Editing"
-    excerpt: "Directed at a seeming technological improvement to computer architecture, it claims a method of employing AI capabilities at a network switch that addresses a growing need for deep learning infrastructure that are closer to sources of input data contained ..."
-    publishedDateTime: 2023-12-21T13:15:00Z
-    webUrl: "https://ipwatchdog.com/2023/12/21/top-10-patents-2023/id=170978/"
+  - title: "Navigating AI Trends for Startup Founders in 2024"
+    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
+    publishedDateTime: 2023-12-26T04:21:00Z
+    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
     type: article
     provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 19
+      name: Nerdbot
+      domain: nerdbot.com
+    quality: 39
     images:
-      - url: "https://ipwatchdog.com/wp-content/uploads/2023/12/Depositphotos_113585834_S.jpg"
-        width: 600
-        height: 600
+      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
 
 secured: "ylBj+zc3l0w1RAmeWXaIGk6fiuk8/bzy6EgkSoWtgl8BGvXh5rt8TRSlhj0jIT9dUGccq9DTr+p2F1O6362Y6XsYXh/M0dpp2b4U7xrpOHdwJSrdK8mnBKCjLoUrAC5mpK469UaPH+cj+rPobIHO2+G7UOd0cxH2epd0VBZKWq5heCXPx8M0Rim/rHtDFmqOSbZh3BHeTvhauAmrbhh95QRBGomcyYmoeE/H2XTo2478PgK+FbBuv9EdKvtD9vCgCwJDV9gM2YJ3rsvUTpsTdcO36naMaYeYYIC1vKBRb9TS6+xJCei81NXL72SDxAz2yxsWWsSy2Nr+53cVchICF33+3Ll5idzRAq9Drm/aeNOGejUs7IcmlUZZg1fhtZAUTLsyF8oZTaUzxOYvu0LscoO9psI2COWyL4AIBIUZWQ9bE0cGDICDCD+Co0l1MKHgL1y364DoUYrHQnYNTHC48CwcaqLWfpLQYIizZlkgOTvlBpvobboYr7X9W9gxHSeza7TNF8B1YZ4L7ulejYexLQ==;7oI+3RgQqwJdH5i47UYm0Q=="

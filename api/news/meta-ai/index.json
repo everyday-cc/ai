@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-23-how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race.md",
-      "title": "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,",
+      "path": "_news/2023-12-23-persona-ai-wins-first-place-in-genai-solution-competition-2023.md",
+      "title": "PERSONA AI Wins First place in GenAI Solution Competition 2023",
+      "excerpt": "SEOUL, KOREA, Dec. 22, 2023 (GLOBE NEWSWIRE) -- Recently, PERSONA AI ( https://personaai.co.kr/) has won the 1st place in GenAI Solution Competition 2023.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/persona-ai-wins-first-place-in-genai-solution-competition-2023-1032923502",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png",
-          "width": 904,
-          "height": 564,
+          "url": "https://ml.globenewswire.com/Resource/Download/1d25f63f-1273-4dcf-a84a-00f3e40ab974/1.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T21:29:00Z",
+      "publishedDateTime": "2023-12-23T01:41:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -49,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
         "AI",
-        "AI Hardware"
+        "Meta AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.techrepublic.com/article/apple-llm-iphone/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "io.net successfully launches BC8.AI platform"
-    excerpt: "On December 21, io.net, an AI innovation company, announced the successful launch of the BC8.AI platform, with over 10,000 inferences."
-    publishedDateTime: 2023-12-21T14:36:00Z
-    webUrl: "https://finbold.com/io-net-successfully-launches-bc8-ai-platform/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 19
-
 secured: "jPVKQyIAwPHl4KGBV0SDfO7Dz2RCArLZct0bWW/8FxEf8jsNRrhdy9gmxIHnwRusUfVmGz8toPQ/jJCP6t+DLO6eRQ6GlJ2fUBVRXdiaiJJO46a1KCnnHZC6zm/C/JaeXBqIUN4CuEUkXt967sj2UMiUVTk63MPXRudrjbE1jsZ4UQV8M04eVYHcCUvEenTFz53imDnZtgsxkPcTbRyZEt7CHnVkkMDWNvEKOIzMcAD8QtzDNW76xNnqhHDoLLPWfqgfyhVAErjv3TQAxTSnQAzgSEWRw2cmhyYuYc+6fVvh9CeBlzjY0ObPiM4U1eCYsrbsjMFIJr+ekxYZYmXhZZB7p7x8jaJ+IaCT/v/1aDE=;NR4Hdm9ciG35ry4fsh3pzQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks
 webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Post-Journal
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anthropic Builds Methods for Reducing Bias in Generative AI – But Doesn’t Recommend AI for High-Stakes Decisions"
-    excerpt: "Anthropic released a method to reduce discrimination in the output of large language models used by companies through prompt engineering."
-    publishedDateTime: 2023-12-21T15:14:00Z
-    webUrl: "https://www.techrepublic.com/article/anthropic-claude-discrimination-bias-mitigation/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 50
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/tr_20231221-anthropic-claude-discrimination-bias-mitigation.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "AWS chief Adam Selipsky talks generative AI, Amazon’s investment in Anthropic and cloud cost-cutting"
     excerpt: "Adam Selipsky is shepherding Amazon’s AWS cloud unit as it pushes into generative AI, one of the most important moments in tech history."
     publishedDateTime: 2023-12-24T21:14:00Z
