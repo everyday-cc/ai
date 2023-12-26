@@ -137,6 +137,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm Lays Off Hundreds Of Employees Citing AI-Driven Automation"
+    excerpt: "Paytm cited the increasing usage of artificial intelligence-led automation as the reason behind the layoffs. Without disclosing the number of employees impacted, Paytm, i"
+    publishedDateTime: 2023-12-25T07:43:00Z
+    webUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/"
+    ampWebUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "Paytm bets big on AI to drive efficiency, save employee costs"
     excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
     publishedDateTime: 2023-12-25T16:05:00Z
@@ -161,6 +172,20 @@ related:
       - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2F26cf37d2-2f4f-4c59-b856-40cf944f9cdd%2Ffile7ic4u44g2s6ulg4iolm.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Layoffs at Paytm as AI solutions deployed to boost efficiency; shares down"
+    excerpt: "Paytm says it’ll save 10-15% in employee costs with AI-backed measures while hinting at more layoffs in coming periods"
+    publishedDateTime: 2023-12-26T06:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/layoffs-at-paytm-as-ai-solutions-deployed-to-boost-efficiency-shares-down/115211"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 37
+    images:
+      - url: "https://media.assettype.com/fortuneindia/2023-02/351bc5ee-10f4-4274-8f78-c5bc7cd38772/Paytm_Office_IMG_1680_copy_2__1_.jpg?w=700"
+        width: 700
+        height: 391
         isCached: true
 
 secured: "Mtmbff67g2EzPMo10Y2Fy751Sm9tCG3J7XRCYuCUrAyoOAq2bOgFTH4Fuf4fUUKfFc06O+Sb4qGMVbcqrPaSklK03Wyu/CxuC7yQSFn7rdYEkr4k3WNPI/xK1gteJn2lxb41v5cFNFosEWeZI69Xhd/4HHBmDaQHbFnHH7EJRoMxMOr774RJEUe4WDuvuOiRBIHJiCT3zfd9uaNs/dR9wafFJFIQTFGLixlhEXtHyNzjy8vkEZ+f28DYf5mazwuj1E7aQ0g7KRtwgmKgKfL909/IIKvwOm9lzsD/Iy9etsi9NjMOB31A83V6ICC8VnbkH4UsOFLZOddZmJlaOK6T/YFQL44WcbaD11hXv+mtl7mUTL7+pZ5y8+d6XwoY/MofbVuqO64IkUkC8TRxFcKAAwKaAtlou6Z8d80witBswSHnANEaf9AfZ7ySFs+3tJsjmIeoH53/+MAJHKzju7OZWJiLdGzxpgbvNMkiPF7/2lV1eaj17Iqfczq1yHEeRO195Af46RRN7JdnlOxG32cQtw==;o+Vd44RaNzMoi7vLT5h36w=="

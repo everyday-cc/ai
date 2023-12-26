@@ -114,20 +114,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "The Premature Quest for International AI Cooperation"
-    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
-    publishedDateTime: 2023-12-21T05:48:00Z
-    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fears grow over AI’s impact on the 2024 election"
     excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"
     publishedDateTime: 2023-12-25T17:14:00Z
@@ -189,6 +175,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "DuiFdWqoQeV17uGr48ERak3hcb5DeL6bR948v2XOywZ9EL7Bbesgr/SujsqkApiI9c5jPh9QNNdps/kf2oNfg3C+6hM9GOjRRj5dvgaRyOH86Oxz3HvULufMQv4prTWXBOb+f/6PE4Ytw3TpkpnaRLDP0Jp+8PEpzcKDDZPhPJl1GxbdEda5q/O6t21r5mkCCjy9AkwIZPZvlEIswbGSrXPXXUUA+JZhkjx7iBoVqmWpwpPSn4KY8WCiWhkQpjBpt6/IG8cMa19eIeaZahjAEr5iE/hYwqHKC0fqcQMMHQ1tS+GRgWeCZs02aQvqBgY6JY7og79LEjB+7uw5TnH/sG7VqTaDlXXkoO1Y7+BaCfM=;P3VTqBLLdOvPyDXLaInQNQ=="
+secured: "CujRVDT0n2DS+psmfCbs3yc6IdXO4Q3JMHP18Gx1M/30rHmregBnmlgzcmr1rZ3P+zPmabH1/CKZfEBisjClhq4CTsJjvG7MsS5iKAIK8Cza/ku0domdDNMU1pLu0A9B5I9/0++LW6nGTNHJs+u67scqZEsOUZu0LV/hyhkJxh8FnTgIcLkQ1BpRxySqGcGYSAcMVQyWSdjtsmpDjxi+pN4uHzJnOU+FLD3fwIxHJxvEfJW1PKbulxqAntjC8HvzAayPXcwmSbjEmrFRHOi3ovXLXSkRlLLb/BOOTvbUR6jZAMuLt/JjDP7O7DUvq+cE5i54ht65frtfTkAMEmKzQjvI3setGLrXtX6ipGDq6267iwv9vWzIo3ZAJEYTauc3QL+JcRCl/8zl8bAxH9q7tN+ufQwxmGtN8qzrks9ciQXjKABj4MTzF0gii62aHBA8ZzfhwSelajl/XWIZcy0lH4sfxsRnMMruiSXL2goENg/LiielzHYbeUWJwm8+Fr2bEa9s0ts7Wn5a1QyKc4GwkQ==;dJ4cvMkjz/ZpIZBA3XthIg=="
 ---
 

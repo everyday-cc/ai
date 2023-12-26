@@ -147,6 +147,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm Lays Off Hundreds Of Employees Citing AI-Driven Automation"
+    excerpt: "Paytm cited the increasing usage of artificial intelligence-led automation as the reason behind the layoffs. Without disclosing the number of employees impacted, Paytm, i"
+    publishedDateTime: 2023-12-25T07:43:00Z
+    webUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/"
+    ampWebUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
     excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
     publishedDateTime: 2023-12-25T00:00:00Z
@@ -160,6 +171,20 @@ related:
       - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2F26cf37d2-2f4f-4c59-b856-40cf944f9cdd%2Ffile7ic4u44g2s6ulg4iolm.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Layoffs at Paytm as AI solutions deployed to boost efficiency; shares down"
+    excerpt: "Paytm says it’ll save 10-15% in employee costs with AI-backed measures while hinting at more layoffs in coming periods"
+    publishedDateTime: 2023-12-26T06:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/layoffs-at-paytm-as-ai-solutions-deployed-to-boost-efficiency-shares-down/115211"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 37
+    images:
+      - url: "https://media.assettype.com/fortuneindia/2023-02/351bc5ee-10f4-4274-8f78-c5bc7cd38772/Paytm_Office_IMG_1680_copy_2__1_.jpg?w=700"
+        width: 700
+        height: 391
         isCached: true
 
 secured: "TnuFssaDfvPae1WrtiI5fbMvwVgSTIXQJmfdLydypzkHjBaf61gydJWSM9e83q9tImGuS7y7G/Ye4Jw0sTlGlNM1rINjf0Vu20zNRByo6+OwzepwwjT7HtZzxoglau3tj17KcDulleOoOBL2oOA9Y9zkbhktuepaGPxTOP9PrS1FFZYl5ykR766t81WbzYw3e1xyBjwRPiLajIop/TnBRusU2jkW0EB/EASAwVGtQ17YpV2K2nuns0/tEE1GPAjfvAzyXvtzL78Af0Qu2BOuNY6PsB4i/GXdAicDFA5qzQ2+vVooCz0I1hMulTtmyHwxXUIJ5qYMrBIkathzM9XAl3u8nlVv7sCAnOARzSq15hGu1qhjs25adXuFBySk2eCDKyfAa5IxmkOS8d1K53JrneOSs36xYR+JtFRgCY6ktaEZ+eKpT6vtMV/D69AMjcgqR3HhjeSYfpgZG2ccOTS9a0KY8608/1Qv1/6eyevnQCI5xbtJVNNMen0Cep/bufU+TBsBrUKvYmF36xw+Yv6bNg==;hTpHDbzy3LbqBPTGQGqOHQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 33
+  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
+    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
+    publishedDateTime: 2023-12-21T13:11:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "0QQYh96YC+RJC58xgHydYM78qpuKwDdn4FLoMGo15ITCjuUu7Ch7KTutBv09n1t7iOOmTgEetW5i7YrzlAux1MK7TQmOSyQr3kLTyWJIVa4yxtu4+zQ9MqX9Lu74CZ+a8gilKNx6vRvWhA5lBFpTYDZAk3N4Hg9l4xyr650dX/aMYEsOht2OHB979MKJqcGezQq1ekVdPY41TWJZCG1gmKh2rNEBWdGtlt+5RoUks3Y9XXTFsjiCTuL66SutYWHHPFV29pFCi/AcGHMKg7YrHyhaxB9i2ZdyxnugUGpdUVNA9P1erqHf4PYQov/QpdCv05h1MKbqoDrJ029rvQaBAzj6IOsleQ8YiGJjamuzOho=;9sQHcX+Jw3z0mo06uO5Tpw=="
 ---

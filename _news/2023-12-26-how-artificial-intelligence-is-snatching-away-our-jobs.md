@@ -8,8 +8,8 @@ webUrl: "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatchi
 ampWebUrl: "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg"
@@ -43,6 +44,6 @@ related:
         height: 682
         isCached: true
 
-secured: "7uBTm+dAGwdRs9KqoDJxZrIIDZbA30GerBXfvKe6oWS0/PYgfxX3l2BkQCwbEHjEu1oWuOdxvcMWlT+d2B5a5Afe3jfTujgoXfgZvnEskZQ8tXyiNcv67/TOJ54fVa+v3Cr8ni9/xKQbxVGGpJHfytSi/VsKkmrHqXilhCrho7ejZjWpY3O1suVDLC9HmL6S4hjCf8kq7U3CXVGBOlR7q5AfiTAI6ye4ERpyyqo24g/jMHpvRGQwqoYZQ31fdX7znDlubMCaFsXQOCz/GQS11vs+Bw8g2TLMnFZFtW4ZSYVhHFa1HQI9kFF6GGvf+35ARkuSHzDCBYKfY3S84qKrTvyTrU3ZkVHpdHEklh/yEIc=;Wfh8DcFKPLT+Ohmf3ufT8A=="
+secured: "x8Hx9hhdR/d1+unAr+52JWhHSPiGuW2/zPrDmEhsI94Zq85xcuE7fX5wupNO3L79XADyAGSNpRNTqE4YBEQ72uz7vkuQncUx55IV+qgPuQVKxP0pfCsGr5HFPEw1h1Q+VdhPlMLj1JqIaxuTeRvQ1wBp+ISkdj/hJvqpj24ODf+Dny5MPTlplvmljfKPCTGkgzhwMimY2odIwvsi1SGHzEzihu1ckIi7OC/9NQJd9Cvy4bVeoQtaQowP6BLQvBgBcv92gL5K/3G+IX1GwyCbPQW1wkvV4W1DQUIB6cpzbaGeyodB9Tl+AG8Q0rg631FUh6+gZAhvmpwPWfmjLrEUTCVZS2xD2BgGTJC20cw0i8H3l3S7TgukmOEO71LLoAZnsAVDutLbkAzTxmbeQOl8PZQNtqhibHi5zOPVQmmXryI8ssYYyFZ3/d1nA9xU9XP4CtSPOUruDnFtfSBDu+FhxWeXqOfcvIh6OldsNKe4guLo+Z6JRzaIeroCWM+qrpoiwtyHL/M3QmPg0dWu8BlPiw==;TGc0Kz6TPrX1ltbmL0kLRg=="
 ---
 

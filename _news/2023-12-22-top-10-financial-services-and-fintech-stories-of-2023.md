@@ -109,20 +109,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Fintech in Singapore: 2023 in Review"
-    excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
-    publishedDateTime: 2023-12-21T06:27:00Z
-    webUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintech-in-Singapore-2023-in-Review.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
     excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
     publishedDateTime: 2023-12-22T08:03:00Z

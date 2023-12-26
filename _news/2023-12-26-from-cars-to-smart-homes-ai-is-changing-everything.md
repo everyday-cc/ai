@@ -35,7 +35,7 @@ related:
     provider:
       name: Oneindia
       domain: oneindia.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
         width: 960
         height: 1280
-        isCached: true
-  - title: "The Premature Quest for International AI Cooperation"
-    excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
-    publishedDateTime: 2023-12-21T05:48:00Z
-    webUrl: "https://www.foreignaffairs.com/premature-quest-international-ai-cooperation"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/12/18/RTSPUK66.JPG?itok=9QxIgqOj"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fears grow over AI’s impact on the 2024 election"
     excerpt: "The rapid rise of artificial intelligence (AI) is raising concerns about how the technology could impact next year’s election as the start of 2024 primary voting nears. AI — advanced tech that can generate text,"

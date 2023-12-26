@@ -137,6 +137,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm Lays Off Hundreds Of Employees Citing AI-Driven Automation"
+    excerpt: "Paytm cited the increasing usage of artificial intelligence-led automation as the reason behind the layoffs. Without disclosing the number of employees impacted, Paytm, i"
+    publishedDateTime: 2023-12-25T07:43:00Z
+    webUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/"
+    ampWebUrl: "https://inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/paytm-lays-off-hundreds-of-employees-amid-postpaid-loan-business-scale-down/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "Paytm bets big on AI to drive efficiency, save employee costs"
     excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
     publishedDateTime: 2023-12-25T16:05:00Z
@@ -162,7 +173,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Layoffs at Paytm as AI solutions deployed to boost efficiency; shares down"
+    excerpt: "Paytm says it’ll save 10-15% in employee costs with AI-backed measures while hinting at more layoffs in coming periods"
+    publishedDateTime: 2023-12-26T06:12:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/layoffs-at-paytm-as-ai-solutions-deployed-to-boost-efficiency-shares-down/115211"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 37
+    images:
+      - url: "https://media.assettype.com/fortuneindia/2023-02/351bc5ee-10f4-4274-8f78-c5bc7cd38772/Paytm_Office_IMG_1680_copy_2__1_.jpg?w=700"
+        width: 700
+        height: 391
+        isCached: true
 
-secured: "CN++FlypFOTmZd3slI6jhKm3MjowtU0b938HJzfAr2+enDK7qRkLkNyXOemU2VpTfIIk9QavfNzzFsT/2HV1DWEHV7+Ii0G2pOpw50Zgb4T6UkBYi+pnV9gj2eIHDrrGqlE+ObLcvI0vLS5NWgnNoYOpIms+pwklztUpG2zeJkrUG0AGHPTq0s9x1aIvBWbB07bP8wFPLZd6Uzm77zfTRZgsAtYLmH3ELlBVIk4jfjMQZpfL2WI7L1moHyHLx//4ZWWAlDavNtCgSD+TNZufiDuSReNcjo3Fk/q+WM7woW5ogw5c7gTXtBgDxIVAv94fqg5JmlMfP+L5yStbXpGrbjLUPXCPLLuUI9/xLwj6jMo=;SMk4V2k861NRqRKH3ahJ0Q=="
+secured: "l4zcnBHlkl0kTqdYGo6h1nV8HR/rp17PzzaELPTWvFF9sD3i4JzT/S3uVtYDI9stTRT4vdsj9IetEGIVazMqRyL8OC8xfS3GdS8dDMOcGUwBRN8y69xUrjakfqlph6gc37q3zYZral/3YLMdYdAk9bmtgD9R/IsD/7HSFkNsLB3VKwji4qasosDHPQb1KF3Zw+Xq/f5iaiLyFnhkDSbkug1ngRs9YtRg61oHq7qA+kYRpb2SuOslC0Nn6ZnyzFLMgqK24pCQ1J9u2y2sPYN8fnewYYtKtI1a9N8ankTK4yBSDYVyuYWXg4Tu8gFU1v2/R+mTC3TbncgEDztr6Nw43nxvw0joCQk1P4LM9Agju/GdxjPBOWu3gZh51ryHCkk8WfID4efjEWuF9MYmZNUVOyU3Yn09++55rRjhgcM79IyXY/RqXiTbsJrOU1CgeP8S+9Xbv0Ek0L9GDBrdvPfmEk33akF/Cm+CQSdUopgEGgHeptPpmeaqtFXTaXCjefC18ZHJVnrxoJfbDrZquwOuCQ==;2vG7FeTT5M7Gox6WNE/2Qg=="
 ---
 

@@ -116,6 +116,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 79
+  - title: "5 stages of AI maturity in marketing: A blueprint for the marketing revolution"
+    excerpt: "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper"
+    publishedDateTime: 2023-12-26T05:35:00Z
+    webUrl: "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 72
+    images:
+      - url: "https://www.forbesindia.com/media/images/2023/Dec/img_225345_aiandmarketing_bg.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
     excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
     publishedDateTime: 2023-12-23T19:16:00Z

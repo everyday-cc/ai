@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "Fintech in Singapore: 2023 in Review"
-    excerpt: "Singapore actively pursued key initiatives across various domains in the financial sector, focusing green finance, payments and digital money."
-    publishedDateTime: 2023-12-21T06:27:00Z
-    webUrl: "https://fintechnews.sg/82374/fintech/fintech-in-singapore-2023-in-review/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2023/12/Fintech-in-Singapore-2023-in-Review.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Top 10 financial services and fintech stories of 2023"
     excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
     publishedDateTime: 2023-12-22T04:59:00Z
