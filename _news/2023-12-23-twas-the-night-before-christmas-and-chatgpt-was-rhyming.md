@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Boosts Christmas Sales"
+    excerpt: "The sudden rise of generative AI and the use of ChatGPT have inspired more retailers and holiday shoppers to experiment with technology this"
+    publishedDateTime: 2023-12-25T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/"
+    ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a07991146a3413de71c2c2/0x0.jpg?format=jpg&crop=2124,1194,x381,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Merry AI Christmas: The Most Terrifying Thought Experiment In AI"
     excerpt: "Advances in AI and brain-computer interfaces may lead to the creation of AI that can read your mind. Will you fare well on AI Judgment Day?"
     publishedDateTime: 2023-12-25T14:20:00Z
@@ -54,6 +70,36 @@ related:
       - url: "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "King’s Speech 2023 LIVE — Charles to deliver message of ‘ harmony’ in Christmas address as royals gather in Sandringham"
+    excerpt: "KING Charles will deliver his second Christmas address as monarch to the nation today as he is expected to spread a message of “peace and harmony.” The King will take to our screens at"
+    publishedDateTime: 2023-12-25T09:04:00Z
+    webUrl: "https://www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/page/1"
+    ampWebUrl: "https://www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/royals/25159619/kings-speech-christmas-2023-charles-william-kate-updates/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 20
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/Kings-speech.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "The king’s speech: Spain’s Felipe VI focuses Christmas address on the Constitution after year of high political tensions"
+    excerpt: "IN A break from tradition, Spain’s King Felipe VI used his televised Christmas Eve address to focus on just one issue: the Spanish Constitution and the"
+    publishedDateTime: 2023-12-25T10:10:00Z
+    webUrl: "https://www.theolivepress.es/spain-news/2023/12/25/the-kings-speech-spains-felipe-vi-focuses-christmas-address-on-the-constitution-after-year-of-high-political-tensions/"
+    type: article
+    provider:
+      name: Olive Press
+      domain: theolivepress.es
+    quality: 14
+    images:
+      - url: "https://www.theolivepress.es/wp-content/uploads/2023/12/RF_MENSAJE-_NAVIDAD_20231224_08-490x330.jpeg"
+        width: 490
+        height: 330
         isCached: true
 
 secured: "qLiby/+BjAvQBijnhZO4ngXD7ZteZHZgKE9eERT/RxrLYDsY53Zo2X2cZSyhkeOC2x/tY0O7+Cx/Hg6KmsgpGG3f29/yW1M1zHqhGodFHR9+uw7ZjLlMh6u7ulGFyO5P0ukAjZSk5s+mqR0gOlI2reHrXlsJxgtsXrEzZcRB8T3cF9tbj3FbhBDzxfGwmxpm2GK9DAbFqymM6bhLkw1dBVeIEsLQf9DzfelMKQ5+b9eu+/p91IEoiP/7NnJCnew6ZG+Mdoze+Mzd99Iy5ft1l/p2mGtR8hX1pVosqf8iHt6KX/7KrdNWTONHt+ZzJvWOzBkk5IwZ39Bw9i1pBCtIA44sn1kK3Y/FFvKoupTCocKmXd0Z23mQTeHoaUsrM7rC0x5+IM3cA8ZagnMqWJSOPvOgclImC0ICNHpWRn0pstXYzpHJyCScf/XgAZKGoZDc5c0Kx2qzkfhqHVqKlFPCMf/S8iZGlsbIqSR+rJQ/SMB6VCLdES4dRva1Qv8F6lW1my7pAQmHlpKfAONN0odAhg==;Ugh0/p9YfSPVQYTqXxYFkw=="

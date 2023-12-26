@@ -115,20 +115,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "How Artificial Intelligence Is Set to Change Work in 2024"
-    excerpt: "(TNS) — If AI was a hit new toy this year, 2024 will cement it as a tool. AI, or artificial intelligence, grabbed the attention of every industry in 2023, creating hope for easier, more streamlined work processes and stoking fear that the technology ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-set-to-change-work-in-2024"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/260c365/2147483647/strip/true/crop/7777x3780+0+30/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F74%2F05%2Fa76fd2a14493bc501dd0aa5c1ffd%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xMTE0MDUwNDQ5L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2NTIyNDMzOTMsICJtIjogMX0sICJvOEI1R1NDY05FMFdVV1dYS2Q0NUx0NjErT2siXQ%3D%3D%2Fshutterstock_1114050449.jpg"
-        width: 1440
-        height: 700
-        isCached: true
   - title: "The Premature Quest for International AI Cooperation"
     excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
     publishedDateTime: 2023-12-21T05:48:00Z
@@ -190,6 +176,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "cc2f6WrmF0PXDWjP8zSe+BQB7N4hDz79FMVapP39Sy8RDE5G2ldAmF7aZhOj91iIOOR4yYNhs4mzSNG92+p/tjuIhlL0/WTUtkRv6KuK9Cw2v2y8Vkcn9TzC4q2BSsjnh3FfQY4BQp/XpCsi/rSR9xCjLKKeFezmkXviQMg+WHIH12xd0s6rA5DCxA77Acwx71yOxb9QP1AjxEHIhXRFQ+USY/Xe8Tg5cOQcnfEG0MjiadEpLhCY9k1o1uelhKEXwuh8j4Ubc1TmKXQHmJI8weKIKYd8LkXtf/Fg+l+6/8OymIBecoL9YSxZ9dRVWadCQ+bQ8Qjw+AmltC3DzPgW1CGwMONZtrST2jTg7eXQEnY=;uJzFRFkmWxvBoEU4LmHmfA=="
+secured: "eK6raB2NSBXh8Cn05ulolaFoGQK48DNxweAZKn+PD712nIuKAW3a41ZNbMBSviAn9b9i65v6ypSTEj0FPhPJsdqRo4zY5lVM+gT+EI2VUMycC/d6/XBTmh3exEL1pUgkkqJwt7rhndF7PzIraVhKD8QMcsofMrbx4NMIcfJ0Kv0Nm0HKBsHs5qUVzULw5Jsg0rgGbeSxr4x8dfTKLKziEM0r2/4UygK8XnDm6EqI0b2VMz4ruVE1ZW3yscRd4/k+GxghylSHhj1Mdkuz1M8q0uPbm/vjmvt/FCezXXcKnt9ZwpLjF/ow3V+tIjTk8vKOm0EFq7yNCwskNgk1myZEzz80KhjycNP+EG6GsaRRXxjKV8VOq6fgP4vnvZ6oC+wEOC54a4IzmT5sk2yoiU+9vZH13og2rQpOUrzpf3+uAfw1H2Z31kATB1aV4pGFQmP71h2upccLXChKBqNiGHzWvVYdAI2XuuOWGdWPBusvgY8gTU2lZd0tvkfwLC7nCRD0TZWa66mrS6Vee40Z9zzDnw==;1zdoWnan54r4+JPJszkNDA=="
 ---
 

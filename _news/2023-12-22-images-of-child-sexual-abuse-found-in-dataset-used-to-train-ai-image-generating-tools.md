@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Large AI dataset has over 1,000 child abuse images"
-    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-21T00:41:00Z
-    webUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
-    ampWebUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    type: article
-    provider:
-      name: Pasadena Star-News
-      domain: pasadenastarnews.com
-    quality: 57
-    images:
-      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Study shows AI image-generators being trained on explicit photos of children"
     excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report."
     publishedDateTime: 2023-12-21T07:34:00Z

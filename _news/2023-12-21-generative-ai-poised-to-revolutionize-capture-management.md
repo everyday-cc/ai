@@ -173,20 +173,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How Generative AI Promises to Transform Procurement"
-    excerpt: "Therefore, implementing strong data privacy and security measures, such as anonymizing datasets before training the AI, is imperative. The decision-making process in procurement is often complex and multifaceted, involving considerations of ethics ..."
-    publishedDateTime: 2023-12-21T00:00:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/38643-how-generative-ai-promises-to-transform-procurement"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/08/03/Artificial-Intelligence-iStock--Udomdech-Jaroenthanaporn--1473127506.jpg?height=635&t=1691122544&width=1200"
-        width: 953
-        height: 635
-        isCached: true
   - title: "How 4 health systems plan to adopt generative AI in 2024"
     excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
     publishedDateTime: 2023-12-22T04:59:00Z

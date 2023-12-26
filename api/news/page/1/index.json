@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-25-merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai.md",
-      "title": "Merry AI Christmas: The Most Terrifying Thought Experiment In AI",
-      "excerpt": "Advances in AI and brain-computer interfaces may lead to the creation of AI that can read your mind. Will you fare well on AI Judgment Day?",
+      "path": "_news/2023-12-25-ai-boosts-christmas-sales.md",
+      "title": "AI Boosts Christmas Sales",
+      "excerpt": "The sudden rise of generative AI and the use of ChatGPT have inspired more retailers and holiday shoppers to experiment with technology this",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/",
+      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/",
+      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65877c778f11281955aa8fa6/0x0.jpg?format=jpg&crop=1214,911,x0,y79,safe&height=900&width=1600&fit=bounds",
-          "width": 1199,
-          "height": 900,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a07991146a3413de71c2c2/0x0.jpg?format=jpg&crop=2124,1194,x381,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,9 +76,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2023/12/25/merry-ai-christmas-the-most-terrifying-thought-experiment-in-ai/amp/",
-      "publishedDateTime": "2023-12-25T14:20:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/",
+      "publishedDateTime": "2023-12-25T11:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -101,9 +101,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI",
-        "Meta AI"
+        "AI in Sales"
       ]
     },
     {
@@ -167,7 +166,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -253,7 +252,7 @@
       "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -946,7 +945,7 @@
       "originalUrl": "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 122,
       "tags": null,
       "images": [
         {

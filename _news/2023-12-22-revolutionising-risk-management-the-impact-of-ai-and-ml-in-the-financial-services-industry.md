@@ -44,6 +44,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Generative AI Use Cases: 71 pc Firms Experimenting With Artificial Intelligence For Biz"
+    excerpt: "About 71 per cent of enterprises globally are experimenting with real use cases for generative AI and over the next decade, generative AI will be the fulcrum that accelerates business growth. The mass adoption of generative AI has transformed customer and employee interactions and expectations."
+    publishedDateTime: 2023-12-26T00:48:00Z
+    webUrl: "https://www.timesnownews.com/business-economy/economy/generative-ai-use-cases-71-pc-firms-experimenting-with-artificial-intelligence-for-biz-article-106276753"
+    ampWebUrl: "https://www.timesnownews.com/business-economy/economy/generative-ai-use-cases-71-pc-firms-experimenting-with-artificial-intelligence-for-biz-article-106276753/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/business-economy/economy/generative-ai-use-cases-71-pc-firms-experimenting-with-artificial-intelligence-for-biz-article-106276753/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 64
+    images:
+      - url: "https://static.tnn.in/thumb/msid-106276803,thumbsize-752200,width-1280,height-720,resizemode-75/106276803.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
     excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
     publishedDateTime: 2023-12-21T07:12:00Z

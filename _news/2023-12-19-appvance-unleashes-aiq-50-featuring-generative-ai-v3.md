@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Appvance unleashes AIQ 5.0, featuring Generative AI V3"
-excerpt: "AIQ 5.0 includes the following new features: No-Code Fully Visual User Experience Users will experience an improved intuitive interface that empowers them to unleash hundreds of Autonomous Testing bots (trained to do exploratory testing with BDD-based validations) effortlessly."
-publishedDateTime: 2023-12-19T10:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936067.htm"
+excerpt: "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking"
+publishedDateTime: 2023-12-19T09:06:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "CsE9hn5GJe9obZgVUMqYuTUXyKVdjx2q9nSbfOtsSWYocEPpKV/3OUEVpEL9ee/Tjz9c95W8CRd2Du1FnZsKuYpnwY6QB5gz6wa0srWYic5jQboSaQITNPtzKHpoEOera8UoXob5jNPPHiczTwWaDjKMtJqcAwPQfhD7bcmAZotK0vcJBPskjZPzzjfPvycvv/6XAG1DWDOeiL8cufPx6RqsLYTtKkngyP6JIvhwfBrEF3J5b/sg45xRCIzozTyqC5tXKssJ8+Wb62zTtPQR+Fah5136chhkw0Kyxvrpp2SB5HUDYh1na7li8ImGd7P3JXQjju4qiOI4XumebmvOQMSWzvorZHm3IulavGsC2Ak=;CKFCmAbSvlVvOXdWnzwZkQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "qJiDWVkd8BB7oTkLRG3mtw5pgyWC0RB9xCZCWOaUtusjrUGgxf4MpSGejWHDpoAP8vZ4GNnUGMCKvigxvv4q5gnxWFQfwdTvfq6Th0pjHAO7GWhkBSd+oEAyiYchxVWBJmId3TRLHDyd2ZUNmHVIs1npFcplWD04NhpiZS6Mxrn7h7MzIMA/DjSHTbZZVrMiAnox6rs3+fsd+rddWyTqLYN3io1xmV0wqGOUX2CmRZT3xleT0g7VEY7I6T1Lo9ET3VivoAlvTWbk+sDiuc4PD7GNY9eazOtXmVDsxYpPCjNrWAAWXnJ8JzU9FuebQMsBmA7SdP28m4bQW0JY4lMEN0Eui5E4x30K8AjIXvIrOoc=;5eYcOGKRSdp4lYMfeEWWTw=="
 ---
 

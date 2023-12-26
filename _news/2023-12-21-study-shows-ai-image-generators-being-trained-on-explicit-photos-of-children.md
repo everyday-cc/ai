@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-be
 cdnAmpWebUrl: "https://www-kotatv-com.cdn.ampproject.org/c/s/www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: KOTA TV
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Large AI dataset has over 1,000 child abuse images"
-    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-21T00:41:00Z
-    webUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
-    ampWebUrl: "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    type: article
-    provider:
-      name: Pasadena Star-News
-      domain: pasadenastarnews.com
-    quality: 57
-    images:
-      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Images of child sexual abuse found in dataset used to train AI image-generating tools"
     excerpt: "A spokesperson for Stability AI, the London-based startup behind Stable Diffusion, told CNN in a statement that this earlier version, Stable Diffusion 1.5, was released by a separate company and not by Stability AI. And the Stanford researchers do note ..."
     publishedDateTime: 2023-12-22T00:00:00Z
