@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Financial Express
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in the Near Future: Artificial Intelligence is Everywhere"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous by revolutionizing numerous industries. AI everywhere is an era that we are rapidly entering whereby the end users are increasingly accustomed to mass personalisation at scale otherwise they will switch to the offerings provided by business rivals who may be using AI to create customised services and user experiences."
-    publishedDateTime: 2023-12-21T18:34:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/The_Future_of_AI_-_AI_Everywhere.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
     excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
     publishedDateTime: 2023-12-22T14:01:00Z

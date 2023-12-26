@@ -63,20 +63,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
-    excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
-    publishedDateTime: 2023-12-21T18:19:00Z
-    webUrl: "https://venturebeat.com/ai/ignitions-new-funding-fuels-expansion-of-ai-powered-sales-and-marketing-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 96
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_a_laptop_marketing_platform_03843535-9228-4591-8e6d-f5fc2e0900c2-transformed.jpg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Top robotics names discuss humanoids, generative AI and more"
     excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
     publishedDateTime: 2023-12-22T17:14:00Z
@@ -167,12 +153,12 @@ related:
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
         width: 1200

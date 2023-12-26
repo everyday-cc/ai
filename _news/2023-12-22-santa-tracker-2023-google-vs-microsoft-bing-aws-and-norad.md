@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
+    excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
+    publishedDateTime: 2023-12-26T18:30:00Z
+    webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
+    type: article
+    provider:
+      name: financial-world
+      domain: financial-world.org
+    quality: 50
+    images:
+      - url: "https://www.financial-world.org/world/media/image23752.jpg"
+        width: 1920
+        height: 1192
+        isCached: true
 
 secured: "UQ+NiRwi7aw4mLL4IlyPEDjVm+Hn5ZeVBKxq8y9daxd/iUvZ2RwUULsjFzje8mOYWppEXdqgF19CwIbGCb0bfMugH+Y6Za73q2SktXt2O/O37mByR1muaG0pElboROib4GeNXYwPuyKgLKZjmG0NhYx6DgC0tGnYXvb636HXN4RwfrtS7yUlG4ZjhV0edzBtLk0FDkhpK7uOk2KfcBxUU+tdGqcIXDkaXZMF3ILZHpC2SMyU1MT7TssTDZXsHydjn5s1CdHLx3kF9QmcN0aYwB54fkQzfH3zTYxIbPAUkwiRSkcPQblqO4l+kuTYJvMNSnNY2IQoDjR4nemj92p4q5s3KaLTMPcqO7K6XoU94uw=;3f/ZEDGOC5KopNsCPpLx2Q=="
 ---

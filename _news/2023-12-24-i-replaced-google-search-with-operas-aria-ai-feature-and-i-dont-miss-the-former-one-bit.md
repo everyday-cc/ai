@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/i-replace
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: ZDNet
@@ -30,34 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google might already be replacing some Ad sales jobs with AI"
-    excerpt: "Google is wrapping its head around the idea of being a generative AI company. The \"code red\" called in response to ChatGPT has had Googlers scrambling to come up with AI features and ideas. Once all the dust settles on that work,"
-    publishedDateTime: 2023-12-21T17:54:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/"
+  - title: "Google To Add Artificial Intelligence For Smooth, Seamless Customer Support"
+    excerpt: "Google Artificial Intelligence: Tech company Google is working on adding artificial intelligence to customer support. The company will roll out this feature soon. By using this, mobile users will be able to get answers to their questions in a better way."
+    publishedDateTime: 2023-12-25T14:41:00Z
+    webUrl: "https://www.india.com/technology/google-to-add-artificial-intelligence-for-smooth-seamless-customer-support-6611221/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Google Unveils Redesigned Labs with AI Experiments"
-    excerpt: "Google recently revealed a revamped design for Labs, featuring 12 innovative artificial intelligence (AI) experiments, tools, and projects."
-    publishedDateTime: 2023-12-22T23:41:00Z
-    webUrl: "https://www.dmnews.com/google-unveils-redesigned-labs-with-ai-experiments/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 39
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Redesigned-AI-Labs.jpg"
-        width: 1000
-        height: 571
-        isCached: true
+      name: India.com
+      domain: india.com
+    quality: 15
 
 secured: "It8J2Zm0wNoQ2C4E+nS/t1DixYoxxmvP4BeGHcJBkkdw20yq8abRKO7hlTnIiLT0v4PMrwclgmLy0BWQmvvOtTN49Dzk+uO9EYUs+YtwqXxXf5FZzSZZ1hXr6MdcrJilYkonb1hVu6ClzdQ38BpusnFb3q5hHFiz/VVn+E89v2vBrK9R+pP9tzMy2FzsGTncjZpfcAxp1pTo/SzV/AQ40qmkfXUxnWMe85z/NZOFs2v/ju/he2ICom/DcyRQ71N9OYEzJqmPVVf9mN9clQ0f6AGULnt1h1YlTC9bpaIxyikDG8IRL6Y1044HAu+8xbNboDf8JmX0YoYMu6myz3FCAIktjizBy/Ci6c/Quir5Jbs=;kBdv+sI7PNOId89FdEc1mA=="
 ---

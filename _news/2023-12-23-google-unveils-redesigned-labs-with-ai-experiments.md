@@ -7,7 +7,7 @@ originalUrl: "https://www.dmnews.com/google-unveils-redesigned-labs-with-ai-expe
 webUrl: "https://www.dmnews.com/google-unveils-redesigned-labs-with-ai-experiments/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1000
     height: 571
     isCached: true
-
-related:
-  - title: "Google might already be replacing some Ad sales jobs with AI"
-    excerpt: "Google is wrapping its head around the idea of being a generative AI company. The \"code red\" called in response to ChatGPT has had Googlers scrambling to come up with AI features and ideas. Once all the dust settles on that work,"
-    publishedDateTime: 2023-12-21T17:54:00Z
-    webUrl: "https://arstechnica.com/gadgets/2023/12/report-google-ads-restructure-could-replace-some-sales-jobs-with-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "I replaced Google Search with Opera's Aria AI feature and I don't miss the former one bit"
-    excerpt: "So, at least for me, Aria is beating Google at its own game and I don't see this changing any time soon. Give Opera's Aria a try. I believe you'll find it can often best Google at helping you find the answers you need for your queries, without worrying about what site you're being sent to."
-    publishedDateTime: 2023-12-24T04:30:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 78
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/20ed62e65986f0048f51f75bfe26abcdca67886d/2023/11/20/62ebbeb1-0fc3-4abe-ac80-75acb54f1630/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "vpubfBp80vaQ1/5Z4fiNMFcCQ3TiWj7k60b+sH7JeDqKeU55yGgK/ePryhvz5f9xqvtEy2rpUtD3jeRpDjewuC7IXEBOxf/1R3ua0FHf/tSySm/yl63I4a+eY6+zeUJuGm08W+4iKFWqy4cGiw9JhB5DOGfkCj2fYF+XtFUcnsa9NZI0FrEKzL0C66yEuWYfT9uO07gpLOJ4+bbis/Z3QHO1yuzkY7I+gUWMmNA6ers/9J4RT++xcd1b3k19IV1JqlWinZbAMp/sam2NdqAkJCkNGV9WJB3LGN7YyRxTmYBrs0fU+EG8oBCvEPbBNEBsa8Wce1f/142H3PCMcrLc1/SqX54Tv6qD6j1MuQizivg=;PCyL6U1mzMDcEekc6iYtmw=="
 ---

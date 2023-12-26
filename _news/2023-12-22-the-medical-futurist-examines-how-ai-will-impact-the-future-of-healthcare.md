@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the Near Future: Artificial Intelligence is Everywhere"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous by revolutionizing numerous industries. AI everywhere is an era that we are rapidly entering whereby the end users are increasingly accustomed to mass personalisation at scale otherwise they will switch to the offerings provided by business rivals who may be using AI to create customised services and user experiences."
-    publishedDateTime: 2023-12-21T18:34:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/The_Future_of_AI_-_AI_Everywhere.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "086SPjKy3C9mR6TxerDdTfn66J4wZDJ8WWeEcmB4GWqj8cpj1u6kJJayctbX1SpLKgqcA0Ch2zBfmXB1QK1OQdlsss1Ubt6GJO5pjyM8gNliFt3MmsYyjPFWomEFyRhYCmu5doXo6AYDFPBqWTJs/RlWYeVODZHJ7dAP5ZuExQNOfTnqche9dhNvhKAnZJxCkKb2vpjZlBj/wzJP7JUSfaGgtG6qm8FqDfOBMzw8Xh9OnyCMOjU2aaKID2lEMVfcjcg8nOCI33KPai+UzeN6o/Xg6CqqKzXU4gOe4eXO0xZi5YUFA4l6X2Z+sANPXlArkBroxZzSCNri2mdzb9MMCJWN1CK+Sp/8RRHxRic6v/270sgTrNkxao+xDVSQgBs6OQVfZQLaZtqaRphvAT+nAJ74rgncGXTbhDEOuUKYx9+XtuySqLAK+RAnVcKB6qS2YsUB5FTVDIUbsUFTPeg5UixjC/U4g1aw8i9ctVd7QIcDCgaQKbmF9xNlIM4n04NSFIPbprsuMD4lKoLLXECoCA==;/OC2aSaxLUPXUdzziwtpQA=="
 ---

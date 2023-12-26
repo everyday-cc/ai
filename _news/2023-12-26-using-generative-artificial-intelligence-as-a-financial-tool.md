@@ -3,10 +3,10 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: aol.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -56,20 +55,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Ignition’s new funding fuels expansion of AI-powered sales and marketing platform"
-    excerpt: "Ignition, an AI-powered sales and marketing platform, has secured $8 million in funding to unify product, marketing, and sales workflows, boost revenue, and disrupt enterprise software."
-    publishedDateTime: 2023-12-21T18:19:00Z
-    webUrl: "https://venturebeat.com/ai/ignitions-new-funding-fuels-expansion-of-ai-powered-sales-and-marketing-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 96
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_a_laptop_marketing_platform_03843535-9228-4591-8e6d-f5fc2e0900c2-transformed.jpg?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "The wonder-filled year of generative AI"
     excerpt: "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?"
@@ -193,6 +178,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "lEZjjRirF0Cf8QKiZ9E/ytfDaUZtQwDQ1KbFmYsHoxCnmfJFBqYTOQ7zlvP0vV9N+5YYjrqZ+7bmAZjZ9Knyp0roOF1AYPNIj54tA1FdyvZyllVV1kab4kVWeE2UcMCP6z6AZNLGNrA6gkK5xNKI4ikyZAcJoV41t09rupEuWffw69sOr2dySuOvwYa+MbOEsoHcWLQvbWhmA7DIcwC6iEOtB7zDEyraQ8rm+rHM6+lkN7naMOd1zRFPK3Fagr6I5xcwWpffiWiQNQVX4mfP5f2pSsFPd8EXl/LaNPnS+RQxIwp8PJb3zRTok9doyxZRvLc8UHYjNUsughO5B9xXtymUHQyoGrqZouznDO+VIFA=;fPQDrB0JJ2YHuBhuzn1k/w=="
+secured: "K9+QesUVDpxgRfkWdjK7f7MMF1r0BukdttjZ4aVF6TsaEbTOXJfs8rNOehTrgvFEf+D48JaORYSuLXAy91eNdAYlI00aMR5ytLvP3R3VmWWpOS3a9ezh8gKwnh1UT9t0mhJ+S/zrVz7zOyD9tb+Xcaa3P+/l4igALLnhIOeGaqke6qie8gzKhFd8xPQ/ZFFZ+vMOPlI/F3irR10rlzNptdEtKz4K3KSPt+3mTKjmUSkT7SwiKhTuxqh6ysUidNLVIxNV0uWRgh1gbTPPwKTJj/2T8Gw0ceD5254UxTF3PTvnb1DFVB6HI8Yt1Vw85bXLojj0jANAU/gBaciqyWeaO/OQAnGau1BZ1aO+F3LUdvQ=;Nkp2YgEGmieo9QYRggv3aw=="
 ---
 

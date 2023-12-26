@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-wi
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/12/santa-tracker-2023-norad-google-microsoft-aws-zillow-6584b7c8dd0ab-sej.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
+    excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
+    publishedDateTime: 2023-12-26T18:30:00Z
+    webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
+    type: article
+    provider:
+      name: financial-world
+      domain: financial-world.org
+    quality: 50
+    images:
+      - url: "https://www.financial-world.org/world/media/image23752.jpg"
+        width: 1920
+        height: 1192
         isCached: true
 
 secured: "HozF6IMNAo/E9A+RxvfkUOsOZZJaoDMnrOokqakQa+bmiR4h+I0EBHf5LZXTfwa6zkVXEPkc1Gc4JvAHeLqsrrEAKdAFNjpvFUdK09sLqtrPJMeyz6KsajIXPxlGBKxsF6JS/1dHy2XX4gwdKoJIzWvJLrEXwywp8ZuC89PxSsG6TDZJErCnXGxx7URaQq0mJOHp5U5qxOuKVcFs4AktP2mp84E7FiO6m9j1su0tfaXPy0EdtDu+v7vUvwAZszYWgH4L6O/J3QjBf3y05Cc9G1JXzC/ZXBA9B5OZm984OgsnEW39VWu6XWjR3gNOhDsqXVeUxoW7mRZrn1/BOpLe0IY5eVyjCMsZ4MssMROWv/qOuBr2LC+FnFOkZEcFv0ILBOSOdt8MvVABILv69HB2YmznAPqenrqKfkjzaa9H6Sebgd3Ko9q96ceoYTG+F51nzMy+iHyv5P868Fycdt4ICJlHSSyh/P4obRLXA1EjnilllVXSBSdRZEkHztTqf70ZjFRth0wvo+8DTceyehVRBw==;UUnRZQWTAL1sr4IkqrTq+A=="
