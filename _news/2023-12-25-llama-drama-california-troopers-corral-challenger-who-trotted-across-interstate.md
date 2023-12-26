@@ -3,25 +3,25 @@ category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
 publishedDateTime: 2023-12-25T04:46:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+originalUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+ampWebUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: WHIO
+  domain: whio.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
+  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 554
         isCached: true
 
-secured: "a1LQ/pl7MvfSG5IFBo/hNvo4KPHqNpS7QneaVcwG+a/H9FyBV+SRmAkEA8I7i7m8kh+i4LHTyrDclKKCB8275rdW0GWXpAtiuMtrVuaAFfhO0g17X96qzLjM1zY4RR53dqXVr3jtOYLkPhUH419oQAZD5lf2faN983QDXub1Am9rqE2Er8OnyM/A4Ucuvah0Y9dt0qAs908d7PT3Q8+krUFCmzCcnPev4RpYsUIhW4RWKRNXOAjBU6c6atZ8d0DROkPw8sQGeHIODqczIr4vEli1j5mU1ZTFQG2ZXujgwwhZ9nCY6KO/Cg+MMWvef07J1P+Km2DUyW428YuPEvNYvHdDzyiIH24Go1FcdtT1QBg=;Yj+JbXC7GSUaTe1sqd9U3g=="
+secured: "WHSin3mGeRDL6gLTZqCaOcNuaPRVQlJ+10VsRgUCMtKusUmWIv1oHWefRKJK2F4d2bbHYv1vUYubypKB48N2+xuLaZlFMqMSqrIfcjO+qFa6zoIIKIMJ2pKK04WnrzIVTKoAqKdtLOpHz0PVdu6QRk8nWqE0F509blxZkvwT58yQS7+r11l3avuq7K5QLI2eJsyIB3BqJw0U/ds+IUGK4Xst2yvS+6RaffeqOtR72Ktz/P/J2F3ISfSprNcLBX7OcPN2IKCXJxndKTEyRGefW+X4A3gNAG8M/8g1O2l5XNd+GlHgiXy6OkgncurfwUtEObYt6xHWdBwAIPtBOfAgWTun3zD49KQkWNzgpFWSVYE=;tBNwaHhen3wPcQWYGi6ODw=="
 ---
 

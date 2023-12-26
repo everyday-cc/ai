@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to
 webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
-        isCached: true
-  - title: "MSI Prestige 16 AI Series laptops with up to Intel Core Ultra 9 processor, RTX 4070 Laptop GPU announced in India"
-    excerpt: "MSI has announced the new Prestige 16 AI series of laptops featuring the latest Intel Core Ultra 9 processor for India. The series will rely on Intel’s integrated NPU (Neural Processing Unit) technology,"
-    publishedDateTime: 2023-12-21T08:48:00Z
-    webUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/412811/msi-prestige-16-ai-series-features.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 53
-    images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
         isCached: true
   - title: "Analysts Eye AMD and Nvidia's AI Rivalry: Who Leads the Tech Race?"
     excerpt: "Rosenblatt analyst Hans Mosesmann flagged salient articles in the last week specific to AI, Bandwidth, and Computing that are important and merely interesting as they relate to critical secular themes."

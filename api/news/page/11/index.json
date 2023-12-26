@@ -780,6 +780,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
+      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
+      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
+      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-openais-ilya-sutskever-has-a-plan-for-keeping-super-intelligent-ai-in-check.md",
       "title": "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check",
       "excerpt": "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart.",
@@ -1157,49 +1200,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
-      "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
-      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "publishedDateTime": "2023-12-14T11:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

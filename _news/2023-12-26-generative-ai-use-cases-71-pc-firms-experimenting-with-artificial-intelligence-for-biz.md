@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
-    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
-    publishedDateTime: 2023-12-21T07:12:00Z
-    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI-generated weapons of mass misinformation have arrived"
     excerpt: "That frightening prediction is already coming true."
     publishedDateTime: 2023-12-21T11:00:00Z
@@ -81,15 +67,6 @@ related:
       name: MSNBC
       domain: msnbc.com
     quality: 17
-  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-    publishedDateTime: 2023-12-21T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "RxzW6RpAsErz0Kw8KsyAUKthhiLhKkDl30vvZe+u1rLIaf6mC82KvDK1OcQzQM29owGTqWtuj5IqkXDIBVCnj7bkGvAVqV/rgqh3j9Ho5YM5jcGv9+MEKm50b2meU0MgX3WD+/N35WCGukDgvzNtgRKyM8GtV9Uxv8XmN2nGVNkST0odt8GEwT+fldK24qKZ2v4piW/LcAI8CZUv/TRnw39H0HUB4fSPSPhCs9iL5hnxinTvDUa+6EOMcb3iHMnuShdn9BEPrulUrQWdB4HuD2usUBuIzLNCbPjrpI/dYVuDnXRTwTcCaJ2uXF3xqMMCmWNIBO0jWRadofCKFD9SScfbGzJstuKPbyopqudEh50=;D7mbTbxoeHZ1ERnai9QNiQ=="
 ---

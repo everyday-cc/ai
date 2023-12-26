@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-fou
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/22/images-of-child-sexual-abuse-found-in-dataset-used-to-train-ai-image-generating-tools/?amp=1"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows AI image-generators being trained on explicit photos of children"
-    excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report."
-    publishedDateTime: 2023-12-21T07:34:00Z
-    webUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/"
-    ampWebUrl: "https://www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kotatv-com.cdn.ampproject.org/c/s/www.kotatv.com/2023/12/21/study-shows-ai-image-generators-being-trained-explicit-photos-children/?outputType=amp"
-    type: article
-    provider:
-      name: KOTA TV
-      domain: kotatv.com
-    quality: 54
-    images:
-      - url: "https://gray-kota-prod.cdn.arcpublishing.com/resizer/v2/PMZ65TUILBH7HIM2H4QTBCGWZY.jpg?auth=da174f320edeb60b2beb1f6027af58c0e29c3ea189176e5182e35f9fe97e032f&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Study shows AI image-generators being trained on explicit photos of children"
     excerpt: "Hidden inside the foundation of popular artificial intelligence image-generators are thousands of images of child sexual abuse, according to a new report that urges companies to take action to address a harmful flaw in the technology they built."
     publishedDateTime: 2023-12-21T18:06:00Z

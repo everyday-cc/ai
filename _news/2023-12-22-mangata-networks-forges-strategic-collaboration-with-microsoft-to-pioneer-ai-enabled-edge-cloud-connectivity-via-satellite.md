@@ -122,20 +122,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Coforge collaborates with Microsoft to use Generative AI to empower next-gen solutions for enterprises"
-    excerpt: "Coforge has announced an initiative with Microsoft Azure OpenAI Service to aid the adoption of Generative Artificial Intelligence (AI) across enterprises. Coforge’s Generative AI solutions offer enterprises a comprehensive toolkit to address complex challenges and unlock new growth opportunities using AI."
-    publishedDateTime: 2023-12-21T07:57:00Z
-    webUrl: "https://technuter.com/artificial-intelligence/coforge-collaborates-with-microsoft-to-use-generative-ai-to-empower-next-gen-solutions-for-enterprises.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 38
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2022/03/Coforge.jpg"
-        width: 450
-        height: 397
-        isCached: true
   - title: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle"
     excerpt: "TomTom joins forces with Microsoft to bring Generative AI into the vehicle. Rating 1 2 3 4 5; TomTom develops an advanced AI-powered voice assistant for driver"
     publishedDateTime: 2023-12-21T12:37:00Z

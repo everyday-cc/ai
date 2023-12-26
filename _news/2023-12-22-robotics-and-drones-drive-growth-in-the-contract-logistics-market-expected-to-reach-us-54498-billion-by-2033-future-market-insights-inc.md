@@ -39,6 +39,20 @@ related:
         width: 999
         height: 633
         isCached: true
+  - title: "Artificial Intelligence In Cybersecurity Market Predicted to Reach US$ 91.7 Billion Valuation by 2032, Fueled by 16.2% CAGR"
+    excerpt: "The artificial intelligence in cybersecurity market is valued at over US$ 16.5 billion. The market is anticipated to have risen at a CAGR of 16.2% during the ensuing ten years by the end of 2032 and be valued at around US$ 91."
+    publishedDateTime: 2023-12-21T09:59:00Z
+    webUrl: "https://www.fmiblog.com/2023/12/21/artificial-intelligence-in-cybersecurity-market-predicted-to-reach-us-91-7-billion-valuation-by-2032-fueled-by-16-2-cagr/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 13
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/12/Artificial-Intelligence-In-Cybersecurity-Market.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "p+vJXF98NFAmXyCnTFl2qYENkX50jk4YQzNMmFKeedaI60McrBEc35CzsoEEADgCzq457n5xJX7YtOEZCRETBuiHqZv/Sg8LSH2LFM3+nXTnlHz1J2OdiTRJ/fmXFo0Cyb1hFhY+gCe5bfucofL09Kc8P+1O9NCeMZ6a5WTJ73CcxnE8zn0XzqkHlaOE/4v063ZFn0mw2or3Mg2EJbHC36GI0Xvq8jjBXi656vZ9+xqk2otOzOJHi/Rh3CjyrqaroOQEKFnTj+YA6WzxFixVSjz9PBkSa7BuKqN+EmR8GLNIJ40fCMr1LUEbO0JrhVtLkkAdEJXVdyLcZfCCZqinkF2RPm30vuumjcMnIRJZG1Y=;PYS8eNSTpTa8TMNqY9KOPg=="
 ---

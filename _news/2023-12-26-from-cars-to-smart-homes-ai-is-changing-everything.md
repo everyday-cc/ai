@@ -1,10 +1,10 @@
 ---
 category: news
 title: "From cars to smart homes, AI is changing everything"
-excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-publishedDateTime: 2023-12-25T22:59:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+publishedDateTime: 2023-12-25T22:40:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
 type: article
 quality: 39
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "yUvbcNNWFs5pIFY7T1EWZmER+xv28mcoLmie2vdyGkDMQPKXxlSWeZi5AWj3qH9CZeiZxci55MFaJJBvNTj+OjHlHzfhXmGpnqxPL5dT5SftFw1T9qii3YPdRkn9hTYBmhfE58SSmf90ehn+o0FOIaVDZVGzCRIA1/J64SfMrcuGbxgTPyjKXWgafcf/0vnsM4sDU5DFTm7lfIGjngWaywOdmdBNeLomGjuJuUQtvwryyf9zaRYJ/5/0/a95SzXRRvxpnTMp+QoB7S3yeR5I/Fuou6RlW7naTHHp8vy+A/HlUgEW/k5+NxoGSy05WxSQlwM5B8vZhckIeCWshMA7ro/kpYjS73s+j/GM1vl+xt14CPAd/pwG/xt3xt5ZtQOg/Et8cRS+9YBEgpexsgGkz0/w6g6SDsbYBsFipIgmjRjaNqu6hlhSN35PzWuWKEMGeFckUU1vZQJd5rF83Y0YAZWnj6SDb3apU9zDKkTqinB+DLheMB7qayhP2Pws/BNDwxujZClcsi2UC70x1uC5Rg==;tNpA2qWx8Ahwgb01tCyUBw=="
+secured: "aO/kSSWUHaP/5dwl9+Gq7QjrD84VaM/iCbzbs2LslQe+ghja2c+kwiZEKVeBTapymgSqWcmR2oqLLUkVaytBaHO3Di5NXM/YWWoTA4tTv84GegDWthJIt+XdwiF1DjNrzGMJyhAVdStGWGUDm6jsBlOh3ZSUZmb9HRecwmYt07ZPge5OCw0YoIORpspjyM5epPcoPr0ILDErkKWfcD/+Osbu9IdCCU4sM4oyhtnZVTpKXAsKG/HMEnOKwxdvo3CqvX9gM4mrhgPB9kERGX/ikR+AxR73zN4KxqoRTW9BrkCSh5pCgBovFmZL33+Xa70ntmhK67anQGdl5QrL8Jv7ysAej4YIZW34BeTAvBax9NU=;8W95/l4txghPWRXx7CNHNA=="
 ---
 

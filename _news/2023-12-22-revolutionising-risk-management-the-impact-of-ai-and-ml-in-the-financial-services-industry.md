@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Revolutionary Impact of Artificial Intelligence in Enhancing Transportation Networks"
-    excerpt: "Introduction In the fast-paced and interconnected world of today, transportation networks play a pivotal role in ensuring the smooth flow of goods and people. With the advent of technology, particularly Artificial Intelligence (AI),"
-    publishedDateTime: 2023-12-21T07:12:00Z
-    webUrl: "https://techbullion.com/the-revolutionary-impact-of-artificial-intelligence-in-enhancing-transportation-networks/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/The-Revolutionary-Impact-of-Artificial-Intelligence-in-Enhancing-Transportation-Networks.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "AI-generated weapons of mass misinformation have arrived"
     excerpt: "That frightening prediction is already coming true."
     publishedDateTime: 2023-12-21T11:00:00Z
@@ -83,15 +69,6 @@ related:
       name: MSNBC
       domain: msnbc.com
     quality: 17
-  - title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-    excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
-    publishedDateTime: 2023-12-21T07:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "wEovdY2FJdbvlYHkDnLI3nqpFlG4rSXukCeibbpUP+PmLufJNpdpPZnhndhOKqN+havX1V46Flim9UzeMvzoWpU/IiLGwH/IHiv7RtbPpZ/VTZE7Mnk3MmmjqH2Ddj4Ht7rbODZOEicasUZ5XzS/DHe9Ghu4xWXkzOoP58jTFV6v/Of9ggI28l2plVr4dG6SGlZBzPtYS4WyPsv2kXqNGdhv8kpkrMIYryGlJ0KbqErlfb5k2lHhW/LGQ6QkzFK4RubEckfvqMosYMuRtQDBAHdKmYcT2HlzwQxaixUnf49HsXPtKcm0B0rmYhwRmF6X/ldtaDgPLFkzHW7pIf7IUC5Peaw5JiywA//6ZtCFB/jwoQWuWeszc5K7jt5lSdA24S/ieOkmQUKNHLjBLI70GEf3BX8L3E2mbJ1D90lfuaOhCi/tasv+cWHe5NLOhV60mBbOQuZd2O/wJAJ5Ekm99BRx2lKCXo37t8bm3U71a18Rl3kN368EgoiwkgjQBra1mGDHUjGr4pPRwR/xKYIEOg==;B5bOplg/Uh60TXuyKO/O6g=="
 ---
