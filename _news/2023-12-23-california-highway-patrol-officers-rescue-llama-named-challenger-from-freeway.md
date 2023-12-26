@@ -46,19 +46,12 @@ related:
   - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
     excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
     publishedDateTime: 2023-12-25T04:46:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+    webUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 38
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-        width: 1440
-        height: 810
-        isCached: true
+      name: WHIO
+      domain: whio.com
+    quality: 0
 
 secured: "3ddl+liZ4r+4yHJEXLDBzi6LZVD6P8N6f43Bky7wgVtfS+gh3b23LWfYEyjWdKISLPwiRsP0U1Gp58FLr3mkS8fdJss3tI/RojTjZeiVRJqRJ+b0V2xbNWfOc/XOFlyyAWeIScjIbM74Z6ZonxmJP6F7ECqgEas6MAoWJ7wtEJpaQfhk/jyOZVPvP6rvLd6gNDen3e8lBxYhDFtpxbcUrlfVGEeYtR/xMC0/iZvQsNl4p36c1EWSRllcz1QbUiVsF9UyDrtL83HIfqe6KeiBkrARwV0v2LdHeAfYLk1R94XPqf3Xy3HCrvy70KwF8EBZhLPUE0Uer61wfficoS2xw4r0r82dkq4kpYXjdZNw/8KFPw5uv026LGr3zDQK+Evk1jTNaHnUFmCuthR2N76mzygRdXJX87KgcQ6HfBe6TM56D/goAnCoQLc/o4kOOgjEAixRsRagUUKEpGSUwIKNSHODW9/IR8sVpZetwI5f2m/WTgKh7m5LHflBAMKF52VTwizlU3UFYRGyzi/aDHxOiA==;JMYQDn8GkdFKU7zfIrO6Aw=="
 ---

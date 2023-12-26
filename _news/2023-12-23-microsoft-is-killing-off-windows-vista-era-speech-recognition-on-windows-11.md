@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-wi
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Santa Tracker 2023: Google Vs. Microsoft, Bing, AWS, And NORAD"
-    excerpt: "Compare Google's interactive holiday experience vs. the official 2023 NORAD Santa Tracker powered by Microsoft, Bing, Azure, AWS, and Zillow."
-    publishedDateTime: 2023-12-21T22:56:00Z
-    webUrl: "https://www.searchenginejournal.com/santa-tracker-2023-google-vs-microsoft-bing-aws-and-norad/504562/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 58
-    images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/12/santa-tracker-2023-norad-google-microsoft-aws-zillow-6584b7c8dd0ab-sej.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
     excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
     publishedDateTime: 2023-12-26T18:30:00Z

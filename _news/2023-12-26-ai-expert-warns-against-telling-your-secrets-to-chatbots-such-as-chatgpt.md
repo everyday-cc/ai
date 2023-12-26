@@ -75,6 +75,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "ChatGPT vs. Google Bard: Which had better stock predictions in 2023"
+    excerpt: "With the New Year coming in just a few days, it is time to assess just how accurate the two platforms have been in their predictions."
+    publishedDateTime: 2023-12-26T09:15:00Z
+    webUrl: "https://finbold.com/chatgpt-vs-google-bard-which-had-better-stock-predictions-in-2023/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 41
+    images:
+      - url: "https://finbold.com/app/uploads/2023/12/ChatGPT-vs-Google-Bard-Which-had-better-stock-predictions-in-2023.jpg"
+        width: 1000
+        height: 665
+        isCached: true
 
 secured: "217c9AmwAuDkj3EPE2jo4ZlKNRh5MIAhkXCjh+IaKHn2LmBAXDpTLbq5/3HEPAfKA7n9Tr+R4YS/M1LBWlxYF9fHnLVpmkisLPX2QXB1tbmuEpfky27v1bTeEBIphyQcJ+eeIpZiVkPBTKcZZyOZoS1sYrnc0otvQd2kgv/RdAVje0lSMIWDDSf3iHVblQa6CKiLfz9lgBYd9CmyIwtScqD1an/EeMWTQDKGbP7UWTK/3lAb26rdRmfmC246bRQnCXIPSzNIg5TGIdcRSAY1lSnc13UiIbybPiVzEgGIhynl8LNSNeMXP5P0rQE+HThHtDf40mYYBKHThknPah0GLiAXlzuJuO5w+bWPBtJDU3fIOEANW1AlG5qtuKj2xv8+DbVft3OFA0yx1WLVpQjOCI7QlgsTVd69rBl5OLX6AdzEivnPAnW4MgJk54bOPJ1BJA7V/yogxu+8RiPw/P6FKA1atUingp4M7Q4o22l6+vB8/t6GlXrUmMOBSFXr8qWplSOo/EdYENj1iW27tm5zRQ==;aXiTSU3ZgMm/86a/dEbU8A=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-26T13:48:00Z
 originalUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
 webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "How Artificial Intelligence Is Snatching Away Our Jobs"
@@ -35,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "From cars to smart homes, AI is changing everything"
-    excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-    publishedDateTime: 2023-12-25T22:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202312/26/658a04bda31040acaf8337b1.jpeg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "How AI is transforming the video surveillance sector"
     excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
     publishedDateTime: 2023-12-26T15:49:00Z
@@ -63,7 +55,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "From cars to smart homes, AI is changing everything"
+    excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+    publishedDateTime: 2023-12-25T22:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 19
 
-secured: "9KLe2usEeTtK5NTbXkPElJpiEEffhM6Kgv62bpVAQZDDn3Q46dnQK3/rcgG0rAbOq8Nf+Rd7BSwLok2mBwxjqjYZQkWNOkThlYhN4uxj7jUjNy9X5zXFoRNsez1FiAbJ2lPmXS+SqaAk5JrevwSUy/sLmZekrQafWXQC1C02gyz9kYtX78KkHSbgtlQOCCssR/zs5oZzkWLEgoGCrpFTXG2SN4AQjX/YPwuLApTNCNmNWItduWeMY3Sg/yZuV00Eb5SUc/MFZYlw1Wai64/PUwBUH4kGS/+ZbLxjvml4+EIm4Z34QZH5A0LnBi+NT5rZyh2gtLkQGnhDJQv52v7woORQaOfdqVh4aR9yd0Jwq/8=;3+vLih00KdjAB5sTng07OQ=="
+secured: "3KsO04JBtr1eQ1wFMZaWfDQB6SMfp1LryWrH+9v+fhwHh5rYzXtfvs5jC+i7fO6aNrTX28po+L+/8CDdve3L20fJNUmHBcMJH/reqSwx5u9DEKf1pseW8ZSpI4BPPVoUxsWde9+4+hTElSyzys2ci+QNROXsPl7BPsz0cgmrCRoBex78YC+hIFwG99wlF37tdMuGBVfR3jLlNl2fljHWRS8NjWCS3UtD7T2rLu+YQ41Wq6/LNvysUjUoZ3WQMUHfJ7EMjOwnOocE3RzZ7O4XDChKVyA+Hsh28Ax0nSrlZHUTXEKBbXwQOzQn3JF7199TgBZkQomkkUrBiaUVBDDNthVjAa5pKsg6cVUqP1wvuRs=;71VO5EJOd8gm0shWbEPIWw=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
-webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: aol.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -178,6 +179,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "K9+QesUVDpxgRfkWdjK7f7MMF1r0BukdttjZ4aVF6TsaEbTOXJfs8rNOehTrgvFEf+D48JaORYSuLXAy91eNdAYlI00aMR5ytLvP3R3VmWWpOS3a9ezh8gKwnh1UT9t0mhJ+S/zrVz7zOyD9tb+Xcaa3P+/l4igALLnhIOeGaqke6qie8gzKhFd8xPQ/ZFFZ+vMOPlI/F3irR10rlzNptdEtKz4K3KSPt+3mTKjmUSkT7SwiKhTuxqh6ysUidNLVIxNV0uWRgh1gbTPPwKTJj/2T8Gw0ceD5254UxTF3PTvnb1DFVB6HI8Yt1Vw85bXLojj0jANAU/gBaciqyWeaO/OQAnGau1BZ1aO+F3LUdvQ=;Nkp2YgEGmieo9QYRggv3aw=="
+secured: "1V3382YS6wTMvMjWLSAogU7EY3Nl7laIXj2JFqRGDQGRByOeb96f2G6zfuGfdBF19jB+4idRJ217JGBa92l4353wxZXvxq8UzBwepnJEQf17gws9H975j+SnQubQTamxD5UqMvUnWkUxZjhj2sDTHDJGiSpK0mGmHe1XbJIv0/1EvMobxS3n9mraqAKFznfUL5n8nxBcvc2gjMx057bkmGDh3IeahZE4zH7tlYSeGhpJKMAYf0upDYIxe0O6UArU5Ao6HdDvBpf8h7fQ2U/8bBhjbC64U/yHFtV9K5akpS0S+MVsb40F70UcS0RevbSP3GmEZAvfvDI03jj5uh2LsadK7pXNLCzLIwpSKJZBRrw=;FJmICOyIo+FiaAuzw14G1Q=="
 ---
 

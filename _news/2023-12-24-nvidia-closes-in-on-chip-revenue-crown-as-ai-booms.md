@@ -69,15 +69,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Analysts Eye AMD and Nvidia's AI Rivalry: Who Leads the Tech Race?"
-    excerpt: "Rosenblatt analyst Hans Mosesmann flagged salient articles in the last week specific to AI, Bandwidth, and Computing that are important and merely interesting as they relate to critical secular themes."
-    publishedDateTime: 2023-12-21T19:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-eye-amd-and-nvidia-s-ai-rivalry-who-leads-the-tech-race-1032920439"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Intel’s benchmarks back AMD AI"
     excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
     publishedDateTime: 2023-12-22T00:00:00Z

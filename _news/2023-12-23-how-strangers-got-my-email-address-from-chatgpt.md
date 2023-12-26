@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
         width: 1600
         height: 899
+        isCached: true
+  - title: "ChatGPT vs. Google Bard: Which had better stock predictions in 2023"
+    excerpt: "With the New Year coming in just a few days, it is time to assess just how accurate the two platforms have been in their predictions."
+    publishedDateTime: 2023-12-26T09:15:00Z
+    webUrl: "https://finbold.com/chatgpt-vs-google-bard-which-had-better-stock-predictions-in-2023/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 41
+    images:
+      - url: "https://finbold.com/app/uploads/2023/12/ChatGPT-vs-Google-Bard-Which-had-better-stock-predictions-in-2023.jpg"
+        width: 1000
+        height: 665
         isCached: true
 
 secured: "tka80cLqlJHd1IjogvLLHI1CireloZA3XAcbhib6kAF1xXTP0xMrrfYkGAw82qIJIG/RkIaqTAe51KJAYhtbLkjpaB0goNcfEifib1+bzvbjK0kJ/SNjVapii1wM32qlmroCn1MnJzd88WUPEESUStyPPKKQXCiiPVn2oo5DezLRLM9hr96P+H5NA5piADEZi+6sLZRGmC/+YRmd3wnWdFZvr2Eytza3HfHif0H7ANSU3id5WOb+7tBlqE9MvMDXnTqc6jEFakaZ0FKY4gi77afajit9D2ig8bgjf4XTpxwQbTrPvomj0P9elEowpVmIsgPl4h39yX+/nMEXrfOmb1BoxEdQWI3c63pHsy6fkIytIo3t4pUjVZceUXdaCYmytlBfEa4hZCOSvfOuQNSbVOyr2ZL0R3GhzpMyTlvS9Q6kxXD7zBttyANg/Je3VpbM7W9KZRBwRmolggig01NnizpHRyBlhB6AlaOa9jBJbEmpabCmm46ene2yjQNqz3XHVMC1gZV0E9aoL0zyZcNpbw==;WAyAkyE/N0ExAyd+3A53HQ=="

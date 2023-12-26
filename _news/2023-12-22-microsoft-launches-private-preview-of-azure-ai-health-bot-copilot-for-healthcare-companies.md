@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
 type: article
 quality: 126
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 33
-  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
-    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
-    publishedDateTime: 2023-12-21T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 22
 
 secured: "tUNB333b8D8yi+uQ6qmpHIg9dqxS5xmAQCUCRe+rryXe8P62MhiDtE4Qdq7mKrhFsOv3cTTYlwTeMeac3cRZlWQjJ13T+HVuwmm91q56yJGIWDiClUDGErRF9ICMbjSgpliWVeZ+fVED44yBmI7UwNnGGnj5JQsuB9kPNv38in/ILra1Gi3gLuPiI2x+ExKPbZNAVn1l6BI0kNi4Ba5cFbV7oAH98v6hG7O2EfslmkjW+jnNUYAgUBggzBfHwI/JAuc4o5DcTl+LWRvtpwORy/fogZGXDqo4hQxvN7pwNA92Z622nRPsfA/IRZwjrSBCZJrUS8ZLAp7UehhKgtmgLICK/xRrx/iiFtWqfU4NsOQ=;Po7A9p/V7J6+XJ0yw93l5g=="
 ---

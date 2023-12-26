@@ -103,15 +103,6 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 33
-  - title: "Scrutiny of OpenAI and Microsoft relationship could affect how AI industry grows and innovates"
-    excerpt: "The boardroom of OpenAI, the business that developed ChatGPT, has seen some turbulent times recently. But while the drama around the sacking and reinstatement of CEO Sam Altman has subsided, the company now faces investigation by the UK competitor authority—a regulator that's been increasingly training its spotlight on big tech in recent years."
-    publishedDateTime: 2023-12-21T20:50:00Z
-    webUrl: "https://techxplore.com/news/2023-12-scrutiny-openai-microsoft-relationship-affect.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 22
 
 secured: "mcQrqsn8DZILXc/yeFRUarW4vpr+hBDVsPrWpOQDuLku5OJ5GW5VN6KaiABdb/a6Jew8jUEQp4kRMMR/GMtpWxKtw2lyC5yUiT0SSkpOj90Lq1okGRTIRLcHLzKsTXXRN2ErurGN6JBPB0dyM9GzwcfWIx8HBvcajKZ0FqUb/04tvqoKC4SA7dz5osXv1HK4k+oXjJ0sOgNqLGSpr/1GwCApnpq36luSW21CnsHIxqpMl7bFQJuD43MS773LslvYVEdmPiihiK7ygtaHTrgErE00muK1vmV5rP+zRE+zxuUdk5UgKKMqAv8q1uQHlq2ZAXfujIzJpcekL+M/BB5bIAxvE5un0raE7+fPC0bATh4=;MegaB2Bfma1vW2o0jgjS7g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202312/ai-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202312/ai-discovers-first-new-antibiotic-in-over-60-years?amp"
 type: article
 quality: 57
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "MIT Researchers Leverage AI To Identify Antibiotic That Can Kill Drug-Resistant Bacteria"
-    excerpt: "As bacteria continue to evolve to withstand the effects of antibiotics, it has rendered bacterial infections more challenging to treat. The issue of"
-    publishedDateTime: 2023-12-21T20:49:00Z
-    webUrl: "https://www.datanami.com/2023/12/21/mit-researchers-leverage-ai-to-identify-antibiotic-that-can-kill-drug-resistant-bacteria/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
 
 secured: "9fEANpLZoWU4jnAg2MSFif28dzHt8OKIHEsmlgsYo5yp5+g1y6wSIOG+PiONjeMjSI/7a3blHi8kZpbkykbDkBtDPPi1xOXG4Ro87pwMMBrXCFZ3NGxuQ94AE+4e6s8kKz7r46UUJ/+6/bXle1ea8byco0p47XS7cZCQNSLzRK4Uzq0/YzGL1JykTb8V6uF89bFcZ5tJ2jCMndVjD4XjqorTq6FcXs+oTWf4D4a8guq9IPh19e4nz5yqQmlKTtFjeEcGsqmDUk+Cui4oEmpvAkfXkvsvHmaZiHwxCOKMH7XEiHRA241rM5dMildCqPEcJMrYMPFCH3V2/yqnjthuFIOA3Zt5mrf67L6raYHMrPGBa3LYH6d3LXqB2iIMWbR44O3WaIaHEO83wOgwGPz90nvMePq+/im1cE9uf2jnb37tO9uFB/RKp1OY28fTiMm4KZowEZ5HSbAtrjqWsVIxfAzK8PsFzf7gTrRSn9T+E7S2XeXnO+h3AiFXN++T6cTfj8B6IFEIRgXf9VHRrYgyrw==;Jw3wovwrMS3lq3UIAQmQKg=="
 ---

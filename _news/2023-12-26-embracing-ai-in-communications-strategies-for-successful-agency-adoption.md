@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Beyond Words: Emotion AI's Revolutionary Impact On Professional Communication"
+    excerpt: "Communication goes beyond sending emails or having a conversation, and those who are experts in their communication understand that reading the other person and"
+    publishedDateTime: 2023-12-26T18:19:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/12/26/beyond-words-emotion-ais-revolutionary-impact-on-professional-communication/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
 
 secured: "Bi0LWNlULPfA+bob/eh88MJQdQiYNNibfuubSKfuUacAO5Ltn0Mz2kCLSgq1KPmsSsxXdFyo/slS35jDjoMvyec6H1D49dT0G9EtgxVObJrZufWgS4HvKjGjHiwjmNSufm5cGJ6R/xX03g5yELk2AAFXHyXyGxwi0J5zBN1QWxvz+NG/EhLN2A4URNeRBWIukEOo/KYYxiRqQfrUP10XUeb1HF9PQmoMLdOwt1JI3jRTDQbQPhrAKxxc/Onu5lllLw+JnEX+Jb+zpotc+9wFi/dp+D0fOQe1hgq2t8Pwa4G9Py1t8x19oll9+y5PTc4x3cbZtuJPCHIhZb7csfTW+nXjXEb45mZpuudUG9C1iyUSxVJ603q3hpdc1C78sMEw/HEqgS0ekShvcn9iB5yJqka445KenmIsrXnrwJrR5NZLNrYyyMVKbADLEVrngQtu0ATiGXXiSZhpvvSqofnRTlIqdZRX7NdS5Pt1jGo6FlQvm2BQ4+QXklJ+83wMw4Wq7DIu1mc27NJ6+GLIUaBJ8w==;1ZFYk8ZPRXW3+btoIfbtlA=="
 ---

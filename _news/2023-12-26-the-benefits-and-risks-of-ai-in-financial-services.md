@@ -46,20 +46,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Artificial Intelligence and the Law of the Horse"
-    excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
-    publishedDateTime: 2023-12-21T21:16:00Z
-    webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 71
-    images:
-      - url: "https://images.wsj.net/im-903923/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Use AI and UBA to protect your business from insider threats"
     excerpt: "The latest research, including findings from IBM’s 2023 Cost of a Data Breach Report, underscores the significant toll that insider incidents can take on a company’s time and finances. To combat these issues, AI and machine learning are stepping into ..."
     publishedDateTime: 2023-12-24T09:15:00Z

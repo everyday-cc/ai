@@ -3,28 +3,20 @@ category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
 publishedDateTime: 2023-12-25T04:46:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+originalUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
 type: article
-quality: 38
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: WHIO
+  domain: whio.com
 
 topics:
   - Meta AI
   - AI
-
-images:
-  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-    width: 1440
-    height: 810
-    isCached: true
 
 related:
   - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
@@ -60,6 +52,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yWau9EVgQ4WPTHxa/9ys2NHTqIDumD9x88O6aOY91pqKdLKQAioYNUMp6TnSCDsFBQ3D+drAiPwiv5Wx7NN0l2M3LDvhXuguN8/11sSM/o6XEdiw2VDRJruxPBbLpyRArMkzp4EtX6FVjPD2KHws+8vI8JuWYOU/SuyXyjMNdidKQ0ZwvjA9PqIje3we7BP3WZb34qQvqzn8yXsmB/2jHbkmFlymCXDPOwgni1HUSbROlPDGVYQ5M5r6EQlMw2zbQA4ZSpz41MQdk7mpWGLD++XhMF/PpMDwzZnLawDWveJnB/2D7r6sGjxRu9t3zcY/NXgprrAaMJtx5ktQYdx6dlI0rTdzw4JBhgki1BsqLMM=;oKjOHTUrZFqLw/ocXoOw6A=="
+secured: "LXkTJtZomkSt5muba6AYXPOqsfuRDSU0+//8l475+OIwDlgMBuXHFW2xmzh5rdkRScdI1WFJW5HBOe2WEIBW44D07M9GWwxyCCIqjpHw5UYCrmZbvVhEGZ5DOIDfLW2OgpL4MTV74JpGci7Cn5nEg0p224FhN060/me4GVLsXnfhBglgASGcFKfw9YsJDaKN7XgVXsuGBHprHtGR3WAsylqmKI0PaMvkB+ClRsno5ofgxz2huU04yVg1U6hF4wFxTORYtKE6vpqSqbtbcHC3zqODo9QIqkynKptl0bDwtVC/dHCyVYajd6SxgVQcvWLN5/2GWFrze5KG+LhR6Ck80RiuWVhINd66Ij3Cy9+aABq1lyrlHhT4R+dgGB8LufHhrZaYzq24JN/BYNuTtL1EQqCFkTJehBfLuMLXCrtOk7iyv5nMnR5ce5Qqx3kexXbKk2qmChXm7xjvCwspSUcBhGHpl6lwTT/ybBViup4mYVMkSAPBXGRHPb7IVJ9u+NnQkLmXU/1C5SZzwNrAHB0qTQ==;rth3xTDPoBZe/mPZk0+uOA=="
 ---
 

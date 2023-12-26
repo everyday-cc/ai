@@ -24,6 +24,17 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "Artificial intelligence predicts the influence of microplastics on soil properties"
+    excerpt: "Plastic pollution in soils, particularly microplastics (MPs), is a major environmental concern with long-term consequences on the environment and human health. But the underlying mechanisms of how MPs impact soils remains unknown due to the heterogeneity of soils and MPs and their complex interactions."
+    publishedDateTime: 2023-12-26T19:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1029817"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
+
 secured: "khubFNxC9KiTKufV2ts5BusPUz7hC9m8nV0/Qzu2WjgmMPwbQc01LUYkw3eoXGloohiTebK5D1mpEMXDsudgmL4EEKbiPxJW7AXKum47WJYHYsiotCNMI0IdXuppot7fjEKYyDVkxj+6wztkDkFvMhgvuL40XThX/rC0PG1ko3M3ZZFOLxNSFplPaQsgZikeq61zuVa4AdEyBKxrj9pGLxBwRld1bb303K0f5Mm2dllfxoMlz/kDTg0h4cxGDuwuwKA4j1wh9ulftAyEPU/503go9vfXzhtjgp32tFt8wmmfdhr+7r2L+dejP+XsHAV3A40ajA6HUiLY3+m1AuoAFM7PVqedPEgfReeW6pzNxrM=;J6zAjCvlGC5lbfWDkiA/Bw=="
 ---
 
