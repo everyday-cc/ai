@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-boswo
 webUrl: "https://www.theverge.com/2023/12/21/24011574/meta-cto-andrew-bosworth-interview-ai-ar-glasses"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Verge
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "7 ways doctors and nurses are using AI"
-    excerpt: "AI is changing health care—mainly by cutting down paperwork. Soundry Health analyzed news and reports to understand the state of AI in the industry."
-    publishedDateTime: 2023-12-21T09:19:00Z
-    webUrl: "https://kvia.com/news/business-technology/stacker-science/2023/12/21/7-ways-doctors-and-nurses-are-using-ai/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/12/Shutterstock1155104248I1CL_0.jpg"
-        width: 1010
-        height: 720
-        isCached: true
 
 secured: "DHmiBVTai4LF/8L+EJ8MqDLmbsk4+wpsyDUmIVcFBp0UE/ftOELPbmQaDmDpMf6xdSzvAEIbNha85TN6cYoAQYS0AJI/pCN79gl6suACz1WgvHrWEtNe7GN8bhm2p08Ek1sOe30KufKA1eOFWd5qtusrXBIFaoFLzcJjh9zbTzoGf2LS+rBa0uu4pTl2OovCLTi8LPMAe+BHvIr7t6kpuxYGzA20FluOwvt4xaeJPsXLpwRLqck4flsl7P4zPovXb2r4Hjw4YXZMYkqtU0SG1a8CySDD88nlKbOR4tPWS1R9E7jJS7Zki8z0u/RR55aOAUsLSamtu4GY70cHprxrumHqiTFPnmatyruttce22pHJwi6MVsXq0LmvyWdEgKRYqioobcwxHw5u4PxnpSUcCXb2xmvINOyBEVj7fqdJMNSZOsvuVhVXOO9HI1xj05d7ILOIqVCkbHvy8aiFbkuRSHF7Py5H5xrexGi70/JNpm9XlqMML8HMN9oH+7BqcBF4f7qgn8FrYYGaGJIRL1AOrw==;6NiSwNmliSFhecDSK0oqrg=="
 ---

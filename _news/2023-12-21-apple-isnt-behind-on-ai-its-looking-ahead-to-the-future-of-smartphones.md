@@ -18,45 +18,87 @@ topics:
   - AI
 
 related:
-  - title: "From AI to responsible AI – the future?"
-    excerpt: "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,"
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
+  - title: "Apple is Working on Running AI on iPhones and iPads"
+    excerpt: "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones."
+    publishedDateTime: 2023-12-22T17:02:00Z
+    webUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg"
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/12/apple-store-dec-23.jpeg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Here's how your old iPhone might get on-device generative AI"
+    excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
+    publishedDateTime: 2023-12-22T06:54:00Z
+    webUrl: "https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2022/09/Apple-iPhone-14-logo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "New Research Paper Shows How Apple Could Bring On-Device AI To Older iPhones"
+    excerpt: "Apple's new research hints at a breakthrough for running AI models on iPhones with limited RAM, while boosting processing speeds, too."
+    publishedDateTime: 2023-12-22T11:19:00Z
+    webUrl: "https://www.benzinga.com/news/23/12/36359722/new-research-paper-shows-how-apple-could-bring-on-device-ai-to-older-iphones"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36359722"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36359722"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/iPhone-Photo-by-Attila-Fodemesi-on-Shutt.jpeg?width=1200&height=800&fit=crop"
+        width: 771
+        height: 514
+        isCached: true
+  - title: "Apple’s new AI research could totally transform your iPhone"
+    excerpt: "LLMs are the backbone of AI chatbots and assistants, such as Apple's Siri, that can converse with humans and provide useful information and services. However, LLMs are also memory-hungry, requiring gigabytes of RAM to function properly."
+    publishedDateTime: 2023-12-22T05:06:00Z
+    webUrl: "https://interestingengineering.com/innovation/apples-new-ai-research-could-totally-transform-your-iphone"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/22/image/jpeg/rVZ2flIcsE9EjvaTTHEjE37yhPZlcwT7Q0BVQJYO.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. (Nasdaq: AAPL) has made huge strides with its artificial intelligence research, according to two recently released papers that would take the AI out of the cloud and put it right into your mobile devices. In November, Apple scientists released a ..."
+    publishedDateTime: 2023-12-22T16:03:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 36
+    images:
+      - url: "https://media.bizj.us/view/img/12597191/apple-iphone-15-lineup-color-lineup-230912*1200xx1960-1103-0-102.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in the Near Future: Artificial Intelligence is Everywhere"
-    excerpt: "Artificial Intelligence (AI) has become ubiquitous by revolutionizing numerous industries. AI everywhere is an era that we are rapidly entering whereby the end users are increasingly accustomed to mass personalisation at scale otherwise they will switch to the offerings provided by business rivals who may be using AI to create customised services and user experiences."
-    publishedDateTime: 2023-12-21T18:34:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-future-of-ai-ai-everywhere"
+  - title: "Apple research makes headway on using artificial intelligence on iPhones"
+    excerpt: "Apple Inc. has made huge strides with its artificial intelligence research, according to two recently released papers."
+    publishedDateTime: 2023-12-22T14:26:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/22/apple-makes-headway-on-using-ai-on-iphones.html"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/society/The_Future_of_AI_-_AI_Everywhere.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
-    excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
-    publishedDateTime: 2023-12-22T14:01:00Z
-    webUrl: "https://www.usatoday.com/story/sponsor-story/bertalan-mesko/2023/12/22/the-medical-futurist-examines-how-ai-will-impact-the-future-of-healthcare/71963510007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 18
 
 secured: "oNVX47Jc+foAWtECTbtOHnf43DLsVHMgh0QRtwYNVAxZxidcSs6CArnYOLg5f9QBydI9JaQ8LjEnAtuJ6sYRqqqGLzN7/TksY9q3cIWyM1uZb9VX2YWCUp2VlG+l8wgbFmOO96dWCIDxBQAuSiILlOh/Rz9+Oc+w+xder8N5O6azNUNJS3XeB8coyKTYQ1wrNJX2rfsy3t+SlMV4nnB1at2uCZ4DMxbOTTaIYBwcyzG7/gpInTel478RFaAwxOkCgqXk9/Th1qOpMDpVMg8TM0bd7w672ufOVJIKnRgstRg2lm7u0X56y6gQCOv6IceKxmFXqOA9sHI8Ei08avLsmFuqz9usV/3FgutUaW1ohDToxDylUfDtn6tIBLUp4HFuc5Qtv6swZEBB1ZQInIbqmWbwY14lHreadHytgCWusRdfUDTKMrJm1Z0auUqcaBGNIuiy+O7miv1eWKkEyDrcp1MbIIYdNnp64PaiNqCXrf/dX368z+A8r8bCm2rnci8j45vHS+jOYPRwg4T4kHXSLw==;RU4/436Cntf48sVuBtNJQQ=="
 ---

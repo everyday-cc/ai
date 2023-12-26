@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News"
+    excerpt: "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,"
+    publishedDateTime: 2023-12-26T09:49:00Z
+    webUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 74
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "SIh+29wKbqjzTa+RQywjd7I2bz76AqP18tdLXWhWSvHgViG3CjiRffiG8R/oPXQtk7X72+82RdyYXEKR4RO7OBdiZ2Azt/KaziEZOIKU9Mwj/p2LeMuvfXqHCJG9BmSiOXMi+YOocMUUhCxgNfdeB5QC6+n3fPRcgUNAyTg6NpsIaqmalVUfoiZpJeTPkjrtIn4Ps8RT2N/Jk4mVO968hujBno44B9FJH8dYudF53WtYE7MuYLJ0GOJNZ25mQoDRS8KDIH83YPx+2/8wqOeK+Gk4xKcTm1q8bh50FLcg6v2k7KUousiGrw9/c4iTkE1H6liXa4s0b4Q0OpmUfEI4L06B2eMAg6wWh+XobFw1O4HB+pAg8V9/Nipz9KGf07njPaOXTdaw9FpRksmVibuUMf/Q284lij1/KcyLj+8QzQiqH6Pq36p7OusMwYSSu7vxy+Q3Bsl+3PsDA11hMuGJItMj7AalG+IE+ROPDlJbEmlHajChil/jVh1wsdnEYF9brASqI+qqJucjJ1ttBjV59A==;MOXDa6aB/tL0MqlpYVWhXQ=="
 ---

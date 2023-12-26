@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple research reveals some dazzling AI tech could be headed to your iPhone"
-    excerpt: "LLM in a flash. Animated avatars. Smarter Siri. Apple GPT. New research suggests an upcoming iPhone that's utterly transformed."
-    publishedDateTime: 2023-12-21T10:40:00Z
-    webUrl: "https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bce2fe06deb5f07342fe444aa57b457ba6ce1a11/2023/11/03/4ac6a074-2ca2-4c64-a760-3695c25d5833/dsc09813.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Apple is Working on Running AI on iPhones and iPads"
     excerpt: "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones."
     publishedDateTime: 2023-12-22T17:02:00Z
@@ -107,15 +91,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
-    excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
-    publishedDateTime: 2023-12-21T12:38:00Z
-    webUrl: "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027"
+  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
+    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
+    publishedDateTime: 2023-12-21T13:11:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "5OxTTvw5SjxOeYn9bafksANMWB46R7T3FzosNNtZhyggmx7Ghb/Ki47kNRthr9VWaMirFroG5TOdQSdzpMCejJbJ3RwWR/zE85+xOJ2q/DWg1YkUYcdpxjn5tQTpq+Ui9K/JXcON+FD3vn4oqvRiiSnyutE916Y9Yp0M8ydEe/nQhBwHD60Y4r//IrydlyhRSAufl+Iu6WGJ1RJkjZrD1TWnQv2v/cDUmsmwu9i/nnoid4xBg9j9txzILiDJZr/oCHyc+mWvqmNN42ni+8uOJDO7ysU6DAmIEpLKv9h+VXXYbPAlQOYZdjnwTvJz4vhNnqRYMKrVuna7RTw/8N6L/nr1npv4mQ8Uz1FtUqYadlNa6f8bAMPObiK7FTHu53RgdElejKrDZ7Pj77jmUvCydk73iWe+ns5Q3h54LHV/r4yRH7omIXfqj2HxOLXT2Hvm6Pa0TDZoxHhmcFVInAOADZ9/Itasy+KhNi5J/3hp5vwvscCi6Auq0GP7fUfdO9Tum5jRftEUwfArN4Txzi+0Wg==;lO4mGqXY6DrlYC05LKzNbA=="
 ---

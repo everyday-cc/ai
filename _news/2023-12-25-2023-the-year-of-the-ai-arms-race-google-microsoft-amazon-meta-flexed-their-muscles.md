@@ -43,17 +43,6 @@ related:
         width: 760
         height: 505
         isCached: true
-  - title: "Coforge, Microsoft Azure join hands for new generative AI solution"
-    excerpt: "The development comes after Coforge's recent launch of Coforge Quasar, a Gen AI Platform designed to build Enterprise AI capabilities"
-    publishedDateTime: 2023-12-21T09:21:00Z
-    webUrl: "https://www.business-standard.com/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/industry/news/coforge-microsoft-azure-join-hands-for-new-generative-ai-solution-123122100528_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 69
   - title: "How to Use Microsoft Copilot’s New Suno AI Music Creation Tool"
     excerpt: "Microsoft has unveiled a new feature for its Copilot chatbot, an integration with a tool called Suno that lets anyone make music with AI."
     publishedDateTime: 2023-12-21T15:17:00Z

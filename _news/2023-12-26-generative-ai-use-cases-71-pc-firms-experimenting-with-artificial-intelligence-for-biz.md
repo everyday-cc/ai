@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
 
 secured: "RxzW6RpAsErz0Kw8KsyAUKthhiLhKkDl30vvZe+u1rLIaf6mC82KvDK1OcQzQM29owGTqWtuj5IqkXDIBVCnj7bkGvAVqV/rgqh3j9Ho5YM5jcGv9+MEKm50b2meU0MgX3WD+/N35WCGukDgvzNtgRKyM8GtV9Uxv8XmN2nGVNkST0odt8GEwT+fldK24qKZ2v4piW/LcAI8CZUv/TRnw39H0HUB4fSPSPhCs9iL5hnxinTvDUa+6EOMcb3iHMnuShdn9BEPrulUrQWdB4HuD2usUBuIzLNCbPjrpI/dYVuDnXRTwTcCaJ2uXF3xqMMCmWNIBO0jWRadofCKFD9SScfbGzJstuKPbyopqudEh50=;D7mbTbxoeHZ1ERnai9QNiQ=="
 ---

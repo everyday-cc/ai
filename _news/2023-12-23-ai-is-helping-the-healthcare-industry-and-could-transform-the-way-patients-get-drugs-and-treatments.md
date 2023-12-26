@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatmen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
+  - title: "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News"
+    excerpt: "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,"
+    publishedDateTime: 2023-12-26T09:49:00Z
+    webUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 74
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "dQ2h4wKgMV5W3VUWdiqQsx+uNHKBzTF9GbIWWjbYVBhayEtWmNY1bO7KZKTPxzlaAkMlYYyNFitt5yhN/q5BouBplG84X4jM387L8kDSPBo1k71FeuFS/ckUejTvJ5WxlglfQ0iQWXUelb6yaD5jVbcYGFQQSNa9muM6rttdz0Sn+dUbdFl6EZhLx8eIFwpvjQPoyMXJGGedsK7DCvBIMNygpjwXiPTltGXIhsw6W8UefqMeBt1rjOHhDXx97J71bBXIvO3NyzCs6ajXZe09D9qEFQ4YeV4XtVZfSWDuRcy1jpbDEbDcPpo85dJn7G83MX7JmRvrJW2NCSE9Myul3wOUPIC3iZjRy3Iya2d1y5Pmb+ITorxabS19AfzLD0vvLy+D2M66cXITjt9gYjQGfkrexnZXVAQmVt2qQxIul86mPLOOE/M6MrB2V23XtNFeZZXxP5imAL5gIW/ohFLcVKhbePJoKPpB0ijLJw5tkr3FszyAqGcAIeKDmrfiB9m3Bn2ECizstjlU1/smRXKwKg==;6F7hiQJMcSsb3pB1nnDHEQ=="
 ---

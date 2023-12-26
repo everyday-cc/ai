@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
 type: article
 quality: 63
-heat: 73
+heat: 75
 published: true
 
 provider:

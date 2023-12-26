@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI-generated weapons of mass misinformation have arrived"
-    excerpt: "That frightening prediction is already coming true."
-    publishedDateTime: 2023-12-21T11:00:00Z
-    webUrl: "https://www.msnbc.com/opinion/msnbc-opinion/ai-misinformation-fake-news-rcna130523"
-    type: article
-    provider:
-      name: MSNBC
-      domain: msnbc.com
-    quality: 17
 
 secured: "cja4MIFrySUDuHMcYTbM29nH8b/nBvvZheKx5VRJRI9mvzdHqk4DAcdf8hmxAaXU1o5P4GgUaINi6vWqSf6ZrE052FAqfA9FnQd0/O/S/WydwjDyXGHO7zFZqCseB42bFvhWofuHIdbfi/GEJDfdPhwyT1iyfBZeD+iuYhUH0LmLt48iweOjxvWO3/7CT88CmmenLfDRpuMNWyz90At7KwnhRERlTK7P2ZdfdC75fPPm7mIP9RrVc+RSaFHnOcHCSdCR/KwnvSsnD50EWrzArp7BXeeUhCMTsm2Y1F+NNIEQx3QjQDmUB5xXuafO9YsfYM29pwj9f1Dd7WXGZs3k9k6yyeACyoOkPlfwMqC57Bw=;E6B1pH1WZcPB0Jsqrk49QA=="
 ---

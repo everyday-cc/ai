@@ -56,6 +56,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
+    excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
+    publishedDateTime: 2023-12-26T09:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/438798fc1a6366e98515aeda08b6ca4c79e98986/0_263_7894_4737/master/7894.jpg?width=620&quality=85&auto=format&fit=max&s=aa594f5389e65b0afb81c29f3c9082a7"
+        width: 620
+        height: 372
+        isCached: true
   - title: "5 Stocks That Will Make You Rich in 5 Years According to ChatGPT"
     excerpt: "Nvidia’s single GPU AI training speed performance has increased by a dramatic 1000x in 10 years with only 2.5x coming from Moore’s Law3 driven increases in chip density. Besides better chip ..."
     publishedDateTime: 2023-12-21T16:26:00Z

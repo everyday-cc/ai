@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
 webUrl: "https://www.techrepublic.com/article/apple-llm-iphone/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: TechRepublic
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple research reveals some dazzling AI tech could be headed to your iPhone"
-    excerpt: "LLM in a flash. Animated avatars. Smarter Siri. Apple GPT. New research suggests an upcoming iPhone that's utterly transformed."
-    publishedDateTime: 2023-12-21T10:40:00Z
-    webUrl: "https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bce2fe06deb5f07342fe444aa57b457ba6ce1a11/2023/11/03/4ac6a074-2ca2-4c64-a760-3695c25d5833/dsc09813.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Here's how your old iPhone might get on-device generative AI"
     excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
     publishedDateTime: 2023-12-22T06:54:00Z
@@ -103,15 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple’s AI research signals ambition to catch up with Big Tech rivals"
-    excerpt: "Apple’s rivals, such as Samsung, are gearing up to launch a new kind of “AI smartphone” next year. Counterpoint estimated more than 100mn AI-focused smartphones would be shipped in 2024, with 40 per cent of new devices offering such capabilities by 2027."
-    publishedDateTime: 2023-12-21T12:38:00Z
-    webUrl: "https://www.ft.com/content/10685ed7-4b8f-4411-ae2e-5de1e3454027"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Apple research makes headway on using artificial intelligence on iPhones"
     excerpt: "Apple Inc. has made huge strides with its artificial intelligence research, according to two recently released papers."
     publishedDateTime: 2023-12-22T14:26:00Z
@@ -121,6 +96,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 18
+  - title: "Apple isn't behind on AI, it's looking ahead to the future of smartphones"
+    excerpt: "A new research paper shows that Apple has practical solutions to technical AI issues that other firms appear to be ignoring, specifically how to use massive large language modules on lower-memory devices like iPhone."
+    publishedDateTime: 2023-12-21T13:11:00Z
+    webUrl: "https://appleinsider.com/articles/23/12/21/apple-isnt-behind-on-ai-its-looking-ahead-to-the-future-of-smartphones"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 16
 
 secured: "GRBHL+3EjWU7OnlfinT2G46aZqqtXndw842N+hWHkWGr3An3ysTmgGvPiPLM4ZWHBE70xC0O48N7giqcL4vKKpi1XsLidrLDmI4tjPOwXgVF6nKrPOygdYFovzhuum3B9+DIg1fb7VTDf1e7eQA82/ViUL5+qhxEvR1MBW0Tj6wTOMpSgYiN8FeN3e7rAtQHmGZ+VQesyUPr4Ua2ttRGWEswzZw5hZz+a0j5Kt/oWEY8of2aLAR76MbxjgJxeei64vQv/Twmmhsz2A9D5nFpDIxb+z8xh2WB4rtu4kmMs7ydm0LwRhigXWJazGv+ysxSMw1Ka8gBgDDAo3ANrb76+JCRyTfWWFDEz1R59JCNrcumOLPp9LJ80LTnFbBT2NCy7F8XBPDm+s8kmvzSt/egUoRTU6WMy3+QIa3GepghtYtrWZRSdM5IVqstog6wvBHnnMCiQgd5AvmPZ1xNzjk4+t98sG5iHSl91wxXThgJF3bHM9CUNI74cuQDxsavMTpLf+nYT9AGb+DGJRjwivbYiA==;YJPuMwT3OwvjUBzntEtuZA=="
 ---
