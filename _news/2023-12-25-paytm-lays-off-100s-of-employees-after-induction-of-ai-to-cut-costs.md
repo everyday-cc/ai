@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-af
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2018/07/Paytm.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Amid Layoffs, Paytm CEO Shares 2024 To-Do List Featuring Big AI Upgrades"
+    excerpt: "Fintech giant Paytm's parent company, One97 Communication, has laid off 100s of employees across verticals due to the firm's implementation of Artificial Intelligence (AI) to bring automation in its process and ensure cost-cutting."
+    publishedDateTime: 2023-12-26T01:53:00Z
+    webUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071"
+    ampWebUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2021-09/j8j3lrk_paytm-ceo-vijay-shekhar-sharma_625x300_14_September_21.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Paytm Layoff: Implements AI-powered automation, resulting in workforce reduction"
     excerpt: "To achieve EBITDA-level profitability, Paytm has reportedly generated free cash for the past two quarters. The company's leadership further anticipates that this trajectory will persist, and further emphasizes the potential of AI-driven initiatives to contribute to sustained financial success."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
 type: article
 quality: 87
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/protect-your-business-using-AI.jpg"
         width: 1280
         height: 717
-        isCached: true
-  - title: "Responsible AI adoption: 5 steps every startup must take"
-    excerpt: "Explore the 5 essential steps for responsible AI use in startups. Learn how to gain approval, assess risks, and make continuous improvements."
-    publishedDateTime: 2023-12-21T01:51:00Z
-    webUrl: "https://yourstory.com/2023/11/startup-guide-ethical-ai-practices"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."

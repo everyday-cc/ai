@@ -1,29 +1,29 @@
 ---
 category: news
-title: "After laying off over 1,000 employees, Paytm CEO's to-do list for 2024 features major AI upgrades"
-excerpt: "Paytm CEO Vijay Shekhar Sharma said that 'AI has actually delivered more than what we expected it to,' and that the company would be able to save the 'targeted 10 percent to 15 percent that we had planned in employee costs'."
-publishedDateTime: 2023-12-25T09:50:00Z
-originalUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html"
-webUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html"
-ampWebUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
+title: "Amid Layoffs, Paytm CEO Shares 2024 To-Do List Featuring Big AI Upgrades"
+excerpt: "Fintech giant Paytm's parent company, One97 Communication, has laid off 100s of employees across verticals due to the firm's implementation of Artificial Intelligence (AI) to bring automation in its process and ensure cost-cutting."
+publishedDateTime: 2023-12-26T01:53:00Z
+originalUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071"
+webUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071"
+ampWebUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
+cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
 type: article
-quality: 46
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: NDTV
+  domain: ndtv.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2018/08/Vijay-Shekhar-Sharma.jpg"
-    width: 1280
-    height: 720
+  - url: "https://c.ndtvimg.com/2021-09/j8j3lrk_paytm-ceo-vijay-shekhar-sharma_625x300_14_September_21.jpg"
+    width: 650
+    height: 400
     isCached: true
 
 related:
@@ -75,22 +75,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amid Layoffs, Paytm CEO Shares 2024 To-Do List Featuring Big AI Upgrades"
-    excerpt: "Fintech giant Paytm's parent company, One97 Communication, has laid off 100s of employees across verticals due to the firm's implementation of Artificial Intelligence (AI) to bring automation in its process and ensure cost-cutting."
-    publishedDateTime: 2023-12-26T01:53:00Z
-    webUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071"
-    ampWebUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://c.ndtvimg.com/2021-09/j8j3lrk_paytm-ceo-vijay-shekhar-sharma_625x300_14_September_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Paytm Layoff: Implements AI-powered automation, resulting in workforce reduction"
     excerpt: "To achieve EBITDA-level profitability, Paytm has reportedly generated free cash for the past two quarters. The company's leadership further anticipates that this trajectory will persist, and further emphasizes the potential of AI-driven initiatives to contribute to sustained financial success."
     publishedDateTime: 2023-12-25T08:18:00Z
@@ -106,6 +90,22 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/12/layoff-notice-pixabay-1703489915.jpg"
         width: 360
         height: 202
+        isCached: true
+  - title: "After laying off over 1,000 employees, Paytm CEO's to-do list for 2024 features major AI upgrades"
+    excerpt: "Paytm CEO Vijay Shekhar Sharma said that 'AI has actually delivered more than what we expected it to,' and that the company would be able to save the 'targeted 10 percent to 15 percent that we had planned in employee costs'."
+    publishedDateTime: 2023-12-25T09:50:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/paytm-layoff-ceo-vijay-shekhar-sharma-to-do-list-major-ai-upgrades-11952961.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 46
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/Vijay-Shekhar-Sharma.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Paytm lays off employees as it implements AI-powered automation"
     excerpt: "Fintech leader Paytm has laid off several hundred employees from its operations, sales and engineering team, according to reports."
@@ -147,6 +147,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TCKd0P43PkJDRS5zWDjU5yytQojdr6MruMldRDrVO1F9q41clot88mSJGHJb3qrPkFoZhjqQriSKZ6bNJl6DUj4GGKoIJLSyOdVnwGmKttXgnO/4WIvmbwBurnS6WDS2Gfuoot4Wh2zsxDnyY7/oZTBXKXH2V6C0Ab1UDbajf2jcGCoAkkrG0GHK4ZuKjveTc0/rWA9qQw1ziqJidMjIR3eSkVc7J40wwaQ8OlBre3K/+144lVWcRkn/gxoZlLcrgVMncD2r8UnJmnaTW2ATGazCDeMViEeBG3D1TwW7fvOI56+7s7gNAbSp1oz8kz+zDWUkDJTm13H1wHS3egR82EmZcOKH6l9g09vzriKQEgtPBV7JlnozdvD+f/6TM7dyTuInlTk6M5ObUT9A9WVk5vjTmgm+Zpp6KXlEV7bVAo7/O/E1Bbq/JQa11NbKHcwQKki/JpNaYmlsMzP4o35Z30n/ZoLW5p04TiJ97MbRnE9Cl7GDChEiJuTVge0LTMa+O6qCt6OqdtgKIgB95Xb5ZA==;N3IZPCCPo6nouDGIRst6QQ=="
+secured: "ZahoxQFBlRtqlLtG97XL7PaLX8bmWVaImwPqdt6lefV4v0t9LGRhd1s8C77e3+24jw5M5jCb26yomVXVgeZxI/FPUIHDGTG6DhCJgJ6vTitzj0I2z503qglGzAAQlLROGnpuu1hjcD1SkSV0srPpxRHS4cJQOI5JI9epHj/YyoUYAYNGsJ35EfZlE4iqNUfL7vhyFvJBx1C3Jy4Z0dfE1xohQnma/3bKVj5iU0Sov5I3PoBFPy/WDQHqdTDnJ8XTC2b5wvbIVGq3NXD7l0gxt+kusZTC4Qy4b6hR7BoK2tYQv98fMYHS2VbZQhPKR/5kCz/sGgIZzQGHyXoKidmPaaldCMj+LdiUQ02SCu6Aw9U=;SpwwzjGNA9C53vaoxvga8Q=="
 ---
 

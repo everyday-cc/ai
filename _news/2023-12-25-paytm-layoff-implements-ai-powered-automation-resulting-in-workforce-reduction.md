@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Amid Layoffs, Paytm CEO Shares 2024 To-Do List Featuring Big AI Upgrades"
+    excerpt: "Fintech giant Paytm's parent company, One97 Communication, has laid off 100s of employees across verticals due to the firm's implementation of Artificial Intelligence (AI) to bring automation in its process and ensure cost-cutting."
+    publishedDateTime: 2023-12-26T01:53:00Z
+    webUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071"
+    ampWebUrl: "https://www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/amid-layoffs-paytm-ceo-vijay-shekhar-sharma-shares-2024-to-do-list-featuring-big-ai-upgrades-4743071/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://c.ndtvimg.com/2021-09/j8j3lrk_paytm-ceo-vijay-shekhar-sharma_625x300_14_September_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "After laying off over 1,000 employees, Paytm CEO's to-do list for 2024 features major AI upgrades"
     excerpt: "Paytm CEO Vijay Shekhar Sharma said that 'AI has actually delivered more than what we expected it to,' and that the company would be able to save the 'targeted 10 percent to 15 percent that we had planned in employee costs'."
     publishedDateTime: 2023-12-25T09:50:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rcrwireless.com/20231221/enterprise/aws-launches-second-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231221/enterprise/aws-launches-second-infrastructure-region-canada/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: RCR Wireless News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Canada West Region Launched in Calgary; Future Planned Regions Include Malaysia, Thailand, NZ"
-    excerpt: "Amazon Web Services (AWS) has announced the launch of its second AWS infrastructure Region in Canada - the AWS Canada West (Calgary) Region"
-    publishedDateTime: 2023-12-21T02:04:00Z
-    webUrl: "https://www.thefastmode.com/leadership-and-management/34359-aws-canada-west-region-launched-in-calgary-future-planned-regions-include-malaysia-thailand-nz"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 41
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/fae75687ce3744f5b18e5363d2bd762d.jpg?t=20231221_020017"
-        width: 753
-        height: 408
-        isCached: true
   - title: "AWS launches second cloud region in Canada"
     excerpt: "The cloud region will give customers access to AWS technologies including data analytics, security, machine learning (ML), and artificial intelligence (AI), and consists of three Availability Zones. AWS is planning to invest $17.9bn in Canada through 2037 ..."
     publishedDateTime: 2023-12-22T00:00:00Z

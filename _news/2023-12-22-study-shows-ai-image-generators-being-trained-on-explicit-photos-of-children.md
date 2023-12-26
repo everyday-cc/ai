@@ -56,22 +56,6 @@ related:
         width: 1194
         height: 672
         isCached: true
-  - title: "Researchers find more than 1,000 child sexual abuse images inside AI image generation training data"
-    excerpt: "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found."
-    publishedDateTime: 2023-12-21T02:02:00Z
-    webUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/"
-    ampWebUrl: "https://www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 45
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "U0YJ1D2axQbetO9F3pVutBvFEwBdxccId7F55RD2/qNMfmotvrJr/C1OUy8DbROPyHugZDGF3wFu0s1l9S+Aza7Qnm4QMqTnHqtre1p1L46XuGwbDBVPEEogt1FjDjSLgk4AtOjGEOMNr5TldruA6CtNaRfOQhirlyh5gFu0YDVe1kPtuioqjgpZLo8DXhL9ONEzBswlziSAwe4T/vBVOxRlFplTnzHE4Gx7sUIk4TapUgOs5n2oWXLo/E4oUdLgoA+7y3adsVQjOeeoygee2uJ/PBRK7ngbuf8YV4bwEgBTnFBFvMSxHZq1UDA4QLBBvKh5h9l4P43KbmDXdKIJ6ln6MBL/tuPcPX9cFdSoQZA=;H0iPop8yZjcusgL3WNXbgA=="
 ---

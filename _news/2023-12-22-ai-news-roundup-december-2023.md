@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/ai-news-roundup-december-2023/amp/
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-news-roundup-december-2023/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1588
     height: 1059
     isCached: true
-
-related:
-  - title: "3 AI Stocks You’ll Regret Not Buying Soon: December Edition"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips The year 2023 defined by artificial intelligence. advances in the technology"
-    publishedDateTime: 2023-12-21T01:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-youll-regret-not-buying-soon-december-edition-1032917747"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "EgzWrv6FrF2aCvYHIUzfZTUm2MCttqlVvO4KL+4iPsp1JLUcNBNiF5Nf5mavxqMc3XXFvsXqY0eSPN94eBqIEvgPxtLdZ+7BLUCPydhrWnC3CzThHHSxtrWpA9GQ1InvHhaH2H8kejyerHKIBqUiFTs8t4+p/oZcViIDl63s7XpeNUTU3oOdNgDDCfQL7EzvDfb7sNDiWL8/O1yYw0/TDtGrfp7/dB2UD3ZCBofkUXTtZiRh66asNYt826z17MuWZu2QR9gwy1o2+8VKUtSqQubiQYM5BdmAuZ+HRdTNXENkM66StNEe/j2nNzdkBsyqKIvUEQa8oopWn3dFHMaR4XrCK4PFHFnSLl7nPqmLjipPfSEXJDFwZc2aa2ZunEsFkQoWJgA5GToWWtk3Dzm3EbD1MJ++MBZ/7u2/00sp4+/a9Lp5sC6q6ZH0uFQthmMgc6vvtRrOzJYDyKUVTlh7OQCB8q6psipwUiPQCevsPxRKSQSmCyRnRLAyB/uH12oocMaDgkMqMpQYPI+4t+f7VQ==;VHRJKrGZh/EjQOCTWJNrvg=="
 ---

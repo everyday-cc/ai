@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711804/a-first-look-at-windows-ai
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711804/a-first-look-at-windows-ai-studio.amp.html"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "A look into artificial intelligence in 2023"
-    excerpt: "We are taking a look at artificial intelligence, specifically its advancement over the past year. Bill Hart-Davidson, associate dean of Graduate Studies at Michigan State University, joined CBS News Detroit to break down how AI evolved across the country,"
-    publishedDateTime: 2023-12-21T02:18:00Z
-    webUrl: "https://www.cbsnews.com/detroit/video/a-look-into-artificial-intelligence-in-2023/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/21/3ced0376-16a6-4d87-8b7c-72e9e7e03333/thumbnail/1200x630/925a3e295dc6b359128ef525b9cf384f/4acbd1ec00b765efff1eac115d1e4b39.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "bbYyKilXfjNRPk+3MiicYRghqW8IDJqiBmvsLzP2O0rIJeyNuZiEV/5fHItL2e6nXqBw7UFPn+8Sh97ApM2KfS6oOATxnbKGnC6w4jy1hXcjY6nYUGQr253zY9XK6wPnEFUja/iAK+O8xFD2YQ7warSJ+nyK9VjWkV+pArFKUmDeMScTBdNwwFGkr4ewIyrHjJynBvYd7L/wh0v26i6MVglBXI9hOS2vHrm1GXtD5QP3Gm67EcJXPNjytLa8Jav3o+rgvSisGJwDxQwlwSt0DbGoslfAJq+NBz/RPVukmT9CIN5fuxOCYgz5KthaF22i1afAYYbcPJlVTzW7v4SAUgtYoRscmqtQ3UW40FgpHjdtbVUybssDpzMS9txE7YbuogwJ0/0UHaMg+qJU8uDkm/o7G/k/SSNPQGXG4jLIfaJP367YMotJq7TKc5uwpd8D/jCuJ6OQ58wIzjhFVQDN+nTAesymdkzvVwG0XQ+ymBuJunDDDz3Gg074eGsTvj7/6egnuFVvL3xGd7uB4juV/g==;t02gSSTe+VtiyfQQpMTXNw=="
 ---

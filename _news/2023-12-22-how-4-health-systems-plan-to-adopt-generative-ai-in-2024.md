@@ -167,20 +167,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Generative AI poised to revolutionize capture management"
-    excerpt: "GenAI tools have immense potential for federal contractors when it comes to both proposal and capture management and writing compelling proposals."
-    publishedDateTime: 2023-12-21T02:40:00Z
-    webUrl: "https://washingtontechnology.com/opinion/2023/12/generative-ai-poised-revolutionize-capture-management/392920/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 37
-    images:
-      - url: "https://cdn.washingtontechnology.com/media/img/cd/2023/12/20/GettyImages_1781530895/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Has Entered the Resale Market"
     excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
     publishedDateTime: 2023-12-25T14:00:00Z

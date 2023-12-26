@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-hum
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Humanoid robot maker Sanctuary AI secures vital IP to advance its touch and grasping capabilities"
-    excerpt: "The patents enable superior coordination between touch sensors, which provide tactile feedback to robots, and vision systems, and will pave the way for what Sanctuary AI terms “artificial general intelligence”. According to the startup, its AGI systems ..."
-    publishedDateTime: 2023-12-21T01:58:00Z
-    webUrl: "https://siliconangle.com/2023/12/20/humanoid-robot-maker-sanctuary-ai-secures-vital-ip-advance-touch-grasping-capabilities/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Sanctuary_Cognitive_Systems_Corporation.jpg"
-        width: 1160
-        height: 680
-        isCached: true
-
-secured: "jJNB+l0Q19rgTbaiX4QCX8QvNWpzcxcLU5RkJI/rJ92Am57aRmTFQi2qRPlbBKAZEol/TSuyrhcemMf/cOB6ZYbH7UAwd3DPq87tdVsvWUjjvdNVzd+uG51CadYmkkoJKcS9hHbLr3OdKeYA3/9A2BI81b5o7628LIHalp7kkuHHG3fW36ORFjM227+HTLxhvT8piRKyvbDSOL9dPHIw9nHVt4atq4KyhOOoL9hMinVwkiVOI4Jk5xv1hmTaJtIYfLs5kBe4neDbSCX3Bx+OHTGECC8IzpK27dIVBRW6ppbb0LNWnzr6E4te/S+tgcsUItS1qteps+vQLh84KMRCAbdL23+qYEbK/TNtUBeWkX0=;1wh8Qv3pDhJyD7VDxmBbHg=="
+secured: "9/0ivvqmH7QjCbvnxc0hXMFZIjkydQBIL3hFTv5WGbOW0nGV6Ek8W8k3sSatHe/77/HKKNMnk8GlWVHAqdC2REy5F3oBa/1DOyqTpZCvTv5755myoHah5K9mEQwz4d2J5t10LSD7G01ybmBNUtMCGlvPspc+nDgZxkCGBYwnQb5c1Ze7IoDhOtotkXmh4/bY4YaoCAvBRsHx9iWZMsCOqRNSz4RWymwJnnyPgoKn4IiiNoGaVPYJ6R2cA2/4KIo8u86FSWw7TxH1LtndfebO0Fe1lk6Pixu7RWpBAAxmacckHBvauyr5g+dyQB3Yw1lOPm1EmDRqaEvWcsEvqEuBfbYxusDK+1/eu53FCsW2udI=;R0KCyThg3+4fvFwgyh5c3Q=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Agreements in the age of AI: Apple wants deals with news publishers to train AI models"
+    excerpt: "Take Siri: When Siri first shipped on iPhone 4s in 2011, it was the world's first large-scale, voice-powered, commercially available virtual assistant that used some AI-like elements. However, it was never considered a full-fledged AI system. Fast forward to today, and it appears that Apple needs to give Siri a drastic upgrade ."
+    publishedDateTime: 2023-12-26T02:10:00Z
+    webUrl: "https://www.imore.com/apple/agreements-in-the-age-of-ai-apple-wants-deals-with-news-publishers-to-train-ai-models"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 31
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AWBJRrzD3Wh7mwf3nMQsZV-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TyxnQaujRfCSf7eoK4twe53Qi9JNP/V0382HgJ+CvbVpEq4TSzUat1Eo+xMEeSVI8enK8BV8pTM7MWjmL5jox7dkMcyIacZpspqPWTqzJGdiTyD67OlJPZF28dvmS+12nG1vLJWtw2jIvBcixcviTQyMqETkYkLEJ9JlXVPh3i8nw5e75pw7tGLliEDxZO7Iz843+OQ9ZeVsvvWvzwuSjBqKO+RgfMGZXI3T4ohMTqUKSwuoSE7i1pcJNaGElU1KouwfE9vTGaytD4OafHgncJ+XpzfoKOoR6IaMY+NlZgsL06vOPoZoZG/MlLKJFHdTaHYLaSExKyeS63GbufXD2IL/Rc23B/0IYMnvkQBdFvFxsvDtIzFlhc1VbkWXCojQZB+bJNuAPwDdfWCgzRpfdsyDA34kDXcUnVm2xtgoRfhHO55B2TZxS952H8/+l2eeJgmtxtSkhwIM/WW0Jjy1SWcxMIr4vzWkpNl+8rBB0WKdk8/ob0BE0unZoJqqnP6d7s/lgl39BmbtxM5ybz1BiQ==;kuk6Tj2XcdBEax8FdEclCA=="
 ---

@@ -50,20 +50,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "Responsible AI adoption: 5 steps every startup must take"
-    excerpt: "Explore the 5 essential steps for responsible AI use in startups. Learn how to gain approval, assess risks, and make continuous improvements."
-    publishedDateTime: 2023-12-21T01:51:00Z
-    webUrl: "https://yourstory.com/2023/11/startup-guide-ethical-ai-practices"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/artificial-intelligence-g5dedba2611920-1684131802198.jpg?fm=png&auto=format"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "rkNZDiWoXPYxj0H2RsssPIYz62XyziCrkdCHEHc3BUtGhxkmGvt5oUKbiae4mXsQAxn9khmWvXf0EjyDSr+LS3TWz5GBUNSvZkGl1TbUOWTAHONO3K/2V+zdwYHqmRlOgTV4EGvodAwuIfGLA3LHWBxsDiiwIJqMGs2ygOvkFfWt1YD0P7bQhQgw8fGVHCqY8BY/jIjRrR6DRXZlg4bB427sQEkX6KX4r2X0BE/c/AOsPmQUB3BnBbJo+Svs5mXWWoVal+zzCdZUGj9zM7FIRXmYA66HBN7+blMeGEPzJ0IKrIXhX3wIck6fOkKlQt9KvZh0Aalic2o8cKDXFRFzg6jv49FL7T7+m+tT+fHVLSL6K2XHiuufPWL4HhrEvwcr1wYkJVM5J2HElIi2gB0gXd4fMsSGnGhHvexNz6SiM1EtHyX6y+CDp8BmGyI+HfEi51S0uoGqW5+iDxs2LR9D8xLfAFy7V8SCns8LLk76WvuEd9svISB9sBH/CxEFI9QPdcix6VMm367EOl4ECQv+5w==;mnCGMDE261cgk+FznvDkmQ=="
 ---

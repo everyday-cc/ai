@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 155
 published: true
 
 provider:
@@ -103,6 +103,6 @@ related:
         height: 330
         isCached: true
 
-secured: "AnJ5unEcAGYM5irWKYutQiv30MpkL4UsDGGEHsYNmYosp8OxVQb+DM45uH0b7OKCD3JmJJY1xzm5wc+9evV6Qxn6ov3z6AScE7kCNLFr4ddLy9PHpo/hY9jC47knH3p5C4xBDGslBGI+O2UKZkiFA5muiXdqfsvUx0RSo1WPYx+FLzizLBJzVr3KFfJ6+RY6hmitHXVMrgzXXpXTo8bjqvKHGwAPqmfmRTD9bJYG4gq1oMIZCWYgUGm/oECDy8eOwoeyeGgRHYUBbdcEvoaLvfhhKCSjBcCwyW+T94Bah6E91Ex0q5qZ6QS5O9Tx6CnLImnZH3V/8S2C50MXJ5igT7YXrvZ4rCy1oJuUS6QVtMI=;x0B+4TLeBw+HNnMtONpWqw=="
+secured: "32JohxMiKvEQB8MfYdRfpC32DeEygDqesUWSrLKkzh5DKwKZOvNyDmsWIENxFeATPnWF+M5myC7l/LGGJTyKwnaMhNTGhJ4ZjWNXItY5rExXhoxuj9OoaahKkb1LYUzqD0gSU00X9Gs/WHasYIGCl70JMWeNye0IZlakxj3wIBcMmxe/3WqhZdmk0UNUcJdqg0Dx10PowSK0UlCPNmAbeyZdrYW9TVaYvFKaJ3gWCKpURIDPl1j0WBCB/8hIT+D96iRhk9zj3MTgNWTgigBiaNWNgvkh4W2OVd/OEG/suW3miju4Sd7h3LG+ruQLVraykXiUu6uXw+eehndmDJptfb+aVp2SWtU1Dgv0ZXnp2mWhV6u2JS2BwnVl+lB2zHlo62or9kt/ngsBkQV0Z/BnmFx9Eil9WI0m0XftaLSs+2l53zp3FmynENldNynWWFG57SHzgNR2EdviwYGo7hmaBgEiW/9cqoqPWkEQ77Hc3YSUmGjychXllqzyZ4a+IKx/laIyzvP5i9rPFqEr6TaKfA==;ut8lBInStnCsfiP6cUzNew=="
 ---
 

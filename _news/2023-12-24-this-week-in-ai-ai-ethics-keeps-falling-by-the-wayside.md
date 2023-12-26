@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-fa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
         width: 1472
         height: 832
+        isCached: true
+  - title: "Agreements in the age of AI: Apple wants deals with news publishers to train AI models"
+    excerpt: "Take Siri: When Siri first shipped on iPhone 4s in 2011, it was the world's first large-scale, voice-powered, commercially available virtual assistant that used some AI-like elements. However, it was never considered a full-fledged AI system. Fast forward to today, and it appears that Apple needs to give Siri a drastic upgrade ."
+    publishedDateTime: 2023-12-26T02:10:00Z
+    webUrl: "https://www.imore.com/apple/agreements-in-the-age-of-ai-apple-wants-deals-with-news-publishers-to-train-ai-models"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 31
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/AWBJRrzD3Wh7mwf3nMQsZV-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Ul7fGHTfrF7RQe5M4uacMfiSQrOQ0JKH1uDX1OFHxHzn4e7FBGp4LHslHUeKxFEjJfh/9TLcrE9EfqoGVHJd2c2U8RoFJeMk4RDi2ZlQi7uYhFrHCTX5rKZsOb2jtjgjBrPXGjZ9GSenJscoesyvT9h95dmNGLfsVK8Kpjz0HFGyZuHOlDpW6vbZfKXaCKbThuSRjrS0M/nwSg6YvFfOx6RKMgjYzIjbPdoNjCZyq2F1R6VgmSNir3099G/wEjpAEA6ACaWyQ+7i4MOllKxi35NgJeeJWIhO93g1EELWq5hzFOzC7OWSHU+unU9oR+FDFUK0IGh+w6nc7DmhIDs1NmWrtRCpQA5/IHW/TfRTAF0=;2pnd0icUiYKu0ZfaEnSexA=="
