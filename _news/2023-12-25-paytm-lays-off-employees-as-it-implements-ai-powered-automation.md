@@ -57,6 +57,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Paytm shares in red over pink slips amid AI automation"
+    excerpt: "Paytm has laid off over 1000 employees from its operations, sales and engineering team after the firm implemented a slew of AI technology to improve efficiency."
+    publishedDateTime: 2023-12-26T04:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/paytm.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Paytm lays off over 1000 employees as firm implements AI automation tech"
     excerpt: "The firm has been conducting layoffs based on non-performance and due to AI automation over the last one month."
     publishedDateTime: 2023-12-25T05:24:00Z

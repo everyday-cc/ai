@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Humanoid robots with artificial intelligence have a long way to go"
-excerpt: "according to an expert in robotics and artificial intelligence. “It’s incredibly difficult to make genuinely convincing humanoid robots,” said Kate Devlin, author of “Turned On ..."
+title: "Humanoid Robots With Artificial Intelligence Have a Long Way to Go"
+excerpt: "Building convincing human-like robots is challenging, expensive and of questionable benefit, according to an expert in robotics and AI"
 publishedDateTime: 2023-12-21T10:00:00Z
-originalUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
-webUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/"
-ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go-3344522/lite/"
+originalUrl: "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go"
+webUrl: "https://www.bloomberg.com/news/articles/2023-12-21/humanoid-robots-with-artificial-intelligence-have-a-long-way-to-go"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: Bloomberg L.P.
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-21T181440.060.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "9/0ivvqmH7QjCbvnxc0hXMFZIjkydQBIL3hFTv5WGbOW0nGV6Ek8W8k3sSatHe/77/HKKNMnk8GlWVHAqdC2REy5F3oBa/1DOyqTpZCvTv5755myoHah5K9mEQwz4d2J5t10LSD7G01ybmBNUtMCGlvPspc+nDgZxkCGBYwnQb5c1Ze7IoDhOtotkXmh4/bY4YaoCAvBRsHx9iWZMsCOqRNSz4RWymwJnnyPgoKn4IiiNoGaVPYJ6R2cA2/4KIo8u86FSWw7TxH1LtndfebO0Fe1lk6Pixu7RWpBAAxmacckHBvauyr5g+dyQB3Yw1lOPm1EmDRqaEvWcsEvqEuBfbYxusDK+1/eu53FCsW2udI=;R0KCyThg3+4fvFwgyh5c3Q=="
+secured: "6dPdoIPpgCjBsSJNvK29C+fsMWR41SjW33vgn768X3jGCrEM/KIphegawbzgJ/V6Usbf4GTYxKzMRs/EcBpbu6XIf4f6Q0k8eEZsuvz2CAHuzMNDSZD8FOb+276GYHrzybhCb7/KKAdx5fsY9hU8wd56QNHMhsqEmafC9PlLluucU32QXkoS1ObDu0Y1xd3WM3qVhiXmRIFtOlmoh+nI7Wgl218AVBQdd1qCUajiiGsV22S/o7LNYsEYzsNHagqSSVM4cDju1Bple6J0Kjm/la0r1OYRxA8/43xqLED11uGbXER3T/D455hXnq5lU1GFmW9D11rq28nUn2e6mz7tLK82rSBm7AC4/aUQWpjl1s2FlqG/094+uE8B5pCU+cRLuAigrLO+Q/PP9vMim2uE+PdoT1WDGUrFAqru0k6eqf9Ai2UQPGYFojo5EaBfDCdng3LmSOvQPg4wPlnbJDobquCufUyLVSEVIl3ZOIoLK4sDfPK8AyTym3nvzSIP72Md218BVdRxdhLuYj0gorUD1g==;YdhqZAJlCFTDQ5bF0wsbSQ=="
 ---
 

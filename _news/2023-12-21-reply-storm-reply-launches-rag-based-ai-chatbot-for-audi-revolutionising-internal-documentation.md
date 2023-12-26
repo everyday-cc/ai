@@ -1,10 +1,10 @@
 ---
 category: news
 title: "REPLY: Storm Reply Launches RAG-based AI Chatbot for Audi, Revolutionising Internal Documentation"
-excerpt: "The innovative AI chatbot is based on generative AI and was created using the Amazon SageMaker service. It provides only relevant answers that are important to the business and if a question cannot be answered with certainty due to insufficient data ..."
-publishedDateTime: 2023-12-21T03:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
-webUrl: "https://www.businesswire.com/news/home/20231221707249/en/REPLY-Storm-Reply-Launches-RAG-based-AI-Chatbot-for-Audi-Revolutionising-Internal-Documentation"
+excerpt: "Storm Reply, the Reply Group company specialising in innovative cloud-based solutions and services, is supporting car manufacturer Audi to improve its"
+publishedDateTime: 2023-12-21T07:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
+webUrl: "https://www.businesswire.com/news/home/20231221707249/en/"
 type: article
 quality: 6
 heat: -1
@@ -91,6 +91,6 @@ related:
       domain: msnbc.com
     quality: 17
 
-secured: "4umOySZM8cxvmJPb8mZCwneeAd1WiyusPVgWi5+0cHbZeRV87n/Ad2tCiBbzengMCUzMydCuPzc50sirRRsaO/tZZi0/6axguGAI//pH+cbX9lsGVChju7kNFy3vyp8TaLgBTX1SwoBr8qcW8QmgZbjPbFwU3RaVXFYCKwcZAk7jt4KDsAjGjwi/ChyDfi159S7O5hJoKO69KYszRVlqZ04B3J1QOTLZWj+3j5Cy58OlW1B3Q7MlmOrHU8Xv5FVwaTlnhToDXJ8QWcByzDbL2xJbmm2yuTfvFw5kzKbTSyYeAercN3WBMjc0PMaJ5NVkh96r5Yv+WQnW2GebSnVMnMCnyc4tKAciGBU8SqHJK1hRIikGA2ztD3YiZQ/yqaqdrXxV7uS7MqrhwbZSJa0QEmiloikFGyrmdv5BokoEKvXfnf9nIiBqmKLVFZKWzG1+cVyNPQN81fjDl3x+PSH25Ia4Y8UhI5jayoggLvGd9VdilNO3Ld4haMyaNAeLPwkX6+Ix2Wxu+xy7tapl2VMrXw==;YfutWVhsQVEbiWcQf56hzg=="
+secured: "/Bldko4k+j+dsh+5ykHlM3hiU2+7IqEwsaGiGqIyQSdLSSQKBXJPD1AKaL9m+GmjJkXFP6SSO1XLloGoP/jDcHjW2MQhC5zKl2cwNi/oD+3cKxugfAhbwUtqdnuxjTv8hkw/7NW6VQ9+V9pXEpjUwsLChKuxBZW4mIB52bQnLDmUVQXTS6533GgsADQ8hY7TUwEm1unzGgxF2+LfMg/c+jx4I7kxQVp/ichYyq91+mviN4fO8FMBx4CaVUde4cqiVxu4VP5yUx3GF4pBV+Us0bOJEInSWBNJkzJShtMOEgpgusurVwmuMNohebVYN5ZIru3QfOjh1IrmVFIkjLI3vwNmiRPuWRjrpUYunYHH4BzRINi3n9EYKMyNN2Uqy1LvkuvxrCdAmhLESnCIM7tQ2YVP86IvKwpXsbq5hISWXjrAymRQgxIu8nGk3XVDPJEg4qJJWL0xRyFTzxUW5MEbOwrLIE2TXTW90ueMkoVwLhZkVDMbNvdOmEAyZaTbg1YRjas4xZ9NgYEoKm4E3BYbbQ==;In1Y7vq8mg8jlfu64a19tQ=="
 ---
 

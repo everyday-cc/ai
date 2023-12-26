@@ -41,6 +41,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Artificial Intelligence and the Law of the Horse"
+    excerpt: "If 2023 was the year artificial intelligence got loose in the wild, 2024 will be the year policy makers try to contain it. For anyone who witnessed the technology debates of the past several decades, the signs are clear. The white papers from executive ..."
+    publishedDateTime: 2023-12-21T21:16:00Z
+    webUrl: "https://www.wsj.com/articles/artificial-intelligence-and-the-law-of-the-horse-regulation-ai-policy-25e70fc8"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 71
+    images:
+      - url: "https://images.wsj.net/im-903923/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
     publishedDateTime: 2023-12-23T00:00:00Z

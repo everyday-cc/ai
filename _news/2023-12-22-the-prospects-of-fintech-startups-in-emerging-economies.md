@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "From RegTech to cross-border, fintech trends to watch out for in 2024"
-    excerpt: "UPI transactions hit a new record of Rs 17.4 lakh crore in November 2023, a 54% YoY increase in terms of the number of transactions and a 46% YoY increase in terms of value."
-    publishedDateTime: 2023-12-21T04:42:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/articleshow/106171316.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/from-regtech-to-cross-border-fintech-trends-to-watch-out-for-in-2024/amp_articleshow/106171316.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-163506,msid-106171422/istock-866905356.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."

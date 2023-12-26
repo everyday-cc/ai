@@ -1,29 +1,26 @@
 ---
 category: news
-title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
-excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
-publishedDateTime: 2023-12-23T08:01:00Z
-originalUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+title: "Navigating AI Trends for Startup Founders in 2024"
+excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
+publishedDateTime: 2023-12-26T04:21:00Z
+originalUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
+webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
 type: article
-quality: 44
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Crowdfund Insider
-  domain: crowdfundinsider.com
+  name: Nerdbot
+  domain: nerdbot.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-    width: 960
-    height: 1280
+  - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
+    width: 2560
+    height: 1709
     isCached: true
 
 related:
@@ -101,6 +98,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+    publishedDateTime: 2023-12-23T08:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
+        isCached: true
   - title: "The Premature Quest for International AI Cooperation"
     excerpt: "From city halls to international organizations, oversight of AI is top of mind, and the pace of new initiatives has accelerated in the last months of 2023. The G-7, for example, released a nonbinding code of conduct for AI developers in late October."
     publishedDateTime: 2023-12-21T05:48:00Z
@@ -128,20 +141,6 @@ related:
       - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/8249bb2c2317ad997df4e313cfa1a85d"
         width: 900
         height: 505
-        isCached: true
-  - title: "Navigating AI Trends for Startup Founders in 2024"
-    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
-    publishedDateTime: 2023-12-26T04:21:00Z
-    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
-    type: article
-    provider:
-      name: Nerdbot
-      domain: nerdbot.com
-    quality: 37
-    images:
-      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
         isCached: true
   - title: "PS5 Pro or next-gen PlayStation 6 may use AI processor for real-time predictive gaming"
     excerpt: "Sony's PlayStation 5 Pro or next-gen PlayStation 6 console could feature some sort of dedicated AI processor that enables interesting new functionality."
@@ -190,6 +189,6 @@ related:
       domain: traveldailymedia.com
     quality: 4
 
-secured: "47Xdfgx4ZGxqb3tW1Clb9OsJkVrNPkhT66MUPHA7ce65Ni+F/bIiO/gzCojw197JL6zVF5gdCrV6w92LXBmaN9yKFu61NMSHk7lFT6HoaEY90oM3SEzTzovQfvcJGPcaQy1hEWTJG6M3tvRNo3WhqLaTia5Te4WHgLek6bptimX+PYbyReOGorGQULQaRdKrJqJrStLb/nlqgFxuaY8U8GmDC5ZBWzJsWjQq+zyxYP6WlJXgDKjQ4Btxet0yLKpkM2Rihg5RPuKjqgk4lNoOgcUFP1/bycae+DZ0xu/eeQ3JN8Xs05bH4M8sZD38JV4RL266WClD/wZzpS1hS3kxSIlBFZNnByEBbdGIvbsryw/aALqBm7Gr7yn0qpRtZfVo9uaimcTa7nI9Z75FRFJYujQANzZxOdj2XjqAPnfLsGbSlTVRcOxK8D8OJa0073BwHlasjlF8hS2TnRN6DwB9gIaLjvYEPk1aL9K7dzh8kpuw3WJXW/Ku1CQr6qk3y0VK1h1CBk+5nhzUx0NstV+K8g==;4STixfQNywdrKOTuhK3Trw=="
+secured: "DuiFdWqoQeV17uGr48ERak3hcb5DeL6bR948v2XOywZ9EL7Bbesgr/SujsqkApiI9c5jPh9QNNdps/kf2oNfg3C+6hM9GOjRRj5dvgaRyOH86Oxz3HvULufMQv4prTWXBOb+f/6PE4Ytw3TpkpnaRLDP0Jp+8PEpzcKDDZPhPJl1GxbdEda5q/O6t21r5mkCCjy9AkwIZPZvlEIswbGSrXPXXUUA+JZhkjx7iBoVqmWpwpPSn4KY8WCiWhkQpjBpt6/IG8cMa19eIeaZahjAEr5iE/hYwqHKC0fqcQMMHQ1tS+GRgWeCZs02aQvqBgY6JY7og79LEjB+7uw5TnH/sG7VqTaDlXXkoO1Y7+BaCfM=;P3VTqBLLdOvPyDXLaInQNQ=="
 ---
 

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple’s latest AI research could completely transform your iPhone"
-    excerpt: "Apple researchers have introduced new techniques to create photorealistic 3D avatars from video and enable advanced AI systems to run efficiently on devices with limited memory, such as an iPhone or iPad."
-    publishedDateTime: 2023-12-21T04:00:00Z
-    webUrl: "https://venturebeat.com/ai/apples-latest-ai-research-could-completely-transform-your-iphone/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Abstract_painting_of_the_Apple_Inc._logo_eb812d27-de0a-41d4-9c76-c7ec62ea3954-transformed-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Apple is Working on Running AI on iPhones and iPads"
     excerpt: "Both papers show that, while Apple may not have generative AI products today that are as high-profile as Microsoft’s Copilot or OpenAI’s ChatGPT, Apple still has a hand in the generative AI space. These findings could eventually be incorporated into Siri, Apple’s voice-based assistant that resides on laptops, tablets and phones."
     publishedDateTime: 2023-12-22T17:02:00Z

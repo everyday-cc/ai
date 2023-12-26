@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Paytm bets big on AI to drive efficiency, save employee costs"
-excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
-publishedDateTime: 2023-12-25T16:05:00Z
-originalUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece"
-webUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+title: "Paytm shares in red over pink slips amid AI automation"
+excerpt: "Paytm has laid off over 1000 employees from its operations, sales and engineering team after the firm implemented a slew of AI technology to improve efficiency."
+publishedDateTime: 2023-12-26T04:07:00Z
+originalUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html"
+webUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Line
-  domain: thehindubusinessline.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2018/08/paytm.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Paytm Lays Off 100s Of Employees After Induction Of AI To Cut Costs"
@@ -52,22 +58,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-106275617,width-1070,height-580,imgsize-35592,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "Paytm shares in red over pink slips amid AI automation"
-    excerpt: "Paytm has laid off over 1000 employees from its operations, sales and engineering team after the firm implemented a slew of AI technology to improve efficiency."
-    publishedDateTime: 2023-12-26T04:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/paytm.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Paytm lays off over 1000 employees as firm implements AI automation tech"
     excerpt: "The firm has been conducting layoffs based on non-performance and due to AI automation over the last one month."
@@ -147,6 +137,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Paytm bets big on AI to drive efficiency, save employee costs"
+    excerpt: "Paytm to leverage AI-powered automation to drive efficiency & eliminate repetitive tasks, resulting in slight reduction in workforce & cost savings."
+    publishedDateTime: 2023-12-25T16:05:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/paytm-bets-big-on-ai-to-drive-efficiency-save-employee-costs/article67674494.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 39
   - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
     excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
     publishedDateTime: 2023-12-25T00:00:00Z
@@ -162,6 +163,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TnuFssaDfvPae1WrtiI5fbMvwVgSTIXQJmfdLydypzkHjBaf61gydJWSM9e83q9tImGuS7y7G/Ye4Jw0sTlGlNM1rINjf0Vu20zNRByo6+OwzepwwjT7HtZzxoglau3tj17KcDulleOoOBL2oOA9Y9zkbhktuepaGPxTOP9PrS1FFZYl5ykR766t81WbzYw3e1xyBjwRPiLajIop/TnBRusU2jkW0EB/EASAwVGtQ17YpV2K2nuns0/tEE1GPAjfvAzyXvtzL78Af0Qu2BOuNY6PsB4i/GXdAicDFA5qzQ2+vVooCz0I1hMulTtmyHwxXUIJ5qYMrBIkathzM9XAl3u8nlVv7sCAnOARzSq15hGu1qhjs25adXuFBySk2eCDKyfAa5IxmkOS8d1K53JrneOSs36xYR+JtFRgCY6ktaEZ+eKpT6vtMV/D69AMjcgqR3HhjeSYfpgZG2ccOTS9a0KY8608/1Qv1/6eyevnQCI5xbtJVNNMen0Cep/bufU+TBsBrUKvYmF36xw+Yv6bNg==;hTpHDbzy3LbqBPTGQGqOHQ=="
+secured: "CN++FlypFOTmZd3slI6jhKm3MjowtU0b938HJzfAr2+enDK7qRkLkNyXOemU2VpTfIIk9QavfNzzFsT/2HV1DWEHV7+Ii0G2pOpw50Zgb4T6UkBYi+pnV9gj2eIHDrrGqlE+ObLcvI0vLS5NWgnNoYOpIms+pwklztUpG2zeJkrUG0AGHPTq0s9x1aIvBWbB07bP8wFPLZd6Uzm77zfTRZgsAtYLmH3ELlBVIk4jfjMQZpfL2WI7L1moHyHLx//4ZWWAlDavNtCgSD+TNZufiDuSReNcjo3Fk/q+WM7woW5ogw5c7gTXtBgDxIVAv94fqg5JmlMfP+L5yStbXpGrbjLUPXCPLLuUI9/xLwj6jMo=;SMk4V2k861NRqRKH3ahJ0Q=="
 ---
 

@@ -2,26 +2,26 @@
 category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
-publishedDateTime: 2023-12-25T05:46:00Z
-originalUrl: "https://www.wgauradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wgauradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wgauradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wgauradio-com.cdn.ampproject.org/c/s/www.wgauradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+publishedDateTime: 2023-12-25T04:46:00Z
+originalUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+ampWebUrl: "https://www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WGAU
-  domain: wgauradio.com
+  name: WHIO
+  domain: whio.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://www.wgauradio.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
+  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -60,6 +60,6 @@ related:
         height: 554
         isCached: true
 
-secured: "0Trvin025FecI8WAPgw8D5Eg2NZ7MTwDu7hRxaywH4SSMBi5tMhbKxT6mL6LjU9WyS+zuFK58/PZLGDEViCvrDGxOCts8NEQLBHKvBRxCsTtsLcmS+NDZrzJ1sgIon79DMcIluPtZUN3au/emMjWALQNlgmvblXbRyLzT2LSFlhWaJ141S1i9vcn2q2ITLDpwWgVe8IKMpXqBvviZDdFDywipl47xy3Hg7x6hgHc5e+Jus72FrgHJtjiPyDXluGZYSY0byPqrAXyvH1aMMg/5b51qGuUjw/oQy160RETQYVjk1M2u5jEnX9Je9rc9+XuV6m7uAQOSGO0Bt0oxYtP4H4KeO+1tcpj26WscvjXO58=;trSPgb7MxsZeye4fbPuCpA=="
+secured: "g7v1VvNpu+SBKrJP1ndpej32a8RmiHlTBtdZ8Rbquqk4x0e+qL6pq9F/gs6DDDjEqXdAt2RvuJCvPIYist17QQtpxy4yiIJiWAvj6etauBlNJHBglOgCEXdemaRgDtoZyGYbUOSZOrC1ZFasz3Hp1RnOXV8O2OR/ac/fUUhhZpQilx8YlubUMAnp1Bbc2mwL6ZeN8yc9bgx0utlQ4AWp9GRmqbCIMxYGcybxJNCTsOy9upCmqZqpMq3/VnwOVC28Lbz9Udnk9dlC+T6VwGy0TrDhGt9i2+RM8BM1cYF8hCP8/pr/g43Ze7wFYK8VwHA2P6p5Im5N5oVRJRGRQa/iUnm/0FWKZDf6ECkdc4vngEo=;RWQAhAASHBcw1Lh13UbsuQ=="
 ---
 

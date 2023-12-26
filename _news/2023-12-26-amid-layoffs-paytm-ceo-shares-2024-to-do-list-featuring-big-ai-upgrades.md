@@ -59,6 +59,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Paytm shares in red over pink slips amid AI automation"
+    excerpt: "Paytm has laid off over 1000 employees from its operations, sales and engineering team after the firm implemented a slew of AI technology to improve efficiency."
+    publishedDateTime: 2023-12-26T04:07:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/paytm-shares-in-red-over-pink-slips-amid-ai-automation-11954761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/08/paytm.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Paytm lays off over 1000 employees as firm implements AI automation tech"
     excerpt: "The firm has been conducting layoffs based on non-performance and due to AI automation over the last one month."
     publishedDateTime: 2023-12-25T05:24:00Z
@@ -147,6 +163,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZahoxQFBlRtqlLtG97XL7PaLX8bmWVaImwPqdt6lefV4v0t9LGRhd1s8C77e3+24jw5M5jCb26yomVXVgeZxI/FPUIHDGTG6DhCJgJ6vTitzj0I2z503qglGzAAQlLROGnpuu1hjcD1SkSV0srPpxRHS4cJQOI5JI9epHj/YyoUYAYNGsJ35EfZlE4iqNUfL7vhyFvJBx1C3Jy4Z0dfE1xohQnma/3bKVj5iU0Sov5I3PoBFPy/WDQHqdTDnJ8XTC2b5wvbIVGq3NXD7l0gxt+kusZTC4Qy4b6hR7BoK2tYQv98fMYHS2VbZQhPKR/5kCz/sGgIZzQGHyXoKidmPaaldCMj+LdiUQ02SCu6Aw9U=;SpwwzjGNA9C53vaoxvga8Q=="
+secured: "FY3AKbEfptfIAPANhEU8EX3XHwYBftQlyzY2kLyn9W3gknYSQhglZrnfheAvhkiH59XBYDjCcUNB5gxU/4LJTrTKjiuZfRhEFhJuXwBu9xgWnjlG/2BZXfOfk6Kov+IRM4Z/VXgQwuwWBnBjEqsOddsmYfD7gNFemcFLi53J/xqn4yaCwMsFj4RjlPzGUvoTEFYw9cupUrVa+2Ipm5TNl13omZjEzwuDwKERn1ijQDtJ43tYHBezhDw52dTetP8IR5OxfDdrnd8ajEeg9eNxOOK6n5An5y6YPTY++R4H2FhEHeHvMI56HAmFbQunFwAU+uyYIJ2Fp4B6dTGleVBIZNnWAIj/j6YeyWBvckDdksV/gALjutf/9FxqkAUIy8tf+wUbRp0WL1Z1kAqvTpVO/I5yFKj2Ip5SJ701W57ypOpGvsLXeIqJnTIbPiRhZtwfnW5ppp2d6GYf054Wxi8/W+aGnQ7A6/UqKWmLAaT9pyjSOmcul3TFDqPgPiLZBYc16gzyn6bOvGutC68KZkDigw==;ULlsESbM/P2lD8lZA49vOQ=="
 ---
 

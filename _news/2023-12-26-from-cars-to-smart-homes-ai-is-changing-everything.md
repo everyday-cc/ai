@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301
 webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 682
     isCached: true
 
-secured: "Om3dT4ElMkxvzCYfs1+1g/K0Oi0T3N8Xds41TmvnTm565fFqsY/cdrs2osneKLE+lGD/6XOEGEMcy0GiDPMEA5ZQz/BNG+JvoQaTtoUjbgH7lt0fiXJJSBMJ9NNVhw1FcVg9dKbsPMPplNixbGe3WKMndsjQQ1Or/CnlxIgRDezvRMmgG45Clu+whnlG9tg3jcGcXUPVnW8qpDQM5N9BkXkH//QdAJ/tpc1dVHeoqOKmZ3hDWeSvqIGxi4ibNuyfiRWBqFVDtivTj4pWwdozpC5ztgUwUo0Ufnid7uMbyMtRpc4ZaFnbbGmTQjN73CX9VNZZ3MuvvH5/TOozBHpc9K+quxvYrQkE5roAvDEAjvQ=;0zkL3bhnI+sKMSwoGucb8A=="
+related:
+  - title: "How Artificial Intelligence Is Snatching Away Our Jobs"
+    excerpt: "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs."
+    publishedDateTime: 2023-12-26T03:31:00Z
+    webUrl: "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 61
+    images:
+      - url: "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "yUvbcNNWFs5pIFY7T1EWZmER+xv28mcoLmie2vdyGkDMQPKXxlSWeZi5AWj3qH9CZeiZxci55MFaJJBvNTj+OjHlHzfhXmGpnqxPL5dT5SftFw1T9qii3YPdRkn9hTYBmhfE58SSmf90ehn+o0FOIaVDZVGzCRIA1/J64SfMrcuGbxgTPyjKXWgafcf/0vnsM4sDU5DFTm7lfIGjngWaywOdmdBNeLomGjuJuUQtvwryyf9zaRYJ/5/0/a95SzXRRvxpnTMp+QoB7S3yeR5I/Fuou6RlW7naTHHp8vy+A/HlUgEW/k5+NxoGSy05WxSQlwM5B8vZhckIeCWshMA7ro/kpYjS73s+j/GM1vl+xt14CPAd/pwG/xt3xt5ZtQOg/Et8cRS+9YBEgpexsgGkz0/w6g6SDsbYBsFipIgmjRjaNqu6hlhSN35PzWuWKEMGeFckUU1vZQJd5rF83Y0YAZWnj6SDb3apU9zDKkTqinB+DLheMB7qayhP2Pws/BNDwxujZClcsi2UC70x1uC5Rg==;tNpA2qWx8Ahwgb01tCyUBw=="
 ---
 
