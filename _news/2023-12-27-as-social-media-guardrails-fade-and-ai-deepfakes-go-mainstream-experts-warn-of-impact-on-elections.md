@@ -2,11 +2,11 @@
 category: news
 title: "As social media guardrails fade and AI deepfakes go mainstream, experts warn of impact on elections"
 excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest"
-publishedDateTime: 2023-12-26T16:45:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
-webUrl: "https://abcnews.go.com/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+publishedDateTime: 2023-12-26T17:34:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
+webUrl: "https://abcnews.go.com/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
 type: article
 quality: 43
 heat: -1
@@ -51,7 +51,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Experts warn of the impact of artificial intelligence on elections"
+    excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest. The safeguards that attempted to counter the bogus claims the last time are"
+    publishedDateTime: 2023-12-26T23:58:00Z
+    webUrl: "https://www.columbiamissourian.com/news/nation_world/experts-warn-of-the-impact-of-artificial-intelligence-on-elections/article_cd77d141-a78a-59ec-8c2e-7fc3a2ad559f.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/1/af/1af13c96-06dc-53ac-9e5d-3ef8dbe7ba64/658b765b6bd9f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "zyW5HgBQc1NjQ0jUtr3lVh6YzMjwLpXoVI52QPwy/Xpvn45RGko0OWCC0d/Q0HT5amhgUXuj4q6MarwUL62RnlN4F1JWSnL2pmAMHWri9xhqjwaSoK+cWYbK2qOQz+RO7D+mhmF1xiNveM35UasXq8WcR/Z06BVvTpHkwvXXqR68MsZR9E8Ef9HnSkVuCTmroXU2KtDB9+YaST/g9uKrlBlj1HvCRkNBlJ6fzZ68klOnY+5eybIzx+Tuuax+P5pfE0m9QY8wyYgcG0xKQN0ZkM2NjKXpa0v5TMZesmImUtQ2UcKSOLQxrIYadK23VTlfeGYw+tLmniIsEhZLyu9Y78k5G2J4XtgIUa+IdwR8IhK1B7SoNqgNPW5If3v5GxERh962jVOxL9GdKt+nctIWrnwWTipQdpLEY62Mrb3IDeIyqN0v0eRNprWRp759nc7sxeYIU2uFy+BiaHyqXhNPqGAZbIqGOGZs0fF442nJAsI4bWyFpfKbxZ/BC2Rilvjxox64Sk8QvObcdowPo5Bkow==;3eQeqS4p+w+Kw6rq64gdjA=="
+secured: "hfZFmiGe9XTogY0smJ2LkjOQbScYPukiOZ7vJwybPx6uByd0qDCOYmv1WgaLI15MKl8J7h9YcqiX+jL+8XRgP/iN+WKCyDuoCRuvOcm/kygonoFRmWMdj7foo1zx9jPqyJ4IITMZlstO0/7nTXbLAUmSKDHUSkkGLexc0+deRtGf9KNeR4vPPhoLYjBMcj5JM9NvXQUlAaFpFclErswqSj5xeeoS2jYYsDOkQdlpF4xrYwGPuHVTbICxxcIKB+PY0oCjy9tcXRd2iZZsE4AlOqSRe+4lVUbmKBc30ty7B4bkn2rwL+q8iL5P6QU5okg9fqzRERQ9z6vw88yxPG9E/yX9dgQyaCSUe22QQOVzxfU=;KkD1joXeepbb8tzRoAJoFw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: InfoWorld
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Maximize The Power Of Generative AI In Sales And Marketing"
-    excerpt: "Generative AI has become a must-have tool for businesses, and its outputs can create real efficiency in countless ways. However, the outputs depend on the information that goes into it—whether that's the prompts it's given or the data it's trained on."
-    publishedDateTime: 2023-12-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/how-to-maximize-the-power-of-generative-ai-in-sales-and-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65847e661d555578eb9149d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 835
-        isCached: true
-  - title: "Artificial Intelligence And The Future Of Content Marketing"
-    excerpt: "Artificial intelligence, often simply known as AI, has been a hot topic across many industries, from healthcare to transportation. Yet its influence on content marketing has been nothing short of revolutionary. Remember the days when articles were general ..."
-    publishedDateTime: 2023-12-22T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/artificial-intelligence-and-the-future-of-content-marketing/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/632dbc560496916bbddd5385/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "How Generative AI Will Change All Of Our Jobs In 2024"
     excerpt: "As we step into 2024, the landscape of work is undergoing a transformation unlike any before, primarily driven by the advancements in Generative Artificial Intelligence."
     publishedDateTime: 2023-12-27T07:48:00Z
@@ -88,22 +56,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 79
-  - title: "5 stages of AI maturity in marketing: A blueprint for the marketing revolution"
-    excerpt: "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper"
-    publishedDateTime: 2023-12-26T05:35:00Z
-    webUrl: "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 72
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Dec/img_225345_aiandmarketing_bg.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
     excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
     publishedDateTime: 2023-12-23T19:16:00Z
@@ -134,15 +86,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
-    excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
-    publishedDateTime: 2023-12-22T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/why-generative-ai-is-a-cio-nightmare-and-how-to-fix-that/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Risks of unleashing generative AI on company data"
     excerpt: "Ken D. Kumayama and Pramode Chiruvolu of Skadden, Arps, Slate, Meagher & Flom LLP discuss risks that can arise when companies train or prompt GenAI models with data, including infringement of intellectual property rights and disclosure of confidential information."
     publishedDateTime: 2023-12-22T13:13:00Z
@@ -152,6 +95,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Will 2024 be the year of chief AI officer?"
+    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
+    publishedDateTime: 2023-12-23T11:22:00Z
+    webUrl: "https://invezz.com/news/2023/12/23/will-2024-be-the-year-of-chief-ai-officer/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 39
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2023/11/possessed-photography-jibmsms4-ka-unsplash-1-1024x737.jpg"
+        width: 1024
+        height: 737
+        isCached: true
+  - title: "Using generative artificial intelligence as a financial tool"
+    excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
+    publishedDateTime: 2023-12-26T13:00:00Z
+    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How This Startup is Making You Eat Healthy with Generative AI"
     excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
     publishedDateTime: 2023-12-27T09:39:00Z
@@ -166,29 +137,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Using generative artificial intelligence as a financial tool"
-    excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
-    publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+  - title: "You Can Run a Generative AI Locally on Your Computer"
+    excerpt: "To get started, you’ll need a program to run the AI, and you’ll need a Large Language Model (or LLM) to generate the responses. These LLMs underpin AI text generators. GPT-4 is the latest one powering ChatGPT, and Google has now pushed out Gemini as a new and improved LLM to run behind Google Bard."
+    publishedDateTime: 2023-12-26T04:50:00Z
+    webUrl: "https://www.lifehacker.com.au/2023/12/you-can-run-a-generative-ai-locally-on-your-computer/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Lifehacker Australia
+      domain: lifehacker.com.au
     quality: 37
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
-        width: 1200
-        height: 675
+      - url: "https://www.lifehacker.com.au/wp-content/uploads/2023/12/General-2023-12-21T115044.725.jpg?quality=75"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence Has Entered the Resale Market"
-    excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
-    publishedDateTime: 2023-12-25T14:00:00Z
-    webUrl: "https://www.aol.com/artificial-intelligence-entered-resale-market-140000797.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "pCyQaCvQzk9ayQOm8LVmihzNDWAys6BrKsf+dyhB15PUEDmlHRLOqbQrNd4nbl3oD1suJWEZD+bNoJd2kIJAlDCiA4VYS3o7USp/ieza6kVNRkDmvUJkJbCEexD0bPXrhvrMz14Z9akjXkOhQ+JpTvbe+Iok3KlDdzLbxi3AdQ96JgBtVw2AgljHe2VkvCRu+LuT7BKY922qW4TSkLFyhAHxLwMeKeXCAwsuMkM5W2nEb9W7AvTZDzERxiJK2AMeCBKatLKnRVlvdRgcXWam1BpnuBGHkKQ8A0iYEhamNlqnzvxMlVk8iiyVSbEu6l3sqSrDxlOi/oGUFYKMWcQ1IENNGgTUsiFUABtnDORXCpLvH8FRXJxEMsOnrWNUgdrBLLhQmzwO/VRmb2sFWNQ6ajlf1jSboK8hxsNjF7QcPmVfSgTtjd1gMccUGAGR8TBRNn51EfLKaDbezg+eyai0/lE4+LZscsmJNDxKECrnEZZLZNEozYCoOjtcOsBEarnZ4RfwA61oK711CPPI5zm8Fg==;q+VxxTNKJPcYcZNRBjDMlg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-wi
 cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Windows Latest
@@ -28,20 +28,40 @@ images:
     isCached: true
 
 related:
-  - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
-    excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
-    publishedDateTime: 2023-12-26T18:30:00Z
-    webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
+  - title: "Microsoft announces availability of new vision, search Cognitive Services"
+    excerpt: "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging."
+    publishedDateTime: 2023-12-23T19:24:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
     type: article
     provider:
-      name: financial-world
-      domain: financial-world.org
-    quality: 50
+      name: Neowin
+      domain: neowin.net
+    quality: 118
     images:
-      - url: "https://www.financial-world.org/world/media/image23752.jpg"
-        width: 1920
-        height: 1192
+      - url: "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg"
+        width: 760
+        height: 428
         isCached: true
+  - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
+    excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
+    publishedDateTime: 2023-12-26T14:48:00Z
+    webUrl: "https://9to5google.com/2023/12/26/microsoft-copilot-andorid-app/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 33
+  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
+    excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
+    publishedDateTime: 2023-12-23T18:02:00Z
+    webUrl: "https://www.afp.com/pt/news/1313/ltimindtree-collaborates-microsoft-deliver-ai-powered-employee-engagement-applications-202312189544151"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 22
 
 secured: "HozF6IMNAo/E9A+RxvfkUOsOZZJaoDMnrOokqakQa+bmiR4h+I0EBHf5LZXTfwa6zkVXEPkc1Gc4JvAHeLqsrrEAKdAFNjpvFUdK09sLqtrPJMeyz6KsajIXPxlGBKxsF6JS/1dHy2XX4gwdKoJIzWvJLrEXwywp8ZuC89PxSsG6TDZJErCnXGxx7URaQq0mJOHp5U5qxOuKVcFs4AktP2mp84E7FiO6m9j1su0tfaXPy0EdtDu+v7vUvwAZszYWgH4L6O/J3QjBf3y05Cc9G1JXzC/ZXBA9B5OZm984OgsnEW39VWu6XWjR3gNOhDsqXVeUxoW7mRZrn1/BOpLe0IY5eVyjCMsZ4MssMROWv/qOuBr2LC+FnFOkZEcFv0ILBOSOdt8MvVABILv69HB2YmznAPqenrqKfkjzaa9H6Sebgd3Ko9q96ceoYTG+F51nzMy+iHyv5P868Fycdt4ICJlHSSyh/P4obRLXA1EjnilllVXSBSdRZEkHztTqf70ZjFRth0wvo+8DTceyehVRBw==;UUnRZQWTAL1sr4IkqrTq+A=="
 ---

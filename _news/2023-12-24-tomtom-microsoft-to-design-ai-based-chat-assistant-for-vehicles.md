@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies"
-    excerpt: "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ..."
-    publishedDateTime: 2023-12-22T11:39:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 126
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg"
-        width: 760
-        height: 505
-        isCached: true
-  - title: "Microsoft announces availability of new vision, search Cognitive Services"
-    excerpt: "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging."
-    publishedDateTime: 2023-12-23T19:24:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 118
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
     excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
     publishedDateTime: 2023-12-25T05:12:00Z
@@ -73,29 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
-    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
-    publishedDateTime: 2023-12-24T11:53:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
-    excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
-    publishedDateTime: 2023-12-26T14:48:00Z
-    webUrl: "https://9to5google.com/2023/12/26/microsoft-copilot-andorid-app/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 33
 
 secured: "rnG2HPL5ctFlr/1ZiyQ8AeJ5Ev5uN3W/JBftqD9mWL0TM+ho8A7dAFjRy+W8vHBIhjNwVuF0E/YQ4T7tBWO9gth3aWKgyuGP61mobXtm3jc/87fHFIQmiTNjVrYgv56gxBQClZ/9AF0tuYL8sFfeRxJ4jpIlOJgD7kqzq65SLfPpDH6flAMa7iQ88+7aK5BszOp35nWwjbrH91BxweJNIbA9Pdr22AnsA62QHhvdlP4+NNe0XgMMu87s3uRDHE4gjNW9gPL51B/SxZ3W1oR2gU+PFwt/CAlGeEVKBzIHI8om49vC1j+nBD0sVEMkArLxIS9hR7KSZafNgVRn9iXcd7CpCnU66i6WYbdWt8383tRY0jh3s3vwPVPx0OEdetaHimXpy1edKeOCLtuU22b98PHaReUwEvPygIoA+UwcS3Ktf1wyVTtnmzEqhxyGAatu5EW1PGUOqkOwKVPqm6GgXU1Y/W6P2oD0EsULitH2lpz97Xit5SJCj71haS5FBzG3qRenkqOAtd6yntUW2KNvkg==;5La7oXI3z2KQmtKsnGNfqA=="
 ---

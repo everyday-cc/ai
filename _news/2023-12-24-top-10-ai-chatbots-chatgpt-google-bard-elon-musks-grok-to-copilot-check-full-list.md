@@ -28,33 +28,67 @@ images:
     isCached: true
 
 related:
-  - title: "How Strangers Got My Email Address From ChatGPT"
-    excerpt: "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees."
-    publishedDateTime: 2023-12-22T21:07:00Z
-    webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
+  - title: "The Evolution Of AI Chatbots For Finance And Accounting"
+    excerpt: "The digital transformation of the accounting and finance department that has occurred over the last three decades is merely the beginning. There are at least three key areas where digitization has and will have the greatest impact: democratization of data, and automation of manual and machine learning."
+    publishedDateTime: 2023-12-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://static01.nyt.com/images/2023/12/20/multimedia/openai-chatgpt-exploit-promo-image/openai-chatgpt-exploit-promo-image-facebookJumbo.png"
-        width: 1050
-        height: 550
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "How Strangers Got My Email Address From ChatGPT’s Model"
-    excerpt: "Researchers at Indiana University used ChatGPT to extract contact information for more than 30 New York Times employees."
-    publishedDateTime: 2023-12-22T16:07:00Z
-    webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
+  - title: "The Adoption Of AI And Its Effects On Businesses"
+    excerpt: "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau"
+    publishedDateTime: 2023-12-22T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static01.nyt.com/images/2023/12/20/multimedia/openai-chatgpt-exploit-promo-image/openai-chatgpt-exploit-promo-image-facebookJumbo.png"
-        width: 1050
-        height: 550
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "The Benefits And Risks Of AI In Financial Services"
+    excerpt: "The financial services industry finds itself undergoing a transformation driven by the rapid evolution of technology, with AI spearheading this revolution."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "ChatGPT vs Google Bard: which AI chatbot will win in 2024?"
+    excerpt: "ChatGPT opened its doors to the web in November 2022, while Google Bard didn't appear until March 2023. Though Google has long been pushing AI across its products, as far as generative AI is concerned, it feels as though it's been playing catch up."
+    publishedDateTime: 2023-12-27T12:00:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/chatgpt-vs-google-bard"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PxiqZZv6FaHvdJQDg6c5Gm-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
     excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
@@ -88,19 +122,74 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "ChatGPT vs. Google Bard: Which had better stock predictions in 2023"
-    excerpt: "With the New Year coming in just a few days, it is time to assess just how accurate the two platforms have been in their predictions."
-    publishedDateTime: 2023-12-26T09:15:00Z
-    webUrl: "https://finbold.com/chatgpt-vs-google-bard-which-had-better-stock-predictions-in-2023/"
+  - title: "AI starts a music-making revolution and plenty of noise about ethics and royalties"
+    excerpt: "Artificial intelligence has seismic implications for music-making and record labels, posing existential questions about the meaning of creativity and whether machines are enhancing human inspiration or replacing it."
+    publishedDateTime: 2023-12-26T18:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/26/ai-starts-music-making-revolution-and-plenty-of-no/"
     type: article
     provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 41
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
     images:
-      - url: "https://finbold.com/app/uploads/2023/12/ChatGPT-vs-Google-Bard-Which-had-better-stock-predictions-in-2023.jpg"
-        width: 1000
-        height: 665
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/26/Music-New_Beatles_64952--96593_c0-71-2596-1585_s1200x700.jpg?5674c673ce2812393b8fd82e78bcf9b3144e1c29"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
+    excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
+    publishedDateTime: 2023-12-25T04:59:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-what-were-the-notable-advancements-and-challenges-in-the-intersection-of-ai-and-fintech-in-2023-3346164/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 47
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
+    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
+    publishedDateTime: 2023-12-23T08:01:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
+        width: 960
+        height: 1280
+        isCached: true
+  - title: "Elon Musk said one of his goals for Grok is to make it the 'funniest' AI chatbot around"
+    excerpt: "AI chatbot Grok was released in November 2023 and has a \"fun mode\" enabling it to respond with more vulgar language, humor, and sarcasm."
+    publishedDateTime: 2023-12-22T13:13:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
+    excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
+    publishedDateTime: 2023-12-24T12:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/12/24/google-expands-its-rollout-of-gemini-upgrade-to-ai-chatbot-bard"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/25/2456674.jpeg"
+        width: 1240
+        height: 879
         isCached: true
 
 secured: "Ju9MRQE8+VIrF0YzJechRbEjO05ql8COJQy45pXNgfH7vHpm/V3IPl0Tjw8oNNYj/l8ARPAfMo7b1QYRSFl0aZ5RxxqeOHssoUvrLDMLUcXfPQKYxHcuNiCuQ5agr2GuSo7zgAcIQprTpyHwPgHaNd1fqB/k9jwVrmuB6IHrRd7Ou7tlfsylxKwuFJw/ZS1Kle20OgFjPo5JMauWQNuCXoUZNqpXE/wEMCqMwk6Sy3+Lf+bVZgd0cg59qApYIMjbWAydfh2WhPn66nrXE6rN0bntygaIVYAiqI4Q9A2kzeQT+oKYsKlm/vuzaQcqvqcRp3yfaQ4TMX05bitudtF3hyPuOH1Rh7ZksCDofskNV0GTCoVgo0aU1WsXZsOEmMy98oQ4iUqNq/ZZItZXTlVE66NIRhpwEoAmFvMfENqnNg2vN0tZWL2ztOmJQiHDgplSjq3ZEJlZuxdSd5hIRy5VivoB3v9qSbYmnpSASfjznT0ZLRyVAj54oJOB3tU36hKSo3n4iBI/s8BD0x99DpFcRg==;598knfCwCeaZH/glgNj4cw=="

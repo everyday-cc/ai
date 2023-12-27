@@ -25,77 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies"
-    excerpt: "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ..."
-    publishedDateTime: 2023-12-22T11:39:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
+  - title: "AI is helping the healthcare industry and could transform the way patients get drugs and treatments"
+    excerpt: "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ..."
+    publishedDateTime: 2023-12-22T20:27:00Z
+    webUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 126
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg"
-        width: 760
-        height: 505
+      - url: "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft announces availability of new vision, search Cognitive Services"
-    excerpt: "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging."
-    publishedDateTime: 2023-12-23T19:24:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+  - title: "4 ways robotics, AI will transform industry in 2024"
+    excerpt: "How will robotics and AI impact industry in 2024? Anders Billesø Beck, VP of Innovation and Strategy at Universal Robots, weighs in."
+    publishedDateTime: 2023-12-23T14:30:00Z
+    webUrl: "https://www.therobotreport.com/4-ways-robotics-ai-will-transform-industry-in-2024/"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 118
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 79
+  - title: "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News"
+    excerpt: "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,"
+    publishedDateTime: 2023-12-26T09:49:00Z
+    webUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 74
     images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg"
-        width: 760
-        height: 428
+      - url: "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png"
+        width: 800
+        height: 533
         isCached: true
-  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
-    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
-    publishedDateTime: 2023-12-25T05:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+  - title: "Your Next Surgeon Might Be a Machine: How AI is Transforming Healthcare"
+    excerpt: "Robots in surgery? AI predicting diseases? It's not sci-fi anymore! This blog dives into the fascinating world of Artificial Intelligence in medicine, exploring how it's changing diagnosis, treatment,"
+    publishedDateTime: 2023-12-27T00:18:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 65
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
     images:
-      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2023_16_35_38_471739.png?width=1280"
         width: 1280
         height: 720
         isCached: true
-  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
-    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
-    publishedDateTime: 2023-12-24T07:08:00Z
-    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
-    excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
-    publishedDateTime: 2023-12-26T14:48:00Z
-    webUrl: "https://9to5google.com/2023/12/26/microsoft-copilot-andorid-app/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 33
 
 secured: "fbFuJ2rYest8TZDijGZH81W1qamBG62+b0YXHEI9xFbowpjmlZg7X0Zi5/9S8X9pM3QX/HFiKl+FUZobgUKp2RD1e6IOQIduWXmn3SVhxRDsyxPdrltOJUXzjZpMFE//8b3uM04SW0PC8+RIJjBzb0pD28a4pTS6D4In8i3QRf685LZ8LMTIF2GzD8XBDiTXXWC2YLah6+aqyxpGP+YsawvEg7qvKxCaidlx5TS142SjqUy+S4pt3JKNY0fvk3yBtSzIahp86kndT0uRe+AAmPq5tR7oiETCPi8OxPubaJJri2+x+5U68z44pMO9pJXfsi+XEt7jGuOzEwqKNd6D/rFkpu0i8pbwFqxlIOngEhjRudrLx/1viPgGiQa63KjEt41VYSTgvV3P7u9MurMGVuyuojAwhbJjv/GTgeiYqoRddojbcDbGqNO1fkeEJxLCX6qzmT831uOGeFZcku1PalZ4Bfa9TTdXBrT7Od26b/qDaGOisM7PK5PO3hXaKSKEpooNUPf55+pYga4edPrtzw==;FSlK7C6iTRbLUwB/qksp1A=="
 ---

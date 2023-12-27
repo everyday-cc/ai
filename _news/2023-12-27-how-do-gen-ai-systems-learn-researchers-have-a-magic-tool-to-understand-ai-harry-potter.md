@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Harvard researchers explore how to use generative AI for student feedback"
+    excerpt: "The research team found that while there were limitations to the technology, generative AI has the potential to help teachers provide meaningful feedback in less time."
+    publishedDateTime: 2023-12-27T11:40:00Z
+    webUrl: "https://www.wbur.org/news/2023/12/27/boston-harvard-artificial-intelligence-students-study"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 38
+    images:
+      - url: "https://wordpress.wbur.org/wp-content/uploads/2023/12/ai-chatbot-copy-1000x656.jpg"
+        width: 1000
+        height: 656
+        isCached: true
+
 secured: "+HW0O+olkrBJJrfx2mAmKc2/VE5dtwhyiwiRGH3G7WVzDRTAWbUCmWX4sr7F/a44I/pQxaTf9jeSJucf4h8CAWJfusjkGxl/0RSs1NbTFK+72YYNF2frDcsrhwO5bWhDA2Nyfl++71tdJDfq+u2at1k0mzbknvo5r18boRc+a0AivtPETJf+c8hJvLSbKjjOdsMGRXJoSzmyHDx9vhknmqUHSPWuD+78/P8ZSlpzRpUaXD6NT/2XjZDef+bNAIS2+J4XdruzmQlRxh3d9uDutECAe6C8e5KzsUbbMsQodoMaEzojiwa1dkE7zDE/4imZTpf18N4DwvE/Kv2NSiSbR+mOjiuLxsLvAXw5KSAi5+M=;MCEPrR0BZ95pGN+r3nKelw=="
 ---
 

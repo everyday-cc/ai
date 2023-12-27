@@ -7,7 +7,7 @@ originalUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-a
 webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1192
     isCached: true
-
-related:
-  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
-    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
-    publishedDateTime: 2023-12-23T15:16:00Z
-    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 74
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Zz0BgJX4JUVUT157mi+JZ/NpkvStNGVuliQwUI2cABl93m6G1KxmgaVAC3VRGOpwV0+Qpza7dHopjCzL/1VgS3kfq3zVMUoxiQCX2DZsygC4FnDWmZMMyVO4D72AGa4YRTymOAyvSt+D/P8rtOLnGxFJk8RuLpLjlaIHIa5Ukgld4L/HYCt/78tiP238UbxirBISnTBywm3ZUHPLRvOwwrsi6nsmlszeYBRbcnGjqe++kZFPyNqOBGW4OS0ENk3DZMvVWOg35vA4CWHtqCsozMZMV3VqqVrm326tLR+OdpEfyeXD/a+SHiywtWtEBRF0dTTBONmvLX+hXjB1KQpcyvH/F0BFcMdPBTgYTPN50T4=;tfm8o4W0TQsRpb7zNf5QvA=="
 ---

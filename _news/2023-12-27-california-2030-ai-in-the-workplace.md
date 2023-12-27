@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/sacramento/video/california-2030-ai-in-the
 webUrl: "https://www.cbsnews.com/sacramento/video/california-2030-ai-in-the-workplace/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
-    excerpt: "TRUCKEE, Calif. -- There was some llama drama in the Sierra Nevada on Friday. The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet ..."
-    publishedDateTime: 2023-12-22T13:00:00Z
-    webUrl: "https://abc7.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    ampWebUrl: "https://abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 41
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "MIjGMQWdmJq5TmMKM1/pXfniAdbAyTbqOmRlue1KqXVzC4+47GKytJ3KKL7Y6rQfSKU9pbb1opjZgmZ+N+qMA35eaWpk2kP+OtSUslsLAfykHYDOmfPyh53Gglz56RSkdmxq/sjOosxxgwpvtmoObFnh6CxvWHv1VI2qJlFPLfWm1V3cndHn+Q6kz/a1UZdENR0TDos51stxq5k5m6RZSVtSv18EMPfuk3Fqx8Ik+A9cYXqEZJfTVx7CgdOazZoVQM8/uS0W9HSCsBKwBv5GMFgb3ILLYlB+oFoDuJ9YVLfkcBwbcwzW5jL38dJzQ0xKK1g2MUrTqA1oHUhbybtogPNV/VHaUVDPMCIeaDEVd0HutzrRw0x7/mdEwnDfxaBlNmuWGVkifYsesllzjDMG7pwq7/QyA5D3YXl7SNtcyjDvgoHEtqH5uzphkuFYq2Ikd9KDf1wJqh81rQTJ0asONrjWjknGJcqP+wrRRkEEiARicwvhgVtmlx6MwwUK7Y878qukfK/8uiRId1C14ZJK9w==;tmQppcugzXPdNH/JF2Ldrw=="
 ---

@@ -33,22 +33,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "New Research Paper Shows How Apple Could Bring On-Device AI To Older iPhones"
-    excerpt: "Apple's new research hints at a breakthrough for running AI models on iPhones with limited RAM, while boosting processing speeds, too."
-    publishedDateTime: 2023-12-22T11:19:00Z
-    webUrl: "https://www.benzinga.com/news/23/12/36359722/new-research-paper-shows-how-apple-could-bring-on-device-ai-to-older-iphones"
-    ampWebUrl: "https://www.benzinga.com/amp/content/36359722"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36359722"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/iPhone-Photo-by-Attila-Fodemesi-on-Shutt.jpeg?width=1200&height=800&fit=crop"
-        width: 771
-        height: 514
-        isCached: true
   - title: "Apple research makes headway on using artificial intelligence on iPhones"
     excerpt: "Apple Inc. (Nasdaq: AAPL) has made huge strides with its artificial intelligence research, according to two recently released papers that would take the AI out of the cloud and put it right into your mobile devices. In November, Apple scientists released a ..."
     publishedDateTime: 2023-12-22T16:03:00Z

@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Awiros and Intel Make History with India’s Largest Computer Vision Hackathon"
-excerpt: "Awiros, a leading AI startup, marked a historic milestone by concluding India’s largest Computer Vision Hackathon in collaboration with Intel. This groundbreaking hackathon unfolded over three months,"
-publishedDateTime: 2023-12-27T10:32:00Z
-originalUrl: "https://theprint.in/ani-press-releases/awiros-and-intel-make-history-with-indias-largest-computer-vision-hackathon/1902105/"
-webUrl: "https://theprint.in/ani-press-releases/awiros-and-intel-make-history-with-indias-largest-computer-vision-hackathon/1902105/"
-ampWebUrl: "https://theprint.in/ani-press-releases/awiros-and-intel-make-history-with-indias-largest-computer-vision-hackathon/1902105/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/awiros-and-intel-make-history-with-indias-largest-computer-vision-hackathon/1902105/?amp"
+title: "Awiros and Intel Make History with India's Largest Computer Vision Hackathon"
+excerpt: "Awiros, a leading AI startup, marked a historic milestone by concluding India's largest Computer Vision Hackathon in collaboration with Intel. This groundbreaking hackathon unfolded over three months,"
+publishedDateTime: 2023-12-27T11:35:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/awiros-and-intel-make-history-with-india-s-largest-computer-vision-hackathon-123122700700_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/awiros-and-intel-make-history-with-india-s-largest-computer-vision-hackathon-123122700700_1.html"
+ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/awiros-and-intel-make-history-with-india-s-largest-computer-vision-hackathon-123122700700_1.html"
+cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/awiros-and-intel-make-history-with-india-s-largest-computer-vision-hackathon-123122700700_1.html"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ANI-20231227095132.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "njyPP9BQbHUR9kHsXDkLFwUsl+u5OtaUBdDE7Rfu6LwTfo6LyDtJb87B0drSGXrMTLUNfkLTPV7Y2hk9Bl6cb5wJboMqG1oX1orkhkHO/OEgae1bFIfaHM0gcJqiDOqqo+i3UYCbhybraPfflsggO4Bz7XDuVxGvE1/MqpWo1mYjeWFNJ0Hlfu2EFO6q3RhFXyu0ZdkKkW43BXi7LuHcdZ2tYyOf/qDMMhE32AhDFFFpWroL+k4IChH7pWW/lPI5wPF2iQZaDxDh6OGMlXMjx0aFBVcLUl0AbpixEMtZR+bU0sf61RwLNX9XTihYi0QlH7btOYZthY4A4Y7YvYotdzupbp6PQIEp4eMy93g3EbI=;8nNlIi08AgWAwsdTHGBjvg=="
+secured: "+C+U6VtO5+vOfvkgfS6KKNK8Q/C8FjujuwzYmT77ccSX98NxRfEXJhWkgJN8hitNgCnvSL1L2tBhsItfIgg0D6Bc3Zj9Ee4V1nY7MYSfnlWOYtGfyYQQ+RzncQXZtzGkHXcy5x/Vu7uCufid3/jwC64O1CF50lU0kt/gN1ld4NtUu14fuXIAtP3FjH0SVWFj+pM1NdccfZSpPB9nooTnxPbYkI3xMwIlz2ueH6+fDK7Sn7HfsoJ1qU234b5o1OjLMav2GhlQchXdEpy7couJN4EUi+EoACt1AEcF1jST44DTg9vsZOxqxXFPybYSK0H00f1P1HyCWJESlQEBnNrAEgnxbx341at6/i2WEN/sAjEC+D8Zin917Cql6bjXT9F2n/L1s8cdI1gTTYfUpSzGIxz0AZ6uQwWon1vK45qww/YNjhG7voVZynNr5u57j97lnGNZx8kAh4uY0viJw/IUAwP2hjAy8IIpBTr0r+gvi/whBprUamLK2rB/2XkEZ/zqjYBsg1Qq255nAX1z74Q87w==;n67AvpgVCwOUM8IhTcMdCQ=="
 ---
 

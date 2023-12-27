@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026"
+    excerpt: "Cars with full self-driving technology are not currently permitted on Britain’s roads but the government’s Automated Vehicles (AV) legislation is going through parliament, meaning that a legal framework for them should be in place by the end of 2024, said Harper."
+    publishedDateTime: 2023-12-27T10:19:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/12/27/self-driving-cars-could-be-on-uk-roads-by-2026/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "c48/2AQ44OexEVzKUCAM+poqvJDukGrVK+1260DQouob/rdjoEoUMgOlnGJf2UX4gwtsBR+R6kKkiUdNF6URqzPnHqCgroapXPhd5nZDyo+YSuE/TSfEky6bJdVynsy/8ARSVUnYQaBOOL4KK9NApkJHDtCKv2zDSZg2ovZ59dP+jfNq3ioOmtu6v8EvypIiaGrWiQWH2LG/4ElF/hQdI4d4e+7njC8YbggM+889vSWVuHjUjd1EpXB1vHFXtlLOITV8kGIJGq54D21LmjrdeiYutN1NTxFKxSAccnRKU0VOJa2t/K4B+vJZ4rcNGbAkIFG/VJLNnvAJDsFySOq9TvXZKrYvc3Rdy0wJDimsPCk=;eghrRkcYIe9LOCJf11+w5Q=="
 ---

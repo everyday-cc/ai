@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Coscientist uses artificial intelligence to enhance chemistry research"
-    excerpt: "Artificial intelligence can now run science experiments with a few simple prompts from researchers, saving them time and speeding the pace of discovery."
-    publishedDateTime: 2023-12-22T11:30:00Z
-    webUrl: "https://www.bradfordera.com/news/coscientist-uses-artificial-intelligence-to-enhance-chemistry-research/article_50242b5a-a043-11ee-93c6-db0f404f2651.html"
-    type: article
-    provider:
-      name: Bradford Era
-      domain: bradfordera.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/custom/image/b5c99bf4-6fa2-11e6-aeaa-e319e980b767.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "afy+u33GEqUmJhuuoTL2GAZBP7pDRtpEYMYn8Odezy5+PK8K0FSNuCRKmO0/vo939grFmtoKvPIaGXLgvY2uu1QU6ybPFbMeuzui0T3MWZU3miwked5CecGOJIqpj34ZzQW++LdYiC1SKUfoihU9o90Mdkn+/NvwwKCt9xTKGRaP2xCCXQYXb6gfiBP2HV/J9Ja+7IKJTFoTYQt8Lp2EqmmW4Krid0ZC6DJlQMMzbXSKCCAOr5bMXlUv8AUtX1Y9kvwcp8fw70tHV32dO6c+eXKA5Y/Nva+T9ObrRBV+HWkLp2OatQdFeWXU7E3TeOF7P651zY8yv8pw176/RC5DC58LJrZxpYWsf21qkfVwmGQ=;7xQisW4kYRZSUnwYZnNiog=="
 ---
 

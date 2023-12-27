@@ -27,21 +27,129 @@ images:
     isCached: true
 
 related:
-  - title: "The Prospects Of Fintech Startups In Emerging Economies"
-    excerpt: "Fintech companies can implement solutions like two-factor authentication, data encryption, biometric identification, real-time alerts, AI-driven security analytics and network data routing to fortify security. Digital identities, an essential component of ..."
-    publishedDateTime: 2023-12-22T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/22/the-prospects-of-fintech-startups-in-emerging-economies/amp/"
+  - title: "The Evolution Of AI Chatbots For Finance And Accounting"
+    excerpt: "The digital transformation of the accounting and finance department that has occurred over the last three decades is merely the beginning. There are at least three key areas where digitization has and will have the greatest impact: democratization of data, and automation of manual and machine learning."
+    publishedDateTime: 2023-12-27T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6584582f009220b5cf280d5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63690fe14a7cd7210342ae53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "The Adoption Of AI And Its Effects On Businesses"
+    excerpt: "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau"
+    publishedDateTime: 2023-12-22T18:34:00Z
+    webUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/"
+    ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "The Benefits And Risks Of AI In Financial Services"
+    excerpt: "The financial services industry finds itself undergoing a transformation driven by the rapid evolution of technology, with AI spearheading this revolution."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/26/the-benefits-and-risks-of-ai-in-financial-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "ChatGPT vs Google Bard: which AI chatbot will win in 2024?"
+    excerpt: "ChatGPT opened its doors to the web in November 2022, while Google Bard didn't appear until March 2023. Though Google has long been pushing AI across its products, as far as generative AI is concerned, it feels as though it's been playing catch up."
+    publishedDateTime: 2023-12-27T12:00:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/chatgpt-vs-google-bard"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 86
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PxiqZZv6FaHvdJQDg6c5Gm-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
+    excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
+    publishedDateTime: 2023-12-26T09:21:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/438798fc1a6366e98515aeda08b6ca4c79e98986/0_263_7894_4737/master/7894.jpg?width=620&quality=85&auto=format&fit=max&s=aa594f5389e65b0afb81c29f3c9082a7"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
+    excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
+    publishedDateTime: 2023-12-26T19:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/438798fc1a6366e98515aeda08b6ca4c79e98986/0_263_7894_4737/master/7894.jpg?width=620&quality=85&auto=format&fit=max&s=aa594f5389e65b0afb81c29f3c9082a7"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
+    excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
+    publishedDateTime: 2023-12-24T11:32:00Z
+    webUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    ampWebUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 68
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "AI starts a music-making revolution and plenty of noise about ethics and royalties"
+    excerpt: "Artificial intelligence has seismic implications for music-making and record labels, posing existential questions about the meaning of creativity and whether machines are enhancing human inspiration or replacing it."
+    publishedDateTime: 2023-12-26T18:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/dec/26/ai-starts-music-making-revolution-and-plenty-of-no/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 48
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/26/Music-New_Beatles_64952--96593_c0-71-2596-1585_s1200x700.jpg?5674c673ce2812393b8fd82e78bcf9b3144e1c29"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
     excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
@@ -59,56 +167,29 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Fintech Future 2024: Unveiling latest innovations and trends"
-    excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
-    publishedDateTime: 2023-12-25T03:38:00Z
-    webUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
-    ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
+  - title: "Elon Musk said one of his goals for Grok is to make it the 'funniest' AI chatbot around"
+    excerpt: "AI chatbot Grok was released in November 2023 and has a \"fun mode\" enabling it to respond with more vulgar language, humor, and sarcasm."
+    publishedDateTime: 2023-12-22T13:13:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
     type: article
     provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
+    excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
+    publishedDateTime: 2023-12-24T12:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/12/24/google-expands-its-rollout-of-gemini-upgrade-to-ai-chatbot-bard"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274078-fintechnew.jpg?im=FitAndFill=(1200,900)"
-        width: 1200
-        height: 900
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/25/2456674.jpeg"
+        width: 1240
+        height: 879
         isCached: true
-  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
-    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
-    publishedDateTime: 2023-12-24T09:50:00Z
-    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
-    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 38
-  - title: "Women in Fintech Top 100: A review"
-    excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
-    publishedDateTime: 2023-12-27T09:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-top-100-a-review"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/f8667fea28fee93f94b50417d0e6853c:cf716e2c7b8bf0b82da50336fd4ecf72/unnamed-1.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Virgo PR Expands Global Tech Practice with Addition of Leading FinTech Nova Technology and Consumer App Start-up Aroapp.ai"
-    excerpt: "Virgo Public Relations, a leading integrated communications firm specializing in rapid-growth industries, announced today the expansion of its global technology practice with the addition of two new innovative technology platforms to its client roster;"
-    publishedDateTime: 2023-12-26T18:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/26/9938322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mXPwGn4ACsu5V6Lct2X3JtOxEF4QR9EE1zlWro5KcsUIAsa6AmQ3wQ5PShD7682ECToSRNBxai8X12x17E/Id/YrTc64PaPd31LHof0s6SFKwR04zos8usF1i99H2Yobv9ucyUyJNRIOnS0ejwuPbQ4fxrw7eRv9FKY3KdcZFh0H5DjXsST5AFeW9YdN5NW+x+pot0hHn25Q2FHNJgZlfYkE4ymXGRcK0n0Tv3sNVNoI19hlEClz0KvYwVBlJ2uUXqb06NR6PRCEKh0UQ1/ndHCpeIrjj1ny6yUQwzPlPzKPO12PGLgkQBry+/n72rCrL6SrZkp0BSiMTLUCJZnwuUh2hG8QvqzoOdHQWplJ9tqBeEAvKa6LQn/YmQj1PSA3wGJriODHEnO+Nn0qXgqoprhvjpYKeHMYPq7CdK7gkSrHPe3KO/DdncQku2OpsMbeOvCnXh60AAgSvhJpnr1GZCCSv6vYDsoLWd708hCqA7F6LmA6zuK3lsw6hvQ2VdxXSTQ6HCGVStoPqzeUkKIg4g==;NNrsFLy4Jt1Ah88sO3tTew=="
 ---

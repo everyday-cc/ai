@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Self-driving cars will be on UK roads in 2026, transport secretary says"
-excerpt: "MP Mark Harper said that the autonomous vehicle technology will allow people to drive with their hands off the wheel."
-publishedDateTime: 2023-12-27T09:41:00Z
-originalUrl: "https://news.stv.tv/world/self-driving-cars-will-be-on-uk-roads-in-2026-transport-secretary-says"
-webUrl: "https://news.stv.tv/world/self-driving-cars-will-be-on-uk-roads-in-2026-transport-secretary-says"
+excerpt: "MP Mark Harper said that the autonomous vehicle technology will allow people to drive with their hands off the wheel. | ITV National News"
+publishedDateTime: 2023-12-27T08:32:00Z
+originalUrl: "https://www.itv.com/news/2023-12-27/self-driving-cars-will-be-on-uk-roads-in-2026-transport-secretary-says"
+webUrl: "https://www.itv.com/news/2023-12-27/self-driving-cars-will-be-on-uk-roads-in-2026-transport-secretary-says"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: news.stv
-  domain: news.stv.tv
+  name: ITV
+  domain: itv.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.ctfassets.net/pjshm78m9jt4/7BzRtWOIEnOU1wdyMHvCHU/b5e961f5ab38fd379b7a0d1b626183cc/FotoJet__12_.jpg?fm=jpg&w=1280&h=720&q=60"
-    width: 1280
-    height: 720
+  - url: "https://images.ctfassets.net/pjshm78m9jt4/7BzRtWOIEnOU1wdyMHvCHU/b5e961f5ab38fd379b7a0d1b626183cc/FotoJet__12_.jpg?fm=jpg&fit=fill&w=1600&h=900&q=80"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -41,7 +41,32 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
+    excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
+    publishedDateTime: 2023-12-27T10:10:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_491_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=9b90c89cc0d2ce9c0b56866b092f61bf"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Self-Driving Cars Could Be on UK Roads by 2026 -Minister"
+    excerpt: "Cars with full self-driving technology are not currently permitted on Britain's roads but the government's Automated Vehicles (AV) legislation is going through parliament, meaning that a legal framework for them should be in place by the end of 2024, said Harper."
+    publishedDateTime: 2023-12-27T08:53:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-12-27/self-driving-cars-could-be-on-uk-roads-by-2026-minister"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
-secured: "ZDTZvI8RzAw2toGCJ2orzjrrI9cPh8jj7zK2bybDdb/9AdsOueg05/LOBmVFZ+Bn3m0kXB0P7GdobC02f5dQ6rYCWwQBMlZTtFn3IPCCa8ky5w/asmtUgowqOyfK9ncvfqdwe2T4wcYfZ0caRBFMjE212w4SyirYIGYXsn7hQaDhREHQCiJzZ5MIonpL3pfLgoLf3nl/iUMGEnMI3Ix9xxwivF8lvWm4HlW6X8QPOuqJugvFc1wbKaP1tZXGm9g+vsEjNN9+/p6zO8DTZOO2HuC8f986Tv72HZTWr+3i6rZBl0K6XOjN4xea2X+BXFDHgTcMg1zu4i4uvH3U1wHRvTj+soQKDPn1wtK/RguU3BA=;/WD65gYW7niV4kC/v5Wpbw=="
+secured: "zhviF/qTP+4IUoqiBuOb7GFd75YO3Eo/PKhd9d76XtJkVBLnIyv2HL2LGwnONqr+Th5QGtjfsyyYgUQUzQKaqCXTucg6es3B98ANOEULfCBlDIEUDutHHjQKPbwoWbfJc19gCJF0pNOH4rzbtClfDxysYMf4X9mhD7OS7xsP1HjnWNeMQC8VQKj3ulho+I6+fY9I52IEigqrFfQ7d9OuKPTW0oSsreIF18/G8R4RlY18F/NHQc7deD41sv8I/e8wNNmpCekJbOzEPglOpZAPVpfuhwrNGbYkW3Nxz2FSQZVS8/oRPB62mdUsrAuzWkGRTAUrlQr/Fect4eMlrsqVcr2xCrsNNkTVA6/j9OkI2L0=;gycAc2MA4TcMFPSxXdCxWw=="
 ---
 
