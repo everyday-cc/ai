@@ -3,29 +3,27 @@ category: news
 title: "Parents divided over the role of artificial intelligence in children's education"
 excerpt: "Parents are growing increasingly hesitant about artificial intelligence (AI) being used at their children's schools."
 publishedDateTime: 2023-12-26T23:21:00Z
-originalUrl: "https://abcnews4.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
-webUrl: "https://abcnews4.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
-ampWebUrl: "https://abcnews4.com/amp/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
-cdnAmpWebUrl: "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
+originalUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
+webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: abcnews4
-  domain: abcnews4.com
+  name: komonews
+  domain: komonews.com
 
 topics:
   - AI
   - AI in Education
 
 images:
-  - url: "https://abcnews4.com/resources/media/d97b58bb-f0bf-4dad-9a26-e53eab34b131-medium16x9_AP23302720956665.jpg"
-    width: 648
-    height: 365
+  - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
+    width: 986
+    height: 555
     isCached: true
 
-secured: "MTBLLPWiez73NkrpFM9n9qjsjY83yrU6pgXL64cB3Ey8ec+woCoOIK3Wy9YphzjvRK5pg6knGrTDZMD0XFQsAKaLtJhii8rM6tVUIZaQUIdgKzJkdQP8LIkEkb2EKL74kXNF9xc55q6h7M2T+ws/MBCDa7A90rciNZcHsAGgF2oOnpsOADn8V7uxj4p00gpWDdHhUHzCJ2Xrdy4S4uU0eDsVD+LuI2eQgibZjYxgPCyPiTQR0DiPQqQHOjEYHIKrITuovJIIgkEdvpNL92LO8egQl2jxAxr6dzFQOzYldShArN4OcyB4CoX9sXgxxqIMWkUMUZ9/ZIuXWxdCRejN/Vg8BZtv2Wz5tgalRw0iGj8=;7sFtUcvz8MYoTB/tAiiIRQ=="
+secured: "JStRfXYPqqKpFcNMeuIM4jao9XuaMr+nkvEAGtxuMwY36v1JYmZTLqB/XL05Nr4zm1D0deykc9l2Jf4zCjGajyRlLoGPCOEgd6y8BAUDRQEBEMGlJxPwWE3DqGiC8cIHeGA0doAb9n4tXPq/Pp8v8+kGMygFxPiSh6trgeUY80PRFXAz8KtipNAVgfkgQLS+DY+iGJBxOSCNBVsLPuwW6Rz0JstZS3k46L66UxoRKUYGQW4cAJD9OEMho7ENVhzkyjyXNxwIsUH94dXC2pbRfHXEMmEZZW0P2IocI5zNJ6MGtp5nSKXOKLn2Jo0UHDinr8CBiMV1lag+hpLeSx6vWGJLG/u2M6+tnLXSHXW94SE=;xo2wMYPXBOnCLqqBI89Jfg=="
 ---
 

@@ -117,20 +117,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
-    excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
-    publishedDateTime: 2023-12-22T02:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-phone-revolutionizes-communication-with-generative-ai-powered-efficiency-and-intelligence-1032920896"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1703164744410-0.png"
-        width: 800
-        height: 475
-        isCached: true
   - title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
     excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
     publishedDateTime: 2023-12-22T13:30:00Z
@@ -152,12 +138,12 @@ related:
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
         width: 1200

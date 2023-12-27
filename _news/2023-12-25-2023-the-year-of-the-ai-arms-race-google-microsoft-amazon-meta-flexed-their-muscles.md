@@ -43,6 +43,22 @@ related:
         width: 760
         height: 505
         isCached: true
+  - title: "Microsoft announces availability of new vision, search Cognitive Services"
+    excerpt: "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging."
+    publishedDateTime: 2023-12-23T19:24:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 118
+    images:
+      - url: "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
     excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
     publishedDateTime: 2023-12-22T10:29:00Z

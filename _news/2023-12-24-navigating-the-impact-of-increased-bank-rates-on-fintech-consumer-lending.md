@@ -129,15 +129,6 @@ related:
         width: 450
         height: 270
         isCached: true
-  - title: "Top six predictions for fintech in 2024"
-    excerpt: "Financial technology, or fintech, is undergoing rapid and transformative changes. As we look ahead to 2024, several key trends are poised."
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.traveldailymedia.com/top-six-predictions-for-fintech-in-2024/"
-    type: article
-    provider:
-      name: Travel Daily Media
-      domain: traveldailymedia.com
-    quality: 4
 
 secured: "/n0Cepx3Ql7qdw0eO6YNmyjqfhc3GhvNSET1ye6nTIxoRBicVfeFwlRJ1gxa2OQeMcMhSSI/bo0GbOuOBHRh27PHTJxYVdR3N6n4o6a7wPloTpBag4/XbTsp7fBroSdSc53loD/kHd6agy0I/hcyvBmUMuAESVjmIqdWHsl2zhBEIl8yQ49CL1zSmlcN2LBcdMz2XlIHbCp2tk3cq269RcKKbllPQUr1kTFsIYOL+QlTP4rcC8l5VC1U5tpMLUuq8nflXCLeTP3NkDgIdEMg6jm2MNqIeaQBiWFLjpUBSiSrP7RHRa0JNHwY9oEJldvA7vWF6IQjTlfmYaV1QsSbSuzN4lXpqJ1oX80LBoW3bpi4KL+jZQTl1COT5JG9jC1ywLws+39JKflU1lnHQWnwjGm1bDguSgxjmz+cq5L11FPHWCECZOf6NR5iqYlYNCF5wRegt8juu1NHFyPuQBVrkB3SEivu34boLa5oFuXLhTJVGC98bzuBWPVVt+PFtcvLstIKFUgyGvo82RCTK+P+Dg==;pL8tKIQnkZpaXNszHVRZSw=="
 ---

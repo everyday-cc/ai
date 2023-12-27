@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-26T22:36:00Z
 originalUrl: "https://federalnewsnetwork.com/insight-of-the-month/2023/12/nga-leans-in-on-ai-machine-learning-to-improve-data-analysis/"
 webUrl: "https://federalnewsnetwork.com/insight-of-the-month/2023/12/nga-leans-in-on-ai-machine-learning-to-improve-data-analysis/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo.png"

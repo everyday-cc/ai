@@ -3,10 +3,10 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: aol.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -128,20 +127,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI Phone Revolutionizes Communication with Generative AI-Powered Efficiency and Intelligence"
-    excerpt: "The AI-powered app revolutionizes the phone call experience with live call transcription, live translation, and AI call summaries to"
-    publishedDateTime: 2023-12-22T02:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-phone-revolutionizes-communication-with-generative-ai-powered-efficiency-and-intelligence-1032920896"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1703164744410-0.png"
-        width: 800
-        height: 475
-        isCached: true
   - title: "Why Generative AI Is A CIO Nightmare—And How To Fix That"
     excerpt: "In addition to security, CIOs are also considering trustworthiness and ethics. Research shows that 73% of IT leaders are concerned about biased outcomes within AI solutions. The number of stories of tools offering incorrect or biased information ..."
     publishedDateTime: 2023-12-22T13:30:00Z
@@ -179,6 +164,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "1V3382YS6wTMvMjWLSAogU7EY3Nl7laIXj2JFqRGDQGRByOeb96f2G6zfuGfdBF19jB+4idRJ217JGBa92l4353wxZXvxq8UzBwepnJEQf17gws9H975j+SnQubQTamxD5UqMvUnWkUxZjhj2sDTHDJGiSpK0mGmHe1XbJIv0/1EvMobxS3n9mraqAKFznfUL5n8nxBcvc2gjMx057bkmGDh3IeahZE4zH7tlYSeGhpJKMAYf0upDYIxe0O6UArU5Ao6HdDvBpf8h7fQ2U/8bBhjbC64U/yHFtV9K5akpS0S+MVsb40F70UcS0RevbSP3GmEZAvfvDI03jj5uh2LsadK7pXNLCzLIwpSKJZBRrw=;FJmICOyIo+FiaAuzw14G1Q=="
+secured: "HP44j7AxI14XHTNKSNbVUePRYSkm14Uv1rMQ/2FgadOBijXeFFxmQEAWNAIlUo5ra8AMwEzJKsjgGhVZhPx7j7MH0Ru8qpEp8eHyiLtNtkmxu8o3YFJWD1Fd/NJONFbmTk/UHEPkI/jEgiXbG1AMjumXr47oy9QMZ8547wwKZxC+dWt1YYwf21XRVUm4W9aUxVRjo0niiChspx9NwWSEkgr+SoTma1hmJ+hI/VZwYS5dX6ty/lVkTOLt5VS+rvkLHOe4xAStxGi/NDQZy8y9pjGkKWlOizYGXQLaW9LbeGo/KRPxOQzQbz7Y0taqjOPwVgN2tb1L5AizWd1HzmradMQYyJqFM+fIFqwYqocbs+0=;Cv6O/q6oRQL8jTG+/jpOhA=="
 ---
 

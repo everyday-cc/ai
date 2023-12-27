@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2754944-can-ai-predi
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2754944-can-ai-predict-the-future-exploring-the-possibilities-and-limitations-of-forecasting-models?amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "From AI to responsible AI – the future?"
-    excerpt: "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,"
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
     excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
     publishedDateTime: 2023-12-22T14:01:00Z
@@ -52,6 +36,6 @@ related:
       domain: usatoday.com
     quality: 33
 
-secured: "SUzrd79bMxBahF6EQxkt8LZ99PC2/icVDpALZyw3euBYbYI2MGlOFeNca+xTaaHxdZn8w/BG7oRE2JOKA+WH79YLHDeV2o6V/M2DlyXLze7hVr35JPBV0+qMrZ/bavqIL8qBjQRYBnAk6dMmsBFvX+DQQ2L8/kvy864IRyQr9YwAqItVC/XrkNGrfMjwd37zt2sPJZ2E54lO8RIAvLHp0vP0cp7D6c1i7SFK9RFj6i4Xu4TZhOwfCP4qb/Hxe7yT21ngPncC0l8rDAepIPqYB52xzjxrCrxpo0Jqj+lIuiPlYfEhZ7i4gzIIbj99aKxYQ6uGwOUHwVTLj39qLzKcScMThXQkBnQbUmhuGCG9ZCI=;obv4fYExfC76nam8WO8z4A=="
+secured: "OXdWXYAugCbvgYT9nBtbXzdUR/0VzHagUKTx4ybsp0eahErVg6NiwI9els83PMOvd1ao/6XHeW4XZOpi2Nu57RkoDUnXl/9qwGA4taT1cGUTMHb1nDxj8/9aIf3CjC7AlAan4jxia2HzUp+GV2EIehQZ4wrXuOnXE84xytuCjzu0qYgoP3jcGkfIGpuLqlrJfB4cJqyORmtmiaszmzbr3WeSe4U/0Bbiic4H2ZcDwQ7AH00ZO5m8Car2S/GvFdZDHoBhNtwqLfqx8yY+02xgNRqjXC14NXB5NeHtdLHJSG7oA3WYTAw/nGgM8OQuhS2/XgPaFiYjquT6agJ0ua8wBKILPIBXBwaXhO7xAbew2oZk8XqaUKtPl4BRjMNTQbO3rVKzlFVigfzqDiYpRH2W7GaDuYHbfoN3E6K7i5yzAlg28MdcBbR3fKVU7mJ4UZ4Jxop4SFY/lS4yDYMA3qEMkQ8gR4GiiTAfdljMEC3MdP+PzKQrW5fSl9rQwqksu0mLMse6/aQJHvmyIiyzaFTCKQ==;NkPbk3X7lNwxnXyVDE/Cag=="
 ---
 

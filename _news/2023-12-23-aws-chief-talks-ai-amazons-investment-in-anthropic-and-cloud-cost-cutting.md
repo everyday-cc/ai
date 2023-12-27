@@ -7,8 +7,8 @@ originalUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks
 webUrl: "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Post-Journal
@@ -39,6 +39,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/20/320bbc05-8708-5fad-ad8d-0afea22c3d8b/6581c7158ce7d.preview.jpg?crop=794%2C417%2C0%2C31&resize=794%2C417&order=crop%2Cresize"
         width: 794
         height: 417
+        isCached: true
+  - title: "Generative AI startup Anthropic reportedly on track to deliver $850M in annual revenue"
+    excerpt: "Red hot artificial intelligence startup Anthropic PBC is projecting that it will now achieve an $850 million annualized revenue run rate by the end of 2024, significantly greater than an earlier forecast it made just three months ago."
+    publishedDateTime: 2023-12-27T02:02:00Z
+    webUrl: "https://siliconangle.com/2023/12/26/generative-ai-startup-anthropic-reportedly-track-deliver-850m-annual-revenue/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/image_2023-12-27_083958607.png"
+        width: 820
+        height: 493
         isCached: true
 
 secured: "FR5fN7s+5YVTvsIU+o+tajZOJ0ON2nIg7WSy/+k3za/2dzZYTk5MVaykJ3ZA6RlAmmrUHkRyKFYxhtU+KigIKaadEc7Qs9TrJkhMQm3y4KAS40uHHtw09NRkgvhViSLXvzEogWbGWlBvJxBT3hlkLeyW9KIkmEyQUAamWF+cVF46Qb1bTnYeQtxf7vA97rKDL6LhDYOODdqibf0ZSwbQ8J7l+zqXmHh+ywIiXpdC+ZpNDj0HJHfUoybh8dTOq7YUTKITnUNIhNPfEaDa/e3B7ujysDLOTSCluSXAQOQ+5WJtuhv7OoSQ08absynFNXC16+xdTgmWWAycFDwUk9vlyiTZkZWa4BCv6N5+/A7LCfOred1aZ6UwOx1qp1N9GdfcW2vjmWFKdyTNPnCBWd0cnOmkONExmdh88YYHQuk9G3AicWdkQz/WJfhV8MlAJJYCAjdHOWD0bHCmiUVYM5nJZ0QQpeHvziIHFfSyZ+K1GvwW6GLM4y9Uo+azKTEYnfmBXvutYe9U6KFA8pGSVNZx2A==;7yvMxAaWdYmhSs3BD4e/JA=="

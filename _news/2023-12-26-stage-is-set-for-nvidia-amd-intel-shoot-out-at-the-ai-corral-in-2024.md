@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/658afc3d21e13fea88a2e29c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -83,6 +84,6 @@ related:
       domain: extremetech.com
     quality: 17
 
-secured: "UnUw5gwlwdZYv7x3ldkEvL8Lca4k93OUW8EI2p510wRxMsYl4nS6AWCQsg9T6ff6VbuSTJWtaLi5bCFHMvEDhHQ5ria9OLhygUF2KZUeJqLFvWsWvuffZ8R9qe1LJ/xVDoZz3ZnDzoniTC7bRqAcyRFioFvDpbHUSgPKWKEOlmAyZzbMKRJ6hDpDpWTjA0/iHphGBfCLRz+ZsmEauPNbZhIHFFIw56cGJkhYfBx5FYJPB8fZDK7L1ZpvfGb8hPEF4NZHciRnAVKr5JV3u1lbtQnA32SwQBISSkh6DkWrHhEWBBy+4RxiuxTSth7chCMgu13gkmzq5lV1ctDEokPUpRj31cwQ1URDpObiXe01Sa4=;GLdfm6+sFi9WP+K4s19XCA=="
+secured: "yIST+kjQAJu+AjaTAt3WoodHECvIdpMHO4dLFpFbrHrspVj833P6S0RNz7ZZ2+kIC8e58N5A26027nZUQuANPByswiay7zngWUp1K2xwMRXdTnNZRs+cIMiQsKq7er+pkX6yN6NqkL4S2o1V2VfwdEKK3UR2rrtDXmxuHeoMhVPwvaUTeN3IWxwDpVjA8kC1i/SipU7EEc887AlBOdHo50ubs2HnDmNOdZBCm6eFHRq1ZnjEWcZyjL6gS710yOI4RGKmDb19qXYC5BGpt14ORJK98jxkVrFrcKqpKuoBnVMvpOsN/i5VdIn/h+EPpX94rulucyLPVe3TE5U2uRWZDF8IeRemBFQkVBXo/4e0p7Qgm/coNS2GnRbIGlarCDBT06EG3mwyd/VBNw0xIMdOV3yR78mqbA80VYTD7j/IEO2cOH9ZUM0waVAJhE0MTfILAvFVqBJOG9Z0KfK7M/Ls7g0gANNJma5iUfSsBMP3w6Wd5IcW8u6AuCR/8Be1zPPjaNJzVcurTSPKIFLSj6JdSg==;/tyVCg7mWFBplMVv2tLd1g=="
 ---
 

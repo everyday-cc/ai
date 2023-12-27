@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/evidence-israel-bomb-south-gaza-new-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evidence-israel-bomb-south-gaza-new-york-times-investigation-ai-2023-12?amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "The Free Speech Debate on Campus About the Israel-Gaza War"
+    excerpt: "Mr. Kirchick argues that colleges and universities should impose restrictions not on hateful speech, but on injurious actions motivated ... Let’s just start with the recognition that conditions like hyperemesis are worthy of study and funding for research."
+    publishedDateTime: 2023-12-26T18:54:00Z
+    webUrl: "https://www.nytimes.com/2023/12/26/opinion/letters/free-speech-israel-gaza-war.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/15/multimedia/00nat-universities-chill-01-zvhc/00nat-universities-chill-01-zvhc-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "mZyY3tLQ5ckfp1A0vaf/cqiXS1av0kAC6otxA6i+4XeTo8apkfiD7VC63GiocNnYkerXZzocTkAOjLHNoHSqIfmt8249VS2d9y8v6rXyzt0j4D7kR6PHc4U9TKk+JDy4RhWa5a37GFixF0atx24tZ+Kp9sDPCVMtxUY/89DxYm9ShbB3MKKssrFCFtUljYISh+A15znB96+0tsP+zkN1gNQFH8g0V5M3FlY+lYVuIxAD2WQkQd7RhhIBRxgqQL7A4X70CyMC+VpiI2QWiUZEus3BRWNy7QP/3+dNLZeJFxQ+lDwNHON/gfDZAZ2C15sLcfhwnpC+Be3BvKyBSb+x/qg2nUHW1Z1EWuT2CxgUO1X+qQmZYTWpWznUOZkyL/8qi6Jqs4yFFEsLvdkyRXQOQjJUJPD4x+AHwbXTHlXMB2D7d7uoIn4TfG+apf0lTMw9Pxjr0NkNPW5wA9IE/Q97cJ0aTX7i4RKS+FO/0r4krqzkI+Q2b5Y5efAJNofRWbvzpMxDixhWMvIPtXULZVW+Zw==;YrhRXGb//sycAAL/2SzESQ=="
 ---

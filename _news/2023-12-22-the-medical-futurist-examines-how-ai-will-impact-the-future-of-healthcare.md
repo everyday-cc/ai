@@ -19,22 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "From AI to responsible AI – the future?"
-    excerpt: "As artificial intelligence(AI) takes a wrong turn with the misuse of deepfakes and generative AI, among others, experts believe that responsible AI can aid in this. It is believed it not only fosters trust,"
-    publishedDateTime: 2023-12-22T02:30:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T094848.977.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Can AI Predict the Future? Exploring the Possibilities and Limitations of Forecasting Models"
     excerpt: "AI can predict some things based on past data, but it's not magic. The future is still full of surprises, and we need to use AI responsibly, not just blindly believe its predictions."
     publishedDateTime: 2023-12-27T00:20:00Z

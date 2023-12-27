@@ -1,24 +1,20 @@
 ---
 category: news
 title: "WiMi Announced the Optimization of Artificial Neural Networks Using Group Intelligence Algorithm"
-excerpt: "WiMi used a group intelligence algorithm to optimize artificial neural networks to improve the generalization ability of artificial neural networks by optimizing the connection weights, weights, and biases or network structure. The following are the steps of the algorithm:"
-publishedDateTime: 2023-12-20T13:21:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822"
-webUrl: "https://markets.businessinsider.com/news/stocks/wimi-announced-the-optimization-of-artificial-neural-networks-using-group-intelligence-algorithm-1032915822"
+excerpt: "This algorithm facilitates the process of determining the network structure and the training of the artificial neural network. The group intelligence algorithm is better at finding the optimal ..."
+publishedDateTime: 2023-12-20T13:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group"
+webUrl: "https://www.nasdaq.com/press-release/wimi-announced-the-optimization-of-artificial-neural-networks-using-group"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "z6A4Ah8tMwwfbKMRtG7ftfvG2nvagQyBBBrUKbZYYwAOM5O+HKLMp1e8caDSgT7fJBtK9NCPF6NxRK9LRZkpFwko56agyC3lHkC3771MsAr7+fPYx/uyO5ws15aqyHO7WIW89SjyMlvohtCN+Fwd43E5hDm5dE7C+1Kxpe01JV+YR/ZMk9Zpc7x6OHXtAdjuEkdVK3bpy/dQ3TZkhnUHsZzXccSowHYauQHY9bQgDS+jABeVro+IujJ4woJpC4enaMx3hJytm1ZldCPO3VGpV5cdek9j6I44AJ/txlobMBDpFm+czTCH0K/Vc1rk5hK/iLgYekqFaHEs/wGPXVdm1vmb0jkhqzeKNMva9u7fruo=;kMM33N0DM2N9WDlqGBeWWg=="
+secured: "soURaTngWaEJ2aqZ/GBn3j6nR0ijfw9V1tYzsv4xyTunjxYJPzEZp1xTYcypAsfGjvhGo4pKOQPY2y6bDmInEI6uFjCBsL1B1FJto8GUiaQVmHBdCo/P2LymnoTcXHg2XgTV7b9KRxH3QLErgBCYE2nM8QnTs4uNfTCIUgryvBSe+poJyuX/odAMaDV80fq9xwLyO5ZTKscF0Oy2VObriut7pByAjJGvx7Oef6hVLbIIejtWBRJBEeit0U8U7bgNRu2xZlbHK2+Xq7wq8ppxDuDQ7l+KNge3WBm9zL1RthKm8tQ4JMv211WGieQXgekuBDcoxN9J3H9PGumUV06DuWqhgWnZlqTK8jiXmNpuGvE=;HPcWhT292VC50VRIl7UVWw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://static.tnn.in/thumb/msid-106276803,thumbsize-752200,width-1280,height-720,resizemode-75/106276803.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "AI to give fillip to new industrial revolution"
+    excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
+    publishedDateTime: 2023-12-27T01:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202312/27/658b81dca31040acaf834c67.jpeg"
+        width: 1078
+        height: 718
         isCached: true
   - title: "ElevenLabs Review: The Most Realistic AI Voice Generator?"
     excerpt: "Looking for an honest ElevenLabs review? Discover if it's the most realistic AI voice generator and whether or not it's right for you."

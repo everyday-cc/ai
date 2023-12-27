@@ -80,6 +80,20 @@ related:
         width: 900
         height: 505
         isCached: true
+  - title: "Experts warn of the impact of artificial intelligence on elections"
+    excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest. The safeguards that attempted to counter the bogus claims the last time are"
+    publishedDateTime: 2023-12-26T23:58:00Z
+    webUrl: "https://www.columbiamissourian.com/news/nation_world/experts-warn-of-the-impact-of-artificial-intelligence-on-elections/article_cd77d141-a78a-59ec-8c2e-7fc3a2ad559f.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/1/af/1af13c96-06dc-53ac-9e5d-3ef8dbe7ba64/658b765b6bd9f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rkNZDiWoXPYxj0H2RsssPIYz62XyziCrkdCHEHc3BUtGhxkmGvt5oUKbiae4mXsQAxn9khmWvXf0EjyDSr+LS3TWz5GBUNSvZkGl1TbUOWTAHONO3K/2V+zdwYHqmRlOgTV4EGvodAwuIfGLA3LHWBxsDiiwIJqMGs2ygOvkFfWt1YD0P7bQhQgw8fGVHCqY8BY/jIjRrR6DRXZlg4bB427sQEkX6KX4r2X0BE/c/AOsPmQUB3BnBbJo+Svs5mXWWoVal+zzCdZUGj9zM7FIRXmYA66HBN7+blMeGEPzJ0IKrIXhX3wIck6fOkKlQt9KvZh0Aalic2o8cKDXFRFzg6jv49FL7T7+m+tT+fHVLSL6K2XHiuufPWL4HhrEvwcr1wYkJVM5J2HElIi2gB0gXd4fMsSGnGhHvexNz6SiM1EtHyX6y+CDp8BmGyI+HfEi51S0uoGqW5+iDxs2LR9D8xLfAFy7V8SCns8LLk76WvuEd9svISB9sBH/CxEFI9QPdcix6VMm367EOl4ECQv+5w==;mnCGMDE261cgk+FznvDkmQ=="
 ---

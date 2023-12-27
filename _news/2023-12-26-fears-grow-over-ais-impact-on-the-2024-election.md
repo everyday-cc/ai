@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "Experts warn of the impact of artificial intelligence on elections"
+    excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest. The safeguards that attempted to counter the bogus claims the last time are"
+    publishedDateTime: 2023-12-26T23:58:00Z
+    webUrl: "https://www.columbiamissourian.com/news/nation_world/experts-warn-of-the-impact-of-artificial-intelligence-on-elections/article_cd77d141-a78a-59ec-8c2e-7fc3a2ad559f.html"
+    type: article
+    provider:
+      name: Columbia Missourian
+      domain: columbiamissourian.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/columbiamissourian.com/content/tncms/assets/v3/editorial/1/af/1af13c96-06dc-53ac-9e5d-3ef8dbe7ba64/658b765b6bd9f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The adoption of Artificial Intelligence in different domains"
     excerpt: "On the other side, it has posed some challenges to the world. With the increasing use of artificial intelligence, people have lost their jobs, and robots are substituting humans in various fields. Moreover, it has increased the risk of Cyber attacks."
     publishedDateTime: 2023-12-23T00:00:00Z
