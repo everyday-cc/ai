@@ -41,20 +41,6 @@ related:
         width: 1968
         height: 1312
         isCached: true
-  - title: "Samsung and Naver Unveil AI Chip: 8x More Power-Efficient Than NVIDIA’s Competitors"
-    excerpt: "Samsung is advancing significantly in the realm of AI chip design, both through independent efforts and strategic collaborations within the industry. In a"
-    publishedDateTime: 2023-12-22T05:43:00Z
-    webUrl: "https://technosports.co.in/samsung-and-naver-unveil-ai-chip/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 48
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2023/12/1-102.jpg"
-        width: 1024
-        height: 585
-        isCached: true
 
 secured: "J9gw8M4eYnqR2THPV/jGD3jMsC+lmO1XAT0mQdyQU+gpPJwyiIvZFNkAk2usn0huCUJt6FFgoO3rszr4XZRiMHoaoiPKyf+MiZQqrszx34aFzE1em2to32XP0h/TnPxzhb+wnOZkGzDnIvamT9XxmDfTWGq31rUBz8rHuF4CIh8hpv2SRzzMAicXc1U8GLz5VIUC+3Tn+Yh4NT4Bq6BXG6KLAQ9H4Mgs6uol3MPfoLwCM/QglvlNqu/JZaHernvTXxjwTPum8+pEzbfiQ0xOIt2PMgHosffayw3HijSyH1q+a3sLsBDqj1/heiTV+o9e56Ywh6cihYjl2PlEfVGQBk/1YHnxD5sfRhUS1eMBtwNf/BrkG0TeA6MGSsbCy2HagB5dEfhvCwv7EuIX3Jy7ynXUF3lxfAfoxt2exQ24RJT9nJRu8fxI4U4ox/v5k9NbAYa0r7bLdLzMX4003uPjNMhdYZAXooDTKshj4nUKq8tt95urvy+803zIhxgDTSZCx4ie9ex1NRmlvb+xOL2qfw==;waGiXa0WI5ZNqR3Ee84TjA=="
 ---

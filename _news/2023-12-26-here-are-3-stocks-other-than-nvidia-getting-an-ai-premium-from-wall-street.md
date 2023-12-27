@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvi
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html"
 type: article
 quality: 85
-heat: 106
+heat: 95
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung and Naver Unveil AI Chip: 8x More Power-Efficient Than NVIDIA’s Competitors"
-    excerpt: "Samsung is advancing significantly in the realm of AI chip design, both through independent efforts and strategic collaborations within the industry. In a"
-    publishedDateTime: 2023-12-22T05:43:00Z
-    webUrl: "https://technosports.co.in/samsung-and-naver-unveil-ai-chip/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 48
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2023/12/1-102.jpg"
-        width: 1024
-        height: 585
-        isCached: true
   - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
     excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
     publishedDateTime: 2023-12-22T15:29:00Z

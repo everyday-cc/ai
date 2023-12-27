@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artific
 webUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/"
 type: article
 quality: 71
-heat: 81
+heat: 83
 published: true
 
 provider:

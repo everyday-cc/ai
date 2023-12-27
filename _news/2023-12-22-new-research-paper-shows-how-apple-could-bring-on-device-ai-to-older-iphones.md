@@ -41,34 +41,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Here's how your old iPhone might get on-device generative AI"
-    excerpt: "A new Apple research paper has seemingly opened the door for old and new iPhones alike to access on-device generative AI."
-    publishedDateTime: 2023-12-22T06:54:00Z
-    webUrl: "https://www.androidauthority.com/apple-on-device-generative-ai-iphones-research-3396717/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/09/Apple-iPhone-14-logo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Apple’s new AI research could totally transform your iPhone"
-    excerpt: "LLMs are the backbone of AI chatbots and assistants, such as Apple's Siri, that can converse with humans and provide useful information and services. However, LLMs are also memory-hungry, requiring gigabytes of RAM to function properly."
-    publishedDateTime: 2023-12-22T05:06:00Z
-    webUrl: "https://interestingengineering.com/innovation/apples-new-ai-research-could-totally-transform-your-iphone"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/22/image/jpeg/rVZ2flIcsE9EjvaTTHEjE37yhPZlcwT7Q0BVQJYO.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Apple research makes headway on using artificial intelligence on iPhones"
     excerpt: "Apple Inc. (Nasdaq: AAPL) has made huge strides with its artificial intelligence research, according to two recently released papers that would take the AI out of the cloud and put it right into your mobile devices. In November, Apple scientists released a ..."
     publishedDateTime: 2023-12-22T16:03:00Z
