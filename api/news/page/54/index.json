@@ -2,6 +2,40 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-11-11-study-explores-the-scaling-of-deep-learning-models-for-chemistry-research.md",
+      "title": "Study explores the scaling of deep learning models for chemistry research",
+      "excerpt": "Deep neural networks (DNNs) have proved to be highly promising tools for analyzing large amounts of data, which could speed up research in various scientific fields. For instance, over the past few years,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-11-explores-scaling-deep-chemistry.html",
+      "originalUrl": "https://techxplore.com/news/2023-11-explores-scaling-deep-chemistry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-11T13:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-11-facial-recognition-could-transform-policing-in-same-way-as-dna-says-met-chief.md",
       "title": "Facial recognition could transform policing in same way as DNA, says Met chief",
       "excerpt": "Sir Mark Rowley says technology could help catch wanted criminals, but rights campaigners warn of privacy violations Britain’s most senior police officer has predicted that facial recognition ...",
@@ -1129,48 +1163,6 @@
         "AI in Robotics",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-to-automate-certificate-renewal-in-ibm-cloud-code-engine.md",
-      "title": "How to automate certificate renewal in IBM Cloud Code Engine",
-      "excerpt": "IBM Cloud Code Engine is a fully managed, server-less platform that runs your containerized workloads with run-to-completion characteristics.\nThe post How to automate certificate renewal in IBM Cloud Code Engine appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-automate-certificate-renewal-in-ibm-cloud-code-engine/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-automate-certificate-renewal-in-ibm-cloud-code-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

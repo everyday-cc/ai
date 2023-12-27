@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-he
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeetendrsehdev/2023/12/22/grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 92
 published: true
 
 provider:

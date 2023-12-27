@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-25-9-ai-tools-that-can-help-you-peak-your-productivity.md",
-      "title": "9 AI Tools That Can Help You Peak Your Productivity",
-      "excerpt": "Explore 10 essential AI tools to elevate productivity, from Anthropic Assistant for task management to Otter AI for transcription. Discover powerful aids like Grammarly, Evernote, and Quillbot for diverse tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814",
-      "originalUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-106238996,thumbsize-103258,width-1280,height-720,resizemode-75/106238996.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp",
-      "publishedDateTime": "2023-12-25T02:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
       "title": "Robotics company using AI that does engineering work by climbing walls",
       "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
@@ -171,6 +128,49 @@
       "provider": {
         "name": "wjactv",
         "domain": "wjactv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly.md",
+      "title": "Meet ELLiQ, an AI-enabled chatty companion robot for the elderly",
+      "excerpt": "Leveraging advancements in Genrative AI, the robot enables more immersive and continuous conversations, deepening the user-device connection.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
+      "originalUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/12/24/image/jpeg/89pjLt7gnIxx0nQu3WmdmL7JJteS9BvekQubbkDw.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-24T09:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -599,6 +599,59 @@
       ]
     },
     {
+      "path": "_news/2023-12-22-10-ai-predictions-for-2024.md",
+      "title": "10 AI Predictions For 2024",
+      "excerpt": "It is one of the AI world’s worst-kept secrets: once-high-flying startup Stability AI has been a slow-motion trainwreck for much of 2023. Stability is hemorrhaging talent. Departures in recent months include the company’s Chief Operating Officer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6583d7fabdca920d504063e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1374,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/12/21/10-ai-predictions-for-2024/amp/",
+      "publishedDateTime": "2023-12-21T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-nasarawa-varsity-gets-approval-to-establish-robotics-ai-laboratory.md",
       "title": "Nasarawa varsity gets approval to establish robotics, AI laboratory",
       "excerpt": "The Phoenix University, Agwada, in the Kokona Local Government Area of Nasarawa State, said it has established a Robotics and Artificial Intelligence laboratory for its intending students in line ...",
@@ -872,6 +925,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-japan-startup-preferred-networks-designs-own-ai-chips-to-beat-bottleneck.md",
+      "title": "Japan startup Preferred Networks designs own AI chips to beat bottleneck",
+      "excerpt": "Japanese startup Preferred Networks is ramping up investment in customised artificial intelligence chips, seeking to ensure access to critical hardware as advances in generative AI spark a global investment boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html",
+      "originalUrl": "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/1799ce2fd1ec743c9845c80a3cd1762f",
+          "width": 800,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T09:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1291,84 +1388,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-worlds-first-mind-reading-helmet-is-revealed-as-eerie-ai-tech-can-tell-what-youre-thinking-turn-it-into-written-text.md",
-      "title": "World’s first mind-reading helmet is revealed as eerie AI tech can tell what you’re thinking & turn it into written text",
-      "excerpt": "THE world’s first ever mind-reading helmet has finally been revealed but the creepy AI tech has left many worried as it can turn your thoughts into written text. Despite the eerie new device",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "originalUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/newspress-collage-crvvq3fuz-1702547748208.jpg?1702548474&strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "publishedDateTime": "2023-12-14T09:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing.md",
-      "title": "Job-oriented crash courses soon on AI, robotics, digital marketing",
-      "excerpt": "Hyderabad: The higher education institutes (HEIs) will soon start short-tem skill courses for students who have cleared 10+2 or intermediate examinati.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "publishedDateTime": "2023-12-14T02:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

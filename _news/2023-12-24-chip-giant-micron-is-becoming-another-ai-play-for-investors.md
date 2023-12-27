@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_p
 webUrl: "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_pos1_sb_hp&next_redirect=true"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Big aye for AI in investment"
+    excerpt: "THE artificial intelligence (AI) symphony is cementing its presence in the ever-evolving world of investment. The symphony, orchestrated by data-driven algorithms, has permeated every corner of data-driven domains, none more profound than the financial world."
+    publishedDateTime: 2023-12-27T08:08:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/12/27/big-aye-for-ai-in-investment"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/27/2459499.jpeg"
+        width: 960
+        height: 1280
+        isCached: true
 
 secured: "Z+JlmCgqUZCyGB+BApeqH0GtAFcM5XuXFIKDtawwDxILL33eJ4mnlkBz2W/h2WLxqDiawyNWbj5R1h0zHNix1BZHCuA21f1dfs6UlGjcawDathV0QlBSx70zUqfgKsTA0WfPZqaqZN7x7ny36dVl6rO5Fh9DSp1cW08pZIFvYcUvm5GLHHUb1/aSVgYpxf+TjbgwPXnAgaFM6Ys8b7T2EygX9vuUTppZRg0KTm63ejl6rM8dn91Bh5fo8c/fp8eerefObBi5oWJg2bTrWNXC5JknCUN2kd1oVMiO2Az7gI2rNsL3gmkTeL4nQLnpE+xngNzkOzi+qM8t47acBhTRRHVUfXDj1MbL2YRS+yOkr8U=;5kH3LfqXEuFcuntyEFMneA=="
 ---

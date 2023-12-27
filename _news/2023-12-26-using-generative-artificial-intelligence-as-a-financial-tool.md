@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "How Generative AI Will Change All Of Our Jobs In 2024"
+    excerpt: "As we step into 2024, the landscape of work is undergoing a transformation unlike any before, primarily driven by the advancements in Generative Artificial Intelligence."
+    publishedDateTime: 2023-12-27T07:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658be489a32c5a1cf455177a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Top robotics names discuss humanoids, generative AI and more"
     excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
     publishedDateTime: 2023-12-22T17:14:00Z
@@ -156,6 +172,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "tJfKeteq91FR/xAFc4b/Q226HBk3IekEwrVvqtlhoI9FqTp438Yw0XnLfReU1m6qNXOwilEr+B4pQvzLBDDsGbthB5kkHoIZs4IDEl29TgYxZk53FVLN1fv1dpqy445UfpW5AyABILPOky8wpc5tk1hPLmT4SNwT4JofHahFa0Yqe1kS0poNn3gABStv93pUx+Lfo0feJn5AnDidnD6c9/RZlaOTz1SB5YRG2FPQkWPpvnVjlrt+E6yIlUlH1lOsJy04fUOPvi2DJIW8KDQv2lOYbf37Hf+b4bTqSdLM9cg3IcciC4uOlzeMNtgUw7pxtq1YJ4BRy7e8aMApwvkLKKmz/f+hpBmWJS8jMLRH8Gg=;01bHnoctO8FHOxLk9s+Tjw=="
+secured: "4x3Ib/CyS1TrIJgmTFYqlcx7Ouvi9FOwtHo89glpfND344a2az98849h8+dVQy0uXkhSRwTlCps6wk5eFVq0TDQcIQCuocFw2QFgyFoPqm218t9TM0SCBxMJMjHdKF7eYJGrOUy/Z19CCTOe2xA29q6hoA6fRvNSJjm6R+B4QWn9dZVINhf/mVLhtZ+M2bHRTqTlmN+NaxzC+QywxGQFd16B1Mx1A0DZX5Vjk6FXyFb9jD3AM5LuLu5VModpbn8o0bpCVD2sQx8PNB/PKRaUiJFn+naVp1k0EWaZ8I0Nu/SoPbMKPEskbg304ihgMVD9zvrLfF/H3X1LG+OIeDaNs7ZUgGV15bLKQ6Ew6oSvMsk=;jX3tM8eE4LJMybF+bzcolA=="
 ---
 

@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "New artificial intelligence tool can help in nerve disorder screening"
-    excerpt: "If the car is moving on the road, you want to track the car, said study corresponding author Phaneendra K Yalavarthy, Professor at CDS.In the same way, we are able to track the nerve throughout the video,"
-    publishedDateTime: 2023-12-22T08:07:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "MhxN0b/Vkrjik/wxA1wQPJTrS/5ANlQpsk/48J5IqGO1ToABwzgZZtRdfP3O8y6mX3/c9pZ5OIDacUXroO5zLTiMaZNd2sikrJDB5paIjAJmX7+9kv0zqFF196JpTolJdXJLtMWgecs9evvpSxIEEd0JqQnhSfqc+mGnKyOuPE5tILsQOY+C18Wyu6uwNN95QcIO3z0X9ye6vXlJF5rHhOQqrJTSr2cV7cpifr6KBnGXvtW44Fmil0kFVHf0M/CXG4davK0Ct3CgblDtDQMNFs0qHX7UV5TXn3+CmCDbIWKC+d/gwXYsnjzNuMNFl/+JdapHm/viXmU0H2Hg+i5lBHZQ55vTpT45ZRO40PRHvm0=;vFvgK32WOAqv+RLOkWRtlA=="
 ---

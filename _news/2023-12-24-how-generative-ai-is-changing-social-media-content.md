@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "How Generative AI Will Change All Of Our Jobs In 2024"
+    excerpt: "As we step into 2024, the landscape of work is undergoing a transformation unlike any before, primarily driven by the advancements in Generative Artificial Intelligence."
+    publishedDateTime: 2023-12-27T07:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658be489a32c5a1cf455177a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Top robotics names discuss humanoids, generative AI and more"
     excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
     publishedDateTime: 2023-12-22T17:14:00Z

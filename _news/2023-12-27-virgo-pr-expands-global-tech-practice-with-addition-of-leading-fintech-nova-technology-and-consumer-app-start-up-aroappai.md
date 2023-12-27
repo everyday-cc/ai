@@ -109,20 +109,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 38
-  - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
-    excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
-    publishedDateTime: 2023-12-22T08:03:00Z
-    webUrl: "https://techbullion.com/michael-gastauer-the-fintech-ceo-pioneering-inclusive-financial-services/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 23
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Sports-Events-450x270.png"
-        width: 450
-        height: 270
-        isCached: true
 
 secured: "FYA95XYTFZcMPpR7bWBjWZoLgmT1cndIAT6v2Wc68BzypnLaw60qhQCmQUvk3DfHzhi11KFz8H1Tuv6Wnetnrg9YIoi7BBvyjPz8+viTT7qdw0Xn9zalwaT6r/GNzQov95dsiNaBkhFXT453WMy2S3IhPzU5jCoVUzp9sHQRO18vJZWZfJjV1Hw9ICJQxl6rWs5MS4OnAX3/RyCa07Tjqdl8LK0WId+ujXWVwnms3rKzK5IxhGnIplx8ElJIL0V5Z2pKrrolzJMG8QLYoobJSfuIUdBQFUsnJteqDvIvCYl0znXWqvfTPNU+47aTzOjy1plr3Dpu2oysgz0xcq4kgT7gx9xwhXAYP178hfdWn/xFuiAULTik8PdMwvXy4+U0uO/4Ta5hRmBQvUGaSVve5fUWn2capVtG60m/gC0MsvP0RxSsJmb/R5By/xgvVFrEpyiula6U9ps9nXigBNzROwfdDqQzRSP/0Xi+a0pBaGUOGqDjbJ5k5oGJx22gV3YVjXoIR1v4et0eXRy+F1Cgvw==;ki8Nx9ra7XjVS11RMnH0YQ=="
 ---

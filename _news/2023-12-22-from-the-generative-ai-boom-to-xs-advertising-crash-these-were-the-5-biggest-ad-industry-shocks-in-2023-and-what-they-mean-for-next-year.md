@@ -27,22 +27,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Looking back at 4 of the biggest automotive industry headlines in 2023"
-    excerpt: "Review: key automotive industry news, focusing on autonomous vehicles, UAW victories, Elon Musk's impact, and EV market trends."
-    publishedDateTime: 2023-12-22T09:04:00Z
-    webUrl: "https://www.cbtnews.com/looking-back-at-4-of-the-biggest-automotive-industry-headlines-in-2023/"
-    type: article
-    provider:
-      name: cbtnews
-      domain: cbtnews.com
-    quality: 24
-    images:
-      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2023/03/Future-of-Automotive.png"
-        width: 1500
-        height: 844
-        isCached: true
-
 secured: "+K4EGvNukYAkdcFUCcjcFHVHV2QXgaltSa1C05om3I3FKRXzQMuqm07YQLoAn0gy+HQh/UFYnqnAMJNxY9mCjQW4W7S+rbR0SJsUM/auIWNSXpvtT1fC5YMrvDlPwEYA9fkzi49CA2ebACZ+LK1ldDeCpnkhv9nI1aMh8wv0fufq9l58dLyBlSyBD7V5iZv+pcWHcvFmfnpUlQSGOM25Hh+O0Cp3uXD29GVG6UiTvG6g1+7HJoZI1yyhukikWHxIOANlFihtqGvM6YycPO8IIdwENGbwSZtWtwDcDvBiqzQp9duhoG5OgZde43vGXysxWETms+vq15YbiT7Rx8dCIXr8CHt+RPVwUWhpCo2uqivBvcPKg0t4rrL7Belt9xjwJwg7obdMUpLehhVMXuuAlnZEHKHs5EOBpQsUV7G1CRzJYSWnnpTW+pCk4qnK/V+VQzAAW1QqF2IquS9/KCJsaFYjTKb2RxWc0YnPHlB/tVe1FYx0Nm2vevOpknshGpkQaTmkVqQKPFnRjLaGxA92sg==;otfFc+jqsjS77bo/YlATFQ=="
 ---
 

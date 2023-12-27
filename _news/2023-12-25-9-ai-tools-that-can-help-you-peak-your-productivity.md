@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/9-ai-tools-that-can-help-you-peak-your-productivity-article-106238814/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: timesnownews
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New artificial intelligence tool can help in nerve disorder screening"
-    excerpt: "If the car is moving on the road, you want to track the car, said study corresponding author Phaneendra K Yalavarthy, Professor at CDS.In the same way, we are able to track the nerve throughout the video,"
-    publishedDateTime: 2023-12-22T08:07:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2754800-new-artificial-intelligence-tool-can-help-in-nerve-disorder-screening?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_04_2023_13_46_43_075506.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "You Can Run a Generative AI Locally on Your Computer"
     excerpt: "To get started, you’ll need a program to run the AI, and you’ll need a Large Language Model (or LLM) to generate the responses. These LLMs underpin AI text generators. GPT-4 is the latest one powering ChatGPT, and Google has now pushed out Gemini as a new and improved LLM to run behind Google Bard."
     publishedDateTime: 2023-12-26T04:50:00Z

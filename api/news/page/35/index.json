@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-11-29-the-best-online-courses-for-ai-chatgpt-midjourney-and-more.md",
+      "title": "The best online courses for AI, ChatGPT, Midjourney, and more",
+      "excerpt": "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/best-ai-courses",
+      "originalUrl": "https://mashable.com/article/best-ai-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-valley-is-leveraging-contextual-generative-ai-for-the-sales-industry.md",
       "title": "Valley Is Leveraging Contextual Generative AI For The Sales Industry",
       "excerpt": "How a startup is building their own generative AI models that while intentionally small in size are big on leveraging data quality and domain expertise.",
@@ -1083,49 +1126,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-expands-big-pharma-partnerships-on-manufacturing-ai-and-rd.md",
-      "title": "AWS expands big pharma partnerships on manufacturing, AI, and R&D",
-      "excerpt": "Pfizer and Amazon Web Services are just another example of how artificial intelligence is working in the background in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/aws-expands-big-pharma-partnerships-183441706.html",
-      "originalUrl": "https://www.aol.com/aws-expands-big-pharma-partnerships-183441706.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/GYDRMJGSeT4MGXMwcOYVhw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/aol_yahoo_finance_433/54b41e878deea19caeacbc58d77cb249",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/aws-expands-big-pharma-partnerships-183441706.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/aws-expands-big-pharma-partnerships-183441706.html",
-      "publishedDateTime": "2023-11-28T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

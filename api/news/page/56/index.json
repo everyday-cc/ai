@@ -2,6 +2,58 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-11-09-gms-cruise-slashes-contractor-roles-after-driverless-car-suspension.md",
+      "title": "GM's Cruise slashes contractor roles after driverless car suspension",
+      "excerpt": "Cruise announced a round of layoffs Thursday affecting contract workers who worked on its driverless ridehailing service, CNBC has learned. The cuts included those who help with cleaning vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "originalUrl": "https://www.cnbc.com/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107331501-1699541683835-gettyimages-1248230028-SXSW_2023.jpeg?v=1700449043",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/11/09/gms-cruise-lays-off-contractors-after-suspending-self-driving-cars.html",
+      "publishedDateTime": "2023-11-09T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-09-theres-something-going-on-with-ai-startups-in-france.md",
       "title": "There’s something going on with AI startups in France",
       "excerpt": "And if you look at the founders of Mistral AI, the French AI startup working on open-source large language models that raised a €105 million seed round ($112 million at today’s exchange rate), all three co-founders Arthur Mensch, Timothée Lacroix and ...",
@@ -1126,49 +1178,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-09-facebook-and-instagram-will-require-political-advertisers-to-disclose-ai-deepfakes.md",
-      "title": "Facebook and Instagram will require political advertisers to disclose AI deepfakes",
-      "excerpt": "Meta, parent company of Instagram and Facebook, will require political advertisers around the world to disclose any use of artificial intelligence in their ads, starting next year, the company said Wednesday, as part of a broader move to limit so-called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "originalUrl": "https://www.wapt.com/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9wc2f3cm8wmdbomzu2adhncdhyyxni-l19wywdlcy9jbg9wczdwog0wmdawnjdxzmhzyjc3cjq3-jpg-654c4fe626469.jpg?crop=1.00xw:0.844xh;0,0&resize=1200:*",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "cdnAmpWebUrl": "https://www-wapt-com.cdn.ampproject.org/c/s/www.wapt.com/amp/article/meta-require-political-advertisers-to-disclose-ai-deepfakes/45777807",
-      "publishedDateTime": "2023-11-09T03:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAPT",
-        "domain": "wapt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

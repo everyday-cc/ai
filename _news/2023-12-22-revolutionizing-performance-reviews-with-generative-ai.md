@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/22/revolutionizing-performance-reviews-with-generative-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
-    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
-    publishedDateTime: 2023-12-22T07:59:00Z
-    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
-    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 66
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI Use Cases: 71 pc Firms Experimenting With Artificial Intelligence For Biz"
     excerpt: "About 71 per cent of enterprises globally are experimenting with real use cases for generative AI and over the next decade, generative AI will be the fulcrum that accelerates business growth. The mass adoption of generative AI has transformed customer and employee interactions and expectations."
     publishedDateTime: 2023-12-26T00:48:00Z
@@ -63,18 +47,20 @@ related:
         height: 720
         isCached: true
   - title: "AI to give fillip to new industrial revolution"
-    excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
-    publishedDateTime: 2023-12-27T01:58:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+    excerpt: "Artificial intelligence has the potential to revolutionize various industries, spearheading a new technological and industrial revolution"
+    publishedDateTime: 2023-12-27T08:41:00Z
+    webUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261"
+    ampWebUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 61
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202312/27/658b81dca31040acaf834c67.jpeg"
-        width: 1078
-        height: 718
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/ai_artificial_intelligence.jpg?itok=O4S0Lo5T"
+        width: 750
+        height: 393
         isCached: true
   - title: "ElevenLabs Review: The Most Realistic AI Voice Generator?"
     excerpt: "Looking for an honest ElevenLabs review? Discover if it's the most realistic AI voice generator and whether or not it's right for you."

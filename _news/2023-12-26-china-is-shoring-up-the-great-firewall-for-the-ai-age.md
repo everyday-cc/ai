@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "From cars to smart homes, AI is changing everything"
+    excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
+    publishedDateTime: 2023-12-25T22:59:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202312/26/658a04bda31040acaf8337b1.jpeg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "How AI is transforming the video surveillance sector"
     excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
     publishedDateTime: 2023-12-26T15:49:00Z
@@ -55,15 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "From cars to smart homes, AI is changing everything"
-    excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
-    publishedDateTime: 2023-12-25T22:40:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 19
 
 secured: "7Ow+z8RFZw8LaUWAKBEJxKvSKcAjn4Wpe9LkQEBOvKsMGCPUZLvMJrYFdReVXOmsHjvUIbabI5WlX1jBTfnmQBnp1HMj4jbrTynt1xx/Ge8KFkHxf3bPyFm6YuUwQRrPp73Q+49J7Dcw++1uJU00Lc49GS6m5W/9yT1mklp466nFSu8a8jLeo5fSna1pqJVcPLeB1NpdciA/3SUD5HOa73iI3Z30jB82jEqy77v7LGKA8GgyPyr8ImtdlbQLpSPFWZfYgb6y/WeAdXxivUd7+bF1BZ0IzW12GbA4Z6UJaygj/2KiBknoSa+wcDGx8g0wTzuSU/u9I1yDinEWSdszlZ0zNjfaAqmsHmk7o1AaTPc=;JO9gdBnWCC23Dw/oczRmxQ=="
 ---

@@ -1,27 +1,30 @@
 ---
 category: news
 title: "AI to give fillip to new industrial revolution"
-excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
-publishedDateTime: 2023-12-27T01:58:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
-webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+excerpt: "Artificial intelligence has the potential to revolutionize various industries, spearheading a new technological and industrial revolution"
+publishedDateTime: 2023-12-27T08:41:00Z
+originalUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261"
+webUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261"
+ampWebUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
+cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
 type: article
-quality: 39
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: 中国日报网
-  domain: chinadaily.com.cn
+  name: The Daily Star
+  domain: thedailystar.net
 
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202312/27/658b81dca31040acaf834c67.jpeg"
-    width: 1078
-    height: 718
+  - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/ai_artificial_intelligence.jpg?itok=O4S0Lo5T"
+    width: 750
+    height: 393
     isCached: true
 
 related:
@@ -40,22 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65846043702a508c2f2c1107/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Revolutionising Risk Management: The Impact of AI and ML in the Financial Services Industry"
-    excerpt: "AI and ML have the potential to transform risk management strategies in the financial services industry. Through Federated Machine Learning, transaction monitoring and risk discovery are enhanced. While challenges and barriers persist, proactive ..."
-    publishedDateTime: 2023-12-22T07:59:00Z
-    webUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2"
-    ampWebUrl: "https://www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business-technology-review/revolutionising-risk-management-the-impact-of-ai-and-ml-in-the-financial-services-industry-2?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 66
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=78b8ae0b-47c0-59d7-88ed-9f31f7ef332a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.91463&width=1200&height=675&x=1.0E-5&y=1.0E-5.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Generative AI Use Cases: 71 pc Firms Experimenting With Artificial Intelligence For Biz"
     excerpt: "About 71 per cent of enterprises globally are experimenting with real use cases for generative AI and over the next decade, generative AI will be the fulcrum that accelerates business growth. The mass adoption of generative AI has transformed customer and employee interactions and expectations."
@@ -88,6 +75,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hl0K9ea+vDw63Uy5l0GyYWMXc+3Vo2RCnRMiV4uxUuD3Lf5uQyLcqzF7EQADeTKcgMzf1WZ7lezRg8EK58IX5WaQZusUFgbkZWxocPc4glGbyCgAYs7T/W1NO3GkWCKlVMzpABB24YXiRdAF9EHoRmeykuU3tMOJCHvUBRpt3+reD0h0q2PujM1ni7bDKVDjhQl0LMS+VaiQkwE8UKEkZlnQy+AdTE5O57U6miZqHRp7dXIhTQKA1Jg84fULdmX+5hCTYGrZzu3H4MOjFuBFzQ4Z99t6TaJ1i2fSKs2ALw/1w56yZ/ehHV0J7+y6R4JJQGE1tBrnW2aP7efDReIKloPZte1pR6GGxGjFPkNnwzc=;4BckkUtr4OL+q+rT8BGkRg=="
+secured: "gZrtT69m93dZqInkUNmgBWt4w6yMioQS+8GvAQH98OXzHLywr1KK+eGkys3Z1xZvahrNeiHGcI1GvzlhN15Y/CW1x50Xnem/FwKiGBAma44wwwbGF12ol4eL4rJWi2xSR2bnzPGHTsy07trJ6LBqye7HNSRwpcb5+orpRsrzv34ru0X/jlDmjM9dttb7JPLCMj6uPlVw0Ikog8lAgq9otsfxeE19JXgR05OonW3Od8AfkbfgtHgTe+Yi4rJrI7IwFWhTFBTcnt7DVS7RpP21Ld7SYM3NEePhgENtxJ0zuKyOsG1rKXvUW73Tz7fgodc8V4FnQkpda/WTnP7QtaGo2j8tWiAvmh9/uG51OjqAv1U=;UwQqauHk6CwNNtJku6KqLw=="
 ---
 

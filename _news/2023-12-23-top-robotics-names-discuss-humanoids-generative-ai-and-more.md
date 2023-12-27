@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 850
         isCached: true
+  - title: "How Generative AI Will Change All Of Our Jobs In 2024"
+    excerpt: "As we step into 2024, the landscape of work is undergoing a transformation unlike any before, primarily driven by the advancements in Generative Artificial Intelligence."
+    publishedDateTime: 2023-12-27T07:48:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/27/how-generative-ai-will-change-all-of-our-jobs-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658be489a32c5a1cf455177a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "5 stages of AI maturity in marketing: A blueprint for the marketing revolution"
     excerpt: "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper"
     publishedDateTime: 2023-12-26T05:35:00Z
