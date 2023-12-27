@@ -43,22 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "5 Promising Fitness Tech Niches For New Startup Projects"
-    excerpt: "From personalized AI-driven fitness plans to engaging virtual experiences ... While manufacturing has a rather high value to entry for new startup projects, specializing in the tech needed for this niche could be a great opportunity."
-    publishedDateTime: 2023-12-22T09:48:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658563e81363936b4fab7890/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 432
-        height: 222
-        isCached: true
   - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
     excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
     publishedDateTime: 2023-12-25T04:59:00Z
@@ -102,6 +86,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 38
+  - title: "Women in Fintech Top 100: A review"
+    excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
+    publishedDateTime: 2023-12-27T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-top-100-a-review"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/f8667fea28fee93f94b50417d0e6853c:cf716e2c7b8bf0b82da50336fd4ecf72/unnamed-1.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Virgo PR Expands Global Tech Practice with Addition of Leading FinTech Nova Technology and Consumer App Start-up Aroapp.ai"
     excerpt: "Virgo Public Relations, a leading integrated communications firm specializing in rapid-growth industries, announced today the expansion of its global technology practice with the addition of two new innovative technology platforms to its client roster;"
     publishedDateTime: 2023-12-26T18:13:00Z

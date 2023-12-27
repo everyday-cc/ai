@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning"
-    excerpt: "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a"
-    publishedDateTime: 2023-12-22T10:49:00Z
-    webUrl: "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "As guardrails fade and AI deepfakes go mainstream, experts warn of election impacts"
     excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest."
     publishedDateTime: 2023-12-26T10:48:00Z
@@ -66,6 +52,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "j6W/lRWrQWRkkvZyIWP6W87zALZ+luShhXLlkv8d166WBeS4pvPLrTgLNxOvAnQyMyHz5ib4BMyP0PEU4+S1uBmn83ChKorY1poFcstgxkJ9kKFPh2rXc0C6FsMPQ6kZi65GuBuJcuJ5gVC6sYZe7FWugs1gaYnfgt9v5v4tVeGOg8zRua1kJFybeF6/udJ/4CCEZ3tI1l1g9wPSfa2wXRNr4eEY+CP8Bkg7Uf/UyQVkKgNPEWy03cokdbYDZZjpWxc2UUAJgDZyRD0BNtEq1WNSY134lbiJGDSI9Tm/2ELFOZNdMTkbDAs8GheY6anvGDTZWVr4MlkCPgX6kFxxq2bDX1cNkKIIXsDjJfhA//s=;n22Lh+S5c6a/tBILKhgC5w=="
+secured: "zyW5HgBQc1NjQ0jUtr3lVh6YzMjwLpXoVI52QPwy/Xpvn45RGko0OWCC0d/Q0HT5amhgUXuj4q6MarwUL62RnlN4F1JWSnL2pmAMHWri9xhqjwaSoK+cWYbK2qOQz+RO7D+mhmF1xiNveM35UasXq8WcR/Z06BVvTpHkwvXXqR68MsZR9E8Ef9HnSkVuCTmroXU2KtDB9+YaST/g9uKrlBlj1HvCRkNBlJ6fzZ68klOnY+5eybIzx+Tuuax+P5pfE0m9QY8wyYgcG0xKQN0ZkM2NjKXpa0v5TMZesmImUtQ2UcKSOLQxrIYadK23VTlfeGYw+tLmniIsEhZLyu9Y78k5G2J4XtgIUa+IdwR8IhK1B7SoNqgNPW5If3v5GxERh962jVOxL9GdKt+nctIWrnwWTipQdpLEY62Mrb3IDeIyqN0v0eRNprWRp759nc7sxeYIU2uFy+BiaHyqXhNPqGAZbIqGOGZs0fF442nJAsI4bWyFpfKbxZ/BC2Rilvjxox64Sk8QvObcdowPo5Bkow==;3eQeqS4p+w+Kw6rq64gdjA=="
 ---
 

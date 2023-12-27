@@ -33,6 +33,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Chatty robot helps seniors fight loneliness through AI companionship"
+    excerpt: "Some American senior citizens have a new companion to help them combat loneliness: a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct humanlike conversations with its"
+    publishedDateTime: 2023-12-27T09:00:00Z
+    webUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html"
+    type: article
+    provider:
+      name: Press-Republican
+      domain: pressrepublican.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/68/56880c94-a42d-11ee-947d-13d248d7d7c4/658b37a1780f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot plays constant companion to elderly"
     excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
     publishedDateTime: 2023-12-24T10:14:00Z

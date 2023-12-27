@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/meet-elliq-an-ai-ena
 webUrl: "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatty robot helps seniors fight loneliness through AI companionship"
+    excerpt: "Some American senior citizens have a new companion to help them combat loneliness: a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct humanlike conversations with its"
+    publishedDateTime: 2023-12-27T09:00:00Z
+    webUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html"
+    type: article
+    provider:
+      name: Press-Republican
+      domain: pressrepublican.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/68/56880c94-a42d-11ee-947d-13d248d7d7c4/658b37a1780f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chatty robot helps seniors fight loneliness through AI companionship"
     excerpt: "\"It's entertaining. You can actually talk to her,\" said Loaiza, 81, whose ElliQ in suburban Fort Lauderdale nicknamed her \"Jellybean\" for no particular reason. \"She'll make comments like, 'I would go outside if I had hands,"
     publishedDateTime: 2023-12-26T13:09:00Z

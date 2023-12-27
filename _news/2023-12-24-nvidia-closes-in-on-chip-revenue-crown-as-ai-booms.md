@@ -55,20 +55,6 @@ related:
         width: 904
         height: 564
         isCached: true
-  - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
-    excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
-    publishedDateTime: 2023-12-22T10:27:00Z
-    webUrl: "https://www.techspot.com/news/101309-intel-ceo-nvidia-extremely-lucky-become-dominant-force.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 65
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
     publishedDateTime: 2023-12-22T20:30:00Z

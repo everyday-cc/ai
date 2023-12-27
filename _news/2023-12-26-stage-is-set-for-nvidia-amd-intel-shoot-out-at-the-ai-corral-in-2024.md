@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
         width: 904
         height: 564
-        isCached: true
-  - title: "Intel CEO says Nvidia was \"extremely lucky\" to become the dominant force in AI"
-    excerpt: "Gelsinger began by lamenting Intel's past mistakes, noting that Nvidia CEO Jensen Huang \"got extraordinarily lucky\" with his bet on AI and Intel could have been just as lucky had the company not given up on the Larrabee discrete GPU project. Gelsinger went ..."
-    publishedDateTime: 2023-12-22T10:27:00Z
-    webUrl: "https://www.techspot.com/news/101309-intel-ceo-nvidia-extremely-lucky-become-dominant-force.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 65
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-22-image-11.jpg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "Nvidia closes in on chip revenue crown as AI booms"
     excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."

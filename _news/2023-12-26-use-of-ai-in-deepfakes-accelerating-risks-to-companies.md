@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning"
-    excerpt: "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a"
-    publishedDateTime: 2023-12-22T10:49:00Z
-    webUrl: "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "As guardrails fade and AI deepfakes go mainstream, experts warn of election impacts"
     excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest."
     publishedDateTime: 2023-12-26T10:48:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "From cars to smart homes, AI is changing everything"
-excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-publishedDateTime: 2023-12-25T22:59:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+publishedDateTime: 2023-12-25T22:40:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
 type: article
 quality: 39
 heat: -1
@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "China is shoring up the great firewall for the AI age"
     excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-    publishedDateTime: 2023-12-26T11:48:00Z
-    webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+    publishedDateTime: 2023-12-26T15:29:00Z
+    webUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How AI is transforming the video surveillance sector"
     excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GwA/KBBQzk2pHc8KAKZRI5MOCdFId40hnFM+wfByg4LtVAi7nyXoNJibXxN28lagrjtWjDVhZkxeNUYMrJxa02wytBHgU5bBb0sy2CAbCyrsnYal49b6+jFoAY5LvImW4Nn8VdL/B1TB3GRogum8KQgSSLxc4/mzc3gxyF8UDYZDgPcagQSd7mIrEGpvxlf/mnSC9KV8z6U9cL+oKOKX8M+hJJFUNhPsZAYf4xQ1J3qgRUdVyE6zD8TrhdEZe3MsVTeJ2+f9OlX4dKybrHlPOyTdDfYOTP4wiyZztInSiFM3aIrnVVy0s4taO8ICHThKBmH0W0Mn+xbR0bkf8R1AstPYMa9pe9mcD2s1IAP2obY=;28JZbj27ZokNH5qGIXFT8Q=="
+secured: "Cn8C7clVXCQ11cCVvonlV43I5EoMe1/EW+e3SuKkZLAd0StwtBkijE4PP+/5PYbRFH1UWERurDXqi4sQ3J1xTWYRa7QmXBNKaXEpGoEEZxuuRtt9ejsF9Vfl6GALk1ZlJOqxY8538WIr0sYwigpBXIwemk77Pz7f1T3mWThXzw2T7OhdylZGVTRH/ILVBfs8xIF9u2J+DD3+OQA+8OsdckJUOaOroSlqU6oEw1apJZ0/AWA+qNBS+eAbbeiq7CrRZ11XkTKBvq9P8tvrZNUpXL5TYuzL5sxOomjKDOknn0/LLsTNyMaCugbMBRf76PHnrjeapHBD/OnCtZdu6mRMnhQdjOxukEYtWvYxd8A0r6g=;06IeQCjOIl45PFkMUu+k/A=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: aol.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -162,6 +161,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How This Startup is Making You Eat Healthy with Generative AI"
+    excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
+    publishedDateTime: 2023-12-27T09:39:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-startup-is-making-you-eat-healthy-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/How-Healthifyme-is-Letting-You-Customise-Food-Choices-with-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Artificial Intelligence Has Entered the Resale Market"
     excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
     publishedDateTime: 2023-12-25T14:00:00Z
@@ -172,6 +185,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "4x3Ib/CyS1TrIJgmTFYqlcx7Ouvi9FOwtHo89glpfND344a2az98849h8+dVQy0uXkhSRwTlCps6wk5eFVq0TDQcIQCuocFw2QFgyFoPqm218t9TM0SCBxMJMjHdKF7eYJGrOUy/Z19CCTOe2xA29q6hoA6fRvNSJjm6R+B4QWn9dZVINhf/mVLhtZ+M2bHRTqTlmN+NaxzC+QywxGQFd16B1Mx1A0DZX5Vjk6FXyFb9jD3AM5LuLu5VModpbn8o0bpCVD2sQx8PNB/PKRaUiJFn+naVp1k0EWaZ8I0Nu/SoPbMKPEskbg304ihgMVD9zvrLfF/H3X1LG+OIeDaNs7ZUgGV15bLKQ6Ew6oSvMsk=;jX3tM8eE4LJMybF+bzcolA=="
+secured: "iFVbvMCRvfvLHd8+rE6IrVveSwppECi4XFz0x8fuvtU2bXvfYeTLx9kKYA6nQxh5spsL86ijhfFNLgcn8qDGMSe05VgjWILy4MZkJ6DAyreUr0LEG7YrfWsUgt3zZ48CgMPYupKsOT603osYmDTRqkjuxr+icp0AT9SyFEpgd4i6c4R3Dmr34yFdd5TaeRxmT/0gkb9CttgZ3EWUIiGiIoo3PvFp5ptQPmBsQKFJq3tLNR3RikQEcZ7VNHJcL66FTHEVtGyK+NtYd2ZmWEw76D6BZypZxV/xJedy/gn+2WO1CcQTYjtpXL8BpIVnIAusgttIr6sH8i0tZuxJ3O6bamwQjGtBDvI83fXkEjCmetY=;NljVnavY5pnY22jT89x6dA=="
 ---
 

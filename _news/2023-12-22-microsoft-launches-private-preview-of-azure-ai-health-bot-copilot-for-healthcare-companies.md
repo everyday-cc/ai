@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azu
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/"
 type: article
 quality: 126
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Allen & Overy Collaborates with Microsoft to Debut AI Contract Tool"
-    excerpt: "Over 1,000 of the firm's lawyers are already using the tool internally, and five clients have already agreed terms for a January launch, the firm said."
-    publishedDateTime: 2023-12-22T10:29:00Z
-    webUrl: "https://www.law.com/international-edition/2023/12/22/allen-overy-collaborates-with-microsoft-to-debut-ai-contract-tool/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/378/2023/11/AdobeStock_545401283_Editorial_Use_Only-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
   - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
     excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"

@@ -1,30 +1,27 @@
 ---
 category: news
 title: "AI to give fillip to new industrial revolution"
-excerpt: "Artificial intelligence has the potential to revolutionize various industries, spearheading a new technological and industrial revolution"
-publishedDateTime: 2023-12-27T08:41:00Z
-originalUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261"
-webUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261"
-ampWebUrl: "https://www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
-cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/ai-give-fillip-new-industrial-revolution-3504261?amp"
+excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
+publishedDateTime: 2023-12-27T01:58:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
 type: article
-quality: 61
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Daily Star
-  domain: thedailystar.net
+  name: 中国日报网
+  domain: chinadaily.com.cn
 
 topics:
   - Natural Language Processing
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/ai_artificial_intelligence.jpg?itok=O4S0Lo5T"
-    width: 750
-    height: 393
+  - url: "http://img2.chinadaily.com.cn/images/202312/27/658b81dca31040acaf834c67.jpeg"
+    width: 1078
+    height: 718
     isCached: true
 
 related:
@@ -75,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gZrtT69m93dZqInkUNmgBWt4w6yMioQS+8GvAQH98OXzHLywr1KK+eGkys3Z1xZvahrNeiHGcI1GvzlhN15Y/CW1x50Xnem/FwKiGBAma44wwwbGF12ol4eL4rJWi2xSR2bnzPGHTsy07trJ6LBqye7HNSRwpcb5+orpRsrzv34ru0X/jlDmjM9dttb7JPLCMj6uPlVw0Ikog8lAgq9otsfxeE19JXgR05OonW3Od8AfkbfgtHgTe+Yi4rJrI7IwFWhTFBTcnt7DVS7RpP21Ld7SYM3NEePhgENtxJ0zuKyOsG1rKXvUW73Tz7fgodc8V4FnQkpda/WTnP7QtaGo2j8tWiAvmh9/uG51OjqAv1U=;UwQqauHk6CwNNtJku6KqLw=="
+secured: "wfIaL9nOmODdGocyIGw5+A6/dahFyPld3tPO6QnbrSENq+3ceqpTqGBDmPJJcSjtZ2A2lvXzN3GCMFeZ312ZvYrprLt4qXDgmomjhhyuyfO6CTFkto1dD6+RZYh90Tp28ROWeoy/2X2kNWOlysQTTUKgxRI/TdAUB2mxIK41VDDAUtQp3sDrgRovauRAJCzaFp03z88aEJv4gTJ589zsw4hi90zkuPAtpOC2yhdBQwndpK+Y7ogegLs6mqN+1+q1c9wFuDCIiTtAh3erhYwDa5ki/QvjqcJXHcarPsXE401Yf8JxnQ9CIFvi8kznbqVjNu6jY4BcCnSSPf4WtHz+80F2wR7sNew9HenZwh0UhcA=;aIegstyjod15bnbXy4nKeg=="
 ---
 

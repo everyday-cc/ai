@@ -153,15 +153,29 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How This Startup is Making You Eat Healthy with Generative AI"
+    excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
+    publishedDateTime: 2023-12-27T09:39:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-startup-is-making-you-eat-healthy-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/How-Healthifyme-is-Letting-You-Customise-Food-Choices-with-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
         width: 1200

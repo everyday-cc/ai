@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-w
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: CBS News
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning"
-    excerpt: "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a"
-    publishedDateTime: 2023-12-22T10:49:00Z
-    webUrl: "https://menafn.com/1107646232/Expect-A-Deepfakes-Boom-As-Hackers-Master-Use-Of-AI-Machine-Learning"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/22/I_20e52image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Use Of AI In DeepFakes Accelerating Risks To Companies"
     excerpt: "Board directors and CEO’s need to increase their knowledge of Deep Fakes and develop risk management strategies to protect their companies."
     publishedDateTime: 2023-12-26T15:53:00Z

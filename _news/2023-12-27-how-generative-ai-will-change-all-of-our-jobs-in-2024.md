@@ -151,15 +151,29 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "How This Startup is Making You Eat Healthy with Generative AI"
+    excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
+    publishedDateTime: 2023-12-27T09:39:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-startup-is-making-you-eat-healthy-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/How-Healthifyme-is-Letting-You-Customise-Food-Choices-with-Generative-AI.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
         width: 1200
@@ -175,6 +189,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "XpZt35wS/HzBWb/BrPdwJB99gLPUCImBtXnGVA8L4MWQbbn7a/AjFNj9NL4clpYqyhBvUXZaFnLs34G94gGdIYrdUYhx8XemZxGpBi4lvh6JNmAf8p5lb7/c8V6E6doBj0aJS9Fi9t7YsXbjHAqE3ukkcTXJQyvDKsTjrEM8xO4rb1G7BkNIdqg0dXv5VSzno/oCGPtg9f5LV5xBr/5B+/jNo4c9QI8TTJLVr2EAU5TxqiUVqX3VkzldkiLnY64aKwBhZHJAeko2AmvBGhA4GrCjxTsry/juKa8aWJV/yU/TTvr4Wqv6hduV4kIGsY5V3VTgeJ9aw1rxS13h8vN5Z+nse5i7iz/YdqkKpDvwjvQ=;Bh4gWmmWGFnAGcQBXegZiw=="
+secured: "i+ro+30amT53S/KIfogTBYky7cPyMzKAw9yPA1TNb8KKuAycQGNc9noUd+ExM+wvVYjadHBGy4RmSiizB9hywXgctSufPVdBypBccJqveVe+e8fxcWdZDcBDUz6eus4DZQdqrkwO5BjN1dB1dwZZeR7cKWQcBEhpB18j763wUuN3KGUuSj7hWcYr877v+AmKwJW23GNwIdKHB0tX11HAw+ijMTMbZhyMDViwPZ81YtJ0h2BPfgiWeq0UQgIOsVQUIZ44oZuHCnVjVAITrBsq0ny4yi8+byW0Tar4AA/WzEKN9iRgGeYhdlO3yvkyXtYB8kOD9hLN5BrUL4lsv27Zb0JloU7b8+NerfP7gLik3U/qrLi5HLCnCyqIstVU843oMqTNOaBcJlGoaa1EBDBwgjlK5KV6JC/XNuTP+YmWl86UW9Ch60uTkOgUV5YpTQtjCzjlHyAvTiSHTly6acn3gpOoCbSflQPAX64/t50svfXYMEvXqgNEYm+yCOr2LqP1WEqJ1FxVoDwBFLELF+F7yw==;QIvQ46kWLSSJiJ0I2t5Rxw=="
 ---
 

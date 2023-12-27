@@ -34,6 +34,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more"
+    excerpt: "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024"
+    publishedDateTime: 2023-12-27T09:44:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 67
+    images:
+      - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "DBZm1NulADFwXRkKdeFgEFMUAU5v67hbnJaakoGIMU3briFSqrOiQUY++GQaaxOxiQFoEhQBbgHfg1dqf3i+kXrAfmL21g6lS88mhe125YOz9a4gbXzA31OZXaKEoxv0GDyEblsaLqdjZFm7wbT16qHthqYgnZbXBQ09ZPFrrSxbTkwfFHWbx8Scy1WelSi+s2vHs4dZvgNe603qbaC8RpUyN/7GWpuAozT9baUmHu4AKEYll9zjUW2pW6CjnOip/eI+U+gqrsmsXnPXGQA+AXhCa5Dgfqi7Q226DSObjhvRzf3QtGQSFq8Hfe85MIb9/QfTubK1FtWtH2d8TbCUrW2qLgKmxWgKjCbASotphWkwSMub4wkDX5t+Ck8vJlJL+1rqrXwyS+5qAJW735B3xRaLdh8qZwt5oskDz+iChTxTqaskP9KIwp4Bu9tdLmOFgYFdLR4H3oGyy6mB4GRzfU+tA2MJeN/SsSHWa5EJadDXqLaq0lMybWY0gW1JHMkgoXago1DGoM+M80nAGwEeMQ==;q4E8bI/0CWqDQe/vpPW4Ng=="
 ---

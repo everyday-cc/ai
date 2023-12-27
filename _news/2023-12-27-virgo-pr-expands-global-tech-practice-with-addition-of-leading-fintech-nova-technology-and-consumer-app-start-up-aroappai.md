@@ -34,22 +34,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "5 Promising Fitness Tech Niches For New Startup Projects"
-    excerpt: "From personalized AI-driven fitness plans to engaging virtual experiences ... While manufacturing has a rather high value to entry for new startup projects, specializing in the tech needed for this niche could be a great opportunity."
-    publishedDateTime: 2023-12-22T09:48:00Z
-    webUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/"
-    ampWebUrl: "https://www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abdoriani/2023/12/22/5-promising-fitness-tech-niches-for-new-startup-projects/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658563e81363936b4fab7890/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 432
-        height: 222
-        isCached: true
   - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
     excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
     publishedDateTime: 2023-12-25T04:59:00Z
@@ -109,6 +93,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 38
+  - title: "Women in Fintech Top 100: A review"
+    excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
+    publishedDateTime: 2023-12-27T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-top-100-a-review"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/f8667fea28fee93f94b50417d0e6853c:cf716e2c7b8bf0b82da50336fd4ecf72/unnamed-1.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FYA95XYTFZcMPpR7bWBjWZoLgmT1cndIAT6v2Wc68BzypnLaw60qhQCmQUvk3DfHzhi11KFz8H1Tuv6Wnetnrg9YIoi7BBvyjPz8+viTT7qdw0Xn9zalwaT6r/GNzQov95dsiNaBkhFXT453WMy2S3IhPzU5jCoVUzp9sHQRO18vJZWZfJjV1Hw9ICJQxl6rWs5MS4OnAX3/RyCa07Tjqdl8LK0WId+ujXWVwnms3rKzK5IxhGnIplx8ElJIL0V5Z2pKrrolzJMG8QLYoobJSfuIUdBQFUsnJteqDvIvCYl0znXWqvfTPNU+47aTzOjy1plr3Dpu2oysgz0xcq4kgT7gx9xwhXAYP178hfdWn/xFuiAULTik8PdMwvXy4+U0uO/4Ta5hRmBQvUGaSVve5fUWn2capVtG60m/gC0MsvP0RxSsJmb/R5By/xgvVFrEpyiula6U9ps9nXigBNzROwfdDqQzRSP/0Xi+a0pBaGUOGqDjbJ5k5oGJx22gV3YVjXoIR1v4et0eXRy+F1Cgvw==;ki8Nx9ra7XjVS11RMnH0YQ=="
 ---

@@ -2,26 +2,26 @@
 category: news
 title: "China is shoring up the great firewall for the AI age"
 excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-publishedDateTime: 2023-12-26T11:48:00Z
-originalUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
-webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+publishedDateTime: 2023-12-26T15:29:00Z
+originalUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
+webUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Economist
-  domain: economist.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,9 +42,9 @@ related:
         height: 675
         isCached: true
   - title: "From cars to smart homes, AI is changing everything"
-    excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-    publishedDateTime: 2023-12-25T22:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+    excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+    publishedDateTime: 2023-12-25T22:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
     type: article
     provider:
       name: 中国日报网
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7Ow+z8RFZw8LaUWAKBEJxKvSKcAjn4Wpe9LkQEBOvKsMGCPUZLvMJrYFdReVXOmsHjvUIbabI5WlX1jBTfnmQBnp1HMj4jbrTynt1xx/Ge8KFkHxf3bPyFm6YuUwQRrPp73Q+49J7Dcw++1uJU00Lc49GS6m5W/9yT1mklp466nFSu8a8jLeo5fSna1pqJVcPLeB1NpdciA/3SUD5HOa73iI3Z30jB82jEqy77v7LGKA8GgyPyr8ImtdlbQLpSPFWZfYgb6y/WeAdXxivUd7+bF1BZ0IzW12GbA4Z6UJaygj/2KiBknoSa+wcDGx8g0wTzuSU/u9I1yDinEWSdszlZ0zNjfaAqmsHmk7o1AaTPc=;JO9gdBnWCC23Dw/oczRmxQ=="
+secured: "n4nOpnO2LgEWQ6q4NmHhKdaT2qJrKzOKN+QH2N8ju/Vk42cla5bwuY38XjVMfKhlz7ALwy35/jeEyuagSMJz+CIizjeCDDXZ+/3ShG4KKOL2YcU7bZZFUTLdnLPf7KsGa5e0aNKhppRn7CaHI0c3PEhS46FaNDjHJr2KjC59x17MLYbZ1Y9rLM0bmtRig0thIDLoopEVsiQupxMb1x/A+JOFErhDaBNnnh89nc4yMyYQCWPEDtF/iKdpwzcT12tdsoNQWE1hFIdkd2nTlSuDYYZYDM/gGjT8QiXYJk5rlf+lmADrdGJ9piZomF/V1HUP3WiIazJTThTsHlEqEIwmgLTsS4HwucuoA1zhxYmJzaA=;BW+Gesf73ef9GC8BrbePeQ=="
 ---
 

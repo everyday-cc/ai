@@ -43,22 +43,22 @@ related:
         isCached: true
   - title: "China is shoring up the great firewall for the AI age"
     excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-    publishedDateTime: 2023-12-26T11:48:00Z
-    webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+    publishedDateTime: 2023-12-26T15:29:00Z
+    webUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
     type: article
     provider:
-      name: The Economist
-      domain: economist.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
-        width: 1280
-        height: 720
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "From cars to smart homes, AI is changing everything"
-    excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-    publishedDateTime: 2023-12-25T22:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+    excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+    publishedDateTime: 2023-12-25T22:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
     type: article
     provider:
       name: 中国日报网
