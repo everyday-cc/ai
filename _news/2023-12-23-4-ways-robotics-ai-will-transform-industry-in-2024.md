@@ -49,6 +49,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Your Next Surgeon Might Be a Machine: How AI is Transforming Healthcare"
+    excerpt: "Robots in surgery? AI predicting diseases? It's not sci-fi anymore! This blog dives into the fascinating world of Artificial Intelligence in medicine, exploring how it's changing diagnosis, treatment,"
+    publishedDateTime: 2023-12-27T00:18:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2023_16_35_38_471739.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SIh+29wKbqjzTa+RQywjd7I2bz76AqP18tdLXWhWSvHgViG3CjiRffiG8R/oPXQtk7X72+82RdyYXEKR4RO7OBdiZ2Azt/KaziEZOIKU9Mwj/p2LeMuvfXqHCJG9BmSiOXMi+YOocMUUhCxgNfdeB5QC6+n3fPRcgUNAyTg6NpsIaqmalVUfoiZpJeTPkjrtIn4Ps8RT2N/Jk4mVO968hujBno44B9FJH8dYudF53WtYE7MuYLJ0GOJNZ25mQoDRS8KDIH83YPx+2/8wqOeK+Gk4xKcTm1q8bh50FLcg6v2k7KUousiGrw9/c4iTkE1H6liXa4s0b4Q0OpmUfEI4L06B2eMAg6wWh+XobFw1O4HB+pAg8V9/Nipz9KGf07njPaOXTdaw9FpRksmVibuUMf/Q284lij1/KcyLj+8QzQiqH6Pq36p7OusMwYSSu7vxy+Q3Bsl+3PsDA11hMuGJItMj7AalG+IE+ROPDlJbEmlHajChil/jVh1wsdnEYF9brASqI+qqJucjJ1ttBjV59A==;MOXDa6aB/tL0MqlpYVWhXQ=="
 ---

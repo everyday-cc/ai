@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "The Ancient Magus’ Bride AI Controversy Sets A Bad Precedent For Manga Translations"
+    excerpt: "It seemed like only a matter of time, but if AI is going to be used to translate manga, it's worth confronting the costs head-on."
+    publishedDateTime: 2023-12-22T18:30:00Z
+    webUrl: "https://gamerant.com/ancient-magus-bride-ai-controversy/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 13
+
 secured: "KolrNDWF4XpMzKPps+vySVDSGB7oqgFph5TsxLE3VwXzAGmOMZVrVMW++VytNm3AxBA199b2WsEEpyOHJ9aktIUzMiE9ux2iLqPPHyuyg9oENGciLI2f1nOZghAdZ43KaVITRJwqUdZJsQJnjMNgB+cSvzW3YJkxhbyBoqJdAW93N8bC19kLcm2CRxf3EixknxtdJml2nB+v38cFZeXT11mSA7f22PekhoLnwdn4Lr9gEJZQIS/zlbOMn9p0hsQAQ48+QCXWZM0j8rLDnH5mL2r7O0wT+AxtxNcEqjxl2m9oemypqSPWU+CsDsFyP5CuPKOCAV8/eP+sRUX5Ugbfl/MfIWP1M3ZlFDSKkXpB93GyQPk6AIS7kpf6Frl+t3kTRK7aI7yXqVlqCK487zUWhTSSGsSrOkm8TPlKnDLas8T+U5EfD3MdbHAjTcCdXvElngV5ef9Hy++uouYYlCyLgctSUhslzb//HjkPpm1dSAplMCadXLiRrbVN3NTHi13ix3Jpa84mkRDdlZWdPPye0g==;4deugfeDwrvlEwxmt2SbFg=="
 ---
 

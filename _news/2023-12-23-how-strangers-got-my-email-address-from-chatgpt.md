@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-c
 webUrl: "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
     excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
     publishedDateTime: 2023-12-26T09:21:00Z
     webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=mc.news"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/438798fc1a6366e98515aeda08b6ca4c79e98986/0_263_7894_4737/master/7894.jpg?width=620&quality=85&auto=format&fit=max&s=aa594f5389e65b0afb81c29f3c9082a7"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI expert warns against telling your secrets to chatbots such as ChatGPT"
+    excerpt: "Prof Mike Wooldridge will address looming questions around AI in this year’s Royal Institution Christmas lectures"
+    publishedDateTime: 2023-12-26T19:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge?ref=upstract.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/26/ai-artifical-intelligence-secrets-chatbots-chatgpt--mike-wooldridge"
     type: article

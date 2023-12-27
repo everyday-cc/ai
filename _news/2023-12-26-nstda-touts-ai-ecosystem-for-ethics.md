@@ -3,8 +3,8 @@ category: news
 title: "NSTDA touts AI ecosystem for ethics"
 excerpt: "The National Science and Technology Development Agency (NSTDA) has created an ecosystem for artificial intelligence to ensure ethics and standards are in place to prevent the wrongful use of AI, according to the agency's chief."
 publishedDateTime: 2023-12-25T21:00:00Z
-originalUrl: "https://www.bangkokpost.com/thailand/general/2712916"
-webUrl: "https://www.bangkokpost.com/thailand/general/2712916"
+originalUrl: "https://www.bangkokpost.com/thailand/general/2712916/nstda-touts-ai-ecosystem-for-ethics"
+webUrl: "https://www.bangkokpost.com/thailand/general/2712916/nstda-touts-ai-ecosystem-for-ethics"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 473
     isCached: true
 
-secured: "ug+RdZVE8aHQpbEL2NCDkoaYoHCNDq6ZPbJPZsO3TskJLKxaoSabH+xj1hpMgH7n5NFeI6gaw6gXnyWO02zymR55j5B9Mb/fdh+kQ4qhjgXIOG7/yal1Wdr2/oNOi5/SUQ9LLU3hN8LqG3uaUZ7Z9nK8ePyFljeZXrwbviy4WuvAGzVEUxRYIo9HNhyR7Y/5MdxTmzR4u7IipeFXojGSLz/4HTuDy5A0w7gT1j9g/dLGkj5kySFOcmQX/oKKxvdWTxxjLc1Ls+WPnVG8aJhIBACLL/DB0AbHPeqQlcxfrS5hYS4nf6/rLr+zvpXWo05evMfeOKl1mkwAs7uDMaHLMTLM4CmIe7f5mx8dgbyR+mgPEMxSx5TQDGIg5ImBQ0C3EZU3BNwKAwmHK36iZQe2OO70rYkB8CkNmQmI1MTrZDL0BXijbWwptCulq4NY5X6VKf/inGQZ/eB4ZyJlOQELUdZ3WpG3qn+DKYyBXlSmY23S237yf9C4T8UREqd5EQ2ei3kly6q4x5Dg9cMvLKzpgg==;Qm3fPX2LfNjKqxgl2aahig=="
+secured: "s3o0TwYta8oWYtReK7M/Txxj1fJdh5Ip4vZVjX4m+FGgTvpFT7aQlRtwq+LRKOl5ZX67PtU3xHlOxTq5ChOMiJSXUNQQ/3+txREBIx0Bfg1KO6sbV6v1TSOW82v7LDjy4Iy9aX0LyFRqAjC3iRTiSwcBkF/ulTyMTYSxpU0n0M/GYLhPATFuUNraiHvMU72vZ6ecBxl8D5jqm/uBT1llJ8l+MvsF6Fjpr22wEt6csfgdbY9waRUcjW3YxpGeLj2gUOJO5TyZZw8mccQN0Flv8Ruj8dc1hvURrel4tYLUvM2GMblvAo5ypH0JOQXJfh/lnvQlAeLXhURJoUiygx/gS4KpI+Oq7zY2js0cNbNhZ/c=;uoSY7fbzdFScxvP0dSn8Zg=="
 ---
 

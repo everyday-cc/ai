@@ -34,20 +34,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Can artificial intelligence aid climate solutions in the Middle East?"
-    excerpt: "Robotics, artificial intelligence (AI) and automation are relevant to creating change and efficiencies in our energy sector. For oil and gas-dependent political economies, especially those in the Middle East,"
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://www.al-monitor.com/pro/memos/can-artificial-intelligence-aid-climate-solutions-middle-east"
-    type: article
-    provider:
-      name: Al-Monitor
-      domain: al-monitor.com
-    quality: 54
-    images:
-      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2023-12/GettyImages-519630250.jpg?h=1d34674f&itok=04QQ1FJs"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AMD: The AI Foothold Is A Major Win"
     excerpt: "AMD is well-positioned to take advantage of secular long-term growth in demand for computing. Find out if AMD stock is a buy."
     publishedDateTime: 2023-12-26T12:44:00Z

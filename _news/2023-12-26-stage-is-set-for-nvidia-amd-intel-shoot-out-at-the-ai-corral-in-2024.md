@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
-        isCached: true
-  - title: "Intel’s benchmarks back AMD AI"
-    excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58152-intel-s-benchmarks-back-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/200403e85e1315eb8fd3c06120843872_L.jpg"
-        width: 620
-        height: 467
         isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."

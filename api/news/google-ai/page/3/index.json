@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-28-head-of-google-bard-believes-ai-can-help-improve-communication-and-compassion-really-remarkable.md",
+      "title": "Head of Google Bard believes AI can help improve communication and compassion: 'Really remarkable'",
+      "excerpt": "Google Bard product lead Jack Krawczyk sat down with Fox News Digital for an interview in New York City recently to discuss how generative AI frontrunner Google Bard has developed to accommodate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
+      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
+      "publishedDateTime": "2023-11-28T09:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-24-googles-deepmind-ai-can-make-better-weather-forecasts-than-supercomputers.md",
       "title": "Google's DeepMind AI can make better weather forecasts than supercomputers",
       "excerpt": "DeepMind's new machine learning algorithm takes less than a minute to make its forecasts and can run on a desktop. But it won't replace traditional forecasts anytime soon.",
@@ -1289,49 +1341,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-27-deepmind-verifies-convnets-can-match-vision-transformers-at-scale.md",
-      "title": "DeepMind Verifies ConvNets Can Match Vision Transformers at Scale",
-      "excerpt": "In the realm of computer vision, Convolutional Neural Networks (ConvNets) have long been the standard for achieving top-notch performance in various benchmarks. However, recent years have witnessed the emergence of Vision Transformers (ViTs) as a formidable contender,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/",
-      "originalUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/10/26/deepmind-verifies-convnets-can-match-vision-transformers-at-scale/amp/",
-      "publishedDateTime": "2023-10-27T02:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]

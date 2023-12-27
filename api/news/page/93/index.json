@@ -2,6 +2,195 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-10-13-ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine.md",
+      "title": "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine",
+      "excerpt": "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/",
+      "publishedDateTime": "2023-10-13T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-exclusive-biden-considers-extending-ai-chip-curbs-to-chinese-companies-abroad.md",
+      "title": "Exclusive-Biden considers extending AI chip curbs to Chinese companies abroad",
+      "excerpt": "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "originalUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/d49b82dbd5d182554af466c6fd5f35c0",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T13:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era.md",
+      "title": "Applications, Cloud, Silicon: The AI Trifecta And Its Impact On Winning In The AI Era",
+      "excerpt": "There’s no way around it—committing to AI is committing to a big vision and a big disruption in the way that your company operates, at least to some degree.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/amp/",
+      "publishedDateTime": "2023-10-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-ceva-logistics-to-use-robots-in-cutting-edge-los-angeles-facility.md",
+      "title": "CEVA Logistics to use robots in cutting-edge Los Angeles facility",
+      "excerpt": "CEVA Logistics, a world leader in third-party logistics, recently opened its 135,000-square-foot, state-of-the-art transload facility. Robots from Boston Dynami",
+      "sourceUrl": null,
+      "webUrl": "https://www.aircargoweek.com/ceva-logistics-to-use-robots-in-cutting-edge-los-angeles-facility/",
+      "originalUrl": "https://www.aircargoweek.com/ceva-logistics-to-use-robots-in-cutting-edge-los-angeles-facility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aircargoweek.com/wp-content/uploads/2023/10/CEVA_Transload-11-scaled.jpg",
+          "width": 2048,
+          "height": 1363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AIR CARGO WEEK",
+        "domain": "aircargoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-wimi-developed-a-deep-learning-based-approach-to-personalized-video-recommendations.md",
       "title": "WiMi Developed a Deep Learning-Based Approach to Personalized Video Recommendations",
       "excerpt": "The underlying technical logic of WiMi's deep learning-based personalized video recommendation system mainly includes the construction of neural network models, feature representation learning, model training and optimization,",
@@ -995,189 +1184,6 @@
       "provider": {
         "name": "air cargo",
         "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-intelligence-is-disrupting-higher-education.md",
-      "title": "Artificial intelligence is disrupting higher education",
-      "excerpt": "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
-      "originalUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2023/09/Rennie-Naidoo-2023.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
-      "publishedDateTime": "2023-10-13T07:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ultra-efficient-machine-learning-transistor-cuts-ai-energy-use-by-99.md",
-      "title": "Ultra-efficient machine learning transistor cuts AI energy use by 99%",
-      "excerpt": "AI machine learning uses so much computing power and energy that it's typically done in the cloud. But a new microtransistor, 100X more efficient than the current tech, promises to bring new levels of intelligence to mobile and wearable devices.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
-      "originalUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e99a0d4/2147483647/strip/true/crop/970x509+0+70/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F30%2Ff5%2Fc1888d57472eb8eff918fddb0623%2Fhersam970-fitmaxwzk3mcw2ntbd.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T06:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
-      "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
-      "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
-      "publishedDateTime": "2023-10-13T06:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds.md",
-      "title": "\"Instant Evolution\": New AI Tool Can Design Robots From Scratch In Seconds",
-      "excerpt": "\"We discovered a very fast AI-driven design algorithm that bypasses the traffic jams of evolution, without falling back on the bias of human designers,\" Northwestern University's Sam Kriegman, who led the work, was quoted as saying by university's website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014",
-      "originalUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-10/ac1j7bo8_ai-developed-robot-1200_625x300_13_October_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1",
-      "publishedDateTime": "2023-10-13T05:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

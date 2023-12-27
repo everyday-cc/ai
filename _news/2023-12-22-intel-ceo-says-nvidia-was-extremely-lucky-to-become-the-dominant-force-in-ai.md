@@ -73,20 +73,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Intel’s benchmarks back AMD AI"
-    excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58152-intel-s-benchmarks-back-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/200403e85e1315eb8fd3c06120843872_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
     publishedDateTime: 2023-12-22T20:30:00Z

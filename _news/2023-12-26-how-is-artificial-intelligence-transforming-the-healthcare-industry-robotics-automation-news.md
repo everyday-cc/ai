@@ -51,6 +51,22 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
+  - title: "Your Next Surgeon Might Be a Machine: How AI is Transforming Healthcare"
+    excerpt: "Robots in surgery? AI predicting diseases? It's not sci-fi anymore! This blog dives into the fascinating world of Artificial Intelligence in medicine, exploring how it's changing diagnosis, treatment,"
+    publishedDateTime: 2023-12-27T00:18:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2023_16_35_38_471739.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0f1fS2n0wb/IUyfhuAOFlw5RZiefL/2OOS81b31spD3rXQZ0U8QfUWH8BiV6IzjIJs/RqQjfz9di1PE32Kx8RBKCFUDaE70DgjOwoESOxypXQ9JkvvZEAV+WuUu2YLaSP1RyvoN023Y0XNq2D9pVa6uN0uZ6T2le3UEVJqcDldNVqNoNOVdjqEplpcqgkIHupeNoIsZrVzyBMY0cIKjSEKZIMQUgeRZ9KQZDncahIgTCf32JcmdFFJUKXJPy9A/GKuLFb+MDbdfW1MDdIPaE3oEjr7hQzX4UBaW0/DdVqJmBu/3NQ9sDP9AdnvmO2DWeYHXwwVIenAKgIc9Y6aaXqe0/xgvD9TQEYU8c15ukdR7IPeACB6yqqMVOJ/hyCiKQMntGqF8Ph8ugHLIhxTBI4Q5Wcb0jrgb4Hi9KkAZ6n2Xs1rFKPd7v0TzombO0xeJ110goJ9c3V9T7VpGKlJ3BCtThYifPu30aXNlCfn9k8KDnl67GBG1wvcseLHLIPZDrBZ/btR5eh9ptITscurMfJg==;ZS26wARn2/nTOwFHd213/g=="
 ---

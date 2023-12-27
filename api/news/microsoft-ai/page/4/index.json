@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-22-cognitive-neuroscience-articles-from-across-nature-portfolio.md",
+      "title": "Cognitive neuroscience articles from across Nature Portfolio",
+      "excerpt": "Cognitive neuroscience is the field of study focusing on the neural substrates of mental processes. It is at the intersection of psychology and neuroscience, but also overlaps with physiological ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
+      "originalUrl": "https://www.nature.com/subjects/cognitive-neuroscience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-microsoft-azure-confidential-vms-will-roll-out-this-december.md",
       "title": "Microsoft Azure Confidential VMs Will Roll Out This December",
       "excerpt": "The partnership with Intel allows for hardware-enforced security and confidentiality on 4th Gen Xeon processors.",
@@ -1305,50 +1339,6 @@
       "provider": {
         "name": "Morningstar",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive.md",
-      "title": "Cognitive Technology Education Services, Inc. Unveils Revolutionary Gamified IT Learning App, \"CognITive\"",
-      "excerpt": "DAYTON, Ohio, Nov. 10, 2023 /PRNewswire/ -- Cognitive Technology Education Services, Inc., a pioneering company in the field of technology education, is thrilled to announce the upcoming launch of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
-      "originalUrl": "https://www.victoriaadvocate.com/cognitive-technology-education-services-inc-unveils-revolutionary-gamified-it-learning-app-cognitive/article_d181727c-f794-5e79-b3ad-2b0fced7fe8b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/a6/ca65185a-7066-54be-b14e-6908093fa5c6/654e42240ca7b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-10T15:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
         "images": null,
         "publishers": null,
         "authors": null

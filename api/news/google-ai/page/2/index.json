@@ -151,6 +151,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-07-google-deepmind-unveils-its-most-powerful-ai-offering-yet.md",
+      "title": "Google DeepMind Unveils Its Most Powerful AI Offering Yet",
+      "excerpt": "Google DeepMind has announced its much-anticipated family of artificial intelligence chatbots, Gemini, which will compete with OpenAI’s GPT series. According to Google, Gemini Ultra, its largest ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
+      "originalUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1253650284.jpg?quality=85",
+          "width": 4000,
+          "height": 2662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-google-unveils-alphacode-2-powered-by-gemini.md",
       "title": "Google unveils AlphaCode 2, powered by Gemini",
       "excerpt": "Alongside its Gemini generative AI model, Google this morning took the wraps off of AlphaCode 2, an improved version of the code-generating AlphaCode introduced by Google’s DeepMind lab roughly ...",
@@ -1330,58 +1382,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-28-head-of-google-bard-believes-ai-can-help-improve-communication-and-compassion-really-remarkable.md",
-      "title": "Head of Google Bard believes AI can help improve communication and compassion: 'Really remarkable'",
-      "excerpt": "Google Bard product lead Jack Krawczyk sat down with Fox News Digital for an interview in New York City recently to discuss how generative AI frontrunner Google Bard has developed to accommodate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
-      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-believes-ai-help-improve-communication-compassion-remarkable.amp",
-      "publishedDateTime": "2023-11-28T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

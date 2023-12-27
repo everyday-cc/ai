@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatmen
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
 type: article
 quality: 92
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       - url: "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png"
         width: 800
         height: 533
+        isCached: true
+  - title: "Your Next Surgeon Might Be a Machine: How AI is Transforming Healthcare"
+    excerpt: "Robots in surgery? AI predicting diseases? It's not sci-fi anymore! This blog dives into the fascinating world of Artificial Intelligence in medicine, exploring how it's changing diagnosis, treatment,"
+    publishedDateTime: 2023-12-27T00:18:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 74
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2023_16_35_38_471739.png?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "dQ2h4wKgMV5W3VUWdiqQsx+uNHKBzTF9GbIWWjbYVBhayEtWmNY1bO7KZKTPxzlaAkMlYYyNFitt5yhN/q5BouBplG84X4jM387L8kDSPBo1k71FeuFS/ckUejTvJ5WxlglfQ0iQWXUelb6yaD5jVbcYGFQQSNa9muM6rttdz0Sn+dUbdFl6EZhLx8eIFwpvjQPoyMXJGGedsK7DCvBIMNygpjwXiPTltGXIhsw6W8UefqMeBt1rjOHhDXx97J71bBXIvO3NyzCs6ajXZe09D9qEFQ4YeV4XtVZfSWDuRcy1jpbDEbDcPpo85dJn7G83MX7JmRvrJW2NCSE9Myul3wOUPIC3iZjRy3Iya2d1y5Pmb+ITorxabS19AfzLD0vvLy+D2M66cXITjt9gYjQGfkrexnZXVAQmVt2qQxIul86mPLOOE/M6MrB2V23XtNFeZZXxP5imAL5gIW/ohFLcVKhbePJoKPpB0ijLJw5tkr3FszyAqGcAIeKDmrfiB9m3Bn2ECizstjlU1/smRXKwKg==;6F7hiQJMcSsb3pB1nnDHEQ=="

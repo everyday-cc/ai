@@ -37,17 +37,17 @@ related:
         isCached: true
   - title: "China is shoring up the great firewall for the AI age"
     excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-    publishedDateTime: 2023-12-26T13:48:00Z
-    webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
+    publishedDateTime: 2023-12-26T11:48:00Z
+    webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: The Economist
+      domain: economist.com
     quality: 39
     images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "How AI is transforming the video surveillance sector"
     excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-24-black-friday-roomba-deals-2023-best-robot-vacuums-on-sale.md",
+      "title": "Black Friday Roomba deals 2023: Best robot vacuums on sale",
+      "excerpt": "Available on Amazon Next up, we have the Roomba 694 robot vacuum that’s down to $159 for Black Friday 2023. This powerful vacuum cleaner covers all the basics. And it adds in voice control thanks ... With that in mind, you can rest assured that this ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "originalUrl": "https://bgr.com/deals/black-friday-roomba-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-23T16:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-his-team-created-a-robotic-arm-that-helps-kill-cancer-using-artificial-intelligence.md",
       "title": "His team created a robotic arm that helps kill cancer using artificial intelligence",
       "excerpt": "The robotic arm will allow doctors to more accurately monitor the progress of high-intensity focused ultrasound treatment as it is happening.",
@@ -1232,49 +1275,6 @@
       "provider": {
         "name": "WESA",
         "domain": "wesa.fm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup.md",
-      "title": "Sharechat co-founders raise $3 million from India Quotient, Elevation Capital for robotics startup",
-      "excerpt": "P.S. If you're as passionate about robotics as we are, reach out, connect, and let's build something extraordinary together.” The round comes at a time when internet startups are struggling to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Artificial-Intelligence.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/sharechat-co-founders-raise-3-million-from-india-quotient-elevation-capital-for-robotics-startup-11735851.html/amp",
-      "publishedDateTime": "2023-11-13T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

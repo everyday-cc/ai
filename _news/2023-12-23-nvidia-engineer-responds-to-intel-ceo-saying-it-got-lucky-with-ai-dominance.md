@@ -77,20 +77,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Intel’s benchmarks back AMD AI"
-    excerpt: "Intel's new generation of Meteor Lake \"Intel Core Ultra\" processors were supposed to herald a new age of \"AI PCs\", but the benchmark software it is advising to prove it shows AMD chips are still ahead. The chips of the \"Intel Core Ultra\" processors are the ..."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58152-intel-s-benchmarks-back-amd-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/200403e85e1315eb8fd3c06120843872_L.jpg"
-        width: 620
-        height: 467
-        isCached: true
 
 secured: "zQg/n40d7/NhuRMy6CnGOh2fsF9ylWZvFEZCSLVQQ3Y1Ojy+1N/ioW83U4Fc5U7+BttT/G5lzD7c+kekox5Jd+fa4MhXGkBssooVYLctkDzbUo/BXz+oSKSfnN272xWr3LXclXVL6D54hef0gV9gSdx209zgpe3bEEM9CUtsdKdTQV7kRnomUlxWzYD9AxwQNi5JpWywoTCF5YsSLhntqRlMdT43cWWC6zeYZWl15yY7ps8UyT9vTM/3GQqnVQMlJT80Fw3ZaE2ZovLcRqgEl/RpweEmNjzCvMm+kB55L/SIeLaJLvpgTnOeEdnjWdJ1PF2DW0snTKiGBUDe0iOck4JtfMPN/m3o/xfrX57MF83hqZj1uB6p8VtGe7HSQgj8coY3xCsFqYsjNuuacEoDcMBvDO/BlHlUAw6VpGnZ5e4SoM1WDh5iNjt7fDjFIurIdsBK0nArSOATsOXhbuI5pnx1BiBcDfqcUqih/BqOjPEQgCHgMlp5pYqJr2dmNoo7jUhqVneNfgv5IQSr2rjWuA==;xCKv+YYfB5bqmZnaBXBBjg=="
 ---

@@ -2,6 +2,195 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-10-21-ibm-unveils-northpole-ai-chip-sets-new-benchmarks-in-speed-energy-efficiency.md",
+      "title": "IBM Unveils NorthPole AI Chip, Sets New Benchmarks in Speed, Energy Efficiency",
+      "excerpt": "IBM has introduced its newest AI chip, NorthPole, which boasts remarkable processing speed and energy efficiency advances, reshaping industry expectations. Energy Efficiency Breakthrough: NorthPoles",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741",
+      "originalUrl": "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.econotimes.com/2023/10/xnha9zd9jb_th_1024x0.jpeg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T04:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-how-ai-is-shaping-the-future-of-the-luxury-watch-market.md",
+      "title": "How AI Is Shaping The Future Of The Luxury Watch Market",
+      "excerpt": "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/",
+      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/",
+      "publishedDateTime": "2023-10-21T01:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
+      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
+      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/21285952/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/21285952/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/3086e48a56947b875f91ca91cf7ae2ea/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f751371%252fa-digital-render-of-a-self-driving-car-stopped-at-a-cross-walk-surrounded-by-people.jpg%26amp%3Bw%3D700",
+          "width": 4200,
+          "height": 2800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T23:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals.md",
+      "title": "Meet LLEMMA, the math-focused open source AI that outperforms rivals",
+      "excerpt": "According to the researchers, LLEMMA is the first open-source model that matches the performance of state-of-the-art closed-source models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/",
+      "originalUrl": "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_childrens_storybook_illustration_collage_full_body_shot_0e08725b-868b-4d01-84b1-ef4d604ef679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T22:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-millionaire-uses-artificial-intelligence-to-develop-life-saving-drugs.md",
       "title": "Millionaire uses Artificial Intelligence to develop life-saving drugs",
       "excerpt": "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects.",
@@ -955,187 +1144,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-the-urgent-need-for-marketing-ai-and-automation-education.md",
-      "title": "The Urgent Need For Marketing AI And Automation Education",
-      "excerpt": "Businesses of all sizes are using these technologies to streamline their operations, improve their customer targeting, and boost their sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
-      "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6531a96f07309fd411a35a66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/",
-      "publishedDateTime": "2023-10-20T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in-the-world-3-stocks-to-buy-right-now.md",
-      "title": "Cathie Wood Says Autonomous Driving Is the Biggest Artificial Intelligence (AI) Project In the World -- 3 Stocks to Buy Right Now",
-      "excerpt": "Ark Investment Management is one of the most bullish firms on Wall Street when it comes to the potential of artificial intelligence ... autonomous self-driving vehicles. In an interview on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
-      "originalUrl": "https://www.nasdaq.com/articles/cathie-wood-says-autonomous-driving-is-the-biggest-artificial-intelligence-ai-project-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T11:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-why-ai-is-next-flashpoint-in-us-china-tech-rivalry.md",
-      "title": "Why AI Is Next Flashpoint in US-China Tech Rivalry",
-      "excerpt": "The technological rivalry between the US and China is heating up, and nowhere more fiercely than in artificial intelligence. That’s hardly a surprise given its potential to boost both nations’ productivity and competitiveness and to tip the geopolitical and military balance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2023/10/20/what-is-the-state-of-us-china-competition-in-ai/1ffa6780-6f53-11ee-b01a-f593caa04363_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/2023/10/20/what-is-the-state-of-us-china-competition-in-ai/1ffa6780-6f53-11ee-b01a-f593caa04363_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T09:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-how-to-bridge-the-ai-anxiety-gap-at-work-and-seize-the-job-opportunities.md",
-      "title": "How To Bridge The AI Anxiety Gap At Work - And Seize The Job Opportunities",
-      "excerpt": "Workers are willing to embrace AI technology and believe it will improve their careers and promotions. AI can increase flexibility and job opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65323057ccf2f45ed2012db3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/amp/",
-      "publishedDateTime": "2023-10-20T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

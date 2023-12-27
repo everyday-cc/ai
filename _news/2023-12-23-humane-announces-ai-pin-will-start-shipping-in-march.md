@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
-    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
-    publishedDateTime: 2023-12-23T13:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 17
 
 secured: "mqZufIL3HTceEelJ1x49G+S66z254opDeXvyXYvFoizDcrEbEOqJf1xHOUmHA0UmF4bSG1x8Tzt0m7k26y0SWysg+0Qt+RRqf/0BH65FajJLk3FgafHLuSPooXGHcmnEng1TZD6XawnyIP/LJRKE4zvt41AWQQQBWeiQQLqeE1IPtTDIwxdthIZbNsBz58j/8tKUzChSBl064cPNkdNgSREZ+SvgOjsRudLSCQumb1IlNAujITbcJXpYJdkTxCsMrA+TX8JS6ru49tNUZp2JKFxD+YxH2WYyvM2CXgvF5K7TONwRUwz3VG1LPXkAhSXJ7cPhkob4/JGIoZaBV+E0J/8zcWYAx299Tc913YAmhzlyNz2exXvunurlbcD7hvmM32xcaeGJm1U9d5o7taqsc1LINKoNgkm0sQkfFbmw+6WJw/UioKkxFXcE5kEIoXiRbS7r7v3LZwoTskPZPELoKxLz4ijkqdjNRAJW+TAKPHHZv534+JxZssDyo36xxOMrZHOOcgBwumHmWLqgjDAuug==;UzHYVdRSxjrZamFtmnwi4Q=="
 ---

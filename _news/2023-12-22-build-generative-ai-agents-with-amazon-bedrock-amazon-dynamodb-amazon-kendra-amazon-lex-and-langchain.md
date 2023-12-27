@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-agents-with-amazon-bedrock-amazon-dynamodb-amazon-kendra-amazon-lex-and-langchain/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1260
     height: 536
     isCached: true
-
-related:
-  - title: "What enterprise software vendors are doing with generative AI"
-    excerpt: "SAP intends to build IBM’s Watson AI engine into much of its software portfolio, beginning with the SAP Start AP, where it’ll enable users to interact with SAP applications using natural language."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 19
 
 secured: "N5g6/dlB/2ufUfjjLQ6I5ecjHDIWi4+NeWeqkkDPSdRcAU2Kexe9N8v1MnEYauvcIbEVTd5+e/cyeZYJK4yIS74rec3xT65E1yq6q8M7Ss+Wb3BkNPjx2qgDVjiqUMKMY97SgSAK1Omgo8i+7Wy1u9Kzxd2kc88qO8Jgb0rOuBnwpvz5nXLBzdfkiXIX3horH8DlGl6nhgRJaWF3xuS8s8Ed3yO2IpXtF73lI1oZVyw1eCKNwG6+E2/4cbBBdQvBF8pHKgcvE8LvSuTT4yiA4mLo1VvMoQDRTp++IoeG2bHb8GhQWRv5gUK2d2URAThRcL4xkf43nI0Yw/PFoToZye5HDeydKckQfPmeiqF44zA=;TcHVGK/RE2Wl4v70knnggw=="
 ---

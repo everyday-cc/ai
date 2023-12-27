@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
-    excerpt: "TRUCKEE, Calif. -- There was some llama drama in the Sierra Nevada on Friday. The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet ..."
-    publishedDateTime: 2023-12-22T13:00:00Z
-    webUrl: "https://abc7.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    ampWebUrl: "https://abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
+  - title: "Llama drama: Trooper rescues woolly wanderer on interstate"
+    excerpt: "A Challenger caused some chaos along a California interstate and it wasn't the kind with four wheels built by Dodge."
+    publishedDateTime: 2023-12-22T17:28:00Z
+    webUrl: "https://komonews.com/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+    ampWebUrl: "https://komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
+    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/offbeat/llama-drama-trooper-rescues-woolly-wanderer-on-interstate-donner-summit-california-interstate-i-80-highway-patrol"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 41
+      name: komonews
+      domain: komonews.com
+    quality: 44
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "California Highway Patrol officers rescue llama named Challenger from freeway"
-    excerpt: "The California Highway Patrol really proved that it is prepared for just about anything after it rescued an exotic pet from a NorCal freeway. Officers had to corral a llama named Challenger, who was roaming westbound Interstate 80 at Donner Summit. Challenger had gotten out from his home but officers eventually caught up and apprehended him."
-    publishedDateTime: 2023-12-22T21:00:00Z
-    webUrl: "https://abc13.com/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    ampWebUrl: "https://abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
-    type: article
-    provider:
-      name: abc13
-      domain: abc13.com
-    quality: 41
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/14216077_122223-kgo-chp-llama-img.jpg"
-        width: 1280
-        height: 720
+      - url: "https://komonews.com/resources/media/fe157395-c122-4979-9ead-26db04b51ce9-large16x9_Challengerthellama.PNG"
+        width: 986
+        height: 554
         isCached: true
 
 secured: "LXkTJtZomkSt5muba6AYXPOqsfuRDSU0+//8l475+OIwDlgMBuXHFW2xmzh5rdkRScdI1WFJW5HBOe2WEIBW44D07M9GWwxyCCIqjpHw5UYCrmZbvVhEGZ5DOIDfLW2OgpL4MTV74JpGci7Cn5nEg0p224FhN060/me4GVLsXnfhBglgASGcFKfw9YsJDaKN7XgVXsuGBHprHtGR3WAsylqmKI0PaMvkB+ClRsno5ofgxz2huU04yVg1U6hF4wFxTORYtKE6vpqSqbtbcHC3zqODo9QIqkynKptl0bDwtVC/dHCyVYajd6SxgVQcvWLN5/2GWFrze5KG+LhR6Ck80RiuWVhINd66Ij3Cy9+aABq1lyrlHhT4R+dgGB8LufHhrZaYzq24JN/BYNuTtL1EQqCFkTJehBfLuMLXCrtOk7iyv5nMnR5ce5Qqx3kexXbKk2qmChXm7xjvCwspSUcBhGHpl6lwTT/ybBViup4mYVMkSAPBXGRHPb7IVJ9u+NnQkLmXU/1C5SZzwNrAHB0qTQ==;rth3xTDPoBZe/mPZk0+uOA=="

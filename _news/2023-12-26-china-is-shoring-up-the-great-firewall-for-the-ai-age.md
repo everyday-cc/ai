@@ -2,26 +2,26 @@
 category: news
 title: "China is shoring up the great firewall for the AI age"
 excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-publishedDateTime: 2023-12-26T13:48:00Z
-originalUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
-webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
+publishedDateTime: 2023-12-26T11:48:00Z
+originalUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
+webUrl: "https://www.economist.com/business/2023/12/26/china-is-shoring-up-the-great-firewall-for-the-ai-age"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Economist
+  domain: economist.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-    width: 1200
-    height: 630
+  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20231230_WBD003.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -65,6 +65,6 @@ related:
       domain: chinadaily.com.cn
     quality: 19
 
-secured: "3KsO04JBtr1eQ1wFMZaWfDQB6SMfp1LryWrH+9v+fhwHh5rYzXtfvs5jC+i7fO6aNrTX28po+L+/8CDdve3L20fJNUmHBcMJH/reqSwx5u9DEKf1pseW8ZSpI4BPPVoUxsWde9+4+hTElSyzys2ci+QNROXsPl7BPsz0cgmrCRoBex78YC+hIFwG99wlF37tdMuGBVfR3jLlNl2fljHWRS8NjWCS3UtD7T2rLu+YQ41Wq6/LNvysUjUoZ3WQMUHfJ7EMjOwnOocE3RzZ7O4XDChKVyA+Hsh28Ax0nSrlZHUTXEKBbXwQOzQn3JF7199TgBZkQomkkUrBiaUVBDDNthVjAa5pKsg6cVUqP1wvuRs=;71VO5EJOd8gm0shWbEPIWw=="
+secured: "7Ow+z8RFZw8LaUWAKBEJxKvSKcAjn4Wpe9LkQEBOvKsMGCPUZLvMJrYFdReVXOmsHjvUIbabI5WlX1jBTfnmQBnp1HMj4jbrTynt1xx/Ge8KFkHxf3bPyFm6YuUwQRrPp73Q+49J7Dcw++1uJU00Lc49GS6m5W/9yT1mklp466nFSu8a8jLeo5fSna1pqJVcPLeB1NpdciA/3SUD5HOa73iI3Z30jB82jEqy77v7LGKA8GgyPyr8ImtdlbQLpSPFWZfYgb6y/WeAdXxivUd7+bF1BZ0IzW12GbA4Z6UJaygj/2KiBknoSa+wcDGx8g0wTzuSU/u9I1yDinEWSdszlZ0zNjfaAqmsHmk7o1AaTPc=;JO9gdBnWCC23Dw/oczRmxQ=="
 ---
 

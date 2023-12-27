@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2023 - the year in AI use cases"
-    excerpt: "The urgency to make sense of AI took the diginomica team across ethics, data governance, and into the perils of disinformation on democracy itself. Even the OpenAI drama required dissection. But in an enterprise context, this ultimately comes down to results."
-    publishedDateTime: 2023-12-22T00:00:00Z
-    webUrl: "https://diginomica.com/2023-year-ai-use-cases"
-    ampWebUrl: "https://diginomica.com/2023-year-ai-use-cases?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-use-cases?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-19%20at%2014.49.20.png"
-        width: 1472
-        height: 832
-        isCached: true
 
 secured: "Jc6XUlq5Saf1tmKdLik9ANVbl0cloD7ctJ4agr/insFk/FNJR4+gudaLRePUJYCCKSUj9V3+UH1ODfiFd/Kb3Ex9gu8wXO7saBDBsf+pQ3ABg8kNSQ6yMU5OAagEh59PNiWdvwAYwEaudvBRLOv+bHZy9QvZWq01AFGoBMrNmAid/QYXf+IxiM/prWzlNM93qcbhujjdM4ARTR6kWabhFDLKsqszX2198SVe+2kHBRzYsqn6WK6KxAdZ6EmlzX5FputnqezwvK3VuqaB4/ZMz4MshS/jdZ7roXKhB7vpdACCXAKpiTd+gaG3EIw0/E524l6hHB3Q0m14rtjAKwkO+TGXQsEm/P5WTe03w6zIUHU=;FrBPmVg0A3BYuySLN6NzWQ=="
 ---

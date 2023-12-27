@@ -85,15 +85,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Mangata Networks Forges Strategic Collaboration with Microsoft to Pioneer AI-Enabled Edge Cloud Connectivity via Satellite"
-    excerpt: "Mangata's managed service will extend the geographical reach and functionality of Azure adaptive cloud. These collaborative solutions will deliver an array of innovative features, including AI-enhanced network routing at the edge, remote bandwidth ..."
-    publishedDateTime: 2023-12-22T00:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mangata-networks-forges-strategic-collaboration-with-microsoft-to-pioneer-ai-enabled-edge-cloud-connectivity-via-satellite-1032921121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
     excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
     publishedDateTime: 2023-12-26T14:48:00Z

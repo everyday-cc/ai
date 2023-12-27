@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-27-chatgpt-in-2024-top-10-things-to-expect-as-ai-advances.md",
+      "title": "ChatGPT In 2024: Top 10 Things To Expect As AI Advances",
+      "excerpt": "As the artificial intelligence (AI) technology improves, we will witness a more advanced and user-friendly version of ChatGPT which includes improved conversational abilities, multimodal capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717",
+      "originalUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-106288254,thumbsize-1378670,width-1280,height-720,resizemode-75/106288254.jpg",
+          "width": 1279,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp",
+      "publishedDateTime": "2023-12-26T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too.md",
       "title": "How I use ChatGPT in Opera for far more efficient interactions (and why you should too)",
       "excerpt": "Why? Because if you're always using Aria, you'll have access to your chats from all your browser instances (so long as they are signed in to your Opera account). Otherwise, you can use ChatGPT and access them from the chat.openai.com address.",
@@ -106,7 +150,7 @@
       "originalUrl": "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -158,7 +202,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1442,50 +1486,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-google-bard-explained-what-this-ai-powered-chatgpt-competitor-can-do.md",
-      "title": "Google Bard explained: What this AI-powered ChatGPT competitor can do",
-      "excerpt": "Meanwhile, Google has been a self-professed \"AI-first\" company since announcing a shift in focus at I/O 2017. The company unveiled a new AI-powered chatbot called Bard in March 2023. But it can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidpolice.com/google-bard-explained/",
-      "originalUrl": "https://www.androidpolice.com/google-bard-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T17:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Police",
-        "domain": "androidpolice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI",
         "Microsoft AI"
       ]

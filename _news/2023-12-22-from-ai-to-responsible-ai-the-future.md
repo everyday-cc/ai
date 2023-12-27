@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-fro
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-from-ai-to-responsible-ai-the-futurenbsp-3344646/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI Predict the Future? Exploring the Possibilities and Limitations of Forecasting Models"
+    excerpt: "AI can predict some things based on past data, but it's not magic. The future is still full of surprises, and we need to use AI responsibly, not just blindly believe its predictions."
+    publishedDateTime: 2023-12-27T00:20:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2754944-can-ai-predict-the-future-exploring-the-possibilities-and-limitations-of-forecasting-models"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2754944-can-ai-predict-the-future-exploring-the-possibilities-and-limitations-of-forecasting-models?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2754944-can-ai-predict-the-future-exploring-the-possibilities-and-limitations-of-forecasting-models?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 46
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/22_12_2023_16_03_10_2188696.png?width=1280"
+        width: 1280
+        height: 808
+        isCached: true
   - title: "The Medical Futurist Examines How AI Will Impact the Future of Healthcare"
     excerpt: "We talked to Dr. Bertalan Mesko, AKA The Medical Futurist, about the latest MedTech trends he’s keeping an eye on. Here’s what he had to say:"
     publishedDateTime: 2023-12-22T14:01:00Z
