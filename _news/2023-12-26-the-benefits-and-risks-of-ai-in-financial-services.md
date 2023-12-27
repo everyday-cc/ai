@@ -46,22 +46,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Adoption Of AI And Its Effects On Businesses"
-    excerpt: "How do you see the adoption of ChatGPT-like tools unfolding in businesses over the next few years? Answer by Zachary Kroff, Economist at U.S. Census Bureau"
-    publishedDateTime: 2023-12-22T18:34:00Z
-    webUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/"
-    ampWebUrl: "https://www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/22/the-adoption-of-ai-and-its-effects-on-businesses/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6583f8f8805f0638ff1b76fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
   - title: "ChatGPT vs Google Bard: which AI chatbot will win in 2024?"
     excerpt: "ChatGPT opened its doors to the web in November 2022, while Google Bard didn't appear until March 2023. Though Google has long been pushing AI across its products, as far as generative AI is concerned, it feels as though it's been playing catch up."
     publishedDateTime: 2023-12-27T12:00:00Z

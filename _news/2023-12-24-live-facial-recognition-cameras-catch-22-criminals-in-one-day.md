@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "I was accused of SHOPLIFTING after store’s ‘facial recognition camera’ flagged me – they treated me like a criminal"
+    excerpt: "A SUBURBAN mum has been accused of shoplifting after a \"facial recognition technology\" trial failed. Tracey Sturgess, from Melbourne, said that staff in her local Kmart labelled her a thief when she attempted to return two unworn jumpers. Tracey said that ..."
+    publishedDateTime: 2023-12-27T18:13:00Z
+    webUrl: "https://www.thesun.ie/news/11913284/accused-shoplifting-facial-recognition-camera-criminal/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 17
+    images:
+      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/image-1251.png?strip=all&quality=100&w=800&h=450&crop=1"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Live facial-recognition cameras catch 22 criminals in one day"
     excerpt: "Ministers are pushing for live facial-recognition cameras to be routinely deployed in town centres across the country after trials found they can catch criminals in just a fraction of the time it would otherwise take. Chris Philp, the policing minister ..."
     publishedDateTime: 2023-12-22T21:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-fa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global AI: Pioneering the AI Investment and Acquisition Landscape"
+    excerpt: "Led by leading Tech Entrepreneurs and backed by European family officesFocus on advancing generative AI, deep learning, and computer"
+    publishedDateTime: 2023-12-27T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-pioneering-the-ai-investment-and-acquisition-landscape-1032928414"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Agreements in the age of AI: Apple wants deals with news publishers to train AI models"
     excerpt: "Take Siri: When Siri first shipped on iPhone 4s in 2011, it was the world's first large-scale, voice-powered, commercially available virtual assistant that used some AI-like elements. However, it was never considered a full-fledged AI system. Fast forward to today, and it appears that Apple needs to give Siri a drastic upgrade ."
     publishedDateTime: 2023-12-26T02:10:00Z

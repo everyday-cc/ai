@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-22-rite-aids-ai-facial-recognition-wrongly-tagged-people-of-color-as-shoplifters.md",
+      "title": "Rite Aid’s A.I. Facial Recognition Wrongly Tagged People of Color as Shoplifters",
+      "excerpt": "Under the terms of a settlement with the Federal Trade Commission, the pharmacy chain will be barred from using the technology as a surveillance tool for five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2023/12/21/business/rite-aid-ai-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2023/12/21/business/rite-aid-ai-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/12/22/multimedia/21xp-riteaid-lqkc/21xp-riteaid-lqkc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T23:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-self-driving-vehicles-are-finding-a-home-in-industrial-operations.md",
       "title": "Self-Driving Vehicles Are Finding a Home in Industrial Operations",
       "excerpt": "Autonomous trucks may be running into trouble on the highway, but the technology behind self-driving vehicles is getting traction deeper inside shipping operations in freight yards, warehouses and ...",
@@ -1167,48 +1219,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-large-ai-dataset-has-over-1000-child-abuse-images.md",
-      "title": "Large AI dataset has over 1,000 child abuse images",
-      "excerpt": "The massive public dataset used to build artificial intelligence image generators contains at least 1,008 instances of child sexual abuse material, the Stanford Internet Observatory found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/",
-      "originalUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenastarnews.com/wp-content/uploads/2023/12/GettyImages-1241898168-5.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/",
-      "cdnAmpWebUrl": "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2023/12/20/large-ai-dataset-has-over-1000-child-abuse-images-researchers-find/amp/",
-      "publishedDateTime": "2023-12-21T00:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Star-News",
-        "domain": "pasadenastarnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

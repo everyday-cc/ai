@@ -64,15 +64,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "‘Twas the Night Before Christmas, and ChatGPT Was Rhyming"
-    excerpt: "Hello and welcome to the weekly Odd Lots newsletter, where Joe Weisenthal and Tracy Alloway bring you their thoughts on the most interesting developments in markets, finance and economy."
-    publishedDateTime: 2023-12-22T17:39:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-12-22/-twas-the-night-before-christmas-and-chatgpt-was-rhyming"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "King’s Speech 2023 LIVE — Charles to deliver message of ‘ harmony’ in Christmas address as royals gather in Sandringham"
     excerpt: "KING Charles will deliver his second Christmas address as monarch to the nation today as he is expected to spread a message of “peace and harmony.” The King will take to our screens at"
     publishedDateTime: 2023-12-25T09:04:00Z

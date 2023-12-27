@@ -54,6 +54,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-27T16:43:00Z
+    webUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487"
+    ampWebUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/12/GettyImages-1709354468.jpg"
+        width: 716
+        height: 487
+        isCached: true
 
 secured: "g/e4pIJc6TWHB09WMfAhiFnftsq8sCE61FKdfGfR4hsnUU1oB/g5+QEa4FBaJ7JV6ySO7xB8CoJmCpe0WwtsOQHPMU5/RKgpWZRvOPAyHhjYfXvRRj6oNdHxASzsCQo0euu8UyrwNYqxK+EqByaiXjomB+TWsDclvp51cyo8dIu2jWnWhd83Oz2+BKhlVwlW2/5aNa2lOTXWqtvAvWAJv7VJnKbwYLW/+ykxj4hachui+Htbq/PXaQsmkBbu+NAFO2W1gqVJbmWITt4FdwWrKQRCf9pSJxDLhANwIRKGnmtsgqTwLq+83miP1N9axUx2Ama99oE8r8u1uW4ZM+gWJphKx6JRiAxkhrDPqqIIQs4IBxK9jvjIVpducO2zDg9IolxRZX1pMIS3QWF3VbDDHIkelk1OMzvMRN9Psdfd4Mv+s86uhNeANq9cKjoBvySR8psCDfwYcQf5TZCAabtvRDpukd3I/yHClNZBvZcMlBdzrb8+2X5GqJ1DuCwsqEy8QsIe4z9AvDeWwW3kQoJtuA==;QCxVZ1s5+hYe7MAY8GnTvA=="
 ---

@@ -63,6 +63,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "How Nvidia Contributed To The 2023 AI Odyssey"
+    excerpt: "In the wake of unprecedented technological advancements, the year 2023 stands as a watershed moment in the evolution of Artificial"
+    publishedDateTime: 2023-12-27T18:17:00Z
+    webUrl: "https://www.techbooky.com/how-nvidia-contributed-to-the-2023-ai-odyssey/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/08/nvidia1.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "zQg/n40d7/NhuRMy6CnGOh2fsF9ylWZvFEZCSLVQQ3Y1Ojy+1N/ioW83U4Fc5U7+BttT/G5lzD7c+kekox5Jd+fa4MhXGkBssooVYLctkDzbUo/BXz+oSKSfnN272xWr3LXclXVL6D54hef0gV9gSdx209zgpe3bEEM9CUtsdKdTQV7kRnomUlxWzYD9AxwQNi5JpWywoTCF5YsSLhntqRlMdT43cWWC6zeYZWl15yY7ps8UyT9vTM/3GQqnVQMlJT80Fw3ZaE2ZovLcRqgEl/RpweEmNjzCvMm+kB55L/SIeLaJLvpgTnOeEdnjWdJ1PF2DW0snTKiGBUDe0iOck4JtfMPN/m3o/xfrX57MF83hqZj1uB6p8VtGe7HSQgj8coY3xCsFqYsjNuuacEoDcMBvDO/BlHlUAw6VpGnZ5e4SoM1WDh5iNjt7fDjFIurIdsBK0nArSOATsOXhbuI5pnx1BiBcDfqcUqih/BqOjPEQgCHgMlp5pYqJr2dmNoo7jUhqVneNfgv5IQSr2rjWuA==;xCKv+YYfB5bqmZnaBXBBjg=="
 ---

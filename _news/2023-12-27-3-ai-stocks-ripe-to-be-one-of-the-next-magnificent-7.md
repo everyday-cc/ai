@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Why These 3 Value Stocks Should Be on Your Radar in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Value stocks to watch is the equity market’s version of Godzilla Minus"
+    publishedDateTime: 2023-12-24T18:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-these-3-value-stocks-should-be-on-your-radar-in-2024-1032923788?op=1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+
 secured: "RkpK7xyg8blbZo0YWNk72Nok04SIzhOqnzn7R62w25sjZpDKKwemqlYU101/L7iUOB9koHg4e0bFJXA8wRHf3ZCujszbNhzNt6CyEVj3taJvEEuwBzhPgp4npRV7QhWfYduYvYcO4QMuFxSZQvMj9kwkHfFkULz7yGrl5Z6VKEWzA45mUrw4R+M4vSjcR5zAl89psqrOOYUDdUMHLI5GVaUSTJsmnGV3nkN+e2RZ6v11bLvVpg0tEkwopvie67D4SnqxiWhzWw3AUR2Nl2s9x/XIvXieIONJTC+DFll9l2uvDYAr84HPCPRJDtF9GIFmye+vak8zHUFYonQZlIvp2ZOj0a2YTSb0aocK58x0aoRzqmYJaqLxLN0zqKf6YOyN37dxRZPacjDfuOmyQmQ09zPEbhX098pyyCQ9d1PjyvETVJW94hY4oR54CgD1iFGJZyPVZWu9HTCVcYAXTFGEt0YDaVjxZQzd3qprzh9nL/mH1RtycSjTjJxSVAYHoCUAdHwYjQqJC1qsAT1Dsuw9WA==;OkwPXCSSSUrb0VW2InnE/Q=="
 ---
 

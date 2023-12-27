@@ -75,15 +75,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "‘Twas the Night Before Christmas, and ChatGPT Was Rhyming"
-    excerpt: "Hello and welcome to the weekly Odd Lots newsletter, where Joe Weisenthal and Tracy Alloway bring you their thoughts on the most interesting developments in markets, finance and economy."
-    publishedDateTime: 2023-12-22T17:39:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2023-12-22/-twas-the-night-before-christmas-and-chatgpt-was-rhyming"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "The king’s speech: Spain’s Felipe VI focuses Christmas address on the Constitution after year of high political tensions"
     excerpt: "IN A break from tradition, Spain’s King Felipe VI used his televised Christmas Eve address to focus on just one issue: the Spanish Constitution and the"
     publishedDateTime: 2023-12-25T10:10:00Z

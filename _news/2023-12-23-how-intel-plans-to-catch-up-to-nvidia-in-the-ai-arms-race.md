@@ -60,6 +60,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "How Nvidia Contributed To The 2023 AI Odyssey"
+    excerpt: "In the wake of unprecedented technological advancements, the year 2023 stands as a watershed moment in the evolution of Artificial"
+    publishedDateTime: 2023-12-27T18:17:00Z
+    webUrl: "https://www.techbooky.com/how-nvidia-contributed-to-the-2023-ai-odyssey/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/08/nvidia1.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
     publishedDateTime: 2023-12-22T20:30:00Z

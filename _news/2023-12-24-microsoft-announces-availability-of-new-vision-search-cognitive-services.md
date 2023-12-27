@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-v
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
 type: article
 quality: 118
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/91de305b1ff9b91f5fa2ee3e2cccf31c7fb36338/2023/12/27/8bb71652-c584-4532-a5b5-af0318dbb2c9/gettyimages-1684489759.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft quietly brings Copilot AI assistant app to Android"
+    excerpt: "Spotted by Neowin, it appears the Copilot app has been available in the Play Store since December 19, 2023. Although there’s an Android version of the app, it looks like Microsoft has yet to release a version for iOS. But the Bing app on iOS essentially offers the same experience."
+    publishedDateTime: 2023-12-27T15:56:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-copilot-on-android-3397909/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/copilot-microsoft.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
     excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Global AI: Pioneering the AI Investment and Acquisition Landscape"
+    excerpt: "Led by leading Tech Entrepreneurs and backed by European family officesFocus on advancing generative AI, deep learning, and computer"
+    publishedDateTime: 2023-12-27T17:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-pioneering-the-ai-investment-and-acquisition-landscape-1032928414"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "Jc6XUlq5Saf1tmKdLik9ANVbl0cloD7ctJ4agr/insFk/FNJR4+gudaLRePUJYCCKSUj9V3+UH1ODfiFd/Kb3Ex9gu8wXO7saBDBsf+pQ3ABg8kNSQ6yMU5OAagEh59PNiWdvwAYwEaudvBRLOv+bHZy9QvZWq01AFGoBMrNmAid/QYXf+IxiM/prWzlNM93qcbhujjdM4ARTR6kWabhFDLKsqszX2198SVe+2kHBRzYsqn6WK6KxAdZ6EmlzX5FputnqezwvK3VuqaB4/ZMz4MshS/jdZ7roXKhB7vpdACCXAKpiTd+gaG3EIw0/E524l6hHB3Q0m14rtjAKwkO+TGXQsEm/P5WTe03w6zIUHU=;FrBPmVg0A3BYuySLN6NzWQ=="
 ---

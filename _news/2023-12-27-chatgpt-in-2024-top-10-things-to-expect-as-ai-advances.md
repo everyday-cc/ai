@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-27T16:43:00Z
+    webUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487"
+    ampWebUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/12/GettyImages-1709354468.jpg"
+        width: 716
+        height: 487
         isCached: true
   - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
     excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."

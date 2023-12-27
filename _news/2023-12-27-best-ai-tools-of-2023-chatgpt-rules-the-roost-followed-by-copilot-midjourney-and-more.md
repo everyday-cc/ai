@@ -44,6 +44,22 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-27T16:43:00Z
+    webUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487"
+    ampWebUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/12/GettyImages-1709354468.jpg"
+        width: 716
+        height: 487
+        isCached: true
   - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
     excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
     publishedDateTime: 2023-12-27T14:00:00Z

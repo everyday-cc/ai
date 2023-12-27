@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft quietly brings Copilot AI assistant app to Android"
+    excerpt: "Spotted by Neowin, it appears the Copilot app has been available in the Play Store since December 19, 2023. Although there’s an Android version of the app, it looks like Microsoft has yet to release a version for iOS. But the Bing app on iOS essentially offers the same experience."
+    publishedDateTime: 2023-12-27T15:56:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-copilot-on-android-3397909/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/copilot-microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
     excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
     publishedDateTime: 2023-12-23T15:16:00Z

@@ -73,15 +73,45 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Self-Driving Cars Could Be on UK Roads by 2026 -Minister"
-    excerpt: "Cars with full self-driving technology are not currently permitted on Britain's roads but the government's Automated Vehicles (AV) legislation is going through parliament, meaning that a legal framework for them should be in place by the end of 2024, said Harper."
-    publishedDateTime: 2023-12-27T08:53:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-12-27/self-driving-cars-could-be-on-uk-roads-by-2026-minister"
+  - title: "Self-driving cars could be on UK roads by 2026: Minister"
+    excerpt: "LONDON: Self-driving cars could be on some British roads by 2026, the country's transport minister Mark Harper said on Wednesday (Dec 27). Cars with full self-driving technology are not currently perm"
+    publishedDateTime: 2023-12-27T09:15:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-cars-could-be-uk-roads-2026-minister-4012636"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 24
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--zJYkHvCi--/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/britain_shortages_05102.jpg?itok=n9grbypy"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Self-driving cars could be on British roads by 2026, says UK minister"
+    excerpt: "Self-driving cars could be on British roads as early as 2026, according to UK Transport Secretary Mark Harper."
+    publishedDateTime: 2023-12-27T17:52:00Z
+    webUrl: "https://www.business-standard.com/world-news/self-driving-cars-could-be-on-british-roads-by-2026-says-uk-minister-123122701045_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/self-driving-cars-could-be-on-british-roads-by-2026-says-uk-minister-123122701045_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/self-driving-cars-could-be-on-british-roads-by-2026-says-uk-minister-123122701045_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 24
+  - title: "Self-driving cars could be on UK roads by 2026, says minister"
+    excerpt: "LONDON: Self-driving cars could be on some British roads by 2026, the country's transport minister Mark Harper said on Wednesday. Cars with full self-driving technology are not currently permitted on Britain's roads but the government's Automated Vehicles (AV) legislation is going through parliament,"
+    publishedDateTime: 2023-12-27T17:23:00Z
+    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 24
+    images:
+      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/12/Autonomousvehicle2.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Self-driving cars on UK roads by 2026, says transport minister"
     excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
     publishedDateTime: 2023-12-27T12:52:00Z

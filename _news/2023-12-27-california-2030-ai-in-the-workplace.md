@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
+    excerpt: "Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of Interstate 80 in the California mountains near Donner Summit on Thursday, authorities said."
+    publishedDateTime: 2023-12-25T04:46:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 38
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "MIjGMQWdmJq5TmMKM1/pXfniAdbAyTbqOmRlue1KqXVzC4+47GKytJ3KKL7Y6rQfSKU9pbb1opjZgmZ+N+qMA35eaWpk2kP+OtSUslsLAfykHYDOmfPyh53Gglz56RSkdmxq/sjOosxxgwpvtmoObFnh6CxvWHv1VI2qJlFPLfWm1V3cndHn+Q6kz/a1UZdENR0TDos51stxq5k5m6RZSVtSv18EMPfuk3Fqx8Ik+A9cYXqEZJfTVx7CgdOazZoVQM8/uS0W9HSCsBKwBv5GMFgb3ILLYlB+oFoDuJ9YVLfkcBwbcwzW5jL38dJzQ0xKK1g2MUrTqA1oHUhbybtogPNV/VHaUVDPMCIeaDEVd0HutzrRw0x7/mdEwnDfxaBlNmuWGVkifYsesllzjDMG7pwq7/QyA5D3YXl7SNtcyjDvgoHEtqH5uzphkuFYq2Ikd9KDf1wJqh81rQTJ0asONrjWjknGJcqP+wrRRkEEiARicwvhgVtmlx6MwwUK7Y878qukfK/8uiRId1C14ZJK9w==;tmQppcugzXPdNH/JF2Ldrw=="
 ---

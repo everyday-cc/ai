@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "How Nvidia Contributed To The 2023 AI Odyssey"
+    excerpt: "In the wake of unprecedented technological advancements, the year 2023 stands as a watershed moment in the evolution of Artificial"
+    publishedDateTime: 2023-12-27T18:17:00Z
+    webUrl: "https://www.techbooky.com/how-nvidia-contributed-to-the-2023-ai-odyssey/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/08/nvidia1.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
     excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
