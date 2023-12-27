@@ -3,10 +3,10 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
-webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: aol.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -145,15 +146,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "How 4 health systems plan to adopt generative AI in 2024"
-    excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
-    publishedDateTime: 2023-12-22T04:59:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/gernative-ai-2024-providence-cleveland-clinic-baptist-health-memorial-hermann"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 17
   - title: "Artificial Intelligence Has Entered the Resale Market"
     excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
     publishedDateTime: 2023-12-25T14:00:00Z
@@ -164,6 +156,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "HP44j7AxI14XHTNKSNbVUePRYSkm14Uv1rMQ/2FgadOBijXeFFxmQEAWNAIlUo5ra8AMwEzJKsjgGhVZhPx7j7MH0Ru8qpEp8eHyiLtNtkmxu8o3YFJWD1Fd/NJONFbmTk/UHEPkI/jEgiXbG1AMjumXr47oy9QMZ8547wwKZxC+dWt1YYwf21XRVUm4W9aUxVRjo0niiChspx9NwWSEkgr+SoTma1hmJ+hI/VZwYS5dX6ty/lVkTOLt5VS+rvkLHOe4xAStxGi/NDQZy8y9pjGkKWlOizYGXQLaW9LbeGo/KRPxOQzQbz7Y0taqjOPwVgN2tb1L5AizWd1HzmradMQYyJqFM+fIFqwYqocbs+0=;Cv6O/q6oRQL8jTG+/jpOhA=="
+secured: "tJfKeteq91FR/xAFc4b/Q226HBk3IekEwrVvqtlhoI9FqTp438Yw0XnLfReU1m6qNXOwilEr+B4pQvzLBDDsGbthB5kkHoIZs4IDEl29TgYxZk53FVLN1fv1dpqy445UfpW5AyABILPOky8wpc5tk1hPLmT4SNwT4JofHahFa0Yqe1kS0poNn3gABStv93pUx+Lfo0feJn5AnDidnD6c9/RZlaOTz1SB5YRG2FPQkWPpvnVjlrt+E6yIlUlH1lOsJy04fUOPvi2DJIW8KDQv2lOYbf37Hf+b4bTqSdLM9cg3IcciC4uOlzeMNtgUw7pxtq1YJ4BRy7e8aMApwvkLKKmz/f+hpBmWJS8jMLRH8Gg=;01bHnoctO8FHOxLk9s+Tjw=="
 ---
 

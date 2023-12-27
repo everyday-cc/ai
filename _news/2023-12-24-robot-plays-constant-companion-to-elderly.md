@@ -72,20 +72,6 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 34
-  - title: "Robot helps seniors fight loneliness; it converses, plays music and gives virtual tours"
-    excerpt: "Some American senior citizens have a new companion to help them combat loneliness — a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct"
-    publishedDateTime: 2023-12-22T04:08:00Z
-    webUrl: "https://www.oleantimesherald.com/robot-helps-seniors-fight-loneliness-it-converses-plays-music-and-gives-virtual-tours/video_30f7f9cd-42cc-51c0-ba18-620314b60f16.html"
-    type: article
-    provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 31
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/3/0f/30f7f9cd-42cc-51c0-ba18-620314b60f16/65851e3bc4b6d.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "I3BPLFXi7yfYH6b6/oHBRe7MboNYF3m4EhnbzJgZfBQw2ybx91BjZsn3LDLg09/TsDE/TKZULmToy9ivQnqsKV+24t7C0wF0z0ZWTGWpnWj8s11e1j4KAOgbVKXVuNc5JGCXA+qjRWR2wszFrP0NFd34KEB/Vg8f7Ojq4xC8pWwyQlkBhfXuLVjyM2Ieb525ubJ7U9OzhFznwNfuVmi8koH0P0mWXFT0/2tvos4+o8+j5R9TfXaCjj2zzrtxElOEx2yNwWrXzWn8T3a72mL5hrs4EsEzo+wWPu4VwHei57P8/bGrJ5IH1C0sp1VnClUYZ2GJPx7lQcs/Zn5CoUHmw9VhVI8RysGkrm3oPU+RlllfqZJM1GLw0Gysta1NnEquHrRKUDSIbfsEvLvFcDlFAkgWCfIHe6RkU4FF9ty0SWWgsQhooDzWkc4bZ0Ogb6hpVpPzoLCUXRzKo4DC/F6GDaM95Ltrr2W06d+4Au+qoBUjkh4YW7riIybU0ZsQClvsDmUlvF7EkoQEkpu5HzODwA==;wM+73wv5pUgrhpa2VajxWA=="
 ---

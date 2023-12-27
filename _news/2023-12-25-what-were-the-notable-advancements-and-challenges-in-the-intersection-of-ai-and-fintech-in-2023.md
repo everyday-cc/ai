@@ -102,20 +102,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 38
-  - title: "Top 10 financial services and fintech stories of 2023"
-    excerpt: "Generative AI is the buzzword on every financial services IT professional’s lips as the technology promises to accelerate the ongoing fintech revolution."
-    publishedDateTime: 2023-12-22T04:59:00Z
-    webUrl: "https://www.computerweekly.com/news/366562857/Top-10-financial-services-and-fintech-stories-of-2023"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-191223-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "Michael Gastauer: The Fintech CEO Pioneering Inclusive Financial Services"
     excerpt: "Existing and evolving for centuries, banking is considerably among the oldest and most successful industries in the world. Unfortunately, while the global financial services market grew from $25848.74 billion in 2022 to $28115."
     publishedDateTime: 2023-12-22T08:03:00Z
@@ -130,6 +116,15 @@ related:
         width: 450
         height: 270
         isCached: true
+  - title: "Virgo PR Expands Global Tech Practice with Addition of Leading FinTech Nova Technology and Consumer App Start-up Aroapp.ai"
+    excerpt: "Virgo Public Relations, a leading integrated communications firm specializing in rapid-growth industries, announced today the expansion of its global technology practice with the addition of two new innovative technology platforms to its client roster;"
+    publishedDateTime: 2023-12-26T18:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/12/26/9938322.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "mXPwGn4ACsu5V6Lct2X3JtOxEF4QR9EE1zlWro5KcsUIAsa6AmQ3wQ5PShD7682ECToSRNBxai8X12x17E/Id/YrTc64PaPd31LHof0s6SFKwR04zos8usF1i99H2Yobv9ucyUyJNRIOnS0ejwuPbQ4fxrw7eRv9FKY3KdcZFh0H5DjXsST5AFeW9YdN5NW+x+pot0hHn25Q2FHNJgZlfYkE4ymXGRcK0n0Tv3sNVNoI19hlEClz0KvYwVBlJ2uUXqb06NR6PRCEKh0UQ1/ndHCpeIrjj1ny6yUQwzPlPzKPO12PGLgkQBry+/n72rCrL6SrZkp0BSiMTLUCJZnwuUh2hG8QvqzoOdHQWplJ9tqBeEAvKa6LQn/YmQj1PSA3wGJriODHEnO+Nn0qXgqoprhvjpYKeHMYPq7CdK7gkSrHPe3KO/DdncQku2OpsMbeOvCnXh60AAgSvhJpnr1GZCCSv6vYDsoLWd708hCqA7F6LmA6zuK3lsw6hvQ2VdxXSTQ6HCGVStoPqzeUkKIg4g==;NNrsFLy4Jt1Ah88sO3tTew=="
 ---

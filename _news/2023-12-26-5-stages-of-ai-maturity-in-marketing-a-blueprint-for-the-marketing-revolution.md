@@ -136,26 +136,17 @@ related:
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/finance/using-generative-artificial-intelligence-financial-110001948.html"
+    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
         width: 1200
         height: 675
         isCached: true
-  - title: "How 4 health systems plan to adopt generative AI in 2024"
-    excerpt: "The company recently implemented an AI solution from startup Laudio that allows managers to reduce repetitive tasks and increase efficiencies for nurses. Abraham envisions using generative AI to make all clinician lives easier. “Today, a physician or a ..."
-    publishedDateTime: 2023-12-22T04:59:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/gernative-ai-2024-providence-cleveland-clinic-baptist-health-memorial-hermann"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 17
   - title: "Artificial Intelligence Has Entered the Resale Market"
     excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
     publishedDateTime: 2023-12-25T14:00:00Z

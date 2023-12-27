@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/chatty-robot-helps-seniors-fight-loneliness-ai-companionship-105863433"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 34
-  - title: "Robot helps seniors fight loneliness; it converses, plays music and gives virtual tours"
-    excerpt: "Some American senior citizens have a new companion to help them combat loneliness — a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct"
-    publishedDateTime: 2023-12-22T04:08:00Z
-    webUrl: "https://www.oleantimesherald.com/robot-helps-seniors-fight-loneliness-it-converses-plays-music-and-gives-virtual-tours/video_30f7f9cd-42cc-51c0-ba18-620314b60f16.html"
-    type: article
-    provider:
-      name: Olean Times Herald
-      domain: oleantimesherald.com
-    quality: 31
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/3/0f/30f7f9cd-42cc-51c0-ba18-620314b60f16/65851e3bc4b6d.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot plays constant companion to elderly"
     excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
     publishedDateTime: 2023-12-24T10:14:00Z

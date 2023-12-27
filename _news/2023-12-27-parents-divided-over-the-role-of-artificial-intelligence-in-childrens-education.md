@@ -7,7 +7,7 @@ originalUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-ro
 webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 555
     isCached: true
 
-secured: "JStRfXYPqqKpFcNMeuIM4jao9XuaMr+nkvEAGtxuMwY36v1JYmZTLqB/XL05Nr4zm1D0deykc9l2Jf4zCjGajyRlLoGPCOEgd6y8BAUDRQEBEMGlJxPwWE3DqGiC8cIHeGA0doAb9n4tXPq/Pp8v8+kGMygFxPiSh6trgeUY80PRFXAz8KtipNAVgfkgQLS+DY+iGJBxOSCNBVsLPuwW6Rz0JstZS3k46L66UxoRKUYGQW4cAJD9OEMho7ENVhzkyjyXNxwIsUH94dXC2pbRfHXEMmEZZW0P2IocI5zNJ6MGtp5nSKXOKLn2Jo0UHDinr8CBiMV1lag+hpLeSx6vWGJLG/u2M6+tnLXSHXW94SE=;xo2wMYPXBOnCLqqBI89Jfg=="
+related:
+  - title: "Revolutionizing Child Protection: The UN And UAE’s Groundbreaking AI For Safer Children Collaboration"
+    excerpt: "UNICRI Centre for AI and Robotics, Ministry of Interior of the UAE launched AI for Safer Children initiative in combating online child sexual exploitation and abuse."
+    publishedDateTime: 2023-12-27T03:07:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658b9a814c2531ea90452895/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1260
+        height: 900
+        isCached: true
+
+secured: "t10pNgYBwYmgeK9FVuS6qxnzgxTDNSA7TKu+UerzHXJaKrZAS6fNtuQs2xHUizupcHV9Xj88LaS/OXvaNKZqAzr9pZ89PG71UIiVim6ir43B0jSxwzqxOQ/zRKUDkrbJo5sLGq4eN8xYhc+YG7A721yT2Kx+CjyUhrB0uYJ9dBpcYX8mmbsiO/CV9aR+08PH8BY3JlACFCWAsd1c1ZnQ56QbmiPSIYEvR4mnYyRShJS9Q2Y5OZTM9oFCjGRFNihBgomzP0h95hadYi4oDZWavlHwt/75F9NQ96lO9hZmvphGrhM6RQDn7dKUyiGAiajhSM6gHdNhHBP+DLLTKj3RPnMA7KJ6F2mDyB7wVquueH7csC3fGG23JHtmJ9Ih5Z9atW32BRoY1WTfk2sLqlFbXscxX/h5OC60swK15UvyzIetNjyO/rozSbYjPoWPQ1H7N9huQZEpbmPbOY6EvS0Pz7i7FZ0hZEZSOk9bcaZH/+s4PIXUfFi9qcWoDO3igEdn753+mFe8HBlV5jFK5fpkJg==;hoGMgecdBePkAUhDeR7ziQ=="
 ---
 
