@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
+    publishedDateTime: 2023-12-27T10:29:00Z
+    webUrl: "https://www.dailyherald.com/20231227/business/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 28
+    images:
+      - url: "https://imengine.public.prod.pdh.navigacloud.com/?uuid=6065c7ca-eddd-5a4e-b7b6-998ea6411d3c&function=fit&type=preview"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "rnG2HPL5ctFlr/1ZiyQ8AeJ5Ev5uN3W/JBftqD9mWL0TM+ho8A7dAFjRy+W8vHBIhjNwVuF0E/YQ4T7tBWO9gth3aWKgyuGP61mobXtm3jc/87fHFIQmiTNjVrYgv56gxBQClZ/9AF0tuYL8sFfeRxJ4jpIlOJgD7kqzq65SLfPpDH6flAMa7iQ88+7aK5BszOp35nWwjbrH91BxweJNIbA9Pdr22AnsA62QHhvdlP4+NNe0XgMMu87s3uRDHE4gjNW9gPL51B/SxZ3W1oR2gU+PFwt/CAlGeEVKBzIHI8om49vC1j+nBD0sVEMkArLxIS9hR7KSZafNgVRn9iXcd7CpCnU66i6WYbdWt8383tRY0jh3s3vwPVPx0OEdetaHimXpy1edKeOCLtuU22b98PHaReUwEvPygIoA+UwcS3Ktf1wyVTtnmzEqhxyGAatu5EW1PGUOqkOwKVPqm6GgXU1Y/W6P2oD0EsULitH2lpz97Xit5SJCj71haS5FBzG3qRenkqOAtd6yntUW2KNvkg==;5La7oXI3z2KQmtKsnGNfqA=="
 ---

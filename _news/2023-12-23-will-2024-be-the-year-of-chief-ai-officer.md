@@ -57,15 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Top robotics names discuss humanoids, generative AI and more"
-    excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
-    publishedDateTime: 2023-12-22T17:14:00Z
-    webUrl: "https://techcrunch.com/2023/12/22/top-robotics-names-discuss-humanoids-generative-ai-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
   - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
     excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
     publishedDateTime: 2023-12-23T19:16:00Z
@@ -79,6 +70,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_A_double_helix_spiral_made_of_glowing_green_computer_f8394a15-b3e9-416a-9e23-6aaabf2e88a6-1.png?w=1200&strip=all"
         width: 858
         height: 686
+        isCached: true
+  - title: "The secret to making data analytics as transformative as generative AI"
+    excerpt: "Data science and analytics continue to be challenged by data volume, preparation, quality, process time and more. But GPUs can help."
+    publishedDateTime: 2023-12-27T14:23:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/the-secret-to-making-data-analytics-as-transformative-as-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_621371321.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "How generative AI is changing social media content"
     excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
@@ -96,15 +101,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Risks of unleashing generative AI on company data"
-    excerpt: "Ken D. Kumayama and Pramode Chiruvolu of Skadden, Arps, Slate, Meagher & Flom LLP discuss risks that can arise when companies train or prompt GenAI models with data, including infringement of intellectual property rights and disclosure of confidential information."
-    publishedDateTime: 2023-12-22T13:13:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/risks-unleashing-generative-ai-company-data-2023-12-22/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
@@ -147,6 +143,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vertiv: Further Upside Possible, Driven By Generative AI"
+    excerpt: "Vertiv has also been beating competitors in the pace at which it is gaining market share. Learn why I believe VRT deserves better valuations."
+    publishedDateTime: 2023-12-27T11:42:00Z
+    webUrl: "https://seekingalpha.com/article/4659905-vertiv-further-upside-possible-driven-by-generative-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "eHoqWwj/gDveplafy4KLyH8c8+m0b2+cumEm3duuo9foLxiBn3x1kkKpmVlW06ufMOFKxhYMehOmCx6GhdzrqHu6e+ErOjPoRIkyllBL0k87/Kl94bOgOi+aNuyFYnMN5jCzsmF91UjAPYmZ7xcmTqEwb5hk8PHYoKWnL/SkqOYSgA4FKuxNfEx0/kSw3QA7m/UCCrNUlCpMCKrv0DuL4SAw764otKldm2xrY1/x0MX2Yf0DqBEC1oloqviidiiTDTZfj/OxgDsEap8ILozmJ6AEusFAYslpG3ngfi+v+z+Lyy7pjCOWy4pTgwnbYPrY3uZLO2fmL3KzDUo30y72mm+CrPu3yA5yPWB/MTA25SSfoCldpbsdAorwC+v80xA3G3S/f56Z7WWMFIDNpzibrHW2r6+7ckJgQ2ys5eIXE3RTU94RuZxFti5ruARE2gr3JpesQ0BcaBaKzDukifApj3XGfcMUPPsyNpP+WjxFT5zW5j5cV5ae6rIFIM7r7HgmN3KmEUczezMkjrolDzhvTw==;rwBPtFGxbBHKJyKrHtnVxg=="
 ---

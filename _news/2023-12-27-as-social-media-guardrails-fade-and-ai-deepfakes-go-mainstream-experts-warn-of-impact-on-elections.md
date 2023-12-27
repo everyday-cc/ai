@@ -2,11 +2,11 @@
 category: news
 title: "As social media guardrails fade and AI deepfakes go mainstream, experts warn of impact on elections"
 excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest"
-publishedDateTime: 2023-12-26T17:34:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
-webUrl: "https://abcnews.go.com/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
+publishedDateTime: 2023-12-26T21:42:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+webUrl: "https://abcnews.go.com/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
 type: article
 quality: 43
 heat: -1
@@ -66,6 +66,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hfZFmiGe9XTogY0smJ2LkjOQbScYPukiOZ7vJwybPx6uByd0qDCOYmv1WgaLI15MKl8J7h9YcqiX+jL+8XRgP/iN+WKCyDuoCRuvOcm/kygonoFRmWMdj7foo1zx9jPqyJ4IITMZlstO0/7nTXbLAUmSKDHUSkkGLexc0+deRtGf9KNeR4vPPhoLYjBMcj5JM9NvXQUlAaFpFclErswqSj5xeeoS2jYYsDOkQdlpF4xrYwGPuHVTbICxxcIKB+PY0oCjy9tcXRd2iZZsE4AlOqSRe+4lVUbmKBc30ty7B4bkn2rwL+q8iL5P6QU5okg9fqzRERQ9z6vw88yxPG9E/yX9dgQyaCSUe22QQOVzxfU=;KkD1joXeepbb8tzRoAJoFw=="
+secured: "bvwJMxAR0rzswz/yl9rtwV2Gf4GKLNrYy4p6i+BEdHVhE6aLIAAG3hwLKk9zuZFz6fklCu+AmoX8g+8xDOb5RR8USc56WE/6kJTwom9NTJ0ilN0LfPZ5DVR1TEgi+yXNYpSHv9vJ9nNhujnw6gFkRM4mHg3WXCSbO+jnjV9TEd9BQqskQ4GydIQyWiH71jko4InjDlrUdGqs1IQDowXla1B+1w4K7wYN+k7n36TG6YQvmWZT9mynJyKxalY6/YFWD96sxarJp7n3e4toHRvZpClZyLK8PDx9yqh+O1VzxGd9sR8wkfc0bYSkimWG3Nl2seqh5D0rsxl7nuF0Zk5x+kf/Ej2swwGp/fu2PY3oYCA=;D6NYC1aYhkssYLPYeTIK+g=="
 ---
 

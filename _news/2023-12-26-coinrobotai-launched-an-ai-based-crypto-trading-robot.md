@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launc
 webUrl: "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

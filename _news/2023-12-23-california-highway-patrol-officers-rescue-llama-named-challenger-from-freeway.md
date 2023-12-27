@@ -9,7 +9,7 @@ ampWebUrl: "https://abc13.com/amp/llama-interstate-80-california-highway-patrol-
 cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/llama-interstate-80-california-highway-patrol-rescue-named-challenger-rescued-off-freeway/14216167/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Photo: CHP officer apprehends Challenger the llama on I-80"
-    excerpt: "YEAH. SOME TROUBLE ON THE ROADS TONIGHT IN THE DONNER SUMMIT AREA, BUT NOT FOR THE REASON YOU MIGHT THINK THE CHP HAD TO WRANGLE A LLAMA THAT ESCAPED ON WESTBOUND INTERSTATE 80 TONIGHT."
-    publishedDateTime: 2023-12-22T16:35:00Z
-    webUrl: "https://www.kcra.com/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
-    ampWebUrl: "https://www.kcra.com/amp/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
-    cdnAmpWebUrl: "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/photo-chp-officer-apprehends-challenger-the-llama-on-i-80/46211841"
+  - title: "California 2030: AI in the workplace"
+    excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
+    publishedDateTime: 2023-12-27T04:43:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/video/california-2030-ai-in-the-workplace/"
     type: article
     provider:
-      name: kcra.com
-      domain: kcra.com
-    quality: 44
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/llama-6585b937dd209.jpg?crop=1.00xw:0.423xh;0,0.344xh&resize=1200:*"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/27/895915bc-bb0f-40fd-9cfe-e89d93d8e47f/thumbnail/1200x630/ccedd11b8fd9408bb390b6666cf49355/f57dcdd3ab0167edc1fb7b00e5da96cd.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
         width: 1200
-        height: 677
+        height: 630
         isCached: true
 
 secured: "3ddl+liZ4r+4yHJEXLDBzi6LZVD6P8N6f43Bky7wgVtfS+gh3b23LWfYEyjWdKISLPwiRsP0U1Gp58FLr3mkS8fdJss3tI/RojTjZeiVRJqRJ+b0V2xbNWfOc/XOFlyyAWeIScjIbM74Z6ZonxmJP6F7ECqgEas6MAoWJ7wtEJpaQfhk/jyOZVPvP6rvLd6gNDen3e8lBxYhDFtpxbcUrlfVGEeYtR/xMC0/iZvQsNl4p36c1EWSRllcz1QbUiVsF9UyDrtL83HIfqe6KeiBkrARwV0v2LdHeAfYLk1R94XPqf3Xy3HCrvy70KwF8EBZhLPUE0Uer61wfficoS2xw4r0r82dkq4kpYXjdZNw/8KFPw5uv026LGr3zDQK+Evk1jTNaHnUFmCuthR2N76mzygRdXJX87KgcQ6HfBe6TM56D/goAnCoQLc/o4kOOgjEAixRsRagUUKEpGSUwIKNSHODW9/IR8sVpZetwI5f2m/WTgKh7m5LHflBAMKF52VTwizlU3UFYRGyzi/aDHxOiA==;JMYQDn8GkdFKU7zfIrO6Aw=="

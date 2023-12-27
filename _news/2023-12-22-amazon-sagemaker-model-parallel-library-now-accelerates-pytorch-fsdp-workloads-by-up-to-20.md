@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-mod
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-model-parallel-library-now-accelerates-pytorch-fsdp-workloads-by-up-to-20/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: AWS
@@ -28,36 +28,6 @@ images:
     width: 1010
     height: 505
     isCached: true
-
-related:
-  - title: "Mixtral-8x7B is now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Mixtral-8x7B large language model (LLM), developed by Mistral AI, is available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. The Mixtral-8x7B LLM is a pre-trained sparse mixture of expert model, based on a 7-billion"
-    publishedDateTime: 2023-12-22T17:15:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mixtral-8x7b-is-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 104
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/22/mistral-sagemaker-jumpstart.jpg"
-        width: 1005
-        height: 504
-        isCached: true
-  - title: "How to fine tune Mixtral 8x7B Mistral Ai Mixture of Experts (MoE) AI model"
-    excerpt: "To begin the fine-tuning process, it’s important to set up a robust GPU environment. A configuration with at least ... verify that the model is ready for deployment. Engaging with the AI community by sharing your progress and seeking feedback can provide ..."
-    publishedDateTime: 2023-12-26T11:45:00Z
-    webUrl: "https://www.geeky-gadgets.com/fine-tune-mixtral-8x7b/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 37
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/How-to-fine-tune-Mixtral-8x7B.jpg"
-        width: 1280
-        height: 716
-        isCached: true
 
 secured: "d+91TUW+Jkwk/dXBgC5U2xlBCWdpiAxpolugT+lA3yDPyzm93rEeqfCakzn/WPmy+JpgWGR5AZeT2MeN7CxDxh68miqljT+0AcjXmKzFKQJJUJBNrohnFxX4GRCx1ak5Lk/gvQkkWW8LF6Q2PGIFfXaPS7p+s+jUdmTRR+NuvctoCA3saBYueVAlLx7EJvIxuH8SmYAsj3wPoMASSg6YB6zzwtzfgz1c526oSnTo8ikbA6IDDMc/GrMBkofWVurbJuesIRLxRKZ1azodEgd/hxjbGBBDVDXURGhhBPqDKj9i+oV2N/ureWHjsLmJT6izo+ZPlJCST5Mr5WTx+4BK0UjJ5DUbngAc922j0i9fDoA=;EQxonZT0qFnBfZ2CfX+mpQ=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says minister"
+    excerpt: "This potentially opens up a whole new world for personal freedom, getting to work, having the ability to not have to rely on other people. At present, several manufacturers offer driver assistance technology,"
+    publishedDateTime: 2023-12-27T14:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    ampWebUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_36_44_9180289.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
     excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
     publishedDateTime: 2023-12-27T10:10:00Z
@@ -69,6 +85,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Self-driving cars on UK roads by 2026, says transport minister"
+    excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
+    publishedDateTime: 2023-12-27T12:52:00Z
+    webUrl: "https://kalkinemedia.com/us/business-news/latest/self-driving-cars-on-uk-roads-by-2026-says-transport-minister"
+    type: article
+    provider:
+      name: kalkinemedia
+      domain: kalkinemedia.com
+    quality: 4
 
 secured: "c2htYJ9CXW8uqwVhe4Te1IAivZrco/FklPu4uvoQfM+77U4UyMl9O2gk0L1PCjx0FO0DXhttZuhJ//gUJw+tKcVPS5hFirK/yx1pJnWkWDWng8dUwxaXvYllsWePM51j9dEtxvilorvHmKu9jCvnGFCoLLl1NmU2rfb3ncKJZUMqTXj58TP7WS9nkzfUl1KHUtZNbXVZrEza9unEnodPIhVVLCSg8e7qGwEVBP2n6bzzcl1tZx6MZBIR+6VIoezMaimStTXUd20IyIQ2CbOpLnXF2+VIadIe4e/96Ov0Gs5ySNuWg9KceFQzopipIDmi6MOIYpPpHPlOBKethSYY6Mf4V42/fQxQ9CkkcOYFINWSn0oQnTCVrNWWfYWj79a1tO9Aqw1CE4ghDd2q/AnBgE0qUaOqAEZ/udDquO5MoPsqEB5OoCwgKLoY8W4nkdkDJU0h2guKjFGeKsPlpO3PUgaQ2Iu4OIO6fhqxEDEgnwcFad2njlUWh+3F/ftAlUCddbgMD43sGleWtjp/jxv9iw==;S/O6R6A2md4I4QhNrjyBpw=="
 ---

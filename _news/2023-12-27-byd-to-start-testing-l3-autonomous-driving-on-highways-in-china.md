@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-
 webUrl: "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-driving-on-highways-in-china/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,20 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "BYD has obtained conditional testing license for level 3 autonomous driving on high-speed roads"
-    excerpt: "Chinese electric vehicle giant BYD said on Wednesday it has obtained a conditional testing license for level 3 (L3) autonomous driving on high-speed roads. Earlier in December, BMW Group said it had received a test license for L3 self-driving on high-speed roads in Shanghai,"
-    publishedDateTime: 2023-12-27T08:19:00Z
-    webUrl: "https://www.aol.com/news/byd-obtained-conditional-testing-license-061936345.html"
+  - title: "Baidu boss investigated for riding in self-driving car"
+    excerpt: "Baidu, which has not commented on the incident, is one of many firms developing prototypes of self-driving vehicles that will use mapping and artificial intelligence technology. At the conference ..."
+    publishedDateTime: 2023-12-27T06:29:00Z
+    webUrl: "https://www.bbc.com/news/business-40515706"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 27
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/39a1cc7d92eba349c61c172811ad91f0"
-        width: 800
-        height: 534
-        isCached: true
+      name: BBC
+      domain: bbc.com
+    quality: 49
+  - title: "BYD Has Obtained Conditional Testing License for Level 3 Autonomous Driving on High-Speed Roads"
+    excerpt: "BEIJING (Reuters) - Chinese electric vehicle giant BYD said on Wednesday it has obtained a conditional testing license for level 3 (L3) autonomous driving on high-speed roads. BYD was granted the first such license in China in July, the company said in a statement on its official Weibo account."
+    publishedDateTime: 2023-12-27T06:18:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-27/byd-has-obtained-conditional-testing-license-for-level-3-autonomous-driving-on-high-speed-roads"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 37
   - title: "L3 self-driving vehicle tests hot up in China"
     excerpt: "Mercedes-Benz announced last week it gained the permit to test L3 vehicles on designated highways in Beijing. It was one of the first batch of companies approved by the Beijing government to run such tests."
     publishedDateTime: 2023-12-25T01:36:00Z
@@ -58,6 +62,6 @@ related:
         height: 606
         isCached: true
 
-secured: "NR16pxGfl6BoaY5jni7OJMoeGhfsYG2mJYGpkQSoyGh0Hnz9SuZ3MRI8eXrmigq8XQxJ+3NpMgPMDM/40x9MqDfXHqoDYo0jZW+R7P+obashcU5WJTE9h1ZgU9afK28AIrAYAqciA09pp2jv9d8Z7E7mSj6nqNBoDQ7ZjgsTrDGhVn1WKdvcplMCU47qeelCt8f79e37mUTAFVGsNgohx9MOqfF3JvVBrbcW1joF2+0CPNeejwARhLTopSQTa/U9HFnTdkspQiDI6z3MCRXvh2mKd58UuqfD2ICHSTb0PLUswAUTx7gPySN88l7yE+WG2Gcn/YnwlXHsQYiuQYjLPla4uhQsw/65CVCcGt9G+j4=;AC82p24Rgj4mV9aopjG/5A=="
+secured: "MUtq/LHgK3cdBUKqnB3Gdu5Tm48HoUw6Bzp04q/EjTSMGNdIuCZh3QgnBaGCgcyvv4BXR0glWGMC9AklgrC8IvU66LS6uIRP9oEnlXfliVrIC55YV4R58Qh+yIFNqnmzOGbSpPqwUhdCerG+nH6GBogBqjqqDeC6lGjoBxFbqQOCyQ+CdqiYJmbz7xGtTuM0RJZwi9n+B2wxEWauv7uo+7/NtnL+Cfwykwx58wplhbXZSrN2ShrXMjw9GKMdJX7wsI3KxzhzobdaZAMglsVtutuO8d06L8PmWM6hzCDDvA2U8FI95r3jo31XiHA4TqpzlOixiyCn6S2j+sMyeoxaY7z+csakfYHxl74akmDf8AzIJAKfstvcPqV6WF3XDncJyfg2WuHo/TBntipxFoUpiXuoDILRGocWEYTUomM4bp10XXKicHO3dLrWPX3Yl+lnfYTfuy/QzueZcpU0w1UaeDyG03Tniqor7M+nRIOtrIV6Loh9OnkW5HKdzRoqoj4mdikFMc8e3gRFcINpO0602A==;A86EZjvX7ZitgmnukscfJw=="
 ---
 

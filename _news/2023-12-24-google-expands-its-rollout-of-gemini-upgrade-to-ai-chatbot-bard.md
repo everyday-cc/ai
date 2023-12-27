@@ -181,15 +181,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Elon Musk said one of his goals for Grok is to make it the 'funniest' AI chatbot around"
-    excerpt: "AI chatbot Grok was released in November 2023 and has a \"fun mode\" enabling it to respond with more vulgar language, humor, and sarcasm."
-    publishedDateTime: 2023-12-22T13:13:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
 
 secured: "oIvjj8Yk/pcSONnGePiIO/7PYdZDLaD3Rn+PK1XSUf5vGBgvB6BxKa734DLZVEuc3kt7Ytkn1FQAyQD1NO/bQKwTtQrKTK8ITEubaGJgjN0NdFAl5su7qtt0jSBp9ghFNjkOVTx0vEAUlf6Oy8hOpezAqtN/B26MZN7rAn3re7W0GMjm6lqf/xziEBr1XwhwNW2cfI+dbWn/WkKLWCM4fQziv1F2it9k59sVF47Ovbzz0awhZ0Sl34li0pmK7dBIewbbuLFSk79eEH6hQyCaL6ldhLzoeU0m+dQIZhE2vaySxDrJs7OhLwy7PQbNN1kajbiMIlqJAb6AFTqQqTdZvrCpzu/0ugLEu6I744aPDrSUiEbAsPPSpP7zGkB2ApObIbRKlKRFxguBqlqxKV6dBcoMY1W2s3H2B1WNPgaGEMu1lMVm++frQkCdPCRzctxWMasgDeD/OUO6mlK2aJJuEYZ97h1J+gr+Q2r8f8zNFfr5EImcWFowavwXE2od40CIBHzUarAHZSs06J8QuD43ow==;OWNz2fxU1hw9NhwrF+OAcg=="
 ---

@@ -40,10 +40,10 @@ related:
         isCached: true
   - title: "As social media guardrails fade and AI deepfakes go mainstream, experts warn of impact on elections"
     excerpt: "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest"
-    publishedDateTime: 2023-12-26T17:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923076"
+    publishedDateTime: 2023-12-26T21:42:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/social-media-guardrails-fade-ai-deepfakes-mainstream-experts-105923080"
     type: article
     provider:
       name: ABC

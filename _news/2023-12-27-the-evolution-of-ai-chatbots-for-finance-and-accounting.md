@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
 type: article
 quality: 106
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -172,15 +172,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Elon Musk said one of his goals for Grok is to make it the 'funniest' AI chatbot around"
-    excerpt: "AI chatbot Grok was released in November 2023 and has a \"fun mode\" enabling it to respond with more vulgar language, humor, and sarcasm."
-    publishedDateTime: 2023-12-22T13:13:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
     excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
     publishedDateTime: 2023-12-24T12:00:00Z
@@ -196,6 +187,6 @@ related:
         height: 879
         isCached: true
 
-secured: "7qAVECMEHt4rn34dzc78HP+zMjJd4/2nj9aBTydNWJpj9Df0zoPumqMAoAwkHYQVHxBKHbWknIYbwV71v1jJByp2+SwAYWN8IzxsGDtLnfMtQdQtBEW97q8mOvZLBSwQDjuoQiLgSXOldc8eGSTBraOrzPx2DUQYPb5ojMVzo8lMNDYDWIIDY5ICaDMYJPV2Hdlbw+LpsyB1toO0Kha3+VsYRIY3VT8et0XFzVrxDeu6v84TA834azIBzQPJrFbu9dvG+Gqb0XvGsZIOlD0mYUynKrV6ImWyTDfkq5bIEMgLA5VusyZUwWonjhVna6Lro4F0gv6S64KoEgSyGIUVldSVfYrAaIrhErTZywbHgDQ=;fQej4jeNHf8zX59tt04C9w=="
+secured: "9Z8g92Xh4MBiiEV2jaVjL+C8BhPHK9Eoo2o5UNfLVyLFrWOyltG7vAATKBhcVfyq3SA/2YCF2FgTV4LyVa3ZWkuZwuE0fpPkjBJc3LHBYLabimb32W9S7JdZdoXQkIQywGsh+2PqKbIxOodY/9oNOWqpGAQKFExHmooBE4gDLftORPQISQF02fd+iOUVzkiBicEhoPdOrKhxycUYzdYiOP3ZeNqCUzV2gIxkB8d5RT7XViRy57ezHXUpd+HQpOhWh0yixcZujAYr5fyCkwzjb/CzCP46J2dpk/j6dTWKIRBmm/CxkuZtKQZOd9WhVs+yuZYXWhJDyIm4ry5a7o1ZuSy4TlxmDH42QS8MsNzbmwIcz7MdapRtRR9D4T1nRHiPfTSKCvnso6DGGEhzj1iKM3O7OKucXjdm2XjoexXdygxO5K2qNzW/JF69M9p5yxxrZDPMLgME+Gb71wBHfwCr47KqibKU4oLG4/8vm9wlacCJYZ0UzSVJ6uGXtGHnzGeI0HNorGIGDFkfZfyBbMAryQ==;+W2TA4L/eyMOYOuJ3n67vw=="
 ---
 

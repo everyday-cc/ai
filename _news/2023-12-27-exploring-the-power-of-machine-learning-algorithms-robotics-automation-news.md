@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107660740/Exploring-The-Power-Of-Machine-Learn
 webUrl: "https://menafn.com/1107660740/Exploring-The-Power-Of-Machine-Learning-Algorithms-Robotics-Automation-News"
 type: article
 quality: 68
-heat: 78
+heat: 81
 published: true
 
 provider:

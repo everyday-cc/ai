@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars could be on UK roads by 2026, says minister"
+    excerpt: "This potentially opens up a whole new world for personal freedom, getting to work, having the ability to not have to rely on other people. At present, several manufacturers offer driver assistance technology,"
+    publishedDateTime: 2023-12-27T14:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    ampWebUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_36_44_9180289.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
     excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
     publishedDateTime: 2023-12-27T10:10:00Z
@@ -66,6 +82,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Self-driving cars on UK roads by 2026, says transport minister"
+    excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
+    publishedDateTime: 2023-12-27T12:52:00Z
+    webUrl: "https://kalkinemedia.com/us/business-news/latest/self-driving-cars-on-uk-roads-by-2026-says-transport-minister"
+    type: article
+    provider:
+      name: kalkinemedia
+      domain: kalkinemedia.com
+    quality: 4
 
 secured: "6t/YoUAJmvxwAtmwsB948i7hiQPh5YP/u7MFLlZSBSZKwGHmRWjVvqDkDTjQSMR0VO9efyc3KxzL6NHvgleAH+S7BInbtEJzrDaP0eK4TUtheLtwGtezd33xGFGiuUeH3+QnH2H+lC+Qn3fDuS5VYfcza6e6GAiUcefWPVzQcpqtYwpo3vtuXLUR0UL8+psycsfQONCrpa51b3Mpk5O6DkSV6WxkmNfUOpicGW4QQxNx5HHI5SedD+T0ybSBeVib52VaqWe4QzDXiSskus2UT3D1nr4mffsjo/w7Cl61MrKKqK/lsCW5w3xurFB/PX0MXMzHbdU7cA3lJOZ0xwug2/OoorhJ7hNpPtT/iezDAxorXjgJHJ1Ml8X/9YtxRkAy0qGSYDKQfmYFbuYl90x+doNMJh5xoE/A9npZQIwcBU6JohJZSZsfEI1ymR5K8Ues0PaPg/cE97SIGa75wN1R3rwY/L+Pak67FxydkahfbednYoE12+Tfyioalefd3WvuTyImajfJSxRYrRHN9+wgNg==;5aOExXAnkCDwUVAWloUt+Q=="
 ---

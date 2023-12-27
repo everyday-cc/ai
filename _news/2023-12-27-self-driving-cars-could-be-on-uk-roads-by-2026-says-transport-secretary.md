@@ -47,6 +47,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says minister"
+    excerpt: "This potentially opens up a whole new world for personal freedom, getting to work, having the ability to not have to rely on other people. At present, several manufacturers offer driver assistance technology,"
+    publishedDateTime: 2023-12-27T14:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    ampWebUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_36_44_9180289.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Self-Driving Cars Could Be on UK Roads by 2026 -Minister"
     excerpt: "Cars with full self-driving technology are not currently permitted on Britain's roads but the government's Automated Vehicles (AV) legislation is going through parliament, meaning that a legal framework for them should be in place by the end of 2024, said Harper."
     publishedDateTime: 2023-12-27T08:53:00Z
@@ -70,7 +86,16 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Self-driving cars on UK roads by 2026, says transport minister"
+    excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
+    publishedDateTime: 2023-12-27T12:52:00Z
+    webUrl: "https://kalkinemedia.com/us/business-news/latest/self-driving-cars-on-uk-roads-by-2026-says-transport-minister"
+    type: article
+    provider:
+      name: kalkinemedia
+      domain: kalkinemedia.com
+    quality: 4
 
-secured: "3F8QqyrFmnotF4148vW12iX6kQy2c5b7zahHxSSRFEUoUBv3vrJ2AXLHS/lWxDtt4vM7KdKVc0LzOJww5d1ES9l6wz7yUYuf57cfFNAx2H9W2rn7ZludIOsN2wUF2RoGm4y65S3TdesN30odb7P5ZBPjmipWknMbMhpn2Q+okXP1XddeggqQCKC0ztn9i1OiSfUyZI9VJT/AQobMUS+Bx36Fc5VLJaAO5E9GbRi4+sHsoh9CCqe7eUTE/y0AVnnFMYnugj1MFpmuZ3Getcbjl7u8J8It/w2fSnnLNkCyj+n580l8Qm7H0cLBsMJVzaO/wjwAGGlM4hB7tjO7FO+emU6t0VcyGEhbCtyaYTayBM0=;24pDr6AprSFhJi4c+7NPmA=="
+secured: "YXoS+nM5gPhBYK6Xj+G0V3f9QiawUVjUTHpk/q8r1Bxx/dLOFuYOzFk7VAmg46duKXuNVGLGG4fSRaPsCCF0xjEaRMKhg0F6qD88ItDBYn1k0JUwEGr8DF2+MjnyxEP+p1681VANlUUOfh8akLF5bvg7TL6FM7tFODFKeGR/H/6CZo4CVtCNXYL/xBQAfSOlb9htp+eLGbwoVidkX+/vA87/s3Pm4tnwsVfWdhGddbS8+GgeapRu0YvqqxDhAXnuB+U9aR4FgsFTUMnVT2/3eVLXsdX8Tk8HPkCDI1Ir7G4iS1EG5QALINKZR75UuWr2jDy+M2ZAmm80T9rW701B8gTYvg5n1mlGi+glGVtpPqhG7ngvCikHU/sWJdphRIwat4qCGS8LqfHUhHpk/Y2DeUbssdrgOHSQPp+3mnMAa7QXMNEcXUgWcadDgmEZRkSRU18AqwDzrkzRoxCkcg1ZoTmFM87coQbxYHiwuj3+uYdSsRVSIHVQv5P3cWFaydRuCbVeuUf8DfqCOBhBHgtdbA==;N6NwSOVl7lw84B2mc8i97A=="
 ---
 

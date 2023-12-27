@@ -31,20 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Develops AI Chip With Naver, Claims It's 8x Faster Than NVIDIA's Best Silicon"
-    excerpt: "It appears as if the Samsung and Naver partnership to develop chips for hyperscale AI models is already producing results, with the companies claiming their field-programmable gate array (FPGA) solution is a whopping eight times more power efficient than ..."
-    publishedDateTime: 2023-12-22T15:29:00Z
-    webUrl: "https://hothardware.com/news/samsung-develops-ai-chip-with-naver"
+  - title: "Generative AI's breakout year produced hefty profits for Nvidia and lofty experiments for others"
+    excerpt: "OpenAI set the stage for a wild year in technology when it released ChatGPT in late 2023, but Nvidia was the big beneficiary."
+    publishedDateTime: 2023-12-27T12:00:00Z
+    webUrl: "https://www.cnbc.com/2023/12/27/generative-ai-big-year-meant-profit-for-nvidia-experiments-elsewhere.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 47
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/63421/content/samsung-naver-hero.jpg"
-        width: 708
-        height: 425
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 36
 
 secured: "BtpJny/PxT1Ndj7MVL3EH1C26Dk4Zgoox7Ocy4C7JTb40gg9I3UDWmKhT62Usbxqq7qC3Qc20yxoOUJBqthrlN8XQAjxwD45FuWrHHovc9h/txbXjv4LX+Yp/20CB3WJnS952+TCTmH9FQxYwxSDH4NpAE9lZgO6v5+g/WHGtRq7CR+lvdxt03FjbmZHSWReaFBxhNS1JD5XEhSfvdzNN0Dqt3rQXIzRo01XrjnEf73eOZf0/92R4U7eiQ5Strys9hR+90cjyLhcFCw2vIbYZzz5u2vL/J/bnQLpdKi8kJ+zvOXtZYnk534FHHJD5fAiwMakL8fy9ewDuoEvni95jLxwUz69pYe4E/lEYVOfvNABVq+Fs4LJxNcCOkoSEi7CLmFlTazBYtXgiMADf3ky+ig24ElPpXfFXunhIpIjlnidbD8Q8u/3CaLvz7jXGReIa2VcY8Dva3iFueVe7aZaVqm7JzhIHn4VUmdHxNGNUrg4y8qgppli4mJP58IrgweLjn3s6nw7OQXkDoXMF5PJAw==;2hH+RwqpyvYj7QmZmP6VNQ=="
 ---

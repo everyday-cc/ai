@@ -41,6 +41,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says minister"
+    excerpt: "This potentially opens up a whole new world for personal freedom, getting to work, having the ability to not have to rely on other people. At present, several manufacturers offer driver assistance technology,"
+    publishedDateTime: 2023-12-27T14:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    ampWebUrl: "https://www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/business/2759074-self-driving-cars-could-be-on-uk-roads-by-2026-says-minister?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_36_44_9180289.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
     excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
     publishedDateTime: 2023-12-27T10:10:00Z
@@ -66,6 +82,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Self-driving cars on UK roads by 2026, says transport minister"
+    excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
+    publishedDateTime: 2023-12-27T12:52:00Z
+    webUrl: "https://kalkinemedia.com/us/business-news/latest/self-driving-cars-on-uk-roads-by-2026-says-transport-minister"
+    type: article
+    provider:
+      name: kalkinemedia
+      domain: kalkinemedia.com
+    quality: 4
 
 secured: "zhviF/qTP+4IUoqiBuOb7GFd75YO3Eo/PKhd9d76XtJkVBLnIyv2HL2LGwnONqr+Th5QGtjfsyyYgUQUzQKaqCXTucg6es3B98ANOEULfCBlDIEUDutHHjQKPbwoWbfJc19gCJF0pNOH4rzbtClfDxysYMf4X9mhD7OS7xsP1HjnWNeMQC8VQKj3ulho+I6+fY9I52IEigqrFfQ7d9OuKPTW0oSsreIF18/G8R4RlY18F/NHQc7deD41sv8I/e8wNNmpCekJbOzEPglOpZAPVpfuhwrNGbYkW3Nxz2FSQZVS8/oRPB62mdUsrAuzWkGRTAUrlQr/Fect4eMlrsqVcr2xCrsNNkTVA6/j9OkI2L0=;gycAc2MA4TcMFPSxXdCxWw=="
 ---

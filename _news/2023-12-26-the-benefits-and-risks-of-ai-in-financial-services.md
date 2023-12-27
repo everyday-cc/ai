@@ -170,15 +170,6 @@ related:
         width: 960
         height: 1280
         isCached: true
-  - title: "Elon Musk said one of his goals for Grok is to make it the 'funniest' AI chatbot around"
-    excerpt: "AI chatbot Grok was released in November 2023 and has a \"fun mode\" enabling it to respond with more vulgar language, humor, and sarcasm."
-    publishedDateTime: 2023-12-22T13:13:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-wants-grok-to-be-the-funniest-ai-chatbot-2023-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
     excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
     publishedDateTime: 2023-12-24T12:00:00Z

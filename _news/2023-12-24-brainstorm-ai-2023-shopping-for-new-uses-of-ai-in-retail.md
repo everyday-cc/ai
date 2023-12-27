@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Fortune
@@ -30,50 +30,24 @@ images:
     isCached: true
 
 related:
-  - title: "2023: A Year of Groundbreaking Advances in AI and Computing"
-    excerpt: "This has been a year of incredible progress in the field of Artificial Intelligence (AI) research and its practical applications."
-    publishedDateTime: 2023-12-22T13:30:00Z
-    webUrl: "https://deepmind.google/discover/blog/2023-a-year-of-groundbreaking-advances-in-ai-and-computing/"
+  - title: "Humane AI Pin orders to start shipping in March 2024: All the details"
+    excerpt: "Humane, an AI startup founded by former Apple employees Bethany Bongiorno and Imran Chaudhri, has announced that their AI wearable device, AI Pin, will begin shipping in March 2024. The device, which was showcased for the first time in July, has the ..."
+    publishedDateTime: 2023-12-23T13:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/humane-ai-pin-orders-to-start-shipping-in-march-2024-all-the-details/articleshow/106236048.cms"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/fkZqqqpfLKvV2E6ebVmYJjR9q9XnczvWtiui5uU-yPkHCQb5mLAB4kBmh3opGqOJLhtaC58td96UtvULI8uGpbB9TmejR82GZ2vWOqTyWZ6HSItIpHg=w1200-h630-n-nu"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence - and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the technology to match people’s science fiction fantasies of human-like machines. We apologize,"
-    publishedDateTime: 2023-12-22T15:35:00Z
-    webUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it"
-    ampWebUrl: "https://windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/world/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/wcm/deb8289f-4a0a-421f-ac83-33a1f70a38e3/amp/"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 17
+  - title: "Top stories of 2023: Nvidia joins trillion-dollar club, a sign of its AI semiconductor dominance"
+    excerpt: "Editor's note: This wasn't a year for many trivial or one-off flashy stories in Silicon Valley. No, 2023 had several very important, very consequential story lines that will continue on into 2024 and beyond. This is one of the top 10 stories of the year."
+    publishedDateTime: 2023-12-25T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/25/top-stories-of-2023-nvidia-ai-semiconductors.html"
     type: article
     provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 48
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/montrealgazette/wp-content/uploads/2023/12/ye-artificial-intelligence.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Navigating AI Trends for Startup Founders in 2024"
-    excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
-    publishedDateTime: 2023-12-26T04:21:00Z
-    webUrl: "https://nerdbot.com/2023/12/25/navigating-ai-trends-for-startup-founders-in-2024/"
-    type: article
-    provider:
-      name: Nerdbot
-      domain: nerdbot.com
-    quality: 39
-    images:
-      - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "nx9tRZpqFbEHC3Y9Pg+MVc89QkMlQSC3FO8nP/Lw0q8EAKukpjB1jp8AoliXz44dE5niB2SVh7nfnYopqMrvAcmgkf4AlPTNtGATGFbUeqzGg7V1d+VmU44QJvr1cdB2ekASDd9PwU1wr/qr/ROU4ot6PLLXyRHqImvr0pvCDE0TIrymkEEwFuMVjYl5KtRGA6BjnjwZ8otSb0zN9t9aXofgpxIAq88rGRVsmVmZpDqdozKUl2XDLIZNRU/hWnb8X8T8hP2gaUZDMcdsNVDNs8QTxX8YxrfRSO6sFHuguYCPUVwItoPJDQtae5Ge9yS2EatJxrq1q3MmPvPU8ZGYsD3P/1wktWTNQ1ynTTr7YYfMYHgAEbf/zss3SRhQCOFtRX2jqNaW8pvrBvLuqRxpiDNKgl9uVZlRVTu5dUyd4ubX6KjI9WRG4EjBuWOY06BcVVVNUUf9yhtQ7KV+1jtZ+QQJLIa+tWRRa3aK8KsdURUuhFg1kESleMy5Hh96vBjuWQnFe8exCY/HPa80WPkhxQ==;zB3R8vYqX6+UD4RRzuqRQw=="
 ---

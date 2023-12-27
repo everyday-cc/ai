@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificia
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/658ad7ec4ac7a8c76b5ab395/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -45,6 +46,6 @@ related:
         height: 700
         isCached: true
 
-secured: "RzZc2QM4e9y0p13RjSLR1bD3jQhwXoJtxklsC9aKyxLrc/IaPMGiJlBaZqA3VThXfV5FMQOzGko7+E+4l3Ov6NormJZIyS0z4dN2FrA0wu4r73OaziUGlJH2skxko8RnWmHvLwBi3/9M0GaQH40Wf/g1qGnNJFCEAq21iwBEyXwK+WbrT2C1hVZe/nL8oBgcxccMrZyJFvPhCXT4pfqchMCmCrnVrJpT/YTTFOTGyS4u8Khev9hkjguJ9ke/xX5imInufnctUw4+K6UUhLXWfKrWaBwty0j9miwHEv1AM0rsy0ayJ0ezxJaHZr8x2IpLDMjbDo5tZk9RfnkNdsMbFjY6dlmRfJ67fR8JznPOtEA=;pIF+l22UprE4d+vF4bnIkQ=="
+secured: "kwkSH6GsCEkNXVfcsGEOFFVsfWDwy8GtMy+hjw7H6YNk3Lai1Xr5ikCpME+Af6IBnhxwO9vqy3XOqJNS2x6/QuYzeLPgC88Pp526ORa1JF98mrydfvoFMTdMlvgsPNXgxT1SUDc1BLzVOzHeG99IhvawcbwIBNydLtwva85ji6AB+cOMDTLREPj8UxAV+KaVop2PtzR2YCgQ6WimSU25wXh0CIi6UnsXtYWBglnsLmJJW4VTSL+7ezdK9nRIZFLYe4h8XhKrewydFMJm7Lgn8vjCo+SjSbnh6EMH+gEmTy2s1QSZXY9ji5NJaywXdllzcKi9HNY9jkL22ZSLSt2lvpgiPVwpaUAWkQovg6ETPXsLQ7/1SDq8EaIeABuwPuMA29u1fJ7AFEQM0X7onQiD0YQ3eVsLqPnKb0u/kyZ/zZqwmBQacC9o/rZqCe+yqEg+0xF/LhhiXluGZXJ60wPjeqPgLruLw0WfGRo52fLfzQZG4J9jZtAANubtPYChFMJWmi47MTJ4XUWiYmqDpVBidg==;mrlJu9KNLs3dxoMR+cUHmw=="
 ---
 

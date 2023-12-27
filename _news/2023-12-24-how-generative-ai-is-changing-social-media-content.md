@@ -59,15 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Top robotics names discuss humanoids, generative AI and more"
-    excerpt: "I asked people from CMU, UC Berkeley, Meta, NVIDIA, Boston Dynamics and the Toyota Research Institute the same six questions, covering topics like generative AI, the humanoid form ... I co-founded a new startup, Jacobi Robotics, that implements efficient ..."
-    publishedDateTime: 2023-12-22T17:14:00Z
-    webUrl: "https://techcrunch.com/2023/12/22/top-robotics-names-discuss-humanoids-generative-ai-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
   - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
     excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
     publishedDateTime: 2023-12-23T19:16:00Z
@@ -82,15 +73,20 @@ related:
         width: 858
         height: 686
         isCached: true
-  - title: "Risks of unleashing generative AI on company data"
-    excerpt: "Ken D. Kumayama and Pramode Chiruvolu of Skadden, Arps, Slate, Meagher & Flom LLP discuss risks that can arise when companies train or prompt GenAI models with data, including infringement of intellectual property rights and disclosure of confidential information."
-    publishedDateTime: 2023-12-22T13:13:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/risks-unleashing-generative-ai-company-data-2023-12-22/"
+  - title: "The secret to making data analytics as transformative as generative AI"
+    excerpt: "Data science and analytics continue to be challenged by data volume, preparation, quality, process time and more. But GPUs can help."
+    publishedDateTime: 2023-12-27T14:23:00Z
+    webUrl: "https://venturebeat.com/enterprise-analytics/the-secret-to-making-data-analytics-as-transformative-as-generative-ai/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_621371321.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Will 2024 be the year of chief AI officer?"
     excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
     publishedDateTime: 2023-12-23T11:22:00Z
@@ -147,6 +143,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vertiv: Further Upside Possible, Driven By Generative AI"
+    excerpt: "Vertiv has also been beating competitors in the pace at which it is gaining market share. Learn why I believe VRT deserves better valuations."
+    publishedDateTime: 2023-12-27T11:42:00Z
+    webUrl: "https://seekingalpha.com/article/4659905-vertiv-further-upside-possible-driven-by-generative-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "yQYsC/DZ2N7SaJp8D/nhufHTSj/z1EoeScTX/p4gfJPBojPv7WrCmoR2fJb8AZIBcqyxnJ+pYxIFkjzEy4y9+UYry0Tjh4xKi0NYbY9Nvpg8XL3crnKjhgkgf2WeBCCZ789FEcsU1uMoFEFTzy+wxW65kdbL/X25R1Z0CaKaagYDR8I1X7Ahm7Nvhv/pbur+ed2IS+izaiB7gtI5KPIfCJ03xG7mMq7JNOfbtuedCGofNc44bvxJUSUGErYGWWI78Rl47856yhdZNzkGbMuCEgqjAHrNuTj6r8u84lStFkBKpvGLzEvJ1perSYu4eoRrLy4FSqt6ooCK5bc8NMY7cn6ckcpvARLg7FfKHH8XuRiTPZSHUV1vuzN07mutyO6ojKDQGYAW4nC1AFOPmff11HbzOI070B4nz81qNd5LOwP0XlxStE9ISU4J6UJtLLt05Nw9gWXZRFWHK3UUuV2CA+nLduFb2XVBFwkN0aYeja1hR9QEaZTmF904t3Ci6IewPUcUPnMy/2iKYpPVCvtA7Q==;Qs8Twe1Qd5Z5c5pU6a5e5A=="
 ---

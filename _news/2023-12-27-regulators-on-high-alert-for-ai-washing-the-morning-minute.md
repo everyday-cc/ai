@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-27T11:00:00Z
 originalUrl: "https://www.law.com/2023/12/27/regulators-on-high-alert-for-ai-washing-the-morning-minute/"
 webUrl: "https://www.law.com/2023/12/27/regulators-on-high-alert-for-ai-washing-the-morning-minute/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/292/2022/08/Morning-Minute_767x633_new-ALM-logo-767x633-624x515-2-3.jpg"

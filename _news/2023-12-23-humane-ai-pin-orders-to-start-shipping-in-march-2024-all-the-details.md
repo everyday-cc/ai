@@ -18,38 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT In 2024: Top 10 Things To Expect As AI Advances"
-    excerpt: "As the artificial intelligence (AI) technology improves, we will witness a more advanced and user-friendly version of ChatGPT which includes improved conversational abilities, multimodal capabilities,"
-    publishedDateTime: 2023-12-26T23:30:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
+  - title: "Brainstorm AI 2023: Shopping for New Uses of AI in Retail"
+    excerpt: "Yasir Anwar, Chief Technology and Digital Officer, Williams-Sonoma Inc. Sravana Karnati, Senior Vice President and CTO, Walmart International, Walmart, Verne Kopytoff, Senior Editor, FORTUNE"
+    publishedDateTime: 2023-12-23T16:19:00Z
+    webUrl: "https://fortune.com/videos/watch/Brainstorm-AI-2023-Shopping-for-New-Uses-of-AI-in-Retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137?activePlaylistName=Brainstorm AI 2023"
+    ampWebUrl: "https://fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/brainstorm-ai-2023%3A-shopping-for-new-uses-of-ai-in-retail/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/amp"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
+      name: Fortune
+      domain: fortune.com
+    quality: 87
     images:
-      - url: "https://static.tnn.in/thumb/msid-106288254,thumbsize-1378670,width-1280,height-720,resizemode-75/106288254.jpg"
-        width: 1279
+      - url: "https://d2byebo1j9i40c.cloudfront.net/6a4c2f1d-cb0c-4a6f-a23b-8b9c6f5ad137/Images/posterImage-ver1-1280x720.png"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more"
-    excerpt: "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024"
-    publishedDateTime: 2023-12-27T09:44:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
+  - title: "Top stories of 2023: Nvidia joins trillion-dollar club, a sign of its AI semiconductor dominance"
+    excerpt: "Editor's note: This wasn't a year for many trivial or one-off flashy stories in Silicon Valley. No, 2023 had several very important, very consequential story lines that will continue on into 2024 and beyond. This is one of the top 10 stories of the year."
+    publishedDateTime: 2023-12-25T14:30:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/25/top-stories-of-2023-nvidia-ai-semiconductors.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "DBZm1NulADFwXRkKdeFgEFMUAU5v67hbnJaakoGIMU3briFSqrOiQUY++GQaaxOxiQFoEhQBbgHfg1dqf3i+kXrAfmL21g6lS88mhe125YOz9a4gbXzA31OZXaKEoxv0GDyEblsaLqdjZFm7wbT16qHthqYgnZbXBQ09ZPFrrSxbTkwfFHWbx8Scy1WelSi+s2vHs4dZvgNe603qbaC8RpUyN/7GWpuAozT9baUmHu4AKEYll9zjUW2pW6CjnOip/eI+U+gqrsmsXnPXGQA+AXhCa5Dgfqi7Q226DSObjhvRzf3QtGQSFq8Hfe85MIb9/QfTubK1FtWtH2d8TbCUrW2qLgKmxWgKjCbASotphWkwSMub4wkDX5t+Ck8vJlJL+1rqrXwyS+5qAJW735B3xRaLdh8qZwt5oskDz+iChTxTqaskP9KIwp4Bu9tdLmOFgYFdLR4H3oGyy6mB4GRzfU+tA2MJeN/SsSHWa5EJadDXqLaq0lMybWY0gW1JHMkgoXago1DGoM+M80nAGwEeMQ==;q4E8bI/0CWqDQe/vpPW4Ng=="
 ---

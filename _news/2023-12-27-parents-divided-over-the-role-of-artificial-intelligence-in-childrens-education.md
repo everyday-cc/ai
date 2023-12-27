@@ -41,6 +41,15 @@ related:
         width: 1260
         height: 900
         isCached: true
+  - title: "Lauretta AI Announces Groundbreaking Collaboration with TSA to Enhance Video Analytics Technologies"
+    excerpt: "Lauretta AI LLC specializes in conceiving, developing, and constructing AI-driven solutions that significantly impact security, critical infrastructure, and retail sectors. With a focus on innovation, privacy, and ethical practices, Lauretta continues to lead in the field of artificial intelligence and video analytics."
+    publishedDateTime: 2023-12-27T14:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lauretta-ai-announces-groundbreaking-collaboration-with-tsa-to-enhance-video-analytics-technologies-1032927939"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "t10pNgYBwYmgeK9FVuS6qxnzgxTDNSA7TKu+UerzHXJaKrZAS6fNtuQs2xHUizupcHV9Xj88LaS/OXvaNKZqAzr9pZ89PG71UIiVim6ir43B0jSxwzqxOQ/zRKUDkrbJo5sLGq4eN8xYhc+YG7A721yT2Kx+CjyUhrB0uYJ9dBpcYX8mmbsiO/CV9aR+08PH8BY3JlACFCWAsd1c1ZnQ56QbmiPSIYEvR4mnYyRShJS9Q2Y5OZTM9oFCjGRFNihBgomzP0h95hadYi4oDZWavlHwt/75F9NQ96lO9hZmvphGrhM6RQDn7dKUyiGAiajhSM6gHdNhHBP+DLLTKj3RPnMA7KJ6F2mDyB7wVquueH7csC3fGG23JHtmJ9Ih5Z9atW32BRoY1WTfk2sLqlFbXscxX/h5OC60swK15UvyzIetNjyO/rozSbYjPoWPQ1H7N9huQZEpbmPbOY6EvS0Pz7i7FZ0hZEZSOk9bcaZH/+s4PIXUfFi9qcWoDO3igEdn753+mFe8HBlV5jFK5fpkJg==;hoGMgecdBePkAUhDeR7ziQ=="
 ---

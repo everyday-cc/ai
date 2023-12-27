@@ -39,20 +39,24 @@ related:
         width: 1600
         height: 836
         isCached: true
-  - title: "BYD has obtained conditional testing license for level 3 autonomous driving on high-speed roads"
-    excerpt: "Chinese electric vehicle giant BYD said on Wednesday it has obtained a conditional testing license for level 3 (L3) autonomous driving on high-speed roads. Earlier in December, BMW Group said it had received a test license for L3 self-driving on high-speed roads in Shanghai,"
-    publishedDateTime: 2023-12-27T08:19:00Z
-    webUrl: "https://www.aol.com/news/byd-obtained-conditional-testing-license-061936345.html"
+  - title: "Baidu boss investigated for riding in self-driving car"
+    excerpt: "Baidu, which has not commented on the incident, is one of many firms developing prototypes of self-driving vehicles that will use mapping and artificial intelligence technology. At the conference ..."
+    publishedDateTime: 2023-12-27T06:29:00Z
+    webUrl: "https://www.bbc.com/news/business-40515706"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 27
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/39a1cc7d92eba349c61c172811ad91f0"
-        width: 800
-        height: 534
-        isCached: true
+      name: BBC
+      domain: bbc.com
+    quality: 49
+  - title: "BYD Has Obtained Conditional Testing License for Level 3 Autonomous Driving on High-Speed Roads"
+    excerpt: "BEIJING (Reuters) - Chinese electric vehicle giant BYD said on Wednesday it has obtained a conditional testing license for level 3 (L3) autonomous driving on high-speed roads. BYD was granted the first such license in China in July, the company said in a statement on its official Weibo account."
+    publishedDateTime: 2023-12-27T06:18:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-12-27/byd-has-obtained-conditional-testing-license-for-level-3-autonomous-driving-on-high-speed-roads"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 37
 
 secured: "3c+oG3CVJuxUPjBOIJ9FD78mlk8m4TuOW+tFN/zREU8xKEoNL+IJaIItEDM9IFdRCDxEAhUCHKBxT+31wAkNmKyJnJIbKQbFG13mQQGavtwS4NxpaAcRP39AkXjJWaKkpfQ/KhmOnr7QS3TCjYL8zrqGRVDyZ+nbxEfLOA8x5KcwENaEGdQZBEaF+MiZbvtt2ib75QGtKsSFyT3KP1F1ioGhdwrc0UxKc89FYRSA/YuakD1a8q+uTJtAV6z6v9m0I922rZ/4CWRyQ1wNE5aD3X3DL8nL8URFdyfppTW5u+ltvocMv+tjnwb/GD8GRvSp6el4lq9DPJUZvrd6r/xu9MI0BlFjma+p6WiPuOIrvVY=;04uz5t9YYo5hKT5s/Uqsew=="
 ---

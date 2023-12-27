@@ -2,9 +2,9 @@
 category: news
 title: "China is shoring up the great firewall for the AI age"
 excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-publishedDateTime: 2023-12-26T15:29:00Z
-originalUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
-webUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
+publishedDateTime: 2023-12-26T13:48:00Z
+originalUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
+webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
 type: article
 quality: 39
 heat: -1
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "n4nOpnO2LgEWQ6q4NmHhKdaT2qJrKzOKN+QH2N8ju/Vk42cla5bwuY38XjVMfKhlz7ALwy35/jeEyuagSMJz+CIizjeCDDXZ+/3ShG4KKOL2YcU7bZZFUTLdnLPf7KsGa5e0aNKhppRn7CaHI0c3PEhS46FaNDjHJr2KjC59x17MLYbZ1Y9rLM0bmtRig0thIDLoopEVsiQupxMb1x/A+JOFErhDaBNnnh89nc4yMyYQCWPEDtF/iKdpwzcT12tdsoNQWE1hFIdkd2nTlSuDYYZYDM/gGjT8QiXYJk5rlf+lmADrdGJ9piZomF/V1HUP3WiIazJTThTsHlEqEIwmgLTsS4HwucuoA1zhxYmJzaA=;BW+Gesf73ef9GC8BrbePeQ=="
+secured: "yTiGc1CnVNFn8pAfZn0HvgJ9Zsh3+odNCAgFB6gVdMPbJwvM48pcsjwzaNRKz8DQxJa0qU5i5wQsAOeh8fJhl7cbwSQGdTVwLYgC44ZNBjZ8DFz6eHIrZxNYsrFqngseY0Imhy9FgkOfoQve2BUzEjPgnuCBvvB3YLqsF7s5iuPIMM9fvNuQXWs0LwrIuR5TblHSeWxxVrMXQClEh5fVysZJgTOrhQr4R/yJlzC33Ehad/hHj6YzR3DryA5GGppe+HcAb167O8yW7HXVtd0nQPLla9FSOFg1sf3dF7ss49BTuUTLT4ByeuCd/nzcZJV3HiW8tqUbZtOpH/iIyQhjoMtWmWS+DcROKw16Vdutb7w=;chuspCfL6NLqaBQUNtHhuQ=="
 ---
 

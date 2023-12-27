@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Lauretta AI Announces Groundbreaking Collaboration with TSA to Enhance Video Analytics Technologies"
+    excerpt: "Lauretta AI LLC specializes in conceiving, developing, and constructing AI-driven solutions that significantly impact security, critical infrastructure, and retail sectors. With a focus on innovation, privacy, and ethical practices, Lauretta continues to lead in the field of artificial intelligence and video analytics."
+    publishedDateTime: 2023-12-27T14:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lauretta-ai-announces-groundbreaking-collaboration-with-tsa-to-enhance-video-analytics-technologies-1032927939"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "9ZiE9tXJAy8X9WXHiBI2ABfaJahsNT7wb/OrCjymB9zyi9HhmCWf89PmNCS5ht06doulu/zj9hXXGOwm0uMxpS+FW8kqDDeRtelwXmJLdN8lv/M1GjXADFkOt/UmYYCEuqc4+3BP8rXOZDNF9L8swnhoKjRlQqAjB4bJ0bmPgfLJnn2mCFmnpmnmElUfDzcP3f8C4UfsCXtoHHsPwSAHbttmQA8gq/JmpkuHHoB8DzAsc73IGD8V9vFyWO8J/i44cYOSww/JzKkDF9l7TsGtjUrMEiuFxQsynh7jLlHFm40e2QSuvjlb6A+K4Eueh7xZKc8k4VAwWXpEC/bHMNEeZJf9A1waS2WS6AkibPzHBeeEw1lA0wknOTIf25DGnSr/6SWSXPEYkK3g5R4llY8ztAA8XjUdhRCMLnw0QRJokh0MOqK1salexWazF8g4NYUsNP+lGqjVRN4ZoPGNIleix/A3Zth0+WG98RIP1c6ADSm4KrF64rtKvh1/p5BcuOggB4VtrjJMQ7Y9hzgvK3t17A==;3IxzrIrecI2YboH4EFNU1w=="
 ---

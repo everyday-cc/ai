@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-th
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
+    publishedDateTime: 2023-12-27T10:29:00Z
+    webUrl: "https://www.dailyherald.com/20231227/business/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 28
+    images:
+      - url: "https://imengine.public.prod.pdh.navigacloud.com/?uuid=6065c7ca-eddd-5a4e-b7b6-998ea6411d3c&function=fit&type=preview"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "bL8JTdcSi/u+Foef1RgmsPSyW/zATQ2nVcYXNn5IH8zRTnqaf7UFrzFNH7flas06PeNUil0ecBkCX1ixRktqxxjvUgxxJ32AfkBDS0WWdSnlIQ7Oz6+OxL76ZQbHqsharPkZeZJNaZ73h7q+yx/yXy0uMQrzLq2z9f+ByP3jL8vzZ9pFUduJ32g6jDLJHmL1t6w2WPhkFpXlzwgZfx0FshJtAwAAzvIs2PzOVOf3snaDIiPGw7YZZhxR90ICNeGwPSN51KJyA2+Myt+1VS67xOjOtMHeJVE7wDGthW99UBKLMY73Ms6xYVjLJ7yFHnqnECVDCyuiE6/ZgNNRChbLvWFFYPHl+ZgeAjK5gz/MlzC5WaxBWLW0jO3uybQExbrV3XCMDmENi9A2vnFMu64Gf6tiYTw4vzKW0geLofoszhQ5l1ga/+1UZptXF5+059PHE+d2Lmk7pnJdvRk8AxuCNkcU4FPPtu148G2WGSW/bQzyuWKSI74xa4NjkdMda7PoE2aXQTBPf17Q51KUcfnjLA==;zOOGF5fPOwohnx1u/Tr+KQ=="

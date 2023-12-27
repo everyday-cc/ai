@@ -28,22 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Where's The Line? Considerations For Using AI Voice Cloning"
-    excerpt: "As we usher in the era of artificial intelligence (AI), a question we keep asking ourselves is, “Where’s the line?” With every new trick our technological counterparts are taught by their programmer masters, we move closer and closer to the point of no return. The problem is that we don’t really know where that point lies."
-    publishedDateTime: 2023-12-22T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/"
+  - title: "AI Conversations: LinkedIn’s Content Analysis Reveals Changes Underway"
+    excerpt: "A LinkedIn study determined that 55% of its members globally stand to be disrupted or augmented by generative AI."
+    publishedDateTime: 2023-12-23T05:45:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658490fa5fe5f673b940656c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 819
-        height: 545
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65865fa6c6b733f0119b048c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
+  - title: "From connection to contention: How AI curbs access to information"
+    excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
+    publishedDateTime: 2023-12-26T16:53:00Z
+    webUrl: "https://www.aa.com.tr/en/world/from-connection-to-contention-how-ai-curbs-access-to-information/3093160"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 17
 
 secured: "TttmQZ+RFyClvws9Y+1+gR0Mk2iWLSirSUeP8ETWAwFDQBuEv2SGNlp6SFjFKYShAYi+T4HIrsAoifCGSWF6KCi+17jdEubfRRJSqdVB4Dv9Os92wAxUcHsubXbyqMOrdVX57d0J9an8sapkBXJ1xOy8LmicimkZBjR4oWb98BQJA/T5xyzTLwT5MVyuSSmkixty6D6NjyChRiydeVrPsxVVT3p1yfKn3HFsMBuVVO6ADH6X3C1DRzoPRWYTHXKF9rAyKEycy4iSjhG82/OCtO3LpPh87uxJAAGxxKC8xfuCLjBENQ6DtrpQU5fnnt8bxopOKLWelNfs0teDI+P7/AEW+/NhS0uX/J0GJJ8tJzgtq180hVBxDurl5cx+s6oOgBM15zAtD7AAA5/JqSOUpzm3snSIz214skNSvY41NDyHT5xtf+hrNA+P0mOROh7p0AUm9Oa7ntqGN22N9guQoX5bhED06YHGXCIyKxdAh6UGS1VEuJCSBM2m9yBMxLIe2QSRMvljNunZhvpAJXdlug==;CwImuEOz9gpLNmof2CU+FA=="
 ---

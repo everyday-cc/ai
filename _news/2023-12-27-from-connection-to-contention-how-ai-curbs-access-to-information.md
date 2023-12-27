@@ -34,6 +34,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
+    excerpt: "Artificial Intelligence (AI) has been a primary catalyst behind the rally in the financial market over the past year. Given its rapid adoption"
+    publishedDateTime: 2023-12-26T06:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2024-considerations-2-ai-stocks-with-over-30-upside-potential-1032926237"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/NVDA-3.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 916
+        height: 307
+        isCached: true
 
 secured: "1ViFGqJtzFpsRbWR3aEnmFg2F7EjWgVqU38K3bvzOMyQKUtT0ZV/7tP+bBfUwFjWmiFTBrBcAWd/KqR0+qXKInSjDeRiUftFYGod4aA5L6T6p2DxgdFk75Ulwdpi74FVRa1/TSQBg2/RVYIjkTq5KSU1OJR5TJPghJpCuTPu/HVKEJXQ1ut8AAANk3v5R3xnnJWIzBinXPrLNkaYi500lmzD9MZEXFyDueXnqT761UN54aUSUvB6PMjoGvybdIDC7ppn3QZpsw61vcQCgK8VWwtnMKmiMHS0N6mFV6FYWAJ7OmvaxFmi44YuSbdqTWkrjig/GfeaO07EtGS0ABnaO/Mws3L3lb6cM0puh6pXTgU=;0/jfYAO48/OXm/apn5XxYg=="
 ---

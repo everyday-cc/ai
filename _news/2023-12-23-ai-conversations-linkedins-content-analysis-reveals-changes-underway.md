@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
+    excerpt: "Artificial Intelligence (AI) has been a primary catalyst behind the rally in the financial market over the past year. Given its rapid adoption"
+    publishedDateTime: 2023-12-26T06:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2024-considerations-2-ai-stocks-with-over-30-upside-potential-1032926237"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/NVDA-3.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 916
+        height: 307
+        isCached: true
   - title: "From connection to contention: How AI curbs access to information"
     excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
     publishedDateTime: 2023-12-26T16:53:00Z

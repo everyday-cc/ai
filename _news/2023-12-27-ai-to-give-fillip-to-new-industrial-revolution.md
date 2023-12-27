@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AI to give fillip to new industrial revolution"
-excerpt: "According to a report by global market research company International Data Corp, the announcement of the GPT-3.5 series from OpenAI in late 2022 captured the world's attention and triggered a surge of investment in generative AI, which will reshape the IT industry and the way businesses operate."
+excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
 publishedDateTime: 2023-12-27T01:58:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9.html"
-webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -15,15 +15,9 @@ provider:
   domain: chinadaily.com.cn
 
 topics:
-  - AI Ethics
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202312/27/658b81dca31040acaf834c67.jpeg"
-    width: 1078
-    height: 718
-    isCached: true
-
-secured: "5muiiUiBIRUmb1FtNhkTbOZ6zBbzxbuPy1DpVzOlZQMDSw2R0DCeruoiYqZOWfh0rnvnPPZhEmE9YqMpeOkAUqAUvHo7fFO1Cn3QssL7ycPvShU0d+vAqJc9vfE0DqX3tMNt9PUESEx9pRoBkxKfGUrz/piMC9U9/Ih0Hmxha+lXQsUrvNtdtcDCVs5H+XjK6ih1Nto5LSY1R/7wfhxMhsN9RvzEC2bA1BKkfsGaDAtSj3eJFyirb/b5Esl2XmcpbDjIGeMRuIOXWOh2cn4ejcq95+eIwwlYPPOys5MzJXvAjDiILXB53MEr5WC5/OXqzmo/ggdVKuyuQGvcf2KDKXthDwIvTeL6iZ4l5q4Rluc=;L4XZ2kHVddrUrUhrtgblYw=="
+secured: "SRiLNUfIr2XdIF0Yb3zgRUE2ad3cw44GqdJVVMYT7WN61X2mB6Z6fqZtGztm70XH8tbVFjg0CxH2HoajBD9myg64XjLauQj3e73+FZ0rolBz3bxIQ+Cu9WJYSwM9DaexH+rzxxep8TCfJ+x90Jgd6aOm2AKBV2cK7J6G4ZEkPXFF+VjudETMwQouZ+VjRBPy0mA1rw8+0DY2wMdlUfNhdChZQaMmdMyDvbt4qQf9RhOC1yDMBwnQnhmQAO7LFr9eEeqgMPZ4VsbsegJ+quFOErZTTQFZjIENOBibGagojUDJ2k5l5VzdbRUeDBrMUE3MMpCu5ZkQV4BW5Nlr8j0s91/C/h+ldIDDSfdp0lerbJ6ueYhU3zYa2oSTw2KYimJKNTh/0RguYs4FrXWHYaJm0KdZS56ixe14nOXXqDuHwkvh8mgaOK/BzWuHD+e4frIGbVfBSc3MFe6GHlrH2q2b87KSs5M8e1gOMWAP3hGylVzPBoCZp+UxMP32agxRaBI2HHz8IRgCdzGCbB8w83LqlQ==;ZcPU0rfjc82WmHZxvK0fmQ=="
 ---
 
