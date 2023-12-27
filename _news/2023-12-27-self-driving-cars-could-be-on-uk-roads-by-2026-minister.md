@@ -57,21 +57,19 @@ related:
         width: 1280
         height: 723
         isCached: true
-  - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
-    excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
-    publishedDateTime: 2023-12-27T10:10:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+  - title: "Self-driving cars on UK roads by 2026, says transport minister"
+    excerpt: "Transport Minister Mark Harper announced that self-driving cars might be operational on some UK roads as early as 2026."
+    publishedDateTime: 2023-12-27T12:54:00Z
+    webUrl: "https://invezz.com/news/2023/12/27/self-driving-cars-on-uk-roads-by-2026/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: Invezz
+      domain: invezz.com
+    quality: 24
     images:
-      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_491_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=9b90c89cc0d2ce9c0b56866b092f61bf"
-        width: 620
-        height: 372
+      - url: "https://invezz.com/wp-content/uploads/2023/12/driverless-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Self-driving cars will be on UK roads in 2026, transport secretary says"
     excerpt: "MP Mark Harper said that the autonomous vehicle technology will allow people to drive with their hands off the wheel. | ITV National News"
@@ -99,29 +97,33 @@ related:
       domain: business-standard.com
     quality: 24
   - title: "Self-driving cars could be on UK roads by 2026, says minister"
-    excerpt: "LONDON: Self-driving cars could be on some British roads by 2026, the country's transport minister Mark Harper said on Wednesday. Cars with full self-driving technology are not currently permitted on Britain's roads but the government's Automated Vehicles (AV) legislation is going through parliament,"
-    publishedDateTime: 2023-12-27T17:23:00Z
-    webUrl: "https://www.carsifu.my/news/self-driving-cars-could-be-on-uk-roads-by-2026-says-minister"
+    excerpt: "Self-driving cars could be on British roads as early as 2026, according to UK Transport Secretary Mark Harper. In an interview with the BBC on Wednesday, the minister said he expected to see the owners of such vehicles being able to travel without having to watch where they’re going by the end of that year."
+    publishedDateTime: 2023-12-27T20:31:00Z
+    webUrl: "https://www.dailyexcelsior.com/self-driving-cars-could-be-on-uk-roads-by-2026-says-minister/"
     type: article
     provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 24
-    images:
-      - url: "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2023/12/Autonomousvehicle2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Self-driving cars on UK roads by 2026, says transport minister"
-    excerpt: "UK Transport Minister Mark Harper has said that self-driving cars might be operational on some UK roads as early as 2026."
-    publishedDateTime: 2023-12-27T12:52:00Z
-    webUrl: "https://kalkinemedia.com/us/business-news/latest/self-driving-cars-on-uk-roads-by-2026-says-transport-minister"
-    type: article
-    provider:
-      name: kalkinemedia
-      domain: kalkinemedia.com
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
     quality: 4
+  - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
+    excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
+    publishedDateTime: 2023-12-27T14:58:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 3
+  - title: "Self-driving cars could be on British roads by 2026, says transport secretary"
+    excerpt: "Self-driving cars could be on British roads as early as 2026, Transport Secretary Mark Harper has said. Asked if people could soon be travelling \"with your hands off the wheel, doing your emails\", he agreed the prospect was possible in as little as three ..."
+    publishedDateTime: 2023-12-27T14:40:00Z
+    webUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 1
 
-secured: "t+1Lxk8pLRLgMD8T+x+pfiiDL0/UkQM+MJiMV/2ML4AiFi9XALTGhaRy+HomDs6M8RrWugtUYrnlR9/GcBuRQdg3BRXgkQw5Wu88Kha6vURfqZsIFPwRU/Eeto845B+XkZvIzl+/caVQH+rtiqnAK8jpbXO6u+24kL/TXe2M2xyi+yz4a4xFpHsWQDGAa9yRRvM/T5DXE9LS6iG9baghmXxwjr30Mz1vzVPViLQUYb7frFzFWSCZxCwWNNsaf257HSdeWW8DiRTJB+y0xQAnVBTcqSsSZQgxG4Az8PICWrFiFeLcQpMhXpqkrqrho2iEAmskqUMAMFMoG5y+Ce0eMycjibcVRhDTf54wZiOD3/4=;oAwBlNFFXFScTSRqdbIIpA=="
+secured: "LrT1zjyvtpadiMwNlTJlaIfWk7/PlhvaXcZ+6Ahsl4NbmKFYnHHW9bny3+jfFI0dBwZvIKR7Qb/m2oDqSFp/ZsgDarMfxiCOPPIy7WK8qGjjB4LOGrmd3iKyPAd6LkkMasDKvZaxOmFV2SNcxRcMgEZr5/Y5MgAyCnEHE9X9DsSGfr8aEbTBNswIfkp1p2equ/xWG7g2Id399zlFTIh2jPnve+2lnmFQ8aWtrUI8EyrocGv2ll4CzsqN/9LDTQy7n3nu8uIE1w4bqxCg/u1vBz7E1RjzMGC3NHM7AW4yrbzgSraxqejLgEE7ph48FoT/xx0dTPtK/ybIHtSf2v5t+EI5TRHJUP0Mn0YfnmjaQljJHbsrWJppG8TWb2OD7dhikXYJT+zHNg7XowwmtHSWJTWI4MXb7YozYAzjEDWQQw81+wKrFLJsydtI51QcGKvcv6KH1bwr98yfINDqhX3iXnokoHO/x38lytC0XGENp7g4if5lNl+9F9xvquOcg1QWoZfhumY+pSg4/zQQdbWf7g==;r5Vj0L4QizrW8JGQmdX28g=="
 ---
 

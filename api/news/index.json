@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
+      "title": "11 data predictions for AI-centric enterprise growth in 2024",
+      "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/a_data_cloud_with_2024_written_inside_it_illust-e1703700507903.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-27T22:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-ai-will-savenot-killproject-management.md",
       "title": "AI Will Save—Not Kill—Project Management",
       "excerpt": "AI is just the tool to give project managers the data they need to anticipate problems early on, set appropriate budgets and accurately set deadlines and timelines.",
@@ -216,7 +268,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -313,21 +365,21 @@
       ]
     },
     {
-      "path": "_news/2023-12-27-exploring-the-power-of-machine-learning-algorithms-robotics-automation-news.md",
-      "title": "Exploring The Power Of Machine Learning Algorithms Robotics & Automation News",
-      "excerpt": "Machine learning, an integral part of modern technology, has transformed how we interact with the world around us. In fact, the machine learning indu",
+      "path": "_news/2023-12-27-big-tech-is-spending-more-than-vc-firms-on-ai-startups.md",
+      "title": "Big Tech is spending more than VC firms on AI startups",
+      "excerpt": "The rise of generative AI—systems capable of producing humanlike video ... Tech companies which can provide cloud infrastructure and access to the most powerful chips as well as dollars. That has rapidly pushed up the valuations of private start-ups ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107660740/Exploring-The-Power-Of-Machine-Learning-Algorithms-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107660740/Exploring-The-Power-Of-Machine-Learning-Algorithms-Robotics-Automation-News",
+      "webUrl": "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2023-12/27/R&AN_cc8b3image_story.png",
-          "width": 800,
-          "height": 448,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/bt-sv-760x380.jpg",
+          "width": 760,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -337,11 +389,63 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T09:36:00Z",
+      "publishedDateTime": "2023-12-27T07:41:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-27-top-most-powerful-5-ai-chips-released-in-2023.md",
+      "title": "Top Most Powerful 5 AI Chips Released in 2023",
+      "excerpt": "With the arrival of generative AI, the chip market is experiencing unprecedented growth, underscored by robust revenue projections and dynamic trends.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-most-powerful-5-ai-chips-released-in-2023/",
+      "originalUrl": "https://analyticsindiamag.com/top-most-powerful-5-ai-chips-released-in-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-AI-Chips-Released-in-2023.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-27T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -351,9 +455,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "Microsoft AI"
       ]
     },
     {
@@ -469,7 +573,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -513,7 +617,7 @@
       "originalUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -556,6 +660,57 @@
       ]
     },
     {
+      "path": "_news/2023-12-27-ai-moves-from-theory-to-practice-zero-trust-gets-real-and-other-2024-predictions-from-dell-cto.md",
+      "title": "AI moves from theory to practice, zero trust gets real, and other 2024 predictions from Dell CTO",
+      "excerpt": "What does 2024 have in store? Improved gen AI ecosystems, next-level security, 'common edge' — plus, how quantum will support AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-moves-from-theory-to-practice-zero-trust-gets-real-and-other-2024-predictions-from-dell-cto/",
+      "originalUrl": "https://venturebeat.com/ai/ai-moves-from-theory-to-practice-zero-trust-gets-real-and-other-2024-predictions-from-dell-cto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-971583628.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 649,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T20:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too.md",
       "title": "How I use ChatGPT in Opera for far more efficient interactions (and why you should too)",
       "excerpt": "Why? Because if you're always using Aria, you'll have access to your chats from all your browser instances (so long as they are signed in to your Opera account). Otherwise, you can use ChatGPT and access them from the chat.openai.com address.",
@@ -564,7 +719,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -667,7 +822,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -952,6 +1107,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
+      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
+      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution.md",
       "title": "5 stages of AI maturity in marketing: A blueprint for the marketing revolution",
       "excerpt": "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper",
@@ -1004,7 +1203,7 @@
       "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1038,214 +1237,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-coinrobotai-launched-an-ai-based-crypto-trading-robot.md",
-      "title": "CoinRobot.AI launched an AI based crypto trading robot",
-      "excerpt": "CoinRobot is an artificial intelligence research project that aims to develop intelligent trading robots. The project launched its first",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-coinrobotai-launched-1703531705.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-ai-naughty-and-nice-2023-headliners.md",
-      "title": "AI Naughty And Nice 2023 Headliners",
-      "excerpt": "It was a year of incredible naughty and nice developments advancing the field of Artificial Intelligence. 12 examples are provided on Santa Claus's 2023 register.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6589f1adc974168215d62aea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
-      "publishedDateTime": "2023-12-25T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-ai-boosts-christmas-sales.md",
-      "title": "AI Boosts Christmas Sales",
-      "excerpt": "The sudden rise of generative AI and the use of ChatGPT have inspired more retailers and holiday shoppers to experiment with technology this",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/",
-      "originalUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a07991146a3413de71c2c2/0x0.jpg?format=jpg&crop=2124,1194,x381,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2023/12/25/ai-boosts-christmas-sales/amp/",
-      "publishedDateTime": "2023-12-25T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024.md",
-      "title": "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?",
-      "excerpt": "Palantir Technologies ( PLTR -1.02%) ranks as Wood's No. 3 best AI stock of 2023. Shares of the software maker appear to be headed to end the year up close to 170%. As was the case with Meta, this performance is the best that Palantir has delivered in its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg",
-          "width": 2122,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

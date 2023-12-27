@@ -38,6 +38,15 @@ related:
         width: 549
         height: 366
         isCached: true
+  - title: "How students and teachers feel about AI in the Jewish classroom"
+    excerpt: "This relationship between God and Jewish education is just part of the debate over whether AI belongs in Jewish learning institutions. Educators worry that students will use AI as a shortcut to real problem-solving, or that typing a prompt into a website will undermine the traditional face-to-face learning of the Jewish study hall."
+    publishedDateTime: 2023-12-27T22:39:00Z
+    webUrl: "https://www.jpost.com/diaspora/article-779812"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 19
 
 secured: "SQj7o71OWcb6NOnK/8t64RTctQDCq9ALrMmp8L75hsoXR0oiWvY6bdi/utCYLRIZw5AYhK0FbQgxiUbKpwC4dikA62cOcjoKQNBa3QWuzl/Iv5SJmcFz5FupIQXpJjWtJtMxZCXeY/2IRAB7O4Xek5j1Nr2yUjaJRgLAQNGSi0zKhGvd4KH6jtwQHhZ7+7fk9pUgbokwS3hQc3ll1+HARGikKF0DVKiN6Tze7bh6pf1UwvYtETX7wd3ABxiu8MN/QBvGYe2QaJ8MLznVmNqEanWTreHLUwKRbZRBeToXz3c2lCVZ/8GSzXkyZ0EqQhiBUKoAPspDb3wyIVSAeZJsUtHuQBnSO4kljgybWBYahTaxNv2SIYSSkB9a6gdWWrJPue4TQIohn+5ryAaqiRhaOBjoheogQA57eV0fWdnGjCTas0yi9ZkxR31lMbw0C8d6L8KtbP7cgOaC044ka5KEjMmnNHUflTAVUQTMgSDt1KwPCze8MyuXIk9z2rTili64eODFO5BRyz0sS9xE526z4A==;Bl/bugwMOZ5dq8V9IwIzFw=="
 ---

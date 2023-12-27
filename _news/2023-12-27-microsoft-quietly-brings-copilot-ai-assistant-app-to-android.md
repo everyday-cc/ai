@@ -86,6 +86,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "NY Times sues Open AI, Microsoft over copyright infringement"
+    excerpt: "OpenAI no longer discloses as many details of the data used for training of recent GPT versions, but all indications are that full-text NY Times articles are still part of that pr"
+    publishedDateTime: 2023-12-27T19:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
     publishedDateTime: 2023-12-27T13:18:00Z
@@ -123,6 +132,6 @@ related:
       domain: afp.com
     quality: 22
 
-secured: "LpMRTvevwbOtfGgEEf6EiUt57B0nrfd+mifGpe10bA0l3pgttYXoVzJwq1Ml49tsUvWhT4ATHpIY7C5qCpl+rfmFDQIbi9U3EB8xLti36a8yCVuFA+x4eWK7sTa4OteD1wP3m2xRBMMxZ8nZb3Dw52slDRYS6dqlxzXhkCGFQqRyo9bf/yzbbIdl0xdItDjuunaVqMjCAZgw2/Z+k0pZlK9Ipzn11dhfl6THpNciJQpR6PbPvhSGN7eXJAzWVjV4T3yP9cPCb1ZOW6k7Tv7wbpR3geheWkx6E4dZoeAzJeTJH8LylijqxCUwY0lg8WvTMik5iNOj+iJpwOvKcNLCsSBKkj6a+WSkHdKXZTytTjo=;cIJWfRBzdc/axGwhluJNwA=="
+secured: "KCUQZNfPW3tOdAtlkJ7Z653eya1zW+aXprsS9s5JHlfEStCBGDFgsJytYEcnQjxAOF/RQPoX4n6N5v8iOk3P65L2lggfSsMAYYp+u+TUuE6oHWaI6tjpLw8fFtsUrQqvmhHxKaL9K63Dx9oM+p9tjr78WVKM/pt9mzSug+7Thmhm0cAuH+Vb+itfUAFK97TBpoqLcqlj2obfsLwyksH/79RGrvtM/qsF1J3GEW6Io7s1ZlHNPEL5vRLE1VUeV+LPv6R/rSr3fLfKxfPkWt00MHlkgeVB8OeOpDOhkgJrfw2ztRc/HKqHaYQ9mb+QerJPBtci/nqqVLBcYXoTJLPRo4u8CqORCH8JjhpKW+zt12zVN/Lk+zA1o7P1Y2Fw3JqbIKTxP5t1A0uR1no6mWdCEtBs6XP0+hQcmuLpYcnyeJ/CzIYJ3tJXFCjPrPlc2txaZqjFJfES2VfuosiIxwVNa01ao//OgFGM+fa21i5ynNVfLCAgXrbf6gwH4OzEHnaSDQV5jrmIw01K885GAKCPXA==;XaWloAD3P72/FXW5wTcbtg=="
 ---
 

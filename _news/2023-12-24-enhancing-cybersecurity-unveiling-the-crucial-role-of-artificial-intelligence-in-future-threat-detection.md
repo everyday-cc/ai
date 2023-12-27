@@ -32,6 +32,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "16 Cybersecurity leaders predict how gen AI will improve cybersecurity in 2024"
+    excerpt: "Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here. With greater AI power comes greater complexity, especially for CISOs adopting generative AI."
+    publishedDateTime: 2023-12-27T22:13:00Z
+    webUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Hero-image-16-Cybersecurity-leaders-predict-how-gen-AI-will-improve-cybersecurity-in-2024-.png?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NUTrW5OOj3ZmzYG2H9xZyY/y1aAz5IRow/oHQGnrx4xiW0bhwdvWnBF3YVM3P06MPZJLhVuqd6JPnho3L4R/1rczANmmPjDtVYguQr0x2++S2aIOYM6SffQsSS24W4Z3Lx1jngJI1gl2r4XndC8QIcmdkXGEbSKDhB8IbRB9JO8tBXSo4nNYhbqB3n2K4nKE2XhIrdD8seX70JIekIHMdRlAlfnfwLSqiPDgDTV8tpWgD7Y25cdeP5cifJnbFSVY8+cwu0EstoB2lyDsIteaEEQDiqq59ZRpV5wiHr7bkaoMkRecvYkTW6tbiJSF6w4sLgda6tRT8ohKpYCfhWovOWn2A8utAyBmSdkhmi5rGdai/2qUbFChlXG8FOyGl4ZNO+4RVTP97AWMBN8qFh1/FtKU0XmQO1EizxRKKube4O8XOEq5uy8HEiX9geaVqOKZvUk760UMiIaq1YtANv5+LuX3PmVinABq47d83uusCfz85GQeNg+CJzKZvh747u7omjwABhg+urqpApznlFFyZg==;C3wrxUUYDTcu/CLvIzHyTA=="
 ---

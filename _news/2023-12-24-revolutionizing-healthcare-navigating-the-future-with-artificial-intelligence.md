@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is helping the healthcare industry and could transform the way patients get drugs and treatments"
-    excerpt: "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ..."
-    publishedDateTime: 2023-12-22T20:27:00Z
-    webUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12"
-    ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "4 ways robotics, AI will transform industry in 2024"
-    excerpt: "How will robotics and AI impact industry in 2024? Anders Billesø Beck, VP of Innovation and Strategy at Universal Robots, weighs in."
-    publishedDateTime: 2023-12-23T14:30:00Z
-    webUrl: "https://www.therobotreport.com/4-ways-robotics-ai-will-transform-industry-in-2024/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
   - title: "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News"
     excerpt: "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,"
     publishedDateTime: 2023-12-26T09:49:00Z
@@ -80,6 +55,43 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Exploring The Power Of Machine Learning Algorithms Robotics & Automation News"
+    excerpt: "Machine learning, an integral part of modern technology, has transformed how we interact with the world around us. In fact, the machine learning indu"
+    publishedDateTime: 2023-12-27T09:36:00Z
+    webUrl: "https://menafn.com/1107660740/Exploring-The-Power-Of-Machine-Learning-Algorithms-Robotics-Automation-News"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 68
+    images:
+      - url: "https://menafn.com/updates/pr/2023-12/27/R&AN_cc8b3image_story.png"
+        width: 800
+        height: 448
+        isCached: true
+  - title: "How AI is transforming the video surveillance sector"
+    excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
+    publishedDateTime: 2023-12-26T15:49:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/article/53081272/how-ai-is-transforming-the-video-surveillance-sector"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/658af10d6576b2001e837f6c-gettyimages1473350489.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI to give fillip to new industrial revolution"
+    excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
+    publishedDateTime: 2023-12-27T01:58:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202312/27/WS658b81dca31040ac301a9bb9_2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 19
 
 secured: "fbFuJ2rYest8TZDijGZH81W1qamBG62+b0YXHEI9xFbowpjmlZg7X0Zi5/9S8X9pM3QX/HFiKl+FUZobgUKp2RD1e6IOQIduWXmn3SVhxRDsyxPdrltOJUXzjZpMFE//8b3uM04SW0PC8+RIJjBzb0pD28a4pTS6D4In8i3QRf685LZ8LMTIF2GzD8XBDiTXXWC2YLah6+aqyxpGP+YsawvEg7qvKxCaidlx5TS142SjqUy+S4pt3JKNY0fvk3yBtSzIahp86kndT0uRe+AAmPq5tR7oiETCPi8OxPubaJJri2+x+5U68z44pMO9pJXfsi+XEt7jGuOzEwqKNd6D/rFkpu0i8pbwFqxlIOngEhjRudrLx/1viPgGiQa63KjEt41VYSTgvV3P7u9MurMGVuyuojAwhbJjv/GTgeiYqoRddojbcDbGqNO1fkeEJxLCX6qzmT831uOGeFZcku1PalZ4Bfa9TTdXBrT7Od26b/qDaGOisM7PK5PO3hXaKSKEpooNUPf55+pYga4edPrtzw==;FSlK7C6iTRbLUwB/qksp1A=="
 ---

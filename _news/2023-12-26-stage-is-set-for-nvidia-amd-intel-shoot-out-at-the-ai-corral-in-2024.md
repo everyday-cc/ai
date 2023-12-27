@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
-    publishedDateTime: 2023-12-22T21:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
-        width: 904
-        height: 564
-        isCached: true
   - title: "Nvidia closes in on chip revenue crown as AI booms"
     excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
     publishedDateTime: 2023-12-24T01:05:00Z
@@ -74,15 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
-    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
-    publishedDateTime: 2023-12-22T20:30:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "yIST+kjQAJu+AjaTAt3WoodHECvIdpMHO4dLFpFbrHrspVj833P6S0RNz7ZZ2+kIC8e58N5A26027nZUQuANPByswiay7zngWUp1K2xwMRXdTnNZRs+cIMiQsKq7er+pkX6yN6NqkL4S2o1V2VfwdEKK3UR2rrtDXmxuHeoMhVPwvaUTeN3IWxwDpVjA8kC1i/SipU7EEc887AlBOdHo50ubs2HnDmNOdZBCm6eFHRq1ZnjEWcZyjL6gS710yOI4RGKmDb19qXYC5BGpt14ORJK98jxkVrFrcKqpKuoBnVMvpOsN/i5VdIn/h+EPpX94rulucyLPVe3TE5U2uRWZDF8IeRemBFQkVBXo/4e0p7Qgm/coNS2GnRbIGlarCDBT06EG3mwyd/VBNw0xIMdOV3yR78mqbA80VYTD7j/IEO2cOH9ZUM0waVAJhE0MTfILAvFVqBJOG9Z0KfK7M/Ls7g0gANNJma5iUfSsBMP3w6Wd5IcW8u6AuCR/8Be1zPPjaNJzVcurTSPKIFLSj6JdSg==;/tyVCg7mWFBplMVv2tLd1g=="
 ---

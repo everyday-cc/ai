@@ -2,6 +2,394 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-10-22-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap.md",
+      "title": "The convergence of finance and healthcare: How fintech is bridging the gap",
+      "excerpt": "By harnessing the power of AI and ML algorithms, and using relevant healthcare and financial data, healthcare-focused fintech can help streamline financial services in the healthcare industry. Technological advancements have successfully paved their way ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "originalUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/",
+      "publishedDateTime": "2023-10-22T09:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-ai-to-be-used-by-businesses-to-tackle-mental-health-issues-in-albury.md",
+      "title": "AI to be used by businesses to tackle mental health issues in Albury",
+      "excerpt": "Strong demand from Albury employees seeking help with mental health issues has spurred a move to launch an artificial intelligence therapy program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bordermail.com.au/story/8395048/albury-businesses-turn-to-ai-to-tackle-mental-health-issues/",
+      "originalUrl": "https://www.bordermail.com.au/story/8395048/albury-businesses-turn-to-ai-to-tackle-mental-health-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bordermail.com.au/images/transform/v1/crop/frm/170490233/a8baef5c-d674-477b-add4-ff6a21b208e6.jpg/r0_375_5287_3151_w1200_h630_fmax.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Border Mail",
+        "domain": "bordermail.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-viral-photos-of-hamas-leaders-allegedly-ai-fakes-are-actually-just-poorly-upscaled-images.md",
+      "title": "Viral Photos Of Hamas Leaders Allegedly AI Fakes Are Actually Just Poorly Upscaled Images",
+      "excerpt": "Photos of Hamas leadership enjoying \"luxurious lifestyles\" went viral on Friday, but many internet users noticed something weird about the images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/",
+      "originalUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653417b26972f9878f6ebe5f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2023/10/21/viral-photos-of-hamas-leaders-accused-of-being-ai-fakes-actually-just-poorly-upscaled/amp/",
+      "publishedDateTime": "2023-10-21T18:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-22-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "Some AI creators, having launched their new AI-powered products, are calling for regulation and legislation to curb its use. Suggestions include a six-month moratorium on the training of AI systems more powerful than OpenAI’s GPT-4, a call that includes several alarming questions:",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002580128?mod=article_recs_pos1_sb_hp&next_redirect=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T18:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-this-week-in-ai-can-we-trust-deepmind-to-be-ethical.md",
+      "title": "This week in AI: Can we trust DeepMind to be ethical?",
+      "excerpt": "This week in AI, DeepMind, the Google-owned AI R&D lab, released a paper proposing a framework for evaluating the societal and ethical risks of AI systems. The timing of the paper — which calls for varying levels of involvement from AI developers ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "originalUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/",
+      "publishedDateTime": "2023-10-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-apple-insiders-expose-more-iphone-ai-details.md",
+      "title": "Apple Insiders Expose More iPhone AI Details",
+      "excerpt": "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/",
+      "publishedDateTime": "2023-10-21T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-inside-the-ai-powered-race-to-decode-ancient-roman-scrolls.md",
+      "title": "Inside the AI-Powered Race to Decode Ancient Roman Scrolls",
+      "excerpt": "A college student seeking a $1 million prize used AI to decode part of a 2,000-year-old scroll buried by the eruption of Mount Vesuvius.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/",
+      "originalUrl": "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1152278704.jpg?quality=85",
+          "width": 4928,
+          "height": 3280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-21T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-21-how-two-friends-used-chatgpt-to-launch-an-ai-startup-worth-150000.md",
+      "title": "How two friends used ChatGPT to launch an AI startup worth $150,000",
+      "excerpt": "In just four days, using only ChatGPT and a modest US$185 (about BDT 20k) investment, Sal Aiello and Monica Powers transformed a side hustle into a highly profitable AI startup. Fast forward to last month,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/10/21/dimeadozen_founders.png?itok=yZv34IGL",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp",
+      "publishedDateTime": "2023-10-21T09:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-amazoncom-recent-earnings-what-investors-should-know.md",
       "title": "Amazon.com Recent Earnings: What Investors Should Know",
       "excerpt": "Get the latest news on Amazon's earnings. Compare the price of Amazon.com's common stock (AMZN) to previous quarters and read analysts' predictions.",
@@ -810,349 +1198,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-midjourney-releases-huge-new-ai-art-feature.md",
-      "title": "Midjourney Releases Huge New AI Art Feature",
-      "excerpt": "Midjourney massively increases the resolution of its AI-generated images, with the option to upscale images to 4K",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/",
-      "originalUrl": "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6532a227997a8dfb9491fb37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1404,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/20/midjourney-releases-huge-new-ai-art-feature/amp/",
-      "publishedDateTime": "2023-10-20T15:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-how-to-choose-the-best-ai-platform.md",
-      "title": "How to choose the best AI platform",
-      "excerpt": "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T15:27:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-exploring-the-brain-basis-of-concepts-by-using-a-new-type-of-neural-network.md",
-      "title": "Exploring the brain basis of concepts by using a new type of neural network",
-      "excerpt": "The influence of language on human thinking could be stronger than previously assumed. This is the result of a new study by Professor Friedemann Pulvermüller and his team from the Brain Language Laboratory at Freie Universität Berlin.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/exploring-the-brain-ba-1.jpg",
-          "width": 2880,
-          "height": 2017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp",
-      "publishedDateTime": "2023-10-20T15:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-robotics-manufacturing-institute-helps-build-defense-submarines.md",
-      "title": "Robotics Manufacturing Institute Helps Build Defense Submarines",
-      "excerpt": "Pittsburgh's Advanced Robotics for Manufacturing Institute is supporting efforts to build submarines and tactical alloys for the U.S. military through a relatively new Department of Defense community initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/d2f1634/2147483647/strip/true/crop/3840x2002+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F9f%2F95%2F9767293f44d4b7dddc95b06f83e3%2Fshutterstock-2130995300.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true",
-      "publishedDateTime": "2023-10-20T15:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-new-relic-named-an-apm-leader-by-gigaom.md",
-      "title": "New Relic Named an APM Leader by GigaOm",
-      "excerpt": "New Relic is closest to the center of the 2023 GigaOm Radar for APM, representing the highest overall value to customers and its leadership in innovation New Relic NEWR, the all-in-one observability platform for every engineer, announced it has been named ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/b35351970/new-relic-named-an-apm-leader-by-gigaom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35351970",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35351970",
-      "publishedDateTime": "2023-10-20T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-eu-wants-google-facebook-to-start-labeling-ai-generated-content.md",
-      "title": "EU wants Google, Facebook to start labeling AI-generated content",
-      "excerpt": "BRUSSELS — In a bid to clamp down on disinformation online, the European Commission wants tech companies like Google, Facebook and TikTok to start labeling content created by artificial intelligence without waiting for digital laws to come into effect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/",
-      "originalUrl": "https://www.politico.eu/article/chatgpt-dalle-google-facebook-microsoft-eu-wants-to-start-labeling-ai-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-ibms-northpole-chip-runs-ai-based-image-recognition-22-times-faster-than-current-chips.md",
-      "title": "IBM's NorthPole chip runs AI-based image recognition 22 times faster than current chips",
-      "excerpt": "A large team of computer scientists and engineers at IBM Research has developed a dedicated computer chip that is able to run AI-based image recognition apps 22 times as fast as chips that are currently on the market.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ibms-northpole-chip-ru.jpg",
-          "width": 1318,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp",
-      "publishedDateTime": "2023-10-20T13:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-mit-researchers-combine-voice-and-object-recognition-in-new-model.md",
-      "title": "MIT researchers combine voice and object recognition in new model",
-      "excerpt": "Researchers at MIT have developed a new system that combines voice and object recognition capable of identifying an object within an image given only a spoken description of that image.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
-      "originalUrl": "https://sdtimes.com/ai/mit-researchers-combine-voice-and-object-recognition-in-new-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-20T12:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

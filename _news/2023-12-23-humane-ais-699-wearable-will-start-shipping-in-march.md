@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humane announces AI Pin will start shipping in March"
-    excerpt: "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs."
-    publishedDateTime: 2023-12-22T19:55:00Z
-    webUrl: "https://www.androidauthority.com/ai-pin-shipment-date-3396904/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Humane AI's $699 Wearable Will Start Shipping in March"
     excerpt: "The Humane AI Pin is expected to start shipping in March. On Friday, the company posted a tweet on Twitter/X indicating plans to start shipping the device early next year."
     publishedDateTime: 2023-12-23T16:37:00Z

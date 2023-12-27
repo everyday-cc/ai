@@ -48,22 +48,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Son uses AI to recreate late father's voice for special Christmas present"
-    excerpt: "Phillip Willett shared a TikTok video about surprising his mom with a Christmas present that features an AI-generated recreation of his late father’s voice."
-    publishedDateTime: 2023-12-22T20:56:00Z
-    webUrl: "https://abcnews.go.com/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
-    ampWebUrl: "https://abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/GMA/Family/son-ai-recreate-late-fathers-voice-special-christmas/story?id=105873954"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/GMA/willett-ai-video-ht-bb-231222_1703270395394_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "King’s Speech 2023 LIVE — Charles to deliver message of ‘ harmony’ in Christmas address as royals gather in Sandringham"
     excerpt: "KING Charles will deliver his second Christmas address as monarch to the nation today as he is expected to spread a message of “peace and harmony.” The King will take to our screens at"
     publishedDateTime: 2023-12-25T09:04:00Z

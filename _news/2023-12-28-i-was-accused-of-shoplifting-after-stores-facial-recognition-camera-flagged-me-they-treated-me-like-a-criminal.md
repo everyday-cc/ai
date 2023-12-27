@@ -39,16 +39,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Live facial-recognition cameras catch 22 criminals in one day"
-    excerpt: "Ministers are pushing for live facial-recognition cameras to be routinely deployed in town centres across the country after trials found they can catch criminals in just a fraction of the time it would otherwise take. Chris Philp, the policing minister ..."
-    publishedDateTime: 2023-12-22T21:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/96793cf2-95b3-4baf-8532-c18a362fb3b5?shareToken=0a9f28459f1a279bc7650383d81c0351"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 4
 
-secured: "UPdaTEdK7ycxJVkp+eRMpkdeMc7lxzgIddw/4w4YnU2Tii7J9WA9pnQOb6JZSTSLpbQODvSsn4xYzynvFrD8doV1k+Oh1lGFgo+4j8DYMPHUvIiFREOBeZgrRVgumlVKEfpYtQBrzuiZvjfbgsBlga/cS1N5t1VIbFmopqo2fGM4MvlmS5gBykxHcDk45YLzpaeHvDqnLRzAeou0HxZllexTRHEq2wngCSlLmzR+cXm5j6B0TOLeTURv0DDpQwv5Nqp4ItqJ/L6y59vE/a/tbRLni5mqG9/WKnd5CIl6a0ySJ30Gai8DxWTEJY64AkYudmCtXwYltHLCr34eLjczzWNxrpPRg83w+C1nlnE9pmI=;HhTYBGpgU11iQClNkNoIKQ=="
+secured: "I2HPrjqyl3aF7d1Q5dqy56m5d8L2D/mvn3wepor0deQv6HAAi/BVRqjM5NCUMRrB9zDxcYC2p0u2F1gge+iTTGMxBGw0aFvrOiqdz19nZDit/WjUpHhA3zBGpW8PMeEWrSKZLQznrs8YhusY2bMDJ0pHwtI7xJWXej3oPoyO6puDs7fwGzO5r4a9Q6DxfkpgZKL3Rp0A88OPLX/b2cDLd41jnl82XqJ7+UvZ+8QEeW/+Cw7ahDxR6fwJ5MLOALdCsrASIq6EqKnXdRjsJ8CL3vWs7UM3vZMTOv/aI75FQYq3fd7qUQS9r+IbKquWTlMRL9Q6TsZwAJYLRWOrJFz1nbo6uV5AJKjxQwtOaK7KXM+5AO8LrjylPIsk30UdCxUROBKayzQtbnHIBdal4PPIc15GGJYm1F38xfkpMQU+7eY7j54bTo1CYZh0u/eVWF1OQdzWhwc4tXAU5pvSq8vlzuSGyUUi3glaJfX60KCZRBLHs7lI/AOWfA3A8dobGy3awyp923TRUU1ktRPJAemdqA==;nQasoKFU6Wn4pAL2hUYTww=="
 ---
 

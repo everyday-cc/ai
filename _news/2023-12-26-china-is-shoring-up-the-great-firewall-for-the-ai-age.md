@@ -2,9 +2,9 @@
 category: news
 title: "China is shoring up the great firewall for the AI age"
 excerpt: "The Communist Party has created a thriving but sanitised digital economy. Can it do the same with artificial intelligence?"
-publishedDateTime: 2023-12-26T13:48:00Z
-originalUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
-webUrl: "https://www.aol.com/china-shoring-great-firewall-ai-114819237.html"
+publishedDateTime: 2023-12-26T15:29:00Z
+originalUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
+webUrl: "https://www.aol.com/finance/china-shoring-great-firewall-ai-114819237.html"
 type: article
 quality: 39
 heat: -1
@@ -55,21 +55,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "How AI is transforming the video surveillance sector"
-    excerpt: "AI-driven video analytic solutions are taking security teams and video management systems to new heights regarding efficiency, precision, responsiveness, and insights."
-    publishedDateTime: 2023-12-26T15:49:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-management-software-vms/article/53081272/how-ai-is-transforming-the-video-surveillance-sector"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/658af10d6576b2001e837f6c-gettyimages1473350489.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "yTiGc1CnVNFn8pAfZn0HvgJ9Zsh3+odNCAgFB6gVdMPbJwvM48pcsjwzaNRKz8DQxJa0qU5i5wQsAOeh8fJhl7cbwSQGdTVwLYgC44ZNBjZ8DFz6eHIrZxNYsrFqngseY0Imhy9FgkOfoQve2BUzEjPgnuCBvvB3YLqsF7s5iuPIMM9fvNuQXWs0LwrIuR5TblHSeWxxVrMXQClEh5fVysZJgTOrhQr4R/yJlzC33Ehad/hHj6YzR3DryA5GGppe+HcAb167O8yW7HXVtd0nQPLla9FSOFg1sf3dF7ss49BTuUTLT4ByeuCd/nzcZJV3HiW8tqUbZtOpH/iIyQhjoMtWmWS+DcROKw16Vdutb7w=;chuspCfL6NLqaBQUNtHhuQ=="
+secured: "Y+7QEL5K3g4YtsFYhn8vQqDrrohQYhv+tTylWY6ytrE+VZUjXMtBujrAu8p0GOMD0wOXLRExY0DWbF8gBblfKXrfuVstnxhC7zdMWw92fb4np7OWUd84glRVg0/LgfI547c/7o8vKlw6sGYnSf3nSlzI27LHQM6vjQoxtLbpO/Ja4HH4hbjrfR9Dyj1U+1HPK+T8+RlWCSDFbmdT1PPjUeH+jwWLjaIZks+jIBqk/DjnOOPWZ+nMkMbItpMYoEpJGf2Jvlim2DfJzCavCTeVgjU2yttmpQoB1Sz0sWMSVOJTUweqK/fWgpOc6V5hCi8vhVRen9nWTbsTG1pRTAuCjhUvyQcQGLnxryNlPnAxVJM=;6qjR7tBb3hSbye/mxIrJOA=="
 ---
 

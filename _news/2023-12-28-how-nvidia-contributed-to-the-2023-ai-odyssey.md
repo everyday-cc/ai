@@ -41,20 +41,6 @@ related:
         width: 1272
         height: 900
         isCached: true
-  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
-    publishedDateTime: 2023-12-22T21:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
-        width: 904
-        height: 564
-        isCached: true
   - title: "Nvidia closes in on chip revenue crown as AI booms"
     excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
     publishedDateTime: 2023-12-24T01:05:00Z
@@ -69,15 +55,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
-    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
-    publishedDateTime: 2023-12-22T20:30:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "eVSC74h+xQnP8wrunYCGODGRR2FhutIHzxkMiVeoZQKXAD0/vG7Yl65iVa43SOf2Pzti3dSHX1UxowH+JnyqyJRUcIuz76T6S7j1/NFoLO2DrSl0i1q67IHAgeWVq+76/oYtDPppsw/2yO5P2HHcgafTYbMDdEOuT+K+hztcJ8jNDxC97WZBNxH+yTfopdKIYm0238UovFCJraNAew7WzSqvK1xuz+MpApmjG2iOKMaVDiMb1Q8EALhUn5U5qj8Azj3gwIG88i+HDmovYA6iPPWOd63lAOhz54oOMUdxxYMIHz2BBCjNiWhHvqVr3w2r9P5g9H/XZrtwuAn/OPHgfpTBul1z8yFy5fT4YrTLJ0U=;k+UfONoVDxuw7P+oPL17Qw=="
 ---

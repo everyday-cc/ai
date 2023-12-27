@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
         width: 1600
         height: 899
+        isCached: true
+  - title: "The New York Times sues artificial intelligence companies for using its stories to train chatbots"
+    excerpt: "The Times says that the companies are threatening its livelihood by effectively stealing billions of dollars worth of work by its journalists."
+    publishedDateTime: 2023-12-27T22:44:00Z
+    webUrl: "https://www.al.com/news/2023/12/the-new-york-times-sues-artificial-intelligence-companies-for-using-its-stories-to-train-chatbots.html"
+    ampWebUrl: "https://www.al.com/news/2023/12/the-new-york-times-sues-artificial-intelligence-companies-for-using-its-stories-to-train-chatbots.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2023/12/the-new-york-times-sues-artificial-intelligence-companies-for-using-its-stories-to-train-chatbots.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GUHFG6BEPBAIZH3LLZOXL6C7MQ.jpg"
+        width: 5400
+        height: 3600
         isCached: true
   - title: "AI starts a music-making revolution and plenty of noise about ethics and royalties"
     excerpt: "Artificial intelligence has seismic implications for music-making and record labels, posing existential questions about the meaning of creativity and whether machines are enhancing human inspiration or replacing it."

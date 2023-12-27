@@ -19,65 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "AI is helping the healthcare industry and could transform the way patients get drugs and treatments"
-    excerpt: "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ..."
-    publishedDateTime: 2023-12-22T20:27:00Z
-    webUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12"
-    ampWebUrl: "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp"
+  - title: "How Narrow AI Will Disrupt Every Industry"
+    excerpt: "Welcome to a future where AI handles your email, meal planning, home renovation and lets you create a more satisfying ending to \"Seinfeld\" or \"The Sopranos.\""
+    publishedDateTime: 2023-12-26T23:08:00Z
+    webUrl: "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News"
-    excerpt: "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,"
-    publishedDateTime: 2023-12-26T09:49:00Z
-    webUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 74
-    images:
-      - url: "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Your Next Surgeon Might Be a Machine: How AI is Transforming Healthcare"
-    excerpt: "Robots in surgery? AI predicting diseases? It's not sci-fi anymore! This blog dives into the fascinating world of Artificial Intelligence in medicine, exploring how it's changing diagnosis, treatment,"
-    publishedDateTime: 2023-12-27T00:18:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2755863-your-next-surgeon-might-be-a-machine-how-ai-is-transforming-healthcare?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 74
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_12_2023_16_35_38_471739.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
-    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
-    publishedDateTime: 2023-12-24T11:53:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
-        width: 650
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658b5b6e730c422b337a92f0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 623
+        height: 307
         isCached: true
 
 secured: "SIh+29wKbqjzTa+RQywjd7I2bz76AqP18tdLXWhWSvHgViG3CjiRffiG8R/oPXQtk7X72+82RdyYXEKR4RO7OBdiZ2Azt/KaziEZOIKU9Mwj/p2LeMuvfXqHCJG9BmSiOXMi+YOocMUUhCxgNfdeB5QC6+n3fPRcgUNAyTg6NpsIaqmalVUfoiZpJeTPkjrtIn4Ps8RT2N/Jk4mVO968hujBno44B9FJH8dYudF53WtYE7MuYLJ0GOJNZ25mQoDRS8KDIH83YPx+2/8wqOeK+Gk4xKcTm1q8bh50FLcg6v2k7KUousiGrw9/c4iTkE1H6liXa4s0b4Q0OpmUfEI4L06B2eMAg6wWh+XobFw1O4HB+pAg8V9/Nipz9KGf07njPaOXTdaw9FpRksmVibuUMf/Q284lij1/KcyLj+8QzQiqH6Pq36p7OusMwYSSu7vxy+Q3Bsl+3PsDA11hMuGJItMj7AalG+IE+ROPDlJbEmlHajChil/jVh1wsdnEYF9brASqI+qqJucjJ1ttBjV59A==;MOXDa6aB/tL0MqlpYVWhXQ=="

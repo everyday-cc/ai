@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-27T17:23:00Z
 originalUrl: "https://www.morungexpress.com/year-end-review-the-ascendance-of-artificial-intelligence-in-2023"
 webUrl: "https://www.morungexpress.com/year-end-review-the-ascendance-of-artificial-intelligence-in-2023"
 type: article
-quality: 41
-heat: -1
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.morungexpress.com/uploads/2023/12/69539192_1703695708_artificial-intelligence-4389372_1280.jpg"
@@ -26,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The 10 Best Copy.ai Alternatives Reviewed for 2023"
-    excerpt: "Like Jasper.ai, Describely has a user-friendly interface and an impressive selection of templates, spanning product descriptions, Google and Facebook ads ... From SEO keyword research to content brief creation and AI-driven answers, Frase streamlines ..."
-    publishedDateTime: 2023-12-26T15:42:00Z
-    webUrl: "https://techreport.com/artificial-intelligence/best-copy-ai-alternative/"
+  - title: "ElevenLabs Review: The Most Realistic AI Voice Generator?"
+    excerpt: "Looking for an honest ElevenLabs review? Discover if it's the most realistic AI voice generator and whether or not it's right for you."
+    publishedDateTime: 2023-12-26T22:25:00Z
+    webUrl: "https://www.unite.ai/elevenlabs-review/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 41
+      name: unite
+      domain: unite.ai
+    quality: 39
     images:
-      - url: "https://www.techopedia.com/wp-content/uploads/2023/08/Jasper-AI-1024x491.png"
-        width: 1024
-        height: 491
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/elevenlabs-review-1000x600.png"
+        width: 1000
+        height: 600
         isCached: true
 
-secured: "CJROa4lsJV1x+DkByElSSOFYpI9TWwgKDTtydVO9L8ISCJ0/hYa46KXH9T/m+oLDLGULwftAIzLXL2apZWjvVkjYEJax4Gcj7aEvjUNXAATiRkNng4/tC/NOK4KkNZfkY/QSG0DoWR1tUR3Dokdcd9GmGQ2xCkgiXJn6HVHksc8IU0drZlTSlesecO80Q4IUQ9/SGqmRBFwj1S2FLmWv0DyrOdkX9YoBMeYXjbH/X86a8aZDzajPh740wFcgBaIi4mLtWpMBkGfyyCd9RzBaAM0mEJBRVo2PGMvpR0L/klUjF6ko5U1dlQAMwDPV3FOmDg8Y0A61axAmpTvdRFM8fmPr4ejnjDt1ZG+jaclNEhI=;ecpCo8fwiDWheneMl5OnHg=="
+secured: "sYXhV6VBdmjpF2t+jaUuLAibh2tWifTn+wxpzpUMkFa+zda2NHEHcYsclPEdInNDzn+Ihe70yp5aOpc61RNTutvZh2pppg/cHBg4Du7HOM6jAR4lDQdvfkViyudnJP33UglDj8Ky/mNyWckdYdj6O/4w/q3pBiHTFnKLSojhkPy65pK4IbSpnix4lBJLazNYASeM88ySIuiaCha8ZAiB8VUem94c4bPy5l4b+D5nV1f9ErnWI/8MrJZkIWLOSp2md1CPwVbYhId2wG3mpvesxVk4uyGmtLdfJpRtYNOPOYxZuHxJ29VdssluXDQpM380FyTHZCCxI/11yUI6PFP2fJH2g8S6f4ysiW1aAzHutLeaAH+FGNtoq/StF2uQf/ETSPIQQn4ZkmMBroaa9tOfNja/XHaV3Hv2/ni9m2isHAgfB2d85RyXYPXUVd1xCZm8LHksp+cVpz6Sb/1Wcz0XkImCumLc2MlI4kzOln25xsy8Su5CfduIcZ6aKF8pe/Hd8/5YplWipzzfm/cHRihBrg==;DY1LBgjLTiqdeTJaYxmAug=="
 ---
 

@@ -92,6 +92,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "NY Times sues Open AI, Microsoft over copyright infringement"
+    excerpt: "OpenAI no longer discloses as many details of the data used for training of recent GPT versions, but all indications are that full-text NY Times articles are still part of that pr"
+    publishedDateTime: 2023-12-27T19:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
   - title: "New York Times Sues OpenAI, Microsoft Over Use Of Content In Artificial Intelligence Products"
     excerpt: "The New York Times filed a long-anticipated lawsuit over OpenAI and Microsoft’s use of its content to train large-language models used in their artificial intelligence products. The lawsuit,"
     publishedDateTime: 2023-12-27T13:42:00Z

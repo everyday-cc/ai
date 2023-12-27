@@ -59,6 +59,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI predictions for 2024: What top VCs think"
+    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
+    publishedDateTime: 2023-12-27T18:54:00Z
+    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
     excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
     publishedDateTime: 2023-12-27T14:00:00Z
@@ -69,6 +78,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "9LeA4NHw4WwjpGrPcnhhX5QVM/7F5MkQT8hGJX3Fo1hTiheV9ZAnRrmUXMSvlds4S+g5W2GbbjbDAdegYdCF6kW4upiYjevvzKHsfjq8V02iyBun045I13PogfBkxu8oBk8n0sdSzNxIvVSui4/zXQCG4HmssqWbN+8BXcJj9OzSjrusCvibNZOsgx2YngiJXDqAQaYg8pnrcyetV6INTjisWt1KKvXZCvDnNyS9YCVMakMJbwK6XxrRzVE2hsEvCk4QZmVQGUy0puAns2qI2EBJMEm+uiZM+zZLdVLbc7RmCw1Fhj3s6dzIg1c3X/mFCkLKOXB4DIVgEhxV0e7pxRcwI7ea4YqZTi91+NHSc1M=;qAgmLwp9AkY5e9tfXv1R5Q=="
+secured: "baCfaV+18fZw1MZlq7Igyglk6aUrHY2ugnqa7DYg/cgVBme4P6gm1fAjqQi7pKiazBFTV13J8Jm6JyQo3FMWYPuD5ZbbI0L2FvvJFDfX5Ex8TStNqa5rjNqL09HUH5WuVCHSOr1bQDe7dsGMHMARLLMmrnqz/zqlsfcQIMiruwq/sCSNWkBZES0RlkSybvRft6OHgl46PhIQQ2J6BOoL6So+SetEq8yWI9l9hDeCyg+9tE+yImIHbIOZ/nJBKfMQvUmt1/k9dmRscmtBFpnRCqo5Fd3XC1zmONJ65WQXQHnNHta5f0A3yicMTSsHUJXDIibZnG9NfA1Xv9WoAKhLI3mbUpgl7OpCALyPZ6DAMQNFcKhYUCmmxMETL8rkMwyC7QMjPEuWvt+qCjWePVNRY0ZlSMbtbAWCwKWG4JFuU3yJzr9ga5gWyFinVPfDxw9t6cWFdK6W5R56dNUBhr/PO1f2we4F/nif5lmjgJ1Yq5rtWrJs69wHV1a1+jzBFLBXtnJsTH+rByoJC5f1JlQ2jw==;g66K4mRThrC4WeN35ru1/Q=="
 ---
 

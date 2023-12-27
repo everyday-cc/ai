@@ -91,6 +91,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "3 Semiconductor Stocks Set to Capitalize on Generative AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor landscape stands on the precipice of transformative"
+    publishedDateTime: 2023-12-27T22:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-set-to-capitalize-on-generative-ai-1032928866"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Will 2024 be the year of chief AI officer?"
     excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
     publishedDateTime: 2023-12-23T11:22:00Z

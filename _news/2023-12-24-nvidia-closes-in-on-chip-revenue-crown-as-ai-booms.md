@@ -41,20 +41,6 @@ related:
         width: 1272
         height: 900
         isCached: true
-  - title: "How Intel Plans To Catch Up to NVIDIA in the AI Arms Race…"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has taken the world by storm this year. In fact,"
-    publishedDateTime: 2023-12-22T21:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/how-intel-plans-to-catch-up-to-nvidia-in-the-ai-arms-race-1032923322"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-    images:
-      - url: "https://investorplace.com/wp-content/uploads/2023/12/intc-2023-12-21.png"
-        width: 904
-        height: 564
-        isCached: true
   - title: "How Nvidia Contributed To The 2023 AI Odyssey"
     excerpt: "In the wake of unprecedented technological advancements, the year 2023 stands as a watershed moment in the evolution of Artificial"
     publishedDateTime: 2023-12-27T18:17:00Z
@@ -69,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Engineer Responds to Intel CEO Saying It Got Lucky With AI Dominance"
-    excerpt: "The employee, who worked at both Intel and Nvidia, says vision and execution are the reasons for its supremacy, not luck."
-    publishedDateTime: 2023-12-22T20:30:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-engineer-responds-to-intel-ceo-saying-it-got-lucky-with-ai-dominance"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "h2n7o7parC+uif4a7Odztz240B+uNPy0ztpBfffrC7fAREVCXJ/7jctBVXoSbSpucC1YehvGbb0cvkQe5VimK/JTZeTnf8jQcKvR5YXA5zyaxRoZgVHuAyQ2b/Jlp5JzBfi9mNsGnebBa/Cw3QmHfAiIsSi6apHaU6xsQduOhvEXcPMmhFtp1WuZd/bHVAvZhLpD+rW/cZg5km4yte+S8WBGoMcod4iEykILpJ+15SrJKtA0Pk0FtmELYPVvtHCYi/mLTTTbV2d/gVn6jd858i/DB9edv44mn3M3FMXxWLramuzESOIAndQzP8JZCyFXh4WhFEP0pLT9pbBySUaFtraVGhQY6Z/O1wjUDVgsuOc=;a7DvUTeuDSPoHgYD24B77g=="
 ---

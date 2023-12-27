@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
+      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
+      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T09:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
       "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
       "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -44,6 +88,58 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-the-top-10-people-in-artificial-intelligence-hardware.md",
+      "title": "The top 10 people in artificial-intelligence hardware",
+      "excerpt": "As the graphics-processing unit shortage continues, companies and venture capitalists are rushing to buy these chips to run powerful AI models. Nvidia, the chip giant that's been riding the boom ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
+      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/652725406561dd877e784703?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
+      "publishedDateTime": "2023-12-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1049,6 +1145,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
+      "title": "2023: The year we played with artificial intelligence — and weren't sure what to do about it",
+      "excerpt": "ChatGPT was the catalyst for a year that took artificial intelligence mainstream Artificial intelligence went mainstream in 2023 — it was a long time coming yet has a long way to go for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_565ff5b817b5db0d4e74829ae3d68611_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/2023-year-played-artificial-intelligence-105651001",
+      "publishedDateTime": "2023-12-14T03:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models.md",
       "title": "Google unveils MedLM, a family of healthcare-focused generative AI models",
       "excerpt": "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ...",
@@ -1289,155 +1428,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
-      "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
-      "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6577122956c96696afc3528e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1135,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
-      "publishedDateTime": "2023-12-12T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
-      "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
-      "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "publishedDateTime": "2023-12-11T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-north-america-artificial-intelligence-in-healthcare-market-to-hit-usd-1142-billion-by-2033-says-we-market-research.md",
-      "title": "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research",
-      "excerpt": "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T10:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

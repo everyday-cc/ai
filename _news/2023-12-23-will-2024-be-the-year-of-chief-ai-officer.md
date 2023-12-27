@@ -101,6 +101,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "3 Semiconductor Stocks Set to Capitalize on Generative AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor landscape stands on the precipice of transformative"
+    publishedDateTime: 2023-12-27T22:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-semiconductor-stocks-set-to-capitalize-on-generative-ai-1032928866"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z

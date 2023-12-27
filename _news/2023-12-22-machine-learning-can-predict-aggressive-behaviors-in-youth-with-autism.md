@@ -1,31 +1,26 @@
 ---
 category: news
-title: "Machine learning can predict aggressive behaviors in youth with autism"
+title: "Machine Learning Can Predict Aggressive Behaviors in Youth With Autism"
 excerpt: "For inpatient youths with autism, machine learning analyses of preceding changes in peripheral physiology can predict imminent aggressive behaviors before they occur, according to a study published online Dec."
-publishedDateTime: 2023-12-22T15:31:00Z
-originalUrl: "https://medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.html"
-webUrl: "https://medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-machine-aggressive-behaviors-youth-autism.amp"
+publishedDateTime: 2023-12-22T06:30:00Z
+originalUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/"
+webUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-aggressive-behaviors-in-youth-with-autism/"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-can-p.jpg"
-    width: 1280
-    height: 876
+  - url: "https://www.physiciansweekly.com/wp-content/uploads/2023/12/image1703226618.jpg"
+    width: 800
+    height: 548
     isCached: true
 
-secured: "w+pA6xCf0BEJnus0j63CVQXeUOfrsU2n4A8vtMpYjTIw4sZ8P92TS4F+WDMQXTday9LKaLGhHhBIQFHpnuoAz/rMCv2y0Rc0v5Skm4KPBNMjpvEY8qffcNKfHerrrDp+se/6lgC4cU+QtdxPTsDP9iuhu7Xi3vOnc6+GxUe5GXsQ7LpbPM92VIELcetvwTof4yUgRPl4lkp9C8KnQ12+dQsBe3KV0tnOlMVDQLZx07yfpd1/6NWBj1ztduE39UFe3L+8SYjW9AjEiciavo5F11TRiAqU7KtrBRK3kDBiK50UpKufqaSV5iLa2rpwtjktE5oXnL2aKcuTG5HudWQv2ht/9cEHKHM5jesYvSdihFqxX1Y8u0vgP3cjIo7QE0J1Hia+xr2NM6qdpa1syHIcHkFgDpSxnIM528bH13BWHNQPX7y+LkmjZl4NnLdaIoBHa+/mTyScPu1FBsxKc7VDi4Z6bCTOFAK1gTbwZXNpToA38gPzdCa4zLc9njlPF5BjIrMlITR4KF1eLmx8212KAQ==;vtClY48/xrfxJ7OXzTFUig=="
+secured: "gGe4tzvuwnboDIj+Yxral3nX17YY7pe2Y1YhWzphVfikcHAoRI6ty5dPGz+FF1mv/4MtwjEE0EL+es5qcRomdDysHMZyKnaMUityjxg3lLJYDFKSnrahmeqpUsQcoj2l4Wy4jUMiQrJ4oNcLuonhz0TLXvW3yw0Bz8TnfZKocDGbYriWiHX0tfmiZwLhuL0Uq7Kewynx2nErzeyxhc1JIhj75c3HLK3f67PzhxPtDwNiO0nRXQnaOGpM6PKz08iJala6sQuVN2cQlzbYPDJ0zkZr3vhyIm2E4FnOzzMSaCPvGGCDnvBUxbui31sjpEpubKk97JoBJ/DKYUvV9Gfog9Ex88b7vNut9CcP29XhZP8=;xvll+u+3bYXkJwzIMd4+ig=="
 ---
 

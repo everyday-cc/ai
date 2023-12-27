@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 716
         height: 487
         isCached: true
+  - title: "AI predictions for 2024: What top VCs think"
+    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
+    publishedDateTime: 2023-12-27T18:54:00Z
+    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
     excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
     publishedDateTime: 2023-12-27T14:00:00Z

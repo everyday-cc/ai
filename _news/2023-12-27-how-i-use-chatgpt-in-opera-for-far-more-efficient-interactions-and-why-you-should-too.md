@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-i-use-chatgpt-in-opera-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "ChatGPT will lie, cheat and use insider trading when under pressure to make money, research shows"
+    excerpt: "Scientists trained GPT-4 to be an AI trader for a fictional financial institution — and it performed insider trading when put under pressure to do well."
+    publishedDateTime: 2023-12-27T16:00:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/chatgpt-will-lie-cheat-and-use-insider-trading-when-under-pressure-to-make-money-research-shows"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 26
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/qPiB7YH4D4vr4ckbkdfcoC-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "n5KSzpGrwZ8oSBrvx/WImthjNVhS3cxeZdyQE+iGc5IOaABVzilceinKUSYeEv1l1495AZEq5spMk2c87HAS7IXbcseJR9Z9UYVCJNtKrWSF3yE6t9Z3UR6PD0FQufEp/AitupjiIR2+VtE2r1ejYCa+7JJOe7knVFx4gAnW8WgQtR5KtpzVVRopdV4R6SR9xbVdpD0qGbNjRw1dH9l9uzP8oX2cbAHgBwKy94mzghAzelbvrb7QYhqU/riXFCQlgMxJyms8NsJOtcZCGKWZgIN835w8h0fRuKqafRHOxZNfXXs8xOTzkyJvgrSRv+ZruAOIxyFInkQibpqZqvKz2cEx8AFE61k0MWFW0c7DCI0=;GpnoBTY1+qAnoK9BMLk6DQ=="
 ---
