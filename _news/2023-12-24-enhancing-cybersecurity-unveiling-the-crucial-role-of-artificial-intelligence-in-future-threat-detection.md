@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2024 predictions: How AI will impact everything in healthcare"
-    excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."
-    publishedDateTime: 2023-12-27T15:25:00Z
-    webUrl: "https://www.aol.com/2024-predictions-ai-impact-everything-162535208.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
   - title: "Cisco redefines cybersecurity defense with powerful, portfolio-wide Artificial Intelligence capabilities"
     excerpt: "Cisco (NASDAQ: CSCO), the leader in enterprise networking and security, today unveiled the Cisco AI Assistant for Security. This marks a major step in making artificial intelligence (AI) pervasive in the Security Cloud,"
     publishedDateTime: 2023-12-27T07:55:00Z

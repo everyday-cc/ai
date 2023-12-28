@@ -41,20 +41,6 @@ related:
         width: 1296
         height: 729
         isCached: true
-  - title: "2024 predictions: How AI will impact everything in healthcare"
-    excerpt: "While the healthcare sector has lagged the market — the S&P Health Care Equipment index is down 6% this year, compared to the broader index's 24% gain — that may soon change. Citi Global Wealth listed medical technology as one of its key investment themes for next year as health spending continues to grow."
-    publishedDateTime: 2023-12-27T18:25:00Z
-    webUrl: "https://www.aol.com/finance/2024-predictions-ai-impact-everything-162535208.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/4XyfKaQCzxvSLSmHOTm7YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njg-/https://media.zenfs.com/en/aol_yahoo_finance_433/f1b49b12e6a0364fd11b408c2e4b59f1"
-        width: 1200
-        height: 868
-        isCached: true
 
 secured: "VZyLmnLHaw7kyRd+LvvdZpDngDF9ubm7+ceGJgkHHOlfhtmMXCNJHa/PLjLI/b+z3tRiDY3ilWsTRYF/dFRLvtVK2fmDM2dK70kO+Q9ResQc5KaMBrfsixLt27zqdDJei32KlzUm/hdguKuRifI19JIq14MRVMaTA0H6uV/f1MeM5G+8YpUXwH8z5I8/Gx6Z1OW1d2HrPSQhT4lsgRwOvRB3qXzG3FEeIOwJ458mO6E8Cu8ztZDsCqbnxcAa5HAouWLoaWYqprK9rF4djtCq1OocHyaaBTkDt1C+Wlx2yAPkrHFg0+dm0WzCT1MMpbva0+o2wPLuL6wEbzsz0AHXj74gMXjUGl6E3aPEqO9R//k=;kdhtbvxDF8tzLq4kOJOozg=="
 ---

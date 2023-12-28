@@ -2,6 +2,74 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-11-14-messagepoint-adds-generative-ai-for-translation-and-plain-language-rewrites.md",
+      "title": "Messagepoint Adds Generative AI for Translation and Plain Language Rewrites",
+      "excerpt": "Messagepoint's Intelligent Content Hub offers a modular approach to content management that enables business users to manage content across all channels, whether it is used in composed communications or delivered to a digital endpoint via headless APIs. The solution enables the reuse of common content components and templates across communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
+      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-14-ai-based-image-recognition-face-blur-function.md",
+      "title": "AI-Based Image Recognition Face Blur Function",
+      "excerpt": "we have developed an automatic blurring function using image recognition-based AI for object detection as a plug-in for editing machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "originalUrl": "https://www.nhk.or.jp/strl/english/interbee2023/8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-3-machine-learning-stocks-youll-regret-not-buying-soon-november-2023.md",
       "title": "3 Machine Learning Stocks You’ll Regret Not Buying Soon: November 2023",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is revolutionizing industries from healthcare to",
@@ -873,74 +941,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-vultr-announces-addition-of-nvidia-gh200-grace-hopper-superchip-to-its-cloud-gpu-offerings-for-ai-training-and-inference.md",
-      "title": "Vultr Announces Addition of NVIDIA GH200 Grace Hopper Superchip to Its Cloud GPU Offerings for AI Training and Inference",
-      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the addition of the NVIDIA® GH200 Grace Hopper™ Superchip to its",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
-      "originalUrl": "https://www.businesswire.com/news/home/20231113850910/en/Vultr-Announces-Addition-of-NVIDIA-GH200-Grace-Hopper-Superchip-to-Its-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T18:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students.md",
-      "title": "SJI Utilities Hosted Mark Cuban Foundation’s Artificial Intelligence Bootcamp for Local High School Students",
-      "excerpt": "As part of its commitment to invest in our communities, SJI Utilities was proud to welcome over 40 local high school students to the Mark Cuban Foundation’s Artificial Intelligence (AI) Bootcamp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
-      "originalUrl": "https://www.trentonian.com/2023/11/13/sji-utilities-hosted-mark-cuban-foundations-artificial-intelligence-bootcamp-for-local-high-school-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T17:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Trentonian",
-        "domain": "trentonian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

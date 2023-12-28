@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-18-examples-and-uses-of-gis.md",
+      "title": "Examples and uses of GIS",
+      "excerpt": "Geographic information systems (GIS) visualize and make sense of geospatial data, helping us better understand the patterns and relationships of our world.\nThe post Examples and uses of GIS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/geographic-information-system-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/3e267523-e37a-4523-8c93c2c2e4f4ec17.blog-lead-space-2x1-1.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-exclusive-jaxon-ai-teams-up-with-ibm-watsonx-in-battle-against-ai-hallucination.md",
+      "title": "Exclusive: Jaxon AI teams up with IBM watsonx in battle against AI hallucination",
+      "excerpt": "Jaxon AI's Domain-Specific AI Language (DSAIL) technology is designed to prevent hallucinations and inaccuracies with IBM watsonx models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "originalUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/igor-omilaev-FHgWFzDDAOs-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-what-is-rum-data-and-why-does-it-matter.md",
       "title": "What Is Rum data and why does it matter?",
       "excerpt": "Looking to optimize the performance of your applications and services? Learn why effectively collecting and using RUM data is critical. \nThe post What Is Rum data and why does it matter? appeared first on IBM Blog.\n",
@@ -1077,101 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil.md",
-      "title": "A first, PM Modi uses AI to translate speech from Hindi to Tamil",
-      "excerpt": "Inaugurates Kashi Tamil Samagam 2. In a first, Prime Minister Narendra Modi on Sunday used artificial intelligence (AI) for real-time translation of his Hindi spe",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "originalUrl": "https://www.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/12/2023_12$largeimg_354404949.jpg",
-          "width": 866,
-          "height": 1083,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/india/a-first-pm-modi-uses-ai-to-translate-speech-from-hindi-to-tamil-572891",
-      "publishedDateTime": "2023-12-17T18:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-17-google-launches-a-healthcare-focused-llm.md",
-      "title": "Google Launches A Healthcare-Focused LLM",
-      "excerpt": "Google has unveiled MedLM, a collection of foundation models tailored for the healthcare industry, making it available to selected Google Cloud customers in the USA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/",
-      "originalUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657f046fb0c8270387e93d83/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/12/17/google-launches-a-healthcare-focused-llm/amp/",
-      "publishedDateTime": "2023-12-17T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-10-12-generative-ai-is-top-of-mind-for-all-types-of-leaders-from-treasury-secretary-janet-yellen-to-jj-ceo-joaquin-duato.md",
+      "title": "Generative AI is top of mind for all types of leaders, from Treasury Secretary Janet Yellen to J&J CEO Joaquin Duato",
+      "excerpt": "This week’s episode of Fortune‘s Leadership Next podcast features conversations from the Fortune CEO Initiative conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/generative-ai-top-mind-types-161500257.html?ref=biztoc.com",
+      "originalUrl": "https://www.aol.com/generative-ai-top-mind-types-161500257.html?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/eP4Xik6pZytPhOV0QqgjcA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/5703ec16a09a02c946b4b519c6968b09",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T19:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco.md",
+      "title": "Tens of Thousands of People Can Now Order a Waymo Robotaxi Anywhere in San Francisco",
+      "excerpt": "Waymo announced on X that it's expanding its city-wide, fully autonomous robotaxi service to thousands more riders in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "originalUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/10/waymo-self-driving-car-jaguar-IPACE_3.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "publishedDateTime": "2023-10-11T18:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged-in-h1-2023.md",
       "title": "Deep Instinct Threat Report Finds Ransomware, State-Sponsored Attacks, and AI-Powered Cyber Threats Surged in H1 2023",
       "excerpt": "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today released its 2023 Bi-Annual Cyber Threat Report, which details the most pressing cyber threats of the year.",
@@ -1095,100 +1181,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud.md",
-      "title": "Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud",
-      "excerpt": "Custom Email Destination in IBM Cloud Event Notifications can help businesses establish a seamless communication channel with their customers.\nThe post Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T13:03:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-for-autonomous-driving-road-infrastructure.md",
-      "title": "Huawei, Baidu and Alibaba’s mapping service help China set standards for autonomous driving road infrastructure",
-      "excerpt": "China’s ambitious self-driving vehicle goals face roadblocks ... including search engine and AI giant Baidu’s robotaxi fleets located in designated areas in cities such as Beijing, Wuhan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
-      "originalUrl": "https://www.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/10/b635bee1-cd50-4243-a8cb-931489901464_30636dbb.jpg?itok=DZEsF6_n&v=1696944979",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3237483/huawei-baidu-and-alibabas-mapping-service-help-china-set-standards-autonomous-driving-road",
-      "publishedDateTime": "2023-10-11T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

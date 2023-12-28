@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
+    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
+    publishedDateTime: 2023-12-28T14:37:00Z
+    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 58
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Spying on Beavers From Space Could Help Save California"
     excerpt: "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back."
     publishedDateTime: 2023-12-28T11:59:00Z
@@ -33,31 +47,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
-    excerpt: "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ..."
-    publishedDateTime: 2023-12-25T00:00:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 38
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
-    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
-    publishedDateTime: 2023-12-28T14:37:00Z
-    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 38
   - title: "California 2030: AI in the workplace"
     excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
     publishedDateTime: 2023-12-27T04:43:00Z

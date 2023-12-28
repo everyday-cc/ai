@@ -21,10 +21,10 @@ topics:
 related:
   - title: "New Year's Resolution—Go to AI's Cognitive Gym"
     excerpt: "The rise of artificial intelligence and large language models suggests concerns about cognitive decline. AI and LLMs may be tools for mental exercise, enhancing cognitive skills, and may support brain health. Blending AI with traditional cognitive tasks may be a smart New Year's resolution."
-    publishedDateTime: 2023-12-28T16:10:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
+    publishedDateTime: 2023-12-28T16:30:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
     type: article
     provider:
       name: Psychology Today

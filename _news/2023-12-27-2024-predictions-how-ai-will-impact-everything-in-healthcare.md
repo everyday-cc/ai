@@ -19,43 +19,48 @@ topics:
   - AI
 
 related:
-  - title: "16 Cybersecurity leaders predict how gen AI will improve cybersecurity in 2024"
-    excerpt: "Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here. With greater AI power comes greater complexity, especially for CISOs adopting generative AI."
-    publishedDateTime: 2023-12-27T22:13:00Z
-    webUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/"
+  - title: "Startups Are Using AI to Predict Responses to Cancer Drugs"
+    excerpt: "More accurate prognoses and treatments tailored to patients—entrepreneurs claim AI can be harnessed for breakthroughs in beating cancer. One founder is using lab-grown human organs in combination with AI to test drug efficacy."
+    publishedDateTime: 2023-12-28T16:01:00Z
+    webUrl: "https://www.wsj.com/articles/startups-are-using-ai-to-predict-responses-to-cancer-drugs-d7fb06eb"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/Hero-image-16-Cybersecurity-leaders-predict-how-gen-AI-will-improve-cybersecurity-in-2024-.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://images.wsj.net/im-904831/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Cisco redefines cybersecurity defense with powerful, portfolio-wide Artificial Intelligence capabilities"
-    excerpt: "Cisco (NASDAQ: CSCO), the leader in enterprise networking and security, today unveiled the Cisco AI Assistant for Security. This marks a major step in making artificial intelligence (AI) pervasive in the Security Cloud,"
-    publishedDateTime: 2023-12-27T07:55:00Z
-    webUrl: "https://manilastandard.net/tech/314402607/cisco-redefines-cybersecurity-defense-with-powerful-portfolio-wide-artificial-intelligence-capabilities.html"
+  - title: "2024 predictions: How AI will impact everything in healthcare"
+    excerpt: "While the healthcare sector has lagged the market — the S&P Health Care Equipment index is down 6% this year, compared to the broader index's 24% gain — that may soon change. Citi Global Wealth listed medical technology as one of its key investment themes for next year as health spending continues to grow."
+    publishedDateTime: 2023-12-27T18:25:00Z
+    webUrl: "https://www.aol.com/finance/2024-predictions-ai-impact-everything-162535208.html"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 20
+      name: AOL
+      domain: aol.com
+    quality: 54
     images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/12/Cisco-AI-Assistant-Security-Firewall_1200x675.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/4XyfKaQCzxvSLSmHOTm7YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njg-/https://media.zenfs.com/en/aol_yahoo_finance_433/f1b49b12e6a0364fd11b408c2e4b59f1"
         width: 1200
-        height: 675
+        height: 868
         isCached: true
-  - title: "Enhancing Cybersecurity: Unveiling the Crucial Role of Artificial Intelligence in Future Threat Detection"
-    excerpt: "Introduction: In an era where digital landscapes are expanding at an unprecedented rate, the importance of cybersecurity cannot be overstated. As cyber threats evolve in complexity, traditional methods of defense fall short,"
-    publishedDateTime: 2023-12-24T13:04:00Z
-    webUrl: "https://techbullion.com/enhancing-cybersecurity-unveiling-the-crucial-role-of-artificial-intelligence-in-future-threat-detection/"
+  - title: "Getting Ready for the AI Reset: What Businesses Can Do To Prepare in the Next Three Years"
+    excerpt: "Although AI is transforming the world faster than its advocates imagined, it's not too late to get on board if you're a business owner. Here is how."
+    publishedDateTime: 2023-12-28T18:22:00Z
+    webUrl: "https://www.ibtimes.co.uk/getting-ready-ai-reset-what-businesses-can-do-prepare-next-three-years-1722384"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 30
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1721644/artificial-intelligence-ai-google-openai-bard.jpg"
+        width: 768
+        height: 510
+        isCached: true
 
 secured: "lO4FbyZxBilvdSyf3E+8EStGh2DBuB1wH4Lx2SCZMLKjFWo44HlqdVPaJvUjEDBUn/f5e0/oru4p3P3Xj9xgSy7SHH0m/TJgFvaiD+q6D/h8rNZ3/BZNI51hGR7DuHrID1ELnc1Toz9Zw2GlRNm7GbYOiyCyTPBGy5qu4Rihpkdl0oyq/GThYyz1KyEUU0k5FyzKNXA/wp9ambriavqxd2fNtM2Dsu3YUbTp0nrGjkMiQmAwgm+cXciBWVfRS3OFCYJJN+nPVmb6ZolGH1api5TdAsUjzk/dq/TW9Gl19W5dQD1HZtYkVqOQu6pOPWJCKFdyHMBYBNnO6/rBsHyz49Jn5rcU2U8NJN4rjy2FRn4G4cfSV8WXuU4QTjrHAbz4tpVslHl3+NCzCH8JRKFsycLku/R7YSOGiVFx6x5jVNIXoOL25aP9FTx4fLy+duIE77USVZGW5cUQCK8IhFjwcOeCrUQaw+MY5fdEqRruR+lJJWKgfCC0LlC2KbFhCdcbUPMX7JQSc0JGkyfl4ZJwkw==;pFQLYhhd2juSYlPxsD2eQg=="
 ---

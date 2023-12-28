@@ -78,6 +78,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "The Best Ways to Use the New Microsoft Copilot AI App for Android"
+    excerpt: "Microsoft's new Copilot app for Android enables you to produce AI-generated text and images from your phone. It's free to use and available now."
+    publishedDateTime: 2023-12-28T16:00:00Z
+    webUrl: "https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 54
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HJQZVW87VGJNZ75YEBR73E1P/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
     publishedDateTime: 2023-12-27T13:18:00Z
@@ -114,15 +128,6 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 33
-  - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
-    excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
-    publishedDateTime: 2023-12-23T18:02:00Z
-    webUrl: "https://www.afp.com/pt/news/1313/ltimindtree-collaborates-microsoft-deliver-ai-powered-employee-engagement-applications-202312189544151"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 22
 
 secured: "WCb8e6H9pHsBapwpTvkp4Pg6KcaAdqhDZ5UvzvqP7OKH/N8FXIKm7HboRAQrDgczdx76T0jXHiUZ/kV5LAGgpOGLTFEZU4ofEKSXUAp0O4Otmh9l/li4O6gJY1wAFqpU2P6ZDSS46s5mHLBp1eUljXQZyTmCAI8JnrzXw0G4oeCJ/X8nfoU3s3oyO5T4W3NLdcg/lV+9t810krEJKY/6MUFa4c5Ohtf9zfbWLLXiEpfbOSblUUtebaQpYVsOu84QeWKI1nTQ0pKMlzftCS/KP+L+SiWWsPVtwYK5QTBYuR4FmZvtOft5vS7GfZrVsF1O3jvA/3JTrNWYUwt2/ru2yEFQastwRWfN70liVbCJR/dV4z+d4E7KupBKCoFtqkoDtu80ay976c6EHOGPFAwvW7+wpdNWVdd7lM2VEKj6XeFx8XeiwQasOQwc0clltoVqYuRoTKvpn8RYdH1v22IpINI2EOZfs6F/QthT6SY6qowds31XOXy8BhTNNb8C6Zve3AvRT3+OQzbvikCGXBkb2g==;qqWLr9w+1nXg06QsMakASg=="
 ---

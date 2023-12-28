@@ -2,26 +2,25 @@
 category: news
 title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
 excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
-publishedDateTime: 2023-12-28T16:38:00Z
-originalUrl: "https://bismarcktribune.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a8cad8ee-3c23-58a7-a9f7-71057759db3c.html"
-webUrl: "https://bismarcktribune.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a8cad8ee-3c23-58a7-a9f7-71057759db3c.html"
+publishedDateTime: 2023-12-28T16:30:00Z
+originalUrl: "https://tucson.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa.html"
+webUrl: "https://tucson.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa.html"
 type: article
-quality: 28
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Arizona Daily Star
+  domain: tucson.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/a/8c/a8cad8ee-3c23-58a7-a9f7-71057759db3c/657bac9b09cb1.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/a/2a/a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa/657bac9c27ee0.preview.jpg?crop=1084%2C610%2C0%2C0&resize=1084%2C610&order=crop%2Cresize"
     width: 1084
-    height: 569
+    height: 610
     isCached: true
 
 related:
@@ -92,6 +91,20 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
+    publishedDateTime: 2023-12-28T15:29:00Z
+    webUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
+    type: article
+    provider:
+      name: Lincoln Journal Star
+      domain: journalstar.com
+    quality: 28
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/df/0df154d9-bd89-5684-93e4-f1cb5294eac0/657bac9b5f11f.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+        width: 1084
+        height: 569
+        isCached: true
   - title: "Microsoft says its AI is safe. But it keeps making images of people's throats slashed"
     excerpt: "The images look realistic enough to mislead or upset people. But they're all fakes generated with artificial intelligence that Microsoft says is safe — and has built right into your computer software."
     publishedDateTime: 2023-12-28T14:52:00Z
@@ -102,6 +115,6 @@ related:
       domain: detroitnews.com
     quality: 27
 
-secured: "JZnvFstanDZQbaZDlbRTsh1Ir2pxKPgjPbjKD25XBPxI+zbRtN+sU6JgRIDDFlCNTN9WGHx1xTJ2JUASxiIjEVOP4+GnHOG1ne+UF2wEMWQQxTZKyguBIJy/NmpVgt8S+hsSzWEYKcyYIbSeRuSVtBe8Dvtrp2D23R3eTnOh4/GMol247OraLEDUXQwStQ9l0ocUUfS/4wpuHu44FMpuangBxK9yq+lze0lCk++HDn3zF0cibAmeHz/f7/fRBrIzpXSCV26FLB2Niqke0w/lLK3GcdIqPGUICK0vMaS83RnWPUId3H+SRlfecASZsKlgDmaMIU0sZvhtLZYgVkmS4SRODEmSBZEYfOIo9EB5ePY=;Y3/989/MU87yw6o8IdtigA=="
+secured: "iIxqirs8ILithKB4Js7pO4aHshg4K5AGzwp5g8Gh5H+4G9z/XULK7oXlJHBPG54lxvn/FSN4hYYW9ydXGrmr2CCRC6D/A4iG2fGcSvZcnV7U+BDH+dlPutONSMrg1uiRqweOTtiLj5UE8DE62MR1E5yXEnLXfMAX9wL/vj4CULfJVP768lmSqnRw3xJaUjmyhAe+S+Vbhsk85bJhh3rUS7VuHpF1ui32NYvQOz0PX2w8Yt8mWGBvSaYRPu5LBdqieVmyjfKCmnL8ZGrbPqPcMIOnH1Ym2q9JKTQv22AaSW398ecPSSOBT72uU/7StOG8WB3LL6SEkUVDJ5FOJ+HrWnCgjX8Skz2GdLWhKgE8Hyo=;gDvcodeXIJMDT2YYnhqF9w=="
 ---
 

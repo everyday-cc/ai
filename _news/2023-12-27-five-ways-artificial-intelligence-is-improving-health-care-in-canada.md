@@ -9,8 +9,8 @@ ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-int
 cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: winnipegsun
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2024 predictions: How AI will impact everything in healthcare"
-    excerpt: "While the healthcare sector has lagged the market — the S&P Health Care Equipment index is down 6% this year, compared to the broader index's 24% gain — that may soon change. Citi Global Wealth listed medical technology as one of its key investment themes for next year as health spending continues to grow."
-    publishedDateTime: 2023-12-27T18:25:00Z
-    webUrl: "https://www.aol.com/finance/2024-predictions-ai-impact-everything-162535208.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/4XyfKaQCzxvSLSmHOTm7YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njg-/https://media.zenfs.com/en/aol_yahoo_finance_433/f1b49b12e6a0364fd11b408c2e4b59f1"
-        width: 1200
-        height: 868
-        isCached: true
   - title: "Quantum AI Elon Musk Reviews 2024 – Scam Canada or NOT?"
     excerpt: "Ever since the name Quantum AI got involved with Elon Musk, this platform has been making waves around the world. Everyone, literally everyone in the trading world, is talking about Quantum AI and the involvement of Elon Musk in it."
     publishedDateTime: 2023-12-28T11:23:00Z
@@ -56,6 +42,6 @@ related:
         height: 261
         isCached: true
 
-secured: "dj2as3xqHI44lp5WmeUl3yTRCNXzftFVwUGSX+iatZoQWXktyqnNnFiYxdiekIhCY4jdnXoLaFn7doMJon92vfkJoM3iFiWHNcrqlMtYXaPkjElG5uRcVpAroOB9W1bkfhcn4kvWjqWP2FH+zwTNy0f6wUwnoDctj4vhA5cIT6Jx/AnYfYogfWmPt6uU9hd3Ry6M/MTeaRTRoIFQ4dGc5a9Fvlv4RXG5QaV+2KaC0RsIb+itkK21VPHBMPvZNF8ft3j9f+FdRgOYWWYkRIcQEPgt2As2NLeMPHspzZXncgWeQM0hlIOZvc9TfiRgNO/WGMLI99/HM9LZdfhRIk/QpZKQmm4zi8UhcCyQ6jW4g3Y=;ATp0gMRcfd8qOGTQxEGNlA=="
+secured: "y99lQkVz3acjL8058jIXLuAWNgnONxDGRLB+M8wWwW1k8yuZE7AMoSMFYezLa8hOS5eFB4v2q86B4vO8isKi8Lpy1wsohec1Q+SGXiBsn28dvsjIHU47PrPDn9a0OzpPt5Rk0PQy8Gi7z1DB6nhGC7snk+Fvt9/FxF+cOlQIMGiu0j81FwA1GGCKROhw/aW6V/RlUDOeEKekAuMLoGKjsUjjU80QDKlBQJl3RFlPgW+fWHJXlhnVlyDQpLnujKhDJclpXXAm2cy19OaE7SCzGlW+qgnIQpeDHoRehq2y6Y8AjkALJWZu2O3FUc3okgVKICIV3Nhp1FMwVeJesok4PlkGLhlRBEyownV/nKl9FOx41ijd/F0PLRndxcY4jcU58peEwGcJuWwVA8Z8ndmMbG06esQmDi8qrRPW7BacjH/g2JRo2ovEIL9dDpdikuLuQ1gHndgpxA3KpNQoR19tIhGfTbicR2iSw01VGkeUI+7QH7nyqNSIfjmPSgB7twniAbbd5DnwfBGFttqzGywreQ==;5Yo7pf8YYLqLndLMAkxYPA=="
 ---
 

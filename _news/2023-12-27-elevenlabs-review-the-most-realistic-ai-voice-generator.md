@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Artificial Intelligence Regulation in the ‎Insurance Industry – 2023 a Year in Review"
+    excerpt: "2023 has been a very productive year for regulators advancing their efforts to understand new technologies and consider whether and how to regulate the rapidly developing technologies, including artificial intelligence, predictive models and algorithms."
+    publishedDateTime: 2023-12-28T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-regulation-in-5567609/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 30
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15506_3439.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "PTebalMUEkn06H3/S0UUs6PZIvVWEGkSJEuZETTpwzTkJfRGN2rEx97e+FSColsCfvHnDxIauvmMyvpnArfdYzNrFBCxMJDeMsF9+eKXR25uGcJWfu4dHiTTg66H+kxYd2Mfq8Sliwz8S45KZgL9pTC6HX+Ldb8uuYfwJAlPIgBLIBHjgYoE+6oCk66mBEO6tRcrMfsDATpM5Eoh+pXcpsvSK+YVnKREZ1qnJNHUiOjHI3JfxWBCs68KiLVO/Ar4Dvr+elC3Mq4JAw1rbg67uH3HYsjlw+hCKQURbAxu4vtvEzEGg09gBLH+eiQ+0GBIFhCPQQZRcSuZHU+ytX68kCoJZGn0ouWfQ80iz++b18bNZQCNc4WhAu5zaINDR2UvnwtJvq/LLZsv1SkgG1l0qNcOTM9Y3cBBEf+opUD5pg9kb1Lap2Lk2PB9agqOA2XOsXn7/I+M76fxUvbrOf0LUpp8gUvXebR0H68w6AvZOnWccTyVwqpD8MrVmSfMUvRElmUIflP9rRvsHvrpRty6Gg==;TJStv+mQ+inubsOmIsPoeA=="
 ---

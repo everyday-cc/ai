@@ -3,12 +3,12 @@ category: news
 title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
 excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
 publishedDateTime: 2023-12-28T14:37:00Z
-originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
-webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
+webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
 type: article
-quality: 38
-heat: -1
-published: false
+quality: 58
+heat: 88
+published: true
 
 provider:
   name: Electrek
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Spying on Beavers From Space Could Help Save California"
@@ -36,22 +42,6 @@ related:
       - url: "https://media.wired.com/photos/65846185a032f4fcd48c037c/191:100/w_1280,c_limit/science_beavers_climate_environment.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
-    excerpt: "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ..."
-    publishedDateTime: 2023-12-25T00:00:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 38
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-        width: 1440
-        height: 810
         isCached: true
   - title: "California 2030: AI in the workplace"
     excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
@@ -77,6 +67,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "p+y8tua6jtvC+bZgaVjBRUrunM68ga9lU/RyxCu324GW2QpNExXWpRnD4x7pfyCFwdn7F/yrpSfZzW0jLafwl/UzgQqX19LV5Ub4ssAE6ZyiJFlOudssXdb+HoXIZ+qFadxtWheG5gAcV3e6tlkefwD/2qytLtVMxpCOeFgttmrR/mJjOojS1pG2ouq3FnwB+QC+tT2dxNGjNTDoG0mdQkPs1xHj3GP2fH+oMmB2szVnMSsBgJ6x4MbxW8GRB7eyei99pldCZINlXZoeqF6u4uwA6VPjyXZzwjk800Cy+zkczS4DdnoGMeJckrP0Z6jPWkoENjoAJVzxM8bvEH1QXckE0to42trb1iGtRpAQvwerBV+LCIsm/T/XW7sjbib5956waeS8ZC9FLibJ6x/Z8QFZfZ8I3ifnmV8DXRAVnSp4ugTzg6N5UCDunwormwmR3XFAIkxQ97sYJx7eCnzs8lFyVRjKD/Z2vPsIfUvybLVBiheGjAY2QzAAvzwsWnQSl6P0xDCZwrZFKriUM+hTOw==;i77iBu3nA4nfXCV/TDHAjA=="
+secured: "ictSN5J6Eaj1tTSpwfDP1RT9yTIXjF/oK4o55gnmaruKL0ZDs/IK9PSsSJDs07plI+SBpdrtvpQHpfrbbVOWNwPC38w639ZrRQCcVyUn84MtUu/Wj2rpUhm5//O60QKkvrdNBoUebmzuqCbeAZ5MTiZtlzqELjVNLFvlco91QTpQiy3q95OYyiPJwVWVO9pdvu6F8A66Gp8ChdvKld3RJCFkQpKb7Fe3hhuoHw+nRADovt9b6IMBwI7LqMjq7iNCZbngqjlRF7f+EH6z7wdPUSfaiHq7XdamtNmydq6G3hzeUc+6CHrhm+6uXEbyVzCEGwi0qfmCxifwwfgIeQO5aK+rnFZSqiBC5j++/qpUIHM=;sCjqdcDZvJYL8zmwthameA=="
 ---
 

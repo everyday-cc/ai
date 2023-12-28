@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-th
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
 type: article
 quality: 65
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -80,15 +80,15 @@ related:
         isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
     excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
-    publishedDateTime: 2023-12-28T16:38:00Z
-    webUrl: "https://bismarcktribune.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a8cad8ee-3c23-58a7-a9f7-71057759db3c.html"
+    publishedDateTime: 2023-12-28T15:29:00Z
+    webUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
     type: article
     provider:
-      name: The Bismarck Tribune
-      domain: bismarcktribune.com
+      name: Lincoln Journal Star
+      domain: journalstar.com
     quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/a/8c/a8cad8ee-3c23-58a7-a9f7-71057759db3c/657bac9b09cb1.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/df/0df154d9-bd89-5684-93e4-f1cb5294eac0/657bac9b5f11f.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
         width: 1084
         height: 569
         isCached: true
@@ -101,6 +101,20 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 27
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
+    publishedDateTime: 2023-12-28T16:30:00Z
+    webUrl: "https://tucson.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 26
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/a/2a/a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa/657bac9c27ee0.preview.jpg?crop=1084%2C610%2C0%2C0&resize=1084%2C610&order=crop%2Cresize"
+        width: 1084
+        height: 610
+        isCached: true
 
 secured: "bL8JTdcSi/u+Foef1RgmsPSyW/zATQ2nVcYXNn5IH8zRTnqaf7UFrzFNH7flas06PeNUil0ecBkCX1ixRktqxxjvUgxxJ32AfkBDS0WWdSnlIQ7Oz6+OxL76ZQbHqsharPkZeZJNaZ73h7q+yx/yXy0uMQrzLq2z9f+ByP3jL8vzZ9pFUduJ32g6jDLJHmL1t6w2WPhkFpXlzwgZfx0FshJtAwAAzvIs2PzOVOf3snaDIiPGw7YZZhxR90ICNeGwPSN51KJyA2+Myt+1VS67xOjOtMHeJVE7wDGthW99UBKLMY73Ms6xYVjLJ7yFHnqnECVDCyuiE6/ZgNNRChbLvWFFYPHl+ZgeAjK5gz/MlzC5WaxBWLW0jO3uybQExbrV3XCMDmENi9A2vnFMu64Gf6tiYTw4vzKW0geLofoszhQ5l1ga/+1UZptXF5+059PHE+d2Lmk7pnJdvRk8AxuCNkcU4FPPtu148G2WGSW/bQzyuWKSI74xa4NjkdMda7PoE2aXQTBPf17Q51KUcfnjLA==;zOOGF5fPOwohnx1u/Tr+KQ=="
 ---

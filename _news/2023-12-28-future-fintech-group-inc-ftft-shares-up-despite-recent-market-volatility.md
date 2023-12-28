@@ -24,6 +24,22 @@ images:
     height: 233
     isCached: true
 
+related:
+  - title: "UP Fintech Holding Ltd ADR (TIGR) Shares Up Despite Recent Market Volatility"
+    excerpt: "UP Fintech Holding Ltd ADR (NASDAQ: TIGR)’s stock price has gone rise by 8.04 in comparison to its previous close of 4.12, however, the company has experienced a 10.45% increase in its stock price over the last five trading days."
+    publishedDateTime: 2023-12-28T17:35:00Z
+    webUrl: "https://newsheater.com/2023/12/28/up-fintech-holding-ltd-adr-tigr-shares-up-despite-recent-market-volatility/"
+    type: article
+    provider:
+      name: newsheater
+      domain: newsheater.com
+    quality: 21
+    images:
+      - url: "https://newsheater.com/wp-content/uploads/2020/01/Image-109.png"
+        width: 640
+        height: 383
+        isCached: true
+
 secured: "vsiW2Q/9cwgH0lwv4HRS4eoMtvcLf8KTyE1zewdQgQj7GWWZy9dgoI/4pnCtWNBZsBnAQP0aio1rdGyUIZEXsvu+5rGEUEiJ+NGPBHfTR4eVb0XLe4yIfxyDgzx2XLMZ8QA9hPkR//TX4OI0qfbFO2fTre/RGS734Yf6wSEFanOveeXWOvlRaMhaIJC17nYfQgxUOpDn9BvV2CeX0sGC/C0OK0zML1PXm1rsLYtQazO4f1rcttzD087qmyzofJdvjT5NV9toHXsO0RygdZn/04PEfsnjen31RJ5YuE50ceLUgECs/gT4EI8oGGncW5rKi4dja7N8KJUQEoPbH7+SAUm/MMQXSc2aiFWaFXxvxCo=;tZZHfrvG+hWXfH2wfMsUtw=="
 ---
 
