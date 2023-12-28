@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-27T23:09:00Z
 originalUrl: "https://www.dmnews.com/ai-advancements-transforming-industries-and-lives/"
 webUrl: "https://www.dmnews.com/ai-advancements-transforming-industries-and-lives/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Transforming-Industries.jpg"
@@ -107,6 +108,6 @@ related:
       domain: chinadaily.com.cn
     quality: 19
 
-secured: "mIr/iFpg70DuASJ5fUh83SZqrHR4hkHoIhZBxtu7+u86dQq7K7dBYahZotP4cixrFRHtTOUuTR9q3AP2n1RVMCDZFDaSZW7ssu0AbpKdUzQPNo5d/fwgDhDnX5yWj9o85h5z1fUR4HWdKqVjXS2sTtgt2HbKO4UPv1i9gF0qSUzTASIJqIvewCVuMVA9Q8wxVwITJAL7gXYu4+64uxz4PV7vVmqJjAOJ3u6vwAMxxRPgOcgCS7AX3yDNVlPl5wluCxkkAmJnM9nDc+t1CYq0nmEktEFiVu4Dw7FJHxvS4rUt2uwZa0rsO2r0L+JyZj0b0qIWk4YQA2YLu4ur0TWBVsnE3UqATYgcdzUU49TQAp4=;zhTyTwWsZzvH7rsiXzvN7g=="
+secured: "MZv7K9LywrLrz9o1N29FMkSBE6p7eq7FzqivCmRidr1/w+be/u15aO/nDLTBgyl+By6jxrJckkvw9kRX2OxKzDGKNAnINl/VmL11Z0FoYHq50H5xx/gu1c7Kkxqi8JPs5fLy/cdopYPAcEIo/5dvfamTkjoSKw1Lh+uBWKJlvHfHsxP9AX+8B4HzHNm1HIk3Bb6JD3UwZti/KhDOROvPr/j0q1WivzamzK83hD+AXndkZuoutq3yoTfE3pJkNxPlE8qarOM54JxUGr+qMhs8ycCeCOA+u1ttDFNxZOO4aQXaBGKtsDd858ha4Qiu9mZPv1NgHIaWQfs+GQpyqLBeD/a1eaBPfJEryTkjALv2D3WUmlp0k52rQoIY6xFcu/Ak+ULEJT23UveZRxycQUgva6gDtrHvdinIwFqvKpab9Dcmn/PL9W2rMkvFBJnwHdoRiMEDjiF6ZHDgx/x3t9IsDyYm9BhHz/cyYX8RLC4ZGghpOej5isxBn4VEJwPnMgxiGW8RUHrQVRx+BM7M49M78g==;PGfCd79rDQ3fy2sMywvsWg=="
 ---
 

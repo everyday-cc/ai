@@ -91,7 +91,7 @@ related:
     provider:
       name: Direct Marketing News
       domain: dmnews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Transforming-Industries.jpg"
         width: 1000
