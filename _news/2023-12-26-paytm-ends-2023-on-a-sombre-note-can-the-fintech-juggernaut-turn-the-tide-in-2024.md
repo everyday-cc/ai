@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Asia Pacific Fintech 2024: A Balanced Vision"
+    excerpt: "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech."
+    publishedDateTime: 2023-12-28T03:15:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658ba84a0e014e31d7e4f47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1343
+        height: 896
+        isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
     publishedDateTime: 2023-12-25T03:38:00Z
@@ -37,17 +53,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
-    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
-    publishedDateTime: 2023-12-24T09:50:00Z
-    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
-    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 38
   - title: "Women in Fintech Top 100: A review"
     excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
     publishedDateTime: 2023-12-27T09:00:00Z
@@ -62,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Virgo PR Expands Global Tech Practice with Addition of Leading FinTech Nova Technology and Consumer App Start-up Aroapp.ai"
-    excerpt: "Virgo Public Relations, a leading integrated communications firm specializing in rapid-growth industries, announced today the expansion of its global technology practice with the addition of two new innovative technology platforms to its client roster;"
-    publishedDateTime: 2023-12-26T18:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/26/9938322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "vDYN0DkNs1p3bS3DZ7Cs5By/+Cc1ePA1A5hh1uDGn5JzAKKcf2AbbobRFT5vDKr3nXaj9b/2upIzd/vS82TcVoZXikSOvrXpgtwxzPaL12KAuzEYqocWHgOOn6szYWH0NAwYYlcEzg4pLIXC2Z8THvGjSIMFVFnVf8XVz5eyn1b/2Yf8dJFJGemopv+mMlPT1NQ/nAAtVU1FcISWSvxalqdKvmwxlJWXrzuLoI4Hmu5EE2fys6lDVO9hrr3LFq5GQw4VUGQz5RC4kdcRaZcwHsY+CTm5pocZsez37m1sd3IjCnS5EbIfOsDlPR9CYtGgydHghuXxqnO9DigPwS/yaEmkzxnIS2q95O5ti8Tj6AnTb5GzqQ1HVgsTaD9JpkRbeY1aAZPc1IeFmSrHlEYJbiJsHQzUEmkF5X2AmJ3yV19iwIzqxQdApZkyZdUTcbWzAD4Fp8/i1RNuLZMIQscTRO1SAhMyvnV9d342AzZcpoYA6tk3rWj8UmBx59/l22E9LbXqRmrIpnZXrI/8ID5kUw==;9YuyQea6Hk4HB0ay4HsQ3w=="
 ---

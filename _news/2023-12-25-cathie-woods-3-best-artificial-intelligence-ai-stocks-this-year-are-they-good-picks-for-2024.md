@@ -6,8 +6,8 @@ publishedDateTime: 2023-12-25T10:53:00Z
 originalUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/"
 webUrl: "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg"

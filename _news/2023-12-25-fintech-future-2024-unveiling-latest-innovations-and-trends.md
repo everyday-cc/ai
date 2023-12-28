@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
-    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
-    publishedDateTime: 2023-12-24T09:50:00Z
-    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
-    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
+  - title: "Asia Pacific Fintech 2024: A Balanced Vision"
+    excerpt: "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech."
+    publishedDateTime: 2023-12-28T03:15:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658ba84a0e014e31d7e4f47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1343
+        height: 896
+        isCached: true
   - title: "Women in Fintech Top 100: A review"
     excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
     publishedDateTime: 2023-12-27T09:00:00Z
@@ -63,15 +68,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 18
-  - title: "Virgo PR Expands Global Tech Practice with Addition of Leading FinTech Nova Technology and Consumer App Start-up Aroapp.ai"
-    excerpt: "Virgo Public Relations, a leading integrated communications firm specializing in rapid-growth industries, announced today the expansion of its global technology practice with the addition of two new innovative technology platforms to its client roster;"
-    publishedDateTime: 2023-12-26T18:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/12/26/9938322.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Wn7nXbFAcAbMD0r5cNyrDDmIRPaybn1AHOOVKEtb6BKXU0hRRaTRzMsaSacFl8AJu/ZnKzgE2GUEnZbmRmX7U/uneLcsacHponBAMdjXigDMrDCJ4v/9RtbJk3Fzx9merS+RPv6xdjKvjlI3pgvvcj0Rn0kTsWdhetmov3B4G4gW7SfS2CTOiP5EShjz68OlNSw7GPYer0mwIibpDjr0dLjqwkUd6FrKCmTIzH2E8gOa8ZvGsooiZCiPWoJqsOZYYEe+J42Y3EB8sWQjd4kpgbs7tN2w89VDQLJV2jKQfSN68sbnvMyHBIA0FzjPTDidqwhtEAAJQ5CzedsTBUxO42yqzuea7KQKeIFrcz7z1Z6Jd407nUUQlmGICbyfqR5KaeJ2azmrLi9TeJKj1NPbaEUpGgmqqYMQejy4JwLidW8D+H9qeJinEgPOjRHkURTPIpTfz2AlbVZLuht5lzMp+bTDmD12oBprZ1MCczPMHwRO7S96xI1yLFE+UEgAYmQ1iJhtaqM6B8zfUf1mHsAGeg==;c/lPxCMwNR9To40u8+G5AQ=="
 ---

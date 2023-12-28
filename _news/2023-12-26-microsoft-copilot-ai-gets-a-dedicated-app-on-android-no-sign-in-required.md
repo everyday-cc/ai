@@ -117,6 +117,15 @@ related:
       name: Deadline.com
       domain: deadline.com
     quality: 38
+  - title: "The Times Sues OpenAI and Microsoft Over AI Use of Copyrighted Work"
+    excerpt: "New York Times is the first major American media organization to sue the companies, the creators of ChatGPT and other popular AI platforms, over copyright issues"
+    publishedDateTime: 2023-12-27T15:31:00Z
+    webUrl: "https://www.seattletimes.com/business/new-york-times-sues-openai-microsoft-over-ai-use-of-copyrighted-work/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "LTIMindtree Collaborates with Microsoft to Deliver AI Powered Employee Engagement Applications"
     excerpt: "LTIMindtree’s Generative AI-powered Employee Engagement Applications utilize Microsoft Azure OpenAI Service and Azure Cognitive Search to enable a range of AI-led capabilities including: content summarization, graph-led knowledge structuring, and an ..."
     publishedDateTime: 2023-12-23T18:02:00Z

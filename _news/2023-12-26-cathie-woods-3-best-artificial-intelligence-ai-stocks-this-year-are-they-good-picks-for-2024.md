@@ -27,7 +27,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg"
         width: 2122

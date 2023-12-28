@@ -181,6 +181,20 @@ related:
         width: 960
         height: 1280
         isCached: true
+  - title: "NTU Singapore researchers use AI chatbots against themselves to ‘jailbreak’ each other"
+    excerpt: "Computer scientists from Nanyang Technological University, Singapore (NTU Singapore) have managed to compromise multiple artificial intelligence (AI)"
+    publishedDateTime: 2023-12-28T03:45:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241048"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 31
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/129597_NTU.png"
+        width: 3958
+        height: 1975
+        isCached: true
 
 secured: "oIvjj8Yk/pcSONnGePiIO/7PYdZDLaD3Rn+PK1XSUf5vGBgvB6BxKa734DLZVEuc3kt7Ytkn1FQAyQD1NO/bQKwTtQrKTK8ITEubaGJgjN0NdFAl5su7qtt0jSBp9ghFNjkOVTx0vEAUlf6Oy8hOpezAqtN/B26MZN7rAn3re7W0GMjm6lqf/xziEBr1XwhwNW2cfI+dbWn/WkKLWCM4fQziv1F2it9k59sVF47Ovbzz0awhZ0Sl34li0pmK7dBIewbbuLFSk79eEH6hQyCaL6ldhLzoeU0m+dQIZhE2vaySxDrJs7OhLwy7PQbNN1kajbiMIlqJAb6AFTqQqTdZvrCpzu/0ugLEu6I744aPDrSUiEbAsPPSpP7zGkB2ApObIbRKlKRFxguBqlqxKV6dBcoMY1W2s3H2B1WNPgaGEMu1lMVm++frQkCdPCRzctxWMasgDeD/OUO6mlK2aJJuEYZ97h1J+gr+Q2r8f8zNFfr5EImcWFowavwXE2od40CIBHzUarAHZSs06J8QuD43ow==;OWNz2fxU1hw9NhwrF+OAcg=="
 ---

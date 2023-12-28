@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/amp/"
 type: article
 quality: 106
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/12/25/2456674.jpeg"
         width: 1240
         height: 879
+        isCached: true
+  - title: "NTU Singapore researchers use AI chatbots against themselves to ‘jailbreak’ each other"
+    excerpt: "Computer scientists from Nanyang Technological University, Singapore (NTU Singapore) have managed to compromise multiple artificial intelligence (AI)"
+    publishedDateTime: 2023-12-28T03:45:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241048"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 31
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/imported/129597_NTU.png"
+        width: 3958
+        height: 1975
         isCached: true
 
 secured: "ppuwKHK5V4M54o+s0GDi87Q8446SrXLOc0QF1B+qxJsqdI9y/sGWEE1+86IpzF/dDOb0ydSIRaNX4gp4bsxPO6vD7UHydphpOz7mzBfUZE5k5Xu5D77o+YP1PklTDL5ZLSvnvh0X90H0nONIbvaQShvNk8Nkcp6WMdhTMQRFf2vAfX9dOILU+qQ5jg55pw9G1HDIzOaCM0WmfwUZECrzv078VOXtx1jwRbsOQv4kxdCpIYNZ/ViGiq/mcYsNrfqC1DmYDpQSJYiinh6fB7rvcJ0b6i4s/RQLa3FnTHdyQCVJgCAc0bc3LqEf6IJmLFN523qcFlvqzx57XVD53WldeHp/d3cMafzY/GCNt2vysDoKNmAknIUjU30wVNvGPE4s/LXaujCPFzDpOES0D0a1mW/urnOWnHkLGYK5+DaEJvuhUmCXZqW6886kvTkebaEWOrz1IPwRIpl3+fEt+Qvxn2/JRcd76ddCmYjOakeMht/xcdCVn1KwKse/LgVTuUVoPODljDtMIOexGJeiNJ0BKQ==;oMn366h95RohAhwbvsM02g=="

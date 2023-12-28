@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-v
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
 type: article
 quality: 118
-heat: 208
+heat: 218
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
       name: Deadline.com
       domain: deadline.com
     quality: 38
+  - title: "The Times Sues OpenAI and Microsoft Over AI Use of Copyrighted Work"
+    excerpt: "New York Times is the first major American media organization to sue the companies, the creators of ChatGPT and other popular AI platforms, over copyright issues"
+    publishedDateTime: 2023-12-27T15:31:00Z
+    webUrl: "https://www.seattletimes.com/business/new-york-times-sues-openai-microsoft-over-ai-use-of-copyrighted-work/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
   - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
     excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
     publishedDateTime: 2023-12-26T14:48:00Z
