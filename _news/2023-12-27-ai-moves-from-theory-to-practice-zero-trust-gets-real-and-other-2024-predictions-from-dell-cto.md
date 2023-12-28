@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-moves-from-theory-to-practice-zero-t
 webUrl: "https://venturebeat.com/ai/ai-moves-from-theory-to-practice-zero-trust-gets-real-and-other-2024-predictions-from-dell-cto/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: VentureBeat
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 868
         isCached: true
-  - title: "2024 predictions: How AI will impact everything in healthcare"
-    excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."
-    publishedDateTime: 2023-12-27T15:25:00Z
-    webUrl: "https://www.aol.com/2024-predictions-ai-impact-everything-162535208.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "xod0QbokLz4Ho26FlRfofFl1+CRvwA3aQ/LtzDKQ646LmCvkpGuHJGoeeUYYEUURkTAPYVgrr8xN3lAGw1mGzMt7+No26VVRwtcNbsV2iqowq35pLHgEQUQeUt9Ud6ZmS2pUJT6piXu3eynYLxkuDSSY16UhXndHTXYE9BRHfKs0WCkQinnezrHsvVSLPtAiSnLbaEtNZkurQ+7mXBE9kD2rrUMRmlYEhzwIrORgBSKXQA+E0/bYhca0Z/21FejQ2HOh9OGYjrTBiXYcRTtA8k8AHEYBLbQI+ybWMc66qdZh0aaND8CGsuovsHwVdxsXSHbS3K0OxDqB2SETwQD9FLIBLL8W8MQfrQNsmN4b/EiJxHLl5yGOtvWdS5ib9VpapuPkGN8aWAqNDtpxpEqIdyW9B2tM/Igthh2nfPDb7O9VIMSfhKVjL5ymwqXpdrRfO+4xRXcBkuMH4rbrXNTrTkW/kSA44LnI65V/Eq06R4UnbELPzskVpAzEfEtuxBmant5HM4IEU3OBF01j8icgbA==;RxwY4voQxc34MP25G/pwmg=="
 ---

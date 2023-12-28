@@ -98,20 +98,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Will 2024 be the year of chief AI officer?"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
-    publishedDateTime: 2023-12-23T11:22:00Z
-    webUrl: "https://invezz.com/news/2023/12/23/will-2024-be-the-year-of-chief-ai-officer/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/11/possessed-photography-jibmsms4-ka-unsplash-1-1024x737.jpg"
-        width: 1024
-        height: 737
-        isCached: true
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
@@ -177,6 +163,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "The next act for generative AI"
+    excerpt: "All the talk about generative AI reinventing internet search fizzled out after Microsoft’s AI-enabled Bing failed to disturb Google’s market dominance. Concerns about data security, intellectual property rights and generative AI’s dirty habit of “hallucinating” facts — or,"
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.ft.com/content/fe298a2f-4f64-4164-8aad-4fd60e1fcf46"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "Dult8RNPiyC9ApwY/h+I+h5bviEoPQACZl6iYZWI4o+uXRLmXNaGY1fqbjYPvSaIA801+paggF/782mEPwDDWP4Qp3ghcW00P4m3Vmt2U22+wzCk1vusaQVdX/I6p50+8VKcexC6w2U6VrvQCg65edAl5eyQJJlyj7r4bUuiXHpRJ8uxOUhNN6s6mogRJHxfW7dGCm3A5R4/qXl1PiACQS9yuUAofqiHfUfdd3Ns7/jH0WzkQEcWrwacoRhBXKyD9ukK+OKlP8qOCiyq433Oq6fFyEFQuRQaMl0bH/uXk54YXyM3ubLueA/ai9AMGdJ7fTpx6TbIy/ZmeqEc0KOEUHDggLxJC1a+cQLPPnnANHQ/Gm7WwMBFKJC+0J/hy4r3/DunVzJqiASb3hftUXhKAlYVkyGzlRcIxa6UoLbKtEJCHmRIz67o7y/VsY94EVYTE77zVonqAS2JcCS4Y5Px7B10mbUF8hTNiVPKzIQl903RH5uzJX/vE4FdOG4aCnaGaYXbqikJnolu0Buu3hqAYw==;3ak/f0qSPnfac6vw5H3wMQ=="
 ---

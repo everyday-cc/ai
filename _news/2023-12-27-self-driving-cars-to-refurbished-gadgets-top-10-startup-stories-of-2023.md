@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Top innovation, startup stories of 2023"
-    excerpt: "Bank collapses, funding crashes, new hubs arise and the focus on AI — oh my! Here are the top five stories in Boston’s startupland this year."
-    publishedDateTime: 2023-12-27T01:24:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2023/12/26/top-innovation-startup-stories-of-2023.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
-
 secured: "mQXSXlTQ8inrr4vsIYS58Ylbb1jG/7AGrunDo2HGXBrPthPnO/9hC7VxG85HjOy4nYfctXtrHqeNwgV7dIl9oWyvZlhwXv+404wUELGidZ4/ZbzSrw1nskiBDT2S7G5MJ+/Af201Qd89C68tqAoFoU5ZdArBj7d7w4MyXgiBKbURKFPAOqIjzWIlHoU56b8vAd0rtlRky8xpGGzja2Pu81OOY9UWwhh8tNuPcRuZ/0eFP4+gtqT1Sw6P/TfXaiMQPjjKkcdeYm7LRqrelB14K3ndEnrl5xK49KqRY4EBzEFKQER1XRRH0TGzqkoAUUBh6WcbD2lb1pBwiYEgGfFtfrL8Fni2oh5EWmIgHqEguBLifa+UGr5RzEhJzEin8chwClN1DnFqQBvDjkHuNh6AB9CeWLxnfmKSnJSWi1dJjUz00xsTp8NyrrmCWShr6/SSwC+O4bGifmg+F1Dh9E39H5d/+nu//FR06dfQOBitzVfrUJflxM522Op86nw9NK/oyfuENsfhJujSTdoomcSBMg==;7JvFjq6ZImRv5Lz8waHTgA=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 649
         isCached: true
-  - title: "2024 predictions: How AI will impact everything in healthcare"
-    excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."
-    publishedDateTime: 2023-12-27T15:25:00Z
-    webUrl: "https://www.aol.com/2024-predictions-ai-impact-everything-162535208.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
 
 secured: "GIzybItf6s2Gg3cye8FFhTXlxsixN9S+hV1jjj800SArRhVjlYlBq2CRRoXzaKJFns14lp0ApNzwFElDHACHvM0VfCev3s27K7pe5lBUaUpyDI7tPwnl3Byhdjb73PbE6nepO0Xi2WrOyPV1D+PaFJACAnddx8UAb6QMF8M7/vQTJ19YoFNLT+OUJzktRs2plKe2WG7Otx7rW5OOmvgOIFXeCvuMpQaeF6V1BdBi9olzJPBvGq61mNyRjTaDi0w7Juuvsh1XDZ6JXHZIi2fHTgAp/7n7PIXNwLZarEns0dZYJGYw0MI61+7dFKqLctSfnMSNBKdCZIqv10UOe746qXjzdnbQCZ1Xj4i9z9R3CAllYQgnKZSwieHPEWNNDquSYu+gBtpPyDNatMK7E2PaY6cq34q17exKYQrUbyT6ImRdObQvVHa4nb8OX/IzLfKczy1HB+W61NK6+3gMa/rFV3rSam12eyAQbjvqmoS7i5RkDfFJRFYbxjcTrhV0IWQ58Ij7U4w7bCCMWCCSNH5XqQ==;viEE2ewbgAG6sNWKz0KFvw=="
 ---

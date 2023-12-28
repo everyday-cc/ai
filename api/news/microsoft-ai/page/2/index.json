@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-14-azure-openai-service-powers-the-microsoft-copilot-ecosystem.md",
+      "title": "Azure OpenAI Service powers the Microsoft Copilot ecosystem",
+      "excerpt": "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/CLO20b_Avery_Quinn_casual_office_002-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-michael-cohen-lawyers-citing-of-fictional-case-raises-chatgpt-suspicions.md",
       "title": "Michael Cohen Lawyer's Citing of Fictional Case Raises ChatGPT Suspicions",
       "excerpt": "David M. Schwartz, who is representing Donald Trump's former fixer, is accused of using AI for research in legal filings.",
@@ -1338,40 +1390,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-adastra-launches-ai-innovation-centre-to-accelerate-ai-solution-development-and-adoption.md",
-      "title": "Adastra Launches AI Innovation Centre to Accelerate AI Solution Development and Adoption",
-      "excerpt": "With Adastra’s AI solution expertise, combined with Azure AI, Adastra strives to help organizations innovate and re-imagine business operations. With the power of Azure OpenAI Service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "originalUrl": "https://www.businesswire.com/news/home/20231206742033/en/Adastra-Launches-AI-Innovation-Centre-to-Accelerate-AI-Solution-Development-and-Adoption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T07:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

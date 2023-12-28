@@ -2,59 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-11-08-microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access.md",
-      "title": "Microsoft partners with VCs to give startups free AI chip access",
-      "excerpt": "Microsoft is launching a program that'll allow startups at partnered VCs, including Y Combinator and M12, to use Azure infrastructure to train AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
-      "originalUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-472556610.jpg?resize=1200,797",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/07/microsoft-partners-with-vcs-to-give-startups-free-ai-chip-access/amp/",
-      "publishedDateTime": "2023-11-07T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-11-07-risc-v-gains-momentum-as-eda-ai-chip-design-leader-announces-new-ip.md",
       "title": "RISC-V Gains Momentum As EDA & AI Chip Design Leader Announces New IP",
       "excerpt": "Another key value add for the ARC-V Processor IP is that the company’s Synopsys.ai full-stack AI-driven EDA software and ... time to market and ultimately fully optimized ARC-V-based chips and SoCs. In addition, the Synopsys MetaWare software development ...",
@@ -1326,6 +1273,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-25-centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently.md",
+      "title": "CentML lands $27M from Nvidia, others to make AI models run more efficiently",
+      "excerpt": "CentML, a startup building tools to enable AI models to run more efficiently on existing hardware, has raised $27 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "originalUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/25/centml-lands-27m-from-nvidia-others-to-make-ai-models-run-more-efficiently/amp/",
+      "publishedDateTime": "2023-10-25T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

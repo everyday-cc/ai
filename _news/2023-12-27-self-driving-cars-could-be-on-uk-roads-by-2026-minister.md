@@ -73,6 +73,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "I tested a self-driving car on the M25 and it's a total game-changer for UK roads"
+    excerpt: "The UK government hopes to have driverless cars on UK roads by 2026 but Ford is already offering a way to get from A to B hands-free."
+    publishedDateTime: 2023-12-28T11:05:00Z
+    webUrl: "https://www.express.co.uk/life-style/science-technology/1849732/Ford-Mustang-Mach-E-BlueCruise-self-driving-test"
+    ampWebUrl: "https://www.express.co.uk/life-style/science-technology/1849732/Ford-Mustang-Mach-E-BlueCruise-self-driving-test/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/science-technology/1849732/Ford-Mustang-Mach-E-BlueCruise-self-driving-test/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 39
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/59/590x/secondary/Mustang-Mach-E-BlueCruise-5134468.jpg?r=1703761495770"
+        width: 590
+        height: 354
+        isCached: true
   - title: "Self-driving cars on UK roads by 2026, says transport minister"
     excerpt: "Transport Minister Mark Harper announced that self-driving cars might be operational on some UK roads as early as 2026."
     publishedDateTime: 2023-12-27T12:54:00Z

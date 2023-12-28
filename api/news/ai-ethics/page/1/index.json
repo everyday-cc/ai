@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-28-6-biggest-ai-trends-to-watch-out-for-in-2024.md",
+      "title": "6 Biggest AI Trends To Watch Out For In 2024",
+      "excerpt": "Biggest AI Trends To Watch Out For In 2024. There's a higher possibility that the use of AI in fintech is going to increase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-in-edge-computing-cybersecurity-education-and-many-more-1703762154156",
+      "originalUrl": "https://www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-in-edge-computing-cybersecurity-education-and-many-more-1703762154156",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images1.zeebiz.com/images/ZB-EN/900x1600/2023/12/28/1703762589185_pexelsphoto5481257.jpeg",
+          "width": 506,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-in-edge-computing-cybersecurity-education-and-many-more-1703762154156",
+      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-in-edge-computing-cybersecurity-education-and-many-more-1703762154156",
+      "publishedDateTime": "2023-12-28T11:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zee Business",
+        "domain": "zeebiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution.md",
       "title": "5 stages of AI maturity in marketing: A blueprint for the marketing revolution",
       "excerpt": "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper",
@@ -1358,49 +1401,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai.md",
-      "title": "Calling for caution, PM flags need for ethics, democratic values in AI",
-      "excerpt": "India is negotiating with GPAI member countries for a consensus on a declaration document on the proper use of AI, the guardrails for the technology, and how it can be democratised.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
-      "originalUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/PM-Narendra-Modi-with-others-at-the-inaugural-ceremony-of-the-Global-Partnership-on-Artificial-Intelligence-Summit.-PTI.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/calling-for-caution-pm-flags-need-for-ethics-democratic-values-in-ai-9065718/lite/",
-      "publishedDateTime": "2023-12-12T22:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

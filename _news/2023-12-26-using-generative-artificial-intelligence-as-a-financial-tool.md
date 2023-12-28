@@ -110,20 +110,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Will 2024 be the year of chief AI officer?"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
-    publishedDateTime: 2023-12-23T11:22:00Z
-    webUrl: "https://invezz.com/news/2023/12/23/will-2024-be-the-year-of-chief-ai-officer/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/11/possessed-photography-jibmsms4-ka-unsplash-1-1024x737.jpg"
-        width: 1024
-        height: 737
-        isCached: true
   - title: "How This Startup is Making You Eat Healthy with Generative AI"
     excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
     publishedDateTime: 2023-12-27T09:39:00Z
@@ -175,6 +161,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "The next act for generative AI"
+    excerpt: "All the talk about generative AI reinventing internet search fizzled out after Microsoft’s AI-enabled Bing failed to disturb Google’s market dominance. Concerns about data security, intellectual property rights and generative AI’s dirty habit of “hallucinating” facts — or,"
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.ft.com/content/fe298a2f-4f64-4164-8aad-4fd60e1fcf46"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "3q+KTVTLkVJQvBG/kE0OZDN+Wcu4Kdm41VQLWzBcN3ZrSAKaZeEcHrWV5vyB5e+MkUZ7TIKlDDHXV9Bq6+85uL16o+5l0kk3CfwBeE10ppfCHDZ4kFXtv+GhHPy8ycwp2IxIno7P1I5RCcq7b/3FM8dxyS/PtOAA2um8ztpQPfK0r01AL77WAvbnzRn5DhgC72Vyx4g8aNPdkMuspiHoZ93WoJzQd43RK4GgAHQU1lvriYhx62HceOpXPoykWM55svJkzNG5UkVTbEqHa5ADcchzzVidKmSB2UJLJFZizkRCMqIFfLQst1VEKOWN/ECjHdBHHQMfDGuhamnzhMO+5eY1JSuXPLcu1idunuskxd4=;JALdQeKGgfsMomcOH1pU3g=="
 ---

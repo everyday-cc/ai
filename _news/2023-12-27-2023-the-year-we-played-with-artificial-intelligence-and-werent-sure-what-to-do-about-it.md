@@ -55,6 +55,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Microsoft says its AI is safe. So why does it keep slashing people’s throats?"
+    excerpt: "The AI Image Creator makes extremely violent images of Joe Biden, the pope and others. Microsoft’s failed response points the finger at rogue users."
+    publishedDateTime: 2023-12-28T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/12/28/microsoft-ai-bing-image-creator/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 51
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHIBWX5OWVBWFIZMQHZO4SENDQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "sZuPBa/fX2M0O3G6UEQk1Fu4FdeaYuBel3pttBO8cvd88zhPKvo44YPqLnZf412d564fD1XJSP3ShtG0arqdNHFglCkGort4xRKWEPJ7evPev9nTgfvB8kcJlPWlqGuJjhR0OXGJk6cvENuKJT30fLXlkdf5iiXJkgik0T/BGN9pM0DcKxPZsq6NdnU/aJ3+BoTUOhkkVPuRfWG4kAwTuuG/+NDAWY9OqERI5acnwGXh2yUqVViowB+hdr+H/vf2km2bhIIq+lI7/4+OOOxuG4xSpJsYAHrBc+SlU/YlVK77BA+WkewQuDQD8DNfBWqiTbcTql1i5FdH/iKpHv5s2rmhh9/CYMJuS5YAs3Z0kjNcegrRRItksueF2gV8gGgzpfiTNNmJvYA8jLWvV6ChHelPoa2qvOoSRAz+7V5ah1nLZsLdOCpwsHdGPUS+NXJv1oPhK2KkZp7qq/lbs1L9oftUI8yFLP6yEmfhopHcfWU2xAy0vVRqJV4OTMglCWbngMG0VMoxnF32dW6uJrVtpw==;RHTSypaYVStfi7u6JHWojA=="
 ---

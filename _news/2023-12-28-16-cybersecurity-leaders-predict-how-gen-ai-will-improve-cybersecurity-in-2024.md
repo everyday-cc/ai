@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-
 webUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: VentureBeat
@@ -28,19 +28,28 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Artificial Intelligence and Machine Learning in Gaming and Cyber Security"
-    excerpt: "Artificial intelligence (AI) and machine learning (ML) have become essential tools in the gaming and cybersecurity industries. As someone who has experience in developing machine learning models to identify fraudulent activity and maintain safety in online gaming environments,"
-    publishedDateTime: 2023-12-23T11:07:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security/"
+  - title: "2024 predictions: How AI will impact everything in healthcare"
+    excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."
+    publishedDateTime: 2023-12-27T15:25:00Z
+    webUrl: "https://www.aol.com/2024-predictions-ai-impact-everything-162535208.html"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 64
+      name: AOL
+      domain: aol.com
+    quality: 34
+  - title: "Cisco redefines cybersecurity defense with powerful, portfolio-wide Artificial Intelligence capabilities"
+    excerpt: "Cisco (NASDAQ: CSCO), the leader in enterprise networking and security, today unveiled the Cisco AI Assistant for Security. This marks a major step in making artificial intelligence (AI) pervasive in the Security Cloud,"
+    publishedDateTime: 2023-12-27T07:55:00Z
+    webUrl: "https://manilastandard.net/tech/314402607/cisco-redefines-cybersecurity-defense-with-powerful-portfolio-wide-artificial-intelligence-capabilities.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 20
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/1-73-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2023/12/Cisco-AI-Assistant-Security-Firewall_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Enhancing Cybersecurity: Unveiling the Crucial Role of Artificial Intelligence in Future Threat Detection"
     excerpt: "Introduction: In an era where digital landscapes are expanding at an unprecedented rate, the importance of cybersecurity cannot be overstated. As cyber threats evolve in complexity, traditional methods of defense fall short,"

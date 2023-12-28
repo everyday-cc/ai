@@ -2,6 +2,306 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-11-15-ai-leaders-us-commerce-secretary-unveil-startup-standards.md",
+      "title": "AI leaders, US commerce secretary unveil startup standards",
+      "excerpt": "Artificial intelligence industry leaders met with the U.S Secretary of Commerce in San Francisco Tuesday to nail down new responsible practice standards for AI startups and venture capitalists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/news/business/bay-area-ai-leaders-announce-new-responsibility-guidelines/article_db6cf78e-834a-11ee-950a-b7745323f534.html",
+      "originalUrl": "https://www.sfexaminer.com/news/business/bay-area-ai-leaders-announce-new-responsibility-guidelines/article_db6cf78e-834a-11ee-950a-b7745323f534.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/0f/20f8b960-0b93-5e13-88c3-94b8e801d0a4/6423322f3260b.image.jpg?resize=400%2C266",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T23:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-ethical-machine-learning-with-explainable-ai-and-impact-analysis.md",
+      "title": "Ethical Machine Learning with Explainable AI and Impact Analysis",
+      "excerpt": "These include a very popular integration of ChatGPT with Azure OpenAI and Cognitive Search ... Kesha Williams spoke about ethical machine learning at NDC Oslo 2023. In the pre-machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
+      "originalUrl": "https://www.infoq.com/news/2023/11/ethical-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T23:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-how-antisemitic-hate-groups-are-using-artificial-intelligence-in-the-wake-of-hamas-attacks.md",
+      "title": "How antisemitic hate groups are using artificial intelligence in the wake of Hamas attacks",
+      "excerpt": "Artificial intelligence, real hate Users of the notorious hate-filled, far-right online forum 4chan quickly began celebrating the October 7 attack, in what Memetica describes as “convergence of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "originalUrl": "https://www.cnn.com/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231114181622-torn-kidnapped-poster-nyu-102523.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/11/14/us/hamas-israel-artificial-intelligence-hate-groups-invs/index.html",
+      "publishedDateTime": "2023-11-14T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-google-deepminds-ai-forecasting-is-outperforming-the-gold-standard-model.md",
+      "title": "Google DeepMind’s AI forecasting is outperforming the ‘gold standard’ model",
+      "excerpt": "Designed by Google DeepMind, GraphCast's 10-day forecast is outperforming the leading industry model at a fraction of the energy cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/environment/ai-weather-forecast-graphcast/",
+      "originalUrl": "https://www.popsci.com/environment/ai-weather-forecast-graphcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T22:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-new-robot-control-system-unveiled.md",
+      "title": "New robot control system unveiled",
+      "excerpt": "In order to make life more convenient and easier, an advanced robot control system has become an indispensable part of the AI age. The team with AIQI Technology is dedicated to applying cutting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202311/14/WS655378c8a31090682a5ee1fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-mufg-inks-multi-year-deal-with-aws.md",
+      "title": "MUFG inks multi-year deal with AWS",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), today announced that Mitsubishi UFJ Financial Group (MUFG), Japan’s largest financial services provider, is accelerating its cloud-first strategy with AWS as its preferred cloud provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
+      "originalUrl": "https://www.finextra.com/pressarticle/98782/mufg-inks-multi-year-deal-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.md",
+      "title": "Nvidia unveils new GPU-based platform to fuel generative AI performance",
+      "excerpt": "The new Nvidia HGX H200 has been designed to support the high performance computing workloads required to train generative AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "originalUrl": "https://www.networkworld.com/article/1247056/nvidia-unveils-new-gpu-based-platform-to-fuel-generative-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-15-is-edge-to-cloud-the-future-of-facial-recognition-systems.md",
+      "title": "Is edge-to-cloud the future of facial recognition systems?",
+      "excerpt": "Businesses have a need for applications that must operate in remote far-edge locations, where the installation of lengthy fiber connections is impractical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
+      "originalUrl": "https://www.biometricupdate.com/202311/is-edge-to-cloud-the-future-of-facial-recognition-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-14T20:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-15-caton-media-xstream-successfully-completes-the-aws-foundational-technical-review-and-becomes-aws-managed-service-provider-partner.md",
       "title": "Caton Media XStream successfully completes the AWS Foundational Technical Review and becomes AWS Managed Service Provider Partner",
       "excerpt": "Organization offers IP transmission globally with extreme reliability over the public internet, technology transformation and an elevated user experience",
@@ -619,314 +919,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-google-deepminds-weather-ai-can-forecast-extreme-weather-faster-and-more-accurately.md",
-      "title": "Google DeepMind’s weather AI can forecast extreme weather faster and more accurately",
-      "excerpt": "It said Hurricane Lee would make landfall in Nova Scotia three days sooner than traditional methods predicted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/14/1083366/google-deepminds-weather-ai-can-forecast-extreme-weather-quicker-and-more-accurately/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-leveraging-artificial-intelligence-and-health-care-data.md",
-      "title": "Leveraging artificial intelligence and health care data",
-      "excerpt": "It was a question that has long held sway in public consciousness, and there’s no doubt that attention on artificial intelligence has reached a fever pitch in 2023. But what’s hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/levaraging-ai-health-care/",
-      "originalUrl": "https://www.statnews.com/levaraging-ai-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation.md",
-      "title": "MUFG Inks Multiyear Global Agreement With AWS To Accelerate Digital Transformation",
-      "excerpt": "Amazon Web Services or AWS, an Amazon.com company (AMZN), announced Tuesday that Japanese financial services provider Mitsubishi UFJ",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mufg-inks-multiyear-global-agreement-with-aws-to-accelerate-digital-transformation-1032818091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection.md",
-      "title": "From Data To Diagnosis: A Deep Learning Approach To Glaucoma Detection",
-      "excerpt": "However, using artificial intelligence (AI) and deep learning (DL) algorithms in healthcare can improve the diagnosis and screening of glaucoma. How is Artificial Intelligence Used For Diagnosis of Eye Problems? In their recent article, a team from Nanjing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/11/14/from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection/",
-      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/11/14/from-data-to-diagnosis-a-deep-learning-approach-to-glaucoma-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption.md",
-      "title": "WhyLabs Announces Strategic Collaboration Agreement with AWS to Accelerate Responsible Generative AI Adoption",
-      "excerpt": "WhyLabs, Inc., the AI Observability company, today announced a Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to help enterprises accelerate the development of AI-powered applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/whylabs-announces-strategic-collaboration-agreement-with-aws-to-accelerate-responsible-generative-ai-adoption/article_f4bb4cb7-7ebd-5c43-b4fc-811fdaa40563.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m.md",
-      "title": "AI-enhanced enhanced security operations solutions startup Radiant Security raises $15M",
-      "excerpt": "Artificial intelligence-enhanced security operations solutions startup Radiant Security Inc. today announced that it has raised $15 million in new funding for additional research and development.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
-      "originalUrl": "https://siliconangle.com/2023/11/14/ai-enhanced-enhanced-security-operations-solutions-startup-radiant-security-raises-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/radiantsecurity.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-starting-holiday-shopping-early-use-amazons-buy-with-prime-to-score-benefits.md",
-      "title": "Starting holiday shopping early? Use Amazon's Buy with Prime to score benefits.",
-      "excerpt": "Amazon is extending its Prime benefits to users interested in shopping on a retailer's website but getting Prime benefits through an expanded program. Amazon’s Buy with Prime launched earlier ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "originalUrl": "https://www.usatoday.com/story/money/retail/2023/11/14/amazon-buy-with-prime-expands/71487256007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-why-artificial-intelligence-hasnt-mastered-meditation-yet.md",
-      "title": "Why Artificial Intelligence Hasn’t Mastered Meditation… Yet",
-      "excerpt": "I got a solid A, thank you very much! I wrote about the dangers of unchecked development of artificial intelligence long before it was a “thing.” Nowadays, it seems not only possible, but likely, that AI will become as intelligent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/momentology/202311/why-artificial-intelligence-hasnt-mastered-meditation-yet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

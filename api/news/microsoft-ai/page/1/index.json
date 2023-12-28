@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-28-baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto.md",
+      "title": "Baidu's ChatGPT-Like Ernie Bot Has More Than 100 Million Users -CTO",
+      "excerpt": "BEIJING (Reuters) - Baidu's ChatGPT-like Ernie Bot has garnered more than 100 million users, chief technology officer of the Chinese internet company Wang Haifeng said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T10:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
       "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
       "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -158,7 +201,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1436,58 +1479,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-azure-openai-service-powers-the-microsoft-copilot-ecosystem.md",
-      "title": "Azure OpenAI Service powers the Microsoft Copilot ecosystem",
-      "excerpt": "Copilot—powered by Microsoft Azure OpenAI Service—allows you to simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge.\nThe post Azure OpenAI Service powers the Microsoft Copilot ecosystem appeared first on Microsoft Azure Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-openai-service-powers-the-microsoft-copilot-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/CLO20b_Avery_Quinn_casual_office_002-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

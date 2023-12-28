@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft says its AI is safe. So why does it keep slashing people’s throats?"
+    excerpt: "The AI Image Creator makes extremely violent images of Joe Biden, the pope and others. Microsoft’s failed response points the finger at rogue users."
+    publishedDateTime: 2023-12-28T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/12/28/microsoft-ai-bing-image-creator/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 51
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHIBWX5OWVBWFIZMQHZO4SENDQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
     excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
     publishedDateTime: 2023-12-27T10:29:00Z

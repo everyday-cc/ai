@@ -7,7 +7,7 @@ originalUrl: "https://www.counterpunch.org/2023/12/28/the-corporate-university-i
 webUrl: "https://www.counterpunch.org/2023/12/28/the-corporate-university-in-the-age-of-artificial-intelligence/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,70 @@ images:
     width: 1480
     height: 978
     isCached: true
+
+related:
+  - title: "Navigate The Promises And Risks Of AI-Assisted Coding"
+    excerpt: "AI-assisted coding today is imprecise and error-prone. A 2023 study found that popular AI assistants only generate correct code between 31.1% and 65.2% of the cases. A human developer shipping code of such low quality would have a hard time keeping their job, so why do we accept such a low performance rate when it comes to AI?"
+    publishedDateTime: 2023-12-28T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62dae46f55a065951d9391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Wary courts confront AI pitfalls as 2024 promises"
+    excerpt: "Generative artificial intelligence technology made its mark on the world in 2023, and courts of law were no exception."
+    publishedDateTime: 2023-12-27T10:02:00Z
+    webUrl: "https://www.reuters.com/legal/transactional/wary-courts-confront-ai-pitfalls-2024-promises-2023-12-27/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Thought for the Week: The rise of Artificial Intelligence and God"
+    excerpt: "Artificial Intelligence is something we are hearing more and more about. After the industrial revolution and the internet,"
+    publishedDateTime: 2023-12-27T16:28:00Z
+    webUrl: "https://www.largsandmillportnews.com/news/24013580.thought-week-rise-artificial-intelligence-god/"
+    type: article
+    provider:
+      name: Largs and Millport Weekly News
+      domain: largsandmillportnews.com
+    quality: 39
+    images:
+      - url: "https://www.largsandmillportnews.com/resources/images/17562120/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "EU Seeks to Reduce the Risks for Artificial Intelligence"
+    excerpt: "The proposed legislation is intended to ensure that AI is safe in Europe, that basic rights and democracy are respected, and that companies derive the maximum benefit from the technology."
+    publishedDateTime: 2023-12-27T09:56:00Z
+    webUrl: "https://www.medscape.com/viewarticle/eu-seeks-reduce-risks-artificial-intelligence-2023a1000wp7"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/shs_231226_artificial_intelligence_brain_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Artificial intelligence promises to transform diagnosis of heart disease"
+    excerpt: "In 15 seconds, the Eko stethoscope can detect three types of heart disease: heart failure, which accounts for up to 4 per cent of the annual budget of the NHS; atrial fibrillation or irregular heartbeat, which is the biggest cause of stroke; and valvular heart disease."
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.ft.com/content/a7b87a58-0b0d-41f0-912c-f8c778c83059"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "h0mKiCfnEXI3x2YJoB7l92zZWIHJu+fdaqIlyoh5JM6KT2PMe5o1Z/tl52cltaN4zts1MRnpt8tPpAbKXoKsJ6DfAMTk26uFFA30JVA9ZJ73ak45jT0sjwXjkczpjmIBOzzY9WpLHti9QY6S9tCGWOlwl/bbkF0Hy1Df+T9wNJaXy93iRKxMY7AtJ24HVZOVL5SXqjaJRtBeaeHtZT30zqpt2iUPvR8xDOnQlxV/e1v1je5PATpa8YXPLKira4LOQ25dQm1N8ycmOR3QPAJ7fynxgOoNti9cO3o5EHram9hNHAR+euZF/999RsvHvsCfmcvHMw3OCiBod+VFYKfMzynEaxZK6zyc5nA4dhhTAVH1FuyQ7CEtLvCd9RfwIFvMvpVoYOpSQAh8BujzmZGPL4xdmYeSyJKNQ1/vWwma/8grun6XPp47eoDeAHRiBQ5YvzsbOyczAUbK4YGEOuZ238QApanUL2nwfj+t7I8v/CLa+4Bl8lrgDjucdBE63R8DzvZ4K02xUGtFyjpaJWKLFQ==;A0nBuRJJBGji9aQ4G/zyog=="
 ---

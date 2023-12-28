@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-14-biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research.md",
+      "title": "BioStrand® Unveils a Revolutionary Approach to Biological Sequence Retrieval: A Fusion of Natural Language Processing and Database Research",
+      "excerpt": "“New Paradigm for Biological Sequence Retrieval Inspired by Natural Language Processing and Database Research” on bioRχiv. We apologize, but this video has failed to load. Try refreshing your browser, or tap here to see other videos from our tea",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
+      "originalUrl": "https://financialpost.com/pmn/business-wire-news-releases-pmn/biostrand-unveils-a-revolutionary-approach-to-biological-sequence-retrieval-a-fusion-of-natural-language-processing-and-database-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-14-cook-welcoming-remarks-at-the-5th-annual-conference-on-nontraditional-data-machine-learning-and-natural-language-processing-in.md",
       "title": "Cook: Welcoming Remarks at the 5th Annual Conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in",
       "excerpt": "Good morning, and welcome to the 5th annual conference on \"Nontraditional Data, Machine Learning, and Natural Language Processing in Macroeconomics.\"1 In a world with evolving data sources and significant advances in computing,",
@@ -1220,49 +1254,6 @@
         "name": "Slator",
         "domain": "slator.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-31-the-safety-of-openais-gpt-4-gets-lost-in-translation.md",
-      "title": "The safety of OpenAI's GPT-4 gets lost in translation",
-      "excerpt": "By translating \"unsafe\" commands first into Zulu and other under-represented languages, Brown scholars coerced GPT-4 into breaking its guardrails.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
-      "originalUrl": "https://www.zdnet.com/article/the-safety-of-openais-gpt-4-is-lost-in-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-31T09:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

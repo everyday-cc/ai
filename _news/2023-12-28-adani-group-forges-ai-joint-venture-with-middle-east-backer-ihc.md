@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership"
+    excerpt: "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations."
+    publishedDateTime: 2023-12-28T10:41:00Z
+    webUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/"
+    ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 59
+    images:
+      - url: "https://coingape.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Adani Group steps into AI joint venture with West Asia backer IHC"
     excerpt: "Adani Global Ltd. and IHC's Sirius International Holding Ltd. will own 49% and 51% respectively in the Sirius Digitech International Ltd., which will be based in Abu Dhabi"
     publishedDateTime: 2023-12-28T10:14:00Z

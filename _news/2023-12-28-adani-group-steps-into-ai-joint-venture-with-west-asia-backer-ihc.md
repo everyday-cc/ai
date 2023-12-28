@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/companies/news/adani-group-ste
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/adani-group-steps-into-ai-joint-venture-with-west-asia-backer-ihc-123122800605_1.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership"
+    excerpt: "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations."
+    publishedDateTime: 2023-12-28T10:41:00Z
+    webUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/"
+    ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 59
+    images:
+      - url: "https://coingape.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Adani Group forges AI joint venture with Middle East backer IHC"
     excerpt: "THE Adani Group, led by Gautam Adani, has formed a joint venture (JV) with a unit of the United Arab Emirates’ International Holding Co (IHC) to explore artificial intelligence (AI) and other technologies,"
     publishedDateTime: 2023-12-28T10:02:00Z

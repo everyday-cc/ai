@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/data-infrastructure/11-data-predictions-fo
 webUrl: "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/"
 type: article
 quality: 69
-heat: 83
+heat: 84
 published: true
 
 provider:

@@ -104,20 +104,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Will 2024 be the year of chief AI officer?"
-    excerpt: "If 2023 was the year that AI broke out, 2024 may be the year it’s reeled in. The rapid advancement of AI tech has been both awe-inspiring and concerning."
-    publishedDateTime: 2023-12-23T11:22:00Z
-    webUrl: "https://invezz.com/news/2023/12/23/will-2024-be-the-year-of-chief-ai-officer/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 39
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/11/possessed-photography-jibmsms4-ka-unsplash-1-1024x737.jpg"
-        width: 1024
-        height: 737
-        isCached: true
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z
@@ -174,6 +160,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The next act for generative AI"
+    excerpt: "All the talk about generative AI reinventing internet search fizzled out after Microsoft’s AI-enabled Bing failed to disturb Google’s market dominance. Concerns about data security, intellectual property rights and generative AI’s dirty habit of “hallucinating” facts — or,"
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.ft.com/content/fe298a2f-4f64-4164-8aad-4fd60e1fcf46"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "Aed/vUwXGnSyS3l4rO4FZ5crgrKwPk5mUzYS8gPl7zsN7Mvqsu5vHQDE6LqYEs5LxZYgjdQmbxMwv4LNYv6QloHf/2RZo8VQIMCWZtV2/vsY2qZiN9LP0ir3fC8+uY3t7JrmvBnTG8x8U1INjtQcSDXEekJ1ijTFEgbxTOlWZqaxWJZNQUlZQDyVPEaeqPegynvKp98Lb91bCwPxWBo5AD1mXyQsIKxknvIgfy3RdXn4dJSvbj+VzOMkw3O4HSDcR8kYKY9nTZxL2AcylM4XcFifc7BCzUeVKcSSF9lhihJlc7srpkK+VGTVrlPpd3zq1gApIxSmzAuZ+TOPGNlKEWyJFy6WUoNEjtWUN4CTh/d7ZLDBHyk15idNSGoRwZJAtuJTD311IyUr05pPfj4+ZAf+2U3caG61d0RNghqQTf0a261aKv7g/5zEj6y7y+qmuVpsb9RUalbkY4Ntndw0PFYMY4c5IwMW9RQlJLUxUv+jcuqY4Lbouh0YpIv3jojQHQL7gwdEuSnP9tD8IP73xQ==;OSIfGAtMBqtfS3rmqKEHrw=="
 ---
