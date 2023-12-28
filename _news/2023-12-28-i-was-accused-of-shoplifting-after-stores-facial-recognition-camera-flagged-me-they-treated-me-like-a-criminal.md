@@ -1,27 +1,27 @@
 ---
 category: news
 title: "I was accused of SHOPLIFTING after store’s ‘facial recognition camera’ flagged me – they treated me like a criminal"
-excerpt: "A SUBURBAN mum has been accused of shoplifting after a \"facial recognition technology\" trial failed. Tracey Sturgess, from Melbourne, said that staff in her local Kmart labelled her a thief when she attempted to return two unworn jumpers. Tracey said that ..."
-publishedDateTime: 2023-12-27T18:13:00Z
-originalUrl: "https://www.thesun.ie/news/11913284/accused-shoplifting-facial-recognition-camera-criminal/"
-webUrl: "https://www.thesun.ie/news/11913284/accused-shoplifting-facial-recognition-camera-criminal/"
+excerpt: "A SUBURBAN mum has been accused of shoplifting after a “facial recognition technology” trial failed. Tracey Sturgess, from Melbourne, said that staff in her local Kmart labelled her a"
+publishedDateTime: 2023-12-27T20:11:00Z
+originalUrl: "https://www.thesun.co.uk/news/25175793/accused-shoplifting-facial-recognition-camera-criminal/"
+webUrl: "https://www.thesun.co.uk/news/25175793/accused-shoplifting-facial-recognition-camera-criminal/"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Irish Sun
-  domain: thesun.ie
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/image-1251.png?strip=all&quality=100&w=800&h=450&crop=1"
-    width: 800
-    height: 450
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/newspress-collage-u2bezhcl2-1703711445521.jpg?1703711459&strip=all&quality=100&w=1920&h=1080&crop=1"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "I2HPrjqyl3aF7d1Q5dqy56m5d8L2D/mvn3wepor0deQv6HAAi/BVRqjM5NCUMRrB9zDxcYC2p0u2F1gge+iTTGMxBGw0aFvrOiqdz19nZDit/WjUpHhA3zBGpW8PMeEWrSKZLQznrs8YhusY2bMDJ0pHwtI7xJWXej3oPoyO6puDs7fwGzO5r4a9Q6DxfkpgZKL3Rp0A88OPLX/b2cDLd41jnl82XqJ7+UvZ+8QEeW/+Cw7ahDxR6fwJ5MLOALdCsrASIq6EqKnXdRjsJ8CL3vWs7UM3vZMTOv/aI75FQYq3fd7qUQS9r+IbKquWTlMRL9Q6TsZwAJYLRWOrJFz1nbo6uV5AJKjxQwtOaK7KXM+5AO8LrjylPIsk30UdCxUROBKayzQtbnHIBdal4PPIc15GGJYm1F38xfkpMQU+7eY7j54bTo1CYZh0u/eVWF1OQdzWhwc4tXAU5pvSq8vlzuSGyUUi3glaJfX60KCZRBLHs7lI/AOWfA3A8dobGy3awyp923TRUU1ktRPJAemdqA==;nQasoKFU6Wn4pAL2hUYTww=="
+secured: "gDZfhs0WAsruNVN3OKGQAFbzkVL03nnrIqhl5JTTz/5yWl9PtjBk4hT9BMdYEXnDdQX12ljaZhc+o7pSIxsoc6GgMYfiAO6M2YCBX2uaCX+dotQ0UxMo3/E9QFtBiODCoM8oE0AXcWUDGy87+4TGKyQT52iYC/5nq+n58BRWNOoeoZ/fkFYHNchr7cRy+cJlB9T8QGbb3KXDPva+cC3JWZlmYMZCbWIdAkEqF6bmwsbQVo7M6s7Av3NZbl4YhtEQsG/IVSyUaHgc3lIYc/L0Qb2dSlvSINIdn5ihiPzDnxpj4OtIbJmLip9+zSN1BixLnMIqgjkSeOi/UzZ7kAc9vnLjJ4tvXIBB+XqJ7ki7h+4=;ZSk8OGQvpeXd9yR79jl3Fg=="
 ---
 

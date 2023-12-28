@@ -151,6 +151,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "2023 Was The Year Of Generative AI Speculation. What Did We Learn?"
+    excerpt: "Law.com Pro Mid Market compiled the most significant insights we learned this year on the emerging use of AI at law firms."
+    publishedDateTime: 2023-12-27T23:29:00Z
+    webUrl: "https://www.law.com/pro-mid-market/2023/12/27/2023-was-the-year-of-generative-ai-speculation-what-did-we-learn/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Vertiv: Further Upside Possible, Driven By Generative AI"
     excerpt: "Vertiv has also been beating competitors in the pace at which it is gaining market share. Learn why I believe VRT deserves better valuations."
     publishedDateTime: 2023-12-27T11:42:00Z

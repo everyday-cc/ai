@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s.abcnews.com/images/Business/wirestory_565ff5b817b5db0d4e74829ae3d68611_16x9_992.jpg"

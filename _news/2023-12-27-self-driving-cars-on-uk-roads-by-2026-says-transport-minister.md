@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
+    excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
+    publishedDateTime: 2023-12-27T20:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_491_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=9b90c89cc0d2ce9c0b56866b092f61bf"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Self-driving cars could be on UK roads by 2026: Minister"
     excerpt: "LONDON: Self-driving cars could be on some British roads by 2026, the country's transport minister Mark Harper said on Wednesday (Dec 27). Cars with full self-driving technology are not currently perm"
     publishedDateTime: 2023-12-27T09:15:00Z
@@ -124,6 +140,6 @@ related:
       domain: sky.com
     quality: 1
 
-secured: "xMp9XjiNgpcRsvqSiEyLK8bglrVWr9Db5NZRXCBeg8nRz8mNRIhLMtTyjSkW/AUva3XVgm9BCXw1l2RLUo/upJ2eNqHcfOmWXKb62KYi/6J3sxoYDJpWtYawOOM40LY7sLg3jsUCyK0IMesI+imvXmTg5gee1PMYI+Zmtxe+NWxrnzhbu7nmPt1Hg1YBwkInUVRLPJOtWIrRuZym0kwo7/AG9BGUWstaL/MYIj7lkXngcr5Y/lJ/+/hGUnDeqnSFpgpB45wy0j142H7GlZ5L9tqNxoh1hLAEsyqXYqhKGNFezMM/RR0aJlSOmrFnAb6vUgMNPPNpPVZWYdPIw3Ez+ZwYPqf+DKVaVIGdox1v0+A=;T9Qg4nvqro+WlQ2V/sGfmA=="
+secured: "MPbCRzTz8mq0DUSp2zVVYRD5wCRWiiuYX4s4SvE57783gLQe6iEm9HVey6FFZCoFYJQJVAc0RxE35tkEnNyREtHl/ZyGMc2IgGzKjHvXJ0zTDw1zcwpZ0itsVd321rx4pQBEY1VDSJLDxNR/hdcZlyZxokwZHzvEZb/TijC1BmiseY8+GpYtKX9pa5yT4a7pmwyf4F4lFKxQSIg9PtkbgrqaI53kJQoXdwic8Lhfe1Ky7VqUg+NyDtVqs2yW2YDx6EokuX42bSSPh8/yb4dRwvPocbQHS2OfJU60FWMkL2ZwmPG2kwzjE3yApzoVAfe0BEwhEwZzDkCx3hBRErvgK7zdUee4nOitt3bd+IfzZ0ft7dFLmHDcJlVivRnKJTXA8lv/br8IJpkeeDvsupIXIt4akMVkWThCBWj0kGyus7rPA9fZNp8n/hPFqzglNVO+MQ1gY7QNh1j3ExadNGfAJZGkvsG2jqDryEmqkamPw3qpQO9phY73KeYkro/SjTuK9Ew8Ui3MlXH5LBBL0C52Ow==;6d3gQ1qSzNt1xousKhYD4A=="
 ---
 

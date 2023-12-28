@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Advancements Transforming Industries and Lives"
+    excerpt: "Numerous groundbreaking developments in AI have surfaced in fields such as healthcare, autonomous vehicles, manufacturing, education & more."
+    publishedDateTime: 2023-12-27T23:09:00Z
+    webUrl: "https://www.dmnews.com/ai-advancements-transforming-industries-and-lives/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Transforming-Industries.jpg"
+        width: 1000
+        height: 571
+        isCached: true
   - title: "AI to give fillip to new industrial revolution"
     excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
     publishedDateTime: 2023-12-27T01:58:00Z

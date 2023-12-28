@@ -43,6 +43,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2026, says transport secretary"
+    excerpt: "Mark Harper says vehicles can improve road safety and personal freedom, as autonomous cars face increased scrutiny"
+    publishedDateTime: 2023-12-27T20:07:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/27/self-driving-cars-could-be-on-uk-roads-by-2026-says-transport-secretary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/6872dbfb2108083b1d593c09bd11d484cd445cea/0_491_8000_4802/master/8000.jpg?width=620&quality=85&auto=format&fit=max&s=9b90c89cc0d2ce9c0b56866b092f61bf"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Self-driving cars could be on UK roads by 2026: Minister"
     excerpt: "LONDON: Self-driving cars could be on some British roads by 2026, the country's transport minister Mark Harper said on Wednesday (Dec 27). Cars with full self-driving technology are not currently perm"
     publishedDateTime: 2023-12-27T09:15:00Z

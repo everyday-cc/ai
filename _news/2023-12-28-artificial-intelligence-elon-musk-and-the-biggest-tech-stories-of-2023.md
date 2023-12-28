@@ -1,0 +1,44 @@
+---
+category: news
+title: "Artificial intelligence, Elon Musk and the biggest tech stories of 2023"
+excerpt: "From the rise of artificial intelligence to Elon Musk's rebranding of Twitter, 2023 saw major changes in the tech industry. CBS News senior business and tech correspondent Jo Ling Kent joins to look back at the year in tech -- and to discuss where the industry is headed in 2024."
+publishedDateTime: 2023-12-28T00:42:00Z
+originalUrl: "https://www.cbsnews.com/video/ai-elon-musk-2023-biggest-tech-stories/"
+webUrl: "https://www.cbsnews.com/video/ai-elon-musk-2023-biggest-tech-stories/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: CBS News
+  domain: cbsnews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/28/6f57bfa9-5652-4142-bf76-2905cd0dd9cd/thumbnail/1200x630/dd7a8981a3ae8437639ca82c06083877/cbsn-fusion-ai-elon-musk-2023-biggest-tech-stories-thumbnail.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI, aliens and giant poo piles: Weirdest science stories of 2023"
+    excerpt: "The flamboyant patterns are designed to scramble AI object recognition algorithms, so they write off the wearer as a giraffe or a zebra and don’t bother running the facial recognition systems increasingly creeping into public spaces. It’s pretty pricey ..."
+    publishedDateTime: 2023-12-26T12:00:00Z
+    webUrl: "https://newatlas.com/science/weird-strange-science-stories-2023/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/a921227/2147483647/strip/true/crop/2000x1050+0+143/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F72%2Ff4%2Fbf1066c54d90b8863ab6912154b2%2Fdepositphotos-54752219-l-2015.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "BSdPbajuNqn0p6bELTnQM5Yb6JYQzbzFG3th0rFVQgpTvYQT6UQQN8+Y2DcOkfse9Q64/rTSzLK8KQrrPUSo8VJEqPNeh/85er/MyrLOSqUMQUcWmk9v5IkMSN2qX5Ew/AWmt+awVl7Oa2cNzBtCE4U9F+1gISrG/Rv9K+3ZooGS5Jv1ia0aSG9H0xBlqa8kWDIGy/oyeTtkdhGxDcQL0m+25sKWKT0krX90/VZkPuw4TII5OkpxfKPyaYe54Nj8XHJIm2P/OLrptnQ7Oq7jXRDQmszBWFcVeJaubbSSfzICSg8z9KH2A8l3N2cIqsDZVkjLGDyI2YAurACTS+sIqHtYqDVPUxfenLL96KVS4IY=;JKSjbX4J+rAw0lH4ORPa9w=="
+---
+

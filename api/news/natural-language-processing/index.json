@@ -256,58 +256,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-24-humane-ais-699-wearable-will-start-shipping-in-march.md",
-      "title": "Humane AI's $699 Wearable Will Start Shipping in March",
-      "excerpt": "The Humane AI Pin is expected to start shipping in March. On Friday, the company posted a tweet on Twitter/X indicating plans to start shipping the device early next year.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/wearables/103203/humane-ais-699-wearable-will-start-shipping-in-march",
-      "originalUrl": "https://au.pcmag.com/wearables/103203/humane-ais-699-wearable-will-start-shipping-in-march",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/humane-ais/humane-ais-699-wearable-will-start-shipping-in-march_vuhk.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-23T16:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-23-persona-ai-wins-first-place-in-genai-solution-competition-2023.md",
       "title": "PERSONA AI Wins First place in GenAI Solution Competition 2023",
       "excerpt": "SEOUL, KOREA, Dec. 22, 2023 (GLOBE NEWSWIRE) -- Recently, PERSONA AI ( https://personaai.co.kr/) has won the 1st place in GenAI Solution Competition 2023.",
@@ -926,6 +874,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-14-wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation.md",
+      "title": "Wondershare Virbo Unveils AI-Powered Video Translator: Bridging Language Divides with Innovation",
+      "excerpt": "The latest update from Wondershare Virbo introduces the highly-anticipated AI video translation feature. This advanced tool equips users with the capability to effortlessly translate marketing videos into various languages while preserving the authenticity ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2300977/Wondershare_Virbo_AI_Video_Translator_Voice_Cloning.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T03:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-how-ai-is-impacting-society-and-shaping-the-future.md",
       "title": "How AI Is Impacting Society And Shaping The Future",
       "excerpt": "As the dawn of artificial intelligence (AI) transforms industries and societies, we've engaged with visionary founders who are leading the charge.",
@@ -990,49 +990,6 @@
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation.md",
-      "title": "Wondershare Virbo Unveils AI-Powered Video Translator: Bridging Language Divides with Innovation",
-      "excerpt": "Translate videos into over 20+ languages with lip sync and voice cloning. Edit and proofread scripts, and auto-generate subtitles. 300+ AI Avatars: Up to 300+ AI avatars from various countries and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html",
-      "originalUrl": "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/e7/ee771f62-8b87-54c1-9f75-a464cc01265c/657ac4559ccb4.image.jpg?crop=1487%2C781%2C0%2C28&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1428,6 +1385,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-human-brain-cells-hooked-up-to-a-chip-can-do-speech-recognition.md",
+      "title": "Human brain cells hooked up to a chip can do speech recognition",
+      "excerpt": "Brain organoids, clumps of human brain cells grown in a dish, can be hooked up to an electronic chip and carry out simple computational tasks, a new study shows. Feng Guo and his",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
+      "originalUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/organoid-compute2.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/amp/",
+      "publishedDateTime": "2023-12-11T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

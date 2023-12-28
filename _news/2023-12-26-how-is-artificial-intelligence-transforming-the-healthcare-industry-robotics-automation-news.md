@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Trans
 webUrl: "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/658af10d6576b2001e837f6c-gettyimages1473350489.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Advancements Transforming Industries and Lives"
+    excerpt: "Numerous groundbreaking developments in AI have surfaced in fields such as healthcare, autonomous vehicles, manufacturing, education & more."
+    publishedDateTime: 2023-12-27T23:09:00Z
+    webUrl: "https://www.dmnews.com/ai-advancements-transforming-industries-and-lives/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Transforming-Industries.jpg"
+        width: 1000
+        height: 571
         isCached: true
   - title: "AI to give fillip to new industrial revolution"
     excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."

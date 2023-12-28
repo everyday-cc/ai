@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

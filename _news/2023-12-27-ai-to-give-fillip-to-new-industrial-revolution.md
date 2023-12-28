@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Advancements Transforming Industries and Lives"
+    excerpt: "Numerous groundbreaking developments in AI have surfaced in fields such as healthcare, autonomous vehicles, manufacturing, education & more."
+    publishedDateTime: 2023-12-27T23:09:00Z
+    webUrl: "https://www.dmnews.com/ai-advancements-transforming-industries-and-lives/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Transforming-Industries.jpg"
+        width: 1000
+        height: 571
+        isCached: true
 
 secured: "SRiLNUfIr2XdIF0Yb3zgRUE2ad3cw44GqdJVVMYT7WN61X2mB6Z6fqZtGztm70XH8tbVFjg0CxH2HoajBD9myg64XjLauQj3e73+FZ0rolBz3bxIQ+Cu9WJYSwM9DaexH+rzxxep8TCfJ+x90Jgd6aOm2AKBV2cK7J6G4ZEkPXFF+VjudETMwQouZ+VjRBPy0mA1rw8+0DY2wMdlUfNhdChZQaMmdMyDvbt4qQf9RhOC1yDMBwnQnhmQAO7LFr9eEeqgMPZ4VsbsegJ+quFOErZTTQFZjIENOBibGagojUDJ2k5l5VzdbRUeDBrMUE3MMpCu5ZkQV4BW5Nlr8j0s91/C/h+ldIDDSfdp0lerbJ6ueYhU3zYa2oSTw2KYimJKNTh/0RguYs4FrXWHYaJm0KdZS56ixe14nOXXqDuHwkvh8mgaOK/BzWuHD+e4frIGbVfBSc3MFe6GHlrH2q2b87KSs5M8e1gOMWAP3hGylVzPBoCZp+UxMP32agxRaBI2HHz8IRgCdzGCbB8w83LqlQ==;ZcPU0rfjc82WmHZxvK0fmQ=="
 ---

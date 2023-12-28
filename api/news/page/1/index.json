@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-28-non-artificial-intelligence-stocks-making-new-highs.md",
+      "title": "Non-Artificial Intelligence Stocks Making New Highs",
+      "excerpt": "If you followed the financial/business media recently, you might think that only artificial intelligence-related stocks are hot, successful and worth covering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/",
+      "originalUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a96d2e6108273db34c321c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
+      "publishedDateTime": "2023-12-27T23:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
       "title": "11 data predictions for AI-centric enterprise growth in 2024",
       "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
@@ -113,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -417,50 +468,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-27-top-most-powerful-5-ai-chips-released-in-2023.md",
-      "title": "Top Most Powerful 5 AI Chips Released in 2023",
-      "excerpt": "With the arrival of generative AI, the chip market is experiencing unprecedented growth, underscored by robust revenue projections and dynamic trends.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-most-powerful-5-ai-chips-released-in-2023/",
-      "originalUrl": "https://analyticsindiamag.com/top-most-powerful-5-ai-chips-released-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-AI-Chips-Released-in-2023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-27-how-is-ai-moving-finance-forward.md",
       "title": "How is AI moving finance forward?",
       "excerpt": "Since the public launch of ChatGPT in November 2022, many people have become aware of AI's ability to augment their skills in a wide variety of activities, including finance. This has been made possible thanks to breakthroughs in computing power, unlocking the ability to train ML using large volumes of quality data.",
@@ -521,7 +528,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2023/12/26/revolutionizing-child-protection-the-un-and-uaes-groundbreaking-ai-for-safer-children-collaboration/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -617,7 +624,7 @@
       "originalUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -919,6 +926,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-26-ai-aliens-and-giant-poo-piles-weirdest-science-stories-of-2023.md",
+      "title": "AI, aliens and giant poo piles: Weirdest science stories of 2023",
+      "excerpt": "The flamboyant patterns are designed to scramble AI object recognition algorithms, so they write off the wearer as a giraffe or a zebra and don’t bother running the facial recognition systems increasingly creeping into public spaces. It’s pretty pricey ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/science/weird-strange-science-stories-2023/",
+      "originalUrl": "https://newatlas.com/science/weird-strange-science-stories-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a921227/2147483647/strip/true/crop/2000x1050+0+143/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F72%2Ff4%2Fbf1066c54d90b8863ab6912154b2%2Fdepositphotos-54752219-l-2015.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-here-are-3-stocks-other-than-nvidia-getting-an-ai-premium-from-wall-street.md",
       "title": "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street",
       "excerpt": "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost",
@@ -927,7 +986,7 @@
       "originalUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1115,7 +1174,7 @@
       "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1192,51 +1251,6 @@
         "AI Ethics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

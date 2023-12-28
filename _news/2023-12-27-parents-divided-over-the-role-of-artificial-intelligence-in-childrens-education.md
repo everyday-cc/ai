@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 900
         isCached: true
+  - title: "Biden administration to expand US regulations from AI GPUs to the DRAM industry in China"
+    excerpt: "US government reportedly planning on expanding restrictions on the Chinese DRAM industry, after its massive regulations on the AI GPU industry in China."
+    publishedDateTime: 2023-12-27T23:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95181/biden-administration-to-expand-us-regulations-from-ai-gpus-the-dram-industry-in-china/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95181_995_biden-administration-to-expand-us-regulations-from-ai-gpus-the-dram-industry-in-china_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Lauretta AI Announces Groundbreaking Collaboration with TSA to Enhance Video Analytics Technologies"
     excerpt: "Lauretta AI LLC specializes in conceiving, developing, and constructing AI-driven solutions that significantly impact security, critical infrastructure, and retail sectors. With a focus on innovation, privacy, and ethical practices, Lauretta continues to lead in the field of artificial intelligence and video analytics."
     publishedDateTime: 2023-12-27T14:49:00Z

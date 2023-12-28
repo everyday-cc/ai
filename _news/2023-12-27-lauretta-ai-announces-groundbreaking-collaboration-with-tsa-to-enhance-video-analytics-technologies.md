@@ -53,6 +53,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Biden administration to expand US regulations from AI GPUs to the DRAM industry in China"
+    excerpt: "US government reportedly planning on expanding restrictions on the Chinese DRAM industry, after its massive regulations on the AI GPU industry in China."
+    publishedDateTime: 2023-12-27T23:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95181/biden-administration-to-expand-us-regulations-from-ai-gpus-the-dram-industry-in-china/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95181_995_biden-administration-to-expand-us-regulations-from-ai-gpus-the-dram-industry-in-china_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "B43dKxWx5wGoB1MxbclWjmWnBrCFIwmI4fDSxXKGBywNRUBDeZdb7z7djnJF88Z7LSGEdaVGyjdQPXJbIQsOTYUkCl987xn+wck4DkyVwt+DW8gg5kiD3CG9ULVpUYCmFpNdJe5szlNVMUtx+EJGtsn0TfO6few9/o9TmdyKKW03hyT4A0+8vte3u0tPLNQMNyRu7Hpp6mY3kVzcgnIHD7m82D5ompWiHctecq7KTsCh13jLPkt6iHEtv4PTXUyXI+osiI23s5lhyX8Geh6FZi3XEhx0TBfG+x0LCzeTJuN67KApVYvU8iGUVkyw/KfcarbNIFbz5s2RhC8kDji5Dy+oHgNh2Kr08wqaYilmOo0=;d/MSp6tzMjvChvu3yLwdXw=="
 ---

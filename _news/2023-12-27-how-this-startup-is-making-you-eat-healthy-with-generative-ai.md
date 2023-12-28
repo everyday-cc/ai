@@ -138,6 +138,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2023 Was The Year Of Generative AI Speculation. What Did We Learn?"
+    excerpt: "Law.com Pro Mid Market compiled the most significant insights we learned this year on the emerging use of AI at law firms."
+    publishedDateTime: 2023-12-27T23:29:00Z
+    webUrl: "https://www.law.com/pro-mid-market/2023/12/27/2023-was-the-year-of-generative-ai-speculation-what-did-we-learn/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "You Can Run a Generative AI Locally on Your Computer"
     excerpt: "To get started, you’ll need a program to run the AI, and you’ll need a Large Language Model (or LLM) to generate the responses. These LLMs underpin AI text generators. GPT-4 is the latest one powering ChatGPT, and Google has now pushed out Gemini as a new and improved LLM to run behind Google Bard."
     publishedDateTime: 2023-12-26T04:50:00Z

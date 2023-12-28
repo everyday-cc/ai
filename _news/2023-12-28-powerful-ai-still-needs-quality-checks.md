@@ -24,30 +24,32 @@ images:
     isCached: true
 
 related:
-  - title: "Top Most Powerful 5 AI Chips Released in 2023"
-    excerpt: "With the arrival of generative AI, the chip market is experiencing unprecedented growth, underscored by robust revenue projections and dynamic trends."
-    publishedDateTime: 2023-12-27T06:00:00Z
-    webUrl: "https://analyticsindiamag.com/top-most-powerful-5-ai-chips-released-in-2023/"
+  - title: "Non-Artificial Intelligence Stocks Making New Highs"
+    excerpt: "If you followed the financial/business media recently, you might think that only artificial intelligence-related stocks are hot, successful and worth covering."
+    publishedDateTime: 2023-12-27T23:17:00Z
+    webUrl: "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/"
+    ampWebUrl: "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-AI-Chips-Released-in-2023.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64a96d2e6108273db34c321c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "The Dumbest AI Moments of 2023"
-    excerpt: "A comprehensive list of the most brain-dead AI events of 2023 would stretch from here to the end of the internet, but your old pals at Gizmodo put together some of the standouts. Here’s a look back at the dumbest AI news of 2023. Click through the slideshow above, or just scroll down if you’re on a mobile device."
-    publishedDateTime: 2023-12-27T20:31:00Z
-    webUrl: "https://gizmodo.com/the-dumbest-ai-moments-of-2023-1851119292"
+  - title: "3 AI Stocks Ripe to Be One of the Next Magnificent 7"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The emergence of artificial intelligence in 2023 was incredibly important to"
+    publishedDateTime: 2023-12-27T02:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-ripe-to-be-one-of-the-next-magnificent-7-1032926742"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
-secured: "Sh6mRgwEIfJEx31l8PVa24S+/g4pGzMlzXMW6gMSP28pxdFzxBCCSY0M97h4R4kJDxv5DyyKdovLy7ujRiswgiwArAazJ//l9FakzxIYMJj6mTd7e9gvNK6ZoN+QaQql0iRUs4ronatnsil7mIkd2VHuk8Hyt+f+fS+bFANAPt6WJ4FIp47JywRz7LxqAbLX85uIvaY+48sHf4jUzYMKxWP7zVd3+0hpelFHLWD9fLPj/GboJWgPW0+sJ6jJh+u9NJreoETg2xmZu5fibWmPRSZ+VRTmyd8QqWxCX/C75QyeDPRL48ZoYh5YMClu9vqpulFYxmGUCrFBk07030/GtrwHbwhltauw6shLvpR8xM4=;qWtZWWdFegpac8lzBWU0xg=="
+secured: "tjWxERAZw/2z1kybd48cqykuNqpXQA7xCf00K6/ugXuDJMYyR9MpX8MRiKksaHpc/ukoGLudVQ5Sa/QlGoXMvg0ZI52Z/K7VoAB9E4emJt+RO03sjSenmgAmyaSoHDFogQ3UpuUSjRR2O38IC3+PPKusE3dRYCQdcn7jqwpt+UOobWKqJATKK3EwChxbJVgEdVnzKxVMQXQvS0aAfXNe2rGMQtOAXRp+9q2EjJ9JpkUHUC7PncqWrjAeu+Q8veNEYW4+4A4h4IGbH+SBJfySNtV3Ks3RXEWWseYFmpwLQpH71V4nZmSXQynUZkQjJTGusHiJLTzQr/oj0uu4HNHnuDquPKrqRZjl1pNYpliuMjES162vDzSsT8GuPM6MhTKPOOaemtCBUccZ8vuaC3MPKUemBoc8NFFpHPOQ5A02fPoqvAEWJG8SPOA6OijieVzU+TLnhGRXEAukjyS7J5srAntImvdRlizm+FQE/UvIpTVk0YHB8HcUIc6uu0Vq4sGyhWjiV2f+k2ElspPJJna17g==;1AlT3xJnvXI2968QSgLaeA=="
 ---
 

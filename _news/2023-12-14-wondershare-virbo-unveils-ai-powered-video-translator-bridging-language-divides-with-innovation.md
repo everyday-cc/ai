@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Wondershare Virbo Unveils AI-Powered Video Translator: Bridging Language Divides with Innovation"
-excerpt: "Translate videos into over 20+ languages with lip sync and voice cloning. Edit and proofread scripts, and auto-generate subtitles. 300+ AI Avatars: Up to 300+ AI avatars from various countries and ..."
-publishedDateTime: 2023-12-14T00:01:00Z
-originalUrl: "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html"
-webUrl: "https://www.victoriaadvocate.com/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation/article_274b81ba-4239-51ba-b39b-2ad759e4dff8.html"
+excerpt: "The latest update from Wondershare Virbo introduces the highly-anticipated AI video translation feature. This advanced tool equips users with the capability to effortlessly translate marketing videos into various languages while preserving the authenticity ..."
+publishedDateTime: 2023-12-14T03:28:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769"
+webUrl: "https://markets.businessinsider.com/news/stocks/wondershare-virbo-unveils-ai-powered-video-translator-bridging-language-divides-with-innovation-1032899769"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/e7/ee771f62-8b87-54c1-9f75-a464cc01265c/657ac4559ccb4.image.jpg?crop=1487%2C781%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/2300977/Wondershare_Virbo_AI_Video_Translator_Voice_Cloning.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "PaAYZcZexvC0q1TeWBD8Od+UDDVwsrEUrTpIMC6o05qUXLsQlWe5aaSnEk+DQI8de7r7hNVjOIbIbJGKDs5pRuEDwRkEq8ZOTbJnRh6qYd0P/quN7LqcuAb2WADt65RhCB5qfX+LXq6y7i++SgJcyvbBuSbOuIURqURtVI9NU4UR6srWQLMvQPjkY5EhAienxDZ1XXMdG24trAecY0pZs5mMQkmwj2WVLKbigdG2zPYBkOJvROVel4ZaR+6v1DTIHTfKFqaXXnr5gSXY6fVNnJBN+UHNynrJU+2/q6MxUKdMy8P3A6qj5leDhIrFpEuhPLuEq199GHEQtMLbBw7ehEJkr+QCv9W4bnWgy9qQMjg=;udX8jbBOLAEGWM5bSVNylA=="
+secured: "v8YcNrvM01TGjBweotpEVSOvnBm+50uyv9mo+UzaCVwv000HbYlJSYrJilrGCGhkz6RcLU8g0RpnUSppd0ZqTT7hlNUHrn+U9SRRSl8gbpe6ZZ/SJePMSIURMYMZEApZ2hueo/th+BvFcU8k7hw9x57ZESEdBhFy7ma+RZRuESjjbO86yThA2ldB3YoK3LFwCkYeAP1m3duf9yRGBkCdTS+zo7XSX45ZCb3uesvakA/3MF+YI7sK9V44trgQyfiWn+ZoN5WXjrNDCCel1JIctNOTDh7Y+OX9/JFQ/NlofAWgANZ/UyNEnSuVVWO21Z4tp6qydYR1L+z/jJ0GZpZw2sJ+gGoTuwqGsV7fCd60rvA=;hByZd8kQFQrNVFBj2FUsvw=="
 ---
 

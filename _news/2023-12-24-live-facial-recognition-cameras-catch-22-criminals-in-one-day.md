@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "I was accused of SHOPLIFTING after store’s ‘facial recognition camera’ flagged me – they treated me like a criminal"
-    excerpt: "A SUBURBAN mum has been accused of shoplifting after a \"facial recognition technology\" trial failed. Tracey Sturgess, from Melbourne, said that staff in her local Kmart labelled her a thief when she attempted to return two unworn jumpers. Tracey said that ..."
-    publishedDateTime: 2023-12-27T18:13:00Z
-    webUrl: "https://www.thesun.ie/news/11913284/accused-shoplifting-facial-recognition-camera-criminal/"
+    excerpt: "A SUBURBAN mum has been accused of shoplifting after a “facial recognition technology” trial failed. Tracey Sturgess, from Melbourne, said that staff in her local Kmart labelled her a"
+    publishedDateTime: 2023-12-27T20:11:00Z
+    webUrl: "https://www.thesun.co.uk/news/25175793/accused-shoplifting-facial-recognition-camera-criminal/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
+      name: The Sun
+      domain: thesun.co.uk
     quality: 17
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/image-1251.png?strip=all&quality=100&w=800&h=450&crop=1"
-        width: 800
-        height: 450
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/12/newspress-collage-u2bezhcl2-1703711445521.jpg?1703711459&strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "swM65B46Jamq7v+f3G6HZEAgIABQa64r2NmPHKrpHQ71evD2o1LVnuy0XUSbhhFv1V6InUfuclACrUqtF6OHH4Uj5DJ5X6YFx8WHd9ECD+6mgpq1hYj55WtL89xJTGALh2DCPCVyxeDjIdcwjE1OOzilvDj/XnqZvwFAW43HWso3D3/5bn/J3JFXlg1UYRtwLwxxnLxLS2GjESvwnvSSosH1GshM/0UlyAZOOiL2LZij3ABQVYgUV5rfZiAA+pCMZtWptzvvTGcdsnY6YXmoImLMA4QxfGHo3ITDocyuYEv4i/xRq2YtgfdgQKJPMIr9hqPMcdP4LKTso0aLI8uVU3YmXVHxPwDHdC4i6cl9L0Y=;90dkMOl93QAydcCm3zULLA=="
