@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 731
         isCached: true
-  - title: "ChatGPT vs. Google Bard: Which had better crypto predictions in 2023"
-    excerpt: "Finbold has published dozens of AI price prediction reports using Google Bard and ChatGPT. Here is what we found out."
-    publishedDateTime: 2023-12-26T12:54:00Z
-    webUrl: "https://finbold.com/chatgpt-vs-google-bard-which-had-better-crypto-predictions-in-2023/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 21
 
 secured: "ZnE/THt5RRT+X98xLjPKYkZbhwFhaNBy/GQBScnLaIcJzdTuufHo5GUqTMKN9OEGqMq9/3dpEeugI865raLH4td6a19x457a1/MPzuS9qLhy+DxYYsyhjqmmZMrGnVGfwsZb+cVU/J2N0sDSp65miG3CDJX1WC3usXRfhL/8YuyAYJ3Tk9UFpDfdbv82A40DIdopsBX0b3F+yLyuIiWZ8/HU47zFGWbrfvhfIusFP5ukF2Jy77BY86DTGzEOLyWgLAhWbKDlreoY7/5r581F52fdLSlxUypy8poNGkwhfIgteK1Ftz3jp62QRQBTioR1ieGoHLzTCWLcuwlQcMQQyJ+QBLehHAHUqvlPC4muhKADfRlUv02a7zQkhuWLeSd0nTyLbRvWDzBLYg8WrgmN1dA46GyktY1AfG6U0ZkLA+RbUQcsRkTy9wdM6PAXStIYtMrlWyMgH309QwbvTvH6AHqRrtnldWw3fLLtMI/1ggOMaPrbtlnvhTZh57Yizd/Ij09Ljjyenl/fSjWvkQuA+w==;KKd/H9/xnC9BVZkPMDMx2g=="
 ---

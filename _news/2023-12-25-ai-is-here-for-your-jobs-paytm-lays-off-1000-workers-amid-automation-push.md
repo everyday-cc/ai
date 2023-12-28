@@ -173,6 +173,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 39
+  - title: "What the Paytm Layoff Saga Tell Us About AI"
+    excerpt: "The layoffs because of AI continue. “That’s 1000 families not having a happy new year,” wrote a person on X talking about the layoffs that happened at Paytm. According to reports, the fintech major and mobile payments pioneer has laid off 1,"
+    publishedDateTime: 2023-12-28T08:36:00Z
+    webUrl: "https://analyticsindiamag.com/what-the-paytm-layoff-saga-tell-us-about-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/m-10.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Layoffs at Paytm as AI solutions deployed to boost efficiency; shares down"
     excerpt: "Paytm says it’ll save 10-15% in employee costs with AI-backed measures while hinting at more layoffs in coming periods"
     publishedDateTime: 2023-12-26T06:12:00Z

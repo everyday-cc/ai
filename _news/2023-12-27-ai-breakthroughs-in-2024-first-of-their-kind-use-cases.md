@@ -54,6 +54,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI in 2024: The dangers and the hope"
+    excerpt: "There is a tendency to surrender the policy process around AI to a handful of tech companies who weaponise the very real anxieties about AI to distract from and evade concrete interventions"
+    publishedDateTime: 2023-12-28T10:30:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/12/AI-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Predictions 2024: Artificial intelligence"
     excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
     publishedDateTime: 2023-12-27T16:43:00Z

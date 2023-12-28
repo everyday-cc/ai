@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     quality: 67
     images:
       - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI in 2024: The dangers and the hope"
+    excerpt: "There is a tendency to surrender the policy process around AI to a handful of tech companies who weaponise the very real anxieties about AI to distract from and evade concrete interventions"
+    publishedDateTime: 2023-12-28T10:30:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2023/12/AI-1600.jpg"
         width: 1600
         height: 900
         isCached: true

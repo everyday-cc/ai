@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "11 Fintech Predictions For 2024"
+    excerpt: "Indian Fintechs have gone through turbulence amidst regulatory crackdown by the RBI, however the analysts foresee clarity in 2024 which could revive investor sentiment Lending, wealthtech and insurtech will be the bright spots in the fintech industry in 2024 continuing to attract investments"
+    publishedDateTime: 2023-12-28T09:38:00Z
+    webUrl: "https://inc42.com/features/11-fintech-predictions-for-2024/"
+    ampWebUrl: "https://inc42.com/features/11-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/11-fintech-predictions-for-2024/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 24
   - title: "Paytm Ends 2023 On A Sombre Note: Can The Fintech Juggernaut Turn The Tide In 2024?"
     excerpt: "Paytm's 2023: the fintech giant’s decision to scale down its small-ticket loan business hit the stock hard after a massive bull run"
     publishedDateTime: 2023-12-26T08:38:00Z
