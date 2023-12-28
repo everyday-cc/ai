@@ -18,20 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "AI Conversations: LinkedIn’s Content Analysis Reveals Changes Underway"
-    excerpt: "A LinkedIn study determined that 55% of its members globally stand to be disrupted or augmented by generative AI."
-    publishedDateTime: 2023-12-23T05:45:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/23/ai-conversations-linkedins-content-analysis-reveals-changes-underway/amp/"
+  - title: "Embracing AI In Communications: Strategies For Successful Agency Adoption"
+    excerpt: "Employing these strategies can transform AI from a daunting concept to an everyday tool, enabling you to achieve more than ever before."
+    publishedDateTime: 2023-12-26T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65865fa6c6b733f0119b048c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
   - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
@@ -48,6 +48,24 @@ related:
         width: 916
         height: 307
         isCached: true
+  - title: "Designing A Coach Training Program For AI Transition In HR"
+    excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
+    publishedDateTime: 2023-12-26T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/12/26/designing-a-coach-training-program-for-ai-transition-in-hr/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Beyond Words: Emotion AI's Revolutionary Impact On Professional Communication"
+    excerpt: "Communication goes beyond sending emails or having a conversation, and those who are experts in their communication understand that reading the other person and"
+    publishedDateTime: 2023-12-26T18:19:00Z
+    webUrl: "https://www.forbes.com/sites/rhettpower/2023/12/26/beyond-words-emotion-ais-revolutionary-impact-on-professional-communication/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
 
 secured: "1ViFGqJtzFpsRbWR3aEnmFg2F7EjWgVqU38K3bvzOMyQKUtT0ZV/7tP+bBfUwFjWmiFTBrBcAWd/KqR0+qXKInSjDeRiUftFYGod4aA5L6T6p2DxgdFk75Ulwdpi74FVRa1/TSQBg2/RVYIjkTq5KSU1OJR5TJPghJpCuTPu/HVKEJXQ1ut8AAANk3v5R3xnnJWIzBinXPrLNkaYi500lmzD9MZEXFyDueXnqT761UN54aUSUvB6PMjoGvybdIDC7ppn3QZpsw61vcQCgK8VWwtnMKmiMHS0N6mFV6FYWAJ7OmvaxFmi44YuSbdqTWkrjig/GfeaO07EtGS0ABnaO/Mws3L3lb6cM0puh6pXTgU=;0/jfYAO48/OXm/apn5XxYg=="
 ---

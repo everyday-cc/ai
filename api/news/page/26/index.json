@@ -2,6 +2,40 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-12-06-ai-technique-designed-to-advance-understanding-of-neural-circuits.md",
+      "title": "AI Technique Designed to Advance Understanding of Neural Circuits",
+      "excerpt": "The new method is able to identify neurons whether they are represented in images as individual points or as 3D volumes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
+      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T21:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-meta-and-ibm-launch-ai-alliance.md",
       "title": "Meta and IBM Launch AI Alliance",
       "excerpt": "While IBM’s own history in AI has been marred by the failure of its Watson system, Gil said its new Watsonx system is an entirely new platform. Like IBM, Meta has developed its own AI models ...",
@@ -1061,50 +1095,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision.md",
-      "title": "Revolutionising industries with AI: Sumedh Datar's journey in deep learning and computer vision",
-      "excerpt": "Artificial Intelligence techniques, such as deep learning, have garnered significant attention in 2023, especially with the emergence of platforms like Cha..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "originalUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=c9b4f094-01fe-5308-856e-fb8aeec53a51&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.75125&width=1200&height=675&x=1.0E-5&y=0.17362.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "publishedDateTime": "2023-12-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

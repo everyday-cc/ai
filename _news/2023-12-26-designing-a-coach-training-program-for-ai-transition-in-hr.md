@@ -38,6 +38,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
+    excerpt: "Artificial Intelligence (AI) has been a primary catalyst behind the rally in the financial market over the past year. Given its rapid adoption"
+    publishedDateTime: 2023-12-26T06:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2024-considerations-2-ai-stocks-with-over-30-upside-potential-1032926237"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/NVDA-3.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 916
+        height: 307
+        isCached: true
   - title: "Beyond Words: Emotion AI's Revolutionary Impact On Professional Communication"
     excerpt: "Communication goes beyond sending emails or having a conversation, and those who are experts in their communication understand that reading the other person and"
     publishedDateTime: 2023-12-26T18:19:00Z
@@ -47,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
+  - title: "From connection to contention: How AI curbs access to information"
+    excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
+    publishedDateTime: 2023-12-26T16:53:00Z
+    webUrl: "https://www.aa.com.tr/en/world/from-connection-to-contention-how-ai-curbs-access-to-information/3093160"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 17
 
 secured: "YKAhtwob1diFffRcFTn/82nCJ2cKvkkuYqaAI/brWgWsa1R25mw8ocrh3dnZ96FqpClpjZcFQ4eND+gVvRaN1VT0iZYXURHve56Jzl1/5/b9WLtxIcQ21KIExP6hVsfOKihfQbNQVtm9TwPTTg+BYawSsH+7Ub0hhXFxADYgQNYM+oZjEOLmfsZ0qKw8ehtaoas8zoJLn4y7ok6hDXlr2SgwuMq2B0FA1wC0lKnCmF7DzdzpGpXjy6qqzrmJfBzAVHyUEbjgSB+D9oiQ6woFp/R5fXMAgliCoDu57dGHwuPen5T2tSPlhCnw+BFxQSGy2KhcK/Y8ZgUqMNRxoz4u4HQa2KdM2rT7+RY0l4yGL51JAz6X5vom8CmKKuJTTLAbmV2gLLdtQ43Ytdu/Xa3kFRZJyv9sCxA+zkcFrTu82WHUu9ZaSbx3cUGXf9ss1TcWpf8ZJeQ8wozIgnfwQiVZZaR8gM12oXGktcAWFq0zpuBN1W3frLdM8NCrK/6dfEM1Da/aJMNKShSvu7gUQypBww==;UxxSdgHzO4wXOn1t850Zhw=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
+    excerpt: "Artificial Intelligence (AI) has been a primary catalyst behind the rally in the financial market over the past year. Given its rapid adoption"
+    publishedDateTime: 2023-12-26T06:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/2024-considerations-2-ai-stocks-with-over-30-upside-potential-1032926237"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/NVDA-3.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 916
+        height: 307
+        isCached: true
   - title: "Designing A Coach Training Program For AI Transition In HR"
     excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
     publishedDateTime: 2023-12-26T12:30:00Z
@@ -47,6 +61,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "From connection to contention: How AI curbs access to information"
+    excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
+    publishedDateTime: 2023-12-26T16:53:00Z
+    webUrl: "https://www.aa.com.tr/en/world/from-connection-to-contention-how-ai-curbs-access-to-information/3093160"
+    type: article
+    provider:
+      name: Anadolu Ajansi
+      domain: aa.com.tr
+    quality: 17
 
 secured: "wfnGZ0eUS4nQEXz6umM8Q4zbi3jXpjYiIRYu+8+HbbcoCAblsZ4Tq9kfeIECqnx2nE5xqtt+wOnRqm2bnuw8yZdAVhYo6e5sop+/LaE0bTrS8CmI3JbGQzvidcvaIMMhoTTghoUGiM4o02saE4hilzpJMwx8M+dDpXzb9GNdEa/5HmHZjg0PbtjXTln2yQua4i8VVcYMlcqLpj8BE1LoR7MhY4bAZRkAuhKjZMOfUSV48CpS+Zgf3es6sJQhARkgs4MAdMwXaHjCpds82TxBeoZBtvL7M7YrTREXCss14wMPNkDUgG7LXPrKRSM6zd6VK+hvndOdicoOab4yqlNbmwEYBILc8KL31y+qgN9T7B4xQgUclH3S/RlO0p4b4tzO/4CmzTt3YAOAkPkHWOkHs65nEycr3auwvkpJISt/jWr3bAE846qojg/hG2AFlbX9PflWrGywk9x1/H8XbfIBeZ+MmH6541yhm7O+mt5IHPmyICibPtFBkjT4ZCD9r74pZ54eiNAKX1ws85E3fl6u2A==;YuqKF+Rqr+JpMpjiYvQ04Q=="
 ---

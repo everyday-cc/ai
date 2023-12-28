@@ -7,7 +7,7 @@ originalUrl: "https://www.sfexaminer.com/news/transit/cruise-downfall-in-sf-defi
 webUrl: "https://www.sfexaminer.com/news/transit/cruise-downfall-in-sf-defined-2023-for-autonomous-vehicles/article_fd633bb2-a043-11ee-95bb-af856b305f07.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Enjoy the ride in a car with no driver"
-    excerpt: "The driverless car is here! Finally. Google has harnessed artificial intelligence to create a self-driving car they call Waymo, standing for “Way Forward in Mobility.” Regulators in San Francisco and Phoenix legalized Waymo cars because the robo-cars drive better than people do."
-    publishedDateTime: 2023-12-23T07:01:00Z
-    webUrl: "https://www.miningjournal.net/opinion/2023/12/enjoy-the-ride-in-a-car-with-no-driver/"
-    type: article
-    provider:
-      name: The Mining Journal
-      domain: miningjournal.net
-    quality: 24
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.miningjournal.net/images/2018/10/08101311/Stossell-564x840.jpg"
-        width: 564
-        height: 840
-        isCached: true
 
 secured: "s/pIcv4gY/nWGAu0ciE5PjY8g5iT/CfxDv0Mdf6dxnrbpWKHEM9sRbOSxCNr00vOHc9vQgVKinIxO1Doq8zWBgZbIDuC/xt7MafWaMZ87Rkmu1k9MZoOLQaVRuduheF0mRAexUohaWh0TseosmYrqy8RB7xMPVAUrn6LC1fdL+snao1ppadO0qmgVItBaMnl5BFgokMLOPFfhiczqr9xv1FNh8YkSQYinYqzXfgMBBvP5x4JdjDQGjpWJHE5TfKKZmdBcu+Ay3JytZWlNtiRfTb11k++H14WEL1HCL71nQsoKmvz1CGYgSNS+iH1V8qyjstVaESDJ+w9b9VtMEmsySBYYErgp0WlEvU6YhgkdM+pwH1rHJmujxy0/Tu+3ERkcE83k7MF9DMBZOD1qYoa+zl9UaYcLT47iSuGck19HpRC8dBYnRdXfHUnpzFjA1TIQHQZEpq11aMRdbvjNuTJz+qDSCfJvKbwHgQQtHFCQl7Euk6BUwc7hRRMuYYrttm8BYPFj6SzKytPUgNMWFMLVg==;kIF0dHcZ/HPTFqnaSuXGiw=="
 ---

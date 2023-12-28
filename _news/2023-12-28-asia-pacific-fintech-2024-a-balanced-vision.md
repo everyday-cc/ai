@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 106
 published: true
 
 provider:
@@ -73,6 +73,6 @@ related:
       domain: inc42.com
     quality: 18
 
-secured: "7pQH6bHBd2pKtp1iUDBOi2SVyKaUjSKY6oBw4GO6WeZVmlGYBTIkSRxhvIsZBPbQgDvDJQyQ3jjou3rECysHVwc16LlZB5pMWzrXJH+2fhlFyCJ8+ezdtxa7Td4d32TR0+gnD29KqxamWI6TM47k2OaU0OWYpMwvcrSD0Pq/bCNM26d8aTwD+S898JwRpY8fktsrm6uV7hslgBLSyuxRc2+vm6F+k0hJ/cu40PdFtuKbfKM0GGPL6WHzYfbMSHZcuOhEvsB3+4jrl19/WQw2UvbH5sy22SkIC3sXSG763pMDlkAaJ9ek/tha4ZKAuAOYiDVv3v29yUgrbfxw6sPK35nSyYiCnQYsIlA8wgqOa60=;LRdw7Z1OJKNWkRKK472o3w=="
+secured: "Pzfl5GyeNVSU3Gu8pmRBG1hS0r39n4hSUdCemxzB0Y2LH1SC4zBwxmKsbvXrVy/ktp14OyuSvRyCMH2Dj3Ft9bdlLCfOoMXkvgFkNm6UIk190KNWLpXV/SZbkEpAba8fhqUQG3ix7sqteAz7R9C7y1840sbpltsQWyOa4aeuou7ftWgDarQAwQI7JMDil/7Dy0kMJMpnHknQTWaRDe0zBSGF1Uyo9NrsMN9ZTH+M9a/NPKcO1iRHHFWEsBWlQ0EeSu8qPJMcAP5pzHKkdQFBJzm2KsEMRdo6ewWCL5buNr2+izpx3OBCxbvNgPqkfXxa+03LddOaR30JVmGxHlI4sGsHLfrqh79WoNTjhEgz5wOkb3NKqrSvhNqJARmvqVjupjFkuKvANyCfGw3bMsGw4knTomuIPAi/ca9SmZ3jBnw5m6PmeWrLrXGpn9XOfhxZ4dlG0c56N1Lh6iKjVqHbd6/UTMXj7T4vxPy6irvn2SiEthvP8qjJmHwnn9XJtvpxydPuoW/lA4ezDGEnO7cZsg==;s9BlkaDE5fn+gGYsimaAtg=="
 ---
 
