@@ -69,6 +69,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "As Microsoft Is Sued Over AI, It Still Has an Edge: How to Trade the Stock"
+    excerpt: "The NYT apparently filed in the Federal District Court in Manhattan in New York City, claiming that millions of articles from the Times over time have been used in training the models. Microsoft stock was nearly unchanged on Wednesday (-0.16%), while NYT traded up 2.78%."
+    publishedDateTime: 2023-12-28T16:19:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/as-microsoft-is-sued-over-ai-it-still-has-an-edge-how-to-trade-the-stock-16140979"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 32
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
+    publishedDateTime: 2023-12-28T16:38:00Z
+    webUrl: "https://bismarcktribune.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a8cad8ee-3c23-58a7-a9f7-71057759db3c.html"
+    type: article
+    provider:
+      name: The Bismarck Tribune
+      domain: bismarcktribune.com
+    quality: 28
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/a/8c/a8cad8ee-3c23-58a7-a9f7-71057759db3c/657bac9b09cb1.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+        width: 1084
+        height: 569
+        isCached: true
+  - title: "Microsoft says its AI is safe. But it keeps making images of people's throats slashed"
+    excerpt: "The images look realistic enough to mislead or upset people. But they're all fakes generated with artificial intelligence that Microsoft says is safe — and has built right into your computer software."
+    publishedDateTime: 2023-12-28T14:52:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/12/28/microsofts-ai-keeps-making-images-of-peoples-throats-slashed/72047997007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 27
 
 secured: "sZuPBa/fX2M0O3G6UEQk1Fu4FdeaYuBel3pttBO8cvd88zhPKvo44YPqLnZf412d564fD1XJSP3ShtG0arqdNHFglCkGort4xRKWEPJ7evPev9nTgfvB8kcJlPWlqGuJjhR0OXGJk6cvENuKJT30fLXlkdf5iiXJkgik0T/BGN9pM0DcKxPZsq6NdnU/aJ3+BoTUOhkkVPuRfWG4kAwTuuG/+NDAWY9OqERI5acnwGXh2yUqVViowB+hdr+H/vf2km2bhIIq+lI7/4+OOOxuG4xSpJsYAHrBc+SlU/YlVK77BA+WkewQuDQD8DNfBWqiTbcTql1i5FdH/iKpHv5s2rmhh9/CYMJuS5YAs3Z0kjNcegrRRItksueF2gV8gGgzpfiTNNmJvYA8jLWvV6ChHelPoa2qvOoSRAz+7V5ah1nLZsLdOCpwsHdGPUS+NXJv1oPhK2KkZp7qq/lbs1L9oftUI8yFLP6yEmfhopHcfWU2xAy0vVRqJV4OTMglCWbngMG0VMoxnF32dW6uJrVtpw==;RHTSypaYVStfi7u6JHWojA=="
 ---

@@ -66,22 +66,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
-    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
-    publishedDateTime: 2023-12-23T15:16:00Z
-    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 74
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NY Times sues Open AI, Microsoft over copyright infringement"
     excerpt: "OpenAI no longer discloses as many details of the data used for training of recent GPT versions, but all indications are that full-text NY Times articles are still part of that pr"
     publishedDateTime: 2023-12-27T19:05:00Z

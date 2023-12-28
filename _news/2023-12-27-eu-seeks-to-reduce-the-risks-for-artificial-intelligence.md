@@ -49,6 +49,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "How to Navigate the AI Era with Google Bard in 2024"
+    excerpt: "This guide is designed to show you how to navigate the AI era with the help of AI tools like Google Bard and other useful AI tools."
+    publishedDateTime: 2023-12-28T12:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-navigate-the-ai-era-with-google-bard-in-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Bard-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thought for the Week: The rise of Artificial Intelligence and God"
     excerpt: "Artificial Intelligence is something we are hearing more and more about. After the industrial revolution and the internet,"
     publishedDateTime: 2023-12-27T16:28:00Z
@@ -85,7 +99,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 16
+    quality: 18
 
 secured: "PpgY1hDpR3IAELoi4nneaDSjtk6jMCQL1xj01gCDmGE6Q09JdP9K+IEnnWvI7O1VewUsOk9Wvl6QilryhVGO9cmI1uEiv8jR5jtpwCQ7dF1gTe+4l1b9mZLtLsI2cU0Pc8cTpLutctSyWzZVHNFRI00tP3vrSMwNQ32Zs46yeWQBozqWc5ZHqRs8ciJjpVDNBZw+104bHL/IjfLEFZIj7CsVfRKi/AxXdLS4UY4PMggL9yuhIR8jpXBnxqhbIR0hiZWidG0AdoKf67+3sSh43O/v8qAYQixTs7wcjPLBR3hGdT1JHUv5UTn8Y31jRyWXcalgZpx18V3G0yEn+So3FMtknx9hUT1nEIF6w1kYc67bYxzBTO755D1EmaQfzmZFOYbpmnGNbrC39gz+fTrk2OFX0rRBVLt8UIi7P6hQ/QR3DvaPTIakZIDmUhMAgcovZdfQRgJHK7jI/7w9cryrAdAeUto73vI3b5+zMqeUTqcWw/WEALhep/g5QjfPo4iTSghHJY1dbPaV6gzJItmwXQ==;em+43S3gl/Lc+4c7oo8oWA=="
 ---

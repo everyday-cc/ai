@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-12-27-how-narrow-ai-will-disrupt-every-industry.md",
+      "title": "How Narrow AI Will Disrupt Every Industry",
+      "excerpt": "Welcome to a future where AI handles your email, meal planning, home renovation and lets you create a more satisfying ending to \"Seinfeld\" or \"The Sopranos.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
+      "originalUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658b5b6e730c422b337a92f0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 623,
+          "height": 307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lisabodell/2023/12/26/how-narrow-ai-will-disrupt-every-industry/amp/",
+      "publishedDateTime": "2023-12-26T23:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-how-i-use-chatgpt-in-opera-for-far-more-efficient-interactions-and-why-you-should-too.md",
       "title": "How I use ChatGPT in Opera for far more efficient interactions (and why you should too)",
       "excerpt": "Why? Because if you're always using Aria, you'll have access to your chats from all your browser instances (so long as they are signed in to your Opera account). Otherwise, you can use ChatGPT and access them from the chat.openai.com address.",
@@ -113,7 +164,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -947,7 +998,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1159,57 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit.md",
-      "title": "I replaced Google Search with Opera's Aria AI feature and I don't miss the former one bit",
-      "excerpt": "So, at least for me, Aria is beating Google at its own game and I don't see this changing any time soon. Give Opera's Aria a try. I believe you'll find it can often best Google at helping you find the answers you need for your queries, without worrying about what site you're being sent to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/20ed62e65986f0048f51f75bfe26abcdca67886d/2023/11/20/62ebbeb1-0fc3-4abe-ac80-75acb54f1630/gettyimages-1452459995.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/work-life/i-replaced-google-search-with-operas-aria-ai-feature-and-i-dont-miss-the-former-one-bit/",
-      "publishedDateTime": "2023-12-24T04:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

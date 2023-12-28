@@ -78,6 +78,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 18
+  - title: "Seven Pivotal Trends in Fintech 2024"
+    excerpt: "Fintech solutions are increasingly conquering various aspects of our daily life in the financial world. What trends will shape the industry over the coming year?"
+    publishedDateTime: 2023-12-28T12:08:00Z
+    webUrl: "https://www.finews.com/news/english-news/60766-fintech-bank-finance-outlook-2024-trends-eng"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 4
 
 secured: "tleGd2M0eGZWYZb7iUqn3d4jrxejJNp607reypiw2HrhLBQPWz2mpbUSPCzr15TbUKm2UO1CYKEff+n5aWhRi0rlU4hlXceW3S83MYNSCthaMG7k5MSOUhKxZR0wbd3MLYGnYGYcVG1MxwuJ92NE85XvSvwi22zrvZ14ePTtF1ZuzHkVZ4xc2w7LV6jklnJhdhD1mgvrirD2eXOnOZCj9ucGExADJqqxD9UPSocnz4lBq7CwBGqnh10rXrfdO/Bf49p3re+IkzAQQkmCaWzlR47T5UQWmYWfq7dLp6Me02xyf9J9asf+/96qA6rHzY+TpUzFCWUOMYuLPuOuaapeyYL7Qos34atU8yyjee+18BiVlMMmPm4LA7uzpdFCLYsiljwJKGydasqnPTUqO+2smA4A8G+kgPnS44axghyyUo1/8TKuFNzJgpNo3wqrcoGTLqZZ1LzdE+C1UDpyYvsanrvsxHsyGGfeRHe7DJqmI9v45rjXeul0IRaJG96GtwYYijCwcOa2oIXuYJ8i0WXpqg==;4Q5xHEjnP+t5OKGKiX//2A=="
 ---

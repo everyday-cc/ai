@@ -41,6 +41,20 @@ related:
         width: 506
         height: 900
         isCached: true
+  - title: "Big aye for AI in investment"
+    excerpt: "THE artificial intelligence (AI) symphony is cementing its presence in the ever-evolving world of investment. The symphony, orchestrated by data-driven algorithms, has permeated every corner of data-driven domains, none more profound than the financial world."
+    publishedDateTime: 2023-12-27T08:08:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/12/27/big-aye-for-ai-in-investment"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/27/2459499.jpeg"
+        width: 960
+        height: 1280
+        isCached: true
   - title: "VCs say 2024 AI trends to watch include a harder look at business models, a rise in generated content, and a need for investor technical fluency"
     excerpt: "Top venture capitalists predict 2024's AI trends, from hot sectors they're eyeing, the hype that will fizzle, and how AI might disrupt VC."
     publishedDateTime: 2023-12-26T10:00:00Z

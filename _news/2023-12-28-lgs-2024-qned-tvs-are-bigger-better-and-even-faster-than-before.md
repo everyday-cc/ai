@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/televisions/lgs-2024-qned-tvs-are-bigger
 webUrl: "https://www.techradar.com/televisions/lgs-2024-qned-tvs-are-bigger-better-and-even-faster-than-before"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "LG Teases 2024 QNED TV Lineup With Up To 98 Inches Of Mini LED Splendor And Smarter AI"
+    excerpt: "LG isn't sharing full specifications for its 2024 QNED and QNED mini LED TVs, though it is promising \"significantly more intelligence\" by way of its next-gen α8 AI processor. According to LG, the chip delivers a 1.3x increase in AI performance versus its predecessor, along with a 2.3x jump in graphics performance and 1.6x faster processing speed."
+    publishedDateTime: 2023-12-28T14:45:00Z
+    webUrl: "https://hothardware.com/news/lg-teases-2024-qned-tv-lineup-98-inches-mini-led-smarter-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 31
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63457/content/hero-lg-qned-tv.jpg"
+        width: 708
+        height: 352
+        isCached: true
 
 secured: "PKcJU3XecBzus9JrN1Xlkk0I13EBEByZdhLhcFvs6WhFd/0V327AsteyqaJl39N/v3HUkjkrgTChVIQRBMUqhRhQJv+P7rLgSFXGbFTgMjSvvnShQ0tkd61JCtuiuVB7wWfKrpf9yNJg0vZEY4r8X9xTqUPjYlzvVEPjjwrnnwf1AqJgZV5+WyKC9hgTay6y5ha/oLvfmE8SE63xWxjoErr6x68/ce89B5ChLfjTHMsbfVz06lIFD4NwUgmzQoaKvf2T09x8KTxVLZSXD+8SuPRXtjOtaSl0CrTsuAs0OK8QpM2Ad4P2KWai/ydosyF8auSuIE5gJILT2Ung+3TxAi/ut6kjq1p5FHICsahB8cE=;/ZrrE+6pAYt4GGnT6wLEUg=="
 ---

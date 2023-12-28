@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-24-can-a-family-office-backed-acquisition-save-the-healthcare-system.md",
+      "title": "Can A Family Office-Backed Acquisition Save The Healthcare System?",
+      "excerpt": "The economy poses various difficulties for dermatologists and their patients. Many medical practices seek to provide top-notch care while maintaining their independence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652fd94056997d1ea347967a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/24/can-a-family-office-backed-acquisition-save-the-healthcare-system/amp/",
+      "publishedDateTime": "2023-10-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-24-how-this-berlin-startup-deploys-ai-to-make-preventative-healthcare-accessible.md",
       "title": "How this Berlin startup deploys AI to make preventative healthcare accessible",
       "excerpt": "There are plenty of conversations around how AI can progress healthcare. And indeed, it has numerous applications in the form of diagnostics and accelerated drug discovery. However, wouldn’t it be eve",
@@ -1307,40 +1359,6 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-opportunities-for-ai-to-assist-cell-gene-therapy-companies.md",
-      "title": "Opportunities for AI to assist Cell & Gene therapy companies",
-      "excerpt": "PA Consulting life sciences expert Yoshio Hagiwara, PA cell & gene expert Paolo Siciliano, and Willem van Asperen, PA's chief data scientist, explain how AI can transform the cell & gene sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "originalUrl": "https://www.paconsulting.com/newsroom/cell-and-gene-opportunities-for-ai-to-assist-cell-and-gene-therapy-companies-10-october-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T15:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PA Consulting Group",
-        "domain": "paconsulting.com",
         "images": null,
         "publishers": null,
         "authors": null

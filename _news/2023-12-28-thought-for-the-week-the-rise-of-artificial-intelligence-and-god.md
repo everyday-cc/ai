@@ -50,6 +50,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "How to Navigate the AI Era with Google Bard in 2024"
+    excerpt: "This guide is designed to show you how to navigate the AI era with the help of AI tools like Google Bard and other useful AI tools."
+    publishedDateTime: 2023-12-28T12:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-navigate-the-ai-era-with-google-bard-in-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Bard-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "EU Seeks to Reduce the Risks for Artificial Intelligence"
     excerpt: "The proposed legislation is intended to ensure that AI is safe in Europe, that basic rights and democracy are respected, and that companies derive the maximum benefit from the technology."
     publishedDateTime: 2023-12-27T09:56:00Z
@@ -86,7 +100,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 16
+    quality: 18
 
 secured: "alWTu2bwm/68OY+x8C0rxiNLn1QMErpWVo8/HZuIOOuiwHRa6VddhE/egvnvbKpvTZt9t6+WHVuFGmIpfA0vjROjgwV3Dv6c8PfmshYa+CVM1iDrDY8xhyn1NrvPNx5uWR6eFf7VKAhcE1fBjskiCdG3qerAxVN/7HH4DzbNQkxQSckF3fvY4AjDi+TdAkNs4bHh7FUTSmW+8nqqUjq9E/+Srm5d2sKw295GhjnDh+CUsrUgMuFNGsTFk1DNLqzggND86CkZk2plSryHBbZRXQ+YnxgnxjsLqElcObmCBeEoKBRGdEnLNvKI9+ZyuyuTTiMKjZE0tATwSTy2qbhKzSCD3Le19nEA3W3s0NXDAtY=;0eAdLV7pV68jv3wyMy5qcg=="
 ---

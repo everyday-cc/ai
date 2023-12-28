@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This week in AI: AI ethics keeps falling by the wayside"
-    excerpt: "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ..."
-    publishedDateTime: 2023-12-23T16:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/"
-    ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Global AI: Pioneering the AI Investment and Acquisition Landscape"
     excerpt: "Led by leading Tech Entrepreneurs and backed by European family officesFocus on advancing generative AI, deep learning, and computer"
     publishedDateTime: 2023-12-27T17:01:00Z

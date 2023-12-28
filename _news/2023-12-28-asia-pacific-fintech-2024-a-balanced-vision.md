@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
 type: article
 quality: 74
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 18
+  - title: "Seven Pivotal Trends in Fintech 2024"
+    excerpt: "Fintech solutions are increasingly conquering various aspects of our daily life in the financial world. What trends will shape the industry over the coming year?"
+    publishedDateTime: 2023-12-28T12:08:00Z
+    webUrl: "https://www.finews.com/news/english-news/60766-fintech-bank-finance-outlook-2024-trends-eng"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 4
 
 secured: "Pzfl5GyeNVSU3Gu8pmRBG1hS0r39n4hSUdCemxzB0Y2LH1SC4zBwxmKsbvXrVy/ktp14OyuSvRyCMH2Dj3Ft9bdlLCfOoMXkvgFkNm6UIk190KNWLpXV/SZbkEpAba8fhqUQG3ix7sqteAz7R9C7y1840sbpltsQWyOa4aeuou7ftWgDarQAwQI7JMDil/7Dy0kMJMpnHknQTWaRDe0zBSGF1Uyo9NrsMN9ZTH+M9a/NPKcO1iRHHFWEsBWlQ0EeSu8qPJMcAP5pzHKkdQFBJzm2KsEMRdo6ewWCL5buNr2+izpx3OBCxbvNgPqkfXxa+03LddOaR30JVmGxHlI4sGsHLfrqh79WoNTjhEgz5wOkb3NKqrSvhNqJARmvqVjupjFkuKvANyCfGw3bMsGw4knTomuIPAi/ca9SmZ3jBnw5m6PmeWrLrXGpn9XOfhxZ4dlG0c56N1Lh6iKjVqHbd6/UTMXj7T4vxPy6irvn2SiEthvP8qjJmHwnn9XJtvpxydPuoW/lA4ezDGEnO7cZsg==;s9BlkaDE5fn+gGYsimaAtg=="
 ---

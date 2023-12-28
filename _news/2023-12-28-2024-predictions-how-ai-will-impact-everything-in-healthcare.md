@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI moves from theory to practice, zero trust gets real, and other 2024 predictions from Dell CTO"
-    excerpt: "What does 2024 have in store? Improved gen AI ecosystems, next-level security, 'common edge' — plus, how quantum will support AI."
-    publishedDateTime: 2023-12-26T20:57:00Z
-    webUrl: "https://venturebeat.com/ai/ai-moves-from-theory-to-practice-zero-trust-gets-real-and-other-2024-predictions-from-dell-cto/"
+  - title: "Five ways artificial intelligence is improving health care in Canada"
+    excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,"
+    publishedDateTime: 2023-12-27T15:36:00Z
+    webUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+    ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-971583628.jpg?w=1200&strip=all"
-        width: 1200
-        height: 649
+      - url: "https://smartcdn.gprod.postmedia.digital/healthing/wp-content/uploads/2023/12/GettyImages-1516277094.jpg"
+        width: 1296
+        height: 729
+        isCached: true
+  - title: "Quantum AI Elon Musk Reviews 2024 – Scam Canada or NOT?"
+    excerpt: "Ever since the name Quantum AI got involved with Elon Musk, this platform has been making waves around the world. Everyone, literally everyone in the trading world, is talking about Quantum AI and the involvement of Elon Musk in it."
+    publishedDateTime: 2023-12-28T11:23:00Z
+    webUrl: "https://techbullion.com/quantum-ai-elon-musk-reviews-2024-scam-canada-or-not/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/unnamed-97.png"
+        width: 512
+        height: 261
         isCached: true
 
 secured: "GIzybItf6s2Gg3cye8FFhTXlxsixN9S+hV1jjj800SArRhVjlYlBq2CRRoXzaKJFns14lp0ApNzwFElDHACHvM0VfCev3s27K7pe5lBUaUpyDI7tPwnl3Byhdjb73PbE6nepO0Xi2WrOyPV1D+PaFJACAnddx8UAb6QMF8M7/vQTJ19YoFNLT+OUJzktRs2plKe2WG7Otx7rW5OOmvgOIFXeCvuMpQaeF6V1BdBi9olzJPBvGq61mNyRjTaDi0w7Juuvsh1XDZ6JXHZIi2fHTgAp/7n7PIXNwLZarEns0dZYJGYw0MI61+7dFKqLctSfnMSNBKdCZIqv10UOe746qXjzdnbQCZ1Xj4i9z9R3CAllYQgnKZSwieHPEWNNDquSYu+gBtpPyDNatMK7E2PaY6cq34q17exKYQrUbyT6ImRdObQvVHa4nb8OX/IzLfKczy1HB+W61NK6+3gMa/rFV3rSam12eyAQbjvqmoS7i5RkDfFJRFYbxjcTrhV0IWQ58Ij7U4w7bCCMWCCSNH5XqQ==;viEE2ewbgAG6sNWKz0KFvw=="

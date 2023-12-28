@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://i0.wp.com/www.techbooky.com/wp-content/uploads/2022/08/nvidia1.jpg?fit=1200%2C800&ssl=1"
         width: 1200
         height: 800
+        isCached: true
+  - title: "With the Core Ultra, Intel is Ready to Power the New Generation of AI PCs"
+    excerpt: "Intel has announced the Core Ultra processor that is expected to power the next generation of computers in 2024. The Core Ultra represents Intel’s largest"
+    publishedDateTime: 2023-12-28T15:01:00Z
+    webUrl: "https://tbreak.com/tech/core-ultra-intel-ai-pcs/"
+    type: article
+    provider:
+      name: T Break Tech
+      domain: tbreak.com
+    quality: 38
+    images:
+      - url: "https://e92wr2k6pgh.exactdn.com/wp-content/uploads/2023/12/Intel-Core-Ultra-1.jpg"
+        width: 1438
+        height: 1080
         isCached: true
 
 secured: "yIST+kjQAJu+AjaTAt3WoodHECvIdpMHO4dLFpFbrHrspVj833P6S0RNz7ZZ2+kIC8e58N5A26027nZUQuANPByswiay7zngWUp1K2xwMRXdTnNZRs+cIMiQsKq7er+pkX6yN6NqkL4S2o1V2VfwdEKK3UR2rrtDXmxuHeoMhVPwvaUTeN3IWxwDpVjA8kC1i/SipU7EEc887AlBOdHo50ubs2HnDmNOdZBCm6eFHRq1ZnjEWcZyjL6gS710yOI4RGKmDb19qXYC5BGpt14ORJK98jxkVrFrcKqpKuoBnVMvpOsN/i5VdIn/h+EPpX94rulucyLPVe3TE5U2uRWZDF8IeRemBFQkVBXo/4e0p7Qgm/coNS2GnRbIGlarCDBT06EG3mwyd/VBNw0xIMdOV3yR78mqbA80VYTD7j/IEO2cOH9ZUM0waVAJhE0MTfILAvFVqBJOG9Z0KfK7M/Ls7g0gANNJma5iUfSsBMP3w6Wd5IcW8u6AuCR/8Be1zPPjaNJzVcurTSPKIFLSj6JdSg==;/tyVCg7mWFBplMVv2tLd1g=="

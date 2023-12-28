@@ -54,6 +54,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
+    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
+    publishedDateTime: 2023-12-28T14:37:00Z
+    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 38
   - title: "Why Google's lobbying in California skyrocketed this year"
     excerpt: "The 30-second video ad struck an ominous tone, urging Californians to tell their lawmakers to vote against legislation that would force Google, Facebook and other large platforms to pay news publishers."
     publishedDateTime: 2023-12-27T20:40:00Z

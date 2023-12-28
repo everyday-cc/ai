@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/spying-on-beavers-from-space-could-hel
 webUrl: "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
+    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
+    publishedDateTime: 2023-12-28T14:37:00Z
+    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 38
   - title: "California 2030: AI in the workplace"
     excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
     publishedDateTime: 2023-12-27T04:43:00Z

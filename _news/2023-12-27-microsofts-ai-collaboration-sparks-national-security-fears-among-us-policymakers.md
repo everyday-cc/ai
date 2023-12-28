@@ -67,22 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
-    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
-    publishedDateTime: 2023-12-23T15:16:00Z
-    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 74
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google and Microsoft: The Emergence of the AI Duopoly"
     excerpt: "In fact, both Google and Microsoft now have the AI muscle to create the sort of duopoly that will stave off other competitors like Coke ( KO ), Home Depot ( HD ), Lowe’s ( LOW ), Visa ( V ), MasterCard ( MA) and Uber ( UBER )."
     publishedDateTime: 2023-12-27T14:21:00Z

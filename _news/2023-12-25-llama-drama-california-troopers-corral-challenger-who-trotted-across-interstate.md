@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
+    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
+    publishedDateTime: 2023-12-28T14:37:00Z
+    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 38
   - title: "California 2030: AI in the workplace"
     excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
     publishedDateTime: 2023-12-27T04:43:00Z
@@ -65,6 +74,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "K+L3L+YVdc3nhE4hHVW6ezBd9rTFmRsTLcZJRhWfkPhdKR3DWd/TexvZ7OctIUwPJVA/HepxfIH7oOJNstKyP0IRFFTuQIbQhOun/UJxlrVCumMqDqWseNJovLkviLN8gERzOko+7DepsNK8QU8lByCL8wxR7WbXYP0xkvEr4ONacL+Tv8AswO07txO/b8PxjMlD7AeZdT8mvhZKek31gq46ggiW0rXfyuDSPBPc80TuFerwQ2cMsxf/BmUOZFOsNivKojYaHvK464YS8GghWaZir8wP2yfVYXQdksf6s6JzAS8pQs+AMJiglFOKt24LRtMOEkH1ThS+YL/XDCe6ZErPBwqEVGU3XWMeX/8RuNw=;ffhQMI/v/rgsyWIrDdnGdA=="
+secured: "iP7xKK23X4Ntxk39Su4zRSvXJ8n2ztmy/jolZ2rZ2gIsRZFIm20BPumpwwHHTNzLxI8ciT2V7DstflgJwXW9C+2i9M5sP4jjerLRH1yKYbTk0w0a5clD7QFT2o4yYrfJg5ouROi1+8JfhSESWdhy4mWzI8NpUlSdfzOEM9qNZUFwWtRsb+HNS1vgMKy6BmSKxg5NGtB3rqyjCTpCJtEfrWBuBikz2XBk7BuS7bSkcl2zloIKLmWCyF6MP+PTSab56zKjcUSo8VvScfbhc5DK173zOwSmKFfwVq/BSFLKl6Kv7hX8nvulq6GYTDtPr15ixGoO9YhM1L0E0pj0nwGZrGNKghBz8cYgeZFeIK/rIwo=;CKWyW0uKTks7oBbliQKBvw=="
 ---
 

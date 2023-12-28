@@ -9,7 +9,7 @@ ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-
 cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
     provider:
       name: Business Times
       domain: businesstimes.com.sg
+    quality: 19
+  - title: "Ambani wants Reliance to emerge as pioneer AI developer for India"
+    excerpt: "To supports its AI ambitions, in September Reliance signed a deal with U.S. chip firm Nvidia to develop cloud infrastructure and language models, as well as generative applications. In his year-end address to employees on Thursday Mukesh urged them to ..."
+    publishedDateTime: 2023-12-28T08:47:00Z
+    webUrl: "https://www.aol.com/ambani-wants-reliance-emerge-pioneer-134742347.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 19
 
 secured: "7fghyn5K9OMXskZROKD3n05m+M3zldADW7AxLbolBwTwEKuTi+xCIF2cmAk6jP6s4rQymGL6TnzktmOVf0bFPcblZ648JqFc1hwjxJuXdVrJAgtk6qkDv4DD/Fe/uBGD1PfYGTbJmf36oKRFZuFGUX1BDbe8eaTHsPMA/L1kTURu9SojF4ve4ePBlQpdBEMK9nj/RSAb0voxm0QE1kWA8J3tGO3s1LdePtSSRg8fsZSpNsdpcQCdhVYHxta1BuRWZYkzq8pc0HDGEQZiuldYCCQqttWB081SlEFlKMc+u66cYipadcQeOQTQV9KbZ0ERAqPAb7yMfxuS1sCyVmueaBBCr9M5kHCHxO5P82OjslE=;k2Aj6ZaIz7dp3ahSeaSnHw=="

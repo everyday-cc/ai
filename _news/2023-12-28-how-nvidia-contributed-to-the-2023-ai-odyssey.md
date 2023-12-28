@@ -69,6 +69,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "With the Core Ultra, Intel is Ready to Power the New Generation of AI PCs"
+    excerpt: "Intel has announced the Core Ultra processor that is expected to power the next generation of computers in 2024. The Core Ultra represents Intel’s largest"
+    publishedDateTime: 2023-12-28T15:01:00Z
+    webUrl: "https://tbreak.com/tech/core-ultra-intel-ai-pcs/"
+    type: article
+    provider:
+      name: T Break Tech
+      domain: tbreak.com
+    quality: 38
+    images:
+      - url: "https://e92wr2k6pgh.exactdn.com/wp-content/uploads/2023/12/Intel-Core-Ultra-1.jpg"
+        width: 1438
+        height: 1080
+        isCached: true
 
 secured: "eVSC74h+xQnP8wrunYCGODGRR2FhutIHzxkMiVeoZQKXAD0/vG7Yl65iVa43SOf2Pzti3dSHX1UxowH+JnyqyJRUcIuz76T6S7j1/NFoLO2DrSl0i1q67IHAgeWVq+76/oYtDPppsw/2yO5P2HHcgafTYbMDdEOuT+K+hztcJ8jNDxC97WZBNxH+yTfopdKIYm0238UovFCJraNAew7WzSqvK1xuz+MpApmjG2iOKMaVDiMb1Q8EALhUn5U5qj8Azj3gwIG88i+HDmovYA6iPPWOd63lAOhz54oOMUdxxYMIHz2BBCjNiWhHvqVr3w2r9P5g9H/XZrtwuAn/OPHgfpTBul1z8yFy5fT4YrTLJ0U=;k+UfONoVDxuw7P+oPL17Qw=="
 ---

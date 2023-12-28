@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/web-stories/trending/ai-trends-in-2024-india-in-edge-computing-cybersecurity-education-and-many-more-1703762154156"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://nerdbot.com/wp-content/uploads/2023/04/christina-wocintechchat-com-4GpcEI8cqUk-unsplash-scaled.jpg"
         width: 2560
         height: 1709
+        isCached: true
+  - title: "Big aye for AI in investment"
+    excerpt: "THE artificial intelligence (AI) symphony is cementing its presence in the ever-evolving world of investment. The symphony, orchestrated by data-driven algorithms, has permeated every corner of data-driven domains, none more profound than the financial world."
+    publishedDateTime: 2023-12-27T08:08:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/12/27/big-aye-for-ai-in-investment"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/27/2459499.jpeg"
+        width: 960
+        height: 1280
         isCached: true
   - title: "VCs say 2024 AI trends to watch include a harder look at business models, a rise in generated content, and a need for investor technical fluency"
     excerpt: "Top venture capitalists predict 2024's AI trends, from hot sectors they're eyeing, the hype that will fizzle, and how AI might disrupt VC."

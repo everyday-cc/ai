@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/global-ai-pioneeri
 webUrl: "https://markets.businessinsider.com/news/stocks/global-ai-pioneering-the-ai-investment-and-acquisition-landscape-1032928414"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "This week in AI: AI ethics keeps falling by the wayside"
-    excerpt: "a startup founder and an accomplished roboticist, to talk humanoid robots and broader trends in the robotics industry. CIOs take it slow with gen AI: Ron writes that, while CIOs are under pressure to deliver the kind of experiences people are seeing when ..."
-    publishedDateTime: 2023-12-23T16:01:00Z
-    webUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/"
-    ampWebUrl: "https://techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/23/this-week-in-ai-ai-ethics-keeps-falling-by-the-wayside/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Agreements in the age of AI: Apple wants deals with news publishers to train AI models"
     excerpt: "Take Siri: When Siri first shipped on iPhone 4s in 2011, it was the world's first large-scale, voice-powered, commercially available virtual assistant that used some AI-like elements. However, it was never considered a full-fledged AI system. Fast forward to today, and it appears that Apple needs to give Siri a drastic upgrade ."
     publishedDateTime: 2023-12-26T02:10:00Z

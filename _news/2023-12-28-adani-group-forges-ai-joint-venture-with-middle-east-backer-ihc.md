@@ -46,6 +46,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Ambani wants Reliance to emerge as pioneer AI developer for India"
+    excerpt: "To supports its AI ambitions, in September Reliance signed a deal with U.S. chip firm Nvidia to develop cloud infrastructure and language models, as well as generative applications. In his year-end address to employees on Thursday Mukesh urged them to ..."
+    publishedDateTime: 2023-12-28T08:47:00Z
+    webUrl: "https://www.aol.com/ambani-wants-reliance-emerge-pioneer-134742347.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "QEhiltgcZSoDMfl43W1JbJb2W/rKtpVfTLWHbyONnYN9KvqBWztRBmbIcIZ0GZedIkQr6V9roHU43aQlYGTMA60l/2No1g91yUq+woHMPrTLn2wuTEoOD9BzDYArBiLTLQGyCyjykKbygrIoi7kQpy73LKLg0XqXnHOE2Q8Unj+fLNC/6prOZYiAd/+EwOdpcl7DYmECROf6Mti0vfUbohHpkDLwhrBQOPJatBnqt0475j24PDRlyYAwLdPXJQQH7kRe7zn4maCNoLjZocBfPmVt4BOmyzEFrACPIIkkxArdn1+iJliPzczHiAfvb+Rul/tE41ixaohmt9uHHJNZJ/X3i4lYmYBJSuteCf5NnY0=;+u8g3uH+cM+cuLqdP7Pqlg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-v
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
 type: article
 quality: 118
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
     quality: 84
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/copilot-microsoft.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Microsoft is killing off Windows Vista-era Speech Recognition on Windows 11"
-    excerpt: "Microsoft is saying goodbye to Vista-era Speech Recognition with their new update for Windows 11 as it embraces AI."
-    publishedDateTime: 2023-12-23T15:16:00Z
-    webUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/"
-    ampWebUrl: "https://www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    cdnAmpWebUrl: "https://www-windowslatest-com.cdn.ampproject.org/c/s/www.windowslatest.com/2023/12/23/microsoft-is-killing-off-windows-vista-era-speech-recognition-on-windows-11/amp/"
-    type: article
-    provider:
-      name: Windows Latest
-      domain: windowslatest.com
-    quality: 74
-    images:
-      - url: "https://www.windowslatest.com/wp-content/uploads/2023/12/Windows-11-Speech-Recognition.jpg"
         width: 1920
         height: 1080
         isCached: true

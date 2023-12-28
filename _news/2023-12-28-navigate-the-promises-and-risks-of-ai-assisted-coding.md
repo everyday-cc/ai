@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "How to Navigate the AI Era with Google Bard in 2024"
+    excerpt: "This guide is designed to show you how to navigate the AI era with the help of AI tools like Google Bard and other useful AI tools."
+    publishedDateTime: 2023-12-28T12:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-navigate-the-ai-era-with-google-bard-in-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/Google-Bard-5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thought for the Week: The rise of Artificial Intelligence and God"
     excerpt: "Artificial Intelligence is something we are hearing more and more about. After the industrial revolution and the internet,"
     publishedDateTime: 2023-12-27T16:28:00Z
@@ -89,8 +103,8 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 16
+    quality: 18
 
-secured: "twl4yf5nzEGr7Qdkkodi0UUFP4nVs1tmPWRDJwu3oR88N7J8CrWbft5lWNBv+ebk4Buri1RlHoCfeTt+uHs4RTwast5dWPruidZxpDS/rHpkWe1T3pZVCXOP+KIMl7SmafDd3v92OkOMDo8mhapj1VrFQ4O5ifvIX9E3xS+CcyGR6WHHY6bBtLXMZyp0d1tPBp2jmuUd1t6DquQweZzd5iQ/iRvVCF024IHL89gLpReMrDjIFfhXPK6LlnEdjbZDzJyST+owkQYp9IsR2nwYJrHrpDM4n0h0yJnlzwulp8LIjRb3v+bmFJgGR3+arkqPfKxobr64l4livtJ6Cn/2XcUYTXxYHeI3N4YxFz1Cnso=;DU8Itl40EYv7fDfyUHVYHg=="
+secured: "Ia2uZyDD2ABRIqvQaLjbabVeLrAp4RSSx/F1rFuJJ6rGwi97fI07UvbCUMgCe0Xr83Wnx3RqJaAO2sXh4ZkeA8vcHGG3JU+BVw9apfmxHTcIOxP8Wr1vVkj/8qSvgsbyNF/iSHPhKYCtqk0sb2fMIFwC8JUIxbWrNQdOAoL4upDglyC2RZ/gXVx76ybCWROnp9BMWyySHdnDgJ8SfEpFF583utxuT9JJjtX4L8Rau1564jN6I3cb1vbyZChEvlHFvPKN0FpM2Keat+dMdvVuuuVylNiDaG1EUp17oYTnRzQ8YLfmvA3BeB1tXK1bD1pdkfuXuISpjgMcpTfrmgQv+GDT7fG69SLZjux6CtBAQ3qKdPVgZch2bUCpFFRAsiYtigcz+EroxhxIdmm3yTGY/e+zy+9/ZEarV2TfjzUTfvga+Ei4pxrJj+b5f6xShoh30lO9IXvzNYYCfWFKDa9Z7B0fm0VLGq6t/buevwu2Qs3x+5V8PnQSXNiyON9wR2LwsiaWDR0/EzwP6mVBWbUkEg==;RDyqTJ34lrfpM1LKd+z3eA=="
 ---
 
