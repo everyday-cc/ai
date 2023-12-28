@@ -52,6 +52,15 @@ related:
         width: 916
         height: 307
         isCached: true
+  - title: "AI Assimilation: 7 Stocks Leading in Artificial Intelligence Adoption"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The AI stocks landscape has undergone a seismic shift, emerging as one of the"
+    publishedDateTime: 2023-12-28T19:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-assimilation-7-stocks-leading-in-artificial-intelligence-adoption-1032930877"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Beyond Words: Emotion AI's Revolutionary Impact On Professional Communication"
     excerpt: "Communication goes beyond sending emails or having a conversation, and those who are experts in their communication understand that reading the other person and"
     publishedDateTime: 2023-12-26T18:19:00Z

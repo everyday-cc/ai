@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 916
         height: 307
         isCached: true
+  - title: "AI Assimilation: 7 Stocks Leading in Artificial Intelligence Adoption"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The AI stocks landscape has undergone a seismic shift, emerging as one of the"
+    publishedDateTime: 2023-12-28T19:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-assimilation-7-stocks-leading-in-artificial-intelligence-adoption-1032930877"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Designing A Coach Training Program For AI Transition In HR"
     excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
     publishedDateTime: 2023-12-26T12:30:00Z

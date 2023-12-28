@@ -26,15 +26,15 @@ images:
 
 related:
   - title: "Five ways artificial intelligence is improving health care in Canada"
-    excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,"
+    excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. The year began with many befriending ChatGPT,"
     publishedDateTime: 2023-12-27T15:36:00Z
-    webUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
-    ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
-    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+    webUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+    ampWebUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+    cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
     type: article
     provider:
-      name: winnipegsun
-      domain: winnipegsun.com
+      name: The Vancouver Sun
+      domain: vancouversun.com
     quality: 59
     images:
       - url: "https://smartcdn.gprod.postmedia.digital/healthing/wp-content/uploads/2023/12/GettyImages-1516277094.jpg"

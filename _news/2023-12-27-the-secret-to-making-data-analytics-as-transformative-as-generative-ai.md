@@ -61,20 +61,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
-    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
-    publishedDateTime: 2023-12-23T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_A_double_helix_spiral_made_of_glowing_green_computer_f8394a15-b3e9-416a-9e23-6aaabf2e88a6-1.png?w=1200&strip=all"
-        width: 858
-        height: 686
-        isCached: true
   - title: "How generative AI is changing social media content"
     excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
     publishedDateTime: 2023-12-24T01:07:00Z

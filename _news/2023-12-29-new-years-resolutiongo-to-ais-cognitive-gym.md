@@ -2,14 +2,12 @@
 category: news
 title: "New Year's Resolution—Go to AI's Cognitive Gym"
 excerpt: "The rise of artificial intelligence and large language models suggests concerns about cognitive decline. AI and LLMs may be tools for mental exercise, enhancing cognitive skills, and may support brain health. Blending AI with traditional cognitive tasks may be a smart New Year's resolution."
-publishedDateTime: 2023-12-28T16:30:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym?amp"
+publishedDateTime: 2023-12-28T16:10:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
+webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202312/new-years-resolution-go-to-ais-cognitive-gym"
 type: article
-quality: 57
-heat: 67
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -18,12 +16,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-12/BrainGym_0.png.jpg?itok=edqln6w3"
-    width: 1528
-    height: 800
-    isCached: true
 
 related:
   - title: "Here's what Google's Bard AI suggests for San Antonians' New Year's resolutions"
@@ -36,6 +28,6 @@ related:
       domain: expressnews.com
     quality: 15
 
-secured: "VJqnKWQyH76+JF13IxavTPreUmxmVs4d9QEL5W71pi91ivBnsvXva6QEXwdH0maOhls4Nz7x6H2R1jemYL39wz/2wE4h1YgSqSj3oCsIl1E67ueblXHcpAPhtV/G4NiM7U2x0uIdLZGXAy4gWcOUkqN0KNx2M7vHAPEsmBKRcixqWNTECfWeIWhvH2HG49cnttxw0/CZ8jgsUZxovzdHVDgYsoUCcua5olgEPdeIYyanDd0FL5kDTgPlpxXxqfqhnQPnMuwKs61/Q4CKjCh7heyL/lAlop6d/Zl3++nmDgDygw0wwcWwqXUrRhnFoLzpQZ2HrTUH7xCPk1R4Z9HE+/QGSIjD89L9wVHFBnBQ64c=;VhIUzzlkiRrZQzzewBrFSg=="
+secured: "PyzLqv2MH+rSh8omatACNj+kHejDGd1n3X+r6xZ2Hrr1ZEKf/J+D5HieOaRPChm6dVo9/rYKNDLo7/x5eV9uf8a85kJy5gfbQJ2D9BvK2FiYAGHF/JQIBGs7FYKBeZcXB7IUq2yix3d6chhnGPjo/CN1bLKlK7K4Xoxy3OIDsHBnGWSXwS/QbHXNHwJ64mW08jptMVEZ2Bphch80QGwosWBmdsYjNJjlxMa+NNF9xywqY9ButEIW8Dz/vJ1orVIlOppAfF99d37oaSj0WOdeP5ZLrBQJ2ZxqrT278FbTireeBmRFzhrXkIoDqbL92oE/GGCPYJIL/zhhswjoGZbYAzNfodgsGeVzfTFTv3yj0mdvYJoGwwVfgK7ItbPZlp844CZPTuVACBQtgY/zt+yj4g4u2fhUOzpRdNWGajvcLlBEobp8/kwBuLHunZQ/LB4KAsMCfKREy5Rhlrndsr6BwgpBIuk35QjCNB+KPSTbTwwpoXsUQyepkY1WZL1xA/rjs5fizWVbwYq3/WBht1dHrg==;St19RLFr8bEh3KexAiA0HA=="
 ---
 

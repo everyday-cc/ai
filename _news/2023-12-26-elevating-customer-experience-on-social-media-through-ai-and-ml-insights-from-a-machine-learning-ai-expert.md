@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Gaming, AI and Wellness to Drive Smart-Home Innovation Over the Coming Year"
-    excerpt: "In 2024, technologies like predictive artificial intelligence and biometric data management will continue transforming the role smart machines play in our lives—anticipating needs, customizing experiences and foreseeing troubles. Think of a diagnostic toilet seat or self-maintaining appliances that can schedule their own repairs."
-    publishedDateTime: 2023-12-28T11:59:00Z
-    webUrl: "https://www.mansionglobal.com/articles/gaming-ai-and-wellness-to-drive-smart-home-innovation-over-the-coming-year-b528b2ba"
+  - title: "8 top sports-betting execs reveal their predictions for 2024, from AI innovations to a renewed focus on customer experience"
+    excerpt: "Leaders at companies like FanDuel and DraftKings reflect on how the sports-betting industry changed in 2023 and share their expectations for next year."
+    publishedDateTime: 2023-12-28T20:11:00Z
+    webUrl: "https://www.businessinsider.com/sports-betting-industry-predictions-top-execs-2023-12"
     type: article
     provider:
-      name: Mansion Global
-      domain: mansionglobal.com
-    quality: 37
-    images:
-      - url: "https://images.mansionglobal.com/im-71815110/social"
-        width: 1280
-        height: 640
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "OpY2aG6wdByTSRchFogqs1v+QWyPFq397FsCQAk9iGXPFfuiUrEPvrEJdMkmYNPhvstUqkD+LusmWR8b7RXyLabEQD6hUNVAGRbnmEJ+SnKB25R2owreEJWEu0dUh9g40wClIb3ZVYxCxils24JnB0QNGhWsPRyIpZrfJKIuKiFhSzBbDUZYpdu6xRitdtd+hFJSXLUeJBXXYyU2fktdiJ8ixoziJDQ6Fu9TVEPVUDmhzG30F5GF/cbcBMYt47PyC3U1vRpmPcJAVlqNMWtJDPKk4qb1lXCdsxv3GpgRHFOKIa3oMI3xPeHaXvgcdd84knit4tikY7EVg8PcIr7CvHZjfpiBp0uGVuiJQpb6LRO0MWXBnpe3jfvOwz5/IkFXbVHiqoroBeuOfVCd9MYC7eMMKhIJLmvtH8iJt1OdsIZ4h8ybfUILK5kH6bnwqBIWjFEMuoQJIgEmHXjsA35S9CTyRe8NAnXn/XRE1sxEBo/4sd0yW42EocusmI0huBqMpSgW0bUoV3YOl3g3BYOQXw==;19PH99euxv4gbuyoQJ4w9w=="
 ---

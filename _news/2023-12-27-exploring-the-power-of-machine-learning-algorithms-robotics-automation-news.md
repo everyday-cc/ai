@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The 5 biggest robotics industry trends of 2023"
+    excerpt: "As 2023, comes to an end, we’re looking back at some of the biggest trends in the robotics industry this year."
+    publishedDateTime: 2023-12-28T20:41:00Z
+    webUrl: "https://www.therobotreport.com/the-biggest-robotics-industry-trends-in-2023/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 64
   - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
     excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
     publishedDateTime: 2023-12-24T11:53:00Z

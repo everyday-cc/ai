@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-pr
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-2024-outlook-iphone-moment-copilot-ai-chatbot-2023-12"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,205 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "You can now run Microsoft's AI-powered Copilot as a free Android app"
+    excerpt: "Android users now have yet another AI-powered app they can run on their devices. Courtesy of Microsoft, the new Copilot app works similarly to OpenAI's ChatGPT app and Microsoft's own Bing AI app and kicks in the latest models for GPT-4 and DALL-E 3."
+    publishedDateTime: 2023-12-27T07:34:00Z
+    webUrl: "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/91de305b1ff9b91f5fa2ee3e2cccf31c7fb36338/2023/12/27/8bb71652-c584-4532-a5b5-af0318dbb2c9/gettyimages-1684489759.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft quietly brings Copilot AI assistant app to Android"
+    excerpt: "Spotted by Neowin, it appears the Copilot app has been available in the Play Store since December 19, 2023. Although there’s an Android version of the app, it looks like Microsoft has yet to release a version for iOS. But the Bing app on iOS essentially offers the same experience."
+    publishedDateTime: 2023-12-27T15:56:00Z
+    webUrl: "https://www.androidauthority.com/microsoft-copilot-on-android-3397909/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/11/copilot-microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google and Microsoft: The Emergence of the AI Duopoly"
+    excerpt: "In fact, both Google and Microsoft now have the AI muscle to create the sort of duopoly that will stave off other competitors like Coke ( KO ), Home Depot ( HD ), Lowe’s ( LOW ), Visa ( V ), MasterCard ( MA) and Uber ( UBER )."
+    publishedDateTime: 2023-12-27T14:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/google-and-microsoft-the-emergence-of-the-ai-duopoly"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
+  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
+    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
+    publishedDateTime: 2023-12-25T05:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NY Times sues Open AI, Microsoft over copyright infringement"
+    excerpt: "OpenAI no longer discloses as many details of the data used for training of recent GPT versions, but all indications are that full-text NY Times articles are still part of that pr"
+    publishedDateTime: 2023-12-27T19:05:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+  - title: "Report: Microsoft developing AI-optimized Surface Pro and Surface Laptop"
+    excerpt: "Microsoft Corp. is developing new versions of its Surface Pro tablet and Surface Laptop that are optimized to run artificial intelligence software, Windows Central reported today. The devices are expected to launch next year."
+    publishedDateTime: 2023-12-28T21:43:00Z
+    webUrl: "https://siliconangle.com/2023/12/28/report-microsoft-developing-ai-optimized-surface-pro-surface-laptop/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Surface-Pro-9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "The Best Ways to Use the New Microsoft Copilot AI App for Android"
+    excerpt: "Microsoft's new Copilot app for Android enables you to produce AI-generated text and images from your phone. It's free to use and available now."
+    publishedDateTime: 2023-12-28T16:00:00Z
+    webUrl: "https://lifehacker.com/tech/microsoft-copilot-ai-app-android-uses"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 54
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HJQZVW87VGJNZ75YEBR73E1P/hero-image.fill.size_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft says its AI is safe. So why does it keep slashing people’s throats?"
+    excerpt: "The AI Image Creator makes extremely violent images of Joe Biden, the pope and others. Microsoft’s failed response points the finger at rogue users."
+    publishedDateTime: 2023-12-28T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/12/28/microsoft-ai-bing-image-creator/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 51
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHIBWX5OWVBWFIZMQHZO4SENDQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
+    excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
+    publishedDateTime: 2023-12-26T18:30:00Z
+    webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
+    type: article
+    provider:
+      name: financial-world
+      domain: financial-world.org
+    quality: 50
+    images:
+      - url: "https://www.financial-world.org/world/media/image23752.jpg"
+        width: 1920
+        height: 1192
+        isCached: true
+  - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
+    excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
+    publishedDateTime: 2023-12-27T13:18:00Z
+    webUrl: "https://www.benzinga.com/government/23/12/36394096/microsofts-ai-collaboration-sparks-national-security-fears-among-us-policymakers"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+  - title: "New York Times Sues OpenAI, Microsoft Over Use Of Content In Artificial Intelligence Products"
+    excerpt: "The New York Times filed a long-anticipated lawsuit over OpenAI and Microsoft’s use of its content to train large-language models used in their artificial intelligence products. The lawsuit,"
+    publishedDateTime: 2023-12-27T13:42:00Z
+    webUrl: "https://deadline.com/2023/12/new-york-times-ai-lawsuit-open-ai-microsoft-1235682270/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 38
+  - title: "The Times Sues OpenAI and Microsoft Over AI Use of Copyrighted Work"
+    excerpt: "New York Times is the first major American media organization to sue the companies, the creators of ChatGPT and other popular AI platforms, over copyright issues"
+    publishedDateTime: 2023-12-27T15:31:00Z
+    webUrl: "https://www.seattletimes.com/business/new-york-times-sues-openai-microsoft-over-ai-use-of-copyrighted-work/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
+  - title: "Microsoft Copilot AI gets a dedicated app on Android, no sign-in required"
+    excerpt: "Microsoft has just released a new dedicated app for Copilot on Android devices, with the free app available for download today. As a part of its AI focus, Microsoft recently announced that it would move its chat assistant and other AI tools under the name ..."
+    publishedDateTime: 2023-12-26T14:48:00Z
+    webUrl: "https://9to5google.com/2023/12/26/microsoft-copilot-andorid-app/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 33
+  - title: "As Microsoft Is Sued Over AI, It Still Has an Edge: How to Trade the Stock"
+    excerpt: "The NYT apparently filed in the Federal District Court in Manhattan in New York City, claiming that millions of articles from the Times over time have been used in training the models. Microsoft stock was nearly unchanged on Wednesday (-0.16%), while NYT traded up 2.78%."
+    publishedDateTime: 2023-12-28T16:19:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/as-microsoft-is-sued-over-ai-it-still-has-an-edge-how-to-trade-the-stock-16140979"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 32
+  - title: "Microsoft says its AI is safe. But it keeps making images of people's throats slashed"
+    excerpt: "The images look realistic enough to mislead or upset people. But they're all fakes generated with artificial intelligence that Microsoft says is safe — and has built right into your computer software."
+    publishedDateTime: 2023-12-28T14:52:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/12/28/microsofts-ai-keeps-making-images-of-peoples-throats-slashed/72047997007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 27
+  - title: "Can Microsoft become an AI leader and maintain its ambitious goals to cut carbon emissions?"
+    excerpt: "Microsoft CEO Satya Nadella announced one of the most ambitious plans to decarbonize of any tech company. By 2030, Microsoft would be carbon negative, removing more carbon from the atmosphere than it emits."
+    publishedDateTime: 2023-12-28T18:19:00Z
+    webUrl: "https://www.kuow.org/stories/can-microsoft-become-an-ai-leader-and-maintain-its-ambitious-goals-to-cut-carbon-emissions"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 24
 
 secured: "Qr0W+LfFB94cGWdu37sD8YQ404aQn/UuHZ7URos4oCfr+Y835zPavEdSGUZDfNChwC5B30lde0Svs2AfuUbBDiknSGdzBky5IGPqJGoKOMvQDvFDjhGGfbVk2vU3Twiyp3/N18/N8SxF+wtfOM3SBZQIMXjb5UCP/ObosXSMP8tExHgv8Q1g6WAU3eebMge1sWNsKv+ikKuabbdX2rXcRPGrBJxGCWkQRmskLVHK7ZJ/N+/tXKpcyaeAdYzIzD2s6ReTod+8L4ITvQlWxz2TuRXgSSiyw4zBSooVIr2yiBzTdDMLw7gIS5I1DTJHCqb94CWByUwPVbv8cctRdFbui9CbTGTLqoLB1Abjs/GwKPI4x7EBZznxMdgLUEh4ZFMXvXikzadWJlUbj5sW/Mr8q2DZsDpkvn4rI3+v2gN1E0ayTNKNQ4Pc39smTkj6wboj6vzkLqZ7jQBB6nKHpyDE9OZ0+XQvVyt/w1CSuQltNXDkzZi3XqmqGeoivxuR5B7Qm8JpaatX/5NlzfF4A3TXFg==;WZD8IAQmAKckVSVDbpCnKw=="
 ---

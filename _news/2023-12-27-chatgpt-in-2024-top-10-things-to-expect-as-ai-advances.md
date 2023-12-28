@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intellige
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
 type: article
 quality: 76
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-28T19:30:00Z
+    webUrl: "https://www.itbusiness.ca/news/predictions-2024-artificial-intelligence/126864"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 19
 
 secured: "ta6EGJgU1RdDOfZbonRlUkuRD77++x8wSWmfuw/SUkU44l9g6cy67NxVtY19T8GWDxuZpJhPvuflWAeLmxNrPJkEYBouqILaRAN7VLAJTdoWhIrqk1A3x6hoF6xKgbUjlVL8h+FWlo0bEJhQAqg89smyK/SSrtqRN/CLxgKWR9iw3ZUsFEKeqzmIp+m5aWgZY3ZpC/j8agETGxqnspBtfW7tC5xKK6Vp90qvVhE3ucXzW+V+2rWlr5vFhTIqVzd8Ho80o1EXbuHSra9Dlribl6Xq8naedBCVyyIN+hJF+fDVGbIalIoy6TqGhbO9VqERrYOJ+YOGuii0zAglxo+OMgALBM50hREFXziEnpVzZyc=;jXlZedcq2O5J9z52gRdfhw=="
 ---

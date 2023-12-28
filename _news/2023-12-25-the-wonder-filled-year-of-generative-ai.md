@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/658be489a32c5a1cf455177a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Prioritizing customers while chasing the bleeding edge of generative AI"
-    excerpt: "How the thoughtful application of AI can help strike a balance between cutting-edge innovations and actual customer use."
-    publishedDateTime: 2023-12-23T19:16:00Z
-    webUrl: "https://venturebeat.com/ai/prioritizing-customers-while-chasing-the-bleeding-edge-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_A_double_helix_spiral_made_of_glowing_green_computer_f8394a15-b3e9-416a-9e23-6aaabf2e88a6-1.png?w=1200&strip=all"
-        width: 858
-        height: 686
         isCached: true
   - title: "The secret to making data analytics as transformative as generative AI"
     excerpt: "Data science and analytics continue to be challenged by data volume, preparation, quality, process time and more. But GPUs can help."

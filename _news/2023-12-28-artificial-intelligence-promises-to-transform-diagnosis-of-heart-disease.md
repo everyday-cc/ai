@@ -100,6 +100,15 @@ related:
         width: 1480
         height: 978
         isCached: true
+  - title: "Xbox Accused of Using AI Art to Promote Games"
+    excerpt: "Xbox has been accused of using AI-generated art to promote indie games on social media. Using AI art in social media posts is often controversial, and many gamers criticized Micro"
+    publishedDateTime: 2023-12-28T18:45:00Z
+    webUrl: "https://gamerant.com/xbox-ai-art/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 19
 
 secured: "acwDQ74bVPCAoe3uSJEDbMw5CuRfO3HJr8TcJ8kmJCJmrz9ocmz/z5WDyRsuAdrQnfoAb4TH3WQVjpf8cFublzSe2TJ3t6MLDb6f7f9lks+edwY3L/j8/39kwMovmpRyXe5l22ZxpyHPLQaJUX+hg/Tk1CehU6mTVtRMlks98XaWp6NxdguyjZL6RYCwxsaZezaC1shN4ii1cPUMBnHwkR2kXXQNNQwohBDunNO7mao+kTfamzpEsojN6M8LZmjym6cPopJTvTIAnu88sM/U/KyCYivhnCb26bGflk2y8QFgaYXWRbQhJK/1l07c27Z4l+PqQTgTgzRKW/mgqehoM4FepDIzcORRAk/GeRcv1i+/JKkC/XvaXdDkLmrtVHgDXjtu9njQzaL2F2Wvnswr0xCoO10yW650sX8QnEX90FqCs14siNpdUpmkfJ6LnRk1qsTz3Yy9tccuWSregmmfplmIL6iTKztHLN1DLKuHrnsC+oBCbp0peHCrAtAfpNu84AHKLE0DgAwnpI0QRIrMRQ==;kpU4/gHn4H9bh/XSfJhrHQ=="
 ---

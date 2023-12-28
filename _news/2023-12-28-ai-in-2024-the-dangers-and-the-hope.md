@@ -93,6 +93,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-28T19:30:00Z
+    webUrl: "https://www.itbusiness.ca/news/predictions-2024-artificial-intelligence/126864"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 19
 
 secured: "/5xXT5nKL1IHgVp07T+rlSyjtakyRCwJiUPP8EH8bAbSQSh83cDCMxW0L5ij2u+7sNWWrPjhXi8F0GUmwqewj2xNFCsAibSrwBsRsPiHGVQerfBsrJHAN2LlzY3uEa8JVqiuF1nJkA1XnvmqOdcV/24K11S13K98/18BrHUdInOmKne5D6Ejm/VfbjIWcu6fqbW/vrBaDbH/R3Scv6lwFOhF1EkAMlKdA2dP5JlcHug/f8oWYglHz+gNQWk/q74uVyPjY6oKUkjxgpuwB62Gl17rzJU32djGJV5eiKgbw+WVph3abty2BWnkO3RU+UgwPaG48w58s65Cnf1MHVilOW6aK707TIOnjOClSktJCDBnDi5PCwxY2Hkmv6aa0Gx3KTpzlNOEGjJGmwMt6HWhxP7zGnNe5bdbbFR8i/q4o0lEJRRpb4q1F6fnEPRpR2UxOMKhUjNAR/zWQBRNH7/VucuFelrEaDPHeQseiN7T8oKgf2ZSUWqqpVMGjzYArP9jqa9iDu0214KlcAB4hdsAUw==;wnAv8o+CIWcnE5pVbYb3Cw=="
 ---

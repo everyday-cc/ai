@@ -1,0 +1,50 @@
+---
+category: news
+title: "LG Unveils AI-Powered, Wheeling Smart Robot for the Home"
+excerpt: "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality."
+publishedDateTime: 2023-12-28T21:15:00Z
+originalUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
+webUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
+type: article
+quality: 56
+heat: 76
+published: true
+
+provider:
+  name: Hypebeast
+  domain: hypebeast.com
+
+topics:
+  - AI Hardware
+  - AI
+  - AI in Robotics
+
+images:
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+    width: 1080
+    height: 540
+    isCached: true
+
+related:
+  - title: "Beijing Unveils Powerful AI Computing Platform Amid Semiconductor Tensions"
+    excerpt: "BEH has expressed intentions to eventually power the platform entirely with green energy, aligning with global environmental goals."
+    publishedDateTime: 2023-12-27T14:28:00Z
+    webUrl: "https://www.gizmochina.com/2023/12/27/beijing-ai-supercomputer-semiconductors/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 45
+  - title: "LG's smart home AI agent is a cutting-edge robot that can engage in complex conversations"
+    excerpt: "LG is leveraging AI to enhance its vision of the smart home of the future, one where cute robotic companions can sit down and talk to you."
+    publishedDateTime: 2023-12-28T13:59:00Z
+    webUrl: "https://www.tweaktown.com/news/95186/lgs-smart-home-ai-agent-is-cutting-edge-robot-that-can-engage-in-complex-conversations/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 25
+
+secured: "G1aR4e8JG6nYI7WyL/gYi/yjvd5VtbIfWwSJhft3kGS1LVnqRsmuwzC1ZQO0sQbFrVA9wzekw9RLNp4lA+VXHYXGyZyAzW9cGniD7Bm9m4uPMQH7QkUpeBesdykH1x9o0xpaPHtnj/6GjVns3HzUbyPuet3yLp4b/gdS40YkG8Rgq6e8mRnuEzlUSiaVO5t+u5kTwxLpsEkBQkH7wubHLksBBGJ1c2dJZ8H87qEp0o+dgYqvIlLCo1aQBMQx9Mnp/YJzVyDAPguud9HnP5sPyvH9RaTFe8T0gdvuh/FiWiLHKCWCHj/BaQ6tdkprBUvzw5dtRsmfC7eLDg/+j/4rredzVK4pkK7hOqK72jh935E=;pymVJjBlQntv46jdOBtWvg=="
+---
+

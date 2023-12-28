@@ -95,6 +95,15 @@ related:
         width: 1480
         height: 978
         isCached: true
+  - title: "Xbox Accused of Using AI Art to Promote Games"
+    excerpt: "Xbox has been accused of using AI-generated art to promote indie games on social media. Using AI art in social media posts is often controversial, and many gamers criticized Micro"
+    publishedDateTime: 2023-12-28T18:45:00Z
+    webUrl: "https://gamerant.com/xbox-ai-art/"
+    type: article
+    provider:
+      name: Game Rant
+      domain: gamerant.com
+    quality: 19
   - title: "Artificial intelligence promises to transform diagnosis of heart disease"
     excerpt: "In 15 seconds, the Eko stethoscope can detect three types of heart disease: heart failure, which accounts for up to 4 per cent of the annual budget of the NHS; atrial fibrillation or irregular heartbeat, which is the biggest cause of stroke; and valvular heart disease."
     publishedDateTime: 2023-12-28T11:59:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces availability of new vision, search Cognitive Services"
-    excerpt: "Microsoft's Cognitive Services are a set of API's, SDKs, and services that enable developers to leverage AI capabilities to help make their applications intelligent, intuitive, and engaging."
-    publishedDateTime: 2023-12-23T19:24:00Z
-    webUrl: "https://www.neowin.net/news/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-availability-of-new-vision-search-cognitive-services/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 118
-    images:
-      - url: "https://cdn.neowin.com/news/images/uploaded/2017/02/1486489003_cognitive_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "You can now run Microsoft's AI-powered Copilot as a free Android app"
     excerpt: "Android users now have yet another AI-powered app they can run on their devices. Courtesy of Microsoft, the new Copilot app works similarly to OpenAI's ChatGPT app and Microsoft's own Bing AI app and kicks in the latest models for GPT-4 and DALL-E 3."
     publishedDateTime: 2023-12-27T07:34:00Z
@@ -71,6 +55,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Microsoft's 'iPhone moment' has arrived, and its AI-powered chatbot could boost shares 21%, Wedbush says"
+    excerpt: "Recent channel checks with AI customers have turned incrementally more bullish and bode well for Microsoft's ability to monetize CoPilot in 2024."
+    publishedDateTime: 2023-12-28T14:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-stock-price-2024-outlook-iphone-moment-copilot-ai-chatbot-2023-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://i.insider.com/658d7dd5ab6f2ebb11f75659?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google and Microsoft: The Emergence of the AI Duopoly"
     excerpt: "In fact, both Google and Microsoft now have the AI muscle to create the sort of duopoly that will stave off other competitors like Coke ( KO ), Home Depot ( HD ), Lowe’s ( LOW ), Visa ( V ), MasterCard ( MA) and Uber ( UBER )."
     publishedDateTime: 2023-12-27T14:21:00Z
@@ -80,6 +78,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 66
+  - title: "2023: The year of the AI arms race — Google, Microsoft, Amazon, Meta flexed their muscles"
+    excerpt: "In 2023, tech giants like Alphabet, Microsoft, and Meta (formerly Facebook) made significant advancements in artificial intelligence (AI). Alphabet in"
+    publishedDateTime: 2023-12-25T05:12:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/articleshow/106261712.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/2023-the-year-of-the-ai-arms-race-google-microsoft-amazon-meta-flexed-their-muscles/amp_articleshow/106261712.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106261712,width-1280,height-720,resizemode-4/106261712.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NY Times sues Open AI, Microsoft over copyright infringement"
     excerpt: "OpenAI no longer discloses as many details of the data used for training of recent GPT versions, but all indications are that full-text NY Times articles are still part of that pr"
     publishedDateTime: 2023-12-27T19:05:00Z
@@ -89,6 +103,62 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 64
+  - title: "Report: Microsoft developing AI-optimized Surface Pro and Surface Laptop"
+    excerpt: "Microsoft Corp. is developing new versions of its Surface Pro tablet and Surface Laptop that are optimized to run artificial intelligence software, Windows Central reported today. The devices are expected to launch next year."
+    publishedDateTime: 2023-12-28T21:43:00Z
+    webUrl: "https://siliconangle.com/2023/12/28/report-microsoft-developing-ai-optimized-surface-pro-surface-laptop/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Surface-Pro-9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
+    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
+    publishedDateTime: 2023-12-24T07:08:00Z
+    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Microsoft says its AI is safe. So why does it keep slashing people’s throats?"
+    excerpt: "The AI Image Creator makes extremely violent images of Joe Biden, the pope and others. Microsoft’s failed response points the finger at rogue users."
+    publishedDateTime: 2023-12-28T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/12/28/microsoft-ai-bing-image-creator/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 51
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHIBWX5OWVBWFIZMQHZO4SENDQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "TomTom and Microsoft: Revolutionary AI Car Assistant, New Era of Smart Driving"
+    excerpt: "The company known for developing GPS platforms has teamed up with Microsoft to develop this AI assistant that will allow users to talk to the system in a natural way"
+    publishedDateTime: 2023-12-26T18:30:00Z
+    webUrl: "https://www.financial-world.org/news/news/financial/24315/tomtom-and-microsoft-revolutionary-ai-car-assistant-new-era-of-smart-driving/"
+    type: article
+    provider:
+      name: financial-world
+      domain: financial-world.org
+    quality: 50
+    images:
+      - url: "https://www.financial-world.org/world/media/image23752.jpg"
+        width: 1920
+        height: 1192
+        isCached: true
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
     publishedDateTime: 2023-12-27T13:18:00Z
@@ -125,6 +195,33 @@ related:
       name: 9to5google
       domain: 9to5google.com
     quality: 33
+  - title: "As Microsoft Is Sued Over AI, It Still Has an Edge: How to Trade the Stock"
+    excerpt: "The NYT apparently filed in the Federal District Court in Manhattan in New York City, claiming that millions of articles from the Times over time have been used in training the models. Microsoft stock was nearly unchanged on Wednesday (-0.16%), while NYT traded up 2.78%."
+    publishedDateTime: 2023-12-28T16:19:00Z
+    webUrl: "https://realmoney.thestreet.com/investing/as-microsoft-is-sued-over-ai-it-still-has-an-edge-how-to-trade-the-stock-16140979"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 32
+  - title: "Microsoft says its AI is safe. But it keeps making images of people's throats slashed"
+    excerpt: "The images look realistic enough to mislead or upset people. But they're all fakes generated with artificial intelligence that Microsoft says is safe — and has built right into your computer software."
+    publishedDateTime: 2023-12-28T14:52:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/12/28/microsofts-ai-keeps-making-images-of-peoples-throats-slashed/72047997007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 27
+  - title: "Can Microsoft become an AI leader and maintain its ambitious goals to cut carbon emissions?"
+    excerpt: "Microsoft CEO Satya Nadella announced one of the most ambitious plans to decarbonize of any tech company. By 2030, Microsoft would be carbon negative, removing more carbon from the atmosphere than it emits."
+    publishedDateTime: 2023-12-28T18:19:00Z
+    webUrl: "https://www.kuow.org/stories/can-microsoft-become-an-ai-leader-and-maintain-its-ambitious-goals-to-cut-carbon-emissions"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 24
 
 secured: "4W9KqNM/EBGTTUQrQSPPJ5MPjF2/52zGR2dLdMCDLkok4Xs1hY0H7aK8MCnAvKyu3HTYKERlIA9cMK2kdwg9OolTBB5xKLT+/mFf9CDqdeEWOmneaPHSpToCQukqFWacIf9vxh0HUt1Wi+3maB4NLoVq9HNIZQ0LCSKHFhOINY8J04Yf6WdqneMa89xzhTp+lODXAswRv99BDaiA6W/cb8SHMbq0h8IvjDJST4vydgmRkLgwSCQF/vfR60/Oj0Qpuc+8f0WdOceyUfnnk9/h8IFK74SbK1rhyhgRxv6tU3OL/DCGbH0t26B1EK9mThElaxVnmNjOu8y3pkAnrBf4v6RCm+DxfdxJmg/PAG9ZqXw=;RA66vg6zy/tS2oUdHPdv+A=="
 ---

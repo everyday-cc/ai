@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-
 cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,54 @@ images:
     height: 810
     isCached: true
 
-secured: "og/YJ/11yStp/TKlGpZ2kUCrfZ3YeZkL0tic5ADcdHCCol6eCHSHq2embHfmp8fBgueyWdFQk1lcCeO+YZfitUsn09iIyw0XMhyabwhMc9UrynIqonNfbujKg2eTm4zC9oHYMPaDrj620YMZf1G+37x9DzkSdQg5mR+c44rBx/hJRhI20ZjMRTGzFAz6iMdnuVXKc3twr68Z4yul1PST4fixkC5Klk20ldNn5O22X4D71Tush6KIC4Dzk2+pg6LeX8+PFSUybESdTuOqRA1FGCVMQoUazjHbxBOM4NTUxZHKuG0R/J2l719JNWzr61R0HK++40+2Mg4SY7o9ag/UKw7IgjUWs5Q4lBRxbMSp174=;nbiUNTdd4Ipl667VPPuzLg=="
+related:
+  - title: "Spying on Beavers From Space Could Help Save California"
+    excerpt: "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back."
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/65846185a032f4fcd48c037c/191:100/w_1280,c_limit/science_beavers_climate_environment.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
+    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
+    publishedDateTime: 2023-12-28T14:37:00Z
+    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 38
+  - title: "California 2030: AI in the workplace"
+    excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
+    publishedDateTime: 2023-12-27T04:43:00Z
+    webUrl: "https://www.cbsnews.com/sacramento/video/california-2030-ai-in-the-workplace/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/27/895915bc-bb0f-40fd-9cfe-e89d93d8e47f/thumbnail/1200x630/ccedd11b8fd9408bb390b6666cf49355/f57dcdd3ab0167edc1fb7b00e5da96cd.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Google's lobbying in California skyrocketed this year"
+    excerpt: "The 30-second video ad struck an ominous tone, urging Californians to tell their lawmakers to vote against legislation that would force Google, Facebook and other large platforms to pay news publishers."
+    publishedDateTime: 2023-12-27T20:40:00Z
+    webUrl: "https://techxplore.com/news/2023-12-google-lobbying-california-skyrocketed-year.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 4
+
+secured: "mnYhUeUxftU9t0fiy6bwn1yD51ExbkVNWe16zEnbioGnDjwMxMqnhXMDVo/XPWFaq3J3bJhrwPwBYrIf3Z3Z0/1bHEHv64XUSFtcBzp3W4OH97fCB5etmT5S/zFtT2iENsbiPYyxpoUmNov9GdvOo7grjCNnByM7IpxLFkuRbu92YnAcjEOXxzlaJ5kKbte6uGZshR1g5ywzgCCRPZkZouZhpCU7GzVY+w4s+kONNYt5R28Haxnt7rtw8zqx8DQmnkhXAkGDeCEJm2GT6Mjfsph5domm3Cxh3tctG1RzRUGja3WXClRiKS44IezN/21aUW7X20tRgeq3UVnaCfhz3tPdzgTIT1Nwtod/BPKra+g=;MvGIvDjImuA8a2SanOV6oA=="
 ---
 

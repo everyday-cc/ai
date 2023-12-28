@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Five ways artificial intelligence is improving health care in Canada"
-excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,"
+excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. The year began with many befriending ChatGPT,"
 publishedDateTime: 2023-12-27T15:36:00Z
-originalUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
-webUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
-ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
-cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+originalUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+webUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+ampWebUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: winnipegsun
-  domain: winnipegsun.com
+  name: The Vancouver Sun
+  domain: vancouversun.com
 
 topics:
   - AI in Healthcare
@@ -42,6 +42,6 @@ related:
         height: 261
         isCached: true
 
-secured: "y99lQkVz3acjL8058jIXLuAWNgnONxDGRLB+M8wWwW1k8yuZE7AMoSMFYezLa8hOS5eFB4v2q86B4vO8isKi8Lpy1wsohec1Q+SGXiBsn28dvsjIHU47PrPDn9a0OzpPt5Rk0PQy8Gi7z1DB6nhGC7snk+Fvt9/FxF+cOlQIMGiu0j81FwA1GGCKROhw/aW6V/RlUDOeEKekAuMLoGKjsUjjU80QDKlBQJl3RFlPgW+fWHJXlhnVlyDQpLnujKhDJclpXXAm2cy19OaE7SCzGlW+qgnIQpeDHoRehq2y6Y8AjkALJWZu2O3FUc3okgVKICIV3Nhp1FMwVeJesok4PlkGLhlRBEyownV/nKl9FOx41ijd/F0PLRndxcY4jcU58peEwGcJuWwVA8Z8ndmMbG06esQmDi8qrRPW7BacjH/g2JRo2ovEIL9dDpdikuLuQ1gHndgpxA3KpNQoR19tIhGfTbicR2iSw01VGkeUI+7QH7nyqNSIfjmPSgB7twniAbbd5DnwfBGFttqzGywreQ==;5Yo7pf8YYLqLndLMAkxYPA=="
+secured: "ztbhzyKXsOCZcSULqMq2WLCt5MLsaQDPCqKcCRyeT1eqoQ+4IagJT9VWoAxnXsyOIt0oXh01EKo1gjdnbZeKQGnu7drbbFX3BVOHtrZVAqwjVjraWJDdWnd9Mtbny0vWaO477Jen+g5AkWaXU562YBdXsHHOOv5rm92rHl8z+7wQhXR45tK9pU1MTemLjvcFU1vIeZ56ifeVRGvrLNvkWVLg3ZMwFJQEE6loQgVoX2aICY/OFSigP/61jwN7ZNlQeB31CvU967iWjRjvPrzbbH/GGgw49m5hLOJTAdcHhKnlTuEV6UQSAJJIFFj29VURMy9MQshgGSwAvuXBAaRs6LVvuDDGAJPTWqoZ+ZnMSR0=;gN1UnrP2FTOU+i7JdWtW4Q=="
 ---
 
