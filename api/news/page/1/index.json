@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-12-28-after-a-year-of-breathless-hype-ai-will-face-reality-in-2024.md",
+      "title": "After a year of breathless hype, AI will face reality in 2024",
+      "excerpt": "In 2023, artificial intelligence went mainstream. In 2024, tech insiders expect dramatic changes in the AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-predictions-2024",
+      "originalUrl": "https://thenextweb.com/news/ai-predictions-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-3-1.jpg&signature=f81a672d7e134813a7cd5360ff676a15",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech.md",
+      "title": "Revolutionizing Sales: The Impact of Artificial Intelligence in Tech",
+      "excerpt": "Introduction: The advent of Artificial Intelligence (AI) has revolutionized various industries, and one of the most significant impacts has been witnessed in the realm of sales. As businesses strive to stay ahead in the competitive landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "originalUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Sales-The-Impact-of-Artificial-Intelligence-in-Tech.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-asia-pacific-fintech-2024-a-balanced-vision.md",
       "title": "Asia Pacific Fintech 2024: A Balanced Vision",
       "excerpt": "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -371,7 +465,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/27/the-evolution-of-ai-chatbots-for-finance-and-accounting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -881,7 +975,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1038,7 +1132,7 @@
       "originalUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1173,92 +1267,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-as-guardrails-fade-and-ai-deepfakes-go-mainstream-experts-warn-of-election-impacts.md",
-      "title": "As guardrails fade and AI deepfakes go mainstream, experts warn of election impacts",
-      "excerpt": "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/32c01e53-97a0-454a-8708-73211f50fd67/thumbnail/1200x630/27e46ff3be5fa50868bcbf0e1ed82767/gettyimages-1401415073.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "publishedDateTime": "2023-12-26T10:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
-      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
-      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-26T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

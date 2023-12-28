@@ -165,22 +165,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Embracing the Evolution: Top 10 Fintech Predictions for 2024"
-    excerpt: "The landscape of financial technology is undergoing a profound transformation, and as we stand on the cusp of 2024, it's evident that the coming year will"
-    publishedDateTime: 2023-12-23T08:01:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/218256-embracing-the-evolution-top-10-fintech-predictions-for-2024/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2015/10/You-Are-Here-Now-Today-Future.jpg"
-        width: 960
-        height: 1280
-        isCached: true
   - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
     excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
     publishedDateTime: 2023-12-24T12:00:00Z
@@ -196,6 +180,6 @@ related:
         height: 879
         isCached: true
 
-secured: "XLE/JDVusVM3SJEupnmywnJa33uNPJo4STxtV7LFoKp1r81nDOpvvTWph74A3pZUMPFsisU/uHlLG+fv2epp9ABP9h/cP0jvlKClxk4o/XTX/rWgAw6QM0oWKxD3yH/2ZcpyWM6u5WJ0FGmpE1IOMeOXETIAxZYmdhazuK+SKebs76jpGEUUwits2VP5lh7JDYEGX6mNvLgSZp5Ed2SdDjHfMpMwoq6mQrKbigWhppI8sfuKbvWbscfVNI7Yw8kmWsWdKOkqUzZY7m+BvKEPm4txCpHW5Idql2hLbO7QBJKdZ0fBzsfJboBUzHhKRlQC+LAXdT+bwrO7/KhsY+mpPoLTHHhJmahU2ERekOXtqpQ=;hav3aX6Qc044xvDUzsUdQg=="
+secured: "2BUIHG4qBuZdkmENAi/wpEHxMOWVSDbT083D7HwgNAQLOqesNzMBuJVC7J37KdaqI8Xroe+sP/D2HI3ShFtbdlqGlzf+N/kbKDRrNGPxMYp3lX+QBhiQlwcmFZ+SN39GmTQATfB+gGbmQ3yqbqz3n1vq+JclLfcGY4vkAlujWh6MJghdB8rn5e2G/hWD9RxZTFqb/qECeJlT4tLZ8qVP61hUP7lcnZa6q9HrXcSz/KcTx5yiioHeIyx1DXMYfHhhhh2k8wIqyYEWB6ABsTCHpLAeEo26Nqf4pg3ykq6OnSMd8F7glgbdoZanvBgOl5OOCIQDEIoRH29BSnhePLnCWC61B+Xp4rYX/M9x1rFBQ+zGblUB6dROEGx8gbT3lNQZKYyxd1FwmuT6PFEdc5EdFaiHEj8Ygqj+NIuf8e8XCWfiv8Q4Cql/i6s5kYG27w/iwM2B2ifdnqzWeYzxsNeaDpMLjfLWhAqX7PlmChtelxVOEPTz5PKMaHMykLQk7dVzZ1K68i86Ov4PqdCuT/95Vg==;EJr7wlxHh++unLzMx1PjCw=="
 ---
 

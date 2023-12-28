@@ -7,7 +7,7 @@ originalUrl: "https://www.hollywoodreporter.com/business/digital/podcast-2024-fo
 webUrl: "https://www.hollywoodreporter.com/business/digital/podcast-2024-forecast-1235768730/"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "After a year of breathless hype, AI will face reality in 2024"
+    excerpt: "In 2023, artificial intelligence went mainstream. In 2024, tech insiders expect dramatic changes in the AI landscape."
+    publishedDateTime: 2023-12-28T08:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-predictions-2024"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-3-1.jpg&signature=f81a672d7e134813a7cd5360ff676a15"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "AI firms will face copyright infringement lawsuits in 2024"
+    excerpt: "Tech giants are gearing up for a series of potentially bitter legal battles over claims they used copyrighted material in training the latest generation of artificial intelligence"
+    publishedDateTime: 2023-12-27T18:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034712-500-ai-firms-will-face-copyright-infringement-lawsuits-in-2024/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "tt+/NmRoLzu8DRVTGO7o458FekZA3/a2UoTuKmMDiI93M2ouy3t/UQOdReDZg0yY4QynsACEbsZ0Ld9wTSV3u/YmVGfEAm8J2aYVABzEyCSKDlNPFNoIaF2nhqNEM0H15BrgbC+VPwDGsrG3kSbNMmSWT2IVOgT4JaQjs6iYpDjt6+HmCs8NKMaL4V3EnYbGkHIFR/9IS6QTIliVyHPdnFbm4o/pQaRFy/E1ie27s/xBxerfGEBvZEosoVimrE28CyczCek5PurN7kQylGPX4FJ/E4gj8kgJnV3AZS1Lc8vCmlHXu3UC1paVBF0u8yQGgVsU2TDAZBVKtAQRtCIisucOjC13+70nqn9MgGweGc8Ny50CgVsOIrkbyjldCW13q+FgANZVwPuFIAzdBBL6yU26IxNy1Xb/gz4MS3UZGSxGCNzjsy0Ti8BDYFX+MVtguRWO9T//xZQZaMQARnB6cm/en5bnumgIZPjwdpVkY5ODqV+50SoDXxnZT73uLqON4SPRGEWMUvoeUYOvChTFjg==;pOKY2FeuZEe6R1GfO0nV0Q=="
 ---

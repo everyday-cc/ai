@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
 webUrl: "https://www.aol.com/fears-grow-over-ai-impact-171444281.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "“How Artificial Intelligence will shape and dominate the 2024 elections”"
-    excerpt: "As the world gears up for the year 2024, the global stage is preparing for an unprecedented electoral spectacle, poised to go down in history as the largest election extravaganza ever witnessed. With over two billion individuals spanning"
-    publishedDateTime: 2023-12-26T15:53:00Z
-    webUrl: "https://electionlawblog.org/?p=140416"
+  - title: "Revolutionizing Sales: The Impact of Artificial Intelligence in Tech"
+    excerpt: "Introduction: The advent of Artificial Intelligence (AI) has revolutionized various industries, and one of the most significant impacts has been witnessed in the realm of sales. As businesses strive to stay ahead in the competitive landscape,"
+    publishedDateTime: 2023-12-28T07:21:00Z
+    webUrl: "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/"
     type: article
     provider:
-      name: Election Law Blog
-      domain: electionlawblog.org
-    quality: 36
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://electionlawblog.org/wp-content/uploads/elbpodcast-e1629740147291.png"
-        width: 300
-        height: 300
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Sales-The-Impact-of-Artificial-Intelligence-in-Tech.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Job cuts, the rise of AI and record data fines: The year in Tech"
+    excerpt: "We were just a few days into 2023 when it became clear that the tech job cuts that began in late 2022 would continue for months to come."
+    publishedDateTime: 2023-12-28T06:01:00Z
+    webUrl: "https://www.rte.ie/news/business/2023/1228/1422586-job-cuts-the-rise-of-ai-and-record-data-fines/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001efa0c-1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "tLUhFpqpbYDaXtSGq2ZKjkQ0Y7drH0rBXUgNNkf+TMY/GRG+eVVPgqeh6p6jznzSY8Wh/KNjVMPYmogKg9bEv6w3EeOLd40i8/f+T9/N//r0WmjBiH4xhSlcPSexS4QhznCU0xXWhET9M6/IYPE2GTWrFzWkMDDabf6qpQEsJlvAtLgGfy9PnD+7hNoVwiaMI54jmnBAAHvVcFqPzwUt9pdaBJv/c40ArnFZ2JbyFD48CgoZ3s2J0x6giVMWpWW0cj9/iIxpDUPMi0d3RCOWZqdSvyxaa6otHzJtWYm18EM+82K7OthQPRUAos5Iwy+TfHyujWqOoHwaXFT7DbAFi47noChiCdc1ayg7uYFdaP4=;DxfIBdFU6Pga+OxipoIyxg=="

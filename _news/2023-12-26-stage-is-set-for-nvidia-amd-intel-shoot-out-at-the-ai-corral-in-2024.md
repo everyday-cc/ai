@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
         width: 1260
         height: 630
+        isCached: true
+  - title: "AI chip rivalry heats up: Micron and Intel challenge Samsung, SK Hynix and Nvidia dominance"
+    excerpt: "As the artificial intelligence (AI) chip market gains momentum, major players are strategically exploring new avenues to capitalize on the growing opportunities. Companies like Micron and Intel have launched a new wave of initiatives,"
+    publishedDateTime: 2023-12-28T06:45:00Z
+    webUrl: "https://www.digitimes.com/news/a20231228PD201/hbm-intel-memory-nvidia-sk-hynix.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 44
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231228pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "How Nvidia Contributed To The 2023 AI Odyssey"
     excerpt: "In the wake of unprecedented technological advancements, the year 2023 stands as a watershed moment in the evolution of Artificial"

@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-27T16:35:00Z
 originalUrl: "https://www.unite.ai/generative-everything-an-exploration-of-breakthroughs-in-2023-impacts-and-future-insights-across-industries-with-ai/"
 webUrl: "https://www.unite.ai/generative-everything-an-exploration-of-breakthroughs-in-2023-impacts-and-future-insights-across-industries-with-ai/"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.unite.ai/wp-content/uploads/2023/12/b07f132f-c799-412b-a592-e17e6f784f89-900x628-1-900x600.jpg"

@@ -55,6 +55,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "AI chip rivalry heats up: Micron and Intel challenge Samsung, SK Hynix and Nvidia dominance"
+    excerpt: "As the artificial intelligence (AI) chip market gains momentum, major players are strategically exploring new avenues to capitalize on the growing opportunities. Companies like Micron and Intel have launched a new wave of initiatives,"
+    publishedDateTime: 2023-12-28T06:45:00Z
+    webUrl: "https://www.digitimes.com/news/a20231228PD201/hbm-intel-memory-nvidia-sk-hynix.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 44
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231228pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "eVSC74h+xQnP8wrunYCGODGRR2FhutIHzxkMiVeoZQKXAD0/vG7Yl65iVa43SOf2Pzti3dSHX1UxowH+JnyqyJRUcIuz76T6S7j1/NFoLO2DrSl0i1q67IHAgeWVq+76/oYtDPppsw/2yO5P2HHcgafTYbMDdEOuT+K+hztcJ8jNDxC97WZBNxH+yTfopdKIYm0238UovFCJraNAew7WzSqvK1xuz+MpApmjG2iOKMaVDiMb1Q8EALhUn5U5qj8Azj3gwIG88i+HDmovYA6iPPWOd63lAOhz54oOMUdxxYMIHz2BBCjNiWhHvqVr3w2r9P5g9H/XZrtwuAn/OPHgfpTBul1z8yFy5fT4YrTLJ0U=;k+UfONoVDxuw7P+oPL17Qw=="
 ---

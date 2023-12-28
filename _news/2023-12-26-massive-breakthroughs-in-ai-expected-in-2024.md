@@ -35,7 +35,7 @@ related:
     provider:
       name: unite
       domain: unite.ai
-    quality: 15
+    quality: 17
     images:
       - url: "https://www.unite.ai/wp-content/uploads/2023/12/b07f132f-c799-412b-a592-e17e6f784f89-900x628-1-900x600.jpg"
         width: 900
