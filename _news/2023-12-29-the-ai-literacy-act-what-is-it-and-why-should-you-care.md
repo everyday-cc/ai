@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/12/29/the-ai-literacy-actwhat-is-it-and-why-should-you-care/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

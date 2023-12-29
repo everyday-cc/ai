@@ -44,9 +44,9 @@ related:
         height: 630
         isCached: true
   - title: "From cars to smart homes, AI is changing everything"
-    excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-    publishedDateTime: 2023-12-25T22:59:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+    excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+    publishedDateTime: 2023-12-25T22:40:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
     type: article
     provider:
       name: 中国日报网

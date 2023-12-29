@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-predictions-2024"
 webUrl: "https://thenextweb.com/news/ai-predictions-2024"
 type: article
 quality: 67
-heat: 89
+heat: 87
 published: true
 
 provider:

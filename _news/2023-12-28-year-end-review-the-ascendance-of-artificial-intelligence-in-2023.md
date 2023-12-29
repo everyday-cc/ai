@@ -37,7 +37,7 @@ related:
     provider:
       name: The Mercury
       domain: pottsmerc.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.pottsmerc.com/wp-content/uploads/2023/12/MER-Z-YEAI-1229_2.jpg?w=1024&h=683"
         width: 1024

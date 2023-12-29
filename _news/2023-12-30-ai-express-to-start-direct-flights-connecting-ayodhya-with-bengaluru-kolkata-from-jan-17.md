@@ -1,30 +1,30 @@
 ---
 category: news
 title: "AI Express to start direct flights connecting Ayodhya with Bengaluru, Kolkata from Jan 17"
-excerpt: "Air India Express on Friday said it will start direct flights connecting Ayodhya with Bengaluru and Kolkata from January 17. Earlier this month, the airline announced direct flight between Ayodhya and Delhi. In a release, the airline said the flights on the Bengaluru-Ayodhya and Kolkata -Ayodhya routes will be launched on January 17."
-publishedDateTime: 2023-12-29T16:46:00Z
-originalUrl: "https://indianexpress.com/article/india/ai-express-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-9087981/"
-webUrl: "https://indianexpress.com/article/india/ai-express-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-9087981/"
-ampWebUrl: "https://indianexpress.com/article/india/ai-express-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-9087981/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/ai-express-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-9087981/lite/"
+excerpt: "In a release, the airline said the flights on the Bengaluru-Ayodhya and Kolkata-Ayodhya routes will be launched on January 17."
+publishedDateTime: 2023-12-29T17:48:00Z
+originalUrl: "https://www.cnbctv18.com/aviation/ai-express-to-start-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-from-jan-17-18680051.htm"
+webUrl: "https://www.cnbctv18.com/aviation/ai-express-to-start-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-from-jan-17-18680051.htm"
+ampWebUrl: "https://www.cnbctv18.com/aviation/ai-express-to-start-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-from-jan-17-18680051.htm/amp"
+cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/aviation/ai-express-to-start-direct-flights-connecting-ayodhya-with-bengaluru-kolkata-from-jan-17-18680051.htm/amp"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: cnbctv18
+  domain: cnbctv18.com
 
 topics:
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2023/12/ai-express.jpg"
-    width: 1600
-    height: 900
+  - url: "https://images.cnbctv18.com/wp-content/uploads/2023/10/air-india-express-4-1019x573.jpg"
+    width: 1019
+    height: 573
     isCached: true
 
-secured: "aMimWBJTGeYtNQG4IUneq3Yy7q+cVqAxpJD3aTejGufQe42+q5vYP0JVJfGDbvFd+YMf7Wz2hL8BU2Ygfy6OhIAaCGX20bH4uWh4ZG4k1CmgJH+nxugdxf/OVfCqj7Nwm3q1jdTxhCAdDCES+HRQ0I4IcTOG5jnRG/vQBMtQljsNuYICQMFK0pnCKW6Ia1Ad3NJEHl8173Dv9IQTd3WAl9AyQjhsC5BnT2Xu0bcsFgeFV6e0rE42W+lsFlGc3S0MvoawJ9f2VZHDJdAolD8oFXie5oHpwYiJGUpzLxJLqsUMEsXtcAV+amytBkLjCDWUErWtSD/xm847dYfBkx4ysFHDy+z2Fd0x8SUVeuVrink=;5O0DHdyRTu2h8TbYYC43nA=="
+secured: "dHE86HXpeM7Y8uZ9slxPZD6DbVVoJDFheq36G1kiPd7/6bRG8208MwLSdLrI8lphOsoNmN+hP8NNFO660dzRGQKtGygwcpJQv+99T7Bw3GMhIg6j+I598mfqgskclZn75Gzvtb9PJaaec63V9dQSEykvg134m+/ySnmDigZNdHNfqR/Gcmk3W8lR6r4RxcZqzU0RGQRsqD0+tEl6tyx37tXQ15JQqsIXpxsfsCM/wLFznA8neAtJTYaKzIGZhNcaSUfgCRh+uWAnpJJk6PM7wt1l3OtRJb1pPdmXXtz5ln9Ewuh13r1BC+d4zICd5/yHEASN82XUSpI2flKjs+4qfaED0ZkxvRXYfbXcLngmNS8=;Yir4WdSxOGuvKIPmpxCO7Q=="
 ---
 

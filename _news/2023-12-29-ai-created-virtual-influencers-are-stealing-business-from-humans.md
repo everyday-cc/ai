@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI-created “virtual influencers” are stealing business from humans"
-excerpt: "“It is not influencing purchase like a human influencer would, but it is driving awareness, favourability and recall for the brand,” said Becky Owen, global chief marketing and innovation officer at Billion Dollar Boy, and former head of Meta’s creator innovations team."
+excerpt: "Aitana is a “virtual influencer” created using artificial intelligence tools, one of the hundreds of digital avatars that have broken into the growing $21 billion content creator economy."
 publishedDateTime: 2023-12-29T15:49:00Z
-originalUrl: "https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/2/"
-webUrl: "https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/2/"
+originalUrl: "https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/"
+webUrl: "https://arstechnica.com/ai/2023/12/ai-created-virtual-influencers-are-stealing-business-from-humans/"
 type: article
 quality: 67
 heat: 67
@@ -27,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "AK90fNuqGN1gwVFDs7NY0lST6Jx+9JVplKNAGbztQXx13ivLnNnH7sZ5k/URr3M0apVs3qABKX/L7TPumA9kfQN0VBgWBKk0ib0Sh6NSptT78P+AEfpYt4BrEKndNY8B0ibV8SSe2tONVyiAVI5aeG3nJ0iEoaiqY1dc/nFQh5yG0SBL6r9caIJ6aqkKftaXJFGeT+gMqn/+segl9kNs5qrP3T2gUtCBfE9drPS77/WoLRM2KlztFkhRnIHnsBAjmbhfe3Ntjfz2C3vHc/J77ihJEO17sEmGxKMlJ17gO4DfJSw0pOYB/FAb6HHQyDj0dn0BsHiKvV7Bcm2fW5QcMjAKh7ELs7TmXX7Jg43JzI0=;BzYhX1U6PRLm2gRgPDUQJg=="
+secured: "to3AYddHgMaPtmXwhGn0UeBqG1XOQc2BVvEF4EnvosjwWp/GD2Z+jqV5hPBE+kZHHXomHt/mC5e39idI5TX4xecGNS2JZKJ6RgoVIHTK0K75r4RlAOPuL7TTZnzrJKoBWp292Y7zoqwKDubUzo++x074MY6TKOoIwlor1Y8PeUu7+ERrmwxXj7w2SpMosMbGBAZlT6b13DATiprZQIJjZvm2oBd2sVo5Dw1gu+yBnwJGGB0G+Z/48d6BB+wCNX9UIR6VjDEKIErTWF19k9AeOsIAb4aUJaf6CIZO2p/1xpM5ziLF8I5gvW/OGo5VVpDAEg7odTP9Qxvjkx9x5ktclEwqHdPuq+0ALd0nsjoc5do=;wwOCjNtqR4r4Z5EE+y7vpw=="
 ---
 

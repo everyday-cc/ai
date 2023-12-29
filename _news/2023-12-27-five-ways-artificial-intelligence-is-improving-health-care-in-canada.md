@@ -9,8 +9,8 @@ ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-int
 cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: winnipegsun
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare app uses AI to improve, maintain healthy routines"
+    excerpt: "It's no secret that being fit and healthy is at the top of most people's resolution lists for the new year. One app will make sure you stay focused. Dr. Renee Dua speaks with CBS 2's Brad Edwards on how the app helps those looking to improve their health stay on track."
+    publishedDateTime: 2023-12-29T16:58:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/healthcare-app-uses-ai-to-improve-maintain-healthy-routines/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/29/0b425f26-e90a-42be-9fb1-f2bde88aec0d/thumbnail/1200x630/8c8e4f55327b1c66adae8efe3b37adf6/d360a887bcd6fc2c9972f00d3ca40dae.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Quantum AI Elon Musk Reviews 2024 – Scam Canada or NOT?"
     excerpt: "Ever since the name Quantum AI got involved with Elon Musk, this platform has been making waves around the world. Everyone, literally everyone in the trading world, is talking about Quantum AI and the involvement of Elon Musk in it."
     publishedDateTime: 2023-12-28T11:23:00Z

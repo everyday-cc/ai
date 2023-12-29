@@ -1,10 +1,10 @@
 ---
 category: news
 title: "From cars to smart homes, AI is changing everything"
-excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
-publishedDateTime: 2023-12-25T22:59:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
+publishedDateTime: 2023-12-25T22:40:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
 type: article
 quality: 39
 heat: -1
@@ -65,6 +65,6 @@ related:
       domain: accountingtoday.com
     quality: 17
 
-secured: "Ukw3j+MZzOHeDD/l/lGMOGFl6mBQWtvv9mScEbRyk1gV8iEx//IGsGPz8ycT1JDCoXb6+qYDtf+Dd3VuJ50efvlBUjXu6/emssXECti0IbrGpKUuC7qiH+hIUTqQfoxniagvDRkjDgJKcliwsJbU3ihZ8qxppy9vvIjBltkM5B+0VpJs68k6RFW3PPFFec5SGtaJUPsN/d3hPrgM16fB8OeK5qmMhDc+CJtJq+zqkg4JcEcJ04i3HzSntkIuESYyz1OICQGml85wzWyA/VNiRql75gGAfUgyJ6H4Bo4VqwO1J/cZ8mkHTEuPiaYkv605peUzOy0CuQEUlV+npTdNm3fbo2WSpgqO3s80go/9VT9lQr0EdvU+BHFSb6PGiz4klA/BnY1fPQA2kjYLb5BggjaqXesIyFAyDzk668co83g1NGuT7WMQ1wepQ3+rjj5VEiwj3b5JFIe7sZzTmB2/l4L1B1gWVhgzGE22U9X2pg/i8vJurGYuIGTbI1W51wkIfmCWap96eoryUATCmE3M+A==;bXgdQxA621HTf71mKvWaew=="
+secured: "yFy88SnwmZikCdklbH1ZZEg3HI8Qk5/f2WV9zspjjbFB/P2YfHoHP/3YRZ7OJ2rfixmkIKq2gIyIYko4p0PbwxFFYC13C6ggjCnO9r7SjOEgqUFixrUK8CD01Hq2WTcpL5DJKC2ct6evEBaNmUpgBDDY3m5+WR1WB9YMuHhcKvZAR5YaoPmbZ8NwNDPKtusS1J7L0apvdawsV1iKN1bV0Ib4ujegeHKlxQhVJj4tbMwzvAh1PRpG89OX0x96NZYxZHbPrn6lZuZ3zDByEL/61d2wy3+bfxwM6tOwUOd6FrV/d+ACfBZj8WBKqfNJ4J60hJXPwukIJVwM/RSVXwokofiaXYqcHAMZDI+wsG3y6JM=;qV7fVq1nEqI1ECKmuL7WVg=="
 ---
 

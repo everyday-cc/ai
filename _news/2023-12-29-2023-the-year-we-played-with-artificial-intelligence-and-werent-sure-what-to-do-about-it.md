@@ -43,14 +43,14 @@ related:
   - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
     excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
     publishedDateTime: 2023-12-28T15:29:00Z
-    webUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
+    webUrl: "https://tulsaworld.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_6aac0f11-cca9-5c05-a3a1-9914f18657c1.html"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/88/a88c481f-65f9-545f-b4d6-2b75a4fd1add/658d94e5effca.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/aa/6aac0f11-cca9-5c05-a3a1-9914f18657c1/657bac9c5443c.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
         width: 1084
         height: 569
         isCached: true

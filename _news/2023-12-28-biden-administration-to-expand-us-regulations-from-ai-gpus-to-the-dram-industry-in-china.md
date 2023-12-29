@@ -41,20 +41,6 @@ related:
         width: 1260
         height: 900
         isCached: true
-  - title: "Parents divided over the role of artificial intelligence in children's education"
-    excerpt: "Parents are growing increasingly hesitant about artificial intelligence (AI) being used at their children's schools."
-    publishedDateTime: 2023-12-26T23:21:00Z
-    webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
-    type: article
-    provider:
-      name: komonews
-      domain: komonews.com
-    quality: 51
-    images:
-      - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
-        width: 986
-        height: 555
-        isCached: true
   - title: "Lauretta AI Announces Groundbreaking Collaboration with TSA to Enhance Video Analytics Technologies"
     excerpt: "Lauretta AI LLC specializes in conceiving, developing, and constructing AI-driven solutions that significantly impact security, critical infrastructure, and retail sectors. With a focus on innovation, privacy, and ethical practices, Lauretta continues to lead in the field of artificial intelligence and video analytics."
     publishedDateTime: 2023-12-27T14:49:00Z

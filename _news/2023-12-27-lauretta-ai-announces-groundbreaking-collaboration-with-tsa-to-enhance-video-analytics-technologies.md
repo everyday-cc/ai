@@ -39,20 +39,6 @@ related:
         width: 1260
         height: 900
         isCached: true
-  - title: "Parents divided over the role of artificial intelligence in children's education"
-    excerpt: "Parents are growing increasingly hesitant about artificial intelligence (AI) being used at their children's schools."
-    publishedDateTime: 2023-12-26T23:21:00Z
-    webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
-    type: article
-    provider:
-      name: komonews
-      domain: komonews.com
-    quality: 51
-    images:
-      - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
-        width: 986
-        height: 555
-        isCached: true
   - title: "Biden administration to expand US regulations from AI GPUs to the DRAM industry in China"
     excerpt: "US government reportedly planning on expanding restrictions on the Chinese DRAM industry, after its massive regulations on the AI GPU industry in China."
     publishedDateTime: 2023-12-27T23:09:00Z

@@ -44,15 +44,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "AI Assimilation: 7 Stocks Leading in Artificial Intelligence Adoption"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips The AI stocks landscape has undergone a seismic shift, emerging as one of the"
-    publishedDateTime: 2023-12-28T19:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-assimilation-7-stocks-leading-in-artificial-intelligence-adoption-1032930877"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
   - title: "Designing A Coach Training Program For AI Transition In HR"
     excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
     publishedDateTime: 2023-12-26T12:30:00Z
@@ -71,15 +62,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 44
-  - title: "From connection to contention: How AI curbs access to information"
-    excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
-    publishedDateTime: 2023-12-26T16:53:00Z
-    webUrl: "https://www.aa.com.tr/en/world/from-connection-to-contention-how-ai-curbs-access-to-information/3093160"
-    type: article
-    provider:
-      name: Anadolu Ajansi
-      domain: aa.com.tr
-    quality: 17
 
 secured: "TttmQZ+RFyClvws9Y+1+gR0Mk2iWLSirSUeP8ETWAwFDQBuEv2SGNlp6SFjFKYShAYi+T4HIrsAoifCGSWF6KCi+17jdEubfRRJSqdVB4Dv9Os92wAxUcHsubXbyqMOrdVX57d0J9an8sapkBXJ1xOy8LmicimkZBjR4oWb98BQJA/T5xyzTLwT5MVyuSSmkixty6D6NjyChRiydeVrPsxVVT3p1yfKn3HFsMBuVVO6ADH6X3C1DRzoPRWYTHXKF9rAyKEycy4iSjhG82/OCtO3LpPh87uxJAAGxxKC8xfuCLjBENQ6DtrpQU5fnnt8bxopOKLWelNfs0teDI+P7/AEW+/NhS0uX/J0GJJ8tJzgtq180hVBxDurl5cx+s6oOgBM15zAtD7AAA5/JqSOUpzm3snSIz214skNSvY41NDyHT5xtf+hrNA+P0mOROh7p0AUm9Oa7ntqGN22N9guQoX5bhED06YHGXCIyKxdAh6UGS1VEuJCSBM2m9yBMxLIe2QSRMvljNunZhvpAJXdlug==;CwImuEOz9gpLNmof2CU+FA=="
 ---

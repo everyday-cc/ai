@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Talking to Animals using Artificial Intelligence"
+    excerpt: "I had so much fun recording this episode with Sophie. She told me all about how scientists are actually beginning to decode animal communication using artificial intelligence—like, what? Our conversation genuinely blew my mind, and I hope you enjoy it ..."
+    publishedDateTime: 2023-12-27T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/talking-to-animals-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/FBB1D2D1-AEAB-4BFA-834E9DBE167BF0A8.gif"
+        width: 791
+        height: 496
+        isCached: true
   - title: "2024 predictions: How AI will impact everything in healthcare"
     excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."
     publishedDateTime: 2023-12-27T15:25:00Z

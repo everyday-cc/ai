@@ -23,29 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "LG Unveils AI-Powered, Wheeling Smart Robot for the Home"
-    excerpt: "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality."
-    publishedDateTime: 2023-12-28T21:15:00Z
-    webUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
+  - title: "LG’s “AI agent” is a bipedal robot that monitors your home and pets."
+    excerpt: "The company revealed the bot ahead of its appearance at CES 2024, which it’s touting as an “all-around home manager and companion.” In addition to serving as a remote monitoring system, LG says the bipedal bot can also interact with humans using voice and image recognition."
+    publishedDateTime: 2023-12-29T18:16:00Z
+    webUrl: "https://www.theverge.com/2023/12/29/24018655/lgs-ai-agent-is-a-bipedal-robot-that-monitors-your-home-and-pets"
     type: article
     provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 56
+      name: The Verge
+      domain: theverge.com
+    quality: 84
     images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max"
-        width: 1080
-        height: 540
+      - url: "https://cdn.vox-cdn.com/thumbor/WpnHkzS3VGoX3WFH-wSB1TL7hYQ=/0x0:2700x1518/2700x1518/filters:focal(1350x759:1351x760)/cdn.vox-cdn.com/uploads/chorus_asset/file/25192049/Smart_Home_AI_agent_02.jpg"
+        width: 2700
+        height: 1518
         isCached: true
-  - title: "Beijing Unveils Powerful AI Computing Platform Amid Semiconductor Tensions"
-    excerpt: "BEH has expressed intentions to eventually power the platform entirely with green energy, aligning with global environmental goals."
-    publishedDateTime: 2023-12-27T14:28:00Z
-    webUrl: "https://www.gizmochina.com/2023/12/27/beijing-ai-supercomputer-semiconductors/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 45
   - title: "LG's smart home AI agent is a cutting-edge robot that can engage in complex conversations"
     excerpt: "LG is leveraging AI to enhance its vision of the smart home of the future, one where cute robotic companions can sit down and talk to you."
     publishedDateTime: 2023-12-28T13:59:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startups-are-using-ai-to-predict-resp
 webUrl: "https://www.wsj.com/articles/startups-are-using-ai-to-predict-responses-to-cancer-drugs-d7fb06eb"
 type: article
 quality: 67
-heat: 99
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/4XyfKaQCzxvSLSmHOTm7YQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njg-/https://media.zenfs.com/en/aol_yahoo_finance_433/f1b49b12e6a0364fd11b408c2e4b59f1"
         width: 1200
         height: 868
+        isCached: true
+  - title: "Talking to Animals using Artificial Intelligence"
+    excerpt: "I had so much fun recording this episode with Sophie. She told me all about how scientists are actually beginning to decode animal communication using artificial intelligence—like, what? Our conversation genuinely blew my mind, and I hope you enjoy it ..."
+    publishedDateTime: 2023-12-27T00:00:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/talking-to-animals-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/FBB1D2D1-AEAB-4BFA-834E9DBE167BF0A8.gif"
+        width: 791
+        height: 496
         isCached: true
   - title: "2024 predictions: How AI will impact everything in healthcare"
     excerpt: "Artificial intelligence could boost productivity, cut costs, and improve care, just as the industry faces an aging America. For investors, effects of the technology will likely begin to show for insurers, pharma giants, hospital chains, software makers, and more."

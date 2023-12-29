@@ -36,24 +36,6 @@ related:
         width: 1080
         height: 540
         isCached: true
-  - title: "Meet LG's multitasking, pet-sitting, AI-powered home robot: more helper, less Terminator"
-    excerpt: "LG's smart home artificial intelligence agent, set to be shown off at CES in a couple of weeks, uses its two legs and set of wheels to navigate a user's home independently. LG says the robot is a home manager and companion rolled into one, able to use its ..."
-    publishedDateTime: 2023-12-29T10:21:00Z
-    webUrl: "https://www.techspot.com/news/101357-meet-lg-multitasking-pet-sitting-ai-powered-home.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-  - title: "LG's smart home AI agent is a cutting-edge robot that can engage in complex conversations"
-    excerpt: "LG is leveraging AI to enhance its vision of the smart home of the future, one where cute robotic companions can sit down and talk to you."
-    publishedDateTime: 2023-12-28T13:59:00Z
-    webUrl: "https://www.tweaktown.com/news/95186/lgs-smart-home-ai-agent-is-cutting-edge-robot-that-can-engage-in-complex-conversations/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 25
 
 secured: "K3nttukM9OkXqFFCdyoMtDuWEv8QOuG5kurEo2RWFXtbgC5l0MHAAbgDJOVShM5bqq2Hlkh1HZlPyKxo3JLK+pXe2wU8XnugmmgK+UHbsuZclVA6A/V1X0JvwoIu4rn74gtg4AfJs7X5g0VfsIF9LHAae7CtMttFLD20587TNeUSrB2FI6g/85sd8W7KZ9AdZOcNu7vk1sx0iueZB4VDnQ5br/rllYZ11qSl32PURAhK/VL7KNFioPjxMHSSPzC9bHkcTt5bT5BlFCTvFbV9iF/vV+wAUDQJ+6xQu1fi/TyssWE2Tazc58FUDaQnBAkz4EN5XYD5yAfH6Virj90JztqV8FMovoMLp1Pzq3Uw7B19ycxq0Ra8/jTNRgDYrE6OqDz45PmUtMAOcPOiEhkm/7P9jfXn4hlbCaBUjcTV6rGEG7QBOuBAjOGZXEum5aI2vmV+uOkngSKCNe/OvnUFc2tLr5JLl+i0gW+ViYsLUH8UJhCqilUdLA58ZRokMAtD+uhtcQcZ1Kp9CJulVBmQyg==;ms3ACv9k7617p157UIQnBQ=="
 ---

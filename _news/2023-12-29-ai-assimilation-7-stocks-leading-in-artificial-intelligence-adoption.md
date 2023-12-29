@@ -24,54 +24,52 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Embracing AI In Communications: Strategies For Successful Agency Adoption"
-    excerpt: "Employing these strategies can transform AI from a daunting concept to an everyday tool, enabling you to achieve more than ever before."
-    publishedDateTime: 2023-12-26T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/"
+  - title: "Thoughts On AI In Education: Learning A New Way"
+    excerpt: "Artificial intelligence has a lot of potential and opportunities to optimize teaching and learning processes. We know this, intuitively, but then when you start talking to people who are working on this and get an actual picture of what it looks like – well, it’s a real eye-opener."
+    publishedDateTime: 2023-12-29T17:55:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658f0800187f67b88db75bca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1595
         height: 900
         isCached: true
-  - title: "2024 Considerations: 2 AI Stocks with Over 30% Upside Potential"
-    excerpt: "Artificial Intelligence (AI) has been a primary catalyst behind the rally in the financial market over the past year. Given its rapid adoption"
-    publishedDateTime: 2023-12-26T06:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/2024-considerations-2-ai-stocks-with-over-30-upside-potential-1032926237"
+  - title: "Some Thoughts On AI In Retail"
+    excerpt: "Retail is as old as humanity, but it's being seen as something that's sort of obsolete, at least in terms of point-of-sale systems and brick-and-mortar stores."
+    publishedDateTime: 2023-12-29T17:54:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2023/12/29/some-thoughts-on-ai-in-retail/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/12/29/some-thoughts-on-ai-in-retail/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/some-thoughts-on-ai-in-retail/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/12/NVDA-3.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 916
-        height: 307
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658f07c0d625e4748492032f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 808
         isCached: true
-  - title: "Designing A Coach Training Program For AI Transition In HR"
-    excerpt: "• Talent Management And Development: This is a mainstay of HR, and the areas of concern are AI in talent acquisition, employee development with AI and performance management. Coaches can assist HR teams in effectively integrating AI into talent management, from AI-assisted recruiting tools to AI-driven performance tracking systems."
-    publishedDateTime: 2023-12-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/12/26/designing-a-coach-training-program-for-ai-transition-in-hr/"
+  - title: "Parents divided over the role of artificial intelligence in children's education"
+    excerpt: "Parents are growing increasingly hesitant about artificial intelligence (AI) being used at their children's schools."
+    publishedDateTime: 2023-12-26T23:21:00Z
+    webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Beyond Words: Emotion AI's Revolutionary Impact On Professional Communication"
-    excerpt: "Communication goes beyond sending emails or having a conversation, and those who are experts in their communication understand that reading the other person and"
-    publishedDateTime: 2023-12-26T18:19:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2023/12/26/beyond-words-emotion-ais-revolutionary-impact-on-professional-communication/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
+      name: komonews
+      domain: komonews.com
+    quality: 51
+    images:
+      - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
+        width: 986
+        height: 555
+        isCached: true
   - title: "From connection to contention: How AI curbs access to information"
     excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"
     publishedDateTime: 2023-12-26T16:53:00Z

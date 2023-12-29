@@ -8,7 +8,7 @@ webUrl: "https://www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-
 ampWebUrl: "https://www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/amp/"
 cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/amp/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.pottsmerc.com/wp-content/uploads/2023/12/MER-Z-YEAI-1229_2.jpg?w=1024&h=683"

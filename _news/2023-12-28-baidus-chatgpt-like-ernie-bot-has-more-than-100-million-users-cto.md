@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-
 webUrl: "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto"
 type: article
 quality: 64
-heat: 76
+heat: 74
 published: true
 
 provider:

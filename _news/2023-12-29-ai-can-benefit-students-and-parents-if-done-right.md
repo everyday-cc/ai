@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-rig
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-benefit-students-parents-done-right.amp"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
