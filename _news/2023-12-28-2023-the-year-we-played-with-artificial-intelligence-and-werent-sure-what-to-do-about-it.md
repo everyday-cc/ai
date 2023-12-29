@@ -3,22 +3,23 @@ category: news
 title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
 excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
 publishedDateTime: 2023-12-28T15:29:00Z
-originalUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
-webUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
+originalUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
+webUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Madison.com
-  domain: madison.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/88/a88c481f-65f9-545f-b4d6-2b75a4fd1add/658d94e5effca.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/df/0df154d9-bd89-5684-93e4-f1cb5294eac0/657bac9b5f11f.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
     width: 1084
     height: 569
     isCached: true
@@ -53,6 +54,6 @@ related:
         height: 610
         isCached: true
 
-secured: "EijFEPlU0pANxUAK0RPwp0KTDPydSZEQgHdd7bcT4A6zbIO0/EGQh5nAw0tNd4RCCmcru45MYujj2NhV15J3aN8zG+PKcXzzf3fFYZwPRMsUOooI01/sk4nQgALMhVzjdB8H4wtVVRgjaTkkXW3xnsIVd3QMuIHAfW+7FtT6vgPc30vhOx0tkNi+nuEbrmZYVFVbOcbTltn7M3zMdnsmvMrMCBTXZRyVVJe1xkQW70jh9TopZWjajTNT1lHd1491WpPLZAMCr/6nhMvKfKLpaH2vrT8UGltpeYmruUaIhVigntnts8dWKJYzj+0uQJoyAmeqnHkCdJPJRxeDCmJBbzrpd3LyVYQVcQc/sYscsLo=;IDuSxjZ1DzCisMW1vXYz5Q=="
+secured: "KiHB2GbzjXRRKkVZFQyivKeJfqufA+3APj5J6CwnCIJ4B+vK7vBpMKHF7WpYJ1QjYMalF9JGVEBVEuhj3/803f170ZeQGkvssBRvsMQPXIVJKnZPZD7NW5oIuC8kRRAH7mS4TCHIyNk2xe6nY5epM1G2bACJZOTDbGj3skCzUItTRKIiHCOGB6rLs9oANAtUkAwHYewZwyU5fN5npPUoRcy32SaesO8sRx3gRqvhiQyCRPWngA+beBA886besR/ueZrWMXcC7jWIJDYtGxXGRQlb4xFp8aUsWpqaIY+eW5ts3KfufIILkOXhkyyF0Q5RfBObC8xy/mjtidpgA9P00AGRQAow+NF4+H8ZRQDAQYc=;eGDi6pFWjSU1nBiMQqyZ7w=="
 ---
 

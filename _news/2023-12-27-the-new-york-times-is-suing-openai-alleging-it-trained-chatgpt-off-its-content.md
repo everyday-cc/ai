@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp"
 type: article
 quality: 99
-heat: 122
+heat: 119
 published: true
 
 provider:

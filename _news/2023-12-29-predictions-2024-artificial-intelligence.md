@@ -101,6 +101,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Crossing the AI Chasm in 2024: What Alts Need to Know"
+    excerpt: "In 2024, firms must deploy AI solutions that are tailored for the alternatives space. From deal diligence to investment research, portfolio value creation to fundraising, it’s critical to ensure your AI provider knows how to make this technology work for this industry."
+    publishedDateTime: 2023-12-29T05:12:00Z
+    webUrl: "https://www.tradersmagazine.com/am/crossing-the-ai-chasm-in-2024-what-alts-need-to-know/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 17
 
 secured: "ogw55kdSvirh4ihnUpLxPGDa1wfzOnGFb/n36v/HZ2s5hthurW7dt1xAqcSAZBaSil1RKR+Kjqm6S03O8HicyvvMEAMjRbybluFKnA+bR4YuYPU4VrVl3LWmZsRrLWlju/7az42QnhUcMb80FYE0NSdIvYUzMENGZf/w/+KGTbkOR7NdrZRNzmj9Gp3ZgWc//yTmQ2qUfz8Sx8o4yiuDm3Jdx7F2HtifVieSKXLzMGd7MaidTYgdP61EH5pZEYcTD2IMTOpBcO48PxbWL3TJ6rqwInfMjrShrknV8/Ngois2p6tlDJ1JGfS6XLmqcdvDGaB8OX4pBpLD9o1O5bUvpZMJQI+9/bM53hxpfoKN2GD/bdxs/z80IVO84wzkA2heWTWp7CPCvz2AkiWaL+JOopanmVUaWTMcI2sSBrefh128V3/FOsIpzZi/nzdNhbcc3bgah0hxcaWy/LMPf83sLswtOYduy1xBCQH0S/SA3osMDTMO/p8TPt5pKMy7UXYjPNfuDA09yAQJ9myYWssu4g==;9VdGuuf6DoLsB+9hlUJ7Cw=="
 ---

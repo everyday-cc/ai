@@ -104,6 +104,15 @@ related:
       name: IT Business
       domain: itbusiness.ca
     quality: 19
+  - title: "Crossing the AI Chasm in 2024: What Alts Need to Know"
+    excerpt: "In 2024, firms must deploy AI solutions that are tailored for the alternatives space. From deal diligence to investment research, portfolio value creation to fundraising, it’s critical to ensure your AI provider knows how to make this technology work for this industry."
+    publishedDateTime: 2023-12-29T05:12:00Z
+    webUrl: "https://www.tradersmagazine.com/am/crossing-the-ai-chasm-in-2024-what-alts-need-to-know/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 17
 
 secured: "g/e4pIJc6TWHB09WMfAhiFnftsq8sCE61FKdfGfR4hsnUU1oB/g5+QEa4FBaJ7JV6ySO7xB8CoJmCpe0WwtsOQHPMU5/RKgpWZRvOPAyHhjYfXvRRj6oNdHxASzsCQo0euu8UyrwNYqxK+EqByaiXjomB+TWsDclvp51cyo8dIu2jWnWhd83Oz2+BKhlVwlW2/5aNa2lOTXWqtvAvWAJv7VJnKbwYLW/+ykxj4hachui+Htbq/PXaQsmkBbu+NAFO2W1gqVJbmWITt4FdwWrKQRCf9pSJxDLhANwIRKGnmtsgqTwLq+83miP1N9axUx2Ama99oE8r8u1uW4ZM+gWJphKx6JRiAxkhrDPqqIIQs4IBxK9jvjIVpducO2zDg9IolxRZX1pMIS3QWF3VbDDHIkelk1OMzvMRN9Psdfd4Mv+s86uhNeANq9cKjoBvySR8psCDfwYcQf5TZCAabtvRDpukd3I/yHClNZBvZcMlBdzrb8+2X5GqJ1DuCwsqEy8QsIe4z9AvDeWwW3kQoJtuA==;QCxVZ1s5+hYe7MAY8GnTvA=="
 ---
