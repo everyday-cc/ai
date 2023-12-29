@@ -2,28 +2,22 @@
 category: news
 title: "Creed&Bear Partners with Abu Dhabi University to Expand Research in Quantum Computing and AI"
 excerpt: "Creed&Bear, a leading fintech company focused on solving financial challenges, has partnered with Abu Dhabi University to further research into quantum computing, artificial intelligence (AI), and Machine Learning (ML)."
-publishedDateTime: 2023-12-29T12:38:00Z
-originalUrl: "https://kalkinemedia.com/us/business-news/latest/creedbear-partners-with-abu-dhabi-university-to-expand-research-in-quantum-computing-and-ai"
-webUrl: "https://kalkinemedia.com/us/business-news/latest/creedbear-partners-with-abu-dhabi-university-to-expand-research-in-quantum-computing-and-ai"
+publishedDateTime: 2023-12-29T12:11:00Z
+originalUrl: "https://invezz.com/news/2023/12/29/creedbear-partners-with-abu-dhabi-university-to-expand-research-in-quantum-computing-and-ai/"
+webUrl: "https://invezz.com/news/2023/12/29/creedbear-partners-with-abu-dhabi-university-to-expand-research-in-quantum-computing-and-ai/"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: kalkinemedia
-  domain: kalkinemedia.com
+  name: Invezz
+  domain: invezz.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://kalkinemedia.com/storage/uploads/large/1703853261_658ebccdaf9cd_creedbear.png"
-    width: 600
-    height: 452
-    isCached: true
-
-secured: "LRZSyuXx5w1/glqlSs+3bwxICFymk9rwv5QYoxONWCOoyjoa1IpyNjrpIOdC4Tp3ubJarlCG/uyv3z/I12irj5QV5Uo7J8BSV+870Nm1+VmzNpZbW65P8v9ieDjX1rVLQW73RfaxU/EpD8L/5G+AfIKH35bhB79OdDP097LWwA7o1TlfSMUtqnl6wQxWjVy/5HklRZLdkdkA7Dcy7HhQOVfJ9dGKtDRcCXsQTitCjzzhOgIH9f3qcBKvLJ8/ymlnHl3l/buYMAQS2LdIG6BdEvWRhYg4lmZYnxp8KiOiSoNa08+HUFm90JOjwou7bAujX1xyriFRtgYS1rQ/hMxAF46GlaFPDyS0Z20UQozmX1s=;XT6e2xAwuiQPDY0bnOJynA=="
+secured: "SbkDtqPB5WeEgS0AMRRJR+nxoTpclJRzL1qH280PQKqwS/WZwif3SVNs2T+2H2DZTEB3aPFDHU/DDtgfVDpoHc93I0GeBsMoFDQ+W9msdaIr2I9U+2ov5pTGjKg4U+lZorKORktXTFF7KI1VwTDpZs89qlMYm4bq2/9EF06oN2zqY0C9sDkkN717BDO7Wk3KtARv+4pAENjHO5Y0oC38hYjlF2qKyPf+FyGIzLnVxfrOvap5abaghyKQNvD0DDYIoba+0p9/gQsyvPqgAF9d1kHgsIElHx5ounGglhY/gbdqB5kxFlP2A0ZUJ3om/c4zJGu01kvV0sCyMyOGh4/coKDUOR7jD8anG7wmxrX2w2N4xCRsi5wwk0bnyIvVP/Z+UN8q+kS79iZIxwa1gYJEPCXlB5D7ZzFGKC0srQJfiHux/0d20NwQUzxb0bNqEjSg7YP6cH79sRJt6tpb+QAsySN/PLbeX/jkBCxRNcqHDhz5tNulrkkbHrcPqV8QO0X+Pu6AlyFfyuoykybomwNx5g==;Kn9pLIEVoo4/y1A9XB+a8Q=="
 ---
 

@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 862
         isCached: true
+  - title: "Samsung may launch new mobile camera sensors with on-device AI capabilities to take on Sony"
+    excerpt: "Sony dominates smartphone camera sensor market with 54% market share, followed by Samsung with 29%. SK Hynix enters top-five rankings with 5% market s"
+    publishedDateTime: 2023-12-29T15:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/articleshow/106386453.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/amp_articleshow/106386453.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/amp_articleshow/106386453.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106386446,width-1280,height-720,resizemode-4/106386446.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "s1eOvIas6FI1ggCE4yme4tL4Zqu84PLdKPAg4cuh4GT9e8i9yC8sz+ufMZ5NsIdQ7R1oqRNfbLh6fl1wfXG6g8Yc5Apj1ibPAiArceAy3t+sgKSes1gb+uhm3HZN1ZUdt2kInmvUF+s+11x7XLN23clh9ye6SOLITGGsb5K9IyJcci0EkacqdJLEbymLKt05Fd4+gxa89+ODgjQz/r13EynSFIMk/fL38ECJSL5enMG5mK5NCsiaCqe1bcqZml78RutLxJj1PZNAIiq8/2AW0rf4oRSSOMcudrKL/g85650zMaqCzIAqDpjI6WMZa9Lr8UX65kSVQjAnvGfP/ajN1r+Cl107Nap2bmBN9VECU660wSGGp7vB2kL0PBmpqAYRJdO3NBlPSZdAWYPmXboEvQBFiL9jm3TTnb68RMo5wNnL2+fvJANmzQnCP4wBgLJQntzaHO88ntR7ywuRsUWeWS18OXndkUuiNm25JuhCsoiGFT2F14+7hawf2dXNehRXSOPmZ7vOxfXo1lC4rnHceA==;Ry+rVZ/djlqTJ/2YYW+Jtw=="
 ---

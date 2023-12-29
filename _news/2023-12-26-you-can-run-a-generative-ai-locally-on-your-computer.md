@@ -80,7 +80,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.46.36.png"
         width: 1818

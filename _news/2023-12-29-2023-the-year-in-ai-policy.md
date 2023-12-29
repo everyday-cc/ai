@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/2023-year-ai-policy"
 ampWebUrl: "https://diginomica.com/2023-year-ai-policy?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-policy?amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.46.36.png"
@@ -157,6 +158,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "jetTUdtFEveqk6Npg0iyqNu7A7supzYo+9eSGr2dlB1IDwbTJBKE12GhhNd0sXeD9FcD/mHaubO4gwy4/ghe0SZeJ/BMlePRv6zGgQ6TG6BOt65v6RQp5P9C+m6URIvSprunKSTIsO7yH3TZCGKTFcvgWdghT6FtkT1h1eWKpN0GRzCY+oovDP/7CZ5BNUAnO5jDjteuGc95vmRWMzZXf+d4ruU01CUZ+5hC3cWgG+SGEHvfjeHCaJD586rsnbb1P+to2ZX4C+YauKryJyZ+mq2ee0aq2ljDX+LeQMyFJAPK6CW2rBi//W483Bz1XQ1rC8q9Lkk0ZZRo/yBKqRh+cYWdf3MaqrWLVgXYe0sFexA=;Kz5/sV2nulCSUo3W8TIVBw=="
+secured: "RAcFtkfrhuQ6OrLZhgrpiB5tNNXZ/Ce2496Omj7VL0n1oHBwXap9kEyZfUE2LZA2BHC1ntihOyJHCHqJWxsiBWbE3prvC9cTw3p0BJ4UBNYH1URpcUO6gaZdnFpYShi8BmQvOqtFjUoPLtzvTCn/elhsWZ3+1oa+hSNx/P9Cxu9R1R3wLoAsdEZ5V3nhBJSpMQnYRz7HUhh2SgUiQ2QA4Qas9vCQiSpLPmTp28v3ZrKbjYHz3LKO5kDftN+lB7XefF3hg2OfDpBvMewGK+Ee+//BCcatkf7d6ebXI2BPIBPbYkaOLT4Am7TibkLTExvKhIX1+kGczzi4jxFzn8GMW8X3ETzErz2sKAmkBUhnFQzu6ignGubsK38Cu2hVXCpYpvN3+hnU+iQoESRo76dBdj5CdRB0Slhpa4lLZ2k7c/glVv90GF1PV2D423X/CWJ3eA7I84zfefDROqyhb7a2F+FwY54Jk2rOjA+kR4dBkg8QTp5EkBgdUqrklFB9IDnFw+jRKXZfEStLS3YNL+jzmw==;JKs8aZ7QW5STrH4COTgPbQ=="
 ---
 

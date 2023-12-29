@@ -53,6 +53,15 @@ related:
         width: 1024
         height: 614
         isCached: true
+  - title: "Nvidia launches redesigned gaming chip to satisfy US regulations"
+    excerpt: "Nvidia Corp. launched a less powerful version of its best gaming chip for the China market as part of its efforts to comply with U.S. export controls."
+    publishedDateTime: 2023-12-29T14:15:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/12/29/nvidia-launches-redesigned-gaming-chip.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "0Pg9+9LzJG6JhT15qjguh+Ykm2kKFccY91MPqKASNfJXReyiIOO4K3RGHGRrEn2UHc9z6FmlgG2Cf7Ouk+oFw24dSYd3uVjhxZzY+SVGOsCWoUvGSLFcgS3Vg5UyP+3UrAFndlfdr8rognWWL9XqoaXIBhcqbfZRxA8J0MXOflO2/4plORatvwj0o1E3u3q1cR3nx3aRuGgiX8iUZ2i3hAoXbO+UfTqFPgFLqIgbyhnVpISaqUS/k4sZoGGj4wZ/zcr1zX0IxP8efhS9swCDe0tZYht7wH8kyGafF0X1IQn+or3xYZ33wtIi4HCMJQC93xKvhXMSctIYidwBpH5qOpq6Yi6dBrnGZKfKPmF5mcoO0xKM6S5BwXsptOLzn7793WWvglDI8RnuyfMrwZlK8DaH0URIbWBHUX9CQ1pqPQf3kmRpyVqLHclqowomrG8GTBU+mvmDiiKmaO+ks0rh2uSVHykeDc52aw8eGQJM8DNphdl5CGi7evwxfCyn9dzuc45oeMXkoSKIysDy5yShSA==;7Wcyj1tr1KbItp7NX4HG7g=="
 ---

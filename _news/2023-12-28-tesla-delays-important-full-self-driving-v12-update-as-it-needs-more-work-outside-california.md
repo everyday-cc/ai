@@ -3,8 +3,8 @@ category: news
 title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
 excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
 publishedDateTime: 2023-12-28T14:37:00Z
-originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
-webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
+originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
 type: article
 quality: 58
 heat: -1
@@ -46,6 +46,6 @@ related:
         height: 390
         isCached: true
 
-secured: "M9KlfngFWwwwmjfPisDQPq9mMsLfBhRORMfAf9efZvNHIDjqBCxDZOrUPiJSoff54O4SiUUwvmFQUd7DzAB1SPtDc+jnu7NCpu/I2S2qy7OeHaiGFcSkaqOfctV9STh7VuertZ4IaqvKe5dUNQQbX/GZUNmKXquku0Ju2BfQZ09aUXffCzo2UeqTKmCgBcYXto/zDzEM0FUSIn6a76d5/5pUICg6L/RSWM+2fYRiISA+22hU8CXtV5bmiewf6U95+kcRQt03F993mbxMvGmjqEwoU8u5vGqEavAsRNCWDJLApCQZ93MsxPjiseMHS9ZvqY0gBC89sFSZyBXq8peayjtNRBVY4ELcRdmLvcrHHZk=;LMe40V0dWb8Kmx3g8411zw=="
+secured: "YBTsYx+hJJ44HJ534nqaR2eqfFfHECI1hBUEhZZGvdKQE8LU7qMMXv671pt/3tnHlGeAuM1FjWuNdScofAK/gAKTGr1rRQ6BbSpjla9jfEQY6F8Fwm/M2ppR34lN90P/cEpEqB/XXvkRESVAomGaGd9ivY+mGrO8NTmBo3oXOW2jkKRSdET9IcI0KTuznCiubEWQuDB2kP3aBVJP6phb3br+LhWwH94QbbaIFq0SfLseGCLT0eklzO7I5G6xNc5wSc+4cwtzbUNDta1/DIsMo0MUiKV3Jt8xqL7kjvr8GYDcNCwnbKk2RrDNOk8hLqk9SfXx2xHrqI3LcAG1t6GyHgx2hnAgm0LPlQWPQW7QYss=;/ZECuGwsRsHPx3pLBH+VzQ=="
 ---
 

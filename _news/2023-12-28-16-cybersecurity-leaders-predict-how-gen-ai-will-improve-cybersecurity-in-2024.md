@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-
 webUrl: "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Enhancing Cybersecurity: Unveiling the Crucial Role of Artificial Intelligence in Future Threat Detection"
-    excerpt: "Introduction: In an era where digital landscapes are expanding at an unprecedented rate, the importance of cybersecurity cannot be overstated. As cyber threats evolve in complexity, traditional methods of defense fall short,"
-    publishedDateTime: 2023-12-24T13:04:00Z
-    webUrl: "https://techbullion.com/enhancing-cybersecurity-unveiling-the-crucial-role-of-artificial-intelligence-in-future-threat-detection/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 0
 
 secured: "zYRfieLTPUm1d/9YVZx1G/34l15BL9v/POzfLy3mNNFvxOwwSRZF2vghYaaEbB4+gWf9+l+A4G1zeOfD2mhgotrpcp+nukq+M2XDvzbton5wtJZ8qVtPIoasH8M9smyUHybwpTOhy0wFCaD7H+GKYAKWntOYYRo0h+7Q7GNCmlfpRddPUQOiepTqLZ+x0Xf0UmC5opH23zcpko5N25JQyH0BxtTEbOugNPgfUM56p1n9PUsaC3RGq7AMz89WeW53wtlecFdqcNwx/ashc8YNyRoyUCwBgYyuFUMakmhi+Lx55YrOU9lDJ9FXC7Dcp6JIVZkHKUUkn32HZzB3P4v+NCQaTQAnic6t1Vo/vAozrASW5YsSZUez8OT/zAgBAhSaqCpQriT2OEnH+alcfx6se1osW8brO35B9EtW609k5UGsWIqKjl5V4BWTQ6tiJm4EHRAegPo/P7qo7E8OVO36mB1hkoPWwR3Tps5j0xCsSdtxhogyFYyXxGWFTMT8nB+kcXPJZJHHkydBYpME2jpH/Q==;uZanQryQkSed095bSE7COA=="
 ---

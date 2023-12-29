@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Let AI take most of your job"
+    excerpt: "Artificial intelligence will be doing a lot of the work that accountants currently do — but you can decide which work that is."
+    publishedDateTime: 2023-12-29T14:00:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/accountants-let-ai-take-most-of-your-job"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "Ukw3j+MZzOHeDD/l/lGMOGFl6mBQWtvv9mScEbRyk1gV8iEx//IGsGPz8ycT1JDCoXb6+qYDtf+Dd3VuJ50efvlBUjXu6/emssXECti0IbrGpKUuC7qiH+hIUTqQfoxniagvDRkjDgJKcliwsJbU3ihZ8qxppy9vvIjBltkM5B+0VpJs68k6RFW3PPFFec5SGtaJUPsN/d3hPrgM16fB8OeK5qmMhDc+CJtJq+zqkg4JcEcJ04i3HzSntkIuESYyz1OICQGml85wzWyA/VNiRql75gGAfUgyJ6H4Bo4VqwO1J/cZ8mkHTEuPiaYkv605peUzOy0CuQEUlV+npTdNm3fbo2WSpgqO3s80go/9VT9lQr0EdvU+BHFSb6PGiz4klA/BnY1fPQA2kjYLb5BggjaqXesIyFAyDzk668co83g1NGuT7WMQ1wepQ3+rjj5VEiwj3b5JFIe7sZzTmB2/l4L1B1gWVhgzGE22U9X2pg/i8vJurGYuIGTbI1W51wkIfmCWap96eoryUATCmE3M+A==;bXgdQxA621HTf71mKvWaew=="
 ---

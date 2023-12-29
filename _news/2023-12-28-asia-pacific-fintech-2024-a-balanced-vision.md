@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://assets.bizclikmedia.net/1200/a6602f1316bea217cbc3f60123ef9a17:6a2b1f357504b56b78ae51c691874b68/saphyre-brothers.jpeg.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Regulation Update: Mind the gap ahead of 2024"
+    excerpt: "Here’s the first edition of a new Finextra long read series summarising the latest regulatory updates impacting the financial services, technology or fintech industries, and how financial market participants should mind the gap between the regulations that have  not fully caught up with the pace of innovation."
+    publishedDateTime: 2023-12-29T16:14:00Z
+    webUrl: "https://www.finextra.com/the-long-read/902/fintech-regulation-update-mind-the-gap-ahead-of-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/902.jpg"
+        width: 799
+        height: 449
         isCached: true
   - title: "Predictions 2024: Artificial intelligence"
     excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."

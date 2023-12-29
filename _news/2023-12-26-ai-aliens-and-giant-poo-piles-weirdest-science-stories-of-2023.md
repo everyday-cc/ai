@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/science/weird-strange-science-stories-2023/"
 webUrl: "https://newatlas.com/science/weird-strange-science-stories-2023/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top 10 AI regulation stories of 2023"
+    excerpt: "From the UK government’s publication of its long-awaited AI whitepaper to its convening of the world’s first AI Safety Summit, here are Computer Weekly’s top 10 AI regulation stories of 2023."
+    publishedDateTime: 2023-12-29T05:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366563675/Top-10-AI-regulation-stories-of-2023"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 19
 
 secured: "RSs6f3Ml4M2I2AQ4zV/KIqDWz3m9qJ2HhZLsA1gm0ugtpBni7d5djUKyeWo3p9tDuq0Vtmi/Yt02jdYMWasLKMQtzUPHeRrSgjgpsA2M+10Ys4SqaNWi13DTl5oYZmooAbWJPMiX1QZwJb6ED0CPTnIDBYKwDQ/3NpQ/jg/Lzz/tyjmF4BerSAMDEg+tCN6oo8tZDkOkCJ189FIWVYeKYnmYiX/ua4GX/WoZVRE5yYdMVlG1uclV/oth/zBM5WVnTVZlG2FkN/+i7xTTZw01/aIH/RorMu4N0e0w1u4LQKcofPq/4XE0d9vUjYx82hMLLzPBT6iBU8ej4EJtvigmhhNFRIY4sGVZEt/KNd1aiiU=;oMvERvdtRG798C/0bSdFkA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence
 cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Let AI take most of your job"
+    excerpt: "Artificial intelligence will be doing a lot of the work that accountants currently do — but you can decide which work that is."
+    publishedDateTime: 2023-12-29T14:00:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/accountants-let-ai-take-most-of-your-job"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 17
 
 secured: "x8Hx9hhdR/d1+unAr+52JWhHSPiGuW2/zPrDmEhsI94Zq85xcuE7fX5wupNO3L79XADyAGSNpRNTqE4YBEQ72uz7vkuQncUx55IV+qgPuQVKxP0pfCsGr5HFPEw1h1Q+VdhPlMLj1JqIaxuTeRvQ1wBp+ISkdj/hJvqpj24ODf+Dny5MPTlplvmljfKPCTGkgzhwMimY2odIwvsi1SGHzEzihu1ckIi7OC/9NQJd9Cvy4bVeoQtaQowP6BLQvBgBcv92gL5K/3G+IX1GwyCbPQW1wkvV4W1DQUIB6cpzbaGeyodB9Tl+AG8Q0rg631FUh6+gZAhvmpwPWfmjLrEUTCVZS2xD2BgGTJC20cw0i8H3l3S7TgukmOEO71LLoAZnsAVDutLbkAzTxmbeQOl8PZQNtqhibHi5zOPVQmmXryI8ssYYyFZ3/d1nA9xU9XP4CtSPOUruDnFtfSBDu+FhxWeXqOfcvIh6OldsNKe4guLo+Z6JRzaIeroCWM+qrpoiwtyHL/M3QmPg0dWu8BlPiw==;TGc0Kz6TPrX1ltbmL0kLRg=="
 ---

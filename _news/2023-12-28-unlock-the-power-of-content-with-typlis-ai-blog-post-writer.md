@@ -33,7 +33,7 @@ related:
     provider:
       name: The Information
       domain: theinformation.com
-    quality: 17
+    quality: 19
 
 secured: "bMHvhYNQwxHVzQl9H6HrGZR5lJRiJKH+9aB1UpvyhYBBKXm18Y+fL/FtsHchFQoDvCkrU4yYNFcfYtFdd67a4CuIZH+wA/jwR26McVA8lOjmXWI+VJejdojzf/86+663X5GWd4vCYGKGHmqbJrchG0+Hm+wjHGfGdzle9mUZYNigiYO2thdRgK43qYMfrSNN6eC9XjLwNvYvxuBOobL/r6rCByq2LV1AAMNI6/FReLAJWzIkglCsAaf0nAAsRImFPB1Cd/AEInqENQP/xzTApm21q/Z0GuQejUsonRU+eoBp2od6crd+EfucyO8AMeNVksnu6AzDWDYRjvHvguzHdAracXTEsaUykEGTcOsSe9fk7gcZyQPTUkwAXVbWokbiZbnfvqybdcxzJNzZKwCaYPNMp2RqT6oLYKCEbdBcEgS9rvvo4NMXAU6es9nr4/Bb7rvrSHni3Uh3ViF8T5PU5uTNEF6ovwsh+mROpH1tArFY46/YNz9wmOYBNI54krc4TJk3zcoUZlfIR0LEpdUOiw==;uFSJvBqxXN0F0WeEhaFeaA=="
 ---

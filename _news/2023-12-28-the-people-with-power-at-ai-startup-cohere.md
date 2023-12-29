@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-28T14:00:00Z
 originalUrl: "https://www.theinformation.com/articles/the-people-with-power-at-ai-startup-cohere"
 webUrl: "https://www.theinformation.com/articles/the-people-with-power-at-ai-startup-cohere"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Unlock the Power of Content with Typli’s AI Blog Post Writer"

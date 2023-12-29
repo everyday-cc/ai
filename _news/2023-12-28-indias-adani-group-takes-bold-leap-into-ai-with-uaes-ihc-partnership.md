@@ -9,7 +9,7 @@ ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-
 cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Adani forges AI JV with Mid East backer IHC"
+    excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+    publishedDateTime: 2023-12-29T16:02:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/29/12/2023/adani-forges-ai-jv-with-mid-east-backer-ihc"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230215_1676486146-680.jpeg?1676486146"
+        width: 1000
+        height: 680
+        isCached: true
   - title: "Adani Group forges AI joint venture with Middle East backer IHC"
     excerpt: "THE Adani Group, led by Gautam Adani, has formed a joint venture (JV) with a unit of the United Arab Emirates’ International Holding Co (IHC) to explore artificial intelligence (AI) and other technologies,"
     publishedDateTime: 2023-12-28T10:02:00Z

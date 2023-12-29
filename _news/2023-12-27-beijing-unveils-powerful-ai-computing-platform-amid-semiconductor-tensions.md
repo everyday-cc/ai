@@ -36,6 +36,15 @@ related:
         width: 1080
         height: 540
         isCached: true
+  - title: "Meet LG's multitasking, pet-sitting, AI-powered home robot: more helper, less Terminator"
+    excerpt: "LG's smart home artificial intelligence agent, set to be shown off at CES in a couple of weeks, uses its two legs and set of wheels to navigate a user's home independently. LG says the robot is a home manager and companion rolled into one, able to use its ..."
+    publishedDateTime: 2023-12-29T10:21:00Z
+    webUrl: "https://www.techspot.com/news/101357-meet-lg-multitasking-pet-sitting-ai-powered-home.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
   - title: "LG's smart home AI agent is a cutting-edge robot that can engage in complex conversations"
     excerpt: "LG is leveraging AI to enhance its vision of the smart home of the future, one where cute robotic companions can sit down and talk to you."
     publishedDateTime: 2023-12-28T13:59:00Z

@@ -41,6 +41,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung may launch new mobile camera sensors with on-device AI capabilities to take on Sony"
+    excerpt: "Sony dominates smartphone camera sensor market with 54% market share, followed by Samsung with 29%. SK Hynix enters top-five rankings with 5% market s"
+    publishedDateTime: 2023-12-29T15:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/articleshow/106386453.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/amp_articleshow/106386453.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-may-launch-new-mobile-camera-sensors-with-on-device-ai-capabilities-to-take-on-sony/amp_articleshow/106386453.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 49
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-106386446,width-1280,height-720,resizemode-4/106386446.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung’s new AI-powered fridge looks at your food to suggest recipes"
     excerpt: "Samsung's brand new 2024 Bespoke 4-Door Flex Refrigerator comes with built-in AI that can suggest foods based on what you have in the fridge."
     publishedDateTime: 2023-12-28T12:37:00Z
