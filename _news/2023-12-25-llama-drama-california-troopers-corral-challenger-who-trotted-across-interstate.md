@@ -74,6 +74,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "Gc6WLlZShXuQ2/CKQ6LMZGIFk5VIY/LtplVLIvgdLEr9sdQOSL25kZUb5BloQ+LHZ/Qsd80F0sudtWtP6GkcXJbzlAfILe8BSHmmX1UHLsQfxO89/g6DXHXoRlMq74qMD6wm5Brdb7RHDj/tIb2KyMvJXMJYveYwuP3D6As3GED0yzmKGLoFG7IuXz/+z8QxCo2U+YvtR3kPO4QcCtjoiL6gZfwVHdR+diBLKo3Yk9SN0rvlLLLkfO0Y6kaUzbfocV2D1fn9WUvbPf8tYWDqN1ARIcLnFRdG/Y3z0tdkya0PCdPgukyisFyuPiIHLUzzXBo6jtfgynuFTLL0+/+xHy68V16BMjBqzaQJwnAKAhI=;oamX3FaaaMunpzzTUPyP5A=="
+secured: "CypuTI4WcyhzH4KlD9h3xKAUzKWp5upmxwLiLv9YVRPB17vBSblTuxl7feWIQuLj7ozFnzRBBDaSEpdxqwj5t/MiCR71a3aq98nl5zFPeuOh1x7MzODaE2NU3+uBnsgNVzYartlxsQJN01W/Faceqb9/m/UpdDZc3d7dLqqiN+JOlcz64L5OaY2Rm098BWMf2xQbgTFb1Qq/AmRoY7qW4Rj+ZFZOai5qnu/hgl2OAIzrwcKUznE+EoxBQ07oBcu9GmeuTgLrpGaPgfM4rtf4DIpSRwt+IM8lSMyc5fvgPkc7xNwmunS68tk/VgsklPpOOJ2HyD+pgcUKBFje6ba/S7frnDxhpf53dli6kecZzVI=;ki2YzDIJ7O0kR300chMoWw=="
 ---
 

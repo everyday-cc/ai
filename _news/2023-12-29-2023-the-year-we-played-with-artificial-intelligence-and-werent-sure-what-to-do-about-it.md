@@ -41,14 +41,14 @@ related:
   - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
     excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
     publishedDateTime: 2023-12-28T15:29:00Z
-    webUrl: "https://auburnpub.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_3624e720-1329-5089-8c11-649475e13fbe.html"
+    webUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
     type: article
     provider:
-      name: Auburn Citizen
-      domain: auburnpub.com
-    quality: 28
+      name: Madison.com
+      domain: madison.com
+    quality: 26
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/auburnpub.com/content/tncms/assets/v3/editorial/3/62/3624e720-1329-5089-8c11-649475e13fbe/657ba78a00b80.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/88/a88c481f-65f9-545f-b4d6-2b75a4fd1add/658d94e5effca.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
         width: 1084
         height: 569
         isCached: true

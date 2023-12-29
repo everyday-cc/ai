@@ -2,6 +2,59 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-11-17-the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions.md",
+      "title": "The AI-Driven Banking Surge: Info-Tech Releases New Research on the Future of Small and Midsize Institutions",
+      "excerpt": "Info-Tech Research Group's latest findings highlight how AI's transformative role in the banking industry will position banks for greater efficiency and service excellence through enhanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-ai-driven-banking-surge-info-tech-releases-new-research-on-the-future-of-small-and-midsize-institutions-1032829105",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2279503/Info_Tech_Research_Group_The_AI_Driven_Banking_Surge__Info_Tech.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-16T20:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-17-ai-ethics-essentials-lawsuit-over-ai-denial-of-healthcare.md",
       "title": "AI Ethics Essentials: Lawsuit Over AI Denial of Healthcare",
       "excerpt": "UnitedHealthcare has been sued for the alleged wrongful denial of extended care claims for elderly patients through the use of an artificial intelligence (AI) algorithm.",
@@ -1025,50 +1078,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-how-machine-learning-is-powering-a-financial-services-revolution.md",
-      "title": "How machine learning is powering a financial services revolution",
-      "excerpt": "The promise of machine learning brings new opportunities and new questions ... These technologies are now gaining momentum in the financial services sector, most prominently in areas of application that include analysing credit risk and detecting illegal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-reporter.co.uk/finance/how-machine-learning-is-powering-a-financial-services-revolution",
-      "originalUrl": "https://www.business-reporter.co.uk/finance/how-machine-learning-is-powering-a-financial-services-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/004/iStock-1168105746.jpg",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T23:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-reporter.co.uk",
-        "domain": "business-reporter.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

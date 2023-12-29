@@ -2,6 +2,49 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-11-12-how-to-invest-in-artificial-intelligence-3-stocks-to-buy.md",
+      "title": "How to Invest in Artificial Intelligence: 3 Stocks to Buy",
+      "excerpt": "Welcome to the world of AI (artificial intelligence) investing! As technology rapidly evolves, learning how to invest in artificial intelligence becomes crucial. Savvy investors repeatedly focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-12T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-12-artificial-intelligence-is-not-an-existential-threat-yet.md",
       "title": "Artificial Intelligence is not an existential threat – yet",
       "excerpt": "I’m sorry that I didn’t get my article on Artificial Intelligence last week during the ‘AI Safety Summit’ at Bletchley Park, the historic Second World War decoding centre in England. I got distracted by some other stuff that was happening in the Middle East.",
@@ -1026,59 +1069,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-10-how-we-taught-google-translate-to-recognize-homonyms.md",
-      "title": "How we taught Google Translate to recognize homonyms",
-      "excerpt": "How Google Translate’s neural model taught it to understand bass from bass.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/translate/google-translate-homonyms/",
-      "originalUrl": "https://blog.google/products/translate/google-translate-homonyms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/homonyms_hero.gif",
-          "width": 2880,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/translate/google-translate-homonyms/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/google-translate-homonyms/amp/",
-      "publishedDateTime": "2023-11-10T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
       ]
     }
   ],

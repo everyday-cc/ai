@@ -2,6 +2,40 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-11-13-self-driving-cars-are-slowly-moving-forward.md",
+      "title": "Self-driving cars are slowly moving forward",
+      "excerpt": "Taking a nap behind the wheel on a tediously long drive remains a distant dream. But broad adoption of autonomous vehicles will inch closer in 2024",
+      "sourceUrl": null,
+      "webUrl": "https://www.economist.com/the-world-ahead/2023/11/13/self-driving-cars-are-slowly-moving-forward",
+      "originalUrl": "https://www.economist.com/the-world-ahead/2023/11/13/self-driving-cars-are-slowly-moving-forward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-13T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Economist",
+        "domain": "economist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-13-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
       "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
       "excerpt": "As part of its Intelligent Content Hub for customer communications management, Messagepoint's AI-powered Assisted Authoring will now support translation into over 80 languages and suggest content ...",
@@ -892,49 +926,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-12-how-to-invest-in-artificial-intelligence-3-stocks-to-buy.md",
-      "title": "How to Invest in Artificial Intelligence: 3 Stocks to Buy",
-      "excerpt": "Welcome to the world of AI (artificial intelligence) investing! As technology rapidly evolves, learning how to invest in artificial intelligence becomes crucial. Savvy investors repeatedly focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-to-invest-in-artificial-intelligence-3-stocks-to-buy-1032809724",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-12T14:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],
