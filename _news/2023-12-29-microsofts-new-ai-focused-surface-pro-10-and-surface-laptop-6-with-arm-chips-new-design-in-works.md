@@ -160,6 +160,20 @@ related:
         width: 1920
         height: 1192
         isCached: true
+  - title: "Microsoft's Future Surface Pro, Laptop to Feature ARM Technology and AI Innovation"
+    excerpt: "Microsoft is gearing up to launch the next generation of its iconic Surface Pro and Laptop devices. It is poised to bring a wave of technological advancements that could reshape how we perceive portable"
+    publishedDateTime: 2023-12-29T08:18:00Z
+    webUrl: "https://www.econotimes.com/Microsofts-Future-Surface-Pro-and-Laptop-to-Feature-ARM-Technology-and-AI-Innovation-1668715"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/12/r1xa1cxzs5_th_1024x0.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Surface Pro 10 and Surface Laptop 6 will be Microsoft’s ‘first true next-gen AI PCs’"
     excerpt: "Specifically, Microsoft touts CADMUS PCs as being genuinely competitive with Apple Silicon, sporting similar battery life, performance, and security. The next Surface Pro and Surface Laptop are expected to be some of the first CADMUS PCs to ship next year in preparation for the Hudson Valley release coming later in 2024."
     publishedDateTime: 2023-12-29T00:14:00Z
@@ -238,6 +252,6 @@ related:
       domain: kuow.org
     quality: 24
 
-secured: "8A49D++crc63lYHJBHSg9AqZb3HRzEgd7+AKpRDjqjE70yZL2MD4yoquHFRtiBoKSzFJJeIulN2sMOWrbYrLDwbx9s9dKDZnUL1Coj+DWTNa9uUQoyzlKFvtRiNvBhxlLKb9LUFMz9pxrWiJ/C0d96M3zoobK3smP0XfEzIvtq6iU/z1Mtz7i4QBhuz+oDFaFVfpV/jdYN91sgJ/2sz6tdZgEhiWXKTuCljgf8vTOMBC2kdbI91Y33HWwIc4fD1V6uq4fkjDYl4kqw91J3nA82cNwU1ckJ2t8GxwahrympQXhyLVVIDbEafb+lfx/1ocdNtQCjSjegRqUzHIuuG7F+N0q23VZvtxFC5aPqT8j1g=;KLDz+hJTyLU/w3X04UgwJA=="
+secured: "DgYYo1uCZ0TcmfcQ9zbOu+68CLHD1IBqJa3+QNPITb1u07rubmUKQB7gHud+g3XeAKR/e+IhG4W1C89wlfvwSxkGSkF53juCY9ExwkXQFrW8j3z7OmiLj9fJjLAB53NCRjZz7GSF0ZadQwaZy1K8VWKuRQUvBfMt4jdMgVqJQ+giYNXz38BWsc2AA5MnqUEXEVck1Dy2VARB7VmRqDeIXdJ3FHOBIzuYsSdxBqSk5J+EMnLfusFXvxUAQlK9+FjlcwKnIRaz3MnONXjzjUCwO7Ny/GwzBB9BfH0SaBDXyUm6YbcIQVvn5HJYRgLmiiyUIKNFJ7XsnzLYnyst2lLIuoFr41z1FjRP+HgJ/QmGb58tEljLjINV+kSfHkTRpJP+H0dd2VEf5qeVtCvQ9l2h2hIRRHBQ92Sz1YBcnmMFiM1h5wxikoZ6sm+fAxrV9EOM09I1CHiblhfRBQyLDZZ/DY5NPUQdYZOKKkUapcid8KJUkZmGgQmF4xiu4I3L5gulTp1d4/uZH3S6kW26sWEnpA==;VH5N98iChOTFKm2Fb5OY7Q=="
 ---
 

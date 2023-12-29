@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "5 AI and Big Data Cryptos To Watch"
+    excerpt: "Notable AI cryptos like Injective, Numerai, Render Network, InQubeta, Borroe Finance are currently gaining popularity in the decentralized tech industry"
+    publishedDateTime: 2023-12-29T08:25:00Z
+    webUrl: "https://beincrypto.com/5-ai-and-big-data-cryptos-to-watch/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 39
+    images:
+      - url: "https://beincrypto.com/wp-content/uploads/2023/12/1200-Ai.jpg.optimal.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Is this the friendly face of AI in 2024? Meet LG’s new ‘AI agent’"
     excerpt: "If LG Electronics Inc. has its way, it can. It’s introducing its new two-wheeled “AI agent” (pictured). Described as an “all-around home manager and companion rolled into one,” the robot has been designed to enhance users’ daily lives and to showcase LG’s commitment to realizing its “Zero Labor Home” vision."
     publishedDateTime: 2023-12-29T01:09:00Z
@@ -130,6 +144,6 @@ related:
       domain: tradersmagazine.com
     quality: 17
 
-secured: "ygbuX5kajATodJELxi2bMJUTx1GmaWy9wW307acNC/CS4imUoTNnWoav187uKDPi0rptNyh1d+4YxAkgxZ1If8skm4ZJ1F43zRW6UIOdJHXuEzewaKt5X5dtsJ4tkW4DfpcNJfuWad9eT7hkM4fRG/dwyqx6s56n5G9DN+5KEVMHvV93rNxQniGedzQo3tDuCNKxdsM5TQDINVHmBPFUutgK/QYVfGhWEUntvijVeN1MOT9CcvqBNg0xW2GsOu5/EJ71N5RnFiOCDNne/PDbdxuhbWnGiLWRFfXoWr3zSN+n2jJjq7am7VIzOcwXN+KDKqneQbkPJav/EczT4mz4ifJljNoWuL43kVZ46mnbnds=;SASHAwfWcXt1kaGKLFnjXw=="
+secured: "IQf7ooRrZo9dkg0PNDbg2Li//E4sE11g4+YtQA0wcbbP3CviOsLgFqElSixbM3SD1yddJ1Eq4q+yWUdyNrwOZ/kU0gnixX+mlqvKVBfZu4opn0QPED8myX2z/Stsl37/9RBeyWxWMVTlclUjcMyJSP3Ya7Pu4QcRp5GeRRS13JLTn3z9ZSEDikbJos1AOG8ly4PxdRlAYqBEJYmjGQRYBMG1pxtVIIOI5fphgpxPJ4Bec0S+Jt5JVtnlptzaMh3Huxe4p/YfORUICnbxGZgEZs7IpwOphV+vvwikK/TGVnL1c2v709e5xpouMLWMfPXI/ffvwv0kg+UEXFeftjYauYzVt3bNy2XGD+vJii+eLAEATlEUKnitGNIpf1QQHI8akClC0tCZKveTlTNLX6qxNE3wEO14Y0MgARu7vrmYPufL8Ps7iVP9L3S8H2QZS1Bjm3OkjoizHHhc11jHgVdOUhvSkGCOP1dA3u/y/a7P6bcLeeAoQ9qd4KpqVJCALvMch2b+p+cNPF6ncTKVQdyTTg==;FYp59Le9aDCSp2sSPi21/w=="
 ---
 

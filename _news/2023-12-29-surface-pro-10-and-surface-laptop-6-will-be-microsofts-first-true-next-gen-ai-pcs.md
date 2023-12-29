@@ -174,6 +174,20 @@ related:
         width: 1920
         height: 1192
         isCached: true
+  - title: "Microsoft's Future Surface Pro, Laptop to Feature ARM Technology and AI Innovation"
+    excerpt: "Microsoft is gearing up to launch the next generation of its iconic Surface Pro and Laptop devices. It is poised to bring a wave of technological advancements that could reshape how we perceive portable"
+    publishedDateTime: 2023-12-29T08:18:00Z
+    webUrl: "https://www.econotimes.com/Microsofts-Future-Surface-Pro-and-Laptop-to-Feature-ARM-Technology-and-AI-Innovation-1668715"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/12/r1xa1cxzs5_th_1024x0.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
     publishedDateTime: 2023-12-27T13:18:00Z

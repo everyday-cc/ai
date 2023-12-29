@@ -7,8 +7,8 @@ originalUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-sen
 webUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Press-Republican
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meet ELLiQ, an AI-enabled chatty companion robot for the elderly"
-    excerpt: "Leveraging advancements in Genrative AI, the robot enables more immersive and continuous conversations, deepening the user-device connection."
-    publishedDateTime: 2023-12-24T09:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly"
+  - title: "Networking through Introbot, an AI platform that helps discover and build professional connections"
+    excerpt: "Introbot is an AI-powered platform that helps attendees access and nurture business relationships with relevant decision makers at events and business communities."
+    publishedDateTime: 2023-12-25T01:50:00Z
+    webUrl: "https://yourstory.com/2023/12/networking-through-introbot-ai-platform-for-professional-connections"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
+      name: Your Story
+      domain: yourstory.com
+    quality: 40
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/24/image/jpeg/89pjLt7gnIxx0nQu3WmdmL7JJteS9BvekQubbkDw.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://images.yourstory.com/cs/2/fe056c90507811eea8de27f99b086345/CopyofImageTaggingnoframesEditorialTeamMaster16-1703156713799.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
         isCached: true
   - title: "Chatty robot helps seniors fight loneliness through AI companionship"
     excerpt: "\"It's entertaining. You can actually talk to her,\" said Loaiza, 81, whose ElliQ in suburban Fort Lauderdale nicknamed her \"Jellybean\" for no particular reason. \"She'll make comments like, 'I would go outside if I had hands,"
@@ -48,15 +48,6 @@ related:
       name: Sentinel Colorado
       domain: sentinelcolorado.com
     quality: 34
-  - title: "Robot plays constant companion to elderly"
-    excerpt: "The women are some of the first in the country to receive the robot ElliQ, whose creators, Intuition Robotics, and senior assistance officials say is the only device using artificial intelligence specifically designed to alleviate the loneliness and isolation experienced by many older Americans."
-    publishedDateTime: 2023-12-24T10:14:00Z
-    webUrl: "https://www.arkansasonline.com/news/2023/dec/24/robot-plays-constant-companion-to-elderly/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 19
 
 secured: "xP6rytt5JyVCgi1S+JzNL8wWrUfiI12pLGo1/AyTrBVs6N0a4y3p6qVDfueOL3PcMkqor1WZ+BQfBUktuyIbDYJ+cX4A5DNRaDqpFL2jIliiFV++8uqWKjfdqU+9d2/YqQcJcqDVufSZxdt2ndCm0W40ztzO9R+0TNbFKfSlke+9ZftgzRev3+4XbdZZekanQvCEcMNd1N7K5Jqa5biE2WKUJsKVWN+gVZAFdb24enzO+UHxJWazXnZ5XsxPc6PTafRsxJpCykL26I1vQv2rpuMBmaJ/TUBlmpHrIRzUWgMVuVhzGzsTvOf/XLQO1yycssXnznECJw6dEQB6JJ7dZmLvBNo+rZ8mfi1/EwT0iNhdyYUrV1irx4/SPJLCjACgw+hI+O4DaiMUY7Thz2xrKfnJXJR4uE5SZpsG3y18mm++ssJzNNAiHqdjGHuQnodl1nv2e1EN+wOoG007cOdjI9mTxQxIRogn2K9e5JG2BMV+VJtbb5mr5cbr0LgBAM7IO7Wc309h4hth5FVxneZNKQ==;VSBBAMqo6N+igshJbl8sqg=="
 ---

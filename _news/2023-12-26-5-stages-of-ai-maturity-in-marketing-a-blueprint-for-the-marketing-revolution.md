@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/darden-school-of-business/5-
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Boom in artificial intelligence stocks ignites market returns"
+    excerpt: "Investment returns improved sharply in 2023 thanks to a boom in artificial intelligence stocks ... The bank is also positive on the healthcare, property trust and tech sectors, but recently switched from overweight to underweight on consumer discretionary ..."
+    publishedDateTime: 2023-12-29T09:51:00Z
+    webUrl: "https://www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1"
+    ampWebUrl: "https://www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Artificial Intelligence Has Entered the Resale Market"
     excerpt: "Luxury vintage sellers are teaming up with Entrupy, an artificial intelligence app, to better research and verify its products. Here’s how it works."
     publishedDateTime: 2023-12-25T14:00:00Z

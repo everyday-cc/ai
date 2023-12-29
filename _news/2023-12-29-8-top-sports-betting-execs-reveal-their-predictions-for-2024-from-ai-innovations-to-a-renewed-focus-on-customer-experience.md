@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Navigating The Future: The Dynamics Of Hyper-Personalization And AI In Customer Experience"
+    excerpt: "Being committed to delivering effective personalized customer experiences should be the compass in driving businesses forward."
+    publishedDateTime: 2023-12-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/navigating-the-future-the-dynamics-of-hyper-personalization-and-ai-in-customer-experience/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
 
 secured: "OBpoxjsWXO4GMW5YdZqCFJTobDRIslzj7KoVEkuhrPIBG0vwoJLpcNU5yrZfdERNOXaa3bHghHILT7GVAuc2aU+HaCpMOHyoBU5m0xK0XawX9Z4MHvFqORp4s+q+RJDYuBMmFdjr6rEe2EZkNgN0B0yIOdhWKR9qgnfkNDEQfViKlYHSQHfAtFMAkTofwmsjZw+yGiOIumgkzkaHw6migSxCupEL2HZewFN4Rp+SK2MX+lYrpvwkLWTN133JCGfxNqPanUbm00zNTj0QZ1qb47QRQ0BSFz0biNfKnOs8hQ8IAIvPmNzMNiDn0N3C3g+Z0SC7Mo7vqfbIYmicUkpuATIptUgpyBdl0Xct7Es9Cw/0Cvi/g+eufn/InL9Qb3SBCKFVzorYqrqWTI62+7RizB4Ws8Z2HkKZL5zrlU1L23Eq6cF5RZ4gVc0sg3/NFmAty8kIRwmpqPID6elLHjoujCuO8uB5hT2QOBk+UaFH8bNa7AM+iJCG6H2Jz5b+EY7G855pNG1LZOSktgLsOca2qg==;F2HWs6aUxYdIHj6l8iUM9w=="
 ---

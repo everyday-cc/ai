@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/tech/elevating-customer-experien
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating The Future: The Dynamics Of Hyper-Personalization And AI In Customer Experience"
+    excerpt: "Being committed to delivering effective personalized customer experiences should be the compass in driving businesses forward."
+    publishedDateTime: 2023-12-27T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/navigating-the-future-the-dynamics-of-hyper-personalization-and-ai-in-customer-experience/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 39
   - title: "8 top sports-betting execs reveal their predictions for 2024, from AI innovations to a renewed focus on customer experience"
     excerpt: "Leaders at companies like FanDuel and DraftKings reflect on how the sports-betting industry changed in 2023 and share their expectations for next year."
     publishedDateTime: 2023-12-28T20:11:00Z

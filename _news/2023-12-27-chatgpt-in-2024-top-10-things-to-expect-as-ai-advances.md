@@ -90,6 +90,20 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "5 AI and Big Data Cryptos To Watch"
+    excerpt: "Notable AI cryptos like Injective, Numerai, Render Network, InQubeta, Borroe Finance are currently gaining popularity in the decentralized tech industry"
+    publishedDateTime: 2023-12-29T08:25:00Z
+    webUrl: "https://beincrypto.com/5-ai-and-big-data-cryptos-to-watch/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 39
+    images:
+      - url: "https://beincrypto.com/wp-content/uploads/2023/12/1200-Ai.jpg.optimal.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Is this the friendly face of AI in 2024? Meet LG’s new ‘AI agent’"
     excerpt: "If LG Electronics Inc. has its way, it can. It’s introducing its new two-wheeled “AI agent” (pictured). Described as an “all-around home manager and companion rolled into one,” the robot has been designed to enhance users’ daily lives and to showcase LG’s commitment to realizing its “Zero Labor Home” vision."
     publishedDateTime: 2023-12-29T01:09:00Z

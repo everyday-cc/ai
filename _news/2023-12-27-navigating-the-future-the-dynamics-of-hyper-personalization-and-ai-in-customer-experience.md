@@ -23,45 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "AI-enabled hyper-personalisation: Next thing in finance industry"
-    excerpt: "A significant catalyst behind this evolution is the emergence of Artificial Intelligence (AI), which is reshaping the fintech space in profound ways. AI-enabled hyper-personalization is becoming the next big thing in the finance industry, leading to ..."
-    publishedDateTime: 2023-12-24T10:01:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-enabled-hyper-personalisation-next-thing-in-finance-industry-3346576/lite/"
+  - title: "Elevating Customer Experience On Social Media Through AI And ML: Insights From A Machine Learning & AI Expert"
+    excerpt: "How AI and machine learning are allowing social media and its users to evolve is something that is yet again becoming a reason for the social media marketplace to evolve and for the users to be up to speed."
+    publishedDateTime: 2023-12-26T11:04:00Z
+    webUrl: "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert"
+    ampWebUrl: "https://www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 74
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 70
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/pexels-edvin-richardson-796206.jpg"
+      - url: "https://media.assettype.com/freepressjournal/2023-12/9ee2bf84-24ed-4ca3-a7b8-177d505658d5/qq.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "From Automation to Innovation: Navigating the Impact of Artificial Intelligence on Industries"
-    excerpt: "Introduction: In the relentless march of technological progress, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the very essence of work. This article delves into the profound changes AI is bringing,"
-    publishedDateTime: 2023-12-24T12:10:00Z
-    webUrl: "https://techbullion.com/from-automation-to-innovation-navigating-the-impact-of-artificial-intelligence-on-industries/"
+  - title: "8 top sports-betting execs reveal their predictions for 2024, from AI innovations to a renewed focus on customer experience"
+    excerpt: "Leaders at companies like FanDuel and DraftKings reflect on how the sports-betting industry changed in 2023 and share their expectations for next year."
+    publishedDateTime: 2023-12-28T20:11:00Z
+    webUrl: "https://www.businessinsider.com/sports-betting-industry-predictions-top-execs-2023-12"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 28
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/From-Automation-to-Innovation-Navigating-the-Impact-of-Artificial-Intelligence-on-Industries.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Machine Learning Operationalization Software Market By 2031: Opportunities, Insights For Industry Segments Rising Regions"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.The global Machine Learning Operationalization Software"
-    publishedDateTime: 2023-12-26T14:46:00Z
-    webUrl: "https://menafn.com/1107657850/Machine-Learning-Operationalization-Software-Market-By-2031-Opportunities-Insights-For-Industry-Segments-Rising-Regions"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "R+718uRt+2SZp0Ct8g+RFacZzhxhhyi7nybXmPQkBZYqv92sYOt8NvuvCosb2aZIwuXNEL05yc2+ppIKCnnVZ5M0ttL/u2YXddNNCdek2xC3v08NYygBD/xNpyazpJmHva1qk4fp/8/W3Mx9zEUlhLQrGE6z+HSCETfvlnNc+SSBQmMpW6x8pXgwor7OM/9uqJl6q5JNKYs2gYKMzKrNoa1S6xe2NjJ0Vny/hOEWMBtaL8cIgonlkve+VD/EX83E4OBZZ7NqPXVLn7HbTliPSNQXis0GZoANESRbhWmSlo39NH7DfEVe0UeUZSFeAVlzby6v4NhsE6yoJKOfS1TEoQMMn+LzQN7yX5tj/vS2lCEciOPrM9jUly+WEYk5huhqLErLfRIwy+Kh45H8Rf9U9rlrnkS829aAGekeZvXsmE04CCyCfg41hysUaBDCmuI8vmbVe5gF9XbNOhgOfmkikNecrKIUZ465K3mI1nsZasAYkRrs8ycmbOOG6zw3D51IeIspnibD9Co/+CudnpKEWA==;hB1jE96DzZwLA6frmq0KnQ=="
 ---

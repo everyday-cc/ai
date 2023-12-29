@@ -495,6 +495,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-27-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
+      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
+      "excerpt": "Some American senior citizens have a new companion to help them combat loneliness: a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct humanlike conversations with its",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
+      "originalUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/68/56880c94-a42d-11ee-947d-13d248d7d7c4/658b37a1780f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-27T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Press-Republican",
+        "domain": "pressrepublican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-big-tech-is-spending-more-than-vc-firms-on-ai-startups.md",
       "title": "Big Tech is spending more than VC firms on AI startups",
       "excerpt": "The rise of generative AI—systems capable of producing humanlike video ... Tech companies which can provide cloud infrastructure and access to the most powerful chips as well as dollars. That has rapidly pushed up the valuations of private start-ups ...",
@@ -555,7 +598,7 @@
       "originalUrl": "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1117,7 +1160,7 @@
       "originalUrl": "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1191,48 +1234,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-as-guardrails-fade-and-ai-deepfakes-go-mainstream-experts-warn-of-election-impacts.md",
-      "title": "As guardrails fade and AI deepfakes go mainstream, experts warn of election impacts",
-      "excerpt": "Experts are warning that the spread of misinformation could get worse in the coming presidential election contest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "originalUrl": "https://www.cbsnews.com/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/11/06/32c01e53-97a0-454a-8708-73211f50fd67/thumbnail/1200x630/27e46ff3be5fa50868bcbf0e1ed82767/gettyimages-1401415073.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-deepfakes-experts-warn-election-impacts-as-social-media-guardrails-fade/",
-      "publishedDateTime": "2023-12-26T10:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

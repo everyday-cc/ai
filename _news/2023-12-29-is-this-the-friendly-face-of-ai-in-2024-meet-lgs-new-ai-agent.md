@@ -103,6 +103,20 @@ related:
         width: 2560
         height: 1709
         isCached: true
+  - title: "5 AI and Big Data Cryptos To Watch"
+    excerpt: "Notable AI cryptos like Injective, Numerai, Render Network, InQubeta, Borroe Finance are currently gaining popularity in the decentralized tech industry"
+    publishedDateTime: 2023-12-29T08:25:00Z
+    webUrl: "https://beincrypto.com/5-ai-and-big-data-cryptos-to-watch/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 39
+    images:
+      - url: "https://beincrypto.com/wp-content/uploads/2023/12/1200-Ai.jpg.optimal.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "VCs say 2024 AI trends to watch include a harder look at business models, a rise in generated content, and a need for investor technical fluency"
     excerpt: "Top venture capitalists predict 2024's AI trends, from hot sectors they're eyeing, the hype that will fizzle, and how AI might disrupt VC."
     publishedDateTime: 2023-12-26T10:00:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Japan startup Preferred Networks designs own AI chips to beat bottleneck"
-excerpt: "TOKYO (Reuters) – Japanese startup Preferred Networks is ramping up investment in customised artificial intelligence chips, seeking to ensure access to critical hardware as advances in generative AI spark a global investment boom."
-publishedDateTime: 2023-12-20T01:55:00Z
-originalUrl: "https://wsau.com/2023/12/19/japan-startup-preferred-networks-designs-own-ai-chips-to-beat-bottleneck/"
-webUrl: "https://wsau.com/2023/12/19/japan-startup-preferred-networks-designs-own-ai-chips-to-beat-bottleneck/"
+excerpt: "Japanese startup Preferred Networks is ramping up investment in customised artificial intelligence chips, seeking to ensure access to critical hardware as advances in generative AI spark a global investment boom."
+publishedDateTime: 2023-12-20T09:56:00Z
+originalUrl: "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html"
+webUrl: "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html"
 type: article
 
 provider:
-  name: WSAY
-  domain: wsau.com
+  name: AOL
+  domain: aol.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-12/20/2023-12-20T025611Z_1_LYNXMPEJBJ01X_RTROPTP_3_PREFERRED-NETWORKS-CHIPS.JPG"
+  - url: "https://media.zenfs.com/en/aol_reuters_29/1799ce2fd1ec743c9845c80a3cd1762f"
     width: 800
     height: 602
     isCached: true
 
-secured: "cBhlpLNv9ntWU97c7oMMPNxtO75d4tzTCzafVekxGR5We+vEYWtD+EGTshwuXCvcP2EAMBSjC32nbcwLiNKft5nUZqMx7Rl2C2tZLV6PMSxkGqGXx8LM95fZe9iZuQFGJ6pRt8kQRJjqQ7BNd9fIlXuvATe4cHViThMx7rzHnOl01M6czXtDKw7jnobU8vvtGhNLdH0SlLvU8onLaMO9tT19+shaBSTpbqMKqWnVnNX/9hBsViRppZIB4NjYLiqTUuoQiJ60zkrVVRy7LQxEB7Pbps7GVVeSwKdQGlTVp0A6soCO/icPTI4d3yso6IHsX5NVCUF9uWfGSsAp6v804+IqnNQd9VTqrszG411Dd+M=;bOhO7FHvg1eBMvOO2hvqOg=="
+secured: "s8X3vIypZeSu11Qt3sEwtlM5HZs7BHT73Pk2maCLo5p7Tu3/qMrJsa6uJZvtn4FULtq2AEJxoEqiDEnQ2kZt/PvdZgA7ogVIePPqVNpA313wOH8Y6rz7kcVDrLGX8r30h+8ls9+zeq/52zCvuj6d+x4C3E0q1UmtHd8jsvmuqrVKhc9P/YjvnfOfxjcIqV/ufwRPh+msmsUuI5dAO9c9sXuUW38yMAtgzQiO9/+6B2vQg4L/7VJ1UihZ2997coDgEub9bMG8OukuzteAo3sCbjVpfnqJWis7GIz+OEPdkAmxCctKL7jgvXH17z6abIpWTC9l/zst1J43jImDKhGb/7mNxJGGsBF6tHryLNfyAWc=;U4tQd7jn1ttVWoLAE0NQjQ=="
 ---
 

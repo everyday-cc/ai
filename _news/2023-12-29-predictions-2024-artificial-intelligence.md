@@ -92,6 +92,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "Year in review 2023: FinTech Magazine cover stories"
+    excerpt: "FinTech Magazine reflects on its cover stories from the past 12 months, featuring executives from Saphyre, Volt, Fujitsu and J.P. Morgan Payments"
+    publishedDateTime: 2023-12-29T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/review-fintech-magazine-2023-cover-stories"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/a6602f1316bea217cbc3f60123ef9a17:6a2b1f357504b56b78ae51c691874b68/saphyre-brothers.jpeg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Paytm Ends 2023 On A Sombre Note: Can The Fintech Juggernaut Turn The Tide In 2024?"
     excerpt: "Paytm's 2023: the fintech giant’s decision to scale down its small-ticket loan business hit the stock hard after a massive bull run"
     publishedDateTime: 2023-12-26T08:38:00Z

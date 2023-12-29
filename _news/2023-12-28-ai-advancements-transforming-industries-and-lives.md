@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "From Automation to Innovation: Navigating the Impact of Artificial Intelligence on Industries"
+    excerpt: "Introduction: In the relentless march of technological progress, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the very essence of work. This article delves into the profound changes AI is bringing,"
+    publishedDateTime: 2023-12-24T12:10:00Z
+    webUrl: "https://techbullion.com/from-automation-to-innovation-navigating-the-impact-of-artificial-intelligence-on-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 28
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/12/From-Automation-to-Innovation-Navigating-the-Impact-of-Artificial-Intelligence-on-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "AI to give fillip to new industrial revolution"
     excerpt: "Alibaba Cloud, the cloud computing unit of Alibaba Group, recently unveiled its open-source 72 billion-parameter version of its AI-powered LLM, Tongyi Qianwen."
     publishedDateTime: 2023-12-27T01:58:00Z

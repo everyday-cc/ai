@@ -34,6 +34,17 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Boom in artificial intelligence stocks ignites market returns"
+    excerpt: "Investment returns improved sharply in 2023 thanks to a boom in artificial intelligence stocks ... The bank is also positive on the healthcare, property trust and tech sectors, but recently switched from overweight to underweight on consumer discretionary ..."
+    publishedDateTime: 2023-12-29T09:51:00Z
+    webUrl: "https://www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1"
+    ampWebUrl: "https://www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/markets/boom-in-artificial-intelligence-stocks-ignites-market-returns/news-story/8000d7c25ed315f8b2a655feed9e6cd1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
 
 secured: "Ik1vTk86g5+F+9asWVBJ9OZMC7hmniHXsn7Q5bjwyA8UCMVUYJZcxim2GtdQVZMLKO0vRPdsNaWSgcUQsFLG+YOQjVl6IN4wOOhIh72bAQkvkMmGy7aUXhobQOkACIFtT3lJR6BzoZaJPXVT3BUkN5Eu0mEUIk3XhzLptidAeVS7fp1+Y8Xhef01C7CSYYUQxQ3gOmdnc/Ha5QApUkMF/uWrhq/LF8TfL3svqx1Sed7PPsWMUrRusjrHc21La9JuzhHOoGrwP4HNh9OYQeUHnAXvHY2IXKiGsOWgYZoM+NO/tSRwK0/IyBwS0rxcFTxxRcpLkTq4k2ZwbCzbmdCWRsNJYjesOTyv/vKnm62+iPvT8iD6EzR3dmYMxNY42Ucs0LQVBgvw5A1N82rgTWRiJ1rj/ANeyJoGBFq/UtrNPY7u2mWyzB0Cusb5SIZMIUZ+9MxKJPPCzzpRm+dJf743j9Ngtz2y2zQ/vvht71fB8dz5bXtvzEcgQUX0Q+981C/iqeQ8Ois+gcvaTS6mtpCwmw==;v0PYY0sm82MKUfQKt1ZBEw=="
 ---

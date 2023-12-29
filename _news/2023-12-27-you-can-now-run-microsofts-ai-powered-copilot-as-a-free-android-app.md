@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
 type: article
 quality: 104
-heat: 284
+heat: 294
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://www.financial-world.org/world/media/image23752.jpg"
         width: 1920
         height: 1192
+        isCached: true
+  - title: "Microsoft's Future Surface Pro, Laptop to Feature ARM Technology and AI Innovation"
+    excerpt: "Microsoft is gearing up to launch the next generation of its iconic Surface Pro and Laptop devices. It is poised to bring a wave of technological advancements that could reshape how we perceive portable"
+    publishedDateTime: 2023-12-29T08:18:00Z
+    webUrl: "https://www.econotimes.com/Microsofts-Future-Surface-Pro-and-Laptop-to-Feature-ARM-Technology-and-AI-Innovation-1668715"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/12/r1xa1cxzs5_th_1024x0.jpg"
+        width: 1024
+        height: 575
         isCached: true
   - title: "Surface Pro 10 and Surface Laptop 6 will be Microsoft’s ‘first true next-gen AI PCs’"
     excerpt: "Specifically, Microsoft touts CADMUS PCs as being genuinely competitive with Apple Silicon, sporting similar battery life, performance, and security. The next Surface Pro and Surface Laptop are expected to be some of the first CADMUS PCs to ship next year in preparation for the Hudson Valley release coming later in 2024."

@@ -39,17 +39,6 @@ related:
         width: 251
         height: 282
         isCached: true
-  - title: "Navigating The Impact Of Increased Bank Rates On Fintech Consumer Lending"
-    excerpt: "While fintechs have enabled consumers from individuals to small businesses to access credit and investors to earn higher returns, recent developments in the industry have significantly impacted the growth of consumer lending."
-    publishedDateTime: 2023-12-24T09:50:00Z
-    webUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/"
-    ampWebUrl: "https://inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/navigating-the-impact-of-increased-bank-rates-on-fintech-consumer-lending/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 38
 
 secured: "X/XaEsW6mvo4ca0893v4UzxG8GHl1C06sIWpx0eYEQ9P8RCist0NnW/EFuCcC335rPDiRMMaxx1CKySDM9S/8yOdNhapLHcjP5bCHu83aQng0dRanUejApxEmGaNPdK6OOM+x++psIRbjBcaQuqjJF+02ydh0DhHv4mbSGqsIs59Z+v6t+VQjc+pFKFn92wUPuaMOQoEnhCUzjPAxN1xK7dORVjrIg+RmLjYp9qNcmbHcb+RNCZYe647gKtPSzVs6sNdsg1gP+6UnOCZ9NK+ZisFJzXVAdQCv2fkhIzYmMJXDxuIXOimy6UuQmdnmEr7qkPqs6nRj5YH3e3ukuy7CNmdDkYJzt99TT+RmLlH7zJRALjFqlPKemKbDmvFtWx3rtbjpS6ayjId+UZQJ6oSZ4Qewnaql5Yl5NrAHt9BxObYUD7Mt5OiS9tAbYlcYm3WBNb0B5XOVmD9swtSK4GgfKHOixPaLSDW1Wsou7vSUW8OnvPF6svcswyR5cKfdrVjQ+Fgx1CUkAfiOrbN/EDXhg==;dSyVvd+risTZYDg8yIyTQA=="
 ---

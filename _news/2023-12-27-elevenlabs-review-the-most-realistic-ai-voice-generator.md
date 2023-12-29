@@ -39,6 +39,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "YEAR IN REVIEW: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "“When we launched Siri in 2011, it was at that point the fastest-growing consumer app and the only major mainstream application of AI that people had ever experienced,” said Tom Gruber, co-founder of Siri Inc., which Apple bought and made an integral iPhone feature."
+    publishedDateTime: 2023-12-29T09:30:00Z
+    webUrl: "https://www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+    ampWebUrl: "https://www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/amp/"
+    cdnAmpWebUrl: "https://www-pottsmerc-com.cdn.ampproject.org/c/s/www.pottsmerc.com/2023/12/29/year-in-review-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/amp/"
+    type: article
+    provider:
+      name: The Mercury
+      domain: pottsmerc.com
+    quality: 41
+    images:
+      - url: "https://www.pottsmerc.com/wp-content/uploads/2023/12/MER-Z-YEAI-1229_2.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Artificial Intelligence Regulation in the ‎Insurance Industry – 2023 a Year in Review"
     excerpt: "2023 has been a very productive year for regulators advancing their efforts to understand new technologies and consider whether and how to regulate the rapidly developing technologies, including artificial intelligence, predictive models and algorithms."
     publishedDateTime: 2023-12-28T00:00:00Z
