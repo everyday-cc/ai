@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -162,6 +162,20 @@ related:
       - url: "https://www.financial-world.org/world/media/image23752.jpg"
         width: 1920
         height: 1192
+        isCached: true
+  - title: "Surface Pro 10 and Surface Laptop 6 will be Microsoft’s ‘first true next-gen AI PCs’"
+    excerpt: "Specifically, Microsoft touts CADMUS PCs as being genuinely competitive with Apple Silicon, sporting similar battery life, performance, and security. The next Surface Pro and Surface Laptop are expected to be some of the first CADMUS PCs to ship next year in preparation for the Hudson Valley release coming later in 2024."
+    publishedDateTime: 2023-12-29T00:14:00Z
+    webUrl: "https://bgr.com/tech/surface-pro-10-and-surface-laptop-6-will-be-microsofts-first-true-next-gen-ai-pcs/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 49
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/Windows-10.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."

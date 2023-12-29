@@ -169,6 +169,20 @@ related:
         width: 1920
         height: 1192
         isCached: true
+  - title: "Surface Pro 10 and Surface Laptop 6 will be Microsoft’s ‘first true next-gen AI PCs’"
+    excerpt: "Specifically, Microsoft touts CADMUS PCs as being genuinely competitive with Apple Silicon, sporting similar battery life, performance, and security. The next Surface Pro and Surface Laptop are expected to be some of the first CADMUS PCs to ship next year in preparation for the Hudson Valley release coming later in 2024."
+    publishedDateTime: 2023-12-29T00:14:00Z
+    webUrl: "https://bgr.com/tech/surface-pro-10-and-surface-laptop-6-will-be-microsofts-first-true-next-gen-ai-pcs/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 49
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/Windows-10.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "New York Times Sues OpenAI, Microsoft Over Use Of Content In Artificial Intelligence Products"
     excerpt: "The New York Times filed a long-anticipated lawsuit over OpenAI and Microsoft’s use of its content to train large-language models used in their artificial intelligence products. The lawsuit,"
     publishedDateTime: 2023-12-27T13:42:00Z

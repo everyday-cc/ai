@@ -160,6 +160,20 @@ related:
         width: 1920
         height: 1192
         isCached: true
+  - title: "Surface Pro 10 and Surface Laptop 6 will be Microsoft’s ‘first true next-gen AI PCs’"
+    excerpt: "Specifically, Microsoft touts CADMUS PCs as being genuinely competitive with Apple Silicon, sporting similar battery life, performance, and security. The next Surface Pro and Surface Laptop are expected to be some of the first CADMUS PCs to ship next year in preparation for the Hudson Valley release coming later in 2024."
+    publishedDateTime: 2023-12-29T00:14:00Z
+    webUrl: "https://bgr.com/tech/surface-pro-10-and-surface-laptop-6-will-be-microsofts-first-true-next-gen-ai-pcs/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 49
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/01/Windows-10.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Microsoft's AI Collaboration Sparks National Security Fears Among US Policymakers"
     excerpt: "Microsoft President Brad Smith expressed increased collaboration with China's digital transformation, raising concerns among lawmakers about national security risks posed by the tech giant's profound presence in China."
     publishedDateTime: 2023-12-27T13:18:00Z
@@ -224,6 +238,6 @@ related:
       domain: kuow.org
     quality: 24
 
-secured: "ASlg7rVW1EdsoUZ7o4B1rL2w/dyzq0rHXfYFvfM+SHJZRIaMyOFWZmX/JLAzLQ0Dhj+DkOD7U6FvtE4KENcc+3im4aLhiqD8avXo/srX8u17KlL5zGr46ehnEIpQqPwlqUXThlijQlNAICuII3HdS5G2viaBfBsmnWTt7rKTiLuc5ze/mXBZBL2kKKcwzCsoiwbGaHB4FRKGkUXaXqRd9O/YEAKxHXt7RmCzTeO0vF86lXppSjcZLyRAeyIJafANJRilqh0HAQVREeLxVfySqK7vwvyv49M8dv8PjL2kvwSwhMj58qiQJ9J5PiZEsD+rbBo+UqBimqYqwox2Y/eXcfWoYwayGzZt9jzr7AzfrXE=;3My0tmacfqxxI/K8BVFghw=="
+secured: "qrWfKbOiMbQ8TVjRHWzPVA9A/rOuWlKMdI7mJY/qre6Tnvf7Y7nYZs+LPSeeMc38BdO3KWVNR3qcqnNRUv4yojq8nOYXyZ+/Np8NsyASfqwL5JY61mg1LTDB4yEOtNG5f5WlDUl8eZ+rs+ZYwfbxN/rXMch8P6KADe7d/cVl7rpIXuqX7s/PJVN9S430Cavhko7LlCLdkD2FK1Js6Q6jXXQ4WP7ClKf09RBfZJZZhloP54KOnBm/BFVApIgx+BLYFb02KUzPv6SP9nhWfEG9d1ZMH3Kg2q+WZgwL0Z1pSe/yv34uHGAbsH2Lrm2Oqp4M6zf5KoV673ttaC5zKzYWNAyxGQLUL9xxqxtRZ/ifFy3JtK7BQbx9LwGGEqBldvKk+uASQw8hvrMAahvlJcaOmvdc1IsFyKYykzA+NO51OYV3d3DdSNUgI4b3r00uLYa/hZifX04y4kQ797uzppNtsky9cam3CgPiYNCJchN5Tt7akfhU6PHoTcJqiqhFH3xUOSav8sE2VSnOaFyTFHj4OA==;LQYLrqIuLXCFPiDAqHL70w=="
 ---
 

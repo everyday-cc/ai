@@ -7,7 +7,7 @@ originalUrl: "https://realmoney.thestreet.com/stocks/not-to-brag-but-my-stock-pi
 webUrl: "https://realmoney.thestreet.com/stocks/not-to-brag-but-my-stock-pick-for-2024-is-a-super-player-in-the-ai-space-16140725"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "1 No-Brainer AI Stock to Buy for $164 and Hold for Years"
+    excerpt: "Is the AI market missing a beat? This blindingly obvious AI investment has gone surprisingly unnoticed in 2023."
+    publishedDateTime: 2023-12-25T10:36:00Z
+    webUrl: "https://www.fool.com/investing/2023/12/25/1-no-brainer-ai-stock-to-buy-for-164-and-hold/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/759587/ai-robot-hand-building-coin-stacks.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "1u4fx0UgOjrKDhasXa4dq7z7zVeFO6ZUhfeOswgSrY7pcaS+TuHgXLWKUC9bvHwAQG4i2nhvksGOIQsSA2A2ndWIUqS6yPDIM/Kj7gjtYXDmyosfoQNsPJUhziAuMb6lJ7+P0D/iTPvamFbhAIN4rjzPdRM46jbvaMrSNgrkYO2HtCPosZIVFBROiFT0Pu6OpDPXmoOYlKsNQCNx4zMKBS5flFB1Kb1gIrX5r7WJc3aAOAOuov4Duee+Ey/Cr8a25S7g7yMlT5OcM+gdAGKZGiJGMHOCA0gNXjwjw6PCgrTN30dIGiOadkXbXJrFMEHxUQ8UYWRmC426RPA60Sypeoi018ccLisEMPkcA8Ae8TWiQ4ab24PZm3RIn6bnozKPmc0F4fPP0jY4IDcp90at0WRbOCMpUmnMvTvA7b6Rk+H7w2cWo/7pKplajYGEXwCce4DdMlRiWEB8/ol/f2jcUZgW5CRuWAjI6IX6uQRJZ0V30gjAvXRrX6yo+KdhydM75GG4vXGL88c5dAKr1p6Flw==;Ts9n9zn4738DYs9Ti4flYw=="
 ---

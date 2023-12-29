@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/storyworks/no-progress-without-passion/how-is-
 webUrl: "https://www.bbc.com/storyworks/no-progress-without-passion/how-is-ai-moving-finance-forward"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

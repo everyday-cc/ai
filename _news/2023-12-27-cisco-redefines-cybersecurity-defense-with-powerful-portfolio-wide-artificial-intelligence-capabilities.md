@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Greylock Introduces $1B Fund to Support AI enhanced Cybersecurity, Infrastructure, Fintech, Crypto Initiatives"
+    excerpt: "Greylock 17 is “a $1 billion fund intentionally focused on Pre-Seed, Seed, and Series A founders in enterprise and consumer software.” With Greylock 17, they’ll continue “to partner with entrepreneurs building AI-first companies across Cybersecurity, Infrastructure, SaaS, Consumer, Marketplaces and Commerce, and Fintech and Crypto.”"
+    publishedDateTime: 2023-12-28T23:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/12/213972-greylock-introduces-1b-fund-to-support-ai-enhanced-cybersecurity-infrastructure-fintech-crypto-initiatives/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/12/213972-greylock-introduces-1b-fund-to-support-ai-enhanced-cybersecurity-infrastructure-fintech-crypto-initiatives/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/12/213972-greylock-introduces-1b-fund-to-support-ai-enhanced-cybersecurity-infrastructure-fintech-crypto-initiatives/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/02/Money-Benjamin-Dollars-100.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Enhancing Cybersecurity: Unveiling the Crucial Role of Artificial Intelligence in Future Threat Detection"
     excerpt: "Introduction: In an era where digital landscapes are expanding at an unprecedented rate, the importance of cybersecurity cannot be overstated. As cyber threats evolve in complexity, traditional methods of defense fall short,"
     publishedDateTime: 2023-12-24T13:04:00Z

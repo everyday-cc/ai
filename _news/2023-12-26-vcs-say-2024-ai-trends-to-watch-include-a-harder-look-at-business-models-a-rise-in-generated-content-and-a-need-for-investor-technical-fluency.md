@@ -58,20 +58,6 @@ related:
         width: 2560
         height: 1709
         isCached: true
-  - title: "Big aye for AI in investment"
-    excerpt: "THE artificial intelligence (AI) symphony is cementing its presence in the ever-evolving world of investment. The symphony, orchestrated by data-driven algorithms, has permeated every corner of data-driven domains, none more profound than the financial world."
-    publishedDateTime: 2023-12-27T08:08:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2023/12/27/big-aye-for-ai-in-investment"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/27/2459499.jpeg"
-        width: 960
-        height: 1280
-        isCached: true
   - title: "AI in 2024 — the biggest new products and advancements on the way"
     excerpt: "Like any shiny new technology AI in 2024 will be the year when a thousand flowers are left to bloom, irrespective of their impact on the wider environment or how it looks on the ground."
     publishedDateTime: 2023-12-27T12:00:00Z

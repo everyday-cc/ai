@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Five ways artificial intelligence is improving health care in Canada"
-excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. The year began with many befriending ChatGPT,"
+excerpt: "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,"
 publishedDateTime: 2023-12-27T15:36:00Z
-originalUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
-webUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
-ampWebUrl: "https://vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
-cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+originalUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+webUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada"
+ampWebUrl: "https://winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
+cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/wellness/technology/five-ways-artificial-intelligence-is-improving-health-care-in-canada/wcm/6811904e-031c-4e08-a147-e1e50b0732df/amp/"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: The Vancouver Sun
-  domain: vancouversun.com
+  name: winnipegsun
+  domain: winnipegsun.com
 
 topics:
   - AI in Healthcare
@@ -42,6 +42,6 @@ related:
         height: 261
         isCached: true
 
-secured: "ztbhzyKXsOCZcSULqMq2WLCt5MLsaQDPCqKcCRyeT1eqoQ+4IagJT9VWoAxnXsyOIt0oXh01EKo1gjdnbZeKQGnu7drbbFX3BVOHtrZVAqwjVjraWJDdWnd9Mtbny0vWaO477Jen+g5AkWaXU562YBdXsHHOOv5rm92rHl8z+7wQhXR45tK9pU1MTemLjvcFU1vIeZ56ifeVRGvrLNvkWVLg3ZMwFJQEE6loQgVoX2aICY/OFSigP/61jwN7ZNlQeB31CvU967iWjRjvPrzbbH/GGgw49m5hLOJTAdcHhKnlTuEV6UQSAJJIFFj29VURMy9MQshgGSwAvuXBAaRs6LVvuDDGAJPTWqoZ+ZnMSR0=;gN1UnrP2FTOU+i7JdWtW4Q=="
+secured: "3rNIWkqmpS2ruK56p7QsMbO+f97muymwm9WBr16T1j8totNNoDO6W6MJQ+qpKYYh3LWvDUAb+2+jWFu380IdMUcIPnBwpzcaywyl92XB05aPtgH/D4EbEAN7I+bOvRj0J4hXMvFZvs4BO/LzmP1Hb58jMefo5yJWZDphsR8WF6KL+Hos5TkY0NifEezKn5qbiQZV0IvR7ns/i7ASL0Mai1Mz/Sm32ZZZg0KPl5ksPx1a+5sJETEGxPiCqQlB4RCgIGkw3c7Rj2KO9+9Mljy3JfW8QdQNI2JMXIridNKqxPTiajn3jnHFBB2jedTPd2H3WxD8oouSas052BM1gDmAzBFFVyx+I56lAOuupiYbevQ=;N6txnXfqp2Y0Nggwf9juoA=="
 ---
 

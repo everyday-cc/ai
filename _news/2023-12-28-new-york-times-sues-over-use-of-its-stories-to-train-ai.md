@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "New York Times suit may test copyright law’s constraints on AI"
+    excerpt: "The newspaper is suing OpenAI and Microsoft for allegedly using its content to train ChatGPT, challenging the process of \"web crawling.\""
+    publishedDateTime: 2023-12-28T22:57:00Z
+    webUrl: "https://www.marketplace.org/2023/12/28/new-york-times-suit-may-test-copyright-laws-constraints-on-ai/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 37
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2023/12/GettyImages-1733836378-e1703798918672.jpg?fit=2880%2C1622&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5UC61Njl/KleAoUGCWSAsneK6Vaecr4xYpqzCta0zayL+VhKCx4Ps71AXKcbA5mHYFPJDwrP3mk5Kr4p9zzwNXiZ7R06KmgbF1rol7wJTSWTWfuyA75X1D7fqY7TG/qn4vupnjgPvHgnwkHCptXsRAe7tUYGH6VrYrjI68ovfn9TgQyIcgWTFSRgm0qi+sbnYebsTDX8rW2iuP9lWK5dOO0zsudmNNBGBF3SpFFTe37QHT4H0UevRbpyZjEvp3kMMvRXGRqdl0ztNKs1gK6PRdq72DxvGDRcOwNYVaDPlMJiDPsfjbKwP0CFzujv+0WMUmj91/s2j2joV+rI9yLPAwV0sxc+CEPAuiMS9rUclhc=;qcaHS+8vo21wYUP6bqV+Fw=="
 ---

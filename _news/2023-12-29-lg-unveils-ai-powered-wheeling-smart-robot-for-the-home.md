@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 webUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 type: article
 quality: 56
-heat: 76
+heat: 77
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
       domain: tweaktown.com
     quality: 25
 
-secured: "G1aR4e8JG6nYI7WyL/gYi/yjvd5VtbIfWwSJhft3kGS1LVnqRsmuwzC1ZQO0sQbFrVA9wzekw9RLNp4lA+VXHYXGyZyAzW9cGniD7Bm9m4uPMQH7QkUpeBesdykH1x9o0xpaPHtnj/6GjVns3HzUbyPuet3yLp4b/gdS40YkG8Rgq6e8mRnuEzlUSiaVO5t+u5kTwxLpsEkBQkH7wubHLksBBGJ1c2dJZ8H87qEp0o+dgYqvIlLCo1aQBMQx9Mnp/YJzVyDAPguud9HnP5sPyvH9RaTFe8T0gdvuh/FiWiLHKCWCHj/BaQ6tdkprBUvzw5dtRsmfC7eLDg/+j/4rredzVK4pkK7hOqK72jh935E=;pymVJjBlQntv46jdOBtWvg=="
+secured: "2Ir0cottfNX+Gc4OqFkCWv6F+DiXq9AjwlXgvvdZ+TpHZAeDnlFRUAKI5dhvnNRe1/GfJDYQafLPqKO+dUmoYjlbVb03L/HAfmVWUW94OXTSFNdRGImkI132qfOtbXAMxuc/jTLjG9g2CFYw3WEEmft/VkOkBYyiZ1NriuTegIi5GQ3xmeI92FaxnJ23GzrEolmgf3izIdz3RnFcfb/Fm66RAMUDWfcjYnZMhumnSoD0aXmO078QkgXAqIT1hkKsw0ludusQI2YODzevAeJ3y4aUKgiMoaEA76g4aBwt0ssdj0xJqyM34q42ADLtaWah0bnQyYBVblLmchuZQmCE2stNXsKxuZPbkgyrcafygkh2eopcpoePqrzVfFrhEQaNIstqnJSH9cOVBo2Mn9RvIEUNnWyckSsdUNY+8fVDQF2m1Z/rSMa+CptcdyBHQD/GRaW5XDoS3E18ixieRZXj/QH97ZTzRTavrUPXl21SsqN78CPDneC5OFLQ6Aqf51rcSxtyphYYBJRYMYojL1x/Dg==;MvnQrmZHacsvoOlzwrYIww=="
 ---
 

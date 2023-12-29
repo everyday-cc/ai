@@ -7,7 +7,7 @@ originalUrl: "https://brobible.com/culture/article/burger-king-discounts-hangove
 webUrl: "https://brobible.com/culture/article/burger-king-discounts-hangovers-facial-recognition-technology/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Burger King Debuts 'Hangover Whopper,' Facial Recognition that Gives Coupons to Flushed Customers"
-    excerpt: "A new promotional program by Burger King Brazil was spotted online, with many reports calling it a marketing stunt, centering on the 'Hangover Whopper.' This new feature by the company uses facial recognition technology in its stores,"
-    publishedDateTime: 2023-12-27T02:42:00Z
-    webUrl: "https://www.techtimes.com/articles/300074/20231226/burger-king-debuts-hangover-whopper-facial-recognition-gives-coupons-flushed.htm"
+  - title: "Blast at Israel mission in Delhi: Police say using facial recognition technology"
+    excerpt: "Investigators are scrutinising footage from CCTV cameras around the site of the blast, and are preparing a list of suspects seen in the vicinity"
+    publishedDateTime: 2023-12-28T23:50:00Z
+    webUrl: "https://www.hindustantimes.com/cities/delhi-news/blast-at-israel-mission-in-delhi-police-say-using-facial-recognition-technology-101703786854620.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/delhi-news/blast-at-israel-mission-in-delhi-police-say-using-facial-recognition-technology-101703786854620-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/delhi-news/blast-at-israel-mission-in-delhi-police-say-using-facial-recognition-technology-101703786854620-amp.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 6
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 54
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2023/12/28/1600x900/Security-and-forensic-officials-near-the-Israeli-e_1703786851518.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "ISc0Z3sgJ762fRyARAm5MekFoQ6TqKQMN0D6FSQlq02wELfNsudXxOK42gV29sqoyjbcjor3GLl45Mxr/41wtkhY2oO6DGed7WQb/WEwY0ighKhOw3RvppxwFRqBxaOYC9LvSiELMRT7spQYSnEe+jbzgeeHLOCQay2L+QIqUBe+atinWlnK6+Dx/GZTHXRuZQcmo62yySK3bdSUaCljcW5myWgtmg9AyGgix6UQziJPy0CwK1XMlcFqFoZdog0GEz42Wj7J+dJv+GUHtjahtTG0okfpD20MISYYWzPmK4uA4rf3WLNelge4ki16/bLinWGv4NeB9KETmxUpJfJTunSblei+TTnkzqfWlTT1dofOZ1Nr8i8goevZD9//2EAK9qpkQrt9E0RjjrevVh+A1G8ySygnB/UTx+ooJ3YBucsKixAL2VAJ7tsT/aEhv/sxlrNF0voUHiufTQRElni2T2w6n/mKJL8c+Wwef2QuNN37A6IA3vzKse4Yn/iBOTpJy9uXmL/hSSsJqg5cAyjwcg==;KpYtrmiMe3Oz3ASycYh1/Q=="
 ---
