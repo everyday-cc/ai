@@ -7,7 +7,7 @@ originalUrl: "https://www.cbssports.com/nfl/news/browns-vs-jets-props-odds-sgp-b
 webUrl: "https://www.cbssports.com/nfl/news/browns-vs-jets-props-odds-sgp-best-bets-tnf-picks-ai-predictions-joe-flacco-over-1-5-touchdowns/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "AI Predictions: 3 Penny Stocks That Google Gemini Says Will Surge by 1,000% Next Year"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Google (NASDAQ:GOOG, NASDAQ:GOOGL) recently unveiled its newest and supposedly"
-    publishedDateTime: 2023-12-28T00:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-predictions-3-penny-stocks-that-google-gemini-says-will-surge-by-1000-next-year-1032928904"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
 
 secured: "C+Cpz0tRG7pvy9iidx3FuYQHLdUQzvX1BXF00tBnhGjAugLZGwIHdDue1w9aHRXNMYYzoaPVGjNifuTYa+8/PmxrQSIHBB3eHQd7AB77c27yB0YjvpAmKDsKnEJBh+ScdTLoCzZXd8l2JZz7uc9rTG0RBWke3cufR1SjvLw20RmPZrj54Qhm9//ANXHiCcsIbzVH9QiC6xAgUXNqh6XqhCBuKJHhFNM3qXUddV2vNkkS0EUxEzikDi6H2sJJ5zn0cf04oU+kC3K3Kw0aoTPterZA38lEBSxmwQpBTqHg4TciLNeiUJFy1azA+9I+FjVL8/Gw+xatqjhOK6ErkPdPDvzUPA6uWO3i7WGT/eFyRpADWLnLWkCMAkeQCx+J7WvPd7l1P0xA2pBtxJ6Jz0rRW/LKPxufJ9MLYwzh6hNlul7ceFEAtS1+si4aanDgHh/HXR90wqV2eX8zntp6Ru8oPRjpsx1i1niTdw8t/EoKJIRpPAYO55ApuXR6CnRz/oEFU4v/o/C7gSchpngZ34TWPA==;gPwWCtitFMl/1Xakt6kMvg=="
 ---

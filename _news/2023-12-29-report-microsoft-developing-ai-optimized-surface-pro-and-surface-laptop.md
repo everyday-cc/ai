@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft jacks AI under the bonnet of new laptops"
+    excerpt: "Microsoft is gearing up to launch its new Surface Pro and Surface Laptop lines, which it claims will be its first true next-gen AI PCs. According to Windows Central, the new devices will be announced in the spring and will be ready for the next version of Windows,"
+    publishedDateTime: 2023-12-29T11:22:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58176-microsoft-jacks-ai-under-the-bonnet-of-new-laptops"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/fc79efc2850a19c4409c1fd24554457a_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "The Best Ways to Use the New Microsoft Copilot AI App for Android"
     excerpt: "Microsoft's new Copilot app for Android enables you to produce AI-generated text and images from your phone. It's free to use and available now."
     publishedDateTime: 2023-12-28T16:00:00Z

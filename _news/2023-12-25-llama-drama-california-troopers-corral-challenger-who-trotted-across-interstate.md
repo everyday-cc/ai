@@ -3,25 +3,25 @@ category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ..."
 publishedDateTime: 2023-12-25T00:00:00Z
-originalUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+originalUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WSB Radio
-  domain: wsbradio.com
+  name: WSB-TV
+  domain: wsbtv.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
+  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
-    excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
-    publishedDateTime: 2023-12-28T14:37:00Z
-    webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 38
   - title: "California 2030: AI in the workplace"
     excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
     publishedDateTime: 2023-12-27T04:43:00Z
@@ -74,6 +65,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "YxTE9dJ69mlmbLucdiFq9QFYQeozkAy8D8dJAcAuq+n/wJb587Zd08WXN3SPsxfNretP6v88YQOBDc9doMNLnTV5ilbqBdaFtWLFlv+muJURkR0Zu6/JAszdp5bxsLXhOcEVsOqiEY8+5EHFIZhUa9rMiEvlQejKWul2Vzop5lFAqktQczpNVFOdUin6K1PSN7Qjvwy8xoHlzAgpFX6y7xiwjb42uP6p7fNM2N5E4w2ss3B0VosrMlqX0Dedw6oIs9sbzjqb703B+HwYmxyGptY/QRPkm7IzIbGzixJPH3WQTwuReDhAY85BNArcfg9/J7CE5ObDGYXXdO7MJSbeCJHvlyGWqf4VK2xwE9JncQo=;CwobVXpNOkOh8gwRn4ezFQ=="
+secured: "VJcjKW+rKyIs8b6kZ2SK5b0eHX2nY7wohiXXvkXNO4zBzsi9dv1Vq9n2r2soEKE5p6rsMVDj68Z/n9EVcnFkUE1+jp+NTWLmaZnfyFNgY9ttxAnDfhwqYk4kfi45QMZdNDOqN+IIljwbUTwK4f4p9gpG7GZOYlY3DsnkvO3MccnVvbgRxGNsmvBvC4G96o+kbOB5qH5gEahM/+zpiivtHQcsSq9GETIvRiF6Gb15AwWb0KLSiXEfjLI7hLJE9aO27vx8gDVifTk5FqalM64mFfNw+8MgxmQXAbt3VdzA8bvZR/zNs+H/VgSH4SGnqn+UP2medUG+ah9P/lQKkmfkazAelO6zO4DYh2WXRMu5ilg=;+PmHgmJqLN81/pLh6gWo+g=="
 ---
 

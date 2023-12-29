@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-mak
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-make-responsible-ai-a-competitive-advantage/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "The AI advantage: How artificial intelligence is revolutionising commercial finance"
+    excerpt: "Despite this mixed view, 77 percent of bankers believe that unlocking maximum value from AI technologies will be the difference between successful and unsuccessful banks. Its value cannot be understated."
+    publishedDateTime: 2023-12-29T07:20:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/the-ai-advantage-how-artificial-intelligence-is-revolutionising-commercial-finance/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 63
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/Bitcoin-Ethereum-Servers-AFP-1K-01.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "VHadabb25uJTM8eQDYruOcSN1Fn0QaikobSgGUITaE7lNv/jXKBAE8jrWmc+uyHEUWquxNG1TSM3fiG38UnwIOozj82KOWt31E6zd8dRYBzc3UE7vbrjUm8LLZOKLrT+HCzYActXTnFjYa/QJEMpn7v0ib+RPiIA0vPeQCsakNQYea5z6oHJ6fkHx1FKLRInB7h8SBPrcXbwg4D194YMenMQgayAskRjJ6v9VrVoVtvOFzXk0Ot5wKKOuHnQnaPyLE2HhxqBbXnvHKGWwi4LucyI25McwfsXDQ9x2opLpy8FS5dIcjCokzO2Cl8qgZ1TmajwC4lqCu/mr3i7p9TTsz0/oPGBhFSIhpwJw1IceXt/v9NihssEHWSMU72+XlqJOZg0ZAGodBkXm984gKbi6QjVlErsaxrP2qI9kHlirizmIMwrtwjb2tSM6deXN3710fU33GbSiMZwd5SG8z2JGm5SEGo/rIrIrPzl7w0GQktex8WnhxVqqjfq3kUSprqzu1oCXtVacXJ/sPmebCghvQ==;KKvLpsizNDFRLlyBsYqmGA=="
 ---

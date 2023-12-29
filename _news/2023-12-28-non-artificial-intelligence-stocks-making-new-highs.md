@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

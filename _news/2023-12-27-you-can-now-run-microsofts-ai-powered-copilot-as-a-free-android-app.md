@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/"
 type: article
 quality: 104
-heat: 294
+heat: 304
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.gizbot.com/img/2023/12/microsoft-surface-1-1703830939.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft jacks AI under the bonnet of new laptops"
+    excerpt: "Microsoft is gearing up to launch its new Surface Pro and Surface Laptop lines, which it claims will be its first true next-gen AI PCs. According to Windows Central, the new devices will be announced in the spring and will be ready for the next version of Windows,"
+    publishedDateTime: 2023-12-29T11:22:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58176-microsoft-jacks-ai-under-the-bonnet-of-new-laptops"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/fc79efc2850a19c4409c1fd24554457a_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Report: Microsoft developing AI-optimized Surface Pro and Surface Laptop"
     excerpt: "Microsoft Corp. is developing new versions of its Surface Pro tablet and Surface Laptop that are optimized to run artificial intelligence software, Windows Central reported today. The devices are expected to launch next year."

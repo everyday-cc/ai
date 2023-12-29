@@ -3,10 +3,10 @@ category: news
 title: "Tesla delays important Full Self-Driving v12 update as it needs more work outside California"
 excerpt: "Tesla is delaying its important Full Self-Driving (FSD) v12 software update, which is supposed to an important step in"
 publishedDateTime: 2023-12-28T14:37:00Z
-originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
-webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/"
+originalUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
+webUrl: "https://electrek.co/2023/12/28/tesla-delays-important-full-self-driving-v12-update/?extended-comments=1"
 type: article
-quality: 38
+quality: 58
 heat: -1
 published: false
 
@@ -22,61 +22,30 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Spying on Beavers From Space Could Help Save California"
-    excerpt: "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back."
-    publishedDateTime: 2023-12-28T11:59:00Z
-    webUrl: "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 54
-    images:
-      - url: "https://media.wired.com/photos/65846185a032f4fcd48c037c/191:100/w_1280,c_limit/science_beavers_climate_environment.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
-    excerpt: "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ..."
-    publishedDateTime: 2023-12-25T00:00:00Z
-    webUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-    ampWebUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-    type: article
-    provider:
-      name: WSB Radio
-      domain: wsbradio.com
-    quality: 38
-    images:
-      - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "California 2030: AI in the workplace"
-    excerpt: "In this segment of California 2030, we hear from Donna Bland, the president and CEO of Golden 1 Credit Union, about the use of technology and artificial intelligence in the workplace."
-    publishedDateTime: 2023-12-27T04:43:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/video/california-2030-ai-in-the-workplace/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/12/27/895915bc-bb0f-40fd-9cfe-e89d93d8e47f/thumbnail/1200x630/ccedd11b8fd9408bb390b6666cf49355/f57dcdd3ab0167edc1fb7b00e5da96cd.jpg?v=5382e209c94ee904b3a96a69f8ca0ce0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Why Google's lobbying in California skyrocketed this year"
-    excerpt: "The 30-second video ad struck an ominous tone, urging Californians to tell their lawmakers to vote against legislation that would force Google, Facebook and other large platforms to pay news publishers."
-    publishedDateTime: 2023-12-27T20:40:00Z
-    webUrl: "https://techxplore.com/news/2023-12-google-lobbying-california-skyrocketed-year.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 4
+images:
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
-secured: "88zo4svS6MltiifadeztiEqcsXHpX8HzP3N1y4rAjFRYkhDXOYwPmx9sC/+b2wzSLOuzKUbvWy93hpeCY8FvqiGP1YHIRCqtdjlrYC111Fj3chrQESKtfKdNOp3+SycpLEbKwnJqAokolC4j+MEy9CjRieqiYtycaBlVLag9iARmMsSCo7o6XjnfQwxdGVkzIAa2lFE7zVFh9cB3S936xxi6JOfOZIixwzDgMbVf0EMJ10gmorA+Un8y+lacHh6byeO2FtabvFfPHNateGkvxhvtWf9RLpxaGO0JMQFR1EYgDPG9tJx1XHLyzq1YMpekLnrl5NOrM5jbF7WQtkmWZP8bLM45GcCgrhIyqURllmaB7vxsyL+9dl1TcAdxbOnAD0DM2EpHDt+BipI+EDY3FKX3jb3NA6clG7MNyiCyuHxjJsETr7a4eXEm6tHPSaNRT2mtWh2PP3YCHU8qak0PuenIhuNG4FMl+eSsFKpduqk7NbbCnOCFZK/CEeD9KotVqlPrlxN6vL6IzxDdDzjpiQ==;gFx63RZPDVf0AP8iP2eCGA=="
+related:
+  - title: "Elon Musk says Tesla in race against time to wheel out fully self-driving cars"
+    excerpt: "Tech billionaire Elon Musk disclosed that electric vehicle manufacturer Tesla is working on artificial general intelligence (AGI) for its Full Self-Driving (FSD) vehicles in a major step towards obtaining completely autonomous driving capabilities."
+    publishedDateTime: 2023-12-29T00:00:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 70
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2023-12-29/l_1142856_044635_updates.jpg"
+        width: 700
+        height: 390
+        isCached: true
+
+secured: "M9KlfngFWwwwmjfPisDQPq9mMsLfBhRORMfAf9efZvNHIDjqBCxDZOrUPiJSoff54O4SiUUwvmFQUd7DzAB1SPtDc+jnu7NCpu/I2S2qy7OeHaiGFcSkaqOfctV9STh7VuertZ4IaqvKe5dUNQQbX/GZUNmKXquku0Ju2BfQZ09aUXffCzo2UeqTKmCgBcYXto/zDzEM0FUSIn6a76d5/5pUICg6L/RSWM+2fYRiISA+22hU8CXtV5bmiewf6U95+kcRQt03F993mbxMvGmjqEwoU8u5vGqEavAsRNCWDJLApCQZ93MsxPjiseMHS9ZvqY0gBC89sFSZyBXq8peayjtNRBVY4ELcRdmLvcrHHZk=;LMe40V0dWb8Kmx3g8411zw=="
 ---
 

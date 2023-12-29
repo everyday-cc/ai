@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia skirts US sanctions with new GeForce RTX 4090D GPU"
+    excerpt: "Nvidia has announced a new version of the RTX 4090 designed to comply with US export regulations regarding China."
+    publishedDateTime: 2023-12-29T11:23:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-skirts-us-sanctions-with-new-geforce-rtx-4090d-gpu-2449518/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/29/rtx-4090-d-header.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Nvidia Launches Modified Gaming Chip Complying with US Export Controls Targeting China"
     excerpt: "U.S. chipmaker Nvidia has released a modified version of its advanced gaming chip, designed to adhere to U.S. export controls specifically aimed at China. The company claims that the new chip offers"
     publishedDateTime: 2023-12-29T10:09:00Z

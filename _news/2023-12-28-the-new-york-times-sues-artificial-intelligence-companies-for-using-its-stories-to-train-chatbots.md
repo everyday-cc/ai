@@ -104,22 +104,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Top 10 AI chatbots: ChatGPT, Google Bard, Elon Musk’s Grok to Copilot - check full list"
-    excerpt: "Top 10 AI chatbots: From OpenAI’s ChatGPT to Elon Musk’s Grok, these were the best generative AI offerings this year. ChatGPT - OpenAI’s chatbot was the first to start the generative AI trend. Google Bard - It is free to use and connected to the internet, which makes it capable of responding to the latest queries."
-    publishedDateTime: 2023-12-24T11:32:00Z
-    webUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
-    ampWebUrl: "https://tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/web-stories/top-10-ai-chatbots-chatgpt-google-bard-elon-musk-s-grok-to-copilot-check-full-list-71703413294858.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 68
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/12/24/1600x900/AI_story_2_1701868297329_1703413740839.png"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "AI ethics, governance and developments in 2024: An interview with three chatbots"
     excerpt: "With so much riding on AI today, how would a chatbot respond to questions on AI ethics, governance and developments in 2024?"
     publishedDateTime: 2023-12-29T06:54:00Z
@@ -163,20 +147,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/12/Untitled-design-2023-12-23T181910.274.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google expands its rollout of Gemini upgrade to AI chatbot Bard"
-    excerpt: "LONDON: Google has launched an upgrade to its artificial intelligence (AI) chatbot, Bard, in the UK as part of the global roll-out of its next-generation model designed to rival OpenAI’s ChatGPT. The US tech giant and its London-based Deepmind division ..."
-    publishedDateTime: 2023-12-24T12:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/12/24/google-expands-its-rollout-of-gemini-upgrade-to-ai-chatbot-bard"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/12/25/2456674.jpeg"
-        width: 1240
-        height: 879
         isCached: true
   - title: "China’s Baidu announces that 100 million users have used its AI chatbot"
     excerpt: "Baidu’s ChatGPT-like ERNIE Bot has surpassed 100 million users, said Wang Haifeng, chief technology officer of the company on Thursday, four months after"

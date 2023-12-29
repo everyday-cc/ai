@@ -39,6 +39,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "CDOs And The Crisis Of AI Readiness"
+    excerpt: "Increasing pressures from boards of directors to quickly develop a corporate AI narrative have many chief data officers taking stock of their AI strategies."
+    publishedDateTime: 2023-12-29T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/cdos-and-the-crisis-of-ai-readiness/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/cdos-and-the-crisis-of-ai-readiness/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/29/cdos-and-the-crisis-of-ai-readiness/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "How to Navigate the AI Era with Google Bard in 2024"
     excerpt: "This guide is designed to show you how to navigate the AI era with the help of AI tools like Google Bard and other useful AI tools."
     publishedDateTime: 2023-12-28T12:30:00Z

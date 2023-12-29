@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startups-are-using-ai-to-predict-resp
 webUrl: "https://www.wsj.com/articles/startups-are-using-ai-to-predict-responses-to-cancer-drugs-d7fb06eb"
 type: article
 quality: 67
-heat: 97
+heat: 99
 published: true
 
 provider:

@@ -72,20 +72,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 64
-  - title: "Revolutionizing Healthcare: Navigating the Future with Artificial Intelligence"
-    excerpt: "Introduction: In the dynamic landscape of technological innovation, one realm stands out as a beacon of hope for humanity’s well-being: healthcare. The integration of Artificial Intelligence (AI) into the healthcare sector is ushering in a new era,"
-    publishedDateTime: 2023-12-24T11:53:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-navigating-the-future-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Healthcare-Navigating-the-Future-with-Artificial-Intelligence.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "AI Advancements Transforming Industries and Lives"
     excerpt: "Numerous groundbreaking developments in AI have surfaced in fields such as healthcare, autonomous vehicles, manufacturing, education & more."
     publishedDateTime: 2023-12-27T23:09:00Z
@@ -113,20 +99,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/12/658af10d6576b2001e837f6c-gettyimages1473350489.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "From Automation to Innovation: Navigating the Impact of Artificial Intelligence on Industries"
-    excerpt: "Introduction: In the relentless march of technological progress, Artificial Intelligence (AI) has emerged as a transformative force, reshaping industries and redefining the very essence of work. This article delves into the profound changes AI is bringing,"
-    publishedDateTime: 2023-12-24T12:10:00Z
-    webUrl: "https://techbullion.com/from-automation-to-innovation-navigating-the-impact-of-artificial-intelligence-on-industries/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 28
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/12/From-Automation-to-Innovation-Navigating-the-Impact-of-Artificial-Intelligence-on-Industries.jpg"
-        width: 650
-        height: 450
         isCached: true
 
 secured: "SRiLNUfIr2XdIF0Yb3zgRUE2ad3cw44GqdJVVMYT7WN61X2mB6Z6fqZtGztm70XH8tbVFjg0CxH2HoajBD9myg64XjLauQj3e73+FZ0rolBz3bxIQ+Cu9WJYSwM9DaexH+rzxxep8TCfJ+x90Jgd6aOm2AKBV2cK7J6G4ZEkPXFF+VjudETMwQouZ+VjRBPy0mA1rw8+0DY2wMdlUfNhdChZQaMmdMyDvbt4qQf9RhOC1yDMBwnQnhmQAO7LFr9eEeqgMPZ4VsbsegJ+quFOErZTTQFZjIENOBibGagojUDJ2k5l5VzdbRUeDBrMUE3MMpCu5ZkQV4BW5Nlr8j0s91/C/h+ldIDDSfdp0lerbJ6ueYhU3zYa2oSTw2KYimJKNTh/0RguYs4FrXWHYaJm0KdZS56ixe14nOXXqDuHwkvh8mgaOK/BzWuHD+e4frIGbVfBSc3MFe6GHlrH2q2b87KSs5M8e1gOMWAP3hGylVzPBoCZp+UxMP32agxRaBI2HHz8IRgCdzGCbB8w83LqlQ==;ZcPU0rfjc82WmHZxvK0fmQ=="

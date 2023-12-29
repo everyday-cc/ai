@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "2023 - the year in AI Policy"
+    excerpt: "Two themes dominated our critical thinking in 2023. One, users credit Gen-AI for its brilliance rather than the (uncredited) human expertise that was scraped to train it. And two, they already trust it and, in many cases, are ceding control of operations to it. A technology most had never heard of until this year!"
+    publishedDateTime: 2023-12-29T12:04:00Z
+    webUrl: "https://diginomica.com/2023-year-ai-policy"
+    ampWebUrl: "https://diginomica.com/2023-year-ai-policy?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-policy?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.46.36.png"
+        width: 1818
+        height: 1016
+        isCached: true
   - title: "Using generative artificial intelligence as a financial tool"
     excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
     publishedDateTime: 2023-12-26T13:00:00Z

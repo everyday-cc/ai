@@ -39,7 +39,21 @@ related:
         width: 1500
         height: 808
         isCached: true
+  - title: "Nvidia skirts US sanctions with new GeForce RTX 4090D GPU"
+    excerpt: "Nvidia has announced a new version of the RTX 4090 designed to comply with US export regulations regarding China."
+    publishedDateTime: 2023-12-29T11:23:00Z
+    webUrl: "https://www.dexerto.com/tech/nvidia-skirts-us-sanctions-with-new-geforce-rtx-4090d-gpu-2449518/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2023/12/29/rtx-4090-d-header.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "UTMTLQmBfJrj4DbCJws1Jrpr0P9uFsgOYdXBu8CynyLHVMwEOAb02U3tuv8mqirHSWc91l0RFDOcK5kMKd4cvh/BMxpWrVi7mxyrXk8/Ek2wuNTPUEn8q/SWiK65kjiEuEwAWjd29QTs7NivjxAqEA9Tx3Yb7ygWL5JbcEG8NLx8jeRzvai+rCgtbukq1C2uMDbNGPEXQMMicHoXUSM4qdV9NRcx949kTzcAiPeDZVq+CkY6McJf7I7gWgd7pJyrQXWbaL3G9Ml+rLZhAT15ypHwoSt4+gN2Km2Ojaqn7pveXw2rbz1P7r2C4JbJYA+A9uLQ4O7uZMq0GWy/aahoJhEgfMFeM+XlWF8abjqNAhM=;YOIqRTLqzoeHttKUN+nSAw=="
+secured: "boIueLeY+/ywjYF2I41Dy+BdxjjfMnBi6VdA2dfXviEad07NnnlSXw1SKV4SiZHUMddlnGTL02Zhru0NBn7d88c9eaIEM8ZHE7ar10eLfrQEeEQpGmti66KZPgThrLv4JEfxQ/4euSPhIBjglHe3DTq0nyPmxtue7XD968EyYo/mzCf1cS0131eE7YWrVGD+jm8QBUlV1Q8Z9Nw9GZQWPKLnZ0ozvRE1Y+pu9hgB3hzRnR+dopJDycjWZ9LWO8/G9UGf6+VgYnfNGpv3GXW1YSHJgiaZmWuFHIxwYY6fN3bI0Zb3E4gQhLKOYlR4NQgBg96kgptaUE5DJphbUAcohsCXNScXoHoPf7OzE4lU+DqsAaUbZjWS/mOULHMBeNQW0MrixIC5RpOZ6ebv5b+lTr2SB0FdSLXNs6BrDYqWNzGvInQsbLWwpISs9uWY8NYX+4Cj0XrFcvfq7hFt8ZC/cKYOsbLsOPlNFsmleG2UsQ/TKlw7WJblQj7gWIvAI6gfqSinewHd+cRlk+h05IX1rQ==;GNeop9sjZfx/pMgzX64zCw=="
 ---
 

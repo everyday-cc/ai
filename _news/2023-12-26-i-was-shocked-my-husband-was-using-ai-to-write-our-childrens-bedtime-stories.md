@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/26/ai-childrens-b
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/26/ai-childrens-bedtime-stories"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "AI Is Telling Bedtime Stories to Your Kids Now"
-    excerpt: "Artificial intelligence can now tell tales featuring your kids’ favorite characters. It’s copyright chaos—and a major headache for parents and guardians."
-    publishedDateTime: 2023-12-24T12:00:00Z
-    webUrl: "https://www.wired.co.uk/article/bluey-gpts-bedtime-stories-artificial-intelligence-copyright"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/6583b23c86151e4b05bd077a/16:9/w_1280,c_limit/AI-Bedtime-Stories-Culture-1416844414.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "PLIFuqVkG0LFJ0paoPsQlJsTpTgPBeG/l7CSM4MiWJHPrIAQlp++Fl375R28I6C7U0T6WHtmxIWhnIonYs7enLTl2NKc8Qg0HQ1zWbfc7KrgiqnI3dAyqkPMxSn+7IUCwBI+hk4WbVXuGNu7JT8/HSOqfvNntf64AIVox1LvF7A0WUAp/YoaSgN8loDeR/nF4+QVmR95yp+Zi5cPcWCfLFicw7ZRJDlRhuMFxnypHlA7ofitEhgdWWOHh1vBiRipP7k21DmLmJUuXQDAz0n+b1/j794R+XxuUu1YJllspAZBWC/LXNisMs4vYV/Tswa9N/4un34IwuYYopqSpPNHXHJb7f30QrwurrACnI8nnjk=;276t9RiUplnf1jOkLAaxjQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-op
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/24/apples-ferret-is-a-new-open-source-machine-learning-model/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1312
     height: 731
     isCached: true
+
+related:
+  - title: "Apple Unveils Ferret: An Open-Source Generative AI Model That Bridges Vision and Language"
+    excerpt: "Apple, in collaboration with Cornell, released Ferret, an AI that integrates vision and language, enabling detailed image-based conversations."
+    publishedDateTime: 2023-12-29T10:03:00Z
+    webUrl: "https://www.techopedia.com/apple-unveils-ferret-an-open-source-genai-for-vision-language-tasks"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 10
 
 secured: "vWEQyhgKrtroYILFLE1Q5Z76tHxfPzopVgdrZOnsFJs92nmEO6MngKeVjupkMU3x3X3+co4XGyLVDhyxj8axkmz18cmoXcZeia3rvI4qjOirq4zJN+S0SAL8TE20JryGF0+jUVB6w158dnYllTt+bqwEED/8kdfNSe4KfoscnWlFYf65AxGxYJ0Z68sKB81XFVhgrboVdhJHIdDS2G3Wg553/IUW+PhutNv3yj8wGvbe48cPvlWFm4s0Zrbd2D9JvUBxdI2Is2LiCQhgMmomcM4nbycuij2DsagXU3ToKDow+EpTYhG+QziEGMsk3avRhDy0ipCkdPGQms7pFG2hXCc1SdFVrlyoEJzSIm5thkdAtoaV6nfsXAfy8fK5c4f+O+ZwoyA7DpMso5oGjSsUYNORActPeJOTfOpYqGPTDrdD9qgrVGkfBhR6/E/FtxqB0jRboJPviES5VYNZy4V1Ajvz8YKx6bq2nzymD6WCiVFUj/UjVjVuJXW6grSKqe2qQyqexRqryVEBJelRIj6YJw==;Cw2eS4gh7xRxg5gEhtARIQ=="
 ---

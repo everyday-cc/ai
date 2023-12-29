@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_621371321.jpeg?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "2023 - the year in AI Policy"
+    excerpt: "Two themes dominated our critical thinking in 2023. One, users credit Gen-AI for its brilliance rather than the (uncredited) human expertise that was scraped to train it. And two, they already trust it and, in many cases, are ceding control of operations to it. A technology most had never heard of until this year!"
+    publishedDateTime: 2023-12-29T12:04:00Z
+    webUrl: "https://diginomica.com/2023-year-ai-policy"
+    ampWebUrl: "https://diginomica.com/2023-year-ai-policy?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-ai-policy?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.46.36.png"
+        width: 1818
+        height: 1016
         isCached: true
   - title: "3 Semiconductor Stocks Set to Capitalize on Generative AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor landscape stands on the precipice of transformative"
