@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2759822-samsung-to-u
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2759822-samsung-to-unveil-new-vacuum-cleaner-lineup-with-advanced-ai-at-ces-2024?amp"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "You won't need a Samsung phone to benefit from Galaxy S24's AI call translation"
+    excerpt: "A new report has shed more light on Samsung's innovative AI Live Translate Call feature, from languages to device support."
+    publishedDateTime: 2023-12-29T07:58:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2020/04/Samsung-logo-Galaxy-S20-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Samsung’s new AI-powered fridge looks at your food to suggest recipes"
     excerpt: "Samsung's brand new 2024 Bespoke 4-Door Flex Refrigerator comes with built-in AI that can suggest foods based on what you have in the fridge."
     publishedDateTime: 2023-12-28T12:37:00Z

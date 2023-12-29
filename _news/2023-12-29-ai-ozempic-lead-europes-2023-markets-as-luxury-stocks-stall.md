@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI predictions for 2024: What top VCs think"
+    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
+    publishedDateTime: 2023-12-27T18:54:00Z
+    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "hGYyANn1zfgx+4WJn0qztP2OTifz7ZeUCN58OVLJk2OiMo5ltYIRMXhE6sabe14BcqlfPYWP4MMh/qcrXU0gm3enYlARRL709mVZjYpXTLeHunuWAw1nzdb9wteBsdjDId4TD20ghR/EAwTNPJMr2JG5rNr7R1Ja5jT8TOjcQtpG9pKA8703jB8nFxBcIcL+4ncnZX8aTNsG+yIudkZ41qRHzGe62qUbaU7AlZ9X5xH9L7BHEB3F+NOcz8FhPnrct+EkR6rmwohRnrZLpxH7r7z5HP6nPPlLuIcjAbmxsc3ZjaeO/cros5sUbOoRwccbt9Zx2j4ozxVTXiVPbiwcrKm1X4TjmHACOUnklhUK0qIKNh8/RoHEy3V4lleD0eXBMKak4mK0YBgztlXpQ2u4na6l4Tzm47jy8zJyGFvVy+r27KmC4IPcquaqdqPHBGbpCgLqP/KmqLP5Q6uhx+kAXZ98t/ye9JmPVGYZS1+ZamE+9fnsDE2vf9RefOH25dR+KbEz5NtKZzcR1MucKB9OoA==;HAvwY8ToHLzlZnodOUBSTw=="
 ---

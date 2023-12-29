@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: The Indian Express
@@ -28,90 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT In 2024: Top 10 Things To Expect As AI Advances"
-    excerpt: "As the artificial intelligence (AI) technology improves, we will witness a more advanced and user-friendly version of ChatGPT which includes improved conversational abilities, multimodal capabilities,"
-    publishedDateTime: 2023-12-26T23:30:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
+    publishedDateTime: 2023-12-28T15:29:00Z
+    webUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
+      name: Madison.com
+      domain: madison.com
+    quality: 28
     images:
-      - url: "https://static.tnn.in/thumb/msid-106288254,thumbsize-1378670,width-1280,height-720,resizemode-75/106288254.jpg"
-        width: 1279
-        height: 720
+      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/88/a88c481f-65f9-545f-b4d6-2b75a4fd1add/658d94e5effca.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+        width: 1084
+        height: 569
         isCached: true
-  - title: "AI in 2024: The dangers and the hope"
-    excerpt: "There is a tendency to surrender the policy process around AI to a handful of tech companies who weaponise the very real anxieties about AI to distract from and evade concrete interventions"
-    publishedDateTime: 2023-12-28T10:30:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
+  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
+    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
+    publishedDateTime: 2023-12-28T16:30:00Z
+    webUrl: "https://tucson.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa.html"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 26
     images:
-      - url: "https://images.indianexpress.com/2023/12/AI-1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/a/2a/a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa/657bac9c27ee0.preview.jpg?crop=1084%2C610%2C0%2C0&resize=1084%2C610&order=crop%2Cresize"
+        width: 1084
+        height: 610
         isCached: true
-  - title: "Predictions 2024: Artificial intelligence"
-    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
-    publishedDateTime: 2023-12-27T16:43:00Z
-    webUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487"
-    ampWebUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/12/GettyImages-1709354468.jpg"
-        width: 716
-        height: 487
-        isCached: true
-  - title: "AI predictions for 2024: What top VCs think"
-    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
-    publishedDateTime: 2023-12-27T18:54:00Z
-    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
-    excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
-    publishedDateTime: 2023-12-27T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/27/ai-breakthroughs-in-2024-first-of-their-kind-use-cases/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Predictions 2024: Artificial intelligence"
-    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
-    publishedDateTime: 2023-12-28T19:30:00Z
-    webUrl: "https://www.itbusiness.ca/news/predictions-2024-artificial-intelligence/126864"
-    type: article
-    provider:
-      name: IT Business
-      domain: itbusiness.ca
-    quality: 19
-  - title: "Crossing the AI Chasm in 2024: What Alts Need to Know"
-    excerpt: "In 2024, firms must deploy AI solutions that are tailored for the alternatives space. From deal diligence to investment research, portfolio value creation to fundraising, it’s critical to ensure your AI provider knows how to make this technology work for this industry."
-    publishedDateTime: 2023-12-29T05:12:00Z
-    webUrl: "https://www.tradersmagazine.com/am/crossing-the-ai-chasm-in-2024-what-alts-need-to-know/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 17
 
 secured: "OetCyOzOArsXyxfljMQ57TPPKBSCxOFWqLo7ccSzjLtLNJHhmfK8/2YBTh0vYnbZuC7T6LLO7deBLY+HcDmL6pwtEZYD/1N0J1rMTsj2OiUoshB7BkJ+FFfvUtxsm9VpxyHCcGn4SUCJ1DbbAjvxu/kZzfaDgPkUvMRzTmq/NiDl57b9tXcaaWdzHWSoe43Vu4s642+FK0JrON57+Onq8cL7hWUjEJt/arTIxFH0YyWyVOcH/Din6IRZBICdMjNF6nfAa8KY6bfbXW3olL+q4ahn1nd/Se8GMYXOOd4Feg/OahgP5lFO4xFvl9qW3yOQ7vFcdslNydUZ3V48aknt9qZqMXBFGub7xPFn6PIf9Io=;fQM2Od6EknzIZB0xBq1koQ=="
 ---

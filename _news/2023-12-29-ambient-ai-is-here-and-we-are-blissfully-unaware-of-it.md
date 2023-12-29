@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 890
     isCached: true
 
-secured: "BFiS+CoaHJSi1ZXiNB6jpyTya0l1EMFxWzcrFf7pgeBnHSkJspvGbhNp0/HvjiEj1Datftt4gGnoQ2KH++Ejwv0SHZ2Aa6mGr/DNQQSg9SEPb2wm//4UHQbEMmIFDC3n5wa0nZVojaDsFu6bdJYtMjlM048eP/LaDxdzOr/zbznjbVwLi4/XYK9cq0cd5unEpE6f+rpW1VWmxhoksGEE+QEQ8dGM2XeTyYB8MeERsRuTUJCZdoABdJumFeutUJtTxFmGTxVIqvp4vHEA8o8aHjbL2yiaKO3/Wb1sQDGDyWKDjsHJx64sIqTE4xZVoHd0jqVz7b88nL1ra429PSV8j438M4OyCQHlClpoklNylpM=;RHROMLqENLw5DJIAm458Yg=="
+secured: "BIQuSAxeDKluRZdG+0cz2gSepiYpgwKgGyJRg4dmziyQEhbZRJ58KQgicmicg4r/9N06p2Nlp6uXCI4eEd5Pvr8JbPig+ZwZeVoBnNBg7xSE/YvxDyVohzYUNcL1NcM3B/wKDbip9rqyW96QoeGh3YmGNTBJd9KA+LMlk/kHWKkvk1z60HwrZM24R0uufh+3/TZC525WJpI6gqj/7hai7gpWWeFsZZYS0yC0bomjQJMPsjlBFAmWQwXypWtCrMUIz6aMfB4+MtfBEsiuDTuwVtJLv7IX/K0Ux7Wioctu1BNhXeGh3AV4LBHoglAgqZJQVXNKO0TyK2H1p6ZqhuRcsRVEm5aHYQBX0F8eMSzKrP6otK6MyHxuPWfbXA5zlb0jj2srRvHZ2kK8w6CdsyB2+nDyr1Mw6GhGHfzASO+V1EIj7pXi572QowUrygE1TbQAMpuzqqLGcL8lL9utDwzVh/krwiGscB27EsfvhWt1V2sQ+Uxi12ShanJ4ZYZl7u+WuaY8PGG15n4rkwUWo95UpA==;mFiJOdljz2dF4qnge5W+Hg=="
 ---
 

@@ -3,41 +3,43 @@ category: news
 title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
 excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
 publishedDateTime: 2023-12-28T15:29:00Z
-originalUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
-webUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
+originalUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
+webUrl: "https://madison.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a88c481f-65f9-545f-b4d6-2b75a4fd1add.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Lincoln Journal Star
-  domain: journalstar.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/df/0df154d9-bd89-5684-93e4-f1cb5294eac0/657bac9b5f11f.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/88/a88c481f-65f9-545f-b4d6-2b75a4fd1add/658d94e5effca.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
     width: 1084
     height: 569
     isCached: true
 
 related:
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "Artificial intelligence went mainstream in 2023 — it was ... through a huge database of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri and Alexa a fixture ..."
-    publishedDateTime: 2023-12-27T10:29:00Z
-    webUrl: "https://www.dailyherald.com/20231227/business/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/"
+  - title: "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more"
+    excerpt: "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024"
+    publishedDateTime: 2023-12-27T09:44:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 28
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 67
     images:
-      - url: "https://imengine.public.prod.pdh.navigacloud.com/?uuid=6065c7ca-eddd-5a4e-b7b6-998ea6411d3c&function=fit&type=preview"
-        width: 500
-        height: 333
+      - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
     excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
@@ -54,6 +56,6 @@ related:
         height: 610
         isCached: true
 
-secured: "KiHB2GbzjXRRKkVZFQyivKeJfqufA+3APj5J6CwnCIJ4B+vK7vBpMKHF7WpYJ1QjYMalF9JGVEBVEuhj3/803f170ZeQGkvssBRvsMQPXIVJKnZPZD7NW5oIuC8kRRAH7mS4TCHIyNk2xe6nY5epM1G2bACJZOTDbGj3skCzUItTRKIiHCOGB6rLs9oANAtUkAwHYewZwyU5fN5npPUoRcy32SaesO8sRx3gRqvhiQyCRPWngA+beBA886besR/ueZrWMXcC7jWIJDYtGxXGRQlb4xFp8aUsWpqaIY+eW5ts3KfufIILkOXhkyyF0Q5RfBObC8xy/mjtidpgA9P00AGRQAow+NF4+H8ZRQDAQYc=;eGDi6pFWjSU1nBiMQqyZ7w=="
+secured: "wdupyvMCJBtH0qxu5c2N1I0PtSfRp4+7QEu1+q4JcorHm1ZPqwnYYRpc3V4msRIbfzZgfRYx0cimsjNEB46BTHxeBCLVYjCPjTwgR0pu00FRwZ3nGHrkAlF21L+P+PY6DtwOBaXSkCwyzQBnaiKinPRs4sqbnYZQ7BpEEXK/h96K20E3zsMKEqMi9/s5LwQRSti1+FVaQKxlkshsWVGsTd0KjL+YsufmwudSLvL9r6iZ0BhNY6vRNhdVMpnsrAqDJ/jejHN8mNvj3FHfTCZAnawK6YMgM+lTx3Viao7Bc9azr3MidxAWS004FCnD4sotuYfR0la1ldPlrCfC40uRSs8z5JdQ6ao1rLlwFwB0F48=;Wy0q2WZ580IiOzH1xRyJAQ=="
 ---
 

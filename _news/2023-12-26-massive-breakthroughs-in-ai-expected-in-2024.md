@@ -9,8 +9,8 @@ ampWebUrl: "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-ex
 cdnAmpWebUrl: "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Memeburn
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
+    excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
+    publishedDateTime: 2023-12-27T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/27/ai-breakthroughs-in-2024-first-of-their-kind-use-cases/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Generative Everything: An Exploration of Breakthroughs in 2023, Impacts, and Future Insights Across Industries with AI"
     excerpt: "Explore 2023's breakthroughs in generative AI, industry impacts, and 2024 trends. Navigating challenges for responsible innovation"
     publishedDateTime: 2023-12-27T16:35:00Z

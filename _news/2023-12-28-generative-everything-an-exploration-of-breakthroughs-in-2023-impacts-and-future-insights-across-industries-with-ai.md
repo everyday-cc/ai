@@ -42,6 +42,15 @@ related:
         width: 956
         height: 570
         isCached: true
+  - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
+    excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
+    publishedDateTime: 2023-12-27T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/27/ai-breakthroughs-in-2024-first-of-their-kind-use-cases/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "O0aLLK1q2fCcUauUyiux1MFG2fEx5yAHRihtzcATfmgbf6k5r6aoG4HS4rL7CK2NtL9Z8EPWn+wuG3I45B/3kq8nIgxTrNlip+kQJu+Yy+qKSr8wpIKNCiaKyPZQyN0vBIA0JI/qBWxl/5ilCrRMV9BVjVS6P804ILOW/8Wd+em7I0+LwdvHoulIYzN54nT4aJLoL1XnJbP3mZrrA9kPYs2bT0xofObz7GUxntAYojWqgvXawRJXEswkZRDxILxsY4JCaPVibsbrFjD5N8ct39RpR/594DGV290gKM0JsYA0LdcJxiayv5iXxacCT387kzX7wgsWL6A58uWzC/jEu1aTCVzAgnME/d6sc0/S+3HSYmZeSk/YXq7r5xmGlVPpmsYhmYvs/+KmxOmTx2Ve/OPhvCnREb48p5Ks4mOQmIXYKEqekkSUiRnoSPKfekQAqGzTN6Rn5/lUIttQdAAzpDCOqnjbVDTRK0Bp6V99RU7HWQNPRbzxp7oXrX8ecGcjGHY6P25ILMJ+hKk6x6r6zA==;fXRYGeJ0kYUN/To/YFAAAw=="
 ---

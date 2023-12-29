@@ -19,53 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT In 2024: Top 10 Things To Expect As AI Advances"
-    excerpt: "As the artificial intelligence (AI) technology improves, we will witness a more advanced and user-friendly version of ChatGPT which includes improved conversational abilities, multimodal capabilities,"
-    publishedDateTime: 2023-12-26T23:30:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/artificial-intelligence/chatgpt-in-2024-top-10-things-to-expect-as-ai-advances-article-106287717/amp"
+  - title: "Asia Pacific Fintech 2024: A Balanced Vision"
+    excerpt: "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech."
+    publishedDateTime: 2023-12-28T03:15:00Z
+    webUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/"
+    ampWebUrl: "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://static.tnn.in/thumb/msid-106288254,thumbsize-1378670,width-1280,height-720,resizemode-75/106288254.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-  - title: "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more"
-    excerpt: "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024"
-    publishedDateTime: 2023-12-27T09:44:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 67
-    images:
-      - url: "https://images.indianexpress.com/2023/12/Social-Media-1.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "AI in 2024: The dangers and the hope"
-    excerpt: "There is a tendency to surrender the policy process around AI to a handful of tech companies who weaponise the very real anxieties about AI to distract from and evade concrete interventions"
-    publishedDateTime: 2023-12-28T10:30:00Z
-    webUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/"
-    ampWebUrl: "https://indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/ai-in-2024-dangers-hope-9086241/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2023/12/AI-1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658ba84a0e014e31d7e4f47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1343
+        height: 896
         isCached: true
   - title: "Predictions 2024: Artificial intelligence"
     excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
@@ -83,33 +51,67 @@ related:
         width: 716
         height: 487
         isCached: true
-  - title: "AI predictions for 2024: What top VCs think"
-    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
-    publishedDateTime: 2023-12-27T18:54:00Z
-    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
+  - title: "Fintech Future 2024: Unveiling latest innovations and trends"
+    excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
+    publishedDateTime: 2023-12-25T03:38:00Z
+    webUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828"
+    ampWebUrl: "https://www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-fintech-future-2024-unveiling-latest-innovations-and-trends-269828/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "AI Breakthroughs In 2024: First-Of-Their-Kind Use Cases"
-    excerpt: "Spanning environment, education, and healthcare, there are three first-of-their-kind uses cases that will become a reality in the upcoming year."
-    publishedDateTime: 2023-12-27T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/neilsahota/2023/12/27/ai-breakthroughs-in-2024-first-of-their-kind-use-cases/"
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 44
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/2023/12/25/274078-fintechnew.jpg?im=FitAndFill=(1200,900)"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Women in Fintech Top 100: A review"
+    excerpt: "Explore the influential women shaping FinTech in 2023. A retrospective on top leaders driving change in a male-dominated industry"
+    publishedDateTime: 2023-12-27T09:00:00Z
+    webUrl: "https://fintechmagazine.com/articles/women-in-fintech-top-100-a-review"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Crossing the AI Chasm in 2024: What Alts Need to Know"
-    excerpt: "In 2024, firms must deploy AI solutions that are tailored for the alternatives space. From deal diligence to investment research, portfolio value creation to fundraising, it’s critical to ensure your AI provider knows how to make this technology work for this industry."
-    publishedDateTime: 2023-12-29T05:12:00Z
-    webUrl: "https://www.tradersmagazine.com/am/crossing-the-ai-chasm-in-2024-what-alts-need-to-know/"
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/f8667fea28fee93f94b50417d0e6853c:cf716e2c7b8bf0b82da50336fd4ecf72/unnamed-1.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "11 Fintech Predictions For 2024"
+    excerpt: "Indian Fintechs have gone through turbulence amidst regulatory crackdown by the RBI, however the analysts foresee clarity in 2024 which could revive investor sentiment Lending, wealthtech and insurtech will be the bright spots in the fintech industry in 2024 continuing to attract investments"
+    publishedDateTime: 2023-12-28T09:38:00Z
+    webUrl: "https://inc42.com/features/11-fintech-predictions-for-2024/"
+    ampWebUrl: "https://inc42.com/features/11-fintech-predictions-for-2024/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/11-fintech-predictions-for-2024/amp/"
     type: article
     provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 17
+      name: inc42
+      domain: inc42.com
+    quality: 24
+  - title: "Paytm Ends 2023 On A Sombre Note: Can The Fintech Juggernaut Turn The Tide In 2024?"
+    excerpt: "Paytm's 2023: the fintech giant’s decision to scale down its small-ticket loan business hit the stock hard after a massive bull run"
+    publishedDateTime: 2023-12-26T08:38:00Z
+    webUrl: "https://inc42.com/features/paytm-2023-on-a-sombre-note-can-the-fintech-juggernaut-turn-the-tide-in-2024/"
+    ampWebUrl: "https://inc42.com/features/paytm-2023-on-a-sombre-note-can-the-fintech-juggernaut-turn-the-tide-in-2024/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/features/paytm-2023-on-a-sombre-note-can-the-fintech-juggernaut-turn-the-tide-in-2024/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 18
+  - title: "Seven Pivotal Trends in Fintech 2024"
+    excerpt: "Fintech solutions are increasingly conquering various aspects of our daily life in the financial world. What trends will shape the industry over the coming year?"
+    publishedDateTime: 2023-12-28T12:08:00Z
+    webUrl: "https://www.finews.com/news/english-news/60766-fintech-bank-finance-outlook-2024-trends-eng"
+    type: article
+    provider:
+      name: finews
+      domain: finews.com
+    quality: 4
 
 secured: "ogw55kdSvirh4ihnUpLxPGDa1wfzOnGFb/n36v/HZ2s5hthurW7dt1xAqcSAZBaSil1RKR+Kjqm6S03O8HicyvvMEAMjRbybluFKnA+bR4YuYPU4VrVl3LWmZsRrLWlju/7az42QnhUcMb80FYE0NSdIvYUzMENGZf/w/+KGTbkOR7NdrZRNzmj9Gp3ZgWc//yTmQ2qUfz8Sx8o4yiuDm3Jdx7F2HtifVieSKXLzMGd7MaidTYgdP61EH5pZEYcTD2IMTOpBcO48PxbWL3TJ6rqwInfMjrShrknV8/Ngois2p6tlDJ1JGfS6XLmqcdvDGaB8OX4pBpLD9o1O5bUvpZMJQI+9/bM53hxpfoKN2GD/bdxs/z80IVO84wzkA2heWTWp7CPCvz2AkiWaL+JOopanmVUaWTMcI2sSBrefh128V3/FOsIpzZi/nzdNhbcc3bgah0hxcaWy/LMPf83sLswtOYduy1xBCQH0S/SA3osMDTMO/p8TPt5pKMy7UXYjPNfuDA09yAQJ9myYWssu4g==;9VdGuuf6DoLsB+9hlUJ7Cw=="
 ---

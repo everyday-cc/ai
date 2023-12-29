@@ -135,6 +135,20 @@ related:
         width: 5400
         height: 3600
         isCached: true
+  - title: "AI ethics, governance and developments in 2024: An interview with three chatbots"
+    excerpt: "With so much riding on AI today, how would a chatbot respond to questions on AI ethics, governance and developments in 2024?"
+    publishedDateTime: 2023-12-29T06:54:00Z
+    webUrl: "https://www.techgoondu.com/2023/12/29/ai-ethics-governance-and-developments-in-2024-an-interview-with-three-chatbots/"
+    type: article
+    provider:
+      name: Tech Goondu
+      domain: techgoondu.com
+    quality: 49
+    images:
+      - url: "https://www.techgoondu.com/wp-content/uploads/2023/12/Firefly-Create-an-illustration-of-an-AI-chatbot-software-as-an-abstract-painting-56370.jpg"
+        width: 989
+        height: 989
+        isCached: true
   - title: "What were the notable advancements and challenges in the intersection of AI and fintech in 2023"
     excerpt: "Fintech companies operating at the intersection of AI and finance faced a complex web of regulatory requirements"
     publishedDateTime: 2023-12-25T04:59:00Z
@@ -164,6 +178,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/12/25/2456674.jpeg"
         width: 1240
         height: 879
+        isCached: true
+  - title: "China’s Baidu announces that 100 million users have used its AI chatbot"
+    excerpt: "Baidu’s ChatGPT-like ERNIE Bot has surpassed 100 million users, said Wang Haifeng, chief technology officer of the company on Thursday, four months after"
+    publishedDateTime: 2023-12-29T07:15:00Z
+    webUrl: "https://technode.com/2023/12/29/chinas-baidu-announces-that-100-million-users-have-used-its-ai-chatbot/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 39
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/11/截屏2023-11-07-下午2.19.45.png"
+        width: 972
+        height: 552
         isCached: true
   - title: "NTU Singapore researchers use AI chatbots against themselves to ‘jailbreak’ each other"
     excerpt: "Computer scientists from Nanyang Technological University, Singapore (NTU Singapore) have managed to compromise multiple artificial intelligence (AI)"

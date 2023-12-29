@@ -3,25 +3,25 @@ category: news
 title: "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate"
 excerpt: "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ..."
 publishedDateTime: 2023-12-25T00:00:00Z
-originalUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-webUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
-ampWebUrl: "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+originalUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+webUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/"
+ampWebUrl: "https://www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WSB Radio
-  domain: wsbradio.com
+  name: WSB-TV
+  domain: wsbtv.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
+  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg"
     width: 1440
     height: 810
     isCached: true
@@ -74,6 +74,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "x6g4FiyLulQttXcP2zGkOWDQwYJlS3xj95tsL+nFJrA5++wxjfAOjkGFcch4Vaucmt/eI6ujyYh7T6xcFat8ybLf/0VNraWKcwzH5MeYfi30rNqcdO5BXOVZTcASrUxR3kguLTvUuc/b7lUrUtLE1IrjEU9I5OvJJEDUgsaHtE5+MyhL2aqeEW8l19vFXuI986PNwtX7iVzoTOB1XN/OW46UJsM/c01C0KdfAi1y79DVOOc8OSJHDhxebsS8DbyimYc70c8PSZPTk1fWFZ1e1Rc5JpA5jtYCYxQ/3UAWYWustNGveBxk4NBTp7p3AXpDG53kKCIqGxdFziTbNdFBRagDbkJ1S31urnyyMEHe76o=;gDoXe142Gn3M8tSHaJjgdw=="
+secured: "cu3nzibJg+2/10CqTSxVxwlQ9RKzg4YgevKTGAI3y/tihkVdLVdDnmPmEOwA0/SiStBnrRKE96g06lUFoZ8Us1iidJWykYHbym7F30fgejfU0xA4xrUKewlVIJuDPRyJEAC52baRLMcidMzjF4Jt3EbGgwbgnewhjnKiWroIAeETTdJwbECZ+b1rk4MVB7YbDFWA2w+7Y7SHe6w36b7aNUayw3LS2BYIKZb0a199+R4KmdNMn4t5RNZU5N8Pv4kI3Pqd84/HSwP5h9oVpDRoZEfSABBupa91Jt+SnDTjHvj0NvEwTJMbL2XlzvcsmJpJsMEuKtN/jjjipZhp8pjkCnVRvMHH2+IgYPUoooHGoxI=;n4OwLwfvpPTBhfYXYrTsgg=="
 ---
 

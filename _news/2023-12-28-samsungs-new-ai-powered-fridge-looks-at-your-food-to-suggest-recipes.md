@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "You won't need a Samsung phone to benefit from Galaxy S24's AI call translation"
+    excerpt: "A new report has shed more light on Samsung's innovative AI Live Translate Call feature, from languages to device support."
+    publishedDateTime: 2023-12-29T07:58:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 65
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2020/04/Samsung-logo-Galaxy-S20-4.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Samsung to unveil new vacuum cleaner lineup with advanced AI at CES 2024"
     excerpt: "Samsung will introduce a new vacuum cleaner lineup with advanced artificial intelligence (AI) at the upcoming CES 2024 tech show in Las Vegas. Currently in development, the Bespoke Jet Bot Combo is a vacuum and mop robot cleaner with enhanced AI features and steam cleaning for an easier cleaning experience."
     publishedDateTime: 2023-12-28T11:31:00Z

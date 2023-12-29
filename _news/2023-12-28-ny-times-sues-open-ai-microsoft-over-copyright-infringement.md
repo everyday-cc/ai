@@ -92,6 +92,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft's New AI-Focused Surface Pro 10 and Surface Laptop 6 with Arm Chips & New Design in Works"
+    excerpt: "A recent report sheds light on Microsofts plans, indicating that the tech giant is diligently working on the Surface Pro 10 and Surface Laptop 6, both slated for launch in 2024. Read on to learn more."
+    publishedDateTime: 2023-12-29T06:45:00Z
+    webUrl: "https://www.gizbot.com/laptop/news/microsofts-new-ai-focused-surface-pro-10-and-surface-laptop-6-with-arm-chips-new-design-in-works-089541.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 57
+    images:
+      - url: "https://www.gizbot.com/img/2023/12/microsoft-surface-1-1703830939.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Report: Microsoft developing AI-optimized Surface Pro and Surface Laptop"
     excerpt: "Microsoft Corp. is developing new versions of its Surface Pro tablet and Surface Laptop that are optimized to run artificial intelligence software, Windows Central reported today. The devices are expected to launch next year."
     publishedDateTime: 2023-12-28T21:43:00Z
@@ -105,20 +119,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/Surface-Pro-9.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "TomTom, Microsoft to design AI-based chat assistant for vehicles"
-    excerpt: "Dutch digital mapping specialist TomTom and U.S. tech giant Microsoft announced a partnership to develop a conversational assistant for vehicles powered by artificial intelligence"
-    publishedDateTime: 2023-12-24T07:08:00Z
-    webUrl: "https://www.malaysiasun.com/news/274074766/tomtom-microsoft-to-design-ai-based-chat-assistant-for-vehicles"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1703133934980.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "The Best Ways to Use the New Microsoft Copilot AI App for Android"
     excerpt: "Microsoft's new Copilot app for Android enables you to produce AI-generated text and images from your phone. It's free to use and available now."

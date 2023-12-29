@@ -24,36 +24,6 @@ images:
     height: 333
     isCached: true
 
-related:
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
-    publishedDateTime: 2023-12-28T15:29:00Z
-    webUrl: "https://journalstar.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_0df154d9-bd89-5684-93e4-f1cb5294eac0.html"
-    type: article
-    provider:
-      name: Lincoln Journal Star
-      domain: journalstar.com
-    quality: 28
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/0/df/0df154d9-bd89-5684-93e4-f1cb5294eac0/657bac9b5f11f.preview.jpg?crop=1084%2C569%2C0%2C20&resize=1084%2C569&order=crop%2Cresize"
-        width: 1084
-        height: 569
-        isCached: true
-  - title: "2023: The year we played with artificial intelligence — and weren’t sure what to do about it"
-    excerpt: "ChatGPT was the catalyst for a year that took artificial intelligence mainstream. For AI, 2023 was a long time coming."
-    publishedDateTime: 2023-12-28T16:30:00Z
-    webUrl: "https://tucson.com/news/nation-world/ai-2023-artificial-intelligence-chatgpt-dangers/article_a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/a/2a/a2a4fec3-c08a-5ec5-a401-bbabc45bd8fa/657bac9c27ee0.preview.jpg?crop=1084%2C610%2C0%2C0&resize=1084%2C610&order=crop%2Cresize"
-        width: 1084
-        height: 610
-        isCached: true
-
 secured: "sZuPBa/fX2M0O3G6UEQk1Fu4FdeaYuBel3pttBO8cvd88zhPKvo44YPqLnZf412d564fD1XJSP3ShtG0arqdNHFglCkGort4xRKWEPJ7evPev9nTgfvB8kcJlPWlqGuJjhR0OXGJk6cvENuKJT30fLXlkdf5iiXJkgik0T/BGN9pM0DcKxPZsq6NdnU/aJ3+BoTUOhkkVPuRfWG4kAwTuuG/+NDAWY9OqERI5acnwGXh2yUqVViowB+hdr+H/vf2km2bhIIq+lI7/4+OOOxuG4xSpJsYAHrBc+SlU/YlVK77BA+WkewQuDQD8DNfBWqiTbcTql1i5FdH/iKpHv5s2rmhh9/CYMJuS5YAs3Z0kjNcegrRRItksueF2gV8gGgzpfiTNNmJvYA8jLWvV6ChHelPoa2qvOoSRAz+7V5ah1nLZsLdOCpwsHdGPUS+NXJv1oPhK2KkZp7qq/lbs1L9oftUI8yFLP6yEmfhopHcfWU2xAy0vVRqJV4OTMglCWbngMG0VMoxnF32dW6uJrVtpw==;RHTSypaYVStfi7u6JHWojA=="
 ---
 

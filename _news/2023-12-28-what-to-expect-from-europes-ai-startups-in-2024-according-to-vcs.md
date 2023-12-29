@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/what-to-expect-from-europes-ai-sta
 webUrl: "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI predictions for 2024: What top VCs think"
+    excerpt: "Top venture capitalists make bold predictions for artificial intelligence in 2024, forecasting the rise of multimodal models, real-time diffusion applications, open source AI democratization, and more despite ethical concerns and GPU shortages."
+    publishedDateTime: 2023-12-27T18:54:00Z
+    webUrl: "https://venturebeat.com/ai/ai-predictions-for-2024-what-top-vcs-think/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "AI, Ozempic lead Europe’s 2023 markets as luxury stocks stall"
     excerpt: "LONDON: The frenzy around weight-loss drugs and artificial intelligence, followed by a late-year market rally, made 2023 memorable for European stocks. For investors in renewables and some big luxury names, it was more of a year to forget."
     publishedDateTime: 2023-12-29T06:50:00Z

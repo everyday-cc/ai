@@ -35,6 +35,22 @@ related:
         width: 1343
         height: 896
         isCached: true
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-27T16:43:00Z
+    webUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487"
+    ampWebUrl: "https://www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/predictions-2024-artificial-intelligence/555487?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2023/12/GettyImages-1709354468.jpg"
+        width: 716
+        height: 487
+        isCached: true
   - title: "Fintech Future 2024: Unveiling latest innovations and trends"
     excerpt: "Fintechs have showcased unprecedented growth, remaining resilient amid the global economic pressure and the fierce competition in the network."
     publishedDateTime: 2023-12-25T03:38:00Z
@@ -76,6 +92,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 24
+  - title: "Predictions 2024: Artificial intelligence"
+    excerpt: "The hottest topic of 2023, artificial intelligence (AI), has not only generated lots of interest this year, it has pundits of all descriptions coming out of the woodwork with predictions of what will happen in 2024."
+    publishedDateTime: 2023-12-28T19:30:00Z
+    webUrl: "https://www.itbusiness.ca/news/predictions-2024-artificial-intelligence/126864"
+    type: article
+    provider:
+      name: IT Business
+      domain: itbusiness.ca
+    quality: 19
   - title: "Paytm Ends 2023 On A Sombre Note: Can The Fintech Juggernaut Turn The Tide In 2024?"
     excerpt: "Paytm's 2023: the fintech giant’s decision to scale down its small-ticket loan business hit the stock hard after a massive bull run"
     publishedDateTime: 2023-12-26T08:38:00Z
