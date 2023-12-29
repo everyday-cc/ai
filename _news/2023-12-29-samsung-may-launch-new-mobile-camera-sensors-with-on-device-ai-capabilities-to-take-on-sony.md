@@ -71,6 +71,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Samsung's new AI Live Translate works on calls between Galaxy and non-Galaxy phones"
+    excerpt: "Samsung's AI Live Translate Call feature, expected to debut with the Galaxy S24 series, will work on calls made to other phone brands."
+    publishedDateTime: 2023-12-29T18:13:00Z
+    webUrl: "https://www.phonearena.com/news/new-galaxy-s24-ai-live-translate-works-with-non-galaxy-phones_id153875"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 28
 
 secured: "chmJLPeHYJ4YtjjmZm3rLNgZUFKuVgBRo+vFuXp7/1l3inovtPtx8v5YnM6/c2fxzZzknF0x+eMe0DqyguPUKXrqEbRzc/knklpFNk5BoKKlUbqvW3RCBwXucc6Zhh2vDM3cJlZO5NRg/2UC6uDZVBCPyqvSrKhyBRHabWyaSI/EI9Y5IPOgvA6NQhIjBkmIt2Tt4oqwLpdP6YorWnxc0CXWbV9Vk1dysbyCgxm9NaJRyuz05uvr6rDsjX11/MleoReJVtAH20Nk4goUBK3JB5Fx/Aq1nt5ExIZl3yLzPq9GtdzoBacJruZQb0d04dOdfoTc1SCqZ4IZJZ6/RemlOvp5g7f9xzPLecrYp2qnTVc=;lK9z7fui8bwnwoNfStd6tw=="
 ---

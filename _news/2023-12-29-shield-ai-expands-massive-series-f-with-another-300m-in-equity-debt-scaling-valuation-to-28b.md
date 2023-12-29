@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/29/shield-ai-expands-massive-series-f-with-another-300m-in-equity-debt-scaling-valuation-to-2-8b/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 918
     isCached: true
+
+related:
+  - title: "Defense startup Shield AI raises $300M at $2.8B valuation"
+    excerpt: "Shield AI is now reportedly worth $2.8 billion, or $100 million more than when the round first closed. The company previously received a $2.3 billion valuation following a Series E raise last December."
+    publishedDateTime: 2023-12-29T19:29:00Z
+    webUrl: "https://siliconangle.com/2023/12/29/defense-startup-shield-ai-raises-300m-2-8b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "QwLuxDAHM83N4cQGTVIoIvR5CzaSWk50cy1iB8dvOPQKiHM7gH5BIUMSAXn9ErFk+f9C4aNfUumIv/OHS0Wb2F9/iSZ9x3V/6nbroXn55RXYrOwVu6fQ6HNTuktpCszUQQDV0cqL8k0T4Hu/C/DcXTg5CXP7P8VRgI1ai3CsAmgJwP1oCkOysRNsXUng2B+7vcXUwnsX0HJqU4xcS/G3e7CPI3ArLSzv18q+T6KKgXsWTXfQdP12pYpiVTVYc4ZUsQ2o3/TyPfch1bsZnvPFLQdolsg09lEQa2A+E2zyjAnF2w+uXD63HJmH21rQtF91njVB4J1R4okPafdaW+DAjh5BaG6FGk9R24WvX9W7p6ba29Pxy3fxg76ety0TEeGucXmMX5l/JH0zBN6ucF2TtWS+hixb4kB2Rp1Svy/sQx9zVTR+btkXRycYzK2svIkgH/MHXdf/gOQrjOOVnt8ZSVCOEmHzpGDZC/Ar2SVhloi4UtbiF814yZyJeyCdqJNNspZfFVKfE6lPixY2SdOAjg==;9Zj9V7eLHqqskLel+BCyAw=="
 ---

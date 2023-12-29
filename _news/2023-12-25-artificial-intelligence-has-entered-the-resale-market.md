@@ -34,6 +34,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AI Revolution, Fed's Pivot Power US Stock Market To A Record Year: This Week In Markets"
+    excerpt: "The U.S. stock market bids farewell to a truly unforgettable year, characterized by the artificial intelligence revolution, which defied numerous gloomy forecasts made at the year’s outset. All the major U."
+    publishedDateTime: 2023-12-29T21:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-revolution-fed-s-pivot-power-us-stock-market-to-a-record-year-this-week-in-markets-1032933097"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://editorial-assets.benzinga.com/wp-content/uploads/2023/12/29070014/NDX_2023-12-29_11-59-35_e417f-1024x495.png"
+        width: 1024
+        height: 495
+        isCached: true
   - title: "Boom in artificial intelligence stocks ignites market returns"
     excerpt: "Investment returns improved sharply in 2023 thanks to a boom in artificial intelligence stocks ... The bank is also positive on the healthcare, property trust and tech sectors, but recently switched from overweight to underweight on consumer discretionary ..."
     publishedDateTime: 2023-12-29T09:51:00Z

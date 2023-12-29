@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The 500 Top Stocks to Buy for 2024, Ranked by AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In July, I created MarketMasterAI, a powerful AI tool to help investors pick"
+    publishedDateTime: 2023-12-29T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-500-top-stocks-to-buy-for-2024-ranked-by-ai-1032933022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Navigating AI Trends for Startup Founders in 2024"
     excerpt: "With its unparalleled potential for creativity and expansion, artificial intelligence is reshaping the startup scene. As 2024 approaches, the progress of"
     publishedDateTime: 2023-12-26T04:21:00Z

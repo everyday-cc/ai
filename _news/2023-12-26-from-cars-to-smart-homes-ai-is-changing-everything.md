@@ -1,12 +1,12 @@
 ---
 category: news
 title: "From cars to smart homes, AI is changing everything"
-excerpt: "Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot monitoring, and driver-assisted steering."
-publishedDateTime: 2023-12-25T22:40:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
-webUrl: "https://www.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+excerpt: "Photo/VCG] Autonomous vehicles The AI is used to build self-driving car to improve the in-vehicle experience and provide additional systems such as emergency braking, blind-spot"
+publishedDateTime: 2023-12-25T22:59:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
+webUrl: "https://global.chinadaily.com.cn/a/202312/26/WS658a04bda31040ac301a9721_5.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "http://img2.chinadaily.com.cn/images/202312/26/658a04bda31040acaf8337b1.jpeg"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "How Artificial Intelligence Is Snatching Away Our Jobs"
@@ -65,6 +59,6 @@ related:
       domain: accountingtoday.com
     quality: 17
 
-secured: "yFy88SnwmZikCdklbH1ZZEg3HI8Qk5/f2WV9zspjjbFB/P2YfHoHP/3YRZ7OJ2rfixmkIKq2gIyIYko4p0PbwxFFYC13C6ggjCnO9r7SjOEgqUFixrUK8CD01Hq2WTcpL5DJKC2ct6evEBaNmUpgBDDY3m5+WR1WB9YMuHhcKvZAR5YaoPmbZ8NwNDPKtusS1J7L0apvdawsV1iKN1bV0Ib4ujegeHKlxQhVJj4tbMwzvAh1PRpG89OX0x96NZYxZHbPrn6lZuZ3zDByEL/61d2wy3+bfxwM6tOwUOd6FrV/d+ACfBZj8WBKqfNJ4J60hJXPwukIJVwM/RSVXwokofiaXYqcHAMZDI+wsG3y6JM=;qV7fVq1nEqI1ECKmuL7WVg=="
+secured: "hIdazAMQ1UO/kd+ihp+gLwbP3sYdsRfH1Z5roxZ+lKZxRwcZMw6PgcGVHpyTZx8NiaZhwZ5fPXiN+/U+8VDgTvxsx4hmL5h9xuF6ffdcM0CcPx8QloF8WbGN0SQa0Hse9esVyNwHRjXJa+hrTsAjXGcaXuK6FITwAOURXE/i3JXM8rxZsfJnvuP6Zlic1GPEl3mOm8E7cHSpLka4KlIp3Sy7lWzeEoYpLN0m65bf7iO59aixTWRCke8+objikWfYhW+0vF8Pr2veWkcjs/DHCcYQC6/Nmgo8gYdlbCqAy8Il8e3fCCTjCXy7+bTT6D8/N8a6ulYzQW+9V5CXPlddfAIZRDbASSMcr8HXib6pnwfirdFLGBOJOGPONMpiI867sSC5VndM/THuH1wmkal6uHOpLo5A7nnpRv0LIGYhO/7jfWEXF98UrAYpOTCccyEll5AwFZ1eyl3Hj8YZRImEYifTx2HHgHV9A2gAI3X/tJ4Gvj7PKudX/AHQLflnwoJ3tgMpNz+warcTgVXU0SKM3w==;LFtsJoPO7qE64JcMA1eEMA=="
 ---
 

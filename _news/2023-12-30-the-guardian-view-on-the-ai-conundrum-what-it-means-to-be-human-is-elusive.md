@@ -3,13 +3,11 @@ category: news
 title: "The Guardian view on the AI conundrum: what it means to be human is elusive"
 excerpt: "Editorial: Over the holidays, this column will explore next year’s urgent issues. Today we look at the challenge to regulate science that seems to defy comprehension"
 publishedDateTime: 2023-12-29T17:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive"
-webUrl: "https://www.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive"
+originalUrl: "https://www.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive?ref=upstract.com"
+webUrl: "https://www.theguardian.com/commentisfree/2023/dec/29/the-guardian-view-on-the-ai-conundrum-what-it-means-to-be-human-is-elusive?ref=upstract.com"
 type: article
-quality: 55
-heat: 55
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/ccac4797cdb6cac6ea3e91228e06913788f78a37/0_37_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=b5ea16c791bd77c34848b7c2eeec0d2f"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "9x5trSGW2KO8gsqcNmN9IwFWk6fVEMLlYuBkxR5Wwfl1WL/o7OKSM/Zvr24UxdXy6IGcRDDzv44ZPVVcdxABDWvCp/103PHngvQefFM3TYY58BfLWZGz7DCrUI/0LP7t5x/y3Srb26ehQcjqJvZOB7wKmYRTlF6fX+jFwXb1M7FgiszQ/jqtQ/GBCs7bQum145FbYj5ESskvRsy7L9PEoczyCIjAClSy0FBsqYygqr/X6kf8/qdxryKjh1h1rcuLczIrvjnqfpQN7rCPVHzSUDNzdsP9FesWz/SAAqg4L58OV+W4VICd6HndE6xVLivJyZjPLdd53cDLfGqtdxTZCNGgkFdptnzuycDeX/tx7Zk=;GQ281uSliUHWlGpmCT9Pjg=="
+secured: "y0sEjrL/te0337ax1SZkHPGI2QJTuhRvFoEvaG6syXTK7DfTNBGU8BkY05zyWt1o3atYBnea0vUWwoMmoitntDeLH7gBJZzZ4AJAyL0pkPMxJUISrE0HvzQGPou2zZSgI0bHluI0zcHWTAWeWWga2smbG9A4ACVJBPvJT6NIaHQGnucjveSxR8FkHEusN6aeitAaCfZEQCQnH9NJ8Iss9wUxWFg0kvO2tzB4+yYWoEkUJpJckJrLtUlLiZGNDhdpUe9QnARd+WeG2U0XYFARp1GpWllu5077wVpg2OjpT4EK5eFTfn01o0dcInzvxUTnQvgNLCXFUS+Y/u6KfaUrVU7V+LRc9Ozk9vMhUxSLx222Rto7eONdLT5/RPOS3OzdmFho+zu3t6zgRa08MF0acZoU41EWpZU7okCx1eUe4uKFplmjpOiE5f9zf2+lnQx0Xv04lbnxMZPHs9QjWnfOpATjMJgNhPW0lQ8GK8O4qK9FvlqtXJseZxRniZMuk/O8R3gpuC3khygmXPljKFOETA==;rkIV5fzsYi6M7ttI3F/AsA=="
 ---
 

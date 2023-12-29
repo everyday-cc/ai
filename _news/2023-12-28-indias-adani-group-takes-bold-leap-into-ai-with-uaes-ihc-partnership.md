@@ -9,7 +9,7 @@ ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-
 cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 19
+  - title: "Adani Forges AI JV With Mid East Backer IHC"
+    excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+    publishedDateTime: 2023-12-29T14:30:00Z
+    webUrl: "https://menafn.com/1107669031/Adani-Forges-AI-JV-With-Mid-East-Backer-IHC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 19
 
 secured: "7fghyn5K9OMXskZROKD3n05m+M3zldADW7AxLbolBwTwEKuTi+xCIF2cmAk6jP6s4rQymGL6TnzktmOVf0bFPcblZ648JqFc1hwjxJuXdVrJAgtk6qkDv4DD/Fe/uBGD1PfYGTbJmf36oKRFZuFGUX1BDbe8eaTHsPMA/L1kTURu9SojF4ve4ePBlQpdBEMK9nj/RSAb0voxm0QE1kWA8J3tGO3s1LdePtSSRg8fsZSpNsdpcQCdhVYHxta1BuRWZYkzq8pc0HDGEQZiuldYCCQqttWB081SlEFlKMc+u66cYipadcQeOQTQV9KbZ0ERAqPAb7yMfxuS1sCyVmueaBBCr9M5kHCHxO5P82OjslE=;k2Aj6ZaIz7dp3ahSeaSnHw=="

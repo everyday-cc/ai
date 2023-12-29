@@ -20,6 +20,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Awiros and Intel Make History with India's Largest Computer Vision Hackathon"
+    excerpt: "Bengaluru, India - December 26, 2023: Awiros, a leading AI startup, marked a historic milestone by concluding India's largest Computer Vision Hackathon in collaboration with Intel. This ..."
+    publishedDateTime: 2023-12-28T00:18:00Z
+    webUrl: "https://www.livemint.com/brand-stories/awiros-and-intel-make-history-with-indias-largest-computer-vision-hackathon-11698752161898.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 16
+
 secured: "+C+U6VtO5+vOfvkgfS6KKNK8Q/C8FjujuwzYmT77ccSX98NxRfEXJhWkgJN8hitNgCnvSL1L2tBhsItfIgg0D6Bc3Zj9Ee4V1nY7MYSfnlWOYtGfyYQQ+RzncQXZtzGkHXcy5x/Vu7uCufid3/jwC64O1CF50lU0kt/gN1ld4NtUu14fuXIAtP3FjH0SVWFj+pM1NdccfZSpPB9nooTnxPbYkI3xMwIlz2ueH6+fDK7Sn7HfsoJ1qU234b5o1OjLMav2GhlQchXdEpy7couJN4EUi+EoACt1AEcF1jST44DTg9vsZOxqxXFPybYSK0H00f1P1HyCWJESlQEBnNrAEgnxbx341at6/i2WEN/sAjEC+D8Zin917Cql6bjXT9F2n/L1s8cdI1gTTYfUpSzGIxz0AZ6uQwWon1vK45qww/YNjhG7voVZynNr5u57j97lnGNZx8kAh4uY0viJw/IUAwP2hjAy8IIpBTr0r+gvi/whBprUamLK2rB/2XkEZ/zqjYBsg1Qq255nAX1z74Q87w==;n67AvpgVCwOUM8IhTcMdCQ=="
 ---
 

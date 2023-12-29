@@ -89,6 +89,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The 500 Top Stocks to Buy for 2024, Ranked by AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In July, I created MarketMasterAI, a powerful AI tool to help investors pick"
+    publishedDateTime: 2023-12-29T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-500-top-stocks-to-buy-for-2024-ranked-by-ai-1032933022"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "5 AI and Big Data Cryptos To Watch"
     excerpt: "Notable AI cryptos like Injective, Numerai, Render Network, InQubeta, Borroe Finance are currently gaining popularity in the decentralized tech industry"
     publishedDateTime: 2023-12-29T08:25:00Z

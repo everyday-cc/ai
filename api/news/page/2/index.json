@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-12-29-ai-and-journalism-need-each-other.md",
-      "title": "AI and Journalism Need Each Other",
-      "excerpt": "Without the information news organizations gather, artificial intelligence is garbage in, garbage out.",
+      "path": "_news/2023-12-29-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.md",
+      "title": "Artificial intelligence decreases barrier to treating ultrasonic brain illness",
+      "excerpt": "A research team led by Dr. Kim, Hyungmin of the Bionics Research Center at the Korea Institute of Science and Technology (KIST) has developed a real-time acoustic simulation technology based on generative AI to predict and correct the distortion of the ultrasound focus position caused by the skull in real-time during focused ultrasound therapy.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-and-journalism-need-each-other-nyt-lawsuit-fair-price-news-565d744d",
-      "originalUrl": "https://www.wsj.com/articles/ai-and-journalism-need-each-other-nyt-lawsuit-fair-price-news-565d744d",
+      "webUrl": "https://www.devdiscourse.com/article/health/2760312-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness",
+      "originalUrl": "https://www.devdiscourse.com/article/health/2760312-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-906097/social",
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_12_2023_17_38_28_0320392.jpg?width=1280",
           "width": 1280,
-          "height": 640,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T17:49:00Z",
+      "ampWebUrl": "https://www.devdiscourse.com/article/health/2760312-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/health/2760312-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness?amp",
+      "publishedDateTime": "2023-12-28T17:38:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,6 +40,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -465,7 +457,7 @@
       "originalUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -654,7 +646,7 @@
       "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -706,7 +698,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -962,7 +954,7 @@
       "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 122,
       "tags": null,
       "images": [
         {

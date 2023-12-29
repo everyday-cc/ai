@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The year of social media: Twitter dies, X and Threads are born and AI gets personal"
-    excerpt: "A little more than a year ago, Elon Musk walked into Twitter ’s San Francisco headquarters, fired its CEO and other top executives and began transforming the social media platform into what’s now known as X."
-    publishedDateTime: 2023-12-24T20:10:00Z
-    webUrl: "https://lasvegassun.com/news/2023/dec/24/the-year-of-social-media-twitter-dies-x-and-thread/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 11
   - title: "The year of social media soul-searching: Twitter dies, X and Threads are born and AI gets personal"
     excerpt: "We lost Twitter and got X. We tried out Bluesky and Mastodon (well, some of us did). We fretted about AI bots and teen mental health. We cocooned in private chats and scrolled endlessly as we did in years past."
     publishedDateTime: 2023-12-29T06:08:00Z

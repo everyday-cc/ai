@@ -1,0 +1,84 @@
+---
+category: news
+title: "Adani Forges AI JV With Mid East Backer IHC"
+excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+publishedDateTime: 2023-12-29T14:30:00Z
+originalUrl: "https://menafn.com/1107669031/Adani-Forges-AI-JV-With-Mid-East-Backer-IHC"
+webUrl: "https://menafn.com/1107669031/Adani-Forges-AI-JV-With-Mid-East-Backer-IHC"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Mena FN
+  domain: menafn.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership"
+    excerpt: "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations."
+    publishedDateTime: 2023-12-28T10:41:00Z
+    webUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/"
+    ampWebUrl: "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 59
+    images:
+      - url: "https://coingape.com/wp-content/uploads/2023/12/AI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Adani Group steps into AI joint venture with West Asia backer IHC"
+    excerpt: "Adani Global Ltd. and IHC's Sirius International Holding Ltd. will own 49% and 51% respectively in the Sirius Digitech International Ltd., which will be based in Abu Dhabi"
+    publishedDateTime: 2023-12-28T10:14:00Z
+    webUrl: "https://www.business-standard.com/companies/news/adani-group-steps-into-ai-joint-venture-with-west-asia-backer-ihc-123122800605_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/adani-group-steps-into-ai-joint-venture-with-west-asia-backer-ihc-123122800605_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/adani-group-steps-into-ai-joint-venture-with-west-asia-backer-ihc-123122800605_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Adani forges AI JV with Mid East backer IHC"
+    excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+    publishedDateTime: 2023-12-29T16:02:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/29/12/2023/adani-forges-ai-jv-with-mid-east-backer-ihc"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230215_1676486146-680.jpeg?1676486146"
+        width: 1000
+        height: 680
+        isCached: true
+  - title: "Adani Group forges AI joint venture with Middle East backer IHC"
+    excerpt: "THE Adani Group, led by Gautam Adani, has formed a joint venture (JV) with a unit of the United Arab Emirates’ International Holding Co (IHC) to explore artificial intelligence (AI) and other technologies,"
+    publishedDateTime: 2023-12-28T10:02:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/adani-group-forges-ai-joint-venture-middle-east-backer-ihc"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
+  - title: "Ambani wants Reliance to emerge as pioneer AI developer for India"
+    excerpt: "To supports its AI ambitions, in September Reliance signed a deal with U.S. chip firm Nvidia to develop cloud infrastructure and language models, as well as generative applications. In his year-end address to employees on Thursday Mukesh urged them to ..."
+    publishedDateTime: 2023-12-28T08:47:00Z
+    webUrl: "https://www.aol.com/ambani-wants-reliance-emerge-pioneer-134742347.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+
+secured: "DiPaCL156sHW8pDkHiBYa/MN/ReKhvifxlqlmI6yAITP+6WqQlIdGcYqiAbn1er/CPDXJmIcnn2YI2AX+KOveoQPBKX4a0yJObccPouRsKdBnmgogSwDw/t6k4uhZDwyn+wePZ+RAcLavRJP8JWf9RDKhD3QSzpHNgzeznbHQbXvxK6o1fZPWFzRBEQPvi70FsMzF/3pESTqgQT/2jwJzFlUTpvxAihmHiLwszKiMPNxkAcoPoNt9N0J8H8bcCRHJTKwxxh2X//mwA8cGG0hU5w0IwkFsajFr9cIjwaa/GG3zM3y9h5KkHf3QxNdcPGduvRYjW6gemxhYNgZ7OCXyGcuoDHBg8oZ9GxY2XZjlrQQHYjogwOKSDjwX8/sGpkFKhgeAErXGGWt+abU6gzQEH685DOWaVyksNZVI71rZtF1GYfP9rwnZqmZ76ZLM8+pGEBiOCR8HuFGUukUlNy7uB5kaH4nUrlJJcDAnWpJOygMOU+cjearwp5yDnxekfxLaRhWg3OqhQUDLhoNCScnVg==;VDJN9GIpupOSY2604jfi4w=="
+---
+

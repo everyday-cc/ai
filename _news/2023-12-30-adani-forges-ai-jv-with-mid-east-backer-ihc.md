@@ -70,6 +70,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
+  - title: "Adani Forges AI JV With Mid East Backer IHC"
+    excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+    publishedDateTime: 2023-12-29T14:30:00Z
+    webUrl: "https://menafn.com/1107669031/Adani-Forges-AI-JV-With-Mid-East-Backer-IHC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "4cx0GIf7vOiO58t0DR1EHpg+q2OxvvQObs5S8WlaVjod841Lu3PH4LmR5oSNwtV/l/sSsHujGfvWR2Rxva2/f9b3N25jpKhnqk5jJJJKPdp5Q33aNHulmsQHblYbBoZZYFkdPTN3cT/FO8inoYRxfvSVsDLxSLwLEg4a6NE8/N/YPwC9XYJon5pJJ+jIU48TTGyyjdyT7IAz/dcJEzTtFISS61IR1KXHJcBOFl6L6gLyra85TcrsSaf+1u63xbNMZDNUqlqCKFXQfc6lUv2STAMfyD1OMRtjNJn+ex1CDXYKWo/vBwlHRga9sbMu06qrAtKG1fGAwFu5WnztIez+ZBP+NXIf2me7jnoMqwhi6ng=;7AXoIdfrv+cniD+vQmBtLA=="
 ---

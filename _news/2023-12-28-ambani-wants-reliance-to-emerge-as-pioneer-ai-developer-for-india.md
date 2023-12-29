@@ -69,6 +69,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "Adani Forges AI JV With Mid East Backer IHC"
+    excerpt: "Both partners will have an equal representation on the board of new entity which will also explore Internet of Things and blockchain besides AI, it added ... opportunity across areas including Fintech, Healthtech and Greentech, the filing said."
+    publishedDateTime: 2023-12-29T14:30:00Z
+    webUrl: "https://menafn.com/1107669031/Adani-Forges-AI-JV-With-Mid-East-Backer-IHC"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "/c4OlAeXQhYes3mVa4U1Ca8zUAMLGTe/TNSjVVM3Pvr2eRT9VjMbp2VHGxAhaW05rOgn5KLzXJIxDCHT8JiCNoCR7m60GHPo9g29FygggJLFVTmdJ0I2P7I2mr8IP7dvSN1bQuryFFHFyODzA4fHf565foN/g0VeX9kPXNhyqJDuVnH5fZ50p5+U40Idjpe6r6UsDP7ZTvp8ILZvMVhPR678xnkdg2w3nVqvRzTg955liTFETLoWuQzeNSzPDv9VLprVW/PClWuJlp9vpMW6PTbdAruEA5OeT0LzL5GI9DS+Nzn/7BvAEKV3Wx0zjxj0L1NwEjqRfrHNUWlTmAp7U65eKgVVJFU/D//oI+WAdMfktJ4/+8jjIkv5HcyqNBDwRkKrUUNEigIpg/D567x7nxqYNHcxLAViUKA6ghi66ZfH7xgrFPojQbNIAOoSvYK5J78IXP5S9RyPP4W8jJlkckEioDf+dvTDZ+q+bGL0gd6ZsABOa03BKnEBO3al0zl2a5uMJSB3DLRnlL+vm9qtaw==;tUzMQxTBH928lXwJ/WHuGA=="
 ---

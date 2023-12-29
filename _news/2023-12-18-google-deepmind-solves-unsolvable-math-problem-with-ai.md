@@ -3,8 +3,8 @@ category: news
 title: "Google DeepMind Solves Unsolvable Math Problem With AI"
 excerpt: "Generative AI tends to make things up, but Google DeepMind has devised a new LLM that sticks to mathematical truths. The company's FunSearch can solve highly complex math problems. Miraculously ..."
 publishedDateTime: 2023-12-18T00:00:00Z
-originalUrl: "https://www.extremetech.com/extreme/google-deepmind-solves-unsolvable-math-problem-with-ai"
-webUrl: "https://www.extremetech.com/extreme/google-deepmind-solves-unsolvable-math-problem-with-ai"
+originalUrl: "https://www.extremetech.com/index.php/extreme/google-deepmind-solves-unsolvable-math-problem-with-ai"
+webUrl: "https://www.extremetech.com/index.php/extreme/google-deepmind-solves-unsolvable-math-problem-with-ai"
 type: article
 
 provider:
@@ -16,6 +16,6 @@ topics:
   - AI
   - Math for AI
 
-secured: "HJyXIu3T+m/Tp9BYEQbZ1OKH/OXDAsnmHle9azdR2/9gH2REL2tskvNVBN6zubaSf28+qItPEd+iwjP2a+qEtFDmYIxg7J7uY+1ucezn8zc1hyBP39K1D2oSisUws2KoKNLoyl/eIYC+JKZsQj15UgBDqoGPdPkh/N1K+OTWqHP7WHRlnyyQlWx+VHQtAwclRIH0m3mjrTsOkdeo5kS+a2RRTeUquKi+TP2MybdDI9ebDuscQcdb2oUzmJu2fuoDxvcN56BlSgaio9kJkuXiZ7yHvNzjbQvbUWlPpwZWtzIWxEFbMSDtiptTYbb9/0SuZiq/WDcB5d3Kb6KPOjFWptcbTH4YGJW6iSeLwZXZx/E=;3cRN2jqvi+bSiHePZ/t58A=="
+secured: "SQORTT4g8DZJkCgEYSBpGLhNYTd6EWwjyVE5whNggJq9h0tQyXjuBeMFwzWKI8JkWp3If6sXQEf670qWJ8CFCUOl3lP9n1nP7yYmf3BIm78DBsDG/EEdMk0qaRrYYqS6NCuq8r1C2bEK6+fkmPr9hGCCPZUuZ3gMExx7HdlzvbEuF3TlpXsJcZ42ukDFAN60pIxeLYXoqExljwcOgx/9oiuKPT1j7gaDh2URWHCsYxXdoMzle56h02msGCNqkwjqoIo/YEQ9n8H1uNRcsc1Rqk024KJEUslFeKR3IQpNxJAFdujtmq10TGePsZS//7Z4USsZBpznExsWlPhv2lScY/RRuFgIi5q1A0qacqtUUuY=;tDwCbzaMWhPbS1D+hMDiLQ=="
 ---
 

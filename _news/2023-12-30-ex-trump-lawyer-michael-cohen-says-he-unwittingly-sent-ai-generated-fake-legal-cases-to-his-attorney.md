@@ -1,30 +1,40 @@
 ---
 category: news
 title: "Ex-Trump lawyer Michael Cohen says he unwittingly sent AI-generated fake legal cases to his attorney"
-excerpt: "Former Trump lawyer and fixer Michael Cohen says he unwittingly passed along to his attorney bogus artificial intelligence-generated legal case citations he got online before they were submitted to a judge in New York."
-publishedDateTime: 2023-12-29T18:42:00Z
-originalUrl: "https://www.local10.com/news/politics/2023/12/29/ex-trump-lawyer-michael-cohen-says-he-unwittingly-sent-ai-generated-fake-legal-cases-to-his-attorney/"
-webUrl: "https://www.local10.com/news/politics/2023/12/29/ex-trump-lawyer-michael-cohen-says-he-unwittingly-sent-ai-generated-fake-legal-cases-to-his-attorney/"
+excerpt: "\"Instead, I understood it to be a super-charged search engine and had repeatedly used it in other contexts to (successfully) find accurate information online.\""
+publishedDateTime: 2023-12-29T19:21:00Z
+originalUrl: "https://sentinelcolorado.com/nation-world/nation/ex-trump-lawyer-michael-cohen-says-he-unwittingly-sent-ai-generated-fake-legal-cases-to-his-attorney/"
+webUrl: "https://sentinelcolorado.com/nation-world/nation/ex-trump-lawyer-michael-cohen-says-he-unwittingly-sent-ai-generated-fake-legal-cases-to-his-attorney/"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: Sentinel Colorado
+  domain: sentinelcolorado.com
 
 topics:
   - Meta AI
   - AI
 
-images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WNNJUALMOFEVBERGIIJ6HKRHHE.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
-    isCached: true
-
 related:
+  - title: "Michael Cohen used Google's AI to research legal cases to cite in his appeal. The AI hallucinated them."
+    excerpt: "In a newly released court filing, Michael Cohen admitted to using Google Bard to research court cases, without realizing the chatbot made them up."
+    publishedDateTime: 2023-12-29T18:52:00Z
+    webUrl: "https://www.businessinsider.com/michael-cohen-used-ai-chatbot-to-find-bogus-legal-cases-2023-12"
+    ampWebUrl: "https://www.businessinsider.com/michael-cohen-used-ai-chatbot-to-find-bogus-legal-cases-2023-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-used-ai-chatbot-to-find-bogus-legal-cases-2023-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/658f0968ab6f2ebb11f7cbfa?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michael Cohen Used Artificial Intelligence to Feed Lawyer Bogus Cases"
     excerpt: "Donald Trump’s former fixer had sought an early end to court supervision after his 2018 campaign finance conviction. He enlisted the help of Google Bard."
     publishedDateTime: 2023-12-29T16:55:00Z
@@ -39,7 +49,55 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Michael Cohen Used Artificial Intelligence in Feeding Lawyer Bogus Cases"
+    excerpt: "Donald Trump’s former fixer had sought an early end to court supervision after his 2018 campaign finance conviction. He enlisted the help of Google Bard."
+    publishedDateTime: 2023-12-29T20:03:00Z
+    webUrl: "https://www.nytimes.com/2023/12/29/nyregion/michael-cohen-ai-fake-cases.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 66
+    images:
+      - url: "https://static01.nyt.com/images/2023/12/29/multimedia/00ny-cohen-pfht/00ny-cohen-pfht-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Ex-Trump ‘Fixer’ Michael Cohen Admits He Accidentally Used Google Bard To Put Fake Cases Into Legal Filing"
+    excerpt: "Mr. Cohen is not a practicing attorney and has no concept of the risks of using AI services for legal research,” his attorney argued."
+    publishedDateTime: 2023-12-29T21:06:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2023/12/29/ex-trump-fixer-michael-cohen-admits-he-accidentally-used-google-bard-to-put-fake-cases-into-legal-filing/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2023/12/29/ex-trump-fixer-michael-cohen-admits-he-accidentally-used-google-bard-to-put-fake-cases-into-legal-filing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2023/12/29/ex-trump-fixer-michael-cohen-admits-he-accidentally-used-google-bard-to-put-fake-cases-into-legal-filing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/653953ba5f74cd3a49d34719/0x0.jpg?format=jpg&crop=2277,1280,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Michael Cohen Says He Gave Fake Cases to His Lawyers Thanks to AI"
+    excerpt: "Michael Cohen, Donald Trump ’s former attorney and fixer, claims he unwittingly gave his lawyers fake legal citations generated from artificial intelligence for use in his case, according to newly unsealed court records."
+    publishedDateTime: 2023-12-29T20:01:00Z
+    webUrl: "https://www.thedailybeast.com/trump-fixer-michael-cohen-says-he-gave-fake-cases-to-his-lawyers-thanks-to-ai"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
+  - title: "Michael Cohen says he unknowingly cited cases made up by Google AI software"
+    excerpt: "Trump's fixer-turned-legal-foe said he misunderstood Google's Bard to be “a super-charged search engine” when he forwarded non-existent case citations to his attorneys."
+    publishedDateTime: 2023-12-29T20:41:00Z
+    webUrl: "https://www.courthousenews.com/michael-cohen-says-he-unknowingly-cited-cases-made-up-by-google-ai-software/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 17
 
-secured: "l6KJT3tkNg7isAng6bP5KQZxlZEkISopqcalCoZrSW20mXIHcm9MDhO8vYccA33cjzrFnBp0lcR1MJPw/f0V2wriAU2UV0vGTDNyrFLQINAZ6dHvDU2mtySVBwbHiCPcFe77O2Edu0Yy9pi6m7tmtrUk3mvDn+8K2uz99Xadu11iAevIq4LcM/4B7OhUVXAqRE374bavSzAT8tfH2bANeKO22M8JnzOLkFSNjel+H9Clw0qL5PGKFYHp37tlgk3nHI5p1FXtnd1Q+AEh9bw8v6xkS9iZCVw+4i2Oz4eUpwkMY39KsFG2cetmEeUXkPtbqzuQvK8QRa/U+XeTgfXx5h68K97mUHq/ETyefKGHcGw=;0zrxEt6kMP0heU/0m7uyqA=="
+secured: "K/Kuw/rEheNGef5QrnjFQC+S3mQ7Ln5WmwUKc8aydKmRJ7JcAHWcPhFlkAkQhuBOGqWUhVISEkEap34hcgTmf9NVPfSeS/99N0zlqGSBoad72XEhHMuVBWi22c6WN/iDZqCXQKOv2QWOWLownK0YgJPwihMG8ZRccbs3pvH4eaGLhcKhSaPk0R0Vc09bqfkQtcsLrcQNewVLDDelp/YL0UusHUjsZn6ClOPJrWIOcaQP9MOKg/T5iN6Lr8sIeVBsZ2/eOzLjYrl8Pw9bfCo2tsqRaeQTKT0BF+hxX+X79/55pbC6PLjH8r432k5wQRRU0mIgORdV1+sAjmsaaDpLuOOrN7hgSLLaJ6SpS0/zN0hExVdl+jDHAxQL2s/SflFql3YVlIBZT0+vlAulgMw1PoYLyttbyTGI8NooUZn+KCzLSCkn8FIcEy7xpomEljDUB9LGZFsrhMZeIPsNJXqdlm3vColt7ARdvkb6VMQEu9wh5jsVjpcy+EGutcorJ06cfs7vEwyHFEoSDLty2maNDg==;qeGcFmM+hIsFXlnnKJFqzg=="
 ---
 
