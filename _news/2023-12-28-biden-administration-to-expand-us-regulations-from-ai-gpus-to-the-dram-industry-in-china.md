@@ -49,7 +49,7 @@ related:
     provider:
       name: komonews
       domain: komonews.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
         width: 986

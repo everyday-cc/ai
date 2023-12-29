@@ -41,20 +41,6 @@ related:
         width: 1272
         height: 900
         isCached: true
-  - title: "Nvidia closes in on chip revenue crown as AI booms"
-    excerpt: "Nvidia holds a high market share in graphics processing units (GPUs), which have become vital to AI by providing the computing power for machine learning."
-    publishedDateTime: 2023-12-24T01:05:00Z
-    webUrl: "https://asia.nikkei.com/cms/Business/Tech/Semiconductors/Nvidia-closes-in-on-chip-revenue-crown-as-AI-booms"
-    type: article
-    provider:
-      name: Nikkei Asia
-      domain: nikkei.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F4%2F7%2F6%2F47036745-5-eng-GB%2FCropped-1703325780-03-06T202225Z_1660679185_RC2KOZ9GBPLB_RTRMADP_3_NVIDIA-RESULTS.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "AI chip rivalry heats up: Micron and Intel challenge Samsung, SK Hynix and Nvidia dominance"
     excerpt: "As the artificial intelligence (AI) chip market gains momentum, major players are strategically exploring new avenues to capitalize on the growing opportunities. Companies like Micron and Intel have launched a new wave of initiatives,"
     publishedDateTime: 2023-12-28T06:45:00Z

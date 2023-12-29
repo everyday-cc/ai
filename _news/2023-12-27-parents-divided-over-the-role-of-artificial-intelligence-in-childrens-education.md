@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-26T23:21:00Z
 originalUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
 webUrl: "https://komonews.com/news/nation-world/parents-divided-over-the-role-of-artificial-intelligence-in-childrens-education-national-parents-union-survey-poll-public-school-k-12-homeschool-ai-chatgpt-development-mental-health-technology-science-pandoras-box-openai-information"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - AI in Healthcare
 
 images:
   - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"

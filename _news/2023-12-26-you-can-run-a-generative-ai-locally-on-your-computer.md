@@ -70,21 +70,21 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "How generative AI is changing social media content"
-    excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
-    publishedDateTime: 2023-12-24T01:07:00Z
-    webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
-    ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
+  - title: "Using generative artificial intelligence as a financial tool"
+    excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
+    publishedDateTime: 2023-12-26T13:00:00Z
+    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html"
+    ampWebUrl: "https://www.aol.com/amphtml/using-generative-artificial-intelligence-financial-110001948.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/using-generative-artificial-intelligence-financial-110001948.html"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
+      name: AOL
+      domain: aol.com
     quality: 59
     images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
-        width: 700
-        height: 400
+      - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
+        width: 1200
+        height: 675
         isCached: true
   - title: "3 Semiconductor Stocks Set to Capitalize on Generative AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor landscape stands on the precipice of transformative"
@@ -95,20 +95,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Using generative artificial intelligence as a financial tool"
-    excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
-    publishedDateTime: 2023-12-26T13:00:00Z
-    webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/KPerWTOu1xFdHKUs90G1Xg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/25182f49ee30b9b28f01647e1c154bf4"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How This Startup is Making You Eat Healthy with Generative AI"
     excerpt: "Tushar Vashisht led Healthify is working with multiple foundational models to build Ria 2.0, a generative AI powered personal health coach."
     publishedDateTime: 2023-12-27T09:39:00Z

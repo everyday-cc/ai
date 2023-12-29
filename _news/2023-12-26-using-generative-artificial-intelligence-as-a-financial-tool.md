@@ -3,10 +3,12 @@ category: news
 title: "Using generative artificial intelligence as a financial tool"
 excerpt: "Discover the rise of AI in financial planning. Learn how this technology is reshaping the financial planning industry for both consumers and advisors alike."
 publishedDateTime: 2023-12-26T13:00:00Z
-originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html"
+webUrl: "https://www.aol.com/using-generative-artificial-intelligence-financial-110001948.html"
+ampWebUrl: "https://www.aol.com/amphtml/using-generative-artificial-intelligence-financial-110001948.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/using-generative-artificial-intelligence-financial-110001948.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -70,22 +72,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/AdobeStock_621371321.jpeg?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "How generative AI is changing social media content"
-    excerpt: "Despite the opportunities available for content makers, who wish to adopt the use of AI, some experts have expressed concerns"
-    publishedDateTime: 2023-12-24T01:07:00Z
-    webUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/"
-    ampWebUrl: "https://punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-generative-ai-is-changing-social-media-content/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 59
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/12/24011912/AI-SARAH.jpg"
-        width: 700
-        height: 400
         isCached: true
   - title: "3 Semiconductor Stocks Set to Capitalize on Generative AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The semiconductor landscape stands on the precipice of transformative"
@@ -157,6 +143,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "3q+KTVTLkVJQvBG/kE0OZDN+Wcu4Kdm41VQLWzBcN3ZrSAKaZeEcHrWV5vyB5e+MkUZ7TIKlDDHXV9Bq6+85uL16o+5l0kk3CfwBeE10ppfCHDZ4kFXtv+GhHPy8ycwp2IxIno7P1I5RCcq7b/3FM8dxyS/PtOAA2um8ztpQPfK0r01AL77WAvbnzRn5DhgC72Vyx4g8aNPdkMuspiHoZ93WoJzQd43RK4GgAHQU1lvriYhx62HceOpXPoykWM55svJkzNG5UkVTbEqHa5ADcchzzVidKmSB2UJLJFZizkRCMqIFfLQst1VEKOWN/ECjHdBHHQMfDGuhamnzhMO+5eY1JSuXPLcu1idunuskxd4=;JALdQeKGgfsMomcOH1pU3g=="
+secured: "TFKhE8AlnYL93SLAJcHwUy/RtcMsBwg9ZIw1qhrFJZzX6a68dWBs0YNt1l8gOPkr8EqOE6zo1SRiufBDRQX3x7MWc4fOfQ8J9kvePCc6kvD3oy6QoHV6iXQ9Dk0plpT1FVBrybWtxWsMkX7+L0X76EjFcXTx7WUoA+XjYU4vGLIoMyDzyEMfo9kJeroXc6a8++y3rlGbqxQRQlqrHRMY00ghEiL5uvgSS+WxOuoH5pwp88f/AwaW3HX7KsYTpHd+dXnJ2wYqkL/BVewc/QeU+koEWmJiUIgntJVys2658h5ifWoFNXgG33O1rOIOhQ7+yPPWI1sKbj/VLqPoFaTHe8dURlHX7FfZwLiLtS1snrw=;Z72OBNUJn4m2oPyxQHmi3A=="
 ---
 

@@ -74,6 +74,6 @@ related:
       domain: techxplore.com
     quality: 4
 
-secured: "iKPGbtEUlsabF+FBo+BQadlfRf2ZdC8alyJS+e5aahiVrCLdyY2mbmDRPogVzvfVUdpv/du90ROFabOrd0rQUkk+6Pnx3QRYDbtxpm3ZodZvcNYdlRGcNChHWSFYTuRge/L6dCVbcaoG8k7IhzzwVqmjuLYB/wczGIRQfUWx7HzdpE9AKdY+IomXdnfanUuKdShXf1Ahq6Q4qUJ8zRAGYU0+0h0rt75PHkbM6/3BLjkFekhsoMVwS0gHLZxXV+5Gpr023rjEVgr/mDAXAalC/IOhTAoLzQPn+0AzoUtbdDNir5wBE8G3aqfSh0ctWXMO6pbcMYRo1BAs9f1HeEfVn5SZlwGcoT/zd0grIBlquiQ=;SERaUpRqvxG3qQie9s2GiA=="
+secured: "Gc6WLlZShXuQ2/CKQ6LMZGIFk5VIY/LtplVLIvgdLEr9sdQOSL25kZUb5BloQ+LHZ/Qsd80F0sudtWtP6GkcXJbzlAfILe8BSHmmX1UHLsQfxO89/g6DXHXoRlMq74qMD6wm5Brdb7RHDj/tIb2KyMvJXMJYveYwuP3D6As3GED0yzmKGLoFG7IuXz/+z8QxCo2U+YvtR3kPO4QcCtjoiL6gZfwVHdR+diBLKo3Yk9SN0rvlLLLkfO0Y6kaUzbfocV2D1fn9WUvbPf8tYWDqN1ARIcLnFRdG/Y3z0tdkya0PCdPgukyisFyuPiIHLUzzXBo6jtfgynuFTLL0+/+xHy68V16BMjBqzaQJwnAKAhI=;oamX3FaaaMunpzzTUPyP5A=="
 ---
 
