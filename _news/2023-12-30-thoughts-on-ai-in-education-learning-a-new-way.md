@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/thoughts-on-ai-in-education-learning-a-new-way/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://komonews.com/resources/media/db9eb5f4-9d65-4baa-8274-10fc89aeb292-large16x9_AP23031602089846.jpg?1675209762791"
         width: 986
         height: 555
+        isCached: true
+  - title: "Retrofit AI and automation: the future of construction and mining"
+    excerpt: "Join us as we explore a future of safer, more efficient mining and construction with SafeAI's autonomous vehicle retrofitting."
+    publishedDateTime: 2023-12-29T23:34:00Z
+    webUrl: "https://interestingengineering.com/innovation/retrofit-ai-and-automation-the-future-of-construction-and-mining"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/29/image/png/W8laflTW1ORN1ETJPM0JrpwQIAjvVWyenu6gVcJF.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "From connection to contention: How AI curbs access to information"
     excerpt: "Algorithms, emerging search engines, and artificial intelligence are taking control of information we are bombarded with daily - Anadolu Ajansı"

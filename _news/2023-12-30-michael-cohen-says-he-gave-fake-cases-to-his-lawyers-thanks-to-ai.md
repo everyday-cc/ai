@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Michael Cohen Admits He Sent Fake, AI-Generated Legal Cases To His Lawyer"
+    excerpt: "The former Donald Trump lawyer blamed his own attorney for failing to check the cases before submitting them to the judge."
+    publishedDateTime: 2023-12-29T23:39:00Z
+    webUrl: "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137"
+    ampWebUrl: "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 86
+    images:
+      - url: "https://img.huffingtonpost.com/asset/658f1e922200003200ad4169.jpeg?ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Michael Cohen used Google's AI to research legal cases to cite in his appeal. The AI hallucinated them."
     excerpt: "In a newly released court filing, Michael Cohen admitted to using Google Bard to research court cases, without realizing the chatbot made them up."
     publishedDateTime: 2023-12-29T18:52:00Z

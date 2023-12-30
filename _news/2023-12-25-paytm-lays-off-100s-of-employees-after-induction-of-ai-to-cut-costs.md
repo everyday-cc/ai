@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/paytm-lays-off-over-100-employees-af
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/paytm-lays-off-over-100-employees-after-induction-of-ai-to-cut-costs-4738491/amp/1"
 type: article
 quality: 59
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -172,20 +172,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/m-10.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
-    excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
-    publishedDateTime: 2023-12-25T00:00:00Z
-    webUrl: "https://www.deccanherald.com/business/companies/ai-is-here-for-your-jobs-paytm-lays-off-1000-workers-amid-automation-push-2824413"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 37
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2F26cf37d2-2f4f-4c59-b856-40cf944f9cdd%2Ffile7ic4u44g2s6ulg4iolm.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Layoffs at Paytm as AI solutions deployed to boost efficiency; shares down"
     excerpt: "Paytm says it’ll save 10-15% in employee costs with AI-backed measures while hinting at more layoffs in coming periods"

@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 750
         isCached: true
+  - title: "How Some Experts See The Future Of AI In 2024"
+    excerpt: "Varun Badhwar, CEO and co-founder of application security startup Endor Labs, predicts where AI will go from here. \"Right now, the world is at the intersection of AI and enterprise control,\" said Badhwar. \"Malicious actors will continue to explore using AI ..."
+    publishedDateTime: 2023-12-29T21:17:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/29/how-some-experts-see-the-future-of-ai-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/jenniferkitepowell/2023/12/29/how-some-experts-see-the-future-of-ai-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferkitepowell/2023/12/29/how-some-experts-see-the-future-of-ai-in-2024/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658f3b02712b4ad9193f1399/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1239
+        height: 826
+        isCached: true
   - title: "ChatGPT In 2024: Top 10 Things To Expect As AI Advances"
     excerpt: "As the artificial intelligence (AI) technology improves, we will witness a more advanced and user-friendly version of ChatGPT which includes improved conversational abilities, multimodal capabilities,"
     publishedDateTime: 2023-12-26T23:30:00Z

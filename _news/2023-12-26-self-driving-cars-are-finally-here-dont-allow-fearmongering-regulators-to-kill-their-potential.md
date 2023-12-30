@@ -3,25 +3,25 @@ category: news
 title: "Self-driving cars are finally here. Don’t allow fearmongering regulators to kill their potential."
 excerpt: "The bigger threat, as usual, is overregulation. Delaying self-driving cars would cost thousands of American lives."
 publishedDateTime: 2023-12-25T20:24:00Z
-originalUrl: "https://www.ocregister.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/"
-webUrl: "https://www.ocregister.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/"
-ampWebUrl: "https://www.ocregister.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/amp/"
+originalUrl: "https://www.dailynews.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/"
+webUrl: "https://www.dailynews.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/"
+ampWebUrl: "https://www.dailynews.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/amp/"
+cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2023/12/25/self-driving-cars-are-finally-here-dont-allow-fearmongering-regulators-to-kill-their-potential/amp/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: Los Angeles Daily News
+  domain: dailynews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2023/12/OCR-L-ELECTRIC-CAR-1231-05.mr_-1.jpg?w=1024&h=785"
+  - url: "https://www.dailynews.com/wp-content/uploads/2023/12/OCR-L-ELECTRIC-CAR-1231-05.mr_-1.jpg?w=1024&h=785"
     width: 1024
     height: 784
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 784
         isCached: true
 
-secured: "k1GmtkKthoxJo8Q+v3IkRpCVLxKp4q1579LCOUy86hqYyxmWD/Ka+lJDi8gTJcp6RR52j3GQdRnlUtD1oi1MihF3OJ6Wn0f1Skk8Akpg06BkZN6EzIl1G/ejQ3Xy3IQFv7bvKTS0af8lxo1+vz+gguMglWDTslEPWOOfUMUsK/zthR2GwZ6cZpcltSJM1KYTxq36UzPU28ZyPnO/+IhuLcpFEzUVJmScHksNbCeYj1kj0RcAXQfH8HpyM06IQaBtvybB/tTHnAfmx29VCxn6fJ81sNIAoA+XtrMClbkLVCA3NLICJ3BWtUE24I2IKqot1wnSyK7wbmwPxzkhJevw2bCtURgWwUt5ewxA5UwyaTs=;XwdwN3t/Y/GBYqkwoY7tyQ=="
+secured: "gEeMkn+2okjoiUEbIGBSggiSw2lim0pE8DV1yHQ900+yoamY6U1gU2IkLHMoJryyn+nX6duMFcRPYV4cM8gBpRBoQ2i2zazqYgRKG+zR9NkUXtGk+3O7WlxDaRX5c8/FJMwz52Lh7cdxDHPKOSTwSJhyfxZ63HR/4+mys57vWPXsr7+vmwAn//I7zDj3N/oIBAwTlFZp6wpL07B4mhwl4AAxiYpdSNQEvSfC8dHHzMCXrGe6/kmu2FmdKG+0A+uNffgDD0I7O7uYmvcbS6IKePAvyRac3IdBLZwHhBgfBHWwn8FP8pnx5NF/lShZaqxjHeAB2EU5WozaxZJc6OH/2oJEQv8MITsOzqUj8F/9dho=;Y2zRtd9p88lwGQ4qdrFbdw=="
 ---
 

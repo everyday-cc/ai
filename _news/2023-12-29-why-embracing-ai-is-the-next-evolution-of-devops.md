@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embrac
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/29/why-embracing-ai-is-the-next-evolution-of-devops/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

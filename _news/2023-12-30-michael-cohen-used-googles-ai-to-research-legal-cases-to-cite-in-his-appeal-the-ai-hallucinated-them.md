@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/michael-cohen-used-ai-chatbot-to-fin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michael-cohen-used-ai-chatbot-to-find-bogus-legal-cases-2023-12?amp"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Cohen Admits He Sent Fake, AI-Generated Legal Cases To His Lawyer"
+    excerpt: "The former Donald Trump lawyer blamed his own attorney for failing to check the cases before submitting them to the judge."
+    publishedDateTime: 2023-12-29T23:39:00Z
+    webUrl: "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137"
+    ampWebUrl: "https://www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/michael-cohen-ai-fake-legal-cases_n_658f1e90e4b03057f5cd3137/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 86
+    images:
+      - url: "https://img.huffingtonpost.com/asset/658f1e922200003200ad4169.jpeg?ops=1200_630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Michael Cohen Used Artificial Intelligence to Feed Lawyer Bogus Cases"
     excerpt: "Donald Trump’s former fixer had sought an early end to court supervision after his 2018 campaign finance conviction. He enlisted the help of Google Bard."
     publishedDateTime: 2023-12-29T16:55:00Z
@@ -102,6 +118,6 @@ related:
       domain: sentinelcolorado.com
     quality: 4
 
-secured: "94U8OTnDu1MwUyN8RU4shchDK/FIg/Q26hnM8n5mbkcSJfyNAv9YXQcb8JFJRNBopAFV6F39as4/zPNvJCCAqcYTeMEECKXNy4PuglnC9vlm6GVQ+7qWudbqdsRgGx209hlX+mH4YV1te/lQevZE7KJNPzE/uDRfXbKGNdhXYGnxePT4Xo0mrheBarVlFLTSOZOI62TvE5Pm8PKuXIERNLv6i6op95ryW+ut5UhEb+hpsFT8CxsrTaFXAS2EN7Ry3gmwB9FUXkc9z5+D/j5Ld6qgXaW8SRhWgpyLXmNgVMoAgLFtd7Qd4R82hkQc7AdFqbZaP1q9TUk7WB9JdaFAJ2vuxnV2fJXPcr2nRTCHa+I=;xMxdWX64ZEsYT4ja7XVfLw=="
+secured: "VJzXsu6DF4NXbUMrvpYFgqUgc1a7XNs1HrUtEzVFdQLKPuRdg5uYTOTteErtIbkbZs5nN7OdtxGkHenpSvfygFtvs//lUioWsGoyy/U8ndW98HnewRL4IHXpsf9JUSYOsSuHDsIod8lx0BYP3UnYTfkhEqRQNO6DzlBfU+90PPA+foLE4f0yyBD49eDfpjwvZ5tKceOyXkwXQhrxSvPWKZKUNuoJCeazS5DS+xEeRf3igppJo2hbc1nXlbVfh1E7/197szxDLPhRjzSA9DrQFA3CK/ZHZawQZ0KMw3O17PbWfwtttjSbR0dc+SnTrp7HseD3q72MgEAr4ie1rb5ZfFL89qpPnz/AU+IwYD98x0BdYklerYsY4IybRZ6uJGAI4jdcGoiOHkL+0USwdr+e1UHOaycT9GU2vS65fc8IpgEcv6TjgxJ6t+PI/6FA6rDYGH5v87ao/nq4rEPdD3SUY2ch/rjpMmzppqJ6FT1LKK2uaBZOi/FTlsxJjcb+6DynwcrsJ+3LgOKjfl9uQJtnYA==;ys5L50vXHpfCI2fZbaaftw=="
 ---
 

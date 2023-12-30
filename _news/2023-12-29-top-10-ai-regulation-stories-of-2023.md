@@ -6,7 +6,7 @@ publishedDateTime: 2023-12-29T05:00:00Z
 originalUrl: "https://www.computerweekly.com/news/366563675/Top-10-AI-regulation-stories-of-2023"
 webUrl: "https://www.computerweekly.com/news/366563675/Top-10-AI-regulation-stories-of-2023"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-ML-artificial-intelligence-machine-learning-brain-Elnur-Adobe.jpg"
+    width: 1200
+    height: 400
+    isCached: true
 
 related:
   - title: "AI, aliens and giant poo piles: Weirdest science stories of 2023"
@@ -48,6 +54,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SfqlBo2gyE/kF6Dc77lMtJKP9ikdi2f/yOJEmOq9fsZmcz865qbUFcv3wtU/VGuB/cVOqs+/hAIFe/PbRFXvAhu45DmA4LFp+y12ALXRwEd9HWowXrFDENsxoN/azxRhzPBzvNUqrKoggEAamcqyepLA/Tx/4GkuAw3KUro0RI4dsQLDtNoVhF3ZUXqMeYMgqpqtHgyQKZSgXuwcLQskweOCSurSWNGuuR+uWrWzj48ayFAs9xddd6+yH+/vSvHjKqo4VKMM46y77h/DMsesY+jkntEaTWNH56gXoE8bW+2qlBQ0p2kAsoK0bnj3TEBIJgh3o8kx4Bm2V9HMSLO/sVFKuTMpZtD6OWW2iTCIQZg=;NK1XxhVdFQ7V3L935NjOBA=="
+secured: "XAAnWQwu8rk7fxoFRox5RZGw5Y3DM63Rqa0mkvUM8JaNKsgZU2PNNeR0dYBHNWdjaKXvuofT1BNVrxGtuGhByryd7fN8Oth27GKJIHLVtNcLwmG12Vg8Tw5kCnVzRrsWaMQYMV3G2VkJ5bbp+2ZaMzsQArN2SQ+PrS3N7lsQq+Q3OU+LwsMi4wlRDzdYwzSjYzdMkO5CViXuh2a+fOw1MYaRLINyS+7u7cOAbOSo8mi8vS5AEkV8Trke/IWZ8UXQNLO5WLvlv6R89GsRo15jN5SbKu7Y3WrDc46Lwh4E1zFByjsxgHVv5SXjYlKTSrhz+JyGMBIBQn9OQ6JhcPewHZ8DE2uqzyq6tFg83C7gaN8=;c7ow/TLLdZM1PnMxfBFV8g=="
 ---
 

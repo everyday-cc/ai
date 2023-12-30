@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 868
         isCached: true
-  - title: "Talking to Animals using Artificial Intelligence"
-    excerpt: "I had so much fun recording this episode with Sophie. She told me all about how scientists are actually beginning to decode animal communication using artificial intelligence—like, what? Our conversation genuinely blew my mind, and I hope you enjoy it ..."
-    publishedDateTime: 2023-12-27T00:00:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/talking-to-animals-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/FBB1D2D1-AEAB-4BFA-834E9DBE167BF0A8.gif"
-        width: 791
-        height: 496
-        isCached: true
   - title: "Getting Ready for the AI Reset: What Businesses Can Do To Prepare in the Next Three Years"
     excerpt: "Although AI is transforming the world faster than its advocates imagined, it's not too late to get on board if you're a business owner. Here is how."
     publishedDateTime: 2023-12-28T18:22:00Z

@@ -42,6 +42,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 55
+  - title: "LG’s new AI agent robot will help you out around the house"
+    excerpt: "LG says that it will show off the AI Agent at the Consumer Electronics Show (CES) in Las Vegas between January 9-12th. The company also recently announced a new lineup of gaming monitors, a 98-inch Mini LED television, and its latest lineup of smart monitors. All of those will be shown off at CES in a couple of weeks as well."
+    publishedDateTime: 2023-12-29T23:39:00Z
+    webUrl: "https://bgr.com/tech/lgs-new-ai-agent-robot-will-help-you-out-around-the-house/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/LG전자_스마트홈허브_01.jpg?quality=82&strip=all"
+        width: 840
+        height: 472
+        isCached: true
 
 secured: "mJtz/pzBbB5ezrPELyfvZBqimHUJBHYA9s9A328b1KVUx6sxtbYs4po43JaP91b/sl4+U/jmMcOK8dKmY7hMJP1mSPqVXY5K2OBBiFm/HwW2bAyUDKF1/dEl7gdYl66ZkCP/IEbGdekBOYngyy0ElPQLp0cogMDiNuoETBcuO5w1NmOsQZ8MOz4SDZfFxU0zKwZ8EhO2F6F/cvs4uCJoTcF5PahD7KU/EhHg1PkMyvtAh10CRqY1z28ulWHv7fnq04F9q5T6CDr9XfiRBSXVRgiae07fBX5RxEBT+feAic1wZyeLWTmRuZoQJc0XbJuLWmUJAHAYjWkW+3NX3oqxrh365veKQXMRuSDeYxrDwncX/ydtOvKeFkUel3cfOUl/20Hq0xStlyFVMoo/0XL5Q+083YSP6D8QDEDfTJlxudiNeSdOte+t1XkXTfBawRngRFIPtbIWhsHPADSILj1idqRNZWVv9ZjTlFJ9J2g7hlmabSMF5S4B4J1kzMipQ3T9vaw9lGAE8qEnuZo1nCijag==;P9TQdB/0DdK5nbZyckUZZg=="
 ---

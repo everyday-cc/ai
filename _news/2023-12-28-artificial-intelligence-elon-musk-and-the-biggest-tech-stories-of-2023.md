@@ -46,7 +46,12 @@ related:
     provider:
       name: Computer Weekly
       domain: computerweekly.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-ML-artificial-intelligence-machine-learning-brain-Elnur-Adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "paQv30VU9XMyd579EetgkcIl/l+PH9onqxEnHU5u6v9ByP+wnVMiGcKWbnpt6ZeBhdl0beSOJ4lA75q9GZpfpqR3qLOJgl0Abp/lypYFRtNJBRUd9BmDNEy1F3w/9pujv+OFXFSPgwi2Slf78IokG7ilXYmzi2umWpMQf3xDwn/BSGhcb0Q19bejXOR2C1dELeXvOx5NB1aEH+4LXc4LuVymUoDi6CltrCWLKKqR73KtSOu/KTj1nr+zZrLwDp4nWaTOz2T+K7rNBaAWFdCbgTxrHmHuzLSnUpDw/5VlkWWN3fYeNdd6UKk6othfytOu5BUbMUfqHeSsv8M7FacWa500aOzRyvz4DHjmkmnR5OhbeD/lCnOkDbRtH7MGG0Wj0nMiNs08p24dpD5JUYQHF6qXUQMSUKAfjXMw6Cg02o9w7RJxzphzb5Ta04Z99+Ma5UHvG1yaemTjyn5pyzWvmTwsGd25XG61SOPaPlj6ZagWi7DhJDKiN8+M27ozrH10QOjAam36xYW2Z+dEWGVNvw==;qS2eNDjc0o9YNfYSvDVtlw=="
 ---

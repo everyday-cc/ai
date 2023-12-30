@@ -187,20 +187,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI is here for your jobs: Paytm lays off 1,000 workers amid automation push"
-    excerpt: "Paytm, the fintech major, has let go of 1,000 employees from its sales, operations, and engineering teams even as the company implemented AI technology to boost efficiency. In 2021, the company had let go of 500 to 700 workers for non-performance."
-    publishedDateTime: 2023-12-25T00:00:00Z
-    webUrl: "https://www.deccanherald.com/business/companies/ai-is-here-for-your-jobs-paytm-lays-off-1000-workers-amid-automation-push-2824413"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 37
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-12%2F26cf37d2-2f4f-4c59-b856-40cf944f9cdd%2Ffile7ic4u44g2s6ulg4iolm.jpg?rect=0%2C45%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "47p0OQG8PsM6xK7cmgkz7BlyUuvekFDhuHmlHFvub1/NQ8hRXZqasQr5I24UJSEKkBAuIMjM//io1hZhRuH7tzKw+QCJVc6wxfGw+wEc/i+6lKBW7h9OEdBcrSQGkVPJ0VFj6Q/8clx05T4OnUAa9RT/QT+BqfXs2cE4Febg59RT4yka95cjGN7ScumF/DMpxZTa/QCA8RPJgvN15faXhoKhr2mhlpq5fJTadSL2TRWI8LdwwvqNUX21zW41BMPxP7HTVhWA9iEC/fmXW8nhyb06BZ26GTxjA8DPT0AQsiLOL3Bpr7lAA5wlytAxth2n27kah6JKc3KhjZu24lsxWHRh5hdXTNF0x+ZxjZQ8nhFtlY8WbK3r/0q6ux1HsWk77lxjsVBF9JjIt+4eB0iU0pEzH3uPNsdDOAcezqR2XKiFKHFINYBw+VXwbgcUmV1qX+Por3Dico6qXPFVp3mm++g1PNhzocFk2p9R8aaSrn+DZ2skCkQjRTxjvHacmxpgOinK7aMN3MmLbnjFzFLoAA==;egYIyPtw2SZk6XTsQJzXZQ=="
 ---

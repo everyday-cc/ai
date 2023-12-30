@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 webUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 type: article
 quality: 56
-heat: 66
+heat: 67
 published: false
 
 provider:

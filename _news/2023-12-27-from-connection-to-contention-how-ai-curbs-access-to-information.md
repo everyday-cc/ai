@@ -73,6 +73,20 @@ related:
         width: 986
         height: 555
         isCached: true
+  - title: "Retrofit AI and automation: the future of construction and mining"
+    excerpt: "Join us as we explore a future of safer, more efficient mining and construction with SafeAI's autonomous vehicle retrofitting."
+    publishedDateTime: 2023-12-29T23:34:00Z
+    webUrl: "https://interestingengineering.com/innovation/retrofit-ai-and-automation-the-future-of-construction-and-mining"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/12/29/image/png/W8laflTW1ORN1ETJPM0JrpwQIAjvVWyenu6gVcJF.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "1ViFGqJtzFpsRbWR3aEnmFg2F7EjWgVqU38K3bvzOMyQKUtT0ZV/7tP+bBfUwFjWmiFTBrBcAWd/KqR0+qXKInSjDeRiUftFYGod4aA5L6T6p2DxgdFk75Ulwdpi74FVRa1/TSQBg2/RVYIjkTq5KSU1OJR5TJPghJpCuTPu/HVKEJXQ1ut8AAANk3v5R3xnnJWIzBinXPrLNkaYi500lmzD9MZEXFyDueXnqT761UN54aUSUvB6PMjoGvybdIDC7ppn3QZpsw61vcQCgK8VWwtnMKmiMHS0N6mFV6FYWAJ7OmvaxFmi44YuSbdqTWkrjig/GfeaO07EtGS0ABnaO/Mws3L3lb6cM0puh6pXTgU=;0/jfYAO48/OXm/apn5XxYg=="
 ---

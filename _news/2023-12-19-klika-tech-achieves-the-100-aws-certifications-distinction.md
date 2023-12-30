@@ -3,8 +3,8 @@ category: news
 title: "Klika Tech Achieves The 100 AWS Certifications Distinction"
 excerpt: "Klika Tech, a global technology solutions and consulting firm that specializes in delivering cutting-edge cloud computing, Internet of Things (IoT), artificial intelligence and machine learning (AI/ML),"
 publishedDateTime: 2023-12-19T14:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-klika-tech-achieves-100-aws-certifications-distinction-/2023/12/19/9936263.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-klika-tech-achieves-100-aws-certifications-distinction-/2023/12/19/9936263.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "cXBDXlbgPjis9X+GaKAzBeh49aTtDg7rbJD3l0lhfodmlNMfXWGwezCm4Lbum7Xp4A7SV0BaDOcBhDXJTUw99umKlab7EbIzoxdyimivZx/96wNI7oQI+51ngAYq+s+0bbOdPCkkCzJ25Wx6RRSkDUMsxo6jgbB1BlurvxvK5YG6E1qtvD9RxwxeMjISTk6QEvIPkiVGzVeFokEBYDeNSFYabbjM9SrGzwmjO8/Fq9XUEa3pFdRV8p0BE0ymDgbA8jr/QGNDK6+Dyc2meNxxQ/KBw7uMXvpvTaRP5f1jzHPV4tMBS81XuIRrvreR8ir2WqjndxirxrBFN4s+y/z8M7tNI0seyfOCinQVxyM/PyM=;cEe2NdILNC/8wMBRKPi0pg=="
+secured: "YkW3EwRJu0NvYVnOiEo0Dn67Za0R05k316hTiWU5Be6FOXyAnuOfVkQ8rdklnFdZJpWiiKJYEk5VlrIa4WQHQOQsCOo73KpEek1qlsZu+9fb72T9jsjFBYt9VwScH1ihPmNzaldA8KCZl7oz+i6DyYp5OxGc23a1GfnXErDvWOGhWIEmVvBQNLHEHg+xtX82fg3/46bQRGhjgHMadFtQ3CuukCX1agquVTzOJWs4k0t+8uN3CWZ4MG3QWzbh5SGLz2qP/qWZJSKQZpFX5TZ1Ehm38hYg8tfGhmnYOSBagE9uAMlryTl6l3em+v7w42AtL5VxGS6WXJ1vZsFmB3GywxJWUeQ62O5Cz6X8LWDklJ8=;Nh9F13qoZpQDLGvMZGNQaA=="
 ---
 
