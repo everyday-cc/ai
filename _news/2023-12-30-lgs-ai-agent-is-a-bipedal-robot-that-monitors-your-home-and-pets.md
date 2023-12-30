@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2023/12/29/24018655/lgs-ai-agent-is-a-bip
 webUrl: "https://www.theverge.com/2023/12/29/24018655/lgs-ai-agent-is-a-bipedal-robot-that-monitors-your-home-and-pets"
 type: article
 quality: 84
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,28 +29,44 @@ images:
     isCached: true
 
 related:
-  - title: "Meet LG's multitasking, pet-sitting, AI-powered home robot: more helper, less Terminator"
-    excerpt: "LG's smart home artificial intelligence agent, set to be shown off at CES in a couple of weeks, uses its two legs and set of wheels to navigate a user's home independently. LG says the robot is a home manager and companion rolled into one, able to use its ..."
-    publishedDateTime: 2023-12-29T10:21:00Z
-    webUrl: "https://www.techspot.com/news/101357-meet-lg-multitasking-pet-sitting-ai-powered-home.html"
+  - title: "LG introduces smart home AI agent with facial and voice recognition"
+    excerpt: "Additionally, the robot possesses voice and image recognition combined with natural language processing. These enable it to learn and understand the context of conversations and respond to the ..."
+    publishedDateTime: 2023-12-27T13:03:00Z
+    webUrl: "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/"
+    ampWebUrl: "https://www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
-  - title: "LG’s new AI agent robot will help you out around the house"
-    excerpt: "LG says that it will show off the AI Agent at the Consumer Electronics Show (CES) in Las Vegas between January 9-12th. The company also recently announced a new lineup of gaming monitors, a 98-inch Mini LED television, and its latest lineup of smart monitors. All of those will be shown off at CES in a couple of weeks as well."
-    publishedDateTime: 2023-12-29T23:39:00Z
-    webUrl: "https://bgr.com/tech/lgs-new-ai-agent-robot-will-help-you-out-around-the-house/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
+      name: Neowin
+      domain: neowin.net
+    quality: 89
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/12/LG전자_스마트홈허브_01.jpg?quality=82&strip=all"
-        width: 840
-        height: 472
+      - url: "https://cdn.neowin.com/news/images/uploaded/2023/12/1703680640_lg3_story.jpg"
+        width: 760
+        height: 723
+        isCached: true
+  - title: "LG USHERS IN 'ZERO LABOR HOME' WITH ITS SMART HOME AI AGENT AT CES 2024"
+    excerpt: "Company's Game-changing Innovation Leverages the Latest AI, Autonomous Mobility Technology and Conversation Services for a Smarter Life at"
+    publishedDateTime: 2023-12-27T14:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/lg-ushers-in-zero-labor-home-with-its-smart-home-ai-agent-at-ces-2024-1032927901"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Gaming, AI and Wellness to Drive Smart-Home Innovation Over the Coming Year"
+    excerpt: "In 2024, technologies like predictive artificial intelligence and biometric data management will continue transforming the role smart machines play in our lives—anticipating needs, customizing experiences and foreseeing troubles. Think of a diagnostic toilet seat or self-maintaining appliances that can schedule their own repairs."
+    publishedDateTime: 2023-12-28T11:59:00Z
+    webUrl: "https://www.mansionglobal.com/articles/gaming-ai-and-wellness-to-drive-smart-home-innovation-over-the-coming-year-b528b2ba"
+    type: article
+    provider:
+      name: Mansion Global
+      domain: mansionglobal.com
+    quality: 37
+    images:
+      - url: "https://images.mansionglobal.com/im-71815110/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "LG's smart home AI agent is a cutting-edge robot that can engage in complex conversations"
     excerpt: "LG is leveraging AI to enhance its vision of the smart home of the future, one where cute robotic companions can sit down and talk to you."

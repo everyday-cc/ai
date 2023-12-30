@@ -73,6 +73,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Self-driving cars could be on British roads by 2026, says transport secretary"
+    excerpt: "Self-driving cars could be on British roads as early as 2026, Transport Secretary Mark Harper has said. Asked if people could soon be travelling \"with your hands off the wheel, doing your emails ..."
+    publishedDateTime: 2023-12-27T12:49:00Z
+    webUrl: "https://news.sky.com/story/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+    ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 41
+    images:
+      - url: "https://e3.365dm.com/23/12/1600x900/skynews-driverless-car-self-driving_6405065.jpg?20231227120205"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "I tested a self-driving car on the M25 and it's a total game-changer for UK roads"
     excerpt: "The UK government hopes to have driverless cars on UK roads by 2026 but Ford is already offering a way to get from A to B hands-free."
     publishedDateTime: 2023-12-28T11:05:00Z
@@ -146,15 +162,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 3
-  - title: "Self-driving cars could be on British roads by 2026, says transport secretary"
-    excerpt: "Self-driving cars could be on British roads as early as 2026, Transport Secretary Mark Harper has said. Asked if people could soon be travelling \"with your hands off the wheel, doing your emails\", he agreed the prospect was possible in as little as three ..."
-    publishedDateTime: 2023-12-27T14:40:00Z
-    webUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 1
 
 secured: "MPbCRzTz8mq0DUSp2zVVYRD5wCRWiiuYX4s4SvE57783gLQe6iEm9HVey6FFZCoFYJQJVAc0RxE35tkEnNyREtHl/ZyGMc2IgGzKjHvXJ0zTDw1zcwpZ0itsVd321rx4pQBEY1VDSJLDxNR/hdcZlyZxokwZHzvEZb/TijC1BmiseY8+GpYtKX9pa5yT4a7pmwyf4F4lFKxQSIg9PtkbgrqaI53kJQoXdwic8Lhfe1Ky7VqUg+NyDtVqs2yW2YDx6EokuX42bSSPh8/yb4dRwvPocbQHS2OfJU60FWMkL2ZwmPG2kwzjE3yApzoVAfe0BEwhEwZzDkCx3hBRErvgK7zdUee4nOitt3bd+IfzZ0ft7dFLmHDcJlVivRnKJTXA8lv/br8IJpkeeDvsupIXIt4akMVkWThCBWj0kGyus7rPA9fZNp8n/hPFqzglNVO+MQ1gY7QNh1j3ExadNGfAJZGkvsG2jqDryEmqkamPw3qpQO9phY73KeYkro/SjTuK9Ew8Ui3MlXH5LBBL0C52Ow==;6d3gQ1qSzNt1xousKhYD4A=="
 ---

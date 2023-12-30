@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-
 webUrl: "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Big Tech outspends venture capital firms in AI investment frenzy"
+    excerpt: "Microsoft, Google and Amazon crowd out traditional Silicon Valley investors in blockbuster deals with AI start-ups in 2023"
+    publishedDateTime: 2023-12-29T15:35:00Z
+    webUrl: "https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "PitchBook: Tech giants invested more in generative AI startups than VCs this year"
     excerpt: "Amazon.com Inc., Microsoft Corp. and Google LLC invested significantly more in generative artificial intelligence startups this year than venture capital firms, according to new PitchBook Inc. research."
     publishedDateTime: 2023-12-27T19:38:00Z

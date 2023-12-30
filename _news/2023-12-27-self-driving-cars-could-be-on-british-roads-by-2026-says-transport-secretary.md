@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Self-driving cars could be on British roads by 2026, says transport secretary"
-excerpt: "Self-driving cars could be on British roads as early as 2026, Transport Secretary Mark Harper has said. Asked if people could soon be travelling \"with your hands off the wheel, doing your emails\", he agreed the prospect was possible in as little as three ..."
-publishedDateTime: 2023-12-27T14:40:00Z
-originalUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
-webUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+excerpt: "Self-driving cars could be on British roads as early as 2026, Transport Secretary Mark Harper has said. Asked if people could soon be travelling \"with your hands off the wheel, doing your emails ..."
+publishedDateTime: 2023-12-27T12:49:00Z
+originalUrl: "https://news.sky.com/story/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+webUrl: "https://news.sky.com/story/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+ampWebUrl: "https://news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/self-driving-cars-could-be-on-british-roads-by-2026-says-transport-secretary-13038145"
 type: article
-quality: 1
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://e3.365dm.com/23/12/1600x900/skynews-driverless-car-self-driving_6405065.jpg?20231227120205"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Self-driving cars could be on UK roads by 2026: Mark Harper"
@@ -155,6 +163,6 @@ related:
       domain: theguardian.com
     quality: 3
 
-secured: "4OCMcWUfJT/J9zv70ew00dg7sV/oKJfxHKttVjE26FKH8LUx1UpJ2DCiBIIO3ZKoXRKE0YVuscgstLX3YdPAffTPOA6p1q8OdvOvOC3RQQr21DNBfvxWut/wseC13boaayC4yHi5HD0QsXG43kIB4eqcPnaJFO1NUhoheZ+TEj9/kSkbxGnCtB/FQMRErya1MttmJ6FAytf1lqN1h3ZHBKOrgBJ3hb00VILWDLfeDoqoxfb8j52J7pufaJEKDDYp4ImjlYmZZXKCS1UJB5gxj2JgpdNJ1SW8mmWGIUySieMxjj319PZ2CbnFO8w3pBUWc0g40ySXwAnNKIz4orPTNMrjn/8pSPbte9KWphWxBbk=;DPqH9lvaEszE++wRpET9xA=="
+secured: "5rNQS+knO+ZHzajYhV2yd3b2lg1sXNDgYmnNaD/kkRft/yj6QAcRQSHfoHxiHjyiT34Cly7y5hSGPRhgEHCgXgHfw8itTO3GJDpRKVj4ii+8du69ptMBFq4FWDDwi+hgX42I2dH1LAt8ZY25Uk6c5cBV0gnSFlj/Ca4Bf/+aT4kDlGNEp6ubrIx2vyifjjFG8krx7Bfh2AbFaZ0XId8TOam+3IpdjBIP125Ziif0VmRJIJR0/eUvb2oNQDcZfFHrKn0s+pQJM+stjnUuY2TfK1ZAgZw9XT1eUdbyA9dfPxgAUq4Vn8F3KRHc0/x16/rRF6HXCyVxpHbjFO2g7ozga1B7rVa+fHeQEGkAz2iCX0w=;FrDvCwJFqOZBbUHDJvmitA=="
 ---
 

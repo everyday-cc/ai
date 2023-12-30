@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-12-30-lgs-ai-agent-is-a-bipedal-robot-that-monitors-your-home-and-pets.md",
-      "title": "LG’s “AI agent” is a bipedal robot that monitors your home and pets.",
-      "excerpt": "The company revealed the bot ahead of its appearance at CES 2024, which it’s touting as an “all-around home manager and companion.” In addition to serving as a remote monitoring system, LG says the bipedal bot can also interact with humans using voice and image recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/12/29/24018655/lgs-ai-agent-is-a-bipedal-robot-that-monitors-your-home-and-pets",
-      "originalUrl": "https://www.theverge.com/2023/12/29/24018655/lgs-ai-agent-is-a-bipedal-robot-that-monitors-your-home-and-pets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/WpnHkzS3VGoX3WFH-wSB1TL7hYQ=/0x0:2700x1518/2700x1518/filters:focal(1350x759:1351x760)/cdn.vox-cdn.com/uploads/chorus_asset/file/25192049/Smart_Home_AI_agent_02.jpg",
-          "width": 2700,
-          "height": 1518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-29T18:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2023-12-30-should-auld-acquaintance-be-robot.md",
       "title": "Should auld acquaintance be robot",
       "excerpt": "August marked a year since Amazon announced plans to acquire iRobot in a $1.7 billion deal that some analysts suggested could give the retail giant a big head start in consumer robotics ... Much like the rise of generative AI, if you weren’t following ...",
@@ -192,6 +140,50 @@
       ]
     },
     {
+      "path": "_news/2023-12-29-lg-unveils-ai-powered-wheeling-smart-robot-for-the-home.md",
+      "title": "LG Unveils AI-Powered, Wheeling Smart Robot for the Home",
+      "excerpt": "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality.",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "originalUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-can-artificial-intelligence-replace-humans-an-engineering-perspective.md",
       "title": "Can Artificial Intelligence Replace Humans? An Engineering Perspective",
       "excerpt": "Our world is and should be evolving, but technology is far from being able to fully replace highly skilled engineers.",
@@ -241,49 +233,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
-      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
-      "excerpt": "Some American senior citizens have a new companion to help them combat loneliness: a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct humanlike conversations with its",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
-      "originalUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/68/56880c94-a42d-11ee-947d-13d248d7d7c4/658b37a1780f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press-Republican",
-        "domain": "pressrepublican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -885,6 +834,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-22-robots-and-artificial-intelligence.md",
+      "title": "Robots and Artificial Intelligence",
+      "excerpt": "As new threats like deep fakes become cheaper and more widespread, these upcoming elections could serve as a test run for democracy in the artificial intelligence (AI) era. What risks does AI pose ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-ai-powered-robot-sets-a-world-record-after-beating-humans-in-a-classic-marble-maze-game.md",
       "title": "AI powered robot sets a world record after beating humans in a classic marble maze game",
       "excerpt": "We’ve become almost complacent with the idea of computer systems learning how to beat the best human players at games of intellect such as chess, poker and Go. Now researchers at ETH Zurich, a university in Switzerland,",
@@ -1257,6 +1249,49 @@
       ]
     },
     {
+      "path": "_news/2023-12-20-japan-startup-preferred-networks-designs-own-ai-chips-to-beat-bottleneck.md",
+      "title": "Japan startup Preferred Networks designs own AI chips to beat bottleneck",
+      "excerpt": "Japanese startup Preferred Networks is ramping up investment in customised artificial intelligence chips, seeking to ensure access to critical hardware as advances in generative AI spark a global investment boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html",
+      "originalUrl": "https://www.aol.com/news/japan-startup-preferred-networks-designs-025611538.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/1799ce2fd1ec743c9845c80a3cd1762f",
+          "width": 800,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T09:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-deal-alert-score-500-off-the-samsung-jet-bot-ai-robot-vacuum.md",
       "title": "Deal alert: Score $500 off the Samsung Jet Bot AI+ Robot Vacuum",
       "excerpt": "This is a rare chance to score the Samsung Jet Bot AI Plus Robot Vacuum for $799.99 and upgrade your smart home.",
@@ -1351,59 +1386,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-hitch-integrates-generative-ai-into-immutable-miniverse-nfts.md",
-      "title": "Hitch integrates generative AI into Immutable Miniverse NFTs",
-      "excerpt": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. Hitch Interactive, a startup focused on AI, robotics, fintech, and the metaverse, announced it has integrated generative AI into ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/",
-      "originalUrl": "https://venturebeat.com/games/hitch-integrates-generative-ai-into-immutable-miniverse-nfts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/hitch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T06:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

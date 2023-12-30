@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-11-30-kurdish-language-needs-more-standardization-for-ai-personal-assistants-expert.md",
+      "title": "Kurdish language needs more standardization for AI personal assistants: expert",
+      "excerpt": "“Suppose we want to have good translation systems, AI personal assistants like Amazon Alexa, Google Voice, or Apple Siri that can understand and communicate in Kurdish; then, we must work more on the Kurdish language in the field of NLP. “",
+      "sourceUrl": null,
+      "webUrl": "https://www.kurdistan24.net/en/story/33306-Kurdish-language-needs-more-standardization-for-AI-personal-assistants:-expert",
+      "originalUrl": "https://www.kurdistan24.net/en/story/33306-Kurdish-language-needs-more-standardization-for-AI-personal-assistants:-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kurdistan 24",
+        "domain": "kurdistan24.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-online-language-learning-platform-market-to-reach-448-billion-by-2032-at-172-cagr-allied-market-research.md",
+      "title": "Online Language Learning Platform Market to Reach $44.8 Billion by 2032 at 17.2% CAGR: Allied Market Research",
+      "excerpt": "In addition, advances in natural language processing improve the quality of language learning applications. However, the live learning segment is projected to manifest the highest CAGR of 18.8% from 2023 to 2032, as live learning platforms integrate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n36025837/online-language-learning-platform-market-to-reach-44-8-billion-by-2032-at-17-2-cagr-allied-market-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n36025837/online-language-learning-platform-market-to-reach-44-8-billion-by-2032-at-17-2-cagr-allied-market-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36025837",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36025837",
+      "publishedDateTime": "2023-11-30T10:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-ui-researchers-working-to-make-speech-recognition-technology-more-accessible.md",
       "title": "UI researchers working to make speech-recognition technology more accessible",
       "excerpt": "The Speech Accessibility Project is getting as many people with Parkinson’s, Down syndrome, cerebral palsy or ALS or who have suffered a speech disability due to a stroke to record",
@@ -839,453 +916,7 @@
         "AI",
         "Natural Language Processing"
       ]
-    },
-    {
-      "path": "_news/2023-11-17-voice-based-biometric-for-online-banking-eyed.md",
-      "title": "Voice-based biometric for online banking eyed",
-      "excerpt": "SINGAPORE – Aboitiz-led Union Bank of the Philippines plans to introduce voice recognition as another biometric verification as it builds on scalable technology for safer and more efficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
-      "originalUrl": "https://www.philstar.com/business/2023/11/17/2311993/voice-based-biometric-online-banking-eyed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.philstar.com/photos/2023/11/16/9_2023-11-16_19-31-05.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-17T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "philstar.com",
-        "domain": "philstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments-for-all.md",
-      "title": "Vroozi Introduces Vroozi AI: Natural Language Processing Assistant that Accelerates Spend Management and Invoice Payments for All",
-      "excerpt": "Vroozi, the intelligent procure-to-pay platform, today announces its new virtual AI assistant that will accompany users throughout the Vroozi application to enable more effective ordering within the platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/vroozi-introduces-vroozi-ai-natural-language-processing-assistant-that-accelerates-spend-management-and-invoice-payments/article_7ff1a958-5377-5dd3-a104-bb3404db7169.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/d/14/d1401004-03dd-5993-aec6-bae6690a2f51/655629395068a.image.jpg?crop=1194%2C627%2C2%2C0&resize=1194%2C627&order=crop%2Cresize",
-          "width": 1194,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T13:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-cu-mansfield-voice-students-win-recognition-at-nats-student-auditions.md",
-      "title": "CU-Mansfield Voice students win recognition at NATS Student Auditions",
-      "excerpt": "Voice students from Commonwealth University-Mansfield recently won recognition at the Allegheny Mountain Chapter National Association of Teachers of Singing Student Auditions, held Nov. 4 at CU-Mansfield.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/community/cu-mansfield-voice-students-win-recognition-at-nats-student-auditions/article_f27a9de2-8245-11ee-bbc0-838ea6ce05be.html",
-      "originalUrl": "https://www.tiogapublishing.com/the_wellsboro_mansfield_gazette/community/cu-mansfield-voice-students-win-recognition-at-nats-student-auditions/article_f27a9de2-8245-11ee-bbc0-838ea6ce05be.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tiogapublishing.com/content/tncms/assets/v3/editorial/4/de/4de07c8c-8247-11ee-8efd-03aac0fe568b/6552585aecbf5.image.jpg?crop=870%2C456%2C288%2C504&resize=870%2C456&order=crop%2Cresize",
-          "width": 870,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TiogaPublishing.com",
-        "domain": "tiogapublishing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-16-deepl-rides-high-amid-ai-translation-boom.md",
-      "title": "DeepL rides high amid AI translation boom",
-      "excerpt": "Data provider Statista forecasts that the global market for AI-based translation (specifically “natural language processing”, or NLP) will grow from about $5bn in 2023 to about $12bn by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
-      "originalUrl": "https://www.ft.com/content/a4f7f5b6-6c42-4df0-8529-a82b526869ac",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F127f3bc8-487b-4b0b-8f33-3f0ae9ea9e89.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.md",
-      "title": "In moments of crisis like the Israel-Hamas war, we need more speech - not less: Richard M. Perloff and Anup Kumar",
-      "excerpt": "CLEVELAND -- How should society balance the right to free speech with recognition that the embers of speech ignite psychic wounds? When should offensive speech be tolerated because it opens society’s political pores, and when should it be limited because ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "originalUrl": "https://www.cleveland.com/opinion/2023/11/in-moments-of-crisis-like-the-israel-hamas-war-we-need-more-speech-not-less-richard-m-perloff-and-anup-kumar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T05:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd.md",
-      "title": "Data Scientist (Marketing & Natural Language Processing) – Gauteng Pretoria CBD",
-      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
-      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing-gauteng-pretoria-cbd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-15-data-scientist-marketing-natural-language-processing.md",
-      "title": "Data Scientist (Marketing & Natural Language Processing)",
-      "excerpt": "and Natural Language Processing – as per company Digital Strategic Framework. Responsible for the end-to-end data Lifecycle – from strategic planning, data collection, through monitoring, evaluation, and incremental improvement.",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
-      "originalUrl": "https://it-online.co.za/2023/11/15/data-scientist-marketing-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-seoul-translation-screens-serve-tourists-in-11-languages-with-real-time-interactive-ai.md",
-      "title": "Seoul Translation Screens Serve Tourists in 11 Languages with Real-Time Interactive AI",
-      "excerpt": "Seoul will set up live translation screens at tourist centers, helping non-Korean speakers get real-time assistance when visiting the city.",
-      "sourceUrl": null,
-      "webUrl": "https://eturbonews.com/seoul-translation-screens-serve-11-languages/",
-      "originalUrl": "https://eturbonews.com/seoul-translation-screens-serve-11-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T15:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eturbonews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18.md",
-      "title": "Apple iPhone 16 to get AI-powered features like real-time language translation, document summarisation with iOS 18",
-      "excerpt": "While details are still under wraps, experts believe Apple is stepping up its game against competitors like Google and Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/apple-iphone-16-to-get-ai-powered-features-like-real-time-language-translation-document-summarisation-with-ios-18/articleshow/105211581.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-pioneering-ai-innovation-from-rws-offers-near-human-quality-translation.md",
-      "title": "Pioneering AI innovation from RWS Offers Near Human-Quality Translation",
-      "excerpt": "As a linguistic AI platform, Language Weaver provides highly accurate, real-time translation across more than 3,500 language combinations. About RWS RWS Holdings plc is a unique, world-leading ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
-      "originalUrl": "https://www.businesswire.com/news/home/20231114970714/en/Pioneering-AI-innovation-from-RWS-Offers-Near-Human-Quality-Translation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T09:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-messagepoint-adds-generative-ai-for-translation-and-plain-language-rewrites.md",
-      "title": "Messagepoint Adds Generative AI for Translation and Plain Language Rewrites",
-      "excerpt": "Messagepoint's Intelligent Content Hub offers a modular approach to content management that enables business users to manage content across all channels, whether it is used in composed communications or delivered to a digital endpoint via headless APIs. The solution enables the reuse of common content components and templates across communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Messagepoint-Adds-Generative-AI-for-Translation-and-Plain-Language-Rewrites-161442.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-14T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-14-messagepoint-announces-generative-ai-capabilities-for-translation-and-plain-language-rewrites.md",
-      "title": "Messagepoint Announces Generative AI Capabilities for Translation and Plain Language Rewrites",
-      "excerpt": "Messagepoint announced today enhancements to its generative AI capabilities to further support organizations in creating communications that are easy",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231113551183/en/Messagepoint-Announces-Generative-AI-Capabilities-for-Translation-and-Plain-Language-Rewrites/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231113551183/en/Messagepoint-Announces-Generative-AI-Capabilities-for-Translation-and-Plain-Language-Rewrites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-13T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

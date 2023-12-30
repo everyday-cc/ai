@@ -7,8 +7,8 @@ originalUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 webUrl: "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview"
 type: article
 quality: 56
-heat: 67
-published: false
+heat: 86
+published: true
 
 provider:
   name: Hypebeast
@@ -26,6 +26,29 @@ images:
     isCached: true
 
 related:
+  - title: "Meet LG's multitasking, pet-sitting, AI-powered home robot: more helper, less Terminator"
+    excerpt: "LG's smart home artificial intelligence agent, set to be shown off at CES in a couple of weeks, uses its two legs and set of wheels to navigate a user's home independently. LG says the robot is a home manager and companion rolled into one, able to use its ..."
+    publishedDateTime: 2023-12-29T10:21:00Z
+    webUrl: "https://www.techspot.com/news/101357-meet-lg-multitasking-pet-sitting-ai-powered-home.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
+  - title: "LG’s new AI agent robot will help you out around the house"
+    excerpt: "LG says that it will show off the AI Agent at the Consumer Electronics Show (CES) in Las Vegas between January 9-12th. The company also recently announced a new lineup of gaming monitors, a 98-inch Mini LED television, and its latest lineup of smart monitors. All of those will be shown off at CES in a couple of weeks as well."
+    publishedDateTime: 2023-12-29T23:39:00Z
+    webUrl: "https://bgr.com/tech/lgs-new-ai-agent-robot-will-help-you-out-around-the-house/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/LG전자_스마트홈허브_01.jpg?quality=82&strip=all"
+        width: 840
+        height: 472
+        isCached: true
   - title: "Beijing Unveils Powerful AI Computing Platform Amid Semiconductor Tensions"
     excerpt: "BEH has expressed intentions to eventually power the platform entirely with green energy, aligning with global environmental goals."
     publishedDateTime: 2023-12-27T14:28:00Z

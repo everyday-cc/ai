@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-27-lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition.md",
+      "title": "LG introduces smart home AI agent with facial and voice recognition",
+      "excerpt": "Additionally, the robot possesses voice and image recognition combined with natural language processing. These enable it to learn and understand the context of conversations and respond to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "originalUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703680640_lg3_story.jpg",
+          "width": 760,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "publishedDateTime": "2023-12-27T13:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-the-evolution-of-ai-chatbots-for-finance-and-accounting.md",
       "title": "The Evolution Of AI Chatbots For Finance And Accounting",
       "excerpt": "The digital transformation of the accounting and finance department that has occurred over the last three decades is merely the beginning. There are at least three key areas where digitization has and will have the greatest impact: democratization of data, and automation of manual and machine learning.",
@@ -545,6 +597,49 @@
       "provider": {
         "name": "Wilson Center",
         "domain": "wilsoncenter.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard.md",
+      "title": "'Listening and correcting': How automatic speech recognition is speeding up Alberta Hansard",
+      "excerpt": "Now, those transcribers are using automatic speech recognition software that converts spoken words into a written transcription within minutes. “It works quite well. It’s sped up the whole pro ...",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "originalUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/12/20231030DB014-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "cdnAmpWebUrl": "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edmontonsun",
+        "domain": "edmontonsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1347,83 +1442,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
-      "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
-      "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "originalUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/dewave-ai-eeg-thought-reading-device.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "publishedDateTime": "2023-12-13T00:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-mind-reading-ai-can-translate-brainwaves-into-written-text.md",
-      "title": "Mind-reading AI can translate brainwaves into written text",
-      "excerpt": "Once DeWave understood the brain signals well, the team connected it to an open-source large language model (LLM), akin to the AI that powers ChatGPT. “This LLM is like a brainy writer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
-      "originalUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

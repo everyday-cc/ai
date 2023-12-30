@@ -46,6 +46,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-27-lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition.md",
+      "title": "LG introduces smart home AI agent with facial and voice recognition",
+      "excerpt": "Additionally, the robot possesses voice and image recognition combined with natural language processing. These enable it to learn and understand the context of conversations and respond to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "originalUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703680640_lg3_story.jpg",
+          "width": 760,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "publishedDateTime": "2023-12-27T13:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-byd-to-start-testing-l3-autonomous-driving-on-highways-in-china.md",
       "title": "BYD to start testing L3 autonomous driving on highways in China",
       "excerpt": "Competition is revving up in China, as BYD is the latest to be allowed to test its L3 self-driving systems on roadways.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-driving-on-highways-in-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -247,49 +299,6 @@
       ]
     },
     {
-      "path": "_news/2023-12-27-chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship.md",
-      "title": "Chatty robot helps seniors fight loneliness through AI companionship",
-      "excerpt": "Some American senior citizens have a new companion to help them combat loneliness: a robot. ElliQ is a tabletop device that uses artificial intelligence to conduct humanlike conversations with its",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
-      "originalUrl": "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/5/68/56880c94-a42d-11ee-947d-13d248d7d7c4/658b37a1780f0.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press-Republican",
-        "domain": "pressrepublican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-27-big-tech-is-spending-more-than-vc-firms-on-ai-startups.md",
       "title": "Big Tech is spending more than VC firms on AI startups",
       "excerpt": "The rise of generative AI—systems capable of producing humanlike video ... Tech companies which can provide cloud infrastructure and access to the most powerful chips as well as dollars. That has rapidly pushed up the valuations of private start-ups ...",
@@ -298,7 +307,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1131,6 +1140,58 @@
       ]
     },
     {
+      "path": "_news/2023-12-26-burger-king-giving-discounts-if-facial-recognition-thinks-youre-hungover.md",
+      "title": "Burger King Giving Discounts If Facial Recognition Thinks You're Hungover",
+      "excerpt": "The Brazilian wing of Burger King announced a surveillance technology marketing stunt this week called the “Hangover Whopper,” celebrating the booze-filled days between Christmas and New Year ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496",
+      "originalUrl": "https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/da8531a3622c7d3557943df8cfac3e46.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-coinrobotai-launched-an-ai-based-crypto-trading-robot.md",
       "title": "CoinRobot.AI launched an AI based crypto trading robot",
       "excerpt": "CoinRobot is an artificial intelligence research project that aims to develop intelligent trading robots. The project launched its first",
@@ -1179,58 +1240,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-ai-naughty-and-nice-2023-headliners.md",
-      "title": "AI Naughty And Nice 2023 Headliners",
-      "excerpt": "It was a year of incredible naughty and nice developments advancing the field of Artificial Intelligence. 12 examples are provided on Santa Claus's 2023 register.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6589f1adc974168215d62aea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/12/25/ai-naughty-and-nice-2023-headliners/amp/",
-      "publishedDateTime": "2023-12-25T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

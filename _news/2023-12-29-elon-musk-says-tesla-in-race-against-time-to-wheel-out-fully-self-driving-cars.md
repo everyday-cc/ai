@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-
 cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Self-driving cars will be on UK roads in 2026, says Transport Secretary"
+    excerpt: "“Probably by as early as 2026, people will start seeing some elements of these cars that have full self-driving capabilities being rolled out. “We already know the technology works. You can ..."
+    publishedDateTime: 2023-12-27T00:00:00Z
+    webUrl: "https://www.independent.co.uk/tech/mark-harper-parliament-james-may-government-california-b2469851.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/2023/12/27/08/50fbd33f0c545bb34e65c86a220cb1f1Y29udGVudHNlYXJjaGFwaSwxNzAzNzUyNjU5-2.74504544.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4OMKCGD1K14x0PYhJE06JW9VbYrPoENQkLRBtmAAqQofcQMtYN4HUAT5trXFFL5otrovMRhqgCchbD6uouxC6fuqQL1VJiYDrIEC2nkJBkIwqcxitSpEEea7EJmae8EP10RyaokruqlZ9b6HBLGOv+UZwy2fIkXtdfSHuHeyQ/KCpyXPikctYs7iOBhsh/h4v+VkgW33jN4W5PcnUEWheXfvtKB8f643XkVhLhMJ1vqrIvaWzSedOOdNQsP8jAt5zVCnrHstfCw9FDIvYyZzkVDtUXZTX9eI03bjprrkCoghU0mn8p1SHnoXr8BpqTTddO3XUNJfCuOM9XOJGQLtYi18f/OZrog+ZXMqLJ38jzaOU2naZvSZ5yqXMEH2dUPgJxRc65ak7DBh92Wzc51r2/TV9t0t4SoNBGuc+fQynA28jHCiEx3GFaKRPJuVCjtcZV65g2sF2furbRY4Ah947jMGHhs3b70RJ0EQKKVcmK0SsU2VlXj9nJrL6zlXXsKmA6oQHInmhTwdOjpEkvA66A==;OryoJ6auW0tq8DilKD9lSw=="

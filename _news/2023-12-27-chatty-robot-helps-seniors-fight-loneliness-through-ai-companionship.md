@@ -7,8 +7,8 @@ originalUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-sen
 webUrl: "https://www.pressrepublican.com/ap/business/chatty-robot-helps-seniors-fight-loneliness-through-ai-companionship/article_4d869779-9e4e-5163-8785-0c129dadcdf5.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Press-Republican
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Networking through Introbot, an AI platform that helps discover and build professional connections"
-    excerpt: "Introbot is an AI-powered platform that helps attendees access and nurture business relationships with relevant decision makers at events and business communities."
-    publishedDateTime: 2023-12-25T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/networking-through-introbot-ai-platform-for-professional-connections"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 40
-    images:
-      - url: "https://images.yourstory.com/cs/2/fe056c90507811eea8de27f99b086345/CopyofImageTaggingnoframesEditorialTeamMaster16-1703156713799.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
   - title: "Chatty robot helps seniors fight loneliness through AI companionship"
     excerpt: "\"It's entertaining. You can actually talk to her,\" said Loaiza, 81, whose ElliQ in suburban Fort Lauderdale nicknamed her \"Jellybean\" for no particular reason. \"She'll make comments like, 'I would go outside if I had hands,"
     publishedDateTime: 2023-12-26T13:09:00Z

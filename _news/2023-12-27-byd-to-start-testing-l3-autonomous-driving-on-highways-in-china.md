@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-
 webUrl: "https://electrek.co/2023/12/27/byd-to-start-testing-l3-autonomous-driving-on-highways-in-china/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
-  - title: "L3 self-driving vehicle tests hot up in China"
-    excerpt: "Mercedes-Benz announced last week it gained the permit to test L3 vehicles on designated highways in Beijing. It was one of the first batch of companies approved by the Beijing government to run such tests."
-    publishedDateTime: 2023-12-25T01:36:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202312/25/WS6588dc8ba31040ac301a94d8.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202312/25/6588dc8ba31040acaf832b9d.jpeg"
-        width: 909
-        height: 606
-        isCached: true
 
 secured: "MUtq/LHgK3cdBUKqnB3Gdu5Tm48HoUw6Bzp04q/EjTSMGNdIuCZh3QgnBaGCgcyvv4BXR0glWGMC9AklgrC8IvU66LS6uIRP9oEnlXfliVrIC55YV4R58Qh+yIFNqnmzOGbSpPqwUhdCerG+nH6GBogBqjqqDeC6lGjoBxFbqQOCyQ+CdqiYJmbz7xGtTuM0RJZwi9n+B2wxEWauv7uo+7/NtnL+Cfwykwx58wplhbXZSrN2ShrXMjw9GKMdJX7wsI3KxzhzobdaZAMglsVtutuO8d06L8PmWM6hzCDDvA2U8FI95r3jo31XiHA4TqpzlOixiyCn6S2j+sMyeoxaY7z+csakfYHxl74akmDf8AzIJAKfstvcPqV6WF3XDncJyfg2WuHo/TBntipxFoUpiXuoDILRGocWEYTUomM4bp10XXKicHO3dLrWPX3Yl+lnfYTfuy/QzueZcpU0w1UaeDyG03Tniqor7M+nRIOtrIV6Loh9OnkW5HKdzRoqoj4mdikFMc8e3gRFcINpO0602A==;A86EZjvX7ZitgmnukscfJw=="
 ---

@@ -752,6 +752,40 @@
       ]
     },
     {
+      "path": "_news/2023-12-21-ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-in-2024.md",
+      "title": "AI trends: What experts, execs think artificial intelligence will look like in 2024",
+      "excerpt": "Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "originalUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-artificial-intelligence-experts-share-6-of-the-biggest-ai-innovations-of-2023-a-landmark-year.md",
       "title": "Artificial intelligence experts share 6 of the biggest AI innovations of 2023: 'A landmark year'",
       "excerpt": "If you received medical care any time this year, there’s a good chance you had a close encounter with artificial intelligence. Widely regarded as the breakout year for AI, 2023 ushered in a ...",
@@ -1368,49 +1402,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-kettering-university-plunges-into-artificial-intelligence-with-ai-degrees.md",
-      "title": "Kettering University plunges into artificial intelligence with AI degrees",
-      "excerpt": "From social obscurity in the 80s to a hot topic in 2023, artificial intelligence is on the rise. At Kettering University, they are taking the plunge into the new-age technology with their Master of Engineering in Artificial Intelligence program.",
-      "sourceUrl": null,
-      "webUrl": "https://upnorthlive.com/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "originalUrl": "https://upnorthlive.com/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://upnorthlive.com/resources/media/39f058ff-3604-4174-8cc9-637d0e2eae69-large16x9_ketteringnewfacaility.jpg?1663950025224",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://upnorthlive.com/amp/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "cdnAmpWebUrl": "https://upnorthlive-com.cdn.ampproject.org/c/s/upnorthlive.com/amp/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "publishedDateTime": "2023-12-15T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "upnorthlive",
-        "domain": "upnorthlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

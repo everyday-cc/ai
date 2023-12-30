@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2023/12/29/exploring-ai-images-using-the-same-prompt-with-different-models/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 100
 published: true
 
 provider:
@@ -45,6 +45,6 @@ related:
         height: 496
         isCached: true
 
-secured: "WeCli7QhM4Zh8rRpwToGiWTU8QwQnPQBHz22UHLL+8Is73GAX5wqms8OwqswMX2vgj/k9TVSjbL5MAkSoikfJ/r2Of0mtkAkOBNZcSoc02ibmP0cvFQEWAxJnLrFx/kgflI+nhSb0iRjqmabU0rUl8I+cxOZhAdPtyCX8pdOdfErVE1v0oizXaZjb4Bv1qx92IjAuRstDJBTdVvTlZ+2mMjbZQtvzS1Fx84yPKClT1Ktegw/OmQcPeyjE2YvC4xHwO2jRbazBOYyd4PbxxfO3rB5jeqwvGNn7oQ0HA2fD+t54xHo9FqqLL0YYQ9r6OISaTJ3McMKHLM9zMnzIvkQCFc/aobGIAetyqlTM5C6Iq4=;1yJxv/FZeoDlOkenZuGyRg=="
+secured: "tFxLjhfZeAsqSkUX7X3KJ9Q5OBZAKS0eDoIOHNFnTHbriH3FJti7NZH5M1zteGBBmttPjqgYenDz1BMJZJ8zR+FxmVVPOWdDj/LHZjbJmWNM2MwA5mIQDjhtsJaK1lNer0EGjZoZrtbgUFW4bZSZcNsoEKeu1xGeuQPy4zCIESKA2FnH7y2qpIgRGT2iiHEkmwqADGNcvulxKCHeaibuvbEYQT6I6W+lpG3F78og5KqetLrwOZbhvKw1AyzxwTWknQKpcy0H23zMiHrlB9SXAPY1Ba3pBxv8DUM5/5OZfCtDht9VrjJA59qOWFIOJX7zcP1PUdHyci6DAi9UPqP85dquZaRXcXu+cKDyPfm/jkIQMuxLy48boWDn9kSOrVyP+o2LHjEFb/jYZpLZTp5f3vMxG0leAxPXVBl4plaAYqGlAzznkCeVbazVKengm4RCCYwQaQvTwXIHhqjniiy6yr2Z5KklAy3Z0XmgJqGz9YavM2B6QGdURCnaSSBvotymyAfL/NIgDpoPl84q0PYcig==;e6WHdadPKvKToCmFs49yXA=="
 ---
 

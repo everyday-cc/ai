@@ -45,6 +45,20 @@ related:
         width: 700
         height: 390
         isCached: true
+  - title: "Self-driving cars will be on UK roads in 2026, says Transport Secretary"
+    excerpt: "“Probably by as early as 2026, people will start seeing some elements of these cars that have full self-driving capabilities being rolled out. “We already know the technology works. You can ..."
+    publishedDateTime: 2023-12-27T00:00:00Z
+    webUrl: "https://www.independent.co.uk/tech/mark-harper-parliament-james-may-government-california-b2469851.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/2023/12/27/08/50fbd33f0c545bb34e65c86a220cb1f1Y29udGVudHNlYXJjaGFwaSwxNzAzNzUyNjU5-2.74504544.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "q7iCmKLVY5RDZ5jJq6B6RMzo0opufXavwKfV0a291WmeP42hw+iB8k3VPEwbAH+SdGoaxzXlo8Vdpisn1OVQt18S2n9zAN3aOQ2KRBsL4O9YQymLGhqwxKPURhCV3APCxBQUAq5zKIDZHe5dg/cDCZthcKOKu32zGn8+eKO+W3hIWE1xyNLFidASqzylE/SS4svyzJh5C/0sRhSf2xTTxhdr+OJh8t7InubXBu4X87j+aLJh5XPOa7VpoP32q0OJMZmJ/U0DjuvvUKklh3u93wNJN0XgBpWCw5bCOaDIyM1MWJ94Wb7CX35LhaS3YjUuBWUIzkmsjgKXbT8ol8in8yGZ9HFXFgRVz9IkQCEluuFenE7VKRftKJQ1BqYi4lTZE20nOvWvXxd0HC78m7A/7z8EUjRgvzPyT21z4koewWifEThMBegdkR3hJPVVFBBpuqWBSs61Bdw+nJvJEbevFA9ksV4zK5r6JvwKLacxglLW5TGNhQkEYjWMkR0dGvscO3FQLYV73bpYcDkEo3h+MA==;BAqwY2h9CScNdldNAI/Jvw=="
 ---

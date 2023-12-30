@@ -33,6 +33,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Big Tech outspends venture capital firms in AI investment frenzy"
+    excerpt: "Microsoft, Google and Amazon crowd out traditional Silicon Valley investors in blockbuster deals with AI start-ups in 2023"
+    publishedDateTime: 2023-12-29T15:35:00Z
+    webUrl: "https://www.ft.com/content/c6b47d24-b435-4f41-b197-2d826cce9532?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "MjpunUXWR5u7ulI0wiDEutxu+hPm/UaVyK5dvYhmwfJPOmTJabBef2cWeq3xzfiDT5ap9XUBZuRHPpsk669y9tVeCFxoIPfEjzxt1kZRwt6oB0ubPzrt/J9UvP58EFQwm3KedtaqmtDZlzOiR1D6KP5nqb7YSvVAGV57I3yukDDgic6S/7dSykunTypFbf8yGXUmLr9TB3rCoxs4sVTSFkByMsY3ss/F7CFhV5fdN5msE9JCil0sBF3+fhJNJc76MqdA+wA/eDbNWmuzZAMBmnikAATGAGBiuXOKyuFdWCDslXp/yiVGMAxoviWX3bnPIBmp8q3VJreEK0xrR8Gl5BirmT6smBIIormlBxLPlbPKApdV36ewIMJwmFiQ+AzKw9M/C7rwBh0m1k8KaPz47vww/EUFfUm4VX38B1VCImgcOOZKv79hgwcIjQG4iDq2gEPlieSiG4tPQA9hLJKNCg/kGr/GnWtA6Bk9a8wN85bpDRPNorcfITG29hhaoqSMME5j6LT7FPMwtFhXo/OxtQ==;jsoIR1iHs8Tzt2CeMhElww=="
 ---

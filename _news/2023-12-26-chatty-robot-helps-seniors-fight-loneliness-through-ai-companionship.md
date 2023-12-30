@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Networking through Introbot, an AI platform that helps discover and build professional connections"
-    excerpt: "Introbot is an AI-powered platform that helps attendees access and nurture business relationships with relevant decision makers at events and business communities."
-    publishedDateTime: 2023-12-25T01:50:00Z
-    webUrl: "https://yourstory.com/2023/12/networking-through-introbot-ai-platform-for-professional-connections"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 40
-    images:
-      - url: "https://images.yourstory.com/cs/2/fe056c90507811eea8de27f99b086345/CopyofImageTaggingnoframesEditorialTeamMaster16-1703156713799.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "QAkShVe6ze4tNucSZ1eoMzrkZosaSkP0Bcmvz8ZVkrRdnbV3DVXLTh79BU+G1TCRIYgr5XBhdopXZ6axV0CmVIcy9LZ6bK/tfEEY1avJVfPgMRV8VGZRO15urF8IsXXr7y58JFYnOwpfFbkq0PeznydaUCKLDzgR/gzY1WHUzlk/MdDlx/4zZSegNtYuYef9cenI74yYoIiBIp+m8BzMqwNU2ofkfiLn3D2QkqyBXpviXmgW2lJK/P1ZOf9ospxKmOM7vpX+PhBaylDKHX48NJXGP/D4eIgTVF6hLRIVrd/QhzByLCTheFcl1GLwFV0x0z8oz9Pucs2TKdb4eoA0FGsqGDJbhgT1wMV/bKJ03Ldpd6oZTs3QhI/C7AoBeuqWJ1GAnBUE+2jK79gzKMGY3D6D9kjS9Hb5y+LszdZ4KsMjKWmkjoG+KtDzMBmWEoG6OLNM+ZxJ92SCQltMOEOXzQmSxifCsOsNQkmYqRO3jYRaEJgvrT/PE78Kp5tQtW/pEiBdcJvEanc4yO3WI3LH2g==;CUkbpdYQAJmmvxRajpKbvQ=="
 ---
