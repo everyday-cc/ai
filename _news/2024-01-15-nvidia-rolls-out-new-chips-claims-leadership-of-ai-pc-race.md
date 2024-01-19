@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Opinion: How Generative AI Could Boost Aerospace In The 2020s"
+    excerpt: "Here’s to a promising year in the aerospace industry, driven by record commercial aircraft deliveries, a steady increase in airline passenger traffic and a strong maintenance, repair and overhaul (MRO) sector. There is a good chance the industry will reach pre-pandemic revenue levels by mid-2024."
+    publishedDateTime: 2024-01-19T11:38:00Z
+    webUrl: "https://aviationweek.com/aerospace/emerging-technologies/opinion-how-generative-ai-could-boost-aerospace-2020s"
+    type: article
+    provider:
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 39
+    images:
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2024-01/vwpt03-brazilphotos-alamy_stock_photo_promo.jpg?itok=NzFacAnK"
+        width: 1024
+        height: 577
+        isCached: true
 
 secured: "hLwQXztgMZ1BNnk5mw2tuPIW9Rf7hK/Xb7wM29+2FLXTxQ6zUpyRW5TB9D8Uogw76qSOm9HS+bV2A+t4S6oi1f7oXSt/E6qwgMkIDUNcZMbEJ+pr92MUiehT9ZzMcp2vAVWzWo/1uAqk4VXGQO/+K52RFaQ8TJfhRp8rfNL+BPCxY/MLAuqa3lRwREwlZnxxYcYFnLc6Er813BU0wOFPy6FlLZ8GgNjItD3vovz2Mjsvmz6groTrHTPuJRbspjf8w9lgAk2yJ+Mq6bcyk5U0gZ+N6uo94orpve9mbzWWkkXl53BWluK8ErgWom8U/V310huSIsyn3PXVwKlPyKVyGtils8xIiYPu1sHsUjUNLOAGTiNhl0FWg/Pz10BSSFVjpBgodTshyG49/pxZCJrfq62lA3sPXZAKKgh+0EI9cwLzcCFGYEFZ/OOkYZzmcZmMUjW1WfJNM+WmxdcVNKumESTh/PxtVrCZAiniX2BtjqTdwso/156F8uUwoBj0mMseqSCDxAQnGGWXQU1PXSdVyw==;T9KqI0wFdK5yJVPGf1JqGw=="
 ---

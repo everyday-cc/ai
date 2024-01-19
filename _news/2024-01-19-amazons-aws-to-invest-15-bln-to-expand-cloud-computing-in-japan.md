@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS to invest $15bn in cloud computing in Japan"
+    excerpt: "Amazon Web Services (AWS) is planning to invest 2.26 trillion yen ($15.24 billion) in expanding its cloud computing infrastructure in Japan by 2027. As part of this investment, the company will seek to expand its data center facilities in Tokyo and Osaka."
+    publishedDateTime: 2024-01-19T12:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-invest-15bn-in-cloud-computing-in-japan/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-533959897.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
     excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
     publishedDateTime: 2024-01-19T06:01:00Z

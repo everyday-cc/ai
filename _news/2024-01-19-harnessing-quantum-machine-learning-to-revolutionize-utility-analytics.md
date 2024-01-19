@@ -33,7 +33,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png"
         width: 1400

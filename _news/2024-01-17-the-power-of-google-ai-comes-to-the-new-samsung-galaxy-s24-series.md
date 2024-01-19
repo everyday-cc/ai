@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/am
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
 type: article
 quality: 109
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bard AI is coming to Google Messages"
+    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+    publishedDateTime: 2024-01-19T09:19:00Z
+    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
     excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."

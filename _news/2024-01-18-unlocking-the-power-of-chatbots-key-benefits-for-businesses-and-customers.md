@@ -31,6 +31,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Seven Keys To Making Generative AI Work For Your Business"
+    excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
+    publishedDateTime: 2024-01-19T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Davos 2024: On Day 4, the business of AI dominates"
     excerpt: "As the third day of World Economic Forum in Davos was filled with the talks of the never-ending geopolitical tensions, the emergence of Sam Altman on the penultimate day of the annual jamboree put the focus back on AI. He assured artificial intelligence won't replace human care for each other, just like computers didn't kill the game of chess."
     publishedDateTime: 2024-01-19T03:30:00Z

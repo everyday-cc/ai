@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/how-to-organize-your-schedule-with-g
 webUrl: "https://www.geeky-gadgets.com/how-to-organize-your-schedule-with-google-bard/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "How to Future-Proof Your Workflow with Google Bard"
+    excerpt: "This guide is designed to show you how to future-proof your workflow with the help of Google Bard. The dawn of a new era in the workplace has arrived,"
+    publishedDateTime: 2024-01-17T09:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-future-proof-your-workflow-with-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/workflow.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UnumejDBXcqlmk7LFvncxKqHo7UkiDFP/MmO8mdGUnxGrwOpMcdN+zvnfzavWWLWnd5dB7uq5l6U6nTVW38ZyPPHoZt/cnsryTEe1kItsp1uNWVbm1lJCMnAfBmSP7/LEuL3da7BybWiBI/zQAsLHoWkJeWwO0LjxudcEBKtaf21S+p5z6sI5LKlwzb9xlE+8I94OqZXk+tXJUz7qtniY9MYjRKlzudAu6rrf7pse90E6nSjM3k8F7+xgVLyJw+Q2fiZpe9/wT2KxQQHtau2cqwYwB/zKq4q7siSgVPF9pG/80WJXUKjUFrCeoTusdwqifCZbgGyn9IUvoWgdZi1oawmW+Alh1mSdEox9rlEEsE=;ZLqnd2pGtgaS2ntKmpkIxQ=="
 ---

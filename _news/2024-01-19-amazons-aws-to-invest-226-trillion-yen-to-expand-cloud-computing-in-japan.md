@@ -35,6 +35,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "AWS to invest $15bn in cloud computing in Japan"
+    excerpt: "Amazon Web Services (AWS) is planning to invest 2.26 trillion yen ($15.24 billion) in expanding its cloud computing infrastructure in Japan by 2027. As part of this investment, the company will seek to expand its data center facilities in Tokyo and Osaka."
+    publishedDateTime: 2024-01-19T12:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-invest-15bn-in-cloud-computing-in-japan/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-533959897.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ybqUYq9A+opjoo1CQG65Pzy6TDirWey8YxxsUuw91jw+AvTvrl0BOz9R54lwUotBM6rAOoZ75+URFn3Mgle5t85wRVdbvafK67Tc3r7ujuB+qUr/9WZjXaSuDWqtSZ9+X6HMYVxJ50u2qHD0PBaMHWzqJ+1o5w7/Zgs+Xe7Dj0Jc6RRnHHvp0P3QVQnDyS6dL3ycoyH5uoQCgh94cd4aWRBGJNXq3P6rr7EZ3faN0SLetcJ51iojEpW8eDuHLJGtDmN2ZJYLcXSdTK1G87yopT5JdV//OKBGz72EzyicQXQS6IVWvYidbwKUK/PY7RWHk5NQMKC7yuQRH42C6/m9vxE1xf26NqdIxaHkUGTPu7Cmw3Xyo4/bJYSscGM4IyR6JA8ceTB4iCUEAaGQgz7AA8qObSSe0PBni56IXuwzke17404fh34ywDtvOVyCfhi+QwC3FzYwIVRHTlcN1c37RvIGPG9B51QtiKRzZHKfkdgErLuHLbKMZxeHoJkqjGBIQlWAXUieUwnBpqULU4PDKw==;o0BSCEuuSwoi5S15xKdIGQ=="
 ---

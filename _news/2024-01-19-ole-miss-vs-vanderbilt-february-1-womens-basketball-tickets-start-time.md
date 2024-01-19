@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kennesaw State vs. Bellarmine February 1 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Thursday's ASUN slate includes the Kennesaw State Owls (12-6, 3-1 ASUN) facing the Bellarmine Knights (4-15, 0-4 ASUN) at 7:30 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
+    publishedDateTime: 2024-01-19T11:24:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/01/kennesaw-state-vs-bellarmine-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
+    images:
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/7NWY6NKRP5KBFAVAZN33VSMNVM.jpg?auth=1587cb14b395d0050edf47f62869531bdc2eb9ae0cb3a53163b2aede60d3e1fe&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wild vs. Panthers January 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Florida Panthers' Sam Reinhart and the Minnesota Wild's Kirill Kaprizov are two of the best players to watch when these squads face off on Friday at 7:00 PM ET, at Amerant Bank Arena. Kaprizov is a leading scorer for ..."
     publishedDateTime: 2024-01-19T06:21:00Z

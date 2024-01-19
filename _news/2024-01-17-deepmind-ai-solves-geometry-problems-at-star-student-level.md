@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
+    excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."
+    publishedDateTime: 2024-01-17T16:42:00Z
+    webUrl: "https://www.ft.com/content/c4153a8e-8eeb-4000-b16e-fa09c828bd72"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 63
   - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
     excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
     publishedDateTime: 2024-01-18T11:00:00Z

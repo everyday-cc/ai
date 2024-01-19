@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-13-cruise-casts-shadow-on-self-driving-tech-at-ces-2024.md",
+      "title": "Cruise casts shadow on self-driving tech at CES 2024",
+      "excerpt": "LAS VEGAS — Self-driving vehicles and advances in automated-driving technology have been a CES staple since Audi drove an A7 autonomously from San Francisco to Las Vegas nine years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
+      "originalUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-smart-construction-future-hd-hyundai-collaborates-with-aws-to-pioneer-unmanned-autonomous-sites.md",
+      "title": "Smart Construction Future: HD Hyundai Collaborates with AWS to Pioneer Unmanned Autonomous Sites",
+      "excerpt": "LAS VEGAS, Jan. 12, 2024 /PRNewswire/ -- HD Hyundai, a global leader in heavy industries, is teaming up with Amazon Web Services (AWS) to lead the innovation of future unmanned and autonomous construction sites. This collaboration was announced at Consumer Electronics Show (CES) 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2317101/image_123650291.jpg",
+          "width": 400,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages.md",
       "title": "How Data Extraction Artificial Intelligence Is Helping to Alleviate Health Care Worker Burnout, Staffing Shortages",
       "excerpt": "Bevey Miner, executive vice president of health care strategy and policy, Consensus Cloud Solutions, shares how extraction artificial intelligence is helping train machine learning models to recognize and extract information from documents,",
@@ -41,6 +118,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-nec-achieves-tx-ramp-level-2-certification-for-suite-of-biometric-and-face-recognition-solutions.md",
+      "title": "NEC Achieves TX-RAMP Level 2 Certification for Suite of Biometric and Face Recognition Solutions",
+      "excerpt": "NEC Corporation of America (NEC), a leading provider and integrator of advanced IT, biometrics, communications, and networking solutions today announc",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -945,136 +1056,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
-      "title": "Educators raise concerns over the ethics of AI in the classroom",
-      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
-      "title": "ABB Acquires AI-Based Navigation Startup",
-      "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "originalUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2024/01/ABB_Sevensense_I.65a00cd4d0ff2.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C200%2C2249%2C1265&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams.md",
-      "title": "Rigetti Computing Awarded Innovate UK Grant to Develop Quantum Machine Learning Techniques for Financial Data Streams",
-      "excerpt": "Rigetti UK Limited, a wholly owned subsidiary of Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced that it was awarded an Innovate UK grant as part of the Feasibility Studies in Quantum Computing Applications competition.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams-1032960520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams-1032960520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

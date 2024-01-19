@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/databricks-and-credo-ai-unite-for-respo
 webUrl: "https://venturebeat.com/ai/databricks-and-credo-ai-unite-for-responsible-compliant-ai-at-scale/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

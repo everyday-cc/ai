@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-18T00:00:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/"
 type: article
-quality: 71
-heat: 81
+quality: 73
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png"

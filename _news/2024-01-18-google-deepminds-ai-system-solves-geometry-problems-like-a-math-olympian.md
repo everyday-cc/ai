@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geome
 webUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/"
 type: article
 quality: 100
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
+    excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."
+    publishedDateTime: 2024-01-17T16:42:00Z
+    webUrl: "https://www.ft.com/content/c4153a8e-8eeb-4000-b16e-fa09c828bd72"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 63
   - title: "DeepMind AI solves geometry problems at star-student level"
     excerpt: "An artificial-intelligence (AI) tool can rigorously prove whether geometric facts — statements about two-dimensional shapes such as triangles or polygons — are true, just as well as competitors in the International Mathematical Olympiad, a competition for school students. The system, called AlphaGeometry, was described in Nature on 17 January 1."
     publishedDateTime: 2024-01-17T00:01:00Z

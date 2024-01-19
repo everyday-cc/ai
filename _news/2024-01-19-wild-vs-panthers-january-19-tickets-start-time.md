@@ -7,7 +7,7 @@ originalUrl: "https://www.wowt.com/sports/betting/2024/01/19/wild-vs-panthers-bu
 webUrl: "https://www.wowt.com/sports/betting/2024/01/19/wild-vs-panthers-buy-nhl-tickets/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Kennesaw State vs. Bellarmine February 1 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Thursday's ASUN slate includes the Kennesaw State Owls (12-6, 3-1 ASUN) facing the Bellarmine Knights (4-15, 0-4 ASUN) at 7:30 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
+    publishedDateTime: 2024-01-19T11:24:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/01/kennesaw-state-vs-bellarmine-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
+    images:
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/7NWY6NKRP5KBFAVAZN33VSMNVM.jpg?auth=1587cb14b395d0050edf47f62869531bdc2eb9ae0cb3a53163b2aede60d3e1fe&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ole Miss vs. Vanderbilt February 1 Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Ole Miss Rebels (12-5 ... Prairie View A&M January 22 Women's Basketball Tickets & Start Time Jackson State vs. Prairie View A&M January 20 Women's Basketball Tickets & Start Time Mississippi Valley State vs."
     publishedDateTime: 2024-01-19T06:50:00Z
