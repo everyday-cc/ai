@@ -2,6 +2,221 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-this-openai-backed-startup-builds-humanoid-robots-it-just-raised-100-million-with-this-13-slide-pitch-deck.md",
+      "title": "This OpenAI-backed startup builds humanoid robots. It just raised $100 million with this 13-slide pitch deck.",
+      "excerpt": "Norwegian startup 1X, which has raised funds from EQT Ventures, wants to tackle labor shortages with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
+      "originalUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/659fe638dcdb354a9856a3d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-united-imaging-intelligence-highlights-dedications-to-advancing-intelligent-healthcare-at-rsna-conference-2023.md",
+      "title": "United Imaging Intelligence Highlights Dedications to Advancing Intelligent Healthcare at RSNA Conference 2023",
+      "excerpt": "The Radiological Society of North America (RSNA) has concluded its annual meeting in Chicago, IL, serving as a platform for revolutionary advancements in the field of radiology. United Imaging Intelligence (UII),",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
+      "originalUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/image_5006315_6860386_0.jpg?h=252f27fa&itok=WXDb_m7W",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
+      "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
+      "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
+      "originalUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-casper-labs-announces-blockchain-based-ai-governance-tool-built-using-ibms-watsonx-platform.md",
+      "title": "Casper Labs announces blockchain-based AI governance tool built using IBM’s watsonx platform",
+      "excerpt": "Casper Labs, a flexible blockchain solutions company, today announced that it’s working with IBM Corp. to build an artificial intelligence governance tool that uses decentralized ledger technology to introduce version control, monitoring and access controls for AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
+      "originalUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cybersecurity-hand-reach-binary.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-match-made-in-heaven.md",
+      "title": "Crypto And Artificial Intelligence: Like Peanut Butter And Jelly? 3 Reasons These Technologies Are A Match Made In Heaven.",
+      "excerpt": "More experienced traders who are bullish on the AI space may choose to use a leveraged ETF like Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares UBOT UBOT is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/11/screenshot_2024-01-11_at_10.25.17_pm.png?width=1200&height=800&fit=crop",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36597829",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36597829",
+      "publishedDateTime": "2024-01-11T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
       "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
       "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
@@ -799,231 +1014,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ai-starts-to-show-promise-as-tool-to-sift-mountain-of-sustainability-research.md",
-      "title": "AI starts to show promise as tool to sift mountain of sustainability research",
-      "excerpt": "AI starts to show promise as tool to sift mountain of sustainability research on facebook (opens in a new window) AI starts to show promise as tool to sift mountain of sustainability research on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "originalUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F75aac64f-29af-40b1-a3a9-d0c1ffe8c05c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-how-aws-responded-to-the-generative-ai-wave-of-2023-and-what-it-pros-should-expect-in-2024.md",
-      "title": "How AWS Responded to the Generative AI Wave of 2023 (and What IT Pros Should Expect in 2024)",
-      "excerpt": "When 2023 began, Rada Stanic, chief technologist for AWS in Australia and New Zealand, imagined the year would be dominated by helping customers build more modern data platforms in the cloud, with a bit of artificial intelligence and machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/AdobeStock_458675015_Editorial_Use_Only.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
-      "title": "Microsoft Azure - statistics & facts",
-      "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
-      "originalUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
-      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
-      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
-      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
-      "title": "AWS Announces Inaugural Education Accelerator Recipients",
-      "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
-      "originalUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/d492891/2147483647/strip/true/crop/5120x2489+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F46%2F22%2F58ae34074806a39b762607ab65ab%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzk1MTczODc0L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2MzkwOTA5NDEsICJtIjogMX0sICJQT1o1bVMwL1IvcWxmNHhRQ2gvVE44VDB2VGsiXQ%3D%3D%2Fshutterstock_1795173874.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

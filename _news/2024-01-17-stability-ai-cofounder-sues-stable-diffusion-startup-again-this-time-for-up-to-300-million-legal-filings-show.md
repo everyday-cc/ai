@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/stability-ai-cofounder-sues-startu
 webUrl: "https://www.businessinsider.com/stability-ai-cofounder-sues-startup-behind-stable-diffusion-for-up-to-300-million-2024-1"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI design startup shuns Stable Diffusion for in-house foundation model"
+    excerpt: "AI designer Recraft is building a foundation model. The move will ensure higher quality images than Stability Diffusion, the startup says."
+    publishedDateTime: 2024-01-19T08:45:00Z
+    webUrl: "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-6.jpg&signature=6dbb2ed935c496dab1e0d3f9d9e15cf2"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "8SJZtYQe34lgX00M17dba7tkXq5Tuv7s8aYJS8skC/2Sb84WeqfZojvLNRIG3rq8bP7cGCG1grn5W0Rp6fLAlK0fdWdkdLuwN5kE2Gg5PAX7EEyd2GDimtZ2/IiXXkIFzONvJJnyKHSrzYNpDNoERNCJZFN7ql5/bAioAe1KixzWP9XdnZLui7ABcjn6ky/d/OGRGrJ4IzDrHn/5knXiQ2PgRQY2h7rUy/A/f17DZMKhegrmm60rlHpANznwPmtGRaGj7vReNAJp4kl62o/gzW4NVC2JKV0OhzJ88zxWklj355saNaza7BNd2gZkSQZ3Xlrx6AIY8wwbiQMkHU1yRN9QZsuAESI4wy5Q3LEMyB6kTDFyty4JkwdiH3DogKd3YPlb3v/ig0TskDLeAj3JdZOlYbNOm4kZRxwoEV06/w4hMD4yuni8i+efwzZMua0D83eYJKBiV1YMBeentX/AfpprPGH2FY4mswT+S/dtKBmmrRcYGOkWhYNrIV4YxmGnYA8i+wzpFgGv1GoqLLSWpw==;l4jsXiz9SQ0PJbOvtPjsYA=="
 ---

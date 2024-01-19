@@ -7,7 +7,7 @@ originalUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21280
 webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21280933/harnessing-quantum-machine-learning-to-revolutionize-utility-analytics"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Brains Behind Multi-Characteristic Analytical Tools Revolutionizing Business Reporting"
-    excerpt: "The future of business isn’t just about numbers; it’s about understanding the story they tell,” says Vijaya Kanaparthi, a trailblazer at the intersection of finance and artificial intelligence. In a world drowning in data,"
-    publishedDateTime: 2024-01-17T10:45:00Z
-    webUrl: "https://techbullion.com/the-brains-behind-multi-characteristic-analytical-tools-revolutionizing-business-reporting/"
+  - title: "8 Best AI Data Analytics Software & Tools of 2024"
+    excerpt: "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ..."
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
+      name: eWeek
+      domain: eweek.com
+    quality: 71
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/1-37-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "cBQa2jBQubYr2uN69jKd8IkX/9yIMUdRmOlckuWqUABnKD5ONutdVuLC0jtiE+Jc49uEoauJGlj+ln+ZrOPBhxqQraxUFWfpBzSkSc1J8qL39S3a7qX5blOk7pafiYf78a68XmJwNtTuep9rRXbzbO3xIQFe4CQstECOT+97UICvceEveMGb8R9KRQCzY+R2KXE2n6PhJLhqE9TdWVeoRZcb2Aw1Y4p6AEsQE3G2YmghWZtudHWT+9dOQFBERmMf6cuO7QtFPK5Px8ktaqlke7eiW7u1V6sZP9OuOzWc8hkAHRhH8p46WH0+0RskLqTs+YZp64FwDU6btH9hrW46DECkdbQ+jK8XNF6kXavi08J0yoxIlo9l5JAYtAPxyC4xv+00CCIUGc6d1gMZ156repy7B4GmKyKRP0u5kuIC9k8RWjRaGaYJMpN4DZrEcpRTWNwv/eZV8ELxawVdkQ0VcsBVPkB0aVswSEnjIcFm5a5dFc1Vf7tjkthl7ongBDMROQolHy29YIX3N/KfXqSgDg==;/20MGybxc2UdaU2AghSikA=="

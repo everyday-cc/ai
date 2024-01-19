@@ -7,7 +7,7 @@ originalUrl: "https://www.diplomaticourier.com/posts/evolution-education-through
 webUrl: "https://www.diplomaticourier.com/posts/evolution-education-through-ai"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta focuses research efforts on ‘general intelligence’ AI"
+    excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
+    publishedDateTime: 2024-01-19T10:02:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/47721887002_11d5bacf9b_o.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Mark Zuckerberg commits to developing Artificial General Intelligence: ‘Want to work on more ambitious problems’"
     excerpt: "Zuckerberg believes that building for general intelligence is necessary to create the products Meta wants to build, attracting the best researchers to work on ambitious problems."
     publishedDateTime: 2024-01-19T06:32:00Z

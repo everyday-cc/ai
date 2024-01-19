@@ -40,6 +40,20 @@ related:
         width: 2311
         height: 1300
         isCached: true
+  - title: "Meta focuses research efforts on ‘general intelligence’ AI"
+    excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
+    publishedDateTime: 2024-01-19T10:02:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/47721887002_11d5bacf9b_o.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "CGI's Machine Vision solution delivers a powerful source of IoT business intelligence by leveraging Artificial Intelligence"
     excerpt: "CNW/ - CGI (NYSE: GIB) (TSX: GIB.A) today announces the launch of new computer vision solution, CGI Machine Vision, which uses the power of artificial intelligence (AI) to transform asset and infrastructure monitoring."
     publishedDateTime: 2024-01-16T11:46:00Z

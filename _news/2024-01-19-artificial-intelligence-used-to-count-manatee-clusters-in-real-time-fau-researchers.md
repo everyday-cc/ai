@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence used to count manatee clusters in real time: FAU researchers"
-excerpt: "Articles and videos about Artificial intelligence used to count manatee clusters in real time: FAU researchers on FOX 35 Orlando."
-publishedDateTime: 2024-01-19T02:43:00Z
-originalUrl: "https://www.fox35orlando.com/news/artificial-intelligence-used-to-count-manatee-clusters-in-real-time-fau-researchers"
-webUrl: "https://www.fox35orlando.com/news/artificial-intelligence-used-to-count-manatee-clusters-in-real-time-fau-researchers"
-ampWebUrl: "https://www.fox35orlando.com/news/artificial-intelligence-used-to-count-manatee-clusters-in-real-time-fau-researchers.amp"
-cdnAmpWebUrl: "https://www-fox35orlando-com.cdn.ampproject.org/c/s/www.fox35orlando.com/news/artificial-intelligence-used-to-count-manatee-clusters-in-real-time-fau-researchers.amp"
+excerpt: "Manatees are an endangered species susceptible to environmental changes. Researchers who track the manatee population in Florida say they face challenges with accurate counting due to their herding behavior and water reflections."
+publishedDateTime: 2024-01-19T09:42:00Z
+originalUrl: "https://www.aol.com/news/artificial-intelligence-used-count-manatee-024301197.html"
+webUrl: "https://www.aol.com/news/artificial-intelligence-used-count-manatee-024301197.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: WOFL
-  domain: fox35orlando.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
 
-secured: "EEn/SAVH9tajwPB7F/Qw3HJKLnU5fmCY3JlBKSL9puQwSK0kMMqklIAE+3rSGx009erhwElIDkaqzAT1ldg7f/NMNi4uEshW5lovOpDszLbW2egoNb3ANlLt7HkQXWiiRPvSLqfokiooFRBD3nNGR1Q3wv3YwIbNjyT/QWmR40xtIjnSQeLOM5wm6/T7GnkFLNK/mkcLjpAnBye3qNBipyR2jW2AnsJaNadUeVe7Wh8OWPbTHzxPG3pj1DSWw+lDKSys6eMUFRbFNzXlV1wBj/9mznMII3HBThdyGWy91fq/pvE7UGmMpIHy8TZv7ud4yRlK4jjrHzaWghCtHLku64ehVpbYkC51sTQYXuxw9R7ySDofMkbyUfUDEQ6CntWdooZZOXrvPpL2hrTSQ7m6gDi3jhIxMEb0K3xwmk3n+dVaWPH71uwm2QLvyA0uIHddZxKPJZpe68m0ByJQkm4Tmi1ZsPGr863fS49OIMFAM2FUY41w/j4LPp6KBNdldp3rChosWZEhh1/JqW/MK+eEdA==;q2qxfOtqW9BnE0ST0LGkXg=="
+images:
+  - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "49pmSmVyCqEIqSFwCrKFM9NvdJPpZjObRXy8pKolwMwtmDjMYVC5MHPG/oODCwBM6FUehKQVUppKi9HDQPG2/JqnREgkxdjmbP7YYSOpvcJlHj66bH5ITMg9961nUsU6PNVyFbvc2QBstNv8Hu8XvxwwvA3yk3lCxGW4Fsr2Zgf0muV5REiUQ/T8U22qB2M+qzW3mx4FfVqvioECSQMz8OwOqFDj+Ng/BOmjAXqZGj1rCmr37zpm6et3iX7v2NznlO3fUPcmCheU7GLPItTk2BgeyjbPUbJ52z2/p9dBseA+f8ahLs/U36y6SY2Rw29k/5rGmvFcalHGPxJBwS/dIPaGQnJ92dfbHBgeNl5B9Kc=;gEjrScUN2nIjRL4n4BXRVA=="
 ---
 
