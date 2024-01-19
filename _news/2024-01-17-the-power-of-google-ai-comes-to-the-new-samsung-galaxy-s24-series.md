@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/am
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 179
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
+    excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
+    publishedDateTime: 2024-01-19T03:08:00Z
+    webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
+        width: 1400
+        height: 990
+        isCached: true
   - title: "Samsung’s Galaxy S24 Phones Call on Google’s AI to Spruce Up Their Smarts"
     excerpt: "The top new features in Samsung’s latest lineup are all in the devices’ Galaxy AI software. Together, they form a testing ground for Gemini, Google’s new large language model."
     publishedDateTime: 2024-01-17T18:00:00Z
@@ -58,6 +72,38 @@ related:
       - url: "https://media.wired.com/photos/65a6c0640c15f050104f7819/191:100/w_1280,c_limit/Gear-Samsung-Galaxy-S24-Ultra-SOURCE-Julian-Chokkattu.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
+    excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
+    publishedDateTime: 2024-01-19T03:52:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    ampWebUrl: "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        width: 660
+        height: 384
+        isCached: true
+  - title: "Samsung bets heavily on AI tricks to boost Galaxy S24 appeal"
+    excerpt: "South Korean firm will hope generative AI text, voice, image and video tools can help it regain top spot in phone market"
+    publishedDateTime: 2024-01-18T11:18:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
+        width: 620
+        height: 372
         isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"

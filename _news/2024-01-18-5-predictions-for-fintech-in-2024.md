@@ -72,6 +72,20 @@ related:
         width: 258
         height: 249
         isCached: true
+  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
+    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1031510"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
 
 secured: "NioS2oETCj8wy22Y4eOSD/RhDuj36fPuTzdZPV55OtkgnjX0g0YShYUIsIZLHVDFmxtq5PRyX64k7wt+aFmcCE5sQcIvKdpO8NDQM/vd+msEvtx6nl9ZlwgelBVtAIVO4TsYXqnF4OSKsPLX/6R01FPtDRCyUWYoW9SFw+rQ6iZ6N2pWV0kUWHeCnvLe2FdDjX9kwHIiViJD045CkVJLX1afCs4hhPMviUHAbXfxtg3G2Sh/znfy/w/LKCMn3eSOcCz+bVoL2wvBJoEsf39blUCTwfjrE4rM6IfnllrSpm9kJHnHkxAiQiLvRdvficIDqzFI5HYXcIeI8jkkX/wUjPF3l5EbRjBV8UNxiE6iGHo=;o0ZvpXmkl/i51Of9nh5i+g=="
 ---

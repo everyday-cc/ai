@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-19-zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it.md",
-      "title": "Zuckerberg on AI: Meta Building AGI For Everyone And Open Sourcing It",
-      "excerpt": "Zuckerberg said that Meta would have a massive array of compute power in its cloud facilities by the end of 2024: 350,000 Nvidia H100s, or around 600,000 H100",
+      "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
+      "title": "Microsoft makes its AI-powered reading tutor free",
+      "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
+      "webUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
+      "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9759419c00e9785da0f45/0x0.jpg?format=jpg&crop=2556,1437,x0,y18,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "publishedDateTime": "2024-01-18T19:04:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "publishedDateTime": "2024-01-18T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,8 +50,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -103,58 +102,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation.md",
-      "title": "Dynatrace and the Microsoft commercial marketplace: AI-powered cloud transformation",
-      "excerpt": "To support customers in getting the most from their cloud portfolio, Microsoft works with partners such as Dynatrace, an analytics and automation platform powered by causal AI, and recognized as a Leader in the 2023 Gartner® Magic Quadrant™.\nThe post Dynatrace and the Microsoft commercial marketplace:",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN10_Blog_240111_FINAL.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -322,6 +269,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-10-how-video-game-tech-ai-and-computer-vision-help-decode-animal-pain-and-behavior.md",
+      "title": "How video game tech, AI, and computer vision help decode animal pain and behavior",
+      "excerpt": "Top neuroscience labs are adapting new and unexpected tools to gain a deeper understanding of how mice, and ultimately humans, react to different drug treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/science/computer-vision-mice-pain-behavior/",
+      "originalUrl": "https://www.popsci.com/science/computer-vision-mice-pain-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2024/01/10/Mouse_VisionOPENER.gif?auto=webp",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
       "title": "Microsoft Azure - statistics & facts",
       "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
@@ -483,6 +474,59 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-volkswagen-adds-chatgpt-voice-recognition-to-some-models.md",
+      "title": "Volkswagen adds ChatGPT voice recognition to some models",
+      "excerpt": "At CES 2024, Volkswagen announced that it will integrate ChatGPT into the voice-recognition systems of some future vehicles, something the automaker claims will provide greater functionality than ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
+      "originalUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/group_horizontal.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1371,58 +1415,6 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-2-red-hot-artificial-intelligence-ai-stocks-to-buy-in-2023-and-beyond.md",
-      "title": "2 Red-Hot Artificial Intelligence (AI) Stocks to Buy in 2023 and Beyond",
-      "excerpt": "The AI revolution has just started and is powering the growth of several high-quality stocks. Tech powerhouse Microsoft sees its Azure cloud computing business as a key growth catalyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/758380/analyst_with_a_calculator__studying_stock_chart_on_desktop_screen.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T07:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-17-the-power-of-google-ai-comes-to-the-new-samsung-galaxy-s24-series.md",
+      "title": "The power of Google AI comes to the new Samsung Galaxy S24 series",
+      "excerpt": "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
+      "originalUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-government-cant-set-prices-for-services-it-doesnt-comprehend.md",
+      "title": "Government Can’t Set Prices For Services It Doesn’t Comprehend",
+      "excerpt": "The odd comparison from above comes to mind as healthcare types go to the federal government in search of price equality in the face of hospital consolidation. A recent piece in RealClearHealth by Lee Gross noted with glee that “members of both houses of Congress on both sides of the aisle are working to stop the existing incentives for hospital consolidation and monopoly pricing in healthcare and increase transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
+      "originalUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8059f9749cdf277b22cb5/0x0.jpg?format=jpg&crop=3620,2036,x0,y185,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-cryptography-use-cases-from-secure-communication-to-data-security.md",
+      "title": "Cryptography use cases: From secure communication to data security ",
+      "excerpt": "When it comes to data security, the ancient art of cryptography has become a critical cornerstone of today’s digital age.\nThe post Cryptography use cases: From secure communication to data security  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T15:34:45Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
+      "title": "JFrog, AWS team up for machine learning in the cloud",
+      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
+      "publishedDateTime": "2024-01-17T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-chatbot-examples-a-beginners-guide.md",
       "title": "Chatbot examples: A beginner’s guide ",
       "excerpt": "Chatbots have become the go-to method for organizations to provide around-the-clock customer service—learn the best ways to use them.\nThe post Chatbot examples: A beginner’s guide  appeared first on IBM Blog.\n",
@@ -199,7 +399,7 @@
       "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -336,58 +536,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
-      "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
-      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
-          "width": 3500,
-          "height": 2239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "publishedDateTime": "2024-01-16T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-16-how-to-build-a-successful-product-development-strategy.md",
       "title": "How to build a successful product development strategy",
       "excerpt": "Explore how a strong product development strategy can help an organization weather unforeseen events or market changes.\nThe post How to build a successful product development strategy appeared first on IBM Blog.\n",
@@ -490,7 +638,7 @@
       "originalUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "",
@@ -533,7 +681,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -688,7 +836,7 @@
       "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1073,154 +1221,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
-      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
-      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T12:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-what-growing-ai-datasets-mean-for-data-engineering-and-management.md",
-      "title": "What growing AI datasets mean for data engineering and management",
-      "excerpt": "Ever-larger datasets for AI training pose big challenges for data engineers, and risks for the models themselves. It’s time to shift our focus to curating and managing smaller datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
-      "originalUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
-      "publishedDateTime": "2024-01-15T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
-      "title": "After AI’s summer: What’s next for artificial intelligence?",
-      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T03:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

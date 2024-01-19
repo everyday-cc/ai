@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-19-ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university.md",
+      "title": "AI comes to higher education as OpenAI partners with Arizona State University",
+      "excerpt": "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/",
+      "originalUrl": "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-18-22.06.46-A-robot-wearing-a-striking-red-and-gold-graduation-robe-and-cap-proudly-holding-a-diploma.-The-robot-is-standing-in-front-of-a-university-campus-in-T.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T03:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-government-cant-set-prices-for-services-it-doesnt-comprehend.md",
       "title": "Government Can’t Set Prices For Services It Doesn’t Comprehend",
       "excerpt": "The odd comparison from above comes to mind as healthcare types go to the federal government in search of price equality in the face of hospital consolidation. A recent piece in RealClearHealth by Lee Gross noted with glee that “members of both houses of Congress on both sides of the aisle are working to stop the existing incentives for hospital consolidation and monopoly pricing in healthcare and increase transparency.",
@@ -1335,59 +1388,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
-      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
-      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

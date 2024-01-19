@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-com
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet The Tiny Startup Aiming To Take On Apple And Meta With AI-Powered Smart Glasses"
+    excerpt: "Brilliant Labs does not suffer from a lack of ambition. This three-person startup is aiming to outmaneuver the giants of Silicon Valley in its quest to develop augmented reality glasses for the masses."
+    publishedDateTime: 2024-01-15T09:30:00Z
+    webUrl: "https://www.forbes.com/sites/zinnialee/2024/01/15/meet-the-tiny-startup-aiming-to-take-on-apple-and-meta-with-ai-powered-smart-glasses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658bee61a150359e89d49439/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "The future AI economy is already here"
     excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"
     publishedDateTime: 2024-01-16T07:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
         width: 258
         height: 249
         isCached: true
+  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
+    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1031510"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
   - title: "5 predictions for fintech in 2024"
     excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
     publishedDateTime: 2024-01-17T17:10:00Z
@@ -78,6 +92,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "050l0kEKTAJ2nTOjmqHXEVLJEVh/0wgIy7bSvenSgsf+89dnimcG7y80tao881pi9wBVloqpodj8UV/75kQTTmkf/GaTucajFonDwkWuuBKu8y6ZUREfE6haizYmkQM2DKpJnPcni0p/OR8Z/10ptmHVZywHn+nzWQtDxXM0bf2lbqMNDPIzdH3zzm2MPvdXKf/jwOjvA5C/rkQQqFBeEqMCYzMfC8lWpuQynRQJbKE9H7rTz0HwIp1FbGsLUD2Lv6A3qC45TS40PQHr470auL9/r5OWEQcxe7yMfX4u34szjJGeeADEzGgLuc1xqsugPmWz5rCLFjlQ+2EwaUV+ELhgxAiGHD1aTBif2L6vJHQ=;paRm+foFbFy3Z0+oDE0pmw=="
+secured: "8AIi2kinQ2FsazYJN+PsBvrC/cjBkaPAc7f6A5+eFUHBmDBePI7JorqhKiGyWbr2Yh8vZgAyGhGrDu80BDF2F72Cg1nrICksdXl2292nJjpMbcvb5Z4xrOBzXP3GB6YudQUeuhYsMXisu4sSQFJaYG0shTtQTomu+cD0qXxTttEpzZLwfvwueshpel/34hCckMXHyPITGrbSjmNuQxt/YhnyjtoG/SaoGlNk9OeSKt5FnJIHkIx98bKtBoI3V4vUjJlAS4ppNo7URvK6D86U7rRrgas39REQqgvj1gHQ6PREALOvUyFoPFbnDI5JVi53zxN04hOS8V/ll/+d5bgZrqCkaBEpgzofJPgZwEmvqCVjG0wHEYDIqDzVj1OWl2P8LNgkc1LxwOvS4F+JJHciCNL8Am5bg7miUIALgyHvG2So0SRtAoA76quBLm8PGLdc+EjDmpUI88GpYhrtW2HoQSWRyWGs5mXvcodpNQfhZuvrziQsHGm3M4BgAcxFYECtsC8GRiXfY7AYVKOe8syo+Q==;HyMOJkHhS10RV3X6m4UYVg=="
 ---
 

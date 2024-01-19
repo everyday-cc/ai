@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-19-meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams.md",
-      "title": "Meta ramps up AI efforts by building chip arsenal, consolidating teams",
-      "excerpt": "Meta CEO Mark Zuckerberg announced that the company is merging its AI research team with a business-focused generative AI team, emphasizing their commitment to integrating AI technology into products.",
+      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
+      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
+      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr",
+      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29598,msid-106972114/file-photo-illustration-shows-meta-ai-logo.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
+          "width": 2237,
+          "height": 1376,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,59 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms",
-      "publishedDateTime": "2024-01-19T02:51:00Z",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "publishedDateTime": "2024-01-18T19:18:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it.md",
-      "title": "Zuckerberg on AI: Meta Building AGI For Everyone And Open Sourcing It",
-      "excerpt": "Zuckerberg said that Meta would have a massive array of compute power in its cloud facilities by the end of 2024: 350,000 Nvidia H100s, or around 600,000 H100",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9759419c00e9785da0f45/0x0.jpg?format=jpg&crop=2556,1437,x0,y18,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "publishedDateTime": "2024-01-18T19:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
         "AI Hardware"
       ]
@@ -127,6 +83,49 @@
       "provider": {
         "name": "insideHPC",
         "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
+      "title": "Nokia to invest nearly $400m in European chips, AI",
+      "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "originalUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png",
+          "width": 1620,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "publishedDateTime": "2024-01-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -474,6 +473,49 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
+      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
+      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1446,59 +1488,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
-      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
-      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/news/local/arizona-education/2024/0
 webUrl: "https://www.usatoday.com/story/news/local/arizona-education/2024/01/18/asu-becomes-first-university-to-partner-with-openai/72257441007/"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - Microsoft AI
   - AI
   - AI in Education
+
+related:
+  - title: "AI comes to higher education as OpenAI partners with Arizona State University"
+    excerpt: "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere."
+    publishedDateTime: 2024-01-19T03:58:00Z
+    webUrl: "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-18-22.06.46-A-robot-wearing-a-striking-red-and-gold-graduation-robe-and-cap-proudly-holding-a-diploma.-The-robot-is-standing-in-front-of-a-university-campus-in-T.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
 
 secured: "RTm6G5h28WXPGNO6YELP2z6bSLrv1EXLlCar+/JChBR97U8mTg9XHlBHa2kNpLNsYgGFN17QwzEhS5BYqT4jU/xrKSPtlf1YQK09XVPYaDn9OoT220if881vEMThAoljc6PyUZyaOFS6ZMXkEbpoAko2kK/9u9ynV5jlx7P9ymQphuQB3mpN324VRlwPM9NICPCJWcur1lPt1pD127Lu6lT0A2KSLLPvv3Q3dI+tGPqX/WHP0LM6RcGgb8YmYADGmuim1W/OMlR4wSgAldUtutaLHWqvJIhGqz9zyjOk+r/pwNeJFVo8c8LuI9JMBMyFGBCpbQveziyB6BEOPfEw8dFh/6W98gdPy/HopHeNKIE=;sbWEEuv2d0bgwSgnzPWFvQ=="
 ---

@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Meta ramps up AI efforts by building chip arsenal, consolidating teams"
-excerpt: "Meta CEO Mark Zuckerberg announced that the company is merging its AI research team with a business-focused generative AI team, emphasizing their commitment to integrating AI technology into products."
-publishedDateTime: 2024-01-19T02:51:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr"
-ampWebUrl: "https://m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms"
+excerpt: "NEW YORK (Reuters) -Meta CEO Mark Zuckerberg said on Thursday that the company was bringing its AI research team \"closer together\" with a more business-focused generative AI team launched last year, doubling down on a push to get the technology into products."
+publishedDateTime: 2024-01-18T22:10:00Z
+originalUrl: "https://www.aol.com/news/meta-ramps-ai-efforts-building-182441346.html"
+webUrl: "https://www.aol.com/news/meta-ramps-ai-efforts-building-182441346.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29598,msid-106972114/file-photo-illustration-shows-meta-ai-logo.jpg"
-    width: 600
-    height: 450
+  - url: "https://media.zenfs.com/en/aol_reuters_29/9289c4bed5255217bb4a4bad5b0c86fa"
+    width: 800
+    height: 533
     isCached: true
 
-secured: "OBc0VgGergZ25cXeWDEqA1lf8OpMK+mPOuOGx+GFplGUa2g3AU9kj2UkTk3rIVEDGFHeh3qFhjQEVpFkh/aZ2yrne3cLmJuiyhynLjvOZjxNjdcOXMKOM4c1GqGVQVITANhCe7ZelFraHNqIek2toU7mWy5pGgHumxrgjbi6iq11WrLMIt0DoBIU24W3BCh04p6OKv3FQvCEaxrcGH1X/6WYkAScj5X1fyvvwkQOXY5swlBuVCnkGjNkQ+Jz99GoirdVOsmc0hBOELLOUtZ+Yv5fEbht+Kes9mikI2oJdMKkNpsh5boM1BAnQSp5+Ouz6ay2MUckavpggyONhql3xj6fCD2xu4HQdRDorXQm/MM=;qvYjsKdNEgfvvK7NXn9R/Q=="
+secured: "0qNtrAfx9uzarz0GYo6mflm7Gdn9hf8WUAx3shS1Gralqu45TCML1MYuADt2Af1EpN43aN1e0hmbbKhXDG92ZXm16Cfen8cfX1gmi8j9fnZCShmWlrDBs187mXLOiLdnwvtq0kSwNGN2jCCDmBj5fR1pRHKBJHoj5yH4Fh7R2u1iyEs+ZKPI4GqAM5Cwmt4aC5hbxoujVcbWDYkM5HOwK+nqCVeGwcNhwIsvj8F2e7dsLdu1JaoZNdyE3cY+IiZ06XfGkT79MJLDfOa+SPK35jrpV6q8IHPa+YaXXIjVP8MdjB5qJQBBeas7ikQM0Q1I5Xcz+dYfdoPTuCvwO3JKXrEuwF9xXfwM3D3fePu6HbE=;UJGR1swr8WB/7gNhD94p3A=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-19-meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams.md",
-      "title": "Meta ramps up AI efforts by building chip arsenal, consolidating teams",
-      "excerpt": "Meta CEO Mark Zuckerberg announced that the company is merging its AI research team with a business-focused generative AI team, emphasizing their commitment to integrating AI technology into products.",
+      "path": "_news/2024-01-19-ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university.md",
+      "title": "AI comes to higher education as OpenAI partners with Arizona State University",
+      "excerpt": "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/articleshow/106972018.cms?from=mdr",
+      "webUrl": "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/",
+      "originalUrl": "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29598,msid-106972114/file-photo-illustration-shows-meta-ai-logo.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-18-22.06.46-A-robot-wearing-a-striking-red-and-gold-graduation-robe-and-cap-proudly-holding-a-diploma.-The-robot-is-standing-in-front-of-a-university-campus-in-T.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/meta-ramps-up-ai-efforts-by-building-chip-arsenal-consolidating-teams/amp_articleshow/106972018.cms",
-      "publishedDateTime": "2024-01-19T02:51:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T03:58:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,59 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Meta AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-the-worst-funding-news-in-tech-leias-new-ceo-cinematic-ai.md",
+      "title": "The Worst Funding News In Tech, Leia’s New CEO, Cinematic AI",
+      "excerpt": "Microsoft’s Executive VP of Business Development, Peggy Johnson, took the reins as CEO soon thereafter, and $500 M of fresh funding flowed into the company. She supervised the launch of its critically acclaimed Magic Leap 2 and shifted the company’s focus to all business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/01/18/the-worst-funding-news-in-tech-leias-new-ceo-cinematic-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/01/18/the-worst-funding-news-in-tech-leias-new-ceo-cinematic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9c4e940ca052540cf6abe/0x0.jpg?format=jpg&crop=3964,2230,x0,y407,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T01:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -199,21 +260,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-19-zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it.md",
-      "title": "Zuckerberg on AI: Meta Building AGI For Everyone And Open Sourcing It",
-      "excerpt": "Zuckerberg said that Meta would have a massive array of compute power in its cloud facilities by the end of 2024: 350,000 Nvidia H100s, or around 600,000 H100",
+      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
+      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
+      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/",
+      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9759419c00e9785da0f45/0x0.jpg?format=jpg&crop=2556,1437,x0,y18,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
+          "width": 2237,
+          "height": 1376,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -221,16 +282,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/",
-      "publishedDateTime": "2024-01-18T19:04:00Z",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "publishedDateTime": "2024-01-18T19:18:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -246,7 +307,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI",
         "AI Hardware"
       ]
@@ -386,6 +446,101 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
+      "title": "Microsoft makes its AI-powered reading tutor free",
+      "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
+      "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "publishedDateTime": "2024-01-18T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
+      "title": "Nokia to invest nearly $400m in European chips, AI",
+      "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "originalUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png",
+          "width": 1620,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "publishedDateTime": "2024-01-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -692,7 +847,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -734,6 +889,58 @@
         "Google AI",
         "AI",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
+      "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
+      "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a89ff7bbe6a0f6c19b549b/0x0.jpg?format=jpg&crop=1598,1065,x38,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "publishedDateTime": "2024-01-18T04:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -893,6 +1100,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
+      "title": "UTAS opts for ISESCO research chair in AI ethics",
+      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
+      "publishedDateTime": "2024-01-17T18:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-circle-or-highlight-or-scribble-to-search.md",
       "title": "Circle (or highlight or scribble) to Search",
       "excerpt": "Circle to Search is a new way to search what’s on your screen without switching apps, available on select premium Android smartphones.",
@@ -994,258 +1244,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-the-power-of-google-ai-comes-to-the-new-samsung-galaxy-s24-series.md",
-      "title": "The power of Google AI comes to the new Samsung Galaxy S24 series",
-      "excerpt": "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "originalUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-government-cant-set-prices-for-services-it-doesnt-comprehend.md",
-      "title": "Government Can’t Set Prices For Services It Doesn’t Comprehend",
-      "excerpt": "The odd comparison from above comes to mind as healthcare types go to the federal government in search of price equality in the face of hospital consolidation. A recent piece in RealClearHealth by Lee Gross noted with glee that “members of both houses of Congress on both sides of the aisle are working to stop the existing incentives for hospital consolidation and monopoly pricing in healthcare and increase transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
-      "originalUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8059f9749cdf277b22cb5/0x0.jpg?format=jpg&crop=3620,2036,x0,y185,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation.md",
-      "title": "Dynatrace and the Microsoft commercial marketplace: AI-powered cloud transformation",
-      "excerpt": "To support customers in getting the most from their cloud portfolio, Microsoft works with partners such as Dynatrace, an analytics and automation platform powered by causal AI, and recognized as a Leader in the 2023 Gartner® Magic Quadrant™.\nThe post Dynatrace and the Microsoft commercial marketplace:",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN10_Blog_240111_FINAL.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cryptography-use-cases-from-secure-communication-to-data-security.md",
-      "title": "Cryptography use cases: From secure communication to data security ",
-      "excerpt": "When it comes to data security, the ancient art of cryptography has become a critical cornerstone of today’s digital age.\nThe post Cryptography use cases: From secure communication to data security  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T15:34:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
-      "title": "JFrog, AWS team up for machine learning in the cloud",
-      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "publishedDateTime": "2024-01-17T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

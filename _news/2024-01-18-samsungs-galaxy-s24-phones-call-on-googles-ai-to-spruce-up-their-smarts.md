@@ -59,6 +59,52 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
+    excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
+    publishedDateTime: 2024-01-19T03:08:00Z
+    webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
+        width: 1400
+        height: 990
+        isCached: true
+  - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
+    excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
+    publishedDateTime: 2024-01-19T03:52:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    ampWebUrl: "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        width: 660
+        height: 384
+        isCached: true
+  - title: "Samsung bets heavily on AI tricks to boost Galaxy S24 appeal"
+    excerpt: "South Korean firm will hope generative AI text, voice, image and video tools can help it regain top spot in phone market"
+    publishedDateTime: 2024-01-18T11:18:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
     publishedDateTime: 2024-01-18T15:30:00Z
@@ -83,6 +129,6 @@ related:
       domain: extremetech.com
     quality: 9
 
-secured: "jX4O67VVCyeTelYG8bsBeyZ/NkcNi0HoK+K+rMWL4+w6mO0HlXIc9zS/1V3r0Qh/FPgRivfHEfRLoRGbE7lmtSY3VkzsvYjQhbFkTebqUfOfJLzDCanz7+Z3cEQODhP5Jzjk9HcJ+bFlTZ4dhEOPX8FPgbAoNsHw/l7uhtX6TrvwAIN421Xv1cKNGvFzI425JPNl+V5kLob5bhkGnvXGGBQUzP4ERDNnRw3jJiSQUh6BplPM4V5SfEjkP147axfg7QxDpdzp0YI1kh2R6kNtDsSzJHT+vn3vWLeiVA7jPLjzc0iuTm5/05WWv31z07589phkF3JtMDaopscRuVV+ADPKvIRLPeEYHQUiwRljJ6w=;ta88AVOocXAv5DfXCUIV3A=="
+secured: "Ma13qKBUDcawxvfih9owr84+FjjlanRVa3AwL8U3MQpXt80YNBj8oti5wVpwCWeetBak3GymivLOV6C6G6S1BkfQ90F84NLtIgYjXBGnxsOu68s1qTnlDTUw0PH6MjE6jI1V5/kiZPSoKv91MvgxBJ9pKRtCERgR8MsPJWNS774ctd7RLMsED6Wo9de8N2VkOkCEa2QB+RUsUWlmHU+a6+lSpXNHy0vuk6bLx96h/8ALMSVTsiJ4na65Rxexky2NWo6rwgAjRBeOgSvyJZY7+upCeYGgQT36XuCfA0tXFbH3oqcEjrLhAIafKyns2Q0UO0Pqo8nJucymxgUVj8boSdwJZnUV0xBwPRE6AU+68T8opdeDQrLjFOt9tzALYWIATEfcPvgrEFaphC92uM1WfZTuUVr4hr6ZMRjJomF3oNmD+BXw7fntqvAtDltuEZxEVQP6hB7FoWkz5bJ5t0esxWxD2IzPJx9Eh02t95b5B6dVn1jnzBM2ceRdp02fIEdOo60DV9UFGIsw58UEbD4ang==;+UfMz0qqd68D/Ykj6dUv8w=="
 ---
 

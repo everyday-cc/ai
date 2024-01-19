@@ -2,6 +2,341 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
+      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
+      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T17:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
+      "title": "How to find out if facial recognition is being used where you shop",
+      "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
+      "sourceUrl": null,
+      "webUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
+      "originalUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://local12.com/resources/media/d62bea90-86f1-4b19-92a7-1929ec5f1d0a-large16x9_OH_FACIALRECOGNITION_frame_1443.jpeg",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
+      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
+      "publishedDateTime": "2024-01-09T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local 12 WKRC Cincinnati",
+        "domain": "local12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-147.md",
+      "title": "3 Global Robotics Stocks To Consider As Market Grows At Annual Rate Of 14.7%",
+      "excerpt": "Fueled by significant advancements in artificial intelligence (AI) and machine learning, the once-futuristic realm of robots is swiftly becoming a reality. The global robotics technology market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
+      "originalUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T14:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
+      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
+      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
+          "width": 668,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
+      "publishedDateTime": "2024-01-09T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-leukaemia-artificial-intelligence-provides-support-in-diagnostics.md",
+      "title": "Leukaemia: artificial intelligence provides support in diagnostics",
+      "excerpt": "IT specialists and physicians at the University of Münster have now published a study showing how a method based on artificial intelligence can be used to predict various genetic features on the basis of high-resolution microscopic images of bone marrow smears.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news826642",
+      "originalUrl": "https://idw-online.de/de/news826642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T10:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-siemens-and-aws-join-forces-to-democratise-generative-ai.md",
+      "title": "Siemens and AWS join forces to democratise generative AI",
+      "excerpt": "Siemens and Amazon Web Services (AWS) set to are make it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
+      "originalUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controlengeurope.com/global/showimage/Article/217183/",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IML Group",
+        "domain": "controlengeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
+      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
+      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T09:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electropages",
+        "domain": "electropages.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-cognitive-computing-market-surges-with-263-cagr-hits-us-1882-billion.md",
+      "title": "Cognitive Computing Market Surges with 26.3% CAGR, Hits US$ 188.2 Billion",
+      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
+      "originalUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Cognitive-Computing-Market.jpg",
+          "width": 768,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-ces-2024-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
       "title": "CES 2024: Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
       "excerpt": "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications. Siemens is integrating Amazon Bedrock-a ...",
@@ -716,379 +1051,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-uk-ipos-new-direction-on-ai-neural-networks.md",
-      "title": "UK IPO’s New Direction On AI Neural Networks.",
-      "excerpt": "UK IPO’s New Direction On AI Neural Networks. Legal News and Analysis - United Kingdom - Intellectual Property, Telecommunications, Media & Technology -",
-      "sourceUrl": null,
-      "webUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
-      "originalUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://conventuslaw.com/wp-content/uploads/2022/04/CH-asset-UnitedKingdomv2_l2r_main.jpg",
-          "width": 1140,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Conventus Law",
-        "domain": "conventuslaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-how-do-we-make-money-with-generative-ai.md",
-      "title": "How do we make money with generative AI?",
-      "excerpt": "Succeeding with generative AI requires the expertise to design new use cases and the ability to develop and operationalize genAI models. These are major challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/08/united_states_currency_money_usa_dollar_sign_consisting_of_abstract_digits_numbers_money_finance_budget_revenue_expense_earnings_income_salary_salaries_growth_by_istock_onespirit_gettyimages-674952306_2400x1600-100854959-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "publishedDateTime": "2024-01-08T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-volkswagen-is-adding-chatgpt-to-its-infotainment-system.md",
-      "title": "Volkswagen is adding ChatGPT to its infotainment system",
-      "excerpt": "Working with the voice recognition company Cerence, VW is adding ChatGPT to its infotainment system. We first experienced Cerence's excellent in-car voice recognition at CES in 2016—back then ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
-      "originalUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GTI_Cockpit_Display-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-what-google-assistant-with-bard-will-look-like-on-android.md",
-      "title": "Here's what Google Assistant with Bard will look like on Android",
-      "excerpt": "Google Assistant with Bard is coming soon, and leaked screenshots showcase the various UI and features of the AI assistant in action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "originalUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T06:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-ibm-taps-taiwan-to-develop-traditional-chinese-llms.md",
-      "title": "IBM taps Taiwan to develop Traditional Chinese LLM's",
-      "excerpt": "Once a leader in artificial intelligence (AI), IBM has recently adopted a collaborative strategy amid the surge in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
-      "originalUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20240108pd210_files/2_b.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-a-computer-vision-and-machine-learning-system-that-monitors-and-controls-workup-processes.md",
-      "title": "A computer vision and machine learning system that monitors and controls workup processes",
-      "excerpt": "More information: Rama El-khawaldeh et al, Keeping an \"eye\" on the experiment: computer vision for real-time monitoring and control, Chemical Science (2023). DOI: 10.1039/D3SC05491H Journal ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
-      "originalUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/a-computer-vision-and.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-vision-machine-workup.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-vision-machine-workup.amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-ces-2024-lgs-new-smart-home-hub-is-a-cute-little-robot.md",
-      "title": "CES 2024: LG's New Smart Home Hub Is a Cute Little Robot",
-      "excerpt": "Really, the bot shares many core functions with existing smart home hubs, including integrations to control other smart home devices. Additionally, the robot uses face and user recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot",
-      "originalUrl": "https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lifehacker.com/imagery/articles/01HKN4FJS7BBMXJ23V3VHNNWW5/hero-image.fill.size_1200x675.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifehacker",
-        "domain": "lifehacker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad.md",
-      "title": "Driverless navigation to charge spots – thanks to Bosch and VW subsidiary Cariad",
-      "excerpt": "Bosch and Volkswagen subsidiary Cariad are testing driverless parking and charging based on automated valet parking. Automated parking service now includes automated charging of electric vehicles. Aim is to create additional benefit for automotive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad/article_727874af-0bba-542a-8819-2c5d63cfc002.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad/article_727874af-0bba-542a-8819-2c5d63cfc002.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -43,6 +43,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Meet The Tiny Startup Aiming To Take On Apple And Meta With AI-Powered Smart Glasses"
+    excerpt: "Brilliant Labs does not suffer from a lack of ambition. This three-person startup is aiming to outmaneuver the giants of Silicon Valley in its quest to develop augmented reality glasses for the masses."
+    publishedDateTime: 2024-01-15T09:30:00Z
+    webUrl: "https://www.forbes.com/sites/zinnialee/2024/01/15/meet-the-tiny-startup-aiming-to-take-on-apple-and-meta-with-ai-powered-smart-glasses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658bee61a150359e89d49439/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Challenging the misuse of AI in insurance"
     excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
     publishedDateTime: 2024-01-18T18:46:00Z
@@ -58,6 +72,6 @@ related:
         height: 600
         isCached: true
 
-secured: "611PLWsIq7HEP5pECFzh+HnMt8ErqX+ZYeHZT2ZqXOwrqeofZK0UNdNoccopdE/fw/cq+YP8ZVVqs6DUbzlTFvkQ6QNE4IrBOgeFnominusV04QQoJ12/dN6PW5cjZhR9WAAgSKx9khGNIDPprH6J2kkLbQRRttG/oP9efWTN9UTD9OPmDaXQt6Wsac3nnmGxdXaKAc4waIG5IFrsM1B/xmEKiwjPv8zF9DAnDHfCID++Sbv0FViHmdH0FxT6hZT1+uxapCkLMcP9lKcWgRSfb0C75WroskzODlqUe1tD4L2lUbCSrzzBXDXo21L9RspV5cjQsg5cEcTI6W7lzDW/lDnmh/p1FcZYpt8t360WdU=;/qc7rk/+5WGYy9NRYTTyUg=="
+secured: "JzQqp5qqdUglYb3m7jdDdNZiCi4GYoezEy0Ukua+6l9qlk/BRm4QgjqO+V7s9ROlcJifuLVNLgnU3Otot8yhlvQPfpjgoolRpraed7T2hoQPiVIZnYNXMvz71ce0RIVL5b9+Ohjf7PbysKFQj0oQpvNa3sa/ZTvVK0pY9RDRCCPKcE5pwQdBleTwRgTnRoBGVjV8hTjwxmgWx2fjImPQVRc7rZhNjEucovbPtfAqEY00ObV7/jk7Nb2nwavigZ2mcEe7EHerhAWO8xL1GAUm+62Q1GwLkpuKrVux/0/Q1muTmnCFaZ8DLdFQXLMeg4g1NQdKiVaGuF0zbfLDvcZB+FLluOggVmgQPg5wawLkcu0CmCZiF6lP7adui/2jc/lXTqv38Uzez5xOFHotJm5YA9aU/cGRnBy4Uyz04aktWaywXnxEATCEx2/VPEvMtT8foLdt/MaHxy3t5bYaLD9InSwDIXbmsf8bgslwYW8tihriTiuHeGg/7Hd93KTvFzGD1uauRTp18SFz8d/nBKx3tA==;x0oENCJf+eGpB6qn3zGK8A=="
 ---
 

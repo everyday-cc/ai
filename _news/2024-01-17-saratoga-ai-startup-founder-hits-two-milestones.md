@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-16T20:46:00Z
 originalUrl: "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/helios-markets-eq-sean-austin-ai.html"
 webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/helios-markets-eq-sean-austin-ai.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.bizj.us/view/img/12430788/austin-seanhelios-11222204*1200xx4383-2465-0-342.jpg"
@@ -23,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "3as6P1pVRJqBEMv6m+sjZBRqqhymkbvEBUCgdahwCC89+iD3uZBrjmy8Ij0uR0VfooBvsoKZ0xLthjbZEUeebuuGUwV3f79WvCWIZENRNnHkOJ6XazHv5Y/Ks6IKLdh7WPqnpXMU29KexlBGrI8/poIozq3eHe3GalOgYltmoDm5xlwsMOo/2v8aB406QoWR230EhO05nlWEAf0M5i49mQlSlp4EJBvLNpU7nkO2mO/8dqSHH5GeMOWRxOpmQYAKjZh71NoDPgvRZg+HAU/7NrEVo5Jwjgq/D4KBOgtRytf8fjbJspSrOW8N9d9h8TfaqargkHz8fcIfbchFIoUZpJiB5Z7LrigiaRKtS23ot9Q=;Mfg1CiACqc/ZJ1qcc8pwRw=="
+secured: "7JodVb/Q2F2lcnrEKwxuioGetZYn6jhmeDdsJ6ECSfrjZ3O9D2clUMjh7sru1UJZdLjKexcKZgt9R4MefA21JpaDjr/zweUxP5frL84ZZm/m7wVfyQtn9HQPhgw6NPVNEkd215Qvm4CDY2kcjzVeZUYIaA4+QMLB2eOJSxFwefhiEhodAMIzEISAl6AmxNKvlR2S3sGmmKzDPQewJ6Q5iUjm+CurjistGk86C11UdWOdgUXGPIL26Ou1vFdozN43AFVZMNwMkpipYVqQSqwciRP7kF2Tkw7sWS43QjgzM4oKqStNJ10rpMyoTNVMlJQpzerT9U7PWBJ3TXRLKmn+a/zjctW2ezOJ8xxtLcfOLKgKo9AxLwRPbIgcx/fOV1khRImnRv3jYdz2g9I7W0PiylsNVBI8ByJoXP/2cB59jrZ7SPgNZEPrdXK2rOijazCvDPW5HjPnL2x38KRK83cPC/psRgmgFqJnjZQxBdsvtr0R7yct9VrP+R7VLylav80xv1HDAkEQ6bkGkiW1DfM7nw==;s8g6aQU80v/8UJRR7TH/aA=="
 ---
 

@@ -14,6 +14,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.popsci.com/uploads/2024/01/10/Mouse_VisionOPENER.gif?auto=webp"
@@ -21,6 +22,6 @@ images:
     height: 1125
     isCached: true
 
-secured: "VlteCLJ22nHdo2NiCSwKIK73tihbFg9kgyGAJJCcxJHt9AkIRvzXwpSQvsa4bLDX36AFH4YBhHgVo3pj5rlbK7jAeBsp2wvLdMp0oKHfSVkl3ChuSezqnsTV2TS3/I4Uv5KB6UKEXtAN2+fMUvxrdpjSo58sUyaYyxResSFWEfF2y8wZKwWIZQG3htuDD11W5KjHRmkUbqrPmDgizkikmyKpNclaIYktjLCjbMcy41t5Xx5LozWN3RuoZntXi9H0KRitlO+rXEdJf4Z4hqNF3cekfzXysLCTm4gyn+3FSy8aSBfCrrqF93uBWSgPBwe39LDA47idCCcAoQJP/Jd67LmJ0p/yYbQEAahQgYoqfEw=;ua5LiCld2DiFN4WkLacQvw=="
+secured: "HSpaRSaZPq5v+odJsw8ynybYqu5UyWtUIdCs4Y47M1RIneDTheK89fQ/6GonyFhLUVyxAMC+8aoF0sN77Zy5Ppp0gGipTc4trO8sr6dn/Ah9mf73p5Vc5xnxrMIyidihF5YcJkIXRUiMzaEfhxIAX4l0AYxrm2PD5TQHHBDXtP9fjKyfHmOPfAT4Ka4fvxininFs0miePqkNrXfdgTTPc9fhyFTahDdSsUHmbJHpfY7ptTFdJeweQZnfgsVAaChvrGsHz+RnyOkPiomA30ZU5dK/QAug47Itrfod4fLAMUgWrbZsLwi3GEgWnlX16dj0hwoLcDuVmD3Yp5i4Je/s8VGrioHDUhhCALkYQv8KZ67mn2KJyYt0Uqr8X2JrFpOphfx/l5UZVkPigIeSO3gFDT14fHSrzAR8NerbqeNXV6xq9U12briRrrn+Q+6PQZqiPIKHceKn34qKF3m9/JuhOD3PZHVQzYJVYa4PX+NZJqLvaeXZCmHZAhvgjeGYNInIt0V8icRHRVniP6ZvLYOq3A==;/BAGBdA7arUIz+gNOo84+g=="
 ---
 

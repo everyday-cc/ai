@@ -43,8 +43,8 @@ related:
         isCached: true
   - title: "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs"
     excerpt: "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes."
-    publishedDateTime: 2024-01-19T02:00:00Z
-    webUrl: "https://www.techrepublic.com/article/leftoverlocals-security-apple-amd-qualcomm/"
+    publishedDateTime: 2024-01-19T03:03:00Z
+    webUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/"
     type: article
     provider:
       name: TechRepublic
@@ -70,6 +70,6 @@ related:
         height: 570
         isCached: true
 
-secured: "BnVEee7BDlkaobfDYp2KmOBlsXeT3yOlziBD+A5fIxFOorOrCvFGI7GU3JTVQlIPjkKiC85yGw3P1B0H/Inm9qcWdo3gqrO33XtpKavTC1BhfgKXjkp5YGp7r25IkvjmZMD9W8maPtbcp53ozAUV13I5X3lpAnGCmNpNHqHvS1e9dNGE8yIbnFWP0Q8r79I2Mfk6lKmTc/7/zbemkS3B4d44Y8c/gURbVsVrt6hEbs0grFMlTZ0tdhGSdv1xee7BNq3TVCA9fFU7BgWN8YmOxKXWusZncIJZVncy7QTdvglceqrWH3eTPOkAdK84mIgLOYFS2ncwJxoiMYaxdKjlxXajrs5Q6hBuqJl5DUDfFzs=;sNYNn0GTjFBqRNr+hCoZyA=="
+secured: "vuvRIKOG0JsXHq94U45FziUoDTOtY21EZ9W2abCQaEdkd6nSoJRUWCL80R24ebw9QG4iNjjGWZeWZ8GfqZg/M/PyNTgbC/4E0HGDJlzrqXytCO5X/ZLcrjH72VYFMw1TlZDe1zeIWN7e1gh3sK7WBUceT34zMURWjY+pi1BgS8UKSQif/7rHCITtEhvCTnriHKx9tLmK3i/M6caU+nZYKGMvPTHZmivz1ymMvZzuxBCO5YkoR0TBGR4HA0JMRgZrZo8JPvqWGz+mx0f975z0DzWvoiInu9BU31TSC8uf5eAWZ88MRt3M1XZSWVNgRPDrdfFK+f41AZy1bQsQn6RNEIn7PFu5KoepPFQ5T9aikoqBcoGm9v2lrI08L5hNdDyMAq9n+2bEuNe72k+tNOa/Y3Vo4dbCe66e3YAfsnnm+ll+eL03nJYVNGACKcEbeQO3hg5zmGvs5394olZTqV9Ql5C8qDiu6EovIHeln8Q/nQOBalADcnyH6mun1J3v1z7ikFqCOESURX0d2Wr2Kk9aZg==;fETIhnYCAT15dHm1qj6MnQ=="
 ---
 

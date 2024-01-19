@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft makes its AI-powered reading tutor free"
+    excerpt: "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ..."
+    publishedDateTime: 2024-01-18T18:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/"
+    ampWebUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dynatrace and the Microsoft commercial marketplace: AI-powered cloud transformation"
     excerpt: "To support customers in getting the most from their cloud portfolio, Microsoft works with partners such as Dynatrace, an analytics and automation platform powered by causal AI, and recognized as a Leader in the 2023 Gartner® Magic Quadrant™.\nThe post Dynatrace and the Microsoft commercial marketplace:"
     publishedDateTime: 2024-01-17T16:00:00Z
@@ -57,19 +73,19 @@ related:
         width: 2000
         height: 1334
         isCached: true
-  - title: "Ontotext’s GraphDB Solution Now Available on the Microsoft Azure Marketplace"
-    excerpt: "Ontotext, a leading semantic knowledge graph provider, announced that its flagship product, GraphDB, is now available on the"
-    publishedDateTime: 2024-01-17T13:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ontotexts-graphdb-solution-is-now-available-on-the-microsoft-azure-marketplace/"
+  - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
+    excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
+    publishedDateTime: 2024-01-16T15:52:00Z
+    webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 66
+      name: Investing
+      domain: investing.com
+    quality: 61
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/01/graphdb-300x300.png"
-        width: 300
-        height: 300
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
   - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
     excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
@@ -80,7 +96,30 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 49
+  - title: "Microsoft partners with Vodafone on generative AI integration"
+    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
+    publishedDateTime: 2024-01-17T09:51:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
+    excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 31
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/01/MSFT_Security_Jan_11_Blog_240111_V01.png"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "MpjpBg8VhuV3DxYM2Dx0tmHG9SkS+12ZIIPjrRqPRQ00V2Ulembx5mmNRVhr/Q2ILacM/ou/CRKTUo1QHz4JNQX70xjCbwB8XwfVt0w/HGI95kLj8GxSFxokIUC5S+yUwabwmE++EJAoXtRSeEc0/tuAcmMAGtFGAWuQmQAbuABnnD2P2TF+hwLiJHYPL4Bljj36ryMdc9AtaaO18cLrwGCF57z08dTW23Mb5TeImviF/gVfwboeFJ24rxfedofID/LRUUHWTixgEhyS8JQQpbD2dHCxG/pyQbljouzfvZzT7G1gPHZUBw/ymwOSjZHk4gSHoUAqdEy+gQxzda5ljJ2iMxNzlxIHBmVsYJPi/kk=;VoP3g8aHU6xa/3uCFlqliQ=="
+secured: "Q4DwmgWEs2npzm9dufJTGizSoN0JwnwOweceq5NhBlsiEZzx03lwqX+vj2JzXupnNFHU6ospYl/CiEcmNVfH1xJdlZf9yrLS2AgJCjGISvnsYWkXvpJ6F/c7/A85ZNHdUJ+E3GHz+lmDJVaTlTxLtb79r4X5a6j9xSbqIyfa9mn38/aSlpUXqfirSYrniI7G8aM3aheA+TUK+FbcEbsLxe7nkGG2K99LJ2yjGfUybchtMXoVtLAZHWXH9im7h2JvXlixDj5uGsqKwb6j2s/SeUHqIn82AySShkT3nqhxg1Pyb/SVXfZHdfxPm0bOA5vNpeVAwjpQ+Bd/+lr2/esY9r7UhK3NMLXpiM1wxm2qYOnwhBct4OXBZsSRyHqVxC7vT192Z9njUxQ7kvcyE8B/VfRoY0o30dmiGONk5DGcGl2lQTe6ZV51Wu/ZNWGNehrhktYu9H1ORSYogni+5Uov0ikPMhLe+igQ0sU6zoCHVZDVSV3ElGmkezhEdb8d+ncTAuXIokeXmwlprqA2jdlGWA==;RKCM7hhZmFX3inbxg6XZnQ=="
 ---
 

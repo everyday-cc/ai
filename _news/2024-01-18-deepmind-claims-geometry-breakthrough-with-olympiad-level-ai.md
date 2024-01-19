@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Google DeepMind’s New AI Matches Gold Medal Performance in Math Olympics"
+    excerpt: "The AI successfully solved 25 of 30 difficult geometry problems, beating previous state-of-the-art algorithms by 15 answers."
+    publishedDateTime: 2024-01-17T21:16:00Z
+    webUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
+    ampWebUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 90
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2024/01/colorful-geometric-shapes.jpeg"
+        width: 1408
+        height: 792
+        isCached: true
   - title: "AlphaGeometry: An Olympiad-level AI system for geometry"
     excerpt: "AlphaGeometry: An Olympiad-level AI system for geometry"
     publishedDateTime: 2024-01-17T16:04:00Z
@@ -139,6 +155,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Could AI kill us all? Inside Google DeepMind, the world’s biggest AI company"
+    excerpt: "A week later, at the beginning of December, Google DeepMind announced a new era for Gemini — their “largest and most capable AI model” and the “next step in our journey to make AI more hel ..."
+    publishedDateTime: 2024-01-18T19:08:00Z
+    webUrl: "https://www.standard.co.uk/business/technology-media/google-deepmind-ai-gemini-threat-demis-hassabis-rishi-sunak-elon-musk-safety-summit-b1131459.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 51
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2014/10/07/18/Demis-Hassabis.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google DeepMind's New AI Matches Gold Medal Performance in Math Olympics"
     excerpt: "AlphaGeometry incorporates a rule-bound logical model that attempts to find an answer, and a large language model to generate out-of-the-box ideas."
     publishedDateTime: 2024-01-18T16:39:00Z
@@ -177,6 +207,6 @@ related:
         height: 465
         isCached: true
 
-secured: "R686y/8gfMT2WfgXP7E7NwTv9MvPRnCIJzyLKl1MMO8LO7ksh5wWkIc/MmyEZQO4FuM3accJDiWZgahBdCjcgnkRVPsp/gS47hkXm7+TUouGJAT8TmpeWPE92/tcjxtclADdYYi8uVbZ7Fd7zFXQVzimh9DghhMv8w5EAeqEvU+A4wdAhDuSSt+swNDeS+OAtLx8723x1McsECd9+8dHuac78GDcRSF94QCjduDvQ27pL1CqLL2sTY9hXIWNTE9abDINOQ7KPue9lUMhqE/xiKJ6wJ+E4N49zsfzRVClDRR8lWAsWckBkJYVKrYYYWQ1M6GTi+m36lu5DilguqdkCJIyyJ+10PHDdMtbvJ7j1S0=;dhrbkM69MvZunj3OT5Gldg=="
+secured: "bS9Q9sUy0OPmpcWg1urWmuOFyNS5lhZhFBCpKOh/Uhf4H9dgACsQF8tApQtO3tKZTNUMsgj7VqyIn5q/zjllgwPI5HSeOg6YRq4lK+HbeJWSOHR8p2h0lbQrs2/8BWNm4CLblc+3P/uGtautPUnjiUPkfscHeyI5+7KuXCuXsXTxRZdCgRqV0y8aYoGnKdWzXT2MHalSMDNRD8c0TWEwhB1Q8NMvdWuKFHG0zxyueif2kTwah3oP7e6CKS7JB/iWVCtp3lndrqvliMTRmVjLKP+c8hPBRDZiHGpe42hfoQyNTkFgkKgu4UxW0yFXalcq3sIMypeXzOzUMxcnyTkcun14G3cGzITX7rFgnm0O3tA54ZIFDMYSLp2dqEwMywzBRHuDN/rSkHTNH0LIr0nCQgRjltzZl/VXD6CA+d1Cr8kVTq2CD+AQJ9cOJcQNK1ZyAkySsnZ9gBl/8EMUb/YznaxHUUYdrEYSQbrXulKrtuKz01lwkPpzOuovuOk0YWU/7DQQUYZ8dgaIg/uy2NsXyA==;x4/MZOf27+RL3sHeCGMYIA=="
 ---
 

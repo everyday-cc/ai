@@ -1,0 +1,133 @@
+---
+category: news
+title: "Samsung bets heavily on AI tricks to boost Galaxy S24 appeal"
+excerpt: "South Korean firm will hope generative AI text, voice, image and video tools can help it regain top spot in phone market"
+publishedDateTime: 2024-01-18T11:18:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+webUrl: "https://www.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "The power of Google AI comes to the new Samsung Galaxy S24 series"
+    excerpt: "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones."
+    publishedDateTime: 2024-01-17T18:00:00Z
+    webUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/"
+    ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png"
+        width: 1300
+        height: 733
+        isCached: true
+  - title: "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers"
+    excerpt: "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps."
+    publishedDateTime: 2024-01-17T19:29:00Z
+    webUrl: "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
+    excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
+    publishedDateTime: 2024-01-19T03:08:00Z
+    webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
+        width: 1400
+        height: 990
+        isCached: true
+  - title: "Samsung’s Galaxy S24 Phones Call on Google’s AI to Spruce Up Their Smarts"
+    excerpt: "The top new features in Samsung’s latest lineup are all in the devices’ Galaxy AI software. Together, they form a testing ground for Gemini, Google’s new large language model."
+    publishedDateTime: 2024-01-17T18:00:00Z
+    webUrl: "https://www.wired.com/story/samsung-galaxy-unpacked-2024/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 68
+    images:
+      - url: "https://media.wired.com/photos/65a6c0640c15f050104f7819/191:100/w_1280,c_limit/Gear-Samsung-Galaxy-S24-Ultra-SOURCE-Julian-Chokkattu.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
+    excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
+    publishedDateTime: 2024-01-19T03:52:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    ampWebUrl: "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 59
+    images:
+      - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        width: 660
+        height: 384
+        isCached: true
+  - title: "Samsung might start charging for Galaxy AI after 2025"
+    excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
+    publishedDateTime: 2024-01-18T15:30:00Z
+    webUrl: "https://bgr.com/tech/samsung-might-start-charging-for-galaxy-ai-after-2025/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/01/galaxy-s24-phones-official-4.jpg?quality=82&strip=all"
+        width: 1599
+        height: 1066
+        isCached: true
+  - title: "Despite the Samsung Galaxy S24's Killer Specs, Galaxy AI Barely Works Without the Internet"
+    excerpt: "Only a few Galaxy AI features rely on your phone's hardware. The rest reach out to the cloud, where Samsung has partnered with Google to use its new Gemini large language model. Samsung promises several features in Galaxy AI: Interpreter,"
+    publishedDateTime: 2024-01-18T20:41:00Z
+    webUrl: "https://www.extremetech.com/mobile/samsung-galaxy-s24s-galaxy-ai"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 9
+
+secured: "Dho5qy47fFERaOzfoxDbTqqNqjqK/H0vR+O3xXoLLwZVTWfE7BRrFRKdyX/R1hxYsCRLQHQU/FSjiy7n2G3uEAVYHJvGdYBq/ZRDmE+elm3o8QPevY7UBXdWj+czuGl3dozoj9P7Sn+vmJGah5E0iPM1nKtPzL08VHVvL/EBoUMdLV+Ex1SIlF8GHnrNz6IBVTSsXaT9eSX3s7040lvsKWd23whDdPNYO0bwYpuItoe0FulaOgOTb4cl6SjpjMFVhQEdwEyfvYZAW0WSD2YfrIboauRKm4KlFluaaHU714Is0c+P9NfpSGACPWCJkUvX3KIUjCH69eG/zTxY+aQP3H9yNOz/D8GiPgozurtTTJg=;olRZ7ilY9wkhMAqqBVxqpw=="
+---
+

@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
-secured: "Hd58Td5FoM5h2s2k5LZjIYhmbk3xvqrMOQ4K5gnIlgYyqPtgSu43cvUwaOwrags3pJ9upo9rl6DXc1ZH9PYzsfODCwM9L6sUoSfBe2+tAdiIO3v2RICHuiyZkID0qt9VWyXpE5Mh/M6Bm9PmQkTowvEFKVRqh4mJ4UwsFxH9wbeNu0eAdmwURSsIE+8W76dUpqb0I+z7GkAIEPIDhNrzfKaHbDe0Hd1GHRsDeqNDf6NGCELu+S82awOxEMqLX9/I28BV+k45/ir8lDg7+AYuOpdK/RgKri+1/G2K9NQr4jUN029jLSRa1XHqzFMgzxKfK5yaRFeBZYnvyoZFkuXOaAyIKEWHpN1D5s0baO+1NZk=;J5PVop05VYzgGWZ06x5h3g=="
+related:
+  - title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
+    excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 14
+
+secured: "/ILOvAxO7hMUi82q1c6D4ZceIST4MBWp3NJ/LB7/eqIHTy+pSX62YlRgxBY2TvStqHqChdebPnL2r955YP1sYEqEaj+sfup/eZM4ekqW+5hN+nfPG3IkDV+q1o6WDHlU2DBWcpk7IIIThM5vnZIeHbRGVRDUrcpDEhLisA8z7NpvWyLwRoSb/EsQK/thuuu51EiKUOXfWQ24pM0sHvpqLHjnAbhWLIzh/DBpmrO6w6L2+VYzseemlPZe+VQLsTfGaSSGPDrsHeuwCM8yRVhQwXCgYkEi7nLU2yqRqpvSRSCZevTFnJnfuzs6BnSlzxJS2ZBnI29/KNBS628kHWBfY+DYaEc61CSfYfYOMAO8Di0MhzAVwuOhd7YjIuY3ak9kW1RdvMPFnE6fp/toXKwVQTUAIaPmtPDc5yY7vHHpOzFE0KULL1t74ComUZ0krEM7TFRmNMlWxOc9rsliIwZ8oJAZVqY+T2z50krJrsQstDZE1hyJAxwaCbd3gNmoPRHdUAuAmvItdmfP0+HiAXrffQ==;JeQTR6GSk1oVddlyWvXLlg=="
 ---
 

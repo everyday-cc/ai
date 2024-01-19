@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft
 webUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,98 @@ images:
     height: 720
     isCached: true
 
-secured: "QSt7eDy/okor28c34lBgyelA15V3i7pyeOErbJ5TNgASxmMFqF4tZUSFuHDo2q+Di185t9wIRHoPDFA5hVoCMBpaqRU25xb9O5fsaInJZhsCXMi2PBtD+OUc2vJExfSfGGSeHb8v725uCHeaBxriDlK+uedkcxlUZGtzP0HKThNl9/A5agkKUKRg+bh/jSLcZ02ob7Ye8qgaC6M4S9CrXioybE9bFagSDsXZkDi5ZSjsprIsRQhahmcnhBMTzfvkKBe3eTbNQVxNhCrpvA6TyPvbjwYIx5pJOEnj1otYZpf8OpZIDi20Jz+aYa/UfH3d5ACWCCtpYEL6i/7AkSP5yA3zk2us+i+erZHZqeGj8I4=;NGp4kyy5QCb9njZjOcVSww=="
+related:
+  - title: "Microsoft makes its AI-powered reading tutor free"
+    excerpt: "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ..."
+    publishedDateTime: 2024-01-18T18:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/"
+    ampWebUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dynatrace and the Microsoft commercial marketplace: AI-powered cloud transformation"
+    excerpt: "To support customers in getting the most from their cloud portfolio, Microsoft works with partners such as Dynatrace, an analytics and automation platform powered by causal AI, and recognized as a Leader in the 2023 Gartner® Magic Quadrant™.\nThe post Dynatrace and the Microsoft commercial marketplace:"
+    publishedDateTime: 2024-01-17T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 98
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN10_Blog_240111_FINAL.png"
+        width: 1260
+        height: 708
+        isCached: true
+  - title: "Microsoft prepping performance and memory guidelines for AI PCs"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Bottom line: Manufacturers are gearing up to flood the consumer market with a wave of AI-capable Windows PCs starting later this year, but they will apparently need to meet a ..."
+    publishedDateTime: 2024-01-18T14:37:00Z
+    webUrl: "https://www.techspot.com/news/101568-microsoft-prepping-performance-memory-guidelines-ai-pcs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
+  - title: "Microsoft's Copilot Revolutionizes AI Investing"
+    excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
+    publishedDateTime: 2024-01-18T22:32:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1338
+        height: 900
+        isCached: true
+  - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
+    excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
+    publishedDateTime: 2024-01-16T15:52:00Z
+    webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 61
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
+  - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
+    publishedDateTime: 2024-01-16T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
+  - title: "Microsoft partners with Vodafone on generative AI integration"
+    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
+    publishedDateTime: 2024-01-17T09:51:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+
+secured: "Up2BTnHOftVFgvXhQROuAfrHmtOgSKq6O1a4Kef3LVow918+nPMNfSjPSiFXR0ehX7+2FpwnsWBQArFZ1YI77QX7LfYE/AoxV1g+/jtJEhXA7+wG8CvI/GfU4mV4iHT+hgTRy2HrD1gMpO4NT3xTmgcZ1HShsrLCgFEhb1wXX0ngNt4gdIjv0KilDRheuFuB0blQmo5EUyPAiR120NpGq70DSMpok2OwdcztiTYSsKlaZctnXJ4OyhuDjOdhuBckfsPSxRG8DUQCiiSOYIT4MsBYyh1u7+XrP/JsatCKO0IKOce0g4d5g6U6+Hn3wCHMK5HkkyceQknmWghu4wDAxHOBy3H1r2HlHp1pSvO+weJ7q+iqWQ/V2/ITDj0Sk7gZk2oBDT4nmogQ6M3Wr2j1SXF09X4TuUOOQGMdiIgCHAbpxWwPDwIqMidwMNuWpL//Gtk8sB8eunFfHZ42zwCldV/mvcV6LI54yfW4j+1mEDWhEJNwGJBIaRZRPq7se6MnkYD5noJnG36BjQZlFvLDjg==;yspb1cz0bD31umr6JAFFbQ=="
 ---
 

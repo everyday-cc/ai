@@ -2,6 +2,246 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
+      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
+      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZOM",
+        "domain": "azom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-top-10-best-python-libraries-for-natural-language-processing-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2024",
+      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/10-Best-Python-Libraries-for-Natural-Language-Processing.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
+      "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
+      "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T20:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-sams-club-is-testing-out-ai-computer-vision-tech-to-speed-up-exit-process-at-stores.md",
+      "title": "Sam’s Club is testing out AI, computer vision tech to speed up exit process at stores",
+      "excerpt": "Pilots are currently underway at 10 Sam’s Club locations and involves a combination of computer vision and digital technology which captures images of carts and verifies payment for all the items in the shopper’s possession.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
+      "originalUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/CES-Sams-Exit-Tech-Lead-100.jpg",
+          "width": 1001,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supermarket News",
+        "domain": "supermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-skeptical-about-ai-in-healthcare-heres-how-some-doctors-and-hospitals-are-using-it.md",
+      "title": "Skeptical about AI in healthcare? Here's how some doctors and hospitals are using it",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and ...",
+      "sourceUrl": null,
+      "webUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "originalUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-should-retailers-use-facial-recognition-at-all.md",
+      "title": "Should retailers use facial recognition at all?",
+      "excerpt": "The FTC accused Rite Aid of misusing facial recognition technology - without informing customers or employees - which resulted in false positives. Learn more about their misuse here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/e5ad716f04bea2080efa6aad02fea87c-scaled.jpg",
+          "width": 2560,
+          "height": 1512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-how-video-game-tech-ai-and-computer-vision-help-decode-animal-pain-and-behavior.md",
       "title": "How video game tech, AI, and computer vision help decode animal pain and behavior",
       "excerpt": "Top neuroscience labs are adapting new and unexpected tools to gain a deeper understanding of how mice, and ultimately humans, react to different drug treatments.",
@@ -41,7 +281,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -448,6 +689,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
+      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
+      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
       "title": "AWS Announces Inaugural Education Accelerator Recipients",
       "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
@@ -737,298 +1021,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
-      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
-      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
-      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T17:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
-      "title": "How to find out if facial recognition is being used where you shop",
-      "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
-      "sourceUrl": null,
-      "webUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "originalUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://local12.com/resources/media/d62bea90-86f1-4b19-92a7-1929ec5f1d0a-large16x9_OH_FACIALRECOGNITION_frame_1443.jpeg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "publishedDateTime": "2024-01-09T15:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 12 WKRC Cincinnati",
-        "domain": "local12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-147.md",
-      "title": "3 Global Robotics Stocks To Consider As Market Grows At Annual Rate Of 14.7%",
-      "excerpt": "Fueled by significant advancements in artificial intelligence (AI) and machine learning, the once-futuristic realm of robots is swiftly becoming a reality. The global robotics technology market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
-      "originalUrl": "https://www.nasdaq.com/articles/3-global-robotics-stocks-to-consider-as-market-grows-at-annual-rate-of-14.7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
-      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
-      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
-      "publishedDateTime": "2024-01-09T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-leukaemia-artificial-intelligence-provides-support-in-diagnostics.md",
-      "title": "Leukaemia: artificial intelligence provides support in diagnostics",
-      "excerpt": "IT specialists and physicians at the University of Münster have now published a study showing how a method based on artificial intelligence can be used to predict various genetic features on the basis of high-resolution microscopic images of bone marrow smears.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news826642",
-      "originalUrl": "https://idw-online.de/de/news826642",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-siemens-and-aws-join-forces-to-democratise-generative-ai.md",
-      "title": "Siemens and AWS join forces to democratise generative AI",
-      "excerpt": "Siemens and Amazon Web Services (AWS) set to are make it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "originalUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controlengeurope.com/global/showimage/Article/217183/",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IML Group",
-        "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-cognitive-computing-market-surges-with-263-cagr-hits-us-1882-billion.md",
-      "title": "Cognitive Computing Market Surges with 26.3% CAGR, Hits US$ 188.2 Billion",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Cognitive-Computing-Market.jpg",
-          "width": 768,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

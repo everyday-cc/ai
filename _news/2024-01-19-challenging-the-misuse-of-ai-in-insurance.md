@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Meet The Tiny Startup Aiming To Take On Apple And Meta With AI-Powered Smart Glasses"
+    excerpt: "Brilliant Labs does not suffer from a lack of ambition. This three-person startup is aiming to outmaneuver the giants of Silicon Valley in its quest to develop augmented reality glasses for the masses."
+    publishedDateTime: 2024-01-15T09:30:00Z
+    webUrl: "https://www.forbes.com/sites/zinnialee/2024/01/15/meet-the-tiny-startup-aiming-to-take-on-apple-and-meta-with-ai-powered-smart-glasses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/658bee61a150359e89d49439/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "The future AI economy is already here"
     excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"
     publishedDateTime: 2024-01-16T07:31:00Z
@@ -58,6 +72,6 @@ related:
         height: 467
         isCached: true
 
-secured: "30rRuyXFMbDXSSf/mVcs6y99MVSvdAY13Q66YcELNkFzOnHlloFgMMV0vnWj+0WzMQ0eN87s5l/yhT1ozGcfh8AQJTAa3Z7jyGHC/hNIgBz01Oa+Feb7ub9d4Z0fv+VTMBDElawYn8su85G8mY/L62WZkeAsUQpPoD0Sbc5rA+ZoeUK/T0WIBaT+EkkMc+h0fHCa2Y9NSQ6RneSon8Ih3ilynzxD8MP0IGSIue/SP6cKchRTj/R7TweD32R/lp5rqcouqqMonbCnVdRVM1oiXJWWt0s8LJaKTVLC8Fs9INXmaYiweouI19rRLWj/fmvUizLCW+iVs6hHG1V7BxvP6J+lrUssmwfcqoQ4bm2zWT8=;0AE0XKQ9vSl4faxdoAMcfQ=="
+secured: "HKkB72yCzFaosl0EpqV9/FjIw/3Yyaz/Q7Ic0G6X52DCP0D4B85jRTZP6SPo/x7k6AhN0dJ817zbJZ3VYYFvPyP30S2EZ0BN8c5Di9y8vvn6WBa6ezaeTVhcHdwlzO/l6ytueQA8c1UMFUPlfH/zVUSHyfi30GRurH3GaGRZK3Sz4nkdr+WrYj+txH6wSRRs6gGM39nCxL05Kv9P+k037rtsdDZAFFz8enMdGbrvjJT3r6Orc0pqOsyqhxuxY+zy6xO+ZB0TDwak7WXXkCwcVBb5FNdgxCLkYLk0hKWRgay/N/JraTKPsxonoKlU3jeoD13R22hdWX68prNroQRQY+oH+/O3JDVHrQ53bhVMTNzY6odObM0bymnDaef58d6K4n0p8zefUfmwBoAqkBIOFDPQioWM2phy7Iwwhm1OgU+79olmuD7phq/+YVF/yJ03BSL0/bYnKgM5PtxObKFVh7HVq2d84uuACBhsUC+0MkA4nZaQMlv4XCojywyomKAoqIuzu5H0bx8/N3FjEkA84Q==;TwAPn4WdD5/qk+5SgvqV6g=="
 ---
 

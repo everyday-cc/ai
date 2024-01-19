@@ -33,13 +33,13 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg"
         width: 1000
         height: 500
         isCached: true
 
-secured: "7FR6mf6IARMZXErU+q+4CkdlUjJ9BlAV07nFu6GFyCgHS5XYlBMOqcJjZcw2G+ewtNKI06ZLL1qeK421SQiO+LMqq4orwzNUg8QcQCnUXHcS3mLWtb8F7YVi3NGBMM0idGeummXUcRTnAQh46LC67g+fCjhrkO0o/EnXml+SoYWE7yvYu8oDx12mKAVmTxCE+wQN8EAzrO0y+dS4dC+5aWqMM1v9w1Cxx9zGDglf4s2Xte7ya4jThnHZDPac3M+ks10l2QsBLUghNNdRVk/yASV2LbcW6xJ8l1Hdhr8YGs8jzwPnorGbY8lnPv5Xl5uuWkTL4DZv4ycEFiDY18kgos5NGHhRAuiT0OTWc2H17ow=;nuNPIfnS80HfLseSPL1HhA=="
+secured: "bAoW9O6A7A1pIM0Xpd2fbOjqTlboOrAZmxJdeXprUwn6f46oGwOIeqeD82/dL93vUoEcZhfY/dgjuBj8GIv9/GrPfiHY3rAsB055XERN3zFtaHgH8fZ6PhJibEqoGbDHvr9lnFQm/EC2d8WXAx3f/jdGOZuJKVcFELfRyzZ8wixP/04tx7GZyOGQudeipaUxV2aIGaRCOagiHDsvZqBcIYNdZiLnFVbrJFwbAxDnJu6h9vYEgTaUcY/PxrWUeVze3n1P0yWP2j9mfUCZjneZrCjfw1W6mJ/G6Swz3+Tg45LNFQfQNMCUIl6k476H/QhFRcTu+TFKLt5m4cGy1WPq2Mz8WHNraPPq+i8D7FtZ8cThG+opB04m3ULRh+LacChIcoi1d0CiFMJ8k2vZB578xkhFL072OdHHE4E+hGOfP0WuCXYSpRCnjOp5Oli7Lmd3tNAx0pPfXsSA5vXHa1zmOpe0BepmZyLG20aRQFR3p5uXR/p4OWXrQEyBhK/aeKvjS0umYB4Af7nwrOKz/EF2eQ==;/558S1nHdPt7qMVYF8mZyw=="
 ---
 

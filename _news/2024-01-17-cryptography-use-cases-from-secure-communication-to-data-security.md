@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/cryptography-use-cases/"
 webUrl: "https://www.ibm.com/blog/cryptography-use-cases/"
 type: article
 quality: 99
-heat: 99
+heat: 101
 published: true
 
 provider:

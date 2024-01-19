@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-17T17:19:00Z
 originalUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-computing-how-ai-is-shaping-our-future/"
 webUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-computing-how-ai-is-shaping-our-future/"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg"

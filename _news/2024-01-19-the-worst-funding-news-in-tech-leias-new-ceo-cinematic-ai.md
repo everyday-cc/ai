@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/charliefink/2024/01/18/the-worst-fund
 webUrl: "https://www.forbes.com/sites/charliefink/2024/01/18/the-worst-funding-news-in-tech-leias-new-ceo-cinematic-ai/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +27,17 @@ images:
     height: 900
     isCached: true
 
-secured: "jdLr5vUxP/sJNDg9rgp9UfR6l3sZFTN875TCPviQP0O9RISzRPTBFo/S0nnpK4QgogfI3T2Shy8PuCSA1LPn98MRBd3NDEfjM2l5dgiUF/30Nfet8IQ6zY9m7gZwnK1tuJhlcsRegAIobrgMXhJZ+/pwQ0G4WkqWHkeZp0F06N9qOW7p39YbtMiJnkswpI0PbePQhdr4EUikj9lPWYt3EusTO6TEMHLjUMrsCHvEe9jBYmES8xbWRFx4PZsp53H1wKbjB3FVPB3lcJ3W/JmNbQA8U0to9YptLjwDy2IVZdfLqw3fpW53LMHbZUTYgk1EI+cRwQrRL11eOap8woDy1iMEk+x27d/7u5VsQ8HJk7E=;/hxyxoxTU//9/Qe6ZHoAxQ=="
+related:
+  - title: "North Carolina AI firm names new CEO with background in machine learning"
+    excerpt: "Rao brings two decades of experience in machine learning and AI, most recently as general manager of AI at AtScale and product lead at Neural Magic. Rao, also an IBM veteran, said the Howso opportunity is particularly enticing amid the current “renaissance period” for the sector."
+    publishedDateTime: 2024-01-16T15:42:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2024/01/16/artificial-intelligence-howso-ceo.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
+
+secured: "CiUAmiG6iOddPWLELAy1ZhtjPh8aSfElkvAXlu5qdM1kPcVTAedPRLcBG3OPyRVOr6ZRBXLHUBUqYYMr3cIB62FVY8azxdd/0GcT0eEOq2pyXtlotXJFUOedB6bJQXyvBxpvZAx6Cgqxyb7DU8Fqu/Ezwd6Gy8Zeq+JTqR7gS+4zRMq7oZtx8sWUVhI5HUB9mHqBJWLbPQiXNwdWeiJ1ijs3MDs5lizMw5THwXiJJP9DdxX3l1okTxLAy8WRZ1cy4BAZOG/0/Ehz2whJp+A1Z9vTp7WxpAXdJHjX8CUVU4TTKfSjiJWl0N8Ruc3cceH9ish66VWTh+wwZtuCEdKsNci7xYR9zIjD8R3AVEqw7vqi0DiitBlM3Nz4Q0TsuM8UD0KdoKxa9y18sNSSNL9rJfu4EMxrdA+dVMiz6v8CQGpnpgvd/ZoIlUl9EzFSgAOSGSv5vjvuoUCUjwMxtrnlRLTC4yIFMyc0ODuJm3DqNcG15ny51BDh5O9uiUbFdQA8TNUuak6eiu6H5Rt5TSgTRA==;LMH1MV46H/Ekc79V9xLUKw=="
 ---
 

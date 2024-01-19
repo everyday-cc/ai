@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft partners with Vodafone on generative AI integration"
-    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
-    publishedDateTime: 2024-01-17T09:51:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "Nowlake Partners With Salient, A Cutting-Edge Generative AI Platform"
     excerpt: "Nowlake and Salient announce strategic partnership to revolutionize the Auto Finance Industry. Nowlake, a Fintech Organization incorporating the philo"
     publishedDateTime: 2024-01-16T21:35:00Z
@@ -44,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "2eqZ595c3ajzAiHXTQHvwWv8qoEkcQzQXO/2pBW+H1xCpF+oQj/AQCOtDxK7Mfecf8WgdYIdY1leBBsnfyta91dUgsSAO9SrE2jefqK8HNuttc3e4QMbF5/LF5xLko08bcXvzfDYbhJMwFu3TBiY512uYHIzr6SM81h1JJxzP6nI2MG5nNgGwNrLgYG8K2tkAw9FtWtjidpUIJgo5mqy25g9oF9pnicqLq+6ROT/6hGrNcZR1+Vowe7/yod0cG4e1yzFL6t2tAZZhsPS6gXADXjEYK/XSAseSnDyTrWylAYl2Jjs61ADZLYQssP9uq1aF5FLWUffMQfrMeFow4qAOm/eBTKtFU9Pr1w69xAWnEY=;aF67996GkVWH30rfRVAkbQ=="
+secured: "3Lp2TEmSwUbYRAuPNsz4AFElWGniBEtD5QzYGG2ymztNGIh4fCcGaPHIx4Ot+4Y1eOt3lEVByF/szTdzyCCU63/JLWm93Rmvv2QQ+9UCVO9LBKGyXBPziitQed+qPV21PHJP7H+H+DwKwHyGKswHP3pQyP5bBqsq4HczAA+nSYiwhplHXDnuZbFfYcL2OTypCHBj+PESwKmDuwjy+9Jgd8deP5oeb5fY7pV2oGewzTJ+s/DHsIyHCnOAHfObXujqeQvMhT2apyeITdzTycCScsiIJYnLqnIOA2W7hB2AmmkWPfcb0OwEX1fw0W1VbGJmh6p/020v5OE/5A9VCBNVEngFcCw9e+0kpF94E+uiQakQ2UAQ7Lv67QT0CFbbRro3u6ZcY3YpBe/NDxdcUgAAY6/h3gkJdzAVe3Hu4IaGFYddYYDGK8VsIOpHc/F0jMc8niQERUKe4r79mZFFZuT3JNKx0mAJmTQqrrlun+CSWvJ6WQh+Euiap3QxoxADPm1gDpd07elGgdvYoIOwaTJqZA==;HQHN+VjPB1OETSFvLkEvaQ=="
 ---
 

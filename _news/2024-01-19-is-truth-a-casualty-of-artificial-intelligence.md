@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Is Truth a Casualty of Artificial Intelligence?"
-excerpt: "In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman, CEO of OpenAI,"
-publishedDateTime: 2024-01-18T22:27:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
+excerpt: "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ..."
+publishedDateTime: 2024-01-18T22:36:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
 type: article
 quality: 59
 heat: 59
@@ -17,8 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS"
@@ -26,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "T/W9EgaHeXPO3bAlQh9/xFr0yJfRPf/OynJ75vRhN0peCpb0+yxpHqJS/TjSRncB7vVC++aLwHyI9YeE2aE+02NpSvfX2QQIwQI7rDkxaQGkxgxGQ++Qjl5b8plMjxYB5L+P1v2US1yC6n7510y6K0NzsJgPia9bH0rVif8p4U+MbT5vFBb6e9BfEt76oaqYDaCKS+PXJACa+cK/ez+N/u0URMQyijlwhBiWo4pqcMjA51bb/iVyK+UiKfRAsfJUt/Fts35krD9Tp24EyK2smpgLkAiPAgWXwo+kQahM+/TrsS59dZe0WNOLGKCyyBaejuZA+tXOZM4NyH7jGfbvjz1XJlHrOrP00K1TF9VITqg=;j/Vrb26u4DXVvUg7bnvfOA=="
+secured: "88sU1d+bpBmq8lzwvZwIlWWzGqQYwJIeP02asjW/wmpx6LqahZC94gXIRHQB9oLhpsJJb0U0eVM08dyg31oHrEBXpEBNm8TsRsvf6DJV474fzdB9euK6hJri8eJdjnH91VKB/X+Ob7ZFemlJMmmvHmTVcbbw19vzXeAm/buwW3ewHj4TjjhpKbhaF6mOPPUGKDzE/9OX7SCtTeKZtirLbSHGVN2UN/Q6HIuavU9lzSCRvMiw3MK90bv7I/0QZwsjzRT/8suU2ri08KFAagRoDnc2sZe8HAyD98M1YEzusyly0v43biA4ozT2ISPEQzhZxeYrGRD/t/xsp71WW60BedaaeKmTrTiQuXZR63BVYpw=;5sxpbnARWbhiEoAGGFltkQ=="
 ---
 

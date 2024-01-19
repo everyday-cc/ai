@@ -64,6 +64,20 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 33
+  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
+    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1031510"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
   - title: "5 predictions for fintech in 2024"
     excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
     publishedDateTime: 2024-01-17T17:10:00Z

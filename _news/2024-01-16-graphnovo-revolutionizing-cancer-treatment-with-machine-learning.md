@@ -64,6 +64,20 @@ related:
         width: 258
         height: 249
         isCached: true
+  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
+    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1031510"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 15
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
+        width: 700
+        height: 342
+        isCached: true
   - title: "5 predictions for fintech in 2024"
     excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
     publishedDateTime: 2024-01-17T17:10:00Z
@@ -74,6 +88,6 @@ related:
       domain: finextra.com
     quality: 4
 
-secured: "TmwQkH46p6Tkj5i3oa5Hz9aZP94kTpaAu5KyXafcHdlEWh1qqQo5smXHjSI1rf7DB4CmHiNtZOUrMvzkwcJp4r1fLTTgslSdMJMOpHnMHhDUs8Jlzn40qzadoHNn7F/S5WGKhhTOB1dxu1lT+BNJw/Wk01koVZuY3H5RcrvpFEnvvT5/5UcqTBw1Vu3GbjpGAR8qGxXD6WeXBpnD1yRcodWTrcDrzyYeoKGVn/jUP+VTa44W5LuO/FDeccrqcq5JuivZIkWLe4wGLSXszJXCz04DiZY2/pcGtXgikuHEZALhc2giDx67Z/NdO3GFtsRXkaZZwHgB1x8uV0D3ukUkM2dR+p7FKi0Vmf1ViBS31kg=;Y0OgyLmNXVshXhr5KMY+/w=="
+secured: "nXJlZSdk9xhe19LZx3QLSowUJQszRfbrdkp/FZ/1IKoUYfEBRRGrcPyncCaS8KomQKOlgcCB9zR7sy45+rtqUnQX4tgAC2b/jexwdtVDbCjx/Z3OX1uLarCLYyvFT5u27gkpDZZxoEK07gq49I38QoLgrbnLJZmhj8TgPSfyZAsO0DKAA0VCqV8ZGTxjDoTquU9JdgtN5wFfao8dM/bDlFwmGwvzBcAOaisePlCNwy+J4u6Vq6w4Rv8/zup8q7pAZJmypEO1F88K3oBUfRYwouxQET50qgEfT9GSuUEdGq6tW7eicGEgRPA5GrF1ZrhjjZNIzADyYUsNc9R4MfsrNIoCvD7IvP2a+KUBVWvzQ4Mei721+4uErRqbR0FhJiKlxZ0YAy41yhFBCQzuN9AMr4j5yjzvxzvSAuiS+eU5R+ovJwIbINkXRXz2rY0TVePzRJEEVw/q6lPySZsGaTbyHKXm4MTAXRJu0G6TXbbxCpz/JKOOwi204BT7OB+Nw4g/5aT3lseF8KumXr3ecmVALA==;7aaO32rej8mGWIxXLpFvAQ=="
 ---
 
