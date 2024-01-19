@@ -57,19 +57,14 @@ related:
         height: 628
         isCached: true
   - title: "JFrog and AWS Accelerate Secure Machine Learning Development"
-    excerpt: "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, to"
-    publishedDateTime: 2024-01-17T13:16:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/jfrog-and-aws-accelerate-secure-machine-learning-development/article_49280097-2bc9-5088-bbad-53c7776733ab.html"
+    excerpt: "JFrog Ltd. (“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced a new integ"
+    publishedDateTime: 2024-01-17T14:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240117147895/en/JFrog-and-AWS-Accelerate-Secure-Machine-Learning-Development"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/17/0173ab10-b8d9-5cb1-8b12-a6e50affc95b/65a7e2b7b1e18.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
 
 secured: "M1GFAWQC4WRWzf6trWOdMUUlwHEJ9uIowJB5CawKXE4NUuW0zax4lTadMJxfd43Qr2KRFkyxkHz1UWoCIJW93AMXDPPoNkJ9rTlkczQq2Hat3ltxcJvmS5hL6+H5phb3lH8ZMKZyz22c9Ccs0VN1818na4Ojh4eSa/xcEOtROOLsX93aba0t8yznvo12IfJu5HOi/+4neZpD/izxkC4ejR4OhWvKb2uiRm08Hj6R7AFGyOuoFRIiGQyuW6c48MHVIE2FVilGYRqfijK6xnvBaQEhtJnZKe9IRSMjuf7LXije5r0Gc7KcjqJJXN5jd0e3a8RxdvH9/f1bjAp/bisEXgWXCQPYb5C+YnKKMNiQHQBT69gDxW2fJlRYcLiPkEt2k6W7iyUi0GS1evhnukaO2WuPIgzKzgAwH6eJvH8ekzLqzj17GzqTWaulFGYjaFw3xQBaWAhaSU52Xt1ZcLR8AMHtY/lUp6pO4wNnZj6DchNlLggOqUGGL4oau/Q9IaR7XZ8D0n4nBy8IWmFOlnICPA==;hDlshWlK7O+gBbxOK2C4sA=="
 ---

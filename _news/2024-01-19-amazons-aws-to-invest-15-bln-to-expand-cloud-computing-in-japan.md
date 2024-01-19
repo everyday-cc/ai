@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Web Services (AWS) Plans $15 bn Investment in Japan for Cloud Computing Expansion"
+    excerpt: "Amazon Web Services (AWS) plans to invest 2.26 trillion yen (approximately $15.24 billion) in Japan by 2027 to bolster its cloud computing infrastructure supporting artificial intelligence (AI) services. The investment will primarily target the expansion ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://infotechlead.com/cloud/amazon-web-services-aws-plans-15-bn-investment-in-japan-for-cloud-computing-expansion-82570"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 25
   - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
     excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
     publishedDateTime: 2024-01-19T06:01:00Z

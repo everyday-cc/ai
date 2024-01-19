@@ -25,51 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending"
-    excerpt: "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ..."
-    publishedDateTime: 2024-01-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms"
-    excerpt: "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture."
-    publishedDateTime: 2024-01-18T14:59:00Z
-    webUrl: "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 76
-    images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg"
-        width: 770
-        height: 502
-        isCached: true
-  - title: "Challenging norms and finding your North Star with AI in 2024"
-    excerpt: "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them."
-    publishedDateTime: 2024-01-18T15:20:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
+  - title: "ChainGPT facilitates the launch of the GT Protocol, bringing AI-powered auto-trading to crypto"
+    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, launches the GT Protocol through its IDO (initial DEX offering) launchpad, ChainGPT Pad. The protocol’s app grants access to CeFi,"
+    publishedDateTime: 2024-01-19T16:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chaingpt-facilitates-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto-1032980546"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 67
+    quality: 55
     images:
-      - url: "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/40f714aa-c647-4c4c-884d-3253e4a072e2.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
-secured: "NlmD6GsTVI4Of/v94YccEEBcL8UWREyshLWm3IyBgDuqRkd3mhioxAqYTedtIuYNIisEsaAAdWFqUgj9aGgCHLtsTY7dOHA/p0d70DTBPdilLA7WcANTo9xIpWwkLLOBBHv1183utqY7TuvyXhgbo711kGoXd27SFo1Bg3JruTICufnhKTsErKL4w8dhdXPkeWODois04D2TgpkYBOhmXWoTSUmZJaz++9gJ92ygKngXyqA2tjEYGggGhOSav1Z8aKOZ8mcvCNhev9nuwAKzrqWDGlieVPq9dhRUSB0cELmwXOeEoX6IYFloU1YMkx1l1kfnT0aeQKIhevwo6xklm2MSAXwqDqZ4rB4+pbe0Pfg=;PD5I8dvTEi1EMi5IMjlIng=="
+secured: "jVate9FxlnTVwsqb8xsSiTuJY6ltN+F9SbtNIck86ID3T5fWvrMEanDIJkmRyVDgHLvPy36dORpKCLPw8Le1+SudLCXHs+h8p4apsopkCs+IKr1ugHVqaLrk0l7YOtNePoeqU/ihIAdd00TlvyQWu/MQf6w8wfVrdDzb8AEIlihX9n9yBUNRjC8LuP2NFACQ7PTOjctsKQx/6KlMp6z9xF0QIvxpKyjHyX6TwW55Qz1G6RCwwWw48qwEUxZXNwgZQPLn+OZbK9Qduo6qys9Q1QsBAWUQNnevgs1zb5gnHa7/POOJzLTtCBRG94WyxQXfhEu8jRP7m7VvsLQkMXd0DEsJ1uf8TAPo032My2c038cljoJ+KsApsjBCANcf7+/4phV56MsuyB4Mri0CInqeUJhpivQtGz7iNsv8M4jx4nnOpbsh2Ru1RVBld436pW1VdEAPWY7kDnvrW6irbzgfK62bQkfF4kbWO1NpQ4amo3WPab19rNe/yv2Zg1VN3mSKRMYFd/oa1ko5piYJ/8TKZA==;E8AVpLAcFJeq5g4/O1ArKw=="
 ---
 

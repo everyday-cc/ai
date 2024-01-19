@@ -205,6 +205,20 @@ related:
         width: 841
         height: 436
         isCached: true
+  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
+    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
+    publishedDateTime: 2024-01-19T15:35:00Z
+    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google's DeepMind can square its hypotenuse"
     excerpt: "Because everyone needs a squared hypotenuse  DeepMind, the brainy Google-owned company that makes super-smart AI, has created a system that can crack hard geometry problems. It's a huge leap for machines that can think like humans,"
     publishedDateTime: 2024-01-18T09:13:00Z

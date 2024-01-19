@@ -41,6 +41,15 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "Amazon Web Services (AWS) Plans $15 bn Investment in Japan for Cloud Computing Expansion"
+    excerpt: "Amazon Web Services (AWS) plans to invest 2.26 trillion yen (approximately $15.24 billion) in Japan by 2027 to bolster its cloud computing infrastructure supporting artificial intelligence (AI) services. The investment will primarily target the expansion ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://infotechlead.com/cloud/amazon-web-services-aws-plans-15-bn-investment-in-japan-for-cloud-computing-expansion-82570"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 25
   - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
     excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
     publishedDateTime: 2024-01-19T06:01:00Z
@@ -51,6 +60,6 @@ related:
       domain: businesstimes.com.sg
     quality: 17
 
-secured: "ae5y3/goW+g0I43x0R4JQuxl13OdlCKghFdL3k6f6WOWJFSIBzUs59WucSYm+8+Pkduc5PqbtkmLIIv+hNQZMfecQIEQL8/2AJ0adfB755S51wfxJrhtjnRVbhXKtUfvZE9RQBdQnJzRgktVIg5mqtauB00IMBUVfKp1gy2+z80ViTY3+h1sXBLaKDXp7/nDCpBfo/dV10FiTPdFthcphUHh9SmrNf/fntNnTVTytHx/seaUfgAmogbxeZmTv9yMp6frc466AFKJAm1OZBhs0/d0kME/I4rBwptPUUZ5yR3R3+BX7kb8wdiXDmS/eHx2e01c0QelEEXJH1lVboeqtPlSyzGpvDQp/ENyZIVVDNA=;Tmlcmer8KMvziSKY+u5/UQ=="
+secured: "qdewXXfyO9WUddF4QO5KfSySfSUd/NyVPPjkOZb/rO+7VjGyVMc0AoMRYCMLvu81P0ouHKweYdq52loPjPrpZajRjJcPkgv7W4zvR7TECmoVbdDM2KetAqn8YY7fpCVdCQJURhtfjy2RVZRn7TeZUqA8CmztT/HZlg8byM2G+ycXU5HEt09Dm0RTsaab0a4JMu1WPkmtww2MqdG/uQj/BTkrI57i38oN4EIsm0Hb5LhL3CHu4C5niqyEgd6K5JaQCCHux7C2xNCht/DpYJkgFeBxk9IE4YggoAZgLl1WP5FInFcTGJDiYIEUqCW7ySloNLfcK4MTfZhma0qb/nA2uFzVpKjqLnjeYnRd9AtrhuvwRyQjVPcLA0J2BpKWXzumBPpB8Kl5IzmOvWS/N0GA0urNiIbqXIdO7d2Ls/a6WTY+WXycD11OupCiMn9Rh1rBHzmE70gBHBbO1abPTxMqthVBEZKuU06yXYf6wnYOaL1lJl+A/OlNmssGbBTfLOTxlDf2oIJovY5SZOb1P/4Psg==;n0RKSlR/e0Eu1aU2LE3EBw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/india/ai-start-up-ceo-accused-of-
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/india/ai-start-up-ceo-accused-of-killing-son-remanded-in-13-day-judicial-custody-in-goa/cid/1994935"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI start-up CEO accused of killing minor son sent to 13-day judicial custody"
+    excerpt: "The childrens court in Goa on Friday remanded Suchana Seth, the chief executive officer of an Artificial Intelligence start-up who is accused of killing her four-year-old son, in judicial custody for 13 days."
+    publishedDateTime: 2024-01-19T11:30:00Z
+    webUrl: "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody"
+    ampWebUrl: "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 54
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/02_01_2024_17_57_23_9077063.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AI start-up CEO Suchana Seth, accused of killing minor son, sent to 13-day judicial custody"
     excerpt: "Seth has been booked under various sections, including murder, destruction of evidence and section 8 of Goa Children's Act"
     publishedDateTime: 2024-01-19T12:24:00Z

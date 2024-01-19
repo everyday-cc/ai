@@ -1,29 +1,23 @@
 ---
 category: news
 title: "JFrog and AWS Accelerate Secure Machine Learning Development"
-excerpt: "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, to"
-publishedDateTime: 2024-01-17T13:16:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/jfrog-and-aws-accelerate-secure-machine-learning-development/article_49280097-2bc9-5088-bbad-53c7776733ab.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/jfrog-and-aws-accelerate-secure-machine-learning-development/article_49280097-2bc9-5088-bbad-53c7776733ab.html"
+excerpt: "JFrog Ltd. (“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced a new integ"
+publishedDateTime: 2024-01-17T14:15:00Z
+originalUrl: "https://www.businesswire.com/news/home/20240117147895/en/JFrog-and-AWS-Accelerate-Secure-Machine-Learning-Development"
+webUrl: "https://www.businesswire.com/news/home/20240117147895/en/JFrog-and-AWS-Accelerate-Secure-Machine-Learning-Development"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/17/0173ab10-b8d9-5cb1-8b12-a6e50affc95b/65a7e2b7b1e18.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "JFrog, AWS team up for machine learning in the cloud"
@@ -71,6 +65,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "r96lVNtVfZOPOByTM5EvjrWjfYL1JwYt0B9ToGiTRN1lMEjfMH6ed/HSUYMaTtCLRgIiGCRmEyZHmgYdECR4p/iA6YtmnColndbyLmA/7uPeyvqwXUn1vjxGghtt/zOQqgEZgJdYw0/CW2Ta70BuAWXnPHTgPLkf2k4YxoVxotcOkIoU7cjYCKDgxBt8ITUnmi2E2Av02xzBPQM5WNX8Ba7RqXr9p/Sop/2sp2E0Oq6UDxjC1kc/6LZ7xx74+jVW1DbQFx8VzAA2iaHxis+GVe/72xoa61Yx3pK7tvAqLGWszua2pGmRhhGu3kcUYnRU3W/mkg5oKuyqiN+1HCzLMn0yUIVI5RS5S9EACHGcHVShCZBjqXA2OnwcfBm7CZoAw/MxWsdH5GTcipE8JAtsteCgTFJPXBMckHC9WfZ2dn4bPnIlRrzBr+QXdHvXnJ3qMtIcpWM4oU1/Vey6KW3dur2zs0SiSiBF5NbjhOX6PGGHWt8AWTtEaSCKrEg040dPBW+pSqQDZuMPdjuVNF/faw==;ODBMNnVopHQRiEYXf4sxCA=="
+secured: "vM4GPqp4lQ6c1/E4bGLuAFmf96Lmou7olG06g0UXiJHRJKVKlqgiSTDyxA3dKh2/uArF2kYei6d1wZHfneEs1DgtwQqHOzL8XEJ0nRPAH8kVbINL1Z5LlWrG323+SlNHo1MTWVqmt0yRVVI8dqXarWQXJM9AHynmXdcDAcjykbck8CaTErVz/n68rxF6++m7G9B+hZ2fZ3eRDTe1s/0g7VY6EcZsD+4ZGKPBUyjtAeIWSkaK3/wXK/ohXpFv+3Nnbjpz4hM+EOnOwYNcmCQKvTkzEkU1j/MPIiH4b64sBDtyQ1qMnBGD5G2omCwEjLn6FoYSZKbbRy8l0Xu2dFy4cQDDyDez+mlsqINW/1nOrP8qMWswrBOpkpX/oKbFX+Iv+oLAgPc2kKPJ4YI9EBjqzD9IE5LTfzYib24o97O8r9Lf5ou6Ma4MeWOr5EeNvi24+QHwXsM/Tq52Dx4Efbfh+mrCptRQOf6rpkZEfiuthPn/1GjG+C0+f0MezUk6BYUVwVc8Z0SyC9WNT0WKOh9eeQ==;xA3dLFeyJ+d5Q20q6m12yA=="
 ---
 

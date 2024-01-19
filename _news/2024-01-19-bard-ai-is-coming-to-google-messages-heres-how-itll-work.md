@@ -1,0 +1,67 @@
+---
+category: news
+title: "Bard AI is coming to Google Messages. Here's how it'll work."
+excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+publishedDateTime: 2024-01-19T09:02:00Z
+originalUrl: "https://www.androidauthority.com/p-3405223/"
+webUrl: "https://www.androidauthority.com/p-3405223/"
+type: article
+quality: 69
+heat: 99
+published: true
+
+provider:
+  name: Android Authority
+  domain: androidauthority.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "You say ‘Allo’ and I say ‘Bard is coming to Google Messages’"
+    excerpt: "Bard is coming to Google Messages to \"help you write messages, translate languages, identify images, and explore interests.\""
+    publishedDateTime: 2024-01-18T17:06:00Z
+    webUrl: "https://9to5google.com/2024/01/18/google-messages-bard/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-messages-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google's AI chatbot Bard to arrive on Google Messages"
+    excerpt: "According to info spilled from tipster and code detective Assemble Debug (via Android Authority), it seems Bard is gearing up for action in Google Messages. The scoop is that Bard"
+    publishedDateTime: 2024-01-19T11:49:00Z
+    webUrl: "https://www.phonearena.com/news/googles-ai-chatbot-bard-to-arrive-on-google-messages_id154513"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 19
+  - title: "Here's how Bard will work in Google Messages"
+    excerpt: "Based on a few code snippets, it seems Bard is gearing up to be your all-in-one helper in Google Messages for things like drafting messages, image identification (yes, it's a genius at recognizing pictures), language translation, book recommendations—you name it. Apparently, Bard learns from your location and past chats to give you spot-on answers."
+    publishedDateTime: 2024-01-19T12:36:00Z
+    webUrl: "https://www.androidpolice.com/new-evidence-suggests-bard-is-coming-to-google-messages/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 4
+
+secured: "dD7rm6Ib7+l1TCVHlN1IME+C7xVhx3JH1930qTQjaXAiph9pd9oUe2Wvgp4ZXqqzPqfYJBBGsyeDymQIvgDFCUZxKa2mjJmw1pI8R4AWx1W+yE8pR78tbzN9DB5tIuB/tVbjAf8HPeN7z9Ez/bDXVRBs8PJ1yX3SPKMAWkoRNX+t2fRH19qNOOT5FZ7GPrwXFZP2k8ue1pCm11uClHxL+9Hi/Bl6Ybgy5aDOnSdMuHJIrPjNk5HlAnDNOKsjzyugMNHBpTFbQaQ8PysAKlHtROJTjVsOVOlHmLzP6fBYrUXsW/d+BZgq+c6GJRb8fK12n11TVGeZMHiDorU4TpNshJ1kRd7dTqa6jfdy8vxkjgA=;QKwzMXYL/kaTH/9c79AbrA=="
+---
+

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
 type: article
 quality: 86
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,49 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms"
-    excerpt: "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture."
-    publishedDateTime: 2024-01-18T14:59:00Z
-    webUrl: "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/"
+  - title: "Global tech spending expected to keep climbing on AI demand"
+    excerpt: "Even as companies worldwide are projected to spend 5.3% more on technology this year, businesses will remain largely unprepared for the impact of AI."
+    publishedDateTime: 2024-01-19T08:33:00Z
+    webUrl: "https://www.zdnet.com/article/global-tech-spending-expected-to-keep-climbing-on-ai-demand/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/global-tech-spending-expected-to-keep-climbing-on-ai-demand/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/global-tech-spending-expected-to-keep-climbing-on-ai-demand/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 76
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg"
-        width: 770
-        height: 502
-        isCached: true
-  - title: "Challenging norms and finding your North Star with AI in 2024"
-    excerpt: "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them."
-    publishedDateTime: 2024-01-18T15:20:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/efb4dd8d6b52d61e7bd26b63d8247cf59831499a/2024/01/19/31533fa5-2e59-44f2-94c5-4603d9695bae/global-data-gettyimages-1337196402.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Bringing Agility into AI to Drive Business Success"
-    excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
-    publishedDateTime: 2024-01-19T10:54:00Z
-    webUrl: "https://www.business-reporter.co.uk/global-agenda-series/global-agenda-series/bringing-agility-into-ai-to-drive-business-success"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
-        width: 1200
-        height: 800
+        height: 675
         isCached: true
 
-secured: "rMtL08ivOPPeh1Naec9nAJKV2QtVWUOtmSklekBinRKU9d6qGdpONn1joEXEs1o4l2IOLCYjS4uj4XjfULy//XW0Mvjt8TjYZbv3NRvGyLZVBipl2VhVvMLzFPF5WBMKRL9NONu1fDCPOIZz+9AL7fwDJtvRf0y7o7865bOdabA62OkUDcwtkQXovlA6GJ1Jt8vPujHywsyvf/8zaYXy1d8Ip4vgIXJ5uUgXl/ulUmg8fB4Zkj05u9q0kHYv0Qp5SKiVHyt26ZW+pT8vIOBVabJcX9E2O2StMXYFpVU/OiS7Qs5hDYlxg73OF83D8a+90CAuiQuXDxr9R/OyA1nuhTOmvf9jLiznYOUsTWQO0qc=;bAGIxOBSUoZNrTSo4tZAww=="
+secured: "WCysejGCKB8zLF73+hQREaQ7quR9HzPLjF8zdpO9bNAYrjZUmyfSkKYMUGY3R6Z72RHO/RMG2x4fuJTKU+9HrGMFjX6S498Z4oKsmHxnTUQJuKsGxUkvGETr1dDDpfP/YmO5vf4X2LutYvCPjTT8glFoIzI+IdfSvDSnFO5acuxx2GFa+ugQapTNPamcHkwYCrWGH6q/WiqQ+ouZsYEmx+Ctxbp8zK6/+M5oaV7qMskvAg92OHvUkt9OV6WbEL0rC3kEaYGFHCLmE2kQ1hNFzPqVUaV2BBtxMG55CZkTfZPA0GdPIbs5Lfd7ERfwy7aQfDcL1mro9lBQgNYgv5qeAFVlrZmwzhp3J3K8rzOMTAyHumnFueKSVY3ib/YSHYAjZ7HR8Y7H0axunG1yyCUA8A/WB5FAP19/8nF1bVIa8d0VDsHoh9/H15sxsGQK+fv2p5bkhAIT5KcZku7PQXBMglvcXN7DneTzPA8Y6G6e/nZxz93WWCi0lIRgh/IQcZMhUeODJRi08UvCcUhoxI/f8A==;tubBoP8JBNIxiPMNopzCTg=="
 ---
 

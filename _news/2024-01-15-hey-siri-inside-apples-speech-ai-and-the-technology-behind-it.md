@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/siri-apple?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
+    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
+    publishedDateTime: 2024-01-19T15:14:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "me0GXMa7mwKFwO1ldbLpVTyKP0LAMkcAWtmx1RvQP5WdGLHbi3VD+I9+Vay08miPYp6nxuBRwwpCVeFW1xacB2hwtSjkdpOCJ8+A/iapOKhvpAmefns0IIiOAFls2UU7fsQrjVsyLaXpUSt9ZHYn2FYObl75Xn3ScuTO423hHziahEOX3/uC4gThCNuAVLnDc0ACNAWswPt0CNRM0oZ+OPQUUvRzBy5QvAkM53GltethM6uxihV+M0F/7IuealNaOHMqqCUWu5V9x8YefN5G6LCcidS4X8uHO5uJOafwAIQYp4QhPvnzifqs2UpWjLNPG39VD+8Naqx24k5I/lEvUweWPPSOQxrwiJxNPAJ9Hk/jXM/X9KrkLo82SQeSo80zxJGCHD4uF9lJN8G1ClFLP9uLpa6MihCMF6N83+bQHFz7DBtA53qf/XAz01DeX3MIODOWcM3ceDwiywHCUXvbjybAGBJ+yq/UMHNZ17XpB9YWhKVmv2dlC1EFP77mV+bHP8nfrKrzyM1T1foatvnJnw==;ja3pIwF1y2fD+h3Dhn0Vog=="
 ---

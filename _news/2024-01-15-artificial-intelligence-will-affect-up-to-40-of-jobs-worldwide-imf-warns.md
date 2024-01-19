@@ -8,7 +8,7 @@ webUrl: "https://news.sky.com/story/artificial-intelligence-will-affect-up-to-40
 ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
@@ -41,6 +42,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Artificial intelligence will affect up to 60% of jobs worldwide, IMF warns... so is YOURS at risk?"
+    excerpt: "Artificial intelligence may soon affect more than half of all jobs in the UK, a new study from the IMF has warned. Across the world, 40 per cent of all occupations are likely to be affected by AI."
+    publishedDateTime: 2024-01-15T11:40:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 5
 
 secured: "YhX8C0zWNFEYzwQAgBHITnTznQXBEJDQ7sbddIACPs7lLDMbMLUTKp0OuzxP1aDnJmPAjb1adno1LC60EyRBOn6xm/1UZFnljagRhIjA2IZmEjH0mRf/S08caWyeEUrTwxhd41UuG+WO3syx2BASP2YJp7lObRSCb2b0HFzC+PIP40qe2LljFa8VzFuXYS7iVpRZaYdw23nhh6L3ExGJ1Kru9c2TEm2iWKaxoX+NhFxcZyULbjh71i4s3x8JUUlyDiDLZHVHjTU6zZ0NBW49ZaP1U0GyLmeTuzCEGE2vIeOyoKxDYvaavcE2jsHSZmtd5cQkvBNo9jYW7QspJ/vvUFzMmz+cOeyaxKONHHQTMMQ=;gqdWz9k30tf6JHyPvKne0A=="
 ---

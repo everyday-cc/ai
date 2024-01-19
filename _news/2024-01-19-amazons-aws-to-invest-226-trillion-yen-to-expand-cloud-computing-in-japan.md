@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Web Services (AWS) Plans $15 bn Investment in Japan for Cloud Computing Expansion"
+    excerpt: "Amazon Web Services (AWS) plans to invest 2.26 trillion yen (approximately $15.24 billion) in Japan by 2027 to bolster its cloud computing infrastructure supporting artificial intelligence (AI) services. The investment will primarily target the expansion ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://infotechlead.com/cloud/amazon-web-services-aws-plans-15-bn-investment-in-japan-for-cloud-computing-expansion-82570"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 25
 
 secured: "ybqUYq9A+opjoo1CQG65Pzy6TDirWey8YxxsUuw91jw+AvTvrl0BOz9R54lwUotBM6rAOoZ75+URFn3Mgle5t85wRVdbvafK67Tc3r7ujuB+qUr/9WZjXaSuDWqtSZ9+X6HMYVxJ50u2qHD0PBaMHWzqJ+1o5w7/Zgs+Xe7Dj0Jc6RRnHHvp0P3QVQnDyS6dL3ycoyH5uoQCgh94cd4aWRBGJNXq3P6rr7EZ3faN0SLetcJ51iojEpW8eDuHLJGtDmN2ZJYLcXSdTK1G87yopT5JdV//OKBGz72EzyicQXQS6IVWvYidbwKUK/PY7RWHk5NQMKC7yuQRH42C6/m9vxE1xf26NqdIxaHkUGTPu7Cmw3Xyo4/bJYSscGM4IyR6JA8ceTB4iCUEAaGQgz7AA8qObSSe0PBni56IXuwzke17404fh34ywDtvOVyCfhi+QwC3FzYwIVRHTlcN1c37RvIGPG9B51QtiKRzZHKfkdgErLuHLbKMZxeHoJkqjGBIQlWAXUieUwnBpqULU4PDKw==;o0BSCEuuSwoi5S15xKdIGQ=="
 ---

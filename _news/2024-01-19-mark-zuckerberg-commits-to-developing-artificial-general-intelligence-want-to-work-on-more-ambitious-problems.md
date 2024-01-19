@@ -55,19 +55,14 @@ related:
         height: 600
         isCached: true
   - title: "CGI's Machine Vision solution delivers a powerful source of IoT business intelligence by leveraging Artificial Intelligence"
-    excerpt: "CNW/ - CGI (NYSE: GIB) (TSX: GIB.A) today announces the launch of new computer vision solution, CGI Machine Vision, which uses the power of artificial intelligence (AI) to transform asset and infrastructure monitoring."
+    excerpt: "New solution from CGI enables deeper real-time data analysis, monitoring, and response not previously possible through traditional technology and human-only efforts \"The types of ata and insights that AI technology can generate are truly limitless,"
     publishedDateTime: 2024-01-16T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cgis-machine-vision-solution-delivers-powerful-source-iot-/2024/01/16/9946437.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/16/9946437.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 13
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+    quality: 0
 
 secured: "dNiQg0CIzZcWEsgvj/3814GkA+eFhnSdNtUVKytvGpL+iKtU7OIOF8s3Lqj281eAQRlsPm3xT/3WheBecDGbQPo2S1H09lyZSwfAgc0NjpNxJwPxiTweKCdDLiLzHLKhuMwtohafCBoSm7rVUwTEcZivs2MY2lBPGDhjDxFY4mxNUko4BBoN0xjqSdVB2123F969PpQhdB1ObwF1XLkQhQ7IfugArwpNUn9k/qybJc95RvbQ1g69U38PayhSO94QgtD5tXi6Tb/DCRzZb80jgsZmg8vwIqvL43sKrvQlWLxNlnha0oMxBKV0GHHgFKhv71cdqIjJstO1P3EgFa5yeKpYVZwOZg2lGILgu3jmcdQ=;CNBww2HnOTh9yBNo2oipTQ=="
 ---

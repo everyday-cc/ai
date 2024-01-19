@@ -215,6 +215,20 @@ related:
         width: 841
         height: 436
         isCached: true
+  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
+    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
+    publishedDateTime: 2024-01-19T15:35:00Z
+    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "/h31xp3yZGjbA8okjcS1uaVvwCmoXQ9aG2D3a25gTXy+eBM/6MK80wrYxr6hUnDvM27aT4dHr7oMk8fi8plYA/B7XexuuWdrcgHHm09MpDUleNimYEy///92Vkazlw34LBJoFZ+r1v2koFP/rRu9lIn2mlicgVjK7dBhIGlH7BoNPzAcdj/bsJL/oA/1dFDelHYUJpLr80OFvnUIRmh8xSBJuTsrW/nIY/cnISuPwoulDdQiSHhAVWGpJQ8WwEhGvJzR2TFMP6WDLsu7NC/rVzSn5tzNgga1vpUwnE5OfsPiujaAhSuNs/KOiSzxvK8eNDG/NToUynBI/airVVgU8BJGAx1HmlhNuqWxXuCuO0yNyUhqklQI7CpTrs124DZxtP67BrZwPy6Al8xgAfosdglmqda1Q8cTH7waYi1e6ndGqhUzDBSg7hlLFgc2IJAsRFwuyhq7reUUzNd4wDlaQkExHVI2m0K4qI7BUfLbrGVFZSeF0axAz9HhmopvdKFYaazW/FCvyZoXxYvGWa0hYw==;ovOTbB7XcorKl1BdIKE4xA=="
 ---

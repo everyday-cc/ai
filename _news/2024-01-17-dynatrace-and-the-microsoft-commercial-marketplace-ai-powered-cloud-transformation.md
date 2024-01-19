@@ -87,6 +87,15 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
+    excerpt: "With broader participation in the AI and Machine Learning parts of the Microsoft Azure Innovate program, Grid Dynamics has amplified its value to clients and the company anticipates these efforts will create larger deal pipelines and reduce time to closure, especially for Generative AI, copilots, and other Large Language Model (LLM) initiatives."
+    publishedDateTime: 2024-01-16T14:04:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274096855/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 56
   - title: "Vodafone, Microsoft sign 10-year partnership covering AI, IoT and more"
     excerpt: "Vodafone and Microsoft hit the headlines on Tuesday with the announcement that they have signed a 10-year strategic partnership that will focus on business development in areas including generative | Vodafone said it will invest $1."
     publishedDateTime: 2024-01-16T16:33:00Z

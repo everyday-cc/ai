@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-19T09:19:00Z
 originalUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
 webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
@@ -157,6 +158,6 @@ related:
       domain: extremetech.com
     quality: 9
 
-secured: "0V6ha7sJJnvTJMhFUdZw4SXO8l1NLtqg6XDCqzt6nvG09TrmJYbRBksyuhKc/+0c4UYb+LioEHtbWXGCxWLOGi4FeqbBsE/xMkR+OMJHSqkBHkWXZdCWNn9uxjfGnPrxvidl0kXLvPMABqDLLRA0vmx+L594NdxIa7elFOumnUR50UX99z5yEBITmMjg1JV1TaL2a3cZRpzOoCOn1J8jL8rdnCecZEEaHn7a4k6VHQbnUGs9uD3V/satl5TA7GDXAVSTd3TdztNPwKB+T6iExdMM8ha/rbOviIj/hr6PZB0/yfjqY1fH2+Lp6vx0UyXjXzIpTbZ/i3+zsfo+tAOUudz6zyg0brzyVd/G4Vhf8ms=;6N3hhlUr05FfPBfIAOwHlQ=="
+secured: "u3mgtUYILfCJgaju2A5S9E9Unky47olkzFWAaJyQ+hEuKgaP+nelrpayvsKDm7Spc6QbIusyn0n00P7ip1GhoyYx+xvwFfO5cDXPN6Uy0AdpRuDUeRaFJ75RiPyaRibziyA60zfAjtGVUuzbHLXrToKsOy1/P3i9NxC6XvueIGyT6A3vZ2VPKEY/spSkh/59VxBQtm5EhDTLb9KyZp6VfGVSJc8HEEiHRnPTtIfagmQRILX05W+CjBLdIJG/NBq26wGyhSqLY5ZtrKVxMX1VArkeTNmGn3ScxMhyJXd7jzXT3jeKbEso4jU0P7FPsXbAEWC6Dl9kSfNhEG6Xw02HeNZMj8V2P8kIYfgz4Ho+CmexUZYlIa6NjhZuY2Vp4kyBApqD/nnAeGvgJNRLI54mlJT/7pQq0+70vrKyZ8CHNkxf6pid+YFovOML3FYZJYaiBhdxna84vkrnS4/u/eFhLZFDVCEx8MFYsjF3RNfev5Ol87SVCx8FcdDEsyPkMYWE7SVnpMjyEmfA3qYwc9Uezg==;R8/5wN+seB6t2EPdQBWG9g=="
 ---
 

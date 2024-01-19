@@ -97,6 +97,15 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
+    excerpt: "With broader participation in the AI and Machine Learning parts of the Microsoft Azure Innovate program, Grid Dynamics has amplified its value to clients and the company anticipates these efforts will create larger deal pipelines and reduce time to closure, especially for Generative AI, copilots, and other Large Language Model (LLM) initiatives."
+    publishedDateTime: 2024-01-16T14:04:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274096855/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 56
   - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
     excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
     publishedDateTime: 2024-01-16T19:00:00Z
@@ -130,6 +139,6 @@ related:
         height: 720
         isCached: true
 
-secured: "le9WRY8fPiIx+m8wiMAqAIFnTka7tSp2+KiqjdycSDyT6E8Rq+6QJuac28qCs8tGePIwMFNJkfIkXJ6oul5/2Mx7tmjkkbXvzgcruFaf6+KU3IsYO0DAVnuXjtW86OzVacJfCtGT8NM/7PG+D02FziR9FKyproFdPL3DcAaP4Eg+SfFoG5wTeQ9m1uVe450S/D880Rdsf7rVbvZuKOtOM497481fbe0olsfUF8Oh9nVrxKsfnNUgTDO4BnlTthVvcgWWsVKgAFttl/FnF1b+N1Ibqw/CMdk4//2LqegvnMQgOh3a8jDiCiJKJmbTf31v16Q16YIGq9LL+WEUYWNFiM5Ysatxz8EJ3moz0lkgC5s=;LHAZEDnMfpClaCAIFBhlkw=="
+secured: "6hwtDuyg9AYRQvYasCuIryz9PAwb2rxyue8XygOXNSRWzzxFtsWVGXe1+XRQ1+LwbfTQad0u0gHhs3bvJWeSvCkerAotshfL2fQ5oaTjySFCiqL/O/lxWR9HyeUBNgKULn9xMD+vf/bsYu0lvs55cHv97Vs7grQVvWTgLHB8pv6er+ASzi8YKiFuE7kIAeh24YgtjBd6upg89B6JpUsZsaP4txu38X/xCSEnobKWtyE87cvI8yZZXztAYeTcAGfBzfjoXIPNMhjXiASwo8gbwhgKeQTY6XgJCsnuxBu705I0LREkPOXELO50LszMadZ2U/b2gRXvhrBsBUj1AWVtMTFvh/oUH9DLgNzS03hgn8kcrbUxPUxd6g+KCrWrMOD0v7MppE9ulg+29PdRw92d3CRCFtLh0UtYLITmS0lTgVO7J0DEGq3aroPmW7yP2oplA9Q9C3B8N2AAavZmrLbycJhIl3b7SPzk2eP5fz8cDVRD2PtnaUoFkO4peXwrv86DGMPr2RrgOfvGFb3K8TVp/Q==;6DSorVMvju94QGZUFBMsKA=="
 ---
 

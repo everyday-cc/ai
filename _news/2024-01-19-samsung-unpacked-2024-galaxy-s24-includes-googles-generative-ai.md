@@ -45,6 +45,20 @@ related:
         width: 1300
         height: 733
         isCached: true
+  - title: "Bard AI is coming to Google Messages"
+    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+    publishedDateTime: 2024-01-19T09:19:00Z
+    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 71
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers"
     excerpt: "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps."
     publishedDateTime: 2024-01-17T19:29:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Bard AI is coming to Google Messages"
-    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
-    publishedDateTime: 2024-01-19T09:19:00Z
-    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Samsung’s Galaxy S24 Phones Call on Google’s AI to Spruce Up Their Smarts"
     excerpt: "The top new features in Samsung’s latest lineup are all in the devices’ Galaxy AI software. Together, they form a testing ground for Gemini, Google’s new large language model."

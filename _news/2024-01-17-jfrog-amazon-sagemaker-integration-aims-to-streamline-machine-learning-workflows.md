@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "JFrog and AWS Accelerate Secure Machine Learning Development"
-    excerpt: "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, to"
-    publishedDateTime: 2024-01-17T13:16:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/jfrog-and-aws-accelerate-secure-machine-learning-development/article_49280097-2bc9-5088-bbad-53c7776733ab.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/17/0173ab10-b8d9-5cb1-8b12-a6e50affc95b/65a7e2b7b1e18.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "JFrog & AWS Collaborate to Expedite Secure Machine Learning"
     excerpt: "JFrog Ltd, a Liquid Software company, has announced a new integration with Amazon SageMaker, enabling companies to build, train, and deploy machine learning models."
     publishedDateTime: 2024-01-18T08:56:00Z
@@ -70,6 +56,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "JFrog and AWS Accelerate Secure Machine Learning Development"
+    excerpt: "JFrog Ltd. (“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced a new integ"
+    publishedDateTime: 2024-01-17T14:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240117147895/en/JFrog-and-AWS-Accelerate-Secure-Machine-Learning-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
 
 secured: "xBvCIMNXmaJexv/h7VeFSt7shNm6E4E3MI6EQxkzOMd4GyreIQJuKaqXwFTHhHDSARmdO3w2+wLRG2dXoD1U4fHAnfsHp6YTN2wzuYS+0MylaKs+koeRhsLClOJ7sLnAChzGuRE2uk7zgL7qFZtFFPSUFr/Hv7yZ2Z6eAfdL9hT14PRwoW/V88BGoXcw3e9hc1RKbm4xb2cQhUHiutpgtNpdcGukPCW3l0bqeW19GBecLBmy2/ckWAVJDwUHE51V8uYOAAjc3buG3AShYc2lT3/E2YmjKfqmvRBButM/PlhAZxrzURFWEzwEqUVticTWfzTT7i6LpIlriMt34V7agyYhZHXobFuBzakeFqlD1Qs=;M4aVLaRBeRfNP5NZXASbJw=="
 ---

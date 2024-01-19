@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
+    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
+    publishedDateTime: 2024-01-19T16:26:00Z
+    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "NVIDIA secures $1 billion+ AI GPU order from Indian data center operator Yotta"
     excerpt: "NVIDIA will continue to struggle doing AI GPU business in China, with the Indian market now opening up with a huge $1 billion+ order for AI GPUs."
     publishedDateTime: 2024-01-15T00:03:00Z
@@ -168,6 +182,33 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
+    excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
+    publishedDateTime: 2024-01-19T12:46:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/meta-platforms-zuckerberg-hints-company-is-spending-billions-on-nvidia-ai-chips-432SI-3278359"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 29
+  - title: "Zuckerberg wants to build a different kind of artificial intelligence"
+    excerpt: "Meta Platforms Inc. CEO Mark Zuckerberg has seen the future and it's driven by open-source artificial general intelligence (AGI) that benefits all of humanity by its ease of use, broad availability and safety. Speaking with The Verge in an exclusive ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/19/zuckerberg-wants-to-build-a-different-kind-of-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
+    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
+    publishedDateTime: 2024-01-19T11:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source?ref=mc.news"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
   - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
     excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
     publishedDateTime: 2024-01-19T00:05:00Z
@@ -182,6 +223,24 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Meta's AI overhaul: Zuckerberg's plan to integrate and expand generative AI research"
+    excerpt: "Explore Meta's bold AI strategy as Zuckerberg reveals plans to integrate generative AI teams, invest in H100 GPUs, and push for advancements in reasoning, planning, coding, and memory. Witness the merger of research divisions for a comprehensive approach to AI innovation."
+    publishedDateTime: 2024-01-19T13:42:00Z
+    webUrl: "https://cointelegraph.com/news/meta-ai-expansion-zuckerberg-reveals-350k-gpus-and-merged-research-teams"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 12
+  - title: "Llama 3 coming soon reveals Mark Zuckerberg, CEO of Meta"
+    excerpt: "Meta, the tech giant formerly known as Facebook, is making a significant leap into the realm of artificial intelligence (AI) with its new project, Llama 3. This advanced AI model is not just another incremental improvement; it represents a major step ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/llama-3-llm/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "6Q4F32e9hWwVLAVrzqPHbny/2WSUHBaDZiaYT4YkWLJuBr6X9qivs6UJzhSSLbkZP+uzu/wpP4t6iuxCdulII/LcPwJUmVB1uqb2fKJNXEI5WoOvdPO75N/mVsXsImya1TZJ6DUy76x3qUVNCcylFFqvm+NrYfyXM74e7LMlCP90Vso3XnKGTjsYx3YsKf38fsPvRKe+S0fvZDBzuAwlsIe6MUOm641jCBASyn5UBftETJQyMGFPW70mEA5fkMcFzgtkGRtl7hU57iOeHcXEY8Vj4Wb2Klyyn8o4P1/glS6N2o5gSoOSgyKipm6Suf4GsNBH6txvfyH93nsQyl8g6/pG3yOd8t3pqhsts5c2A5kh7aBsV7QbnguNVMSv/EjQwZy885FqRGsJMeZO7Af/6a4gEl2nGObtTohQHw0es3Bmq0IA03XVr2aWXfnTACv2D8IRboyfaEBZLorbBjk5bjsywkxjwEiEAwT942uMI+d8D3UP1IZvLc9IsCkh7WI4cs64e5D5En6EelADOMB7TQ==;ykxZajGvXGWgZ9+2WSme/w=="
 ---

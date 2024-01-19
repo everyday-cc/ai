@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "JFrog and AWS Accelerate Secure Machine Learning Development"
-    excerpt: "(“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, to"
-    publishedDateTime: 2024-01-17T13:16:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/jfrog-and-aws-accelerate-secure-machine-learning-development/article_49280097-2bc9-5088-bbad-53c7776733ab.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 56
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/17/0173ab10-b8d9-5cb1-8b12-a6e50affc95b/65a7e2b7b1e18.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "JFrog & AWS Collaborate to Expedite Secure Machine Learning"
     excerpt: "JFrog Ltd, a Liquid Software company, has announced a new integration with Amazon SageMaker, enabling companies to build, train, and deploy machine learning models."
     publishedDateTime: 2024-01-18T08:56:00Z
@@ -74,6 +60,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "JFrog and AWS Accelerate Secure Machine Learning Development"
+    excerpt: "JFrog Ltd. (“JFrog”) (Nasdaq: FROG), the Liquid Software company and creators of the JFrog Software Supply Chain Platform, today announced a new integ"
+    publishedDateTime: 2024-01-17T14:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240117147895/en/JFrog-and-AWS-Accelerate-Secure-Machine-Learning-Development"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
 
 secured: "9jeEbnbeVyuMXfI1v/E0wEbbre/SB9EY1Zb1dwxKhWX9WhPl2qddTdKYJirJVs78g7QUX4l4W0kqf20CIOajsjxqwbV43sAUkxQJRabGgWE66Ei07DRcvkGisJQMGy9NKXdnvATwR5L9yhQAFRa48iENYiYAgodan8GyrGmT5n/gixyrY8VNq7+T6VXeVPvGb007PhwNdinHljSf+5qNTTlGS7jKMkV/nBkQRxvyB0QEKat4LRiTrFDVLpsh4NLw1MXuQPsmh4nbGlnAZL5t9F/zwYlemjhLQaeBlFAWDUEFiEvYich96t6LTTs4fWUJFUwbPDw31lt7go3idfN8aUcTcgMNQeIWQIitQ2LVbHaXipR/gSapYHGowiRophYZYmOPmfbmJDTHvuLCLbEKNX2ijOqIqEiTGS76hQXODGrBi2CYr1+k0XYYgtSRS7kicqIxL0nB6c699PldTfO+hy87/3/hlY3fAtEoEVedUKkDBRItLMxbD0SpRJOrFmZ5HoN399fTk6UAzq+N9S0QBw==;27/pTyze9J+TA27eDmNwfw=="
 ---
