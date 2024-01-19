@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/am
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
 type: article
 quality: 109
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
         width: 620
         height: 372
+        isCached: true
+  - title: "Here’s Every New AI Feature in the Samsung Galaxy S24 Explained"
+    excerpt: "Samsung has injected a ton of AI capabilities into its Galaxy S24 smartphones that will go on sale later this month, including translation, search, and photo editing features."
+    publishedDateTime: 2024-01-18T19:45:00Z
+    webUrl: "https://www.inverse.com/tech/samsung-galaxy-s24-ai-features-google-explained"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/1/18/69612cb4-6230-49a2-9fca-d50bc1bcddd8-38ab91ee-88fc-42c6-85c9-4c63d6e6b124-samsung-galaxy-s24-hands-on-38.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"

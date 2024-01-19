@@ -91,6 +91,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Vodafone, Microsoft sign 10-year partnership covering AI, IoT and more"
+    excerpt: "Vodafone and Microsoft hit the headlines on Tuesday with the announcement that they have signed a 10-year strategic partnership that will focus on business development in areas including generative | Vodafone said it will invest $1."
+    publishedDateTime: 2024-01-16T16:33:00Z
+    webUrl: "https://www.fiercewireless.com/wireless/vodafone-microsoft-sign-10-year-partnership-covering-ai-iot-and-more"
+    type: article
+    provider:
+      name: Fierce Wireless
+      domain: fiercewireless.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-10-31%20at%2012.49.08%20PM.png?VersionId=HQQlvuyK42_gkf5Fa8uTN_6JXexsgnrU"
+        width: 1242
+        height: 690
+        isCached: true
   - title: "Microsoft partners with Vodafone on generative AI integration"
     excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
     publishedDateTime: 2024-01-17T09:51:00Z

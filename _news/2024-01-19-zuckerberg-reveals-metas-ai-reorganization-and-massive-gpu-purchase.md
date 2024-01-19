@@ -134,6 +134,22 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
+    excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
+    publishedDateTime: 2024-01-19T03:50:00Z
+    webUrl: "https://www.techtimes.com/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 44
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
+        width: 1024
+        height: 702
+        isCached: true
   - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
     excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
     publishedDateTime: 2024-01-19T00:05:00Z
@@ -149,6 +165,6 @@ related:
         height: 799
         isCached: true
 
-secured: "f9++PziGbaQEr5KTwVyH8+C828tslpoKrmXxyyZ1XRDbf+K4hvDb2xY107RwPcqFpg9qRcD4hSO3slWLzbk/HCnWIGb+EXv5F5HnNKrh9azGCxWmXd1VIBfI0w70T//zzVnf3z10kFKL7r/s4Xeiz1CchvK4vriZ7JdKSoJpri+m6apFuOkO22BhVHqb+Ca9KTW6jiNfHG+rh1QEPXKVp/K9OGJNTYB7QmhLJc3ZiHFexDjsvHGjzhuuVdyhfqWZ8Q55jVBdJgoBSw5Qr7AlNv05Epm2Vp3THbVE7UoGzmk5hAfDv4HbJYCE2oKlxh2LLAiFxnphoW/D9VVyI5Hgij0VC/mMA3gcDS06VWL3zhg=;dfx+MaCHadI3zOEsANXdHA=="
+secured: "sKaiCnfvxrmyRw8ZZdmKmPOic8arDWiiBhBx2o/uXQjWrK07w9sGu9Ui1wMfv5DGsTjGlnyO3Wu5TlnQkfiKANKTf7KEs6v2/17WLKPSGHOsyE+KfNU1VDR0PoHC4dLR7v9zeRa5baHIrrHy1E2zWoyctuFfHLR7J8G1+8yURreE6K+hz/DGX0flcPDhEMfFom3q4eNuFcGkm55SDrfd5GbJveccPDMMz0JxxG+ZYyn1/qJgZHTPyQVRLis9jyIqk/B2/Ws1yeyGr0NvH1v11gZ+y2a318+Eishy8Rt0lYhwT9x7UGoSl+1b6+wClcyfyTW6aOCPm6jcdMc+t/XZwrfYb7q/PUUX9rmfUCpEpwOFdAgnwaccNYbUW7qifwnriNkBH9sY8HwmFMCW0ABwMJHYeE4hG5mJrGwD5UN6pyGTJO6nOERD+qT2hNpguTLT353TuMu5XH0v7WLEwvpfY534hTWn/lY0jAYGueoONbegRB4anaJ1YRUoLDI+2HYGKRq8pxLcUFIdR86Al/UgbQ==;oi0i/ltHuMLOuKwtyADphQ=="
 ---
 

@@ -137,6 +137,22 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
+    excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
+    publishedDateTime: 2024-01-19T03:50:00Z
+    webUrl: "https://www.techtimes.com/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 44
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
+        width: 1024
+        height: 702
+        isCached: true
   - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
     excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
     publishedDateTime: 2024-01-19T00:05:00Z

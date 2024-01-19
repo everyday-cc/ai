@@ -148,7 +148,23 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
+    excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
+    publishedDateTime: 2024-01-19T03:50:00Z
+    webUrl: "https://www.techtimes.com/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 44
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
+        width: 1024
+        height: 702
+        isCached: true
 
-secured: "xJKwt9UYpOpA+VfqV1fiU9uxyd2stJZ83yxww3C6IlsfGs0odR8d+ns0QjKGGkB3IS79Wc53jaGuNjVQFgzUZNwKY3neGSiEbvFFqdQGxL//vTKvZkvy+F6i9ryQ04x7WJwg0lJHh/ScAPreROJ0e+pIEdB/1acTHSSIHMxyApNHPuYI6zEtFNvds7WUxjFKW1CZzedbF4ds2fTLCrkt3ldOM96Mia6mIOx9tf2mM6a5j0Gjm+6CQwSbaHP3z8BTwY5diXyVuiVogVAHif8xjaEspugWGJW/6glQ8nPgk0J3KC40OXefFVYhiFOodXCxuF8/GZOxP3LQTOrRWHXnLOOLV4bttLWjSG4QPRRvahI=;DoQTvX6L0H/CQNNc2hH0kw=="
+secured: "h9DzYen9omswqE6y6b2tfXzKVQ5IEs37nxLJzA/qJ4jYubxfndvpFfHkRgoPf7EHK9SS5EtrSqe/8LurnhEk+FUvvZNm2eMjP4lU+bg05eHNWvXE1jlCiO5yg1USEmIoICA86VsWGJXnyPJIv4CUlR6XDNmtaeBcZi2v9GCdYGoblwb4DBE2dQrtzli60eN9kxJOQmVl8737cm+tCjWOQQtau1wgev5KBRfv0u1tqIs0oHXElw9b8jAfjlj9J3stE52Ff5TutHbjGyngO7xJrMDWkQ1snd+2JQ0ovJ8YcrOfW7k/+I9Yh1G3/HeQOmWC/rmHiwO6ETDls1CeIcKbwn3waJBJIOGTQJhs+aP4kC+Zdy4c8ofgpu2CV2WZ+q9cZ2e0S+nbs7st2WHO+LtOJ40UVotm2BYI0i7WHHJBBaWmLgg08zbsSA77LP0fcSE1Brj1ZwJs/20BthswKqQv1Lwt2FYnE9c56oPQ4ERKSyvBZjM1WgL+jP83bl2s+XLWziPTFrBwPkBB0URXAP1Ikw==;qtntdgTSGIZJvbUt9AcHbA=="
 ---
 

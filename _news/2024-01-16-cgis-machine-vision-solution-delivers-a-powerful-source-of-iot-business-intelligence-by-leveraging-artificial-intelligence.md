@@ -39,6 +39,22 @@ related:
         width: 2311
         height: 1300
         isCached: true
+  - title: "Mark Zuckerberg commits to developing Artificial General Intelligence: ‘Want to work on more ambitious problems’"
+    excerpt: "Zuckerberg believes that building for general intelligence is necessary to create the products Meta wants to build, attracting the best researchers to work on ambitious problems."
+    publishedDateTime: 2024-01-19T06:32:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems-11705639505993.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 21
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/Meta-Corporate-Responsibility-Lawsuit-0_1705645807066_1705645848198.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "kqeajyC2iVYotcF/6PQOZ+lwmnWYWY3usEeIVHYSOPWXrAPJpCle0oR/HHdr+SwQcdt/y8JVlvBuQ8EyTiX0cZoecDNFQeZcK8WGm/DYJa3w2UMJduAzKg7fUOmepHU/GQm94EXAaXz5aD2K86R+qoSuxNnQwX8jGDrokiYu2wfzBrp5uF/1ERDYZJ8A5CTGnO2YpZTIZpLk0I+qsBP9Xg9uZM7N6TGmFmCmZ3NI4uHDXO268A5mEJcfi2+6ohvzfdMRw95qoqSSGZ2SJHYVh4EbytyU8GhdUjbTG6R40yFiDjVPx9D6mpY7VJC7cSc7lzPjb/9EdSO7srtIKITYIIAQenxCy08XgdAsDnZRO90=;vOP1g80TtFhF+rto0oKd2g=="
 ---

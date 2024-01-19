@@ -99,6 +99,20 @@ related:
         width: 1344
         height: 896
         isCached: true
+  - title: "How Generative AI Will Shape Contracting"
+    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
+    publishedDateTime: 2024-01-19T05:00:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
+        width: 953
+        height: 635
+        isCached: true
 
 secured: "orBqSeOmrR/mVMmdUeIrJVfmoCdVmskmgcu5D+mFi67SP0GBIg8BRmkhK+pkE0ZffMlQyJY7Jj71aPHdFmTPJKNGHi9l0tKt5BSfVNKjsU9gdyqHx5u824hbcnIqB5u3MSmmWmqcWmAR79Wf+x+i47MtRzpAj5mCqXbbEtr5HOmgb94AeWWfWWxIHmgn7DVwjkcCusB0adi/u6yfxhwHGRde8gy2qQfhQoN1j6uD4RK35joePaXu3NqMJrsV5oZzNME/4+bgihKXaUDrVmvDZbsj4SsDy6W4TJdcqNM7KkuTvUb81uUlzQzavLrEy+zQh45yKHIR70eKv88krCUBLzszw6zTmJpvFMA1L7SEXOtVlp/Y8f4TssAOXlOahksAkC6qZPbWJWWmedtbAGARXUrEl68Cv3wX8BkXTIwzHJ4lYZ9mt72X61F270SocCq00sthQKoDUnLTvVg/wD3fiUXedqyIBe/aDksJ/GjIyo37WB3FWtFCb8agdWKKxL3EaiYrsMmfatgWUAvCqivUKQ==;6YUoRqzGIKApUchYXyW5Eg=="
 ---

@@ -104,6 +104,20 @@ related:
         width: 660
         height: 384
         isCached: true
+  - title: "Here’s Every New AI Feature in the Samsung Galaxy S24 Explained"
+    excerpt: "Samsung has injected a ton of AI capabilities into its Galaxy S24 smartphones that will go on sale later this month, including translation, search, and photo editing features."
+    publishedDateTime: 2024-01-18T19:45:00Z
+    webUrl: "https://www.inverse.com/tech/samsung-galaxy-s24-ai-features-google-explained"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/1/18/69612cb4-6230-49a2-9fca-d50bc1bcddd8-38ab91ee-88fc-42c6-85c9-4c63d6e6b124-samsung-galaxy-s24-hands-on-38.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
     publishedDateTime: 2024-01-18T15:30:00Z
@@ -128,6 +142,6 @@ related:
       domain: extremetech.com
     quality: 9
 
-secured: "Dho5qy47fFERaOzfoxDbTqqNqjqK/H0vR+O3xXoLLwZVTWfE7BRrFRKdyX/R1hxYsCRLQHQU/FSjiy7n2G3uEAVYHJvGdYBq/ZRDmE+elm3o8QPevY7UBXdWj+czuGl3dozoj9P7Sn+vmJGah5E0iPM1nKtPzL08VHVvL/EBoUMdLV+Ex1SIlF8GHnrNz6IBVTSsXaT9eSX3s7040lvsKWd23whDdPNYO0bwYpuItoe0FulaOgOTb4cl6SjpjMFVhQEdwEyfvYZAW0WSD2YfrIboauRKm4KlFluaaHU714Is0c+P9NfpSGACPWCJkUvX3KIUjCH69eG/zTxY+aQP3H9yNOz/D8GiPgozurtTTJg=;olRZ7ilY9wkhMAqqBVxqpw=="
+secured: "aP8STaHN+mwlc1+2EC7FMBK3UccX817dh9Uta4s6JRL4zuIyjSrWBjucFOkn9DoJdG44plPC24saTRthsp+4dXFpYjXhKnsicBGzoKNYaGE+8yMk147xMYWHiKU5ysOwkeIazELilJ36fN2j+F4pgsw4euMNoOL24GDUu4fNJhHIWODz4qzJ3SIlcwlZRNITNuPxmyPUmIHPAUK9EaxwyWWUWU31m1BuMqbyP90C+9uWmBcNeesc39F9t7OXx1ZQcoObpQKkdfyATASU+LJ5vaOjWGjVgIHvbmp+zmbVXg650MTNi/WMRiY7bGRkk3mZB9zCklQS7ARDhJhjCizS1w7JJ7DS9B/ZSvfyKNfA7SSXr2F8cKF0qNxF2gTWTnFr7hKy6b+g1NfspSgOgzmM0TsRDOvGSzXrtzgxuXK87m6oTZoVCaYAHYKhktnK9BULrAZ6Z2aIrOkijnyigAEzOs2otMZUryPK9Op4KBuNVMyhL50ED7/mDq2kb+LjqdCWtS96V5nqA3U+9rjcaXvrow==;F0TcmksU776PBy21betYBA=="
 ---
 

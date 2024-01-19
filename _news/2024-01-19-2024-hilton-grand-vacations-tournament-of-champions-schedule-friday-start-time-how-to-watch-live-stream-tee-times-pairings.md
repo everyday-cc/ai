@@ -26,15 +26,15 @@ images:
 related:
   - title: "2024 The American Express Schedule: Friday Start Time, How to Watch Live Stream, Tee Times & Pairings"
     excerpt: "Get up-to-date information on the 2024 The American Express tee times, schedule, pairings and all the info you need to watch live online."
-    publishedDateTime: 2024-01-19T02:36:00Z
-    webUrl: "https://www.uppermichiganssource.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
+    publishedDateTime: 2024-01-19T06:37:00Z
+    webUrl: "https://www.wsaz.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
     type: article
     provider:
-      name: Upper
-      domain: uppermichiganssource.com
+      name: WSAZ
+      domain: wsaz.com
     quality: 22
     images:
-      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
+      - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

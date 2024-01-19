@@ -2,23 +2,23 @@
 category: news
 title: "2024 The American Express Schedule: Friday Start Time, How to Watch Live Stream, Tee Times & Pairings"
 excerpt: "Get up-to-date information on the 2024 The American Express tee times, schedule, pairings and all the info you need to watch live online."
-publishedDateTime: 2024-01-19T02:36:00Z
-originalUrl: "https://www.uppermichiganssource.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
-webUrl: "https://www.uppermichiganssource.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
+publishedDateTime: 2024-01-19T06:37:00Z
+originalUrl: "https://www.wsaz.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
+webUrl: "https://www.wsaz.com/sports/betting/2024/01/19/the-american-express-pga-round-2-live-stream-tee-times/"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Upper
-  domain: uppermichiganssource.com
+  name: WSAZ
+  domain: wsaz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
+  - url: "https://gray-wsaz-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
     width: 1200
     height: 600
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "2OSy+L63533Gp7n6Et3Vq0xN5ohThW9RlzY/Y7HInZuKzI9zvrtx4lZdNedMhOCVsi5e8K1dCKPfGfaTS5VcNfNt/HZD4MYYwkNHOJAUmHaX9HGtsbh3gFUWFx0OlWX0FLL9VJCFwIXVx3qwjvsDenpw7IeGX9vDt3+DrGvpUT4s8fX1u3lrz+x1dsTIdvmq71bfURUGBylScDgppQLVzCJ/078+MT7ZoJkz0UsSn8caQM0EkYi/a2xgc6SBII9ev/zb2n0lZsomCX90Ehph4KZRYYd0C8Aemx+fRuMFpnsEoegc7aYBFPCwgicrq2LUMpOEj8n3H+512sSHPrGCjmxoigEl8IqxEGB+gO/khHE=;GK7dbFce9odRbbtQuSCCFQ=="
+secured: "RG9JgagAtHndubsx3Fv0zg1YgX+KyRRJ9cVVWrTsgICk0Ok58xPr/ALoazszEhQ/nrQmt3DKbPNOLPqSD61yighP0VFNDN99rItn8MoCuaac79Lxfxsqb2ZOy8a3sifYeYu0F8ePZZsk+8nXHjf2qfut3a3OdPbIP3ILPNh8pWqd6Y18EFcYKZ6CwwpJX5c77Jn/avf4cTrBicBJSb8bsRdtvAZjhPD+eKWsUT7lFqOUEm/MtffGB7holhY4XxMia3PfBv3698z+Fa5yarW1cGAWwhQdnD0AhkLqGJb6JUmHQOuj4J7sdm2NFGRGXVDN9lwOMEqjGN0APmu2bc7kFCAktTZo2UUbShCYcFykh/o=;QymFOvlYnkca9w2hAtCPGg=="
 ---
 
