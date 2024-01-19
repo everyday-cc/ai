@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Has the Biggest Impact on the Fintech Industry"
+    excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/ai-has-the-biggest-impact-on-the-fintech-industry/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
+        width: 1920
+        height: 830
+        isCached: true
 
 secured: "si7lAukj+pi88YFN78aNCBZyNEBKQUTmASxLimLP7cm5ziU8irQ+UkQAgDduB49fNECOGNo8vC7grx/GZuabqcSjF2fXdZMPvPZ+XL6SlCcn4mlocqgqaHUg/yXf8fQ89tyIwfgA3JV/Bzw+InB2BwTVUGKZwFKEW0C2cgYXhwUrS5SpWNC67hsKbMqpZ53rgMxj6KfdE6HuXvOxY+eLOuPhmnxCS5Qxenhhj9wPjxdB55qVEv1RTafj9UZVhCZfTfyqv4L5coSjwGGsHH9MLLbHN1CFJ5HxneTYQGZi320RZQqTgtZ1L9O6URzzUIrXlq/EjAX6+gOjXdLcBvnDZixMKsIGGfLUwnmu6VijB2DM8ewg2Uf5GbLotNbC1G5ye5732GiYU+SyWcsmX4tjvbx4mHcP0z2DtO64j9V9w7mgdcOJ/5pmj8R34lIndjX/FzYmJgKVUHMf9ol+paawYhf0+v5md8CkDrWsLZzYhckgbqFq6xYgFu/YZKcFtZvJkzKu2Ahr1rUkOQe82R+vvA==;1D1FFuXvBY9vRv7alc30aA=="
 ---

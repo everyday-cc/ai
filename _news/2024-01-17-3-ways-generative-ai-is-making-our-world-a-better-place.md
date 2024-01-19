@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generativ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a7c5cdca3a6faafd49ef26_Commercializing%20Monetizing%20Generative%20AI.jpg"
         width: 2311
         height: 1300
-        isCached: true
-  - title: "Romance scams are getting smarter and AI is helping"
-    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
-    publishedDateTime: 2024-01-18T12:06:00Z
-    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 39
-    images:
-      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
-        width: 1344
-        height: 896
         isCached: true
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."

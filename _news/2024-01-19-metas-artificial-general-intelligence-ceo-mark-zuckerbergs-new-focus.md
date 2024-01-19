@@ -149,6 +149,22 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
+    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
+    publishedDateTime: 2024-01-19T07:09:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
     excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
     publishedDateTime: 2024-01-19T00:05:00Z
@@ -164,6 +180,6 @@ related:
         height: 799
         isCached: true
 
-secured: "JO0n9WNMtFKVIA2BLybcIPUD763ZRUDoj2HX8TxrZHbAekQ0kLGApUXNl2m/sCcdhIOY+pHXWtg7Be5G7fCNGjRdVeHCMK5eBjjNYMp02ojO69aIpRXKPN1L89v0p7tRTZowX6aHfFINKGEiuH+nUhGVwTgT+H3DIZMmmaAkZJ49xigmP/x4egwwMJcCSwNC8h5eSkupy7cf8PVkGHVdUifJfi3JgDtijkmQlt/e6HhXtMgIdA6Rn2ABsoxcK/KOb4V+XQgp3f/x/BRkXgBxkcIx5EcHULOrQdNn7aDEw1KoE9BAgMbsh64mSA3Igdxqp/Vp2O53CBVtzNDLlV1IeWOoi2Rh8TdxpD7NyEGqfcM=;WR83iIUaCxXAhU/ySL0v6A=="
+secured: "xiMHP/8+5T4sXbAdvos6ly4+somjWSkvspxwahHbJyIs+R00IxW+VYd4CvJgiZQcSPKkybEXd2T9Hd9dvqfrssH+VEzzM2kvOjyIUIQ436/rzYxsEjQl05Mn/B0GRW/zrtqk2KpZkoeSRImO9l4hvqAkrDkrUBuYk6y4nUQBbbMlcj3rGzCpzsa/qxK9/2GJ03lJZI01mmgDJkLD2M9/QWwplRbzPSAKdxn5KN+dNQofWvQtDik1J3QOM1etw66nMnrJ+PbJODF21jH0UCrmZVk4xakBMzAc49jFnnOvyI7dalN4J5o8W9zbx27KayptscFrRb3fF2xlOyizucFteOODowGHMPv2lNQ74+s+nIa9JHYaEicImm37Ua74BdWD5V5dW6V/tQ4BSiMpEAtZBkSIql9CauE2cu45cm0ytyAPmgCoGi4N1HOvrpmshYlJwmOPrecdfDKhbV+sfzUVceN7OAt7q8NuZoW7YzvJ+v8ngxDv8iTmyz3MkrFS+mY//bsG4IJwaG8bg2EWBspn+Q==;D7kRAPFKlnHEma5okWjlCg=="
 ---
 

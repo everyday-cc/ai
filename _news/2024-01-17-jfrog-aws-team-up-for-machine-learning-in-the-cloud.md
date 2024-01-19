@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-mach
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/17/0173ab10-b8d9-5cb1-8b12-a6e50affc95b/65a7e2b7b1e18.image.jpg?crop=1280%2C672%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "JFrog & AWS Collaborate to Expedite Secure Machine Learning"
+    excerpt: "JFrog Ltd, a Liquid Software company, has announced a new integration with Amazon SageMaker, enabling companies to build, train, and deploy machine learning models."
+    publishedDateTime: 2024-01-18T08:56:00Z
+    webUrl: "https://analyticsindiamag.com/jfrog-aws-collaborate-to-expedite-secure-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "9jeEbnbeVyuMXfI1v/E0wEbbre/SB9EY1Zb1dwxKhWX9WhPl2qddTdKYJirJVs78g7QUX4l4W0kqf20CIOajsjxqwbV43sAUkxQJRabGgWE66Ei07DRcvkGisJQMGy9NKXdnvATwR5L9yhQAFRa48iENYiYAgodan8GyrGmT5n/gixyrY8VNq7+T6VXeVPvGb007PhwNdinHljSf+5qNTTlGS7jKMkV/nBkQRxvyB0QEKat4LRiTrFDVLpsh4NLw1MXuQPsmh4nbGlnAZL5t9F/zwYlemjhLQaeBlFAWDUEFiEvYich96t6LTTs4fWUJFUwbPDw31lt7go3idfN8aUcTcgMNQeIWQIitQ2LVbHaXipR/gSapYHGowiRophYZYmOPmfbmJDTHvuLCLbEKNX2ijOqIqEiTGS76hQXODGrBi2CYr1+k0XYYgtSRS7kicqIxL0nB6c699PldTfO+hy87/3/hlY3fAtEoEVedUKkDBRItLMxbD0SpRJOrFmZ5HoN399fTk6UAzq+N9S0QBw==;27/pTyze9J+TA27eDmNwfw=="

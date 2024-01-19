@@ -164,6 +164,22 @@ related:
         width: 1024
         height: 702
         isCached: true
+  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
+    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
+    publishedDateTime: 2024-01-19T07:09:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "h9DzYen9omswqE6y6b2tfXzKVQ5IEs37nxLJzA/qJ4jYubxfndvpFfHkRgoPf7EHK9SS5EtrSqe/8LurnhEk+FUvvZNm2eMjP4lU+bg05eHNWvXE1jlCiO5yg1USEmIoICA86VsWGJXnyPJIv4CUlR6XDNmtaeBcZi2v9GCdYGoblwb4DBE2dQrtzli60eN9kxJOQmVl8737cm+tCjWOQQtau1wgev5KBRfv0u1tqIs0oHXElw9b8jAfjlj9J3stE52Ff5TutHbjGyngO7xJrMDWkQ1snd+2JQ0ovJ8YcrOfW7k/+I9Yh1G3/HeQOmWC/rmHiwO6ETDls1CeIcKbwn3waJBJIOGTQJhs+aP4kC+Zdy4c8ofgpu2CV2WZ+q9cZ2e0S+nbs7st2WHO+LtOJ40UVotm2BYI0i7WHHJBBaWmLgg08zbsSA77LP0fcSE1Brj1ZwJs/20BthswKqQv1Lwt2FYnE9c56oPQ4ERKSyvBZjM1WgL+jP83bl2s+XLWziPTFrBwPkBB0URXAP1Ikw==;qtntdgTSGIZJvbUt9AcHbA=="
 ---

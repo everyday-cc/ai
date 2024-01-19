@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-com
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,18 +30,36 @@ images:
     isCached: true
 
 related:
-  - title: "Meet The Tiny Startup Aiming To Take On Apple And Meta With AI-Powered Smart Glasses"
-    excerpt: "Brilliant Labs does not suffer from a lack of ambition. This three-person startup is aiming to outmaneuver the giants of Silicon Valley in its quest to develop augmented reality glasses for the masses."
-    publishedDateTime: 2024-01-15T09:30:00Z
-    webUrl: "https://www.forbes.com/sites/zinnialee/2024/01/15/meet-the-tiny-startup-aiming-to-take-on-apple-and-meta-with-ai-powered-smart-glasses/"
+  - title: "The secret to healthcare AI is ... human beings"
+    excerpt: "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human."
+    publishedDateTime: 2024-01-19T07:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings"
+    ampWebUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 Ways AI Can Make Your Human-To-Human Relationships More Effective"
+    excerpt: "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships."
+    publishedDateTime: 2024-01-18T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/"
+    ampWebUrl: "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 60
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/658bee61a150359e89d49439/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
         height: 900
         isCached: true
   - title: "The future AI economy is already here"
@@ -60,20 +78,43 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "Challenging the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
+  - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
+    excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
+    publishedDateTime: 2024-01-18T10:10:00Z
+    webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
+      name: Mena FN
+      domain: menafn.com
+    quality: 46
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
+  - title: "Romance scams are getting smarter and AI is helping"
+    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
+    publishedDateTime: 2024-01-18T12:06:00Z
+    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
     quality: 39
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
+      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
+        width: 1344
+        height: 896
         isCached: true
+  - title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
+    excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 14
 
 secured: "vSWPAfI1+OyEiEagBLnA0AoECLYHFGS/xs6JtSyQ7UUneaTesTSnOlWrZ5Gm2bsZ92sd0MqAgakxh2cD1vUGLp6aoJQbcukMAvjtIbdOObQJcwJcT9Kvz/28wynFC4GymMk5/GZlYYvW3gyMLshv7vaUJVDp/QofOcHAVOU2+ztfBib9txD9GKZOromvjGrqtQyV4Te5LOwOv4JjUGbn5+n6U92OejWqMGN8iacOHX3AijeEvtIZBpvqas+h8j7lpks2J8SquzrKcVPJ4/VTEDcZwZuMBFIDogRwyyz23kJuYkZbP4IehVO/Rsufccl9q/aFQlwtKzQcPRzvMioZsSKu0Uy6qiLkmjT0u4jRvJU=;xo71YFYkGGlwe+XV2bLMAg=="
 ---

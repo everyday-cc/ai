@@ -89,20 +89,6 @@ related:
         width: 2311
         height: 1300
         isCached: true
-  - title: "Romance scams are getting smarter and AI is helping"
-    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
-    publishedDateTime: 2024-01-18T12:06:00Z
-    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
-    quality: 39
-    images:
-      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
-        width: 1344
-        height: 896
-        isCached: true
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
     publishedDateTime: 2024-01-19T05:00:00Z

@@ -42,6 +42,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AWS plans huge investment in Japan cloud infrastructure"
+    excerpt: "Amazon Web Services plans to invest over $15bn into its existing cloud infrastructure in Tokyo and Osaka by 2027 to meet growing customer demand"
+    publishedDateTime: 2024-01-19T02:25:00Z
+    webUrl: "https://www.computerweekly.com/news/366566832/AWS-plans-huge-investment-in-Japan-cloud-infrastructure"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "Fs8+hL2tnD6emC3Efd2tR8aS4oMVYM7HsuHy3H35VeL/6BrnOSvQD746JzKdCPatGAmAuQndjMdXI+KH4tUhIFecNKDYezskKnOHOfZKQfdWi3zU+w2IQgOrVnYhRKXwZnhKgECFTew2O/7L4IaIylcRR6bWLQVS6HDSJX0xR/zuQQRz5m6PJsGgp0l7rLHPR8KlpOQ1RD9rGB7iGaGAELbKomQuJCZaJUrVjU699nKDVX8gu5kEUFqoWLUP2VeUZU7QB3KucwYQteFk4aqysRMMW2PgkO9nMKreOjWhIrv3ruxiBqdGkkICJRKvOVYmarahEB9MzB+ve1vgskIwVOAZ7X1FZKo8mgTL2FkUt8JwdXfJfXmG/z1DOZuH3Vf1FWA898/IRIHvJvbWCXMxTRrGE3IH0MUzvlf96KtFxSFp/jDiAVh/zkg39T7Fbsv1K0LNMb4qJvv5zFZaXAJRVB6k7t8IjnTV+6XntbiXBBxeMCKaZIcfXEhX5GEV9m6DVSfjuQqN3WTz2iRuK9EBLw==;1xPObJee1WgpCPha8Hdwdw=="
 ---

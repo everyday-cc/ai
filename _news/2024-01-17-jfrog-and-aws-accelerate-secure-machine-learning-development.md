@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "JFrog & AWS Collaborate to Expedite Secure Machine Learning"
+    excerpt: "JFrog Ltd, a Liquid Software company, has announced a new integration with Amazon SageMaker, enabling companies to build, train, and deploy machine learning models."
+    publishedDateTime: 2024-01-18T08:56:00Z
+    webUrl: "https://analyticsindiamag.com/jfrog-aws-collaborate-to-expedite-secure-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "r96lVNtVfZOPOByTM5EvjrWjfYL1JwYt0B9ToGiTRN1lMEjfMH6ed/HSUYMaTtCLRgIiGCRmEyZHmgYdECR4p/iA6YtmnColndbyLmA/7uPeyvqwXUn1vjxGghtt/zOQqgEZgJdYw0/CW2Ta70BuAWXnPHTgPLkf2k4YxoVxotcOkIoU7cjYCKDgxBt8ITUnmi2E2Av02xzBPQM5WNX8Ba7RqXr9p/Sop/2sp2E0Oq6UDxjC1kc/6LZ7xx74+jVW1DbQFx8VzAA2iaHxis+GVe/72xoa61Yx3pK7tvAqLGWszua2pGmRhhGu3kcUYnRU3W/mkg5oKuyqiN+1HCzLMn0yUIVI5RS5S9EACHGcHVShCZBjqXA2OnwcfBm7CZoAw/MxWsdH5GTcipE8JAtsteCgTFJPXBMckHC9WfZ2dn4bPnIlRrzBr+QXdHvXnJ3qMtIcpWM4oU1/Vey6KW3dur2zs0SiSiBF5NbjhOX6PGGHWt8AWTtEaSCKrEg040dPBW+pSqQDZuMPdjuVNF/faw==;ODBMNnVopHQRiEYXf4sxCA=="
 ---

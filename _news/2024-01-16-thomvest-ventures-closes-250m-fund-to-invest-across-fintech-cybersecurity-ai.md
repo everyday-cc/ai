@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/16/thomvest-ventures-250m-fund-ventur
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/16/thomvest-ventures-250m-fund-venture-capital-fintech-cybersecurity-ai/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Has the Biggest Impact on the Fintech Industry"
+    excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/ai-has-the-biggest-impact-on-the-fintech-industry/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
+        width: 1920
+        height: 830
+        isCached: true
   - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
     excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
     publishedDateTime: 2024-01-17T17:14:00Z

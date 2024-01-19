@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-tr
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS"
@@ -25,6 +26,6 @@ images:
     height: 800
     isCached: true
 
-secured: "LY2jRKzOUZG0gEAyph5iIGqAzKbB9jk5AVIYox2+A7DQSrRWdyX31+32jay8LW08/WV/om175a0+/Ympcf+LRXddrtTpVV0IoBuqsaf7G45LC2G0zA7tevfSoXC7ystL+KNRSLcayqjfsMl/pCroKvSiqIj4YD1ZCW/dhl98m3qnquttlKTBskoyg7LI/ogSUHMg91DzKuORywbDF97RNvbWy/qpnwzM3kBv5Ofqc3pUoHXxLW4mjf2xNN4vNGRsP/J22LyF0tnXWFsDPZnxyR7C0UDP6Htj5nE3TV9FpCa4/26b7bNYA2WvZ16BxQSj0aui+IS0kDS3ikefbU4bLy7ionZktkvEUbzpAksUZuw=;GeBfahaZRB3Qacoe0tbnJQ=="
+secured: "PENW9tpm2yNZAFBSEdLkvxEf8uKb9pwJJ6QclNhq/8czePPse0K8UijbDNu9TCpn2/JV0fsrfOv0qeyppmE7p3vNGvwdxE2FEhVIcGX5cK6kgSNToz3ULvWZYfnJmoUrZVVdUE81IPviH0PedOWzbbgnPBN6wv9xt6T+5edYe5Hx2kIQ6GCQnTJ0n77aU2nBfZ2fo3JTij0hyGOhA+hR7gipglm63twb4p27VKzPW6OgwxMVNSH1eXMVEjqDUyZBE5/qavJ/dWbgUuYsPlO+5I4aEjbcdFSlxRo/rDQub+HU7KqW+IQJHm3TkpNn3iJ4BH/lAYB5jO7f6sbHpBbY/nmRIvDU7M+fO6oVFYCZVebmwjFqQdphOSKJilnkTBkSAV1eBUAiN3NzHN43LtYPLIIdWYG3hr/SQTwal/DyS425NvGh4rUQ9ea6/cLOjd+edOdJgvvt/1aykF9WaSju7c11wRio6HMMIAUvzF+9elhOZ6tDfcjS9w1bQ0cUreXsgqLJVWFjlxXOcQkID+VR7g==;EbZwvcPYAQbTcwTKkZNI0g=="
 ---
 
