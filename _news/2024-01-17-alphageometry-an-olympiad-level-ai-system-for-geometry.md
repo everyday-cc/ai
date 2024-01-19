@@ -1,0 +1,186 @@
+---
+category: news
+title: "AlphaGeometry: An Olympiad-level AI system for geometry"
+excerpt: "AlphaGeometry: An Olympiad-level AI system for geometry"
+publishedDateTime: 2024-01-17T16:04:00Z
+originalUrl: "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/"
+webUrl: "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: DeepMind
+  domain: deepmind.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Google AI
+
+images:
+  - url: "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Google DeepMind’s AI system solves geometry problems like a math Olympian"
+    excerpt: "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist."
+    publishedDateTime: 2024-01-18T04:21:00Z
+    webUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_geometric_shapes_math_competition_33d7db75-2612-4028-8673-02dc7d32c1ad-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "DeepMind AI rivals the world’s smartest high schoolers at geometry"
+    excerpt: "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022."
+    publishedDateTime: 2024-01-18T23:55:00Z
+    webUrl: "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1760047727-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Google DeepMind’s new AI system can solve complex geometry problems"
+    excerpt: "Its performance matches the smartest high school mathematicians and is much stronger than the previous state-of-the-art system."
+    publishedDateTime: 2024-01-18T14:13:00Z
+    webUrl: "https://www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/"
+    ampWebUrl: "https://www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/240117-deepmind-geometry_845cd6.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Google DeepMind’s program does geometry like a maths champ"
+    excerpt: "At the International Mathematical Olympiad (IMO), the annual meeting of the world’s best teenage mathematicians, Google DeepMind has unveiled a program that can compete with the best humans in solving geometry problems."
+    publishedDateTime: 2024-01-17T18:09:00Z
+    webUrl: "https://www.thetimes.co.uk/article/google-deepmind-unveils-ai-that-does-geometry-like-a-maths-champ-0zhj295w7"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 71
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F35474dbd-c7a5-4887-9bb7-d2d63f82b812.jpg?crop=4500%2C2531%2C0%2C234&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "DeepMind AI solves geometry problems at star-student level"
+    excerpt: "An artificial-intelligence (AI) tool can rigorously prove whether geometric facts — statements about two-dimensional shapes such as triangles or polygons — are true, just as well as competitors in the International Mathematical Olympiad, a competition for school students. The system, called AlphaGeometry, was described in Nature on 17 January 1."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00141-5"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00141-5/d41586-024-00141-5_26634738.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
+    excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
+    publishedDateTime: 2024-01-18T11:00:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-geometry-mathematics-alphageometry"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/deepmind-geometry.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Google DeepMind’s New AI Model Masters Olympiad-Level Geometry"
+    excerpt: "While the previous state-of-the-art system called Wu’s method solved 10 of 30 Olympiad questions, AlphaGeometry solved 25 geometry problems, within the competition time frame."
+    publishedDateTime: 2024-01-18T08:32:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepminds-new-ai-model-masters-olympiad-level-geometry/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google’s DeepMind builds hybrid AI system to solve complex geometry problems"
+    excerpt: "Researchers at DeepMind, the artificial intelligence research division of Alphabet Inc., have created software that’s able to solve difficult geometry proofs that are often used to test the brightest high school students in the International Mathematical ..."
+    publishedDateTime: 2024-01-18T01:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/17/googles-deepmind-built-hybrid-ai-system-based-neural-networks-solve-complex-geometry-problems/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/3d-view-puzzle-pieces.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "Google DeepMind's New AI Matches Gold Medal Performance in Math Olympics"
+    excerpt: "AlphaGeometry incorporates a rule-bound logical model that attempts to find an answer, and a large language model to generate out-of-the-box ideas."
+    publishedDateTime: 2024-01-18T16:39:00Z
+    webUrl: "https://cacm.acm.org/news/279365-google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 50
+  - title: "Major Breakthrough for Google Deepmind as AI System Solves Complex Geometry Problems"
+    excerpt: "Your use of this website signifies your acceptance of our terms and conditions as well as our privacy policy. Google Deepmind has announced a major breakthrough, claiming to have developed a new AI system capable of solving complex geometrical problems."
+    publishedDateTime: 2024-01-18T00:56:00Z
+    webUrl: "https://techreport.com/news/major-breakthrough-for-google-deepmind-as-ai-system-solves-complex-geometry-problems/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 47
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/Google-Deepmind.jpg?_t=1705568172"
+        width: 841
+        height: 436
+        isCached: true
+  - title: "Google's DeepMind can square its hypotenuse"
+    excerpt: "Because everyone needs a squared hypotenuse  DeepMind, the brainy Google-owned company that makes super-smart AI, has created a system that can crack hard geometry problems. It's a huge leap for machines that can think like humans,"
+    publishedDateTime: 2024-01-18T09:13:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58282-google-s-deepmind-can-square-its-hypotenuse"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/6fd3a52170f7c91d97310037e549cdb9_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+
+secured: "E4aUR7Z+EdBlVQ98MWC6A0JmOsXd1UY7tuyY41/fsjb+4SxG9//dui1VthqtZR9g774CqK4fvGQn3WVLopgrVBiNMYozKFW+wnqeDT0Q3glMYZ+plHrlUszqZj7bRFp7MHKP1gPfOXFW+C7TorFRDm3ZY/6H8h2Ro+GMtcAv1wryLw/yn5AT0t2W1906jjG0f0aEGpSVqEddQMLl7gK9/luRYeqL/zLBESMQW0NcG/ny2ZZfVspTrOIhEX1bTRESKZXQtQyCXPfEO08E6U6GeABFVdKyjeW7O+qkJYwiLLPTFD2xEnDUBCTF7leiIzk5GoTz68cFQX/V896v4INrWH8kH9FLCeQo8Kz7JK43zgI=;rDr13eJr4ikuerTRvcoRSQ=="
+---
+
