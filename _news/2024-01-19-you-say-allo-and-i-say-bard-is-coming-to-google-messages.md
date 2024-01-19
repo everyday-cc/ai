@@ -33,7 +33,7 @@ related:
     provider:
       name: Android Authority
       domain: androidauthority.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
         width: 1920

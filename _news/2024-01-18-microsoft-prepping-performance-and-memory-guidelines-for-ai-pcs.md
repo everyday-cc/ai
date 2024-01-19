@@ -74,6 +74,20 @@ related:
         width: 1338
         height: 900
         isCached: true
+  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
+    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
+    publishedDateTime: 2024-01-19T17:57:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
     excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
     publishedDateTime: 2024-01-16T15:52:00Z

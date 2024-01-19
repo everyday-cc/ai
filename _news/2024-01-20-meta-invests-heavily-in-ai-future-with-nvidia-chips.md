@@ -163,6 +163,20 @@ related:
         width: 1024
         height: 702
         isCached: true
+  - title: "Nvidia stock hits all-time high as AI craze rolls on"
+    excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
+    publishedDateTime: 2024-01-19T18:33:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-stock-hits-time-high-183354058.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/iBoQeug.O.I95gqupORTZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/ceba0172b8d779dc8e48145d0c4094d0"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
     excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
     publishedDateTime: 2024-01-19T07:09:00Z
@@ -178,6 +192,22 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
+    excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
+    publishedDateTime: 2024-01-19T16:03:00Z
+    webUrl: "https://www.techtimes.com/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 36
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442700/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-to-develop-advanced-ai-with-open-source-accessibility.jpg"
+        width: 1024
+        height: 687
         isCached: true
   - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
     excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
@@ -229,6 +259,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 12
+  - title: "Artificial general intelligence — when AI becomes more capable than humans — is just moments away, Meta's Mark Zuckerberg declares"
+    excerpt: "Mark Zuckerberg said Meta will have \"an absolutely massive amount of infrastructure\" in place by the end of the year to prime it for training an artificial general intelligence model."
+    publishedDateTime: 2024-01-19T18:11:00Z
+    webUrl: "https://www.livescience.com/technology/artificial-intelligence/artificial-general-intelligence-when-ai-becomes-more-capable-than-humans-is-just-moments-away-metas-mark-zuckerberg-declares"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 7
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DW7RQ2KvkbjTRApQMuSWan-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Llama 3 coming soon reveals Mark Zuckerberg, CEO of Meta"
     excerpt: "Meta, the tech giant formerly known as Facebook, is making a significant leap into the realm of artificial intelligence (AI) with its new project, Llama 3. This advanced AI model is not just another incremental improvement; it represents a major step ..."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -239,6 +283,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "HbeqitQXBN+LUAvtnXiy6bXvThZTKdTRiUXtGcrRuAO3RtCLaEDmLwqhCgt8/IensEiIwYX4XGsPSOQuJk/5uhqZ3LxDH8WoeBM0qQFB0jnXNmywiQLqLsP9Lfqln78BGxPK382w+EK5ajkmrtask58ytf2LMfEqZ+qOKRISdWXMsCHjBA6DDFq74zOO+mH+/yrV0SV4A6/wHmHgpx/lNAtAbqqAJInf0a1t8q3Hmn/qT8WWmdaF0FqxkJdzQtHtgRlYpRMl0cFXCfyUYTK2+SogW151ZDDjchme0iwi2MAmm4hmixIljLaLtltS5IwzpO3YPv7IRTqjMoo7u5S0n1NkgW98qkkilGS54bA8ObY=;zIAiefqqvJH1+a35FA4s7g=="
+secured: "PFqwJTvagquzish4fjxi03eeETEhHHKpP6zw2z44ciwcAp4rAvejSZuP2sutanxI6Pw6DMYgg6o+VaWCq9LwYQY741gywMcpiKvBhac8Bo0fjEtHggtd8uZGvx8t3QwHEBTpF6eBNFahUQNPc0cIQKhBem2RPfiJbP6PsMS8oy31nkzcbqJv5vFbH3P0ZYZPNP2CpKyJxt13XsMmYAsRhI9E/AFdZoIVkO46ym8XMMF4K3l4qDlbDZojS0eeJv+XxeHJQRT9Jpc7+w1NpjbzJ8p3DfID4gLL+Xgl+/UjtXyKQwJewG51OwY4wIVptQzWpEZYoDYAcKi0ZX03o+KIBVy9Y0kpDJCrJYsN/JJuTKiY8Cl1v1OEjs19fUUNmeXduwlWGD2E7w3Cuor4bTFZD5UqJvl5ocWwYxSti2seATsppv0u4J5KUleIQW/1bn1rMLLNfyCFeiT+wZQ1tx8yQ3a+83ZH3KuEG+2yiDdb4IRM/Aj8SUaGAfFdh1LDL0wGTVla+8enCS5t481mn174Aw==;Dz3UrKL56OOguBMkUUN14g=="
 ---
 

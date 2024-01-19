@@ -140,6 +140,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
       "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
       "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
@@ -1269,41 +1312,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

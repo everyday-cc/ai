@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-
 webUrl: "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT goes to college: OpenAI finds its first higher education partner"
+    excerpt: "While some schools ban the use of generative AI, Arizona State University becomes the first college to implement ChatGPT Enterprise."
+    publishedDateTime: 2024-01-19T09:20:00Z
+    webUrl: "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 120
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/2372eed714badfd193c24dff4c994ee251cdcb3e/2024/01/19/07c812ae-e03d-4645-ac93-fae1d19d88fb/gettyimages-1406728413.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ASU to bring ChatGPT into higher education through OpenAI partnership"
     excerpt: "The collaboration will begin with an open call next month to faculty and staff for ideas on how to explore the uses of AI in higher education. From there, some students and faculty members will receive access to ChatGPT Enterprise — a version of the generative chat tool for businesses."
     publishedDateTime: 2024-01-18T15:15:00Z

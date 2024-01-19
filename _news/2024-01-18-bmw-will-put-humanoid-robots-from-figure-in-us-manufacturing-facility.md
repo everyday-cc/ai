@@ -9,8 +9,8 @@ ampWebUrl: "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Autoblog
@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "BMW taps humanoid startup Figure to take on Tesla's robot"
+    excerpt: "The robots will be integrated into the manufacturing processes at BMW's U.S. plant including the body shop, sheet metal and warehouse in the next 12-24 months, after being trained to perform specific tasks."
+    publishedDateTime: 2024-01-19T10:14:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-partners-figure-use-humanoid-robot-build-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
 
 secured: "PZFBklH/VZG5rYPjSZC3XOz+TSmrnVDLPg/jAKLrMAKfMBkjgwEqdRbMX2JndZyhDyC5RfmP9yN0/sI8xYV8C4Vb/yAKAERXH7WScuDekVb7P+6aFN5D2tipSNQJMA8TAIMwohNrHcEiSKVqkJ1o8i+69ZNDs7DvtUG0Z8B51t/3ht95jfxOw8u+sHjag+OkRQmHS4nhsIYskCXryfdVKpR+uS/H9JnV+iPBBupQftqS4fgJqpE9cYiMNu0NKxTzPNN3qzDhdcwgOs3aL9wReafWrTt+EC8UGI+bMJP8Dh1zrsqQ4WNq7cD4wS1G0covEhTCPRB7nSQor8c59zsEDCwAFAhPj1l7EA0DgAJddoc=;gh0lPJXsfkOWPM7jBFr+Jg=="
 ---

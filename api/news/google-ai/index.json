@@ -62,7 +62,7 @@
       "originalUrl": "https://www.androidauthority.com/p-3405223/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -102,7 +102,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -218,7 +219,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 260,
       "tags": null,
       "images": [
         {

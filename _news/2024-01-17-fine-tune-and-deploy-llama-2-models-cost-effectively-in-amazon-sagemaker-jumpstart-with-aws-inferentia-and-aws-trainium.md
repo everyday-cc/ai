@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy
 webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
 type: article
 quality: 95
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/29/ML-15268-001-1260x457.png"
         width: 1260
         height: 457
+        isCached: true
+  - title: "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning"
+    excerpt: "In this post, we demonstrate how to use neural architecture search (NAS) based structural pruning to compress a fine-tuned BERT model to improve model performance and reduce inference times. Pre-trained language models (PLMs) are undergoing rapid commercial and enterprise adoption in the areas of productivity"
+    publishedDateTime: 2024-01-19T18:06:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/11/9-Comparison-Plot-1-803x630.png"
+        width: 803
+        height: 630
         isCached: true
 
 secured: "vhW4K19Ss3mDc4plgw9E8OFnFNEJIo7bHkxaR5N6CrIBWnulaprUKeUuFydQma5XvFm72MLbvZVyMQpRVpyk3ffZTfZw+4IEWdStLpPqxeIblKgzGEmKzUAhFt3tbm3ic2QZreNHS/WL/NXF6aXRWn/PgkucCHXUxVm8X6fiUwGKCz1Mt/RAgVAf1BHpwqetdE7/pUrIHUs/5AVFXUq5vtQxgUOvbNhniAtS0Es6EH1X4ST60n0zNlfRSAtoebPAdx8QJJF7f5cO4Rj6PGUadfYngH2ZGz3UBzNlrDhN3MBl/EgBLYQ5jSXDOlgsEJiHqLIlQrxC5neTVUVQjN5gB3Mbc3Hc9C/rQ/5oULZ7fyI=;9sxxBwXMVKaUMhp7mPiFuw=="

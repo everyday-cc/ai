@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-alt
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Sam Altman seeks to raise billions for network of AI chip factories"
+    excerpt: "Altman has had conversations with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants, or fabs, as theyre known colloquially, said the people, who requested anonymity because the conversations are private."
+    publishedDateTime: 2024-01-19T17:52:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories/articleshow/106997313.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories/amp_articleshow/106997313.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories/amp_articleshow/106997313.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-87170,msid-106997302/ai-is-the-buzz-the-big-opportunity-and-the-risk-to-watch-among-the-davos-glitterati.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
+    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
+    publishedDateTime: 2024-01-19T13:34:00Z
+    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "i7DuBjNliPagkejZzqTYDco/RgJ6ZcDq7THHwRChdt1ZlpIVRCX+/pYZDUT+V1MJDCjUMQ/+UI73QFkZjVNOi+QQ9e43csBcYLh3Pf9iFR4eWAb16vkQscsqct3GdefEq53aMclmm5gIj+yHoBZcPH7weafVVFSnbRcZnxzNAsKvKmOooIZQsepwnVxLG2xQeHjJeq6H2bTM/OLXapp6Obd8WpgCt4hy7euXvLX7zlgZcdofgDdtv2dUahWd6bsu/TZUfgjwM8DFA/CxhB27SDZZV5styMgk1o2NXk0ZYmIXKFl46Qkgorj9bNZE8thT2Z1RD/AwOG9E+KMTD/lylE9VAv9LKVy65Hu60p4tEks=;d+RLsUoMU9SbOakBYXEByg=="
 ---

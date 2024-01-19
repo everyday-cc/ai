@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-19-how-to-build-a-successful-disaster-recovery-strategy.md",
+      "title": "How to build a successful disaster recovery strategy",
+      "excerpt": "A disaster recovery strategy lays out how your businesses will respond to a number of unplanned incidents.\nThe post How to build a successful disaster recovery strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/CR-G-265254-Hispanic-technician-examining.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T18:07:18Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
+      "title": "Exploring the hyper-competitive future of customer experience",
+      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T17:26:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-cryptography-use-cases-from-secure-communication-to-data-security.md",
       "title": "Cryptography use cases: From secure communication to data security ",
       "excerpt": "When it comes to data security, the ancient art of cryptography has become a critical cornerstone of today’s digital age.\nThe post Cryptography use cases: From secure communication to data security  appeared first on IBM Blog.\n",
@@ -145,48 +238,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-16T22:36:47Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-how-to-build-a-successful-product-development-strategy.md",
-      "title": "How to build a successful product development strategy",
-      "excerpt": "Explore how a strong product development strategy can help an organization weather unforeseen events or market changes.\nThe post How to build a successful product development strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/product-development-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/product-development-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T21:05:07Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1265,48 +1316,6 @@
       "topics": [
         "Meta AI",
         "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-accelerate-release-lifecycle-with-pathway-to-deploy-part-1.md",
-      "title": "Accelerate release lifecycle with pathway to deploy: Part 1",
-      "excerpt": "For many enterprises, the journey to cloud reduces technical debt costs and meets CapEx-to-OpEx objectives\nThe post Accelerate release lifecycle with pathway to deploy: Part 1 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
-      "originalUrl": "https://www.ibm.com/blog/accelerate-release-lifecycle-with-pathway-to-deploy-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T17:32:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "IBM AI"
       ]
     }

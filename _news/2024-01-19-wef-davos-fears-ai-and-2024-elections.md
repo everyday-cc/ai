@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
-    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
-    publishedDateTime: 2024-01-19T13:34:00Z
-    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
 
 secured: "57ZaIDWSZOcwVBybSJcFwzbRYQgFvQLjaTEiFA1tcqpGo3Owr7VZyaORO+3l3wzY171fMf89lZi2gNfokj2Of1RoWa6gT3SIWQI0NJiovSpjuwiyAFWVcRfY3gFv62n8OHYoPDlaiv6uWpy1A3dCxwMJxGyUcM1UMLt4OUxbyOCBGopUPzmvckj/ovGX123i60anL2fhmO5p5ErKSHPAZ7ZsCcEP+FToipHRONFTzVbTsAyWD36s76R9XpseWYw6RgP/a1YthBIIcBqKsGwHBwA2rW/SZeCXNAVxnc8wvczPUEGNIarrahy/UQyQQz1JV7EsPa4Q3DdzritUKLXE7ZtcFwPyppirXbYSG/DXD1Q=;FY1VqR1dZgP54mXPHgWg8Q=="
 ---

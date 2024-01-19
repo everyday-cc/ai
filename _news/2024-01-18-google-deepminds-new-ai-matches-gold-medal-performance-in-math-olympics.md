@@ -230,6 +230,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "UeX9lLe/nJltxQ0QK7YijlPgECdwq2rV2lP9bDiRkaNVTkdT38NwxCFE2Yk+yV60OLxHkI92ktTNXvved8xdliFRKcDurAh4oA4FqFZKW+mfx7cuuwaeL5TdSEFq1QU+fyhXHqJNB1+kfmVHBAU4IK0yqQHkyH2qGLcEOLVCqlD8ofeSTDbwuK+dsFaRzkYh1xciV+4PhszbQN+uJ3M/iuKweZ39r7rqfMAqUHd3DFVZi8m7wtSqVp7HFTmI52VdCiCODa0ttHbMdcpSQWONVx9zjQGqWqluIRK1J+Ij64Z7CI2iCl1o1rwlz9U1L3/W7R8BwNYPKi7lISnqRhjOtI9CzADIeU/ug6o9VhW+wTOQlhRyNbssSMcvEaYJaUSgMH+xZj7EGjDzKAalPGB8KtSztBuWW1NezOZZXVuyPzJ5F3so6xWtVqh0Q5AnimjmHnppedJHIhKL7PA9xjjFPWcCSHjpLzvW0QdMClLyz2AuTy4v+e8NEI0mnB6THVJXIe4Eg/VpxtjElDe6hkFTKg==;syT7YNwsvXjpAEwJZsfQ/g=="
 ---

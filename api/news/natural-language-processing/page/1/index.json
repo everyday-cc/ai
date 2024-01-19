@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages-heres-how-itll-work.md",
+      "title": "Bard AI is coming to Google Messages. Here's how it'll work.",
+      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/p-3405223/",
+      "originalUrl": "https://www.androidauthority.com/p-3405223/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
       "title": "Academic Intelligence: The Evolution of Education Through AI",
       "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
@@ -299,6 +352,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-11-24-best-ai-tools-for-2024-optimize-entrepreneurial-success.md",
+      "title": "24 Best AI Tools For 2024: Optimize Entrepreneurial Success",
+      "excerpt": "Jasper AI is an advanced writing assistant leveraging AI models for efficient content creation, language translation, and diverse creative outputs. In development, it proves valuable for crafting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
+      "originalUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.com/en/full/4501328/chatgpt-became-fastest-adopted-app-history-since-taken-over-metas-threads-users-marveled.jpg",
+          "width": 768,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
       "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
       "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
@@ -517,6 +613,58 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-solos-debuts-airgo-3-smart-glasses-that-can-translate-languages.md",
+      "title": "Solos debuts AirGo 3 Smart Glasses that can translate languages",
+      "excerpt": "Beyond language translation, the AirGo3 Smart Glasses boast a comprehensive array of features like SolosChat and SolosTranslate powered by ChatGPT. It leverages AI to facilitate natural voice communication through the Solos app, enabling users to perform tasks via voice commands.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "originalUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/solos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1279,153 +1427,6 @@
         "AI",
         "Meta AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-large-language-models-validate-misinformation.md",
-      "title": "Large language models validate misinformation",
-      "excerpt": "In a recent study, researchers systematically tested an early version of ChatGPT's understanding of statements in six categories: facts, conspiracies, controversies, misconceptions, stereotypes, and fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231220011945.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231220011945.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-23T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-humane-announces-ai-pin-will-start-shipping-in-march.md",
-      "title": "Humane announces AI Pin will start shipping in March",
-      "excerpt": "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
-      "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-22T19:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-wheres-the-line-considerations-for-using-ai-voice-cloning.md",
-      "title": "Where's The Line? Considerations For Using AI Voice Cloning",
-      "excerpt": "As we usher in the era of artificial intelligence (AI), a question we keep asking ourselves is, “Where’s the line?” With every new trick our technological counterparts are taught by their programmer masters, we move closer and closer to the point of no return. The problem is that we don’t really know where that point lies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658490fa5fe5f673b940656c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 819,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/22/wheres-the-line-considerations-for-using-ai-voice-cloning/amp/",
-      "publishedDateTime": "2023-12-22T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

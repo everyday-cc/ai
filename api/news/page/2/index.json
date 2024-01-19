@@ -2,6 +2,248 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-19-robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit.md",
+      "title": "Robotics council director highlights AI’s transformative potential at Global Artificial Intelligence Summit",
+      "excerpt": "In a dynamic showcase of the pivotal role played by artificial intelligence (AI) in technological innovation, Rajkumar Sharma, Director of the All India Council for Robotics and Automation (AICRA), emphasised the profound impact of AI on different sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
+      "originalUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/01/ANI-20240118174315.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
+      "publishedDateTime": "2024-01-18T18:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
+      "title": "Microsoft makes its AI-powered reading tutor free",
+      "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
+      "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
+      "publishedDateTime": "2024-01-18T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
+      "title": "Nokia to invest nearly $400m in European chips, AI",
+      "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "originalUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png",
+          "width": 1620,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "publishedDateTime": "2024-01-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
+      "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
+      "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management.md",
+      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management",
+      "excerpt": "We’re honored to announce that Microsoft has been named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management*. We believe that this recognition validates our end-to-end approach for developing and deploying enterprise-grade, cloud-native apps that run on Azure, in datacenters, or at",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN15_Blog_240115_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-challenging-norms-and-finding-your-north-star-with-ai-in-2024.md",
       "title": "Challenging norms and finding your North Star with AI in 2024",
       "excerpt": "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them.",
@@ -82,6 +324,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -348,7 +633,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 260,
       "tags": null,
       "images": [
         {
@@ -559,7 +844,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -946,299 +1231,6 @@
       "topics": [
         "IBM AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
-      "title": "JFrog, AWS team up for machine learning in the cloud",
-      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "publishedDateTime": "2024-01-17T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-chatbot-examples-a-beginners-guide.md",
-      "title": "Chatbot examples: A beginner’s guide ",
-      "excerpt": "Chatbots have become the go-to method for organizations to provide around-the-clock customer service—learn the best ways to use them.\nThe post Chatbot examples: A beginner’s guide  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "originalUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
-      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
-      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
-      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
-      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T10:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
-      "title": "3 Ways Generative AI Is Making Our World A Better Place",
-      "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "publishedDateTime": "2024-01-17T05:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
-      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
-      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

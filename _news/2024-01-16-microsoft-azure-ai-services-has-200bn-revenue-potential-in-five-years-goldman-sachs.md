@@ -83,6 +83,20 @@ related:
         width: 1338
         height: 900
         isCached: true
+  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
+    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
+    publishedDateTime: 2024-01-19T17:57:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "With broader participation in the AI and Machine Learning parts of the Microsoft Azure Innovate program, Grid Dynamics has amplified its value to clients and the company anticipates these efforts will create larger deal pipelines and reduce time to closure, especially for Generative AI, copilots, and other Large Language Model (LLM) initiatives."
     publishedDateTime: 2024-01-16T14:04:00Z

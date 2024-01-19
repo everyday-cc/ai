@@ -3,11 +3,13 @@ category: news
 title: "What happens when you think AI is lying about you?"
 excerpt: "Experts in several countries are agreed that humans must always be able to challenge AI actions, and as time goes on AI tools are increasingly both generating content about us and also making decisions about our lives."
 publishedDateTime: 2024-01-19T12:21:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-67986611?at_campaign=KARANGA&at_medium=RSS"
-webUrl: "https://www.bbc.co.uk/news/technology-67986611?at_campaign=KARANGA&at_medium=RSS"
+originalUrl: "https://www.bbc.co.uk/news/technology-67986611"
+webUrl: "https://www.bbc.co.uk/news/technology-67986611"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-67986611.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67986611.amp"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI
 
-secured: "tk3A7uKswgQz0BzjZ6HuF2nKpEe3McwXayf16ZqngVxOjECh2ypogvWqwqNEdeQHpNcU/6pyv6yucaewUkM0BCH/cPQq8sMJB/MrxRLLyW7qva93hU+LFxq4oRUNTE/cPwLi52ynid2vGj0/Ia1ZhABSis57ve8RTcKLWwtXSvFOpjZL63EjKDXmSFI3zss0AznTQ0l0JKJOy3my2iu8UyZuCut0B1oBlQ/cMsg5T8IgRJHSKg21Ei7jHUlbcTsdjtxeacT0iUy3flkpXr6ntj6FuvGgIKVMIOovjAFyaeUGz5f/85V5KP7qeVhtbP85xPWXTc+MF9El3UbjMyYB932tlasAs09uyOMghgD0MhqHRTKYEL3BS/FYJ8fdBu92eADlRKbVW1Bum4d1fhGW2X9t5c5TvlHBXfaoOFL7unadwdRUwCraMGnyzRPYAUNEXYyXHS7pWiaCBThwOg0zB7wosCi0C1YzFFymng4t/COMVj28TSslMBQMgKGiQg3z8ytwJT9yk0J8j3B/aI4gIQ==;PbOS+kc10vnVM/XIRqveLw=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17120/production/_132369449_gettyimages-157424694.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "MtqlDaNK3Xx5mj/Y0r0ZOoCGZs3zlfQ5JyOqexIR+cSEB5SV2Vhg0IrbjsBMhZMmd0JAKlUw4J5XCYajcbEsZcqWApNzitTBLFnnzKLFcqDYPwT1EtoGGkkDADCtLzDCqpd0dvmFnKsCntUgrzEkeiTpTWH76hY1maRBMcbcDbPmD+L4/RcJKRibZr0h/rkLsGl9GqwLj/l0unpzfKHB0kyEEz9GaTfPTc5YCv0stRoaDDbc47Eq/wt1BRVOtXxKwhObOW4LdSetoM7/4E5vIH4pcqzqH/27MMp8eExK8etApgLdbr/SBD1XkJrE4fTNVAUnzROUYVRyelRYFECQdc8Sp9Opoj5DoRqhXKLfRfM=;sNucBenGpZtn95uD6RvC+w=="
 ---
 

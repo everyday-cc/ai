@@ -43,6 +43,20 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning"
+    excerpt: "In this post, we demonstrate how to use neural architecture search (NAS) based structural pruning to compress a fine-tuned BERT model to improve model performance and reduce inference times. Pre-trained language models (PLMs) are undergoing rapid commercial and enterprise adoption in the areas of productivity"
+    publishedDateTime: 2024-01-19T18:06:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/11/9-Comparison-Plot-1-803x630.png"
+        width: 803
+        height: 630
+        isCached: true
 
 secured: "04pQoUrFZtp7bddzCDi1TuBMroyvHobnRobOwePgt0B2vZyZiVPHob+OHW77mZpFlFb2o9VTgxhn66ZVfvYrLzmwLQUbMqARWps+DQPUBq6YCL0wg4ovkXbXdbJCKrz6PzznmQUh8DkmWopQ4hez/Gn61NQ76SeU0pGCocsUOYlshC53fySxkuvASvViEFTWc4aHd162+o48+P+wpJ7QcBenWNmCVFBPeS1n/gExabtdqZobFHaUqLnWPfu3Dlj4iYGG+KFcgckVsVFHtLBij8aSkkX4xaiJH7dHkD7jSEqjn1c0ibAqC/jOu+NcQ0qOaR9vK5Naz/y6dOSLo/3bhv07kLpHXd59La6JN949/HU=;HY7g4qL0CR+ChopTFuet1w=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "BMW taps humanoid startup Figure to take on Tesla's robot"
+    excerpt: "The robots will be integrated into the manufacturing processes at BMW's U.S. plant including the body shop, sheet metal and warehouse in the next 12-24 months, after being trained to perform specific tasks."
+    publishedDateTime: 2024-01-19T10:14:00Z
+    webUrl: "https://europe.autonews.com/suppliers/bmw-partners-figure-use-humanoid-robot-build-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 36
 
 secured: "T4V2Db0ewUTr2f++SdSvMs+9Qqun8aRPvf7mlh7fFWhKtWBeGCbQQBx93n6VKM8yOyQ2sZO0GIgaiaKevOCIR8witE/IvlBfs15uU/cV5UOD4jSZN6jjTAxvHO6+Tmwmhf2d5HjMuHFzEnzqGmj/0UO3U0G0xLXUFYlHNzM98G0UdtTRUOVHr/0Pz/Q9ED0vIFjSDI+F3VTgNstnBsqYi/vzFxNlYEnCLAUm7aHXESBbshwY/KBqU+gTNwcHFKZ0rvmUApsMPB7naoS1sir8x5pusJapwFzrqdPAi2vZQHVzahuUqRyBxnAuTeL7sVjD4X72Id3xHEeSPRX5gE+oPsjDPWVQqYq+C5ERvZehO2g=;dyIzdLQK7wwrKBKIGMuX4A=="
 ---

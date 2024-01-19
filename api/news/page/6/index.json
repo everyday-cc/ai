@@ -2,6 +2,248 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
+      "title": "California considers artificial intelligence to improve traffic",
+      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "publishedDateTime": "2024-01-11T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News 8",
+        "domain": "cbs8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
+      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T03:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
+      "title": "Robot revolution: Uncovering the real value of security robots",
+      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T01:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
+      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
+      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZOM",
+        "domain": "azom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-top-10-best-python-libraries-for-natural-language-processing-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2024",
+      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/10-Best-Python-Libraries-for-Natural-Language-Processing.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
+      "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
+      "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T20:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-sams-club-is-testing-out-ai-computer-vision-tech-to-speed-up-exit-process-at-stores.md",
       "title": "Sam’s Club is testing out AI, computer vision tech to speed up exit process at stores",
       "excerpt": "Pilots are currently underway at 10 Sam’s Club locations and involves a combination of computer vision and digital technology which captures images of carts and verifies payment for all the items in the shopper’s possession.",
@@ -764,274 +1006,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
-      "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
-      "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
-      "originalUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2024/01/09/Belle_18cef70ac4b_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T22:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-q1s-rising-stars-3-ai-stocks-for-your-must-watch-list.md",
-      "title": "Q1’s Rising Stars: 3 AI Stocks for Your Must-Watch List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Even though it still sounds like science fiction, artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T19:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health.md",
-      "title": "Machine Learning Predicts Sight Loss: A Breakthrough in Eye Health",
-      "excerpt": "Researchers from Tokyo Medical and Dental University (TMDU) develop models based on machine learning that predict long-term visual acuity in patients with high myopia, one of the top three causes of irreversible blindness in many regions of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
-      "originalUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Vision-Eye-Examination-Art-Concept.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T19:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
-      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
-      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
-      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T18:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
-      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
-      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
-      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T17:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business.md",
-      "title": "Kodiak Robotics reveals its best shot at making self-driving trucks a business",
-      "excerpt": "Those redundant systems are there as a backup in case anything were to fail while its self-driving truck barrels down a highway without a driver behind the wheel. “From a safety perspective, we do not believe that is responsible to put a driverless truck ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/",
-      "originalUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Kodiak_Driverless-Truck_4.jpg?resize=1200,774",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/kodiak-robotics-reveals-its-best-shot-at-making-self-driving-trucks-a-business/amp/",
-      "publishedDateTime": "2024-01-09T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

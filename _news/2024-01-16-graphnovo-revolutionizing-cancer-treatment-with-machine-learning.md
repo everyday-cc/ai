@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
+    excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
+    publishedDateTime: 2024-01-19T17:53:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/ai-evolution-tech-pioneering-smarter-decisions-surgery-security-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Alan-Cohen-Clean-Thumb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Shaping The Future Of FinTech: Insights From A CMO"
     excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
     publishedDateTime: 2024-01-19T11:15:00Z

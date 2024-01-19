@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/chatgpt-medical-advice-767b4aa1"
 webUrl: "https://www.wsj.com/tech/ai/chatgpt-medical-advice-767b4aa1"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,36 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution"
+    excerpt: "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 86
+    images:
+      - url: "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Meet BharatGPT’s GPU Buddy"
+    excerpt: "IIT Bombay is building BharatGPT in collaboration with many universities and institutions. With one of the focus areas being healthcare, it was important for the initiative to bring in expertise from organisations that are leveraging different technologies within the field of healthcare."
+    publishedDateTime: 2024-01-19T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/meet-bharatgpts-gpu-buddy/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/How-Vizzhy-is-Helping-Build-BharatGPT-for-Healthcare.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "rAvbf6UMzc/Xel3VSXmfGKwwvARlEMLeMHLjQ7ZZSyxeBdqraxGAei8P4Cgc8gCm2LZUxZ9H+2p+OjosnXrVPToVTNxkq856GzKHMF2QSdRiHZSwto5x56DqDchNIvSv2MWieofr/TCxDYKx4xr8Ocmnny5v78DL358XFhSbWezCOqTsPETY9xqvGpqVYxb94mtjSUwWVGnBj7oAWNctBiWPfDg0gZ8oLYUonZptWw/zPNTb/GDMiPClw57FkppNgdQc742mTXSdwCjKJzeHMNrRnSfuTuu9zQchrZjK95Zont9yJ0oPbbxS08r0nem8hVFetnHVcp1w5YmgscGWCNzCCQZLJCBViMai03cHd8++UgGZalrG7cNOznTXH4kKbVBECHpNBUucWxsydpQ7GKWAt6v/Lb+E2ZfP1CMCxvaD16ZZFovBQ3fmtNW/0r4LMM+7+j2SVzQXt3YrsAk2EYWqlDPNqPxbCeJpmq3PIclJS0AqTmOyno4PT6e3+oYLPYBt8PUwymU8dAtgXqCvFw==;wwnaXQiSfBWSlBMRI2ONGw=="
 ---

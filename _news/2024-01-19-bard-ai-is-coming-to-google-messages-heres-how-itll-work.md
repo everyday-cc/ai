@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-19T09:02:00Z
 originalUrl: "https://www.androidauthority.com/p-3405223/"
 webUrl: "https://www.androidauthority.com/p-3405223/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
@@ -62,6 +63,6 @@ related:
       domain: androidpolice.com
     quality: 4
 
-secured: "dD7rm6Ib7+l1TCVHlN1IME+C7xVhx3JH1930qTQjaXAiph9pd9oUe2Wvgp4ZXqqzPqfYJBBGsyeDymQIvgDFCUZxKa2mjJmw1pI8R4AWx1W+yE8pR78tbzN9DB5tIuB/tVbjAf8HPeN7z9Ez/bDXVRBs8PJ1yX3SPKMAWkoRNX+t2fRH19qNOOT5FZ7GPrwXFZP2k8ue1pCm11uClHxL+9Hi/Bl6Ybgy5aDOnSdMuHJIrPjNk5HlAnDNOKsjzyugMNHBpTFbQaQ8PysAKlHtROJTjVsOVOlHmLzP6fBYrUXsW/d+BZgq+c6GJRb8fK12n11TVGeZMHiDorU4TpNshJ1kRd7dTqa6jfdy8vxkjgA=;QKwzMXYL/kaTH/9c79AbrA=="
+secured: "Ux35ixfIIXY528DMMnZ446WfMDBblTdISWB1EuIfH6n5CtgT0hOH7v/YJL327AA0aeZBzC0wUebGjQR0Jpc4yYjnOEUbbfc99rpid7npapzca0HSi/rUcFNo9U2WnPXhxf0hFkkMi8qIz6+lhf+BV7aXw+mz+USYYBi/6JbX7pmETWIxmVyfuKOF0Y+dloXe0a1AT5k9a289HQbP2I84R4PXXYXSVsN1vTDiKe84N+wkE7EkU5FWTfA4/D7b1qg1DrYxWwvuzwKAOFp09varLYO38bnl+xm96peAxWRbwOOZzwgVV8ADGqc18Xtmue06/GyZKv/dA9H9o9Q5oaIoIzGkgA82smfupk8/S7zEHMDTzsxEiGO9qN2nfkaf4eMzUuu8xvXH/4BSwqlbaDZv10e5Dum2sT5WTeLA1VATWMErBN5P7Ut0I5asBRILeIhwyan8MpBYrCVOL7bTpRWJ/iesqxJYGWh3Y2s65UbhdTVGsL7904Oy06wQrBBrELR3LGJHk/0ou/gaE8JWeeO4kw==;0sDcbaA+kq+B/y0jWVtJyA=="
 ---
 

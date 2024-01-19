@@ -49,6 +49,20 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
+    excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
+    publishedDateTime: 2024-01-19T17:53:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/ai-evolution-tech-pioneering-smarter-decisions-surgery-security-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Alan-Cohen-Clean-Thumb.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "GraphNovo: Revolutionizing Cancer Treatment With Machine Learning"
     excerpt: "The breakthrough in AI could result in the development of highly personalized medicine for treating serious diseases. Machine learning technology is aiding scientists in examining the composition of unknown cells,"
     publishedDateTime: 2024-01-16T06:54:00Z

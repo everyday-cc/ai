@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geome
 webUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/"
 type: article
 quality: 100
-heat: 250
+heat: 260
 published: true
 
 provider:
@@ -234,6 +234,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "3FuwYj0pz1chqi7EkFNtdIZfwERWokvtpyPLUygEviPJmVrVHvtkRxNWEvKzYuG2YrAS2Yf41xo4cAr/9pfO+XPmGyz6alSvGogTxLm0cRr0oTNwJfOxi6/7P+V4A5Qh3NJc2QyGPjITp7FCr8ngPgYTOqjNSwVWrxfuIywl3A8v9dZOEt4E3QtOCbn8dLFBmjsIRTos7FWy7arlNp/TuMBs0QG5iBzEy2wO681NWPW+W7a3Edhyrc2AyWiov9tkjiBl2rkivi+BwfbwkCVxTdEhLaGZyKiZaiT9jRrG1xNLWta7avEtonsKpsL0CxO4bUSVjLiHavgJ3PoJmDtGV8UkSKQPX/oDVdIS6Un5N2a+VW4EYs+GKSYyGTr0xXKIRFDz9YHJ4tupPyezON6qYAAaqXJcvZSYe5JNHOqWevYgsdb+kyEx3wmFdMpTD8Een9zGpzDZGZzgkJvLNRjvuXmqaHjM4EkZ1qZYbXYjavOmqpaAoOT+MWcOzCre/hQX0Pewdl+557z4WqzFKgrcAQ==;TeWZAtpOgFRb1xR3ooosNw=="
 ---
