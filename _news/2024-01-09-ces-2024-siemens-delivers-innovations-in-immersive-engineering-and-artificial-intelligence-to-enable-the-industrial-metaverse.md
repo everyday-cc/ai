@@ -1,10 +1,12 @@
 ---
 category: news
 title: "CES 2024: Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse"
-excerpt: "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications. Siemens is integrating Amazon Bedrock-a ..."
-publishedDateTime: 2024-01-09T00:00:00Z
-originalUrl: "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html"
-webUrl: "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html"
+excerpt: "Siemens unveiled innovations that are combining the real world and the digital worlds to redefine reality as it opened CES 2024, the world’s pioneering technology gathering.Siemens"
+publishedDateTime: 2024-01-09T15:50:00Z
+originalUrl: "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ces-2024-siemens-delivers-innovations-immersive-co-1546-ga-co-14053-ga-co-1537871022-ga-co-1704803343-ga.1704814640.html"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "goMrIUiWVAACOeta3MEMas6uNsIWTyqnKrdgVtCwTZgxEpKELgq6sFVF28MfTXtk4z+5OmBha55d9sIN6HaDSoq+wompuGJF+v+1oDEDBL33msLVSw1Zr++RYQretOp5vdjHOAQPQY2iir2TxKOFihZINBpox+9U/fR08en4HDkpYV3RVBdRZpvAU+P1xwj0KcpDhWK+0M9/+0/Ia/EazUkPBqb6hZdpCG+I9Vxvz9+A0X+GaRwc/45Z/zYuRHMTmSFTH2JOBbYrnxBWbeGls7mfeZgHEYA4OXF6V07hySHkObLUUwQEgQxIZ2Mjm3xeX+qMqbHBFK25Hea1Q48TsvdFpax3IEgUMnOExSpQEkt/Zp2k25lW25LrSKTtwxvalUbQqoBHvtdISpUJ9IFy2LD7gMbYVYMs2UA6uldSOh2Rl2OlegLVza8tCUKS9vLEYE2K0gqBgSOkcxS+uCt07EHop4sy3d6Wzb70HEX7dwXD+ZLVwi03hTzS1NrtB7VBBuoWY1ftA5gkmB1VhjKNOA==;7Sa/CiNPeSDfK2zDj7FMBQ=="
+secured: "bZpu0wCJNuBFS8wAa0itF6s+Rr6omV4ZiCdVBkv09L8bPqW1ey1HsiR6KXgxOcEcAr8IixFKeRFlIMWthvxMKSkLVYG9NgTgot3ZYBYv3K+GXS5/1t7LtYtQ3ilVc29MPsYEKHSYnYleMf48atL+Q2A81UvJshH7W9iX9hioOH7fa6kdujhiwESAEjlvfDC4nraVzhW/4XVgWjlIcPQJz1mdt/q8ohOye4pPTTqX8roSL0k2kHcYCj+0Q96gEvhW0QFsrcIM1NVq3r7msHGuXPgs+6r8iyJw22vD6mRsQOEra896JokGPusTEMe7MGD2ppbteeosZy7qJGZP573571WQTnqPfgXuHAb5XTXGRXkFA8mX5IZu0o5X8UN8wAXhgDVRuxJEXQ0W3GR+WGFH7ZGuuBrmpiJi8RRjnYwKHEEdRUJLA5HHhKxXujk+RuOnTqf0n5jkqnsvJ2vHYRnyGfuO+fEtgv1lGFP16RIAUz888FFOzze8LKRitL4ZLnLwNz1JnmJApcr556b09eCyKQ==;u6jNkg+rSDGHG2eOIPk3VA=="
 ---
 

@@ -108,6 +108,20 @@ related:
         width: 1242
         height: 690
         isCached: true
+  - title: "Vodafone signs AI deal with Microsoft"
+    excerpt: "Vodafone has signed a 10-year deal with Microsoft to use the tech monster's artificial intelligence and cloud technology. The deal involves a $1.5 billion payout from Vodafone to Microsoft over the next decade. As part of the deal, Microsoft will use ..."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58272-vodafone-signs-ai-deal-with-microsoft"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/4d4aa32eee6349b75430b5f2b8779fa5_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft-Vodafone deal confirms cloud-native trend — Raynovich"
     excerpt: "Vodafone’s landmark deal with Microsoft might change that. Vodafone, by tying up with Microsoft on future telco cloud platforms, may be a signal that the telecom industry is finally ready to give up and move their platforms fully cloud native."
     publishedDateTime: 2024-01-18T14:58:00Z

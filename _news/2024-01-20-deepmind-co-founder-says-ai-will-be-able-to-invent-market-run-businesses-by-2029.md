@@ -1,31 +1,22 @@
 ---
 category: news
-title: "Google DeepMind’s New AI Matches Gold Medal Performance in Math Olympics"
-excerpt: "The AI successfully solved 25 of 30 difficult geometry problems, beating previous state-of-the-art algorithms by 15 answers."
-publishedDateTime: 2024-01-17T21:16:00Z
-originalUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
-webUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
-ampWebUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
-cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
+title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
+excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+publishedDateTime: 2024-01-19T18:40:00Z
+originalUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
 type: article
-quality: 90
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Singularity Hub
-  domain: singularityhub.com
+  name: CoinTelegraph
+  domain: cointelegraph.com
 
 topics:
   - Google AI
   - AI
-  - Math for AI
-
-images:
-  - url: "https://singularityhub.com/wp-content/uploads/2024/01/colorful-geometric-shapes.jpeg"
-    width: 1408
-    height: 792
-    isCached: true
 
 related:
   - title: "Google DeepMind’s AI system solves geometry problems like a math Olympian"
@@ -41,6 +32,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_geometric_shapes_math_competition_33d7db75-2612-4028-8673-02dc7d32c1ad-transformed.webp?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Google DeepMind’s New AI Matches Gold Medal Performance in Math Olympics"
+    excerpt: "The AI successfully solved 25 of 30 difficult geometry problems, beating previous state-of-the-art algorithms by 15 answers."
+    publishedDateTime: 2024-01-17T21:16:00Z
+    webUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
+    ampWebUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 90
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2024/01/colorful-geometric-shapes.jpeg"
+        width: 1408
+        height: 792
         isCached: true
   - title: "AlphaGeometry: An Olympiad-level AI system for geometry"
     excerpt: "AlphaGeometry: An Olympiad-level AI system for geometry"
@@ -264,15 +271,6 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 34
-  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 28
   - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z
@@ -283,6 +281,6 @@ related:
       domain: cointelegraph.com
     quality: 26
 
-secured: "UeX9lLe/nJltxQ0QK7YijlPgECdwq2rV2lP9bDiRkaNVTkdT38NwxCFE2Yk+yV60OLxHkI92ktTNXvved8xdliFRKcDurAh4oA4FqFZKW+mfx7cuuwaeL5TdSEFq1QU+fyhXHqJNB1+kfmVHBAU4IK0yqQHkyH2qGLcEOLVCqlD8ofeSTDbwuK+dsFaRzkYh1xciV+4PhszbQN+uJ3M/iuKweZ39r7rqfMAqUHd3DFVZi8m7wtSqVp7HFTmI52VdCiCODa0ttHbMdcpSQWONVx9zjQGqWqluIRK1J+Ij64Z7CI2iCl1o1rwlz9U1L3/W7R8BwNYPKi7lISnqRhjOtI9CzADIeU/ug6o9VhW+wTOQlhRyNbssSMcvEaYJaUSgMH+xZj7EGjDzKAalPGB8KtSztBuWW1NezOZZXVuyPzJ5F3so6xWtVqh0Q5AnimjmHnppedJHIhKL7PA9xjjFPWcCSHjpLzvW0QdMClLyz2AuTy4v+e8NEI0mnB6THVJXIe4Eg/VpxtjElDe6hkFTKg==;syT7YNwsvXjpAEwJZsfQ/g=="
+secured: "4yd3Nw1B3OyPkeoBFJe2HWtSniaVNWTUS8+WyN1WrauP44ePZoEl/wfA/a7GqogNTspWIXjcaQWnrBcHI1ONS2LVskEbCQDtxgBrUBi+ztBerxJ4Tnld3VBqtUesqZOdsPb+gB4i5qVGkgYDTc0fvU2Cp1gfWX2yr8/YFr/hzyZqCsoGjJY0NN238tdbKqtgMrEAX6f5FXuAKx/OVfDfc7D+EtqI41mDEFJpygExEm1LgAqSRRibxRaGlDLUVLxSMfqRzJU5yJJNjkUe4IwdSDv8Dt49YFD5Xf/O7ZLoJy6YFICsWLOV3vlI6YzCKbDNgrDaxcB9sgbs6LE2RlTnIY9teFyCahIEVlhzb3E1Mlo=;nNQ9i/bPErpRKNEJUBTIzQ=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Microsoft partners with Vodafone on generative AI integration"
-excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
-publishedDateTime: 2024-01-17T09:51:00Z
-originalUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
-webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
+title: "Vodafone signs AI deal with Microsoft"
+excerpt: "Vodafone has signed a 10-year deal with Microsoft to use the tech monster's artificial intelligence and cloud technology. The deal involves a $1.5 billion payout from Vodafone to Microsoft over the next decade. As part of the deal, Microsoft will use ..."
+publishedDateTime: 2024-01-17T00:01:00Z
+originalUrl: "https://www.fudzilla.com/news/ai/58272-vodafone-signs-ai-deal-with-microsoft"
+webUrl: "https://www.fudzilla.com/news/ai/58272-vodafone-signs-ai-deal-with-microsoft"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: CoinTelegraph
-  domain: cointelegraph.com
+  name: Fudzilla
+  domain: fudzilla.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/4d4aa32eee6349b75430b5f2b8779fa5_L.jpg"
+    width: 620
+    height: 465
+    isCached: true
 
 related:
   - title: "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT"
@@ -116,20 +122,6 @@ related:
         width: 1242
         height: 690
         isCached: true
-  - title: "Vodafone signs AI deal with Microsoft"
-    excerpt: "Vodafone has signed a 10-year deal with Microsoft to use the tech monster's artificial intelligence and cloud technology. The deal involves a $1.5 billion payout from Vodafone to Microsoft over the next decade. As part of the deal, Microsoft will use ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58272-vodafone-signs-ai-deal-with-microsoft"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/4d4aa32eee6349b75430b5f2b8779fa5_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Microsoft-Vodafone deal confirms cloud-native trend — Raynovich"
     excerpt: "Vodafone’s landmark deal with Microsoft might change that. Vodafone, by tying up with Microsoft on future telco cloud platforms, may be a signal that the telecom industry is finally ready to give up and move their platforms fully cloud native."
     publishedDateTime: 2024-01-18T14:58:00Z
@@ -144,7 +136,16 @@ related:
         width: 1700
         height: 1275
         isCached: true
+  - title: "Microsoft partners with Vodafone on generative AI integration"
+    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
+    publishedDateTime: 2024-01-17T09:51:00Z
+    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
-secured: "R5ZbmMUqHES2vwdIo4B+kcpDcuxcRqprASujaDfW2kKanAmY6x2Y9rKxv3bru9qdxpQj3USGdOeOKv/FmHXAS6L5MNczfpnv9+u/HB4Wcu9L9VthJdrEbGXcQ1QmoEzpKkPshUV0B441aDNktYOgTlT5mdAGlC9bl3lG64003vLhuJfpxEPD7i0Y9d/5GsZSSlC77k5hY9dMnc8o57z5AuhGZSYS2BbvjhiiclAvOTMpUkW8pswbUL/uABrhZa1E3B0l5bEvezOwXGjTtDAY9n0WoXQ2ShmtvNMt1wt2rfnSkdzs5Jh2yhHoNZjCNfEZUD6Bkitp/qT7vn52tEkWLMv6QNnJ1Fo9lcJNiBTQciS8P3w7AjeiKIvorbKhf+YuBnysfKFoo0ZxyYID35Ai6ynTzg0arT6v+zli4zLhxN2/F3SRAynuQNVGJnGRPml1WZdBv0dxp7i9cfPbXq/lRXptA/1VM8mjMXdMsFx22fsQB886dWWK3FNnuZjv+0C9cN2sMCE4upKPMrgaLfOE/w==;AuSzsNYBBqE2NQsEyy2IEw=="
+secured: "6/2tsvySjYocw42ZqCGQQnakfN+UWrqurp8XzA3ODBU4IywX4AeXSFAZy6HHtTQeKLsUiScsslrTANJDSCBHx6RSHxVdhMql7gegWlZ/xr4mzRco4sTuDWiVFxT20VIV7q2rE/vOM5UFa1P5exeC1iSIWciNJfC7dMujAn4KJBa8sFMLWf0wEXtWSA2NE5vbzqXaAuLYOHai1Ic445HfZ9Ec81d/qvGGYAMQK6uF4V2u00LxKLQUGD2ZA7CDrxIq4jHffPd8g8xQrsYRfxh6j3pRVLbP99VBB0HedKcBY0ly+ZP3aE4nKmkZlkUrHMvP6qepZ0r91FgAT+fTmq1Fg+cAvahiTo3Z2MpqtUV/uWA=;NYjdOS1GXMaM0yuEvwbnvA=="
 ---
 
