@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worse
 webUrl: "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence will affect up to 40% of jobs worldwide, IMF warns"
-    excerpt: "Artificial intelligence will affect up to 40% of jobs worldwide, the International Monetary Fund (IMF) has warned. This could rise to 60% of roles in advanced economies like the UK - but it is ..."
-    publishedDateTime: 2024-01-15T14:36:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AI Will Eliminate Some Jobs, IMF Says"
     excerpt: "The impacts of artificial intelligence will be uneven, with some workers and businesses poised to reap the benefits of increased efficiency."
     publishedDateTime: 2024-01-19T21:02:00Z

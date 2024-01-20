@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
+    excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
+    publishedDateTime: 2024-01-20T14:58:00Z
+    webUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
     excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
     publishedDateTime: 2024-01-20T03:02:00Z
@@ -145,15 +159,6 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
   - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
     excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
     publishedDateTime: 2024-01-19T22:45:00Z
@@ -163,15 +168,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
-  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
-    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
-    publishedDateTime: 2024-01-20T00:57:00Z
-    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 28
   - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
     excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
     publishedDateTime: 2024-01-19T13:34:00Z
@@ -181,16 +177,7 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 19
-  - title: "French start-up Mistral looks set to challenge AI frontrunners Google and OpenAI"
-    excerpt: "But Mistral isn’t alone in taking on Google and OpenAI. Toronto-based start-up Cohere, which was founded by ex-Google scientists, is in talks to raise as much as $1bn in financing as investors race to back large language models, the FT revealed today."
-    publishedDateTime: 2024-01-19T18:16:00Z
-    webUrl: "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 12
 
-secured: "bDn3vI7I4Is5GVqP0OhS1jXD6uEytbeEVPV/7p5HVI/s1ImAp1nn/C3e1043jMDsoSbyQVGOSsCk8xxImr5LaIhZzkjCTgMBmXtcKlZSocn0KEqth3iJHCYJmLlFlo/4/Y+Kodtns3yitkVX0q3XmUF0s/vI7uw4yhfiHDuHVUOuOkbxxkSvD6UE1A6shLtxtCLMAv4/poKqOtNOQQCfpk1gilw+6pYk4+UYVx9C5J9hI+kYOMPPHAv3lgZdXnQAVu3C06iQ37BJ8Th3gmtz+yJMChXiY1T2iZnbmyCRvhnIWXXxN8qHR8GjglNi8PThgfQXLPO1txJrBQARR4n/mxO86EslH5/mhLjDG/NIyWA=;6li52w4QT3rilv+S3jhdmQ=="
+secured: "hikZdOc3sTUN8mrP9BZU9ikkFd7Ceos37u+txzhkwfmPmaRmbcXSG0Vf9hAP+GLvP6FHXRqDzJHjb5cWlDu6oyoLCMaGWYYz6+l67bFwulg59qImaWkg1MQg+i0setp2CVFaGriubBiF0eIxVT3CHgM7UJf1fOt3S2RsaRKn31kadcx3lVq9WP+ackDjoGkZ8vhmppct9ZYZz3fQoilbI0OoDTNoU7IALrFRfyRHLCHBJQVSHTLVjWg0nxo1OUP5MKE/1kVgpKajRxJGjcqSenYEOz6NMhEThk+mV51oRaUuB1Jw72aDxpsg86tocNyyqlDKnTL/Nmw4h2AXkemk97vxKwNvjIUAKOGBeiKKh23OZahPUtEaLfuJ1hbumD8rGeRX3AFgmBS8CGMBiwypfcZFxAAgapqS0E+a5PqUj+O6KKntSFDobrMiKB/MQkzcAL9vo3dw/4+hsgAPxML4PCrSs08emmGGQS/KKcr3xy/Jm5xmX3UxrHQlaOeTXthM2F8M7VUrebV+o9GrtRWJiA==;qi1iUknibkMAjf2gpFuTYw=="
 ---
 

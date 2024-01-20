@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
+    excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
+    publishedDateTime: 2024-01-20T14:58:00Z
+    webUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
     excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
     publishedDateTime: 2024-01-20T03:02:00Z
@@ -145,15 +159,6 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
   - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
     excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
     publishedDateTime: 2024-01-19T22:45:00Z
@@ -163,15 +168,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
-  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
-    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
-    publishedDateTime: 2024-01-20T00:57:00Z
-    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 28
   - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
     excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
     publishedDateTime: 2024-01-19T13:34:00Z
@@ -181,15 +177,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 19
-  - title: "French start-up Mistral looks set to challenge AI frontrunners Google and OpenAI"
-    excerpt: "But Mistral isn’t alone in taking on Google and OpenAI. Toronto-based start-up Cohere, which was founded by ex-Google scientists, is in talks to raise as much as $1bn in financing as investors race to back large language models, the FT revealed today."
-    publishedDateTime: 2024-01-19T18:16:00Z
-    webUrl: "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 12
 
 secured: "STfLGIjuKbsrkCoCu5P4pk3qyf9JS84EcFIVHetYdf0vyzSRwjryFOywi8zFy/VUiGvGL5x21GUpEMIc2vfKFYgJy6zm+I6DSve/vpBdRtVQIshSq5XMwjOUflpZgSBsoP16Z/+57UcHFW/yR9VwzL5872KpJ5BkfH9bR5+anKSWBcPw6Vf0rjH+oylCtG7rgHwDh0BZI1J2aC2rI7PPqhZX+hRhKb2ez/X1aDSQ8YnIbMZTE+lbZ6kbxdt2I1yxnnh1Pp08Tlt3FNuPjIsyMXUH7kBjylKXBQe57fTpBirEJKQAj88pJLOLNVmIvbw518AKqApL26nc3it/+DUGiwngr4RnabKGtYTbjBS14gOEqS2GXFeKesrAQPUn6U6zAeyBFYiR6QiPoN9MzGySsLDKWDrR6UbZm70W+P3wAAGM0hgoHrTYgdAftHmcpHzf/HdDvFhzIqEzzjRviMEmllSa9Xzz+sZhGVonXi5d0OGN2+jLMkUytlzoHPq3uotSN/Km1Va3tHvemhc/yIE7Wg==;ZSrlHZtzKEeXtHqhyW2SXQ=="
 ---

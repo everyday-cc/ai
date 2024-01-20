@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "'Hey, Siri:' Inside Apple's speech AI and the technology behind it"
-    excerpt: "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands."
-    publishedDateTime: 2024-01-15T13:52:00Z
-    webUrl: "https://www.businessinsider.com/siri-apple"
-    ampWebUrl: "https://www.businessinsider.com/siri-apple?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp"
+  - title: "The beauty game changers for 2024? An AI foundation and vegan red lipstick"
+    excerpt: "Truly pioneering products are rare – but these two items are the real deal"
+    publishedDateTime: 2024-01-19T07:00:00Z
+    webUrl: "https://www.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
+      name: The Guardian
+      domain: theguardian.com
+    quality: 55
     images:
-      - url: "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.guim.co.uk/img/media/73daf6a6fb1daa98b9fb692d7de6910c43431b8a/0_230_8245_5278/master/8245.jpg?width=620&quality=85&auto=format&fit=max&s=a3369fc7fc678711e6e9c58408f55515"
+        width: 620
+        height: 397
         isCached: true
 
 secured: "1GSJs/2Q9SbBUbUj9BL0kRZ+LTanlDVH5uLSXYKHz1pLfc49aoHVmGHW5pIGxXL3vRuvXUlbiR9cEWqorh4+TZ7lgUT+KttFq5gS8F+M3NB6W1RfAEQV/yl7iUB+vzwblgCYMl5bq6B2GH7dEQ1d92bAWEKFI3+IDDMTTAFKEIUwAtzp+C+/9bGlb0oni9KE9l1avE1D3QwLNe3JK5Lqxh0SUmFDmVa6MYUYJG7XbwXLnCKtVG9VrF8DhDACC0dtbQlCloN8ytm20lxEXRqVMLvu7IrBKBpe8A7FOOH1Q5oJ5i2lme7wMae3BSVy71ocBBG0pV7bJ4iLgr/YoMbdqnprK9bpJss1kDFm2P2Ye00=;37VhgoOY1BEJ0rKIzeHiEA=="

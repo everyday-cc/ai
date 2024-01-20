@@ -117,22 +117,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-    excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia’s popular computer chips that are widely used for AI projects"
-    publishedDateTime: 2024-01-18T13:16:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
-    ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
-    type: article
-    provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
-    quality: 54
-    images:
-      - url: "https://media.nbcbayarea.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
     excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
     publishedDateTime: 2024-01-20T12:37:00Z
@@ -232,6 +216,15 @@ related:
         width: 1024
         height: 687
         isCached: true
+  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
+    excerpt: "That suggests the company is spending billions of dollars on Nvidia's leading chips that can cost over $40,000 on eBay due to heavy demand. Zuckerberg said in October that \"AI will be our biggest investment area in 2024, both in engineering and computer ..."
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
+    type: article
+    provider:
+      name: NBC Washington
+      domain: nbcwashington.com
+    quality: 29
   - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
     excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
     publishedDateTime: 2024-01-19T12:46:00Z
@@ -324,6 +317,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "tDz4xPWRax9j3EI2xnProPwHIpXh0vZHiJpfwF6ee3CX9vW0Ban5UsoSR7uEaAQKmBHtt/AHFFsoxv1ScIYmPDFxv72YthV4r1OxMvBCWNgu/3+r4FW5+BOemSZ6xRlgEBFbaAAmLhWs5PwFhWS3Fxskg94VO0Zz7Ry4I7PutDXIhzN6kbRApWdHd891I8oTl8zd51P4V0v+CBmzncDjV1Zj84SG7yZ2s07wVtG0gB7cGkWoykETlLtiWwB14aXD5j1c9dfEe/1TaHJBzSndkwJM18ZZpuF0VtgHofyogJVoC4zRWQNDcueFZt9LOy/v7TX6oYAz6QMmPI32p8wiVG1o1LccgJW/vT+bUiLvT/s=;lkl/nb3KKyDAQ2qjASLrHA=="
+secured: "iU2MomFxUHz28PjxsJr559JV6CnJql1U/u0vcFSV37xtdE7QyGf5HWeMordNz/CPnw0lnMCS4dYbC0D8PZXg2dtze6NIu42JgvLzkFT8BvgOxA17fqi43ARUu8o/UBoyKvrN+OO/MJF03WQFiccVLPMsXMsRkQKAJyN9WIET4YShw4fTbiddm6+HPTx6WQC2L4bMGCmJOc2tMWiVG6U4fmUY45dY2JmQZqmZdYLtP05FF6qNZF1fQV6k+EyNv7MdkT8kZn2wMDL/YbkNqAKumDzSUFbRv3tUNRal6T/VsV/1vwuDnZFsG6aB9WUsHBYyhcLyWsyR8HN5yid4j1L9RJHU65n0BGtv3FNc4m2BILa/q4EuiW+d4UNMIGcssfBIE9jcZqKu5AzpVKzVfpFSZqdqssHHRsu6yrOw38uL8KwtovqjrLT3h98RCoEs2F5nWRxhnnsZH7yo8itYM0+RT24zFi8mJmKh31U6T0JfUB77w2uToyiAp1K8/FHcHP9lppBLtDpvyBzktR3le5nY7g==;s1K0CZZQM9J4t9Na9rgyRw=="
 ---
 

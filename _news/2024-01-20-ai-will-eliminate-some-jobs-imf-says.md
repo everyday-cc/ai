@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Artificial intelligence will affect up to 40% of jobs worldwide, IMF warns"
-    excerpt: "Artificial intelligence will affect up to 40% of jobs worldwide, the International Monetary Fund (IMF) has warned. This could rise to 60% of roles in advanced economies like the UK - but it is ..."
-    publishedDateTime: 2024-01-15T14:36:00Z
-    webUrl: "https://news.sky.com/story/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    ampWebUrl: "https://news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/artificial-intelligence-will-affect-up-to-40-of-jobs-worldwide-imf-warns-13048709"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/23/11/1600x900/skynews-chatgpt-openai_6364467.jpg?20231118091822"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "0fSKi8irSJdbSKTTmtQRpd9SgVzoV7PThNmwt+jI5lISosJwQMcCsWKkrRzKOuE0e6N++eHoauXgZIqni9Sxu81Cp4p2AiSrZoz8HQ3ZATAqPl36W7J4aIonMz3YVTITCOJHYtao51hf9Ww1mDWO9IbByip9uYq37SfXD7lmWJgjm7u95v340tfNobYecUKYVYFT8bzf8RBI6lf/apoggTmHEYJvZ//DvVTOIE7i46+oBZ1ufDxkvwprv66bpUQfTYesLYd9wxKie9FLloIMH+3lnqiPXws7WqyhBeDKsHD+hCHf/M43OxMxxkX9fhTdkJb5OIpgmVhKKF/zovlQURfJVm+ke7+t5eHlbZIrqSg7sYo7T7ve+zwxPLSZN7EYw/MRduTpNDsmNcj2JFrAatOWMdF/8r7RNlftAQjb7mtnQsZYHlePuGAoRXhUc4yyl9SH9O3Lsxi5rLhKnRJ2rIA+Bd9Ws5Bz2g7lXN1G728cLgULDAxievNBZbspi1Yo4wqUM9oKW7iLkbAbo/XKrA==;qcGxddqIKGwt9v9R6M4xzg=="
 ---

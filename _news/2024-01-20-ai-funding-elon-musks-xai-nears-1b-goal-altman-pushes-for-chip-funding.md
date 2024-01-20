@@ -19,149 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
-    excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
-    publishedDateTime: 2024-01-20T03:02:00Z
-    webUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/"
-    ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
+  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
+    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
+    publishedDateTime: 2024-01-20T13:46:00Z
+    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 74
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
     images:
-      - url: "https://beebom.com/wp-content/uploads/2024/01/OpenAI-CEO-Sam-Altman-raising-billions-to-establish-AI-chip-factories-network.jpg"
-        width: 1250
-        height: 750
+      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
+        width: 7008
+        height: 4672
         isCached: true
-  - title: "Sam Altman aims to secure billions for AI chip factories network"
-    excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."
-    publishedDateTime: 2024-01-20T05:40:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
+  - title: "Musk's AI startup secures $500 million toward $1 billion funding goal"
+    excerpt: "xAI's product, a chatbot named Grok, is developed using social media posts on X File photo: Tesla and SpaceX's CEO Elon Musk gestures, as he attends political festival Atreju organised by Italian Prime Minister Giorgia Meloni's Brothers of Italy (Fratelli ..."
+    publishedDateTime: 2024-01-20T04:46:00Z
+    webUrl: "https://gulfnews.com/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
+    ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 57
     images:
-      - url: "https://www.theweek.in/content/dam/week/news/2023/images/2023/7/10/Sam-Altman-CEO-of-OpenAI--World-Economic-Forum-reu.jpg"
-        width: 760
-        height: 443
+      - url: "https://imagevars.gulfnews.com/2023/12/16/Tesla-and-SpaceX-s-CEO-Elon-Musk-gestures_18c73574e41_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "Sam Altman seeks to raise billions for network of AI chip factories"
-    excerpt: "Altman has had talks with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants"
-    publishedDateTime: 2024-01-20T06:10:00Z
-    webUrl: "https://www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098"
-    ampWebUrl: "https://www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/05/2024-01-05t032707z_1_lynxmpek04025_rtroptp_4_israel-palestinians-sam-altman.jpg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Sam Altman seeks to raise billions for network of AI chip factories: Report"
-    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of semiconductor factories, Bloomberg News reported."
-    publishedDateTime: 2024-01-20T04:50:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 72
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/v58u4e/article67758686.ece/alternates/FREE_1200/Switzerland_Davos_Forum_21327.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "OpenAI CEO Sam Altman seeks to raise billions for network of AI chip factories"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with knowledge of the plans."
-    publishedDateTime: 2024-01-20T03:57:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 70
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/20/1600x900/Sam_Altman__1705722981243_1705722981560.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
-    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 60
-  - title: "OpenAI team to focus on democratic processes for artificial intelligence software"
-    excerpt: "SAN FRANCISCO, Jan 16 (Reuters) - Artificial intelligence lab OpenAI is forming a new team to create democratic processes to shape how its AI software should be governed to address bias and other ..."
-    publishedDateTime: 2024-01-16T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/openai-team-focus-democratic-processes-artificial-intelligence-software-2024-01-16/"
+  - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
+    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
+    publishedDateTime: 2024-01-19T23:25:00Z
+    webUrl: "https://www.reuters.com/technology/musks-ai-company-secures-500-mln-toward-1-bln-funding-goal-bloomberg-news-2024-01-20/"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 59
-  - title: "Sam Altman Seeks to Raise Billions for Network of AI Chip Factories - Bloomberg News"
-    excerpt: "(Reuters) -OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported on Friday, citing people with knowledge of ..."
-    publishedDateTime: 2024-01-19T12:28:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-19/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
-  - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
-    excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
-    publishedDateTime: 2024-01-19T19:13:00Z
-    webUrl: "https://www.ndtvprofit.com/technology/altman-seeks-to-raise-billions-for-network-of-ai-chip-factories"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 34
-  - title: "Sam Altman looks to raise billions for network of AI chip factories"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2024/01/20/tech/altman-ai-chip-factories/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 34
-  - title: "Sam Altman seeks to raise billions for AI chip factories"
-    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported, citing people with knowledge of the plans."
-    publishedDateTime: 2024-01-19T20:05:00Z
-    webUrl: "https://www.itnews.com.au/news/sam-altman-seeks-to-raise-billions-for-ai-chip-factories-604244"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 34
-  - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
-    excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
-    publishedDateTime: 2024-01-19T22:45:00Z
-    webUrl: "https://siliconangle.com/2024/01/19/openai-ceo-sam-altman-reportedly-seeking-raise-billions-chip-fab-venture/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
+    quality: 44
   - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
     excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
     publishedDateTime: 2024-01-20T00:57:00Z
@@ -171,24 +69,6 @@ related:
       name: Fortune
       domain: fortune.com
     quality: 28
-  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
-    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
-    publishedDateTime: 2024-01-19T13:34:00Z
-    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
-  - title: "French start-up Mistral looks set to challenge AI frontrunners Google and OpenAI"
-    excerpt: "But Mistral isn’t alone in taking on Google and OpenAI. Toronto-based start-up Cohere, which was founded by ex-Google scientists, is in talks to raise as much as $1bn in financing as investors race to back large language models, the FT revealed today."
-    publishedDateTime: 2024-01-19T18:16:00Z
-    webUrl: "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 12
 
 secured: "rfjlPiRFS9uE/2iB9rnKJOpjmmoFXbHBDuRy8VGK5WNvB2uRZsXZcR1Sv9Te7n7Lgw4SloQPokfaUFQMLe4TfCWVdMrfXf3h1byiFNCXFTu1t51WhSV0jLeElN18BGB2FbwsFclg1U5HTvImKO3zBTvKCLzHxnEtD0lavMoRHAZiaIfcyDaefM3PFEAeO5Es6kOZChPcd5V4v4XnLKInwsM6opgrQGArjdABmPWemhh2YAx0sf4YfIEBr6YoPJy2BMr9TOXfHlXxfbjs83rs1nA3fZVXiipwEOCf+5K5DUXFAF/S64lAeO7ntP8vFCocSMg8So44norhRi79FuCdoapjdlSmd4T940u8uRznY7oCDVdTpFyes6c/tBRjvCtkEjNR6Chs4eJmY8A431q5/lYrwTSU3BZUb4YI1fZVTbwtdyllOO5Xd/kTYKVDI9288QY4ykkqTJ8LA3iXToHiepNCfhIChTNij3jyf5Yuu0SKXI2E5zPbnM9yozcR4OjvbtQauRb2TtS1zcZsuykWhg==;kdqs/ZHgj1EdPph9jMhD0A=="
 ---

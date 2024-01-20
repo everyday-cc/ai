@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This Week in AI: OpenAI finds a partner in higher ed"
+    excerpt: "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ..."
+    publishedDateTime: 2024-01-20T14:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/"
+    ampWebUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI comes to higher education as OpenAI partners with Arizona State University"
     excerpt: "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere."
     publishedDateTime: 2024-01-19T03:58:00Z
@@ -71,6 +87,6 @@ related:
       domain: usatoday.com
     quality: 51
 
-secured: "77KwT+ha9tTfCdSio2ZdF71jhOA6dLKnk44KXjPbW+QYfSgcWmhCwjaQj2xIe36dZeOSIsxI064xuRNKzwzNFWAuziN5NSw8qMXEHufxYep8/a6e94/YRkaF7Xy/8Yq2fTG9vD3+UY77ZyXSSOZ4Xo0AzlXD5eigVZ2ZRcxMHs5ejuHY9lgIog38ICCXzMFjjygIBdVb/Cp+zd2HqhayrStvMJZLAe1BLVdHbIKF9PqSGMvhOqHaVciHumfAAS7q+WjMy0q32joD6YlI9u4+/kgAESuFurpFspF7up8/5Qxmvrk/Z0FLfCOozgSjQNpY2Cbgumd2IIl7nx3xlJc6W8QYiHcoiIsBIUPB5xzhwIo=;zynBs5pq0ixF2yS4lrFDdw=="
+secured: "BY6LUXxPHvysxs2b0heJyn+v0NlZF8nDNlTUj40yjNJoyd8J8QNvtww1HiPjmQ5iprcQFOLpJRU0u12HZUbMIWDwI8qKvJWPkHIcWq1+Q4HJzWgc6FSiTLiobJL7Vuu7bJMmgpTObE/qMP+uDKlUG7EGIRZ1ELWFRCHWCxyXfU9VHzb9rfsuSywi3gOtuHb498xHB3aMsbBzntTa/3OtovUZFTcg4tDd99UzihC3gbxrudtM+XzfuITOXbpoxfsBUm2HNcMnL8Wj6eehmqrRviRSSmO51MmBeWulnFH8TFAxT2ANcUT1f+Zzr0Xcnks5Ea/7GPQ77kwl+jrz2rNGQRbPZRNN9kug4nrxexzFGSUP3qoSzdMpuO8UBs1lRqarZz7wPXr5bGBqEHTlFnZYl+y967hbL1vFUFOKqy2MwqWIHQrhEbmJYrCyPqkby0QY5UK2+CMgTIOHOdCu4rfk7rthr44rmexOZwG8TjkTFk9+FhXfhSfd9ucHVEC/frdd5T2n6bHK3I0OEPQLEI8OVA==;5dZ8rmiYj1G4eQ7K0BBlKA=="
 ---
 

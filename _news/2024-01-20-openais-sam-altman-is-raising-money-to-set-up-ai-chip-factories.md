@@ -9,8 +9,8 @@ ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
 type: article
 quality: 74
-heat: 224
-published: true
+heat: -1
+published: false
 
 provider:
   name: Beebom
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
+    excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
+    publishedDateTime: 2024-01-20T14:58:00Z
+    webUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sam Altman aims to secure billions for AI chip factories network"
     excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."
     publishedDateTime: 2024-01-20T05:40:00Z
@@ -145,15 +159,6 @@ related:
       name: IT News For Australia Business
       domain: itnews.com.au
     quality: 34
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
   - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
     excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
     publishedDateTime: 2024-01-19T22:45:00Z
@@ -163,15 +168,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
-  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
-    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
-    publishedDateTime: 2024-01-20T00:57:00Z
-    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 28
   - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
     excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
     publishedDateTime: 2024-01-19T13:34:00Z
@@ -181,15 +177,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 19
-  - title: "French start-up Mistral looks set to challenge AI frontrunners Google and OpenAI"
-    excerpt: "But Mistral isn’t alone in taking on Google and OpenAI. Toronto-based start-up Cohere, which was founded by ex-Google scientists, is in talks to raise as much as $1bn in financing as investors race to back large language models, the FT revealed today."
-    publishedDateTime: 2024-01-19T18:16:00Z
-    webUrl: "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 12
 
 secured: "AZ9+zm677PGI6oRsQNkNuS4dBbRZ/NH6rApvZ0Bwkmyoq2idL7jSwkvOIk6T24Ajf1/Cq7qLIoNJ7hehoO7oweFDsoOIsqhapXOjD6ydRbsz9w4bzQ+ukuzRsi+W9LcIhryKi4XnEjdnCgRJBxS3ZLjXTdTQ5/YZivtJlEx/HKE+70DmlKJvzL4ZOoqy0mcygwlRunn1o6Xaxq8xUS25MlJZA+U4vlx568ngbonRIiY1sklS8jSL8f01PryMcD2kGWQDifPtmaKOlqfE654+KZGNMGqvf/PsRh26jmoPSjZarYPkAnu/AdWwysOg/wIX9tfaX/rCZVLzF+snspSAsY+ObH09no/zZijt7jp9j3bGJzpLWHJKcjiDeTPcKX4T7ACodr/NLm3WHyvTBB/8FRmeNTSV/nqq7aKBYwklvkAVx4X/+ijmaVcTc+WF+rUouM7P3d1/rAVuhER6kZGBdSdCaJeBAaknu8zJud1vNOIK4gaMQffupOoRT9X3uHFx88VpnK8tDwWOqVEXmdcy3w==;Q/73kubIcpli3C97XLuahg=="
 ---

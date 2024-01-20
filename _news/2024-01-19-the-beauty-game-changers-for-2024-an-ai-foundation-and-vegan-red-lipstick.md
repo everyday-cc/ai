@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 620
     height: 397
     isCached: true
+
+related:
+  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
+    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
+    publishedDateTime: 2024-01-19T15:14:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "hKDGox5w1t1WqjmZlZrvuDkmYPJ3F7mz12WdKJFEEqV3qnTW6Bd3CKQVWW9m6hKLZaNsL6YHW43epS+BVXPEoN2lhzthkG5ie9ZsAQ3zZbVyA7dyc9R2hhPyJaysTrusHuHfRWcWoQF8zxu1ygW0OVYsVRpqncsHoWwvfaUWlacvXDF4Igq0MfC+LRSwY3zT8AYE8y333xwT2ale5tyb0takDYRFORRxwUiLN2DosbvmTho9R4TXKKEjOUQU7j26bSD10g44Xa+Q1P+bMTSBd9lmuib6J6jft4gGhUlVCV9qTKKiLMtCrY2R+C2QWEqV2lE5ygUbcZ4WLwZpzv3IUSKs3G+fO1xWt8YvjAaqdMt+bPGHmc8K7y85yJ2ldvepVG2tzO0dhjpuO8YsAqK7kzoh0E4vFgpK6DnNTP7n5fUTy5cKvBYp6lPws47idEOllhtieLcBlz8hdTlL4ekQkulZNCw4me2a/hzwi6hdoQZ64kluID0cqxwkvTih7wxIs3MOJCV9+PAV9mEHvJsyQg==;nXzJ8skIr0uyYNqHhQfR/A=="
 ---

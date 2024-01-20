@@ -88,6 +88,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "The Samsung Galaxy S24 Bets Big on AI, Apple Watch Ban Saga, and More"
+    excerpt: "Fresh off the heels of CES 2024 comes another huge January tech event, in which Samsung officially launched its highly anticipated Galaxy S24 AI-powered smartphone. Ubisoft turned some heads this week when the French gaming publisher said gamers should be more comfortable not owning their digital games."
+    publishedDateTime: 2024-01-20T12:59:00Z
+    webUrl: "https://gizmodo.com/the-samsung-galaxy-s24-bets-big-on-ai-apple-watch-ban-1851180114"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d901b17fa85a6004ad087f80214148b7.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
     excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
     publishedDateTime: 2024-01-19T03:52:00Z
@@ -120,6 +134,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google is partnering with Samsung because that’s the only way it can beat Apple"
+    excerpt: "If the new Galaxy S24 series is anything to go by, Google and Samsung are working together more closely than ever to close the gap on Apple."
+    publishedDateTime: 2024-01-20T15:00:00Z
+    webUrl: "https://www.androidauthority.com/google-samsung-ai-partnership-3405053/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 50
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Plus-vs-iPhone-15-Pro-colorful.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
     excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
     publishedDateTime: 2024-01-20T10:54:00Z
@@ -147,6 +175,20 @@ related:
     quality: 39
     images:
       - url: "https://imgix.bustle.com/uploads/image/2024/1/18/69612cb4-6230-49a2-9fca-d50bc1bcddd8-38ab91ee-88fc-42c6-85c9-4c63d6e6b124-samsung-galaxy-s24-hands-on-38.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Samsung's Galaxy AI Actually Feels Like the Future of Phones"
+    excerpt: "One of the more gutsy Galaxy AI features launching with the S24 is something called Live Translate. At its most tame, you’ll be able to use an Interpreter app and translate between dozens of languages in a split-screen view, with responses in your chosen ..."
+    publishedDateTime: 2024-01-20T15:30:00Z
+    webUrl: "https://www.inverse.com/tech/samsung-galaxy-s24-phones-generative-ai"
+    type: article
+    provider:
+      name: Inverse
+      domain: inverse.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2024/1/19/6218fad9-7b1f-4b10-b977-64903ce027da-samsung-galaxy-s24-hands-on.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
         isCached: true

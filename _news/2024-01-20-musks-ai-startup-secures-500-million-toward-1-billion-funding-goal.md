@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-milli
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gulf News
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
+    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
+    publishedDateTime: 2024-01-20T13:46:00Z
+    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
+        width: 7008
+        height: 4672
+        isCached: true
   - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
     excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
     publishedDateTime: 2024-01-19T23:25:00Z
@@ -35,20 +51,24 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 44
-  - title: "AI Startup Cohere Reportedly Looking To Raise $500M To $1B"
-    excerpt: "Nearly three weeks into the new year, and there have been no huge rounds for any AI startups. That may be about to change, as Reuters reported Toronto-based Cohere is in discussions to raise between $500 million and $1 billion."
-    publishedDateTime: 2024-01-19T18:25:00Z
-    webUrl: "https://news.crunchbase.com/ai/cohere-funding-valuation-anthropic-ai-startups/"
+  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
+    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
+    publishedDateTime: 2024-01-20T01:46:00Z
+    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Unicorn.jpg"
-        width: 900
-        height: 506
-        isCached: true
+      name: Coingape
+      domain: coingape.com
+    quality: 32
+  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
+    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
+    publishedDateTime: 2024-01-20T00:57:00Z
+    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 28
 
 secured: "ZvJJGTxPyJ5lr2H/4e1KbyfUyB+xWIItljMX5qF4QEf2GSx3J/kFcZPkoHr9ak4/QDVsQWAHWpgkhwFqLzy24YcUbp/ctt55kNUn5R49AsUpdRzGPRSnKD0Qmmzu2K4xf4ltudiaGCN3Q+b0i84A3rwIk21A5MijyRxxfBGji3Xd7S3nMWKgTrMtqJIpbWPyM2ysBaCPw1KvCdSUFINgdQhR4SkYMPKGWZTDSAGO6xDZPYLspGy+WgPwUOg57kJIdtlZE4wRNpif+nm8F5yzjTiXeaCeYWPdVp8fiJNs4MlS5qoUC91inb5TfGX/QFoDexmgZXqRgFgjsCTx9aaul0EOZsjd/aQctAoxFCi5ISWSXdRR1Y2RCWXAhJd/tHmTYpm3oZ/tVSuaiV8eMlznwI3AV/KTzqwPRkvPia3Y8s5DKlTOxIjFQhcxMtPQnkN2KZWGxTfbSeNYdE5lUCSSgg/bZrFQuvzUiNXX2oJU8mG00bdEhh7xeexYyuX9oPCCedWZqg9K+PVJruzlProK6w==;hzovtt8oFoNFf3+MevugAg=="
 ---

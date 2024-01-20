@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This Week in AI: OpenAI finds a partner in higher ed"
+    excerpt: "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ..."
+    publishedDateTime: 2024-01-20T14:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/"
+    ampWebUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Arizona State students will get their own ChatGPT-powered tutors as OpenAI partners with the university"
     excerpt: "Students, professors, and researchers at Arizona State University are set to get access to OpenAI's ChatGPT Enterprise."
     publishedDateTime: 2024-01-19T11:55:00Z

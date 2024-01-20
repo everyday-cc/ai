@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-20T10:30:00Z
 originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
@@ -67,6 +68,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "J+PrnEY8jjInPOn8avm08BkvPNUS/Qq67RTql66slR77vk0yy/kd5A11PjivCeMjekURO9yHuKDlnuA7Dhlc7fqk33Tpit0uI9sKhV+X1AuTkihsS7yjsGVRfV/h5vJ0DYXDhrXY1LpJ4Mv6JX5nOaE7vvb3ycWAuYUeM/JSbGWezMa7AmwvQuFNUTVLgw6IiLBGbsQwpXSoD6ychnIPuKAw18c7rrNFTKXoeuIKcvKEMhTj+pvK1rdSBecgrqfmWbYXp9/EU282AcbfmcW9at58wpaxXx7XRf2fgCJDOa8RmWAfM2YAVkKhIEfszZ5zMZoCq/bbp/AXcGyH85J+Hml70eiY5rdM2NnzmcP8ZMs=;THYjhvuPigOHqTX0mRtduw=="
+secured: "ngW3AYUfs4IDHC/ULUpKSe69Ps5tmYiqlalQ+4Y/PGqOD0hUD8qCnfUBsETbJjUHGCcTnE3YahC5dnuV/7Q5mIjIooPyP9tmMgkBtzgVZGybgiZV9lDp8JVXXg72VbzFhz/aigKM4JvrvftDnsDdRetn5+7ruPF8PxPj1RQT7UBR0z8NXg5lbsI4r+TfA+nHMdypAPl33naI8aRT7KtUNgjqPtWYZxgdfOeyb0UgyJa6jVhQV2IJ2jC+PFjNSARlkZbuuYqG2CMqHMjCKyI7P4b+bsFdKEHForF5rrdVbArqmjn+iYq9bADEuP/9PFPgITv0PVufqwHfnV3xdRUq4nVCXarVWUQX3g0yNVbKRLy0BHAYCoKLvD/DKMN8fO78+CCehZTIYzFIE/BCbPA8xqpSECb7OcL0KtW4CTc9c2xvZrmaoZzWnrKmJC/UVKDJmrcnsqL1zSycUlkXKC+DzYPllTdpwZP36fyREX6TGAGm+07oPLDRzKR6nOS1RhASPyRILYEZbe5uoUI4MvSTLQ==;zDioETH0CYlme79ZPIguRw=="
 ---
 
