@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How to Use Gemini Pro in Google Bard"
+    excerpt: "In the digital era, where efficiency and creativity are paramount, Google's Gemini Pro stands as a beacon of innovation. As part of the Google Bard"
+    publishedDateTime: 2024-01-20T10:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-use-gemini-pro-in-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-14.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UnumejDBXcqlmk7LFvncxKqHo7UkiDFP/MmO8mdGUnxGrwOpMcdN+zvnfzavWWLWnd5dB7uq5l6U6nTVW38ZyPPHoZt/cnsryTEe1kItsp1uNWVbm1lJCMnAfBmSP7/LEuL3da7BybWiBI/zQAsLHoWkJeWwO0LjxudcEBKtaf21S+p5z6sI5LKlwzb9xlE+8I94OqZXk+tXJUz7qtniY9MYjRKlzudAu6rrf7pse90E6nSjM3k8F7+xgVLyJw+Q2fiZpe9/wT2KxQQHtau2cqwYwB/zKq4q7siSgVPF9pG/80WJXUKjUFrCeoTusdwqifCZbgGyn9IUvoWgdZi1oawmW+Alh1mSdEox9rlEEsE=;ZLqnd2pGtgaS2ntKmpkIxQ=="
 ---

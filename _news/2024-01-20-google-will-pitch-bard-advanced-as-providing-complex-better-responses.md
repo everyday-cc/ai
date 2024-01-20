@@ -7,7 +7,7 @@ originalUrl: "https://9to5google.com/2024/01/19/bard-advanced-better-responses/"
 webUrl: "https://9to5google.com/2024/01/19/bard-advanced-better-responses/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Google to provide ‘complex, better responses’ with Bard Advanced. Here's what we know so far"
+    excerpt: "Google plans to launch Bard Advanced AI chatbot, powered by its Gemini Ultra large language model, in early 2024. Bard Advanced will provide complex, better responses compared to the original Bard, which is positioned for simpler,"
+    publishedDateTime: 2024-01-20T09:25:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-to-provide-complex-better-responses-with-bard-advanced-heres-what-we-know-so-far-11705732605252.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-to-provide-complex-better-responses-with-bard-advanced-heres-what-we-know-so-far/amp-11705732605252.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-to-provide-complex-better-responses-with-bard-advanced-heres-what-we-know-so-far/amp-11705732605252.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 33
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/20/1600x900/Europe-Artificial-Intelligence-0_1705736459532_1705736528994.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "W8+ZmtrmL1Mpxc2BIHzaFaH5wdcFKILdKGSKGKjLPQN87GaRbnl3p0gDdEMzwYEwycznW2mGBOquBMxGH8HOncvTfUkil/GTUyGF9nuZ4UWuVn1wpJ9pZPlO3jcCNhm2TcPMiWWBLzV3fPPJiOR4KmD0YPmMk+JEnoyW/gv69ZO+UA1/WQR8+mHxaelXS7eX4iTJzpCt2IO3hQGgkiL/6STJQ6ORzWHmk6Ro/BS+/f+S468uwXFCjpTMEGp4WRXT0gJqgWZxxlXIOabyKjwLQYUeyxipXBM2FrNNyCQSSPTJbd1N9fCttMZpGOlAArvZ5dLBk0fcAko4EhYaFuE1pY656cT9j7qCpMV5hHfdglI=;03d5t+KHX+P2jm1RJL5NiA=="
 ---

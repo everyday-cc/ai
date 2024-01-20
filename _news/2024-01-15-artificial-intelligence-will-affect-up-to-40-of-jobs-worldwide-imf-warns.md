@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "AI Will Eliminate Some Jobs, IMF Says"
+    excerpt: "The impacts of artificial intelligence will be uneven, with some workers and businesses poised to reap the benefits of increased efficiency."
+    publishedDateTime: 2024-01-19T21:02:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/ai-will-eliminate-some-jobs-imf-says.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1461110184_536621_vyhoyx.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Artificial intelligence will affect up to 60% of jobs worldwide, IMF warns... so is YOURS at risk?"
     excerpt: "Artificial intelligence may soon affect more than half of all jobs in the UK, a new study from the IMF has warned. Across the world, 40 per cent of all occupations are likely to be affected by AI."
     publishedDateTime: 2024-01-15T11:40:00Z

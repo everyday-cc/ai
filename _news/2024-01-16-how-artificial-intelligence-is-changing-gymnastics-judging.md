@@ -25,21 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "What growing AI datasets mean for data engineering and management"
-    excerpt: "Ever-larger datasets for AI training pose big challenges for data engineers, and risks for the models themselves. It’s time to shift our focus to curating and managing smaller datasets."
-    publishedDateTime: 2024-01-15T10:03:00Z
-    webUrl: "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html"
+  - title: "Challenging norms and finding your North Star with AI in 2024"
+    excerpt: "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them."
+    publishedDateTime: 2024-01-18T15:20:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70"
+      - url: "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg"
         width: 1200
-        height: 800
+        height: 600
+        isCached: true
+  - title: "Navigating data challenges and compliance in AI initiatives"
+    excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
+    publishedDateTime: 2024-01-19T17:32:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Challenging the misuse of AI in insurance"
+    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
+    publishedDateTime: 2024-01-18T18:46:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "3sd4LetnDIpAfaXpRkwKtVZL/uYk/Feg2uFa7/3RTtnhSJ7SLfmBi5+wUCPkDXspZ9ead8rhRMUCclXBZW8y9JO1Nu4Ac8L3RFSPutfXPiH9ikaLn/qNem014FcyKNHXGPCA2SnS4StkV7KIGjqZZmDE2lmgXTguKOzVga7H8uh6i/qm8AdlxKzi4kRPexyXvp+1dmMSio1u8mHMJaanwF48Gk/hTJTDWEY3+/I7vc5m1LkAPlE4/M8yvdp19RvukhEziu8LFDI+UZld44mOIQp5tWjkiOLvL1lC3yoMnh/wueoVznV3ddaOltlG7FptR4sIJX7fynSvSwRWiJ5lG7ZRlbSAgkaCEr0RXLXf9tdo43+fKmEqOf0SKxwTF2ld/2VAknUTTV36f7ZXA3OfDnl3F2Mnir3OeWS2x0cDWSB//EUXB/wJM0MRJDijUb7sT9gOACUGf6+pK4+y/YKCGpESQw3050J8vsLEz09ZWTEOG+RzzViTnf2WY/MmDPNr8wE899jAOgvvTw3vWrlwJQ==;5KVhHYMAv874yYrVO5QiUA=="

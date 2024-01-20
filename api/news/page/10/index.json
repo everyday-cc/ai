@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-06-report-google-developing-new-version-of-bard-based-on-its-flagship-gemini-ultra-llm.md",
+      "title": "Report: Google developing new version of Bard based on its flagship Gemini Ultra LLM",
+      "excerpt": "Google LLC is believed to be building a new version of its Bard chatbot that runs on Gemini Ultra, the most advanced large language model the company has created to date.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
+      "originalUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/google-bard-extensions.png",
+          "width": 1082,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-police-secretly-conducting-facial-recognition-searches-of-passport-database.md",
       "title": "Police secretly conducting facial recognition searches of passport database",
       "excerpt": "Chris Philp, the policing minister, raised the prospect last year of officers accessing the database of passport holders so they could use facial recognition ... Mr Philp’s speech on the plans ...",
@@ -1034,58 +1077,6 @@
         "name": "Repairer Driven News",
         "domain": "repairerdrivennews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-the-7-best-artificial-intelligence-ai-stocks-to-buy-for-2024-and-beyond.md",
-      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy for 2024 and Beyond",
-      "excerpt": "Top artificial intelligence (AI) stocks have delivered ... Alphabet has many avenues to win in AI. Through its Waymo subsidiary, Alphabet is also a leader in autonomous vehicle technologies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759262/gettyimages-1473086836.jpg",
-          "width": 8000,
-          "height": 4570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T08:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

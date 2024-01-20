@@ -48,6 +48,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "How Artificial Intelligence Is Changing Gymnastics Judging"
+    excerpt: "Proponents believe that artificial intelligence can eliminate biases in gymnastics judging, making the sport both more fair and more transparent for viewers and for the gymnasts themselves."
+    publishedDateTime: 2024-01-16T15:53:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-changing-gymnastics-judging"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/c808c4b/2147483647/strip/true/crop/940x457+0+104/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6e%2Fdd%2Fc21018f5747da562aece2cbad779%2Fshutterstock-ai.jpg"
+        width: 1440
+        height: 700
+        isCached: true
 
 secured: "HKkB72yCzFaosl0EpqV9/FjIw/3Yyaz/Q7Ic0G6X52DCP0D4B85jRTZP6SPo/x7k6AhN0dJ817zbJZ3VYYFvPyP30S2EZ0BN8c5Di9y8vvn6WBa6ezaeTVhcHdwlzO/l6ytueQA8c1UMFUPlfH/zVUSHyfi30GRurH3GaGRZK3Sz4nkdr+WrYj+txH6wSRRs6gGM39nCxL05Kv9P+k037rtsdDZAFFz8enMdGbrvjJT3r6Orc0pqOsyqhxuxY+zy6xO+ZB0TDwak7WXXkCwcVBb5FNdgxCLkYLk0hKWRgay/N/JraTKPsxonoKlU3jeoD13R22hdWX68prNroQRQY+oH+/O3JDVHrQ53bhVMTNzY6odObM0bymnDaef58d6K4n0p8zefUfmwBoAqkBIOFDPQioWM2phy7Iwwhm1OgU+79olmuD7phq/+YVF/yJ03BSL0/bYnKgM5PtxObKFVh7HVq2d84uuACBhsUC+0MkA4nZaQMlv4XCojywyomKAoqIuzu5H0bx8/N3FjEkA84Q==;TwAPn4WdD5/qk+5SgvqV6g=="
 ---

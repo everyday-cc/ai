@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-s
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
 type: article
 quality: 74
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Week
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
+    excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
+    publishedDateTime: 2024-01-20T03:02:00Z
+    webUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/"
+    ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 74
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/01/OpenAI-CEO-Sam-Altman-raising-billions-to-establish-AI-chip-factories-network.jpg"
+        width: 1250
+        height: 750
+        isCached: true
   - title: "Sam Altman seeks to raise billions for network of AI chip factories"
     excerpt: "Altman has had talks with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants"
     publishedDateTime: 2024-01-20T06:10:00Z
@@ -75,6 +91,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI team to focus on democratic processes for artificial intelligence software"
+    excerpt: "SAN FRANCISCO, Jan 16 (Reuters) - Artificial intelligence lab OpenAI is forming a new team to create democratic processes to shape how its AI software should be governed to address bias and other ..."
+    publishedDateTime: 2024-01-16T21:08:00Z
+    webUrl: "https://www.reuters.com/technology/openai-team-focus-democratic-processes-artificial-intelligence-software-2024-01-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 59
   - title: "Sam Altman Seeks to Raise Billions for Network of AI Chip Factories - Bloomberg News"
     excerpt: "(Reuters) -OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported on Friday, citing people with knowledge of ..."
     publishedDateTime: 2024-01-19T12:28:00Z
@@ -84,22 +109,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Sam Altman addresses ‘nervousness’ around Artificial Intelligence: ‘It's on us to…'"
-    excerpt: "OpenAI CEO Sam Altman expresses empathy for concerns about AI systems like ChatGPT and proposes co-evolution of society and technology. Altman believes AI will lead to higher levels of abstraction and increased decision-making capabilities for humans."
-    publishedDateTime: 2024-01-19T04:42:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to-11705636013098.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 51
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/SWITZERLAND-DIPLOMACY-ECONOMY-SUMMIT-DAVOS-42_1705638144974_1705638170691.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
     publishedDateTime: 2024-01-19T19:13:00Z
@@ -145,6 +154,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
+  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
+    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
+    publishedDateTime: 2024-01-20T00:57:00Z
+    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 28
   - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
     excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
     publishedDateTime: 2024-01-19T13:34:00Z
@@ -154,6 +172,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 19
+  - title: "French start-up Mistral looks set to challenge AI frontrunners Google and OpenAI"
+    excerpt: "But Mistral isn’t alone in taking on Google and OpenAI. Toronto-based start-up Cohere, which was founded by ex-Google scientists, is in talks to raise as much as $1bn in financing as investors race to back large language models, the FT revealed today."
+    publishedDateTime: 2024-01-19T18:16:00Z
+    webUrl: "https://www.ft.com/content/bc4cd6ff-446d-4a47-9382-bb622460a681"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 12
 
 secured: "KpPmaXJYpraH1kDNJOfuvc6ozihepiZlm1mttxB0q0o7QN12XR8nV2O+3ax8GXY7LWTMo7mEJFmf+Yn05E/psVSI4YZZrKTqm/JORpcueAl3FUA2/iSuceSUmY3Hiw6vdY96RV4rbBVYxqcUPk6SZIPrUoc1plq05uPabp29M71FKER0HEK702xxnNthBpLUPQ8IHKHqIKsSpVYdKW58/SivBlrlXR+UenE6rBxqasTadFlTGsALdcvu4RkjuDL7SL94ZzDnsO6DsmdhEfGbbqQ0SStEigDZ7ovQZwWy//cRtohRVgTW4y9HMwcfgBru7vH+AONqFzxVN0c+UP2udluRqTJd8/WIMcScMtsVTXk=;YPd+e0yZMvIktwl9UmvHkg=="
 ---

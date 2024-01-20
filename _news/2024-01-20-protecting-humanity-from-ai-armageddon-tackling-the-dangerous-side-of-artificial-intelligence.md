@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-20T07:36:00Z
 originalUrl: "https://techbullion.com/protecting-humanity-from-ai-armageddon-tackling-the-dangerous-side-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/protecting-humanity-from-ai-armageddon-tackling-the-dangerous-side-of-artificial-intelligence/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/AI.jpg"
@@ -34,7 +35,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/AI-1.jpg"
         width: 1000

@@ -3,25 +3,25 @@ category: news
 title: "Saudi Arabia goes big in Davos as it looks to become a top AI tech hub for the Middle East"
 excerpt: "Saudi Arabia’s delegation came out in force in Davos as the country looks to establish itself as a tech hub in the region."
 publishedDateTime: 2024-01-19T16:20:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/5055632/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/5055632/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/5055632/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/5055632/?amp=1"
+originalUrl: "https://www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/"
+webUrl: "https://www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/"
+ampWebUrl: "https://www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/?amp=1"
+cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/?amp=1"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC 7 San Diego
+  domain: nbcsandiego.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2024/01/107359503-1705415307996-Neom.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcsandiego.com/2024/01/107359503-1705415307996-Neom.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -62,6 +62,6 @@ related:
       domain: nbcconnecticut.com
     quality: 9
 
-secured: "l6lxLyv2sWurWBzkEu/yc/qX/0gNh4NFJYHL8kXMjtOcmYrdG3QVwyTRYwBiBXi/GAZtiLG2V6ZCc7sj/6/EkR3mCGMm35Hywa5IaZUUiB6u82oHHeDS/V4ew7+msfe/33Ts+nTT3UU6/ampdwHdpZhUceqzFqTzh8uHBjmpbhTZx3l6s3FlmCZsqb5grt75CwhZnB56Ks8KXGdKmd7tohJ7J/26WpnOXmRAsHKZkGN99tX6mxzRyRHxLB5DmsTtZEfpIKWmwIxGHuuEWTdsYBmzCwP0tnlo3mHOSP0Wr4csldzluaeulaKWPLazJLdBfSHh+uzsnB5rl3KQ7qZur0s2dq99Igo380qlwH5Iy4mVb8g+8vWdIwOpEKI8suaQVd9skUUB5MOu4JtibJfcj1V+D//CNPCK0XabIlzS7xz+IV1Jay/+9U71jXin3bKf4yAMKRPjyl89dpF+i5YZSmy4y8Rg00Cq8rD76OdER/VeyhP0onap6P/dV02HGIEof8yb8Z+a2H8uDumT3Sq+zw==;qbQRR+PXqJeUtqyagm8vVg=="
+secured: "ghrBDAXWvXMot4HpBJwwzzhzyfxFYqXaw5tFJMUIDFguzKpUBeNQ/5kOZuzHaym0sFsqLqdkoz7lrV/Qnyp2YEYaUg7gjpdo0dn6jf5L4O1B5p6rUJW38tDWPnpSDFv3wB9S+pPc4yOHun8gSPLP/U4q1ghSek0MBHE6E7vU6OeEYmOqb3wu+6phWH/X3IDYTm9ao8Lj59qJ0gzjDFfitUCjiqMCKzIeAQ9D9G36vKjpSmuVDlZRFf4Dc5mze/zyDljkl/+5xZIKh+oPlBdo4LD8N/ScjxiuPywEZbUlJCiR6n4q7auXFYxigAxdhiqf/WANN4ShQwYzFVHxeDzVzIRuKhbSB6sySz4SJmcMrdE=;S60YdoPGs0Y5tP4lsS31GQ=="
 ---
 

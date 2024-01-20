@@ -53,49 +53,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-20-sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.md",
-      "title": "Sam Altman aims to secure billions for AI chip factories network",
-      "excerpt": "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/2023/images/2023/7/10/Sam-Altman-CEO-of-OpenAI--World-Economic-Forum-reu.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html",
-      "publishedDateTime": "2024-01-20T05:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-20-musks-ai-startup-secures-500-million-toward-1-billion-funding-goal.md",
       "title": "Musk's AI startup secures $500 million toward $1 billion funding goal",
       "excerpt": "xAI's product, a chatbot named Grok, is developed using social media posts on X File photo: Tesla and SpaceX's CEO Elon Musk gestures, as he attends political festival Atreju organised by Italian Prime Minister Giorgia Meloni's Brothers of Italy (Fratelli ...",
@@ -104,7 +61,7 @@
       "originalUrl": "https://gulfnews.com/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -134,6 +91,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-openais-sam-altman-is-raising-money-to-set-up-ai-chip-factories.md",
+      "title": "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories",
+      "excerpt": "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/",
+      "originalUrl": "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2024/01/OpenAI-CEO-Sam-Altman-raising-billions-to-establish-AI-chip-factories-network.jpg",
+          "width": 1250,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/",
+      "publishedDateTime": "2024-01-20T03:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -773,6 +773,57 @@
       ]
     },
     {
+      "path": "_news/2024-01-19-ai-design-startup-shuns-stable-diffusion-for-in-house-foundation-model.md",
+      "title": "AI design startup shuns Stable Diffusion for in-house foundation model",
+      "excerpt": "AI designer Recraft is building a foundation model. The move will ensure higher quality images than Stability Diffusion, the startup says.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion",
+      "originalUrl": "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-6.jpg&signature=6dbb2ed935c496dab1e0d3f9d9e15cf2",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T08:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-global-tech-spending-expected-to-keep-climbing-on-ai-demand.md",
       "title": "Global tech spending expected to keep climbing on AI demand",
       "excerpt": "Even as companies worldwide are projected to spend 5.3% more on technology this year, businesses will remain largely unprepared for the impact of AI.",
@@ -1090,7 +1141,7 @@
       "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1182,58 +1233,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
-      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
-      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "publishedDateTime": "2024-01-18T19:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

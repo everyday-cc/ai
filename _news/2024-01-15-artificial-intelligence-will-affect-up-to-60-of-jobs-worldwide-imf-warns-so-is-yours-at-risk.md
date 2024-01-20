@@ -49,6 +49,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI Will Eliminate Some Jobs, IMF Says"
+    excerpt: "The impacts of artificial intelligence will be uneven, with some workers and businesses poised to reap the benefits of increased efficiency."
+    publishedDateTime: 2024-01-19T21:02:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/ai-will-eliminate-some-jobs-imf-says.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1461110184_536621_vyhoyx.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "LZw1M83R4ac2pMYO2iqhxwbLoggd7cqUoQ77OTEGTMCttnBzoDROY3+MzGzjQkyDh4sU/X+OPUqs+6qB77K7dRoB+RvNABVIkh+IoLE6QFFxZNOAmRil6BsIFW+NqSMS66OQWx8+TMd6pbhs0r4wSScfX9bbT9eH9BQVRKXvcjuuqxUlHPij3gDU9aKQRd1JkXKnSh98XvBJGkEs5Y0wffYSWwJgkcPTCZySaBPHcjE9bMymToK0EyDMVJVMyiBy3ck4YWnYIALzISmUeXPWVWYGgOQftiPcqf6DGZ8A1YFlbfC55Me9iO+ZTVplnDOhMQcIPaiVc3MX2mx6Jj3XJIcG2mdfe4Rg5dXQevvVbfY=;6m2jXR0h5T/HhUbBvbJ6Lw=="
 ---

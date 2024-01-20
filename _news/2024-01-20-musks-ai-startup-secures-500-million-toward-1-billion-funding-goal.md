@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-milli
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI cofounder sues Stable Diffusion startup again – this time for up to $300 million, legal filings show"
-    excerpt: "Stability AI is facing another legal battle from its cofounder, who is filing for a 10% stake in the company."
-    publishedDateTime: 2024-01-17T11:40:00Z
-    webUrl: "https://www.businessinsider.com/stability-ai-cofounder-sues-startup-behind-stable-diffusion-for-up-to-300-million-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/65a7b4dc6979d7371823d661?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
     excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
     publishedDateTime: 2024-01-19T23:25:00Z
