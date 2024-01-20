@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/financial-services-trends/"
 webUrl: "https://www.ibm.com/blog/financial-services-trends/"
 type: article
 quality: 82
-heat: 93
+heat: 94
 published: true
 
 provider:

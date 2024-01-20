@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Davos 2024: Can – and should – leaders aim to regulate AI directly?"
-    excerpt: "At this year's World Economic Forum in Davos, global leaders are asking whether to put guardrails in place for AI itself, or look to regulate its effects once the tech is developed."
-    publishedDateTime: 2024-01-19T14:01:00Z
-    webUrl: "https://www.bbc.com/worklife/article/20240118-davos-2024-can-and-should-leaders-aim-to-regulate-ai-directly"
+  - title: "“Education Meets AI” At The 2024 World Economic Forum In Davos"
+    excerpt: "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies."
+    publishedDateTime: 2024-01-19T13:32:00Z
+    webUrl: "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ychef.files.bbci.co.uk/624x351/p0h5wkww.jpg"
-        width: 624
-        height: 351
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "57ZaIDWSZOcwVBybSJcFwzbRYQgFvQLjaTEiFA1tcqpGo3Owr7VZyaORO+3l3wzY171fMf89lZi2gNfokj2Of1RoWa6gT3SIWQI0NJiovSpjuwiyAFWVcRfY3gFv62n8OHYoPDlaiv6uWpy1A3dCxwMJxGyUcM1UMLt4OUxbyOCBGopUPzmvckj/ovGX123i60anL2fhmO5p5ErKSHPAZ7ZsCcEP+FToipHRONFTzVbTsAyWD36s76R9XpseWYw6RgP/a1YthBIIcBqKsGwHBwA2rW/SZeCXNAVxnc8wvczPUEGNIarrahy/UQyQQz1JV7EsPa4Q3DdzritUKLXE7ZtcFwPyppirXbYSG/DXD1Q=;FY1VqR1dZgP54mXPHgWg8Q=="
 ---

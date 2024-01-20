@@ -40,7 +40,7 @@ related:
     provider:
       name: Droid Life
       domain: droid-life.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
         width: 600

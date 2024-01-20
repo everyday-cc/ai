@@ -57,6 +57,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google plans to bring AI image generator to Bard"
+    excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
+    publishedDateTime: 2024-01-20T04:39:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Generative AI integration with knowledge base is a manufacturing game-changer, AWS reveals"
     excerpt: "Enterprises across industries are actively exploring applications of generative AI. Amazon Web Services (AWS) personnel highlight the integration of corporate knowledge bases as a common application."
     publishedDateTime: 2024-01-17T08:10:00Z

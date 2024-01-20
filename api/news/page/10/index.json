@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
+      "title": "How AI emerges as revolutionary force?",
+      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.samaa.tv/images/ai-file.jpg",
+          "width": 850,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T18:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Samaa",
+        "domain": "samaa.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
+      "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
+      "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "originalUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-77047086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
+      "publishedDateTime": "2024-01-05T17:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
       "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
       "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
@@ -999,83 +1094,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-news-tagged-with-neural-network.md",
-      "title": "News tagged with neural network",
-      "excerpt": "Researchers at the University of California San Diego have developed a neural implant that provides information about activity deep inside the brain while sitting on its surface. The implant is ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/tags/neural+network/",
-      "originalUrl": "https://phys.org/tags/neural+network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-is-using-ai-for-full-self-driving-a-good-idea-musk-says-yes-but-ai-watchdog-says-no.md",
-      "title": "Is using AI for full self-driving a good idea? Musk says yes, but AI watchdog says no",
-      "excerpt": "Self-driving vehicle developers say different approaches to AI are safer than human drivers, but critics are skeptical after accidents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/is-using-ai-full-self-driving-good-idea-musk-says-yes-ai-watchdog-says-no/",
-      "originalUrl": "https://www.therobotreport.com/is-using-ai-full-self-driving-good-idea-musk-says-yes-ai-watchdog-says-no/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/Tesla_FSD.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T14:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

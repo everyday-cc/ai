@@ -151,6 +151,15 @@ related:
         width: 1599
         height: 1066
         isCached: true
+  - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
+    excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://techpp.com/2024/01/20/samsung-galaxy-ai-opinion/"
+    type: article
+    provider:
+      name: Techno-Science.net
+      domain: techpp.com
+    quality: 21
 
 secured: "FCX12jGzRwTxfts5iUTRhAklToOoSYpQPcdRSD/aUG/Pz3DYgTW/HoTL2YfmiJi3jDnaFGYXMnNavTzeNnwY8bRSqBxIniUeCNy1gIR2vPtnz8UW223CiviTM6L9/QaMDHyBuUHuSQKjjb2qkcxzb7iUcLpwcE4A/M1uu49Iov+hewAyIy2Id82aOVsScmWNvO1m1A3gebhSbXiYWdjFCQEp4a3R9oc5/8SW20khPXX7U2/7Xl+RvmwxAFJFejK3jYP4weNQ4gPy8F2KyXQwjK42Z5lzBMNC+4AmVGQRuAL4KCc10hdMa9W28F2Av4wzoZ5MT4p7+oGi7ueCuq7QWwzi7bnE2GZ6iGzKbsdDHV00ht+qBZ55hgm3XPWsQ06E/0QHwkAD+cEradlOHLhe7loVUX6vLGMGFVHXZso2yKkusYNgdPXEO5+UT9pgIrwUwzkaxLQzj/NvcFuuJ6S7lr1ISp39nKipg6KfjXUsznbDzSbCsIsvmb2oCHOZq90Qtg2sl6bs7pqd6V9s4dJB+A==;LdefYVeRVO3I+2X8s6gIrQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "India govt blocks plans to procure facial recognition, drones to monitor election"
+    excerpt: "The NIC was looking to procure and deploy of surveillance equipment including drones and facial recognition systems for monitoring election processes."
+    publishedDateTime: 2024-01-19T19:10:00Z
+    webUrl: "https://www.biometricupdate.com/202401/india-govt-blocks-plans-to-procure-facial-recognition-drones-to-monitor-election"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/30131151/drone-and-operator-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
 
 secured: "yUg8+mkMcZy4iI0uAvrYC2ICGfkOQA8aa0ReAgcX3WT+Uai94hpcA1vTp+zsUvW553KWvSbHDnh44tx6TGn9QN+BkVFJRCTEQnmkwrHUyDv9S3VdxvYqT0R11Lfw/Yhltsf6fN7akd/+zkve387n77+HwLRe06KPhcJFw+5HRNqBSlXoo79+YEjnEKC+p+BiGWeO+hr4EWLOyHY/NUc8J4hID2LgN06AT8eCP2wvLLaepY6IlEPmh6X0MGWiW0R/VHRl/YkbCgr2/bz4gy/ooB9f1XRhkYzL9/FOik1KY2g2gX7o0n1c5UmmMEf6a9Di0XvKC7Mw944oRSrerBvGh9U0LXyj6qeegSi0HKlM3jXLOooz/YZK0QNSNIKkoH4u9goxDPZFQzZh4nFPBf5jytSNsga2K3z5IETFg+5wsZ8kZIkaVeGF0NGZqW5YPPLaq4OXfPMsvsmQMINmn7ehsoKL332AtWvrFhFiFVWZtXeh43RIa3eVOK+n4TH02N2MaHSpijAFqUuUMTB43CjQ4w==;iIT7BEQVcdPD1JY+RfpJZA=="
 ---

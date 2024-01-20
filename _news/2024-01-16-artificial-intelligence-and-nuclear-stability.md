@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-16T08:44:00Z
 originalUrl: "https://warontherocks.com/2024/01/artificial-intelligence-and-nuclear-stability/"
 webUrl: "https://warontherocks.com/2024/01/artificial-intelligence-and-nuclear-stability/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://warontherocks.com/wp-content/uploads/2024/01/2406843.jpg"

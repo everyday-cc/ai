@@ -35,6 +35,47 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Sam Altman seeks to raise billions for network of AI chip factories: Report"
+    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of semiconductor factories, Bloomberg News reported."
+    publishedDateTime: 2024-01-20T04:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/v58u4e/article67758686.ece/alternates/FREE_1200/Switzerland_Davos_Forum_21327.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "OpenAI CEO Sam Altman seeks to raise billions for network of AI chip factories"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with knowledge of the plans."
+    publishedDateTime: 2024-01-20T03:57:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/openai-ceo-sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-71705688035242.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 70
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/20/1600x900/Sam_Altman__1705722981243_1705722981560.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sam Altman Seeks to Raise Billions for Network of AI Chip Factories - Bloomberg News"
+    excerpt: "(Reuters) -OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported on Friday, citing people with knowledge of ..."
+    publishedDateTime: 2024-01-19T12:28:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-19/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Sam Altman addresses ‘nervousness’ around Artificial Intelligence: ‘It's on us to…'"
     excerpt: "OpenAI CEO Sam Altman expresses empathy for concerns about AI systems like ChatGPT and proposes co-evolution of society and technology. Altman believes AI will lead to higher levels of abstraction and increased decision-making capabilities for humans."
     publishedDateTime: 2024-01-19T04:42:00Z
@@ -59,6 +100,15 @@ related:
     provider:
       name: ndtvprofit
       domain: ndtvprofit.com
+    quality: 34
+  - title: "Sam Altman looks to raise billions for network of AI chip factories"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with ..."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://www.japantimes.co.jp/business/2024/01/20/tech/altman-ai-chip-factories/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
     quality: 34
   - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
     excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."

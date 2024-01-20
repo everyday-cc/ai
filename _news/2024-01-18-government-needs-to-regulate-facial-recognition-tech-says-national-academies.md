@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "India govt blocks plans to procure facial recognition, drones to monitor election"
+    excerpt: "The NIC was looking to procure and deploy of surveillance equipment including drones and facial recognition systems for monitoring election processes."
+    publishedDateTime: 2024-01-19T19:10:00Z
+    webUrl: "https://www.biometricupdate.com/202401/india-govt-blocks-plans-to-procure-facial-recognition-drones-to-monitor-election"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/06/30131151/drone-and-operator-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Proactive approach from White House, NIST needed for facial recognition technology, report says"
     excerpt: "A National Academies of Sciences, Engineering, and Medicine report sponsored by the FBI and DHS recommends executive action regarding facial recognition technology and making NIST the “logical home” for regulatory activities and standards."
     publishedDateTime: 2024-01-17T16:09:00Z

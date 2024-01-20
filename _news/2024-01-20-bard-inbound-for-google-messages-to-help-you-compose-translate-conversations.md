@@ -8,7 +8,7 @@ webUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-
 ampWebUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
 cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
@@ -74,6 +75,6 @@ related:
       domain: androidpolice.com
     quality: 4
 
-secured: "OXwkRtDEzOtUwx/g8HXfDvy5NhwECgIH4cRHUM8LYDGyLrvzWFiPWLr5k9xauBy8VowyV0vPfHgccdVO//IsWhlbF5IQjaWghkzML8R7aYmROAXoCg/OwF860/jh9RXW1zCNmDRX4TuTDW4PeQVa0NUHhWxf2uh7/NJ4DoXNiuDVO6EZcTnB1xWjwott+BNhrVVdEiSp0uknCJPnvszVbRWzJ4TNv/c8tHtC0eputYNV79wFNt55rfpED0X6eO5I3Tfhz7SV8l45wekDKFPJgTRchFZMeQesXuLtToSkxhT3c137d/h6bZhgz0sZVaDW4WR3GgfniFEH/XN01Svb5b/X4UX+L3FY98JTp+O4KeA=;TJW+/8JzTldJnoHdb/uPvQ=="
+secured: "jINEWq/pbdbyvHN53D61z5OvpnBZHGpI7qRAFILhI9cUPvRddVnttV4QkVRZ+cJ9al3fg9iK70jw/VGfjPLy6MSl/qDwzlzj8aVspixSNGxhUjIQBd8e8px8dPbpCdDgq4Plmei/4Ja6HPPibELNcgX+d60wHcib49ifmw4/g2jE8v+ajj9COwIMiUqb5/hDFWhP/NvlH2mBE9pSFYvR71EkT9OCE2mx8soGWCjeOMRjbCEk02CXZiqHWHZH1eN9sLi/rNkFXb07GUt7QQKg6vwFJQT833yhe0zhBVFB0YCLeYj4Ku9dAxwHdPNIzvxYmmNVRsjX6zernyTteyULjwchCK/ogIVL1nllapIbdqqiwxDyGpoNyUybzJE2AhK3QKtH1tcqX+I5QJoAIZirxO0c7N2I83qkY0fvvs56OePJp3VL7stZys9cyTtzi5fh/lhSEJ15Crr2VJK4VgG4S+96MplK3GmSRyo7TF0qbgadSDG60PESkMkphEVVq02W8hNapNhK3oVqWssga/uC1Q==;sq3JAYJNN4q8fVP3rANRpA=="
 ---
 

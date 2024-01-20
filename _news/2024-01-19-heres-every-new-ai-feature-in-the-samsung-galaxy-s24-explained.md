@@ -143,6 +143,15 @@ related:
         width: 1599
         height: 1066
         isCached: true
+  - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
+    excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://techpp.com/2024/01/20/samsung-galaxy-ai-opinion/"
+    type: article
+    provider:
+      name: Techno-Science.net
+      domain: techpp.com
+    quality: 21
   - title: "Despite the Samsung Galaxy S24's Killer Specs, Galaxy AI Barely Works Without the Internet"
     excerpt: "Only a few Galaxy AI features rely on your phone's hardware. The rest reach out to the cloud, where Samsung has partnered with Google to use its new Gemini large language model. Samsung promises several features in Galaxy AI: Interpreter,"
     publishedDateTime: 2024-01-18T20:41:00Z

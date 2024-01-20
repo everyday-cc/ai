@@ -52,6 +52,15 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 19
+  - title: "Saudi Arabia goes big in Davos as it looks to become a top AI tech hub for the Middle East"
+    excerpt: "as well as Riyadh's International Center for AI Research and Ethics (ICAIRE) and Saudi Aramco's AI research center that focuses on advanced projects in oil and gas. \"KAUST contributes through its own AI Initiative and hosts the SDAIA AI Center,\" added the ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.nbcconnecticut.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3197817/"
+    type: article
+    provider:
+      name: NBC Connecticut
+      domain: nbcconnecticut.com
+    quality: 9
 
 secured: "l6lxLyv2sWurWBzkEu/yc/qX/0gNh4NFJYHL8kXMjtOcmYrdG3QVwyTRYwBiBXi/GAZtiLG2V6ZCc7sj/6/EkR3mCGMm35Hywa5IaZUUiB6u82oHHeDS/V4ew7+msfe/33Ts+nTT3UU6/ampdwHdpZhUceqzFqTzh8uHBjmpbhTZx3l6s3FlmCZsqb5grt75CwhZnB56Ks8KXGdKmd7tohJ7J/26WpnOXmRAsHKZkGN99tX6mxzRyRHxLB5DmsTtZEfpIKWmwIxGHuuEWTdsYBmzCwP0tnlo3mHOSP0Wr4csldzluaeulaKWPLazJLdBfSHh+uzsnB5rl3KQ7qZur0s2dq99Igo380qlwH5Iy4mVb8g+8vWdIwOpEKI8suaQVd9skUUB5MOu4JtibJfcj1V+D//CNPCK0XabIlzS7xz+IV1Jay/+9U71jXin3bKf4yAMKRPjyl89dpF+i5YZSmy4y8Rg00Cq8rD76OdER/VeyhP0onap6P/dV02HGIEof8yb8Z+a2H8uDumT3Sq+zw==;qbQRR+PXqJeUtqyagm8vVg=="
 ---
