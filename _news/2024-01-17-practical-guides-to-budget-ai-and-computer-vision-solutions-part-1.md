@@ -3,8 +3,8 @@ category: news
 title: "Practical Guides to Budget AI and Computer Vision Solutions | Part 1"
 excerpt: "In response to widespread interest, OpenCV.ai has launched a series of articles to guide entrepreneurs and enterprises, in exploring Computer Vision solutions. These articles are designed to aid in making informed decisions, with a focus on optimizing development and operational costs."
 publishedDateTime: 2024-01-16T17:12:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/01/16/9947089.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/01/16/9947089.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 627
     isCached: true
 
-secured: "VBI3/mJkimB2CCDBBofQGxm07s8l3cQ62WW2KLSkPvwWWsMMd2cB67XOV9HBRJhr7W7QWCjz9RnZ7Iqxc69mh2AXEu0p/TCO8qVk587iS3BRvVoce0TyE+NN6JekL45lp9v60qXH4PWTCylB3ncekr+u9CC9iDJO5Cg8f3iZf0SzWH/HYwXlvQxAe8lGIUAvdm2m2xRThks1q7cpErC1KpkwVQI5uIg2TfUkGtR6/6d9EhsrmBDd/r6YVDQDHwi8htngvAB3az+OufojF6As/xxsptCFy1o6jJqIJuxXoQtuqPdAPTol1P7/3lZSypA7jRqrop0ge+3fnZeE0NPUGrXSdY3ltxdn4uL+iPK4VAE=;nOfoUHN3GAlvX4zOj8LSqg=="
+secured: "3b7R/ZWxaWlYfkKk4SSpKi+Y9Mv0mrjhB2E4UhuROItm+UXTojQ+mang43ZTWNlzb86sO/pnFmlJqxY2/3rHws4rASa57jrwuKSYHU2mzl5MjVI1hw8EkrVa7aK/jI/1sBeRHv36HiZTx6uRHfXN3hg0T6BgefX6wwy6mCU0Dx5oWFGv+NTF164J3aGi1L0cOm82Ch8HSj6D3CyuRW42GMy8ukYsvCAd/GVnUO0EwYc94yeo4TEcE7eOCDp/0KvEoJjGOeaKtjwqGW/mu9rugyzG2wbqlGUF4K87/hqZ/dT2Lk39aAD4xa3Ovm09M4C7Nh6dgxEgr7QZvl6ZV0qI+HgKOAXG+JzqIfp7DOkWfwM=;19D1ZDyQbtVsgz9kj5aBfA=="
 ---
 

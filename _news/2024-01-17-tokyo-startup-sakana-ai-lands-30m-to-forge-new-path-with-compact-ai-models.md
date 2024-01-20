@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-fo
 webUrl: "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/"
 type: article
 quality: 65
-heat: 86
+heat: 85
 published: true
 
 provider:

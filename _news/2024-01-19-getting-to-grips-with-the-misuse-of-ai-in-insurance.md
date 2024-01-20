@@ -7,7 +7,7 @@ originalUrl: "https://www.insurancebusinessmag.com/us/news/technology/getting-to
 webUrl: "https://www.insurancebusinessmag.com/us/news/technology/getting-to-grips-with-the-misuse-of-ai-in-insurance-473535.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "The missing link of the AI safety conversation"
+    excerpt: "In light of recent events with OpenAI, the conversation on AI development has morphed into one of acceleration ... According to Coatue’s recent research, the demand for GPUs is only just beginning. The investment firm is predicting that the shortage ..."
+    publishedDateTime: 2024-01-20T12:04:00Z
+    webUrl: "https://venturebeat.com/ai/the-missing-link-of-the-ai-safety-conversation/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "The Democratic Stakes of Artificial Intelligence Regulation"
+    excerpt: "Across the world, artificial intelligence (AI) tools are being used to intensify censorship, power surveillance, and supercharge disinformation. As Freedom House detailed in Freedom on the Net 2023, advances in AI tools have made the need for regulations that seek to safeguard free expression,"
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://freedomhouse.org/article/democratic-stakes-artificial-intelligence-regulation"
+    type: article
+    provider:
+      name: Freedom House
+      domain: freedomhouse.org
+    quality: 39
+    images:
+      - url: "https://freedomhouse.org/sites/default/files/styles/wysiwyg_full_width/public/2024-01/AI_BlogWebsite_grahpic.png?itok=i7AL81Ot"
+        width: 710
+        height: 483
+        isCached: true
 
 secured: "rGPb9V1q7E/ZKlowofy7Zr3aA/mwssAIFyowfr0csRyyohjozZrwsxbey6Gx3jm8Mi51ALInf0f5m5I8Ohwb9Dcky7StSNmLiAwrDhmXYD79K2hc0HgNQZUu40+PnbVgOvIG6aIs17J2KgP0iQkYDNnZhbe6wquoHMLEHHbAglgXYAmMTbCY/iRoTpuGs6QMb9N/B61B1cSwVHG17Vu/S8YWm8FVwLB9gIgjWusLxulCL7ay7UM57RDzzomQFRZ9h905tQXpUrooLM1Kl7Xmrh8QXlqyypAVDrPVaBVwcX4Xlv71ynZIwHUD0O5Hj7OnyySGeguMFfEfRFlQ7YA+IlVe/lDw4tM0RWYbbXWqfiQ=;BAoUobrZTL2fKu7dtC/mAA=="
 ---

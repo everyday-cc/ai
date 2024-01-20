@@ -1,0 +1,80 @@
+---
+category: news
+title: "Harnessing AI’s Potential To Boost Your Career"
+excerpt: "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers."
+publishedDateTime: 2024-01-20T21:24:00Z
+originalUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/"
+webUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/"
+ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+type: article
+quality: 87
+heat: 117
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1261
+    height: 900
+    isCached: true
+
+related:
+  - title: "Harnessing AI's Full Potential: 5 Adoption Essentials For Enterprise Success"
+    excerpt: "Uncover the five essential steps for enterprises to effectively harness the transformative power of AI: aligning AI strategy with business goals."
+    publishedDateTime: 2024-01-19T06:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa21dac2425a84517c911a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Bringing Agility into AI to Drive Business Success"
+    excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
+    publishedDateTime: 2024-01-19T10:54:00Z
+    webUrl: "https://www.business-reporter.co.uk/global-agenda-series/global-agenda-series/bringing-agility-into-ai-to-drive-business-success"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 39
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI-Assisted Programming Tools Can Boost Your Startup"
+    excerpt: "Applications like ChatGPT and GitHub Copilot can improve developer productivity. But there are some drawbacks."
+    publishedDateTime: 2024-01-18T19:28:00Z
+    webUrl: "https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-605375763_536526_sjcmqs.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "NTxR/DoatyW+sPGDgrXIlL/Ycr9w5wJWDhZmoDwToDcZI2ByTrVdyxo5lF5yKWQDNtRY36PcxRgAc5tOkMWSuglsQVnUUfVRty1tjkg9ZGHLt4X6Edei8Na9vEJ4dam6y5B1uxSyfaA0oS57Ir/YTa6QOQlre/EjiUUeQIcUuoQzEFiYybG+aB9yMRrm+7ZTogFWG31Wp0w7mT4BUqdMXFsa16Qesv2A3flAEyWAn1ZZZ4ZfKGBHwfQ8yWDAMwQ6BE0VxBiBhjdipbb/3RE9bMBGzmhGAPONBCYUfVeQ4A89k6UejXYueiteYe//dQZ7TubHrE/lhMxYa+ODg3BpafwN3DYK3oHmaBojn1pWgZw=;JJG4sbqT++7+kgJSo9YqGQ=="
+---
+

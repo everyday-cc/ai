@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Revolutionary Artificial Intelligence Platform Allows Anyone to Create a Duplicate of Themselves and Earn Money From Chats"
-excerpt: "Humans can now create a virtual duplicate of themselves to give advice, chat about topics, and earn revenue."
-publishedDateTime: 2024-01-19T12:48:00Z
-originalUrl: "https://www.star-telegram.com/press-releases/article284442060.html"
-webUrl: "https://www.star-telegram.com/press-releases/article284442060.html"
+excerpt: "Humans can now create a virtual duplicate of themselves to give advice, chat about topics, and earn revenue. DALLAS, January 19, 2024 (Newswire.com) - Today marks a monumental moment in the world of artificial intelligence as MindRoomAI launches its groundbreaking platform that enables users to create a duplicate of themselves and earn revenue through AI chat interactions."
+publishedDateTime: 2024-01-19T13:48:00Z
+originalUrl: "https://www.miamiherald.com/press-releases/article284442060.html"
+webUrl: "https://www.miamiherald.com/press-releases/article284442060.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Fort Worth Star-Telegram
-  domain: star-telegram.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI
 
-secured: "jdQrcFOd3aPa3mseM7+lqitk8QYMouPg0tVmGPCyxC7zulh3rQUna+V9E4uNyGly4I4qqnS1m+HKN9TQOYnrE56ax/tDecWEU6TXL8PzmTZgIrkUkd3otOb6AOw6t3FNmJpDROZy5LbBkM1eD4UgVFZrYhZYXR5+5i2mSOu+HIuRjIz7dOF/s8f7GDQ5f11bllPydzZOLLMHHP7FuXXVVwtKZON3b0Yy/rroSUrppxa6abQkBYMWubCunhQYjTboI8+tyMGC25ZGnGS9LKE75QMVxllFLBssoqpFkPPMckJqYgWzr1c7X3fz6ll2dpHYAnpKdrdNVZLaGcTIuTqsk3E/GzpvLCjyPjujy5U/5QseTTSN0g1Um+7q+fP2YWg92iCeSXb0U26OP0sFyZZyY8oXmKeO54KUScp1Q5yJ8Z55YO01SIKO5pQVKD/fon/gcD4BewPaImElRDSRXgapLmDkAy8BcpriBmQaO9pja+enpO1rk4p5Shg8w83QMDQ8P0g92wXzvDZ/L+vVm8E50A==;zzP+8O8aW5vFeTMo7qXKUg=="
+secured: "gMXuR2NXwEmAQNEMBqvZk6l+BygXDFvTScbTkjW5Vxv1IvC9xKzMuUJibgpEYoT8zdsiG2GyV8UQ+l0jvx0iquBKAXEcXM04hyzoWcjbosdBPFNUAav3NNcm7md9IV9r3zZXSkj4IQ45EbgK4v4PnlBA+MwYIfMfAJzsmfEBHVg6wJo7PNG4F4IrthGspL+HXLLh3rW2WMQPXzMQF1FTWgSoAwUr0X6FO8CsG2kVjaH+ZeROaY6c7CGx8V43hOBPC8gpsgM7OMekE9XiL3udPad9mjmP1mf1V/Fb16bZ1lQIs2JNLltIXOIWIT7mQgHhRENt09Vp2HHP+4qzkRMo90L2kxwRhIw0L9BeSThVPahK9jx4D/pNAol8M38/yviMuL7sU+X3ApJpCFVq+HL77ufMAQgntaxbwSmazd0qhiX4ufo+vNwD9lNHAh35/1dJiBAbIYOO4jcoZYlhReSZsiPQz2e3jmsguQQepe+moMnGAKxyrxNMJTw+/5BM3CR88I0wtnweDQCtlSZ4tw4LuQ==;TDaQRLuFWMvq2uaNkeQaPQ=="
 ---
 

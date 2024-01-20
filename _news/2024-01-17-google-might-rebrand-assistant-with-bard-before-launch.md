@@ -3,8 +3,8 @@ category: news
 title: "Google might rebrand ‘Assistant with Bard’ before launch"
 excerpt: "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\""
 publishedDateTime: 2024-01-17T00:04:00Z
-originalUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/"
-webUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/"
+originalUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1"
+webUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "3VhE9jbu2oHFohYtCyuL6K4LdlwBKTlfHRSgZxV6JHzHwixThziAPMHJicJvlRLcq9xzvwVUMdBMTi85QUb9gclsZnE4y7IPmaApLPNP5h/vyU7fqbtqXRWhC8HgRp4RSPXzzwfW2nN+wCbbcl4NkHbPmIUyr2Z3ErGeyLr81Va5nNBWXzWLxKT49q+wmb0rmSvL8sGUa63t21tL2CrknqTY/NVw7opJDOfXjt8+O81hzs04j203aj768D9VU+/M/AdnDL+p559daIwWbALC6Hv7TCmAo2RVG2q8FNVxn+OWSC8Zr+TpoqBQwzwMKr5PhwTNlD5Aw0L+BVmNPM97YY0ofPyLC/lKLxHDbn9XLJuUQE3Dyk7NqNIsva8fZeyOaRPvIINBKB6+ICXrt3fq8+b23DBuXDu2n578PFuPZPAlrgstcCqZqheye/QrbfLmZnPPNC4y13t9LxvijEyV5YW11OxQKhj22I02R5/K57xdbTs+STJ+ctYSF1TibqBOYA2L9GS+D4oJUVU8TNhaow==;e9Kgi26TRA7xAD+W4sli6g=="
+secured: "4TPa4xfepVRQBx1ZY+tI/ezAV2IYwMfQ9RKg2TO9lD1kBfRvOdGUI/QyOOZl8R9waTTAmrfUnHE24rYhrV9x+FvLsQ5KDiiu1Bj3VgDfW3cHq+b+DvM9AdSfpJNVpYJWklXcs3EGo1P6iZjib5k6B4Whda1BStGnFpv1HHYn3pMeDrGBz8tDTifAaZlfkv5fauceWzZR2GaZqA2f3LsbQ9Inb9FbJ27oFLvedaAyMxQijD14TZQ02TrBf+MzwRhY9SCoskX9IYTbQV6QbgsOA+8TK1EV8f0vDS8oft1Q414GrElsJdy3nGY0fweJ5DvMsOMD/i8y7fyi7m8wKtiUcUowhe14Cycv/srdEPkFff8=;TlqhILLZBdmob4UOiPwoxg=="
 ---
 

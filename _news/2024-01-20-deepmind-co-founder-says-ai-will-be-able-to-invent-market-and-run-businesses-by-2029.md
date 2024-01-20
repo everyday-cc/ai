@@ -271,6 +271,15 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 34
+  - title: "Google DeepMind AI software makes a breakthrough in solving geometry problems"
+    excerpt: "Scientists at Google DeepMind, Alphabet's advanced AI research division, have created artificial intelligence software able to solve difficult geometry proofs used to test high school students in the International Mathematical Olympiad."
+    publishedDateTime: 2024-01-17T21:53:00Z
+    webUrl: "https://www.aol.com/finance/google-deepmind-ai-software-makes-195351550.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "ChainGPT facilitates the launch of the GT Protocol, bringing AI-powered auto-trading to crypto"
-    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, launches the GT Protocol through its IDO (initial DEX offering) launchpad, ChainGPT Pad. The protocol’s app grants access to CeFi,"
-    publishedDateTime: 2024-01-19T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chaingpt-facilitates-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto-1032980546"
+  - title: "Harnessing AI’s Potential To Boost Your Career"
+    excerpt: "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers."
+    publishedDateTime: 2024-01-20T21:24:00Z
+    webUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/"
+    ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/40f714aa-c647-4c4c-884d-3253e4a072e2.jpg"
-        width: 1536
-        height: 864
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1261
+        height: 900
+        isCached: true
+  - title: "Harnessing AI's Full Potential: 5 Adoption Essentials For Enterprise Success"
+    excerpt: "Uncover the five essential steps for enterprises to effectively harness the transformative power of AI: aligning AI strategy with business goals."
+    publishedDateTime: 2024-01-19T06:19:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa21dac2425a84517c911a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How AI-Assisted Programming Tools Can Boost Your Startup"
+    excerpt: "Applications like ChatGPT and GitHub Copilot can improve developer productivity. But there are some drawbacks."
+    publishedDateTime: 2024-01-18T19:28:00Z
+    webUrl: "https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-605375763_536526_sjcmqs.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "jVate9FxlnTVwsqb8xsSiTuJY6ltN+F9SbtNIck86ID3T5fWvrMEanDIJkmRyVDgHLvPy36dORpKCLPw8Le1+SudLCXHs+h8p4apsopkCs+IKr1ugHVqaLrk0l7YOtNePoeqU/ihIAdd00TlvyQWu/MQf6w8wfVrdDzb8AEIlihX9n9yBUNRjC8LuP2NFACQ7PTOjctsKQx/6KlMp6z9xF0QIvxpKyjHyX6TwW55Qz1G6RCwwWw48qwEUxZXNwgZQPLn+OZbK9Qduo6qys9Q1QsBAWUQNnevgs1zb5gnHa7/POOJzLTtCBRG94WyxQXfhEu8jRP7m7VvsLQkMXd0DEsJ1uf8TAPo032My2c038cljoJ+KsApsjBCANcf7+/4phV56MsuyB4Mri0CInqeUJhpivQtGz7iNsv8M4jx4nnOpbsh2Ru1RVBld436pW1VdEAPWY7kDnvrW6irbzgfK62bQkfF4kbWO1NpQ4amo3WPab19rNe/yv2Zg1VN3mSKRMYFd/oa1ko5piYJ/8TKZA==;E8AVpLAcFJeq5g4/O1ArKw=="

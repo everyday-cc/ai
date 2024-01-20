@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "With broader participation in the AI and Machine Learning parts of the Microsoft Azure Innovate program, Grid Dynamics has amplified its value to clients and the company anticipates these efforts will create larger deal pipelines and reduce time to closure, especially for Generative AI, copilots, and other Large Language Model (LLM) initiatives."
-publishedDateTime: 2024-01-16T14:04:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274096855/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.bignewsnetwork.com/news/274096855/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
+publishedDateTime: 2024-01-16T13:45:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
@@ -145,7 +145,16 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "Microsoft and Cognite extend partnership to build industrial data operations platform on Microsoft Fabric and Azure OpenAI Service"
+    excerpt: "Cognite and Microsoft are excited to announce an expansion of their strategic partnership to bring enterprise data operations to the generative AI era."
+    publishedDateTime: 2024-01-18T16:09:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/01/18/microsoft-and-cognite-extend-partnership-to-build-industrial-data-operations-platform-on-microsoft-fabric-and-azure-openai-service/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 19
 
-secured: "lopQ9psSP/+DiS8gHI5Nw774BBGJavgbdHUVkTqQI26RRr4fwaYcB6+kUOBKSeoqMQcBMDTJqb7mMRVojBTe6dbsvWVvZgmUNhNxRSmG/zcCDlOpzJ0qYLPwL6o4PpIG7XI8GT8vwbA0RvOoeydfFK50CWiKjM0FBYkEokfVbVYXzGt0XS0IGu/CJcBT/4yguZU47UIXm8z1wjlHUWELTMhUvpu5Ym1zHUV6fwBFq/sqTz4UvedAQnknQc5h2HAfDI9Zl1Dbyb6sQ2GqYZKrsQzUWdgxouIOKMkG6ZOnwwZvsBEkriCYXwh9nNQgUBD7RSsWHwsbL0n1cF+JjtE84xOc6xgSxSDBG6C1/qEnmJLtEheLW+7yzQBZIzB3fDCfh0IijLl8FbXIsISmBmyQHzK4BieKJJBLgaVtWrZxJWFYdh5KQodRizi11kYqpH3L4N4asze77BGUHilhyv5vwOiBjHixx9RIdqYmcBMmiVe8InDlp4NkHGjBPS3EyvQFGWfT0lyFGNmn8mUV5lk56A==;x+PQzwq+ScHhZvYJm2W2rQ=="
+secured: "1A+x9QtiDOnDJYbMz99RcUl+bd/FI5kHCOh+Fg827V57Ms+Y1l3cKYk/BmtOWOfo/QW2PjNCD9APwAJuGM0ywv+GDwhcnOSM8yc9kJgGNyfPtA5/PV8gd8NsSyVUIuqIJ9todPg+j75TOCUpoq7e351m6tDFZvzxQb/Hz4Zg6mSWyTqDBWA34w9DbzolQ9vV6hX6SBog8twgEOmqlcaSoiZ6Wd9AZF6kBem+t5c6UwRAO3GyIl3MgVHV+0oj85YbCZ1OHJhpYLEvk8kBCm/BviubO4m14zkWWoCBTR+USnFOANpL9wpDOfz6LV1Ja7VwImfTeoO025FBMfrsI2T6AkuGPQMBtDn2aNqvLcZV2is=;bbCqnIuEXZ9FBBwM8OpY0A=="
 ---
 

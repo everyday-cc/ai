@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "16 VCs funding disruptive tech in entertainment, from AI to blockchain-based games"
+    excerpt: "Accel most recently led Assembly's $50 million Series C in December. Two-year-old Aperture is interested in the intersection of fintech and AI with entertainment, along with other industries. It recently co-led a $1 million seed round in Conduiit ..."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.businessinsider.com/vcs-funding-startups-disrupt-future-entertainment-generative-ai-tech-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/65a0811ddcdb354a9856f80a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How the blockchain could solve one of AI’s biggest problems"
     excerpt: "\"It would be impossible to train today's leading AI models without using copyrighted materials,\" OpenAI recently said."
     publishedDateTime: 2024-01-19T16:06:00Z
