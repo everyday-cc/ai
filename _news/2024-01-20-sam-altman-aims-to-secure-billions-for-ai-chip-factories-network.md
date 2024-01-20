@@ -1,48 +1,32 @@
 ---
 category: news
-title: "Sam Altman seeks to raise billions for network of AI chip factories: Report"
-excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of semiconductor factories, Bloomberg News reported."
-publishedDateTime: 2024-01-20T04:50:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
+title: "Sam Altman aims to secure billions for AI chip factories network"
+excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."
+publishedDateTime: 2024-01-20T05:40:00Z
+originalUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html"
+webUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html"
+ampWebUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
+cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
 type: article
-quality: 72
-heat: -1
-published: false
+quality: 74
+heat: 184
+published: true
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: The Week
+  domain: theweek.in
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/incoming/v58u4e/article67758686.ece/alternates/FREE_1200/Switzerland_Davos_Forum_21327.jpg"
-    width: 1200
-    height: 800
+  - url: "https://www.theweek.in/content/dam/week/news/2023/images/2023/7/10/Sam-Altman-CEO-of-OpenAI--World-Economic-Forum-reu.jpg"
+    width: 760
+    height: 443
     isCached: true
 
 related:
-  - title: "Sam Altman aims to secure billions for AI chip factories network"
-    excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."
-    publishedDateTime: 2024-01-20T05:40:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2023/images/2023/7/10/Sam-Altman-CEO-of-OpenAI--World-Economic-Forum-reu.jpg"
-        width: 760
-        height: 443
-        isCached: true
   - title: "Sam Altman seeks to raise billions for network of AI chip factories"
     excerpt: "Altman has had talks with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants"
     publishedDateTime: 2024-01-20T06:10:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/05/2024-01-05t032707z_1_lynxmpek04025_rtroptp_4_israel-palestinians-sam-altman.jpg"
         width: 600
         height: 314
+        isCached: true
+  - title: "Sam Altman seeks to raise billions for network of AI chip factories: Report"
+    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of semiconductor factories, Bloomberg News reported."
+    publishedDateTime: 2024-01-20T04:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sam-altman-seeks-raise-billions-network-ai-chip-factories-report/article67758682.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 72
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/v58u4e/article67758686.ece/alternates/FREE_1200/Switzerland_Davos_Forum_21327.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "OpenAI CEO Sam Altman seeks to raise billions for network of AI chip factories"
     excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with knowledge of the plans."
@@ -155,6 +155,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "47rq2nFzb//IYkKStITp38DbVFC/E/qkpJu/jgn3NfADf9OMc9nT8fvdYiUi7P9BfOkp5rne0XxL9Fu1ynsrpYGZKIEOl1DItBiH4Dv3HdLK41oOR2kippSWrdk5iIxw7qUpNrc7Q5PhbiPKARmLldhRe2TBWMMa6jeQA3sc32DGPpW/MJpQQBLF+qdLwuvn5NYq5qoWwtPa1mHRLWnJeDNWFFs69CwB00p8j2WDUJDCrUQyRKXC0M9cs8ONjs8YIPxpAEu082TtahIlcE0ig+kU1WgJJ8QAM/348LYgLMQ1rhJ9pN9S5i+NYHt9AFnJvhwQ6pZ4I9zj6t5S5Qwqg6tqI44XFWyFU/Xl4oEBHn4=;ILwpvUfF55MByenwvH/+/w=="
+secured: "KgY3Gp2S8/pfKS3j4jSruxkm17tMmcRcr7pQSS4RJpZ60n7wE1ZNa8QH8DSGk9ayOwmxKUz4FmGqiSrKdiW2kbA8ywv6SRzeLwQaD/fMf1LFzzrRTk+VUSHU4mhZFMpNzGjFREZw4WuC7Dioz4y+bBhcv5jP5HZ6Iw5dhVsENGD1IVJsGuc3cCkHIZPQFiq5pVALTzAY12q5Gh/j9Hmo559jh+JqDNc+uu6+VdQC6jytMMfes20YHbEECDNSqDD70YqsTgUoKGsQtfZMyFl8D2faK3NM6ZmMVxseebTra3MkDuRYsNZjxSNlmlVwBxj8zUBTy/QI34kv5UL6UI6PRq2Ur/4Z1risgknU5IKCML0=;Rr9XGwf7CrjWlHYpcdsCcQ=="
 ---
 

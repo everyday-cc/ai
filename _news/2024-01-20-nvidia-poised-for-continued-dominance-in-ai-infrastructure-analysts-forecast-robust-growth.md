@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-19T20:29:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
+    width: 1024
+    height: 768
+    isCached: true
 
 related:
   - title: "When AI Meets Infrastructure: Top Considerations For IT Leaders"
@@ -68,6 +74,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UQU2Ae0dO9+74JDqlu7vV+Giqvm9F+joQWIcF7QBJcHset41GISPPhMNL417SOiPyHODQplMcY6BgHcod6Ahek2lBrFSFyClR72SdGbES7drFv1C/ZEQ+KWiacXCLldJ85eLUacBNwzMmIlrCNeSxlhXIwmpSiRLRt0iD0S5S0RXYLo5CWbjMY5nGTGvg7tgg3IPFlJRUxe0YkIdylUtfB1O66oij+NXoKD0maj4YwAB+GSQo8+HyWsu37ST7kBluti3ZuMjvBi+B3l/FLMQBPlOsGSZ6jGxA8SCLpJSKe0gagnJtTWIeB9bdzrGlHub8ErGWnFgDze3t1H3WZA31bkHydqJp1alV1tpF0BrP5A=;HV6NtUKcRMmURCeKtt7U/Q=="
+secured: "QiWI/xA058wTNZbOFMlaAqhaXiF4q9pJycddNB8SnBU5NKniEbqO8of4rIMHYVKlNi/5xwhn8jUrC9q+wgLOF1i1YoFNKzROVSg1JhC7VX50Gcv4xI+ToFvQfyfReaT/rlCxDJ/b/U5ueBizxso0igtR7Xrg7fJGlZRux3R0+1p2mcN3as7jJHwmiWUHk9b+zYvwwrmqCfl1YizVa5j9/hcpSODzYpVhY5/8LcQQjlT9GHMZQ7pYvwPpO0f49DJAVncgYPGY/VwQ+Gy+7jK/s3tzajpiitTalzPz/3akortfvGLPGz0Hh3bbBXoWQTtfIB/H3PuYNAHOATvx1l+iaZpt6oeUlFP7JBTDUwz2w5o=;WRYra2BGYsmnCpwoi2i/JQ=="
 ---
 

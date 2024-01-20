@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1349
         height: 900
+        isCached: true
+  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
+    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
         isCached: true
   - title: "The future AI economy is already here"
     excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"

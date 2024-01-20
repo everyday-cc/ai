@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 webUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 type: article
 quality: 54
-heat: 90
+heat: 87
 published: true
 
 provider:

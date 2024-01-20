@@ -1,29 +1,29 @@
 ---
 category: news
-title: "The future AI economy is already here"
-excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"
-publishedDateTime: 2024-01-16T07:31:00Z
-originalUrl: "https://www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/"
-webUrl: "https://www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/"
-ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/?outputType=amp"
-cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/?outputType=amp"
+title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
+excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
+publishedDateTime: 2024-01-18T17:00:00Z
+originalUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
 type: article
-quality: 59
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Dallas Morning News
-  domain: dallasnews.com
+  name: Barron's
+  domain: barrons.com
 
 topics:
-  - Meta AI
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uIS8PVTRkPHdE_IXTVcvx88SlFs=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/NK2WZ6G5HDEHMN4DJAHZXCUZW4.jpg"
-    width: 830
-    height: 467
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
     isCached: true
 
 related:
@@ -75,21 +75,21 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
-    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+  - title: "The future AI economy is already here"
+    excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"
+    publishedDateTime: 2024-01-16T07:31:00Z
+    webUrl: "https://www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/"
+    ampWebUrl: "https://www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/opinion/commentary/2024/01/13/new-ai-economy-already-here/?outputType=amp"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 59
     images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/uIS8PVTRkPHdE_IXTVcvx88SlFs=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/NK2WZ6G5HDEHMN4DJAHZXCUZW4.jpg"
+        width: 830
+        height: 467
         isCached: true
   - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
     excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
@@ -129,6 +129,6 @@ related:
       domain: nejm.org
     quality: 14
 
-secured: "JzQqp5qqdUglYb3m7jdDdNZiCi4GYoezEy0Ukua+6l9qlk/BRm4QgjqO+V7s9ROlcJifuLVNLgnU3Otot8yhlvQPfpjgoolRpraed7T2hoQPiVIZnYNXMvz71ce0RIVL5b9+Ohjf7PbysKFQj0oQpvNa3sa/ZTvVK0pY9RDRCCPKcE5pwQdBleTwRgTnRoBGVjV8hTjwxmgWx2fjImPQVRc7rZhNjEucovbPtfAqEY00ObV7/jk7Nb2nwavigZ2mcEe7EHerhAWO8xL1GAUm+62Q1GwLkpuKrVux/0/Q1muTmnCFaZ8DLdFQXLMeg4g1NQdKiVaGuF0zbfLDvcZB+FLluOggVmgQPg5wawLkcu0CmCZiF6lP7adui/2jc/lXTqv38Uzez5xOFHotJm5YA9aU/cGRnBy4Uyz04aktWaywXnxEATCEx2/VPEvMtT8foLdt/MaHxy3t5bYaLD9InSwDIXbmsf8bgslwYW8tihriTiuHeGg/7Hd93KTvFzGD1uauRTp18SFz8d/nBKx3tA==;x0oENCJf+eGpB6qn3zGK8A=="
+secured: "+JmTFAmj5QCKcrzdQbgKvYxo4N7OsVrNt6psenh4DihQeYDqwf5WIqaaDjJi92nmkz77PlktWjdc6DirQ+R4aVAAEcs08usRClfldpXchsukN9hbIK8hyFYBxhPcswERnnizkEEIdHLYDCT9hH70WVAsXfqwN9jBW2njCRk+dOpJ3DVd4In9TFWdxjaAOApzum2Z4ioWckMAkEo4eLRjjX6N6H4VWWGW7j+8WGzfaYgHBFdUhajCGJLJPk8x9+jLu16e2cSZYmGZSDd+dZAG8LoaRsrjdBKkFodBGxy3Nupgp6ygShIMKmyPqWtO5oo+HG2DmMT46tqlDdEZJrpOMoZvVIkvzvFj+P/a8f5zoFI=;MPKrj+NK8M1vYfa5iWaSTQ=="
 ---
 

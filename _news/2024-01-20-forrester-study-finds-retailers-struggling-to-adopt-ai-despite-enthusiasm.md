@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-19T22:35:00Z
 originalUrl: "https://venturebeat.com/ai/forrester-study-finds-retailers-struggling-to-adopt-ai-despite-enthusiasm/"
 webUrl: "https://venturebeat.com/ai/forrester-study-finds-retailers-struggling-to-adopt-ai-despite-enthusiasm/"
 type: article
-quality: 66
-heat: 66
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-19-at-1.10.43%E2%80%AFPM.png?resize=1028%2C1332&#038;strip=all"

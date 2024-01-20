@@ -67,6 +67,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
+    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "The future AI economy is already here"
     excerpt: "Tech insiders discuss just how much AI has disrupted the industry. Some are shocked at how fast it’s developing. And Wall Street is hoping AI isn’t"
     publishedDateTime: 2024-01-16T07:31:00Z

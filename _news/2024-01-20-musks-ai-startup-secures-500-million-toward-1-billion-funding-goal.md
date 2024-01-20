@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-milli
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -49,16 +49,7 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
 
-secured: "zPZaTjOxRyzo1UpJA6CHrRdt7euhcvLc6ccP5KC3Cpf9xSKxRd5Xs+3RQ29AkVQO08b2075C0RqAv86Og+FK7WNsMUSnKMHOs6n1/tPBWsj5dY0SyAjAIEK39/ZxglHRPdcn/o6DDyb46WFoZrmc3fU4ank+dWMRrvnRojIPZca8TRGwuRpKWlGZrKDp3nG8G9ozzX9KGAEsriyVD8CDzFp23mnkW5/uxxbStaRZ9dIvm/KUXsFsMYTOUFwzxgoivsUXReNTi4HKKdazljudXpQeLeboLaofu3hwLo8iBGHviTUI1uolru6rbf/mWcYEZwJB5iwBXVr5eOr6Zb1bQygWx9uKa46LdRreU3XJoHc=;YvaP8KwbWou9BC8Nv87HTA=="
+secured: "ZvJJGTxPyJ5lr2H/4e1KbyfUyB+xWIItljMX5qF4QEf2GSx3J/kFcZPkoHr9ak4/QDVsQWAHWpgkhwFqLzy24YcUbp/ctt55kNUn5R49AsUpdRzGPRSnKD0Qmmzu2K4xf4ltudiaGCN3Q+b0i84A3rwIk21A5MijyRxxfBGji3Xd7S3nMWKgTrMtqJIpbWPyM2ysBaCPw1KvCdSUFINgdQhR4SkYMPKGWZTDSAGO6xDZPYLspGy+WgPwUOg57kJIdtlZE4wRNpif+nm8F5yzjTiXeaCeYWPdVp8fiJNs4MlS5qoUC91inb5TfGX/QFoDexmgZXqRgFgjsCTx9aaul0EOZsjd/aQctAoxFCi5ISWSXdRR1Y2RCWXAhJd/tHmTYpm3oZ/tVSuaiV8eMlznwI3AV/KTzqwPRkvPia3Y8s5DKlTOxIjFQhcxMtPQnkN2KZWGxTfbSeNYdE5lUCSSgg/bZrFQuvzUiNXX2oJU8mG00bdEhh7xeexYyuX9oPCCedWZqg9K+PVJruzlProK6w==;hzovtt8oFoNFf3+MevugAg=="
 ---
 

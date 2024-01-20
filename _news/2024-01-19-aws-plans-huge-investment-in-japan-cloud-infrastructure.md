@@ -49,7 +49,12 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "How Utilities Are Mitigating Infrastructure Risks With Artificial Intelligence"
     excerpt: "As an application of artificial intelligence (AI), computer vision has become an efficient and cost-effective means for managing the growing burdens of asset inspection and"
     publishedDateTime: 2024-01-18T20:05:00Z

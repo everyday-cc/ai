@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia’s popular computer chips that are widely used for AI projects"
-publishedDateTime: 2024-01-18T13:16:00Z
-originalUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
-webUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
-ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
-cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+excerpt: "That suggests the company is spending billions of dollars on Nvidia's leading chips that can cost over $40,000 on eBay due to heavy demand. Zuckerberg said in October that \"AI will be our biggest investment area in 2024, both in engineering and computer ..."
+publishedDateTime: 2024-01-18T00:00:00Z
+originalUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
+webUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
+ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
+cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
 type: article
-quality: 54
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: NBC Bay Area
-  domain: nbcbayarea.com
+  name: NBC Washington
+  domain: nbcwashington.com
 
 topics:
-  - AI in Autos
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://media.nbcbayarea.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcwashington.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -296,6 +296,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "6dQSvFTKZ5NpVc/E6Abua/mJKyVVh94S2wnN2Goo+OalygW0KrWE803IsdgDDzUskGtwcVTZBpF8CYawaUokUND7gC4CRv6X9AAwOHHhuQq8nxAmWixEhvwM19632F+U/ZYrJMKOwykGakRGx4NcW1n4n5UEx2CG8RAU2f199vDOfikVFgtxN8OH+ONj7EUeX4dn7dM3jqpE4LsxermHcdmp/6AaDo4GDYmX0wR2ECLuoo30bZJsErsh7y2QE/7+ILi6MEtmMCdkZy/BTYeCHK4EzLBCNQWPJOYjBelC5aRAzdwhDZOK1ZzcNYg6Rwfvw5zt5LenooWDjSemV5SQ/Lzj/XjfUWrxOom/EzDV9pI=;rGwFPXUeC6LFef86M1lTDQ=="
+secured: "EOC5OVi8q8oOMpQ+tjp+Ih5ro+av0EaWkChMoHM9ZI0j3CFqTOQ3YCKpbSSqql6nKiGZAu2RcEi67tsTKMenvfZyI2R1lNVmBtkG5Zo3cgPZ3BySnNJc61FspKM4tH4yfBM8JD0P4FpSHIoRc5GrJsJBv+TwMSoQChZueEqloPd0A5Nnc3dJ27Gg8wT//Etg06DQc+08STNYhhr4KRPzk1FkILsY9tyyUj5bhpC6L/ssWNkofsjZnDMZYdKHk8E+plMT6S+1HSvDxWfm5rDeo1j4U3HaxQwfu4o6YOjm/FAl+MINerWwovnWqPdtQWiLwhHIhdjt+aXIMCO2l0L7K/ToTUBCKvHBk8wAVHa1gvo=;92JJAcSog0cjI5BcXyd2MQ=="
 ---
 

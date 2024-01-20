@@ -49,15 +49,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 44
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
 
 secured: "cz+8YcajFarZodxUILxI9PVasR76vsEaWUGWLxVOnR/4/L51csopVbNhgx2s6gPmSoEK6JWDx2x+x+xFRJ3ZL0/Vz+Q2SGJvsVwlco2/WGHnxR911mwYM+i8vZw2c/cy30JezcDVxPZboJ720U8AkMfic+N/usXu8o1fb4Y00cKxQ9hQA+Q529lP+lKs+mn/BmXL/UZbNwX9N43l+OScVEm68ZHs8Dbc9Ibg/04AmAQUXcUECUXu8MhV+nrZwM4nhtj2OsZ+f80MBO7fa39J7dT6lSmkQyHuEaX1R1+KIeM1H2LFNw5Sp9Hc3f0v99wGhixk5KhGLYWnaOD54FCfAOIlcTXHqn2CZVCfJHHcHI8zSu1SIkfabLRx8m4lPToKYbFznZDhwZjzWFxbXJCfzgzvLNDNpc0Vcbcq6ZSmM+TRRzxHgF2tD3LxsMCTzcRFZgizPNe9KNJxLL+d9TTSM9jOv+7RrAZXxIeSb+mt1hr3VFOG6mAxsmNOKiFNup3oYeOyJgWeMyQV9W9J0Xq7Fw==;MKtAhfbO6hWF2xIDW3Ndzg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/"
 webUrl: "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

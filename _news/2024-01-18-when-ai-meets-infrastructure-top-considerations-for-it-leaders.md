@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
+    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
+    publishedDateTime: 2024-01-19T20:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "AWS plans huge investment in Japan cloud infrastructure"
     excerpt: "Amazon Web Services plans to invest over $15bn into its existing cloud infrastructure in Tokyo and Osaka by 2027 to meet growing customer demand"
     publishedDateTime: 2024-01-19T02:25:00Z
@@ -45,15 +59,6 @@ related:
         width: 500
         height: 354
         isCached: true
-  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
-    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
-    publishedDateTime: 2024-01-19T20:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "How Utilities Are Mitigating Infrastructure Risks With Artificial Intelligence"
     excerpt: "As an application of artificial intelligence (AI), computer vision has become an efficient and cost-effective means for managing the growing burdens of asset inspection and"
     publishedDateTime: 2024-01-18T20:05:00Z

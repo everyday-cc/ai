@@ -7,7 +7,7 @@ originalUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
 webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How satellite images and AI could help fight spatial apartheid in South Africa"
+    excerpt: "Townships get little by way of public resources compared with rich suburbs. By mapping the problem, researchers like Raesetje Sefala hope to reverse it."
+    publishedDateTime: 2024-01-19T11:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/"
+    ampWebUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/GettyImages-497332251.jpg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
 
 secured: "JTk551kneu3pyPWynS4Rv79M7f/OhtvvFHPyL7Wppwf3KCQLNqXGQyRJwd9Ihrc1x3Ch32WZnLOE401XZHKB6su8jQd7UHBkdjuqovmWkN/p+MBDiGqQQZ6CdSacPP2/hY2UpFgwE/cPRzUA99qFgBjFlqyT+5YdA7TTJTPH7IEUC6iOfGwT17EGoKoz9AaAPWWkafKZRBECJClju/7t1uBKGo7L7f2pJRLBeDIKer9W0D6FQNMwY/Fru2JU5rYF9ti5QjVA5MHxTeKOnTE9nMXAJ08QgnJghHWCP/VvV6sfsvQqUdi9Lwov2Pr514gM5RMsh0yNMdkwfNOyEcyC0v/M0GPi/wle7IlZzxccqaw=;6j/nbpty72ff9qn1xJmldQ=="
 ---
