@@ -39,20 +39,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Artificial intelligence, automation and robotics"
-    excerpt: "From the UK government’s publication of its long-awaited AI whitepaper to its convening of the world’s first AI Safety Summit, here are Computer Weekly’s top 10 AI regulation stories of 2023"
-    publishedDateTime: 2024-01-15T00:00:00Z
-    webUrl: "https://www.computerweekly.com/news/Artificial-intelligence-automation-and-robotics"
+  - title: "Musk wants a bigger share in Tesla to grow AI, robotics business"
+    excerpt: "The controversial tech leader suggests he would take these products outside the company since his current stake allows him to be outvoted by the board at the EV manufacturer."
+    publishedDateTime: 2024-01-16T12:56:00Z
+    webUrl: "https://www.computerworld.com/article/3712244/musk-wants-a-bigger-share-in-tesla-to-grow-ai-robotics-business.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 71
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
+      name: Computerworld
+      domain: computerworld.com
+    quality: 66
 
 secured: "xDOEA5VEs8S+6ZopB9lFOaiekFa4rWYiavxz3YqncmqtnREOJUE0O41ne8vtILtHQnQA0KrlY7U8ErzI4qizPcMi31xUaJu1Oh05SyHt9LrOn1+IAmZ9cBmwl1pmFzqBnZCGyg0MGDOCpWoTnsfZ3qruMR+tupDABY9CYpKfBXVjEAYu/bKj9Kn6jFXr1WwIy0DOeXN3vT9kwll9Nt1uHa/ecmil++UyVJBgY2lIk+o21iN3MKnOxBXu4ItdchpYOk+wQmSJ3bx4WdHvZ19z1CDILlVc/+42q8ixaJgUS/gvfYUnWdkfxVcaa+rLd5clp4RKuXN8XlEyN6rsMVGi/16O9Gba4CwxWaxFsa8LcXfR/El6oRUoCaA4Y48mAu5Oa99PmBbDZ1pjhIzTfM+KEFOuqC976Ijud6WIBd2IF2AOneyrsroyGA3sub2v8Qq96DfJFSJP010TNVk/jhgHnHxeNN52fQCF31FyE1TzebAYdxpztfzwmZXuAThEfdLuTjB9mERR26om6DHzyM6GKA==;opnBfJY7MHmLX6QnV6V79A=="
 ---

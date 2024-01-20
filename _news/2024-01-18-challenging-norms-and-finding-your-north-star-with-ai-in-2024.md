@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating data challenges and compliance in AI initiatives"
+    excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
+    publishedDateTime: 2024-01-19T17:32:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Challenging the misuse of AI in insurance"
     excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
     publishedDateTime: 2024-01-18T18:46:00Z

@@ -33,6 +33,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "IBM rolls out AI services platform"
+    excerpt: "Consulting has launched IBM Consulting Advantage, an AI services platform designed to support IBM consultants serving"
+    publishedDateTime: 2024-01-18T14:15:00Z
+    webUrl: "https://westfaironline.com/technology/ibm-rolls-out-ai-services-platform/"
+    type: article
+    provider:
+      name: Westfaironline.com
+      domain: westfaironline.com
+    quality: 19
 
 secured: "AOEbZeVScCGCffO8pU+vY2BMsPTmOjPiz+mbL5c0wriLTvGX7qyfYH4cgM8/CYkS2y31irFF003A8OW3pnaklu7Js28I4BHU8F2jNBYdZeVbFNGK9lc8OAkt3HnCLUoxN/lG+5OENl5YejNDUp7iAQDwxAqdQSn0z8hJkPjnu0vJwANrSH9h0LRqB8xjN1zh7DT91b/uEziVSyOUfRanNvz+GishWWBNKrTr2K6a6CoqQ8fcE/vfBfmL1CCTcgbwCiOj7eVX5+xzfD4NMSDPUUbRpaZryNSDF2Z/uYCPhEQdTzMzpKt7vLfSn8EVeIJGAY8EY0U2t/wk7bWl2ICBrjojKI0FsEW/ivxKoVuHiXo=;njEpZ0ms223BLIk38wl6Pg=="
 ---

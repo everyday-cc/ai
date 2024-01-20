@@ -453,6 +453,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
+      "title": "Neural implant can read deep neural activity from the brain surface",
+      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
       "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
       "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
@@ -473,6 +516,49 @@
       "provider": {
         "name": "GEN",
         "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-machine-learning-statistics-facts.md",
+      "title": "Machine learning - statistics & facts",
+      "excerpt": "Of the forms of AI used, machine learning is the simplest. Other AI subsects include deep learning, neural networks, and natural language processing. Machine learning uses datasets to categorize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "originalUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1200,93 +1286,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security.md",
-      "title": "The Role of Artificial Intelligence and Machine Learning in Gaming and Cyber Security",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) have become essential tools in the gaming and cybersecurity industries. As someone who has experience in developing machine learning models to identify fraudulent activity and maintain safety in online gaming environments,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security/",
-      "originalUrl": "https://techbullion.com/the-role-of-artificial-intelligence-and-machine-learning-in-gaming-and-cyber-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/1-73-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-23T11:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-how-machine-learning-might-unlock-earthquake-prediction.md",
-      "title": "How machine learning might unlock earthquake prediction",
-      "excerpt": "Researchers are applying artificial intelligence and other techniques in the quest to forecast quakes in time to help people find safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/",
-      "originalUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/12/Namazu-e.png?w=2350",
-          "width": 2350,
-          "height": 1322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-12-22T22:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null

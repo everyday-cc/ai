@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/law-order/2781574-ai-start-up-c
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/law-order/2781574-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody?amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Start-Up CEO Accused Of Killing Minor Son Sent To 13-Day Judicial Custody"
+    excerpt: "Seth (39) allegedly killed her son in a service apartment at Candolim in Goa and stuffed his body in a bag before taking it to neighbouring Karnataka in a taxi."
+    publishedDateTime: 2024-01-20T00:58:00Z
+    webUrl: "https://www.outlookindia.com/national/ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody-news-344212"
+    ampWebUrl: "https://www.outlookindia.com/national/ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody-news-344212/amp"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody-news-344212/amp"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 54
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705038817.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI start-up CEO accused of killing son remanded in 13-day judicial custody in Goa"
     excerpt: "Seth (39) allegedly killed her son in a service apartment at Candolim in Goa and stuffed his body in a bag before taking it to neighbouring Karnataka in a taxi"
     publishedDateTime: 2024-01-19T12:00:00Z

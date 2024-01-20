@@ -149,20 +149,15 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "NVIDIA secures $1 billion+ AI GPU order from Indian data center operator Yotta"
-    excerpt: "NVIDIA will continue to struggle doing AI GPU business in China, with the Indian market now opening up with a huge $1 billion+ order for AI GPUs."
-    publishedDateTime: 2024-01-15T00:03:00Z
-    webUrl: "https://www.tweaktown.com/news/95571/nvidia-secures-1-billion-ai-gpu-order-from-indian-data-center-operator-yotta/index.html"
+  - title: "Zuckerberg’s AGI remarks follow trend of downplaying AI dangers"
+    excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
+    publishedDateTime: 2024-01-18T23:19:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 50
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95571_59_nvidia-secures-1-billion-ai-gpu-order-from-indian-data-center-operator-yotta_full.png"
-        width: 1500
-        height: 857
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
     excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
     publishedDateTime: 2024-01-19T03:50:00Z
@@ -236,6 +231,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 15
+  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
+    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
+    publishedDateTime: 2024-01-19T18:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
   - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
     excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
     publishedDateTime: 2024-01-19T00:05:00Z
@@ -259,6 +263,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 12
+  - title: "Meta's Billion-Dollar Bet On Nvidia's AI Chips Could Reshape The Tech Landscape And Catapult Stocks To Unprecedented Heights"
+    excerpt: "Meta is making a significant investment in Nvidia's AI chips, a move that positions Nvidia as a leading player in AI chip production. These sought-after H100 graphics cards from Nvidia, essential for advanced AI algorithm development and implementation ..."
+    publishedDateTime: 2024-01-19T14:15:00Z
+    webUrl: "https://www.benzinga.com/24/01/36700357/metas-billion-dollar-bet-on-nvidias-ai-chips-could-reshape-the-tech-landscape-and-catapult-stocks-to"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
   - title: "Artificial general intelligence — when AI becomes more capable than humans — is just moments away, Meta's Mark Zuckerberg declares"
     excerpt: "Mark Zuckerberg said Meta will have \"an absolutely massive amount of infrastructure\" in place by the end of the year to prime it for training an artificial general intelligence model."
     publishedDateTime: 2024-01-19T18:11:00Z
@@ -283,6 +296,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "rUp7KSEH0IqNVo0+8dv1LB2w0sKPx2ACB8sBNrOakcF4vpgXwv3wTsI2vxFa6ZpFCtTt/EZI9upctDtLGlZlKXCn8z5rIrB+BBkQMjZ6630ZlYPCqO/vN0RkcnYV7LUctndT12l+1A+hPHNMJWEsNZTDu0okLPUKgdrGbZzL8Pd4f1944TZzoRLhNROmRYPFJ/0RX8CCQ7weZh9zIHizhsWv0b5F9y/R3JAWKHuiZdW0QKCJQKdGWXjKeY48SVIn/5JC7aeNoMS8p4NPWtSkAMr5MN8u5ec4PXlIpezLPwn1CD6J3ry6amrbGwSdlet9+7x+Ew/4w2FoC1Zf1spWPy4J9N7qL2St1oV9I60ASVY=;5+5VIumcoW1VZ/Pd35SvsQ=="
+secured: "X5h6xXja2dWyjHAnVTQWYh4j16xtD9JFqHHQTwrtgTrMRjVj8nU/mMvcA2o6IktMk4DI7o8Lrxlymo8EmqNX5MzH7J0BRPvvff6IK9oA67tirX5SYaA2kSS4ZvvfWL9QewC3QU3ZCj+qjERMnXqSNWavEpiqMwcLpbhKMZhMMfHlClHaLxQWpIT248o1JwFXQ46MEZm33QbT+H/+KpEEwsPqDdqUOe09SIQCRhGxblaqgON1YtV+aeGbQJTZNYYcTlqy/5upeR2WG/JvSvEZSWr03KlnaV3KwhUQx9AJ7AOaGY1QDEzQ1wyZETVh6wWkr3Kag1RwMs5e3QM05qSraD/SLyVIqJLDO4L/iLOFN2PRrBqZJRE8KN4yZQmDAtWSv2oV3YPzZuyvW9MQR237dg+x4mTBCw5+Cf8VQi8KdXTC8Lrr4o49nJAGJUUwVxvkgRNlPy1XWX3qIN/8Y3B0pN71vW9UmoJ1yPmJIdQvhuCioosEmRgufa2nsWxAdVCPKIBb9sVw/wdAiMwFxlZeWw==;MjRGDWzMpydneyvY/g7opA=="
 ---
 

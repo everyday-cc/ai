@@ -58,6 +58,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 25
+  - title: "AWS will invest $15B+ in Japan to expand its local data center footprint"
+    excerpt: "Amazon Web Services Inc. will invest 2.26 trillion yen, or about $15.24 billion, in Japan through 2027 to expand its local data center network."
+    publishedDateTime: 2024-01-19T19:08:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/aws-will-invest-15b-japan-expand-local-data-center-footprint/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
 
 secured: "ybqUYq9A+opjoo1CQG65Pzy6TDirWey8YxxsUuw91jw+AvTvrl0BOz9R54lwUotBM6rAOoZ75+URFn3Mgle5t85wRVdbvafK67Tc3r7ujuB+qUr/9WZjXaSuDWqtSZ9+X6HMYVxJ50u2qHD0PBaMHWzqJ+1o5w7/Zgs+Xe7Dj0Jc6RRnHHvp0P3QVQnDyS6dL3ycoyH5uoQCgh94cd4aWRBGJNXq3P6rr7EZ3faN0SLetcJ51iojEpW8eDuHLJGtDmN2ZJYLcXSdTK1G87yopT5JdV//OKBGz72EzyicQXQS6IVWvYidbwKUK/PY7RWHk5NQMKC7yuQRH42C6/m9vxE1xf26NqdIxaHkUGTPu7Cmw3Xyo4/bJYSscGM4IyR6JA8ceTB4iCUEAaGQgz7AA8qObSSe0PBni56IXuwzke17404fh34ywDtvOVyCfhi+QwC3FzYwIVRHTlcN1c37RvIGPG9B51QtiKRzZHKfkdgErLuHLbKMZxeHoJkqjGBIQlWAXUieUwnBpqULU4PDKw==;o0BSCEuuSwoi5S15xKdIGQ=="
 ---

@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
+      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
+      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
+          "width": 1280,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
+      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
+      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
+      "sourceUrl": null,
+      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T07:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "morethandigital",
+        "domain": "morethandigital.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
       "title": "California considers artificial intelligence to improve traffic",
       "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
@@ -41,6 +127,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
+      "title": "Toyota combines voice, gesture recognition in new operating system",
+      "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "originalUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T04:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -153,6 +273,49 @@
       "provider": {
         "name": "AZOM",
         "domain": "azom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
+      "title": "Neural implant can read deep neural activity from the brain surface",
+      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -768,6 +931,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-10-machine-learning-statistics-facts.md",
+      "title": "Machine learning - statistics & facts",
+      "excerpt": "Of the forms of AI used, machine learning is the simplest. Other AI subsects include deep learning, neural networks, and natural language processing. Machine learning uses datasets to categorize ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "originalUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
       "title": "Microsoft Azure - statistics & facts",
       "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
@@ -807,204 +1013,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
-      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
-      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
-      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
-      "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
-      "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
-      "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
-      "originalUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
-      "title": "AWS Announces Inaugural Education Accelerator Recipients",
-      "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
-      "originalUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/d492891/2147483647/strip/true/crop/5120x2489+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F46%2F22%2F58ae34074806a39b762607ab65ab%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzk1MTczODc0L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2MzkwOTA5NDEsICJtIjogMX0sICJQT1o1bVMwL1IvcWxmNHhRQ2gvVE44VDB2VGsiXQ%3D%3D%2Fshutterstock_1795173874.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-executives-meet-your-new-intern-artificial-intelligence.md",
-      "title": "Executives, Meet Your New Intern: Artificial Intelligence",
-      "excerpt": "Organizational shifts prompted by AI are already happening. It’s only a matter of time before it leads to job cuts.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
-      "originalUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-companies-use-artificial-intelligence-to-cater-to-animal-lovers-at-ces-tech-show.md",
-      "title": "Companies use artificial intelligence to cater to animal lovers at CES tech show",
-      "excerpt": "From cat flaps and dog companion robots, companies are using artificial intelligence to cater to animal lovers at the CES tech show in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
-      "originalUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dims.apnews.com/dims4/default/45fef77/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F04%2Fad634d426ee428ddbd2c4a7b3b3e%2Fus-nv-ces-pets-artificial-intelligence-20240109cr-1920x1080.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T22:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

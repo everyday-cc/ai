@@ -33,6 +33,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bard Inbound for Google Messages to Help You Compose, Translate Conversations"
+    excerpt: "Prepare yourselves for the arrival Bard, Google’s conversational AI, in the Google Messages app. With it, you’ll be composing messages, translating languages, and so much more. Detailed by the good people at 9to5Google,"
+    publishedDateTime: 2024-01-19T23:04:00Z
+    webUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/"
+    ampWebUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
+    type: article
+    provider:
+      name: Droid Life
+      domain: droid-life.com
+    quality: 56
+    images:
+      - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "You say ‘Allo’ and I say ‘Bard is coming to Google Messages’"
     excerpt: "Bard is coming to Google Messages to \"help you write messages, translate languages, identify images, and explore interests.\""
     publishedDateTime: 2024-01-18T17:06:00Z

@@ -42,6 +42,33 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
+    excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
+    publishedDateTime: 2024-01-19T19:13:00Z
+    webUrl: "https://www.ndtvprofit.com/technology/altman-seeks-to-raise-billions-for-network-of-ai-chip-factories"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 34
+  - title: "Sam Altman seeks to raise billions for AI chip factories"
+    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported, citing people with knowledge of the plans."
+    publishedDateTime: 2024-01-19T20:05:00Z
+    webUrl: "https://www.itnews.com.au/news/sam-altman-seeks-to-raise-billions-for-ai-chip-factories-604244"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 34
+  - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
+    excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
+    publishedDateTime: 2024-01-19T22:45:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/openai-ceo-sam-altman-reportedly-seeking-raise-billions-chip-fab-venture/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
   - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
     excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
     publishedDateTime: 2024-01-19T13:34:00Z

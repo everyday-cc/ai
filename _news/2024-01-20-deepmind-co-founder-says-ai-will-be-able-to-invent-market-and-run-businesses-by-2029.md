@@ -116,6 +116,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 63
+  - title: "Google DeepMind Scientists in Talks to Leave and Form AI Startup - Bloomberg News"
+    excerpt: "(Reuters) - A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations."
+    publishedDateTime: 2024-01-19T19:31:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-01-19/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "DeepMind AI solves geometry problems at star-student level"
     excerpt: "An artificial-intelligence (AI) tool can rigorously prove whether geometric facts — statements about two-dimensional shapes such as triangles or polygons — are true, just as well as competitors in the International Mathematical Olympiad, a competition for school students. The system, called AlphaGeometry, was described in Nature on 17 January 1."
     publishedDateTime: 2024-01-17T00:01:00Z
@@ -237,6 +246,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "AI News: Google DeepMind Experts Plots Breakout for New Venture"
+    excerpt: "Two Google DeepMind veterans are plotting a breakout move for a new venture amid conversations to raise $220 million"
+    publishedDateTime: 2024-01-19T20:14:00Z
+    webUrl: "https://coingape.com/ai-news-google-deepmind-experts-plots-breakout-for-new-venture/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 34
 
 secured: "VXj16DErxWORvBKHltNxJpcNyvkD3WhxYym4fXNeGe1IpFS9wrHdFgBcRAu9JEJto90iroG9YX1THCTwHrhc57cQ6wbaXEGOvBG6oiPjfuS7rIuzMyvbTUmCmho04aL4NYWK6ijA2BdPW3QFiPdLOJ8SMKOJxTYby8GO0RDfkxWgJtdyNaGi+uPMc9G7yNZBqrSdzs9yMLJWF/S7LHCiYw5Y/xSOdpKYbQGAHlcFeIp7x9BZ3p5xNtSyQMS+4atPLx54UKqGvBkACUqG1om7CAERcYj/iNMr0yPn7AMryXtdsGI7t+GKHiVutEjo1kULBihUZwblnAZqFbFJwjbumo/JYNM7JlxzuA8X6iVcLysZzUmDSQAun5cICRwmOYDdJnSVmImlhcSCGW7EZDnklBv9X3LYz7UIalNrH38x3YMeaUOJi2QFseRlStwpX3okoi3EucBi7L5Z3Y7d5GtaU9ke3Lt555lr0pAZuL9IcKil8ymhA+LtXGsiEK64zUksHgWGhiRKwSR3jOXQxZZ5AA==;iPbV7sHlACzZD/zB+DaCYQ=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-
 webUrl: "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-ai-stocks-to-buy-in-2024/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 82
+published: true
 
 provider:
   name: The Motley Fool
@@ -26,6 +26,26 @@ images:
     width: 2308
     height: 1298
     isCached: true
+
+related:
+  - title: "Meta Platforms Is Wall Street's Top Internet Pick, Analysts Laud AI Investments and Advertising Strength"
+    excerpt: "Several Wall Street analysts hailed Meta Platforms Inc (NASDAQ:META) as their top internet pick. The analysts included Baird’s Colin Sebastian, JMP’s Andrew Boone, Truist’s Youssef Squali, and KeyBanc’s Justin Patterson."
+    publishedDateTime: 2024-01-19T20:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/meta-platforms-is-wall-street-s-top-internet-pick-analysts-laud-ai-investments-and-advertising-strength-1032980967"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Wall Street Analysts' Top Picks: 2 Artificial Intelligence (AI) Growth Stocks to Buy in 2024 and Hold Long Term"
+    excerpt: "Wall Street seems excited about cybersecurity and artificial intelligence (AI) in 2024. Wedbush Securities analyst Dan Ives said he believes cybersecurity will be the best-performing sub-category in the technology sector this year. Similarly, Morgan ..."
+    publishedDateTime: 2024-01-19T22:55:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PANW-Q/pressreleases/23454144/wall-street-analysts-top-picks-2-artificial-intelligence-ai-growth-stocks-to-buy-in-2024-and-hold-long-term/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 12
 
 secured: "sJQo/HTBYmkrJtPrMKFlFe62aFb8sI4qfQIAY30Xwv2Tkbpsc1o9OYpSciJxU4ZwAlIABRzrJmP7/v796Tbw5gBBLQY3MIS28W21CMi5tp7+E33Icv1m/ayNmRJKHdkcKOPCGCwruGFFOO8UOB5ILwqViPGFwDkF7mNwrjqle16KWCVRG2HzfuKVWYKYF23dfzZy2304eF4EwPTPgo+1Hdqw4fR92ZwD9fH6Bu+XK4dde4jwWTROqpVKzUwKBpZZ1tmQjfTdGrJc+Uy5obbFg6woVHicvzSwl9cewQMgExdlj5ObGhCW0u+ANN79jjEk8/XAbUTcN1efSzuXBeMtWDtSDjrrIKZEeAiGhqC/T1k=;s2aBNXcJWE1Dpb2hfM+cHA=="
 ---

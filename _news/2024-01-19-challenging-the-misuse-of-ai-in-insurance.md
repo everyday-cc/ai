@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Navigating data challenges and compliance in AI initiatives"
+    excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
+    publishedDateTime: 2024-01-19T17:32:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
 
 secured: "HKkB72yCzFaosl0EpqV9/FjIw/3Yyaz/Q7Ic0G6X52DCP0D4B85jRTZP6SPo/x7k6AhN0dJ817zbJZ3VYYFvPyP30S2EZ0BN8c5Di9y8vvn6WBa6ezaeTVhcHdwlzO/l6ytueQA8c1UMFUPlfH/zVUSHyfi30GRurH3GaGRZK3Sz4nkdr+WrYj+txH6wSRRs6gGM39nCxL05Kv9P+k037rtsdDZAFFz8enMdGbrvjJT3r6Orc0pqOsyqhxuxY+zy6xO+ZB0TDwak7WXXkCwcVBb5FNdgxCLkYLk0hKWRgay/N/JraTKPsxonoKlU3jeoD13R22hdWX68prNroQRQY+oH+/O3JDVHrQ53bhVMTNzY6odObM0bymnDaef58d6K4n0p8zefUfmwBoAqkBIOFDPQioWM2phy7Iwwhm1OgU+79olmuD7phq/+YVF/yJ03BSL0/bYnKgM5PtxObKFVh7HVq2d84uuACBhsUC+0MkA4nZaQMlv4XCojywyomKAoqIuzu5H0bx8/N3FjEkA84Q==;TwAPn4WdD5/qk+5SgvqV6g=="
 ---

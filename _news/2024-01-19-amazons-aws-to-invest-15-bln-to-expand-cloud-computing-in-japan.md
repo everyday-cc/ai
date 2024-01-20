@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 25
+  - title: "AWS will invest $15B+ in Japan to expand its local data center footprint"
+    excerpt: "Amazon Web Services Inc. will invest 2.26 trillion yen, or about $15.24 billion, in Japan through 2027 to expand its local data center network."
+    publishedDateTime: 2024-01-19T19:08:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/aws-will-invest-15b-japan-expand-local-data-center-footprint/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
   - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
     excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
     publishedDateTime: 2024-01-19T06:01:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "IBM rolls out AI services platform"
+    excerpt: "Consulting has launched IBM Consulting Advantage, an AI services platform designed to support IBM consultants serving"
+    publishedDateTime: 2024-01-18T14:15:00Z
+    webUrl: "https://westfaironline.com/technology/ibm-rolls-out-ai-services-platform/"
+    type: article
+    provider:
+      name: Westfaironline.com
+      domain: westfaironline.com
+    quality: 19
   - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
     excerpt: "ARMONK, N.Y., Jan. 17, 2024 /PRNewswire/ -- Today, IBM (NYSE: IBM) Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering consistency, repeatability and speed for our clients."
     publishedDateTime: 2024-01-17T18:06:00Z

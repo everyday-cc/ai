@@ -24,6 +24,17 @@ images:
     height: 394
     isCached: true
 
+related:
+  - title: "Youngkin signs executive order establishing artificial intelligence standards"
+    excerpt: "Gov. Glenn Youngkin signed an executive order to implement artificial intelligence standards and guidelines he says will protect Virginians."
+    publishedDateTime: 2024-01-19T17:15:00Z
+    webUrl: "https://www.thecentersquare.com/virginia/article_b21b9fe0-b6f6-11ee-8b5a-bf5bcee7e2aa.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 14
+
 secured: "Qmlc81zTWkfuM9YiQG1+XaQtZfPNPxxyJzeEandWTBDmpEvwhz/KSTX9bfO/BfofLLtSIHx7Cc3kFPQvCP+JACePyxdIkVdZM6GIxyzUQlpa/HY9BroX7x0R1aVS1EcIVJYTP+Qg55b3M/x2Zv14nq3oEa2mqMhhoK4qHZ3Ja/1whZNPNWwkKSfGXl0/vCBiic0TbtUEw2eCjJryzpqxzx5cwa1MoA5hxd+wd7JqeZuuLMIYH90OGJo5HaQFvfertKGCObmDeOOAWobLCZBAXTFEUp3NqFVew8F5SGP2l+q8udBgS8TcFY4sAkhHszi1fNq9cZVLUPhDi4LX7vArzoqiGT0ufC68/wdqP0ro3Rlaev41lx7TbUx6f6Yq4PhtZboIcyh3yfTKryCZfmbzvVoIY4uncNVWrgvzDDcfc3zv5RRhWdo+4VZr0QgttCjdSasrQrGqHuTMEM0MDqQO90Wgor4F5nHBi77e/2n7GF8lH3glzgex0BM9NN1gEc9aKysUqCNVgveen1c6YRshCw==;OesTzjTyB5zcFS9G9ZvG6w=="
 ---
 

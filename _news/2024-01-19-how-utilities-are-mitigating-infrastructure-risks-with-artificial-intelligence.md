@@ -56,6 +56,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
+    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
+    publishedDateTime: 2024-01-19T20:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
 
 secured: "Fs8+hL2tnD6emC3Efd2tR8aS4oMVYM7HsuHy3H35VeL/6BrnOSvQD746JzKdCPatGAmAuQndjMdXI+KH4tUhIFecNKDYezskKnOHOfZKQfdWi3zU+w2IQgOrVnYhRKXwZnhKgECFTew2O/7L4IaIylcRR6bWLQVS6HDSJX0xR/zuQQRz5m6PJsGgp0l7rLHPR8KlpOQ1RD9rGB7iGaGAELbKomQuJCZaJUrVjU699nKDVX8gu5kEUFqoWLUP2VeUZU7QB3KucwYQteFk4aqysRMMW2PgkO9nMKreOjWhIrv3ruxiBqdGkkICJRKvOVYmarahEB9MzB+ve1vgskIwVOAZ7X1FZKo8mgTL2FkUt8JwdXfJfXmG/z1DOZuH3Vf1FWA898/IRIHvJvbWCXMxTRrGE3IH0MUzvlf96KtFxSFp/jDiAVh/zkg39T7Fbsv1K0LNMb4qJvv5zFZaXAJRVB6k7t8IjnTV+6XntbiXBBxeMCKaZIcfXEhX5GEV9m6DVSfjuQqN3WTz2iRuK9EBLw==;1xPObJee1WgpCPha8Hdwdw=="
 ---

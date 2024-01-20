@@ -30,20 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, automation and robotics"
-    excerpt: "From the UK government’s publication of its long-awaited AI whitepaper to its convening of the world’s first AI Safety Summit, here are Computer Weekly’s top 10 AI regulation stories of 2023"
-    publishedDateTime: 2024-01-15T00:00:00Z
-    webUrl: "https://www.computerweekly.com/news/Artificial-intelligence-automation-and-robotics"
+  - title: "Musk wants a bigger share in Tesla to grow AI, robotics business"
+    excerpt: "The controversial tech leader suggests he would take these products outside the company since his current stake allows him to be outvoted by the board at the EV manufacturer."
+    publishedDateTime: 2024-01-16T12:56:00Z
+    webUrl: "https://www.computerworld.com/article/3712244/musk-wants-a-bigger-share-in-tesla-to-grow-ai-robotics-business.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 71
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
+      name: Computerworld
+      domain: computerworld.com
+    quality: 66
   - title: "Robotic AI developments on the horizon"
     excerpt: "The world of artificial intelligence is exploding at the moment thanks to huge advancements in AI technology and services made available during 2023. As a"
     publishedDateTime: 2024-01-15T11:10:00Z

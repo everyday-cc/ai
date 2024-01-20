@@ -108,6 +108,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Google DeepMind Scientists in Talks to Leave and Form AI Startup - Bloomberg News"
+    excerpt: "(Reuters) - A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations."
+    publishedDateTime: 2024-01-19T19:31:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-01-19/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
   - title: "DeepMind AI solves geometry problems at star-student level"
     excerpt: "An artificial-intelligence (AI) tool can rigorously prove whether geometric facts — statements about two-dimensional shapes such as triangles or polygons — are true, just as well as competitors in the International Mathematical Olympiad, a competition for school students. The system, called AlphaGeometry, was described in Nature on 17 January 1."
     publishedDateTime: 2024-01-17T00:01:00Z
@@ -229,6 +238,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "AI News: Google DeepMind Experts Plots Breakout for New Venture"
+    excerpt: "Two Google DeepMind veterans are plotting a breakout move for a new venture amid conversations to raise $220 million"
+    publishedDateTime: 2024-01-19T20:14:00Z
+    webUrl: "https://coingape.com/ai-news-google-deepmind-experts-plots-breakout-for-new-venture/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 34
   - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

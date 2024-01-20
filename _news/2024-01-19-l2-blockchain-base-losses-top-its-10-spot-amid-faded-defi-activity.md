@@ -7,7 +7,7 @@ originalUrl: "https://invezz.com/news/2024/01/19/l2-blockchain-base-losses-top-i
 webUrl: "https://invezz.com/news/2024/01/19/l2-blockchain-base-losses-top-its-10-spot-amid-faded-defi-activity/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "How the blockchain could solve one of AI’s biggest problems"
+    excerpt: "\"It would be impossible to train today's leading AI models without using copyrighted materials,\" OpenAI recently said."
+    publishedDateTime: 2024-01-19T16:06:00Z
+    webUrl: "https://www.businessinsider.com/ai-copyright-infringement-problem-could-be-solved-by-crypto-blockchain-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "/a7CpOmAHyePrKf2KDkZQU5l/HMshKBRdmfDbA7nDFgjYN0EZQV5b+EH9jTWAQZVPg+nItOUtzitfCGIwFf9pnO24BQRJqlvCynKA+25EWJ2uQIkXW7HkPRXoxojDsYpn4yuZZmFJBNPCjbl3Cp2+ieY3nNDRVpUivnW2Y3FYIzeSU1AVB21JYItCqvULVfocGGoMfUf3i+QLAOW1f3Lp489Rhu0ZvS7qlvQaZiWie4PVvQvdgSgDxp3dPAJEfuQrR3i2xRa7HMd1wg7SfdR09Q1wzlD3dOqWCQac/6e45GtcuaTQEuqyDsNeaZUUNI48cfUg8qg5FzyD3oU7Qhyzls7+kp99x9u0yZ8sw4p/IX2qM+quZAXFJRPoaQYBKpTj6DBAV/3UN7mPchtM/KJK0odH7VvTWwcqn+QlW2V2wKECoIbTUK6zr+jR2FajyzN88/u6DGrhfczgi36U36RlFfATNL2G/ApRMP1mAG5NRB47eSnkXbUsmhis5k3vIjxErD3yp0ZelODKi4pgMEzvw==;bVaMP0/BFJvykCQgXFkZgQ=="
 ---

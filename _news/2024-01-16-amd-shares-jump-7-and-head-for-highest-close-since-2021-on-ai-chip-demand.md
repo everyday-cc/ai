@@ -49,6 +49,15 @@ related:
         width: 2500
         height: 1282
         isCached: true
+  - title: "AMD shares jump 7% and head for highest close since 2021 on AI chip demand"
+    excerpt: "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence"
+    publishedDateTime: 2024-01-16T19:12:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/5044980/"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 32
 
 secured: "/YsWOuM4wuyw+1PjP2oI4DI7riDEdwEL79gxcsz5LF1ihrl5sYuMmJmbwdE7yxe3mE7nWqVwqhUso0wT+JeDwTeq6c79nX9Qljhvq9wecwckOri8CMAHaD5ZvFMsm+hbQoNeY17bgp3MP236k/dTaIFICQ1bWgIGTSdxoDVyzYegrIoRUHBZ5zVcqmHYKq733WPjhN+YkPu6TMjkstGXnv5Tn/01sQGPzLZHdXFloZQFSqMoawFRBjDHApJtEXV4xsYQv8KMK1u7I/yfcihEt+kDOnMzwWYl8u4axLz4rCJR8AoLqxQc7O+SJ014lY5Y5AcewRD9Yy84z6eHr6FRoAIi8kyDSf3ez7YatyPjVw0=;hA++VTQbG6X/JzcbcYHFlw=="
 ---

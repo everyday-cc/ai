@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/1
 webUrl: "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
