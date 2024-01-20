@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-mach
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html"
 type: article
 quality: 106
-heat: 136
+heat: 138
 published: true
 
 provider:

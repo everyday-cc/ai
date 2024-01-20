@@ -66,22 +66,6 @@ related:
         width: 3500
         height: 2239
         isCached: true
-  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-    excerpt: "That suggests the company is spending billions of dollars on Nvidia's leading chips that can cost over $40,000 on eBay due to heavy demand. Zuckerberg said in October that \"AI will be our biggest investment area in 2024, both in engineering and computer ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
-    ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 69
-    images:
-      - url: "https://media.nbcwashington.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta To Build Open-Source Artificial General Intelligence For All, Zuckerberg Says"
     excerpt: "Meta is building full general intelligence, or artificial general intelligence, and a massive array of compute power in its cloud facilities by the end of 2024."
     publishedDateTime: 2024-01-18T19:04:00Z
@@ -125,6 +109,22 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/19/image/jpeg/9Oxalurr8RfQH1ATW1f5yrXa3zIVjzfQ36jF8ktv.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
+    excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia’s popular computer chips that are widely used for AI projects"
+    publishedDateTime: 2024-01-18T13:16:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 54
+    images:
+      - url: "https://media.nbcbayarea.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
     excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
