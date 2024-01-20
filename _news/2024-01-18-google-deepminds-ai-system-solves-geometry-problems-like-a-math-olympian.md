@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geome
 webUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/"
 type: article
 quality: 100
-heat: 280
+heat: 290
 published: true
 
 provider:
@@ -89,6 +89,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/240117-deepmind-geometry_845cd6.jpg?w=3000"
         width: 3000
         height: 1688
+        isCached: true
+  - title: "Two Google DeepMind scientists may leave company to form AI startup"
+    excerpt: "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape."
+    publishedDateTime: 2024-01-20T12:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107013470,width-1280,height-720,resizemode-4/107013470.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Google DeepMind’s program does geometry like a maths champ"
     excerpt: "At the International Mathematical Olympiad (IMO), the annual meeting of the world’s best teenage mathematicians, Google DeepMind has unveiled a program that can compete with the best humans in solving geometry problems."

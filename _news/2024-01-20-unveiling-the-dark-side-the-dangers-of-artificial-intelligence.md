@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-20T07:57:00Z
 originalUrl: "https://techbullion.com/unveiling-the-dark-side-the-dangers-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/unveiling-the-dark-side-the-dangers-of-artificial-intelligence/"
 type: article
-quality: 41
+quality: 45
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ topics:
   - AI in Healthcare
   - AI
   - Natural Language Processing
+  - AI in Autos
+  - Microsoft AI
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/AI-1.jpg"

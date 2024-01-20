@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
+    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 60
   - title: "OpenAI team to focus on democratic processes for artificial intelligence software"
     excerpt: "SAN FRANCISCO, Jan 16 (Reuters) - Artificial intelligence lab OpenAI is forming a new team to create democratic processes to shape how its AI software should be governed to address bias and other ..."
     publishedDateTime: 2024-01-16T21:08:00Z
@@ -182,6 +191,6 @@ related:
       domain: ft.com
     quality: 12
 
-secured: "ch/LnEj1UTdm6Gx6IdmQypvXeOv8AfbZm6DXCu95Lri3Dknxu0FAooSn49/ILma8WcrdNJlvDku1nQmmHhexrzL6ocC805wv0indaS/3akOcCZmj7mmFYwd8N/+uiPKYN/rI81hvq9dzzZCAKj2Yx09tKwyh3u5Ll7a7isJal3/LfwSYAyvxCc798ycfCJQCpIwAZuTKlzVihR7Nq06U62LeRmTsh8I7BMToR/fADOq8cs5yM7TMBf25cefVVqJNrpqYOApcrJqP7zPiof+blxtZD5RL2DWd3n/2DnCJpUj4CZ7xq31fe6hp1HL//AnHb2AD6fiNEtprOxygBy06o2v7UqjsTnuSflztph8Ck00=;dbQhPh6gX9hxFmHyb4QYSg=="
+secured: "AZ9+zm677PGI6oRsQNkNuS4dBbRZ/NH6rApvZ0Bwkmyoq2idL7jSwkvOIk6T24Ajf1/Cq7qLIoNJ7hehoO7oweFDsoOIsqhapXOjD6ydRbsz9w4bzQ+ukuzRsi+W9LcIhryKi4XnEjdnCgRJBxS3ZLjXTdTQ5/YZivtJlEx/HKE+70DmlKJvzL4ZOoqy0mcygwlRunn1o6Xaxq8xUS25MlJZA+U4vlx568ngbonRIiY1sklS8jSL8f01PryMcD2kGWQDifPtmaKOlqfE654+KZGNMGqvf/PsRh26jmoPSjZarYPkAnu/AdWwysOg/wIX9tfaX/rCZVLzF+snspSAsY+ObH09no/zZijt7jp9j3bGJzpLWHJKcjiDeTPcKX4T7ACodr/NLm3WHyvTBB/8FRmeNTSV/nqq7aKBYwklvkAVx4X/+ijmaVcTc+WF+rUouM7P3d1/rAVuhER6kZGBdSdCaJeBAaknu8zJud1vNOIK4gaMQffupOoRT9X3uHFx88VpnK8tDwWOqVEXmdcy3w==;Q/73kubIcpli3C97XLuahg=="
 ---
 

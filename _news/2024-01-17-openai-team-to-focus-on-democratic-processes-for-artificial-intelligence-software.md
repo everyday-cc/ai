@@ -103,6 +103,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
+    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 60
   - title: "Sam Altman Seeks to Raise Billions for Network of AI Chip Factories - Bloomberg News"
     excerpt: "(Reuters) -OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported on Friday, citing people with knowledge of ..."
     publishedDateTime: 2024-01-19T12:28:00Z

@@ -128,6 +128,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
+    excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
+    publishedDateTime: 2024-01-20T10:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/articleshow/107012044.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107012064,width-1280,height-720,resizemode-4/107012064.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Here’s Every New AI Feature in the Samsung Galaxy S24 Explained"
     excerpt: "Samsung has injected a ton of AI capabilities into its Galaxy S24 smartphones that will go on sale later this month, including translation, search, and photo editing features."
     publishedDateTime: 2024-01-18T19:45:00Z

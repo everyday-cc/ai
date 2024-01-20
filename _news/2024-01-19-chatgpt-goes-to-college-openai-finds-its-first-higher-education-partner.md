@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-ope
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
 type: article
 quality: 120
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Arizona State students will get their own ChatGPT-powered tutors as OpenAI partners with the university"
+    excerpt: "Students, professors, and researchers at Arizona State University are set to get access to OpenAI's ChatGPT Enterprise."
+    publishedDateTime: 2024-01-19T11:55:00Z
+    webUrl: "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1"
+    ampWebUrl: "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/65aa55866979d737182492d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI comes to higher education as OpenAI partners with Arizona State University"
     excerpt: "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere."
     publishedDateTime: 2024-01-19T03:58:00Z

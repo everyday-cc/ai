@@ -91,6 +91,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
+    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 60
   - title: "OpenAI team to focus on democratic processes for artificial intelligence software"
     excerpt: "SAN FRANCISCO, Jan 16 (Reuters) - Artificial intelligence lab OpenAI is forming a new team to create democratic processes to shape how its AI software should be governed to address bias and other ..."
     publishedDateTime: 2024-01-16T21:08:00Z

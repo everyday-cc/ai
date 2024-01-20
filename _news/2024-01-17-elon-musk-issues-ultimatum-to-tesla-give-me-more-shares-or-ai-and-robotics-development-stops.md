@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-te
 webUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 66
-  - title: "Robotic AI developments on the horizon"
-    excerpt: "The world of artificial intelligence is exploding at the moment thanks to huge advancements in AI technology and services made available during 2023. As a"
-    publishedDateTime: 2024-01-15T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/robotic-ai-developments-on-the-horizon/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Robotic-AI-developments-2024.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "Q4ULaoxmkeuTVTfQkXKaptPDTqrN2yz6rIW1bIURu0m+mbr875gBLq1gv5bVEzkNI9vg34oRwcAcJIWGMau7h+9BatRVX8q7TvQYUblg0vIE2oKr+IqePntduk6vAu6eMPARZV8GoMRFe6cVkdvR3VK6DbxjJ65++Fn5WwTxD8wGCBA+tv+XxiAGZwF7pPLnMfTC2hejHeY0F3QOyy8UaJRRnL6VkFeE8ilZPsUCbbz7uORsNlRI0UfHMSulkbdjzFu2GX4djMBK10Rw4QhMkIZkKYdB1d8eXW/Pxi/KB1pgyYIlBzk7+StEHB80w3Dj0b9cRqYHz+T93qGuZH6ZYRgQE6osSdp8I0JmFT3QGBAJls9oDlNz7A2g/pvKadiwIMlDyYgYYTnGO0IOXwNjPBqmG2iQYmfZ1+l3aSYORX1a1O1BcrChhrHfhNAwgzZkgr9jTfqBg4ViuzB0BL24JkJqIhBKzBRs2Uiv4ORCuxihaiRIZGV7z/uSBzqGSmUWnZyXQJp5KsfMkHiiXrR97g==;/7HChMyCGZTl6gaLSXrZXQ=="
 ---

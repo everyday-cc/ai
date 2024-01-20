@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Robotic AI developments on the horizon"
-    excerpt: "The world of artificial intelligence is exploding at the moment thanks to huge advancements in AI technology and services made available during 2023. As a"
-    publishedDateTime: 2024-01-15T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/robotic-ai-developments-on-the-horizon/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Robotic-AI-developments-2024.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "B7Bm0h8OciwRjpg6SaWtqeHTxH8mxHOgJYCV+b3SfJjzAMl1P+bQQA1VA+n6+qZEfmhaPOItHoR4LLIgrYdwm0GkBGdw6FfWbYwFLZIcg23eYzeTQMKcAmTvO/FGxsgiMvwwOS2SBPYXFgGaVVXB8W6rp5TfsBLO+iFUrdSn8uvwTclaeMogPNMvDbaHgctZOXGlU2xj5b+woPHR7+wDG1c6ovij90vviWecDCul2ItcWXB6SruRpeRPRerANnxDDU2MDmOpeSdYM5w5MHEhx2vLnzL1vFDNNQf+guafYFjXmPHFxzD+61kP9niKTou4SQei0/icPDWHMoEPkx3nbMfIOBgNQ6rD8pMagxXIWVhgoQbPpMr49UuC1AVU1R0YriXnLIcpcTqEplzhaS23RInHDHQsQnsueXO11SSKieGuvI4H1Sk8Q0YSbZ0QBY0H7yWwsvqEnzRmxGeKsdbbaE0nHSmaMfymKp3SuBCkOCOXtkI27ljPjPvKHkzJpY8NA4C2TmoMbhnQUn5h6PqRTQ==;R5ig8uQntgK0kGJtqv2aPA=="
 ---

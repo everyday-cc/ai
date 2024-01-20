@@ -37,6 +37,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT"
+    excerpt: "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI."
+    publishedDateTime: 2024-01-20T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Meet BharatGPT’s GPU Buddy"
     excerpt: "IIT Bombay is building BharatGPT in collaboration with many universities and institutions. With one of the focus areas being healthcare, it was important for the initiative to bring in expertise from organisations that are leveraging different technologies within the field of healthcare."
     publishedDateTime: 2024-01-19T10:30:00Z

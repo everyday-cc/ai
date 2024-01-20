@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Arizona State students will get their own ChatGPT-powered tutors as OpenAI partners with the university"
+    excerpt: "Students, professors, and researchers at Arizona State University are set to get access to OpenAI's ChatGPT Enterprise."
+    publishedDateTime: 2024-01-19T11:55:00Z
+    webUrl: "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1"
+    ampWebUrl: "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/65aa55866979d737182492d3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ASU to bring ChatGPT into higher education through OpenAI partnership"
     excerpt: "The collaboration will begin with an open call next month to faculty and staff for ideas on how to explore the uses of AI in higher education. From there, some students and faculty members will receive access to ChatGPT Enterprise — a version of the generative chat tool for businesses."
     publishedDateTime: 2024-01-18T15:15:00Z

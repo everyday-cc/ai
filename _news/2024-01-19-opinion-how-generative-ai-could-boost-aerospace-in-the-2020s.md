@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia rolls out new chips, claims leadership of ‘AI PC’ race"
-    excerpt: "The new desktop graphics chips with extra components will let gamers, designers and other computer users make better use of AI on their personal machines"
-    publishedDateTime: 2024-01-15T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/nvidia-rolls-out-new-chips-claims-leadership-of-ai-pc-race/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 34
 
 secured: "3Je4NX95h7aWGRd3Fa5NJ+oMUYKjG+BAL0Dd3eSc2hQjuL6RZoCuJLS9SGm/K4YXb3A90/6R5roBU5UvNmroSjrdkgaOx21h8k6OU4kzP10HvmfctSQes2yTpckJALqPO5W0MlTHxTYZ5+MOtOh5gb2vf2IqKlx0pJ8Qobh05goqq2gDbf8SOPF+o9D1tf5otpuR8GBDPpb2ydA7y+4MJnKxSvavzwiEu+/TEDzKP9JhyHyn1qQMPenBOQ7aLBa+zr26SYmytVt0rMm0oOLxyqpIhYRRBg8l8nMoa/7jT1zSHcT/C8gmlbonTL43amW/Aq49U7vp8//cl6DYmt+K1Ojr7gXiRVhltJd+/ySmhik=;Ta4o+UHzYhQ3oyX2rkyidA=="
 ---

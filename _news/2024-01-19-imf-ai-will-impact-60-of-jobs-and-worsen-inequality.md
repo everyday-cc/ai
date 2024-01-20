@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worse
 webUrl: "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial intelligence will affect up to 60% of jobs worldwide, IMF warns... so is YOURS at risk?"
-    excerpt: "Artificial intelligence may soon affect more than half of all jobs in the UK, a new study from the IMF has warned. Across the world, 40 per cent of all occupations are likely to be affected by AI."
-    publishedDateTime: 2024-01-15T11:40:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
 
 secured: "WbfToD6lwGUP+qXttrS/JaEJx6LhWVlGoJ8BQOphgYLD0fvoDZmFLl+8hL/viffNN+kF93ZC3xoRPWV63YYJlmsB1beGhrhQ+JiC3FbATDH1m2+zHq+8oMQwCY6XhGH7J9lh/tQGx8alcA0sHmwHR1uPD2KC7aUf9q+7PMv/d5KymuguVZw9PjJSS4WWt5L0AQ/aOhnuJkJGGRKX8PWQ/cEYRbGreuxAPXPqmlV/6HaeYJ7K0yrQY0eQCtADHlDvZakincX0BMvSvhiPXJ5bjib6FKSQfT2HoRo6BvauYXpYtyYYKVGSFsJMpOfkD7Vn0J2hgDnHgSR+YB35Q4ELKuK6TKJn0/QcnjBSR/7ZM1M4wwjm0YvupFnflImL+QhbmDaGAUqvZyUCHC13M0YroEqp96eJuOsNJzZrxTESEjeoZq+7NvxvyjfPbFzjvAYrROgW9RLK4XeGvO18GnJtYRhMy4bsj185iO0JXWO6hPnbkBTdeKmTXB65mc0OaEsZC1Z3AHwQ8hq3bgu/gsDh1g==;Szxf5yX650mKTPncYDjHmQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/am
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -118,6 +118,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
         width: 620
         height: 372
+        isCached: true
+  - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
+    excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
+    publishedDateTime: 2024-01-20T10:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/articleshow/107012044.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107012064,width-1280,height-720,resizemode-4/107012064.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Here’s Every New AI Feature in the Samsung Galaxy S24 Explained"
     excerpt: "Samsung has injected a ton of AI capabilities into its Galaxy S24 smartphones that will go on sale later this month, including translation, search, and photo editing features."

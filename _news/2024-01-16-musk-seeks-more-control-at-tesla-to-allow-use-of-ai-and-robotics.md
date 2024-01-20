@@ -49,20 +49,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 66
-  - title: "Robotic AI developments on the horizon"
-    excerpt: "The world of artificial intelligence is exploding at the moment thanks to huge advancements in AI technology and services made available during 2023. As a"
-    publishedDateTime: 2024-01-15T11:10:00Z
-    webUrl: "https://www.geeky-gadgets.com/robotic-ai-developments-on-the-horizon/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Robotic-AI-developments-2024.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "BQjXn5S9lBwuGPSIspKC0EbN31WSKK5M/hZ3qQ7RNj/o6sSvtksANPReyEwo4380GJdoQLFpQdvwK/yAtwzOPFw0WTW/6/MuAhCHe2rQ8lnYWIpREoPX8JXorTHHlDd/hYfosk2QML+c+0pibVBBu6zNRmqyYwiaLSpkWl54I5xOXOq4tkSsSN0cj92VTrZIckGfl5XM9WuGFO9rrzuVGCkFH5R0wfI67Qa2ytsSpBBMXiGz8R/0fXi89jCrdrf+tr7nak8UtvISnhB38QDKmMDhtVG6qkYSevJkUrr8gCHGhcWvJm8P4BUOuIfZpPVu4VkFMduNrQ11r6DOoepM+nM4EseBWPIpj9JVNIh0Kh8=;6VCYAeU2eeZkDuAASfbNzA=="
 ---

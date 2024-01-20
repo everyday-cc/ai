@@ -54,16 +54,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence will affect up to 60% of jobs worldwide, IMF warns... so is YOURS at risk?"
-    excerpt: "Artificial intelligence may soon affect more than half of all jobs in the UK, a new study from the IMF has warned. Across the world, 40 per cent of all occupations are likely to be affected by AI."
-    publishedDateTime: 2024-01-15T11:40:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 5
 
-secured: "qcwYKyn0Lc0s0wrv0fOPa4u4+Gf/GQmQwJxiF2GOS3ZfyB9K/NP6mzxw4sGwc2t5hLk/30UrKwI2tR9VB6Awss7OSAfmm8HE/PQANg0h8zQvopl9oJqCMIMug9MS9Pzqnu3UOufpnltU80I42nBWZTFA0e6yPw2NJiJyDKg2Cmp7ebGdAjuvlXKawmzHGQSEZBxlff0ksyvyfSwYIDD2mertZUDevDTFTjWaCc4D340ONcyxTo03PWw4YarIXv6Jr9h45mYjpCRJwmLzg/pJ2Z30mHxuk8ZpY3F2NuGRDZlkkshdcUc33TNd12IuJFI79iQWmWlApiYO/KhLciWIOefqSVoRtkN3m8y9bscKeYM=;HC63ZDelhLLQqFtZe44t2g=="
+secured: "0fSKi8irSJdbSKTTmtQRpd9SgVzoV7PThNmwt+jI5lISosJwQMcCsWKkrRzKOuE0e6N++eHoauXgZIqni9Sxu81Cp4p2AiSrZoz8HQ3ZATAqPl36W7J4aIonMz3YVTITCOJHYtao51hf9Ww1mDWO9IbByip9uYq37SfXD7lmWJgjm7u95v340tfNobYecUKYVYFT8bzf8RBI6lf/apoggTmHEYJvZ//DvVTOIE7i46+oBZ1ufDxkvwprv66bpUQfTYesLYd9wxKie9FLloIMH+3lnqiPXws7WqyhBeDKsHD+hCHf/M43OxMxxkX9fhTdkJb5OIpgmVhKKF/zovlQURfJVm+ke7+t5eHlbZIrqSg7sYo7T7ve+zwxPLSZN7EYw/MRduTpNDsmNcj2JFrAatOWMdF/8r7RNlftAQjb7mtnQsZYHlePuGAoRXhUc4yyl9SH9O3Lsxi5rLhKnRJ2rIA+Bd9Ws5Bz2g7lXN1G728cLgULDAxievNBZbspi1Yo4wqUM9oKW7iLkbAbo/XKrA==;qcGxddqIKGwt9v9R6M4xzg=="
 ---
 

@@ -73,22 +73,6 @@ related:
         width: 3500
         height: 2239
         isCached: true
-  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-    excerpt: "That suggests the company is spending billions of dollars on Nvidia's leading chips that can cost over $40,000 on eBay due to heavy demand. Zuckerberg said in October that \"AI will be our biggest investment area in 2024, both in engineering and computer ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
-    ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
-    type: article
-    provider:
-      name: NBC Washington
-      domain: nbcwashington.com
-    quality: 69
-    images:
-      - url: "https://media.nbcwashington.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta To Build Open-Source Artificial General Intelligence For All, Zuckerberg Says"
     excerpt: "Meta is building full general intelligence, or artificial general intelligence, and a massive array of compute power in its cloud facilities by the end of 2024."
     publishedDateTime: 2024-01-18T19:04:00Z
@@ -133,6 +117,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
+    excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia’s popular computer chips that are widely used for AI projects"
+    publishedDateTime: 2024-01-18T13:16:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+    type: article
+    provider:
+      name: NBC Bay Area
+      domain: nbcbayarea.com
+    quality: 54
+    images:
+      - url: "https://media.nbcbayarea.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
+    excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
+    publishedDateTime: 2024-01-20T12:37:00Z
+    webUrl: "https://futurism.com/the-byte/zuckerberg-bored-metaverse-ai-chips"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Zuckerberg’s AGI remarks follow trend of downplaying AI dangers"
     excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
     publishedDateTime: 2024-01-18T23:19:00Z
@@ -157,6 +171,20 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
         width: 1024
         height: 702
+        isCached: true
+  - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
+    excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
+    publishedDateTime: 2024-01-19T19:17:00Z
+    webUrl: "https://www.djournal.com/news/national/mark-zuckerberg-hints-at-metas-ambitious-ai-investment-plan-9-billion-on-nvidias-h100-chips/video_f0b07677-05da-5594-817c-f586a215ce1d.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
   - title: "Nvidia stock hits all-time high as AI craze rolls on"
     excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-excerpt: "That suggests the company is spending billions of dollars on Nvidia's leading chips that can cost over $40,000 on eBay due to heavy demand. Zuckerberg said in October that \"AI will be our biggest investment area in 2024, both in engineering and computer ..."
-publishedDateTime: 2024-01-18T00:00:00Z
-originalUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
-webUrl: "https://www.nbcwashington.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/"
-ampWebUrl: "https://www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
-cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3520220/?amp=1"
+excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia’s popular computer chips that are widely used for AI projects"
+publishedDateTime: 2024-01-18T13:16:00Z
+originalUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
+webUrl: "https://www.nbcbayarea.com/news/national-international/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/"
+ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
+cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips/3426882/?amp=1"
 type: article
-quality: 69
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: NBC Washington
-  domain: nbcwashington.com
+  name: NBC Bay Area
+  domain: nbcbayarea.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nbcwashington.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcbayarea.com/2024/01/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -119,6 +119,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
+    excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
+    publishedDateTime: 2024-01-20T12:37:00Z
+    webUrl: "https://futurism.com/the-byte/zuckerberg-bored-metaverse-ai-chips"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 54
+    images:
+      - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
     excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
     publishedDateTime: 2024-01-19T16:26:00Z
@@ -157,6 +171,20 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
         width: 1024
         height: 702
+        isCached: true
+  - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
+    excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
+    publishedDateTime: 2024-01-19T19:17:00Z
+    webUrl: "https://www.djournal.com/news/national/mark-zuckerberg-hints-at-metas-ambitious-ai-investment-plan-9-billion-on-nvidias-h100-chips/video_f0b07677-05da-5594-817c-f586a215ce1d.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 42
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
         isCached: true
   - title: "Nvidia stock hits all-time high as AI craze rolls on"
     excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
@@ -296,6 +324,6 @@ related:
       domain: geeky-gadgets.com
     quality: 4
 
-secured: "jT9z5z4QRUZETs+uyHLY3J64jzZw4z4DmYbtE9XvHMDmsZkxRPNMZKTVs6Nlrmpi8Yx+TO5bvfwjv0/YTKvt3mCc2Bw6SPssIwEYOGI4NzdyyVUeAHtlF2U21CmwhzIcOQRlFRPiwqCm3eWkKDzxTmCrJFSowzknH8rq/ilFTCYiYNmtPJmuCcv5UaSTHJGGECkDmBVppTOrnlYuZziCDULPVEsAOEuLA+Q9wlHqwzaRjh+iPT8l4L78khs72QeasZi4xZSCUdbQ9B1aw6vtpyG8x71Nn2jaz7ilRDDfd9IB4o+SrVC05IJgAputN2kAuqksThfY4h0gFWAKjRK6oT0OfWmxt3/ZPfiZ8oCOHSU=;80Am0ui2d8UMQsXuy4qF/Q=="
+secured: "/EjXfIQ45bEYl98lpH1wOaW2lgiJU7l1eRT7raihmBv7D7XhZXjGir5SF8TelKHTETE3q9awy/UPbTtETiv3qApyVPGDSzhDxdjg5+Rk2VlXfRnihMR188DTPvq+Z/+TdiSUdeFId4dNA0Er3GZyF5S1b4VxyZfjqsV0ovjI+dqgh2W5RXCqUXmyZu4A6USJUGqQ4edafVn5GV4Sws0c/r1hchSqLW0L8lS/lc0AYuApPMKIsqeu7g+2RjAssQxzP+ScRD2Jw+XUiHzskkkREwTozCAuL4pEhM7JPqMHQDBde/NCfeVU5aBEbZfjf26jG43wBfTjmGYIa25py8er2Y4OruRtOpkAkgiIxm0SF6k=;4JN7+YbT8xCSSqGzIOPemA=="
 ---
 
