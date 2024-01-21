@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Government norms in offing to check AI robustness"
+    excerpt: "For instance, driverless cars depend on real-time decision-making ... Meanwhile, TEC has released procedures for accessing and rating artificial intelligence systems for fairness. The AI fairness score will check how much bias exists in the systems for ..."
+    publishedDateTime: 2024-01-21T04:22:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Navigating data challenges and compliance in AI initiatives"
     excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
     publishedDateTime: 2024-01-19T17:32:00Z

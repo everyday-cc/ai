@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 119
 published: true
 
 provider:

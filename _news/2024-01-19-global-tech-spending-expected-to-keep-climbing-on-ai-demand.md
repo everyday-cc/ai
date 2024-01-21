@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/global-tech-spending-expect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/global-tech-spending-expected-to-keep-climbing-on-ai-demand/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "7 Tech Stocks Set to Skyrocket on Strong AI Chip Demand"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips So much for a chip dip? Taiwan Semiconductor Company (NYSE:TSM), one of the"
+    publishedDateTime: 2024-01-18T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand-1032977848"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "Eh55WWeVW9hoEcL4JxHzh48uYPYPJvcWd8GYAbB/Ns6fyRnUfHhjxtRpOuB9cbdc0VrgMuyybkshwseiiXc9q4Clafvf68rRUq8IsjwSsntRztnEAzcJqR4xejEJGh7a/2IMxY153Ajn0NDx+OOLcrsLedD9BKjKhKHBNiLUyQCXMCAFvlVNZw5yMDTjTvAgK2aVXYGhbHkfwWm5JvNcHo+GQqm/NN6k3OfZ80GUzSRAZlH9DOWDvRGeFnSiWzmudcmatIQo89B1I8uF4ZvCfODNxOHtshQd93hAZbE9DXDmvEwodyhNchEK707IIJGdVPwA25ZC8dQT4U4n24xmwOPYjKB8PEa3NXqVkFH3/dQ=;N5TPxrD0sWMUCiUqnLc01g=="
 ---

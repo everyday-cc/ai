@@ -105,6 +105,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI's Sam Altman looking to raise billions for new AI chip venture. Here's what we know so far"
+    excerpt: "The report stated that OpenAI is not decided yet finalized the move but the company has been discussing on various options to resolve the AI chip shortage. OpenAI is focusing on diversifying its suppliers beyond Nvidia and working with other chip ..."
+    publishedDateTime: 2024-01-21T03:22:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far-11705800948990.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far/amp-11705800948990.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far/amp-11705800948990.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/21/1600x900/DAVOS-WEF-2024-446_1705807277953_1705807303298.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
     excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
     publishedDateTime: 2024-01-20T00:01:00Z
@@ -132,6 +148,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
+  - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
+    excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
+    publishedDateTime: 2024-01-20T23:00:00Z
+    webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
     publishedDateTime: 2024-01-19T19:13:00Z

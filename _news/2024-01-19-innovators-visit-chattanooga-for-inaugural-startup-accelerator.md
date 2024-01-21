@@ -23,6 +23,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Samford vs. Chattanooga February 3 Tickets & Start Time"
+    excerpt: "The Chattanooga Mocs (11-7, 3-2 SoCon) meet the Samford Bulldogs (16-2, 5-0 SoCon) in a matchup of SoCon teams at 4:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-01-21T04:21:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/samford-vs-chattanooga-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/WANJQ3AIG5PWNKM6YENCTTIRSI.jpg?auth=6a280c56ebcec92c9d40440045990f51fb118895b0c397d8e5851d4be609b0de&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "PIfioA2b7EsRtUKyQcJiMWt7Ro/zng9cOGNk49EOp8yfIf8vjvdvFal8abqxc+Exs6frXj7EBDO4tsNB90lyeqos8fNO975y9d4je0v+CFySAoh3XRNhjwBcruzMrxLlWvhhrY74mLbnyQwejV2oYlhpLU0NWcUrZ7gh3Xwy7vK6nWuq3FV1bVZmJIzO4O+q7at42SHEhAOp9n4qEYquvhyGRFAZXZzsWEJi0zpqAE3XaO7Q9EQZk9UbnGg4TYWYxDsYJn6/U5tN4QUDuoMqH0SQfteJF6iHGNgc3Jb4zZ78hwpB373FeN0V2uAV8dLUBhkH4eX2pHm7n1H7bkhhPBplhv9e3w7CNe0+Ipy/JHM=;GqcoBIiVdEt1kqHgGldeUQ=="
 ---
 
