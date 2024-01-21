@@ -63,20 +63,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GraphNovo: Revolutionizing Cancer Treatment With Machine Learning"
-    excerpt: "The breakthrough in AI could result in the development of highly personalized medicine for treating serious diseases. Machine learning technology is aiding scientists in examining the composition of unknown cells,"
-    publishedDateTime: 2024-01-16T06:54:00Z
-    webUrl: "https://scitechdaily.com/graphnovo-revolutionizing-cancer-treatment-with-machine-learning/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Drug-Development-AI-Data-Art-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Shaping The Future Of FinTech: Insights From A CMO"
     excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
     publishedDateTime: 2024-01-19T11:15:00Z

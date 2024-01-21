@@ -67,20 +67,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GraphNovo: Revolutionizing Cancer Treatment With Machine Learning"
-    excerpt: "The breakthrough in AI could result in the development of highly personalized medicine for treating serious diseases. Machine learning technology is aiding scientists in examining the composition of unknown cells,"
-    publishedDateTime: 2024-01-16T06:54:00Z
-    webUrl: "https://scitechdaily.com/graphnovo-revolutionizing-cancer-treatment-with-machine-learning/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Drug-Development-AI-Data-Art-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
     excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
     publishedDateTime: 2024-01-17T16:31:00Z

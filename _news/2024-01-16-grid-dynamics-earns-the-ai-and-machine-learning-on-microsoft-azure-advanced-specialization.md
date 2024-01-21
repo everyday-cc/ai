@@ -94,6 +94,22 @@ related:
         width: 1338
         height: 900
         isCached: true
+  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
+    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
+    publishedDateTime: 2024-01-21T00:00:00Z
+    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
+    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vodafone, Microsoft sign 10-year partnership covering AI, IoT and more"
     excerpt: "Vodafone and Microsoft hit the headlines on Tuesday with the announcement that they have signed a 10-year strategic partnership that will focus on business development in areas including generative | Vodafone said it will invest $1."
     publishedDateTime: 2024-01-16T16:33:00Z
@@ -155,6 +171,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "ON7RKHIoLQTm62nPeN+Ry4cx34K5/UTEnjt3cXKFKfPE+14dT0GiTIi15q4An1QRRJjp+xBR5CWKEs3ZFXv39GiShVSHpHqDU6MH6v0mLAM4kYTz3cSeTddqX0q4rei8pXLwxYIgvvzpm4Zn8cePM5YKnySMZTe1MTNZQVoWBnGtjJkIXYQ49DMOViQ8HjJB2ELNvoghUjEdVnlcBGMcjFnBv8bVFHwIJWnJMXFWcR2Jo5BalhUe0Or4WYeODIudOWORIJ6y53bWBDj6KkhzvdGZxM6vCdJWsDkMQGY1B+xDHgZZ55+XNeCKcO+j+cxJYwHp8APLxiuethmJgmwsoTgpkPk/teK7hB6cEXwEvDo=;2R1D1Fnl1HpSJoQlci9BiA=="
+secured: "hk7L92lba4wQ1TK0IHpqcp+VXqYFiYnBOUwmbjz0D0yMkk+H7pd3W3R8AETcVmsTWJ6wAqV4IPlF2EUR3oV/SNWuX+dNoF9LfTke+UVj5LklVFXvS6/X2rVrJL1ONWjJ3bhrP93aHqsc/UrbufTimRfA7Q2dT6QpFvT8Qcul1g4Z6cMNcnk6j+yAtY3LdTVbMtkLyYUFS/Vr8GPp26dPgL1UJyRON59nmTUAIko6rCae0XDE/8xOdzjUvQAUppYkejaGa+JISPliaR/vmNLaiNuAcKG2VuW1AamEsAvEkDu7c70vyCKpFl4qxnei/nlXc8dpzz09sQWAbF/pBtAHBObH6jPLzsEWF2UUoC7FxSs=;YrOEQ2OyuA66ChVcZuCqig=="
 ---
 

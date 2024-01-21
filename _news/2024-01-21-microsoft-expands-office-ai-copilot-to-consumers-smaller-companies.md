@@ -1,32 +1,29 @@
 ---
 category: news
-title: "Microsoft prepping performance and memory guidelines for AI PCs"
-excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Bottom line: Manufacturers are gearing up to flood the consumer market with a wave of AI-capable Windows PCs starting later this year, but they will apparently need to meet a ..."
-publishedDateTime: 2024-01-18T14:37:00Z
-originalUrl: "https://www.techspot.com/news/101568-microsoft-prepping-performance-memory-guidelines-ai-pcs.html"
-webUrl: "https://www.techspot.com/news/101568-microsoft-prepping-performance-memory-guidelines-ai-pcs.html"
+title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
+excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
+publishedDateTime: 2024-01-21T00:00:00Z
+originalUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
+webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
+ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
 type: article
-quality: 86
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Daily Item
+  domain: dailyitem.com
 
 topics:
-  - AI Ethics
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg"
-    width: 2000
-    height: 1334
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -76,6 +73,20 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Microsoft prepping performance and memory guidelines for AI PCs"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Bottom line: Manufacturers are gearing up to flood the consumer market with a wave of AI-capable Windows PCs starting later this year, but they will apparently need to meet a ..."
+    publishedDateTime: 2024-01-18T14:37:00Z
+    webUrl: "https://www.techspot.com/news/101568-microsoft-prepping-performance-memory-guidelines-ai-pcs.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "Microsoft's Copilot Revolutionizes AI Investing"
     excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
     publishedDateTime: 2024-01-18T22:32:00Z
@@ -89,22 +100,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1338
         height: 900
-        isCached: true
-  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
-    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
-    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 74
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
@@ -176,6 +171,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "+zc67QZmU9FV0E12LCdrFNJauvVZPoPKqijKLRownroe5oj/zwjcUaQf+qxuqgnSDdGUnsHOT2Y3aT//xa9Pn+VvTtvP7Z0m8VZebTE/ZiuJDBi+hHCqyduldVBUdAC7vlMD+jCcfG2MS1tZgE2scHGJV0zWKu5lm4QRaPDjoGsYR7N+qGkYcGJrurT5DlZxkjvLUwtF9fjrPc/hCFKzsGnsAqguZvrpHa8uVk7mOuRDICm5gj/cDxwJWhSmeu5iGqujj8yZsJD/4HnpwrId5Cv2XvTNr+lUDX03XB6whAum+esF1U0aT2uQsoDxaH20/m4RIazZpl5zR1ecI1/lIj/L8nDGC/TOlnMfI4dHzAToPnS1sF+NphqkeslfpXy9Vct/w1zDXoNsg4zsRQoBbTU6nPjyef2o0/cLCyHZ2lhpSUMD0oSsME4dXNhuS2xEUkKRDBJYiNtzumNiqjTSVmUPtZvX0zXg0za+ii3abWIQuUU63IgQ7krJq7p37z8p5DJiA2bfLI07u7ttI2t4lA==;Hi8sIxm3eJhcghh/QjCHmA=="
+secured: "YbrFeaRDBv4cDKkMkZWnFNlV6YHBfvMCgvfBIGweXni/YYt5vTMTWNf2Uvdr/PcHY7d1hMNvJUxZDfsy0ZLQV2ZrVs582xtrbUOoBUw4/akmfSEjpDaRaJ4v1IiCicj588i40b6prBc3wVHglZZso9H28WMjijvQ6TI2NkptEo9RGRrfJIWg3XVQKEysfyx8E58JgnG2JN7PhNlHfY9YcUnJ4rGjPtp3NF7j6C1v1SmScZYgWfdd/49lhGQITL2MUuUqyrxS8JBJqruXWWCv/Hnu/E9TeoM6elCvRIE4gtpDvuQ63aK95z+w038nVEgLeW+AoAyRUpI47v7+XIw221A7xccs6qhvyFcgqM578T8=;tr+XTkat2Sh0oUWet+3l0g=="
 ---
 
