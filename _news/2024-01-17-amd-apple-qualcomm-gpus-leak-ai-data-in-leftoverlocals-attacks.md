@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data"
-    excerpt: "Patching every device affected by the LeftoverLocals vulnerability—which includes some iPhones, iPads, and Macs—may prove difficult."
-    publishedDateTime: 2024-01-16T17:01:00Z
-    webUrl: "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 83
-    images:
-      - url: "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/191:100/w_1280,c_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs"
     excerpt: "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes."
     publishedDateTime: 2024-01-19T03:03:00Z

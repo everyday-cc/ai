@@ -26,63 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Gamification In Banking And Fintech: 5 Learnings From iGaming"
-    excerpt: "Fintech could incorporate similar features to make financial management more dynamic. For instance, introducing badges for reaching savings goals or interactive scenarios for financial planning could add an engaging layer to the user experience. Using AI ..."
-    publishedDateTime: 2024-01-16T14:32:00Z
-    webUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/"
-    ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
+  - title: "Practical Guides to Budget AI and Computer Vision Solutions | Part 1"
+    excerpt: "In response to widespread interest, OpenCV.ai has launched a series of articles to guide entrepreneurs and enterprises, in exploring Computer Vision solutions. These articles are designed to aid in making informed decisions, with a focus on optimizing development and operational costs."
+    publishedDateTime: 2024-01-16T17:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a6a66ddb0dfad06873325d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Shaping The Future Of FinTech: Insights From A CMO"
-    excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
-    publishedDateTime: 2024-01-19T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/19/shaping-the-future-of-fintech-insights-from-a-cmo/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
-    excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
-    publishedDateTime: 2024-01-17T16:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/ai-unleashed-transforming-banking-and-fintech-through-intelligent-automation/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
-  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
-    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1031510"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "dfV0B3zNmeWcypu7d2El06ZMFjVSotgtcpXhvpEnEg0T+rK/HJbBsiQTgsySLolpp61VNWrB1mSHcKZ2UEAPwc62zneWdB15bF1fN4LslM709NhggsEtXEzEfNQvgAnrmDX9gCeKBr87VsB25pjQVKpaSk+ob77bylnezY8ncVe88Xe6xrK67P94k6I0cYoniJJXlnXDEsNYbyCp4nBYb1A64wnADNJqoV7TmlWPQmAAP2rEZAv8YXBW05uQs5sgg3G6QFMSLCvZNAFngz4RnjN3G992NFOwwNqxeFQeRSUGOK9gpMtA4DZNAeK8Ydi6CHNemK1T2q2sXiyKONr33U3oJWJ8kx/XFXf5fMwasM8xjSE4iDFtWsLPXH+3XfhxA8FcuVXCUC6OV4sVmy15bBKwvyG5TBizYFD3OboLBs+dhJKBmYe8gDoSOpwEqr8OlcEiuNtUIf78FPmAW0hlPDjdkdJIdDpW3NKQijjUKmaSzMroAwMxOQjE2oJx1t4RPDQrx3xhbTrWihr3Lf0b8w==;yUhWh7itc5CDVWV53FeUig=="
 ---

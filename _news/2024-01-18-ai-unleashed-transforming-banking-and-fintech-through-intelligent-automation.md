@@ -20,59 +20,91 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Gamification In Banking And Fintech: 5 Learnings From iGaming"
-    excerpt: "Fintech could incorporate similar features to make financial management more dynamic. For instance, introducing badges for reaching savings goals or interactive scenarios for financial planning could add an engaging layer to the user experience. Using AI ..."
-    publishedDateTime: 2024-01-16T14:32:00Z
-    webUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/"
-    ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
+  - title: "Using AI To Help Create A Fintech Game-Changer"
+    excerpt: "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ..."
+    publishedDateTime: 2024-01-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a6a66ddb0dfad06873325d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
-    excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
-    publishedDateTime: 2024-01-19T17:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/19/ai-evolution-tech-pioneering-smarter-decisions-surgery-security-cubeconversations/"
+  - title: "AI Has the Biggest Impact on the Fintech Industry"
+    excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/ai-has-the-biggest-impact-on-the-fintech-industry/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Alan-Cohen-Clean-Thumb.jpg"
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
         width: 1920
-        height: 1080
+        height: 830
         isCached: true
-  - title: "Shaping The Future Of FinTech: Insights From A CMO"
-    excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
-    publishedDateTime: 2024-01-19T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/19/shaping-the-future-of-fintech-insights-from-a-cmo/"
+  - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
+    excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
+    publishedDateTime: 2024-01-18T18:01:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/01/18/artificial-intelligence-alphathena-hyde-park-angel.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
-  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
-    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1031510"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
+      - url: "https://media.bizj.us/view/img/12121278/gettyimages-1255418800*1200xx2309-1299-0-0.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Davos 2024: AI most relevant for fintech development until 2029"
+    excerpt: "‘The Future of Global FinTech: Towards Resilient and Inclusive Growth’ finds that artificial intelligence (AI) will be the most relevant topic for the development of fintech in the next five years, according to 70% of respondents. Embedded ..."
+    publishedDateTime: 2024-01-19T11:05:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43558/davos-2024-ai-most-relevant-for-fintech-development-until-2029"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/1078088593.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Pulling back the curtain and unveiling the future of fintech in 2024"
+    excerpt: "Embedded finance has steadily woven its way into the fabric of daily transactions, and its continued expansion is set to continue unabated. Analysts have projected that the embedded finance market will reach $1.9 trillion by 2028 as global adoption continues to surge."
+    publishedDateTime: 2024-01-17T11:56:00Z
+    webUrl: "https://www.finextra.com/blogposting/25540/pulling-back-the-curtain-and-unveiling-the-future-of-fintech-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
+    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
+    publishedDateTime: 2024-01-17T17:14:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
+  - title: "Fintech major Paytm plans to deploy AI to improve business operations"
+    excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
+    publishedDateTime: 2024-01-21T13:21:00Z
+    webUrl: "https://www.business-standard.com/companies/news/fintech-major-paytm-eyes-artificial-intelligence-to-improve-biz-operations-124012100348_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
   - title: "5 predictions for fintech in 2024"
     excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
     publishedDateTime: 2024-01-17T17:10:00Z

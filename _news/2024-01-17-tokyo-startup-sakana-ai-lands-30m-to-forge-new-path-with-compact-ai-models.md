@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-fo
 webUrl: "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Sakana Raises $30 Million to Build Smaller AI Models"
-    excerpt: "Sakana AI, an artificial intelligence startup taking inspiration from the ways animals like fish and bees work together, has raised $30 million in a seed funding round from several high-profile investors."
-    publishedDateTime: 2024-01-16T13:40:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-01-16/ai-startup-sakana-raises-30-million-to-build-smaller-ai-models"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "AI Startup Sakana Raises $30 Million to Build Smaller AI Models"
     excerpt: "Sakana AI, an artificial intelligence startup taking inspiration from the ways animals like fish and bees work together, has raised $30 million in a seed funding round from several high-profile investors. The premium content you are trying to open requires ..."
     publishedDateTime: 2024-01-17T00:01:00Z

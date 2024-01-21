@@ -23,68 +23,36 @@ topics:
   - AI
 
 related:
-  - title: "Gamification In Banking And Fintech: 5 Learnings From iGaming"
-    excerpt: "Fintech could incorporate similar features to make financial management more dynamic. For instance, introducing badges for reaching savings goals or interactive scenarios for financial planning could add an engaging layer to the user experience. Using AI ..."
-    publishedDateTime: 2024-01-16T14:32:00Z
-    webUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/"
-    ampWebUrl: "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/"
+  - title: "The Future of Global Fintech: CCAF Presents Report at Davos"
+    excerpt: "The Cambridge Centre for Alternative Finance (CCAF) was at Davos, Switzerland, today to present their latest findings on the Fintech revolution at the World"
+    publishedDateTime: 2024-01-18T17:19:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220454-the-future-of-global-fintech-ccaf-presents-report-at-davos/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220454-the-future-of-global-fintech-ccaf-presents-report-at-davos/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220454-the-future-of-global-fintech-ccaf-presents-report-at-davos/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a6a66ddb0dfad06873325d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2024/01/Bryan-Zhang-Davos-WEF-1.18.24-600x439.jpeg"
+        width: 600
+        height: 439
         isCached: true
-  - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
-    excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
-    publishedDateTime: 2024-01-19T17:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/19/ai-evolution-tech-pioneering-smarter-decisions-surgery-security-cubeconversations/"
+  - title: "Unlocking the Future of Finance: The Must-Take Courses in Financial Technology"
+    excerpt: "Welcome to the world of finance, where technology is revolutionizing the way we manage our money and make financial decisions. From online banking to cryptocurrency, financial technology (or FinTech) has disrupted traditional finance industries at an unprecedented pace."
+    publishedDateTime: 2024-01-18T15:32:00Z
+    webUrl: "https://techbullion.com/unlocking-the-future-of-finance-the-must-take-courses-in-financial-technology/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
+      name: Impacts
+      domain: techbullion.com
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Alan-Cohen-Clean-Thumb.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Financial-Technology.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
-    excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
-    publishedDateTime: 2024-01-17T16:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/ai-unleashed-transforming-banking-and-fintech-through-intelligent-automation/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
-  - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
-    excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1031510"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 15
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eed45b04-cce6-4b26-ad2b-4dfcf12b7967/Rendition/low-res/Content/Public"
-        width: 700
-        height: 342
-        isCached: true
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "lBfu3cp+9vsdnY9B9J1ESrXgkSQY+OXdiaB0TbzlvUeCDF32UTNVwZaet5pvXOM6rgEu++n50/0TNYHubrfH4ke8olwYWscgz8zRCmqYV7jvmdLsPQOMZjTgVSu0ut4cFRjQdY/vZu1zI+KWV7Zqy9UBHuLIIM/q0YwIwzSe4K87OPM9pXG3HABzj2UxEaVH5E2PBe63lBzWk6SLAW+JcuiCP1Er3kGBEN40hF4Gt/WasP/eWKY0TLDYOBoKvwU/m0PJyf7ENaa9r3xPViUf1LtIyHlglohsnWzgXq2std7Hegv7I570LuHFmv2937qo8VPUaLJxpqTIiaQT+6nBpJKOUIdEDFFE1qJ/x52F34jLGsRyMh4EEunVgXNBBchjEjWn8Fx2f+ks96vKdh1q5dbCpbB0urdPRlNkJehxIts13c9KM+OZkYkDZe/GV4AxIWWo8LnSySVdp8jTY2L0BysmZKI+/8fD8xh2FWAAauGTF7Zk0QN7y9CF/b1qs5ZPCrC0aYVCiGIgXaLy60s/pg==;6Oc3mIQFjCuGxSqxl4A48Q=="
 ---

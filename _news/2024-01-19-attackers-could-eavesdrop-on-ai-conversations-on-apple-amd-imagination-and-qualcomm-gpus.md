@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-
 webUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: TechRepublic
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "A Flaw in Millions of Apple, AMD, and Qualcomm GPUs Could Expose AI Data"
-    excerpt: "Patching every device affected by the LeftoverLocals vulnerability—which includes some iPhones, iPads, and Macs—may prove difficult."
-    publishedDateTime: 2024-01-16T17:01:00Z
-    webUrl: "https://www.wired.com/story/leftoverlocals-gpu-vulnerability-generative-ai/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 83
-    images:
-      - url: "https://media.wired.com/photos/65a1549c81f92dbe563bcabb/191:100/w_1280,c_limit/AI-chip-flaw-GettyImages-85757121-(1).jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "AMD, Apple, Qualcomm GPUs leak AI data in LeftoverLocals attacks"
     excerpt: "A new vulnerability dubbed 'LeftoverLocals' affecting graphics processing units from AMD, Apple, Qualcomm, and Imagination Technologies allows retrieving data from the local memory space."
     publishedDateTime: 2024-01-17T14:32:00Z

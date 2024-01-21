@@ -99,45 +99,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
-    excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ..."
-    publishedDateTime: 2024-01-16T15:45:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379"
-    ampWebUrl: "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 81
-    images:
-      - url: "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
-    publishedDateTime: 2024-01-16T13:45:00Z
-    webUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: Morningstar
-      domain: morningstar.com
-    quality: 56
-  - title: "Vodafone, Microsoft sign 10-year partnership covering AI, IoT and more"
-    excerpt: "Vodafone and Microsoft hit the headlines on Tuesday with the announcement that they have signed a 10-year strategic partnership that will focus on business development in areas including generative | Vodafone said it will invest $1."
-    publishedDateTime: 2024-01-16T16:33:00Z
-    webUrl: "https://www.fiercewireless.com/wireless/vodafone-microsoft-sign-10-year-partnership-covering-ai-iot-and-more"
-    type: article
-    provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 54
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Screen%20Shot%202023-10-31%20at%2012.49.08%20PM.png?VersionId=HQQlvuyK42_gkf5Fa8uTN_6JXexsgnrU"
-        width: 1242
-        height: 690
-        isCached: true
   - title: "Vodafone signs AI deal with Microsoft"
     excerpt: "Vodafone has signed a 10-year deal with Microsoft to use the tech monster's artificial intelligence and cloud technology. The deal involves a $1.5 billion payout from Vodafone to Microsoft over the next decade. As part of the deal, Microsoft will use ..."
     publishedDateTime: 2024-01-17T00:01:00Z

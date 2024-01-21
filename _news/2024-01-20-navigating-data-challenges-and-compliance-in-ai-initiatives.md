@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence Is Changing Gymnastics Judging"
-    excerpt: "Proponents believe that artificial intelligence can eliminate biases in gymnastics judging, making the sport both more fair and more transparent for viewers and for the gymnasts themselves."
-    publishedDateTime: 2024-01-16T15:53:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-changing-gymnastics-judging"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c808c4b/2147483647/strip/true/crop/940x457+0+104/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6e%2Fdd%2Fc21018f5747da562aece2cbad779%2Fshutterstock-ai.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "QgHJffsKg7dgGBT1icXsoXW9Ieta6cisX6IHFQ5D9asUMZpMotn6Nkg256bwpZ+TzpHhSJMMEQJyCm9xPwK/23qB8oo1ZL4gin1GT35qhLdjQoTlskerUbzr2pR7ZDVEtBM6Mlgf3cMcsAAQ47Yy3ux/KGUIp/zaCgT2A3wowe/b9V19NViaIXLbllD1ZSN6pc0WXn6HaDyrHFVjmrr6qGQK4+ZZBo/O84TNaR2yuLWr/G/Q3BZUGZoRDqKHRII/8QkN//kJ2lW395g3o4E9b80Lbv5n+XxQkzOl5+n2/Kj/X41CPrsSqF3b6ywIS++F1IwzZJtwgWWyfLsDMEw0Kk/sQI8pX6WLat0uws9xWA0=;3L1yxTB3FP1PtsVOxTlkdw=="
 ---

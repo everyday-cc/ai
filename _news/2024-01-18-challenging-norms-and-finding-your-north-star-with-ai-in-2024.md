@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "How Artificial Intelligence Is Changing Gymnastics Judging"
-    excerpt: "Proponents believe that artificial intelligence can eliminate biases in gymnastics judging, making the sport both more fair and more transparent for viewers and for the gymnasts themselves."
-    publishedDateTime: 2024-01-16T15:53:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-artificial-intelligence-is-changing-gymnastics-judging"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/c808c4b/2147483647/strip/true/crop/940x457+0+104/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6e%2Fdd%2Fc21018f5747da562aece2cbad779%2Fshutterstock-ai.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "KPMQmeKOhCfziU7BjdIKnX8q2CEfy/Ry4vhmymIu1NVp/n5NXoCS03Zp031517ZGEu3U2C5vQBiGYpQyTvMWbbN3VBzLnKyIKchEaaoXih8CrGSL7xbMF9WLmGmu4TNhRmsudnOvhy2o524cWNnLMWDScr41faD6V1wCYQKdcqO0U8DeUL/oRwS7K6Ym6yaHUycozJWvMI52X7Zq90anTxB6pyW2FVf0Vmt83adv1XIxJWeD2+Nwlm8yzL5GZm21hcI6s14RxkNuPiL7hpEmnp2T7cQG8GgKHyEbrGqeebrXvoBIUQda2WzkyeadLmWES2N+oCsToN+bBAC+WcxopXpopXyMT/OAYFOy4CK66Ig=;nXsOmwK4Hkrc1xfaNAtD6g=="
 ---

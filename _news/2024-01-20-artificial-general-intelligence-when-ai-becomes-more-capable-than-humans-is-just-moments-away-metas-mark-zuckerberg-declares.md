@@ -102,6 +102,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype"
+    excerpt: "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models."
+    publishedDateTime: 2024-01-21T02:25:00Z
+    webUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/"
+    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 59
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Zuckerberg reveals Meta’s AI reorganization and massive GPU purchase"
     excerpt: "Mark Zuckerberg said the company would bring the two AI teams at Meta “closer together” as it plans to expand both groups."
     publishedDateTime: 2024-01-19T02:24:00Z

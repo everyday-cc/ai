@@ -77,6 +77,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
+    excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
+    publishedDateTime: 2024-01-17T16:31:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-unleashed-transforming-banking-and-fintech-through-intelligent-automation/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 33
   - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
     excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
     publishedDateTime: 2024-01-17T17:14:00Z
@@ -86,6 +95,24 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 19
+  - title: "Fintech major Paytm plans to deploy AI to improve business operations"
+    excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
+    publishedDateTime: 2024-01-21T13:21:00Z
+    webUrl: "https://www.business-standard.com/companies/news/fintech-major-paytm-eyes-artificial-intelligence-to-improve-biz-operations-124012100348_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
+  - title: "5 predictions for fintech in 2024"
+    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
+    publishedDateTime: 2024-01-17T17:10:00Z
+    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Gv403K8xtSCk6VCg8vdwewAocmb3gEYZCFigYc68kspyKZqtU4CbeIo0kAIBx8O/c0UG0pEwTQbapFchIhNb7FqDKqoqA7aRGiJB8gmCm3zJ458npeCfDImkHtapcrOPokEh35MY+UhjAPLhcoOpy+t+PciF7k4syCiNSFPil/OmNQnqFO9iFrueCVC8ZveGPe+eW/UI1bBDPF+Me60B3TLTbmX3zYjji9uEt8yq8O9ryIUKlWRTDwtyDvMX5gUZXw6KC3DpohxJxBAl8eLemZ8AVm/UKbxT1drol7PZAK7y+PlpJjkneHxl01XrY9bbdoC02stngu6MFCIBMJzRgzXbQO1ehEcJTr1riLrPdqkbz+uskcGSAOWL4N/zwL+hXoiSAOHJB32l500LlIOnIqNttnIkAN9I53A41oBwO73LyDSwLRtjH3if69XwFkbJ8BMvuWdP3bTOpZPbjp+7ZLGnRSb9TyWb7dUTk2IJM/Ho2kUi/F4LwphPWQkGVpAUgY0ITWvCSZAYUnA+MtBO5Q==;VbeN98sKELn1RdVnBOj0xw=="
 ---
