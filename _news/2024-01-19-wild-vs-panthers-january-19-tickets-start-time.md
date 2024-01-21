@@ -24,19 +24,117 @@ images:
     isCached: true
 
 related:
-  - title: "Best Amazon deals in January 2024: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2024-01-19T18:36:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+  - title: "Kennesaw State vs. Bellarmine February 1 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Thursday's ASUN slate includes the Kennesaw State Owls (12-6, 3-1 ASUN) facing the Bellarmine Knights (4-15, 0-4 ASUN) at 7:30 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
+    publishedDateTime: 2024-01-19T11:24:00Z
+    webUrl: "https://www.wtoc.com/sports/betting/2024/02/01/kennesaw-state-vs-bellarmine-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
+      name: WTOC-TV
+      domain: wtoc.com
+    quality: 22
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/7NWY6NKRP5KBFAVAZN33VSMNVM.jpg?auth=1587cb14b395d0050edf47f62869531bdc2eb9ae0cb3a53163b2aede60d3e1fe&width=1200&height=600&smart=true"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Houston vs. Kansas February 3 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Saturday's Big 12 slate includes the Kansas Jayhawks ... Texas A&M-CC February 3 Tickets & Start Time Incarnate Word vs. New Orleans February 3 Tickets & Start Time Texas A&M-Commerce vs. Northwestern State February ..."
+    publishedDateTime: 2024-01-21T11:30:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/02/03/houston-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KTRE
+      domain: ktre.com
+    quality: 22
+    images:
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/3IWB4OVZENNGHPZEIJ2MYGCYVE.jpg?auth=705f7e9839622b6624468478d065c441068e0f5d362cd15bb7ca5df1a12ea394&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Alabama vs. Mississippi State February 3 Tickets & Start Time"
+    excerpt: "Alabama Crimson Tide vs. Mississippi State Bulldogs game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-01-21T16:31:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/alabama-vs-mississippi-state-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/GDVGLFA7LRM5VCBBIEPNMKIPNQ.jpg?auth=98a72d78540a845e26d60cff61cb8c2b02f7e947a92ff7af346900d4c6412e38&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Houston vs. Kansas February 3 Tickets & Start Time"
+    excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (15-3, 3-2 Big 12) playing the Houston Cougars (16-2, 3-2 Big 12) at 4:00 PM ET on ESPN. If you're looking to catch this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-01-21T16:29:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/03/houston-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/3IWB4OVZENNGHPZEIJ2MYGCYVE.jpg?auth=705f7e9839622b6624468478d065c441068e0f5d362cd15bb7ca5df1a12ea394&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Louisiana vs. South Alabama February 3 Tickets & Start Time"
+    excerpt: "Louisiana Ragin' Cajuns vs. South Alabama Jaguars game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-01-21T16:31:00Z
+    webUrl: "https://www.fox8live.com/sports/betting/2024/02/03/louisiana-vs-south-alabama-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WVUE FOX 8 News
+      domain: fox8live.com
+    quality: 22
+    images:
+      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/v2/DP3MESTX7VP73FJTNH3BLHCZ4U.jpg?auth=26a4bd5e0b9cc49d857aafd134c6697de7e9bc62b0cdb0e91407fd04ec7e489c&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "South Alabama vs. Louisiana February 3 Tickets & Start Time"
+    excerpt: "South Alabama Jaguars vs. Louisiana Ragin' Cajuns game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-01-21T16:32:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/south-alabama-vs-louisiana-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/UYVA2HIX4RPD7HUZBKO3GYSRSM.jpg?auth=ea31c2740b90aa0a5edf0837ea48700b6cea9d6f6b82d436bafcf31c4635e057&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ole Miss vs. Vanderbilt February 1 Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Ole Miss Rebels (12-5 ... Prairie View A&M January 22 Women's Basketball Tickets & Start Time Jackson State vs. Prairie View A&M January 20 Women's Basketball Tickets & Start Time Mississippi Valley State vs."
+    publishedDateTime: 2024-01-19T06:50:00Z
+    webUrl: "https://www.wlox.com/sports/betting/2024/02/01/ole-miss-vs-vanderbilt-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WLOX
+      domain: wlox.com
+    quality: 20
+    images:
+      - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/v2/27KJQU7AONKLNGK3KWXJPEITYA.jpg?auth=3f5fcf02bc2b5da670c4c62f8468aa53ef93cbf38d69eb11310ed687c5ef0274&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Denver vs. Oral Roberts February 3 Women's Basketball Tickets & Start Time"
+    excerpt: "Denver Pioneers vs. Oral Roberts Golden Eagles women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-01-21T12:24:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/02/03/denver-vs-oral-roberts-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 20
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/WDO4DZF27NMZLFIHNDSGJD3NZE.jpg?auth=e93045a9d5e031b9b22d230a199977fe5b1c05947aab28c4ce7b86db2177c6f7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "iznNfSnbZ8mZM6UjSvjlY+OERTqsQIahWhPh1eN53DEpEJgCW1HP2gtGQ5EVWyKtNFg2zOK+bNnOfJnHJEF1bbZMjmf7D9HAyAgLd6/1T/60Ba/UsnvfBFay0/ZmzezRjazY7HepNcHtqOQMgfOBagWfGw2UE0i6+D4/LwHb0Bg/5S8ysC/OhxaEjyK6vSHqVi1p8PffZAFspXG2Nvw0lzahUxvSMiLPRTUya5/6/QX1qvCEfJtl4ZvK19vnHeLfWreqBKrkCigyTxHfKVXMBJOhwrG5KItLeQDALButmcr7prBdlseKmc/boNMypWPrxWZ1sxqSg34XPvqGUHKnb9PUxQ29ZmS+OFDYBysrTjY=;H3/5kgdjUlEmt9K2VW2DUQ=="

@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Seoul to launch self-driving buses for early-morning commuters"
-    excerpt: "A self-driving bus service for pre-dawn hours will be launched in Seoul in the second half of this year. The service is expected to enhance convenience for early-morning commuters, according to the Seoul Metropolitan Government, Sunday. The autonomous bus ..."
-    publishedDateTime: 2024-01-21T07:02:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/281_367325.html"
+    excerpt: "A self-driving bus service for pre-dawn hours will be launched in Seoul in the second half of this year. The service is expected to enhance convenience for early-morning commuters, according to the Seoul Metropolitan Government,"
+    publishedDateTime: 2024-01-21T06:59:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/113_367325.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
     type: article

@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Upskilling: Why finance guys need to study fintech"
+    excerpt: "The financial services industry is undergoing a profound transformation. To keep up with the changes, we need to constantly reskill and upskill. While there are multiple courses, a master’s degree in financial technology (fintech) can also be considered – not merely as an academic pursuit, but also if you want to thrive in the world of finance."
+    publishedDateTime: 2024-01-21T22:30:00Z
+    webUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
     excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
     publishedDateTime: 2024-01-18T18:01:00Z

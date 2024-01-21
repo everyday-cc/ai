@@ -99,6 +99,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
+    excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
+    publishedDateTime: 2024-01-21T21:14:00Z
+    webUrl: "https://www.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028"
+    ampWebUrl: "https://m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Vodafone signs AI deal with Microsoft"
     excerpt: "Vodafone has signed a 10-year deal with Microsoft to use the tech monster's artificial intelligence and cloud technology. The deal involves a $1.5 billion payout from Vodafone to Microsoft over the next decade. As part of the deal, Microsoft will use ..."
     publishedDateTime: 2024-01-17T00:01:00Z

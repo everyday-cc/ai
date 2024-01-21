@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 397
     isCached: true
+
+related:
+  - title: "Could Snowflake Be the Best Artificial Intelligence (AI) Stock to Own in 2024?"
+    excerpt: "Snowflake(NYSE: SNOW) has become a popular artificial intelligence (AI) stock for a good reason: It fuels AI innovation. AI is built on the back of data, and Snowflake's business of data collection, storage, and processing makes it a perfect AI ..."
+    publishedDateTime: 2024-01-21T20:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23486349/could-snowflake-be-the-best-artificial-intelligence-ai-stock-to-own-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 28
 
 secured: "hKDGox5w1t1WqjmZlZrvuDkmYPJ3F7mz12WdKJFEEqV3qnTW6Bd3CKQVWW9m6hKLZaNsL6YHW43epS+BVXPEoN2lhzthkG5ie9ZsAQ3zZbVyA7dyc9R2hhPyJaysTrusHuHfRWcWoQF8zxu1ygW0OVYsVRpqncsHoWwvfaUWlacvXDF4Igq0MfC+LRSwY3zT8AYE8y333xwT2ale5tyb0takDYRFORRxwUiLN2DosbvmTho9R4TXKKEjOUQU7j26bSD10g44Xa+Q1P+bMTSBd9lmuib6J6jft4gGhUlVCV9qTKKiLMtCrY2R+C2QWEqV2lE5ygUbcZ4WLwZpzv3IUSKs3G+fO1xWt8YvjAaqdMt+bPGHmc8K7y85yJ2ldvepVG2tzO0dhjpuO8YsAqK7kzoh0E4vFgpK6DnNTP7n5fUTy5cKvBYp6lPws47idEOllhtieLcBlz8hdTlL4ekQkulZNCw4me2a/hzwi6hdoQZ64kluID0cqxwkvTih7wxIs3MOJCV9+PAV9mEHvJsyQg==;nXzJ8skIr0uyYNqHhQfR/A=="
 ---

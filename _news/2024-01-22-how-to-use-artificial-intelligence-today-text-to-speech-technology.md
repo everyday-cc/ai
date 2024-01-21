@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 110
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 868
         isCached: true
 
-secured: "y3kybYy5najI0rUKXRIg1q63o4AedFX+GcMRoIz3nK6ePZGO3wzBLReRKNCTj0hV6Im3jvKdWKvnrvpK0jePGRdwsKQx5UU38uf0ruWZv18W/LACnl0jgi6qZt8JZv/VLsinBHtc1PoLhsXUrng5oP3H3j8+epATGk+fMWkbeCKP3bD1aiMi7OQVZGH93xKnDkHmd77QSOdhfrrZV63k5TAjZxcw5K2XD68QMRxqHOuW65RIUReD3IQZ0OYf+9akqhi4ViemYcKIwEd8dack9+nMfb477LvWqUUzCFoZwoxS6+OM9ZtOrViKjfw7Rrn/KdtpHKAEERePsWYnY50gXu0BMEl5MmEsZlR8a7EfFps=;lACK8uK+9+sN6frpI41p1Q=="
+secured: "b1gNJ9ZMEkuy8G7t3hfhIoY097pDLf3lAGQxtYaPSnQVfei/bYxDuwbmTtQ9o4K/kk/gO+FBr6d15Z5eMImPzn42jE9sYijWnC1OU5Np+mx7EEFGjgPRqLuUg7M/rwT/Q0WzG6i4YljvWo4gvMEmLnlHSRin4eW7RmwXWz8YLbrBDhQVtwoT8NQnjWJoWk0tI2XUzn8U35S+Vz8tz7XJrwsUjqUeoSPTxJJQDdw0X4XZWkqNlQ33HXrTuT7Zjv++rljyWWz3wi+0UgE0ZLz1FmXMBB/UQTAsUb/39kPR+vKfDzKYwnCosx44Ob/9ZcASg/AWH52DRfE+oHwbhct9Xz7GMh++hpewYc3dacJhPJaiSKkz9qltehqwU7eKZM9UauCxWQwlWCQVCxxZHkmru+NnIe1P5ue9BtkdclZ1OKxVhYP7Z0GP0akYCsJaphQqUVVVc1+3mUSK6DmT/wkaoCV7TmAquoFOmo7mtusmP4aq/qguVDKtznRAu6a2eHpS0yJarshG7p2aSNVo6Ejhtw==;68PsLoQHOOUsIrQxFtksoQ=="
 ---
 

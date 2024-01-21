@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Seoul to launch self-driving buses for early-morning commuters"
-excerpt: "A self-driving bus service for pre-dawn hours will be launched in Seoul in the second half of this year. The service is expected to enhance convenience for early-morning commuters, according to the Seoul Metropolitan Government, Sunday. The autonomous bus ..."
-publishedDateTime: 2024-01-21T07:02:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/281_367325.html"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/281_367325.html"
+excerpt: "A self-driving bus service for pre-dawn hours will be launched in Seoul in the second half of this year. The service is expected to enhance convenience for early-morning commuters, according to the Seoul Metropolitan Government,"
+publishedDateTime: 2024-01-21T06:59:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/113_367325.html"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/113_367325.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 366
         isCached: true
 
-secured: "eLOfkNWsia8R0b/n+9sGuMgIdnWPqKbal/9xQ0lVMk7opI6C0GK8XC+zvXXkGI2/hA3WvtrkVf+1/1mkeFkankwgPmtavBZE76TmFbXVGZM3XbkWzzFz6KVqPMN6Leal0QphJT1NY10O2ArcexLbEZHi9s2l8GB1gv/i0mGimvX+NWF29XamxaNAXOGK49XgEjmrVG+dzL1uZD8fXY0+MAcRpelpZGqrUhMSAN1aheN6Wby/I4UCScj059QPonmogPvAEtopI05aVo4pYsPfRFib1yPpaQivo4PabKfUZPXjPwLT6aJpZOICfKofFF7JrArXQmY79Fmka2hsBIu5RqhkBVz2/SrnmDLVC5O1l3AZ1Na7lsKMg9SuZoUknRPDn8/x2Hen84uOPFRF0aSaYdAcwA8marTB9T1nhWRemzVNOjEAVjDdrK8a1rGUbIeHQQsJjBREq7wb2PVdc3eGd4o0qcklNegvAJKPwWMd3/5hgAcknMZHeSWEsxlkuhi49Fc5Uih+hKegoXO8Q1lYGw==;OKIDsSOk3YzGDfjvpZjIoA=="
+secured: "8zvQqsSrMoFlYOjeDaN1457C1vP2KweCQLMrOer9JeR+ULipZSDYdOCmSayiaVDI99D7HWLMdMgPgU3ggOiUCJgrBl8KPagjwalzpFnM6rci4VvjFCP0UzjASimxJZgJFmadD0MJVSmhxoUMV3XycPSqB/WHD9mGPTXF1tYZKH2PwrCc+GRHzMZ2Z3YvJOF5Jedx1z0xWRZb5AHz/WHSK91NnB5Mdv9mvCEIwOmeGv3p4TtURyuWKABw58nNFy0nu3N2wALLTeC39FLVIPmUrSkPhUjdjGa83pCWdSiPD8dCpsmpID4woefjuSAL1SNn40yqk1hKOnA7WOcJO/GfUvzhzXta/S7R5Rqp9YeMUYg=;mlblFZVnUeqEAIyGnTkqrg=="
 ---
 

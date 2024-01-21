@@ -174,15 +174,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 60
-  - title: "OpenAI team to focus on democratic processes for artificial intelligence software"
-    excerpt: "SAN FRANCISCO, Jan 16 (Reuters) - Artificial intelligence lab OpenAI is forming a new team to create democratic processes to shape how its AI software should be governed to address bias and other ..."
-    publishedDateTime: 2024-01-16T21:08:00Z
-    webUrl: "https://www.reuters.com/technology/openai-team-focus-democratic-processes-artificial-intelligence-software-2024-01-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 59
   - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
     excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
     publishedDateTime: 2024-01-20T23:00:00Z

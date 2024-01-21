@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-16-join-us-at-the-forefront-of-ai-for-business-think-2024.md",
+      "title": "Join us at the forefront of AI for business: Think 2024",
+      "excerpt": "Join IBM at the forefront of AI for business at Think 2024 in Boston from May 20-23, 2024. We can't wait to see you there.\nThe post Join us at the forefront of AI for business: Think 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
+      "originalUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T18:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
       "title": "How Best Take makes your group photos better",
       "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
@@ -108,19 +151,19 @@
     {
       "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
       "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
-      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ...",
+      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
       "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
+      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,9 +171,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
-      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
-      "publishedDateTime": "2024-01-16T15:45:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T15:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -1142,58 +1185,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3.md",
-      "title": "My Top 10 Revolutionary Discoveries At CES 2024: AI, Robotics, Web3",
-      "excerpt": "This year's CES, a melting pot of over 130,000 technology enthusiasts and innovators, showcased over 3,500 exhibits that spanned the spectrum of human ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a2251d942c9448505f31f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 992,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "publishedDateTime": "2024-01-14T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case"
-    excerpt: "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology"
-    publishedDateTime: 2024-01-16T22:30:00Z
-    webUrl: "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669"
-        width: 3500
-        height: 2239
-        isCached: true
   - title: "Meta To Build Open-Source Artificial General Intelligence For All, Zuckerberg Says"
     excerpt: "Meta is building full general intelligence, or artificial general intelligence, and a massive array of compute power in its cloud facilities by the end of 2024."
     publishedDateTime: 2024-01-18T19:04:00Z
