@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-i
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html"
 type: article
 quality: 99
-heat: 339
+heat: 349
 published: true
 
 provider:
@@ -343,6 +343,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 4
+  - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    publishedDateTime: 2024-01-19T06:03:00Z
+    webUrl: "https://www.islandernews.com/news/national/meta-has-released-its-own-ai-model-llama-2-and-zuckerberg-said-his-teams-were/image_19408ec7-4bf2-5530-ad87-c661220bc07e.html"
+    type: article
+    provider:
+      name: Islander News
+      domain: islandernews.com
+    quality: 2
 
 secured: "arYZhc7ZX9TgkaNtEtWmHspoYqBGrIC5nYMVArrD2m4mud/bBagrTr2XW9eMwpNRm0K+DMQs5Peb7wCl4bh9PR3lwaQs+EW7ky9KDU5Cs8uDBqYbfmW0RZ9uh+I5cERYSzUuZsiS2aE6vL9u5dysqm8S8d4g29x+mrK1hrZdNizWcCFw0q+pNitWuMga1qz+qi6QKTeHQVvb8y4aJ4TLltlJ1/i4780mEXDWLXCB3zkV4jGCZd58gt38a7KKw0EONRw2Vk6vPTVewYgLPB0h9RgICsTr1Tg59LPepdEYFTvQaFQSi+yHE3eXtxfmonG0rEETlkvueYVqRTV9QfGvk1fc8MSguzhPXiq5A8ntwIv3yDkY3zYBgcj/1R8iMlSnXQqPuLb2VJcc4qPg56Bcwvijiq/iRig7RzAhMgEgYwvDMSc6xQAoPiUa2SYgpDDbXUb2oePQCpdRRNb3p0XFelWsbjPa29+PP2RFyVMbzzxwqx0goF9fynkOhG+A7f8akrN1lgFdbjuM04nPMpXUlw==;zL+ihIW3QuhWGy5V3wubSQ=="
 ---

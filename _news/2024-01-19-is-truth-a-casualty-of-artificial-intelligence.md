@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Is Truth a Casualty of Artificial Intelligence?"
-excerpt: "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ..."
-publishedDateTime: 2024-01-18T22:36:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
+excerpt: "In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman, CEO of OpenAI,"
+publishedDateTime: 2024-01-18T22:27:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 800
     isCached: true
 
-secured: "seF0HVpUZI1EY2zfzEniRO/YA3rdDi+zH2QOLPPRNCLgRpGxW8GG97HH1Dv5h9/pjjPGSfcmlSdCzvKnI3wipin4RGRV6kbV+tKwDowPsBekT0SR8Gw1AEqscQVP7Hl9odozPHEFkOTEsmrFnARTHN/i8gQllOMiLEXI+zzsqFkrCiqhUeKXAKF0Vb7ljzuJzREk4ujlfWhYOs9JuCOmZcvpMG+lctXpLb4fGuvhQnVRAmE/CC9bV510Nr1R5sPVSUImQNU3I5E7E7rmBewBI7E7Ln71bGiFPviYz78poDRhU65Vlyg5jA+6BexmxhPZ78MltDxTkePxX966LiQpzjYU6RAHu6ixV84l4hoiqmU=;DYegiMYWzXtVRSooWCqu5Q=="
+secured: "niRX0Rcly24YJWx4ZePByL9rznkKgT8RzZRfwjs+TThn1QY5IapMx0WANCyWiSxbsd3iRYnJjInmNVdnqLsfYMnJ28iM1NWF2tq6iQSOa/Cpz3sYNwaAl8UmgW27aZvyQdtRJ6mOVLro+z7IqkPM7ECeVlwxFE70xJ7gOnN9U4DsIqAVaFSNgNJneliQcQ/68xKFC+jKMRaI671J9dKtsLbQ0RDJqwWBz0Qnmye07yTqc26eMzAi/QVslATzm/kgdUeNoAt4wm96tCW5xar4sHFLbctK1oBOBFfkVfRd8JNnM+uvs86vfMN/rtfoJnRwrOFQ8/N/rcosLghidJpqPRqcXVdB6VyEarw9hWFjy+U=;NzF4NiIIBK8EOOaxgpg1fw=="
 ---
 

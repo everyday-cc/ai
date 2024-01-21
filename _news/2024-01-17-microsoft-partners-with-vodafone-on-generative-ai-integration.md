@@ -121,15 +121,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
-    publishedDateTime: 2024-01-16T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
   - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
     excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
     publishedDateTime: 2024-01-18T17:00:00Z

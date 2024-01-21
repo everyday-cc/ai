@@ -131,15 +131,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
-    publishedDateTime: 2024-01-16T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 49
   - title: "Microsoft partners with Vodafone on generative AI integration"
     excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
     publishedDateTime: 2024-01-17T09:51:00Z

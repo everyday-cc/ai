@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy
 webUrl: "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Host the Whisper Model on Amazon SageMaker: exploring inference options"
-    excerpt: "OpenAI Whisper is an advanced automatic speech recognition (ASR) model with an MIT license. ASR technology finds utility in transcription services, voice assistants, and enhancing accessibility for individuals with hearing impairments. This state-of-the-art model is trained on a vast and diverse dataset"
-    publishedDateTime: 2024-01-16T18:10:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/29/ML-15268-001-1260x457.png"
-        width: 1260
-        height: 457
-        isCached: true
   - title: "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning"
     excerpt: "In this post, we demonstrate how to use neural architecture search (NAS) based structural pruning to compress a fine-tuned BERT model to improve model performance and reduce inference times. Pre-trained language models (PLMs) are undergoing rapid commercial and enterprise adoption in the areas of productivity"
     publishedDateTime: 2024-01-19T18:06:10Z

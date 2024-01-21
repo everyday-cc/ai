@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/"
 webUrl: "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Unlocking the power of chatbots: Key benefits for businesses and customers"
+    excerpt: "Discover how well-designed chatbots can encourage your customers to take action and boost your bottom line.\nThe post Unlocking the power of chatbots: Key benefits for businesses and customers appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-18T15:30:29Z
+    webUrl: "https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 80
 
 secured: "N1OFGdq38QuUF4Y0Bwe2mD0SwD5UQQvQGMhIM3qk7PDiTM8dlqOZW+U5ndtcvzyPUfpcjSStt03P3ZcHrhoRcSVMm831txG94kyjs6S395FwvPkV0h5s+PTcHT7sWuMuj07mYJ7pr7PFXcW1qVljB+/rdYgNySvYBsuxhlLpTE2PVuWuToLHLhAuL10G3rpgSyEiVwceYkuRGgq8OeVU1ECyLgMJ0KQVqvVAUq2TttHy+WsMxqOGRHmC0u0sMuw0SBhCJ1u7WsilDC4UjbyPZF1r6DmZrmKMCWa8ax8XceYruN8sQ4Gvltw3U/8TANBY2GQ3/x6sn8KZ8fcUy4apb5umnokkLa9lZ8yjeEn+8rQ=;p8Gw27j/dlhGBrAlaIX6cg=="
 ---

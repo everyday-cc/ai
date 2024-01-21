@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Beware The Coming Artificial Intelligence Tax"
-    excerpt: "A recent Financial Times article argued for a tax on artificial intelligence companies to address job losses from AI. However, an AI tax would be premature and sets a dangerous precedent."
-    publishedDateTime: 2024-01-16T17:54:00Z
-    webUrl: "https://www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2024/01/16/beware-the-coming-artificial-intelligence-tax/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a6bef539d64486bd48f468/0x0.jpg?format=jpg&crop=892,501,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
         isCached: true
   - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
     excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."

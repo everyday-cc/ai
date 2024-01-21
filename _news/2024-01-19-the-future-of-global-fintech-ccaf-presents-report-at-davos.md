@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Shaping The Future Of FinTech: Insights From A CMO"
-    excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
-    publishedDateTime: 2024-01-19T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/19/shaping-the-future-of-fintech-insights-from-a-cmo/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "2yPDEykH1zEgniYRqwU0xVju4icRYpops5A20IvEeTusMaNj9zXMBoZtwX0g1oZ5f7h41HzaU8bWlWz7RkEJ/XWD+isle4XyqyyseNVZpB15gtczfA4xamoUfn1WYFeGswx6pJag3kus/c6NVcyvIGAWvw27/IyUNyI89gZYrbAEd7mosXdEpdZG6gcv49jWPqdpJE6F9ACqgmrLZqfKMzoK+DUckHIwIDxkhueLWR6+tKWmp5jlmnTFf2F/coeZRlGXmEcCg59a4E0fiynHG0L2qFHfdSR7GXnMjsB6o1wCit2X1SjyGac6qqBs9ujgqvkDYp0mhls44RxIyL4YR6pVapLdFOEU9oyZqiZ46btJNny310r0DbyEUvh7TKNVHgL+gGBqd67zDLyjPfP/dyeiEa5AjaCU/oYkkIxVXIHCUGEwaBHW4Bxw2X84Oojoj3NcXxQGLJJCccDxCo2bDEi57RKgIrD7osrAd8+ilfS9p3rp8nqvaF53n63YkhwrtCRGiuYSuq1IszbJv57/Kw==;MFO7qScyP+1U9ghAPXnt9g=="
 ---

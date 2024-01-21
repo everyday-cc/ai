@@ -342,6 +342,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 4
+  - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    publishedDateTime: 2024-01-19T06:03:00Z
+    webUrl: "https://www.islandernews.com/news/national/meta-has-released-its-own-ai-model-llama-2-and-zuckerberg-said-his-teams-were/image_19408ec7-4bf2-5530-ad87-c661220bc07e.html"
+    type: article
+    provider:
+      name: Islander News
+      domain: islandernews.com
+    quality: 2
 
 secured: "6Q4F32e9hWwVLAVrzqPHbny/2WSUHBaDZiaYT4YkWLJuBr6X9qivs6UJzhSSLbkZP+uzu/wpP4t6iuxCdulII/LcPwJUmVB1uqb2fKJNXEI5WoOvdPO75N/mVsXsImya1TZJ6DUy76x3qUVNCcylFFqvm+NrYfyXM74e7LMlCP90Vso3XnKGTjsYx3YsKf38fsPvRKe+S0fvZDBzuAwlsIe6MUOm641jCBASyn5UBftETJQyMGFPW70mEA5fkMcFzgtkGRtl7hU57iOeHcXEY8Vj4Wb2Klyyn8o4P1/glS6N2o5gSoOSgyKipm6Suf4GsNBH6txvfyH93nsQyl8g6/pG3yOd8t3pqhsts5c2A5kh7aBsV7QbnguNVMSv/EjQwZy885FqRGsJMeZO7Af/6a4gEl2nGObtTohQHw0es3Bmq0IA03XVr2aWXfnTACv2D8IRboyfaEBZLorbBjk5bjsywkxjwEiEAwT942uMI+d8D3UP1IZvLc9IsCkh7WI4cs64e5D5En6EelADOMB7TQ==;ykxZajGvXGWgZ9+2WSme/w=="
 ---

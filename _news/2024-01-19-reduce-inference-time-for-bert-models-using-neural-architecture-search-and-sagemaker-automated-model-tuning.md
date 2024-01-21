@@ -43,20 +43,6 @@ related:
         width: 1022
         height: 511
         isCached: true
-  - title: "Host the Whisper Model on Amazon SageMaker: exploring inference options"
-    excerpt: "OpenAI Whisper is an advanced automatic speech recognition (ASR) model with an MIT license. ASR technology finds utility in transcription services, voice assistants, and enhancing accessibility for individuals with hearing impairments. This state-of-the-art model is trained on a vast and diverse dataset"
-    publishedDateTime: 2024-01-16T18:10:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-the-whisper-model-on-amazon-sagemaker-exploring-inference-options/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/29/ML-15268-001-1260x457.png"
-        width: 1260
-        height: 457
-        isCached: true
 
 secured: "/Ncy4wDnftsPnlNjv8IK0hIxmDDZNdZUKr9MycDTUNP9VlL3zu4RTZsUkuZyWmhNNlDmUYxtl155VO7dVupycR3sWV+3ORY/+lv5c+hM/e6Hhmn87QpIy3vG40YN1S8E+yOuYFKiQaV5HBSJczQeawcVVR3qBe+Q6wfWFJbYGqAYliyqdygf1BOURNuv7lxs92Y5F/daKtF2jh+xnltjUmUwc8ZOHCJYkVYP3ni/XScQaKd/0j234eAwpPGnzWcSQn8+tXBFtm8Ukm0DIClGfZZdNLQCf4EpWwEgAhg913H1CYX9A5luKGxgc4tbqzunn3cNA6Jo7CYyN/R0WRAr5OA1tXsI94U5zRjsJlmYP04=;1rywVRuvkcM3hhjtPNMhZw=="
 ---

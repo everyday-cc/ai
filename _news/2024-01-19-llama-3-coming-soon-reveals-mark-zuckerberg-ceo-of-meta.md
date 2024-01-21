@@ -338,6 +338,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
+    publishedDateTime: 2024-01-19T06:03:00Z
+    webUrl: "https://www.islandernews.com/news/national/meta-has-released-its-own-ai-model-llama-2-and-zuckerberg-said-his-teams-were/image_19408ec7-4bf2-5530-ad87-c661220bc07e.html"
+    type: article
+    provider:
+      name: Islander News
+      domain: islandernews.com
+    quality: 2
 
 secured: "FPJgazt4Y+covj6Dp8wt+hclklvVo7I9B6K9FIEGUmvnRSAXWx0bjSsFSw15BwTOGa9CbP1LdISPZc4XmvqELUATqPhRsl5/cqMjNtwf6Tm3Wo0sOeNqBUWvw024lfEf1k35k5bysSnve2WoTlqkzdgJemy5Ak9zHRxMKNno3GFOQgfjBXrfCskF9YE7FvjdAxAmVHagU4XCuKs8JzsqRt4Fjvjmr1wFRMM1tcdxcc7uoIHl0vitZEav2WMqGwFUhxi8ZveB+0IunVtJOu0sJSLuYPESx05MW+D7HXb38vB+7a5pvjV0PHYAJu8Rrp2W0LkKtHlSupgYcp0zd9gsTSFfzKd/jf0VrISGbFbGhkViHTGT5hNIG+VkZdMtCfvOwCRMq5vY+SykDop8Qhhvy1PbhZY87Km5ute9+TCNW6oKqXby1yEHQi3NUsME9smhTyrh0+2xSOE+BcJUNuPFrSebl/0YKTF12rpuQk4MQHRZsfxknSUnrrrCSIoqto3sCH/4R2Otu9kY/SPmpjv1FA==;iCicHWV3419HMAT09EKvMg=="
 ---
