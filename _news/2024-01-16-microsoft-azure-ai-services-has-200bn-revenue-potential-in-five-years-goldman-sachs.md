@@ -1,12 +1,14 @@
 ---
 category: news
 title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
-excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
-publishedDateTime: 2024-01-16T15:52:00Z
-originalUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
-webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
+excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ..."
+publishedDateTime: 2024-01-16T15:45:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379"
+webUrl: "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379"
+ampWebUrl: "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
+cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
 type: article
-quality: 61
+quality: 81
 heat: -1
 published: false
 
@@ -19,9 +21,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
+  - url: "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -192,6 +194,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "XKJwGb49YZ5YtZs+iLHQ6x0Cbi7ef55DtoORCwEyY6uw6891cBstMWj2ZX7au/nBrk7/Y8ApfTi2Xt/82pKvxuonbHwfXZOsqggqNUh0gJg11ANWaw6a5Fp2a2W3BN0dbWP4POsXLvyODmHfIlyxEDuISL1MsWk9bK+F008R4+wO0pTMEaR/7AkwcOY+CDab9EPWOZDZyP4R366N9qLYZDS/7ng7GN8X9J6hllqfPEPReMsoeYTExhUTAc4S6GlxARIA/V36ZOf0Fuk5iOE98VOsNawRhyU0TqzKD4Q+c5U/DHO2BMvYqlzk0F/yebCJQTzTCAi9temJHHuspZNZheypOuELJVkGG9Ss+SwfGoE=;ovd3LxK6SX48jlb2jvaK3Q=="
+secured: "G1w6VZmVlCEWyLb87amgnmiMgT2KtoasGLX6ZcXXc+a9nlvUsa93NRimK9gRP5ay20F0HMniNkxick/0DGv/WygVPwRHhLOWq3hpL+wwHfjTOg8/uvrVXE241KldeY3hOe6Bxvzn7h2T5J7LGMKXsZxsdLmZJVGzAM5bWxu1N9QMCdHBdlOJ47J8UuU0px7aWivtSUV+sASkeNTy+SLVxtjG+JrB4FDF8guHDC0LEd79L4PCu0zMysTXxD2HxcxD4MQcps/Gdk5pYgNox0GzWzSAI+Z2wAbUJVXW6r+PADbit1U/7w6hYEt+O/o5NKo2kcmlCi88yV4omqqmgFBEwxSkQd2jUOqJ9JExWyirTcA=;+i5WjVZXXQ4v4Dpf76Mdlg=="
 ---
 

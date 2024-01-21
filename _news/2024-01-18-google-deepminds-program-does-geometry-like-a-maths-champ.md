@@ -116,6 +116,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup"
+    excerpt: "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore)."
+    publishedDateTime: 2024-01-20T14:46:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836"
+    ampWebUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 72
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
     excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."
     publishedDateTime: 2024-01-17T16:42:00Z
