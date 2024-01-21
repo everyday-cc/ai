@@ -7,8 +7,8 @@ originalUrl: "https://www.smdailyjournal.com/news/national/pope-francis-ai-ethic
 webUrl: "https://www.smdailyjournal.com/news/national/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_46adca52-b64d-11ee-970c-33c68bc87c4a.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: San Mateo Daily Journal
@@ -40,6 +40,20 @@ related:
       - url: "https://wwwcache.wral.com/asset/news/technology/2024/01/18/21242115/65a8b6857bc15-media_040c0b58517b4a5f864124b1e8d7a3e1-DMID1-61n7pimtq-640x480.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "A Franciscan friar has the pope's ear on AI and how it can help — or hurt — humanity"
+    excerpt: "As artificial intelligence’s impact on society receives more scrutiny, a Franciscan friar who preaches a message of ethics in technology has gained some powerful listeners"
+    publishedDateTime: 2024-01-17T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2024/01/18/ai-ethics-benanti-vatican-italy-friar-microsoft/10920ee6-b5c2-11ee-b285-0853d4d1b92f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BM2LZFVVYII65MUFBBJ5JUNZF4_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "cglYuW6yYs+5bofpTFQ+P7oHxWLskTUWpBYcjuscbfDOqq4aDNqRxgz+8hNVhhPj4aoTA+goAAc8o2bSYfXU/BhokRaCjUsZTaVBQDNDbWaYdauKONSAeMXk0blX/bzvOaNA7821iwCLGl0hGKCOL4ZFlzoyy4vUo7HTwhEhxkaJGEUvkAecvouJ2pu9ttphfwU94oaFZHuqiDJ9e4nrYtzXEzJjy1xiYx7AS5+IkR30ziVNnu0B3woQjKMAO7VI2RrGg15uvL1v9gphgSPli8+JXwuuv1HeKCjb3NGzVWAN22PlN76F9g659U6zYVdgh+H31O7tuMK0cUVNADGnqw6+h6PyZ79gQGH+sSkwRg60c+LiR5ir44azrJB65wQo9isNc+++rByfGFdl+wxZFXitTa8WdRTqkjJygCblPhrsK4MPXxeg6lSUtRB0NGbYTmcXmT317lbA+aqrx1hsQouMSfTi3AMDvqmbifIheId4ZssNKNWNOQyowuFFLjT6SoEB693PA03aYyqujGYLjg==;KDiktAOJIDuPFuSNZNDMhA=="

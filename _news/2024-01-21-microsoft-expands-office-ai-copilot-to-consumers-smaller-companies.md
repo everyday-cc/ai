@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT"
-    excerpt: "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses."
-    publishedDateTime: 2024-01-16T08:11:00Z
-    webUrl: "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964"
-        width: 4973
-        height: 3309
-        isCached: true
   - title: "Microsoft makes its AI-powered reading tutor free"
     excerpt: "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ..."
     publishedDateTime: 2024-01-18T18:00:00Z
@@ -101,6 +85,34 @@ related:
         width: 1338
         height: 900
         isCached: true
+  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
+    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
+    publishedDateTime: 2024-01-19T17:57:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
+    excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
+    publishedDateTime: 2024-01-16T15:52:00Z
+    webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 61
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
     publishedDateTime: 2024-01-16T13:45:00Z
@@ -138,20 +150,15 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Microsoft-Vodafone deal confirms cloud-native trend — Raynovich"
-    excerpt: "Vodafone’s landmark deal with Microsoft might change that. Vodafone, by tying up with Microsoft on future telco cloud platforms, may be a signal that the telecom industry is finally ready to give up and move their platforms fully cloud native."
-    publishedDateTime: 2024-01-18T14:58:00Z
-    webUrl: "https://www.fiercewireless.com/tech/microsoft-vodafone-deal-confirms-cloud-native-trend-raynovich"
+  - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
+    publishedDateTime: 2024-01-16T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
     type: article
     provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Vodafone%20booth.jpg?VersionId=6CKPi7Rs0Ea06Ss_c0SK3QbfKcuPZdnF"
-        width: 1700
-        height: 1275
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
   - title: "Microsoft partners with Vodafone on generative AI integration"
     excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
     publishedDateTime: 2024-01-17T09:51:00Z
@@ -161,6 +168,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
+    excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 31
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/01/MSFT_Security_Jan_11_Blog_240111_V01.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft and Cognite extend partnership to build industrial data operations platform on Microsoft Fabric and Azure OpenAI Service"
     excerpt: "Cognite and Microsoft are excited to announce an expansion of their strategic partnership to bring enterprise data operations to the generative AI era."
     publishedDateTime: 2024-01-18T16:09:00Z
@@ -171,6 +192,6 @@ related:
       domain: microsoft.com
     quality: 19
 
-secured: "YbrFeaRDBv4cDKkMkZWnFNlV6YHBfvMCgvfBIGweXni/YYt5vTMTWNf2Uvdr/PcHY7d1hMNvJUxZDfsy0ZLQV2ZrVs582xtrbUOoBUw4/akmfSEjpDaRaJ4v1IiCicj588i40b6prBc3wVHglZZso9H28WMjijvQ6TI2NkptEo9RGRrfJIWg3XVQKEysfyx8E58JgnG2JN7PhNlHfY9YcUnJ4rGjPtp3NF7j6C1v1SmScZYgWfdd/49lhGQITL2MUuUqyrxS8JBJqruXWWCv/Hnu/E9TeoM6elCvRIE4gtpDvuQ63aK95z+w038nVEgLeW+AoAyRUpI47v7+XIw221A7xccs6qhvyFcgqM578T8=;tr+XTkat2Sh0oUWet+3l0g=="
+secured: "oXfwetkxv9Dzs7G4UzWRYUAtLJfFOOlH4QN3IWOw6w3BlNKa69a5n8neIg8mkUzoP1gCeckRC0MY77R10X4avNQ84izRQEZMtcr+HfTxgG/gjBytdc5oZ52hnusdbuDBoSdXB7NJ+3+HU8UrSyTWr0/Z1vbwwy8DBUo9/AM9C8y5tb8D6U4Utx3c0OsspvJtd656AHzRn8XMzy5rhSXHCXgELAorXjSE1Y4+yMw05qSr2vUXfYsu7T3gWBdSQh2RYBcuPJnnO5vZiG7RRRhcG5BOCA2dJyKrZyFJvTNpQeIbR+dcM+/njQMuF9zCygOSKEdlwH0ksNvrWlm/cyegQNTnPZoajCGb15FNTyU8LlUfCIg45Jweewogw0PKyrpW1XViiqhoo0MHKCfvve9O7GUQir8EXksYW1XGJYqYx/hpM74YGn5o8nhGNX0cyXrR07kNYZHCehHLaBBY6OxoV83G4I4hxC7kGSoA8h7K/MjLcV+1FKvkwpqhcUqRLx7WQfXyNsCt9NLBr1ZqlAbYsA==;sWE5UpkILVKxZrKJ00Fkwg=="
 ---
 

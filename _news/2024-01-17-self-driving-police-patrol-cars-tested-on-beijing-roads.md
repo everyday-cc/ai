@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202401/17/WS65a735eea3105f21a50
 webUrl: "https://global.chinadaily.com.cn/a/202401/17/WS65a735eea3105f21a507cb9b.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 549
     height: 366
     isCached: true
+
+related:
+  - title: "Seoul to launch self-driving buses for early-morning commuters"
+    excerpt: "A self-driving bus service for pre-dawn hours will be launched in Seoul in the second half of this year. The service is expected to enhance convenience for early-morning commuters, according to the Seoul Metropolitan Government, Sunday. The autonomous bus ..."
+    publishedDateTime: 2024-01-21T07:02:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/nation/2024/01/281_367325.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367325"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 44
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/33052cb58c7f4fd8a450e1c9efb57603.jpg"
+        width: 740
+        height: 416
+        isCached: true
 
 secured: "Ng31SeyPNVpq0C1xZRAPk2+nxLb6axGOE2YX0zwuHJGR9YatomaU5IVz/ziLxM+pvyk3qDenD1JzABiwpW9Nh93GIoi1VhFwPKn3+h8tPscleQs7fGEofgODMHgJUD+4S+cElcaz+Z4JzYcZDCM0iBO2PUs9MjpQAAltFS/wndJx+Rnxd0oQ0hxg0pfJZi0yiW3xR2tWAOTn9K5KtAz4uTbF8SDSPAzpG0mPJWPscSt4wSf6RFdbCAH2UA2dUAo5L6aGPp4lrCRnq9C3eAIBAoOSKlL7OTgX1bHKGWpoWl6ppvUZtKShzZ5VcTZWd5JF3lYS2QtH7c9VtArTjdN4yIWTEx8Sexu0wPX9WKipBwbmoaMQp5dGR+2Qd5v3aUvEhH70GJutUX5Zqc532tJrWN4NxtMahK0b5Q8d136qXWR8Ce6gUCTk0Ju8zxw8drFvegKYZeRo3m7KrMuCnErrOa4Q03oxhgrHDlnXj0hLrYe91WynNIF3MEa8wmGC6IbeJ09nu1GshNZz/ATcFbcevg==;NMJtRKvaffLGMWfAoxjObA=="
 ---

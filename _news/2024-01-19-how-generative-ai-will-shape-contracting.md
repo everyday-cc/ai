@@ -115,6 +115,20 @@ related:
         width: 2311
         height: 1300
         isCached: true
+  - title: "Romance scams are getting smarter and AI is helping"
+    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
+    publishedDateTime: 2024-01-18T12:06:00Z
+    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 39
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
+        width: 1344
+        height: 896
+        isCached: true
 
 secured: "l0rE7W0ECGd0MAwUUTTGQa+7ZT+HbeWzqjTN/8ENj2lf723bB2I2goJDYjJm3iRQm9hnWtSDLHvJyPdw4caSHHg/KDyGG0wPfI+3epEClEqbxls50GWk/djKdL43ICSHLfkfS8UUaflRYEdORET/jqL/Qw7Sg3uaVfYB6RiwInoFYmnE9SHPIH49d849zcTXCc6ccP2emdO9IlMsfsCvm/R6WfBte5cr50MZZ6EJRoe8rCmzTsqgDSnh8udYBu32DNAeXHXhPNFrUssq7Lq2/mJlH+oePgAYoE6C8yYw/2WQ4EY27qwkT5vltjBQKhlX/OhNWmWWOGHpx3SbdRklBx0xIIiGcmxU+Xmxp4hAcxBEoWzOZGw5aTZ/vKTSDf96lSND/mg4zN7vnWfmq8S48de6t12ViMqvjH3QTnzWvhb5VFFWyeO3DHAIxXQmRwJkEX2E8iKLZam4VopLXVJAY0m4iON8ziqPrqWEQaqw/M0eRFwMz09c8cq5YiMNGPXMqoSTLFS0sLmxKWQpED6qVw==;PMUaujjv9OGsbpYejiV9Uw=="
 ---

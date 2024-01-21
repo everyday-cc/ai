@@ -3,11 +3,11 @@ category: news
 title: "Google might rebrand ‘Assistant with Bard’ before launch"
 excerpt: "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\""
 publishedDateTime: 2024-01-17T00:04:00Z
-originalUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1"
-webUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1"
+originalUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/"
+webUrl: "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 628
     isCached: true
 
-secured: "8B+9bQ+Re7mtAOmKy3QYpcTzfubZtSBGm+M8yaE4cNhfxPosgNctl+PL5dLf3VLJtKjQJklirANtysGFp38Sc71QNUkut5kQgUB20nuviljMS0NyEv1Hdm4E8IYeGOnlE9qXDcCLoy3uwcvZre5ruY0Psusa7t6zOgFWOI3hdtDezd8WcgAte1/c0K+mfe5ME48uqJxjchZIXPW3NYAZZxvjwm4PnE39+AtaeCx7FgaWRuSIjIAy3z1SnB1mDEluNwg1vwTic8ygfHT/kK8Igd7mP9+xHqvlWiFoBj13xdE2yD4Ogk+F3EkQKjFmKbInvPNUu33Ys33OuSL0S0BXEegZjPBpWewYeJ8tl/u80C0p9fNrxH0xyl1ueqVIpX/5dzVYB0EUpMHYW/qsUN0WeEzSIN/egebPPM9DTla1Yl6Je/Vpz3GjDrwT+uIM5NRV7vqfAxG83OMgPTY/sEzif/+Vwp6PQudmWzuCDm+v1uciIlvGeAueYMJmjlO5XGi3EJFmXQGv2/+b5H6MxvfnlA==;C71I62cDLeyXzBe6YRqpnA=="
+related:
+  - title: "The end of Google Assistant? Google prepares to launch rebranded Bard AI on Android"
+    excerpt: "Plus, the company seems to be directly referring to Bard as a digital assistant entirely separate from Google Assistant. 9to5Google, who have done a full deep dive, offers this table here directly ..."
+    publishedDateTime: 2024-01-17T00:01:00Z
+    webUrl: "https://www.techradar.com/computing/the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 63
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/caBse9FshggzUAGoJ6u5wX-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "ERqqicr0fw7hsEZr63iqC7l2ZRyqFDPVpUE+S+mzpAoz7aHJdf8QQN/B3+mQcZNl79kSeEtjqCs6q8+e9ZUzQQiAJ8mATz+bZBQBgOLA7SEk1PEPy92zYlQnB02qcLfd4Ps8pMyppQ4FRowMl8hkDuHeTU6WXCzKJEqMhkMYC5KEnWCezpD2VwhFgVqZvqczlVZy0kLgkFk1ItrmXEGFDKzT0d6JPnujeGv3Vpvh+JbZawSvjvY+kv0hhZk2Yx5foyRz2cY45QZ0VrQMc5Q+RldhaquZMrxuWqnv+VJIQgYW868OLCEC+gIoaeIHHe17X3g9R9b+CKWPOL4G3R1tzbX8eP69L3fSGZxerMCRA4o=;Jab8o6IifLzE2RuCSnSWOw=="
 ---
 

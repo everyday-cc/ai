@@ -420,6 +420,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-17-the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android.md",
+      "title": "The end of Google Assistant? Google prepares to launch rebranded Bard AI on Android",
+      "excerpt": "Plus, the company seems to be directly referring to Bard as a digital assistant entirely separate from Google Assistant. 9to5Google, who have done a full deep dive, offers this table here directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android",
+      "originalUrl": "https://www.techradar.com/computing/the-end-of-google-assistant-google-prepares-to-launch-rebranded-bard-ai-on-android",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/caBse9FshggzUAGoJ6u5wX-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
       "title": "How Best Take makes your group photos better",
       "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
@@ -1384,40 +1436,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-googles-bard-will-have-limited-answers-on-election-queries.md",
-      "title": "Google's Bard will have Limited Answers on Election Queries",
-      "excerpt": "Consequently, Android Police adds that Google's Search Generative Experience tool and Bard will also be examined for false information and cybersecurity flaws as they use artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/299882/20231219/google-bard-limited-answers-election-queries.htm",
-      "originalUrl": "https://www.techtimes.com/articles/299882/20231219/google-bard-limited-answers-election-queries.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T23:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -41,20 +41,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Revitalizing Industries with AI and Machine Learning"
-    excerpt: "In recent times, the tech sector has experienced a worldwide transformation due to the rise of artificial intelligence (AI) and machine learning. These innovative technologies are quickly altering various industries, enhancing efficiency, and boosting ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.dmnews.com/revitalizing-industries-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-1.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
     excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
     publishedDateTime: 2024-01-19T17:53:00Z

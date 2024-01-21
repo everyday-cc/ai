@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/c808c4b/2147483647/strip/true/crop/940x457+0+104/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6e%2Fdd%2Fc21018f5747da562aece2cbad779%2Fshutterstock-ai.jpg"
         width: 1440
         height: 700
-        isCached: true
-  - title: "Challenging the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "KPMQmeKOhCfziU7BjdIKnX8q2CEfy/Ry4vhmymIu1NVp/n5NXoCS03Zp031517ZGEu3U2C5vQBiGYpQyTvMWbbN3VBzLnKyIKchEaaoXih8CrGSL7xbMF9WLmGmu4TNhRmsudnOvhy2o524cWNnLMWDScr41faD6V1wCYQKdcqO0U8DeUL/oRwS7K6Ym6yaHUycozJWvMI52X7Zq90anTxB6pyW2FVf0Vmt83adv1XIxJWeD2+Nwlm8yzL5GZm21hcI6s14RxkNuPiL7hpEmnp2T7cQG8GgKHyEbrGqeebrXvoBIUQda2WzkyeadLmWES2N+oCsToN+bBAC+WcxopXpopXyMT/OAYFOy4CK66Ig=;nXsOmwK4Hkrc1xfaNAtD6g=="

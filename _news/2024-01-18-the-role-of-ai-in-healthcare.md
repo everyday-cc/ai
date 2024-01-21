@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
-excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
-publishedDateTime: 2024-01-18T00:00:00Z
-originalUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
-webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
+title: "The Role Of AI In Healthcare"
+excerpt: "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard."
+publishedDateTime: 2024-01-18T12:15:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
 type: article
-quality: 14
-heat: -1
-published: false
+quality: 104
+heat: 274
+published: true
 
 provider:
-  name: The New England Journal of Medicine
-  domain: nejm.org
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 900
+    isCached: true
+
 related:
-  - title: "The Role Of AI In Healthcare"
-    excerpt: "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard."
-    publishedDateTime: 2024-01-18T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The secret to healthcare AI is ... human beings"
     excerpt: "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human."
     publishedDateTime: 2024-01-19T07:00:00Z
@@ -250,7 +246,16 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 21
+  - title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
+    excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
+    type: article
+    provider:
+      name: The New England Journal of Medicine
+      domain: nejm.org
+    quality: 14
 
-secured: "Hjofc9eXFp9KHwkFwtqJCmD+4MyxtBYabwklKhnTnUWc8KyyUMg8scmqBKj2YPuonoJ9pjlQwIdbCa32tMbmHSunJUcjta8NDka/+iftoJrwHWFeAPDass6ywVJYogJEWo+0EqWekQggmn+CdZq8K4Xl9mN3E3vJ+W0RwMhrXLBtJfGcWDY7opocFTDFiGcSFFssFLiCIEOlktaWlfw/FlvCRJcDRSmh7RqfnJ73Nhto68QGGua49ZanouEmsOLdPR7at2vfuKKzJ0s6Eb4y6sLmwQNPFICAyOjvRBQBK4vg4Iiz6AYcUm9ZfbZk3kfI+jhKNYKS4o5RadVSER08AGkX9uCNrwEtq/rKGu+Qnko=;nQgHvj6b3rVFbDXpeKSRKA=="
+secured: "5HAKAKD2ZnHVRIEkEaYU/dol9TLLm68p9Yt1WmfTeL+PEflvjih9OWA8RKdzZ9Oz0iip1gAsGmDztm/YfyBFhr8Ni8+apvNLr344skBMta2kxGWHOGW3LyxhtX05XxMFvEtzafWLf8ZqJ0Pw9c8+Tgy5qrmN+5kNTlYWMESZJVx944ya4Kbn90owUGZ8HyVx7QvL7BuFdJblU+lhOhrDe2rJADhF08NK1Jz10qHvbf3iS/XkH1m+vcnfA821cv8SVqupqOqOvIGwO73HVWG7VU4z0LF7KDsHU90cXs/uH73od3671YC9vzXGx+vm7IsSCuXttZNqUHRLKWrxtE/ohAKpByZFNVL7oQJRGm61XoI=;qJ62Yys/FVFt5Tyjy+M2Rg=="
 ---
 

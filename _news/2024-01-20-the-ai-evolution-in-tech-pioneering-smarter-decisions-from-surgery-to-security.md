@@ -42,20 +42,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Revitalizing Industries with AI and Machine Learning"
-    excerpt: "In recent times, the tech sector has experienced a worldwide transformation due to the rise of artificial intelligence (AI) and machine learning. These innovative technologies are quickly altering various industries, enhancing efficiency, and boosting ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.dmnews.com/revitalizing-industries-with-ai-and-machine-learning/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-1.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "Shaping The Future Of FinTech: Insights From A CMO"
     excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
     publishedDateTime: 2024-01-19T11:15:00Z

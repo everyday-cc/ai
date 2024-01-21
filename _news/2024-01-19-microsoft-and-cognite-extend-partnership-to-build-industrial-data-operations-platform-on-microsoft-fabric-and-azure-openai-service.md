@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT"
-    excerpt: "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses."
-    publishedDateTime: 2024-01-16T08:11:00Z
-    webUrl: "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964"
-        width: 4973
-        height: 3309
-        isCached: true
   - title: "Microsoft makes its AI-powered reading tutor free"
     excerpt: "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ..."
     publishedDateTime: 2024-01-18T18:00:00Z
@@ -97,6 +81,20 @@ related:
         width: 1338
         height: 900
         isCached: true
+  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
+    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
+    publishedDateTime: 2024-01-19T17:57:00Z
+    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
     excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
     publishedDateTime: 2024-01-21T00:00:00Z
@@ -112,6 +110,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
+    excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
+    publishedDateTime: 2024-01-16T15:52:00Z
+    webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 61
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
   - title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
@@ -150,20 +162,15 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Microsoft-Vodafone deal confirms cloud-native trend — Raynovich"
-    excerpt: "Vodafone’s landmark deal with Microsoft might change that. Vodafone, by tying up with Microsoft on future telco cloud platforms, may be a signal that the telecom industry is finally ready to give up and move their platforms fully cloud native."
-    publishedDateTime: 2024-01-18T14:58:00Z
-    webUrl: "https://www.fiercewireless.com/tech/microsoft-vodafone-deal-confirms-cloud-native-trend-raynovich"
+  - title: "Cognigy Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
+    publishedDateTime: 2024-01-16T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
     type: article
     provider:
-      name: Fierce Wireless
-      domain: fiercewireless.com
-    quality: 39
-    images:
-      - url: "https://qtxasset.com/quartz/qcloud4/media/image/Vodafone%20booth.jpg?VersionId=6CKPi7Rs0Ea06Ss_c0SK3QbfKcuPZdnF"
-        width: 1700
-        height: 1275
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 49
   - title: "Microsoft partners with Vodafone on generative AI integration"
     excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
     publishedDateTime: 2024-01-17T09:51:00Z
@@ -173,6 +180,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
+    excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 31
+    images:
+      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/01/MSFT_Security_Jan_11_Blog_240111_V01.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "F64iIJjMS1BVf0DiRGLKi3lovYK4MscW9/6+DBhiBYWJGwYYJ2CwOY/oQ1ORYGcS/YpFZlF/CBrY3lXH+QeGuzKlHEButox72/9wTNjCm4LEqzIyiMk6g2IHjCeuFnICh1tDsYVvrGsG/zfL+P4Lw47KumlRQkI8GGLSpyeNH0g5m9WEisj/Q4JvSgUQk6oH1jwz4qft7mlOqCf2QNK424IOv7D3XPvufvD7Lgj/oISQYMjauYJytdTaLZ71Hc8W7mCoeEFKT1NzM8UwagxUfpO/zdHsGPOB+eXKHLgXhB1yTJzZCq24TrJM+mQYPj+h6+Ar78OSLMQxa+nsbbuMZthIWfUXPKbvxPBAQIW3A0vIRevM53I+QlXBuzs1uLw8HQ4gZizAIvMA6k7siIqrC4StxrIiu6WY/NKL9kFS2ZNZCb9gZFmoFhtHhKyJRJp72rwq7RpFYdGqdPBU+CMYCUU7sY6K4rIfaLbjC6wmc1F9pis7OYy0fhvx9cSG2hU9OjYHjfHxJ4tkvDfXKgU+Sw==;elVbbHpBuC0V63ubiTrHqQ=="
 ---

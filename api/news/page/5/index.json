@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming.md",
+      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming",
+      "excerpt": "On the version of Hot off the Wire posted Jan. 13 at 6 a.m. CT: SAN FRANCISCO (AP) — Meta says it will start hiding inappropriate content from teenagers’ accounts",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming/audio_a242f524-4225-5aff-a8ca-3b1bdce278e6.html",
+      "originalUrl": "https://madison.com/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming/audio_a242f524-4225-5aff-a8ca-3b1bdce278e6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/a/24/a242f524-4225-5aff-a8ca-3b1bdce278e6/65a28414e5c77.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-unpacking-yolov8-ultralytics-viral-computer-vision-masterpiece.md",
+      "title": "Unpacking Yolov8: Ultralytics’ Viral Computer Vision Masterpiece",
+      "excerpt": "Exploring YOLOv8, the fastest and most accurate computer vision model by Ultralytics for detecting objects in real-time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
+      "originalUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/01/FEATURED-IMAGE-YOLOv8.jpg",
+          "width": 879,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T10:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-how-ai-development-fostered-a-digital-sweatshop-and-why-it-matters-for-the-technologys-future.md",
+      "title": "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future",
+      "excerpt": "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/10/09d417bd-299d-43b5-af62-a33cf7c65165_93653a69.jpg?itok=FaD5dQWz&v=1704863823",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-making-ai-work-for-you.md",
       "title": "Making AI work for you",
       "excerpt": "According to travel advisor Bob Burke, the best way for advisors to meet the growing challenge from artificial intelligence is to learn to use it and other technology to their advantage.",
@@ -934,135 +1072,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
-      "title": "TuSimple’s self-driving trucks up for auction following US exit",
-      "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
-      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
-      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-microsofts-ai-found-a-new-material-to-replace-li-ion-batteries.md",
-      "title": "Microsoft's AI found a new material to replace li-ion batteries",
-      "excerpt": "Microsoft collaborated with the Department of Energy's Pacific Northwest National Laboratory (PNNL) to discover a novel material that could alleviate the global dependence on lithium in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "originalUrl": "https://www.techspot.com/news/101486-microsoft-ai-found-new-material-replace-lithium-li.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "A Franciscan friar has the pope's ear on AI and how it can help — or hurt — humanity"
+    excerpt: "As artificial intelligence’s impact on society receives more scrutiny, a Franciscan friar who preaches a message of ethics in technology has gained some powerful listeners"
+    publishedDateTime: 2024-01-17T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2024/01/18/ai-ethics-benanti-vatican-italy-friar-microsoft/10920ee6-b5c2-11ee-b285-0853d4d1b92f_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 32
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BM2LZFVVYII65MUFBBJ5JUNZF4_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "Yls1zwP0ER0TXLBXT8Vbtx+aXK+9MMyZltXy9lS8wpF7XGZ718N7CKyAbyh0AyCydqvmyosoyOSItPhsp2MSB55R5JNcNC/qCII42Ev2/jWlazbbnglXnnEtrcpRKTuXyEIoiXNz6tHQ+jX3p2tw3f8nTzPzgOhmomqP8rC9bdBfDAsrbLvvieuaaAcOVynkXgeT8FwLuI7UfAHeYVgaBubGT4aLMLKUnXb3z6EZt0drOe6+zKEWgqbAkbQBPs6eHd3CNsG4oJdzkXGiafnfpTgaeUHBWUAgWGcabeEdnaYhJFOGZjKZ/rr8Xz9P37CLCvekKqNsAOi9Xe9EansiV3GnhRJHZAdKebbperx+1mM=;woIezBY3LPJWcxpf4qlCaA=="
 ---
