@@ -38,6 +38,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Houston vs. Kansas February 3 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Saturday's Big 12 slate includes the Kansas Jayhawks ... Texas A&M-CC February 3 Tickets & Start Time Incarnate Word vs. New Orleans February 3 Tickets & Start Time Texas A&M-Commerce vs. Northwestern State February ..."
+    publishedDateTime: 2024-01-21T11:30:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/02/03/houston-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KTRE
+      domain: ktre.com
+    quality: 22
+    images:
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/3IWB4OVZENNGHPZEIJ2MYGCYVE.jpg?auth=705f7e9839622b6624468478d065c441068e0f5d362cd15bb7ca5df1a12ea394&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Denver vs. Oral Roberts February 3 Women's Basketball Tickets & Start Time"
+    excerpt: "Denver Pioneers vs. Oral Roberts Golden Eagles women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-01-21T12:24:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/02/03/denver-vs-oral-roberts-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 20
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/WDO4DZF27NMZLFIHNDSGJD3NZE.jpg?auth=e93045a9d5e031b9b22d230a199977fe5b1c05947aab28c4ce7b86db2177c6f7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "oqVc4VubSVPP7IY8dk86j3cdgoBH7hXJ4ytaR9wstLyS/IpL9FHOufyjmcUC0PaH4atrD3+RIDS9wi88JVJ+0DGRgo44ybuVgbBZoi2cnOisDcZQaXhP89CR/dlOFApEZ3jdlGhINxwKCTzvIFeRh6u64XcKHOPmLXZ9unszC/dR3fbv6wQRYYxV6wwnw91LIBN60/w36FKY5/a4Q0Yuhb1BKbr/7opK0x9tLlM6YhVjfJHO559IwGACHXrNqCV4BlZJet6CYkILGVNA/lPzZlFCykiF7B6T3Oo8/qzZBVqNhERKJ/TA6gBZQo4z9np+ZJop2Pj09tXG0jGL9o611KB6pSMKfE19I36V9AQnJ5Y=;MPr87A6Cn2HA7qPiCXdoGw=="
 ---

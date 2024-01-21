@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-compan
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
 type: article
 quality: 80
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Musk’s AI startup secures $500M"
+    excerpt: "Elon Musk’s artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people with knowledge of the talks. The company is discussing a valuation of $15 billion to $20 billion,"
+    publishedDateTime: 2024-01-21T12:05:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-500m/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2024/01/xi01.jpg"
+        width: 720
+        height: 378
         isCached: true
   - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
     excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."

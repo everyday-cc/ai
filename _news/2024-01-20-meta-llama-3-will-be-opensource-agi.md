@@ -24,6 +24,22 @@ images:
     height: 976
     isCached: true
 
+related:
+  - title: "Meta Eyes AGI with Llama 3"
+    excerpt: "Meta chief Zuckerberg has thrown his hat into the ring in the pursuit of AGI. In his recent Instagram post, he announced, “Our long-term vision is to build general intelligence, open-source it responsibly, and make it widely available so everyone can benefit.”"
+    publishedDateTime: 2024-01-21T12:35:00Z
+    webUrl: "https://analyticsindiamag.com/meta-eyes-agi-with-llama-3/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/s-9.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "cMToOXPVHB7TMlTGaGuSb/yDr4hb4ZtL2G8NtiggUZGKq798pCzF0f9pX94QVjcZtwFK2lKa/aZY+5mBcIVbSXlDmqD6TcM7DbGIyZmnYJLy41PxoecxNOYDtkkkTDrFLctzqDbCzWeQl4npVuIhz4W3QtGu0Uzi1EtJi+YAzKaAQpZJYARao5uS0J1BYKFx/V/OnOyWrYJEUjiMYDb0OOiGte7BMF6u7zdc6YWpYu+RDxm15dSm0Yp2Y0KbfopeDns2M9msxJaQHV8AKUctqtCt4zHQ5+4QUdD+Pws2FBjMsTayLpeRyWYU3MQQIjls+Nj/8Sr6Q4aFZ/MOTnsJuVeel8tL9O0lGdXJ4TnD3H4=;FYA/GkX4RncOpuuPKVAL/w=="
 ---
 

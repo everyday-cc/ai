@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4664017-turnaround-2024-financial
 webUrl: "https://seekingalpha.com/article/4664017-turnaround-2024-financials-and-healthcare"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 396
     isCached: true
 
-related:
-  - title: "Top financial services trends of 2024"
-    excerpt: "Check out these seven financial services trends and how your company can use them for competitive advantage in 2024. \nThe post Top financial services trends of 2024 appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-16T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/financial-services-trends/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-
-secured: "s5dlrt/1yvkRctWAiX5l0Gh20+SDKe8cwtesCLQNShl5Tafj9CCTCPy8I8J8DwbL3SqMktwiM27oLuWNuYTdqoCFGJLHHn2yjx60m3WCi0NmdMNL3176kWI6ldKj+Zo9emmZENe3zX4gV69yWsUgVkOl9zbJhWAZiA1g1Z/vcBCW7m1xg7FJKQC+sgqC4DlLJKoiayDecWneQ0g4O1XrG6JpxHWj2ThsrcI6kgY94ix1QburDLAZFfQg07DYEhKoxPZ4ciroq1zydCbql3kimDaX9/gY6w58W8J648bL7XD+N38JKzvBpPXOpEK7qKc8ZK02fZni/0mPPbCtysm0V7/da9mu4Lw8PSF+qT/lHW4=;5bAUEMmTxQyq+ERV1I9StA=="
+secured: "iWyv7LzhpRlcc/axlwjPvZyoeiY3XfzNTq/aoeCiFuBU9e7KhBn89PJfQNKhOrNrHuWMmDZNVoCR4ngfpeOQ2tF2VLfUM2zstqGadBSha1rcu/J2K8iYtcXgnuGpNLO+gaR1WoPuvua8GIuYIDXa19yEnc2Z3i1uWJeDWm3hEOL3nuwsLj+HhW+1asU+SoKGRXuaB3b4gpCq66EchLidLeg63/3ISfL06vD8btvQUFkNSwtJJfQLK/z9iQt+6LF+dCL1ywpYumhq+zSAJnL7IEyZpXS9ZNDa+s+cINkxbF/6DZSeDdf9GPl1u+ZwufIGzlir3N6SmY5rE8PRkHup9wLj1x6+w8xmDKc5AB6oLoUIS4v1mFhn7iKCossEMlfBzGq3vX/yceFRXxwoFKf3baIKHUA+EK61CJXAmRv/xqI1qESocaho4vltYe4hyywsGNhFKeNCF0iFqdXDSL6tSr+cgiVNbB+6xTQsgWSv2CLejkTkA9UtNb6nFiTyUfg+SjTAHgivSPFW/HDu1pv6TA==;XvEIjGcxBgGc/fAjJ1UMeg=="
 ---
 

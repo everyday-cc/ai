@@ -7,7 +7,7 @@ originalUrl: "https://www.diplomaticourier.com/posts/evolution-education-through
 webUrl: "https://www.diplomaticourier.com/posts/evolution-education-through-ai"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "CGI's Machine Vision solution delivers a powerful source of IoT business intelligence by leveraging Artificial Intelligence"
-    excerpt: "New solution from CGI enables deeper real-time data analysis, monitoring, and response not previously possible through traditional technology and human-only efforts \"The types of ata and insights that AI technology can generate are truly limitless,"
-    publishedDateTime: 2024-01-16T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/16/9946437.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "mu8yOTls0Rut68doLprs5enSB9DtUzPmud0C5HO5e9puxja4d0MyTClSHNa6Y7Dj1p9RcN9TTbjjMtX4ExupECfnHTxBgLjMeFlT0nekqe7c063djZ32tiF4UDRZGl9l4vx5MYfJu46CcU8HSk500TP5HL1HB6e0uD7InFHePVxBMjnid9/2fymnL8dn6xmskhwcfXrdk4vI7wRcx7xmNQ0lM3IZ3PqfU3bRDjLkRt6wOIArn/xwSAyGXwMjU0tfFxZdRkon+WcDi/8/74zD8IhCuHScGXqTFL9BxoQqljPLX5cbAzD1iLdm264yaSzKarXZmCDhv6jil60WVXqYd22lh9WPLTU0pSuxU+JZ6hqIPu4dyWLqYgtVV6VjDqofK2V4o4xFZufthfi2FbbcJ7VHXCVCE/3vQqVUaaPecrI1YvnoAFWM0isy8tmJbz9/b0EvZpC0YS4w7wUaf5g3PLLvP6HxhHwZ+r+HTSZGWEycNe07ijyUBUEu2hnDJL9ntheADx8nqJ/gBLNWAPmNfw==;LgA28tkycO8wDg6bjIDiCA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-an
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 2500
         height: 1282
         isCached: true
-  - title: "AMD shares jump 7% and head for highest close since 2021 on AI chip demand"
-    excerpt: "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence"
-    publishedDateTime: 2024-01-16T11:13:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3313574/"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 32
   - title: "AMD shares jump 7% and head for highest close since 2021 on AI chip demand"
     excerpt: "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence"
     publishedDateTime: 2024-01-16T19:12:00Z

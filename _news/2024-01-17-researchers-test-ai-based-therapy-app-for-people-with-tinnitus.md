@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Here’s How The FTC Might Lower The Boom On Those Emerging Generative AI Mental Health Therapy Chatbots That Are Promising Miracle Cures"
-    excerpt: "As generative AI mental health chatbots proliferate, one means of at least coping with their outsized claims rests at the feet of the Federal Trade Commission (FTC)."
-    publishedDateTime: 2024-01-16T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/"
+  - title: "Many AI researchers think fakes will become undetectable"
+    excerpt: "Rishi Sunak is Britain’s prime minister. If some advertisements on Facebook can be trusted (which they cannot) he also appears to be flogging get-rich-quick schemes. One such advert shows Mr Sunak endorsing an app supposedly developed by Elon Musk, a businessman, into which viewers can make regular “savings”."
+    publishedDateTime: 2024-01-17T22:59:00Z
+    webUrl: "https://www.aol.com/finance/many-ai-researchers-think-fakes-205918092.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a61506e8805fa8a361a8d8/0x0.jpg?format=jpg&crop=2674,1976,x1166,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1218
-        height: 900
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+LRMIytNr2SCtiPcBt0UoHQZJh7k9q3EMBRxu9FHr2PWN6N6YMSRc7dfYJN3jWYRPXuhRuc9H4MsjHDcMXxicHGXlJOcWACvMqpCQ1GO30WRU0QiuuduYZ77zcNceIhkNQaKgvGAjaAhppTI6yagGgsWmezCNekVRvbbT8YfBjRtds4UymOXH6hppBHUuA7xa9zRNvWpl2qrIOeOUZh5iYfGq4LwFm3hPsYFj1TMTNcEnsQ0np2cPzhw6fbC8KxbDz7sDqinuT3ZiQsjavBgVRP63e5HFmVUUNuBojQJW/rjCjaKG5TAjnNmJe74x5/Bwr2OCnfEsK1tSpT5nhGQlxqQ+9yWVj2QAY6Aih9G/uk99JLAdFYLKYFBSg2abclcmCVgSAb9InEeSotxyhUbJJERlUNTkgXhpfo0lKVNOTMcAn/ynx3z7dWMJVjS4pyT8O9CXu97gHxgqNQpr+WL3A+IO/ZQaKiNTjuv+EMmjjJtSlVcLr3+i4zPF3+FdIdggoBbl8VVZYGKpl0R+IwIGQ==;Rr4vigH9b4R/Jt/Muhyqag=="

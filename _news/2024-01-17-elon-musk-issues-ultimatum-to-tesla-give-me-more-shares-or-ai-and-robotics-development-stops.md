@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-te
 webUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html"
 type: article
 quality: 105
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 2048
     height: 1365
     isCached: true
-
-related:
-  - title: "Musk wants a bigger share in Tesla to grow AI, robotics business"
-    excerpt: "The controversial tech leader suggests he would take these products outside the company since his current stake allows him to be outvoted by the board at the EV manufacturer."
-    publishedDateTime: 2024-01-16T12:56:00Z
-    webUrl: "https://www.computerworld.com/article/3712244/musk-wants-a-bigger-share-in-tesla-to-grow-ai-robotics-business.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 66
 
 secured: "Q4ULaoxmkeuTVTfQkXKaptPDTqrN2yz6rIW1bIURu0m+mbr875gBLq1gv5bVEzkNI9vg34oRwcAcJIWGMau7h+9BatRVX8q7TvQYUblg0vIE2oKr+IqePntduk6vAu6eMPARZV8GoMRFe6cVkdvR3VK6DbxjJ65++Fn5WwTxD8wGCBA+tv+XxiAGZwF7pPLnMfTC2hejHeY0F3QOyy8UaJRRnL6VkFeE8ilZPsUCbbz7uORsNlRI0UfHMSulkbdjzFu2GX4djMBK10Rw4QhMkIZkKYdB1d8eXW/Pxi/KB1pgyYIlBzk7+StEHB80w3Dj0b9cRqYHz+T93qGuZH6ZYRgQE6osSdp8I0JmFT3QGBAJls9oDlNz7A2g/pvKadiwIMlDyYgYYTnGO0IOXwNjPBqmG2iQYmfZ1+l3aSYORX1a1O1BcrChhrHfhNAwgzZkgr9jTfqBg4ViuzB0BL24JkJqIhBKzBRs2Uiv4ORCuxihaiRIZGV7z/uSBzqGSmUWnZyXQJp5KsfMkHiiXrR97g==;/7HChMyCGZTl6gaLSXrZXQ=="
 ---

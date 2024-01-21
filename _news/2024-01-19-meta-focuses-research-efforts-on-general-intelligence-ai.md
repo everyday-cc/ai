@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "CGI's Machine Vision solution delivers a powerful source of IoT business intelligence by leveraging Artificial Intelligence"
-    excerpt: "New solution from CGI enables deeper real-time data analysis, monitoring, and response not previously possible through traditional technology and human-only efforts \"The types of ata and insights that AI technology can generate are truly limitless,"
-    publishedDateTime: 2024-01-16T11:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/16/9946437.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "4MNzJpVHcqwgYRati3ICkwhrchTy/4QUnMgA38dYaKlJ6fk8ATDg7ddSNsuRJCVABXE+uS3nPANzX0NMCXyKS/KWIgxtvShQyD0brxaxA9oGmXizg51aO/Wzgr+LSCLGCzOrFkbG7kulg7sjS0PBXm7pJo0vILhnyXbdTQJGquf/MEL0h5BKYKUNF/8N6L0b837VbEBiTjZQLcwcssSN0dD1h8rP2IvdemYlthl3zy9AZbeOO1nlx9sVZCBHkHCfL5d8Rqxf6iI+mG6Y7iTfe28naxUrqzVGLbDR/yTUGo7fSBqtD3TG71zuytjzkRY+9mj464TC4lXi9aTa9qpzK7l1XAqkfbgV5uD7nOpyr8GNBH2Y5iFIIfOuz/Zh52iYV/YliebaLgnDdqACBWAnQiab2KoV69YCmSP9rvo38+4BWLcHCpETi+NB0h0f4ijVR9OGIS+ZVMomHRpa9tg4clWueq2/djUTiUzLpxeC4l64dxWzh7EFKRic8pFn7ROJ0POmZZ1V92I0tuwYJRMXyA==;dUO2nMkzx/3jjXLEfEN8EA=="
 ---

@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk’s AI startup secures $500M"
+    excerpt: "Elon Musk’s artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people with knowledge of the talks. The company is discussing a valuation of $15 billion to $20 billion,"
+    publishedDateTime: 2024-01-21T12:05:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-500m/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2024/01/xi01.jpg"
+        width: 720
+        height: 378
+        isCached: true
   - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
     excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
     publishedDateTime: 2024-01-20T00:57:00Z

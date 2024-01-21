@@ -59,20 +59,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "AI In Fintech Market To Cross USD 222.49 Bn By 2030 Owing To Rising Big Data Integration"
-    excerpt: "The AI in Fintech Market Soars as AI Empowers Financial Institutions with Advanced Data Analytics and Machine Learning, Facilitating Data Driven Decisions."
-    publishedDateTime: 2024-01-16T12:32:00Z
-    webUrl: "https://menafn.com/1107726581/AI-In-Fintech-Market-To-Cross-USD-22249-Bn-By-2030-Owing-To-Rising-Big-Data-Integration"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528"
-        width: 258
-        height: 249
-        isCached: true
   - title: "Revolutionizing plant phenotyping: deep learning and 3D point cloud technology in overcoming reconstruction challenges"
     excerpt: "The 3-dimensional point cloud technology revolutionizes non-invasive measurement of plant phenotypic parameters, offering vital data for agriculture and research."
     publishedDateTime: 2024-01-17T00:01:00Z
