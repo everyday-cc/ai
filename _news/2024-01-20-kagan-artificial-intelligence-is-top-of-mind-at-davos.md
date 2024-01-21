@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
 type: article
 quality: 57
-heat: 89
+heat: 90
 published: true
 
 provider:

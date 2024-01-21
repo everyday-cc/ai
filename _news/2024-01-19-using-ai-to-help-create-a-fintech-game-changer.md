@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/1078088593.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Fintech in Brief: Trends to Watch in 2024"
-    excerpt: "Our fintech and financial services partners make a few predictions below. Artificial intelligence will continue to shape financial transactions, although perhaps in less splashy ways than we saw with generative AI in 2023. For example, everyone from day ..."
-    publishedDateTime: 2024-01-16T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/fintech-in-brief-trends-to-watch-in-2024-6946611/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 24
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7499_58.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Pulling back the curtain and unveiling the future of fintech in 2024"
     excerpt: "Embedded finance has steadily woven its way into the fabric of daily transactions, and its continued expansion is set to continue unabated. Analysts have projected that the embedded finance market will reach $1.9 trillion by 2028 as global adoption continues to surge."

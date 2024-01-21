@@ -34,20 +34,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Musk seeks more control at Tesla to allow use of AI and robotics"
-    excerpt: "Image: Reuters After selling more than $39 billion worth of Tesla shares in one year, Elon Musk has said he would be uncomfortable growing AI and robotics at Tesla without at least a 25 percent voting control of the company. The 52-year-old Tesla CEO took ..."
-    publishedDateTime: 2024-01-16T00:00:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/musk-seeks-more-control-at-tesla-to-allow-use-of-ai-and-robotics"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 86
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2024/01/16/Elon-Musk-Tesla.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "B7Bm0h8OciwRjpg6SaWtqeHTxH8mxHOgJYCV+b3SfJjzAMl1P+bQQA1VA+n6+qZEfmhaPOItHoR4LLIgrYdwm0GkBGdw6FfWbYwFLZIcg23eYzeTQMKcAmTvO/FGxsgiMvwwOS2SBPYXFgGaVVXB8W6rp5TfsBLO+iFUrdSn8uvwTclaeMogPNMvDbaHgctZOXGlU2xj5b+woPHR7+wDG1c6ovij90vviWecDCul2ItcWXB6SruRpeRPRerANnxDDU2MDmOpeSdYM5w5MHEhx2vLnzL1vFDNNQf+guafYFjXmPHFxzD+61kP9niKTou4SQei0/icPDWHMoEPkx3nbMfIOBgNQ6rD8pMagxXIWVhgoQbPpMr49UuC1AVU1R0YriXnLIcpcTqEplzhaS23RInHDHQsQnsueXO11SSKieGuvI4H1Sk8Q0YSbZ0QBY0H7yWwsvqEnzRmxGeKsdbbaE0nHSmaMfymKp3SuBCkOCOXtkI27ljPjPvKHkzJpY8NA4C2TmoMbhnQUn5h6PqRTQ==;R5ig8uQntgK0kGJtqv2aPA=="
 ---

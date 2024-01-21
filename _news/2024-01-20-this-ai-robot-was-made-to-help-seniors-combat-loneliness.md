@@ -2,17 +2,17 @@
 category: news
 title: "This AI robot was made to help seniors combat loneliness"
 excerpt: "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging."
-publishedDateTime: 2024-01-19T20:09:00Z
-originalUrl: "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness"
-webUrl: "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness"
+publishedDateTime: 2024-01-19T19:56:00Z
+originalUrl: "https://www.fox13now.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness"
+webUrl: "https://www.fox13now.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: KSHB Kansas City
-  domain: kshb.com
+  name: fox13now
+  domain: fox13now.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "NxAjyvyBt8Mz7UxnBsjjk8B2mAH15kUKT/DfjGONbg7J2AqNhajqi+lPxzflRYDp//XHpIezYyqtBLurwsFykdg5v62CdbHGE0H5RS+ueT9xG/oRYc7C9zgtFK3bKEP0fypHD0T/KZOetGjACOm50CP0/1Ixpk3gWU1cOHhO6d/zAkjILrVqNJZQplCaHpE/9G8EY9i28VODYwqSefGPxmeu+g8B0LUJKuUMBt6jNFwqDygUBVV0RddmIWqQkWTHDQ3WmD5fNYhplbrkfiBXpr1eQ7kG5cr8ulQpToa/gvHL0+mTKTovbp4iULR6lvOXVfUpQkwTQtKPNgqUXND6dO1BrSezPvxj/SRRvPz220p2IJACxq8oIlNCD3o2BKdr61KG83aHmU8xajzqoc/Gbm0OgEv7pLlPV97GIaGJQ1eV2eSUdHBlztMFviy+ptIGK3MY2CPa0e3Nxxu4VCWsLZI9KiL5sZbfjimgLojlCmUzMNch9AHciEHx5UbvCJ1/Km5LVn5m2FaX9ns6LCS67Q==;NLzCLOcp04aSMiUKNxJ14Q=="
+secured: "J3/pBXIYYYF5AX4jmFRGI6yRSMINiObZEsVh7XCMBXnoOZZjqtDyk9EODHFEVnU7TVRqHUnONR5XWOkveVmTNaTw0asOHky5Gfzv+11OZL9Pqi9XMZ1a6xfTCNkUsz6UKW7XBdhLEiFO5Tou+BRlG2KKnuhN4KVUbGLwXBZiCLEQHoWjBY4wmzgnts5EhqZj041vOCUsNVlyLCo0CcwJMlcNNRASGeyN5uANakL8H9GPk+5xFY5Eku5pV5gMSgVhiVe+EoMfjNaZ5xhxJ+QPMucIQMprPFWPvOph2uyx0pjk0RDc0MxGJGQMKsl2bpUuGDaraYLFtlPegs80F/AEG+2I9KfLI6ulI4vKNtoanyE=;pbJXtkTjDMP9iUk073FJAA=="
 ---
 

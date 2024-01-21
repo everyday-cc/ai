@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-te
 webUrl: "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Musk seeks more control at Tesla to allow use of AI and robotics"
-    excerpt: "Image: Reuters After selling more than $39 billion worth of Tesla shares in one year, Elon Musk has said he would be uncomfortable growing AI and robotics at Tesla without at least a 25 percent voting control of the company. The 52-year-old Tesla CEO took ..."
-    publishedDateTime: 2024-01-16T00:00:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/musk-seeks-more-control-at-tesla-to-allow-use-of-ai-and-robotics"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 86
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2024/01/16/Elon-Musk-Tesla.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Musk wants a bigger share in Tesla to grow AI, robotics business"
     excerpt: "The controversial tech leader suggests he would take these products outside the company since his current stake allows him to be outvoted by the board at the EV manufacturer."
     publishedDateTime: 2024-01-16T12:56:00Z

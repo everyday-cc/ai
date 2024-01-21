@@ -1,22 +1,27 @@
 ---
 category: news
-title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-publishedDateTime: 2024-01-20T01:46:00Z
-originalUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
+title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
+excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
+publishedDateTime: 2024-01-21T00:10:00Z
+originalUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
+webUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
 type: article
-quality: 32
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Coingape
-  domain: coingape.com
+  name: The Australian Financial Review
+  domain: afr.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
@@ -60,20 +65,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 44
-  - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
-    excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
-    publishedDateTime: 2024-01-21T00:10:00Z
-    webUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
+  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
+    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
+    publishedDateTime: 2024-01-20T01:46:00Z
+    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Coingape
+      domain: coingape.com
+    quality: 32
   - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
     excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
     publishedDateTime: 2024-01-20T00:57:00Z
@@ -84,6 +84,6 @@ related:
       domain: fortune.com
     quality: 28
 
-secured: "rfjlPiRFS9uE/2iB9rnKJOpjmmoFXbHBDuRy8VGK5WNvB2uRZsXZcR1Sv9Te7n7Lgw4SloQPokfaUFQMLe4TfCWVdMrfXf3h1byiFNCXFTu1t51WhSV0jLeElN18BGB2FbwsFclg1U5HTvImKO3zBTvKCLzHxnEtD0lavMoRHAZiaIfcyDaefM3PFEAeO5Es6kOZChPcd5V4v4XnLKInwsM6opgrQGArjdABmPWemhh2YAx0sf4YfIEBr6YoPJy2BMr9TOXfHlXxfbjs83rs1nA3fZVXiipwEOCf+5K5DUXFAF/S64lAeO7ntP8vFCocSMg8So44norhRi79FuCdoapjdlSmd4T940u8uRznY7oCDVdTpFyes6c/tBRjvCtkEjNR6Chs4eJmY8A431q5/lYrwTSU3BZUb4YI1fZVTbwtdyllOO5Xd/kTYKVDI9288QY4ykkqTJ8LA3iXToHiepNCfhIChTNij3jyf5Yuu0SKXI2E5zPbnM9yozcR4OjvbtQauRb2TtS1zcZsuykWhg==;kdqs/ZHgj1EdPph9jMhD0A=="
+secured: "wzSnS9VGPBEje/VsyLVcqEFp5LKEs4HFJLGaq8SlzP1NbkSeI81JPd+qEp9TiQAivQu9LpiRTH1UbnZUO1q68HhYg8o37tThXbjri8BXUkDWsmYxIdyBL6SG4OdZEqpemY1DV2bS7cbiZerZcaZFk8gHZj5D0EobZijNxsOL2Lg9aKmF4w/PwAgL/gc5MYVN/1u92MReJkW7A+VVivuTvavO7NV9D7DjZbIZHwnWFBRoao8M9QBCjg5/YGvyGbCKsr1Rw8gkRAfH4SsmVEpeP9+hJN9Qi2TXX8+7I3jztPim/BkJKnJgGw+IsVOh9ztYcCd47ktk6tra84byj/eGTUvUR85U7cPjJbDB5ju98uE=;YFdPf7oIvgc7+qOpzjSqbw=="
 ---
 
