@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

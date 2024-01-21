@@ -1,35 +1,47 @@
 ---
 category: news
-title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
-excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
-publishedDateTime: 2024-01-20T13:46:00Z
-originalUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+title: "Musk's AI startup secures $500 million"
+excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
+publishedDateTime: 2024-01-21T01:23:00Z
+originalUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
+webUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
+ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
 type: article
-quality: 80
-heat: 140
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
-    width: 7008
-    height: 4672
+  - url: "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1069
+    height: 580
     isCached: true
 
 related:
+  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
+    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
+    publishedDateTime: 2024-01-20T13:46:00Z
+    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
+        width: 7008
+        height: 4672
+        isCached: true
   - title: "Musk's AI startup secures $500 million toward $1 billion funding goal"
     excerpt: "xAI's product, a chatbot named Grok, is developed using social media posts on X File photo: Tesla and SpaceX's CEO Elon Musk gestures, as he attends political festival Atreju organised by Italian Prime Minister Giorgia Meloni's Brothers of Italy (Fratelli ..."
     publishedDateTime: 2024-01-20T04:46:00Z
@@ -45,22 +57,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2023/12/16/Tesla-and-SpaceX-s-CEO-Elon-Musk-gestures_18c73574e41_medium.jpg"
         width: 540
         height: 405
-        isCached: true
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
-    publishedDateTime: 2024-01-21T01:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
         isCached: true
   - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
     excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
@@ -104,6 +100,6 @@ related:
       domain: fortune.com
     quality: 28
 
-secured: "OepujK8TQb7NurSAslr1fRjXHTaIaf2CaSmUkd/kC7ErBc9af/tFKY6EnChfnrxV2EQ6Toh+D3KMypL90/RcHhFkNBSIT8tiNsjNKNYjIJemhcbTWRYExBZ4rHTrDmH4Nd5SiIxv04d7vnXY7MVECN29x6ypekyLAcOAVOjjUXlrQ3mlAmAY8/U7tx4KzbucZMooiz7XHmms+TH5xVUlfaU9LpMwUQCyHeXtaxSwY4vNkrKqS7Xj2K0vfTP7g5hcMeb8xVU2pzVZje7bOPHB+/QEuZwiCtmsNVL4UC66P3EA48FBCUDnSD8vcqaWHpEObs0VFDxAJ9v10+TpQIPF+fLtKr2//Jlrjd1VHX6lZv2lJkBsImMzlLTyE0GDC+RnHNQan137tJEn73uzFHEZkmEPz8LhhOVIi/9fOxu4y9kK6S+RvRHlRdKFS55p1v3+pohGOzsj3o7rfrTu/cbzrU1Cxl38CYDwU4YNiDGiZSMuL1GTYnRSoKXnxGPxA6+ckitm/3DR0L4LpJc2hb+Tpg==;rB2k7xo93ixg3rHv2WmrNg=="
+secured: "T7QEynPWw5aMRxCsbqZB4K/XJtf/9JLFtPKrIOyYweEYFiWcROx9OjtMkvyYtKokJKRauKEDO93p2fiE4tIAi315GjIU43/rtJqCkvqlWf1CQ/474TFxALZWybmW/E0FJPdWTJhDtiY429e2iNqm9tM0FufalC0vp7gkkUAElpJVmZRezJs7WK81I30Zup57vDg8vgxPQDOw9NTghy4ynLvXV/jhOYNQ5dxKwlX/+FhGjFPQkCKxLtQvCq1od5aqkmiXDiOOIGHHj64WUqeebuv9f4H0lugot8cc9cze3bDPb+lN9GO8jaLaF7+loGoyN7+/Lx1OhLqx4EbT7DsulzRSSjAU05DGMcpTThrP7C0=;o5ge3NsFJfirHyMz5u0zkQ=="
 ---
 
