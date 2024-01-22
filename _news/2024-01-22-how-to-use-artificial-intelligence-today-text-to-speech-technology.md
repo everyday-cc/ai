@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artif
 ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 type: article
-quality: 87
-heat: 110
+quality: 89
+heat: 113
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ad550e37fafb7b30393fc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

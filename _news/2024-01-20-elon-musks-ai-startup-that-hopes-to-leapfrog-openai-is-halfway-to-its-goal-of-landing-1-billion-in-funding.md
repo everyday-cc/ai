@@ -116,6 +116,20 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 32
+  - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
+    excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
+    publishedDateTime: 2024-01-21T23:21:00Z
+    webUrl: "https://siliconangle.com/2024/01/21/elon-musk-denies-report-indicating-ai-startup-xai-raised-500m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
 
 secured: "cpbD6pWbGK5VqYfelzknsd2zCJyc/RhQH5/Q0ZAKJLwUvUYsc7r4CfVjLMjYvtjjcotbembEex9qQIf2DS8jtjGVCuuj0TfuFliLl10n4/O1SZoSsLcEvnvjK4QFzPUoOQJGq8UbFrvAF0d9gmjbrbEFslYYZrVi+FJFYEdb/YBGb+oZXVRR6AAZBBsCVygexh50zv1NP6GMLcuzT5iOvsV9SeO2gzLHkskGWcL4gbK4H5ayDG6C9iWYTwtlTLibQfI6zrEwVASHJglFPUTIPqeUXYd1ZCKoM+A5Jv/rjYgOnaUMv6dtY+rcxWueV9Dg1IkEBHGlXOKlKr5/BoOVWZhL3EAxZtKmL5bvz9uWLH4=;pjZ9yYaJEvFADiFTYVEfAg=="
 ---

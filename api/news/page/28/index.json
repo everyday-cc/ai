@@ -2,6 +2,49 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-12-14-delivering-security-and-scalability-in-todays-business-landscape-requires-more-than-setting-up-a-front-line-of-defense.md",
+      "title": "Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense",
+      "excerpt": "Cybersecurity can be a strategic initiative that supports product capability, organizational effectiveness and customer relationships.\nThe post Delivering security and scalability in today’s business landscape requires more than setting up a front line of defense appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
+      "originalUrl": "https://www.ibm.com/blog/delivering-security-and-scalability-in-todays-business-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms.md",
       "title": "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms",
       "excerpt": "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe",
@@ -1140,49 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-worlds-first-mind-reading-helmet-is-revealed-as-eerie-ai-tech-can-tell-what-youre-thinking-turn-it-into-written-text.md",
-      "title": "World’s first mind-reading helmet is revealed as eerie AI tech can tell what you’re thinking & turn it into written text",
-      "excerpt": "THE world’s first ever mind-reading helmet has finally been revealed but the creepy AI tech has left many worried as it can turn your thoughts into written text. Despite the eerie new device",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "originalUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/newspress-collage-crvvq3fuz-1702547748208.jpg?1702548474&strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "publishedDateTime": "2023-12-14T09:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
 type: article
 quality: 104
-heat: 254
+heat: 244
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
         width: 845
         height: 396
-        isCached: true
-  - title: "The Democratic Stakes of Artificial Intelligence Regulation"
-    excerpt: "Across the world, artificial intelligence (AI) tools are being used to intensify censorship, power surveillance, and supercharge disinformation. As Freedom House detailed in Freedom on the Net 2023, advances in AI tools have made the need for regulations that seek to safeguard free expression,"
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://freedomhouse.org/article/democratic-stakes-artificial-intelligence-regulation"
-    type: article
-    provider:
-      name: Freedom House
-      domain: freedomhouse.org
-    quality: 39
-    images:
-      - url: "https://freedomhouse.org/sites/default/files/styles/wysiwyg_full_width/public/2024-01/AI_BlogWebsite_grahpic.png?itok=i7AL81Ot"
-        width: 710
-        height: 483
         isCached: true
   - title: "Top healthcare trends in 2024"
     excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."

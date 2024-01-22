@@ -104,6 +104,20 @@ related:
         width: 720
         height: 378
         isCached: true
+  - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
+    excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
+    publishedDateTime: 2024-01-21T23:21:00Z
+    webUrl: "https://siliconangle.com/2024/01/21/elon-musk-denies-report-indicating-ai-startup-xai-raised-500m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
   - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
     excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
     publishedDateTime: 2024-01-20T00:57:00Z

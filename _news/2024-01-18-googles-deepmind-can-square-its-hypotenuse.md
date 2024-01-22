@@ -163,20 +163,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "DeepMind AI solves geometry problems at star-student level"
-    excerpt: "An artificial-intelligence (AI) tool can rigorously prove whether geometric facts — statements about two-dimensional shapes such as triangles or polygons — are true, just as well as competitors in the International Mathematical Olympiad, a competition for school students. The system, called AlphaGeometry, was described in Nature on 17 January 1."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00141-5"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00141-5/d41586-024-00141-5_26634738.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
     excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
     publishedDateTime: 2024-01-18T11:00:00Z

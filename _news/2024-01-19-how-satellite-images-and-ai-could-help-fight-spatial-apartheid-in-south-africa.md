@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "How AI could help us talk to animals"
-    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
-    publishedDateTime: 2024-01-19T10:58:00Z
-    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "udYptL5M+4EGCEI7u46dISyXU5+tq/u9DvIEQr3ReR5vjpGQyd5Mm1+Y4sOCV/SJtKnXuW7SojpHyc2BLKdVL+QjONcoSjCiWcVZ/wXd403+Dt6NVK5xSgYd05aURKNvAGZTkP84PkaGEWf3qkvnLMoPF6zrU9GexTgZYxMCIDfEmihDt8sdBfHhLpG1qgjeB2ZJL7LL1s8FODOproohK30mOfoMfSOGwZLmq2/lTCy5G4yv+ZFeiUxjFK2sDgeQSBV//WJMaY7PQVFWeY6TBPQxvdJXCFhLEpmnqBSdoUpO1Cct6Cf+kWIGZAiXhK85EyYPd1n8xzDY4jkpIZmo+JhbLU+aFWMhMP9hvBCK9Z4oxQP/iMG5hT6hfpGClA/4JHbKSSWv3p7GPNHYhPOpR2lSOyUbOzR5WPhoS/RopkRyD5pPjVc36FKSkUggcL8LOxJwqSxHLnszMjhMgNr/AWPNVx6+bXb8sQwkpja1XbVtwgTVVGV4bHAiN6FQ6w3a48Vlbu9EZoxPCwEaAleEyA==;3Omr14k9LCRqnRr1n8cpfQ=="
 ---

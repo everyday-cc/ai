@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-22-we-should-stop-comparing-animal-and-artificial-intelligence.md",
+      "title": "We Should Stop Comparing Animal and Artificial Intelligence",
+      "excerpt": "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp",
+      "publishedDateTime": "2024-01-21T23:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
       "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
       "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -49,7 +91,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -347,7 +390,7 @@
       "originalUrl": "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -399,7 +442,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1177,57 +1220,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-ai-design-startup-shuns-stable-diffusion-for-in-house-foundation-model.md",
-      "title": "AI design startup shuns Stable Diffusion for in-house foundation model",
-      "excerpt": "AI designer Recraft is building a foundation model. The move will ensure higher quality images than Stability Diffusion, the startup says.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion",
-      "originalUrl": "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-6.jpg&signature=6dbb2ed935c496dab1e0d3f9d9e15cf2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T08:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

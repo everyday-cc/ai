@@ -43,22 +43,6 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw"
-    excerpt: "It's a particularly significant vulnerability both because of the volume of data that may be read, and also because GPUs are being increasingly used in AI for processing of Large Language Models (LLMs.) \"By recovering local memory — an optimized GPU ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw"
-    ampWebUrl: "https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 73
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/58154-118500-000-lead-hack-xl.jpg"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "Apple GPU security flaw confirmed in iPhone 12 and M2 MacBook Air"
     excerpt: "A report of an Apple GPU security flaw has been confirmed by the company, acknowledging that the iPhone 12 and M2 MacBook Air are affected. An exploit has been demonstrated by security researchers, which would allow an attacker to view data processed by the chip, including the results of things like ChatGPT queries …"
     publishedDateTime: 2024-01-17T12:11:00Z

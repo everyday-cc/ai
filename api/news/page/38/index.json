@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-12-07-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
+      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
+      "excerpt": "The collaboration will make it easier for customers to leverage the full breadth of Automation Anywhere's intelligent automation capabilities through their AWS investments and streamline go-to-market opportunities between the two companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
+      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T05:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Net India 123",
+        "domain": "netindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-superintendents-forum-artificial-intelligence-as-a-tool-for-learning.md",
       "title": "Superintendents’ forum: Artificial intelligence as a tool for learning",
       "excerpt": "Driverless cars? Who knows what the future will hold ... we take advantage of it. When we think of artificial intelligence, we tend to let our minds wander toward an Orwellian dystopia ruled by our robot overlords. History teaches us that new technology ...",
@@ -1080,58 +1114,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-deepmind-unveils-its-most-powerful-ai-offering-yet.md",
-      "title": "Google DeepMind Unveils Its Most Powerful AI Offering Yet",
-      "excerpt": "Google DeepMind has announced its much-anticipated family of artificial intelligence chatbots, Gemini, which will compete with OpenAI’s GPT series. According to Google, Gemini Ultra, its largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "originalUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1253650284.jpg?quality=85",
-          "width": 4000,
-          "height": 2662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

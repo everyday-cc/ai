@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 webUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -46,7 +46,7 @@ related:
   - title: "Learning the language of terrorism"
     excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."
     publishedDateTime: 2024-01-17T11:33:00Z
-    webUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
+    webUrl: "https://www.research-live.com/article/features/learning-the-language-of-terrorism/id/5121392"
     type: article
     provider:
       name: research
@@ -57,15 +57,6 @@ related:
         width: 592
         height: 444
         isCached: true
-  - title: "Large language model market heading for $35bn"
-    excerpt: "The increasing demand for Natural Language Processing (NLP) applications is propelling the large language model (LLM) market growth. These models encompass various tasks like condensing text, analyzing sentiments, generating content, translating languages ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://it-online.co.za/2024/01/17/large-language-model-market-heading-for-35bn/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "pjrO8/vgERfldkiAs7tAY0WUZXuxcbVnxsnD0cG5vgmKPComlySP/hUmXEwIu/eyeEPXnj5kJ+Soh+jOWG6htjwm0CB9lNlSqHKzSj8BFah5zSInCUqpIYQcpWK4DQddAsjkIZGAYfvz7QKPgkNU7SfnJDUy58UiC7f7f5iJqaxKYF4IQ2zTanByV1eZ+mMDaB8yzLXxrhS72ERPA6rDqAiRsOeWdrIO0+YeW0Ujwg+ZnlGtDvVzV63VkL9LFDmRBttdSpyh014MQnq7qiFKUOT0ljl7Zvmr9FGY+GJoZcrPthHFvH3xAAXzJdNBCWVaZIVeCXZZ+fasBwa/oRkNtvj5SBqS52m2i+VPvhf+MIgBc5DTP4Hk095ltvaaXDmcUx/K/HUNMUY9ayY9+e4MBtJkagsidA483x8qRy5ggMq6XIgp8ekhq3vkaP+TfZXnCg507A5YONyoOn9BIP6JR11+S/r+8D7msxmZlP8G1icEhv7fh4BZJaeNds/4Ei8TwuOu3orvxLOWiAUNQKjmhQ==;YRWkhqGWLLeMkdH/lzFTGA=="
 ---

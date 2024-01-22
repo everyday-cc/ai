@@ -43,7 +43,7 @@ related:
   - title: "Learning the language of terrorism"
     excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."
     publishedDateTime: 2024-01-17T11:33:00Z
-    webUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
+    webUrl: "https://www.research-live.com/article/features/learning-the-language-of-terrorism/id/5121392"
     type: article
     provider:
       name: research
@@ -54,15 +54,6 @@ related:
         width: 592
         height: 444
         isCached: true
-  - title: "Large language model market heading for $35bn"
-    excerpt: "The increasing demand for Natural Language Processing (NLP) applications is propelling the large language model (LLM) market growth. These models encompass various tasks like condensing text, analyzing sentiments, generating content, translating languages ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://it-online.co.za/2024/01/17/large-language-model-market-heading-for-35bn/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
 secured: "1CwVS2XZ6OmUGQiChmO31L6snNFC/96lA8cptaNXfuJ7QNcz1Hq1ofpw70g/UhPZI10MAsgodWN+C5W6JwyfggqDqaRJZjpVxoEIHf9zzJKj7sUoDCUKF4poXhdkfzE/imf++O+B1NTZ11+Ivhgalw5rZOEWjwLq35wDPaly8QJpvXtLsO9uS51wfZKvEXnoQ2bxxq94bmZURgf8L5nLHSoiWEsXZC6DvuLPKoMtRssSSySeT/6/yOltkbqsI1lj+bOswTnRd2c6yuUiK4QTD7DqXiAVmM2Jv0NvjmVpT7rdQC9Z81RYD06dOnfK+yF1vgC77SZS1e1n9Q8uFdojuVVkutBQjvP7f3+LAP0Z8esZZ9cttNXOspA3QIlaP0oarCE+Ky9LFxzgk+lbbioTZ8nJHLkIvmf3UqNyl6mfLgCrmHbegOSxcWVBTJR7ou/UxsJ+9Nogbo1Y3ewmvbXfiaQUCCSThA8Jh+9ipasFo9mEDj7MfNI4AAXD1NbQF7+DBh/iRhdYwn6f+F84GT3mDw==;7mnINk2WsO5G1D+LpgYU9A=="
 ---

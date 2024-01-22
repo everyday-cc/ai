@@ -3,8 +3,8 @@ category: news
 title: "Learning the language of terrorism"
 excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."
 publishedDateTime: 2024-01-17T11:33:00Z
-originalUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
-webUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
+originalUrl: "https://www.research-live.com/article/features/learning-the-language-of-terrorism/id/5121392"
+webUrl: "https://www.research-live.com/article/features/learning-the-language-of-terrorism/id/5121392"
 type: article
 quality: 24
 heat: -1
@@ -53,16 +53,7 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Large language model market heading for $35bn"
-    excerpt: "The increasing demand for Natural Language Processing (NLP) applications is propelling the large language model (LLM) market growth. These models encompass various tasks like condensing text, analyzing sentiments, generating content, translating languages ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://it-online.co.za/2024/01/17/large-language-model-market-heading-for-35bn/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 4
 
-secured: "2WfGQB+K/RNw7yEIkBLSTWgZyeE7OT9m1/rzuEE+eohmylRAmzzrdt4EdJkHObKtZ34x5wxmhFDSDfKO+4GPNoi7Ou4cti0QegJgvDll78dEcpAllhVLlt+T4yWS6vmM/X7NlyiMojpMHpPmdbeGfpChZ4khmyZXWnGWDpC6MyXGRvo/a8v4yttjY5FfzJoEdi+XTX7QWUa75dDdQyuHiFH18mlFkYOrOJuduf091e2D9sxlDtQ9GNTuL3FhT9qyVfTD+g1a3x51oOG+M4gNI5SNefQTJdLfT2wBxguLf1nxaxi37AtqvYt8Sf9OJBIb8a022mZIz1XE1fHI5jYInT1IiwC1jq9J43qtPX0ePZ0=;3Msgb9TqQwWVW0U7+zxtiQ=="
+secured: "UZTp5NscjY/4Kmer96v3dN3GDop8vUpOvq0grubPTOFsOeFHEEXRNwzmQsnqm/JXNxD1TSqlh9ojmV95kfFtuzKhr7RT4ETqZa+YFBkn9/rWuNZaJ/fa77Kgk/HVELqrrV1FVRYPCAul886CfRBxw9N1ZYVPmmkI6lFcQyICgR3Fv3cUQ8+SRyNbWkWBqKs4GkWii181nb6+ygaNUI2KjTXJBpijaABB+s11hePyn886dhf6sEyAD304DvcbCZjkITfiP66JkQVd/xsOKzKlfDcPQO04DvOjS4LusHQpNwtDz1a3LeHESlRin6WhRGi195/aTaj9XJc8wydS0cNyxI7QHG9wVcKnSCPMYnhtLe8=;Lro0VNKlHkJ6T9k8+QjNJA=="
 ---
 

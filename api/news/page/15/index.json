@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-12-27-lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition.md",
+      "title": "LG introduces smart home AI agent with facial and voice recognition",
+      "excerpt": "Additionally, the robot possesses voice and image recognition combined with natural language processing. These enable it to learn and understand the context of conversations and respond to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "originalUrl": "https://www.neowin.net/news/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703680640_lg3_story.jpg",
+          "width": 760,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/lg-introduces-smart-home-ai-agent-with-facial-and-voice-recognition/",
+      "publishedDateTime": "2023-12-27T13:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-byd-to-start-testing-l3-autonomous-driving-on-highways-in-china.md",
       "title": "BYD to start testing L3 autonomous driving on highways in China",
       "excerpt": "Competition is revving up in China, as BYD is the latest to be allowed to test its L3 self-driving systems on roadways.",
@@ -1196,58 +1248,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-the-top-10-people-in-artificial-intelligence-hardware.md",
-      "title": "The top 10 people in artificial-intelligence hardware",
-      "excerpt": "As the graphics-processing unit shortage continues, companies and venture capitalists are rushing to buy these chips to run powerful AI models. Nvidia, the chip giant that's been riding the boom ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
-      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652725406561dd877e784703?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
-      "publishedDateTime": "2023-12-25T13:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

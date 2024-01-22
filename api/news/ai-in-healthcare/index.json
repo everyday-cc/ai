@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
+      "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
+      "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
+      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad550e37fafb7b30393fc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
+      "publishedDateTime": "2024-01-21T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-the-role-of-ai-in-healthcare.md",
       "title": "The Role Of AI In Healthcare",
       "excerpt": "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -298,6 +350,40 @@
       "provider": {
         "name": "morethandigital",
         "domain": "morethandigital.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
+      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cincinnati Enquirer",
+        "domain": "cincinnati.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,102 +1333,6 @@
         "AI in Healthcare",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies.md",
-      "title": "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies",
-      "excerpt": "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/12/1703241289_azure-ai-health_story.jpg",
-          "width": 760,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies/",
-      "publishedDateTime": "2023-12-22T11:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-can-ai-therapy-help-ease-americas-mental-health-crisis.md",
-      "title": "Can AI therapy help ease America’s mental health crisis?",
-      "excerpt": "Artificial intelligence can't replace human therapists, at least not yet. But optimists hope it can help fill in gaps that cause millions of Americans to go without any mental health treatment at all.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/ai-therapy-help-ease-america-202612175.html",
-      "originalUrl": "https://www.aol.com/ai-therapy-help-ease-america-202612175.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/5VLZwzJzY74F4uJmYT5njg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_news_184/2a9285954a6c2f99450f0a8a839acfd9",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-therapy-help-ease-america-202612175.html",
-      "publishedDateTime": "2023-12-20T22:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

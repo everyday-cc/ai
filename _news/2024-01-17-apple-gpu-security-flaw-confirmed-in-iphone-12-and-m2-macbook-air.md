@@ -42,22 +42,6 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Most older iPhones, Macs, and iPads are vulnerable to a new GPU security flaw"
-    excerpt: "It's a particularly significant vulnerability both because of the volume of data that may be read, and also because GPUs are being increasingly used in AI for processing of Large Language Models (LLMs.) \"By recovering local memory — an optimized GPU ..."
-    publishedDateTime: 2024-01-17T00:01:00Z
-    webUrl: "https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw"
-    ampWebUrl: "https://appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/01/17/most-older-iphones-macs-and-ipads-are-vulnerable-to-a-new-gpu-security-flaw/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 73
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/58154-118500-000-lead-hack-xl.jpg"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "LeftoverLocals GPU Flaw Exposes AI Data in Devices Equipped with Apple, AMD, and Qualcomm Hardware"
     excerpt: "LeftoverLocals does not impact GPUs from Arm, Nvidia, and Intel, according to the security researchers who uncovered the flaw,."
     publishedDateTime: 2024-01-18T10:13:00Z

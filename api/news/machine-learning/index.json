@@ -53,7 +53,7 @@
       "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -100,10 +100,10 @@
     {
       "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ...",
+      "excerpt": "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
-      "originalUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
+      "webUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -116,8 +116,8 @@
       "publishedDateTime": "2024-01-16T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

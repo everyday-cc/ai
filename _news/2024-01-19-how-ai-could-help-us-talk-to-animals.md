@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How satellite images and AI could help fight spatial apartheid in South Africa"
-    excerpt: "Townships get little by way of public resources compared with rich suburbs. By mapping the problem, researchers like Raesetje Sefala hope to reverse it."
-    publishedDateTime: 2024-01-19T11:32:00Z
-    webUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/"
-    ampWebUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
+  - title: "We Should Stop Comparing Animal and Artificial Intelligence"
+    excerpt: "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries."
+    publishedDateTime: 2024-01-21T23:47:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 53
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/GettyImages-497332251.jpg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Is AI Right for Your Company? Four Things General Counsel Should Consider"
+    excerpt: "This article addresses four factors in-house counsel should consider when assessing AI procurement. The use of these factors should result in a more precise evaluation of the costs and efficiencies of the proposed AI in question,"
+    publishedDateTime: 2024-01-17T13:09:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2024/01/17/is-ai-right-for-your-company-four-things-general-counsel-should-consider/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2024/01/Pusey-Mooney-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "JTk551kneu3pyPWynS4Rv79M7f/OhtvvFHPyL7Wppwf3KCQLNqXGQyRJwd9Ihrc1x3Ch32WZnLOE401XZHKB6su8jQd7UHBkdjuqovmWkN/p+MBDiGqQQZ6CdSacPP2/hY2UpFgwE/cPRzUA99qFgBjFlqyT+5YdA7TTJTPH7IEUC6iOfGwT17EGoKoz9AaAPWWkafKZRBECJClju/7t1uBKGo7L7f2pJRLBeDIKer9W0D6FQNMwY/Fru2JU5rYF9ti5QjVA5MHxTeKOnTE9nMXAJ08QgnJghHWCP/VvV6sfsvQqUdi9Lwov2Pr514gM5RMsh0yNMdkwfNOyEcyC0v/M0GPi/wle7IlZzxccqaw=;6j/nbpty72ff9qn1xJmldQ=="

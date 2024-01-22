@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-12-11-technologies-like-artificial-intelligence-are-changing-our-understanding-of-war.md",
+      "title": "Technologies like artificial intelligence are changing our understanding of war",
+      "excerpt": "Artificial intelligence (AI) is widely regarded as ... Technologies such as autonomous weapon systems (AWS) and cyberweapons have the potential to change conflicts and combat forever.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "originalUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/war.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-technologies-artificial-intelligence-war.amp",
+      "publishedDateTime": "2023-12-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-10-use-of-ai-could-be-a-game-changer-in-tourism-industry.md",
       "title": "Use of AI could be a game changer in tourism industry",
       "excerpt": "December is well underway, and soon we’ll enter a new year. Looking back, how will 2023 be remembered in travel and tourism?",
@@ -1050,58 +1093,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-google-deepmind-at-neurips-2023.md",
-      "title": "Google DeepMind at NeurIPS 2023",
-      "excerpt": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
-      "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/MDme_Q62zVqvTUs5uwaI3Ggy2rWIujPt2elkusnUuCA4wEo79V9mabIg66j9cr9zMso-LObOVcj6_ZnrgSMUKn6fl52kxOUEjcigXtDZ2UMuosX3-2s=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
