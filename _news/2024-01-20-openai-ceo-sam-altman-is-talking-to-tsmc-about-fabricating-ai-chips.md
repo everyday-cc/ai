@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-
 webUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips"
 type: article
 quality: 84
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Altman seeks to raise billions for AI chip venture"
+    excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
+    publishedDateTime: 2024-01-22T00:44:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/22/2502985.jpg"
+        width: 1240
+        height: 826
         isCached: true
   - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
     excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."

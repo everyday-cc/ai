@@ -35,7 +35,7 @@ related:
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
         width: 1528

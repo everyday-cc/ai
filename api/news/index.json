@@ -10,7 +10,7 @@
       "originalUrl": "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -40,7 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -390,7 +391,7 @@
       "originalUrl": "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {

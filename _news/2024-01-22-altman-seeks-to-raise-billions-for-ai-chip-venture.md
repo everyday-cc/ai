@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
-excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
-publishedDateTime: 2024-01-20T23:00:00Z
-originalUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
-webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
+title: "Altman seeks to raise billions for AI chip venture"
+excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
+publishedDateTime: 2024-01-22T00:44:00Z
+originalUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
+webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
-    width: 300
-    height: 300
+  - url: "https://apicms.thestar.com.my/uploads/images/2024/01/22/2502985.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -185,19 +185,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 57
-  - title: "Altman seeks to raise billions for AI chip venture"
-    excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
-    publishedDateTime: 2024-01-22T00:44:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
+  - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
+    excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
+    publishedDateTime: 2024-01-20T23:00:00Z
+    webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Mena FN
+      domain: menafn.com
     quality: 54
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/22/2502985.jpg"
-        width: 1240
-        height: 826
+      - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
     excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
@@ -259,6 +259,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "mOTxqLmasBEL42TxwOjpad6TX0hm7KkabuVjsLX4Of5O+yJPYwHwm6OKWDsRo+ZqIojaDrKp/r4i5U9w+WUzrA4gdTONB5UKvaK7V9XwQi+G/Lbi5eRgY2iRbP/Rlq/ZxJykDZv+snKxzktwubcm4LUSzXtXy2LBg6gwAkBRDpgyJQZ56ZOhU9FylPmFEbyzg0plEFV3yDzpuFSKLNtPDiaekNcK8sWaCwSTb9XAA/BmBj9ZmBjB357p/UCY3KJweGz/z7ewogK6EsJm0Z5vtsuC+SecmuPjVQp4L4DfFQW9iaz5bmbSXxa9UA76mfsTRZum4PENM7B62UON1fLUK59Zrw2v6yy6Vqkc/oxtkJA=;ddg1+HBnp/VGF4sBUJiQeg=="
+secured: "r0o+4nXrTpLmfa7u4i5z271vB5ZU59HGKnUUDkdUdaFh+IAtynSzwOZdVN3xRTnL02cpj4tuekU78Ac4OMuxxh+N8zs2whSYfuX6InI4+0yq7bCWV5SLdVP61JLsNELcmd64YTVns5ItmN1pwuPixT8BjFh2YeKM6xGFAoWl32Ywe1UmLAtlSDOMeIR3yFy50Bfe6uvk1Qlqmx/yApsvGpEt2gbRHmzxHOGxu4J68tv9IEI4j52wuaqUJhmCVGELqpphG0xGvc+Pvnf4p/X7T7/3olN+vxUF2cDQRZtnGbw4mTbpPT6gs5sM5CVwc9yf624fvrSXv5ccsLBTvoc46n+AOL9YYQ89mUaSTu4OuHE=;GK4/HQtuvidHn6Pt+tqKsw=="
 ---
 

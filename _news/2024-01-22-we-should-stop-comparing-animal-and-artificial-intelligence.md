@@ -8,8 +8,8 @@ webUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-c
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 80
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
@@ -55,6 +56,6 @@ related:
         height: 633
         isCached: true
 
-secured: "GbBJu1lRiNbr5VZxqmyw/9G7LmiFh+zTZ2h+v1//3SIn74DUqykoWAenpJtk2iQmV0foKrSKPjuu0ddX5E/G+Gnd4B01LnoqXialP3ifVLysnmAgvZg4RKMlcxd6caOklTv26FF0kaW8cXe719zl1y5Yr7/WDeiUYVphouIdpHNf7D7zbyrdBspA7azo8TqqJ2/oZWg5iS3C2zqzpZln2cy1ZWi2sBkXOJArCL1KH+SUiPbbyopPYENcKnVUsBVBIzcsr5P+k4d67CBv/+REHLmzLJ/f6MRpp1/nCqHofbp5kcFKZqGpVOZ8eds07ypF6cidTnORuXbApQMD8yS29xRyU88WT26s/h101CoKlqY=;yhLFg5Mzl4di8xrkqkG76A=="
+secured: "Z3+aOz/fzTLXwMhLrA0Mp0YQuf1AHGBiIyWV27wETt5IBDHISaNzbgn/L1p+G1PDBuf4Pm0jtG9+EyHcEaIhXXFf6pw9BIHWItWQ3e3a7egGQqHRSiSDu7vf1b4X0U5+VpMmFBy16HmaZHaGQFN26TyLJewLKo/jhLGjeKto0rtiapw8DfCYR0WL7ZMYioV5/CGnPZQTVLk/qcFlZKEAf6dposQctljTTpRdncU+Of/+GNrWfBUI4iHzp4ZfMhytsooFFTz3nXsiieTgAnAi653ICKCn7D9V6qcmZl5mSlFFsusoa844JZAIA5/utrIep3v6eq3J8rug719u6ig6XoxoQASStpJ/sulZXSyiUz+PIlAaXD/Ly5hzZhz9EVpv+qLWxhr+arj1M5D9iWjJb9oim+mDp+Fj0VeDVUKRUOxafhUX6ekeSuQRUg1wDAswWtfggUhGOkeuIAyX6C0VjQBbCXtHG7YecqFQ1figfd1JxREw8ZaHLWHELRQ5M07dyZRmthw50MiIOyu0zW/y7g==;1fzDDyQzGqjsG8qbji/5aQ=="
 ---
 

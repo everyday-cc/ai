@@ -199,6 +199,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Altman seeks to raise billions for AI chip venture"
+    excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
+    publishedDateTime: 2024-01-22T00:44:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/22/2502985.jpg"
+        width: 1240
+        height: 826
+        isCached: true
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
     publishedDateTime: 2024-01-19T19:13:00Z
@@ -245,6 +259,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "tFnryUG8zZTkqa2ngfCVtazonk4HuLRPGY3/tr8bOHKZJNgAiUw0McMoAETyCSb4HE20jEnNLGAnt8NYgtNXSf1PyueSRj58l+ij/D3LIyPFXcEeMq03XQe/PiJP64sremn8LICA4QkP/twjxeK4Nu3oiFtiHNpk07b9nSxROuu0cLndeCO1i+kM/tCPI6K9EBj1APezL6qfDk1W7zQEw8rhpZal6njf4mikQHf/1uaAMf2VXNXlu862oZ7zy/qcJcpzDzBXayhHBZ5TX63rUTEBBLhoCwfXsibyxu8voFFo4WFHRqKn/IudC8O8W5JgQSHCzfcSl0Ig2Cf3Rf6wU4mJtPgTVDGkOZpn083Lu0o=;fdJTiLk2AEWtdwTKiTePCA=="
+secured: "fVTTF//b/PhL/MRGIL4pCPKxCiN1kidUZQJkuPA0gqfw52ijRX8V+L2cpe5/LlTbwBeZUsEgGBxr/5apilqf1LImtCSP7EK3acGqofSCnUpdugYZUr1zVp8YkvzVZCm6Hbj3A0cjVqU6Zljmts95j93wxlZHcscdjcW859fenqGFrWOMZkH/y2E5sCAeCSU/sGsp6BjkbOsiceGloV3/aNJjxv7RwKQMyQe/fyRXnKJGpNK9FI7vVQ2hcaRNrR/uVWCCjOTHIMq2a/FF37o5IR4UJtau5b9d+buhoPplu801LoH3EtyJ6Lnj2oaDIwbaO59Eks3yZqkBRdIdfVGq8HTA7KObzmaLUcwYNXXgGLikt6njMxVOI8gRTYS1x2EPgEed2wyyy3fBkOySEM3AT6eKTPvaLytCyKTxPabM6YMEOke9eUgaH+2qiAETwcGxN+VgqOAd8NdQ88ZHi9tbH7N0e0ZJKF9TTO7oJTF2yy6idO9kPf18eG0bY1erVpMwYeeFNmaEJf4C+FMBnkZo2Q==;CXlTh1LctcwrhnYvllp/1g=="
 ---
 

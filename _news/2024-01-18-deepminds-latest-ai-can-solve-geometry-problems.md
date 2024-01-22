@@ -1,40 +1,36 @@
 ---
 category: news
-title: "Google DeepMind AI software makes a breakthrough in solving geometry problems"
-excerpt: "Scientists at Google DeepMind, Alphabet's advanced AI research division, have created artificial intelligence software able to solve difficult geometry proofs used to test high school students in the International Mathematical Olympiad."
-publishedDateTime: 2024-01-17T21:53:00Z
-originalUrl: "https://www.aol.com/finance/google-deepmind-ai-software-makes-195351550.html"
-webUrl: "https://www.aol.com/finance/google-deepmind-ai-software-makes-195351550.html"
+title: "DeepMind’s latest AI can solve geometry problems"
+excerpt: "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ..."
+publishedDateTime: 2024-01-17T16:00:00Z
+originalUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/"
+webUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/"
+ampWebUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
 type: article
-quality: 31
-heat: -1
-published: false
+quality: 104
+heat: 324
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
-  - title: "DeepMind’s latest AI can solve geometry problems"
-    excerpt: "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ..."
-    publishedDateTime: 2024-01-17T16:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/"
-    ampWebUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google DeepMind’s AI system solves geometry problems like a math Olympian"
     excerpt: "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist."
     publishedDateTime: 2024-01-18T04:21:00Z
@@ -289,6 +285,15 @@ related:
       name: Coingape
       domain: coingape.com
     quality: 34
+  - title: "Google DeepMind AI software makes a breakthrough in solving geometry problems"
+    excerpt: "Scientists at Google DeepMind, Alphabet's advanced AI research division, have created artificial intelligence software able to solve difficult geometry proofs used to test high school students in the International Mathematical Olympiad."
+    publishedDateTime: 2024-01-17T21:53:00Z
+    webUrl: "https://www.aol.com/finance/google-deepmind-ai-software-makes-195351550.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 31
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z
@@ -308,6 +313,6 @@ related:
       domain: cointelegraph.com
     quality: 26
 
-secured: "8hbHxXIc28Cg/8y/6uR5myD4VrBPoWJE8fvt4wLHHhLMrROecGtBghRRhcTEgK46AjDr9VSd9wjggXot7BKKtsF5jz5pyqbRtCCY+bJbTPziOhupLDrxtmDIh60p2O8jxGWrswkN1tUgN+0w0JxaQ46SnNcBZt/Dh5Jik47IxiOPwhPTX3Ekhminyh1PG5NRNZ9GH36aMy0OBAxqOZ/JHG2DoYBGK238XhXk/Vql1TC0wDd/QEvVLAA7qjv+aAXWby60rn1+KdDZgKGNOX6Cu+jh+bAJaYJBo+WjQ8eBZhDO0WO9Yx55YNH9IlgUO1EXODkfKkqH26hc/7nCzRHVEzws35dVNeLtSlBPEjUuZjvlAS19SrX32iDXlnEyawKblIAy5izBdenNty8bduQvfITXKwNwLkm2uRfehilZE+Ur9iDTD0/RCx+t6Wpxk4vvJ6A63jaa5DvTOVYZtkQzn9skCbmyutLUYehdw5chR4N8iOQOpxvH6iW3jqPy3RH9btz9d5fzTjCprQeZcuwwiQ==;GLme6XQ3nrCPsYdwwH0MDg=="
+secured: "VyxqQlSLjiI3/X+5SSPfaNttSPJCO0w675tblQt2fNHEfqrLh++4PAUhUD17LjYFp3uW7duKwsp8peVICh+91ywthGsH1/WGcr1UQ/7wblQxf+XkV1j25tgLprKmigqGENNBd77sns8JG+JnPYBq7txd6l7B+WWQJyh32TbrlJph+2YcUo+A0sDc/IOS6dD1+PaDPR6QXEh3tFwWHVw0JxsYLRkSgMIJxwVuD8tV8/Taw5SrbG/vqui8RuahD4pqTXzaFU2otlN70UB5TKpHHmLaeHv/K+VzbKaeY9pLvYRw1rj66Vziojg5Be28vFcLScFHsH2fkhZO8Yy8cbTIwcEmtvHTbL9zjweTjKmaUjk=;SKHEwAt+z3+OFnMXZomZhQ=="
 ---
 

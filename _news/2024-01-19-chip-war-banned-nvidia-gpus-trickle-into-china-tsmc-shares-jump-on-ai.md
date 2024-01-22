@@ -33,7 +33,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 29
+    quality: 46
     images:
       - url: "https://static.tweaktown.com/news/9/5/95693_02_metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of_full.png"
         width: 1500

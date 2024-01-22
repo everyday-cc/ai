@@ -46,7 +46,7 @@ related:
   - title: "Learning the language of terrorism"
     excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."
     publishedDateTime: 2024-01-17T11:33:00Z
-    webUrl: "https://www.research-live.com/article/features/learning-the-language-of-terrorism/id/5121392"
+    webUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
     type: article
     provider:
       name: research

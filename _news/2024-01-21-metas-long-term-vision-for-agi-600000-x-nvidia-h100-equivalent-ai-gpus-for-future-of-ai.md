@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-21T10:28:00Z
 originalUrl: "https://www.tweaktown.com/news/95693/metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of/index.html"
 webUrl: "https://www.tweaktown.com/news/95693/metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of/index.html"
 type: article
-quality: 29
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.tweaktown.com/news/9/5/95693_02_metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of_full.png"
@@ -54,6 +55,6 @@ related:
         height: 513
         isCached: true
 
-secured: "0wHv38ULgyJMBj6pg/UgyJpusJzDF0C2+6RbT4otOdfaChehK4S5mw8N6GJcf7RyhHSoMSVL512NsjiSPbZAR9k27FZJwkIvLPQZj9bgsRqNiWO3CbsYjpMOP42bxv4rK/xBQeMbDawGLlww8bgy8dGo29GbOGnOcXRTY3EwrMpBrcEx78O6DO6PgpZ5VCeb4dRvVXx45Wkm7c1sNvRtus3PQDohMScpu1SgqrRElmNT7chh0+F9ydzkTSGnxjV7HEfrC8HuqKt7+NJnrJ2bxUpRc7fD95i4rq7TjgR/KWpo/BmNKPkf/DmSFi4QsvcyiVaJg/F91F/MiUAQwpwOProWvd/uJhMI7tr2lp9lBOc=;65jfBQTPOClRHuC6C4aDVg=="
+secured: "vP3zTR9QBBmleKs0G0cqfVh2KdE/GFZ6AuA7oTAUN2Clwa2ZHV4HwFr2hNPcScbj0YpMqkTDUH00VGiFZHSE/qs1HEK0V2r0EzgaUErYOkmYCNhMVX2r4z3IjFKUeNcJuRSAqKleJfoZNBrSA5cAMQizXm9juqyIZpvVLXzjU+NQoU0ktxnM+akygpagkrW6MjcUSG9Oinuld8OsNUQwUOcvi0pYJyIVDqmXmn3mBjf0zGEGe3ONLp1VZEMQDwRfoA9XsdwkAKql9JlbZ3imLbAiYGN4FGh4fcWiSc/dzM0jE1LiOAnyDlokcdsX82tv3IsFee4J3H0HDwfNZCe8XrfxTwjd6/CVQ83OA1FalJQPegLigsESUBGT53FZ5tIIaP1ptUmfyp+liZRVa+BbGNFum5xg7imaOxiPE4KWMGSaupZgGhsU8tzyYhNQ5/yq0++vCVL3O/tDP1sgQsFjoBvgHFCCOhNnTINelpvGGXkxZc3aoOIFBngLNy6CZolSyILtzKQePV8G4Yu2yyBJig==;b09cWgMn26gRKyBBVTKcsA=="
 ---
 
