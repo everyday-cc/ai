@@ -33,15 +33,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
-    excerpt: "ARMONK, N.Y., Jan. 17, 2024 /PRNewswire/ -- Today, IBM (NYSE: IBM) Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering consistency, repeatability and speed for our clients."
-    publishedDateTime: 2024-01-17T18:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ibm-introduces-ibm-consulting-advantage-an-ai-services-/2024/01/17/9947725.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YnuxGB2+aOOkE1xI0mlwPgJ60XGzSIlwOfvAsoKZdScTYbII81EuQVsaK0MTsY0qoRMw1yQl+DSTc1OL/LIN1Od8Vr1hXAy8wQT/eAfy3LQr0z1GaoeTRGlK4xv57H9mqXqM4NFfggYIENXSSJDKE4ielbzF/9fbHjsQMj/Dd3WT7eUDxLy2kPVDerm9RmpNlEcymI24B/eWcN5T4szo3Ml0YPNoBuPX+iKFPiUoviIyPHE2RDbNm15UeJtv2pScoM0EP2lfcMzFZnSvaVI/nBk/aUL0bAM4tUjGhGEBt2r7gQykqvSPvff3c8K18stYzjOuZAIdRT1w193j5n6beADfxSdY2rDvB9zWpdJxG94=;1dq+UuzcZZU916qen8L2OA=="
 ---

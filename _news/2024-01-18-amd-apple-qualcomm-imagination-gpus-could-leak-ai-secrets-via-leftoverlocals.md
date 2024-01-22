@@ -39,6 +39,20 @@ related:
         width: 1090
         height: 772
         isCached: true
+  - title: "Qualcomm ignites the 6th edition of the Taiwan Innovation Challenge focused on AI PCs and Edge AI"
+    excerpt: "Qualcomm Technologies has announced the commencement of the sixth edition of the \"Qualcomm Innovate in Taiwan Challenge\" (QITC), marking a significant upgrade with a primary focus on AI PCs and Edge AI."
+    publishedDateTime: 2024-01-22T07:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20240122PR200/qualcomm-ai-edge-computing-startup-taiwan-ai-pc-edge-ai-edge-innovation-it+ce-server-ipc-cloud-computing-iot-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 26
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240122pr200_files/3_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "uHAjFNUTfCJ824LMn861fWysmHWR6TMLqW1EcRwxIi16Qf2fwc0fIigCjykN4QrvPrBqjmSTSszFtIEwq7MefJYM180YOZ95Fj/SVcQyHnhis+aYtBE+qMZo+RuzhiU7FvWAwa0VuRsgoTb20vpKLevTJaQncIaMfrx8m6BtzqYZZwoao28xEOjXfD3F8QonadCfvjnzX/8bcOtMYn0Btn4+NoXgmkvt/gvWzEMO4QfcFKK1V5h1gsZH3ujpSGSbWM/SPxA4IYyHUfCHuY1qrSOpdyMmIes26sTFSTEBnD/VUuqq3YE9ppwHywdgMlU6nBTi5H0ygLui/K0VD0MaIGgpui5Pyt0zEnW38uwZfYfBcYQ2Y8OegM4Y3rZ+l3AH2wAb/qaeozvhy4K9aVJz24BkCvLtShhBx2nPVSY1T+0vEN5Insy7TBTsJaabBeOONVzGVkWc4/LrCoJobAXaPInFP8KWpztZ4FodN0AVhznX+f0DY7bJ0cmMOKNzUjCWOSKsyE+vbup5dsl1D8zazQ==;sckpZqq20sPTyJGeDXddKg=="
 ---

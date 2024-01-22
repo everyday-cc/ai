@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-22T15:01:00Z
 originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
-quality: 61
-heat: 111
+quality: 63
+heat: 133
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
@@ -69,6 +70,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
+    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
+    publishedDateTime: 2024-01-22T17:54:00Z
+    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
     publishedDateTime: 2024-01-22T10:08:00Z
@@ -92,6 +107,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
+    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
+    publishedDateTime: 2024-01-22T18:25:00Z
+    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 21
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "v7Wvpzsg2hYHmJcAGIIHd9apx8h2/pg84DZZ7g2cvPNcvWkUBevATQCnjzVqeUl5CnWWqL3Hov76MsWWvZ5a8OuXIsQRJaTqmHWZQ46FqqjsHuBd5tFUC2ATT+zEpsPfJ779ttTllM5S30Q8tHazTUc8WcP3GkMkEL82gcwpIBfergecYpZi5EyPIGXhwpTb+n5xXZBdZCewGd+c2Wp4TlX6neJ2wM+SRaHIHnhQAkjih5PPw5sWFEz7I8N0A1BiRm+ltC7ZlHwLNYY9rts7hXz2Gi/tKIOS1/0NkBQnnpy+UJG4iFaa1tmbWEd3aa9O37EMnYboCHa8r/SU3C6r56xgi67mZJMsY7IaiqAbsIA=;nyXuy1VLkl/t7jYFzPaQ5w=="
 ---

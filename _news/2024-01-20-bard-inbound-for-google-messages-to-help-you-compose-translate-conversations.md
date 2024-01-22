@@ -42,6 +42,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Bard AI is coming to Google Messages"
+    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+    publishedDateTime: 2024-01-19T09:19:00Z
+    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 71
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How artificial intelligence is changing work in law firms"
+    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
+    publishedDateTime: 2024-01-22T18:40:00Z
+    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
+    type: article
+    provider:
+      name: boersen-zeitung.de
+      domain: boersen-zeitung.de
+    quality: 37
+    images:
+      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
+        width: 2560
+        height: 1600
+        isCached: true
   - title: "You say ‘Allo’ and I say ‘Bard is coming to Google Messages’"
     excerpt: "Bard is coming to Google Messages to \"help you write messages, translate languages, identify images, and explore interests.\""
     publishedDateTime: 2024-01-18T17:06:00Z

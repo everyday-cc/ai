@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-
 webUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/binary-1607161_1280-1.jpg"
         width: 800
         height: 570
+        isCached: true
+  - title: "Qualcomm ignites the 6th edition of the Taiwan Innovation Challenge focused on AI PCs and Edge AI"
+    excerpt: "Qualcomm Technologies has announced the commencement of the sixth edition of the \"Qualcomm Innovate in Taiwan Challenge\" (QITC), marking a significant upgrade with a primary focus on AI PCs and Edge AI."
+    publishedDateTime: 2024-01-22T07:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20240122PR200/qualcomm-ai-edge-computing-startup-taiwan-ai-pc-edge-ai-edge-innovation-it+ce-server-ipc-cloud-computing-iot-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 26
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240122pr200_files/3_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "M+un7AEBEUYPGTuRbq8mThaITz9FmPcd/HUm2Z1J662TnhfOZqQMHRLRkG+smfC3JEOx+OVrEA7Os4ROZ2GofZPrwD6vNU+GB5odT6m8dGOB6vE43qAw0IQA6KaAdZYr0t+3+FxYt0P+R3GrKOqjZ28UFcxCwZz9HY0UqRKkMEv/hpHi1U3rHgN58ei2Va2f7n7WRFaK94zhWhAdvCCoCITmMrVbRh5JvhHKykqzrjTh5nE5jZYxMlHkMACzbU6o01MRsIB9AjhrK9qVarE93vQlPEapkOYUqSUJFMnxo73ZhqpyZcSzAALIWsvXwwCfp0qABRvNZOVYhVTXyknfJEh/Cqw0oSD9Mm+XMfhQ3iARDd+OaWfiUTdS4A+QlbaCbik7+cz0iDgl5Znt2omPWUBY3oA4DANhBqBcXOp2vjcFEL5pzutNLcSRvswTR0lSielLGKTAkEJU9aU0HF5F4765W9rPrZeLBAE5QV4ONKwCvSOMLemdY4rYDaXhxouLY6vgY+aCQwFxHNRCbhC43g==;VAz4PaUMzVJGEuSu2U/7Bg=="

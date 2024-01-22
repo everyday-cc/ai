@@ -105,15 +105,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
-    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
-    publishedDateTime: 2024-01-17T17:14:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
   - title: "Fintech major Paytm plans to deploy AI to improve business operations"
     excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
     publishedDateTime: 2024-01-21T13:21:00Z
@@ -123,15 +114,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 19
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "F2gRKD/UkuPmIwLiZw81fP0RB4iXRmC6eWPKR+vxE6ETwpS58B/odtX3R7EVbHkuDxBPundNQY/E9vmz4DO/XDXWbCSsnobogOuYlHTrlXqQ4KvmKIMkXlwWSlb2G+cbrnjuBbdjNPe3X15/Dh2sDAZa7EKvlya6DUIjmFX0pReNJsM5jN7YBd2WiJ1Ce14XLYSkULNCOP328/QZiVr8qIVqdH0llwQQ7LwMroEPHUvGULTNHWZxrzkVi8kYYP6Li3oPg6SPD4ztLtAawdTyPPg8oQv0YDM6dU2gjOXSk82Sa1BOvZS/S8xbe7BQwOqoop0chwxAKdlPU5W+Bc1vAlhfAXzBaFBDzMhsKaZzq4g=;6E9NVP1PWBZ8Fh+djp1cXg=="
 ---

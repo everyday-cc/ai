@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases
 webUrl: "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature"
 type: article
 quality: 82
-heat: 102
+heat: 104
 published: true
 
 provider:

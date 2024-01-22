@@ -32,7 +32,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
         width: 1200
@@ -79,6 +79,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
+    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
+    publishedDateTime: 2024-01-22T17:54:00Z
+    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI voice cloning startup ElevenLabs confirms $1.1 billion valuation after it closes third funding round in year"
     excerpt: "The round values the startup at $1.1 billion, confirming Business Insider's earlier reporting. ElevenLabs uses AI to generate realistic text-to-speech voiceovers and clone voices. ElevenLabs, an early-stage AI startup that has captured the attention of ..."
     publishedDateTime: 2024-01-22T14:32:00Z
@@ -88,6 +102,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
+    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
+    publishedDateTime: 2024-01-22T18:25:00Z
+    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 21
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Sbgiw3tF9Iaksx5JOTNww7QNaBdDPlPk6IYWpjjdPRj8XjKbITdi4NJPuOdUHen6gkXP+HQfo/Gx96AA8bXyJcpYDkY6C7wdtYF80vmxiXwb/PvZKy6KBDMNgvzjL1ZxI+G2f1wJ2eDdzuEa1NEcvkiGLntlhtYlSbk3p1cPMWWoWg4Cqkdf8Ai/Vj9k/3jtRQtNsTNJCJIQwKbTUIIF9YcFJhiYgeaDvoAOr9kpevHk0RlDc+X4Tbs1WXKLXMRYURNW4w5Y+3S7jvJI2va4LM2fvSoZ4SwjXP23N4VKejgrvWhF/tNUxk+Owkx78i6Y7G6+gmDtQVCSq4o5C6PFqibg4YCgCnMxaAb8D8GA+y8=;WAV9wsJ2k5zvHBpyIIEoNQ=="
 ---

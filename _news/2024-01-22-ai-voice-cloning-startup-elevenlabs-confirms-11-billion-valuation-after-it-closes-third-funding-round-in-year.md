@@ -30,7 +30,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
         width: 1200
@@ -77,6 +77,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
+    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
+    publishedDateTime: 2024-01-22T17:54:00Z
+    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
     publishedDateTime: 2024-01-22T10:08:00Z
@@ -90,6 +104,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
         width: 800
         height: 534
+        isCached: true
+  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
+    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
+    publishedDateTime: 2024-01-22T18:25:00Z
+    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 21
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "b7Hpg1bA5tQKfHEM1SDv+tj5+9i+BDZwUqbE+OFdwspAPzKwgoNTzD/TuEWt3A2sYxufXK7RAcJWQ8gfpb4UHwyTm2fSIj4Ay2P95EO5wPn5Xz26ZSxggyqwVoxEOa1y+iuVcdiyLEPUMXjJi/5EQGe5JJJaKrDTwDSpMURt8kH7gDQB9Jfw2IT8BRRpa/lnkgmcauLjcefbALwp3MeRCC1fJqf3XN+YohvJV9eL77ld50J7oIroOmTkMcMsW+7xMDPJQbX6AjHQw/08/62CmPH7s72peoux+cno7bWJYKSXIOG+MXIqi45FQQVZdxcB8xHElv8xsd9A7W9IZCo5p6ioXSUqulVokkrBKJllzYM=;UT1QuAIxv/tL2zIiUAIN4Q=="

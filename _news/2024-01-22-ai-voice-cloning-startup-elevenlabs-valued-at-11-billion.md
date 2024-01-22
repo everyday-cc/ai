@@ -30,7 +30,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
         width: 1200
@@ -68,6 +68,20 @@ related:
         width: 492
         height: 474
         isCached: true
+  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
+    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
+    publishedDateTime: 2024-01-22T17:54:00Z
+    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
     publishedDateTime: 2024-01-22T10:08:00Z
@@ -91,6 +105,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
+    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
+    publishedDateTime: 2024-01-22T18:25:00Z
+    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 21
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "fxEyVN+SAoNKseu12PZPpuTF9Bx5dbBnrONqjyeYwI8Cgrx8nHcMBSHEioz39uyo44RGQHTSy8zZjkPJRoVxWHplZlZAuX3CnjeU9iXjmzhYQs2eu1maPg8XAb5rZHghad/1lCSjUl+IyiSB+Ri4L62NQ9gbHakBERfXeov8S7sWOgrPOpYQDHF2OA94HiPqQ/zfBg2mCRhXuDLb5UHwUxDh8OXLUKmoRxRF3baXlUAjyKthTaYbNJvs/1tMGHB/bFHCzFySNFvEoqHjP4U5/6Eb4ys81QSMm8P0KKG/w5sQofM+KOGsuEpKvdph6gl7FoKsxd0R+qjxIcJ5RZVnI33hc9aVNv2LMlj3tAHuag4=;ukerEUcnbk3TpvQwzHCgqA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
-    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
-    publishedDateTime: 2024-01-17T17:14:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
   - title: "Fintech major Paytm plans to deploy AI to improve business operations"
     excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
     publishedDateTime: 2024-01-21T13:21:00Z
@@ -123,15 +114,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 19
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "HAFsN07uphDsnq50KbAEoHwCyTp8DMXt21ppfccV/FAMOrNaoeL/WFbMIBkeV7n0JlOnKEZQxxAyyFSVMH9cIEM6bgUNA+i6LVezKOBu3sfWSaX+AMjBSnHaM7RKcFA6FJlX2BeFqafLKziXkldkbblhdRm2zRKDNPum/zMnSbNDqGO5l8OdUYciPPhf+G3/tl4BQlHrRxwcgSzSoQHgfYXinwYkb/bg/EBvj/xGbXFQN05QVZacsMcM+495BLekGT5I0eEuzLrCbCsybZtvqgVjBzcAwQCETu+lub29ZJbxjo+s1mSztk2seKhVkWDa7ByHUwBLH3y0TE0rvDZnJxVukdPmZbsJeOo++uF2Jh09sv1nHKZj/OlgHKXardS7h1urO6tBvAZ++aSu0Clj248cnV3wjcvBkUtPda5nJeYNZI3onv2UTBE56gIgf+r0FFNVOwZ2CeNzZ2zXrtYjpfysvr+qPSWphILAi6htBgVT4NCyW4swl/G8aEvAI3m0XAR5gXpQNuDB9o9mOOAUkg==;lTfhotu07wanNhMA/w1VVQ=="
 ---

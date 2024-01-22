@@ -101,15 +101,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
-    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
-    publishedDateTime: 2024-01-17T17:14:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
   - title: "Fintech major Paytm plans to deploy AI to improve business operations"
     excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
     publishedDateTime: 2024-01-21T13:21:00Z
@@ -119,15 +110,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 19
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "K9r3Zda9JaZlERBYN21C4D5w8w3sdDHcJ9A+I5QygazbgipU6ovCgpdTmgO8H66m5WQLriI2bKZiZF7Coh8sC1ksfJVGFWwoA5r1KL3VVUhtLDV9qFrWpPdBzFSSmBswxxPFG4hJD+O77pjyLlxV56o7FV4v2wfzBWap+D08p9wyjuXcCnEIjfV08PJu8ONynbga3DPw0tcEO8T0YwmRJY4qzLn4GovGUWGvWrQ+RBoVpLRnGMDUxtxyEitTJ16N38IA+DE0luMGHAuk5Hv4t0a3HfP5+NkjOIAH9O/6LcH00AnFt52LuiDkHO2seVa4ZQxD5ukC8golIf33liCyQW83KM30fAOrKIL5KG/5Y/OE+v0RW3xqlCK1PyZyVKKv+y8wErOFTaWYiyt1/Txp9WVTQn8CuJCmN4Jnf3g1ButFM/EKhmRjDjWwZDb2+8O/blxih7+fQAYsW1CQHk1pHa5zrwFFBgBNNWB5KP7pIm6t4uA7ZAgSp5rGpss5MtYsNTC9CcbfP1kdp+mczJvpqw==;J6dOoicKzAHWdxqp5ZJDSg=="
 ---

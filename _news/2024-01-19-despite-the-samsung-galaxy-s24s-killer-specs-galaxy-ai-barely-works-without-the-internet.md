@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The power of Google AI comes to the new Samsung Galaxy S24 series"
-    excerpt: "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones."
-    publishedDateTime: 2024-01-17T18:00:00Z
-    webUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/"
-    ampWebUrl: "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png"
-        width: 1300
-        height: 733
-        isCached: true
-  - title: "Bard AI is coming to Google Messages"
-    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
-    publishedDateTime: 2024-01-19T09:19:00Z
-    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 71
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers"
     excerpt: "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps."
     publishedDateTime: 2024-01-17T19:29:00Z
@@ -76,20 +46,6 @@ related:
       - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
         width: 1400
         height: 990
-        isCached: true
-  - title: "Samsung’s Galaxy S24 Phones Call on Google’s AI to Spruce Up Their Smarts"
-    excerpt: "The top new features in Samsung’s latest lineup are all in the devices’ Galaxy AI software. Together, they form a testing ground for Gemini, Google’s new large language model."
-    publishedDateTime: 2024-01-17T18:00:00Z
-    webUrl: "https://www.wired.com/story/samsung-galaxy-unpacked-2024/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 68
-    images:
-      - url: "https://media.wired.com/photos/65a6c0640c15f050104f7819/191:100/w_1280,c_limit/Gear-Samsung-Galaxy-S24-Ultra-SOURCE-Julian-Chokkattu.jpg"
-        width: 1280
-        height: 670
         isCached: true
   - title: "The Samsung Galaxy S24 Bets Big on AI, Apple Watch Ban Saga, and More"
     excerpt: "Fresh off the heels of CES 2024 comes another huge January tech event, in which Samsung officially launched its highly anticipated Galaxy S24 AI-powered smartphone. Ubisoft turned some heads this week when the French gaming publisher said gamers should be more comfortable not owning their digital games."
@@ -137,20 +93,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Google is partnering with Samsung because that’s the only way it can beat Apple"
-    excerpt: "If the new Galaxy S24 series is anything to go by, Google and Samsung are working together more closely than ever to close the gap on Apple."
-    publishedDateTime: 2024-01-20T15:00:00Z
-    webUrl: "https://www.androidauthority.com/google-samsung-ai-partnership-3405053/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 50
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Plus-vs-iPhone-15-Pro-colorful.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
     excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
     publishedDateTime: 2024-01-20T10:54:00Z
@@ -195,20 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
-    excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
-    publishedDateTime: 2024-01-22T08:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/what-galaxy-ai-brings-galaxy-s24-series-watch-1722898"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722520/samsung-galaxy-ai.jpg"
-        width: 2048
-        height: 1153
-        isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
     publishedDateTime: 2024-01-18T15:30:00Z
@@ -222,6 +150,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/01/galaxy-s24-phones-official-4.jpg?quality=82&strip=all"
         width: 1599
         height: 1066
+        isCached: true
+  - title: "The Galaxy S24 Language Translation Feature Is Gamechanging"
+    excerpt: "It’s yet to be seen whether the implementation is identical to the Samsung Galaxy S24 series. Language Translation With AI Is A Huge Focus On The S24 Series Galaxy AI was very clearly the star of the show at Samsung Unpacked, and translation features ..."
+    publishedDateTime: 2024-01-20T00:01:00Z
+    webUrl: "https://www.talkandroid.com/384756-the-galaxy-s24-language-translation-feature-is-gamechanging/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 24
+    images:
+      - url: "https://www.talkandroid.com/wp-content/uploads/2024/01/Unpacked-2024-Highlights_main3.jpg"
+        width: 1000
+        height: 582
         isCached: true
   - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
     excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."

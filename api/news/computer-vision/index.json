@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
+      "title": "Corydon: Five arrests after Met Police uses live facial recognition",
+      "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-london-68062080",
+      "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-68062080.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp",
+      "publishedDateTime": "2024-01-22T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-cops-used-dna-to-predict-a-suspects-faceand-tried-to-run-facial-recognition-on-it.md",
       "title": "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It",
       "excerpt": "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -744,6 +796,40 @@
       ]
     },
     {
+      "path": "_news/2024-01-06-schwarzenegger-for-president-arnold-should-run-and-not-just-because-hed-beat-trump.md",
+      "title": "Schwarzenegger for president? Arnold should run – and not just because he'd beat Trump.",
+      "excerpt": "You also may not realize that, in real life, the door just opened for you to be pulled back into the FUBAR (“F’ed Up Beyond All Recognition”) of our national ... this makes clear that you can run. Who could object without looking like a hypocrite?",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "originalUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-police-secretly-conducting-facial-recognition-searches-of-passport-database.md",
       "title": "Police secretly conducting facial recognition searches of passport database",
       "excerpt": "Chris Philp, the policing minister, raised the prospect last year of officers accessing the database of passport holders so they could use facial recognition ... Mr Philp’s speech on the plans ...",
@@ -1243,92 +1329,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-rite-aid-barred-from-using-facial-recognition-tech-after-thousands-falsely-flagged-as-shoplifters.md",
-      "title": "Rite Aid barred from using facial recognition tech after thousands falsely flagged as shoplifters",
-      "excerpt": "Bankrupt pharmacy chain Rite Aid was banned from using facial recognition software for five years to settle Federal Trade Commission charges that the technology falsely flagged thousands of ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/12/20/business/rite-aid-barred-from-using-facial-recognition-to-id-shoplifters/",
-      "originalUrl": "https://nypost.com/2023/12/20/business/rite-aid-barred-from-using-facial-recognition-to-id-shoplifters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T20:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders.md",
-      "title": "Police to be able to run face recognition searches on 50m driving licence holders",
-      "excerpt": "Exclusive: Privacy campaigners say clause in new criminal justice bill will put all UK drivers on ‘permanent police lineup’ The police will be able to run facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders?ref=biztoc.com",
-      "originalUrl": "https://www.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders?ref=biztoc.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/911c47e92f20471b307595b933fe4be7e671675e/0_25_4928_2957/master/4928.jpg?width=620&quality=85&auto=format&fit=max&s=df04491dbc8a743f01a8d04c53b53511",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/dec/20/police-to-be-able-to-run-face-recognition-searches-on-50m-driving-licence-holders",
-      "publishedDateTime": "2023-12-20T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google DeepMind’s program does geometry like a maths champ"
-    excerpt: "At the International Mathematical Olympiad (IMO), the annual meeting of the world’s best teenage mathematicians, Google DeepMind has unveiled a program that can compete with the best humans in solving geometry problems."
-    publishedDateTime: 2024-01-17T18:09:00Z
-    webUrl: "https://www.thetimes.co.uk/article/google-deepmind-unveils-ai-that-does-geometry-like-a-maths-champ-0zhj295w7"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 71
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F35474dbd-c7a5-4887-9bb7-d2d63f82b812.jpg?crop=4500%2C2531%2C0%2C234&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
     excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
     publishedDateTime: 2024-01-22T08:52:00Z

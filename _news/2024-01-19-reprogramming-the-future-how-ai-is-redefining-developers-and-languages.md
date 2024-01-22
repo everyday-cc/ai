@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact of Artificial Intelligence on Computing: How AI is Shaping Our Future"
-    excerpt: "Are you ready to explore the thrilling world where science fiction meets reality? Brace yourself as we dive headfirst into the realms of Artificial Intelligence and its profound impact on computing. From enhancing our everyday devices to revolutionizing industries,"
-    publishedDateTime: 2024-01-17T17:19:00Z
-    webUrl: "https://techbullion.com/the-impact-of-artificial-intelligence-on-computing-how-ai-is-shaping-our-future/"
+  - title: "Gpt-5XX: The future of language generation and AI"
+    excerpt: "Language generation has come a long way in recent years, thanks to advancements in artificial intelligence (AI). One of the most remarkable breakthroughs in this field is the development of the GPT-5XX model."
+    publishedDateTime: 2024-01-18T17:28:00Z
+    webUrl: "https://www.theupcoming.co.uk/2024/01/18/gpt-5xx-the-future-of-language-generation-and-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 53
+      name: The Upcoming
+      domain: theupcoming.co.uk
+    quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
+      - url: "https://i8a4b7e5.stackpathcdn.com/wp-content/uploads/2021/12/generic-pexels-technology-thisisengineering-3861969-1024x620.jpg"
+        width: 1024
+        height: 620
         isCached: true
 
 secured: "bAoW9O6A7A1pIM0Xpd2fbOjqTlboOrAZmxJdeXprUwn6f46oGwOIeqeD82/dL93vUoEcZhfY/dgjuBj8GIv9/GrPfiHY3rAsB055XERN3zFtaHgH8fZ6PhJibEqoGbDHvr9lnFQm/EC2d8WXAx3f/jdGOZuJKVcFELfRyzZ8wixP/04tx7GZyOGQudeipaUxV2aIGaRCOagiHDsvZqBcIYNdZiLnFVbrJFwbAxDnJu6h9vYEgTaUcY/PxrWUeVze3n1P0yWP2j9mfUCZjneZrCjfw1W6mJ/G6Swz3+Tg45LNFQfQNMCUIl6k476H/QhFRcTu+TFKLt5m4cGy1WPq2Mz8WHNraPPq+i8D7FtZ8cThG+opB04m3ULRh+LacChIcoi1d0CiFMJ8k2vZB578xkhFL072OdHHE4E+hGOfP0WuCXYSpRCnjOp5Oli7Lmd3tNAx0pPfXsSA5vXHa1zmOpe0BepmZyLG20aRQFR3p5uXR/p4OWXrQEyBhK/aeKvjS0umYB4Af7nwrOKz/EF2eQ==;/558S1nHdPt7qMVYF8mZyw=="

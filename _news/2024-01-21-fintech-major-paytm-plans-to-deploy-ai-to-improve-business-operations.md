@@ -109,24 +109,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
-    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
-    publishedDateTime: 2024-01-17T17:14:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
-  - title: "5 predictions for fintech in 2024"
-    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
-    publishedDateTime: 2024-01-17T17:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "nZH008Ufr5cW3KMajQLAIe/m+H0TcP3Bz/RXXvVn4gYIMVAWFXfjFT7wnCuD8WiB5A78Ep5oCbT4tYGWjgUmSorGmO3gjJ8gQcPPsSBarRidkklZ1gZPYssb61Nku1BrAndtRBI9f3C8CFDSrEEVA1OUqoFa6lWEnF/lQ7AJVO6U77lrRGkdIQ6Q6axZKc4jyJHAbOFb9REDCnG4c5Y6y8IY1jskk+0WwZqRb58/3T8FvtXokCj55IXrIFuK6vzWEhtyPJnzC/XQaUm+u+Dmk59vx11xZhS6sGuZMfFeJJyA/mo/mW78pgzklMcGyluSnB09A4Ef7JvTrYzMnzmfuIgf7qYy0gMi16fH9vOGvGvu2lKB9TkTk5Q5/A6VKAUFxDgBzgg6jEn4JjNPPEiftyfL2Ks7yWKGZKj8l0l2m6a3FowO+IDc1/0cXxZ/mnnNVFzjf9T+oakQ8zTwwTUmC0t4OL1V+PqLoeY9WKO/MfANCT74tQi8Z1IIaJrfyQWSnL3xtuy26Xq9YeGof2KLqw==;5hPkqDqMyYc38WJ/A0kbMA=="
 ---

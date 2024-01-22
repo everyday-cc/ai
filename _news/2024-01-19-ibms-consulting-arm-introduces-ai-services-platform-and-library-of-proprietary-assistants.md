@@ -34,15 +34,6 @@ related:
       name: Westfaironline.com
       domain: westfaironline.com
     quality: 19
-  - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
-    excerpt: "ARMONK, N.Y., Jan. 17, 2024 /PRNewswire/ -- Today, IBM (NYSE: IBM) Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering consistency, repeatability and speed for our clients."
-    publishedDateTime: 2024-01-17T18:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ibm-introduces-ibm-consulting-advantage-an-ai-services-/2024/01/17/9947725.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "dJv5avTsdWWhu6ercGz4lHkcXrZ9zyvgSDpl6f6BrSTnQo2pnPggs7Fj4ScSAJzTu8cgHj1zzZUNyHA3uvmInU2dwlSzIUf3CxHYWF6ys3oNgqSJxqfT0iIy1nOCnNQStNbRZ1Og4YRkHIdKgMCU6T3uJ4vQDVWs2f3DGNaozeFf1EwnCJHsrLptcVu0yImol0OpVjhTnadg5ZRn8fM9oIHq16r+gA47ANoV5TSsR80KN7OwFNLdNenW1FqbZMZewf4nCFYtD0RA/rGJv15+oOnW96vF244U9VKzooFbraNm2bzJdwQnEA32UiJsQ7FlBGDpRjSBqU9egWbpaltH3BEnvAerd2EToH9RWTo0ObtJ6+GZ9j4MDVAcOQd30g5vyM2IRl5TazAFcH6/bWJ2qG3zle+9jqj4dQ6dIkgPLVcCyyMotqaQylpJ2AJl2pWRisiIjCoLKYGTCycaQ/Lj3OzptVRBNEgnr8yc8HUSpFQxNP/UVSX9+CMcy9F4yyNZpGrLelO7kWLCCwJri/L+mw==;6ONP6HO15NsWZ3rAdEAvmg=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU"
-    excerpt: "Due to their exceptional content creation capabilities, Generative Large Language Models are now at the forefront of the AI revolution, with ongoing efforts to enhance their generative abilities. However,"
-    publishedDateTime: 2024-01-17T17:12:00Z
-    webUrl: "https://www.unite.ai/powerinfer-fast-large-language-model-serving-with-a-consumer-grade-gpu/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 41
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Consumer-GPU-1000x600.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "qe7uuvM6lnYEB/B6mQL3No8FCQVcjMEVwBxTHiME7ycZ9wArlQ93oaidhrsvI9NoPlBhJ4DqaJoT8HtR+v1a9A7xwRVVir2kRdMf/A5OJz/HuKR36dObdfKJJE5++cQRR+iorSlp8bQ7vqeuQ89pPU/jmZHlfjId8hNLpPOtqQ4Jykahsn/0n0K67eCLCIG75OBQJ2PbJWMZbo9mF7QOGxAVIXIOZbFxjJ6NGvDACkMVd1Y2KdhMhFjMGHTzT+ze9xJZkAc3zUB0xDePsR5eLgKclAwWXEfrBpWy89b/WSd2R39tUCrxKGgzZCyLCddD6OuELUIkkMKDEeGM9q2N5A7+4FeqYQ0iNivPZbWDv20=;WHrXcsyqdjZPWIeECOfHfQ=="
 ---

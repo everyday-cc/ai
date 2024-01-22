@@ -25,29 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It"
-    excerpt: "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last."
-    publishedDateTime: 2024-01-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/"
+  - title: "Corydon: Five arrests after Met Police uses live facial recognition"
+    excerpt: "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\"."
+    publishedDateTime: 2024-01-22T18:23:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-london-68062080"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 63
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/65a983aeccf1dfc50354872a/191:100/w_1280,c_limit/security_police_DNA_facial_recognition.jpg"
-        width: 1280
-        height: 670
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "What could go wrong if police run facial recognition on an AI-generated face based on old DNA?"
-    excerpt: "Wired tells the story of California detectives who tried to use facial recognition to identify a face made with machine learning and crime scene DNA by phenotyping company Parabon NanoLabs. That’s not a good idea,"
-    publishedDateTime: 2024-01-22T14:45:00Z
-    webUrl: "https://www.theverge.com/2024/1/22/24046731/what-could-go-wrong-if-police-run-facial-recognition-on-an-ai-generated-face-based-on-old-dna"
+  - title: "Five arrests in Croydon after police use live facial recognition"
+    excerpt: "Five people have been arrested as part as part of a Live Facial Recognition operation in Croydon. The five people were arrested on Friday (January 19) as part of a longer-term operation to tackle serious violence in the area."
+    publishedDateTime: 2024-01-20T10:13:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/24063275.five-arrests-croydon-police-use-live-facial-recognition/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 52
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thisislocallondon.co.uk/resources/images/16026307/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Miami Police Used Clearview AI Facial Recognition in Arrest of Homeless Man"
+    excerpt: "Facial recognition technology is increasingly being deployed by police officers across the country, but the scope of its use has been hard to pin down."
+    publishedDateTime: 2024-01-19T19:37:00Z
+    webUrl: "https://reason.com/2024/01/19/miami-police-used-clearview-ai-facial-recognition-in-arrest-of-homeless-man/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 34
 
 secured: "WFz5Rs8AXjJmjELITkm74EDsR4JoWyeWttD48PDaXUjV6CUkMCmLoHma9hbHh9LfSOF8H8ECwsTvaywXmeBJqV4bTEB51qbIrFsz3Rh8D4URrNqseNZGV+XTATabNdXXbX/YdZsl6R7mcTLpf3MUTIMiViNvAQ0+HFxc/ExSnPPSLlapGYF+5DK1KdlwoAJ3o/r/ejcwET7cZL6ujwOjj+cmT4juXhi/Nor0YkAiLxcBdiJ1a7gC5diB3ty6FCkNZt/Hxbk57xGGKSm6q4yJZcuU2n6xdsEMlYxVKJKMpBy7gPoc/eCi+cDQxIxlv3NmswUjo8TwXAFl4bI5PN4U1UAsjQiNfXFJwvH97do/l9c=;pGOamnnwqtTxKyrN0m1lug=="
 ---

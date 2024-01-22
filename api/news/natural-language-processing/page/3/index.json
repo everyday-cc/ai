@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-12-mind-reading-ai-can-translate-brainwaves-into-written-text.md",
+      "title": "Mind-reading AI can translate brainwaves into written text",
+      "excerpt": "Once DeWave understood the brain signals well, the team connected it to an open-source large language model (LLM), akin to the AI that powers ChatGPT. “This LLM is like a brainy writer that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
+      "originalUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-ibm-assures-ai-powered-cobol-translator-in-watsonx-will-not-replace-developers.md",
       "title": "IBM assures AI-powered Cobol translator in Watsonx will not replace developers",
       "excerpt": "According to IBM's Z Software VP, Skyla Loomis, Watsonx is a \"developer assistant tool\" that uses AI but can't perform every task independently. The generative AI",
@@ -1260,49 +1294,6 @@
       "provider": {
         "name": "Kurdistan 24",
         "domain": "kurdistan24.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-online-language-learning-platform-market-to-reach-448-billion-by-2032-at-172-cagr-allied-market-research.md",
-      "title": "Online Language Learning Platform Market to Reach $44.8 Billion by 2032 at 17.2% CAGR: Allied Market Research",
-      "excerpt": "In addition, advances in natural language processing improve the quality of language learning applications. However, the live learning segment is projected to manifest the highest CAGR of 18.8% from 2023 to 2032, as live learning platforms integrate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n36025837/online-language-learning-platform-market-to-reach-44-8-billion-by-2032-at-17-2-cagr-allied-market-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n36025837/online-language-learning-platform-market-to-reach-44-8-billion-by-2032-at-17-2-cagr-allied-market-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36025837",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36025837",
-      "publishedDateTime": "2023-11-30T10:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
