@@ -25,31 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "How to Future-Proof Your Workflow with Google Bard"
-    excerpt: "This guide is designed to show you how to future-proof your workflow with the help of Google Bard. The dawn of a new era in the workplace has arrived,"
-    publishedDateTime: 2024-01-17T09:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-future-proof-your-workflow-with-google-bard/"
+  - title: "Google NotebookLM vs Google Bard with Gemini Pro"
+    excerpt: "The vdeo below compares the Google NotebookLM with Google Bard, both are powered by Google's Gemini Pro. In the realm of digital tools and artificial"
+    publishedDateTime: 2024-01-18T07:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-notebooklm-vs-google-bard-with-gemini-pro/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 24
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/workflow.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How to Organize Your Schedule with Google Bard"
-    excerpt: "This guide is designed to show you how to organize your schedule with Google Bard. Are you finding yourself swamped by an ever-growing to-do list? Managing a delicate balance between professional responsibilities, personal obligations, and those precious ..."
-    publishedDateTime: 2024-01-18T10:02:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-organize-your-schedule-with-google-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-13.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/NotebookLM.jpg"
         width: 1280
         height: 720
         isCached: true

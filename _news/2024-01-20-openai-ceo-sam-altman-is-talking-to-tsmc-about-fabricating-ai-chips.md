@@ -219,6 +219,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Altman wants his own AI chip factories"
+    excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
+    publishedDateTime: 2024-01-22T10:18:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58299-altman-wants-his-own-ai-chip-factories"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/db51c38ffb5f370dc18359324f6bb6e3_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Sam Altman in talks with TSMC to launch AI chip plant"
     excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
     publishedDateTime: 2024-01-22T05:14:00Z
@@ -247,6 +261,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
+    excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
+    publishedDateTime: 2024-01-22T10:46:00Z
+    webUrl: "https://www.inc.com/peter-cohan/sam-altman-says-chatgpt-is-good-for-education-here-are-four-lessons-from-my-student.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-ai-inc_536595_s6eifk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "OpenAI founder Sam Altman is building a global network of dedicated chip fabrication plants"
     excerpt: "Bloomberg reports that these Altman would be working with the world's best chip manufacturers and that the network of fab plants would be global in scope. Altman knows there is a future AI GPU shortage coming, as companies like NVIDIA, AMD, and Intel can't ..."
     publishedDateTime: 2024-01-21T15:09:00Z
@@ -255,7 +283,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://static.tweaktown.com/news/9/5/95711_17_openai-founder-sam-altman-wants-to-see-global-network-of-dedicated-chip-fabrication-plants_full.png"
         width: 1500

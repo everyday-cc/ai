@@ -119,15 +119,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft partners with Vodafone on generative AI integration"
-    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
-    publishedDateTime: 2024-01-17T09:51:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
     excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
     publishedDateTime: 2024-01-18T17:00:00Z

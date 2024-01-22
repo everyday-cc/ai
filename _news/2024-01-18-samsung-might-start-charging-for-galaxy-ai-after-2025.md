@@ -200,6 +200,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
+    excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
+    publishedDateTime: 2024-01-22T08:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/what-galaxy-ai-brings-galaxy-s24-series-watch-1722898"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722520/samsung-galaxy-ai.jpg"
+        width: 2048
+        height: 1153
+        isCached: true
   - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
     excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."
     publishedDateTime: 2024-01-20T00:01:00Z
@@ -209,6 +223,15 @@ related:
       name: Techno-Science.net
       domain: techpp.com
     quality: 21
+  - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
+    excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"
+    publishedDateTime: 2024-01-22T10:18:00Z
+    webUrl: "https://www.techopedia.com/samsung-s24-integrates-google-ai-what-does-it-mean-for-the-smartphone-market"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 15
   - title: "Despite the Samsung Galaxy S24's Killer Specs, Galaxy AI Barely Works Without the Internet"
     excerpt: "Only a few Galaxy AI features rely on your phone's hardware. The rest reach out to the cloud, where Samsung has partnered with Google to use its new Gemini large language model. Samsung promises several features in Galaxy AI: Interpreter,"
     publishedDateTime: 2024-01-18T20:41:00Z

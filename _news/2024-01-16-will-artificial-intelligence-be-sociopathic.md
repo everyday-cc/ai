@@ -3,21 +3,18 @@ category: news
 title: "Will Artificial Intelligence Be Sociopathic?"
 excerpt: "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience."
 publishedDateTime: 2024-01-15T17:43:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
-webUrl: "https://www.psychologytoday.com/za/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
+webUrl: "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Psychology Today
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
 images:
@@ -26,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "IjnYYm2Z2wr33Qyqy2HRzRzlGOnlQl0W2X4APfyShkl60Tnj1z7o7fKPSkwDIpqSglahVpF/8hPtIPKekyKx3bXyALbi0btVVcgO2Ka1pZu4t6uJ4oltYNIjoPA9K3eddXpNyYaevZJVRkDWU8JFiYIPxpZH4d43JxBYXxvxVKG7OTmWC2d3mF9sDgnNqSw3qUpUA6vgM8PaPf81EjnmO38+r+vDCUoaWuic37L8LZR+Pyy7IPW32n+DLvwDfZDztqEl/ECiSS3o2fdwjgcjsJPPCotNB3uCN/dqpOS7S4JyBGFp/69tKsfGSRQtHhPSyVw8QAUu5QCg5UyO1KHyQti5hEE7MsP3gSVgAppm1M52czAQDquSXti67ORSskX5O5rAQwOlw8tBOjwrKIOV4OeJmlzefNDFaDBT6/C7iemudwju+aJCVeIYDedQn9dm8JjZuJZUeSD1RK2wYsK0gWPqxhriovG1dUgDGYBmt2UwGQB8BpOIILJGjPdk08AB+bMW/8jX2cwc5TTMkppttw==;xIUHR92ab0rt84TjfYzRQQ=="
+secured: "xpSU9PxwPRftRJgRoIBdTixQraGYsAw9aB8rh8c2sWxpmN7Cof4OcNoZuDE0GfAjNmcArIvUPSq2oGNN0/fzTUa/3NnFW8tF7ByN3gk7zU5TZ61yl4dtJL7OyEsaLxJE8Zbq94S8tWJxS/48cvaAEEgBNulrCh2qYUwTSqDNHPlaCi3V/7SMHZmWzamNGmxGkOPgIrIzZv+tzpq6YiEtY9ZGaDFO4hN7YkD+XYiFr0/uF+C+E/5WOnv2ygVRAbrySGgHX2y9F8x3Y6WglTl3IPoE3dGj5+2PMIB6rgfhVbm3/PrLWLdVHqe7M4OeuC1v07j5I/SSH92r8mD2d2q0dNvUreD0PnTHfzS8ifoPzPk=;7jaZMzJeQq4CqlzIC7kBkA=="
 ---
 

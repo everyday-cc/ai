@@ -195,6 +195,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
+    excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
+    publishedDateTime: 2024-01-22T08:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/what-galaxy-ai-brings-galaxy-s24-series-watch-1722898"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722520/samsung-galaxy-ai.jpg"
+        width: 2048
+        height: 1153
+        isCached: true
   - title: "Samsung might start charging for Galaxy AI after 2025"
     excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
     publishedDateTime: 2024-01-18T15:30:00Z
@@ -218,6 +232,15 @@ related:
       name: Techno-Science.net
       domain: techpp.com
     quality: 21
+  - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
+    excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"
+    publishedDateTime: 2024-01-22T10:18:00Z
+    webUrl: "https://www.techopedia.com/samsung-s24-integrates-google-ai-what-does-it-mean-for-the-smartphone-market"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 15
 
 secured: "FCX12jGzRwTxfts5iUTRhAklToOoSYpQPcdRSD/aUG/Pz3DYgTW/HoTL2YfmiJi3jDnaFGYXMnNavTzeNnwY8bRSqBxIniUeCNy1gIR2vPtnz8UW223CiviTM6L9/QaMDHyBuUHuSQKjjb2qkcxzb7iUcLpwcE4A/M1uu49Iov+hewAyIy2Id82aOVsScmWNvO1m1A3gebhSbXiYWdjFCQEp4a3R9oc5/8SW20khPXX7U2/7Xl+RvmwxAFJFejK3jYP4weNQ4gPy8F2KyXQwjK42Z5lzBMNC+4AmVGQRuAL4KCc10hdMa9W28F2Av4wzoZ5MT4p7+oGi7ueCuq7QWwzi7bnE2GZ6iGzKbsdDHV00ht+qBZ55hgm3XPWsQ06E/0QHwkAD+cEradlOHLhe7loVUX6vLGMGFVHXZso2yKkusYNgdPXEO5+UT9pgIrwUwzkaxLQzj/NvcFuuJ6S7lr1ISp39nKipg6KfjXUsznbDzSbCsIsvmb2oCHOZq90Qtg2sl6bs7pqd6V9s4dJB+A==;LdefYVeRVO3I+2X8s6gIrQ=="
 ---

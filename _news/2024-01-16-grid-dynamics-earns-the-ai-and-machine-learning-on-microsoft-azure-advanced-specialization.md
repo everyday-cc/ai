@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
+excerpt: "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ..."
 publishedDateTime: 2024-01-16T13:45:00Z
-originalUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
-webUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+originalUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
+webUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "Pdl0l9qk7wsJrTOQoJaTntJ92GYZENz25eOR3tnMI3/LFTYY/xqMvcrHw0nPYplaURT+vn5e6+7pNJBrb05oSKg8iO0WMWEYYj9fsCny1iSkxvszxba4L8Uu3Gm72FZSxgb2kepn53l6FgVcmavNEQfA92VXiMn/8FwauG7Gvtrn3/BGLyx981r0R4Sa194uFSNNJdg2JAVu+yJ1B5D+ICYlFseNM8YAxu3DGh4rN4ioSYLUKkK4W6lEp34lDTri9ylOzUvLUOfWc3E8rC9kJtsFUlUlDprli/Y5ZuyR4W/njhnBYbe5MThCfp/XZsj0GDSB8GiMKb97bOWzBZr/7pLz7tudA0CbkX8gO2+OmHI=;9awVvHT7FOlLyw8rhbYW0A=="
+secured: "wHHrFa8OQYBxFCjrP2iiCshT/w3Z2fkSpV59l+bhpHw5LnxcdtCzKQVb4rmnzD+OsANWwfTDjGzWou7nvjiIyUunTfZBwMFLH2mkRA2e8XDqJMWQ2VgyhAgkCsZGR6PdLaN9RSkJHPesG0KCKDuTJmwkJgM1uiDndLWQgjKD22dd8LrGQrdUq8EFALKyaVWC/sQt/p5cdWf/iESfKoMOREFazPTIZCvMPiTh2b7G/Gc7PFleEWiMpQqN/vz9P+hqoqgrCWV8dqIJc1/GEsjwXxFr36P/ra/Q180OYdhIezmSzQI7QqklwTk/HHGcoqXWYJG/zDFgFAJ3CnWn7Zyuq8u/uayT+M2mUF56ng2TmwA=;ETMdJTekKd3yJ6GzGByiEg=="
 ---
 

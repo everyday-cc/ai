@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
+    excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
+    publishedDateTime: 2024-01-22T10:08:00Z
+    webUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "fxEyVN+SAoNKseu12PZPpuTF9Bx5dbBnrONqjyeYwI8Cgrx8nHcMBSHEioz39uyo44RGQHTSy8zZjkPJRoVxWHplZlZAuX3CnjeU9iXjmzhYQs2eu1maPg8XAb5rZHghad/1lCSjUl+IyiSB+Ri4L62NQ9gbHakBERfXeov8S7sWOgrPOpYQDHF2OA94HiPqQ/zfBg2mCRhXuDLb5UHwUxDh8OXLUKmoRxRF3baXlUAjyKthTaYbNJvs/1tMGHB/bFHCzFySNFvEoqHjP4U5/6Eb4ys81QSMm8P0KKG/w5sQofM+KOGsuEpKvdph6gl7FoKsxd0R+qjxIcJ5RZVnI33hc9aVNv2LMlj3tAHuag4=;ukerEUcnbk3TpvQwzHCgqA=="
 ---

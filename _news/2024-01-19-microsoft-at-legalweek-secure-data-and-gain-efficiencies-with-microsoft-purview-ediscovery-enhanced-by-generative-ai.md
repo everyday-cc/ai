@@ -133,15 +133,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft partners with Vodafone on generative AI integration"
-    excerpt: "The 10-year strategic partnership between Microsoft and Vodafone will develop and implement “customer-focused AI services” and allow employees access to CoPilot for an enhanced working experience."
-    publishedDateTime: 2024-01-17T09:51:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-partners-vodafone-generative-ai-integration"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "Microsoft and Cognite extend partnership to build industrial data operations platform on Microsoft Fabric and Azure OpenAI Service"
     excerpt: "Cognite and Microsoft are excited to announce an expansion of their strategic partnership to bring enterprise data operations to the generative AI era."
     publishedDateTime: 2024-01-18T16:09:00Z

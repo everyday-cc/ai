@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenla
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html/amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: moneycontrol.com
@@ -35,7 +35,21 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
+    excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
+    publishedDateTime: 2024-01-22T10:08:00Z
+    webUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 32
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
+        width: 800
+        height: 534
+        isCached: true
 
-secured: "RcOShZIRmhLmwaYyHErGmhbGXWBt/vFlkgOWljzZacGmR52CS32DHdl8hzVig7SPPWFAL03KrdRXw0Zo1lvEsTFRmShgBQX5LCTH7KkezLp5naojBhg7ppbWZOJhFCd3zouNYi2Yk6tGuXHko/afmqRGtgYrgASxmQzDk8OfEfQh8ad4fAPReKXW4zR2bcK7UN70ySRMIscb+lpk004TlKxA2Q7GNgHhNb64317iVLaH2LmvByBYp4JcGQ7lzs4ZYwFo91+VFwZsURaoWLBZGsVHf1NbqhkPcXaqtBFMSSONm/0s4jUQw6cIM6VmrbyILiQfZDvO49c4hygbyoqpBADlyQSyaM104QLBiGfYIag=;//rrPa5733MW7LuLx5AynA=="
+secured: "P7IeIUEa7kr0piayRVdabpR1k1yqB9HYP1bmGEz0uXI3kqIKp59kGVSNcpvGcHe4Tbajkl6PphH4q1wWEWpzcTtwXuPuMyDCF1oKUtdiKar2l9RrnZ03yUPFp/mVtYY2Efd2kp8go0IXdeu/O+Y9mTweV0XgviHI03KpjHTFvsIMQnZ83V7Y0ITvAgO8K1Q22mhtfNX90hA6nysN2dHmiX4YgFU5gG5d9AIcP1BkQGJ5zjSge1IMileOdqxX+BpIPn60r6225y7bz1XC+LXWGMm+psoKOurD+AcLJVRnGXbqU3Aw4xUv+nSroFQz9O04NX8IVWehagvVjrSxkWtY73WwkLq+XtUKVlJEJZYNquSlzV3hpPaDxfk9l5TxNFft9T6lmAerYFVsBOz9zvtjYe4gGkbhs+ynCXBBMbkhK84OkPEjHVGyFh2RQMhpoOvzZkcxH9IbIXNM/vu5cuo+zucN4AkX4wMbx+QxcYZn0+fD24LySRWpx7hOL1jyEgpojeWMZiObpF1oytbml2dxLQ==;OfGDrPwINMHmQ7IgamoJ2A=="
 ---
 

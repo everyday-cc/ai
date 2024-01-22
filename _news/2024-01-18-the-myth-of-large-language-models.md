@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 webUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2024/01/Consumer-GPU-1000x600.png"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Chinese startup Zhipu AI unveils a new large language model"
+    excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
+    publishedDateTime: 2024-01-22T09:13:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 37
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
+        width: 841
+        height: 560
         isCached: true
   - title: "Learning the language of terrorism"
     excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."

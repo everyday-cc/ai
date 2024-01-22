@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-w
 ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -61,6 +62,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "uM6QgqqOy6zEIh2hciwg7bWiPwS+nW5AGjFlL44/kOjycJkYYl4IEBlBcy84lWp6uK3S8YQRPGoGChOo4cv9+A5KqUz1HN4HWQra+LC3w4blisEKe0nMsWYin+ttxcEosJhsrKNsUHLNh58ZdtkUTDbvga9EkkB3YL7yGAzLdqW90lHn6bqhLrmxDYWK5WuEiyUNRwxCByG1NspxyeU2HIsIpPK7DY8ePYtYvnyPyp6Bno/UlVI2mXH4q/zHBNe0EQ0wpCl6XnZO6cOsnHLw0EvA2qbz5luGOSnrVsGGbkCyvkoa3y9+rBzqXQiRXjjtpKKCcV+MQc8XV6cQHze0xwIh2CVcVBM/l2YjgknjC5U=;F6XRvly1tu+DWFyVxjhVzA=="
+secured: "bsZRFgMOKIJFxG8TJ0hVzUe1I9Zcl/LIszoOFCDjNYdbNsmVYjXu4XYRdVHkzjZvJ/LAaHUOnLJU/cGSNAGA5Lq5EOdMt8p25gj7ciA1eMHhJU0YMGW3llFjtIJoGMYxUkfq9+8im0r7va58lIFAo7gZ0CV8v5nQI0uVLS9emgQJm+u1y4dZlLVH2/jmEZnlZQTWwCaw1z1DXKzPUMiuxtIF0iq3cF0Uew3zURH+DEp/dMLxrwTH8O8ZUhf6GCg3c7L8t4kqVIS16AEB0szgW/3MUSsbyW7mk238M17mM+QAXRCeTn9DMf60IBxkfu8jXogBO5AI1Y8zWlIo92ooNJ/C3JW0W/3r397fiX+IDakhCwcbtuIjc5hwyO6TtrM17khQ9mB9IwgOCjF/Ezx3J3AxYp5tnAz9v2q4PI5mxyDDQjtu9L+NckWbe+Obb1PaKqrlY8XK53sRt15kDDecmoecVJJcl9zwCsx8ppIWkegUpq1dxPirIgfwEju2t8EhnlNHDAEvzv+A4XZ6eXiFEg==;lqXazQ0huM0tM010yfvyVA=="
 ---
 

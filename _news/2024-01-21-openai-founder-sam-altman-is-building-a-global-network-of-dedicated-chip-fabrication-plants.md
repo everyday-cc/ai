@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-21T15:09:00Z
 originalUrl: "https://www.tweaktown.com/news/95711/openai-founder-sam-altman-is-building-global-network-of-dedicated-chip-fabrication-plants/index.html"
 webUrl: "https://www.tweaktown.com/news/95711/openai-founder-sam-altman-is-building-global-network-of-dedicated-chip-fabrication-plants/index.html"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://static.tweaktown.com/news/9/5/95711_17_openai-founder-sam-altman-wants-to-see-global-network-of-dedicated-chip-fabrication-plants_full.png"
@@ -229,6 +230,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Altman wants his own AI chip factories"
+    excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
+    publishedDateTime: 2024-01-22T10:18:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58299-altman-wants-his-own-ai-chip-factories"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/db51c38ffb5f370dc18359324f6bb6e3_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Sam Altman in talks with TSMC to launch AI chip plant"
     excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
     publishedDateTime: 2024-01-22T05:14:00Z
@@ -256,6 +271,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
+    excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
+    publishedDateTime: 2024-01-22T10:46:00Z
+    webUrl: "https://www.inc.com/peter-cohan/sam-altman-says-chatgpt-is-good-for-education-here-are-four-lessons-from-my-student.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-ai-inc_536595_s6eifk.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
@@ -294,6 +323,6 @@ related:
       domain: siliconangle.com
     quality: 30
 
-secured: "Sgp2RhgbixQUd6VMGfqq44k4AcT1vJFqUUgCFRIKdB1piwK3QFYQ5G1yQekRzqMPAQb4EANFv8EfFsy+B0nqjMxfqBeICnVaAvmOUcf+i2Z9AwHTVdzeUfZZgaGDGSb4LgtckKhYxL5dbSD5nG2UnpkVpTPwEn/CIgjRpWWQTTVEDtLnuYEqE4ZuY6TLYTJNBu1ngarwjR644Nvbe3gIJYS4QiZjMWbRznCWZIUZRhZepfI4hErywhITT1xNNHudV2//ZikmcHW5F7xxxG9lWYvDlQ7FBDVFerLmLNdB6ckeYP5Helyk8nOotmtG9LBPJmDzKAsx1xs8KDRmHtPruYMwVnMTJDa6s/XAdUZYg6s=;3MWw1oUFqRK4HhWcn+Wz5w=="
+secured: "bv+v9bD3GFP4X/F2MmFoodPmWWWa4iKWTN6yW8awhe2oxA4TkZI5ltXVnSK4GaLlOF38r47DiYSw4R0NXI9fZyjPVe004pHJueftUUpwdUn5IEgVlzaV0QnrzDaabRGEQ1LBZ8TGxGTGr0IWTNo6S6hdZ0/1Tmc5Z6Tq0cNLf1ga1NOaJyJfDutMZgBCQGog6h2fBdkX9Bgvu7SCQPrYRUxMaJVxeJ8fdNQCTtaQdsMFMM6m/C8Z7jm4ioX+BAOB6yEH+R3KY22LABAHe6VjChietCWJuYH7rj2akGptIOTe7LPZXHh7KI20uYSajd8gw9G9C3jCHyqAdrEWOs4HQlpvk9WrJ2nUJHY4/e4mK4atIcxhHbaz/PxFY080WbsMob+tnpA4jnEVRUqEO++822SftOJYxp4DYZGhKMohkylsju+DafByHOjen7usFUGDzBPuq23/oLaFYXOx4zU1BDeL8l1umkJSAkEG6h2IkMTh6UrXFEEtvWG7Z3DZ/SPLEXtpRaYtD1thJ4jT3Yt3Jg==;hbwB5J1+YD6tmjXOG9xMtg=="
 ---
 
