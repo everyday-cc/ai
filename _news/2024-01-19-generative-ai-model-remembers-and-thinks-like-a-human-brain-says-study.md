@@ -49,7 +49,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
         width: 2000

@@ -2,20 +2,20 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
-      "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
-      "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
+      "path": "_news/2024-01-19-harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success.md",
+      "title": "Harnessing AI's Full Potential: 5 Adoption Essentials For Enterprise Success",
+      "excerpt": "Uncover the five essential steps for enterprises to effectively harness the transformative power of AI: aligning AI strategy with business goals.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds",
-          "width": 1349,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aa21dac2425a84517c911a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -24,9 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "publishedDateTime": "2024-01-21T11:15:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/",
+      "publishedDateTime": "2024-01-19T06:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,10 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -180,6 +178,49 @@
       "provider": {
         "name": "omanobserver",
         "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-leadership-around-tech-and-ethics.md",
+      "title": "Leadership Around Tech and Ethics",
+      "excerpt": "Father Paolo Benanti, an expert on AI and ethics in Rome, is coming to Seattle University as a distinguished visiting professor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "originalUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.seattleu.edu/media/newsroom/EthicsAndTech_yk_002-1130x631.jpg",
+          "width": 1130,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle University",
+        "domain": "seattleu.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1385,49 +1426,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-ethical-considerations-in-googles-ai-development-a-closer-look.md",
-      "title": "Ethical Considerations in Google’s AI Development: A Closer Look",
-      "excerpt": "Introduction: In the realm of artificial intelligence (AI) development, Google stands as a juggernaut, pushing the boundaries of innovation. However, the journey toward AI excellence is not without its ethical challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/",
-      "originalUrl": "https://techbullion.com/ethical-considerations-in-googles-ai-development-a-closer-look/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/Ethical-Considerations-in-Googles-AI-Development-A-Closer-Look.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T10:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

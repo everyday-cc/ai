@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence May be Able to Fix this Troubling $200 Billion Healthcare Issue"
+title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
 excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
-publishedDateTime: 2024-01-18T00:00:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GEHC/pressreleases/23431687/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GEHC/pressreleases/23431687/"
+publishedDateTime: 2024-01-18T10:10:00Z
+originalUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
+webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-    width: 709
-    height: 868
+  - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
+    width: 845
+    height: 396
     isCached: true
 
 related:
@@ -72,6 +72,22 @@ related:
       - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
         width: 1320
         height: 742
+        isCached: true
+  - title: "WHO weighs up AI risks and benefits for health care"
+    excerpt: "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI."
+    publishedDateTime: 2024-01-18T16:04:00Z
+    webUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg"
+        width: 1280
+        height: 852
         isCached: true
   - title: "Revitalizing Industries with AI and Machine Learning"
     excerpt: "In recent times, the tech sector has experienced a worldwide transformation due to the rise of artificial intelligence (AI) and machine learning. These innovative technologies are quickly altering various industries, enhancing efficiency, and boosting ..."
@@ -208,6 +224,6 @@ related:
       domain: nejm.org
     quality: 14
 
-secured: "mV9Gxy5tj8rVF6nbeCsZ74Cn8ZuB7vI4IEmMGGiazXj9AX/20AjwCvYVrmAzOzRhmkN+lCC/WANxLCkNoRHjIeDh6fED5htX5A0nNwRJGCtCUK2Whq7lw7F8UbJdywul8iMNNVQl7iujryKS01fMOV8SJ/ExhBA3TWiSCsVs2Y91cPw0pRe97jxq4s1WJrPwLB7TFgl4QphyY9yjSnuwS1kQUPT+6IQACGnLigzb431bSEi+dJLPPw1NMs+uPhY76dqrcy7IDYtEfdKD9afVr1/l0ZE02NmoRYvcNw0qFU09JXl4KSRQn/7bYLE33+xr1TDsHF7kU07TnuztEjtRO/j+DSFQ8JmKKU1SAZZsJaE=;7ESuJ3967tBUFRmYAoR0HQ=="
+secured: "CD8p8R0djlQXhHaj8MFwWI07oRhjCSuFv2UU0jvufCGIHD0Tm+OOMAGL3Ec8N7/6iQdzUxCP2hbkPnbdA790XggxUMNEZZBVfhPxXPPNuDBrmq7kwzcnZF6qVcSw8eJm7vvkQBoUzH08RtBiVeNBZo5JMd+8thiTNjKPc/9IcwbM6r3UhFARWX2XsojJQ9e8kFsIPqBJmON6pXhzS5HtqeiEcNeJWipWUtXfkceQ1PpXzfyoUPXqs8LJxJBRqD2ABZsYAuIzjRHixYKUOPvq6mwqPD8lOALkpa8imEC5oHQ5w5CsjJ8/LFaQUzdVyJu++nrKKchP9+TqJfeDcTdSEZUGtPBqq9uV8HMZ4O7ccXWICMTo42bqtfJ3mlW/nwgQxeQ1tdgAkt8VWGCPney1bKYseMJDCbMbesG7V/OsTpIbS26oO4nBVKVayizDvb6zai2q+QS7rlnnui832bAd+RXXmF/hPDVhXbTw8ge3xIGsbLSrEECIJ4B96XlGLUNhuBYyv/BR7w5Ibaz6Ac0/Og==;sDP4cigFS9HfklIALQLq2w=="
 ---
 

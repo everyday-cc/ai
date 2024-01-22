@@ -68,6 +68,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "WHO weighs up AI risks and benefits for health care"
+    excerpt: "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI."
+    publishedDateTime: 2024-01-18T16:04:00Z
+    webUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Revitalizing Industries with AI and Machine Learning"
     excerpt: "In recent times, the tech sector has experienced a worldwide transformation due to the rise of artificial intelligence (AI) and machine learning. These innovative technologies are quickly altering various industries, enhancing efficiency, and boosting ..."
     publishedDateTime: 2024-01-18T00:00:00Z
@@ -114,19 +130,19 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Artificial Intelligence May be Able to Fix this Troubling $200 Billion Healthcare Issue"
+  - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
     excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GEHC/pressreleases/23431687/"
+    publishedDateTime: 2024-01-18T10:10:00Z
+    webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
+      name: Mena FN
+      domain: menafn.com
     quality: 46
     images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
+      - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
+        width: 845
+        height: 396
         isCached: true
   - title: "Top healthcare trends in 2024"
     excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Cognigy Now Available in the Microsoft Azure Marketplace"
-excerpt: "By making Cognigy.AI accessible in Azure Marketplace, businesses can effortlessly integrate the platform into their existing workflows. \"The availability of Cognigy.AI in the Microsoft Azure Marketplace marks another significant milestone in our mission to make our Conversational AI solutions more easily consumable by enterprises worldwide via our expanded partnerships,"
-publishedDateTime: 2024-01-16T16:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cognigy-now-available-the-microsoft-azure-marketplace-/2024/01/16/9946983.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cognigy-now-available-the-microsoft-azure-marketplace-/2024/01/16/9946983.htm"
+excerpt: "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform."
+publishedDateTime: 2024-01-16T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
+webUrl: "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "4xmEUMv3t10LHKJfTmtKdlrInL9YCqFyPpL8VtQu5b12FdHeV1hPoLE+mRkUeKWVXVWJ4SjrE5X6r5JBwhx4/OqInlGe20ludgsF9qsE+7oo9F63yoRHIACeV2/hh1zXMA9Tnhp/ifOnp6WvEGFzXIiZQu4jFMTJ2qVcUnv1sCxOEwUC3z1QmxeObN9ZA0nRRgOgucKVdjes0pGs2M84tuPeff7hVH0WRCJDygIiIuNqx1ByVfWAodWuTUn4cBpICEEcrcePkIE++LSod1hR+fZbkHG5l3ywWYMNMjrG+LqYIyohnlggu3g0T8+AGl6ucgPg4hifBN2N1zlxJ8jGBc1zj4n15/0lab5G7ok9fSs=;rgxVN7IkLcpCEauSgX2V2g=="
+secured: "XTAnJLorx0NjHL5sTqDdDOfhiQW1U/BPrtXPcJBiN2yeLf5h7XnD1gpHNyVoYTDQ9qk/izi2QJGmfUvXgLyMuab4yS+qr7mmOGc5rXqtX1hkcR8GA7N3pjZZIMVGgrWXjG8GRuW1rUqCAXc4Pg2kzCUIPbISsYxCuVvE+sfLLOMR3l7MUVw5D9A/mcqIVV+fUNAOJqcm9cWqys1t5Q77SRs+lSNOZ/qZMxkdjJai5FW+ENSdcwxBHxv7J1vKAsMuBaM2fJWZjfxHrvdcpazchlaE6/MoXc2Nm9o3My/Lao2sTlGhtt83xaCOwhXkoTyMEHeS780Si9+Bupn4DL+ui/Llktw3XndP0e/YDmI+XcsA0TnnYSEMb1aaYyIcPr5qqViP6zpu6kj9IyYZg7QVQ/b2dLmCII3agt+TqUEAoZSmuG3DOGS19HCzqTbpUtL/iQjWNALowjU33gDE3fAsW4O2QaXoTSbtbqejVPq/MamVp/u4WNKahj8TWFGoRq/aiAs2srBx+2aegoQGrLCVOA==;AHy7o84ReWLJ0Z1umWhQCg=="
 ---
 

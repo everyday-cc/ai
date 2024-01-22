@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
 type: article
 quality: 57
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: RCR Wireless News
@@ -26,40 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Arabia goes big in Davos as it looks to become a top AI tech hub for the Middle East"
-    excerpt: "Saudi Arabia’s delegation came out in force in Davos as the country looks to establish itself as a tech hub in the region."
-    publishedDateTime: 2024-01-19T16:20:00Z
-    webUrl: "https://www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/"
-    ampWebUrl: "https://www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3409511/?amp=1"
+  - title: "The Future Of Work In The Age Of Generative AI: Insights From Davos"
+    excerpt: "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years."
+    publishedDateTime: 2024-01-21T20:33:00Z
+    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/"
+    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
     type: article
     provider:
-      name: NBC 7 San Diego
-      domain: nbcsandiego.com
-    quality: 49
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.nbcsandiego.com/2024/01/107359503-1705415307996-Neom.jpg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
-  - title: "Davos 2024 - will AI change what it means to be human?"
-    excerpt: "A Davos session focused on AI ethics asked a simple question, which produced some interesting answers… one of which is, what does it actually mean to be human?"
-    publishedDateTime: 2024-01-19T11:38:00Z
-    webUrl: "https://diginomica.com/davos-2024-will-ai-change-what-it-means-be-human"
+  - title: "Navigating The Ethical Landscape Of AI: Insights From A Creative Director"
+    excerpt: "Educating users about AI's capabilities, limitations and ethical considerations empowers them to make informed decisions. It encourages a culture of responsible AI use, where creators and companies can leverage AI's potential while respecting ethical standards."
+    publishedDateTime: 2024-01-19T17:19:00Z
+    webUrl: "https://www.fa-mag.com/news/navigating-the-ethical-landscape-of-ai--insights-from-a-creative-director-76173.html"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
-  - title: "Saudi Arabia goes big in Davos as it looks to become a top AI tech hub for the Middle East"
-    excerpt: "as well as Riyadh's International Center for AI Research and Ethics (ICAIRE) and Saudi Aramco's AI research center that focuses on advanced projects in oil and gas. \"KAUST contributes through its own AI Initiative and hosts the SDAIA AI Center,\" added the ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.nbcconnecticut.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3197817/"
-    type: article
-    provider:
-      name: NBC Connecticut
-      domain: nbcconnecticut.com
-    quality: 9
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 53
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "GeGuO59fP8RfcHgsmCz4AKChQKNcpNVdEJ6uMIUfJ74gj3211/1lOmaJI4uxDILh5Tx5IQuWys4fCxG/JswYnnFv0PgzTHChmxPSWf0VENdQ4tSdlAbiD5F8t8qIYRJv5YjMTOn+Ea0yOEFaIfUqHA0EEY+Elw9W6LDB0cMUbkHRtivPJwx1AHqbNFukdm0Dl2zioleVznfF0XjHdnrt4OWJR2P3UGsjEA2jJdqd4RVD9+i03FVusSdYQmY22/OeqMAJ8FYBs4c6iMu6p7QOF6THIemDhjIEl63n1E3/fLuOSfkY4NhsI72gK1/P7CYE/BNG+iIfYExlyU6qNeBDw71Vseg5w5/qVmeNbXv3tyA=;TIUul1DLeARg05o8ZUYnlg=="
 ---

@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
   - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
     excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."
     publishedDateTime: 2024-01-17T16:42:00Z
@@ -325,6 +341,6 @@ related:
       domain: cointelegraph.com
     quality: 26
 
-secured: "FZeXwjG8pgGOtkUSmUXkPB1/5CejxDew5QPACWwjs5RUCVpSaSCMzGzIK1Az8Gbwdb7l9SEUiSwzxBcCSsSJY8zckMev2knM77X93vCghsUm4483ExVKG2+yWa7K3ktIWUMD+Ssh/z4Oyuuf0Bf5QudoyroTZVhHZEx9cUcXR+Z728YzJ1kGRZtFvxOZdZ6CeRbvMOFA1nYNK+wWaaq+ptjVUt69kRTgFtlUaVkekRIoysyA+nzasvFeSv5o1YLGW7MUWSIfkAOCtO8NNsqCH9tPmqQs9Om0H8/FsKCGgV0jXlnBHqqA0t9xZ8dk2nZ00dYfpDm2/bEUyJ4UidrQK5vn+NN6bv+opWwyNKTQRpY=;faOQxFb1Vm2i4L9/lBSE0g=="
+secured: "J7OyPxgXfw6qDzUe4ibhiDdenLDB+S+s+4x6cOoHrCKygoOWKGQmS/iIZpzTTjM4NeP/5Zd7bAW1sIWQjD8RNd5+8zn8fOiTrakCIR9KMO9n+BjuPcM36M0c9Bt34qgSsrnGfz4iZDNC1J2o0TaFbE9C9P2jz8WzZlOs+R2dkjPbXOPEL6U8PGX2Uzml8Hl9dmvaHUvgH84sGcpsaOZkw13kRe/OtLUVAhRDRtO+5zbcbL5PWDw1uw719dG1MqtgOdRXlkA4IuBketCyaSfO613+nVefNM1VpqTM17ldQcoR2WurNSmWkv+iwZ+hQRUOXEQgEZjvtl/ROwFB/MkPA12IQmEmVJBAnQZ5JZlQgVEKMrAw7GyKTGfBIjGAnSEyBCOmbzFsrvx/TUF46xJrWZ4X/wIgAwI80ztzTtWaDvtfuZkS2yf0iAf941VB7yG5DEMdGqMBUBl7NFXI1okdtb/ZgKO35g+N/a7+T3CGAEQjM2uUlgTPw21picEG1C6HqUeInesWDzJheLVslraR1w==;9SjONHesiyf664Cceav6fw=="
 ---
 

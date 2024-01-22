@@ -41,6 +41,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Romance scams are getting smarter and AI is helping"
+    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
+    publishedDateTime: 2024-01-18T12:06:00Z
+    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 39
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
+        width: 1344
+        height: 896
+        isCached: true
   - title: "Is AI Right for Your Company? Four Things General Counsel Should Consider"
     excerpt: "This article addresses four factors in-house counsel should consider when assessing AI procurement. The use of these factors should result in a more precise evaluation of the costs and efficiencies of the proposed AI in question,"
     publishedDateTime: 2024-01-17T13:09:00Z

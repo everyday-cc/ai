@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case"
-excerpt: "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology. Justice Jeff Rambin of Texas's Sixth Court of Appeals said in a Tuesday ruling that the state court has ..."
-publishedDateTime: 2024-01-17T00:01:00Z
-originalUrl: "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/"
-webUrl: "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/"
-ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1"
-cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1"
+excerpt: "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology"
+publishedDateTime: 2024-01-16T22:30:00Z
+originalUrl: "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
+webUrl: "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html"
 type: article
 
 provider:
-  name: NBC Connecticut
-  domain: nbcconnecticut.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media.nbcconnecticut.com/2023/11/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669"
+    width: 3500
+    height: 2239
     isCached: true
 
-secured: "V5mTLqejetSo19YhWwTLvyzSvJ/QKJ2XEupJMXSpuLZi4kIZM4m11wu8UflpkTxFvpegqtTdoBzLa6OzruZMexD5sCf5BSXsOFsTceDsQeAHFteX9+u6oQmCWehAxoN6bSPG4ypcJJTvOduJPyWVQk2wqHlz0x8I4bf5Acrk+ofVcbdLpDaB8CJY9MHMt4puNvR0RC++epS7mKjpDCFccyjh2I+PNG41YeiLT/e6UJiwq+cnxhC3HN4ZKazQkl7XHDc5q7ZxjImoQrEY6G6j+ochqao2Ei3zWiEYFyYvGcXdCHUHmXvgBfzJVu7N5OKqQl8gcbty2tdNRtE0sqIrKNGMbb2GGUE1xzb3AuF+lpQ=;8A8bPjm/NtIbR/hYQio/oA=="
+secured: "QEfU2TuWcZ3A8S1qxgmdAnMd/U3r5UuLICMiCqdkNcuu2djdTIkYYaJUjsmXL/SjhBXWSX1zh+xcNNeTD3GaAsw0Iw8mGdBWP3GG/EXgaNA222Ak+s/jeCcyjntroroc/izvMOrZZZZ2UXv4BEICbEDmwh9UmwWsKJ0tWs+s89NQAHHkmnNr0gH46Bz2sP2sA39P6azuaj11cbLk+H5YAYqcI36Bk6/SAylUEoQhANtP/5FLDrlb0NZ46DTrT9nDhjEcnO9VGjV/XkcSOpWTVQ+t9qnCsTTY2g7QfpD13XOaKScMzOseN6hHFWci3Wwqks0vFfeSbDMLD6thzRA6P2ao2DmIQqpJoHmBu4bOYe/y38TbRUtAKiTseEto3XDQLjx4u7FBhgFwMl3qYiL0WSugzj05aEHZ6FCLY5o3BCzjWBGgJYPGIQ5Xtnf7fGyb7d3QhfSMt7ZNQX0JXqJde6EPUrWNwb/abQ5Vfnj5j8eHSbXECpBxNnCsmYfXeQ9nBN3E0YkQccDy1Aa3A6LlBw==;q+Z2WSXRRhWlRQw3aQ/2gg=="
 ---
 

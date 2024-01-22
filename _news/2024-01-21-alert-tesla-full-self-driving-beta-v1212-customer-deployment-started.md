@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-21T00:00:00Z
 originalUrl: "https://www.nextbigfuture.com/2024/01/alert-tesla-full-self-driving-beta-v12-1-2-customer-deployment-started.html"
 webUrl: "https://www.nextbigfuture.com/2024/01/alert-tesla-full-self-driving-beta-v12-1-2-customer-deployment-started.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-21-at-1.54.30-PM.jpg"

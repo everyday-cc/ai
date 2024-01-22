@@ -22,16 +22,16 @@ related:
   - title: "Fact Check Team: AI will rapidly influence job market, stock performance in near future"
     excerpt: "Artificial intelligence continues to develop at a rapid rate with the potential to impact every area of our lives, including jobs."
     publishedDateTime: 2024-01-19T19:23:00Z
-    webUrl: "https://abc3340.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
-    ampWebUrl: "https://abc3340.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
-    cdnAmpWebUrl: "https://abc3340-com.cdn.ampproject.org/c/s/abc3340.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+    webUrl: "https://foxbaltimore.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+    ampWebUrl: "https://foxbaltimore.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+    cdnAmpWebUrl: "https://foxbaltimore-com.cdn.ampproject.org/c/s/foxbaltimore.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
     type: article
     provider:
-      name: abc3340
-      domain: abc3340.com
+      name: foxbaltimore
+      domain: foxbaltimore.com
     quality: 51
     images:
-      - url: "https://abc3340.com/resources/media/10458527-f6df-410e-843f-d5ca992cef91-medium16x9_AP23347595819894.jpg"
+      - url: "https://foxbaltimore.com/resources/media/10458527-f6df-410e-843f-d5ca992cef91-medium16x9_AP23347595819894.jpg"
         width: 648
         height: 364
         isCached: true

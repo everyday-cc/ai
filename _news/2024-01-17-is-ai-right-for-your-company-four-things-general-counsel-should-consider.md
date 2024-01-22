@@ -41,6 +41,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Romance scams are getting smarter and AI is helping"
+    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
+    publishedDateTime: 2024-01-18T12:06:00Z
+    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
+    type: article
+    provider:
+      name: ConsumerAffairs
+      domain: consumeraffairs.com
+    quality: 39
+    images:
+      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
+        width: 1344
+        height: 896
+        isCached: true
   - title: "How AI could help us talk to animals"
     excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
     publishedDateTime: 2024-01-19T10:58:00Z

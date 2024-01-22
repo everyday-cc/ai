@@ -134,6 +134,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
   - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
     excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
     publishedDateTime: 2024-01-22T03:49:00Z

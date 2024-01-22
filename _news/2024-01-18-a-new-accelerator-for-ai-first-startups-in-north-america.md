@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "ViAct selected among top 30 startups at Dubai Centre for Artificial Intelligence’s Accelerator Programs"
+    excerpt: "The program is aimed at deploying future technologies across key sectors in order to make Dubai a fast-paced technology landscape"
+    publishedDateTime: 2024-01-22T06:35:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/viact-selected-among-top-30-startups-at-dubai-centre-for-artificial-intelligences-accelerator-programs-urrewthu"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/viact-selected-among-top-30-startups-at-dubai-centre-for-artificial-intelligences-accelerator-programs-urrewthu?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/viact-selected-among-top-30-startups-at-dubai-centre-for-artificial-intelligences-accelerator-programs-urrewthu?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 56
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NWFjZmIwMGMtMTEyMC00/0/picture1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
   - title: "Why America’s controls on sales of AI tech to China are so leaky"
     excerpt: "But Nvidia, the world’s most valuable chipmaker, had immediately started developing a new, slightly less powerful artificial-intelligence (AI ... reckons TrendForce, a research firm. The current export controls do nothing to curb China’s dominance ..."
     publishedDateTime: 2024-01-21T00:00:00Z

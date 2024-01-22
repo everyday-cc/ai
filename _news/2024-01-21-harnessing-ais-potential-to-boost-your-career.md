@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
 type: article
 quality: 87
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,81 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI's Full Potential: 5 Adoption Essentials For Enterprise Success"
-    excerpt: "Uncover the five essential steps for enterprises to effectively harness the transformative power of AI: aligning AI strategy with business goals."
-    publishedDateTime: 2024-01-19T06:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
+  - title: "Seven Keys To Making Generative AI Work For Your Business"
+    excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
+    publishedDateTime: 2024-01-19T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa21dac2425a84517c911a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
+        isCached: true
+  - title: "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT"
+    excerpt: "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ..."
+    publishedDateTime: 2024-01-21T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "Game developer survey: 50% work at a studio already using generative AI tools"
+    excerpt: "A new survey of thousands of game development professionals finds a near-majority saying generative AI tools are already in use at their workplace. But a significant minority of developers say their company has no interest in generative AI tools or has outright banned their use."
+    publishedDateTime: 2024-01-18T19:10:00Z
+    webUrl: "https://arstechnica.com/gaming/2024/01/game-developer-survey-50-work-at-a-studio-already-using-generative-ai-tools/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1418934535-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Google plans to bring AI image generator to Bard"
+    excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
+    publishedDateTime: 2024-01-20T04:39:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Commercializing and Monetizing Generative AI"
+    excerpt: "Adoption of generative AI will continue to accelerate in the coming years, and competition among developers will likely intensify. Monetizing generative AI within regulatory guardrails will be a challenging but imperative focus of developers in the coming years,"
+    publishedDateTime: 2024-01-17T12:58:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/commercializing-monetizing-generative-ai"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 39
+    images:
+      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a7c5cdca3a6faafd49ef26_Commercializing%20Monetizing%20Generative%20AI.jpg"
+        width: 2311
+        height: 1300
         isCached: true
   - title: "Bringing Agility into AI to Drive Business Success"
     excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
@@ -60,19 +120,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI-Assisted Programming Tools Can Boost Your Startup"
-    excerpt: "Applications like ChatGPT and GitHub Copilot can improve developer productivity. But there are some drawbacks."
-    publishedDateTime: 2024-01-18T19:28:00Z
-    webUrl: "https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html"
+  - title: "How Generative AI Will Shape Contracting"
+    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
+    publishedDateTime: 2024-01-19T05:00:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-605375763_536526_sjcmqs.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
+        width: 953
+        height: 635
         isCached: true
 
 secured: "/omJjXarEk9OdFEWQ/N/LmISOpfOzqO1f+/53niGy4hus+eH0MJ5xwPM0ooAFly9MNmT5KBkFVi022nf55fOD+jE4G3ZnXXHdqEdT2GckX9nZIqZmueGhr50YsKaDqWDWFBFqTSqkJdklKCQK7CqPXa2KQqW81XMDJzoH84u9FpV4sEF9L4Ij4rVsNgjGxY4E1zVyg0vyd99dpk4E5GA2nt3aL1SBo3rKfAkACzsGnIr6hvutUuBzVMz2Z9TMMMZ0lLJwcR1YTNiC0pR5LTSnU/NKx/2FVB0n/cfphunRRfSXG4eS3ia/OR3f6kdKGWTRnLolRnzxLi8q33qnIm/QabUU2GqzjI7OJa9t6u1uXj5Hcw1Z22TIZeKCgf7bztL0msrkTB3cIGtvcKfy51ual/qTOvwZLmnyd/Y5bbv0uXBJ8dQdOKolBsOYgn+eRs7ac1qkFCsbT97kO2rofCa+gfRTjDBnryrZYZminxGNq41YeKfuJ4yKsh2dxk8iegdlqjqEM5qZgfZRE8HiVFL7A==;85ZaoWlQ+wfJzr1C7n11HA=="

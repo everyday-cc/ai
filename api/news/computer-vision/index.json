@@ -56,19 +56,19 @@
     {
       "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
       "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
-      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology. Justice Jeff Rambin of Texas's Sixth Court of Appeals said in a Tuesday ruling that the state court has ...",
+      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/",
-      "originalUrl": "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/",
+      "webUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nbcconnecticut.com/2023/11/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
+          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
+          "width": 3500,
+          "height": 2239,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1",
-      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "publishedDateTime": "2024-01-16T22:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC Connecticut",
-        "domain": "nbcconnecticut.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

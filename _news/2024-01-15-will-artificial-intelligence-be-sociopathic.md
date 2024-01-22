@@ -5,6 +5,8 @@ excerpt: "I’m talking about the rise of the machines. Or, more accurately, the
 publishedDateTime: 2024-01-15T00:00:00Z
 originalUrl: "https://www.psychologytoday.com/intl/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
 webUrl: "https://www.psychologytoday.com/intl/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp"
 type: article
 quality: 19
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/Screenshot%202024-01-15%20at%209.18.00%20AM.png.jpg?itok=N1nYORYv"
+    width: 1528
+    height: 800
+    isCached: true
 
 related:
   - title: "Will Artificial Intelligence Be Sociopathic?"

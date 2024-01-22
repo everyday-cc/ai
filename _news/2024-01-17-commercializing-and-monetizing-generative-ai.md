@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Generative AI Is Making Our World A Better Place"
-    excerpt: "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible."
-    publishedDateTime: 2024-01-17T05:44:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Seven Keys To Making Generative AI Work For Your Business"
     excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
     publishedDateTime: 2024-01-19T10:30:00Z
@@ -56,6 +40,52 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Harnessing AI’s Potential To Boost Your Career"
+    excerpt: "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers."
+    publishedDateTime: 2024-01-20T21:24:00Z
+    webUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/"
+    ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1261
+        height: 900
+        isCached: true
+  - title: "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT"
+    excerpt: "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ..."
+    publishedDateTime: 2024-01-21T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "Game developer survey: 50% work at a studio already using generative AI tools"
+    excerpt: "A new survey of thousands of game development professionals finds a near-majority saying generative AI tools are already in use at their workplace. But a significant minority of developers say their company has no interest in generative AI tools or has outright banned their use."
+    publishedDateTime: 2024-01-18T19:10:00Z
+    webUrl: "https://arstechnica.com/gaming/2024/01/game-developer-survey-50-work-at-a-studio-already-using-generative-ai-tools/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1418934535-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Google plans to bring AI image generator to Bard"
     excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
@@ -73,47 +103,19 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Generative AI integration with knowledge base is a manufacturing game-changer, AWS reveals"
-    excerpt: "Enterprises across industries are actively exploring applications of generative AI. Amazon Web Services (AWS) personnel highlight the integration of corporate knowledge bases as a common application."
-    publishedDateTime: 2024-01-17T08:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20240116PD205/generative-ai-llm-manufacturing-aws.html"
+  - title: "Bringing Agility into AI to Drive Business Success"
+    excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
+    publishedDateTime: 2024-01-19T10:54:00Z
+    webUrl: "https://www.business-reporter.co.uk/global-agenda-series/global-agenda-series/bringing-agility-into-ai-to-drive-business-success"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 44
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240116pd205_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "As generative AI takes over the cloud, 2024 will be a pivotal year"
-    excerpt: "“To us, this indicates that cloud-based AI services are seeing an unusually high rate of adoption relative to other services,” Wiz’s researchers said. Given Microsoft Corp.’s close association with OpenAI, it’s perhaps no surprise that Azure AI ..."
-    publishedDateTime: 2024-01-17T16:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/17/generative-ai-takes-cloud-2024-will-pivotal-year/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/server-cloud-data-storage-concept-cloudscape-digital-online-service-global-network-web-database-backup-computer-infrastructure.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Romance scams are getting smarter and AI is helping"
-    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
-    publishedDateTime: 2024-01-18T12:06:00Z
-    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
-    type: article
-    provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
     quality: 39
     images:
-      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
-        width: 1344
-        height: 896
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."

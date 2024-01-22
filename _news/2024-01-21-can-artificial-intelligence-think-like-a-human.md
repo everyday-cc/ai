@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-21T10:02:00Z
 originalUrl: "https://scitechdaily.com/can-artificial-intelligence-think-like-a-human/"
 webUrl: "https://scitechdaily.com/can-artificial-intelligence-think-like-a-human/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
@@ -56,6 +57,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "bC6sYEXiXh1l/gDYHEqimeVH71Ld1XdRkVXI80w+62Mp2edKrI3ErjPr0G/+Vpuzx3QAEoJmtwSS01xgZQy7MqsF7W41CGQeznpYYF2pJfht1mbF3te/mCFgpSCIiOjA/pEssxxlaBI7Wf2EbuwhSzbtCI6jK6CtjC+PDYCM38BkafcAdap32wPq4v3CLlAqgZKCA5SlDJ/e2RC6CfFfinZpgMQS2EiUZdVQGEI6oMT2N2TsUJMfOYoLRIsytmGRXtALE+r56dnI4cCjoEvQVAzdEhBema4y+v3SFtao/d5fhUUlml9oFtZkxvyGaYUlbRibTXzs3aklshi+Jze4e9+DcMv3adrH9RAN1cLdCpA=;+bxza6PPHM/Cysq5m5Rvug=="
+secured: "xtLETUINsJVrykrhksKvDmXmENsmwLmRqgUyc5/nCl8zvRXmHBToGJB70zMrShQjPIpnnOM/9zTGo0dueIiU26FU8SND7ou5IdLYBi5uux5jYr6b41ZhwnyKHEIWbKN2La1S0zF0STB5b+rI9g30eNR7hKlzEg+X2Ql+QXhyEEzgnoXkplVM+DsfARvMq+qVzM2Z8M0pzt7nJMXoZIcfnliQWxPz0KS8MqZWLfgtw/sCILEAkfr6hEOg31qVS8zZM+zXOa7vlPuJheu3aSMvxQR+QbeAiEDTE91ZQ2GKStxRw1PnLV3bU2tywNJVkpVbNEIo/zw9wC91NIAgdNbRFN5ClQGccR++E/2ZFREdmjX4ePEAgo6z79tsH4CC+2W48InkZ0UizAlUd/vIJESQK8Ul1zTQ2nTJIi/oupLF5RX/h5zi4BuyRxjYkI6s4nLNW85uMTsDKNkcCfZ9uxzv2hl2+u84mOT6+KcBJ7q2+MlJuH+LdKdxMdO//5i6lCeFma4ipY/mpJq9osaJIeeUIg==;ismULM7sdqXZkSvutJYp7A=="
 ---
 

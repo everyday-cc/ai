@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-18-a-new-accelerator-for-ai-first-startups-in-north-america.md",
+      "title": "A new accelerator for AI-first startups in North America",
+      "excerpt": "Learn more about Google for Startups Accelerator: AI First program for North American startups.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
+      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Startup_Accelerator_highlights_-_high_.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
+      "publishedDateTime": "2024-01-18T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-5-ways-ai-can-make-your-human-to-human-relationships-more-effective.md",
       "title": "5 Ways AI Can Make Your Human-To-Human Relationships More Effective",
       "excerpt": "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships.",
@@ -722,7 +774,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1154,21 +1206,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
-      "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
-      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology. Justice Jeff Rambin of Texas's Sixth Court of Appeals said in a Tuesday ruling that the state court has ...",
+      "path": "_news/2024-01-17-fowl-language-ai-is-learning-to-analyze-chicken-communications.md",
+      "title": "Fowl language: AI is learning to analyze chicken communications",
+      "excerpt": "Our research at Dalhousie University applies artificial intelligence (AI) to decode the language of chickens ... endeavor is like having a universal translator for chicken speech.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/",
-      "originalUrl": "https://www.nbcconnecticut.com/news/national-international/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/",
+      "webUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.html",
+      "originalUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nbcconnecticut.com/2023/11/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/chickens.jpg",
+          "width": 2880,
+          "height": 1921,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1176,13 +1228,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case/3195092/?amp=1",
+      "ampWebUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-fowl-language-ai-chicken-communications.amp",
       "publishedDateTime": "2024-01-17T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC Connecticut",
-        "domain": "nbcconnecticut.com",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1192,59 +1244,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-opinion-the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia.md",
-      "title": "Opinion: The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia",
-      "excerpt": "After all, Nvidia has history on its side: It was the hardware vendor that paved the road that the AI markets are all driving down today when it introduced CUDA, programmable graphics processing unit (GPU) chips, and created a software ecosystem rivaling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
-      "originalUrl": "https://www.marketwatch.com/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-841158/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia-70198fcf",
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
+        "Natural Language Processing",
         "AI"
       ]
     }

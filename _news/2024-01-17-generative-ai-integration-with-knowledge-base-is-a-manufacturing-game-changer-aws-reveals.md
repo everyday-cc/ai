@@ -25,110 +25,125 @@ images:
     isCached: true
 
 related:
-  - title: "3 Ways Generative AI Is Making Our World A Better Place"
-    excerpt: "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible."
-    publishedDateTime: 2024-01-17T05:44:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/"
+  - title: "Using AI To Help Create A Fintech Game-Changer"
+    excerpt: "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ..."
+    publishedDateTime: 2024-01-19T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Seven Keys To Making Generative AI Work For Your Business"
-    excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "Google plans to bring AI image generator to Bard"
-    excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
-    publishedDateTime: 2024-01-20T04:39:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+  - title: "Upskilling: Why finance guys need to study fintech"
+    excerpt: "The financial services industry is undergoing a profound transformation. To keep up with the changes, we need to constantly reskill and upskill. While there are multiple courses, a master’s degree in financial technology (fintech) can also be considered – not merely as an academic pursuit, but also if you want to thrive in the world of finance."
+    publishedDateTime: 2024-01-21T22:30:00Z
+    webUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 59
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
         width: 1200
-        height: 720
+        height: 675
         isCached: true
-  - title: "As generative AI takes over the cloud, 2024 will be a pivotal year"
-    excerpt: "“To us, this indicates that cloud-based AI services are seeing an unusually high rate of adoption relative to other services,” Wiz’s researchers said. Given Microsoft Corp.’s close association with OpenAI, it’s perhaps no surprise that Azure AI ..."
-    publishedDateTime: 2024-01-17T16:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/17/generative-ai-takes-cloud-2024-will-pivotal-year/"
+  - title: "AI Has the Biggest Impact on the Fintech Industry"
+    excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/ai-has-the-biggest-impact-on-the-fintech-industry/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/server-cloud-data-storage-concept-cloudscape-digital-online-service-global-network-web-database-backup-computer-infrastructure.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Commercializing and Monetizing Generative AI"
-    excerpt: "Adoption of generative AI will continue to accelerate in the coming years, and competition among developers will likely intensify. Monetizing generative AI within regulatory guardrails will be a challenging but imperative focus of developers in the coming years,"
-    publishedDateTime: 2024-01-17T12:58:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/commercializing-monetizing-generative-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
+      name: Traders Magazine
+      domain: tradersmagazine.com
     quality: 39
     images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a7c5cdca3a6faafd49ef26_Commercializing%20Monetizing%20Generative%20AI.jpg"
-        width: 2311
-        height: 1300
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
+        width: 1920
+        height: 830
         isCached: true
-  - title: "Romance scams are getting smarter and AI is helping"
-    excerpt: "Love is shown more in deeds than in words,” said St. Ignatius of Loyola. But what he never considered is that one day, those deeds would become dastardly"
-    publishedDateTime: 2024-01-18T12:06:00Z
-    webUrl: "https://www.consumeraffairs.com/news/romance-scams-are-getting-smarter-and-ai-is-helping-011824.html"
+  - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
+    excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
+    publishedDateTime: 2024-01-18T18:01:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/01/18/artificial-intelligence-alphathena-hyde-park-angel.html"
     type: article
     provider:
-      name: ConsumerAffairs
-      domain: consumeraffairs.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 39
     images:
-      - url: "https://media.consumeraffairs.com/files/news/relationship-scams.png"
-        width: 1344
-        height: 896
+      - url: "https://media.bizj.us/view/img/12121278/gettyimages-1255418800*1200xx2309-1299-0-0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How Generative AI Will Shape Contracting"
-    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
-    publishedDateTime: 2024-01-19T05:00:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
+  - title: "Davos 2024: AI most relevant for fintech development until 2029"
+    excerpt: "‘The Future of Global FinTech: Towards Resilient and Inclusive Growth’ finds that artificial intelligence (AI) will be the most relevant topic for the development of fintech in the next five years, according to 70% of respondents. Embedded ..."
+    publishedDateTime: 2024-01-19T11:05:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43558/davos-2024-ai-most-relevant-for-fintech-development-until-2029"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
-        width: 953
-        height: 635
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/1078088593.jpg"
+        width: 480
+        height: 270
         isCached: true
+  - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
+    excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
+    publishedDateTime: 2024-01-17T16:31:00Z
+    webUrl: "https://www.globalbankingandfinance.com/ai-unleashed-transforming-banking-and-fintech-through-intelligent-automation/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 33
+  - title: "Pulling back the curtain and unveiling the future of fintech in 2024"
+    excerpt: "Embedded finance has steadily woven its way into the fabric of daily transactions, and its continued expansion is set to continue unabated. Analysts have projected that the embedded finance market will reach $1.9 trillion by 2028 as global adoption continues to surge."
+    publishedDateTime: 2024-01-17T11:56:00Z
+    webUrl: "https://www.finextra.com/blogposting/25540/pulling-back-the-curtain-and-unveiling-the-future-of-fintech-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
+    excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
+    publishedDateTime: 2024-01-17T17:14:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/ai-gaming-fintech-kids/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
+  - title: "Fintech major Paytm plans to deploy AI to improve business operations"
+    excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
+    publishedDateTime: 2024-01-21T13:21:00Z
+    webUrl: "https://www.business-standard.com/companies/news/fintech-major-paytm-eyes-artificial-intelligence-to-improve-biz-operations-124012100348_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 19
+  - title: "5 predictions for fintech in 2024"
+    excerpt: "In 2024, the best performing fintechs will prioritize customer lifetime value over new signups. Of course, nurturing and then commercializing loyalty is a strategy right out of the playbook of the largest financial services institutions (which, unsurprisingly,  in hindsight, became noticeably larger during the banking crises of the past 2 years)."
+    publishedDateTime: 2024-01-17T17:10:00Z
+    webUrl: "https://www.finextra.com/blogposting/25550/5-predictions-for-fintech-in-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "orBqSeOmrR/mVMmdUeIrJVfmoCdVmskmgcu5D+mFi67SP0GBIg8BRmkhK+pkE0ZffMlQyJY7Jj71aPHdFmTPJKNGHi9l0tKt5BSfVNKjsU9gdyqHx5u824hbcnIqB5u3MSmmWmqcWmAR79Wf+x+i47MtRzpAj5mCqXbbEtr5HOmgb94AeWWfWWxIHmgn7DVwjkcCusB0adi/u6yfxhwHGRde8gy2qQfhQoN1j6uD4RK35joePaXu3NqMJrsV5oZzNME/4+bgihKXaUDrVmvDZbsj4SsDy6W4TJdcqNM7KkuTvUb81uUlzQzavLrEy+zQh45yKHIR70eKv88krCUBLzszw6zTmJpvFMA1L7SEXOtVlp/Y8f4TssAOXlOahksAkC6qZPbWJWWmedtbAGARXUrEl68Cv3wX8BkXTIwzHJ4lYZ9mt72X61F270SocCq00sthQKoDUnLTvVg/wD3fiUXedqyIBe/aDksJ/GjIyo37WB3FWtFCb8agdWKKxL3EaiYrsMmfatgWUAvCqivUKQ==;6YUoRqzGIKApUchYXyW5Eg=="
 ---
