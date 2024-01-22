@@ -119,6 +119,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
+    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
+    publishedDateTime: 2024-01-22T19:59:00Z
+    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "fxEyVN+SAoNKseu12PZPpuTF9Bx5dbBnrONqjyeYwI8Cgrx8nHcMBSHEioz39uyo44RGQHTSy8zZjkPJRoVxWHplZlZAuX3CnjeU9iXjmzhYQs2eu1maPg8XAb5rZHghad/1lCSjUl+IyiSB+Ri4L62NQ9gbHakBERfXeov8S7sWOgrPOpYQDHF2OA94HiPqQ/zfBg2mCRhXuDLb5UHwUxDh8OXLUKmoRxRF3baXlUAjyKthTaYbNJvs/1tMGHB/bFHCzFySNFvEoqHjP4U5/6Eb4ys81QSMm8P0KKG/w5sQofM+KOGsuEpKvdph6gl7FoKsxd0R+qjxIcJ5RZVnI33hc9aVNv2LMlj3tAHuag4=;ukerEUcnbk3TpvQwzHCgqA=="
 ---

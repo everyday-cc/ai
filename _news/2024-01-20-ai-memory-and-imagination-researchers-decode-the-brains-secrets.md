@@ -7,7 +7,7 @@ originalUrl: "https://www.arabtimesonline.com/news/ai-memory-and-imagination-res
 webUrl: "https://www.arabtimesonline.com/news/ai-memory-and-imagination-researchers-decode-the-brains-secrets/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AI And Emotion: Imagining A World Where Machines Feel"
+    excerpt: "In a world increasingly intertwined with artificial intelligence (AI), it’s fascinating to ponder a future where AI could experience emotions akin to human beings."
+    publishedDateTime: 2024-01-22T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2024/01/22/ai-and-emotion-imagining-a-world-where-machines-feel/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a5cef44a7f1efc194e5907/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "WNIzLkwBqFKE/za7mC8bf6/ticOGmBLd4d04CAhlfHzetIn3OkXX4lDsCJOuo75gjDleBYGobcbU0S3ut0Wb26H/hE2aMmsmS93w96m2qRPeaqEHtMwuLJPjCc2BxRPy+Fwrpvwc4nsgSmZT2cP4mReCbI1TwOvARxR4APvsyU3cc7PVnUFg+bBkFpH+KrZnGK3weEMZ8DaGdgkdMokir5wISl4DfflI7VJ8mG4abxnKeklP+peKP9Mzvy74dvA6IBwdHoAGb5wRTVW0DZdFQTvFTb7sSta1xtiCfm1ssIfrJlGjakM3WRNpZ5M7BMQ4ohCZRJ42qf6Bo/5jU98FIQtPBsFEyWf1p7yLFivUCaQ=;oWYhWxV8vbOvz794i4NaSQ=="
 ---

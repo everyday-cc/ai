@@ -20,20 +20,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers"
-    excerpt: "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps."
-    publishedDateTime: 2024-01-17T19:29:00Z
-    webUrl: "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
     excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
     publishedDateTime: 2024-01-19T03:08:00Z
@@ -151,20 +137,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/01/galaxy-s24-phones-official-4.jpg?quality=82&strip=all"
         width: 1599
         height: 1066
-        isCached: true
-  - title: "The Galaxy S24 Language Translation Feature Is Gamechanging"
-    excerpt: "It’s yet to be seen whether the implementation is identical to the Samsung Galaxy S24 series. Language Translation With AI Is A Huge Focus On The S24 Series Galaxy AI was very clearly the star of the show at Samsung Unpacked, and translation features ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.talkandroid.com/384756-the-galaxy-s24-language-translation-feature-is-gamechanging/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 24
-    images:
-      - url: "https://www.talkandroid.com/wp-content/uploads/2024/01/Unpacked-2024-Highlights_main3.jpg"
-        width: 1000
-        height: 582
         isCached: true
   - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
     excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"

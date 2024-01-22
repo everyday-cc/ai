@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Google DeepMind’s New AI Matches Gold Medal Performance in Math Olympics"
-    excerpt: "The AI successfully solved 25 of 30 difficult geometry problems, beating previous state-of-the-art algorithms by 15 answers."
-    publishedDateTime: 2024-01-17T21:16:00Z
-    webUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
-    ampWebUrl: "https://singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/01/17/google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 90
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2024/01/colorful-geometric-shapes.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "DeepMind AI rivals the world’s smartest high schoolers at geometry"
     excerpt: "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022."
     publishedDateTime: 2024-01-18T23:55:00Z
@@ -180,6 +164,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
+    excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
+    publishedDateTime: 2024-01-22T15:26:00Z
+    webUrl: "https://techstory.in/top-scientists-exit-to-form-ai-startup/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 54
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_copy_protection-2.jpg"
+        width: 350
+        height: 216
+        isCached: true
   - title: "Google DeepMind scientists mull AI move"
     excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
     publishedDateTime: 2024-01-22T10:55:00Z
@@ -273,15 +271,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Google DeepMind AI software makes a breakthrough in solving geometry problems"
-    excerpt: "Scientists at Google DeepMind, Alphabet's advanced AI research division, have created artificial intelligence software able to solve difficult geometry proofs used to test high school students in the International Mathematical Olympiad."
-    publishedDateTime: 2024-01-17T21:53:00Z
-    webUrl: "https://www.aol.com/finance/google-deepmind-ai-software-makes-195351550.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 31
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

@@ -126,6 +126,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
+    excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
+    publishedDateTime: 2024-01-22T18:08:00Z
+    webUrl: "https://healthitanalytics.com/news/who-releases-governance-guidelines-for-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 38
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "dGOPE3CfOuJnmsUt4QBXdmzrkVf78LihQmbMHkDpOVYo3LYqy898NzoNztjKDJ8NWTrLO3O8sMWK1eczrVhLS9hqZleLwFZFAMt/y5GFpg4TulYZTKo7uGfbvqqDbCWHLNSXyYJhf02ZCXIBpzfyEg3KylO3W9t1vBmye7wa8gcOtJxN1UZyXROqJ3T8n39ddVGd3q/MGtA0vF1AgOYE4Q8/FR3emGOSnc4aAbk4ow9I73TvN++djkozIFg13dM56+/IyRhu0GRucxGPgO0gqkZNV/+oh1k/qSRBIlUp+w5j17VfNRSt6WWrkA3D5P/fgI4prUl9X2Dy6WkZaZZYVv9edW7AOSihgpN6dO0XP49MLgsC2ljCa90011TzfkmuB/7y+feWJADDeTko61Fqw6bU+tf71XiMoQgy0jDvCEcbXEQ1up+3+FtUHdQhfArbkaxccYoRIKPxjMH49BJrI9u2f3p9BjJXPQ1nGSoXrXThgU8SmtTkJ0/mqP40pGFQ3O8auXDp4oR60HxJ8kTH0g==;oH2lCtcY9OxiRun2g9SVbw=="
 ---

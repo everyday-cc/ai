@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/
 webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: TechRepublic
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers"
-    excerpt: "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps."
-    publishedDateTime: 2024-01-17T19:29:00Z
-    webUrl: "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Samsung Galaxy S24 Bets Big on AI, Apple Watch Ban Saga, and More"
     excerpt: "Fresh off the heels of CES 2024 comes another huge January tech event, in which Samsung officially launched its highly anticipated Galaxy S24 AI-powered smartphone. Ubisoft turned some heads this week when the French gaming publisher said gamers should be more comfortable not owning their digital games."
     publishedDateTime: 2024-01-20T12:59:00Z
@@ -146,20 +132,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/01/galaxy-s24-phones-official-4.jpg?quality=82&strip=all"
         width: 1599
         height: 1066
-        isCached: true
-  - title: "The Galaxy S24 Language Translation Feature Is Gamechanging"
-    excerpt: "It’s yet to be seen whether the implementation is identical to the Samsung Galaxy S24 series. Language Translation With AI Is A Huge Focus On The S24 Series Galaxy AI was very clearly the star of the show at Samsung Unpacked, and translation features ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.talkandroid.com/384756-the-galaxy-s24-language-translation-feature-is-gamechanging/"
-    type: article
-    provider:
-      name: talkandroid.com
-      domain: talkandroid.com
-    quality: 24
-    images:
-      - url: "https://www.talkandroid.com/wp-content/uploads/2024/01/Unpacked-2024-Highlights_main3.jpg"
-        width: 1000
-        height: 582
         isCached: true
   - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
     excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."

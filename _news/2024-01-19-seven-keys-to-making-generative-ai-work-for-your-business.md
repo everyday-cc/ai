@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
         width: 953
         height: 635
+        isCached: true
+  - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
+    excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
+    publishedDateTime: 2024-01-22T18:08:00Z
+    webUrl: "https://healthitanalytics.com/news/who-releases-governance-guidelines-for-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 38
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "gV417D0C9U9KQ9V7pdt4KBCNOEdrr7reJuJeB+E/ENi6us6hVjN0GnYVYhR2lIpqWBI0I2mJeyE1ZKZtLvxzdQGXU+X3FrLDXDmPUKS3yew2KSSI5Bt/Cnd3mjVTUbiXgXGQNE9D+64Cxs5edKRNKY3Pgos1Jj4xGOCsNBqTY6kQn/lQY41wFddbhbuckWCXGYUdXLGOjmuRtvPIP1l5ghSaJAP9QOLIkaLtk1NxCcmJd/44xGjo2R/5k9soZK6NNysiz/xKgKPG0OlGETrgOSLi1xKt96xhnmFaijs59+BBNDvHqDRP6G5qk4g17F3ZLJ3bflTfXTEIHX4eqMbg44g6UaRf88tEPQcvaq7/QxY=;fgqVK9q+8TSoOHD5B6tvHA=="

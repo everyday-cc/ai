@@ -39,15 +39,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "jOIsVHdmu4Y0iq/uACZj1+miuqg5ApWPS9BkS7Pa99hNfmuxSqJsll4deL+PSvLIGBE6FhvqkAcsHskWhLy1B1Gf0E+1VWAnrKZcZNznhD2fAxDQWdUdQUS37I6vKak4SKYEEc4wr+u0PQ1Xwq1r8EPMQcQw75bnWfYx3TRzPQy7TdnS0iq2vTED/J4i3lvDC2W0Hq8YPYS1OFVGXqXXMoKq222P5nLlyqTfe7P+QmGLOxAV0OyfAHfjFwvjXULVXcABMa58DQnZpb/XdLTCsFkmhRywTsbNDUbXsZ/8q0F0Ui0l2H5fupb7aBpWi6nVZw1rQTqygvaEqrxiRqa4FY9lCZexlY5dLegTxB8efRQ=;U9t/RkBYDEyBejuv/YBUxg=="
 ---

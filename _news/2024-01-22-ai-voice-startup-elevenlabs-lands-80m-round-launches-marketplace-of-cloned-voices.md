@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-r
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
 quality: 63
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
+    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
+    publishedDateTime: 2024-01-22T19:59:00Z
+    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "v7Wvpzsg2hYHmJcAGIIHd9apx8h2/pg84DZZ7g2cvPNcvWkUBevATQCnjzVqeUl5CnWWqL3Hov76MsWWvZ5a8OuXIsQRJaTqmHWZQ46FqqjsHuBd5tFUC2ATT+zEpsPfJ779ttTllM5S30Q8tHazTUc8WcP3GkMkEL82gcwpIBfergecYpZi5EyPIGXhwpTb+n5xXZBdZCewGd+c2Wp4TlX6neJ2wM+SRaHIHnhQAkjih5PPw5sWFEz7I8N0A1BiRm+ltC7ZlHwLNYY9rts7hXz2Gi/tKIOS1/0NkBQnnpy+UJG4iFaa1tmbWEd3aa9O37EMnYboCHa8r/SU3C6r56xgi67mZJMsY7IaiqAbsIA=;nyXuy1VLkl/t7jYFzPaQ5w=="
 ---

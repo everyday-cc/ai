@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ..."
+excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
 publishedDateTime: 2024-01-16T13:45:00Z
-originalUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
-webUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
+originalUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
+webUrl: "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Morningstar
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "1Ip4KPz1DhIlFSLkNPWX0syHRoz0ynt9lWWSSOQc+lUClta8NLz4mxbasa4JIN8cB2CV61F35erHKry4DFAvzlwc3bMZhS6JU8moNFWRKmbWPbwMiT7IMopNYvZ62WOb2TJG9yjj8w8NrnVmgRQPak2gBs2P6rhhe6pJRq/0X5IcgnbY0rMgDEMoMzOktfIxLAa3aTf7O4KQh1rVFz2VfCwWhUT3SjS+FjlJv40VgT27hNUFyc+BYCpk6mID01moWUg5yyejY/v3Gjt2Vw2K8BfFI7L8dEFlHsJ+0JJJocuWIjsSmmQOr0xXS2hSBek3PQAW+GMRyj6jQLCXUMp/whNr+qH7Mglc5m+s+NIiiqY=;L78/ZdfLAH5ze06k3vebeg=="
+secured: "o5Ycw4hpEQCdjBgzOxEf8fPWQYx02WA/nY2v9GNcnTbSbHykQxoWPYar3UgqBeHZ0LzuoptvNjsvew3A1uRwqjvtTbKTSEXwxltrBSvgzXqDTCaHYvWDGmmiJxQRXj3oNPsAwy4FMZFqeCHSrXIEyMZIJZTLRgrEjnrq4Y9zt/dLTGVhQ//jL5unUpPhE0WrwZAfURxrAo7RISnB9KMxgWYmLZslnjfVb84/RYWYi5Uvs2s9enf9G4vhjRj4zeMMJQz/L7JMX0EEsjdSQu64OxB4QsDshPBwtpGBBJVKj3P/dohpsIp15od6M+TuLadqWdQHVpnLMBoBcObMp8T4CsCGgZsY1opcGF9ZdH8h9gg=;gl9+WSp8mXuzG6nhiC0WTA=="
 ---
 

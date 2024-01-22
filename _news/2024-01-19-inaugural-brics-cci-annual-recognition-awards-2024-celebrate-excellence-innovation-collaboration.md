@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI will turbocharge political disinformation. We must pay closer attention"
+    excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."
+    publishedDateTime: 2024-01-22T22:44:00Z
+    webUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 37
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
+        width: 1480
+        height: 800
+        isCached: true
 
 secured: "I10mIcsiQKe1X1mxkDPl4QpU5pYMY1lYLiq/nxkQZGuvNKmhF6EQRyoVebt1oCwXh8C54zy81207I/11TaYHWAlP1n6bwlGzoi31eYazwpkkAmebaYW0g2jVNbR9mNw0Gvlw9OrDbNUeOIw8a1tbgHiB0n4Cx0juZaS57ROWDkWSi3hRXSmrVjWfOYJ1Tv4m+x+pQCxX1gpQLPqCINVmzgI4CUCKCY/2om98vYE65OPRSs/keIveSn4DlVIHYXpEso/l1LwYaHIUT3RvQohSFlfC3gb+Hi1dsMpKSMITe8wxzlIUYllwM2N4/CD6/47lOA3QY7sQoqrxI+qkUmmM/T1LVmgjX+jupoSZNv4hZ84=;TmmWiL9NWB62xnOOAsPUJw=="
 ---

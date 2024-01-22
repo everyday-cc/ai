@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -253,6 +253,58 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-samsung-unpacked-2024-galaxy-s24-includes-googles-generative-ai.md",
+      "title": "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI",
+      "excerpt": "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/",
+      "originalUrl": "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg",
+          "width": 1400,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T03:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1301,58 +1353,6 @@
         "name": "CUInsight",
         "domain": "cuinsight.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-you-wont-need-a-samsung-phone-to-benefit-from-galaxy-s24s-ai-call-translation.md",
-      "title": "You won't need a Samsung phone to benefit from Galaxy S24's AI call translation",
-      "excerpt": "A new report has shed more light on Samsung's innovative AI Live Translate Call feature, from languages to device support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
-      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2020/04/Samsung-logo-Galaxy-S20-4.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-29T07:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

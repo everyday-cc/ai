@@ -2,6 +2,299 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-19-imf-ai-will-impact-60-of-jobs-and-worsen-inequality.md",
+      "title": "IMF: AI will impact 60% of jobs and worsen inequality",
+      "excerpt": "Just as with past technology advancements, AI will also lead to income and economic disparity, job displacement and inequality, IMF says.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_a5aa4b6f-7f83-4a44-b093-cc325ee94fcf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-pope-francis-ai-ethics-expert-is-a-franciscan-friar.md",
+      "title": "Pope Francis AI ethics expert is a Franciscan friar",
+      "excerpt": "Friar Paolo Benanti wears the plain brown robes of his medieval Franciscan order as he pursues one of the most pressing issues of contemporary times: how to govern artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.smdailyjournal.com/news/national/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_46adca52-b64d-11ee-970c-33c68bc87c4a.html",
+      "originalUrl": "https://www.smdailyjournal.com/news/national/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_46adca52-b64d-11ee-970c-33c68bc87c4a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/assets/v3/editorial/4/6a/46adca52-b64d-11ee-970c-33c68bc87c4a/65a9a01abff90.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Mateo Daily Journal",
+        "domain": "smdailyjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-dean-phillips-vows-to-be-first-ai-president-in-campaign-speech-on-his-artificial-intelligence-platform.md",
+      "title": "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform",
+      "excerpt": "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
+      "originalUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec303fa-b8ef-42a6-9e5a-220a06665e9f/b38f73cc-bbc3-4780-879b-ac593b1f3374/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
+      "publishedDateTime": "2024-01-18T19:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
+      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
+      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
+          "width": 2237,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
+      "publishedDateTime": "2024-01-18T19:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
+      "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
+      "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a974ad913d58e48af2a75f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
+      "publishedDateTime": "2024-01-18T18:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit.md",
+      "title": "Robotics council director highlights AI’s transformative potential at Global Artificial Intelligence Summit",
+      "excerpt": "In a dynamic showcase of the pivotal role played by artificial intelligence (AI) in technological innovation, Rajkumar Sharma, Director of the All India Council for Robotics and Automation (AICRA), emphasised the profound impact of AI on different sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
+      "originalUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/01/ANI-20240118174315.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
+      "publishedDateTime": "2024-01-18T18:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
       "title": "Microsoft makes its AI-powered reading tutor free",
       "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
@@ -484,7 +777,7 @@
       "originalUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -536,7 +829,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -787,7 +1080,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 310,
+      "heat": 300,
       "tags": null,
       "images": [
         {
@@ -935,300 +1228,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
-      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
-      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
-      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
-          "width": 2500,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T20:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium.md",
-      "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
-      "excerpt": "Today, we’re excited to announce the availability of Llama 2 inference and fine-tuning support on AWS Trainium and AWS Inferentia instances in Amazon SageMaker JumpStart. Using AWS Trainium and Inferentia based instances, through SageMaker, can help users lower fine-tuning costs by up to 50%, and lower",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/17/fine-tune-deploye-llama-2.jpg",
-          "width": 1022,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:46:02Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities.md",
-      "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
-      "excerpt": "Geospatial data is data about specific locations on the earth’s surface. It can represent a geographical area as a whole or it can represent an event associated with a geographical area. Analysis of geospatial data is sought after in a few industries. It involves understanding where the data exists from",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/ml-15318-image004-1138x630.png",
-          "width": 1138,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:38:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
-      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
-      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
-      "title": "UTAS opts for ISESCO research chair in AI ethics",
-      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
-      "sourceUrl": null,
-      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
-      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
-          "width": 1000,
-          "height": 626,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
-      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
-      "publishedDateTime": "2024-01-17T18:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "omanobserver",
-        "domain": "omanobserver.om",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-circle-or-highlight-or-scribble-to-search.md",
-      "title": "Circle (or highlight or scribble) to Search",
-      "excerpt": "Circle to Search is a new way to search what’s on your screen without switching apps, available on select premium Android smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/google-circle-to-search-android/",
-      "originalUrl": "https://blog.google/products/search/google-circle-to-search-android/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CircleToSearch.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/google-circle-to-search-android/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-circle-to-search-android/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

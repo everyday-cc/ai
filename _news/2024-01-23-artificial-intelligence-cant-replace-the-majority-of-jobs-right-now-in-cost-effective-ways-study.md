@@ -3,27 +3,20 @@ category: news
 title: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways: study"
 excerpt: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries."
 publishedDateTime: 2024-01-22T16:25:00Z
-originalUrl: "https://vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d"
-webUrl: "https://vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d"
-ampWebUrl: "https://vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d/amp/"
-cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d/amp/"
+originalUrl: "https://thestarphoenix.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study"
+webUrl: "https://thestarphoenix.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study"
 type: article
-quality: 43
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: The Vancouver Sun
-  domain: vancouversun.com
+  name: The StarPhoenix
+  domain: thestarphoenix.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2024/01/ai-branding-.jpg"
-    width: 1000
-    height: 750
-    isCached: true
 
 related:
   - title: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways: study"
@@ -43,6 +36,6 @@ related:
         height: 750
         isCached: true
 
-secured: "AMvqr777VdEInHxpha7KpJl3P4+zJGUJU54BWicYmaIu08A04LjKzMkKWs0CG0UaREzNuhxfoUKaePS1b8WLxU32tc+bOceCXyh841TAlgSnc2jTXxPOttB+OkSfUZQbMc5K4ynYVujdcirwX8CwbPXI7YNXcLzowxbTzfs1CcNkD7VyHwxhH1yWgZlJxAsmvFBa6Q70SFgFvDGVdIsg7fEjcjDi0CR0yiqWSH9Rw98bOQV2gXrsYU8sYuhK5G7kNivXB5Mmu7EqkXGv5r8eiS16PH4G31LJJY3lqKfn1S/AIEfapazYUV5QP0sKITFIZ5waNIUU5qkGPfGjH6c12Imqobgqe5Ag/jU7gUTN3cE=;49PsT2vLW2qE8hKG6ap1OQ=="
+secured: "tIr4JATB9RRuP8ZgPq1VG7kyc2IMjKJq+QqHeKVit4A3VknaQvpYVC5URN0+m2o2t/sZBMk6AOOHzsuwDD42jK9jw2PawJprb8HvZJan4jel6IFhL0qiaOXzWb4eeP+2qo8M/Axkns4pc6drWBZjojBppk+jSRxeOp0HNw3K0sxmMTGYffvUxVRuAyOgCPs8Q+d+iOWaXa9gG1kjoViTr6RGuyd+JfpHOpkMq+mnlkH0PrHDy42x2etGlE4874DZprlb95q0/kRWxq0R1n3rvcnc8ivY3Y2YsFGic8xbCd72ZMky430InD5KcSxGpSFLN6eoTit0BgLELmNaZmwh4y6C/puyyv4tN0YcQZdADSo=;r36y5CIoSWw+vZoPM5zscQ=="
 ---
 

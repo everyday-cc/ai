@@ -2,6 +2,300 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
+      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
+      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
+          "width": 2500,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium.md",
+      "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
+      "excerpt": "Today, we’re excited to announce the availability of Llama 2 inference and fine-tuning support on AWS Trainium and AWS Inferentia instances in Amazon SageMaker JumpStart. Using AWS Trainium and Inferentia based instances, through SageMaker, can help users lower fine-tuning costs by up to 50%, and lower",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/17/fine-tune-deploye-llama-2.jpg",
+          "width": 1022,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:46:02Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities.md",
+      "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
+      "excerpt": "Geospatial data is data about specific locations on the earth’s surface. It can represent a geographical area as a whole or it can represent an event associated with a geographical area. Analysis of geospatial data is sought after in a few industries. It involves understanding where the data exists from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/ml-15318-image004-1138x630.png",
+          "width": 1138,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
+      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
+      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
+      "title": "UTAS opts for ISESCO research chair in AI ethics",
+      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
+      "publishedDateTime": "2024-01-17T18:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-circle-or-highlight-or-scribble-to-search.md",
+      "title": "Circle (or highlight or scribble) to Search",
+      "excerpt": "Circle to Search is a new way to search what’s on your screen without switching apps, available on select premium Android smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-circle-to-search-android/",
+      "originalUrl": "https://blog.google/products/search/google-circle-to-search-android/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CircleToSearch.width-1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-circle-to-search-android/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-circle-to-search-android/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-new-ways-to-search-in-2024.md",
       "title": "New ways to search in 2024",
       "excerpt": "We’re launching Circle to Search and an AI-powered multisearch experience to help you search even more naturally.",
@@ -641,6 +935,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-17-google-might-rebrand-assistant-with-bard-before-launch.md",
+      "title": "Google might rebrand ‘Assistant with Bard’ before launch",
+      "excerpt": "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\"",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
+      "originalUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/assistant-with-bard-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-16-vcs-funding-disruptive-tech-in-entertainment-from-ai-to-blockchain-based-games.md",
       "title": "16 VCs funding disruptive tech in entertainment, from AI to blockchain-based games",
       "excerpt": "Accel most recently led Assembly's $50 million Series C in December. Two-year-old Aperture is interested in the intersection of fintech and AI with entertainment, along with other industries. It recently co-led a $1 million seed round in Conduiit ...",
@@ -880,316 +1217,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
-      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
-      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-the-advantages-of-holistic-facilities-management.md",
-      "title": "The advantages of holistic facilities management",
-      "excerpt": "Successfully managing your facilities can directly impact employee productivity and customer satisfaction.\nThe post The advantages of holistic facilities management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
-      "originalUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T22:36:47Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
-      "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
-      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
-          "width": 3500,
-          "height": 2239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "publishedDateTime": "2024-01-16T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-amd-shares-jump-8-to-highest-close-since-2021-on-ai-chip-demand.md",
-      "title": "AMD shares jump 8% to highest close since 2021 on AI chip demand",
-      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1705430893",
-          "width": 4548,
-          "height": 3026,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
-      "publishedDateTime": "2024-01-16T19:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-join-us-at-the-forefront-of-ai-for-business-think-2024.md",
-      "title": "Join us at the forefront of AI for business: Think 2024",
-      "excerpt": "Join IBM at the forefront of AI for business at Think 2024 in Boston from May 20-23, 2024. We can't wait to see you there.\nThe post Join us at the forefront of AI for business: Think 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
-      "originalUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T18:57:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-artificial-intelligence-helped-scientists-create-a-new-type-of-battery.md",
-      "title": "Artificial intelligence helped scientists create a new type of battery",
-      "excerpt": "It took just 80 hours, rather than decades, to identify a potential new solid electrolyte using a combination of supercomputing and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/01/011224_ev_AI-battery_feat.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science News",
-        "domain": "sciencenews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

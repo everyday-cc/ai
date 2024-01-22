@@ -116,6 +116,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
+  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
+    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
+    publishedDateTime: 2024-01-22T19:59:00Z
+    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
 
 secured: "V0gSdae3PPt+eI5xiq/vda9iCcWo8lk3kx7PVxkRqF2AHb++71FfQvcPPkb8nNfwXtHA0nwGL38FGkWU4wVIyCEN/SwXM1vRqydDx7amsYkK/DjndNgzq4bMKB6oNM2UOgBWGR0R9WMRAzxLf5CyZ2x262vuNm4+l79llCe3d3vbd2MUZMH3QW4c7g8i8FvPcXEqKned19YdGg42PTJfGMpF6hjtEdilf3SiEFf08AaSKzVwtkPi1WBHCy4+GdWmVR/s4BiMSMKIGzsRrjJJ33zlisCGuGQ5wL00yvjX/fwBFkSrfSuMfbDRUMF0NAlq5647a1wwFz6goUhKJr+OKiYjdGXlY18S1kzJU3voMiM=;/WwdSLxLt/1LzdJyyP4toA=="
 ---

@@ -222,6 +222,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 21
+  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
+    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
+    publishedDateTime: 2024-01-22T20:37:00Z
+    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "Hjofc9eXFp9KHwkFwtqJCmD+4MyxtBYabwklKhnTnUWc8KyyUMg8scmqBKj2YPuonoJ9pjlQwIdbCa32tMbmHSunJUcjta8NDka/+iftoJrwHWFeAPDass6ywVJYogJEWo+0EqWekQggmn+CdZq8K4Xl9mN3E3vJ+W0RwMhrXLBtJfGcWDY7opocFTDFiGcSFFssFLiCIEOlktaWlfw/FlvCRJcDRSmh7RqfnJ73Nhto68QGGua49ZanouEmsOLdPR7at2vfuKKzJ0s6Eb4y6sLmwQNPFICAyOjvRBQBK4vg4Iiz6AYcUm9ZfbZk3kfI+jhKNYKS4o5RadVSER08AGkX9uCNrwEtq/rKGu+Qnko=;nQgHvj6b3rVFbDXpeKSRKA=="
 ---

@@ -218,6 +218,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 21
+  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
+    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
+    publishedDateTime: 2024-01-22T20:37:00Z
+    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
   - title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
     excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
     publishedDateTime: 2024-01-18T00:00:00Z

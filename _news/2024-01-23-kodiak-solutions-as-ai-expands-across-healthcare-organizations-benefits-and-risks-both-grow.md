@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
+
 secured: "WXvq3s8slUJLm9hB/9QmAyN9WMBRzS/5TOy5GMys9hIgDtNCn7iShgf1oakY3PMtSIR4GvFJv7RbFdACoa+5X5Jo1y1ct0IAn1aQSUK09UfsK22sHX/f3y3pN0fCTGvpWax5F5vV6e0A3kgn1uehKx3D8OS32qq9Tv3cCP7RnEp3s5X4eG4KkGKJZAftf5S55hHgoj4QCm4scOEaJOf2i7MMhpAoQHun0O+x725FnjPhP5X4u9PpNUYNe0KJ591oMCJACSW2dQ/0w1bIx0YKHd8aVM/qdf02tzmDynBvWnsIaG3/rjCVtHTGI9/+RbgqTu5VFhkadwH3eWjQo/SoRBeg7gYAj3Ke/lqqRchhtRE=;bk8Bmq7oOPX6hJIjmt+Kaw=="
 ---
 

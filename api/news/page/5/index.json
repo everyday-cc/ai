@@ -2,6 +2,316 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
+      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
+      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-the-advantages-of-holistic-facilities-management.md",
+      "title": "The advantages of holistic facilities management",
+      "excerpt": "Successfully managing your facilities can directly impact employee productivity and customer satisfaction.\nThe post The advantages of holistic facilities management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-advantages-of-holistic-facilities-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T22:36:47Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
+      "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
+      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
+          "width": 3500,
+          "height": 2239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
+      "publishedDateTime": "2024-01-16T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-amd-shares-jump-8-to-highest-close-since-2021-on-ai-chip-demand.md",
+      "title": "AMD shares jump 8% to highest close since 2021 on AI chip demand",
+      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?v=1705430893",
+          "width": 4548,
+          "height": 3026,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/amd-shares-rise-jump-7percent-and-head-for-highest-close-since-2021.html",
+      "publishedDateTime": "2024-01-16T19:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-join-us-at-the-forefront-of-ai-for-business-think-2024.md",
+      "title": "Join us at the forefront of AI for business: Think 2024",
+      "excerpt": "Join IBM at the forefront of AI for business at Think 2024 in Boston from May 20-23, 2024. We can't wait to see you there.\nThe post Join us at the forefront of AI for business: Think 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
+      "originalUrl": "https://www.ibm.com/blog/join-us-at-the-forefront-of-ai-for-business-think-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T18:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-artificial-intelligence-helped-scientists-create-a-new-type-of-battery.md",
+      "title": "Artificial intelligence helped scientists create a new type of battery",
+      "excerpt": "It took just 80 hours, rather than decades, to identify a potential new solid electrolyte using a combination of supercomputing and AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
+      "originalUrl": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2024/01/011224_ev_AI-battery_feat.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T17:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
       "title": "How Best Take makes your group photos better",
       "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
@@ -219,19 +529,19 @@
     {
       "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
       "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
-      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
+      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ...",
       "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
-      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "webUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
+          "url": "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -239,9 +549,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T15:52:00Z",
+      "ampWebUrl": "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
+      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
+      "publishedDateTime": "2024-01-16T15:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -418,10 +728,10 @@
     {
       "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ...",
+      "excerpt": "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
-      "originalUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
+      "webUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -434,8 +744,8 @@
       "publishedDateTime": "2024-01-16T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -828,328 +1138,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-vodafone-signs-15-billion-microsoft-deal-for-ai-cloud-and-iot.md",
-      "title": "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT",
-      "excerpt": "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964",
-          "width": 4973,
-          "height": 3309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
-      "publishedDateTime": "2024-01-16T08:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-wants-more-voting-control-over-tesla-tsla-as-company-grows-ai-robotics-efforts.md",
-      "title": "Elon Musk wants more voting control over Tesla (TSLA) as company grows AI & robotics efforts",
-      "excerpt": "Elon himself chimed in to state that he’s currently uncomfortable with expanding Tesla’s AI and robotics business without more voting control. Elon Musk shared a thread of tweets in response ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
-      "originalUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/01/16/elon-musk-gq_feature.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
-      "publishedDateTime": "2024-01-16T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-as-tesla-stock-tumbles-musk-threatens-25-voting-control-or-no-ai-robotics.md",
-      "title": "As Tesla Stock Tumbles, Musk Threatens 25% Voting Control Or No AI, Robotics",
-      "excerpt": "Musk wrote that he would be “uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control.” He claimed that would be enough to “be influential, but not so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "originalUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2024/01/ewrwerewrewrewrewrwerfsdcx-fdscdscx.jpg",
-          "width": 2410,
-          "height": 1356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-baidu-recoups-some-losses-as-analysts-see-selloff-overdone.md",
-      "title": "Baidu Recoups Some Losses as Analysts See Selloff Overdone",
-      "excerpt": "Baidu Inc. climbed as much as 4.3% on Tuesday, regaining some of its losses after analysts labeled excessive a selloff triggered by a report of links to Chinese military AI research. China’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
-      "title": "Will Artificial Intelligence Be Sociopathic?",
-      "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/Screenshot%202024-01-15%20at%209.18.00%20AM.png.jpg?itok=N1nYORYv",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
-      "publishedDateTime": "2024-01-15T17:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
-      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
-      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/siri-apple",
-      "originalUrl": "https://www.businessinsider.com/siri-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
-      "publishedDateTime": "2024-01-15T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
-      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
-      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T12:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

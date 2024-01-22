@@ -40,6 +40,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI will turbocharge political disinformation. We must pay closer attention"
+    excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."
+    publishedDateTime: 2024-01-22T22:44:00Z
+    webUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
+    type: article
+    provider:
+      name: Crikey
+      domain: crikey.com.au
+    quality: 37
+    images:
+      - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
+        width: 1480
+        height: 800
+        isCached: true
   - title: "Inaugural BRICS-CCI Annual Recognition Awards 2024 Celebrate Excellence, Innovation, Collaboration"
     excerpt: "Dr B.B.L. Madhukar, laid out the chamber's vision as the \"voice\" of young entrepreneurs ... Winners' Expressions: The BRICS-CCI Annual Recognition Awards were marked by the celebration of outstanding achievements, with numerous national and international ..."
     publishedDateTime: 2024-01-19T13:15:00Z

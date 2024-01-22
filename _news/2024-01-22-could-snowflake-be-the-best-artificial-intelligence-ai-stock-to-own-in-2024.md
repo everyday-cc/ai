@@ -34,6 +34,15 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
+    excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
+    publishedDateTime: 2024-01-22T20:18:00Z
+    webUrl: "https://www.inc.com/sam-blum/what-coheres-possible-1-billion-investment-signals-for-ai-startups-in-2024.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 13
 
 secured: "FHj5Qk+NU/0weT4GmNPn/4tsdXZJ9zg64rlMAwiDLbgLcBFMejtx6HTdKWGXYAh9+j9EGZ6JsQHo0PcT8ViNYzXtm+2Hfhsf/mlYDFvMFTZ6GfH7Hzouj/GQivQv3exkkuPzPDagZE1m7v6EfWLb1D3RJ6NTJ66t0lMK8Yadk9JvicHc4TWAk0ebjnxgyLkkeVuaOnF3K4eRtIJJOUW/irvpmqRn46U6kvtjrUCY86f9Rt2y7i313yHFKgDmWo9lmeJfTwORH13FLh0UvvX1B+MVv120hkT8l8tuaMXHU3SgpR/LMt1c+nfjg+wVCpMeLPI2YHyJhWql5KIbteioT8wQQGnO+skBz66VaQsKA4qmuOizMYY+Ynx0VGzWMGYoQU++NAlLwVouTo5iPxjsNEOOEs7UsClmylYQhgGk+pwr9r8upPYhaAm8bJK5BV68jdFRFg8fVDr13mGci/nTvUr104qsA9g0KU35APP9TChwKmWi4Nsvr0RUSHaYvj+LsYN+ulF8Ocd2W3z58/A28w==;bMUcr+2cL40uaKZmQpXRZg=="
 ---
