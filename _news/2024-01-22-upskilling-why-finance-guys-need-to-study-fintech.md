@@ -43,6 +43,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Addressing Two Common Fintech Issues With AI: Exploring Solutions"
+    excerpt: "The ability of AI algorithms to identify potential risks by analyzing historical financial data, transactional behavior and customer profiles is the reason that a significant number of fintech companies have already implemented the technology for fraud ..."
+    publishedDateTime: 2024-01-22T10:59:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6446b86f7e2e09f059a821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1502
+        height: 900
+        isCached: true
   - title: "AI Has the Biggest Impact on the Fintech Industry"
     excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -94,15 +110,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 33
-  - title: "Pulling back the curtain and unveiling the future of fintech in 2024"
-    excerpt: "Embedded finance has steadily woven its way into the fabric of daily transactions, and its continued expansion is set to continue unabated. Analysts have projected that the embedded finance market will reach $1.9 trillion by 2028 as global adoption continues to surge."
-    publishedDateTime: 2024-01-17T11:56:00Z
-    webUrl: "https://www.finextra.com/blogposting/25540/pulling-back-the-curtain-and-unveiling-the-future-of-fintech-in-2024"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
   - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
     excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
     publishedDateTime: 2024-01-17T17:14:00Z

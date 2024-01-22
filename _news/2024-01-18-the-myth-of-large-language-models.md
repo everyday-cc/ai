@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 webUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
         width: 841
         height: 560
-        isCached: true
-  - title: "Learning the language of terrorism"
-    excerpt: "Terrorism prevention needs new approaches, and Prof Harvey Whitehouse, Dr Julia Ebner and Dr Chris Kavanagh from Oxford University have devised a novel and potentially more reliable diagnostic tool."
-    publishedDateTime: 2024-01-17T11:33:00Z
-    webUrl: "https://www.research-live.com/article/feature/learning_the_language_of_terrorism/id/5121392"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 24
-    images:
-      - url: "https://www.research-live.com/img/Presidents_medal_2023_awards_MRS_crop.jpg"
-        width: 592
-        height: 444
         isCached: true
 
 secured: "pjrO8/vgERfldkiAs7tAY0WUZXuxcbVnxsnD0cG5vgmKPComlySP/hUmXEwIu/eyeEPXnj5kJ+Soh+jOWG6htjwm0CB9lNlSqHKzSj8BFah5zSInCUqpIYQcpWK4DQddAsjkIZGAYfvz7QKPgkNU7SfnJDUy58UiC7f7f5iJqaxKYF4IQ2zTanByV1eZ+mMDaB8yzLXxrhS72ERPA6rDqAiRsOeWdrIO0+YeW0Ujwg+ZnlGtDvVzV63VkL9LFDmRBttdSpyh014MQnq7qiFKUOT0ljl7Zvmr9FGY+GJoZcrPthHFvH3xAAXzJdNBCWVaZIVeCXZZ+fasBwa/oRkNtvj5SBqS52m2i+VPvhf+MIgBc5DTP4Hk095ltvaaXDmcUx/K/HUNMUY9ayY9+e4MBtJkagsidA483x8qRy5ggMq6XIgp8ekhq3vkaP+TfZXnCg507A5YONyoOn9BIP6JR11+S/r+8D7msxmZlP8G1icEhv7fh4BZJaeNds/4Ei8TwuOu3orvxLOWiAUNQKjmhQ==;YRWkhqGWLLeMkdH/lzFTGA=="

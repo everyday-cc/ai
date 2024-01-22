@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-
 webUrl: "https://www.fool.com/investing/2024/01/19/wall-street-top-picks-2-ai-stocks-to-buy-in-2024/"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
+    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
+    publishedDateTime: 2024-01-22T12:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "Meta Platforms Is Wall Street's Top Internet Pick, Analysts Laud AI Investments and Advertising Strength"
     excerpt: "Several Wall Street analysts hailed Meta Platforms Inc (NASDAQ:META) as their top internet pick. The analysts included Baird’s Colin Sebastian, JMP’s Andrew Boone, Truist’s Youssef Squali, and KeyBanc’s Justin Patterson."
     publishedDateTime: 2024-01-19T20:18:00Z

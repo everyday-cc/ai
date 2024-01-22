@@ -43,20 +43,6 @@ related:
         width: 1220
         height: 526
         isCached: true
-  - title: "Apple GPU security flaw confirmed in iPhone 12 and M2 MacBook Air"
-    excerpt: "A report of an Apple GPU security flaw has been confirmed by the company, acknowledging that the iPhone 12 and M2 MacBook Air are affected. An exploit has been demonstrated by security researchers, which would allow an attacker to view data processed by the chip, including the results of things like ChatGPT queries …"
-    publishedDateTime: 2024-01-17T12:11:00Z
-    webUrl: "https://9to5mac.com/2024/01/17/apple-gpu-security-flaw/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 71
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/Apple-GPU-security-flaw.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "cZLGy9KupQBYQ4/0e3MusApWMixiEjje3s8sbJ6+TcuyTij+wHoam5+oiS7wQs6ur34mNwyVcyrUOKnCcUWZIJg7PrO05O3IsqosQTEdY4zw4AkThGEQ01EX7H2BSMMPhQWKSaMB+sYQiGFncgxZdTmSqUtmHXYhvE5tXqG3n8ChDvtHmxegOzMNCMzndV3G22RmMwEhsNRwHea2fsW4aH65lvGeqYatwn5wO+ssGepzrp22dFd4YkdOxcUTuDLZvBzmQFfUqmKCarmZzue7PxHBw0R3YdIo/CurOboFKVqpshqKW6eenNz3sNhxxNO47Iy0lMEYTzefKL5uiDki/xiM2SUbWXg0Hid8L0Ggq4NZ0pqp9PIO/YZTSReTHOcJcw/F5ljT1FUTcAAO0b/FjVVH+og81lTFtJROh4uI68kfD0Cvlaadxmg4H9VoUSkuobDiSjJCDe8cXIQGQpeR/hl06mfandpMZbbEzZnaIVJYjkAgmWIbpwhldwYfRpNk8S4BG8jTGsy24KEUr88Qxw==;NiK84aQp+vPQPjdASG+QiA=="
 ---

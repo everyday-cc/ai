@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Sam Altman engages in discussions with TSMC for AI chip manufacturing plant: Report"
+    excerpt: "Sam Altman, the CEO of OpenAI is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. As per the recent report in The Financial Times, Altman aims to raise billions of dollars from global ..."
+    publishedDateTime: 2024-01-21T10:00:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 68
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/sam-altman-openai-1705828421.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
     excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
     publishedDateTime: 2024-01-20T23:00:00Z
@@ -48,6 +64,48 @@ related:
       - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Sam Altman developing new AI “Brain Chips” or Neuromorphic chips"
+    excerpt: "Sam Altman, a leading figure in the tech industry and head of OpenAI, is spearheading an ambitious project to raise funds for the development and worldwide production of advanced AI chips. These chips are designed to operate similarly to the human brain ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-brain-or-neuromorphic-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGbvoXJqC7gY%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
+    excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
+    publishedDateTime: 2024-01-21T20:47:00Z
+    webUrl: "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 54
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "OpenAI founder Sam Altman is building a global network of dedicated chip fabrication plants"
+    excerpt: "Bloomberg reports that these Altman would be working with the world's best chip manufacturers and that the network of fab plants would be global in scope. Altman knows there is a future AI GPU shortage coming, as companies like NVIDIA, AMD, and Intel can't ..."
+    publishedDateTime: 2024-01-21T15:09:00Z
+    webUrl: "https://www.tweaktown.com/news/95711/openai-founder-sam-altman-is-building-global-network-of-dedicated-chip-fabrication-plants/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95711_17_openai-founder-sam-altman-wants-to-see-global-network-of-dedicated-chip-fabrication-plants_full.png"
+        width: 1500
+        height: 857
         isCached: true
 
 secured: "RUt2dKfzBsGwusBrsYJArzA9oQd7m9wNfAKUq6qsB/3f64O7++/VLGORgDqyZyRt1/Fv5Yv6e8fZ6dr9P5MsHbC19Kz22dNdAAnJRjvCNxW4fSHaFDOn9nGTZXLzLeuhCkqIG3CGxBpKZ5q5wb2I/oQLTZBkLTbfyDnFmpPSg/0zSRMxn4ZwuFvjPR6UkLE73OAMIHAFMchoIrL0pPTEtIwesG05hmrdqaXLDLgD/cFx8CEqnxXhHVpYwQYD27vtROJsASdnrcD/qwFYIOpbyX1O1NmLzqPEI84BtVWZD0yKbpkRUpaQWvcUa7CXpDMegYs2Vwcl3FMklxAYTqu9+2Ha8QILXT/OQZyINiCHQS68sU3ls9BvBG3mEw66uQhOo3oFejy88v+OMQv3ILpzxl7kC5yYGEXAxUTHx99+MyJrbTd8AQaE2dnYuMji6YETkAoZ+9YuBhhYWUDOmbgUKQMguZOuCHwnWWpJurzPcNOzUBbrae2GT0SYU2Wmo5ChPm/pYIFHde6fHTyulj9Mug==;k91zWTUIcO6+95zHYm3CxQ=="

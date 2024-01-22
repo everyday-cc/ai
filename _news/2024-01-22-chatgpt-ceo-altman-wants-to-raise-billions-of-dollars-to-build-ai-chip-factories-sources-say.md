@@ -1,15 +1,13 @@
 ---
 category: news
 title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
-excerpt: "US ban on tailor-made Nvidia and Intel chips hits Beijing’s AI ambitions Altman’s fundraising push reflects his concern that as AI becomes more pervasive, there will not be enough chips for widespread deployment, some of the people said. Some current ..."
-publishedDateTime: 2024-01-22T04:30:00Z
-originalUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
+excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
+publishedDateTime: 2024-01-22T12:30:00Z
+originalUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say?module=latest&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say?module=latest&pgtype=homepage"
 type: article
-quality: 110
-heat: 330
+quality: 90
+heat: 290
 published: true
 
 provider:
@@ -156,22 +154,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sam Altman engages in discussions with TSMC for AI chip manufacturing plant: Report"
-    excerpt: "Sam Altman, the CEO of OpenAI is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. As per the recent report in The Financial Times, Altman aims to raise billions of dollars from global ..."
-    publishedDateTime: 2024-01-21T10:00:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 68
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/sam-altman-openai-1705828421.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "OpenAI's Sam Altman looking to raise billions for new AI chip venture. Here's what we know so far"
     excerpt: "The report stated that OpenAI is not decided yet finalized the move but the company has been discussing on various options to resolve the AI chip shortage. OpenAI is focusing on diversifying its suppliers beyond Nvidia and working with other chip ..."
     publishedDateTime: 2024-01-21T03:22:00Z
@@ -248,20 +230,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
-    excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
-    publishedDateTime: 2024-01-21T20:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
     excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
     publishedDateTime: 2024-01-22T10:46:00Z
@@ -276,19 +244,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI founder Sam Altman is building a global network of dedicated chip fabrication plants"
-    excerpt: "Bloomberg reports that these Altman would be working with the world's best chip manufacturers and that the network of fab plants would be global in scope. Altman knows there is a future AI GPU shortage coming, as companies like NVIDIA, AMD, and Intel can't ..."
-    publishedDateTime: 2024-01-21T15:09:00Z
-    webUrl: "https://www.tweaktown.com/news/95711/openai-founder-sam-altman-is-building-global-network-of-dedicated-chip-fabrication-plants/index.html"
+  - title: "OpenAI's Sam Altman in discussions with investors and chip manufacturers for AI chip venture"
+    excerpt: "OpenAI CEO Sam Altman has been engaged in discussions with Middle Eastern investors and Taiwanese semiconductor manufacturers in an effort to raise billions of dollars for an AI chip venture that would include the development of a global network of ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/openais-sam-altman-in-discussions-with-investors-and-chip-manufacturers-for-ai-chip-venture/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 43
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95711_17_openai-founder-sam-altman-wants-to-see-global-network-of-dedicated-chip-fabrication-plants_full.png"
-        width: 1500
-        height: 857
+      - url: "https://media.datacenterdynamics.com/media/images/Sam_Altman_CropEdit_James_Tamim.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
@@ -327,6 +295,6 @@ related:
       domain: siliconangle.com
     quality: 30
 
-secured: "NbFTvLHALnbEA567BywLFUFopROQSHWt3y3N8YEBFb1gbiWQ/2y5RnMbJocQItJeiGMzUIIeZhe2AKjR3rkhSSaD2CjW78EWqfCqECUHOINHx39tirJVtLXE6fmXhwbRF61iVzAIoDdsxiZDaaVnedav6dv2BCaqxK+ugpA91vcfcufPs3RkqTOxHm+qDh0ovZKEaXUnYr3J3jVPISBladdYWChgyJxT3hnJJ+booVTRCap2ZKG8sR5ENBcOt6cb0G53CjkP2a0VyZrFttyPsPnP+fGQHg8bwT8c1SPfHI0LF+dwLM3nGWaNJEp3L+KMyjNDVtvZz3SVJ8HwugaLtHBHCqh19Wg4LRVcuBGn5cLSHB38a/EaGoWmpKHOOymWxSTqcdZ48ccO1RineOCetupcd0Lsf8SMZMRIp7SF/8DAU63GIq5yb72nMQFL/Rr6XbQ/VF9PNsraW1OXnSJEzKA8hgiu2lIAIRnt79SV6juCbFHl8wFgyKDReQrnMxGM6gDzDnimNcIT1gfsH5lpzg==;g24mRyjf3PIr7k6LZyXgPA=="
+secured: "CsFE2jYaMto5iT5NcXItHVAYqd15i2oMV0KryW3T+3nrfXqvU1cV89HI22exSwDmyRjSdrIjMMCE9H+XoGC1blAcmWVPAr2iyyIVS+cVck0LtnnN4NZu8DHekuAWHZgOmsy4VPoG9cN1iR32RTBH3ro10feFJ4WbCPCI5OMZ8HQECP68ow6mN2j1R2EtRw3V8iSwfcwvBv4S/UDYNF9dtjCHQBYPzhtveC9Mnm04ounLksypimWFEN9N9iC8bUuLeeMdjpnYmWJ5oGAjppkJGw/C3ED09hrcXW9Zp90DHOcxDBcq/7JzKOa1kNLBmlcgQrM7gDfZbwCZ5sUIhIhAvWIi3ec4tyuEK3r72TnLKi8=;pUGVzpBqebY7NpytmGWJxQ=="
 ---
 

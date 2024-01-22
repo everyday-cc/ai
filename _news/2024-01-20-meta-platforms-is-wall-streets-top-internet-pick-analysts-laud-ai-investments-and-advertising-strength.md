@@ -36,6 +36,20 @@ related:
         width: 2308
         height: 1298
         isCached: true
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
+    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
+    publishedDateTime: 2024-01-22T12:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "Wall Street Analysts' Top Picks: 2 Artificial Intelligence (AI) Growth Stocks to Buy in 2024 and Hold Long Term"
     excerpt: "Wall Street seems excited about cybersecurity and artificial intelligence (AI) in 2024. Wedbush Securities analyst Dan Ives said he believes cybersecurity will be the best-performing sub-category in the technology sector this year. Similarly, Morgan ..."
     publishedDateTime: 2024-01-19T22:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusio
 webUrl: "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stability AI cofounder sues Stable Diffusion startup again – this time for up to $300 million, legal filings show"
-    excerpt: "Stability AI is facing another legal battle from its cofounder, who is filing for a 10% stake in the company."
-    publishedDateTime: 2024-01-17T11:40:00Z
-    webUrl: "https://www.businessinsider.com/stability-ai-cofounder-sues-startup-behind-stable-diffusion-for-up-to-300-million-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/65a7b4dc6979d7371823d661?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Build a real-time speech-to-image AI using Stable Diffusion"
     excerpt: "When you speak, your words are captured by a microphone and then swiftly and accurately interpreted by an advanced speech recognition system known as Faster Whisper. Once your speech is converted into text, the baton is passed to a sophisticated image ..."
     publishedDateTime: 2024-01-19T00:00:00Z

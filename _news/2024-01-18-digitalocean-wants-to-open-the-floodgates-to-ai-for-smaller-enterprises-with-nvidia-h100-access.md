@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgat
 webUrl: "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta's long-term vision for AGI: 600,000 x NVIDIA H100-equivalent AI GPUs for future of AI"
+    excerpt: "We're bringing our two major AI research efforts (FAIR and GenAI) closer together to support this\". He continued: \"We're currently training our next-gen model Llama 3, and we're building massive compute infrastructure to support our future roadmap ..."
+    publishedDateTime: 2024-01-21T10:28:00Z
+    webUrl: "https://www.tweaktown.com/news/95693/metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95693_02_metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "DigitalOcean debuts Nvidia H100 GPU instances to expand access to advanced computing for AI workloads"
     excerpt: "DigitalOcean debuts Nvidia H100 GPU instances to expand access to advanced computing for AI workloads - SiliconANGLE"
     publishedDateTime: 2024-01-18T13:00:00Z

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Stability AI cofounder sues Stable Diffusion startup again – this time for up to $300 million, legal filings show"
-    excerpt: "Stability AI is facing another legal battle from its cofounder, who is filing for a 10% stake in the company."
-    publishedDateTime: 2024-01-17T11:40:00Z
-    webUrl: "https://www.businessinsider.com/stability-ai-cofounder-sues-startup-behind-stable-diffusion-for-up-to-300-million-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/65a7b4dc6979d7371823d661?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ZfcZ/XiQnoGYEHaNT8w1IqgqJ84POy1SM8e92oH9wkrxC9VVGP39ivaOEuyeEMR+e2R1AdcIqAFr6NvnAgssl6aeeqqUQv3SaLKUXskQZkcWaGgFHNm4WEMEz5rATGb1qbyGlwyPqbxORzH/Dsrwuj6Tsl0nZ+Ij5yNOB44DhcRCddnLWMxqf2VL2IERAwAtZ+IDhyVxCnxUFhjg7hNi2phja0rqSKcrcZSFlmWC0PNs1J0b3HlMhF3d6xVGxiJLwaMAT7YQdnugwUKwn40XLYutvtwLGjy7KrklgME5Rrh8mIA77BvuF6fZ4s0viZHAuf9J/wS8UGMPCMqVxkc7lZOWv6VWauIGJUCKHDtahts=;Wz1O/U8IaZH5v5yu665CFQ=="
 ---

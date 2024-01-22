@@ -2,6 +2,169 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
+      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
+      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
+          "width": 1280,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
+      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
+      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
+      "sourceUrl": null,
+      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T07:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "morethandigital",
+        "domain": "morethandigital.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
+      "title": "California considers artificial intelligence to improve traffic",
+      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "publishedDateTime": "2024-01-11T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News 8",
+        "domain": "cbs8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
+      "title": "Toyota combines voice, gesture recognition in new operating system",
+      "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "originalUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T04:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
       "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
@@ -840,187 +1003,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-the-10-most-in-demand-tech-skills-in-2024-with-skill-tests.md",
-      "title": "The 10 most in-demand tech skills in 2024 (with skill tests)",
-      "excerpt": "Here is a list of the top tech skills to have on your resume this year, as well as a list of skill tests you can use to gauge your current proficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T03:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-mine-spotting-drones-and-tracked-robots-the-armys-efforts-to-breach-minefields-with-tech.md",
-      "title": "Mine-spotting drones and tracked robots: The Army’s efforts to breach minefields with tech",
-      "excerpt": "Instead, they may reach for a remote control to choose from a menu of drones and tracked robots to sweep away the problem.  Among the several units experimenting with new tech is the 18th Airborne at Fort Liberty,",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
-      "originalUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.defenseone.com/media/img/cd/2024/01/09/Screen_Shot_2024_01_09_at_4.19.22_PM/open-graph.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense One",
-        "domain": "defenseone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai.md",
-      "title": "Microsoft and PNNL team up to build better batteries using AI",
-      "excerpt": "Microsoft has announced a partnership with PNNL to use AI and quantum computing to accelerate battery and materials research for energy storage solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
-      "originalUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/AI-and-HPC-computing-speeding-up-scientific-discovery-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T01:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ai-starts-to-show-promise-as-tool-to-sift-mountain-of-sustainability-research.md",
-      "title": "AI starts to show promise as tool to sift mountain of sustainability research",
-      "excerpt": "AI starts to show promise as tool to sift mountain of sustainability research on facebook (opens in a new window) AI starts to show promise as tool to sift mountain of sustainability research on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "originalUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F75aac64f-29af-40b1-a3a9-d0c1ffe8c05c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

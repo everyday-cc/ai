@@ -103,20 +103,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Commercializing and Monetizing Generative AI"
-    excerpt: "Adoption of generative AI will continue to accelerate in the coming years, and competition among developers will likely intensify. Monetizing generative AI within regulatory guardrails will be a challenging but imperative focus of developers in the coming years,"
-    publishedDateTime: 2024-01-17T12:58:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/commercializing-monetizing-generative-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 39
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a7c5cdca3a6faafd49ef26_Commercializing%20Monetizing%20Generative%20AI.jpg"
-        width: 2311
-        height: 1300
-        isCached: true
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
     publishedDateTime: 2024-01-19T05:00:00Z

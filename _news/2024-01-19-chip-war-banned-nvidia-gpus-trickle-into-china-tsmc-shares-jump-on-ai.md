@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2024/01/chip-war-banned-nvidia-gpus-trickle-
 webUrl: "https://insidehpc.com/2024/01/chip-war-banned-nvidia-gpus-trickle-into-china-tsmc-shares-jump-on-ai/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: insideHPC
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's long-term vision for AGI: 600,000 x NVIDIA H100-equivalent AI GPUs for future of AI"
-    excerpt: "We're bringing our two major AI research efforts (FAIR and GenAI) closer together to support this\". He continued: \"We're currently training our next-gen model Llama 3, and we're building massive compute infrastructure to support our future roadmap ..."
-    publishedDateTime: 2024-01-21T10:28:00Z
-    webUrl: "https://www.tweaktown.com/news/95693/metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of/index.html"
+  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
+    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
+    publishedDateTime: 2024-01-22T12:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 75
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95693_02_metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of_full.png"
-        width: 1500
-        height: 857
+      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GPU-powered HPC Workloads in the Cloud with AWS and NVIDIA"
+    excerpt: "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... efficiently in the cloud–helping to overcome bursting constraints. How AWS and NVIDIA are solving HPC challenges Amazon Web Services (AWS) and NVIDIA ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/01/gpu-powered-hpc-workloads-in-the-cloud-with-aws-and-nvidia/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/AWS-Nvidia-logos-2-1-0124.jpg"
+        width: 700
+        height: 350
         isCached: true
   - title: "Meta plans to buy 350K Nvidia GPUs to build artificial general intelligence"
     excerpt: "In order to get there, Meta will need to make a significant investment in its AI computing infrastructure, hence its plans to acquire mountains of powerful H100 GPUs from Nvidia. The H100 chip is Nvidia’s most advanced ever, and is said to be particularly adept at training the large language models that power generative AI such as ChatGPT."

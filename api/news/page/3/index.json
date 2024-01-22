@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
+      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
+      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "publishedDateTime": "2024-01-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
+      "title": "Academic Intelligence: The Evolution of Education Through AI",
+      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
+          "width": 2311,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T12:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diplomatic Courier",
+        "domain": "diplomaticourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-deepminds-cofounder-mustafa-suleyman-warns-that-ai-is-a-fundamentally-labor-replacing-tool.md",
       "title": "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool",
       "excerpt": "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us.",
@@ -217,7 +356,7 @@
       "originalUrl": "https://www.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-news-61266.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -250,6 +389,58 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access.md",
+      "title": "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access",
+      "excerpt": "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
+      "originalUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_digital_ocean_c230cf44-8417-42fd-ae3c-73ec14de19d0-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -313,7 +504,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-myth-of-large-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -878,7 +1069,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 354,
       "tags": null,
       "images": [
         {
@@ -1057,204 +1248,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
-      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
-      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
-      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
-      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T10:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
-      "title": "3 Ways Generative AI Is Making Our World A Better Place",
-      "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "publishedDateTime": "2024-01-17T05:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
-      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
-      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

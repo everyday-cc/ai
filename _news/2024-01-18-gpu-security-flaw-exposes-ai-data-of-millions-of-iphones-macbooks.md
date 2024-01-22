@@ -9,7 +9,7 @@ ampWebUrl: "https://m.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/gpu_security_flaw_exposes_ai_data_of_millions_of_iphones_macbooks-amp-61266.php"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple GPU security flaw confirmed in iPhone 12 and M2 MacBook Air"
-    excerpt: "A report of an Apple GPU security flaw has been confirmed by the company, acknowledging that the iPhone 12 and M2 MacBook Air are affected. An exploit has been demonstrated by security researchers, which would allow an attacker to view data processed by the chip, including the results of things like ChatGPT queries …"
-    publishedDateTime: 2024-01-17T12:11:00Z
-    webUrl: "https://9to5mac.com/2024/01/17/apple-gpu-security-flaw/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 71
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/Apple-GPU-security-flaw.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "LeftoverLocals GPU Flaw Exposes AI Data in Devices Equipped with Apple, AMD, and Qualcomm Hardware"
     excerpt: "LeftoverLocals does not impact GPUs from Arm, Nvidia, and Intel, according to the security researchers who uncovered the flaw,."
     publishedDateTime: 2024-01-18T10:13:00Z

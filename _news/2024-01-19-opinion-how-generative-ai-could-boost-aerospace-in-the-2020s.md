@@ -7,7 +7,7 @@ originalUrl: "https://aviationweek.com/aerospace/emerging-technologies/opinion-h
 webUrl: "https://aviationweek.com/aerospace/emerging-technologies/opinion-how-generative-ai-could-boost-aerospace-2020s"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 577
     isCached: true
+
+related:
+  - title: "Opinion: The big AI party is not cancelled, just postponed"
+    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
+    publishedDateTime: 2024-01-22T11:03:00Z
+    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
+        width: 3501
+        height: 2469
+        isCached: true
 
 secured: "3Je4NX95h7aWGRd3Fa5NJ+oMUYKjG+BAL0Dd3eSc2hQjuL6RZoCuJLS9SGm/K4YXb3A90/6R5roBU5UvNmroSjrdkgaOx21h8k6OU4kzP10HvmfctSQes2yTpckJALqPO5W0MlTHxTYZ5+MOtOh5gb2vf2IqKlx0pJ8Qobh05goqq2gDbf8SOPF+o9D1tf5otpuR8GBDPpb2ydA7y+4MJnKxSvavzwiEu+/TEDzKP9JhyHyn1qQMPenBOQ7aLBa+zr26SYmytVt0rMm0oOLxyqpIhYRRBg8l8nMoa/7jT1zSHcT/C8gmlbonTL43amW/Aq49U7vp8//cl6DYmt+K1Ojr7gXiRVhltJd+/ySmhik=;Ta4o+UHzYhQ3oyX2rkyidA=="
 ---

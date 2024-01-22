@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
+      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
+      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-elon-musk-issues-ultimatum-to-tesla-give-me-more-shares-or-ai-and-robotics-development-stops.md",
+      "title": "Elon Musk issues ultimatum to Tesla: give me more shares or AI and robotics development stops",
+      "excerpt": "Writing on his own X/Twitter platform, Musk warned that unless his ownership in Tesla increased to 25%, he would be \"uncomfortable growing Tesla to be a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "originalUrl": "https://www.techspot.com/news/101541-elon-musk-issues-ultimatum-tesla-increase-share-or.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-07-image-3.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T10:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
+      "title": "3 Ways Generative AI Is Making Our World A Better Place",
+      "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
+      "publishedDateTime": "2024-01-17T05:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
+      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
+      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-16-vcs-funding-disruptive-tech-in-entertainment-from-ai-to-blockchain-based-games.md",
       "title": "16 VCs funding disruptive tech in entertainment, from AI to blockchain-based games",
       "excerpt": "Accel most recently led Assembly's $50 million Series C in December. Two-year-old Aperture is interested in the intersection of fintech and AI with entertainment, along with other industries. It recently co-led a $1 million seed round in Conduiit ...",
@@ -965,196 +1163,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-accelerating-sustainable-modernization-with-green-it-analyzer-on-aws.md",
-      "title": "Accelerating sustainable modernization with Green IT Analyzer on AWS",
-      "excerpt": "Businesses are increasingly embracing high-performance computing, artificial intelligence and machine learning.\nThe post Accelerating sustainable modernization with Green IT Analyzer on AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "originalUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-top-financial-services-trends-of-2024.md",
-      "title": "Top financial services trends of 2024",
-      "excerpt": "Check out these seven financial services trends and how your company can use them for competitive advantage in 2024. \nThe post Top financial services trends of 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/financial-services-trends/",
-      "originalUrl": "https://www.ibm.com/blog/financial-services-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-says-he-wants-more-control-over-tesla-far-from-ideal-says-analyst.md",
-      "title": "Elon Musk says he wants more control over Tesla. ‘Far from ideal,’ says analyst.",
-      "excerpt": "Elon Musk said he doesn’t want to grow Tesla’s TSLA, +0.47% artificial intelligence and robotics capability without having control of a quarter of the company. Musk already owns 13% of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "originalUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66475805/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "publishedDateTime": "2024-01-16T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions.md",
-      "title": "How One Struggling Chip Company Benefited From Middle Eastern Investors’ AI Ambitions",
-      "excerpt": "Led by Shahal Khan, who spearheaded the 2018 acquisition of Manhattan’s Plaza Hotel, the group was investing billions in AI ventures with an eye towards transforming the Gulf states into a preeminent tech hub. Blaize’s chips — which could provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
-      "originalUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659db0dc0cd385ee446d8dfb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

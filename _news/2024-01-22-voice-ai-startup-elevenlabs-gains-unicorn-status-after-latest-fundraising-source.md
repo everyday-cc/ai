@@ -26,19 +26,19 @@ images:
 related:
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring. ElevenLabs ..."
-    publishedDateTime: 2024-01-22T08:24:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html/amp"
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising"
+    ampWebUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: The Express Tribune
+      domain: tribune.com.pk
     quality: 56
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Unicorns-cold-funding-2.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.tribune.com.pk/media/images/IMG_70661705925056-0/IMG_70661705925056-0.png"
+        width: 492
+        height: 474
         isCached: true
   - title: "AI Voice-Cloning Startup ElevenLabs Valued at $1.1 Billion"
     excerpt: "Chief Executive Officer Mati Staniszewski said the latest financing gives his startup a $1.1 billion valuation. Tech investors have poured money into startups developing AI tools that generate convincing audio and video, eying the business opportunities in ..."

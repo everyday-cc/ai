@@ -239,6 +239,20 @@ related:
         width: 7018
         height: 3939
         isCached: true
+  - title: "Google DeepMind scientists mull AI move"
+    excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
+    publishedDateTime: 2024-01-22T10:55:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/google-deepmind-scientists-mull-ai-move/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Could AI kill us all? Inside Google DeepMind, the world’s biggest AI company"
     excerpt: "A week later, at the beginning of December, Google DeepMind announced a new era for Gemini — their “largest and most capable AI model” and the “next step in our journey to make AI more hel ..."
     publishedDateTime: 2024-01-18T19:08:00Z

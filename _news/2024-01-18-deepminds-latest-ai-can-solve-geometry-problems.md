@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geom
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
 type: article
 quality: 104
-heat: 344
+heat: 354
 published: true
 
 provider:
@@ -228,6 +228,20 @@ related:
       - url: "https://gizmodo.com.au/wp-content/uploads/2024/01/7f9f5c4175d40dbf8befd5716ec87baf.jpg?quality=75"
         width: 7018
         height: 3939
+        isCached: true
+  - title: "Google DeepMind scientists mull AI move"
+    excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
+    publishedDateTime: 2024-01-22T10:55:00Z
+    webUrl: "https://www.mobileworldlive.com/ai-cloud/google-deepmind-scientists-mull-ai-move/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "Google’s DeepMind builds hybrid AI system to solve complex geometry problems"
     excerpt: "Researchers at DeepMind, the artificial intelligence research division of Alphabet Inc., have created software that’s able to solve difficult geometry proofs that are often used to test the brightest high school students in the International Mathematical ..."

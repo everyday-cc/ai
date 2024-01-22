@@ -42,6 +42,22 @@ related:
         width: 7008
         height: 4672
         isCached: true
+  - title: "OpenAI plans to set up chip factories worth $100 billion: Report"
+    excerpt: "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips."
+    publishedDateTime: 2024-01-22T12:40:00Z
+    webUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html"
+    ampWebUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 74
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Musk's AI startup secures $500 million"
     excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
     publishedDateTime: 2024-01-21T01:23:00Z

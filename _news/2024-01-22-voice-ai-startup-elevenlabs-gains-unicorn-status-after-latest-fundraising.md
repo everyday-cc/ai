@@ -2,27 +2,27 @@
 category: news
 title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising"
 excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring. ElevenLabs ..."
-publishedDateTime: 2024-01-22T08:24:00Z
-originalUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html"
-webUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html"
-ampWebUrl: "https://www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising-12101721.html/amp"
+publishedDateTime: 2024-01-22T00:00:00Z
+originalUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising"
+webUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising"
+ampWebUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
 type: article
 quality: 56
 heat: 76
 published: true
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/02/Unicorns-cold-funding-2.jpg"
-    width: 1280
-    height: 720
+  - url: "https://i.tribune.com.pk/media/images/IMG_70661705925056-0/IMG_70661705925056-0.png"
+    width: 492
+    height: 474
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
         height: 534
         isCached: true
 
-secured: "P7IeIUEa7kr0piayRVdabpR1k1yqB9HYP1bmGEz0uXI3kqIKp59kGVSNcpvGcHe4Tbajkl6PphH4q1wWEWpzcTtwXuPuMyDCF1oKUtdiKar2l9RrnZ03yUPFp/mVtYY2Efd2kp8go0IXdeu/O+Y9mTweV0XgviHI03KpjHTFvsIMQnZ83V7Y0ITvAgO8K1Q22mhtfNX90hA6nysN2dHmiX4YgFU5gG5d9AIcP1BkQGJ5zjSge1IMileOdqxX+BpIPn60r6225y7bz1XC+LXWGMm+psoKOurD+AcLJVRnGXbqU3Aw4xUv+nSroFQz9O04NX8IVWehagvVjrSxkWtY73WwkLq+XtUKVlJEJZYNquSlzV3hpPaDxfk9l5TxNFft9T6lmAerYFVsBOz9zvtjYe4gGkbhs+ynCXBBMbkhK84OkPEjHVGyFh2RQMhpoOvzZkcxH9IbIXNM/vu5cuo+zucN4AkX4wMbx+QxcYZn0+fD24LySRWpx7hOL1jyEgpojeWMZiObpF1oytbml2dxLQ==;OfGDrPwINMHmQ7IgamoJ2A=="
+secured: "UjQh1ev6C7cjlOKusMFUnDWqVOyau8JRUfI3R6JeoT6NYsqEH5tNZUUGVb61F34kJR9H0Tgkoo0E+pFY5x0tNIzozQ/1l/3erCRVlWh7WzBXNIqLlg1nSXY9ZTkPsWN0s4JXYzCacQ5CQVjYOacPyXKXusBZu7k4yA1kSN2hUs/H5mOzCl8gX2sH/YYyS3MosECnnccrJsuhgYvB2rm5r/nd145q9ujJzVE1xG7t4teQOM0j6qJXnglO9Y3scY/FfyojGTDCcB14EGDPCU1qhwnhtLRqydWd2YbctNK0pELYOf1Uy4LcNpYnMfZPFIq/adQrEYUJKkomtcTyUkvw6eo8fU6EIIPfs6xXJYszgVw=;y+VPb9MswP6RkF4CCnqKiQ=="
 ---
 
