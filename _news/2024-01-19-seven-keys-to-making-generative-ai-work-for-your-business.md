@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Starting a Business in an AI World"
+    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
+    publishedDateTime: 2024-01-22T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Bringing Agility into AI to Drive Business Success"
     excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
     publishedDateTime: 2024-01-19T10:54:00Z

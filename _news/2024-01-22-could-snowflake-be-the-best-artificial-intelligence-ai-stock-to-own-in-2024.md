@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "The beauty game changers for 2024? An AI foundation and vegan red lipstick"
-    excerpt: "Truly pioneering products are rare – but these two items are the real deal"
-    publishedDateTime: 2024-01-19T07:00:00Z
-    webUrl: "https://www.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
-    ampWebUrl: "https://amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2024/jan/19/beauty-game-changers-for-2024-an-ai-foundation-and-vegan-red-lipstick"
+  - title: "It’s 2021 for AI while the rest of the startup market is stuck in 2024"
+    excerpt: "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ..."
+    publishedDateTime: 2024-01-22T15:15:00Z
+    webUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/"
+    ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/73daf6a6fb1daa98b9fb692d7de6910c43431b8a/0_230_8245_5278/master/8245.jpg?width=620&quality=85&auto=format&fit=max&s=a3369fc7fc678711e6e9c58408f55515"
-        width: 620
-        height: 397
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
+        width: 680
+        height: 383
         isCached: true
 
 secured: "FHj5Qk+NU/0weT4GmNPn/4tsdXZJ9zg64rlMAwiDLbgLcBFMejtx6HTdKWGXYAh9+j9EGZ6JsQHo0PcT8ViNYzXtm+2Hfhsf/mlYDFvMFTZ6GfH7Hzouj/GQivQv3exkkuPzPDagZE1m7v6EfWLb1D3RJ6NTJ66t0lMK8Yadk9JvicHc4TWAk0ebjnxgyLkkeVuaOnF3K4eRtIJJOUW/irvpmqRn46U6kvtjrUCY86f9Rt2y7i313yHFKgDmWo9lmeJfTwORH13FLh0UvvX1B+MVv120hkT8l8tuaMXHU3SgpR/LMt1c+nfjg+wVCpMeLPI2YHyJhWql5KIbteioT8wQQGnO+skBz66VaQsKA4qmuOizMYY+Ynx0VGzWMGYoQU++NAlLwVouTo5iPxjsNEOOEs7UsClmylYQhgGk+pwr9r8upPYhaAm8bJK5BV68jdFRFg8fVDr13mGci/nTvUr104qsA9g0KU35APP9TChwKmWi4Nsvr0RUSHaYvj+LsYN+ulF8Ocd2W3z58/A28w==;bMUcr+2cL40uaKZmQpXRZg=="

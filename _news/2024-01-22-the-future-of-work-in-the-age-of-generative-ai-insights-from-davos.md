@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Half of Game Developers Work at Studios Already Using Generative AI: Survey"
+    excerpt: "But even developers who use generative AI worry about the technology’s ethical implications. Of those surveyed, 42% of developers said they were very concerned about the ethics of using generative AI within their industry, while another 42% said they ..."
+    publishedDateTime: 2024-01-22T13:00:00Z
+    webUrl: "https://www.extremetech.com/gaming/half-of-game-developers-work-at-studios-already-using-generative-ai-survey"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 17
 
 secured: "bsZRFgMOKIJFxG8TJ0hVzUe1I9Zcl/LIszoOFCDjNYdbNsmVYjXu4XYRdVHkzjZvJ/LAaHUOnLJU/cGSNAGA5Lq5EOdMt8p25gj7ciA1eMHhJU0YMGW3llFjtIJoGMYxUkfq9+8im0r7va58lIFAo7gZ0CV8v5nQI0uVLS9emgQJm+u1y4dZlLVH2/jmEZnlZQTWwCaw1z1DXKzPUMiuxtIF0iq3cF0Uew3zURH+DEp/dMLxrwTH8O8ZUhf6GCg3c7L8t4kqVIS16AEB0szgW/3MUSsbyW7mk238M17mM+QAXRCeTn9DMf60IBxkfu8jXogBO5AI1Y8zWlIo92ooNJ/C3JW0W/3r397fiX+IDakhCwcbtuIjc5hwyO6TtrM17khQ9mB9IwgOCjF/Ezx3J3AxYp5tnAz9v2q4PI5mxyDDQjtu9L+NckWbe+Obb1PaKqrlY8XK53sRt15kDDecmoecVJJcl9zwCsx8ppIWkegUpq1dxPirIgfwEju2t8EhnlNHDAEvzv+A4XZ6eXiFEg==;lqXazQ0huM0tM010yfvyVA=="
 ---

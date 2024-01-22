@@ -55,6 +55,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
+  - title: "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy in 2024 and Hold Forever"
+    excerpt: "The coming of generative AI takes that to the next level. Generative AI can create original text and music, summarize data, draft email responses, create presentations from existing data, and even write and debug computer code. Novel uses for the technology are being developed every day."
+    publishedDateTime: 2024-01-22T15:12:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23501085/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 26
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/7def8b1f746aaef24c3b314ef4f1aa86/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761787%252fa-person-with-hand-outstretched-under-a-hologram-with-various-ai-icons.jpg%26amp%3Bw%3D700"
+        width: 2440
+        height: 1229
+        isCached: true
 
 secured: "t9AHyuXxO0ZteeoyoJu3Orn1518MlhtxNfShA8c/K57WKnC0ZKqeUV2osyp94u79PY07VaAdVhHbOtpA6TqvfqNKvOIFyQzHj4pKGxxNFFKZR6JU4ln4kPKbLdi2Em3V6mqZUBdVEajI+bToSId73rVnEOd3uYK9R1encrwHrdJ2jYcD0kwY+ahIvL6jTro80zSHUyf8oN+lGZqvhyxdyxewCNmxqIzxOMwFn2kW4/R2yKp5GIWhbl9n6aZBAsDt4yLJmAwDuCfWER907GFSV2E/jq1ILso8yMG68+kxVzWm+pUOhzbIWpe0bhG1/BU8XtEmmOD7hjAXt0iZvYBqjqw3GaNlWvhqWgWExWqP5lM=;AbqJ0cwwwnj0Le5ajUXA7g=="
 ---

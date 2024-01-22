@@ -39,22 +39,6 @@ related:
         width: 1090
         height: 772
         isCached: true
-  - title: "AMD, Apple, Qualcomm GPUs leak AI data in LeftoverLocals attacks"
-    excerpt: "A new vulnerability dubbed 'LeftoverLocals' affecting graphics processing units from AMD, Apple, Qualcomm, and Imagination Technologies allows retrieving data from the local memory space."
-    publishedDateTime: 2024-01-17T14:32:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2024/01/17/GPU_leak.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "uHAjFNUTfCJ824LMn861fWysmHWR6TMLqW1EcRwxIi16Qf2fwc0fIigCjykN4QrvPrBqjmSTSszFtIEwq7MefJYM180YOZ95Fj/SVcQyHnhis+aYtBE+qMZo+RuzhiU7FvWAwa0VuRsgoTb20vpKLevTJaQncIaMfrx8m6BtzqYZZwoao28xEOjXfD3F8QonadCfvjnzX/8bcOtMYn0Btn4+NoXgmkvt/gvWzEMO4QfcFKK1V5h1gsZH3ujpSGSbWM/SPxA4IYyHUfCHuY1qrSOpdyMmIes26sTFSTEBnD/VUuqq3YE9ppwHywdgMlU6nBTi5H0ygLui/K0VD0MaIGgpui5Pyt0zEnW38uwZfYfBcYQ2Y8OegM4Y3rZ+l3AH2wAb/qaeozvhy4K9aVJz24BkCvLtShhBx2nPVSY1T+0vEN5Insy7TBTsJaabBeOONVzGVkWc4/LrCoJobAXaPInFP8KWpztZ4FodN0AVhznX+f0DY7bJ0cmMOKNzUjCWOSKsyE+vbup5dsl1D8zazQ==;sckpZqq20sPTyJGeDXddKg=="
 ---

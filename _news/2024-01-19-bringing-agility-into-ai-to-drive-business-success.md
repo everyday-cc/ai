@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Starting a Business in an AI World"
+    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
+    publishedDateTime: 2024-01-22T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
     publishedDateTime: 2024-01-19T05:00:00Z

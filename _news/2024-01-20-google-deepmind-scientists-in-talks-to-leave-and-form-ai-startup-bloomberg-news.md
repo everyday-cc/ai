@@ -23,22 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "DeepMind’s latest AI can solve geometry problems"
-    excerpt: "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ..."
-    publishedDateTime: 2024-01-17T16:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/"
-    ampWebUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google DeepMind’s AI system solves geometry problems like a math Olympian"
     excerpt: "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist."
     publishedDateTime: 2024-01-18T04:21:00Z
@@ -177,15 +161,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
-    excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."
-    publishedDateTime: 2024-01-17T16:42:00Z
-    webUrl: "https://www.ft.com/content/c4153a8e-8eeb-4000-b16e-fa09c828bd72"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 63
   - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
     excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
     publishedDateTime: 2024-01-18T11:00:00Z
@@ -213,20 +188,6 @@ related:
       - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "DeepMind Co-Founder: AI Is Fundamentally a “Labor Replacing Tool”"
-    excerpt: "Welcome to AI This Week, Gizmodo’s weekly deep dive on what’s been happening in artificial intelligence. For months, I’ve been harping on a particular point, which is that artificial intelligence tools—as they’re currently being deployed—are ..."
-    publishedDateTime: 2024-01-21T23:30:00Z
-    webUrl: "https://gizmodo.com.au/2024/01/deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2024/01/7f9f5c4175d40dbf8befd5716ec87baf.jpg?quality=75"
-        width: 7018
-        height: 3939
         isCached: true
   - title: "Google DeepMind scientists mull AI move"
     excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."

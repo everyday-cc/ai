@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Dynatrace and the Microsoft commercial marketplace: AI-powered cloud transformation"
-    excerpt: "To support customers in getting the most from their cloud portfolio, Microsoft works with partners such as Dynatrace, an analytics and automation platform powered by causal AI, and recognized as a Leader in the 2023 Gartner® Magic Quadrant™.\nThe post Dynatrace and the Microsoft commercial marketplace:"
-    publishedDateTime: 2024-01-17T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/dynatrace-and-the-microsoft-commercial-marketplace-ai-powered-cloud-transformation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 98
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN10_Blog_240111_FINAL.png"
-        width: 1260
-        height: 708
-        isCached: true
   - title: "Microsoft's Copilot Revolutionizes AI Investing"
     excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
     publishedDateTime: 2024-01-18T22:32:00Z

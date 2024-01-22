@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-sto
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Is AI Right for Your Company? Four Things General Counsel Should Consider"
-    excerpt: "This article addresses four factors in-house counsel should consider when assessing AI procurement. The use of these factors should result in a more precise evaluation of the costs and efficiencies of the proposed AI in question,"
-    publishedDateTime: 2024-01-17T13:09:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2024/01/17/is-ai-right-for-your-company-four-things-general-counsel-should-consider/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2024/01/Pusey-Mooney-767x633.jpg"
-        width: 767
-        height: 633
         isCached: true
 
 secured: "Z3+aOz/fzTLXwMhLrA0Mp0YQuf1AHGBiIyWV27wETt5IBDHISaNzbgn/L1p+G1PDBuf4Pm0jtG9+EyHcEaIhXXFf6pw9BIHWItWQ3e3a7egGQqHRSiSDu7vf1b4X0U5+VpMmFBy16HmaZHaGQFN26TyLJewLKo/jhLGjeKto0rtiapw8DfCYR0WL7ZMYioV5/CGnPZQTVLk/qcFlZKEAf6dposQctljTTpRdncU+Of/+GNrWfBUI4iHzp4ZfMhytsooFFTz3nXsiieTgAnAi653ICKCn7D9V6qcmZl5mSlFFsusoa844JZAIA5/utrIep3v6eq3J8rug719u6ig6XoxoQASStpJ/sulZXSyiUz+PIlAaXD/Ly5hzZhz9EVpv+qLWxhr+arj1M5D9iWjJb9oim+mDp+Fj0VeDVUKRUOxafhUX6ekeSuQRUg1wDAswWtfggUhGOkeuIAyX6C0VjQBbCXtHG7YecqFQ1figfd1JxREw8ZaHLWHELRQ5M07dyZRmthw50MiIOyu0zW/y7g==;1fzDDyQzGqjsG8qbji/5aQ=="

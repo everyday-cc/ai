@@ -105,15 +105,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AI Unleashed: Transforming Banking and Fintech Through Intelligent Automation"
-    excerpt: "Transforming Banking and Fintech Through Intelligent Automation By Vathsala Periyasamy, Senior Technical Architect 17 January 2024 Introduction: Navigating the AI Revolution in Banking and Fintech The integration of Artificial Intelligence (AI) in the banking and fintech sectors is not just a fleeting trend but a transformative force reshaping the industry."
-    publishedDateTime: 2024-01-17T16:31:00Z
-    webUrl: "https://www.globalbankingandfinance.com/ai-unleashed-transforming-banking-and-fintech-through-intelligent-automation/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
   - title: "AI, Gaming, FinTech Named Major Cybersecurity Threats For Kids"
     excerpt: "The heightened utilization of AI tools and potential vulnerabilities in gaming have been identified as crucial cybersecurity concerns for children in 2024, according to a new report by Kaspersky."
     publishedDateTime: 2024-01-17T17:14:00Z

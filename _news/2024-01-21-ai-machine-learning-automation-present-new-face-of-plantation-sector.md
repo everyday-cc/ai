@@ -35,6 +35,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "AI, machine learning-based systems, drones show new-age face of Kerala's plantation sector"
+    excerpt: "Artificial Intelligence (AI) and machine learning-based irrigation systems, drones for targeted spraying of pesticides and automation were the technological advances showcased at the Kerala Plantation Expo here on Sunday. The expo was inaugurated by State Industries Minister P Rajeev."
+    publishedDateTime: 2024-01-21T15:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 64
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280"
+        width: 1280
+        height: 1024
+        isCached: true
 
 secured: "WypbmLlVa5Gb5xAcBDrIc8Od4cR0u+FQ2Ixpw5EbW6S4K3hV32WFQ52AeGP5r0HYhOWSA/dJW3u4JeqG4Um7GaLEFqIOIy+bZ9d8yxKceck6Pst/cJk/J6daJp3huzZS9t4JMjn2p+3JuiOeUsm6+JmKYWdSyLS7nc5/1JxkVcxqdEvguWIhikfgrdoyPp5evrfps/Qd7jBRV8/ykRJkue+wKDdcej41x/oChH2CFJDQRdi3OrvEWr25xhRBkzERN9Jy/2FFzctlGXMbWWCHN6rPRfswex0VP3sEnOocbR0Vg/RwVpDvPrycpVjxRU+kMMjC95ZHLH23jMkoZykIOCv/7qf3tLK7/sklr3rO/0A=;N14rPfRM2GECoGeEhZOIgw=="
 ---

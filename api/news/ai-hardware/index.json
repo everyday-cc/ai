@@ -45,59 +45,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
-      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
-      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say?module=latest&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say?module=latest&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 290,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/22/38d8c516-680b-40f4-9046-a65efee4ba04_77370fb1.jpg?itok=wtcH5UNL&v=1705895653",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
       "title": "Azure AI Studio: A nearly complete toolbox for AI development",
       "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
@@ -151,21 +98,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-22-sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report.md",
-      "title": "Sam Altman in talks with TSMC to launch AI chip plant: Report",
-      "excerpt": "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant.",
+      "path": "_news/2024-01-20-openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips.md",
+      "title": "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips.",
+      "excerpt": "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,",
       "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034",
+      "webUrl": "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips",
+      "originalUrl": "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 334,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107042034,imgsize-10204,width-1200,height=765,overlay-ettelecom/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report.jpg",
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
           "width": 1200,
-          "height": 765,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -173,14 +120,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034",
-      "publishedDateTime": "2024-01-22T04:32:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T14:58:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -306,7 +262,7 @@
       "originalUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -454,7 +410,7 @@
       "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1493,6 +1449,50 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting.md",
+      "title": "AWS Chief Talks AI, Amazon’s Investment In Anthropic And Cloud Cost Cutting",
+      "excerpt": "Adam Selipsky is shepherding Amazon’s cloud unit at one of the most important moments in tech history. Selipsky, the CEO of the company’s cloud computing unit AWS, has been behind the various generative AI offerings Amazon has rolled out over the past few months as it aims to compete with Microsoft and others in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/",
+      "originalUrl": "https://www.post-journal.com/news/business/2023/12/aws-chief-talks-ai-amazons-investment-in-anthropic-and-cloud-cost-cutting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ogden_images.s3.amazonaws.com/www.post-journal.com/images/2023/12/22210814/Faster-Deliveries-441x300.jpg",
+          "width": 441,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-23T07:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Post-Journal",
+        "domain": "post-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "AI Hardware"
       ]

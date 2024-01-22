@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/ai-machine-learning-system
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/amp_articleshow/107033614.cms"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, machine learning-based systems, drones show new-age face of Kerala's plantation sector"
+    excerpt: "Artificial Intelligence (AI) and machine learning-based irrigation systems, drones for targeted spraying of pesticides and automation were the technological advances showcased at the Kerala Plantation Expo here on Sunday. The expo was inaugurated by State Industries Minister P Rajeev."
+    publishedDateTime: 2024-01-21T15:35:00Z
+    webUrl: "https://www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector"
+    ampWebUrl: "https://www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/headlines/2783501-ai-machine-learning-based-systems-drones-show-new-age-face-of-keralas-plantation-sector?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 64
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280"
+        width: 1280
+        height: 1024
+        isCached: true
   - title: "AI, machine learning, automation present new face of plantation sector"
     excerpt: "Discover the latest technological advancements in the plantation sector, from pesticide spraying drones to AI-based irrigation systems."
     publishedDateTime: 2024-01-21T13:44:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-21T09:13:00Z
 originalUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
 webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"

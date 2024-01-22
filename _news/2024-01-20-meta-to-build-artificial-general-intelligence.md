@@ -7,7 +7,7 @@ originalUrl: "https://www.conwaydailysun.com/around_the_web/meta-to-build-artifi
 webUrl: "https://www.conwaydailysun.com/around_the_web/meta-to-build-artificial-general-intelligence/video_0c60ca2e-6218-5698-8ddb-ac55f48d2775.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Meta to Build Artificial General Intelligence"
+    excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/7e/57e7a46e-0ab5-58da-83ae-33b45824ee4d/65ae9863ba7fd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HzbjS87RbCRmud8pK4gdqqNmXsCVeBNtZHAs6nuWgO8y4nGsnQu1KPc2a/shvFi/l5/+pCh6b0gOUpJ31jCjKieI02D3d9J2aV/pXX6UDDg+3dddvd9cAidOVRtLAP43DUGmxJjKr6r5JW/HFwDsh17hJFsUdgTIT3K724Mld0Qd2/CosIsNX0JvHVvHWnfoUQ4aXbfZmJnpEUri40W5/vOT60okgY1nnx95WNZer4dkD9D9k4e+P16tOUUktc7EjflVgvcvwZIyIHwihpedlfkLj5CW8t3xWDMjeU+Pu76+B5bviToObdIErTZpzW77vZ+CAefWn4umeeIYGGj5akjMR6pxeovnU5NXh5X9PBA=;nPTou9pqGJMaeFnYZHALtg=="
 ---

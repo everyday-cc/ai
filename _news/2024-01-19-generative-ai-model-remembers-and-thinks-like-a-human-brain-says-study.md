@@ -41,6 +41,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "How AI Can Help Humans Become More Human"
+    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
+    publishedDateTime: 2024-01-22T16:22:00Z
+    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Can Artificial Intelligence Think Like a Human?"
     excerpt: "In a new perspective recently published in the journal PNAS Nexus, Athanassios S. Fokas explores a timely question: the potential of artificial intelligence (AI) to achieve and possibly exceed human cognitive capabilities."
     publishedDateTime: 2024-01-21T10:02:00Z

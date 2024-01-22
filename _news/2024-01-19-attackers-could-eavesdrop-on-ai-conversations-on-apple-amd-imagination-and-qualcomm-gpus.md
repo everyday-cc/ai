@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-
 webUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD, Apple, Qualcomm GPUs leak AI data in LeftoverLocals attacks"
-    excerpt: "A new vulnerability dubbed 'LeftoverLocals' affecting graphics processing units from AMD, Apple, Qualcomm, and Imagination Technologies allows retrieving data from the local memory space."
-    publishedDateTime: 2024-01-17T14:32:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 74
-    images:
-      - url: "https://www.bleepstatic.com/content/hl-images/2024/01/17/GPU_leak.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AMD, Apple, Qualcomm, Imagination GPUs could leak AI secrets via ‘LeftoverLocals’"
     excerpt: "A simple 10-line program could allow an attacker to “listen” to private machine learning processes, according to researchers from Trail of Bits."
     publishedDateTime: 2024-01-18T15:49:00Z

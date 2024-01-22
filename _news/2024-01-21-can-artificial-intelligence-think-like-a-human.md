@@ -42,6 +42,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "How AI Can Help Humans Become More Human"
+    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
+    publishedDateTime: 2024-01-22T16:22:00Z
+    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Generative AI model remembers and thinks like a human brain, says study"
     excerpt: "In a breakthrough research, UCL scientists reveal how generative AI models mirror brain functions in memory and imagination."
     publishedDateTime: 2024-01-19T10:30:00Z

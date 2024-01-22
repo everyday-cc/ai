@@ -34,6 +34,15 @@ related:
       name: The Center Square
       domain: thecentersquare.com
     quality: 14
+  - title: "Youngkin signs executive order establishing artificial intelligence standards"
+    excerpt: "Gov. Glenn Youngkin signed an executive order to implement artificial intelligence standards and guidelines he says will protect Virginians. Executive Order 30 will implement AI educational guidelines for the classroom and policy and information technology standards."
+    publishedDateTime: 2024-01-22T12:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/2809549/youngkin-signs-executive-order-establishing-artificial-intelligence-standards/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 14
 
 secured: "Qmlc81zTWkfuM9YiQG1+XaQtZfPNPxxyJzeEandWTBDmpEvwhz/KSTX9bfO/BfofLLtSIHx7Cc3kFPQvCP+JACePyxdIkVdZM6GIxyzUQlpa/HY9BroX7x0R1aVS1EcIVJYTP+Qg55b3M/x2Zv14nq3oEa2mqMhhoK4qHZ3Ja/1whZNPNWwkKSfGXl0/vCBiic0TbtUEw2eCjJryzpqxzx5cwa1MoA5hxd+wd7JqeZuuLMIYH90OGJo5HaQFvfertKGCObmDeOOAWobLCZBAXTFEUp3NqFVew8F5SGP2l+q8udBgS8TcFY4sAkhHszi1fNq9cZVLUPhDi4LX7vArzoqiGT0ufC68/wdqP0ro3Rlaev41lx7TbUx6f6Yq4PhtZboIcyh3yfTKryCZfmbzvVoIY4uncNVWrgvzDDcfc3zv5RRhWdo+4VZr0QgttCjdSasrQrGqHuTMEM0MDqQO90Wgor4F5nHBi77e/2n7GF8lH3glzgex0BM9NN1gEc9aKysUqCNVgveen1c6YRshCw==;OesTzjTyB5zcFS9G9ZvG6w=="
 ---

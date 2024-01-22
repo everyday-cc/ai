@@ -39,20 +39,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Proactive approach from White House, NIST needed for facial recognition technology, report says"
-    excerpt: "A National Academies of Sciences, Engineering, and Medicine report sponsored by the FBI and DHS recommends executive action regarding facial recognition technology and making NIST the “logical home” for regulatory activities and standards."
-    publishedDateTime: 2024-01-17T16:09:00Z
-    webUrl: "https://fedscoop.com/facial-recognition-technology-report-dhs-fbi-nist-white-house/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 27
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/10/GettyImages-1754158756.jpg?w=506"
-        width: 506
-        height: 337
-        isCached: true
 
 secured: "a2IMtxdZBRHyDk9lOOYk/hhFCNHzo4x7iZLbpXIasQXUINMGd87Gsc0sT+xZ3U3VTkWbUKf3h/UOnTbPc0EIXovym1oLa7QgJ1wApPl6WzfZ+T1BX14apWngKW4yyZtXVRLXT7Uwj5Kxs1XT3aNW8jYrPWKa8QmkPz8Hwpn41K9PmHRLTPYtb6aogHgj39UHEhrDdFwTNw5f7ePyJL1QPA/BNVvLhqGsDXhHalEJ6QuZdFVdYmpXdOsmkOm3j/vnS7vUqWNoyP7ayybx0XWR2nYPxqJokEomnVVp+1FXxmmsf2FkzuJaaOLyAGzIQsGW0SBMmcZL4yr0yoxZUIOGPz/RcbrrGRCZ3RdC0qTXL8HAXshfU9Gal7uYeH8vCaoH8UicH8VLt1Qg8rAct4gd5VaGxXAHJCv7F97z2Dw9BOXsAquh4PyC/OLAa1DbKOyTE57HVP+WbMMBeGAvq/wTFZBQcp0n24+pZrXDJ5vz32hBknUT9QFRRlvOjDAPATEpfZMFhO1/fE/eafuchNSwNA==;zpek3Tcc2OxzG3zrepSXlQ=="
 ---

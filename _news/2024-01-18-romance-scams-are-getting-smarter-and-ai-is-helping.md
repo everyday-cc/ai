@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Is AI Right for Your Company? Four Things General Counsel Should Consider"
-    excerpt: "This article addresses four factors in-house counsel should consider when assessing AI procurement. The use of these factors should result in a more precise evaluation of the costs and efficiencies of the proposed AI in question,"
-    publishedDateTime: 2024-01-17T13:09:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2024/01/17/is-ai-right-for-your-company-four-things-general-counsel-should-consider/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2024/01/Pusey-Mooney-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "JYD8GNUYuAAyj4tlOAuZiODGyd5MF8Kv0bQJJsF2WR4UvVVKXS+gSPNYevKImzy05o/lrICtxaw+XNXx7pjSSAYrGgjjIQREX0fInxtB8d+H+Y1oc+IvN+KaGb9owWmF1IcviEO9N/MSD/Nd3fjj1/vX9wHAwUR4GToGpUIXB1pQxv9VUSbaTAo9EDeCFsW1ktkjL4e9XoI5qYhTd0M6xlUODCyzwl0vUi6k3fl0XUXUfbDBPrXXcZeRlf6/rsc1KnWkU+PjynAMBaod7XLsVmq+NHO0a1JGnv+xEBKfQvcKskQw2NTmJDwzRLb6D+NNnZTQmlsVQ62FexxMXw7BSVxOBXi2mx0jxn+8Z+srROd2v3anBmasjUD9hiulkp8uW/hk2awT2l57eYxeUDXuKNxDpX+PJYDlIEYXaby35MZFtUn3CId1ShPzUGYhtyhhXpRscd/B2PRC758DWRjzT8bXp3vHHD1Vr0ns3s/DH5eB2739m+NKQLnGE6OOtGCp8+EgBl9nRqAlUEQ5UPETCg==;yEiyg0DuZBl0EPzpEDYNfA=="
 ---
