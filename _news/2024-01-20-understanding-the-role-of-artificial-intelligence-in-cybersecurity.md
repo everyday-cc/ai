@@ -118,19 +118,19 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
+  - title: "Artificial Intelligence May be Able to Fix this Troubling $200 Billion Healthcare Issue"
     excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
-    publishedDateTime: 2024-01-18T10:10:00Z
-    webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
+    publishedDateTime: 2024-01-18T00:00:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/GEHC/pressreleases/23431687/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 46
     images:
-      - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
-        width: 845
-        height: 396
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
         isCached: true
   - title: "Top healthcare trends in 2024"
     excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."

@@ -3,20 +3,28 @@ category: news
 title: "Fact Check Team: AI will rapidly influence job market, stock performance in near future"
 excerpt: "Artificial intelligence continues to develop at a rapid rate with the potential to impact every area of our lives, including jobs."
 publishedDateTime: 2024-01-19T19:23:00Z
-originalUrl: "https://foxbaltimore.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
-webUrl: "https://foxbaltimore.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+originalUrl: "https://abc3340.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+webUrl: "https://abc3340.com/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+ampWebUrl: "https://abc3340.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
+cdnAmpWebUrl: "https://abc3340-com.cdn.ampproject.org/c/s/abc3340.com/amp/news/nation-world/ai-will-rapidly-influence-job-market-stock-performance-in-near-future-artificial-intelligence-international-monetary-fund-report-advanced-economies-singapore-united-states-denmark-technology-companies-prices"
 type: article
-quality: 11
-heat: -1
+quality: 51
+heat: 61
 published: false
 
 provider:
-  name: foxbaltimore
-  domain: foxbaltimore.com
+  name: abc3340
+  domain: abc3340.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://abc3340.com/resources/media/10458527-f6df-410e-843f-d5ca992cef91-medium16x9_AP23347595819894.jpg"
+    width: 648
+    height: 364
+    isCached: true
 
 related:
   - title: "Fact Check Team: AI will rapidly influence job market, stock performance in near future"
@@ -29,6 +37,6 @@ related:
       domain: komonews.com
     quality: 11
 
-secured: "HtQdmhXsgax+J+HPkJVIHM+xn2n4pqjWy49/eEbEp1oZe9Om4xaUftaHR4BJouFr5eMilfY66saihzzKlD+SQftQr5JWFVJIaYN0F+c8RvBzQT5rWvPIKtvuPkOuzPmX3iSQSM/WcWDiHWGBZfr4Dg29vTkWKRAi6/78nKSrHHpz31McbLJ0IJpFCQ2LyEnrQmRBv2R8ocAf3m3F2yTCoB0MDe4mHFmygxkh61ZSy9NBMCwvgKxMADWo62RTOy+tvF1s+dpe9cO/VvN7q7sYPSvDBqTHpZnd5Lhtr2z43dp9A9Gkdbx5eTrz5r9Knw1fxBM5PDoA9TsE6AZe05oBnlSvr7QFTNgWKpFlwDKhjUr22fdTXZiVpWt2WVx4qsV3QgXVaZZogu/4Z44WTL7G7uZVPl0w2EnlnHQCnZOrAV5njJ9Uv0oObawOuXg4VcPhf2B8oNhRzC8qtPdY9zEq0KOXw5zWsjID1NO2tTT1BxxWBZo/iBITcsvENdZQTSqIJHiebi03RvGwH4yTvJau0w==;SMt3KAMnbRcAp2otRZv2wA=="
+secured: "SMAXJp/hg7y0IFTrQoNktVjMesOJRAj0X38iy+FJKIf9nMnpZtkzjPDoR1A9GXKvJYGt/s13pfmBKhYQGT78EonSgnrz+cUs6OLtfRBkK0/oNWIOZjFQxjMYc4CrPFhzMIgz3GNeQ2TyWTECRPbS2UNcE9AVYUBNIwPtCSFNhv+W00VhipAzC5/y1kFYVFuk8MxyrQSDp/cX8Qa4CPdi5vhot+gaT9OxFvY30dIWmVFhni4wgevODWoTkfkxxyJF8y3bK32KpvCFPMnfIgYUykxt3R7VL6qZ+JZTRLWMmXWrC0QXhKFS4y8dngTqgjaWFf6gmES/qmXkkdtiwbYYWQLHRl+9BHOW52TnXOK4AuE=;yUX8G1zhJ2oyPveW983hJg=="
 ---
 

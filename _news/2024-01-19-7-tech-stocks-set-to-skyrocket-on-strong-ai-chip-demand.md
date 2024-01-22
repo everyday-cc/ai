@@ -1,22 +1,18 @@
 ---
 category: news
 title: "7 Tech Stocks Set to Skyrocket on Strong AI Chip Demand"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips So much for a chip dip? Taiwan Semiconductor Company (NYSE:TSM), one of the"
-publishedDateTime: 2024-01-18T17:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand-1032977848"
-webUrl: "https://markets.businessinsider.com/news/stocks/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand-1032977848"
+excerpt: "Paul R. La Monica is a veteran financial journalist with nearly 30 years experience (including more than 20 at CNN) covering the stock market and other asset classes, the economy and other corporate and business news. The post 7 Tech Stocks Set to Skyrocket on Strong AI Chip Demand appeared first on InvestorPlace."
+publishedDateTime: 2024-01-18T16:05:00Z
+originalUrl: "https://www.nasdaq.com/articles/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand"
+webUrl: "https://www.nasdaq.com/articles/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -56,6 +52,6 @@ related:
         height: 900
         isCached: true
 
-secured: "KURr5afxsUV/xPCM/yLJZDlo1hMdWsM7VZyDotBnmRKa0LfHtzBQIn/E0ZamLvvV5qe/aleWHaLgHNPSTwIvbdh+ZSIGYzVoEjEkWWqtxMIvh0xMl5mHe2s0Wx1VAPv3Ta6tqyyGGgp4WmhThIH72pZNvfYrrumhAmH1J9nYOdEjCMWM/NpKoAzaRYHnxaGx55KKXUaxNnqJfMLtHAFcdRGXPb4D24MsZ4TX3S8dh6Gx4Tbv3IYzf1N9CC01UKNDExntZ1kqI4bX1Lw5Kc6H/blO/WSxRbm6+9IhTNOWGiitX/41Z9mmN7hnqmLtMlj4HJ7vnRXFMULGBL6FvLNprrGhR/VKisFJLxbJT99G4Ss=;wNDldIrO6Od3iyRJA0/CKA=="
+secured: "k+ARjXnKLB5Iy0rCks1oUNX1RO2v//Nldzge42viIPPI9Fg4EL981Yp3/RywyA5WrA7iEj1xwyH+0jAcGNAcMz2ARHARNO2khcPsTW2btSK8SpxWM/cY/+htY96WY4zl01FS3U7FC8GlYyg2hiFI4kQU/7E3vfqpR1P+vsKvPar8AiGt4jf3mbLln7T+6a7iaGhAkKygWlcmYRWoJ+NwAYhcDVEwE+T1WStbW7N5PVE3Fg7xWvM7fT7ABANk3vWoroBtakMC0GXsdixN59MvI90Aj9csyV91u+7LETa+8z6QH6Xxq/3GNePjNwrHCLsokt9FSbtkNpr7FDIkeoqubk1FXPm0xAlNy6ORUH1vDfY=;1krSjSVdb6gWu8j+j5vH8Q=="
 ---
 

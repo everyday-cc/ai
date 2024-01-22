@@ -23,6 +23,36 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
+    excerpt: "US ban on tailor-made Nvidia and Intel chips hits Beijing’s AI ambitions Altman’s fundraising push reflects his concern that as AI becomes more pervasive, there will not be enough chips for widespread deployment, some of the people said. Some current ..."
+    publishedDateTime: 2024-01-22T04:30:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 110
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/22/38d8c516-680b-40f4-9046-a65efee4ba04_77370fb1.jpg?itok=wtcH5UNL&v=1705895653"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT"
+    excerpt: "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI."
+    publishedDateTime: 2024-01-20T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
     excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
     publishedDateTime: 2024-01-20T14:58:00Z
@@ -174,20 +204,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 60
-  - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
-    excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
-    publishedDateTime: 2024-01-20T23:00:00Z
-    webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Altman seeks to raise billions for AI chip venture"
     excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
     publishedDateTime: 2024-01-22T00:44:00Z
@@ -252,15 +268,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
-  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
-    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
-    publishedDateTime: 2024-01-19T13:34:00Z
-    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
 
 secured: "tZVvJC/O5F5UfOoS/vIHdbh+itpo7ySWrNLoWZC2IVamapwdcUE7y2qAkY5LW49hp4toEZsgmPxNWV/fLwQLR7QzrjZfX2lMnfkQF7JIEhyujAikpJic9jH0MiIL0xyUViY9qU0SgdEWvns2Mywj1VsNrJpBnVfF3pWhJ4um8eCAldvA0P7gZZHVpoyBah3wDfKiT0+ooHRyy4MtxtfBLFavkdYLRxVK1ztIForCq8Zkyid0xcm6wPKjxTOX6H4qJoG4FtBJSMGHONbWFg/WZ1cXgGP129MVZUdKDaRESfAUr2wWYR0F+CAFgmSuNVgplRnjQQglKUjchauA5rQP7Thp3Hm/PDrOH/aTGb1ybOEEqNq5qH+3x3PLW710BO0L1zSZDAXC8Ol2L8/nnkgokWqf4HMyOx5KPh4tL9dXwvHmH1VjeqVK0jHBjnqXPHjxqdjyy4omn7BxeywOmmO8kg4NdzWWROiky8nbtvJhvBCzwBduVRuVvD/TJS3T0aDhmNzIamhgqDCJlKNCOR0Quw==;TxZMe9PKW2b9+xYZFq5s8Q=="
 ---

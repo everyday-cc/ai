@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geom
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -136,6 +136,22 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F35474dbd-c7a5-4887-9bb7-d2d63f82b812.jpg?crop=4500%2C2531%2C0%2C234&resize=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
+    excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
+    publishedDateTime: 2024-01-22T03:49:00Z
+    webUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html"
+    ampWebUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Amid-mass-layoffs-Google-DeepMinds-AI-scientists-may-leave-and-start-their-on-startup.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "DeepMind approaches gold standard in complex maths in latest AI breakthrough"
     excerpt: "Read free articles and add your comments Get our Editor's Digest newsletter and more Follow topics and set up personalised events Access Alphaville: our markets and finance blog Everything in Standard Digital Exclusive FT analysis Premium newsletters FT ..."

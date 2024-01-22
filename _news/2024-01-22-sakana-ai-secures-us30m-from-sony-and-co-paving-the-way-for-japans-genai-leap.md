@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240119PD210/sakana-ai-sony-inves
 webUrl: "https://www.digitimes.com/news/a20240119PD210/sakana-ai-sony-investment-japan-generative-ai.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 224
     isCached: true
 
-related:
-  - title: "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models"
-    excerpt: "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence."
-    publishedDateTime: 2024-01-17T04:47:00Z
-    webUrl: "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-
-secured: "g3iBKRCtgvASFoAOYBtwlcoTqK3efZCDDyp/zLmbDll62z1TzShB7KgkMpo6KVr9fGaMNsaV+NBHKwNu5ZFAm/CRih+KWqfkXGpEUCn1ny+HCp6DGGSo4M3OEfNXQiIpagyYjCKVPJ2pb08qLdQzICvpczBQ6Kqa563uKlGLMyYly7NtDFYdx4xe1NbMDs9SjlbmTIR6uEqeRiMFmI1UAjxGwyQncCrNHL1A1OR2oFVZBc8leb9sAZjLnyiGsAfmVPolbiV+jkfJDo7H32iLePCmzg0euQC9A0vuSo0dLpWP77JAVhD3pG03+DhODAMH24ElARD9qxcKj7VxdVb/ugJJXm65Q4J2c8uRxAOp4ic=;qfx7+kLrAJ/7qHmMgaUMlw=="
+secured: "YlYyi2yxCNPG3/1PppDwG3X0cU/aaZblfjSWYcQmLLP8oaiNRC+MroT2AXoH35JNVtmNBesX6LUQeOE2AemO/F8o1qhAAnap92sT+adYlRDRdVPnx63FuQ3sLyMR7ewXLaiWOFB0Uib6jnz4T/kGwOTGOeQu6Gmspbyh0GDOM5ZaeO5BmWKx8PQbF81Xu0jUCFPklB+dR36WMfnIDU7npB1YSfrvARZ1WLEPuqTo7cWquih4gwnVRYV2w+icx7B6qwXzh0CrGwmUFm2GefnpRjq+fg007RNkuU+O7UBpIcl2z+DzyZTj1E1AHWvsUbrA0Twgm6Uj8NAEp12ysFqVS0kTSTkSO8BMEzPE/0ZmMDIzo+lFE+t5Zx/KGhuD//2lo10r9ghPMiEgcu5pdZLzq3IwEJLvOJjM2s4Q1GkAtN24Sr7rezGqfNbLrYuBBlgsnSWAXePtxYl06g8wzSeKvzIG4X/tGAubtpNvEzEs8ouHDwxkYBSYB1rLomcJ4aNGlbq7/xW6Ruc2FJ8JizbcuA==;MT/Azh9baRqCj7zWknClxA=="
 ---
 

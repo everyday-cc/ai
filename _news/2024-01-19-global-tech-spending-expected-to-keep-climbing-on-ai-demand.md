@@ -47,13 +47,13 @@ related:
         height: 900
         isCached: true
   - title: "7 Tech Stocks Set to Skyrocket on Strong AI Chip Demand"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips So much for a chip dip? Taiwan Semiconductor Company (NYSE:TSM), one of the"
-    publishedDateTime: 2024-01-18T17:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand-1032977848"
+    excerpt: "Paul R. La Monica is a veteran financial journalist with nearly 30 years experience (including more than 20 at CNN) covering the stock market and other asset classes, the economy and other corporate and business news. The post 7 Tech Stocks Set to Skyrocket on Strong AI Chip Demand appeared first on InvestorPlace."
+    publishedDateTime: 2024-01-18T16:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-tech-stocks-set-to-skyrocket-on-strong-ai-chip-demand"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 64
 
 secured: "Eh55WWeVW9hoEcL4JxHzh48uYPYPJvcWd8GYAbB/Ns6fyRnUfHhjxtRpOuB9cbdc0VrgMuyybkshwseiiXc9q4Clafvf68rRUq8IsjwSsntRztnEAzcJqR4xejEJGh7a/2IMxY153Ajn0NDx+OOLcrsLedD9BKjKhKHBNiLUyQCXMCAFvlVNZw5yMDTjTvAgK2aVXYGhbHkfwWm5JvNcHo+GQqm/NN6k3OfZ80GUzSRAZlH9DOWDvRGeFnSiWzmudcmatIQo89B1I8uF4ZvCfODNxOHtshQd93hAZbE9DXDmvEwodyhNchEK707IIJGdVPwA25ZC8dQT4U4n24xmwOPYjKB8PEa3NXqVkFH3/dQ=;N5TPxrD0sWMUCiUqnLc01g=="

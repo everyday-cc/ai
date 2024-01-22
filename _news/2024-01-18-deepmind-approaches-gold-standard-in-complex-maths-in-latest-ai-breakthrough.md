@@ -142,6 +142,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
+    excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
+    publishedDateTime: 2024-01-22T03:49:00Z
+    webUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html"
+    ampWebUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 66
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Amid-mass-layoffs-Google-DeepMinds-AI-scientists-may-leave-and-start-their-on-startup.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google DeepMind Scientists in Talks to Leave and Form AI Startup - Bloomberg News"
     excerpt: "(Reuters) - A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations."
     publishedDateTime: 2024-01-19T19:31:00Z

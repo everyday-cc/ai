@@ -1,10 +1,12 @@
 ---
 category: news
 title: "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs"
-excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years."
-publishedDateTime: 2024-01-16T15:52:00Z
-originalUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
-webUrl: "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556"
+excerpt: "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ..."
+publishedDateTime: 2024-01-16T15:45:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379"
+webUrl: "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379"
+ampWebUrl: "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
+cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1"
 type: article
 
 provider:
@@ -16,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-    width: 251
-    height: 282
+  - url: "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg"
+    width: 800
+    height: 533
     isCached: true
 
-secured: "aZoHCPAcdkgKgL7bVUbSO+CYzrOOjAnVsabGdVbQRGFloFYdoz6K00T2n8tQI8xwotpR51YGRUsnFq/oDsZCBLEAaWuCBetzX3rSleiroEogS5ffBNkcUcXtBWSToN/JS4+gO7VnYaaY1tEjXrPugOT/td3SVc24TcL1Zn8P8IbvwzprZC0/kkkeIoOqv0N86v3GfSllrkqXzJMJafaN9ujbrNvu7KgJVl3Rqa22hNeTyw1eb0kh3aa5FUVMi8nbvER/i49Fc9KeF1fKDQw//FwH654qY2tmP7KxftGY20PC59HFVG7idLv6UKwoAvDfiUecM8owWUVVzlUvUEmN0dkqwARQ6XqzAc8lzHPEJI0=;zdwsF7quU3yVDILdOhVFZQ=="
+secured: "V5nq0qF2t1LLzFiv3WTFAbgt2zBOCR7OxMVFtTCeeH4RK0cykSgiBA6S0+10G8XhTDX84LIqNlDKkGH5LoOQLV1DOK63yinK3uzk95rL/61Unrh6DO3P6548oOKOM/32tXA7oW+ixCuCKd2neThsltKEZYxkJ0F1gAl/8eVgmZpLpKXe1LK0ehUAHl63JWSeBHXch9ozscbKaCa8cUe86tHXhNtvYewop/E1+JEJFjweRXzD4uKSiJxk5A6mR/hf5QwPY8nAJ5IPojgVubjwuMC81ubqipb1/Ar4xdLehoEHU/29OVNN9fkF0qvqeX0i/Wi5tKF4N+Z07y3YZ0rx2JYbyKEGMYNRNjjqVx17Vgs=;VkqUrI8sTm63wQmROFkLSg=="
 ---
 

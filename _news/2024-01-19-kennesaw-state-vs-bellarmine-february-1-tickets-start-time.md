@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Wisconsin vs. Purdue February 4 Tickets & Start Time"
+    excerpt: "The Wisconsin Badgers (14-4, 6-1 Big Ten) meet the Purdue Boilermakers (17-2, 6-2 Big Ten) in a clash of Big Ten squads at 1:00 PM ET on Sunday. The game airs on CBS. If you're looking to go to this game in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-01-22T04:25:00Z
+    webUrl: "https://www.wbay.com/sports/betting/2024/02/04/wisconsin-vs-purdue-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WBAY
+      domain: wbay.com
+    quality: 22
+    images:
+      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/5JIJP7WQ4NIQ3IVVRVERVXHJK4.jpg?auth=98427c958e06df1ace1603506edff9d4067e2b92bc693db37507a9ae0c9a309d&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Ole Miss vs. Vanderbilt February 1 Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Ole Miss Rebels (12-5 ... Prairie View A&M January 22 Women's Basketball Tickets & Start Time Jackson State vs. Prairie View A&M January 20 Women's Basketball Tickets & Start Time Mississippi Valley State vs."
     publishedDateTime: 2024-01-19T06:50:00Z

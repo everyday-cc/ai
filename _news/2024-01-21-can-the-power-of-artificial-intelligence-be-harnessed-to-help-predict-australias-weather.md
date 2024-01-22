@@ -29,19 +29,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Australia Outlines Plan to Manage the Rise of Artificial Intelligence"
-    excerpt: "The Australian government is considering new laws to regulate the use of artificial intelligence in “high-risk” areas such as law enforcement and self-driving vehicles. Voluntary measures also are being explored, such as asking companies to label AI ..."
-    publishedDateTime: 2024-01-17T03:29:00Z
-    webUrl: "https://www.voanews.com/a/australia-outlines-plan-to-manage-the-rise-of-artificial-intelligence/7443418.html"
-    ampWebUrl: "https://www.voanews.com/amp/australia-outlines-plan-to-manage-the-rise-of-artificial-intelligence/7443418.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/australia-outlines-plan-to-manage-the-rise-of-artificial-intelligence/7443418.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 39
-
 secured: "rzFlc0KkoEPf04wwYIIn1jAveM4dFXYlOenKl5MBWQRZ2xAzE43GwRb2frnfwskRaQ73wDidNSRZB7MIpBdCvBDx2dZWwQ2iFwZ65yyuGbbOcgA7hfgl8Ahmfj4pBdedImObuWiHLl4IaTAFPoNwQpvVt7vzRiTx3m+UsbliD248BALQlFleCaymEoGPt3pC+ALw2xD/Fv2kXGEGC+YrQmBfbalhLA5DccsP/vhZY1ai/Q+IBlN/HauqsGNPt7XuDaIdehYDCYQXavN/E6HZiAiiZhxdAFqbjKnOgt0akfAc5sEDw+orCP8bmyi4h6oYpfGNSryjUzjrzVlZm3G25fBBo6+wEGpWfcUM3yd4B3cCVFRz2Jy44KFP5gzapaVeun3hTgbu5tVVhaPBbp1toTdOPgVfiZZwfPYbz54g/4n8ITC2vnfQsHWN1k+ks2c0gA3Fl1LkpNYBScVIZBP+J3L5ewpRTfFgnPReYcoyIGILvL5L/agxXNDD5r3Mesq41+a1VC9yd9C1DsjF0X+D3A==;/f2y/wdH1kNM1xeNQCirxg=="
 ---
 
