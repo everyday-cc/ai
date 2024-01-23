@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-r
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
 quality: 63
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
+    excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
+    publishedDateTime: 2024-01-23T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-elevenlabs-achieves-unicorn-status-xnq7t3x7b"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c4e999f-c252-4b52-a07a-06717c8c4393.jpg?crop=2000%2C1125%2C0%2C105&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
     excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
     publishedDateTime: 2024-01-22T17:54:00Z

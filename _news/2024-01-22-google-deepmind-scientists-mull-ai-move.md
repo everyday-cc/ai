@@ -221,20 +221,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 50
-  - title: "Major Breakthrough for Google Deepmind as AI System Solves Complex Geometry Problems"
-    excerpt: "Your use of this website signifies your acceptance of our terms and conditions as well as our privacy policy. Google Deepmind has announced a major breakthrough, claiming to have developed a new AI system capable of solving complex geometrical problems."
-    publishedDateTime: 2024-01-18T00:56:00Z
-    webUrl: "https://techreport.com/news/major-breakthrough-for-google-deepmind-as-ai-system-solves-complex-geometry-problems/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 47
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/Google-Deepmind.jpg?_t=1705568172"
-        width: 841
-        height: 436
-        isCached: true
   - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
     excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
     publishedDateTime: 2024-01-19T15:35:00Z

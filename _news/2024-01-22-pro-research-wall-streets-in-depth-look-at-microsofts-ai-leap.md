@@ -101,6 +101,17 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
+    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2024-01-22T23:05:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 62
   - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
     excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
     publishedDateTime: 2024-01-18T17:00:00Z

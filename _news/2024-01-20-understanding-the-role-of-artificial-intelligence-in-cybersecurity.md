@@ -88,19 +88,19 @@ related:
         width: 1280
         height: 852
         isCached: true
-  - title: "Revitalizing Industries with AI and Machine Learning"
-    excerpt: "In recent times, the tech sector has experienced a worldwide transformation due to the rise of artificial intelligence (AI) and machine learning. These innovative technologies are quickly altering various industries, enhancing efficiency, and boosting ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.dmnews.com/revitalizing-industries-with-ai-and-machine-learning/"
+  - title: "Is there AI discussion fatigue in healthcare?"
+    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
+    publishedDateTime: 2024-01-22T23:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-1.jpg"
-        width: 1000
-        height: 523
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "The Intersection of AI and Biotechnology: Enhancing Healthcare through Innovation"
     excerpt: "Introduction: In the rapidly evolving landscape of healthcare, the convergence of Artificial Intelligence (AI) and Biotechnology has emerged as a catalyst for transformative innovation. This article explores the symbiotic relationship between AI and Biotechnology,"
@@ -222,15 +222,6 @@ related:
       name: Inc
       domain: inc.com
     quality: 17
-  - title: "Understanding Liability Risk from Using Health Care Artificial Intelligence Tools"
-    excerpt: "The authors review challenges arising in malpractice litigation related to software errors to inform health care organizations and physicians about liability risk from AI adoption and about strategies to mitigate risk. From Stanford Law School (M.M.M., N.G ..."
-    publishedDateTime: 2024-01-18T00:00:00Z
-    webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMhle2308901"
-    type: article
-    provider:
-      name: The New England Journal of Medicine
-      domain: nejm.org
-    quality: 14
 
 secured: "86n6baXL1e6WNV4L88XlF0rEhnDMG0kikqKrs8yFVcsYoG3o2+g/yrYpmqmcHk1XF0sBeF7Bx6463dgHU0OtBUFdCvwT2IBLYFn4qyWTmhUKQSRZi5xK+oicZcuRBGxCYynkDG/XBtbKCaPAxDk5NNixmQXAGhQMKRKWkr5XKlcSLD991x1jvdQiHLQ2Hc7Qfb2ORSPk7qfJv6yzqRkjP+uZgc54tt3g0osG8ElcrebXaJDmfvypRaX8trVzWWjEgAG1aNnHjLw4HcWxYqpjtemcra6BXJMHypRo69TTy7r3ZiZ7l/a+E6piu7qqEgsTIRvJ3OrMttC9Llsi19F/QGHmk2ohwrNM1IK8DL2DRS7pa8AO779LwJSgvIJtq29ajmaLGD7TUaey+YuyS2bj0o9ykBzbClug0qJvcgd9jz8551OEopv98OtOvo//SogO8V6LpLv5pOAcNy6TqleenWU+g7j5IbBzQ7JFITLc5rTU4gdgXqzv4rcPYsrgiIUMI6rJbD8J9nlQ0YCbgLuczQ==;DiB9oDuWfvoghPLPSat7Xw=="
 ---

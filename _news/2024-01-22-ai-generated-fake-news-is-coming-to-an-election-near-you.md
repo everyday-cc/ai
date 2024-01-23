@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an
 webUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI Generates Debate Over Newsroom Ethics"
+    excerpt: "With AI’s abilities - and risks - for media outlets, newsrooms are focused on ethics of how to use new technology"
+    publishedDateTime: 2024-01-22T22:21:00Z
+    webUrl: "https://www.voanews.com/a/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    ampWebUrl: "https://www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 54
   - title: "Social media is the fuel for an AI fake-news fire"
     excerpt: "As global leaders descended on Davos this week, many fretted about the World Economic Forum’s top risk for 2024: AI-generated misinformation."
     publishedDateTime: 2024-01-19T08:58:00Z

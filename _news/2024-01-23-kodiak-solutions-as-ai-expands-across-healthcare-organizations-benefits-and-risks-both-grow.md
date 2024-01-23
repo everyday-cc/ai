@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/healthcare/press-release/5308317
 webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+  - title: "AI's Massive Power Consumption Demands Innovative Energy Solutions"
+    excerpt: "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian."
+    publishedDateTime: 2024-01-22T08:00:00Z
+    webUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html"
+    ampWebUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
+    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
+      name: Crude Oil Prices
+      domain: oilprice.com
+    quality: 59
+    images:
+      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg"
+        width: 718
+        height: 300
+        isCached: true
+  - title: "AI adoption and innovation will add trillions of dollars in economic value"
+    excerpt: "The trifecta of opportunities -- economy, business, people -- stands out, potentially creating an additional $10.3 trillion in economic value by 2038. Most CxOs believe generative AI will ultimately increase their company's market share, with 17% predicting the technnology will increase their market share by 10% or more."
+    publishedDateTime: 2024-01-19T05:41:00Z
+    webUrl: "https://www.zdnet.com/article/ai-impact-on-work-workforce-and-workers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 45
 
 secured: "WXvq3s8slUJLm9hB/9QmAyN9WMBRzS/5TOy5GMys9hIgDtNCn7iShgf1oakY3PMtSIR4GvFJv7RbFdACoa+5X5Jo1y1ct0IAn1aQSUK09UfsK22sHX/f3y3pN0fCTGvpWax5F5vV6e0A3kgn1uehKx3D8OS32qq9Tv3cCP7RnEp3s5X4eG4KkGKJZAftf5S55hHgoj4QCm4scOEaJOf2i7MMhpAoQHun0O+x725FnjPhP5X4u9PpNUYNe0KJ591oMCJACSW2dQ/0w1bIx0YKHd8aVM/qdf02tzmDynBvWnsIaG3/rjCVtHTGI9/+RbgqTu5VFhkadwH3eWjQo/SoRBeg7gYAj3Ke/lqqRchhtRE=;bk8Bmq7oOPX6hJIjmt+Kaw=="
 ---

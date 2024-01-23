@@ -235,20 +235,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 50
-  - title: "Major Breakthrough for Google Deepmind as AI System Solves Complex Geometry Problems"
-    excerpt: "Your use of this website signifies your acceptance of our terms and conditions as well as our privacy policy. Google Deepmind has announced a major breakthrough, claiming to have developed a new AI system capable of solving complex geometrical problems."
-    publishedDateTime: 2024-01-18T00:56:00Z
-    webUrl: "https://techreport.com/news/major-breakthrough-for-google-deepmind-as-ai-system-solves-complex-geometry-problems/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 47
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/Google-Deepmind.jpg?_t=1705568172"
-        width: 841
-        height: 436
-        isCached: true
   - title: "Google's DeepMind can square its hypotenuse"
     excerpt: "Because everyone needs a squared hypotenuse  DeepMind, the brainy Google-owned company that makes super-smart AI, has created a system that can crack hard geometry problems. It's a huge leap for machines that can think like humans,"
     publishedDateTime: 2024-01-18T09:13:00Z

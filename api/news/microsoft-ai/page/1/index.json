@@ -10,7 +10,7 @@
       "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "Natural Language Processing"
       ]
     },
     {
@@ -160,7 +161,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -398,19 +399,19 @@
     {
       "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
       "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
-      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ:MSFT) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue ...",
+      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
       "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379",
+      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i-invdn-com.investing.com/news/GoldmanSachsGroup_800x533_L_1670864483.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -418,9 +419,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
-      "cdnAmpWebUrl": "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-3275379?ampMode=1",
-      "publishedDateTime": "2024-01-16T15:45:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T15:52:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Investing",
@@ -441,10 +442,10 @@
     {
       "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization.",
+      "excerpt": "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "webUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
+      "originalUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -457,8 +458,8 @@
       "publishedDateTime": "2024-01-16T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

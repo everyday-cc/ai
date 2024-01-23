@@ -39,6 +39,17 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "AI Generates Debate Over Newsroom Ethics"
+    excerpt: "With AI’s abilities - and risks - for media outlets, newsrooms are focused on ethics of how to use new technology"
+    publishedDateTime: 2024-01-22T22:21:00Z
+    webUrl: "https://www.voanews.com/a/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    ampWebUrl: "https://www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 54
 
 secured: "LETreFOdkFO/+Byezwln2yVFW/g4A/L4RAlBOmVF/OHs7379vY2wU64NT/JCPDtpXO1XxExvu81HQP5+qbopEdi6e6sliDmPuflPfrvAqGqJHr0CAdP+HipXjdtUTeLFlRbvgXJQlOmUDk5tnBx2CH56rdmHXEL7uJqmk1de2CLf3l8+ulT6iDwMrbku5Zm0v9SVtfqI9CZFrymjmc8sq1fwQn3XHTdl+ElLttfWnL29gtyFbw2JinrLzhE1qbDivx7iNHTiKI7Ed5sbQsXPDhCUmkRR6l8F8M1iDq/g6O2BJwfDHTDzU5cY9Vu/5TV6GBxmeXRyPIxBruhagZMSuO0cGU9x8CrppA2c0N51Tik=;zhB2KBBle+FflA+2cmlxlg=="
 ---

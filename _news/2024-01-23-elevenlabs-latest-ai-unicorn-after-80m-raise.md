@@ -79,6 +79,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
+    excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
+    publishedDateTime: 2024-01-23T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-elevenlabs-achieves-unicorn-status-xnq7t3x7b"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c4e999f-c252-4b52-a07a-06717c8c4393.jpg?crop=2000%2C1125%2C0%2C105&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
     publishedDateTime: 2024-01-22T10:08:00Z
