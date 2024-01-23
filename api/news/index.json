@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-23-lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy.md",
+      "title": "Lexicon on AI: US NIST crafts standards for making artificial intelligence safe and trustworthy",
+      "excerpt": "Q: The AI risk framework was voluntary but the executive order mandates some obligations for developers. That includes submitting large-language models for government red-teaming (testing for risks and vulnerabilities) once they reach a certain threshold in size and computing power. Will NIST be in charge of determining which models get red-teamed?",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "publishedDateTime": "2024-01-23T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
       "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
       "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +92,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -198,7 +241,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -229,49 +272,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds.md",
-      "title": "Humans still cheaper than AI in vast majority of jobs, MIT study finds",
-      "excerpt": "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds",
-      "originalUrl": "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/ai-branding-.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/",
-      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/",
-      "publishedDateTime": "2024-01-22T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Sun",
-        "domain": "torontosun.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1053,7 +1053,7 @@
       "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1194,21 +1194,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
-      "title": "Remote-control rental cars: Not as driverless as they look",
-      "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
+      "path": "_news/2024-01-22-how-genai-influences-your-agile-knowledge-management-transformation.md",
+      "title": "How GenAI Influences Your Agile Knowledge Management Transformation",
+      "excerpt": "Advancements in natural language processing (NLP) and deep learning will make AI-driven operations even more intuitive and human-like. The future of operations requires a seamless integration between AI and humans to create and deliver exceptional ...",
       "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
-      "originalUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "webUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.newatlas.com/dims4/default/efef334/2147483647/strip/true/crop/2162x1135+0+152/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd2%2F82%2Fd42259e04e569d651c76a719e0e9%2F10-vay-car-modern-1.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae71f796befe48a727f531/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 691,
+          "height": 665,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1216,16 +1216,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "publishedDateTime": "2024-01-22T07:40:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1241,7 +1241,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-16-top-financial-services-trends-of-2024.md",
+      "title": "Top financial services trends of 2024",
+      "excerpt": "Check out these seven financial services trends and how your company can use them for competitive advantage in 2024. \nThe post Top financial services trends of 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/financial-services-trends/",
+      "originalUrl": "https://www.ibm.com/blog/financial-services-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-elon-musk-says-he-wants-more-control-over-tesla-far-from-ideal-says-analyst.md",
+      "title": "Elon Musk says he wants more control over Tesla. ‘Far from ideal,’ says analyst.",
+      "excerpt": "Elon Musk said he doesn’t want to grow Tesla’s TSLA, +0.47% artificial intelligence and robotics capability without having control of a quarter of the company. Musk already owns 13% of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "originalUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-66475805/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "publishedDateTime": "2024-01-16T11:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions.md",
       "title": "How One Struggling Chip Company Benefited From Middle Eastern Investors’ AI Ambitions",
       "excerpt": "Led by Shahal Khan, who spearheaded the 2018 acquisition of Manhattan’s Plaza Hotel, the group was investing billions in AI ventures with an eye towards transforming the Gulf states into a preeminent tech hub. Blaize’s chips — which could provide ...",
@@ -1073,84 +1168,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
-      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
-      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
-      "title": "Improving 3D Object Detection in Self-Driving Cars",
-      "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "originalUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "publishedDateTime": "2024-01-13T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

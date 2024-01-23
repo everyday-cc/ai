@@ -37,7 +37,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
         width: 1500

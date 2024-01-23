@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade
 ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -30,6 +31,6 @@ images:
     height: 900
     isCached: true
 
-secured: "VF6JzBYavPU1XZJK2PJ5gIlL3y2v7b9MU7spLU5Z0B4CRZ2sRnYHBZo8qexp7OB1VNl9Qmf/veuTx2LTmtwNZ9wyPS9XkGIkD/LzYF//0BQ/RHRon8LGwa2JECto9fKzB+5EWj9qWM8xLU/T8uk6fTRePwWk4QB1vR7qr4YjHdSdiCouFW6oku1MLS5cr4dZBVp3eiLkovoLv0gu0P/74MIk0HtiETmn3kpI0gyp5JDYBgHTykzG0wPGxbq/sQwincMil2p0dLOcG/1BIymcSvcvTdQkQyFbyxYB9uJ48ZHQsYOaZZpnMtbfUJqyNBPmLrmVUJKEftA5pYInqbfgsThknsa9i6kvEdtb3JBn3dU=;1nCN/eIe8hh1hRVR/8n/Cg=="
+secured: "3rV38xcmsBZfXCqlryeOhVqnaFpLVZwwvRy28A/HSDP95YXby7boFFf4ykAkTZqZf0O2Nxe+KDwR0mutc0Ie+aKv7Rgv08vNICz9iCht4VmrSZBtdAAtFv9VTaof07O9HUApfb30FvZdxz3Tlq9dDHt3XBVTwawBTH6pZ/N8IDZrPqEmM77i+lCEtd7laBKnyQzgLoxE+Hi06IN6eyD0eMU5ckAzGdpNnvS/Kj5nSi9PDPqOHmmid45o1RNIngIolXPlPx0ftqswIPWgKtz76wE3cOtc4OS/4oJ3XRt7U6ZOHx4MWb2vWd+LyC5MhpRRh4FhJNkb1+YuDB3Xa0B96ahmAAUpDkac0ajm0MAFX3f9crzJ+MP2L/hldh55kgsrSYzQAibiBc8Pxd5XRrKAnyfb3rOFIierBRJQ0g3wYyo+RDMA/JvS18Z2KouiSn3fEODfHsd2ZQuQgAukrx2+mcpAkz6/ZPAUhqw95lvD8Lzr1+yENaz//KIYygwocV6GmTU5h6TTpTk8oxZNqNR0iw==;sQOyAw91ZLsNgwzq5ov8Cg=="
 ---
 

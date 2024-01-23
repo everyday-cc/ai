@@ -50,6 +50,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Preserving indigenous languages with AI"
+    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
+    publishedDateTime: 2024-01-23T01:00:00Z
+    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "5/Hb0g6LFnty9UgPJvOeN+z830a/ymerSTuW3NoETQ2xVVtH4pJZEEw7ao4UubsIQY8Mh91D0lqHEk2/EAvq3AHz6ODx6IXHs9pfhIO7MSlEkfLPj+l0FSG24w0iu7SgZq2rGz0h2VoaYkxOewrTxfKwpE0IqIDnsf651nBINHmg9ydmaJ8w7pjT16qZJlXcqSpIb+4Ar/LXRU0YQT6lUgF6B2D6r6DOd3KValxXIs6468CSWjNZrl0HbnUbUjm2YthoO68isFoRsy5nfPFs7ZEeq+dV2vtZHCJU8+HGFVdTt5163tzpxJGzNq9OX+HLbckYk0Z3W7PoplEvsUPf968V7qxSL9X2R2dBmBE6jkPyMT+uEatwgCRkUPFCkK0sNaH+J/FUhZGO08ZbbcXK/yjnSDaTh/EyL9gXCJMMPdrraTKpS9s/GupIpQopopXhMDJ/d6OqQs26CflBDxtzAUzTXsvUCLyToV1h8TP/zczmol60gAs0usjwjxUi4QdGrFcQwjk1JHL/jvttcfRijA==;GQu4JU+UKtzVd2/H9NVSYA=="
 ---

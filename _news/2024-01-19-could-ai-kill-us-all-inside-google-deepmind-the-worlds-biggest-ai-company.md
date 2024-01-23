@@ -198,20 +198,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Google’s DeepMind builds hybrid AI system to solve complex geometry problems"
-    excerpt: "Researchers at DeepMind, the artificial intelligence research division of Alphabet Inc., have created software that’s able to solve difficult geometry proofs that are often used to test the brightest high school students in the International Mathematical ..."
-    publishedDateTime: 2024-01-18T01:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/17/googles-deepmind-built-hybrid-ai-system-based-neural-networks-solve-complex-geometry-problems/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/3d-view-puzzle-pieces.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Google DeepMind's New AI Matches Gold Medal Performance in Math Olympics"
     excerpt: "AlphaGeometry incorporates a rule-bound logical model that attempts to find an answer, and a large language model to generate out-of-the-box ideas."
     publishedDateTime: 2024-01-18T16:39:00Z

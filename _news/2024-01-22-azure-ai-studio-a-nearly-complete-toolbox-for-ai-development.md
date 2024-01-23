@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-c
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html"
 type: article
 quality: 108
-heat: 109
+heat: 108
 published: true
 
 provider:

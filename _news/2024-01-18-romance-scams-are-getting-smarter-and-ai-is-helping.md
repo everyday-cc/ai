@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why did this company AI chatbot start swearing and criticizing the company?"
+    excerpt: "Shipping company DPD has a chatbot on its website that uses artificial intelligence to help answer basic customer queries. However, a recent update to the system caused the chatbot to become rather unruly and not at all helpful. Ashley Beauchamp turned to ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-this-company-ai-chatbot-start-swearing-and-criticizing-the-company"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 35
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
+        width: 1440
+        height: 700
+        isCached: true
 
 secured: "JYD8GNUYuAAyj4tlOAuZiODGyd5MF8Kv0bQJJsF2WR4UvVVKXS+gSPNYevKImzy05o/lrICtxaw+XNXx7pjSSAYrGgjjIQREX0fInxtB8d+H+Y1oc+IvN+KaGb9owWmF1IcviEO9N/MSD/Nd3fjj1/vX9wHAwUR4GToGpUIXB1pQxv9VUSbaTAo9EDeCFsW1ktkjL4e9XoI5qYhTd0M6xlUODCyzwl0vUi6k3fl0XUXUfbDBPrXXcZeRlf6/rsc1KnWkU+PjynAMBaod7XLsVmq+NHO0a1JGnv+xEBKfQvcKskQw2NTmJDwzRLb6D+NNnZTQmlsVQ62FexxMXw7BSVxOBXi2mx0jxn+8Z+srROd2v3anBmasjUD9hiulkp8uW/hk2awT2l57eYxeUDXuKNxDpX+PJYDlIEYXaby35MZFtUn3CId1ShPzUGYhtyhhXpRscd/B2PRC758DWRjzT8bXp3vHHD1Vr0ns3s/DH5eB2739m+NKQLnGE6OOtGCp8+EgBl9nRqAlUEQ5UPETCg==;yEiyg0DuZBl0EPzpEDYNfA=="
 ---

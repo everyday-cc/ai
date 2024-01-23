@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 109
 published: true
 
 provider:

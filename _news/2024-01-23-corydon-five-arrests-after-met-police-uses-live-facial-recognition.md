@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:

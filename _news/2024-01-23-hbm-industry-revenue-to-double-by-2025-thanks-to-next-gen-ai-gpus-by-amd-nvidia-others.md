@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-22T23:51:00Z
 originalUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
 webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
@@ -40,6 +41,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "8Nx02Ctkwx/Hp9ep9JYJgm6pRdHWjd3bihFO5+aUZZEKBHzeHXiyBfdsmBKp3ZIFt514YR4fLQvQBtUMMrEC7meLWtmcXTlB6Pw63kPAnrI1JC7VADuPseQzKkxhNkxA+Sx/ByO4/wunVB1aO5G6fH/ui64JbUKYCSrOvRFxEW7jh9imZB8KadRJnXoMNZLph71OAjUxUAYehln0yZWVMTIgGa2udnpdZNxZ+fmx8G+8EqUTQsfBWTyo0Ficy/Z9ZcnWLQ4V7+q2JHNw08RdRQ/R3LfNVFC2e+FYS9t02T830l07Q6B7cKa7eVTIs0HD6N9cLjP8dSA1oqyJn0cHECTMg4cdJmiGZwTGXipl2KU=;ZzlrY51yaa2F2I3nb19FpQ=="
+secured: "qsERWsoY+6JdTHaQIUC7MRQit8KY++L3189fnSPi9p6K/E5FCDOdVGb2a0c4x9qn2qKF8NUW4AQWdFACgCnHml0Zh53RL1nBNeACoSmHjXFucvaAeIDY9FutF+9zB2EFWrHZYWA9rvKo/s2z8vpTPbaaHuq2saZGADcKY8QQHzueNdsDCpLhsdcME2hsuQEUFe+cXs90axmrcOP45c9cowJSy+PXXf/eKWGtRGrS4CXEaE4jL8ueB6ZXzexhaU8KAGsUM6qpzpz9Q69iDRwR7t2KtYDwbz1X78h9CellbW1qVVchWEKqaD3bHCuMHNqAeljJJ0ZV0tKiubwVPKo9Vr+UaNP7U8+G3DPwDGiinZCSSxMMa7q1oRJbKJCNuP/tCiFWGAsFpQqrfuSpZuOTLyntfN37OxhMgC6rKyjah6AYpxAfKGqFHCNZFQm7qykcBVCd0aNYuPulX1Zqc2aiv/lFv2Wzj+xjM24kE6cAcYrW6gEt5olQEe8KdXo5VgDh5YDOkB7IONCkvU+MzRzOHg==;IY1kZFCZAWhb9QcrtHdbng=="
 ---
 

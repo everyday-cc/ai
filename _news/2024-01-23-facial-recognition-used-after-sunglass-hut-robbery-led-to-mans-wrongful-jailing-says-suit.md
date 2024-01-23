@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
-excerpt: "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas"
-publishedDateTime: 2024-01-22T21:02:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+excerpt: "He was arrested on 20 October 2023, according to his lawyers. Rite Aid facial recognition misidentified Black, Latino and Asian people as ‘likely’ shoplifters According to Murphy’s lawsuit, an employee of EssilorLuxottica, Sunglass Hut’s parent ..."
+publishedDateTime: 2024-01-22T22:02:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 413
     isCached: true
 
-secured: "dHk23UuAbQySuEu0/iJZ6/1as9AptlK7CTF8AKECPMg8tWXHcMC1DvbVvWCwk9ryUTsZCaY+waQT5vyHf739AZifNQEw4A5WcrF1I0vx5OP56FSW4wQ7JL+dbDJ7w07KcQRZxsW/Hw+embbv/43hp9Cx9p/O63w6k5VLSUCwQPLyQUT20S07v0KYQ1p6hb9r/59fuF0wLs5de2+CL4MCkvf6dppYDJ8SIgBofjpixL+rxf5uxvgPlfgb/7wbQP/JTA8pEXEHoo4w2QatOzA2l5tmytXu4BF3KB5V7wtfHP9o8oSKZNV1/VMm3KtFxkfs/4FYOtkcORxdPTW/4woJmHgog/9vETMsL7PUdI7RuA4=;PowoC9C+b1iYFIclnKRNCQ=="
+secured: "c9gTK2yrlVoPhwzas44qtSagQ6DnfpNJXMch3Yx7iCrdAvov7HXMEF/MNmuZscwQCwAzZ+3i88dLj3o17bNKuijSnAvT9quwMNwTp0M/F4kX/MT5h/5P9VvbaRYjOhWjPK24PwK8/QLC1pKTJVDT0CktCCBqY47Y1ETkc7hybi7YUArtk0+r8hRR9kC00CfBJwVqUDlamT1XAO6tYAYnLuqIGplWGrBBhrH8KEiPQ2fQdVZ3CY/tSIb9mO6y0ovo2SlLnhVWui1TwBrGfFgtg/uVL+R1wnyXRaRJJ4LoA4olC6EmG9huN3jiDO9CHmBLrlsTAxcQdbpWBtxFgjA8a60hBreYGjrkSvihfrk/x/8=;TPdL73reMDpJHGXBKjyl8Q=="
 ---
 

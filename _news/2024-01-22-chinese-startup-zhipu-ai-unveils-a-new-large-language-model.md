@@ -7,7 +7,7 @@ originalUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507da
 webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 841
     height: 560
     isCached: true
-
-related:
-  - title: "The myth of large language models"
-    excerpt: "In order to build intelligent AI systems, it’s time to recognize we are building complex software engineering systems, not prototypes."
-    publishedDateTime: 2024-01-18T02:58:00Z
-    webUrl: "https://venturebeat.com/ai/the-myth-of-large-language-models/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 54
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/AdobeStock_623175763.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
 
 secured: "qe7uuvM6lnYEB/B6mQL3No8FCQVcjMEVwBxTHiME7ycZ9wArlQ93oaidhrsvI9NoPlBhJ4DqaJoT8HtR+v1a9A7xwRVVir2kRdMf/A5OJz/HuKR36dObdfKJJE5++cQRR+iorSlp8bQ7vqeuQ89pPU/jmZHlfjId8hNLpPOtqQ4Jykahsn/0n0K67eCLCIG75OBQJ2PbJWMZbo9mF7QOGxAVIXIOZbFxjJ6NGvDACkMVd1Y2KdhMhFjMGHTzT+ze9xJZkAc3zUB0xDePsR5eLgKclAwWXEfrBpWy89b/WSd2R39tUCrxKGgzZCyLCddD6OuELUIkkMKDEeGM9q2N5A7+4FeqYQ0iNivPZbWDv20=;WHrXcsyqdjZPWIeECOfHfQ=="
 ---

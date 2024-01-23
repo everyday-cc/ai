@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
+      "title": "Remote-control rental cars: Not as driverless as they look",
+      "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "originalUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/efef334/2147483647/strip/true/crop/2162x1135+0+152/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd2%2F82%2Fd42259e04e569d651c76a719e0e9%2F10-vay-car-modern-1.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-we-should-stop-comparing-animal-and-artificial-intelligence.md",
       "title": "We Should Stop Comparing Animal and Artificial Intelligence",
       "excerpt": "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1176,59 +1228,6 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages-heres-how-itll-work.md",
-      "title": "Bard AI is coming to Google Messages. Here's how it'll work.",
-      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3405223/",
-      "originalUrl": "https://www.androidauthority.com/p-3405223/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

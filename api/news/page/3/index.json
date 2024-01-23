@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages-heres-how-itll-work.md",
+      "title": "Bard AI is coming to Google Messages. Here's how it'll work.",
+      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/p-3405223/",
+      "originalUrl": "https://www.androidauthority.com/p-3405223/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-ai-design-startup-shuns-stable-diffusion-for-in-house-foundation-model.md",
       "title": "AI design startup shuns Stable Diffusion for in-house foundation model",
       "excerpt": "AI designer Recraft is building a foundation model. The move will ensure higher quality images than Stability Diffusion, the startup says.",
@@ -361,6 +414,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-as-expected.md",
+      "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs as expected",
+      "excerpt": "There’s been many attempts to extrapolate out and project how the AI technologies of today, like large language models, might impact people’s’ livelihoods — and whole economies — in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
+      "originalUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-496822526.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
+      "publishedDateTime": "2024-01-18T20:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -812,7 +917,7 @@
       "originalUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1137,109 +1242,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-a-new-accelerator-for-ai-first-startups-in-north-america.md",
-      "title": "A new accelerator for AI-first startups in North America",
-      "excerpt": "Learn more about Google for Startups Accelerator: AI First program for North American startups.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Startup_Accelerator_highlights_-_high_.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
-      "publishedDateTime": "2024-01-18T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-5-ways-ai-can-make-your-human-to-human-relationships-more-effective.md",
-      "title": "5 Ways AI Can Make Your Human-To-Human Relationships More Effective",
-      "excerpt": "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "originalUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "publishedDateTime": "2024-01-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

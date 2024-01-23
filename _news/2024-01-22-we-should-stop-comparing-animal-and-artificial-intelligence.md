@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-sto
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Why did this company AI chatbot start swearing and criticizing the company?"
+    excerpt: "Shipping company DPD has a chatbot on its website that uses artificial intelligence to help answer basic customer queries. However, a recent update to the system caused the chatbot to become rather unruly and not at all helpful. Ashley Beauchamp turned to ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/why-did-this-company-ai-chatbot-start-swearing-and-criticizing-the-company"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 35
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
+        width: 1440
+        height: 700
         isCached: true
 
 secured: "Z3+aOz/fzTLXwMhLrA0Mp0YQuf1AHGBiIyWV27wETt5IBDHISaNzbgn/L1p+G1PDBuf4Pm0jtG9+EyHcEaIhXXFf6pw9BIHWItWQ3e3a7egGQqHRSiSDu7vf1b4X0U5+VpMmFBy16HmaZHaGQFN26TyLJewLKo/jhLGjeKto0rtiapw8DfCYR0WL7ZMYioV5/CGnPZQTVLk/qcFlZKEAf6dposQctljTTpRdncU+Of/+GNrWfBUI4iHzp4ZfMhytsooFFTz3nXsiieTgAnAi653ICKCn7D9V6qcmZl5mSlFFsusoa844JZAIA5/utrIep3v6eq3J8rug719u6ig6XoxoQASStpJ/sulZXSyiUz+PIlAaXD/Ly5hzZhz9EVpv+qLWxhr+arj1M5D9iWjJb9oim+mDp+Fj0VeDVUKRUOxafhUX6ekeSuQRUg1wDAswWtfggUhGOkeuIAyX6C0VjQBbCXtHG7YecqFQ1figfd1JxREw8ZaHLWHELRQ5M07dyZRmthw50MiIOyu0zW/y7g==;1fzDDyQzGqjsG8qbji/5aQ=="

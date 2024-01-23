@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Preserving indigenous languages with AI"
+    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
+    publishedDateTime: 2024-01-23T01:00:00Z
+    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "KPMQmeKOhCfziU7BjdIKnX8q2CEfy/Ry4vhmymIu1NVp/n5NXoCS03Zp031517ZGEu3U2C5vQBiGYpQyTvMWbbN3VBzLnKyIKchEaaoXih8CrGSL7xbMF9WLmGmu4TNhRmsudnOvhy2o524cWNnLMWDScr41faD6V1wCYQKdcqO0U8DeUL/oRwS7K6Ym6yaHUycozJWvMI52X7Zq90anTxB6pyW2FVf0Vmt83adv1XIxJWeD2+Nwlm8yzL5GZm21hcI6s14RxkNuPiL7hpEmnp2T7cQG8GgKHyEbrGqeebrXvoBIUQda2WzkyeadLmWES2N+oCsToN+bBAC+WcxopXpopXyMT/OAYFOy4CK66Ig=;nXsOmwK4Hkrc1xfaNAtD6g=="
 ---

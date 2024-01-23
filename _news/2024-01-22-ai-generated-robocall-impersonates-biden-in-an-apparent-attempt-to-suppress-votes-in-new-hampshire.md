@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/politics/2024/01/22/new-hampshire-p
 webUrl: "https://www.washingtonpost.com/politics/2024/01/22/new-hampshire-primary-biden-ai-deepfake-robocall/9ef718d6-b958-11ee-b176-fe5fd794e716_story.html"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -24,16 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Experienced New Hampshire hiker dies on solo trek in blinding, waist-deep snow in White Mountains"
-    excerpt: "Christopher Roma, 37, was an expert hiker who ran his own long-distance trail guide business and had accomplished the 'Triple Crown' of challenging cross-country hikes."
-    publishedDateTime: 2024-01-20T16:00:00Z
-    webUrl: "https://www.pressherald.com/2024/01/19/experienced-new-hampshire-hiker-dies-in-solo-trek-in-blinding-waist-deep-snow-in-white-mountains/"
+  - title: "Democrats sound alarm over AI robocall to voters mimicking Biden"
+    excerpt: "Fake robocall beginning ‘What a bunch of malarkey’ encourages Democrats to not vote in New Hampshire primary"
+    publishedDateTime: 2024-01-22T19:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/jan/22/biden-fake-robocalls-new-hampshire?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2024/jan/22/biden-fake-robocalls-new-hampshire"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/jan/22/biden-fake-robocalls-new-hampshire"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 6
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/1f327793f98a1d4916f698f7ff33f6e4e3eb3a98/0_0_4000_2667/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=954924e3f306507d014c8c5d44afbd63"
+        width: 620
+        height: 413
+        isCached: true
 
-secured: "b7TOm2M+GhjOL9zNurov7JYIRIhfP19yu9BFCCzNe+D/9kVd+NqnvLZsSI3w6MlvA0PM6DcQt/n4wzj4S0sOQ7x4iG9FO9c8t5I06h8/On0TnQZrjJ+7pqC8UmPepkRtzszDLVH0MHva2PoSenwo9At78R83W5cmxcTTx9VEJMTb6LrsvjkWDe1fvSgnRjWl+ItM62fVcDOkqp4LMdfu8nmKz/IFQZNvLWZKMEJ+lQYRCGeeeKycS2kjkOurQGiHrPamYejsWd5wlrGbYe+dhlDwzH6r4OnH4rS0OcQPlAXL/vjZXoXMRdpBl0qAwhtCNPdgZeqeYoLHnSTUy5lAJycepRfrAKUS1Q7cdECdgpw=;PgCS1xErM7znC+vcGZST9w=="
+secured: "2cgTkIaMwWLGJnlJDsezQ1hez+pT3k9P1VxWD6w6vARtVbBzvNg/uOZRq0t6PZqfuSScyQZLQKdMWJLrvW8GSDPdUnxQhqDT0jcwacxFi6rrHt9/8Q4QdT9hRYTicF10ZZRsWNNQqN/TPOMIef6y9vVInHXegsDSWF6n+dpksbFH/XWCgXhoFDicaKA85BNwhb+ACKcck5+FG/82DgZS7sOgQo2Y/A4XK5xaCWMipa0ggYzV090A4hQCHf/OBC+avB9F8vZwQjIzWS+ezGGS8a2NBW13zYCp+Z32rSrYCp13qYKljzVQSyUxYGrKRCQXt12JSr1Lxv86B1iKVPa9T5D7Fv183AzJi+ret/m3KlByy3VNuI1m03xfVAzHXT0bhUD8k+e7srNyPY9lC9ld2kHFG7dc+UB7hIlz8pFaipMk7cFunpZrf3W/xYvg2Ti7dhy/OqfF6XBFGJ3QztBXq/BpJsdYtY7mAqFWU22PhlJuWSeLDjqQjRkiuobQ2Ps8tjIpxu3VWloIAyeyOoT+lg==;qNlv3tki1wkkn2rR9CkGwQ=="
 ---
 
