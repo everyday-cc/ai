@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Challenging the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Pro Research: Wall Street dives into Meta's prospects and challenges"
     excerpt: "Despite the positive outlook, Meta faces potential headwinds. The regulatory environment poses a challenge, with antitrust issues and privacy initiatives that could impact ad targeting capabilities. Moreover, the competitive landscape for user engagement, especially among younger demographics, remains fierce."
     publishedDateTime: 2024-01-21T20:58:00Z

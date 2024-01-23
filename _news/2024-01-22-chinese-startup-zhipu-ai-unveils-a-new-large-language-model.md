@@ -52,20 +52,6 @@ related:
         width: 878
         height: 642
         isCached: true
-  - title: "Protect AI finds vulnerabilities in open-source AI and machine learning tools"
-    excerpt: "Among its offerings is a bug bounty program to identify vulnerabilities in AI and machine learning, which Protect AI claims is the first of its type. The bug bounty program has seen strong success, with over 13,000 community members hunting for impactful vulnerabilities across the entire AI and machine learning supply chain."
-    publishedDateTime: 2024-01-18T18:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/18/protect-ai-finds-vulnerabilities-open-source-ai-machine-learning-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
-        isCached: true
   - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
     excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
     publishedDateTime: 2024-01-21T12:53:00Z

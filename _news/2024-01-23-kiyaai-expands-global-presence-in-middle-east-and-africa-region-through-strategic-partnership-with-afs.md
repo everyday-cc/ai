@@ -25,82 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+  - title: "How satellite images and AI could help fight spatial apartheid in South Africa"
+    excerpt: "Townships get little by way of public resources compared with rich suburbs. By mapping the problem, researchers like Raesetje Sefala hope to reverse it."
+    publishedDateTime: 2024-01-19T11:32:00Z
+    webUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/"
+    ampWebUrl: "https://www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/19/1086837/satellite-images-ai-spatial-apartheid-south-africa/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 53
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/GettyImages-497332251.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Arab Financial Services forges pact with Kiya.ai"
-    excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
-    publishedDateTime: 2024-01-23T09:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Kiya.ai expands in the Middle East with AFS partnership"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-23T10:49:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-kiya-ai-expands-in-the-middle-east-with-afs-partnership/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "5qJysQmvIuUrV3fSGrdRq7CAto+X8nrRthlGZ7r9nNT+GL9v3MCVREP4zja6qhTtnbXTZU2b9tYgkrKobFvX84s0XdBIgwkZMe+wBFsYSOCT4Pw6ufYOprsP9/g6BIuAyxuLLpJcbYuVnXawP7xtkKhUcIbG/X8LgV1+F83VLx31PMwp/mnz8h7ZBzxrcWvpQXrVwMyM0grP1s6y2cK9+cym1GbMepMJh9tFFan2lV7U0tvy1soBhAAItgUel/egoDU5e1o6a9fVrAkVZO9yyKytGWspnt1wxIq2V7SXxd49hS09vL8efzPmgQ1TuuSuIqZF6La23WNBcQyFvsMqR/3PZqLXEwf5j8VOltIO1ZM=;ZMpAziRccV1VXW9zk+hhxA=="
 ---

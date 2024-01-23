@@ -22,22 +22,6 @@ topics:
   - Meta AI
   - AI
 
-related:
-  - title: "Getting to grips with the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasized the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/getting-to-grips-with-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-
 secured: "Zq2FF1apinl95VGWGDgm2zqRMGvsvYWXv9Lv+288IOzgqUi8tY+lozr2Z8WgN9qzqeIarlJ4LoRUSJQCZwppfTtNFL1ue+pEKI9qXJqTjABrLdogCNTuyp/8YOOzaO9CU7IOgMpUhYGjSCCS4v4VGus4795WAUIJUV9aGIn4a4a/g4gl+gK7zyXDFJQkeL22LyY00nAp1kePz4nRaJs5P8g2TAIsb23Ml+6fDxPfdB+VCdmqnPaLAIf51r7GmDasa7EYVEv5UCzud+UUPD154JTq86PhwKQ/pBTc1qiy/CL0yUMkX0AtTJR5F+hBGZFwIB93j+oSXFOYizkTE5CKpgeiw954JP6qVgEM8qA9uek=;76cMy2SH8s6vP5UmVqDTwg=="
 ---
 

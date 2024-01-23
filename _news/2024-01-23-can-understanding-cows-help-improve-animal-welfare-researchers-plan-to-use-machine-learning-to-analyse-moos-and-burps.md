@@ -7,7 +7,7 @@ originalUrl: "https://www.foodnavigator.com/Article/2024/01/23/cow-moos-and-burp
 webUrl: "https://www.foodnavigator.com/Article/2024/01/23/cow-moos-and-burps-to-be-monitored-using-machine-learning"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 750
     height: 562
     isCached: true
+
+related:
+  - title: "Artificial intelligence to analyse rush hour traffic"
+    excerpt: "A new scheme that uses artificial intelligence (AI) to try to improve traffic flow in Hull has begun. The technology will be used to analyse data gathered during the morning and evening rush hours on main roads in and out of the city. Computer software is then used to change the sequencing of traffic lights to help keep vehicles moving."
+    publishedDateTime: 2024-01-23T16:53:00Z
+    webUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo"
+    ampWebUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c1014dr286yo.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/8a5c/live/db1eed60-b9f4-11ee-9c89-ddb6731d5962.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "QCJ1aUtNlRyc5/XtQ0mScx7qGo4wNXi+iStaeejLexusTI/FDKpqX0BrlFagzgOWqX7PN7082A50jm2WYkkDs60RxYGVwkF9tZ1lL3QrV2BT6k9zHA8lrKpRSJMnfmsxxl1QD+6pYWAzhFEiu83YPbVY5PRvcJibvSiLe4nRv6cl8w8tsZU247UYct1puUnGSlk6PXY8TqV1I39H+dl7lOUT7ghOcrP5ogHFe/XY2Nhd9jDUIRoyGNeMkLksMy1O/opBXlyOW7+LQ3I0SlyNevF0RYsuc8/s7n73HW2Ry2fVK3/8oqQaSosAuW1yS6JthxYmGtLdW1vMmdhVeRbnlblqrBTxSiPy8tbO5hgSrHQ6fq/nOm611Xg43EPRc5fY4LvTpCoMEGJ76wlBTOek0lv/YxoNwoUYI14AIDbpSvgdnaW6iuxAU9B665VH4sTTuqL+QhyLF0LfCPc5HhUegPCLrxL+b7W6uPsfz2CzVmE30gcdntC/kxjFW2Rf/PR6mOw31AuGSZsIGpUNNy1RvQ==;9pYBkxEN2irpy/NtfoW7+w=="
 ---

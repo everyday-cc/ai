@@ -9,8 +9,8 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consump
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Crude Oil Prices
@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 45
-  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
-    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
-    publishedDateTime: 2024-01-22T17:39:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 43
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C/6ONsiONlVQGdsv5hHGP5qSPwBVqTnb4NCn/HwI3iq8m3oF4ieNMvh043XZ3iHJ4Fz1rjNBGK/Y8E8aT5KapgR31xfT5ENizg97TA+P8jyYx6TuL0pXcu8JhbD1WuXIYkicQduso9CQd6w+qmqWnyh+1dHkjjTL7pB3XFinNFCnrY7DZaqFnLFQK0Znlvml7ITeCqvA/cuiQ3umGezK6mKsMIEMg5kapt6jt5DTXZE5JRsMdkz33SdTxN/cc1rbT1XZTGcb3MngKewoDfiuY7QAF5kPIp+b7l2PyMMrnA2UuEVv95dXzPxYWlDv5xfObCWMxttIhSnvI/VNM4CJgyefsLVB2SRUbx9DUt1In8Hdf9hhvrX9OD8wG3wOxYw3zFves1FnyRxaTsY8zQ3/nv8PkAVqqXuCWYCwHhxiIUFwSQQ2J3CUkUgCGRR16Y9PVijmgSSqAIz8EBBEVvccBJkcMikAo6oLPI5y0RMHeTV7dKbmbgpMvTqckv4s2Mwaa0HOXR2HezaaP5LFNnICDA==;yt9PHyExZF/x1NRmB9IJqA=="
 ---

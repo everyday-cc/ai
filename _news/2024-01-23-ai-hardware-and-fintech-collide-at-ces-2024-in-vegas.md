@@ -95,6 +95,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
+    excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
+    publishedDateTime: 2024-01-23T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uk-tech-trends-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240123-uk-tech-trends-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
     excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
     publishedDateTime: 2024-01-23T13:03:00Z
@@ -124,20 +138,6 @@ related:
       - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
         width: 1920
         height: 830
-        isCached: true
-  - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
-    excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
-    publishedDateTime: 2024-01-18T18:01:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/01/18/artificial-intelligence-alphathena-hyde-park-angel.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12121278/gettyimages-1255418800*1200xx2309-1299-0-0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Davos 2024: AI most relevant for fintech development until 2029"
     excerpt: "‘The Future of Global FinTech: Towards Resilient and Inclusive Growth’ finds that artificial intelligence (AI) will be the most relevant topic for the development of fintech in the next five years, according to 70% of respondents. Embedded ..."
@@ -183,6 +183,6 @@ related:
       domain: business-standard.com
     quality: 19
 
-secured: "ilbBo2QcE6Y8zVGaSeIJ2GlnzPMtpysHnGEq2z4X5UGJJP7wvTMQh+4+1DJ/BrhkgLcAZoTxZg6pjboCEzI7dXf1WFwtj8IRjC4BZ4JuJWIdidz2L/9s3DRRJMSSEFAtDpWrs0uOgfZPqf5+qwnLB2W8gfpe1byMEj5l4kO59PFbOADfJn2GsYfAnVBRoLxTgf/CU4XcGtZAAbPBZniD54K6fPHRNNfUtVd4Oj/k1SDe5MJJ0jFA9TCuoeJSyTRDYi/v+7q0tD56f/vycKC2G2OK8P2XrjyMex93G4fBNqTXGHkTE3p3UJWseGJXnLNfQyo7aBKndEWxtRqDFaKX6+gs6va0Ujy5BgflrdmSQJ0=;gpUC5ZQKWkgp6NP/R5ZDPA=="
+secured: "8EuAKp2UWsd2Ro/2dpYmr2lzszeXMUmTYjpjAJ7vgkrHAxDDOXsUyTBOSupjkVijvi9A/AJ+D/Jal37GVD7/nwiiuvzmSMqdT27oXVhFab7dp8N3iI+e/MEZgLr7ClnXsNzxw3FtGejPh07qkHqWgBRddnxgz4MPFQQG61bl4sFnvLO8c/IWrrbkgFOxM0V5E668PwEM1lBW1U7IqPobPxIBof3C0jdo2prn9LUgv3Y7PkN7xBfzePtkp8ZXpp71Wojw89lIPfgFo1ZG3gR3NPik3nJthlLF2GVGpwrZK+tQxJ7qL2ZsIXwEldX4c9L01FaWpIeUoewBQ0D+VC1b3u+bd/bgih69YfxOf/35yfEIIX60fgGihy5s6ARFQiYVK+5/vqPpR5TUfcpfPEI+S6Ni68ivLmj+WZBYUTTOTslWsI0xHGWDvDssITTJKy50dO8qz3gms0jJVU3isFMrcN/i4kAsgW5bke9j6p31gb2yqO2lKsbmRxQ/qsJfdKQ95mZ1JGWsZSpgYuBREXRxEw==;quRIVsnPWjPrgbAv9ix2ng=="
 ---
 

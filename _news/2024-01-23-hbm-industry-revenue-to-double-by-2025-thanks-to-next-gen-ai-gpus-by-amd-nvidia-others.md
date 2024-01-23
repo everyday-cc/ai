@@ -42,8 +42,8 @@ related:
         isCached: true
   - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
     excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-    publishedDateTime: 2024-01-23T16:44:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23532568/"
+    publishedDateTime: 2024-01-23T18:16:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23532568/"
     type: article
     provider:
       name: The Globe and Mail

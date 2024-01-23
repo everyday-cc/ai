@@ -154,6 +154,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
+    excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."
+    publishedDateTime: 2024-01-23T16:29:00Z
+    webUrl: "https://www.techopedia.com/who-owns-deepmind"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

@@ -107,6 +107,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
+    excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
+    publishedDateTime: 2024-01-23T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uk-tech-trends-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240123-uk-tech-trends-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "AI Has the Biggest Impact on the Fintech Industry"
     excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -120,20 +134,6 @@ related:
       - url: "https://www.tradersmagazine.com/wp-content/uploads/2024/01/image.jpg"
         width: 1920
         height: 830
-        isCached: true
-  - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
-    excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
-    publishedDateTime: 2024-01-18T18:01:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/01/18/artificial-intelligence-alphathena-hyde-park-angel.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12121278/gettyimages-1255418800*1200xx2309-1299-0-0.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Davos 2024: AI most relevant for fintech development until 2029"
     excerpt: "‘The Future of Global FinTech: Towards Resilient and Inclusive Growth’ finds that artificial intelligence (AI) will be the most relevant topic for the development of fintech in the next five years, according to 70% of respondents. Embedded ..."

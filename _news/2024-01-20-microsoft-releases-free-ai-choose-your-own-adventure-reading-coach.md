@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft makes its AI-powered reading tutor free"
-    excerpt: "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ..."
-    publishedDateTime: 2024-01-18T18:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/"
-    ampWebUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft's Copilot Revolutionizes AI Investing"
     excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
     publishedDateTime: 2024-01-18T22:32:00Z
@@ -116,6 +100,61 @@ related:
         width: 1260
         height: 840
         isCached: true
+  - title: "Supermicro Stock Surges As AI Computing Boom Continues"
+    excerpt: "Shares of Supermicro, a major maker of computer servers, shot up more than 30% to a record high after the company said revenue for its recently ended quarter would be far higher than initially expected."
+    publishedDateTime: 2024-01-19T18:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-19-2024/card/supermicro-stock-surges-as-ai-computing-boom-continues-mZYGhxVVIwZg8qM16I7n"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 49
+  - title: "The AI Revolution: Transforming Bing’s Landscape"
+    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
+    publishedDateTime: 2024-01-22T15:21:00Z
+    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
+    type: article
+    provider:
+      name: TechWyse
+      domain: techwyse.com
+    quality: 39
+    images:
+      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
+    publishedDateTime: 2024-01-21T09:13:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 29
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "AI set to revolutionise retail"
+    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
+  - title: "No Jitter Roll: Microsoft Copilot Receives New Features, Cognigy Available in Azure Marketplace, and Nureva Collaborates with MAXHUB"
+    excerpt: "Microsoft adds new features to Copilot, Cognigy is now available in Azure Marketplace, Nureva collaborates with Maxhub and Q.SYS on new audio/video products, 8x8 adds AI-powered features to its XCaaS platform, and several new products debut for CX ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.nojitter.com/ai-automation/no-jitter-roll-microsoft-copilot-receives-new-features-cognigy-available-azure"
+    type: article
+    provider:
+      name: No Jitter
+      domain: nojitter.com
+    quality: 18
 
 secured: "DichLoF0jEIew9R499uDjqti9GnWSOq0dLyCa2e+MsHNYe0J3zraBCVpSw9qy/FmMJDi1yb0fcI+n5T0HZ3Ex4G5y+k233SyJWX/SCOaiQIxrcuwDb1Cd4m23X0r1Vs7YGr/xgAItdMag2/ZDHCKDhui467U3uKNhKxVgYDQhRvYUV2IeFvmKGYzwcmCww+MHW93szZpItHuV3Ajt8rNL+13KMP+b0Ya58xzE+7KBIb//pzdxplNT9/dQMgtFIV9CakcJNaSF+UPYB18BPRHgUNKOtzcZA0R7FJK1YYAuC7Pdt/Y5Xif+UTqquUCxpQF0pc9Q8X/vyuspcmzDvwEdKttjvjUOW7pxd+5yzmPWZlFXv/HwfrmQf2NcjPMWDLP50BYAt7tp70AJXy68LXUAnQYp20CrbBI4lcH5hUm/yR7lTXnJdk2YRgR2nCpY26nSeSBla/aRakZ0qpLPhBxA9m2fgkeDMddoVyVWNsd+8OffafJQ4fZcekT0AgRwPnDviy5lfihgEXUw1rT7IXsXQ==;T5wKkWx3/r3CLQnX2bSDoA=="
 ---

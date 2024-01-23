@@ -45,6 +45,22 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
+    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
+    publishedDateTime: 2024-01-23T16:47:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Seven Keys To Making Generative AI Work For Your Business"
     excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
     publishedDateTime: 2024-01-19T10:30:00Z
@@ -112,7 +128,21 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Google Adding AI to Chrome Browser"
+    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
+    publishedDateTime: 2024-01-23T17:43:00Z
+    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "9MqQksYX+dDRAxEP4WfxSK5nrjnKnAvArwfi8/8+UW14nulQ+mJ2y0kOefKQcXg4l9HOXFdNW8yz7DDMpUXr7tGRN9VsoAzPgzcNHXhceH3Q5/Gbfo94DATk3xU2+ZSiuRSOT+nizkQiM2T8j2zqEkCiYMh79v6cRGn3rwCCs/mC3NKbQl1O4mJ8c1fgQD/WxYv10+QkYm3WQfsRnKOkwOGd/Y6Cj9cEa0exrGJgCvwAAaCk5HQvvQqVVw1aVY2BXreja3h15qAK/sa52FRRaxFAGw+PbxDEvUhyCgrFKMPnv2Vna91rc2gIXo5kc7lrtkpiVLjXzYBQqmzl+Nah9ZRH9h827bqNlqofq83KhDs=;1PQ3QV3g7mwkyks09Y3TnA=="
+secured: "Oko9QoTzCCo5ILVRYOFlbwxUMAvKDjWgQXbVE4vPjFtGtOwhELe3LBAS6qCEPAI7ulZsoCTN8r0Qf4fqhK2LPndWBHw/ojGc0iHdXpVS+Fe/Nw6tF7qevlzzBed+AXEKFp7Lopx+PSmzF+S8AHBU7ajCh9nElLgPAkhH9kg+Yn2xyo97mjkuinLkxRclTgzROFaGp1GYCqftZCjfkpvESkqxPIpJeNUu0K0zOd5OQvQgnSLDeL57x4bcXwhR9doLsDYUTi3riGYSboVwECRgxzq0OPjZ3+GoNPd9qbXV9urJqAqRkm7cCcXpXYcHLqECANNbYszk9HNpDqlJE/SxW+jRJ+ec4zVCQg/IUdqBaNRw9xgm30OfqqQRmGrF55LXNunsbdg55h6PSF2uiYYJFq1pIBIzjqiqsskgygWN821KF+OGxeh5A0FcYGEAqQKRvudLd1+rxAtpWVCrx8CAto44AEW5nisLnauQj99qFiv6GeI7KNupuPXZisPKOKKRRpN325n0TkhFfL001/wHsg==;eYsaFjqpSUT+bTFxJA14dQ=="
 ---
 

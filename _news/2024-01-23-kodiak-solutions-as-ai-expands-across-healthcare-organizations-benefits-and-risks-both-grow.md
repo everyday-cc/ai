@@ -25,31 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "AI's Massive Power Consumption Demands Innovative Energy Solutions"
-    excerpt: "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian."
-    publishedDateTime: 2024-01-22T08:00:00Z
-    webUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html"
-    ampWebUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
-    cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
+  - title: "Opinion: AI can revolutionize healthcare"
+    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
     type: article
     provider:
-      name: Crude Oil Prices
-      domain: oilprice.com
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Opinion: The big AI party is not cancelled, just postponed"
+    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
+    publishedDateTime: 2024-01-22T11:03:00Z
+    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
+        width: 3501
+        height: 2469
+        isCached: true
+  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
+    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
     quality: 59
     images:
-      - url: "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg"
-        width: 718
-        height: 300
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
+        width: 829
+        height: 553
         isCached: true
-  - title: "AI adoption and innovation will add trillions of dollars in economic value"
-    excerpt: "The trifecta of opportunities -- economy, business, people -- stands out, potentially creating an additional $10.3 trillion in economic value by 2038. Most CxOs believe generative AI will ultimately increase their company's market share, with 17% predicting the technnology will increase their market share by 10% or more."
-    publishedDateTime: 2024-01-19T05:41:00Z
-    webUrl: "https://www.zdnet.com/article/ai-impact-on-work-workforce-and-workers/"
+  - title: "Opinion: How Generative AI Could Boost Aerospace In The 2020s"
+    excerpt: "Here’s to a promising year in the aerospace industry, driven by record commercial aircraft deliveries, a steady increase in airline passenger traffic and a strong maintenance, repair and overhaul (MRO) sector. There is a good chance the industry will reach pre-pandemic revenue levels by mid-2024."
+    publishedDateTime: 2024-01-19T11:38:00Z
+    webUrl: "https://aviationweek.com/aerospace/emerging-technologies/opinion-how-generative-ai-could-boost-aerospace-2020s"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 39
+    images:
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2024-01/vwpt03-brazilphotos-alamy_stock_photo_promo.jpg?itok=NzFacAnK"
+        width: 1024
+        height: 577
+        isCached: true
+  - title: "Artificial intelligence in health care needs more regulation, WHO says"
+    excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.phillyvoice.com/generative-ai-artificial-intelligence-health-care-world-health-organization-guidance/"
+    type: article
+    provider:
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 21
+  - title: "Opinion: Harvard president failed to defend free speech"
+    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
+    publishedDateTime: 2024-01-22T11:35:00Z
+    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "WXvq3s8slUJLm9hB/9QmAyN9WMBRzS/5TOy5GMys9hIgDtNCn7iShgf1oakY3PMtSIR4GvFJv7RbFdACoa+5X5Jo1y1ct0IAn1aQSUK09UfsK22sHX/f3y3pN0fCTGvpWax5F5vV6e0A3kgn1uehKx3D8OS32qq9Tv3cCP7RnEp3s5X4eG4KkGKJZAftf5S55hHgoj4QCm4scOEaJOf2i7MMhpAoQHun0O+x725FnjPhP5X4u9PpNUYNe0KJ591oMCJACSW2dQ/0w1bIx0YKHd8aVM/qdf02tzmDynBvWnsIaG3/rjCVtHTGI9/+RbgqTu5VFhkadwH3eWjQo/SoRBeg7gYAj3Ke/lqqRchhtRE=;bk8Bmq7oOPX6hJIjmt+Kaw=="
 ---

@@ -2,9 +2,9 @@
 category: news
 title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
 excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-publishedDateTime: 2024-01-23T16:44:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23532568/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23532568/"
+publishedDateTime: 2024-01-23T18:16:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23532568/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23532568/"
 type: article
 quality: 55
 heat: -1
@@ -68,6 +68,6 @@ related:
         height: 451
         isCached: true
 
-secured: "IhKhd4E1C1rimN3Ok8B3JKM0bTnKIUUVBNmT2OE18kkgc5nrJcjaRMjiocIUpUtPD2IP+CVt530lmCuvx4LMYLrhQDSZ/dhDK88yVzk+A9PxWEHPgTBTpmyMVVeiJ9VkSH5QaSsZCVA3Q/2ZLXv5usEzjrxWyUai8vrkPKbXRN0U3fZx1ptihqdnwuZ6UD9XwZiS/KEuPHKj6MuimhctgfnoVNyw3AtxrfgO6FMuiBMD0CogJv+ID27scaARxFSVx7it1Oh7RVgvvpjiYwb43XFh6DrcfyplzCosEhK+YPHFISNcJhGgNzJsSOJrJnz4/0r0ZhjatMXxP/6PnUvOOBZaAXYSy1VPW5YXVd1bUcQ=;JOmVaJ92/csN3ovMFKYUog=="
+secured: "GN3X/p7O92ZkVwQxppq4zCBp6I+8zUaqG03ZJHi3KK02RSWYJpoDS0DT8ZcKhK9gPww+w8XG4jmqp+NtQuI5UF8gxZOxbt/iug+IQlfYA9xuEr5XhRdt3vLNDan/PdPggQAlrPLNyd+TuqPqRZf+ZG8d+zSlkM6VDJT4J6NQtqUG/tB4UWnqpiinKLfsaXWrs5EMg7tM3RE3NHpIau/bVEO300+JCwIfR1s7fW5VBtelbT2oKpuBMOC93WotPHFVNqIowHF5apxJvclBs99HgzWdAMs5OJ1Dw45MSDSCM46eWsukeuA9y8m9uvlqcLpfgRhtVmRCs9ARTyES5xH4PYo2NCrbE3KrqKTMHFiZy6Q=;q9pP6nhS5PIUWMExSzf7tQ=="
 ---
 

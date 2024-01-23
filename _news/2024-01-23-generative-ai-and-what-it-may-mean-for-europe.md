@@ -7,7 +7,7 @@ originalUrl: "https://www.euronews.com/business/2024/01/23/generative-ai-and-wha
 webUrl: "https://www.euronews.com/business/2024/01/23/generative-ai-and-what-it-may-mean-for-europe"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Nokia to invest nearly $400m in European chips, AI"
-    excerpt: "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states"
-    publishedDateTime: 2024-01-18T17:10:00Z
-    webUrl: "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai"
-    ampWebUrl: "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 74
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png"
-        width: 1620
-        height: 790
-        isCached: true
 
 secured: "QHeR02euq5f/49YHN6QHzzeUYDAWbaPK9cqOpSCyephEAsmUCSut8CW+59ePieD3B8niCnz02vPxjNnEX4DjuRrwDd3l/Ov8PoiTWf80d/TOyWhpkdziXsi3Hj77ShDp2FZSB9J2HMbbhuf2wrnSIbE3W1+w8hA54Jv7lbLUVzOe7WPz3ysmyVz5XR4tP3T8RoLQ4pHWuETHBnwcA+YllB2F7kS9Ji6fp0DPij+KhJv11k+FCZR8hjy2UpeQG9VjogQdxt+8CWesr17jFKEOUM3zFD7Lba/7rjoYAxV1Kqt/w6dhBXcNDIZ6nL23tb4rAtw6Wxfwmq2toT5jlrOxvP2bVChD6lYqnfaVyZHB04g=;md5G7tLLzuQxTUzW0ii4Zw=="
 ---

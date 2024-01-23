@@ -53,20 +53,6 @@ related:
         width: 878
         height: 642
         isCached: true
-  - title: "Protect AI finds vulnerabilities in open-source AI and machine learning tools"
-    excerpt: "Among its offerings is a bug bounty program to identify vulnerabilities in AI and machine learning, which Protect AI claims is the first of its type. The bug bounty program has seen strong success, with over 13,000 community members hunting for impactful vulnerabilities across the entire AI and machine learning supply chain."
-    publishedDateTime: 2024-01-18T18:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/18/protect-ai-finds-vulnerabilities-open-source-ai-machine-learning-tools/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
-        isCached: true
   - title: "Chinese startup Zhipu AI unveils a new large language model"
     excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
     publishedDateTime: 2024-01-22T09:13:00Z

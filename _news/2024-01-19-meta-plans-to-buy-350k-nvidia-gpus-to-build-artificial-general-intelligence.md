@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Chip War: Banned NVIDIA GPUs Trickle into China, TSMC Shares Jump on AI"
-    excerpt: "The advanced chips sector and its geopolitical significance is in the news this week as a Reuters story reports that “Chinese military bodies, state-run artificial intelligence research institutes and universities have over the past year purchased small batches of NVIDIA semiconductors,"
-    publishedDateTime: 2024-01-18T18:56:00Z
-    webUrl: "https://insidehpc.com/2024/01/chip-war-banned-nvidia-gpus-trickle-into-china-tsmc-shares-jump-on-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 69
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/US-China-2-1-shutterstock-1408705082.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "GPU-powered HPC Workloads in the Cloud with AWS and NVIDIA"
     excerpt: "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... efficiently in the cloud–helping to overcome bursting constraints. How AWS and NVIDIA are solving HPC challenges Amazon Web Services (AWS) and NVIDIA ..."
     publishedDateTime: 2024-01-22T00:00:00Z

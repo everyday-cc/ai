@@ -41,6 +41,22 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
+    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
+    publishedDateTime: 2024-01-23T16:47:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Seven Keys To Making Generative AI Work For Your Business"
     excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
     publishedDateTime: 2024-01-19T10:30:00Z
@@ -107,6 +123,20 @@ related:
       - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
         width: 953
         height: 635
+        isCached: true
+  - title: "Google Adding AI to Chrome Browser"
+    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
+    publishedDateTime: 2024-01-23T17:43:00Z
+    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "AdYDkbI5ohpQzqrzVjjwFUHTjU8qpXXtQ5vBM3SaO1F1CM8D4fkkGltD0IFj+oEB7NuMDk85bmZOBH0KMCrs4sCAaKyIwoexvh/HJ1oO/+rw9wgXuyTVoKVu75sehc4Ukb/pCX8EYPIThyLR+O4pHIy/+8Wx9BHCUGodqmI0x4ou87kXQu9UwpiQxabA2WgUNguUVoVzFY8Le+FewWt8F5dnDL0V1TQ/MBSe/il7XQ9Be641n6BGbOtaJaxWe5Cb5yxtW6+r0Ds2o1/dkS9wApZ16Pg4ZBtbAHs8pH5Y/XSr49U3IS6xKIzQJHsWm9ntOwyG9fOZSZEBYEANGuBIgsoCiXk6Fprv+ChGi/kYMrUVW08KJ3Fy8WMewitys2NlyyWNyinV8fWepfISJ+rWktfBtgPsITmQnAZT7/fSZTaLIP3ioi1ky8srqRNKqtC4nxyEP4bdL5+k1PdcFwEhhEhJbboOH5Ok52lgIt6gdxcH4rbHF+anslHATe+0j/Ta1i3GMA29x1S1zFgPVSdL9w==;PmoMe6irHw3ZgFE4j4nulg=="
