@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways AI Can Make Your Human-To-Human Relationships More Effective"
-    excerpt: "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships."
-    publishedDateTime: 2024-01-18T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/"
-    ampWebUrl: "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
-        isCached: true
   - title: "How AI Can Help Humans Become More Human"
     excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
     publishedDateTime: 2024-01-22T16:22:00Z
@@ -56,20 +40,45 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Generative AI model remembers and thinks like a human brain, says study"
-    excerpt: "In a breakthrough research, UCL scientists reveal how generative AI models mirror brain functions in memory and imagination."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://interestingengineering.com/science/generative-ai-model-remembers-thinks-human"
+  - title: "A Franciscan friar has the pope's ear on AI and how it can help — or hurt — humanity"
+    excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing “one of the most fascinating combinations in the world” in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year ..."
+    publishedDateTime: 2024-01-20T13:25:00Z
+    webUrl: "https://www.wral.com/story/a-franciscan-friar-has-the-popes-ear-on-ai-and-how-it-can-help-or-hurt-humanity/21242114/"
+    ampWebUrl: "https://www.wral.com/amp/21242114/"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21242114/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: WRAL
+      domain: wral.com
+    quality: 52
+    images:
+      - url: "https://wwwcache.wral.com/asset/news/technology/2024/01/18/21242115/65a8b6857bc15-media_040c0b58517b4a5f864124b1e8d7a3e1-DMID1-61n7pimtq-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "How AI could help us talk to animals"
+    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
+    publishedDateTime: 2024-01-19T10:58:00Z
+    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
     quality: 39
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/19/image/jpeg/cava7U2Zc2x5XApURPTyO1ctdrTe3pxFzaiwzsem.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Davos 2024 - will AI change what it means to be human?"
+    excerpt: "A Davos session focused on AI ethics asked a simple question, which produced some interesting answers… one of which is, what does it actually mean to be human?"
+    publishedDateTime: 2024-01-19T11:38:00Z
+    webUrl: "https://diginomica.com/davos-2024-will-ai-change-what-it-means-be-human"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
 
 secured: "xtLETUINsJVrykrhksKvDmXmENsmwLmRqgUyc5/nCl8zvRXmHBToGJB70zMrShQjPIpnnOM/9zTGo0dueIiU26FU8SND7ou5IdLYBi5uux5jYr6b41ZhwnyKHEIWbKN2La1S0zF0STB5b+rI9g30eNR7hKlzEg+X2Ql+QXhyEEzgnoXkplVM+DsfARvMq+qVzM2Z8M0pzt7nJMXoZIcfnliQWxPz0KS8MqZWLfgtw/sCILEAkfr6hEOg31qVS8zZM+zXOa7vlPuJheu3aSMvxQR+QbeAiEDTE91ZQ2GKStxRw1PnLV3bU2tywNJVkpVbNEIo/zw9wC91NIAgdNbRFN5ClQGccR++E/2ZFREdmjX4ePEAgo6z79tsH4CC+2W48InkZ0UizAlUd/vIJESQK8Ul1zTQ2nTJIi/oupLF5RX/h5zi4BuyRxjYkI6s4nLNW85uMTsDKNkcCfZ9uxzv2hl2+u84mOT6+KcBJ7q2+MlJuH+LdKdxMdO//5i6lCeFma4ipY/mpJq9osaJIeeUIg==;ismULM7sdqXZkSvutJYp7A=="
 ---

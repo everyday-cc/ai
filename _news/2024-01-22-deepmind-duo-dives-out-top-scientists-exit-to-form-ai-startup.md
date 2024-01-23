@@ -112,20 +112,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
-    excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
-    publishedDateTime: 2024-01-18T11:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-geometry-mathematics-alphageometry"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/deepmind-geometry.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Google DeepMind scientists mull AI move"
     excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
     publishedDateTime: 2024-01-22T10:55:00Z

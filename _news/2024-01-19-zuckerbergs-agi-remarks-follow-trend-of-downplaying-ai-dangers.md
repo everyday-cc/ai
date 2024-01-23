@@ -158,6 +158,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
+    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
+    publishedDateTime: 2024-01-23T10:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
     excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
     publishedDateTime: 2024-01-19T03:50:00Z

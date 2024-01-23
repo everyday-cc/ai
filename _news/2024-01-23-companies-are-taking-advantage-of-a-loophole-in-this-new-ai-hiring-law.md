@@ -134,20 +134,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
-    excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
-    publishedDateTime: 2024-01-18T10:10:00Z
-    webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Top healthcare trends in 2024"
     excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."
     publishedDateTime: 2024-01-18T13:51:00Z
@@ -228,6 +214,6 @@ related:
       domain: phillyvoice.com
     quality: 21
 
-secured: "VRM1KtiY+M/VWR0vxpIDCRq3Hi9G1OvXwp1sVm/vx2TmBq7+8wmxgo38fEJmz6kvMyWBXh3yLDY0kZkh36yTIZd58EBp4vxoyWiCbDj1uRf6hxM7MKqtquQbaSZIzXrcLmaZhm7KgKkPZ/QWvs3BrzjncvIU/D9/utgkTHlD4R7cvR5j1cBJqGDCf22EjDTmmcyiU95WnDzWz1W/gd9nMsIVFX5aF8C9IBZmFhvNgMIfosLg+losH6koOUIifJkL1cJd2HTx7pIoueJzmep42gndwNPp7yc3SmKA8wPmc72fVFrM5lixnt/cpeMWSZ1SFQZPo3+7R6sIcnkWt0elXJfi87N03IBBosyOTLu2s/U=;4YIZao1DnDtSBjhJZ6KEeA=="
+secured: "1KGhl6yE0RzU5+h0ZCdKug8kGnn/1PCvjKlN8s2PpOCR+wgb3e5yeQm4NxWQKz+/z+GWTWgPj0+KpgaGCFWk+3SwttZ4ND+WteLzQabl21pPPl5Cvfw+dyA4F4DnWevRGqIMMwBi7napPHwx83mUEZMijfgTes6Rq1+xlFWOc12fckNOQP33r+wbJhofTCleAoGPyz5tSGGA+2cvhHyS8rCXlfuYX0PNztiIRMN1ibjFp2ben7a2RjUbu/DghbN5IoaNrAPDfZQknITEXzNPu1b1ksBsFPcnmBxp1i7sq6NR1GyofD+O7ZsuNAKcNDIhPjDiYuN6iGeRJQ3yzsqDqdJjhJU+OkWDN5Dk4W42tz4N98SIvdOTXCcPKtCnSGr8YzGNTLBjrubJDrnnkmsk2o6QvduLvToouQdJdajpj6ojQJFnd6XoaggPyjqu6LE28nzsf9MomVsHT/8DX1zFx4cwzkL13urgi6teKEu8KUdu9Me5W7Zqdf/OMZxPmPTFFUzZvDcpnRJbQqxQ0P1PIQ==;2bDZuvCLY1GdOqa3meaTyQ=="
 ---
 

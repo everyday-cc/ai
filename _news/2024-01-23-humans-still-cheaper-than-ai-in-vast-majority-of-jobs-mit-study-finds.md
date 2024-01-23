@@ -59,6 +59,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence won't take as many jobs as expected: Study"
+    excerpt: "While researchers around the world expect job losses due to artificial intelligence (AI) soon, a new study has said that AI might not take as many jobs"
+    publishedDateTime: 2024-01-23T09:55:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_577984409.webp"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
     excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."
     publishedDateTime: 2024-01-22T16:52:00Z

@@ -67,6 +67,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Artificial intelligence won't take as many jobs as expected: Study"
+    excerpt: "While researchers around the world expect job losses due to artificial intelligence (AI) soon, a new study has said that AI might not take as many jobs"
+    publishedDateTime: 2024-01-23T09:55:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    ampWebUrl: "https://m.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/science-technology/artificial-intelligence-wont-take-as-many-jobs-as-expected-study-583932"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_577984409.webp"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "5EKwREB7IztRcz+WY85rQGX51QtbQRpKo8SKZCvTf1C4py8fDaAqLjXG7kOAxMCjSRRtQz+8pnB/P097UBZzGn+Ky2+wg8k02tCO9Sy9S+/sgFNP0o1spKa4DbCfQeWgyFwQgqJBXXXMld3bj5V0PEJZCad/BOWNR3EYT495NQM+m4QsMTo6b0N/0C0GXhL8P62u2YGlZ4o7pzWCg49Gg3/Nq+AnFlFMmR46uqlIzE1FzvyE3bGpDyHqvD4gjyNAtGVaHhDCvYQK+Cncsz6Dv0sj76y4affmpiLUkcScK53ByBnBtKzXx3QPhHnPIzPnXelbGOk7wfVsLYGVATolI+/P126buMF6vCqbRWlAPag=;9g74QUObpHmtw1pUj5Qx6g=="
 ---

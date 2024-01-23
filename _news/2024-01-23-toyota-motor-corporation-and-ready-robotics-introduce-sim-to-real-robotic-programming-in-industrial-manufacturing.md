@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/january-2024/toyota-moto
 webUrl: "https://www.automation.com/en-us/articles/january-2024/toyota-motor-corporation-collaborates-with-ready-r"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 500
     height: 313
     isCached: true
+
+related:
+  - title: "Toyota Motor in artificial intelligence: theme innovation strategy"
+    excerpt: "Toyota Motor grant share with artificial intelligence as a theme is 66% in Q3 2023. Grant share is based on the ratio of number of grants to total number of patents. Blending expert knowledge with cutting-edge technology, GlobalData’s unrivalled ..."
+    publishedDateTime: 2024-01-23T10:12:00Z
+    webUrl: "https://www.just-auto.com/data-insights/toyota-motor-in-artificial-intelligence-theme-innovation-strategy/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png"
+        width: 388
+        height: 544
+        isCached: true
 
 secured: "zDydY7wByMpyl5lY40Z0JqrVAajV6IwAkBdxdfYPsvBvoEFzLycbdq6DYKRCGjbFWSZVfVdlqoEcjKsirEj2etcd6IbhpKsSqI6BLFigkmbrMSMa/J1NfI7uo5ROs1kjUml1O6FQmSRWDL9+jy1S1EE8KZIN2sTJwFBU98UhiE0bG6RvPSmWUpNzDqN90b0Bpr0f6kBu3BGAf2WjC1zKJCmmVasi6zAxkbNWd1k7O1v4dDSza94/HF6Ev6gPRxzUVKFbzMQsMZ/Aji/8xbO9tXkWkI2WkCc6ikJBlV5DNO/xY8YkQQZ3lrfRU8aXtKz5saVBcPcy0mPq/O0kFlc8LSvUBxyhSZIpAXMiys85ClU=;/q+9QrhxenHCVl/sboKd+g=="
 ---

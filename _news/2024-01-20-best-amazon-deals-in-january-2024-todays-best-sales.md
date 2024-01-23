@@ -42,6 +42,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "5 Best Artificial Intelligence Stocks to Buy Now, According to Analysts – January 2024"
+    excerpt: "Artificial Intelligence (AI) stocks soared in 2023, and the trend shows no signs of slowing down in 2024. Fueled by advancements in areas like machine learning and robotic process automation, AI companies are witnessing solid growth and attracting investors' attention."
+    publishedDateTime: 2024-01-23T05:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-best-artificial-intelligence-stocks-to-buy-now-according-to-analysts-january-2024"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 39
 
 secured: "kAXM3SQeM/lpyOwkDbxYie0NlvFwg3tK6p/bg2UPNvZdBWIzb1tNhNJmqfPwCWvgmSQQfKeNHcUXq+HnDlutn1hZsSYRZQevDPoUXqGV3pyx6OeWPQ8V+3t8K1MyZLDHefjiPjJQzhRnK//8oA9QQJIVX7MpPynflJewhg4r3CSdnNrl6GaHJiUeb/O7Ma+B8XhvC6HVtDxLhMFPjP/XBmbX8fHMMcDw+YoOWUufotj43wRcRbrP2GM8CMBWvyodoQt9dG6Uk0AVSQCcgoG3f1bj7zLxiPMTHS/EnSVfxHLrbZJWSHifE61FyPZIvEEWATYym/hbNjM66xwm8AdLBdwaUybDTjnrrBCPyJpxZZ8=;uMLABWEo6RSuQjdVnct3Sw=="
 ---

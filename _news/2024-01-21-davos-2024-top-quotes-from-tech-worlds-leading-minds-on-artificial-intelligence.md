@@ -68,6 +68,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Davos 2024: AI disinformation tops global risks"
+    excerpt: "In this week’s Computer Weekly, AI-generated disinformation and misinformation will be the top risks for businesses, governments and the public over the next two years, according to the World Economic Forum."
+    publishedDateTime: 2024-01-23T10:31:00Z
+    webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Davos-2024-AI-disinformation-tops-global-risks"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://www.computerweekly.com/rms/computerweekly/CWE-230124-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
 
 secured: "aj+lpc7LwVrD5PuK02bDnTBY0S5Fc/qfQKxV+Fy3ZbLGhEVitGTVvn5/L5VeFkgu9d0lswgApKmh+QZRo0dkBSzuWIQE7X85zU1AlUi0QipCvXqWbUGz4IQabgHeCi3K1KfrnWBsh02d9xaz+exNF68IAy79uHcMgFGBHCcjeVTpwAG9cEN8Bg6pLsrhIh4zWgChGQPak8RlfQo/fR85Y1sSesSrC/20TnKmvSnLSHV127tCXTJYKmo4FcGq7vN7cyaoq8HGn2dRcbJXK9OJ1aLtVat42eQFFFYQSD16vqQt09xPv1czHMnWlsoaeFL5MB8p1MpVtrER+HWXU6aqpwWNm+TM9/MNOBYtp0uF1JnsX2SW1evXd//uEoRMQFL7S4seUnhIM4x0MehUgOpQm/KJqgO2VCGVm/XnzjsNc8tGS7+wvG8yEId96SglKMXBQ0bJYSjY63qy40E+xcQIxOxq8sI77pRkc63WrZ25mcXQXWdEJTXgO2GScn8Rz/hqEdKrRvyYFaH7SdrkqTNIww==;j+2Mbr+62eIxpqV7bV7+Ug=="
 ---

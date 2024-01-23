@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-s
 webUrl: "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "DeepMind claims geometry breakthrough with ‘Olympiad-level AI’"
-    excerpt: "DeepMind claims its AlphaGeometry AI model was able to solve complex geometry problems at a level comparable to an Olympiad gold-medalist."
-    publishedDateTime: 2024-01-18T11:00:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/deepmind-ai-geometry-mathematics-alphageometry"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/deepmind-geometry.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
     publishedDateTime: 2024-01-22T15:26:00Z

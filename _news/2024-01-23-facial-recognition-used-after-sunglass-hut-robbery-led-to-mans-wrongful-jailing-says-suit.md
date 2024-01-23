@@ -2,9 +2,9 @@
 category: news
 title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
 excerpt: "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas"
-publishedDateTime: 2024-01-22T21:02:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+publishedDateTime: 2024-01-22T23:22:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 413
     isCached: true
 
-secured: "HMzKet+s25vDGUMaRfbzPeR30cwSe41i+uBURbfn7NscRPg85UV3+e3NO9+5pE5vgeJbmQNmVMjZXLSbKZaKDipRnEhqcXlMXIK3+YttILt+nYeqsTu8tMrt7Nr6h5ZyzUzDZ/G39HP27LjKj3kZ6F/tSVWZYVmAL8DBZtsSseL4PA4QYZV8vV4fRJR5ym2ctExDVQ6GXQxaU+By2TiMf6D2hCOdsQDH3vTfsHSjjc33jPn4YlY9VRsix4EFGa+LEsnIFfHhJHepu0DISYI68krLnEhy9FUh8pucV7zOt2zlXZ3yURuZPmMe8rFlu6gppUuoE/GbcCs12whWTd/lJvMRDnL1MVpekWtosJsfY+Q=;Kgeib94uXR03xgEmfR8Ldg=="
+secured: "HhWTTnaoK6Hk4JFN/DDS5apBDGogA05UzyEmXVPN2TFUnLym7vXkj3cIu7pXtOovN66LtV8uyOGN71YgntCND5aPfVRWKMZjq2tovGRB6JWYiFL9RT2d6ibzGJUCIe6Q9TjdAeLTP7Ih99cvaaPPbexwOwQpWlQuJKn+zv2B/r4PUqkd3et621qmE0ajNCro8lNkRqWSGCnVxJbkOdU7XlR1J1/AbNHd0qDQlQzRWTr2khGbEV4QumThQwEAydIcsFnsow2rSMpeHusMZ1ar18zUPUdZc8A3HGKxIj8kEo32ZCrXK9ccVf8Pn/LpXQyMH/uxRiOXIXxA/Mxloew8TvM2FUWrBViD6MF70+vbIHE=;Qd21tFn7ITPEUqs9a+yI0g=="
 ---
 

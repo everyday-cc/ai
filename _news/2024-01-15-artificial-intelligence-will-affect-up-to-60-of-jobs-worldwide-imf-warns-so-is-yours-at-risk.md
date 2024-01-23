@@ -5,6 +5,8 @@ excerpt: "Artificial intelligence may soon affect more than half of all jobs in 
 publishedDateTime: 2024-01-15T11:40:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
+ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-12964137/amp/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
+cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-12964137/amp/Artificial-intelligence-affect-60-jobs-worldwide-IMF-warns-risk.html"
 type: article
 quality: 5
 heat: -1
@@ -17,6 +19,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://i.dailymail.co.uk/1s/2024/01/15/11/80025463-0-image-a-6_1705316586241.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "IMF: AI will impact 60% of jobs and worsen inequality"

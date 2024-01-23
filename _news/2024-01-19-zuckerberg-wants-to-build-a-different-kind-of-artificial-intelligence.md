@@ -154,6 +154,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
+    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
+    publishedDateTime: 2024-01-23T10:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Zuckerberg’s AGI remarks follow trend of downplaying AI dangers"
     excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
     publishedDateTime: 2024-01-18T23:19:00Z

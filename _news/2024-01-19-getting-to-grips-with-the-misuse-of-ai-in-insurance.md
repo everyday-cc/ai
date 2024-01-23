@@ -135,20 +135,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Artificial Intelligence May Be Able To Fix This Troubling $200 Billion Healthcare Issue"
-    excerpt: "MedMatrix harnesses the power of artificial intelligence to evaluate and analyze key aspects of healthcare facilities, including patient needs and resource matching, revenue cycle management, patient demographics, facility geography, and competition."
-    publishedDateTime: 2024-01-18T10:10:00Z
-    webUrl: "https://menafn.com/1107738898/Artificial-Intelligence-May-Be-Able-To-Fix-This-Troubling-200-Billion-Healthcare-Issue"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 46
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/18/B_2fa8fimage_story.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Top healthcare trends in 2024"
     excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."
     publishedDateTime: 2024-01-18T13:51:00Z
