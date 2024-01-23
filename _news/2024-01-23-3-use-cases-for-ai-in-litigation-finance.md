@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 717
         isCached: true
+  - title: "AI monitoring startup Arthur adds support for AI-powered recommendation systems"
+    excerpt: "Artificial intelligence performance startup ArthurAI Inc., said today it’s adding a powerful new tool to its suite of AI monitoring services. The new Recommender System Support tool is designed to help companies ensure their AI systems are safely ..."
+    publishedDateTime: 2024-01-23T14:01:00Z
+    webUrl: "https://siliconangle.com/2024/01/23/ai-monitoring-startup-arthur-adds-support-recommendation-systems-suggest-content-products/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/651adda87131408d1da5b6e9_blog-p-1600.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "MaEwJVwa+IjDecaFEAXtviObGOROSxAbtWeWbiEH75akEHSbDCE69EsKts5P1vIDO/iGGRH1YU8Y74P5F4OW4suWiQfoutUyFWtyHZ1TsWWibkazSV8vo4o9Ihm84Tr/KU5d20g8nbdsv9WA7jIzB9xaAfFD9yoAj7KW0ydbI/px40bCbeunJUZiD7U86oB+zRNKBW/y/5XFe/8bWHyMAK4UYsWyo2iO8MGNhAr9OG8zypMQUoQKMp0XH2yrxvFdWACYO95jeyHnxTGrJpUTKhMPzMej438djg68mvv/YqbO6Esh0e8fsKzv44i/2sg5iZteF39eK1fW5bsRChPNoEf/WngtDDR4b8c4E7WgGuY=;y1tbFAPd7cokE6rd6jXv/g=="
 ---

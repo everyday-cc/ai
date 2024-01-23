@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-r
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
 quality: 63
-heat: 153
+heat: 155
 published: true
 
 provider:

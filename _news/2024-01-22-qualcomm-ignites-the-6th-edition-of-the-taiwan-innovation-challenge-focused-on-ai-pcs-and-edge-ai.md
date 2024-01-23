@@ -39,20 +39,6 @@ related:
         width: 1090
         height: 772
         isCached: true
-  - title: "AMD, Apple, Qualcomm, Imagination GPUs could leak AI secrets via ‘LeftoverLocals’"
-    excerpt: "A simple 10-line program could allow an attacker to “listen” to private machine learning processes, according to researchers from Trail of Bits."
-    publishedDateTime: 2024-01-18T15:49:00Z
-    webUrl: "https://www.scmagazine.com/news/amd-apple-qualcomm-imagination-gpus-could-leak-ai-secrets-via-leftoverlocals"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 49
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/binary-1607161_1280-1.jpg"
-        width: 800
-        height: 570
-        isCached: true
 
 secured: "mLqwuqCtlII0eIYtDCAPomJvhZAHym1B3fsc36wzCAS/S7hiyw+0wnpZGFWsVqpePCJT038WI1DT6a9/9T5yqeNSG5LgeDM0p7qga/qdS+2Nx2MT0GDhLs/5CKY/hxw3CT/GOgL/yZY0QXa1qvnTR/97jnObOsJh/pa+MDe/VSCj1fYQ8XTXRCpfgGWhk5s8ENW+WMVNfk6q1whmB/kYLrJ45sjRT9vRO0AlwEmOeRMc+jFcyd/DdOTxydxshOD7uhvk39DZ4/itx+t/qfIe8/ikTLMCY75VcsHmcVChZ8nV/mxJFtyhXicRbNZng9wIuwNbMpCi3csVTxO9qp61fGklC7+/DZ5LjZGNZp7eKuo=;zajsXt5AFsWhMNpTy3I8Ag=="
 ---

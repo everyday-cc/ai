@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft prepping performance and memory guidelines for AI PCs"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Bottom line: Manufacturers are gearing up to flood the consumer market with a wave of AI-capable Windows PCs starting later this year, but they will apparently need to meet a ..."
-    publishedDateTime: 2024-01-18T14:37:00Z
-    webUrl: "https://www.techspot.com/news/101568-microsoft-prepping-performance-memory-guidelines-ai-pcs.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
   - title: "Microsoft's Copilot Revolutionizes AI Investing"
     excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
     publishedDateTime: 2024-01-18T22:32:00Z
@@ -130,29 +116,6 @@ related:
         width: 1260
         height: 840
         isCached: true
-  - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
-    excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/security/blog/2024/01/18/microsoft-at-legalweek-secure-data-and-gain-efficiencies-with-microsoft-purview-ediscovery-enhanced-by-generative-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 31
-    images:
-      - url: "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2024/01/MSFT_Security_Jan_11_Blog_240111_V01.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft and Cognite extend partnership to build industrial data operations platform on Microsoft Fabric and Azure OpenAI Service"
-    excerpt: "Cognite and Microsoft are excited to announce an expansion of their strategic partnership to bring enterprise data operations to the generative AI era."
-    publishedDateTime: 2024-01-18T16:09:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/01/18/microsoft-and-cognite-extend-partnership-to-build-industrial-data-operations-platform-on-microsoft-fabric-and-azure-openai-service/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 19
 
 secured: "DichLoF0jEIew9R499uDjqti9GnWSOq0dLyCa2e+MsHNYe0J3zraBCVpSw9qy/FmMJDi1yb0fcI+n5T0HZ3Ex4G5y+k233SyJWX/SCOaiQIxrcuwDb1Cd4m23X0r1Vs7YGr/xgAItdMag2/ZDHCKDhui467U3uKNhKxVgYDQhRvYUV2IeFvmKGYzwcmCww+MHW93szZpItHuV3Ajt8rNL+13KMP+b0Ya58xzE+7KBIb//pzdxplNT9/dQMgtFIV9CakcJNaSF+UPYB18BPRHgUNKOtzcZA0R7FJK1YYAuC7Pdt/Y5Xif+UTqquUCxpQF0pc9Q8X/vyuspcmzDvwEdKttjvjUOW7pxd+5yzmPWZlFXv/HwfrmQf2NcjPMWDLP50BYAt7tp70AJXy68LXUAnQYp20CrbBI4lcH5hUm/yR7lTXnJdk2YRgR2nCpY26nSeSBla/aRakZ0qpLPhBxA9m2fgkeDMddoVyVWNsd+8OffafJQ4fZcekT0AgRwPnDviy5lfihgEXUw1rT7IXsXQ==;T5wKkWx3/r3CLQnX2bSDoA=="
 ---

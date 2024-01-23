@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Robotics-Startup-Figure-Signs-Partnersh
 webUrl: "https://www.econotimes.com/Robotics-Startup-Figure-Signs-Partnership-with-BMW-Manufacturing-for-Humanoid-Robot-Deployment-1669830"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BMW will put humanoid robots from Figure in U.S. manufacturing facility"
-    excerpt: "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years."
-    publishedDateTime: 2024-01-18T13:35:00Z
-    webUrl: "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/"
-    ampWebUrl: "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "BMW taps humanoid startup Figure to take on Tesla's robot"
     excerpt: "The robots will be integrated into the manufacturing processes at BMW's U.S. plant including the body shop, sheet metal and warehouse in the next 12-24 months, after being trained to perform specific tasks."
     publishedDateTime: 2024-01-19T10:14:00Z

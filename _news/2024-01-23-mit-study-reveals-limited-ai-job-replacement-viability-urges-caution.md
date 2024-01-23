@@ -105,6 +105,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI job automation will happen gradually, says MIT CSAIL"
+    excerpt: "Research from MIT CSAIL examines the economic practicality of using AI for automating tasks, with a particular emphasis on computer vision."
+    publishedDateTime: 2024-01-23T14:22:00Z
+    webUrl: "https://www.therobotreport.com/ai-job-automation-will-happen-gradually-says-mit-csail/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
     excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."
     publishedDateTime: 2024-01-22T16:52:00Z
@@ -115,6 +124,6 @@ related:
       domain: crainscleveland.com
     quality: 19
 
-secured: "putdTyoBK2pplh1tXlZ6B1aQHLIr3p8HuaQVV2bsWoLF8d4Wh+tKcB1HL2ATCpS+QkeAktkEatCr4u15rTURiOjp/3cn7bx0fISAqPsgdB19pcd2ppRus1kPlMoZABRxRxtvzkjAUKFoj2IVsowxjpyGZ/9XqgO1axO0xEaQ+N+kEgsPNsPBcu4y6/GOpsGds5cfp4goYsBB669wuOOKd5fZ5H5Wsm5WTc2QlKvCQer1vIYWGyxHYdJlPQIthu1ajhP2yMOX7+/cwmKBcw144P5fwkn2tb4t959M5duvezvJ2OrkOkNHzfea+KwSvkozE9yrRK+S9UEoGhIz2Hze/UVueRZh+e/5A0TBWUpHZwY=;I/i35Il297YGXRQLUgSVng=="
+secured: "0mlXr6R1F3i2VtfRs4a6GZ35Apam6CBK9sK1kZVIZmU3WL6CEvG4F/UGUEl/voPmcfuDbDvqI/+/05a7eqBwXY3STZfJCBeI5NXZVGfmrFYxXhnvNlJVSerKM/ZVFiidZ/SYgmG6zUsLi9AVSmdSMTJRPtpQtDWNBLMJpstxpAx/hXSjRgdqF7WZWTCCaWBhONBhuyjWTpER8dxFA5FUaRnbnTcyKaAbWs9R2PYR7CQNW01OmfRVYwE4k/eXcg5nr6wAbnQFic0XM4KpuGrNFLyuhOhCS+KnDks368YbpnF6u9Ksx1g4G1Ckn/JxiKm/UC2l8GBY6wtzQj3eyv0IzQ+IBWFJrWtEkrJKhYTGKbt2gvdzwgXzYG3cS0NdW8SzwFYGnLCYvtgv7CGONx2FQX8Lvv0fXEmzT3ZkdCifb9BvOjkEU/5weEFZ2JPjjg+UMtBURi5LxtssdsThitN0+kUZyMlPUmyZFn9w6ffxoxh8QDmfTOjO30FHqdlb/6op/EYiHqur7OVSDWKKSOa7nA==;d3EZWRVPQfN972Ms7PPCBw=="
 ---
 

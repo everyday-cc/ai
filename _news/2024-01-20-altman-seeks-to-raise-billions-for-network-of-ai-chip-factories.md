@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
-    excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
-    publishedDateTime: 2024-01-22T12:30:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 70
   - title: "Altman seeks to raise billions for AI chip venture"
     excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
     publishedDateTime: 2024-01-22T00:44:00Z

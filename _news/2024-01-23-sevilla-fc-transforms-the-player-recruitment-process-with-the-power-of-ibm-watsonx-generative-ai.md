@@ -24,6 +24,22 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "Sevilla FC, IBM introduce new generative AI solution to streamline player recruitment process"
+    excerpt: "Scout Advisor uses natural language processing and semantic analysis to pore through textual scouting reports to identify player attributes, even when described in different ways."
+    publishedDateTime: 2024-01-23T15:00:00Z
+    webUrl: "https://www.sportsbusinessjournal.com/Articles/2024/01/23/sevilla-fc-ibm-gen-ai-recruiting"
+    type: article
+    provider:
+      name: Sports Business Journal
+      domain: sportsbusinessjournal.com
+    quality: 28
+    images:
+      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Daily/2024/01/23/SBJ-TECH/sevilla-fc-ibm-hp-large.ashx"
+        width: 699
+        height: 725
+        isCached: true
+
 secured: "0kJx32jELm6NAHNzLCI1T32FVdkE34rkxrIRxttWB2fUTAthHTSKSPP4RR0BCbNZmAOnmdKlYfXrvHJQlpsMN8xfuIEv2kTlLkhqxUCHeiXa3DEFH3PYLBpT87fhHfWKD9bnmBXnxpb3YH88aLXKdcIfih/8aoelsk6qGRgA5DluwCzs1W8WJMZErLxDq5BxTDh81F3us1/GOekPlrZOZyQl8DBQr/VuWIDMQOnfeakcj6v8t1nekGmzvWxkUkS/k0c6/4DzovXnHfMc5L7/I/7w+tAyqAFFfSO906sIaXwwf4jHmOV+rEhsKcXQw3cGok11Euydwwv6bMcIy7XJ0Ufi2OgXNwAaVajGUB0dq93u4ZKYJ28/5P/DVfmi7EQmYpPVhlxfH/cM48BUI2CUsH3P81Y06RpI5eN5OC3pL9GullAbdtbNXhkq/p4Wh8yBbwvwTkwo4YUmnRAcYZYr/8RmxctSLmDOnXdeoUZgMyMOvjydVU29vy7cI9VRqD1OTASpBgz/iqLAkjrc6z35tg==;QCVcPGtYO/fWs/FBZ8iDZg=="
 ---
 

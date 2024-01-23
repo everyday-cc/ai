@@ -2,6 +2,351 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
+      "title": "ABB Acquires AI-Based Navigation Startup",
+      "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
+      "originalUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2024/01/ABB_Sevensense_I.65a00cd4d0ff2.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C200%2C2249%2C1265&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T15:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturing.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-this-openai-backed-startup-builds-humanoid-robots-it-just-raised-100-million-with-this-13-slide-pitch-deck.md",
+      "title": "This OpenAI-backed startup builds humanoid robots. It just raised $100 million with this 13-slide pitch deck.",
+      "excerpt": "Norwegian startup 1X, which has raised funds from EQT Ventures, wants to tackle labor shortages with robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
+      "originalUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/659fe638dcdb354a9856a3d1?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-match-made-in-heaven.md",
+      "title": "Crypto And Artificial Intelligence: Like Peanut Butter And Jelly? 3 Reasons These Technologies Are A Match Made In Heaven.",
+      "excerpt": "More experienced traders who are bullish on the AI space may choose to use a leveraged ETF like Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares UBOT UBOT is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/11/screenshot_2024-01-11_at_10.25.17_pm.png?width=1200&height=800&fit=crop",
+          "width": 1199,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36597829",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36597829",
+      "publishedDateTime": "2024-01-11T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
+      "title": "Robot revolution: Uncovering the real value of security robots",
+      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T01:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm.md",
+      "title": "AI kitchen gadgets and robots take Las Vegas tech fair by storm",
+      "excerpt": "But as the 2024 Consumer Electronics Show (CES) in Las Vegas gets underway, optimism is running high amid hopes that artificial intelligence (AI ... powered appliances like air-fryers and grills to a robot barista, the food tech at CES 2024 is ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "originalUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/20/520a912d-dfde-5a3b-8fd4-35768ddd4ce2/65a01f2c7be37.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-beatbot-to-make-waves-at-ces-2024-by-unveiling-worlds-first-all-in-one-intelligent-pool-cleaning-robot.md",
+      "title": "Beatbot To Make Waves At CES 2024 By Unveiling World's First All-In-One Intelligent Pool Cleaning Robot",
+      "excerpt": "With significant advances in efficiency, performance and power, Beatbot AquaSense Pro is truly, The One Pool Robot to Rule Them All.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
+      "originalUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
+          "width": 258,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T05:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-mine-spotting-drones-and-tracked-robots-the-armys-efforts-to-breach-minefields-with-tech.md",
+      "title": "Mine-spotting drones and tracked robots: The Army’s efforts to breach minefields with tech",
+      "excerpt": "Instead, they may reach for a remote control to choose from a menu of drones and tracked robots to sweep away the problem.  Among the several units experimenting with new tech is the 18th Airborne at Fort Liberty,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
+      "originalUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.defenseone.com/media/img/cd/2024/01/09/Screen_Shot_2024_01_09_at_4.19.22_PM/open-graph.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T02:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense One",
+        "domain": "defenseone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-companies-use-artificial-intelligence-to-cater-to-animal-lovers-at-ces-tech-show.md",
+      "title": "Companies use artificial intelligence to cater to animal lovers at CES tech show",
+      "excerpt": "From cat flaps and dog companion robots, companies are using artificial intelligence to cater to animal lovers at the CES tech show in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "originalUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dims.apnews.com/dims4/default/45fef77/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F04%2Fad634d426ee428ddbd2c4a7b3b3e%2Fus-nv-ces-pets-artificial-intelligence-20240109cr-1920x1080.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
       "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
       "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
@@ -961,389 +1306,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-can-artificial-intelligence-replace-humans-an-engineering-perspective.md",
-      "title": "Can Artificial Intelligence Replace Humans? An Engineering Perspective",
-      "excerpt": "Our world is and should be evolving, but technology is far from being able to fully replace highly skilled engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658ad7ec4ac7a8c76b5ab395/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1276,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/",
-      "publishedDateTime": "2023-12-27T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
-      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
-      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-26T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-coinrobotai-launched-an-ai-based-crypto-trading-robot.md",
-      "title": "CoinRobot.AI launched an AI based crypto trading robot",
-      "excerpt": "CoinRobot is an artificial intelligence research project that aims to develop intelligent trading robots. The project launched its first",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-coinrobotai-launched-1703531705.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
-      "title": "Robotics company using AI that does engineering work by climbing walls",
-      "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
-      "sourceUrl": null,
-      "webUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "originalUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "cdnAmpWebUrl": "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
-      "publishedDateTime": "2023-12-24T19:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wjactv",
-        "domain": "wjactv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly.md",
-      "title": "Meet ELLiQ, an AI-enabled chatty companion robot for the elderly",
-      "excerpt": "Leveraging advancements in Genrative AI, the robot enables more immersive and continuous conversations, deepening the user-device connection.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
-      "originalUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/12/24/image/jpeg/89pjLt7gnIxx0nQu3WmdmL7JJteS9BvekQubbkDw.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-24T09:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024.md",
-      "title": "Don't Be A Robot, Build The Robot: Three Tech Predictions For 2024",
-      "excerpt": "In 2023, artificial intelligence and generative AI were pushed into the spotlight when OpenAI commoditized them. In a short time, products like ChatGPT and copilot tools, built on generative AI, progressed user productivity and minimized the time invested to perform basic tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c81df27f22caf129775ac6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/22/dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/22/dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024/amp/",
-      "publishedDateTime": "2023-12-22T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-ai-and-robotics-could-change-lifestyles-if-they-extend-lifespans.md",
-      "title": "AI And Robotics Could Change Lifestyles If They Extend Lifespans",
-      "excerpt": "Keep in mind that while the intrinsic time value and return value on investments have been important, the life span extension has the power to change these factors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/12/22/ai-and-robotics-could-change-lifestyles-if-they-extend-lifespans/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/12/22/ai-and-robotics-could-change-lifestyles-if-they-extend-lifespans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65845a3c0fc06d7e017a4b56/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/12/22/ai-and-robotics-could-change-lifestyles-if-they-extend-lifespans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/12/22/ai-and-robotics-could-change-lifestyles-if-they-extend-lifespans/amp/",
-      "publishedDateTime": "2023-12-22T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

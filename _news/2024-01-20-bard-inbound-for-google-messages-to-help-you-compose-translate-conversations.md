@@ -56,6 +56,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google plans to bring AI image generator to Bard"
+    excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
+    publishedDateTime: 2024-01-20T04:39:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "How artificial intelligence is changing work in law firms"
     excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
     publishedDateTime: 2024-01-22T18:40:00Z
@@ -69,20 +85,6 @@ related:
       - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
         width: 2560
         height: 1600
-        isCached: true
-  - title: "You say ‘Allo’ and I say ‘Bard is coming to Google Messages’"
-    excerpt: "Bard is coming to Google Messages to \"help you write messages, translate languages, identify images, and explore interests.\""
-    publishedDateTime: 2024-01-18T17:06:00Z
-    webUrl: "https://9to5google.com/2024/01/18/google-messages-bard/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-messages-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Google's AI chatbot Bard to arrive on Google Messages"
     excerpt: "According to info spilled from tipster and code detective Assemble Debug (via Android Authority), it seems Bard is gearing up for action in Google Messages. The scoop is that Bard"

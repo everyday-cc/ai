@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "QXEqWQg2bxE4q0ReSntG+HPZsGVTNbLH+sUcvelUq4Y6opZWwkoROFteO6pHfVK/FfkAW1IPY+sD3SYtvS2CtLyZFXSfL6k2od73V5sgRx0YdIq7FpGoGmXbNdWJKEBMTcMKGewuHGgv9fpJtDAYqWnyHdOsDXRZm+gjQSqDK+vF0eOxgj0QKfFnhv/8QOHKmCRo7EhTjaneYXl5MlIAK8dt2A8sXBP0Gy3eEe2EGjRHNgPeegxJnAAn61X2d/532Uk4oXgIvjdzlIaer2KkXH/E+yxvNY+KeKqXOiPWhPWiPnUUK2VGQj90IXP8vMvkd0ci5+XjaiW5eN3Svzu+UjZvXE/BjxZeNqLBxos8dvOnf2sSC+pj2m7jXDlEvxi37eFa7FTAxIKwtqphnhAcsRphn2eMUI0MokrONGJz+Szvz0nFA5fgCKiR5arC6GMBwIKR86apCSmOGAeRC91oak60xBcKoooEWL2D7RJi9tSQ0wtpTzGFeKKcJpzI4BXKe4oXTWmA7MGDCTUeAB9oTA==;LjeT4iApiHu0Qw5lbl3jrA=="
 ---

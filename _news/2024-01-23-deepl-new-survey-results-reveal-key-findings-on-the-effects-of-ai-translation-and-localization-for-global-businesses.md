@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
+    excerpt: "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances."
+    publishedDateTime: 2024-01-23T12:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "t440wk1N8TJ69ZFugxnT1+/6Pu3a+1czxfuwPgHWym3iFSpKWORyqOqpAsMcpMZGJuaOQnKj43V1h2k8byfLGyG13qCwLSToVM6qZear/bLJ77QvnhiUNiSFF0CHbwhl5f9nBejr5+PBukdJdrdMDY2dFXI2uiiAS03hVXih4g3jrokdA3obtWGZ+1QXOlDCWt7cslMqHgurB/ubPnann1XA9BtAmbVMpLoMpH2Zkwq48zUvlNf7KMw+myAfmwE43fv75wFilahiRXvuSgwtU312F0FDwcEVdqCpxaTLCDaQLjwEWtT8QEIB4+DPZ1lCIICT9JLXQyZR1QZTtm+2omConTQWCvL3u1fUoM5MtwI=;f5BYq36KZQMWQ1IAQGnFdA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-chil
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Forbes
@@ -30,19 +30,28 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution"
-    excerpt: "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/"
+  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
+    excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
+    publishedDateTime: 2024-01-22T12:30:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
+      name: scmp.com
+      domain: scmp.com
+    quality: 70
+  - title: "NHS doctors to take part in AI “bake-off” with ChatGPT at Rewired 2024"
+    excerpt: "Digital Health Rewired 2024 will feature a live AI “bake-off”, where a panel of NHS doctors will test AI LLM models on a series of diagnostic questions"
+    publishedDateTime: 2024-01-19T08:30:00Z
+    webUrl: "https://www.digitalhealth.net/2024/01/nhs-doctors-to-take-part-in-ai-bake-off-with-chatgpt-at-rewired-2024/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 56
     images:
-      - url: "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.digitalhealth.net/wp-content/uploads/2024/01/panel_session_ai_bake_off_rewired_2024.png"
+        width: 555
+        height: 330
         isCached: true
   - title: "Should You Use ChatGPT for Medical Advice?"
     excerpt: "Yes, patients and doctors can use chatbots for certain types of questions, experts say. But beware of the shortcomings."
@@ -53,20 +62,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 49
-  - title: "Meet BharatGPT’s GPU Buddy"
-    excerpt: "IIT Bombay is building BharatGPT in collaboration with many universities and institutions. With one of the focus areas being healthcare, it was important for the initiative to bring in expertise from organisations that are leveraging different technologies within the field of healthcare."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-bharatgpts-gpu-buddy/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/How-Vizzhy-is-Helping-Build-BharatGPT-for-Healthcare.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "ngW3AYUfs4IDHC/ULUpKSe69Ps5tmYiqlalQ+4Y/PGqOD0hUD8qCnfUBsETbJjUHGCcTnE3YahC5dnuV/7Q5mIjIooPyP9tmMgkBtzgVZGybgiZV9lDp8JVXXg72VbzFhz/aigKM4JvrvftDnsDdRetn5+7ruPF8PxPj1RQT7UBR0z8NXg5lbsI4r+TfA+nHMdypAPl33naI8aRT7KtUNgjqPtWYZxgdfOeyb0UgyJa6jVhQV2IJ2jC+PFjNSARlkZbuuYqG2CMqHMjCKyI7P4b+bsFdKEHForF5rrdVbArqmjn+iYq9bADEuP/9PFPgITv0PVufqwHfnV3xdRUq4nVCXarVWUQX3g0yNVbKRLy0BHAYCoKLvD/DKMN8fO78+CCehZTIYzFIE/BCbPA8xqpSECb7OcL0KtW4CTc9c2xvZrmaoZzWnrKmJC/UVKDJmrcnsqL1zSycUlkXKC+DzYPllTdpwZP36fyREX6TGAGm+07oPLDRzKR6nOS1RhASPyRILYEZbe5uoUI4MvSTLQ==;zDioETH0CYlme79ZPIguRw=="
 ---

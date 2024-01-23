@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unlocking the Future of Finance: The Must-Take Courses in Financial Technology"
-    excerpt: "Welcome to the world of finance, where technology is revolutionizing the way we manage our money and make financial decisions. From online banking to cryptocurrency, financial technology (or FinTech) has disrupted traditional finance industries at an unprecedented pace."
-    publishedDateTime: 2024-01-18T15:32:00Z
-    webUrl: "https://techbullion.com/unlocking-the-future-of-finance-the-must-take-courses-in-financial-technology/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Financial-Technology.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Shaping The Future Of FinTech: Insights From A CMO"
     excerpt: "Welcome to the world of finance, where discussions about money go beyond simple transactions and become a journey of shared experiences. As the chief marketing officer of a European tech company, I invite you to join me on an inspiring journey, exploring the intricacies of shaping the future of fintech."
     publishedDateTime: 2024-01-19T11:15:00Z

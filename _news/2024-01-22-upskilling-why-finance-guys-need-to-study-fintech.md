@@ -59,6 +59,22 @@ related:
         width: 1502
         height: 900
         isCached: true
+  - title: "AI, Hardware And Fintech Collide At CES 2024 In Vegas"
+    excerpt: "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving"
+    publishedDateTime: 2024-01-23T15:45:00Z
+    webUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1362
+        height: 900
+        isCached: true
   - title: "Cairo-based fintech Zeal raises $4mln funding"
     excerpt: "The app will use the investment to expand its technology solutions across the EMEA region, following its recent expansion into the UK market"
     publishedDateTime: 2024-01-23T07:16:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2VjNWRlOTAtYzE1OC00/24/921663488.jpeg?f=3%3A2"
         width: 900
         height: 600
+        isCached: true
+  - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
+    excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
+    publishedDateTime: 2024-01-23T13:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/articleshow/107087828.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23984,msid-107087883/fintech.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "AI Has the Biggest Impact on the Fintech Industry"
     excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
@@ -117,6 +149,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Spot ETFs, AI Autonomy, Fintech’s Inclusivity and iGaming Ethics"
+    excerpt: "From the mainstream breakthrough of AI to SEC’s crackdown on exchanges, from BTC’s fluctuations between $16k and $44k to the aftermath of FTX’s collapse, the past year's events in AI, fintech, and cry"
+    publishedDateTime: 2024-01-23T12:39:00Z
+    webUrl: "https://techround.co.uk/other/spot-etfs-ai-autonomy-fintechs-inclusivity-igaming-ethics/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
   - title: "Fintech firm Quinte, Tamil Nadu sign deal to set up development centres"
     excerpt: "US-based company will use state's 'talent pool' to establish artificial intelligence, machine learning banking operations"
     publishedDateTime: 2024-01-23T07:53:00Z

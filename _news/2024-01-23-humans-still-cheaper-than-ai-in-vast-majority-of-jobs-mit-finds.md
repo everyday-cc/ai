@@ -99,6 +99,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "AI job automation will happen gradually, says MIT CSAIL"
+    excerpt: "Research from MIT CSAIL examines the economic practicality of using AI for automating tasks, with a particular emphasis on computer vision."
+    publishedDateTime: 2024-01-23T14:22:00Z
+    webUrl: "https://www.therobotreport.com/ai-job-automation-will-happen-gradually-says-mit-csail/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 49
   - title: "MIT Study Reveals Limited AI Job Replacement Viability, Urges Caution"
     excerpt: "A recent Massachusetts Institute of Technology (MIT) study challenges the prevailing notion that artificial intelligence (AI) is poised to replace a significant portion of jobs cost-effectively. The MIT study,"
     publishedDateTime: 2024-01-23T10:21:00Z

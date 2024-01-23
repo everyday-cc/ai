@@ -57,6 +57,22 @@ related:
         width: 1502
         height: 900
         isCached: true
+  - title: "AI, Hardware And Fintech Collide At CES 2024 In Vegas"
+    excerpt: "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving"
+    publishedDateTime: 2024-01-23T15:45:00Z
+    webUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1362
+        height: 900
+        isCached: true
   - title: "Upskilling: Why finance guys need to study fintech"
     excerpt: "The financial services industry is undergoing a profound transformation. To keep up with the changes, we need to constantly reskill and upskill. While there are multiple courses, a master’s degree in financial technology (fintech) can also be considered – not merely as an academic pursuit, but also if you want to thrive in the world of finance."
     publishedDateTime: 2024-01-21T22:30:00Z
@@ -89,6 +105,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
+    excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
+    publishedDateTime: 2024-01-23T13:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/articleshow/107087828.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23984,msid-107087883/fintech.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Chicago-area AI fintech platform Alphathena raises $4 million"
     excerpt: "Alphathena, a direct indexing platform for registered investment advisors (RIAs), announced a $4 million funding round on Thursday, led by London-based global venture capital firm ETFS Capital, with participation from local early-stage investor Hyde Park Angels."
     publishedDateTime: 2024-01-18T18:01:00Z
@@ -117,6 +149,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Spot ETFs, AI Autonomy, Fintech’s Inclusivity and iGaming Ethics"
+    excerpt: "From the mainstream breakthrough of AI to SEC’s crackdown on exchanges, from BTC’s fluctuations between $16k and $44k to the aftermath of FTX’s collapse, the past year's events in AI, fintech, and cry"
+    publishedDateTime: 2024-01-23T12:39:00Z
+    webUrl: "https://techround.co.uk/other/spot-etfs-ai-autonomy-fintechs-inclusivity-igaming-ethics/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 36
   - title: "Fintech firm Quinte, Tamil Nadu sign deal to set up development centres"
     excerpt: "US-based company will use state's 'talent pool' to establish artificial intelligence, machine learning banking operations"
     publishedDateTime: 2024-01-23T07:53:00Z

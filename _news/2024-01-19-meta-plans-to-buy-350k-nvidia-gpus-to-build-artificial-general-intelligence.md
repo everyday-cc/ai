@@ -68,6 +68,15 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
+    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
+    publishedDateTime: 2024-01-23T13:48:00Z
+    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
 
 secured: "f0Ur0GP2H31U9ZcnPAbe++AEOb7H2znv0FYTd2OofYmS+2EY4wByU2hcWx7AEoB3oxh4zE/XYb7grISwgkCMv+K+Pm33POiqwMmXputULeKcMxtxFpdnIvuQN/fmNUnz1y8UhidDC+GHAyxJK6OWUvVptp/4jB4zIrRhKfmGTq38uFsLOJt+m0nDANgxW7Sa4iYL3PisYzsGeuIvaHsFxfzkMeIkQhI89MimmppvNY836lAlwUn/RYnvmcv6f5I5gVYQXafXHSz/024Cg3avYM2tZMq5hmPAG5o7kwQQG1rTQb3QqxJWCrdjAPng/e9SHcqSQp4zcAtunwVCaRHPdXjeHUgWVhRTClSs0AK02syJ+j0WdIwbz3EngV6/0QoN8hU21MWQuEZQGFmkMTBtzlo7UuPIDzlFBilL2EN0ODBiV7ViNSjvw7E6eZmJtTuODd/mQIpHvf2HbAO8BcUKUR+Lf5FupPrDRKHS0CsLQtP5Qc7aisKI5J2cBDPn8f5vSOrwY/tye+VQL9k6vsqoyA==;I0sec22wAQO+L7w4H8v1cQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altma
 webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
-    excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
-    publishedDateTime: 2024-01-22T12:30:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 70
   - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
     excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
     publishedDateTime: 2024-01-19T19:13:00Z

@@ -56,6 +56,15 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
+    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
+    publishedDateTime: 2024-01-23T13:48:00Z
+    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
   - title: "Meta plans to buy 350K Nvidia GPUs to build artificial general intelligence"
     excerpt: "In order to get there, Meta will need to make a significant investment in its AI computing infrastructure, hence its plans to acquire mountains of powerful H100 GPUs from Nvidia. The H100 chip is Nvidia’s most advanced ever, and is said to be particularly adept at training the large language models that power generative AI such as ChatGPT."
     publishedDateTime: 2024-01-18T23:59:00Z

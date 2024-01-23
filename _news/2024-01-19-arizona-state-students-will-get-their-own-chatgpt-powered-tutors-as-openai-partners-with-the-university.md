@@ -77,15 +77,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "ASU to bring ChatGPT into higher education through OpenAI partnership"
-    excerpt: "The collaboration will begin with an open call next month to faculty and staff for ideas on how to explore the uses of AI in higher education. From there, some students and faculty members will receive access to ChatGPT Enterprise — a version of the generative chat tool for businesses."
-    publishedDateTime: 2024-01-18T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-education/2024/01/18/asu-becomes-first-university-to-partner-with-openai/72257441007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
 
 secured: "BY6LUXxPHvysxs2b0heJyn+v0NlZF8nDNlTUj40yjNJoyd8J8QNvtww1HiPjmQ5iprcQFOLpJRU0u12HZUbMIWDwI8qKvJWPkHIcWq1+Q4HJzWgc6FSiTLiobJL7Vuu7bJMmgpTObE/qMP+uDKlUG7EGIRZ1ELWFRCHWCxyXfU9VHzb9rfsuSywi3gOtuHb498xHB3aMsbBzntTa/3OtovUZFTcg4tDd99UzihC3gbxrudtM+XzfuITOXbpoxfsBUm2HNcMnL8Wj6eehmqrRviRSSmO51MmBeWulnFH8TFAxT2ANcUT1f+Zzr0Xcnks5Ea/7GPQ77kwl+jrz2rNGQRbPZRNN9kug4nrxexzFGSUP3qoSzdMpuO8UBs1lRqarZz7wPXr5bGBqEHTlFnZYl+y967hbL1vFUFOKqy2MwqWIHQrhEbmJYrCyPqkby0QY5UK2+CMgTIOHOdCu4rfk7rthr44rmexOZwG8TjkTFk9+FhXfhSfd9ucHVEC/frdd5T2n6bHK3I0OEPQLEI8OVA==;5dZ8rmiYj1G4eQ7K0BBlKA=="
 ---

@@ -2,6 +2,569 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-16-accelerating-sustainable-modernization-with-green-it-analyzer-on-aws.md",
+      "title": "Accelerating sustainable modernization with Green IT Analyzer on AWS",
+      "excerpt": "Businesses are increasingly embracing high-performance computing, artificial intelligence and machine learning.\nThe post Accelerating sustainable modernization with Green IT Analyzer on AWS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
+      "originalUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-top-financial-services-trends-of-2024.md",
+      "title": "Top financial services trends of 2024",
+      "excerpt": "Check out these seven financial services trends and how your company can use them for competitive advantage in 2024. \nThe post Top financial services trends of 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/financial-services-trends/",
+      "originalUrl": "https://www.ibm.com/blog/financial-services-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-elon-musk-says-he-wants-more-control-over-tesla-far-from-ideal-says-analyst.md",
+      "title": "Elon Musk says he wants more control over Tesla. ‘Far from ideal,’ says analyst.",
+      "excerpt": "Elon Musk said he doesn’t want to grow Tesla’s TSLA, +0.47% artificial intelligence and robotics capability without having control of a quarter of the company. Musk already owns 13% of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "originalUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-66475805/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
+      "publishedDateTime": "2024-01-16T11:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions.md",
+      "title": "How One Struggling Chip Company Benefited From Middle Eastern Investors’ AI Ambitions",
+      "excerpt": "Led by Shahal Khan, who spearheaded the 2018 acquisition of Manhattan’s Plaza Hotel, the group was investing billions in AI ventures with an eye towards transforming the Gulf states into a preeminent tech hub. Blaize’s chips — which could provide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659db0dc0cd385ee446d8dfb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures.md",
+      "title": "Here’s How The FTC Might Lower The Boom On Those Emerging Generative AI Mental Health Therapy Chatbots That Are Promising Miracle Cures",
+      "excerpt": "As generative AI mental health chatbots proliferate, one means of at least coping with their outsized claims rests at the feet of the Federal Trade Commission (FTC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a61506e8805fa8a361a8d8/0x0.jpg?format=jpg&crop=2674,1976,x1166,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1218,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "publishedDateTime": "2024-01-16T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand.md",
+      "title": "AMD shares jump 7% and head for highest close since 2021 on AI chip demand",
+      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
+      "originalUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2024/01/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "publishedDateTime": "2024-01-16T11:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-do-you-need-gpus-for-generative-ai-systems.md",
+      "title": "Do you need GPUs for generative AI systems?",
+      "excerpt": "There is so much interest in GPUs for generative AI deployment and for some good reasons. However, in some cases, they are overkill and too expensive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
+      "originalUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-money-100945612-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
+      "publishedDateTime": "2024-01-16T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking.md",
+      "title": "At CES 2024, tech companies are transforming the kitchen with AI and robots that do the cooking",
+      "excerpt": "Chef-like robots, AI-powered appliances and other high-tech kitchen gadgets are holding out the promise that humans don’t need to cook — or mix drinks — for themselves anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/",
+      "originalUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2024/01/web1_ces---kitchen-9.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/amp/",
+      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/amp/",
+      "publishedDateTime": "2024-01-16T10:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "West Hawaii Today",
+        "domain": "westhawaiitoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-vodafone-signs-15-billion-microsoft-deal-for-ai-cloud-and-iot.md",
+      "title": "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT",
+      "excerpt": "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964",
+          "width": 4973,
+          "height": 3309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "publishedDateTime": "2024-01-16T08:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-elon-musk-wants-more-voting-control-over-tesla-tsla-as-company-grows-ai-robotics-efforts.md",
+      "title": "Elon Musk wants more voting control over Tesla (TSLA) as company grows AI & robotics efforts",
+      "excerpt": "Elon himself chimed in to state that he’s currently uncomfortable with expanding Tesla’s AI and robotics business without more voting control. Elon Musk shared a thread of tweets in response ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
+      "originalUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/01/16/elon-musk-gq_feature.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
+      "publishedDateTime": "2024-01-16T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shacknews",
+        "domain": "shacknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-as-tesla-stock-tumbles-musk-threatens-25-voting-control-or-no-ai-robotics.md",
+      "title": "As Tesla Stock Tumbles, Musk Threatens 25% Voting Control Or No AI, Robotics",
+      "excerpt": "Musk wrote that he would be “uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control.” He claimed that would be enough to “be influential, but not so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
+      "originalUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2024/01/ewrwerewrewrewrewrwerfsdcx-fdscdscx.jpg",
+          "width": 2410,
+          "height": 1356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-baidu-recoups-some-losses-as-analysts-see-selloff-overdone.md",
+      "title": "Baidu Recoups Some Losses as Analysts See Selloff Overdone",
+      "excerpt": "Baidu Inc. climbed as much as 4.3% on Tuesday, regaining some of its losses after analysts labeled excessive a selloff triggered by a report of links to Chinese military AI research. China’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
       "title": "Will Artificial Intelligence Be Sociopathic?",
       "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
@@ -605,514 +1168,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-self-driving-labs-how-ai-could-accelerate-scientific-discovery.md",
-      "title": "Self-driving labs: How AI could accelerate scientific discovery",
-      "excerpt": "Using self-driving autonomous labs, the Acceleration Consortium is making larger strides toward integrating the subdisciplines of materials science, AI, robotics, and computer modelling to test new materials in a time-efficient, cost-friendly way.",
-      "sourceUrl": null,
-      "webUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "originalUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-s3.thevarsity.ca/2024/01/SCIENCE-Autonomous-_Labs-BRENNAN-KARUNARATNETHEVARSITY-lab_devices-web.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T03:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Varsity",
-        "domain": "thevarsity.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-how-fintech-has-gone-mainstream.md",
-      "title": "How fintech has gone mainstream",
-      "excerpt": "Last year, financial technology (fintech) finally went mainstream. Here are some examples that underline my case.",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
-      "originalUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Ux3UMRW2YPerefgGhzJhwT-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
-      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
-      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
-      "title": "Improving 3D Object Detection in Self-Driving Cars",
-      "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "originalUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "publishedDateTime": "2024-01-13T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
-      "title": "New laws to curb danger of high-risk artificial intelligence",
-      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "publishedDateTime": "2024-01-13T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off-the-wire-podcast.md",
-      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
-      "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
-      "sourceUrl": null,
-      "webUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
-      "originalUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/a2/4a2e3610-bc1d-5761-a84a-ce39f176fb7c/65a1991e3678b.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-the-best-new-gadgets-and-tech-from-ces-2024.md",
-      "title": "The best new gadgets and tech from CES 2024",
-      "excerpt": "From translucent TVs to indoor smokers, the Consumer Electronics Show never disappoints when it comes to cool new gear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "originalUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2024/01/12/best-of-ces-header.jpg?auto=webp",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-the-class-of-2024-is-tasked-with-honing-the-natural-ability-to-craft-effective-prompts.md",
-      "title": "The Class of 2024 is tasked with honing the natural ability to craft effective prompts",
-      "excerpt": "As the Class of 2024 prepares to navigate the dynamic job market, resilience and adaptability are paramount. In today’s VUCA world, continuous learning and anticipating future leadership demands are crucial for success.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/01/Untitled-design-47.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-top-skills-that-class-of-2024-aspiring-to-build-a-career-in-tech-needs-to-add-to-their-new-years-resolutions-list-3363182/lite/",
-      "publishedDateTime": "2024-01-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-unpacking-yolov8-ultralytics-viral-computer-vision-masterpiece.md",
-      "title": "Unpacking Yolov8: Ultralytics’ Viral Computer Vision Masterpiece",
-      "excerpt": "Exploring YOLOv8, the fastest and most accurate computer vision model by Ultralytics for detecting objects in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
-      "originalUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/01/FEATURED-IMAGE-YOLOv8.jpg",
-          "width": 879,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T10:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-ai-development-fostered-a-digital-sweatshop-and-why-it-matters-for-the-technologys-future.md",
-      "title": "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future",
-      "excerpt": "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/10/09d417bd-299d-43b5-af62-a33cf7c65165_93653a69.jpg?itok=FaD5dQWz&v=1704863823",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-making-ai-work-for-you.md",
-      "title": "Making AI work for you",
-      "excerpt": "According to travel advisor Bob Burke, the best way for advisors to meet the growing challenge from artificial intelligence is to learn to use it and other technology to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "originalUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2024/0101/T0101BOBBURKE_C_350x200.jpg?tr=w-1200%2Cfo-auto",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Travel Weekly",
-        "domain": "travelweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming.md",
-      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming",
-      "excerpt": "On the version of Hot off the Wire posted Jan. 13 at 6 a.m. CT: SAN FRANCISCO (AP) — Meta says it will start hiding inappropriate content from teenagers’ accounts on Instagram and Facebook ... with cutting-edge artificial intelligence is the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://richmond.com/audio_a79c48f0-1e00-59d0-b28d-2149990fe84a.html",
-      "originalUrl": "https://richmond.com/audio_a79c48f0-1e00-59d0-b28d-2149990fe84a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/79/a79c48f0-1e00-59d0-b28d-2149990fe84a/65a2841745582.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

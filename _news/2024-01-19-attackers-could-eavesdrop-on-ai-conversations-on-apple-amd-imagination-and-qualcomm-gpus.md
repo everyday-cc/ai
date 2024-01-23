@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-
 webUrl: "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD, Apple, Qualcomm, Imagination GPUs could leak AI secrets via ‘LeftoverLocals’"
-    excerpt: "A simple 10-line program could allow an attacker to “listen” to private machine learning processes, according to researchers from Trail of Bits."
-    publishedDateTime: 2024-01-18T15:49:00Z
-    webUrl: "https://www.scmagazine.com/news/amd-apple-qualcomm-imagination-gpus-could-leak-ai-secrets-via-leftoverlocals"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 49
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/binary-1607161_1280-1.jpg"
-        width: 800
-        height: 570
-        isCached: true
   - title: "Qualcomm ignites the 6th edition of the Taiwan Innovation Challenge focused on AI PCs and Edge AI"
     excerpt: "Qualcomm Technologies has announced the commencement of the sixth edition of the \"Qualcomm Innovate in Taiwan Challenge\" (QITC), marking a significant upgrade with a primary focus on AI PCs and Edge AI."
     publishedDateTime: 2024-01-22T07:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/ig
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: malaymail
@@ -35,6 +35,15 @@ related:
     provider:
       name: Finanznachrichten
       domain: finanznachrichten.de
+    quality: 0
+  - title: "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
+    excerpt: "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances."
+    publishedDateTime: 2024-01-23T12:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "iGV1d1G8ms1fMfjYTYPeXI1w8xdvUEFwkertTBtTUZYh3uGUZvoTywUfWbkzcloPHYfAsnvisolvCR8uDepiyOSSCaEZTHkGfRBA4BoPpdFSp0nSP5cIrpsePqGxy9xPAv7ePDXfzf6ZmqeguhrQhykAwcwJ9TtpFt36IQE/XvLX7dxonXc7EMmqzIvDH9ymoyWSaj3GTpOiCk7Ri3ES1HTd6/xgAIFQFrZN/imUVZy74RPMI2KNHQeM5EsJ9WMs2ikIissWPiZ2DGri5EGOcdclcWSXjzQW2qjEFDBmIwAiWNvnHLQ7uRZeynmQ26gfURI2CIYdZFa4EqfYGD+IJbAGCALa5wITxlqORiEKI3E=;Jyf7T+lZUqXVGcDtTAiKeg=="

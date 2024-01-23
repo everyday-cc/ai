@@ -26,6 +26,22 @@ images:
     height: 1687
     isCached: true
 
-secured: "uFnhUbMcvWb8s+ORh3Exvebo/5mE9dxmyDRPGnC2VwRSvpx6MH9IQx+t3xMxrgwZO6MJnhU2D4RjOqC/xz8vcwBiEbJwjabCzjhlBhWNUHbfLikzj7Sv2JEQ+d5PLn1KJv3pZRCkILN2GkLuMBxi+Ms+SMKhQvlQM2YVEy+D2TH5RBcb9YqWdxTCG41EDD3YLrEx0eevb9rRg9ea3okScitAjNkLNalnPkb7mCP69JegGyr8qxpmtzn3ykgo7S0BX79wvuoa4i0jpabwksLXA6HZzVovV+dqheQO6RrHwJEh2SAbl71Ur4DJOXIDQkAMYVO2c8LL6m02vIl7bTsuGGSsgPH6v2mnDjMeJOXIduY=;mNUnANpgR4WIKA+1Mh9qgQ=="
+related:
+  - title: "After a Year of Setbacks, Where Do Robotaxis Go in 2024?"
+    excerpt: "In October, robotaxis suffered a major setback when a fatal accident in San Francisco involving a vehicle belonging to Cruise, one of the leading robotaxi companies, cast a long shadow over the technology’s future."
+    publishedDateTime: 2024-01-23T16:27:00Z
+    webUrl: "https://www.govtech.com/transportation/after-a-year-of-setbacks-where-do-robotaxis-go-in-2024"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 24
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/0dacf64/2147483647/strip/true/crop/1120x544+0+42/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe8%2Fac%2Fd6cb4a2cbf60d4d09dfd4b0f4043%2Fzoox-autonomous-vehicle-two-vehicle-coit-tower-sf.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+
+secured: "uAKY3jsOJiKAj/Nh84X7j/2jLcYuVZCMK1vTL932tlRRJG8JjqJuzxULuz1VjjVYmi/XattdeR2NVMYdIhAgiQUrVLtG9X+i8ioAZMP+g3u+HYtNMzDYDJDM/F8oK5bFR7A6tYUvCYDHjs26Mg34cQ63itfd3IFiYLqhcz0CP2KMmr53NBmU51kWONcsMOi6mmW5eIRutVlYxrhuTJo97ZbCMKDsgA6rfKIvmFT0qlmvt8x6Akdg6TKFnJG+9mLzX/a13Au0/0GQq1bD/aPx7ftwjOJitAT7msVNhrMdgxLxrCyiKTdUXn3DLcJeQMy69UN2Tk7huZRjdVc6S4Hr1wp/HgU9u7CxtJ6i8Tnbb8bohp/w/T20D6O+f++A3qERU82QaHfCrpPrmvVZq6oggjVccnw4dDHc9Z902q6gFputbK1WWIP0VAeS3JPdbRNziehVub3eaZS4YhPJOciJRbwzaLpcb1ztMsa9ReWmGNrz4tQN+kIXHMQcCNMCgRns2RJQjal1SmG1uihBJLqbIw==;cH3iszcSEEvNR1+vN3BDpw=="
 ---
 

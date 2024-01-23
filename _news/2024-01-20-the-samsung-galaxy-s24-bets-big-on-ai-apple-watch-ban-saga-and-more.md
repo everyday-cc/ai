@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready"
+    excerpt: "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time."
+    publishedDateTime: 2024-01-23T15:56:00Z
+    webUrl: "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
+    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
     excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
     publishedDateTime: 2024-01-19T03:08:00Z
@@ -41,20 +57,6 @@ related:
       - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
         width: 1400
         height: 990
-        isCached: true
-  - title: "No, the Samsung Galaxy S22 isn’t getting Galaxy AI features – here’s why"
-    excerpt: "When probed on the chipset uniformity between the Samsung Galaxy S23 FE and Samsung Galaxy S22 – both phones use Samsung’s own Exynos 2200 chipset – Chomet acknowledged the fact but added: “For now, we’re limiting Galaxy AI to last-gen devices.”"
-    publishedDateTime: 2024-01-23T07:23:00Z
-    webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/no-the-samsung-galaxy-s22-isnt-getting-galaxy-ai-features-heres-why"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tuJKqeB25jWVnN4JsiTRYk-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
     excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
@@ -71,6 +73,20 @@ related:
       - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
         width: 660
         height: 384
+        isCached: true
+  - title: "Google is partnering with Samsung because that’s the only way it can beat Apple"
+    excerpt: "If the new Galaxy S24 series is anything to go by, Google and Samsung are working together more closely than ever to close the gap on Apple."
+    publishedDateTime: 2024-01-20T15:00:00Z
+    webUrl: "https://www.androidauthority.com/google-samsung-ai-partnership-3405053/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 50
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Plus-vs-iPhone-15-Pro-colorful.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
     excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
@@ -116,19 +132,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Samsung might start charging for Galaxy AI after 2025"
-    excerpt: "Galaxy AI features will be provided free of charge until the end of 2025 on supported Samsung Galaxy devices. The US announcement doesn’t contain a similar warning. However, the Galaxy S24 product pages do have footnotes that feature a similar disclaimer:"
-    publishedDateTime: 2024-01-18T15:30:00Z
-    webUrl: "https://bgr.com/tech/samsung-might-start-charging-for-galaxy-ai-after-2025/"
+  - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
+    excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
+    publishedDateTime: 2024-01-22T08:56:00Z
+    webUrl: "https://www.ibtimes.co.uk/what-galaxy-ai-brings-galaxy-s24-series-watch-1722898"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://bgr.com/wp-content/uploads/2024/01/galaxy-s24-phones-official-4.jpg?quality=82&strip=all"
-        width: 1599
-        height: 1066
+      - url: "https://d.ibtimes.co.uk/en/full/1722520/samsung-galaxy-ai.jpg"
+        width: 2048
+        height: 1153
         isCached: true
   - title: "AI Star in New Galaxy: Will Samsung’s AI gamble pay off?"
     excerpt: "Executives from Google took part in the launch to highlight different Galaxy AI features. From live translation and transcribing of calls in different languages to better image edits to arranging notes, Galaxy AI was the power behind the new Galaxy S throne."

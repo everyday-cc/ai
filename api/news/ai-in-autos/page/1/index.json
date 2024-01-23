@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-21-government-norms-in-offing-to-check-ai-robustness.md",
+      "title": "Government norms in offing to check AI robustness",
+      "excerpt": "For instance, driverless cars depend on real-time decision-making ... Meanwhile, TEC has released procedures for accessing and rating artificial intelligence systems for fairness. The AI fairness score will check how much bias exists in the systems for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/",
+      "publishedDateTime": "2024-01-21T04:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
       "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
       "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
@@ -1283,58 +1326,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-waymos-robotaxis-are-hitting-the-highway-a-first-for-self-driving-cars.md",
-      "title": "Waymo’s Robotaxis Are Hitting The Highway, A First For Self-Driving Cars",
-      "excerpt": "Starting this month the Alphabet Inc. unit will operate autonomous Waymos on Phoenix-area freeways. It’s the first robotaxi company to prepare for higher-speed rides, as rivals struggle with safety problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2024/01/08/waymos-robotaxis-are-hitting-the-highway-a-first-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2024/01/08/waymos-robotaxis-are-hitting-the-highway-a-first-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6598726ac0c9212f6b0aec8c/0x0.jpg?format=jpg&crop=1654,996,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1495,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

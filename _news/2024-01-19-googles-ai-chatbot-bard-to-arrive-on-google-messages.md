@@ -47,6 +47,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google plans to bring AI image generator to Bard"
+    excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
+    publishedDateTime: 2024-01-20T04:39:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Bard Inbound for Google Messages to Help You Compose, Translate Conversations"
     excerpt: "Prepare yourselves for the arrival Bard, Google’s conversational AI, in the Google Messages app. With it, you’ll be composing messages, translating languages, and so much more. Detailed by the good people at 9to5Google,"
     publishedDateTime: 2024-01-19T23:04:00Z
@@ -76,20 +92,6 @@ related:
       - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
         width: 2560
         height: 1600
-        isCached: true
-  - title: "You say ‘Allo’ and I say ‘Bard is coming to Google Messages’"
-    excerpt: "Bard is coming to Google Messages to \"help you write messages, translate languages, identify images, and explore interests.\""
-    publishedDateTime: 2024-01-18T17:06:00Z
-    webUrl: "https://9to5google.com/2024/01/18/google-messages-bard/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/12/google-messages-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Here's how Bard will work in Google Messages"
     excerpt: "Based on a few code snippets, it seems Bard is gearing up to be your all-in-one helper in Google Messages for things like drafting messages, image identification (yes, it's a genius at recognizing pictures), language translation, book recommendations—you name it. Apparently, Bard learns from your location and past chats to give you spot-on answers."

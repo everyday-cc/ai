@@ -20,22 +20,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "BMW will put humanoid robots from Figure in U.S. manufacturing facility"
-    excerpt: "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years."
-    publishedDateTime: 2024-01-18T13:35:00Z
-    webUrl: "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/"
-    ampWebUrl: "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Robotics Startup Figure Signs Partnership With BMW Manufacturing for Humanoid Robot Deployment"
     excerpt: "Robotics startup Figure has announced a groundbreaking partnership with BMW Manufacturing, aiming to deploy its cutting-edge humanoid robots within the car makers facility in the United States. More companies adoption"
     publishedDateTime: 2024-01-19T08:06:00Z

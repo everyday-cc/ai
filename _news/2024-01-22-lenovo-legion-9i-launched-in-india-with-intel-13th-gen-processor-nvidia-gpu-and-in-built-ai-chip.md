@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
+    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
+    publishedDateTime: 2024-01-23T13:48:00Z
+    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
   - title: "Meta plans to buy 350K Nvidia GPUs to build artificial general intelligence"
     excerpt: "In order to get there, Meta will need to make a significant investment in its AI computing infrastructure, hence its plans to acquire mountains of powerful H100 GPUs from Nvidia. The H100 chip is Nvidia’s most advanced ever, and is said to be particularly adept at training the large language models that power generative AI such as ChatGPT."
     publishedDateTime: 2024-01-18T23:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-ope
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
 type: article
 quality: 120
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "ASU to bring ChatGPT into higher education through OpenAI partnership"
-    excerpt: "The collaboration will begin with an open call next month to faculty and staff for ideas on how to explore the uses of AI in higher education. From there, some students and faculty members will receive access to ChatGPT Enterprise — a version of the generative chat tool for businesses."
-    publishedDateTime: 2024-01-18T15:15:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/arizona-education/2024/01/18/asu-becomes-first-university-to-partner-with-openai/72257441007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
 
 secured: "xMrgvyBgbu6DDF8M7nF0MvtFZMSgTM3HoTcCLV8INH8hniSNzVVY47HfRDY0w587FqFzgG9O3Fir0ISduUq921cSzGk8Z/l14V9gPVdri5iNcRA4r9F+lywnuKkhzDZAmztmWRoi8BnspHj5XcSezQytcKrAjXbicUO+C9IZ1za71d42In94Y+gkkz7QJ/6BCiXWJ3Hhv5XGCW2Bf8TzLyJ66IXSDn84qFlLVcPeQ4lMES6MA26U+lI1xc+KsIgcQjE6ghyZeocNPRWY6Ucx3+Aw7gnptY5XcqkozaGxZTyIkU/pqYeyEMDiIPknUd2/JrIOuJcZx77m3tyYXfiw11mtSORFMgj17jKChdG2aFY=;C16R/WZjK5OZ4O/v7QLSuw=="
 ---

@@ -24,46 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Generated Fake News Is Coming to an Election Near You"
-    excerpt: "In collaboration with YouGov, we used the AI-generated headlines to test how susceptible Americans are to AI-generated fake news. The results were concerning: 41 percent of Americans incorrectly thought the vaccine headline was true,"
-    publishedDateTime: 2024-01-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/"
+  - title: "Ushur Business Leader Survey Shows Regulated Industries Rapidly Adopting AI"
+    excerpt: "As adoption of AI, and especially Generative AI, continues to gain pace and AI applications and tools proliferate, buyer behavior in highly regulated industries and markets is rapidly evolving. More than 75% of survey respondents said they were “comfortable” incorporating AI and automation into customer-facing strategies or communications."
+    publishedDateTime: 2024-01-23T16:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ushur-business-leader-survey-shows-regulated-industries-rapidly-adopting-ai-1032988730"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Beijing simplifies business registration for foreigners via facial ID"
+    excerpt: "BEIJING - Foreigners applying to start a company in Beijing can now complete the entire registration process online through facial recognition, according to the city's market regulation authorities."
+    publishedDateTime: 2024-01-23T10:15:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202401/23/WS65af8cc2a3105f21a507de9b.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
     images:
-      - url: "https://media.wired.com/photos/65aaeee4031fd329f137a48b/191:100/w_1280,c_limit/WW2024_159682594_POLITICS_Sander-van-der-Linden.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "AI Generates Debate Over Newsroom Ethics"
-    excerpt: "With AI’s abilities - and risks - for media outlets, newsrooms are focused on ethics of how to use new technology"
-    publishedDateTime: 2024-01-22T22:21:00Z
-    webUrl: "https://www.voanews.com/a/ai-generates-debate-over-newsroom-ethics-/7450743.html"
-    ampWebUrl: "https://www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/ai-generates-debate-over-newsroom-ethics-/7450743.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 54
-  - title: "Social media is the fuel for an AI fake-news fire"
-    excerpt: "As global leaders descended on Davos this week, many fretted about the World Economic Forum’s top risk for 2024: AI-generated misinformation."
-    publishedDateTime: 2024-01-19T08:58:00Z
-    webUrl: "https://www.bangkokpost.com/opinion/opinion/2727082"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20240119/c1_2727082_240119160859_700.jpeg"
-        width: 700
-        height: 470
+      - url: "https://img2.chinadaily.com.cn/images/202401/23/65af8cc2a3105f211c85fef6.jpeg"
+        width: 658
+        height: 438
         isCached: true
 
-secured: "DfB6NmH2Mfwp+la5ubPqwj0+Frgb5s8/I6xRVlO7lgo1y4OKY6kCFAlLCH0NPwSd1I/1TZ51qLXMAqzhO9XnO6lh62nKpX8E1QCiigWaWRgxwWAaCbD9FioSB3UmYokQENPY41rPSzOrj3qoMyzx5F8s1ooFxhhXqnONN+2snkcZJ8L/AprTmvw712VKqu6fkkITos8s/01X0hH96iMTd46/JsynDoXBeSb5USlXp5Sv8R6yz474xHgs9xPv1/2WNWexxYemIflUzBLyk1tGfOjNmEusd8v12BQp24Ek6qXsgqU1n0iW4SqPY+IfjMVZob6YNLrBFJeXNvbpNeGMzBWbDYxT7CC7rJTqEl4S0lk=;jQ+FY3SYGi441Mc6mkiQXA=="
+secured: "+grWfFGAKC5Icn4XPuO8Mxin9mlmRVoKbt/OWX/Nz300w4JPu0sbfe+ydIrF5PCPnS4zdVGLA2QddeuswPe8NchkFuD/P0OHuq5UwINeY4Q4MnY6JTBTWeKXtdUs8+4lm6mIPJM5kElQ6HSWGhnjvt1fUgPEccAZ1yZkBi6mN6zlg691G5TeG8+6tIwB4hM6pSRL3/NEAYIYe84yE3pcov0ImW6ptiYqEwYskN3SuWIMHugBxqopqsZsL7paqBBzwvueHZicl4y2QP4JdByyiDJ7ha2rUK0Y7tIFc3eqGBGfEHms1uSRMkh8CV+NAqzIhIZOq802A9CRfBzHt+cQXU+RADfgc56hPhoL9LM+JO49sIh08Z6xwp8+hsPGbqKVnvi0bZUWsKyZViauVRbOFxfClbDTD/g1L/WyWV8t3YzrqUe1V7y/klgJvZHtY1I7D7UqQ9Iy42qmiMRJ6Fx62EbTWMWVGKIU/ZlR+kb9aPDrPieHDEL+AsrKeFhj1JpusxXRMh+BgPoJb7yVH/RDBQ==;b0ufEGk+5Dm+VOOHqHqBKg=="
 ---
 

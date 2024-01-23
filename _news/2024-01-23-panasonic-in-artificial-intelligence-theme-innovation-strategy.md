@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kia in artificial intelligence: theme innovation strategy"
-    excerpt: "Kia grant share with artificial intelligence as a theme is 25% in Q3 2023. Grant share is based on the ratio of number of grants to total number of patents. Blending expert knowledge with cutting-edge technology, GlobalData’s unrivalled proprietary data ..."
-    publishedDateTime: 2024-01-23T11:07:00Z
-    webUrl: "https://www.just-auto.com/data-insights/kia-in-artificial-intelligence-theme-innovation-strategy/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 37
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png"
-        width: 388
-        height: 544
-        isCached: true
   - title: "Toyota Motor in artificial intelligence: theme innovation strategy"
     excerpt: "Toyota Motor grant share with artificial intelligence as a theme is 66% in Q3 2023. Grant share is based on the ratio of number of grants to total number of patents. Blending expert knowledge with cutting-edge technology, GlobalData’s unrivalled ..."
     publishedDateTime: 2024-01-23T10:12:00Z

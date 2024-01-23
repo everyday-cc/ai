@@ -39,22 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google DeepMind’s new AI system can solve complex geometry problems"
-    excerpt: "Its performance matches the smartest high school mathematicians and is much stronger than the previous state-of-the-art system."
-    publishedDateTime: 2024-01-18T14:13:00Z
-    webUrl: "https://www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/"
-    ampWebUrl: "https://www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/17/1086722/google-deepmind-alphageometry/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/240117-deepmind-geometry_845cd6.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Two Google DeepMind scientists may leave company to form AI startup"
     excerpt: "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape."
     publishedDateTime: 2024-01-20T12:07:00Z
@@ -170,15 +154,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google DeepMind's New AI Matches Gold Medal Performance in Math Olympics"
-    excerpt: "AlphaGeometry incorporates a rule-bound logical model that attempts to find an answer, and a large language model to generate out-of-the-box ideas."
-    publishedDateTime: 2024-01-18T16:39:00Z
-    webUrl: "https://cacm.acm.org/news/279365-google-deepminds-new-ai-matches-gold-medal-performance-in-math-olympics/"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 50
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z
@@ -198,6 +173,6 @@ related:
       domain: cointelegraph.com
     quality: 26
 
-secured: "ailMdVbNg6Bh3/4GVeIgKiM3ofiuX/YK9DOWdQnNPx0AhRVybZt5/tUw4rQxceq+1PStZDtenGNguAXTEjmEKDURyGM8MG1uzlTCFQ2/O6irm+HKJF+GslI7jS7wYaUwFzppO44mL3GiHftBcXH4iI4t1WYghMf4aq2e9etzyk/DJz8T04PD+JEjwXdiXWTOr2R+eiWR1CUEkpvGAO1g8eK6J9CiEEP4L4MX6pANOwiudCdwGOnPFMy4ir6F6UcLpSUrFxaPyPBLVjMw2VujABBlCsj/oDEtJRas7P63iR9+WIipX1X8t8knrYdI08n3deXmQK/ASj8oTIT8qrlEVaTK8jXSLNm52ZoJLdSfySk=;NHUeXCPu7mvHD9qAFi4Mtw=="
+secured: "piIaeAFgXuT/cMC/q7st3I8N1gCHiAJooL1mO10uo2lEPeSbyNjOcfI50J1YygP1JcgbDQn3x2ZiWRowEcBnTqVZLWF3MxEK13rNNy+0IVKNkIMehi7Ww549MzRxKlKkrG5EnhSgfsA18ybRSBX7PD7nSn2DWg6ROlW2YNDOAotg67RMo/NrAcKI6PxmSNtB6uVrZEKhZSz/v67hwpfMsxm6em7JiLKn5+aoUnCuirMuaiuWdyXWSmr0lCFn+4c2vPYdbKRSSrGGO9WKmRCqD7kzXSTpOqulI6a4kE9NOmhKYbwRJAhFdgyICDurESINmZgCdadhLatUKyYfL99lRLWllltn0Iox5aGW33hYqT2doI0sr/PVKhS8EGXW6SvMzpezo84FuMNNJzSRIPuIQ9uCcOypAoCkh1lRQbdo/s2DNZ+eAanjiCH4RH0cKQeih/z2vbVuijzh3AIsj9MKt8RsJyE2jS80COg8Xq5BB9Q1I6L1mqqMFcw80BXKoVG6PCLRTijJF65tvLyXCI2Nhw==;wnTPvm5K6dPFNe+QiEjSSg=="
 ---
 

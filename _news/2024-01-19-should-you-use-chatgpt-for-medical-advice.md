@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution"
-    excerpt: "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 86
-    images:
-      - url: "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT"
     excerpt: "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI."
     publishedDateTime: 2024-01-20T10:30:00Z
@@ -51,19 +37,28 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meet BharatGPT’s GPU Buddy"
-    excerpt: "IIT Bombay is building BharatGPT in collaboration with many universities and institutions. With one of the focus areas being healthcare, it was important for the initiative to bring in expertise from organisations that are leveraging different technologies within the field of healthcare."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-bharatgpts-gpu-buddy/"
+  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
+    excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
+    publishedDateTime: 2024-01-22T12:30:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: scmp.com
+      domain: scmp.com
+    quality: 70
+  - title: "NHS doctors to take part in AI “bake-off” with ChatGPT at Rewired 2024"
+    excerpt: "Digital Health Rewired 2024 will feature a live AI “bake-off”, where a panel of NHS doctors will test AI LLM models on a series of diagnostic questions"
+    publishedDateTime: 2024-01-19T08:30:00Z
+    webUrl: "https://www.digitalhealth.net/2024/01/nhs-doctors-to-take-part-in-ai-bake-off-with-chatgpt-at-rewired-2024/"
+    type: article
+    provider:
+      name: Digital Health
+      domain: digitalhealth.net
+    quality: 56
     images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/How-Vizzhy-is-Helping-Build-BharatGPT-for-Healthcare.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.digitalhealth.net/wp-content/uploads/2024/01/panel_session_ai_bake_off_rewired_2024.png"
+        width: 555
+        height: 330
         isCached: true
 
 secured: "rAvbf6UMzc/Xel3VSXmfGKwwvARlEMLeMHLjQ7ZZSyxeBdqraxGAei8P4Cgc8gCm2LZUxZ9H+2p+OjosnXrVPToVTNxkq856GzKHMF2QSdRiHZSwto5x56DqDchNIvSv2MWieofr/TCxDYKx4xr8Ocmnny5v78DL358XFhSbWezCOqTsPETY9xqvGpqVYxb94mtjSUwWVGnBj7oAWNctBiWPfDg0gZ8oLYUonZptWw/zPNTb/GDMiPClw57FkppNgdQc742mTXSdwCjKJzeHMNrRnSfuTuu9zQchrZjK95Zont9yJ0oPbbxS08r0nem8hVFetnHVcp1w5YmgscGWCNzCCQZLJCBViMai03cHd8++UgGZalrG7cNOznTXH4kKbVBECHpNBUucWxsydpQ7GKWAt6v/Lb+E2ZfP1CMCxvaD16ZZFovBQ3fmtNW/0r4LMM+7+j2SVzQXt3YrsAk2EYWqlDPNqPxbCeJpmq3PIclJS0AqTmOyno4PT6e3+oYLPYBt8PUwymU8dAtgXqCvFw==;wwnaXQiSfBWSlBMRI2ONGw=="

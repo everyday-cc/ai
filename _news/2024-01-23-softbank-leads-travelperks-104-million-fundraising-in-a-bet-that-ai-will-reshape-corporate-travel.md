@@ -1,30 +1,34 @@
 ---
 category: news
 title: "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel"
-excerpt: "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank’s Vision Fund 2."
-publishedDateTime: 2024-01-23T12:31:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel/5065717/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel/5065717/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel/5065717/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel/5065717/?amp=1"
+excerpt: "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2."
+publishedDateTime: 2024-01-23T10:31:00Z
+originalUrl: "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html"
+webUrl: "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html"
 type: article
-quality: 42
-heat: 42
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2024/01/106875152-1619622957732-Avi_.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
+  - url: "https://image.cnbcfm.com/api/v1/image/106875152-1619622957732-Avi_.jpg?v=1619623037"
+    width: 4800
+    height: 3200
     isCached: true
 
-secured: "pkmaxrwogQgUtZqMCNqPxXrwPxNXfYpgSfF/1U+hlYA7AA39NoHIS08HVFr7f3C6RdUUP9oxCKiGkL1HH297BSs/Jt0+lx06L4J9hYl9GGyFzAXP+bwe2+nMdiv6TmMweR1hOupf3DfTnCdI9mhU+Wa7goz3UCqnfdLexbfL7ZPonTiYk2/CHhj0vAo9+KDeZ+oSj2X96x2z2cIu7sZlKHgHwx26RTkeN08dKpiCrHrqbeS5Sj7/pnF39aHGsZf+JkxY/xfW3dfm9ILSrK/lMAS/9NU7nmjY4vnsgwBlehwpoTdetWFuX35VGPEnuXGp6k6SgvOr5/yQmfA/gKJjlgKWbLY4hjny0OIEDXD4rE4=;ZDCu5A9KCS6HmnSBx8+WHw=="
+secured: "fxSf0Iyg8ajpRClaX3hqCwyFh6moGNFrA2Bv70ovOH2R+M0TH9GPOXvE8C0nSRvm/TjO6/fOg/B7yN6cCGxRch0Oq4z8FMHcQV6f2HkTBnX/ZfYoYqytxp2Xl52u7RFvjnHMH18TWCOEwg/nmRQaLEnSOEwKD6c35Uo9xiLKYQVAEXBIfpeUJq8SK+J+GomkBodhVTlyp5nCWgtAZF8KuE6GFtGbbAABW7Yl1zO3p2JPorhXkNB5DPDDmB5oFjxzHATYjP2FkYZ1Rpw4Fc7hRILBUrl5UWzMnqL/4j6+JSDdvEWWe4ULNNhy29RGSHPt62jZsMGHtOoC7d8n6Pgx173xz845V0ICB6caakf5Q78=;9DGf6YsB6OUiVBST8n/Y1A=="
 ---
 

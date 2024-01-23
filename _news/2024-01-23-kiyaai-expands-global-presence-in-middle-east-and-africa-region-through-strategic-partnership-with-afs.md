@@ -92,6 +92,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "5qJysQmvIuUrV3fSGrdRq7CAto+X8nrRthlGZ7r9nNT+GL9v3MCVREP4zja6qhTtnbXTZU2b9tYgkrKobFvX84s0XdBIgwkZMe+wBFsYSOCT4Pw6ufYOprsP9/g6BIuAyxuLLpJcbYuVnXawP7xtkKhUcIbG/X8LgV1+F83VLx31PMwp/mnz8h7ZBzxrcWvpQXrVwMyM0grP1s6y2cK9+cym1GbMepMJh9tFFan2lV7U0tvy1soBhAAItgUel/egoDU5e1o6a9fVrAkVZO9yyKytGWspnt1wxIq2V7SXxd49hS09vL8efzPmgQ1TuuSuIqZF6La23WNBcQyFvsMqR/3PZqLXEwf5j8VOltIO1ZM=;ZMpAziRccV1VXW9zk+hhxA=="
 ---

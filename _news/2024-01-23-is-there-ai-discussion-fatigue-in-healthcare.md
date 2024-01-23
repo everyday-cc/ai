@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
-    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "How AI Can Help Humans Become More Human"
     excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
     publishedDateTime: 2024-01-22T16:22:00Z
@@ -85,6 +69,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "WHO calls for greater regulation of AI in healthcare"
+    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
+    publishedDateTime: 2024-01-23T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
 
 secured: "TmANF7Jj06ypOh0prmo6aurdvkqoNFKridxzQovutz9T1Hadr0MeroHsnEpe4LWD+uHnZE3cBW7pZfsQA94B5n+COfnk1X4fgLEctVEBHq+LKaPLHMr2g9KsEv1ikiboTQNQHTBGR18q59OAeI6iXcXkhLkTJKUSYpzI89WQR5Y7GOCH9lNcNRhml01ZRJNKmiUeEwB2baNSQwM/1eKRA2+j1KAoPdaO8SGEQc5RtXSZi11s7r2ggUZerqE4kj+ylY49d01q2hD44lpulZaE+lVegD1AL0qPd0iGA7Q8OFSmcVAaQElU/0oyZ8DrDueHF8trnUqnBcEO+4b4XUMsfYM6kRCSc3hRGBAPZMiN4yI=;QnJloZpVS6tyE+ZPnG+JFw=="
 ---

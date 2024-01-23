@@ -27,142 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "Seven Keys To Making Generative AI Work For Your Business"
-    excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
+  - title: "Bard AI is coming to Google Messages. Here's how it'll work."
+    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+    publishedDateTime: 2024-01-19T09:02:00Z
+    webUrl: "https://www.androidauthority.com/p-3405223/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Harnessing AI’s Potential To Boost Your Career"
-    excerpt: "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers."
-    publishedDateTime: 2024-01-20T21:24:00Z
-    webUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/"
-    ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
+  - title: "Bard AI is coming to Google Messages"
+    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
+    publishedDateTime: 2024-01-19T09:19:00Z
+    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1261
-        height: 900
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT"
-    excerpt: "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ..."
-    publishedDateTime: 2024-01-21T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/"
+  - title: "Bard Inbound for Google Messages to Help You Compose, Translate Conversations"
+    excerpt: "Prepare yourselves for the arrival Bard, Google’s conversational AI, in the Google Messages app. With it, you’ll be composing messages, translating languages, and so much more. Detailed by the good people at 9to5Google,"
+    publishedDateTime: 2024-01-19T23:04:00Z
+    webUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/"
+    ampWebUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Droid Life
+      domain: droid-life.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Game developer survey: 50% work at a studio already using generative AI tools"
-    excerpt: "A new survey of thousands of game development professionals finds a near-majority saying generative AI tools are already in use at their workplace. But a significant minority of developers say their company has no interest in generative AI tools or has outright banned their use."
-    publishedDateTime: 2024-01-18T19:10:00Z
-    webUrl: "https://arstechnica.com/gaming/2024/01/game-developer-survey-50-work-at-a-studio-already-using-generative-ai-tools/"
+  - title: "How artificial intelligence is changing work in law firms"
+    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
+    publishedDateTime: 2024-01-22T18:40:00Z
+    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
+      name: boersen-zeitung.de
+      domain: boersen-zeitung.de
+    quality: 37
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1418934535-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
+        width: 2560
+        height: 1600
         isCached: true
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
+  - title: "Google's AI chatbot Bard to arrive on Google Messages"
+    excerpt: "According to info spilled from tipster and code detective Assemble Debug (via Android Authority), it seems Bard is gearing up for action in Google Messages. The scoop is that Bard"
+    publishedDateTime: 2024-01-19T11:49:00Z
+    webUrl: "https://www.phonearena.com/news/googles-ai-chatbot-bard-to-arrive-on-google-messages_id154513"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Bringing Agility into AI to Drive Business Success"
-    excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
-    publishedDateTime: 2024-01-19T10:54:00Z
-    webUrl: "https://www.business-reporter.co.uk/global-agenda-series/global-agenda-series/bringing-agility-into-ai-to-drive-business-success"
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 19
+  - title: "Here's how Bard will work in Google Messages"
+    excerpt: "Based on a few code snippets, it seems Bard is gearing up to be your all-in-one helper in Google Messages for things like drafting messages, image identification (yes, it's a genius at recognizing pictures), language translation, book recommendations—you name it. Apparently, Bard learns from your location and past chats to give you spot-on answers."
+    publishedDateTime: 2024-01-19T12:36:00Z
+    webUrl: "https://www.androidpolice.com/new-evidence-suggests-bard-is-coming-to-google-messages/"
     type: article
     provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How Generative AI Will Shape Contracting"
-    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
-    publishedDateTime: 2024-01-19T05:00:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
-        width: 953
-        height: 635
-        isCached: true
-  - title: "Generative AI and what it may mean for Europe"
-    excerpt: "One of the most prominent themes to emerge from the latest World Economic Forum in Davos was the rising potential and associated challenges for generative AI."
-    publishedDateTime: 2024-01-23T05:56:00Z
-    webUrl: "https://www.euronews.com/business/2024/01/23/generative-ai-and-what-it-may-mean-for-europe"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 39
-    images:
-      - url: "https://static.euronews.com/articles/stories/08/18/77/92/1200x675_cmsv2_4fe18181-87f7-5e63-88f5-8c1294279216-8187792.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
-    excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
-    publishedDateTime: 2024-01-22T18:08:00Z
-    webUrl: "https://healthitanalytics.com/news/who-releases-governance-guidelines-for-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 38
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "Artificial intelligence, ransomware generate concern for metro Phoenix businesses"
-    excerpt: "But, given the recent publicity over advances in artificial intelligence, the worry factor has skyrocketed. In putting together our annual Cybersecurity Firms list, we included a few optional questions for Valley industry leaders to tackle. What role is ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2024/01/23/cybersecurity-phoenix-experts-ransomware.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 12
+      name: Android Police
+      domain: androidpolice.com
+    quality: 4
 
 secured: "dGOPE3CfOuJnmsUt4QBXdmzrkVf78LihQmbMHkDpOVYo3LYqy898NzoNztjKDJ8NWTrLO3O8sMWK1eczrVhLS9hqZleLwFZFAMt/y5GFpg4TulYZTKo7uGfbvqqDbCWHLNSXyYJhf02ZCXIBpzfyEg3KylO3W9t1vBmye7wa8gcOtJxN1UZyXROqJ3T8n39ddVGd3q/MGtA0vF1AgOYE4Q8/FR3emGOSnc4aAbk4ow9I73TvN++djkozIFg13dM56+/IyRhu0GRucxGPgO0gqkZNV/+oh1k/qSRBIlUp+w5j17VfNRSt6WWrkA3D5P/fgI4prUl9X2Dy6WkZaZZYVv9edW7AOSihgpN6dO0XP49MLgsC2ljCa90011TzfkmuB/7y+feWJADDeTko61Fqw6bU+tf71XiMoQgy0jDvCEcbXEQ1up+3+FtUHdQhfArbkaxccYoRIKPxjMH49BJrI9u2f3p9BjJXPQ1nGSoXrXThgU8SmtTkJ0/mqP40pGFQ3O8auXDp4oR60HxJ8kTH0g==;oH2lCtcY9OxiRun2g9SVbw=="
 ---

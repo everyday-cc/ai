@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-gov
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,57 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Challenging norms and finding your North Star with AI in 2024"
-    excerpt: "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them."
-    publishedDateTime: 2024-01-18T15:20:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
+  - title: "Standardised norms in offing to check AI systems, robustness"
+    excerpt: "Once the norms are devised, companies deploying AI technologies would be rated on various parameters like the time taken to restore the system in the event of any hacking, malware or breakdown."
+    publishedDateTime: 2024-01-20T22:34:00Z
+    webUrl: "https://indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/"
+    ampWebUrl: "https://indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/lite/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
     images:
-      - url: "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.indianexpress.com/2024/01/ai_1200_gettyimages_b3276e.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Navigating data challenges and compliance in AI initiatives"
-    excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
-    publishedDateTime: 2024-01-19T17:32:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
+  - title: "Starting a Business in an AI World"
+    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
+    publishedDateTime: 2024-01-22T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Challenging the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "5/Hb0g6LFnty9UgPJvOeN+z830a/ymerSTuW3NoETQ2xVVtH4pJZEEw7ao4UubsIQY8Mh91D0lqHEk2/EAvq3AHz6ODx6IXHs9pfhIO7MSlEkfLPj+l0FSG24w0iu7SgZq2rGz0h2VoaYkxOewrTxfKwpE0IqIDnsf651nBINHmg9ydmaJ8w7pjT16qZJlXcqSpIb+4Ar/LXRU0YQT6lUgF6B2D6r6DOd3KValxXIs6468CSWjNZrl0HbnUbUjm2YthoO68isFoRsy5nfPFs7ZEeq+dV2vtZHCJU8+HGFVdTt5163tzpxJGzNq9OX+HLbckYk0Z3W7PoplEvsUPf968V7qxSL9X2R2dBmBE6jkPyMT+uEatwgCRkUPFCkK0sNaH+J/FUhZGO08ZbbcXK/yjnSDaTh/EyL9gXCJMMPdrraTKpS9s/GupIpQopopXhMDJ/d6OqQs26CflBDxtzAUzTXsvUCLyToV1h8TP/zczmol60gAs0usjwjxUi4QdGrFcQwjk1JHL/jvttcfRijA==;GQu4JU+UKtzVd2/H9NVSYA=="
 ---

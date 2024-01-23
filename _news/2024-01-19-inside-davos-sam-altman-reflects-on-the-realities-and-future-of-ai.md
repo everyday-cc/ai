@@ -366,6 +366,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 30
+  - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
+    excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
+    publishedDateTime: 2024-01-23T13:29:00Z
+    webUrl: "https://www.tomsguide.com/news/sam-altman-hopes-to-take-on-nvidia-with-new-global-network-of-ai-chip-factories"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 30
 
 secured: "RUt2dKfzBsGwusBrsYJArzA9oQd7m9wNfAKUq6qsB/3f64O7++/VLGORgDqyZyRt1/Fv5Yv6e8fZ6dr9P5MsHbC19Kz22dNdAAnJRjvCNxW4fSHaFDOn9nGTZXLzLeuhCkqIG3CGxBpKZ5q5wb2I/oQLTZBkLTbfyDnFmpPSg/0zSRMxn4ZwuFvjPR6UkLE73OAMIHAFMchoIrL0pPTEtIwesG05hmrdqaXLDLgD/cFx8CEqnxXhHVpYwQYD27vtROJsASdnrcD/qwFYIOpbyX1O1NmLzqPEI84BtVWZD0yKbpkRUpaQWvcUa7CXpDMegYs2Vwcl3FMklxAYTqu9+2Ha8QILXT/OQZyINiCHQS68sU3ls9BvBG3mEw66uQhOo3oFejy88v+OMQv3ILpzxl7kC5yYGEXAxUTHx99+MyJrbTd8AQaE2dnYuMji6YETkAoZ+9YuBhhYWUDOmbgUKQMguZOuCHwnWWpJurzPcNOzUBbrae2GT0SYU2Wmo5ChPm/pYIFHde6fHTyulj9Mug==;k91zWTUIcO6+95zHYm3CxQ=="
 ---
