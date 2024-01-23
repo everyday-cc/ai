@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -157,6 +157,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Artificial intelligence, ransomware generate concern for metro Phoenix businesses"
+    excerpt: "But, given the recent publicity over advances in artificial intelligence, the worry factor has skyrocketed. In putting together our annual Cybersecurity Firms list, we included a few optional questions for Valley industry leaders to tackle. What role is ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/01/23/cybersecurity-phoenix-experts-ransomware.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "gV417D0C9U9KQ9V7pdt4KBCNOEdrr7reJuJeB+E/ENi6us6hVjN0GnYVYhR2lIpqWBI0I2mJeyE1ZKZtLvxzdQGXU+X3FrLDXDmPUKS3yew2KSSI5Bt/Cnd3mjVTUbiXgXGQNE9D+64Cxs5edKRNKY3Pgos1Jj4xGOCsNBqTY6kQn/lQY41wFddbhbuckWCXGYUdXLGOjmuRtvPIP1l5ghSaJAP9QOLIkaLtk1NxCcmJd/44xGjo2R/5k9soZK6NNysiz/xKgKPG0OlGETrgOSLi1xKt96xhnmFaijs59+BBNDvHqDRP6G5qk4g17F3ZLJ3bflTfXTEIHX4eqMbg44g6UaRf88tEPQcvaq7/QxY=;fgqVK9q+8TSoOHD5B6tvHA=="
 ---

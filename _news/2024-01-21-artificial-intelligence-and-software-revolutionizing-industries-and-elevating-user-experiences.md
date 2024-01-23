@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/artificial-intelligence-and-software-revol
 webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 650
     height: 450
     isCached: true
+
+related:
+  - title: "The Intersection of AI and Biotechnology: Enhancing Healthcare through Innovation"
+    excerpt: "Introduction: In the rapidly evolving landscape of healthcare, the convergence of Artificial Intelligence (AI) and Biotechnology has emerged as a catalyst for transformative innovation. This article explores the symbiotic relationship between AI and Biotechnology,"
+    publishedDateTime: 2024-01-18T15:16:00Z
+    webUrl: "https://techbullion.com/the-intersection-of-ai-and-biotechnology-enhancing-healthcare-through-innovation/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/The-Intersection-of-AI-and-Biotechnology-Enhancing-Healthcare-through-Innovation.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "IbPMBbOA2h8GPfDaAAuWBFGbNdgq+QARPV7rNFwi4e8DW61qltLwx6C7SmuNYxOcZRIWLy0vMe0tRBSd2ABBRdZWVwc55gb4YgfYrKEhsQoPbntEzqgN2N+juEsg2ShBTAKfXhhiRZ09aIaUq/g+CbmouvADPp2v2hjAZlrgxMC8ZppjMOOeRfYnn4Z5NXQLI55J+/SR9kxQjnbSjZS56wjXt0GOMxRtOGWp5NLovhPDK8AMRQdqyMJLNGGZxr8KWBnmC/NYjt582ogLIDbsFhn6A7Zq3Ss1dxUjZQgzCMy/C/gjBnGGTDjYwAPR2kjiRJuUL7gbvT9koBAVbrsjJdElqM1VM+u1AJaz187xg11cr3zT9GK336Jdwa4eDWeqqM08Dtyd4poeSaVQmv98EgP7vUQ8lcLIOI9D/w0PHno9pqvl2bEAOiCUcG1xCXYGm1PfBpNR8w/wWOz7B420f/+NhFTP+hRLaZKnyNnCUbRBNC1UyGn1U4wJEUpZC0/kRSHJCAxxvMBZ9Aqiyk7f5A==;obmeo0U/SprAoSlmJlsASw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,183 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of AI In Healthcare"
-    excerpt: "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard."
-    publishedDateTime: 2024-01-18T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/"
+  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
+    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
+    publishedDateTime: 2024-01-22T17:39:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Security
+      domain: securityinfowatch.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The secret to healthcare AI is ... human beings"
-    excerpt: "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human."
-    publishedDateTime: 2024-01-19T07:00:00Z
-    webUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings"
-    ampWebUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
-    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
-    publishedDateTime: 2024-01-18T17:00:00Z
-    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The Intersection of AI and Biotechnology: Enhancing Healthcare through Innovation"
-    excerpt: "Introduction: In the rapidly evolving landscape of healthcare, the convergence of Artificial Intelligence (AI) and Biotechnology has emerged as a catalyst for transformative innovation. This article explores the symbiotic relationship between AI and Biotechnology,"
-    publishedDateTime: 2024-01-18T15:16:00Z
-    webUrl: "https://techbullion.com/the-intersection-of-ai-and-biotechnology-enhancing-healthcare-through-innovation/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/The-Intersection-of-AI-and-Biotechnology-Enhancing-Healthcare-through-Innovation.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "The missing link of the AI safety conversation"
-    excerpt: "In light of recent events with OpenAI, the conversation on AI development has morphed into one of acceleration ... According to Coatue’s recent research, the demand for GPUs is only just beginning. The investment firm is predicting that the shortage ..."
-    publishedDateTime: 2024-01-20T12:04:00Z
-    webUrl: "https://venturebeat.com/ai/the-missing-link-of-the-ai-safety-conversation/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "I Was the First AI Minister in History"
-    excerpt: "Six years into my role of leading the UAE’s strategy to become the most prepared country for AI, the past year has been an exhilarating sprint of unprecedented AI advancements. From ChatGPT to Midjourney to HyenaDNA."
-    publishedDateTime: 2024-01-19T21:19:00Z
-    webUrl: "https://time.com/6564430/ai-minister-uae/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 47
-  - title: "Top healthcare trends in 2024"
-    excerpt: "Here’s what industry experts see coming down the pike for hospitals, insurers and digital health companies this year."
-    publishedDateTime: 2024-01-18T13:51:00Z
-    webUrl: "https://www.healthcaredive.com/news/healthcare-trends-outlook-2024/704382/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/6-U11nDfII2tZc0ZEcvhs6HeoPKnA7iNDY3WbT0_cks/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MjU3Njg2OTQuanBn.jpg"
-        width: 770
-        height: 434
-        isCached: true
-  - title: "Challenging the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Getting to grips with the misuse of AI in insurance"
-    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasized the role that trus"
-    publishedDateTime: 2024-01-18T18:46:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/news/technology/getting-to-grips-with-the-misuse-of-ai-in-insurance-473535.aspx"
-    type: article
-    provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
-    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
-    publishedDateTime: 2024-01-19T15:14:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Understanding the Role of Artificial Intelligence in Cybersecurity"
-    excerpt: "But fear not! In this blog post, we delve into the captivating realm of Artificial Intelligence (AI) and its indispensable role in safeguarding our digital existence. From predictive analytics to deep learning algorithms, let’s embark on an exhilarating ..."
-    publishedDateTime: 2024-01-20T07:02:00Z
-    webUrl: "https://techbullion.com/understanding-the-role-of-artificial-intelligence-in-cybersecurity/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Cybersecurity.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
-    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
-    publishedDateTime: 2024-01-22T20:37:00Z
-    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1675715772_536667_a48qtg.jpg"
-        width: 1024
-        height: 576
+        height: 630
         isCached: true
   - title: "Artificial intelligence in health care needs more regulation, WHO says"
     excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
@@ -214,6 +50,15 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 21
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "cDlYSjTkWw5hxsr4Z1Pws/J+0DW0wpUgKSENFpLHHtotX83Q5xDjwIVaKDzmrASuczxkVXV/y3AZ4AQ3Y0QhLTFY6fwtAeNtPRnWdKUb1+V9fikNnR5r+zGwkw/P3dnftrVzK1a+NBqmM44A4ae9R/DrJBC+A8TdC0UKpg55w9j94Dh6UpDKmsb/AhonPs7dLg3nEKXdYXPrd2Oftq4aKLNBckXdQ2lqQIRQ8fcPg++EpV8VFiT9TXpk4A6qwuWOQN6rb7cXTHmH0kVOyl1ShNDu19Xu5DuugHFHTrLEZ6tz7UbWruIVyiq77Dvug96yviGvkSgZV4vFFji/H2R1cGVd64WIcoMMrCg+tGDXEQgQlhoQAgES66x83edUQfgFu8D/qYuBKppWdPFRS0zK0T/bH38RUFsclIgUpU+1mzhasaDXj93aD3ZktfjxlCnqNzr/pgPwe7Otw28QgLsSZ/IMNpvrynFD2df8jfdB3bdBOAfC4IkSDwJE9ag9sSwd+Bm0Av93n0DyGg0JSBFkBg==;CiG4y7eNx/rb2TjEkup+rw=="
 ---

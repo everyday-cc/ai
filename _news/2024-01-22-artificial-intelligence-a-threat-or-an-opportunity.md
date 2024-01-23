@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-22T09:56:00Z
 originalUrl: "https://www.royalgazette.com/general/news/article/20240122/artificial-intelligence-a-threat-or-an-opportunity/"
 webUrl: "https://www.royalgazette.com/general/news/article/20240122/artificial-intelligence-a-threat-or-an-opportunity/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "ulbkLXg4RDsMqhfAjbGAkjHw3gSrgA4d6qgmwg8Co+90nL0CAtQUL6PaOB1LlUc2c5XyxSX38ecnSsQkWRpCvtvjakvG6u3UvSK2G3UGs58mRnq+wvdCqyMz0Qgl+dr5CAcNIxkTOWLHrX5UzJX1E7+40ptYtLgC4XUHCPgv9/fUu7UFpVXcgfBEYE+EyjOW1ayyorhBWbwnrPc3fxrFzXF2hkTxKZkWH/9Qjm6rGCbNWJE+4jkaVHc14Pksd76FApo9+M3XOsx0kVKSpGqQ4EHiBv0HYp8knzrJa1bR36mSo6LGA0aLH2grw5KPpAeNssyGWzhcSXgBQhmR3HTDOlziYFCSmbDYgBHDuYO9qEM=;tI7TyrNoTxs7faHEEnsjYQ=="
+images:
+  - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=8ba0b206-f3a3-5c5e-bd2d-376e986851e2&function=fit&type=preview"
+    width: 500
+    height: 500
+    isCached: true
+
+secured: "F/x62eqSA1pmDyGg6C6UJVHm+hEPz+f5wS142irFboeTbBcw49Je5MeF9ckHhzUq0EZQr4tAJhwnF9lByCW7PrD8e1MLDdfq9ZS1g2lIRwGeslJCZmgNrr9IcD3xnXrGA8U4ZF6hbjMXAQ+4MYrfBKUw91191CQqYBBqG7N1UmspbW9lUtD0k+f1sHru7ApscJFxnTOs4ubBnsnze4TJ5GkIRK4OHhx9pwGjtQLfcxw+B+bgobeZuIVw+WLU7t4Nu2g+C4JzuVum85ZptFAW+UIYfMDcM1F8luv4dxrpNsirmQEGCrLKTiYbjrbUUaqIyI7tbfiNlDz0j8eCjxypDnyk7UZuwqpMyw/mon4hj6Q=;l4qVvHUOUkS88E5RHI2Mtg=="
 ---
 

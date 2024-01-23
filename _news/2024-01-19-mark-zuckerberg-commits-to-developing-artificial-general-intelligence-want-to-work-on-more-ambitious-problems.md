@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Academic Intelligence: The Evolution of Education Through AI"
-    excerpt: "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,"
-    publishedDateTime: 2024-01-18T12:54:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/evolution-education-through-ai"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 56
-    images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg"
-        width: 2311
-        height: 1300
-        isCached: true
   - title: "Meta focuses research efforts on ‘general intelligence’ AI"
     excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
     publishedDateTime: 2024-01-19T10:02:00Z
@@ -54,6 +40,38 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Meta to Build Artificial General Intelligence"
+    excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/7e/57e7a46e-0ab5-58da-83ae-33b45824ee4d/65ae9863ba7fd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta is building a superintelligent AI — and one expert warns of ‘significant moral issues’"
+    excerpt: "In a statement on Facebook, Zuckerberg said ... It is also having its advanced AI research division, FAIR, work more closely with its consumer GenAI team. There is no simple, single definition of superintelligence. Each of the large AI labs and leading ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/features/meta-is-building-a-superintelligent-ai-and-one-expert-warns-of-significant-moral-issues"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 9
+  - title: "Meta to Build Artificial General Intelligence"
+    excerpt: "Meta to Build , Artificial General Intelligence. Meta CEO Mark Zuckerberg made the announcement on Jan. 18. Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses hu"
+    publishedDateTime: 2024-01-19T18:18:00Z
+    webUrl: "https://www.conwaydailysun.com/around_the_web/meta-to-build-artificial-general-intelligence/video_0c60ca2e-6218-5698-8ddb-ac55f48d2775.html"
+    type: article
+    provider:
+      name: The Conway Daily Sun
+      domain: conwaydailysun.com
+    quality: 4
 
 secured: "dNiQg0CIzZcWEsgvj/3814GkA+eFhnSdNtUVKytvGpL+iKtU7OIOF8s3Lqj281eAQRlsPm3xT/3WheBecDGbQPo2S1H09lyZSwfAgc0NjpNxJwPxiTweKCdDLiLzHLKhuMwtohafCBoSm7rVUwTEcZivs2MY2lBPGDhjDxFY4mxNUko4BBoN0xjqSdVB2123F969PpQhdB1ObwF1XLkQhQ7IfugArwpNUn9k/qybJc95RvbQ1g69U38PayhSO94QgtD5tXi6Tb/DCRzZb80jgsZmg8vwIqvL43sKrvQlWLxNlnha0oMxBKV0GHHgFKhv71cdqIjJstO1P3EgFa5yeKpYVZwOZg2lGILgu3jmcdQ=;CNBww2HnOTh9yBNo2oipTQ=="
 ---

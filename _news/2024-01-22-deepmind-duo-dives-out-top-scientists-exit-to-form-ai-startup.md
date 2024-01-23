@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
   - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
     excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
     publishedDateTime: 2024-01-22T03:49:00Z
@@ -126,6 +142,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Google's DeepMind scientists are considering founding their own AI start-up"
+    excerpt: "Google DeepMind scientists Laurent Sifre and Karl Tuyls are said to be in discussions with investors about founding a new AI start-up named Holistic in Paris"
+    publishedDateTime: 2024-01-22T07:18:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-scientists-likely-to-leave-google-to-form-ai-start-up/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 52
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l4720240122122814.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Could AI kill us all? Inside Google DeepMind, the world’s biggest AI company"
     excerpt: "A week later, at the beginning of December, Google DeepMind announced a new era for Gemini — their “largest and most capable AI model” and the “next step in our journey to make AI more hel ..."
     publishedDateTime: 2024-01-18T19:08:00Z
@@ -149,6 +179,24 @@ related:
       name: acm.org
       domain: acm.org
     quality: 50
+  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 28
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "2+MohP12IMKogowtxldw854aeEAuu4PBud1RU9QCjOJBPS4mTcvp5/AymEnTSepzw/5ADvXde1sd+bDp0kIBaEn6NT7yx4tEmjmgvMPmxAi83uO6hb3WCg1oCDNqaImty2ksG2Q7l4ABeJO7zGgyYrMAsmMxx8lHK1A09obzG4oCUVGWORwDIzhdGrHCnYVCUv1GQxDzzc7rrtTS+KeC2axTovcbxLGzE5KObHPAAqcm0iWCNTzz8w/Nbf4OadBgQhGJ5uSnzoecMOh7hWHQEHNRq7FdssCoZUhniGRDjWckFFj6FiIOx0uHPvrr3UEhn+2/IpaosXKfoxV9okNcGieMMv7FRt+KtK7ojFd17ng=;yxYGHKGLS1y+wChtP5GUOQ=="
 ---

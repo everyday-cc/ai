@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/data-insights/toyota-motor-in-artificial
 webUrl: "https://www.just-auto.com/data-insights/toyota-motor-in-artificial-intelligence-theme-innovation-strategy/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Motor Corporation and READY Robotics Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing"
-    excerpt: "READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics"
-    publishedDateTime: 2024-01-22T18:42:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2024/toyota-motor-corporation-collaborates-with-ready-r"
+  - title: "Panasonic in artificial intelligence: theme innovation strategy"
+    excerpt: "Panasonic had 33 patents in artificial intelligence during Q3 2023. Panasonic Holdings Corp filed patents related to various technologies in Q3 2023. One patent focuses on a training method for a neural network model that involves supervised contrastive ..."
+    publishedDateTime: 2024-01-23T11:52:00Z
+    webUrl: "https://www.just-drinks.com/data-insights/panasonic-in-artificial-intelligence-theme-innovation-strategy/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 33
+      name: Drinks
+      domain: just-drinks.com
+    quality: 39
     images:
-      - url: "https://www.automation.com/getmedia/b884d12a-829e-42e8-a875-f00d2257b2f9/NVIDIA-news-Jan-22-2024-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-desktop.png"
+        width: 388
+        height: 544
+        isCached: true
+  - title: "Kia in artificial intelligence: theme innovation strategy"
+    excerpt: "Kia grant share with artificial intelligence as a theme is 25% in Q3 2023. Grant share is based on the ratio of number of grants to total number of patents. Blending expert knowledge with cutting-edge technology, GlobalData’s unrivalled proprietary data ..."
+    publishedDateTime: 2024-01-23T11:07:00Z
+    webUrl: "https://www.just-auto.com/data-insights/kia-in-artificial-intelligence-theme-innovation-strategy/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png"
+        width: 388
+        height: 544
         isCached: true
 
 secured: "9/axZy3ivTDpD2sIv0oa1KC2HWsxVCohmqDxfOTvvtLdCYLCfPrKUjBNFiLb5FQRymjuLxoq4HG14uS0LVnJSf+znleOGTmMLE410AGSkXwsM3RW/FO9kmjAlWr3VHSaZeOZQejSIhPZpKnf2L5uy2baVwtp1EejL4mriF/9O/mMrhY722l+n+dyr4yw1UWYvIssegJELw8hAjYRTMKXC8Hk6Yr2JFuMwKphYb9E3Npty7SDbXoBIlzUUV5a0SPnAplpZkqwv/g+YkUuMsXA2D+9aqlkGHN2EAo29c84hNiwruh1fVSNgcYU5EOcGH5rXHwYa+UPqSk0XXCZYrgXlsbBcqnMwOFNQgNsEexMKd4=;lmbef/Re87p276lQqfZsbA=="

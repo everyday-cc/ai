@@ -55,6 +55,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Kiya.ai expands in the Middle East with AFS partnership"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-23T10:49:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-kiya-ai-expands-in-the-middle-east-with-afs-partnership/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
     excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
     publishedDateTime: 2024-01-23T08:54:00Z
@@ -78,15 +92,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "9ZC9I06EBTiGxFjQq09Q0uBwcZKgn6MVNwgaWgC/3YGMeSabtjzbSUYLgdEL1Fde+g9bko7ODEXuG+4mWzk3c9brQ7kKqXGszcsjKdqMeCfKrSlLhMLctBld3OOm2YyMrxxvdiYqNg2f5Stj5z+wPbrMFw82Lcem39c0rKr47Twl6MzBiWLrGez9EEE7yUzh4MsucpVPtkZ/GtKsRmT9gVUavyvqUVdCZqDE+67ZLzEnQpFAtmBnSFQpJ5AwbVcsZsYMTDNTqrOTPDY4NU1504GXNUPxWdpHJwvXZcUNMQjxP46KbSrxa6fHLKUHeBE+3dRxCjarlPSqLWRCI/N5xxi9g7kP9a06sS1NjVZLn3Y=;KIajEJo1ctHdneknB25VCA=="
 ---

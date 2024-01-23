@@ -35,6 +35,20 @@ related:
         width: 5000
         height: 3333
         isCached: true
+  - title: "AWS plans huge investment in Japan cloud infrastructure"
+    excerpt: "Amazon Web Services plans to invest over $15bn into its existing cloud infrastructure in Tokyo and Osaka by 2027 to meet growing customer demand"
+    publishedDateTime: 2024-01-19T02:25:00Z
+    webUrl: "https://www.computerweekly.com/news/366566832/AWS-plans-huge-investment-in-Japan-cloud-infrastructure"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "AWS to invest $15bn in cloud computing in Japan"
     excerpt: "Amazon Web Services (AWS) is planning to invest 2.26 trillion yen ($15.24 billion) in expanding its cloud computing infrastructure in Japan by 2027. As part of this investment, the company will seek to expand its data center facilities in Tokyo and Osaka."
     publishedDateTime: 2024-01-19T12:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence
 webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Academic Intelligence: The Evolution of Education Through AI"
-    excerpt: "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,"
-    publishedDateTime: 2024-01-18T12:54:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/evolution-education-through-ai"
+  - title: "Meta to Build Artificial General Intelligence"
+    excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
     type: article
     provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 56
+      name: Omaha.com
+      domain: omaha.com
+    quality: 24
     images:
-      - url: "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg"
-        width: 2311
-        height: 1300
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/7e/57e7a46e-0ab5-58da-83ae-33b45824ee4d/65ae9863ba7fd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Mark Zuckerberg commits to developing Artificial General Intelligence: ‘Want to work on more ambitious problems’"
     excerpt: "Zuckerberg believes that building for general intelligence is necessary to create the products Meta wants to build, attracting the best researchers to work on ambitious problems."
@@ -55,6 +55,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Meta is building a superintelligent AI — and one expert warns of ‘significant moral issues’"
+    excerpt: "In a statement on Facebook, Zuckerberg said ... It is also having its advanced AI research division, FAIR, work more closely with its consumer GenAI team. There is no simple, single definition of superintelligence. Each of the large AI labs and leading ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/features/meta-is-building-a-superintelligent-ai-and-one-expert-warns-of-significant-moral-issues"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 9
+  - title: "Meta to Build Artificial General Intelligence"
+    excerpt: "Meta to Build , Artificial General Intelligence. Meta CEO Mark Zuckerberg made the announcement on Jan. 18. Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses hu"
+    publishedDateTime: 2024-01-19T18:18:00Z
+    webUrl: "https://www.conwaydailysun.com/around_the_web/meta-to-build-artificial-general-intelligence/video_0c60ca2e-6218-5698-8ddb-ac55f48d2775.html"
+    type: article
+    provider:
+      name: The Conway Daily Sun
+      domain: conwaydailysun.com
+    quality: 4
 
 secured: "4MNzJpVHcqwgYRati3ICkwhrchTy/4QUnMgA38dYaKlJ6fk8ATDg7ddSNsuRJCVABXE+uS3nPANzX0NMCXyKS/KWIgxtvShQyD0brxaxA9oGmXizg51aO/Wzgr+LSCLGCzOrFkbG7kulg7sjS0PBXm7pJo0vILhnyXbdTQJGquf/MEL0h5BKYKUNF/8N6L0b837VbEBiTjZQLcwcssSN0dD1h8rP2IvdemYlthl3zy9AZbeOO1nlx9sVZCBHkHCfL5d8Rqxf6iI+mG6Y7iTfe28naxUrqzVGLbDR/yTUGo7fSBqtD3TG71zuytjzkRY+9mj464TC4lXi9aTa9qpzK7l1XAqkfbgV5uD7nOpyr8GNBH2Y5iFIIfOuz/Zh52iYV/YliebaLgnDdqACBWAnQiab2KoV69YCmSP9rvo38+4BWLcHCpETi+NB0h0f4ijVR9OGIS+ZVMomHRpa9tg4clWueq2/djUTiUzLpxeC4l64dxWzh7EFKRic8pFn7ROJ0POmZZ1V92I0tuwYJRMXyA==;dUO2nMkzx/3jjXLEfEN8EA=="
 ---

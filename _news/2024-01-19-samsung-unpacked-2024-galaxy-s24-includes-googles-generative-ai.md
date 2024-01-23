@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/
 webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
 type: article
 quality: 69
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
         width: 660
         height: 384
-        isCached: true
-  - title: "Samsung bets heavily on AI tricks to boost Galaxy S24 appeal"
-    excerpt: "South Korean firm will hope generative AI text, voice, image and video tools can help it regain top spot in phone market"
-    publishedDateTime: 2024-01-18T11:18:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/18/samsung-bets-heavily-on-ai-tricks-to-boost-galaxy-s24-appeal"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/a32d47216f3bb91c11747a430795d02368799415/630_487_3861_2316/master/3861.jpg?width=620&quality=85&auto=format&fit=max&s=6c5b9e8f90d92c3104b1d550142a901d"
-        width: 620
-        height: 372
         isCached: true
   - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
     excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."

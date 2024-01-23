@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solu
 webUrl: "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Challenging the misuse of AI in insurance"
+    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
+    publishedDateTime: 2024-01-18T18:46:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Preserving indigenous languages with AI"
     excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
     publishedDateTime: 2024-01-23T01:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-
 webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,45 @@ images:
     isCached: true
 
 related:
+  - title: "Meta focuses research efforts on ‘general intelligence’ AI"
+    excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
+    publishedDateTime: 2024-01-19T10:02:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/47721887002_11d5bacf9b_o.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Mark Zuckerberg commits to developing Artificial General Intelligence: ‘Want to work on more ambitious problems’"
+    excerpt: "Zuckerberg believes that building for general intelligence is necessary to create the products Meta wants to build, attracting the best researchers to work on ambitious problems."
+    publishedDateTime: 2024-01-19T06:32:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems-11705639505993.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 21
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/Meta-Corporate-Responsibility-Lawsuit-0_1705645807066_1705645848198.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Meta is building a superintelligent AI — and one expert warns of ‘significant moral issues’"
+    excerpt: "In a statement on Facebook, Zuckerberg said ... It is also having its advanced AI research division, FAIR, work more closely with its consumer GenAI team. There is no simple, single definition of superintelligence. Each of the large AI labs and leading ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/features/meta-is-building-a-superintelligent-ai-and-one-expert-warns-of-significant-moral-issues"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 9
   - title: "Meta to Build Artificial General Intelligence"
     excerpt: "Meta to Build , Artificial General Intelligence. Meta CEO Mark Zuckerberg made the announcement on Jan. 18. Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses hu"
     publishedDateTime: 2024-01-19T18:18:00Z

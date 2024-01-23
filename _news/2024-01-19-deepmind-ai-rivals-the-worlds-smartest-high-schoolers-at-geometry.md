@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-s
 webUrl: "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/"
 type: article
 quality: 84
-heat: 174
+heat: 214
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
   - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
     excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
     publishedDateTime: 2024-01-22T03:49:00Z
@@ -130,6 +146,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Google's DeepMind scientists are considering founding their own AI start-up"
+    excerpt: "Google DeepMind scientists Laurent Sifre and Karl Tuyls are said to be in discussions with investors about founding a new AI start-up named Holistic in Paris"
+    publishedDateTime: 2024-01-22T07:18:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-scientists-likely-to-leave-google-to-form-ai-start-up/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 52
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l4720240122122814.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Could AI kill us all? Inside Google DeepMind, the world’s biggest AI company"
     excerpt: "A week later, at the beginning of December, Google DeepMind announced a new era for Gemini — their “largest and most capable AI model” and the “next step in our journey to make AI more hel ..."
     publishedDateTime: 2024-01-18T19:08:00Z
@@ -153,6 +183,24 @@ related:
       name: acm.org
       domain: acm.org
     quality: 50
+  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 28
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "DQNao4VL+5VnaN3+sTK/an3NrIEeAV4pmsU6BzG/f8y5AktHwfbFuCtbhzg//Wly5D77gSnaCpIBfu+Pg1ItDZjRG5t3x21KW+or8jJaS0XUOzHmW6KV20uncPO5bQyDbSFS+nreW+l3JAK8OdIbiarojPL4eK+E31h1jVlGkYskhLn4Tq3deAvmpI86jvT0UHQdgiJQir3/0sCiH8DDqwDPxigtiDkryXKFGxLgmrfY2lSx/Qw4WvUSCEVwiJuaYe0Cf4YWQPNJHI/ftTnwYgl7ZK9XdeflPJxxa29DTs33xO8N31e0hywOTm9gko2r8iUZUqet6wRHVu4UuT2NgnoebaZUFGag3cbVRaba9iOq0Cad4pqyuQWSJffvPq4NTZo99N3fyS3w1Lm7P2DKE3Cd12Uuclw2sa0ZtTRD8O3aPPmbvfCd8e+kpNCjUr6eRjHwEGlnC91+j2lB8KK1JMkMTA5GT+tGnLarRC30sVym5dC7MXQC/zeXlOKjZN++q35EaWEKgZsZTdslojwczQ==;SF89+nAsXBrMU7fEG6m9oQ=="
 ---

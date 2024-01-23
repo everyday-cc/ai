@@ -8,8 +8,8 @@ webUrl: "https://www.nbcnewyork.com/news/national-international/tech-execs-say-a
 ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/5065411/?amp=1"
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/5065411/?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://media.nbcnewyork.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
@@ -25,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "inosxxe/8+47DhGtR6jfkoteWPjp3xST2lt9cr1Pix4V1YvbedR+UheOwsaVxOLSWRtfThdI2zGeXsQS9fMvwCw15ASic3G4px8RqmRZyw0EpAH1cC2AeRegYVMqi/yHLCJnFz24TQlgTFBXunPQQ4SsmbUUu/CfzWvm2cywGaPFVriz8NafawQN6DLt7n7Zl2xqheSSJKW5iptvdswR5y/hgWqlIKSTxtr6eVhy3KTix01794uAIVTEEphRPqc83extXtilYiR1okIgCR0osHU0XBgfA3y0r3fh+tzFzlmWuL/16BdcRY3fXY36f0gTdCWMfM8wC5vS/IU02RymxWmAtqtbXCPXZ/rn9PRMLlo=;Eri1vT2lKFgWhrSX1FU/sw=="
+secured: "AjvCV0fSBd6m/tkBWBziHTJF/5bx3c5wJ7eAyP86dtYysAauooisZIp90Jxs9fYF9po5xirKP5aYC+3MSFDZtY103aS3i+VAdpBJs8JinvK69TA56gajcGihopzx4y1bXsJu7Le2dSbYfpxG4DpPAVBJTP7uPgMj0TYPN41buxJUPA9jF/uidOferZV6gC/nCpeSX1ttZKABei3OTDNJE3cXQnBp5f/mBb9lpRqroOaKT0fNE8Zh0dL92wY0ElGkH5MRowb76Gfhewcw8Qnb6Avn9PiPdyjp3ORD4euDgZDXa/MnGTefDe0C95PFM9X9d4pH7nEL+AXI/KKT4LNJweTxzY9MwjEQNnZh74jiXRGxvKc5Y4vBqM+xzRCJeWDTwQQ28bDh+zSvWEzr/Kp0zqOqwnDjKLkQB5jzjZzv0RyfQ5ztaWTQureHTYG9E0wF3LIBQu7b17rqYY8NlQOfxVytvI6IdQWZAxLDpkVizufMta6GBhwOrwaqyek2zgm0zsVdnxXBbhi7gHnFz9njkA==;y+FfiPO2xJ9Z52l8N2CDkQ=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "3 Use Cases for AI in Litigation Finance"
+    excerpt: "David Perla, the co-chief operating officer of Burford Capital, outlines where he sees artificial intelligence helping the litigation finance firm make more and better investments."
+    publishedDateTime: 2024-01-23T12:42:00Z
+    webUrl: "https://www.law.com/litigationdaily/2024/01/23/3-use-cases-for-ai-in-litigation-finance/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2024/01/David-Perla-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "ZfcZ/XiQnoGYEHaNT8w1IqgqJ84POy1SM8e92oH9wkrxC9VVGP39ivaOEuyeEMR+e2R1AdcIqAFr6NvnAgssl6aeeqqUQv3SaLKUXskQZkcWaGgFHNm4WEMEz5rATGb1qbyGlwyPqbxORzH/Dsrwuj6Tsl0nZ+Ij5yNOB44DhcRCddnLWMxqf2VL2IERAwAtZ+IDhyVxCnxUFhjg7hNi2phja0rqSKcrcZSFlmWC0PNs1J0b3HlMhF3d6xVGxiJLwaMAT7YQdnugwUKwn40XLYutvtwLGjy7KrklgME5Rrh8mIA77BvuF6fZ4s0viZHAuf9J/wS8UGMPCMqVxkc7lZOWv6VWauIGJUCKHDtahts=;Wz1O/U8IaZH5v5yu665CFQ=="
 ---

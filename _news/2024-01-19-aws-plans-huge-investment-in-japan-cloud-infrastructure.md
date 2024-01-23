@@ -25,50 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "When AI Meets Infrastructure: Top Considerations For IT Leaders"
-    excerpt: "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment."
-    publishedDateTime: 2024-01-18T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/"
+  - title: "Amazon's AWS to invest $15 bln to expand cloud computing in Japan"
+    excerpt: "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services."
+    publishedDateTime: 2024-01-19T06:42:00Z
+    webUrl: "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: CNBC
+      domain: cnbc.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859"
+        width: 5000
+        height: 3333
         isCached: true
-  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
-    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
-    publishedDateTime: 2024-01-19T20:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
+  - title: "AWS to invest $15bn in cloud computing in Japan"
+    excerpt: "Amazon Web Services (AWS) is planning to invest 2.26 trillion yen ($15.24 billion) in expanding its cloud computing infrastructure in Japan by 2027. As part of this investment, the company will seek to expand its data center facilities in Tokyo and Osaka."
+    publishedDateTime: 2024-01-19T12:26:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-invest-15bn-in-cloud-computing-in-japan/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "How Utilities Are Mitigating Infrastructure Risks With Artificial Intelligence"
-    excerpt: "As an application of artificial intelligence (AI), computer vision has become an efficient and cost-effective means for managing the growing burdens of asset inspection and"
-    publishedDateTime: 2024-01-18T20:05:00Z
-    webUrl: "https://www.tdworld.com/smart-utility/data-analytics/article/21280936/how-utilities-are-mitigating-infrastructure-risks-with-ai"
-    type: article
-    provider:
-      name: T&D
-      domain: tdworld.com
-    quality: 37
-    images:
-      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2024/01/65a9656eeeb659001e5c8839-ai_utilities_contributor_photo.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-533959897.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Web Services (AWS) Plans $15 bn Investment in Japan for Cloud Computing Expansion"
+    excerpt: "Amazon Web Services (AWS) plans to invest 2.26 trillion yen (approximately $15.24 billion) in Japan by 2027 to bolster its cloud computing infrastructure supporting artificial intelligence (AI) services. The investment will primarily target the expansion ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://infotechlead.com/cloud/amazon-web-services-aws-plans-15-bn-investment-in-japan-for-cloud-computing-expansion-82570"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 25
+  - title: "AWS will invest $15B+ in Japan to expand its local data center footprint"
+    excerpt: "Amazon Web Services Inc. will invest 2.26 trillion yen, or about $15.24 billion, in Japan through 2027 to expand its local data center network."
+    publishedDateTime: 2024-01-19T19:08:00Z
+    webUrl: "https://siliconangle.com/2024/01/19/aws-will-invest-15b-japan-expand-local-data-center-footprint/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+  - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
+    excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
+    publishedDateTime: 2024-01-19T06:01:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazons-aws-invest-226-trillion-yen-expand-cloud-computing"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 17
 
 secured: "XgYlXrqj4fXPeySklgoV90DiERgXf5GdQaprdicXyRKMjvwpyB4x+LiffN/yurVf36XUoUYKhKdKIPIAK0R9n8cHw5QKYE8QHFAVEvHleVaYspy3L+xbNWVI7tTBDsycwZ+8JjHKqOUM2V6sBusRnoTplspn0LeMDbzqxEgL1gCe4f3y5utp47cdWi0cJCDGGKLF8q2AaBozY+OxcTwfqoA7/5knhUkGYQcSDE4gLq9MQwwCRP6z3lCQrHWg0yJhTK1QpCng9xQhchKyW3EBMJKqm2iivHCpma5tFBOElIdKzEnJKdhne+Wvd7ZAz8jK1hBT+DbwRyqOTxigWV5NETQmUG5zQ0NR7v6W/Gwg6kOBl6jgQrW+TZTTAgdvU0/h0v+QHOvKo5BlxLytlk5lkf4gXDpOhQA7J83golm9OmWjGMO2Mb/5sIaJgXYWrbrmCZ5nMkKMXo7BLmuobTFyT4rAn6HdcRpeVqI5B6LI6uYp5RIa6hbsHbtgvGOe868k+u5gj//7vzb/hMfsxgedew==;ClaD7yELr/SSb9cyYWNnOg=="
 ---

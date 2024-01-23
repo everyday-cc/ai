@@ -19,73 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+  - title: "WHO weighs up AI risks and benefits for health care"
+    excerpt: "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI."
+    publishedDateTime: 2024-01-18T16:04:00Z
+    webUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 59
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg"
+        width: 1280
+        height: 852
         isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
+  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
+    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
+    publishedDateTime: 2024-01-22T17:39:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
     type: article
     provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
+      name: Security
+      domain: securityinfowatch.com
+    quality: 43
     images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Arab Financial Services forges pact with Kiya.ai"
-    excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
-    publishedDateTime: 2024-01-23T09:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
-    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
-    publishedDateTime: 2024-01-23T08:54:00Z
-    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 23
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
+  - title: "Artificial intelligence in health care needs more regulation, WHO says"
+    excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
     publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
+    webUrl: "https://www.phillyvoice.com/generative-ai-artificial-intelligence-health-care-world-health-organization-guidance/"
     type: article
     provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 21
 
 secured: "UNYT4j1DSZotszMxyqJ029EOi/3D/4cMnpVuch0YYjVrZnLexELPsjbNmZPQiPtQy2BQyQKbfq0E1z/kFfm4T9AH4NNwAmxSYV8v4UdmGxwslE3pT9whlF5P1fI54DSWzkyBACyo/7064cHlC4IuWCOHX1klbDf1b7aeiGjI47Rcni94co9n2JxtKUXgqtmVMV8HnGqcCXZWacsFir7In48nnlRY5xmnHVdSEXWXMUiMxUkn3CeFSS/ocMZOA85MnBosf8RtXKb3DV5ofXG22HNisyfos9k+tIATaFogo/Xm/E2fy5H88i3VMCJjOLZeMOMXGhn1LgM/zLt8OK/BjuEFfLRQTkh8p495gqgUw1Q=;SzIM1oJVx4dlhSrk6Kh8aw=="
 ---

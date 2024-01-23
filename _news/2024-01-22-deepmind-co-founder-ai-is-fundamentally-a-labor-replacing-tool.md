@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com.au/2024/01/deepmind-co-founder-ai-is-fundament
 webUrl: "https://gizmodo.com.au/2024/01/deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool"
-    excerpt: "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us."
-    publishedDateTime: 2024-01-18T12:51:00Z
-    webUrl: "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1"
-    ampWebUrl: "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
-    images:
-      - url: "https://i.insider.com/65a90e936979d737182439db?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
-    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
-    publishedDateTime: 2024-01-22T08:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
-        width: 324
-        height: 435
-        isCached: true
   - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
     excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
     publishedDateTime: 2024-01-19T15:35:00Z
@@ -71,24 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 28
-  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 26
 
 secured: "xTiR9vaMnVeSteKWMR4BIRP3yDJJCD8nkRTLTWun5XvQgMO9jW3GfHd1c75ftssdOFXZnn+nANN/4wawLx54uG391oSn0uCH7XGjZj6R2QBKPRks4r3ze/RWC/cVgQo95Fmt2M5AtxkXSqFxIi5ID6wjNc2ak6i4ZcEa8qnv+OPWNM30QAyyyXKZVYEyPAp/irzTBX0ZfFLg1dseiM6MnvpCxG2dEe6AcA76Ni+hivdIsQPaJodOYPPqZnPSA11V8lGNe5Oef/e4cnZ2rUKcECYWhVc3AHVcoP733vEZa+HY86x1DspF/hxY8yeKajT3tJ1MXSIZmcStRSjN0gmSbdeB6/gc9t1wGKtUYcu2gevk1Zw77h3+xjdGjA0fRx9IsPfBLBaFug1MPzXKqEY4XxvSfbQQZevdT7FgkTswhnbX04rgLL2+xmp7eiTn7fnUbMOeUEWeSIB+LsbiATtCI2/9/PoScrLgB1q2XtnXzUvzQnO5pVMaXO5RXfNFx3HitKK5Yb+R2UOnb4YQZH/hhw==;fzDdRisDsg5UYb3uf/7+hw=="
 ---

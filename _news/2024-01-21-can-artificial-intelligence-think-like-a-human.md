@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "The secret to healthcare AI is ... human beings"
+    excerpt: "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human."
+    publishedDateTime: 2024-01-19T07:00:00Z
+    webUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings"
+    ampWebUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "WHO Weighs Up AI Risks And Benefits For Healthcare"
+    excerpt: "Generative artificial intelligence could transform healthcare through things like drug development and more rapid diagnoses, but the World Health Organization stressed Thursday more attention should be paid to the risks."
+    publishedDateTime: 2024-01-18T17:00:00Z
+    webUrl: "https://www.barrons.com/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    ampWebUrl: "https://www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/who-weighs-up-ai-risks-and-benefits-for-healthcare-40e4d15c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "How AI Can Help Humans Become More Human"
     excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
     publishedDateTime: 2024-01-22T16:22:00Z
@@ -40,45 +72,20 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "A Franciscan friar has the pope's ear on AI and how it can help — or hurt — humanity"
-    excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing “one of the most fascinating combinations in the world” in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year ..."
-    publishedDateTime: 2024-01-20T13:25:00Z
-    webUrl: "https://www.wral.com/story/a-franciscan-friar-has-the-popes-ear-on-ai-and-how-it-can-help-or-hurt-humanity/21242114/"
-    ampWebUrl: "https://www.wral.com/amp/21242114/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21242114/"
+  - title: "Is there AI discussion fatigue in healthcare?"
+    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
+    publishedDateTime: 2024-01-22T23:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 52
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://wwwcache.wral.com/asset/news/technology/2024/01/18/21242115/65a8b6857bc15-media_040c0b58517b4a5f864124b1e8d7a3e1-DMID1-61n7pimtq-640x480.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "How AI could help us talk to animals"
-    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
-    publishedDateTime: 2024-01-19T10:58:00Z
-    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Davos 2024 - will AI change what it means to be human?"
-    excerpt: "A Davos session focused on AI ethics asked a simple question, which produced some interesting answers… one of which is, what does it actually mean to be human?"
-    publishedDateTime: 2024-01-19T11:38:00Z
-    webUrl: "https://diginomica.com/davos-2024-will-ai-change-what-it-means-be-human"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "xtLETUINsJVrykrhksKvDmXmENsmwLmRqgUyc5/nCl8zvRXmHBToGJB70zMrShQjPIpnnOM/9zTGo0dueIiU26FU8SND7ou5IdLYBi5uux5jYr6b41ZhwnyKHEIWbKN2La1S0zF0STB5b+rI9g30eNR7hKlzEg+X2Ql+QXhyEEzgnoXkplVM+DsfARvMq+qVzM2Z8M0pzt7nJMXoZIcfnliQWxPz0KS8MqZWLfgtw/sCILEAkfr6hEOg31qVS8zZM+zXOa7vlPuJheu3aSMvxQR+QbeAiEDTE91ZQ2GKStxRw1PnLV3bU2tywNJVkpVbNEIo/zw9wC91NIAgdNbRFN5ClQGccR++E/2ZFREdmjX4ePEAgo6z79tsH4CC+2W48InkZ0UizAlUd/vIJESQK8Ul1zTQ2nTJIi/oupLF5RX/h5zi4BuyRxjYkI6s4nLNW85uMTsDKNkcCfZ9uxzv2hl2+u84mOT6+KcBJ7q2+MlJuH+LdKdxMdO//5i6lCeFma4ipY/mpJq9osaJIeeUIg==;ismULM7sdqXZkSvutJYp7A=="
 ---

@@ -34,6 +34,20 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
+    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
+    publishedDateTime: 2024-01-19T15:14:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 38
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
     excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
     publishedDateTime: 2024-01-22T20:18:00Z

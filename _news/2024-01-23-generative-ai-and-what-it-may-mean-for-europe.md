@@ -154,6 +154,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Artificial intelligence, ransomware generate concern for metro Phoenix businesses"
+    excerpt: "But, given the recent publicity over advances in artificial intelligence, the worry factor has skyrocketed. In putting together our annual Cybersecurity Firms list, we included a few optional questions for Valley industry leaders to tackle. What role is ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/01/23/cybersecurity-phoenix-experts-ransomware.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "QHeR02euq5f/49YHN6QHzzeUYDAWbaPK9cqOpSCyephEAsmUCSut8CW+59ePieD3B8niCnz02vPxjNnEX4DjuRrwDd3l/Ov8PoiTWf80d/TOyWhpkdziXsi3Hj77ShDp2FZSB9J2HMbbhuf2wrnSIbE3W1+w8hA54Jv7lbLUVzOe7WPz3ysmyVz5XR4tP3T8RoLQ4pHWuETHBnwcA+YllB2F7kS9Ji6fp0DPij+KhJv11k+FCZR8hjy2UpeQG9VjogQdxt+8CWesr17jFKEOUM3zFD7Lba/7rjoYAxV1Kqt/w6dhBXcNDIZ6nL23tb4rAtw6Wxfwmq2toT5jlrOxvP2bVChD6lYqnfaVyZHB04g=;md5G7tLLzuQxTUzW0ii4Zw=="
 ---

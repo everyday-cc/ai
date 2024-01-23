@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/"
 type: article
 quality: 88
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "AI still far more expensive than humans in most jobs: MIT study"
+    excerpt: "AI could overtake humans if the costs of its deployment come down or if it is deployed via AI-as-a-service platforms that have greater scale than individual firms."
+    publishedDateTime: 2024-01-23T05:55:00Z
+    webUrl: "https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/12/workers-union-people-100949298-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial intelligence won't take as many jobs as expected: Study"
     excerpt: "While researchers around the world expect job losses due to artificial intelligence (AI) soon, a new study has said that AI might not take as many jobs"
     publishedDateTime: 2024-01-23T09:55:00Z
@@ -78,6 +94,20 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_577984409.webp"
         width: 800
         height: 533
+        isCached: true
+  - title: "MIT Study Reveals Limited AI Job Replacement Viability, Urges Caution"
+    excerpt: "A recent Massachusetts Institute of Technology (MIT) study challenges the prevailing notion that artificial intelligence (AI) is poised to replace a significant portion of jobs cost-effectively. The MIT study,"
+    publishedDateTime: 2024-01-23T10:21:00Z
+    webUrl: "https://www.econotimes.com/Human-workforce-irreplaceable-by-AI-due-to-financial-constraints-1670029"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2024/01/tgjct660ge_th_1024x0.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
     excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."

@@ -64,6 +64,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Challenging the misuse of AI in insurance"
+    excerpt: "Exploring some of the key themes of EY’s latest ‘Global Insurance Outlook’ report, Isabelle Santenac (pictured), global insurance leader at EY, emphasised the role that trus"
+    publishedDateTime: 2024-01-18T18:46:00Z
+    webUrl: "https://www.insurancebusinessmag.com/us/news/breaking-news/challenging-the-misuse-of-ai-in-insurance-473535.aspx"
+    type: article
+    provider:
+      name: insurancebusinessmag
+      domain: insurancebusinessmag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/026/0270_638412004736706361.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "RhzgoW2o01CmzRpNU0WmvaIpltVi34jJnjxj0e3fFvlXSsD3GjqAPDox0rOtseAZw74tbf3qBaYZT4swfLj7zn47Rs715laD4CWNPP4n6W9h7Dd/rFtGQRLeZyBmARmTgwwbB8wSzS7rQvecwQL6ESNgn57D9fDWe1/ycdKG4TYuu087GDM5piWOWYW9oSAOuhyksbT0HypTtP9lJgimnsn3C5eipcDJ+LxNBjXAvNPY0NorRjLaawE/5fPsB+MNDX4wCo5x1xcarABuU51L0NcLzJ31QMrBVV5+ASx9UIWYJkYqA8ew8zjp+rqcGRMYuX+lkQY6rxCtOwrvamg1P3GXsksyYtRJwGLClyiY6rLL6DB5oAKLCUqDusYV7MMuOYqeDxKXH/pIveepRkXrFEuzV1BhuTmjZ5ps+vBRWlXTESaDAkQEm/oWjDYV4axKgono4TDZDyHYlycJ+IDgwZdUvYiQ/WIDFRjGef73PYSr+wSQ6WMS/EfNgTPy2R1xTynrJOkdk64M7hvx8nJblg==;7AR6v6VLGvXsDfvhlIIs1w=="
 ---

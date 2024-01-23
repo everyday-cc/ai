@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Protect AI finds vulnerabilities in open-source AI and machine learning tools"
-    excerpt: "Among its offerings is a bug bounty program to identify vulnerabilities in AI and machine learning, which Protect AI claims is the first of its type. The bug bounty program has seen strong success, with over 13,000 community members hunting for impactful vulnerabilities across the entire AI and machine learning supply chain."
-    publishedDateTime: 2024-01-18T18:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/18/protect-ai-finds-vulnerabilities-open-source-ai-machine-learning-tools/"
+  - title: "Mastering AI interaction with GoDaddy: A UAE business’s guide to effective AI prompting"
+    excerpt: "By intuitively understanding the customers’ business and preferences, GoDaddy’s AI engine provides a substantial head start for establishing new WordPress sites. This includes pre-generated content and images tailored to customer needs. Ethics and ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Zawya
+      domain: zawya.com
     quality: 51
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
-        width: 2500
-        height: 1313
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NmIwZGE1YTEtMGEzMS00/3/godaddylogo-jpg.jpeg?f=3%3A2"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "B6eAKob0XOq7tLknuG3XtZkrVnEXbY1qPvXyf+b01vdwXnN05T7l1/rPx0oHQVLGRYOPdqKBqgCr2yUh33nA2a/VW3XR5xmLDtSX29E1V4RkMtXWNI2M7NUwWgYxr81hQC4VJSNWXiHL+KzRiwOeEss0er8Ej3PPLjEdrcSHfagVTIlar+E8Oy8kyO6ZfS/Zin+bfbiQWka/4B+Azxldpk+l3cCHCl66q2ZqosWbTEdfVKLUFkvekzNHqfOyZSJz5f6GRi3ho2CIpzn5zCk24u4lwRToBdBKHLeadoAKeoEj+bdQNOToCvT6ax5oQcvyslSganUqq+XAfJ7G/X5nJ40h65f7lR13ov6rYoUksIQ=;kCY+l8/Qo8H7G5+rARhtBA=="
