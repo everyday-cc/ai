@@ -205,6 +205,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
+    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
+    publishedDateTime: 2024-01-22T20:37:00Z
+    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1675715772_536667_a48qtg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Artificial intelligence in health care needs more regulation, WHO says"
     excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -214,15 +228,6 @@ related:
       name: phillyvoice.com
       domain: phillyvoice.com
     quality: 21
-  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
-    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
-    publishedDateTime: 2024-01-22T20:37:00Z
-    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "cayDLJ52ABacOoefXy8Vrvs4Xpkgbrngd/Josg7m2NSscHzV2cNnCp7VYYwgYKay+TXQMO6fstqSGlHkVaL5HoNHbU/TOTiDD0F9tV8JV87HI96axHU7gh7oNTIVU0mh64WHsPzEyDNnQ1YiWsvgQ34Ik7r2w8tOA1yX3D4mKFKEi8Ea4jkoeykocKhSuMcBYK0AqYkhYXwnP81kEzPmKJjdFnJbVPcla6qiRMAKXkVSAMFE+uU4ISiB8UQHNqZQrpFiJ7g56QQUB30DbncheIkdh5CJTpABVlnxzadMMVon6fQ6nLoKm0CPZKOvtvrovkabxxQp0MWYXwAKEBiPjHAL8yKyloLLZMnHAM2C6FE=;Fc4Ios17oK8xMqG+DsjvxQ=="
 ---

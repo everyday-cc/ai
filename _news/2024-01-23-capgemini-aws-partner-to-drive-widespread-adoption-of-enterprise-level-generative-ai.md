@@ -24,6 +24,17 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
+    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
+    publishedDateTime: 2024-01-23T06:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+
 secured: "arIOhXGRbXdq9rx2h58aO5VO4rWQMVKG2Gxv5mrpsVJa/6crfLGoGhBvgQxx6kTGR3XIGPCvO0QwerhjLFwwh5c4WjKkzD34+RCqvkosc2rhfA+OS5XChmJQPLD/4gS5vCCT2xHvZF5GvfdYKbvvKhXMasegaDmhlN7snaQROAaSy2Eh1d/9kYqWKiOvAZCn04Ugofozi1wcYuWlxes/npdFgd/hYB7p3M5FuBqVlP05B/yoCFV9KNDEJGxrbTDa0rS4xo9KrvP4bkpKwERrwfyInci7UhkRaWGjE359Am3w25EfS9CEL/TImHxOxvgSK34t62Eh+SbKFZolGjbB/l+kDFPoTi5askIWdBWnZZy7RaS5MNbn77Sf++JwIzorjIOZsRLUYtSyDQtOk8ClXNCg9oyAIuE7zXyDAmoRIjHZD9AW+ve9KAhQe4T2jhuOH47XpMT8Qtg2uaWqRuOz4G4wwu0PvoC9/Pg0VbREoarM0ChrdWqpN1je6CXYNBHpfhBPqDNQYE+FB5RY1dyKfg==;UWp/QHmaRV0VNdsDH4vIyw=="
 ---
 

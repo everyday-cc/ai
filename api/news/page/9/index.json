@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-01-12-william-sitwell-reviews-llama-inn-london-the-best-thing-to-come-out-of-peru-since-paddington.md",
+      "title": "William Sitwell reviews Llama Inn, London: ‘The best thing to come out of Peru since Paddington’",
+      "excerpt": "My pal Adam got the wrong animal. If he was playing a game of word association and he’d yelled out “alpaca”, then someone else might have replied, “llama”, and the game would have been won.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
+      "originalUrl": "https://www.telegraph.co.uk/food-and-drink/restaurants/william-sitwell-reviews-llama-inn-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/food-and-drink/2024/01/08/TELEMMGLPICT000361981409_17047242113440_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
       "title": "Educators raise concerns over the ethics of AI in the classroom",
       "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
@@ -1006,49 +1049,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-sams-club-is-testing-out-ai-computer-vision-tech-to-speed-up-exit-process-at-stores.md",
-      "title": "Sam’s Club is testing out AI, computer vision tech to speed up exit process at stores",
-      "excerpt": "Pilots are currently underway at 10 Sam’s Club locations and involves a combination of computer vision and digital technology which captures images of carts and verifies payment for all the items in the shopper’s possession.",
-      "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
-      "originalUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/CES-Sams-Exit-Tech-Lead-100.jpg",
-          "width": 1001,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

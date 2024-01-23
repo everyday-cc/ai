@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-22T20:37:00Z
 originalUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
 webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1675715772_536667_a48qtg.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "The Role Of AI In Healthcare"
@@ -222,6 +228,6 @@ related:
       domain: phillyvoice.com
     quality: 21
 
-secured: "2z9uXnFw7Iktrzhz3/iVGlBreKt+3CVSUFDHt0R0uOy/TUc4vDmjv4F9UFKyEa4sC3Nq0g0XK98e+QnEgIMAzlSaLMYq6geLhZfSpugIDBgbMMPbsJ04s5u2NfRYzueCCskQjrCXcTjkkyu59ahzENroV60URsuQVqHouhxUbASNF5rJj+SHDcfViBt1rbm86y6gPL8/IMq9laFWqONE+YzZdi+DNdBCs2UE53YboiXzealaUz58jFliyEtjy1QUsZfi8xQzKCg2qpryGRZ6RuSB8gqtXye8TkMA33p7qBkVUNuctVIl+h89EUmYew+yRAr66BUdAL83YixfIRNRWUM7nAkk100227M1B92/aZI=;LUmjAidUktuDdkxOedksLg=="
+secured: "VRM1KtiY+M/VWR0vxpIDCRq3Hi9G1OvXwp1sVm/vx2TmBq7+8wmxgo38fEJmz6kvMyWBXh3yLDY0kZkh36yTIZd58EBp4vxoyWiCbDj1uRf6hxM7MKqtquQbaSZIzXrcLmaZhm7KgKkPZ/QWvs3BrzjncvIU/D9/utgkTHlD4R7cvR5j1cBJqGDCf22EjDTmmcyiU95WnDzWz1W/gd9nMsIVFX5aF8C9IBZmFhvNgMIfosLg+losH6koOUIifJkL1cJd2HTx7pIoueJzmep42gndwNPp7yc3SmKA8wPmc72fVFrM5lixnt/cpeMWSZ1SFQZPo3+7R6sIcnkWt0elXJfi87N03IBBosyOTLu2s/U=;4YIZao1DnDtSBjhJZ6KEeA=="
 ---
 

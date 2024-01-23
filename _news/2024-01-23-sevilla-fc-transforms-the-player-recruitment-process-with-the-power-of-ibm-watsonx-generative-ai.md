@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI"
-excerpt: "IBM (NYSE: IBM) and Sevilla FC today introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their"
-publishedDateTime: 2024-01-23T04:01:00Z
-originalUrl: "https://www.newswire.ca/news-releases/sevilla-fc-transforms-the-player-recruitment-process-with-the-power-of-ibm-watsonx-generative-ai-826656921.html"
-webUrl: "https://www.newswire.ca/news-releases/sevilla-fc-transforms-the-player-recruitment-process-with-the-power-of-ibm-watsonx-generative-ai-826656921.html"
+excerpt: "\"We are proud to collaborate with Sevilla FC to use the power of IBM watsonx generative AI to help enhance the accuracy and effectiveness of their player recruitment process,\" said Ana Paula Assis, Chair and General Manager at IBM EMEA. \"With the ..."
+publishedDateTime: 2024-01-22T23:59:00Z
+originalUrl: "https://www.asiaone.com/business/sevilla-fc-transforms-player-recruitment-process-power-ibm-watsonx-generative-ai"
+webUrl: "https://www.asiaone.com/business/sevilla-fc-transforms-player-recruitment-process-power-ibm-watsonx-generative-ai"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2324149/Sevillla_FC_watsonx_Social.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/Sevillla_FC_watsonx_Social_0.jpg?h=c66d06c9&itok=qiGzN5iF"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "whY/vmK8kDFXi36z1WxyeDWBxGKcuqyrcwprZMRF3yxvVbtYGLNCMXRmKI4kUZ2UwL0TnC95MVf9zR+q+cbbZgHDkTWI4LJ1F/7CIOqHREtIeZtaVeqQQMib37Ge4/pkUlNG/ZP/5/8fIUNeuOkWyvPVW9s3jgfgOeDmgY05Qw+VXeHIPyqbFWxygnXqS48W6+HBBn2sUGBxl6f6qgE5GsyVwRNiakFzue1r/362NbSKopIU5TLIl9JCJd/z2eBkoc3/1Y2rJBTGxTeGVuh/h/IQAUXVFddDRCkx/QpgTYqjPbnbkqgi96Eyd+fON4+Yco93Y6xKjFSIREiIfJBtgfrsW3lYzgWRsT0Nuv24uww=;5BEQribNyCJHV0Il9xaNgA=="
+secured: "VXUvjkZoUEjVQFJ23W9wai02ZE0DEuHmr2YJa74bWJ/z3AFWisJv55JpYMFZiVLkmCE+7IgJQseRw1Q+TIkXf0hXJJO/33QiSZA8RSX+WUyVBpG+KoUwwK245dS1d3eCIZzwM1MjN74OnXDo+3qYb0f0M74nPCLL6uEfptMwI16SBoOycGDJWk0/uh7mGdr84C1zBxhhuYzW+6oTxixCsTPnXvIy3kUDo2RHdCPkUPsJptIXzpHN62HdGvm96nn1bDIagN1OHmIdArBXP5Gi9GXFwV1FzNMbc2oimL3fUOSvQ7xJZekh3Vni7LKmwiSqowq/GpuvmFQkURMTwWnTBKG4iwmg0CsDtWd/WIb9UzM=;28WqtUVwRpG2jxMalMlnlA=="
 ---
 

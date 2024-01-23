@@ -112,20 +112,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "Google DeepMind’s New AI Model Masters Olympiad-Level Geometry"
-    excerpt: "While the previous state-of-the-art system called Wu’s method solved 10 of 30 Olympiad questions, AlphaGeometry solved 25 geometry problems, within the competition time frame."
-    publishedDateTime: 2024-01-18T08:32:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepminds-new-ai-model-masters-olympiad-level-geometry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
     publishedDateTime: 2024-01-22T15:26:00Z

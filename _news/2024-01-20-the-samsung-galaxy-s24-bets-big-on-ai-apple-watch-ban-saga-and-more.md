@@ -42,6 +42,20 @@ related:
         width: 1400
         height: 990
         isCached: true
+  - title: "No, the Samsung Galaxy S22 isn’t getting Galaxy AI features – here’s why"
+    excerpt: "When probed on the chipset uniformity between the Samsung Galaxy S23 FE and Samsung Galaxy S22 – both phones use Samsung’s own Exynos 2200 chipset – Chomet acknowledged the fact but added: “For now, we’re limiting Galaxy AI to last-gen devices.”"
+    publishedDateTime: 2024-01-23T07:23:00Z
+    webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/no-the-samsung-galaxy-s22-isnt-getting-galaxy-ai-features-heres-why"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 68
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tuJKqeB25jWVnN4JsiTRYk-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
     excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
     publishedDateTime: 2024-01-19T03:52:00Z

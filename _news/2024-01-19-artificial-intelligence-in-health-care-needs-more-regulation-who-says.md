@@ -222,7 +222,12 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1675715772_536667_a48qtg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "FX2PCLDqwdPys04+zI74+eG65jt7prXX9GCJqW4xJ316CDatAC1JI89sMVMAowBby+s7864ho1A3fmmiKuM0Z0UTLfjqMjC1W12CN6JSjR6N8JPIoHfN0mqwKUNSsLYY0bm2Fi3jJWapTd0pVs9xNftDXeF+SrykeAdTQXYhYrp40h69V3YlmlHe/S17QDiAUAvmY3MicOZCAWT/9NK8Tl9NHwX57NvkZfX51/gtVmSgC9jhlWOB8JOnhoLL9bsXR9v0x0Vcc4v+LnZiSJAU6+HUg3xse5IvkHLDkZ29gPtv7ZrZBaL3OZALzYSg9nIEfVBcGqHf+ct5fZTOi9SVfCKbQcosiC12e8d56l0uJLOigJXbhdOrXg+bXGYmTXn5OAzzPzTf4ezzUr78qpYf9q07T94+cvWXBCcolx1TDjHrxEKqVMYYk0+aVatGg5tZkm0yr4DD35f7CRgx/osEN1aDwieDy1f+YsxlLesckTSLk6evfRWkTV6fc4IGvDpfgBjZx8u+DyREeWomUcNj2A==;2qiAKldCumUXy0cRjD+s4Q=="
 ---

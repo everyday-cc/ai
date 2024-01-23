@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cairo-based fintech Zeal raises $4mln funding"
+    excerpt: "The app will use the investment to expand its technology solutions across the EMEA region, following its recent expansion into the UK market"
+    publishedDateTime: 2024-01-23T07:16:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd"
+    ampWebUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2VjNWRlOTAtYzE1OC00/24/921663488.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI Has the Biggest Impact on the Fintech Industry"
     excerpt: "Artificial intelligence (AI), the digital economy, embedded finance as well as open banking are the issues regarded by fintechs as the most relevant for industry development in the near future, according to the Future of Global FinTech research. The joint ..."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -101,6 +117,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fintech firm Quinte, Tamil Nadu sign deal to set up development centres"
+    excerpt: "US-based company will use state's 'talent pool' to establish artificial intelligence, machine learning banking operations"
+    publishedDateTime: 2024-01-23T07:53:00Z
+    webUrl: "https://www.business-standard.com/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 24
   - title: "Fintech major Paytm plans to deploy AI to improve business operations"
     excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
     publishedDateTime: 2024-01-21T13:21:00Z

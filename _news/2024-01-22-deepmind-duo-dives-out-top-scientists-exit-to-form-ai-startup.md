@@ -126,20 +126,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google DeepMind’s New AI Model Masters Olympiad-Level Geometry"
-    excerpt: "While the previous state-of-the-art system called Wu’s method solved 10 of 30 Olympiad questions, AlphaGeometry solved 25 geometry problems, within the competition time frame."
-    publishedDateTime: 2024-01-18T08:32:00Z
-    webUrl: "https://analyticsindiamag.com/google-deepminds-new-ai-model-masters-olympiad-level-geometry/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/06/Google-DeepMind-Takes-Back-What-It-Lost-To-OpenAI-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google DeepMind scientists mull AI move"
     excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
     publishedDateTime: 2024-01-22T10:55:00Z
