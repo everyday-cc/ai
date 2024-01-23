@@ -126,6 +126,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "Generative AI and what it may mean for Europe"
+    excerpt: "One of the most prominent themes to emerge from the latest World Economic Forum in Davos was the rising potential and associated challenges for generative AI."
+    publishedDateTime: 2024-01-23T05:56:00Z
+    webUrl: "https://www.euronews.com/business/2024/01/23/generative-ai-and-what-it-may-mean-for-europe"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/stories/08/18/77/92/1200x675_cmsv2_4fe18181-87f7-5e63-88f5-8c1294279216-8187792.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
     publishedDateTime: 2024-01-22T18:08:00Z

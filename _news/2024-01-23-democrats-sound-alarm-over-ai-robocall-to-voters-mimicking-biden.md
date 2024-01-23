@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2024/jan/22/biden-fake-robocalls
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/jan/22/biden-fake-robocalls-new-hampshire"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,34 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Robocall Deepfakes Biden's Voice to Discourage Primary Voting"
+    excerpt: "The robocall is targeting residents in New Hampshire, which will hold a presidential primary on Tuesday. 'Your vote makes a difference in November, not this Tuesday,' it falsely states."
+    publishedDateTime: 2024-01-22T18:31:00Z
+    webUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06sHJQ6QhfcIt6SC8UIb7vv-1.fit_lim.size_1200x630.v1705948204.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "To Stop AI Killing Us All, First Regulate Deepfakes, Says Researcher Connor Leahy"
+    excerpt: "C onnor Leahy remembers the time he first realized AI was going to kill us all."
+    publishedDateTime: 2024-01-19T16:16:00Z
+    webUrl: "https://time.com/6564434/connor-leahy-ai-risk-deepfakes/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 62
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/signal-2024-01-16-11-41-56-693_e8dbdd.jpg?quality=85"
+        width: 1365
+        height: 865
+        isCached: true
   - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
     excerpt: "The New Hampshire attorney general’s office says it is investigating reports of an apparent robocall that used artificial intelligence to mimic President Joe Biden’s voice and discourage voters in the"
     publishedDateTime: 2024-01-22T14:12:00Z

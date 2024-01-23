@@ -140,6 +140,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "Generative AI and what it may mean for Europe"
+    excerpt: "One of the most prominent themes to emerge from the latest World Economic Forum in Davos was the rising potential and associated challenges for generative AI."
+    publishedDateTime: 2024-01-23T05:56:00Z
+    webUrl: "https://www.euronews.com/business/2024/01/23/generative-ai-and-what-it-may-mean-for-europe"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 39
+    images:
+      - url: "https://static.euronews.com/articles/stories/08/18/77/92/1200x675_cmsv2_4fe18181-87f7-5e63-88f5-8c1294279216-8187792.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "AdYDkbI5ohpQzqrzVjjwFUHTjU8qpXXtQ5vBM3SaO1F1CM8D4fkkGltD0IFj+oEB7NuMDk85bmZOBH0KMCrs4sCAaKyIwoexvh/HJ1oO/+rw9wgXuyTVoKVu75sehc4Ukb/pCX8EYPIThyLR+O4pHIy/+8Wx9BHCUGodqmI0x4ou87kXQu9UwpiQxabA2WgUNguUVoVzFY8Le+FewWt8F5dnDL0V1TQ/MBSe/il7XQ9Be641n6BGbOtaJaxWe5Cb5yxtW6+r0Ds2o1/dkS9wApZ16Pg4ZBtbAHs8pH5Y/XSr49U3IS6xKIzQJHsWm9ntOwyG9fOZSZEBYEANGuBIgsoCiXk6Fprv+ChGi/kYMrUVW08KJ3Fy8WMewitys2NlyyWNyinV8fWepfISJ+rWktfBtgPsITmQnAZT7/fSZTaLIP3ioi1ky8srqRNKqtC4nxyEP4bdL5+k1PdcFwEhhEhJbboOH5Ok52lgIt6gdxcH4rbHF+anslHATe+0j/Ta1i3GMA29x1S1zFgPVSdL9w==;PmoMe6irHw3ZgFE4j4nulg=="
 ---

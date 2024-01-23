@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-22T15:12:00Z
 originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23501085/"
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23501085/"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://barchart-news-media-prod.aws.barchart.com/FC/7def8b1f746aaef24c3b314ef4f1aa86/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761787%252fa-person-with-hand-outstretched-under-a-hologram-with-various-ai-icons.jpg%26amp%3Bw%3D700"
@@ -71,6 +72,6 @@ related:
       domain: theglobeandmail.com
     quality: 12
 
-secured: "aA7neSq41f1yVMxUArsDscMAuKcDZ/wHvkWIQ4JRfUfD4JQvGdJmLWadJlbe+G7YjOv8sYoOzAkvAu2Wfyk1Bbcef/UqCPZjQg+J3Xdtqp9v2STGUKZnKTPvPOyu50oS/nEJh0yOpIZtqxnRPU9dtsLS7jPVbMmZzAi9YD/bRPAcNzkPYBJ7myTktkS/n5/a2jFezU1Ues2ylHZCZZX7sK504q8PK/7xcQ7fto+qFNSFoIGMk5nBFTo7mR/fSYG+Monte9gCPZGLt29hU+xo2xv2k/gr5BHMrDuGJ27ihY7pd0XHHHwixiMEZcYpVhaw0tg0M3kJMR2RAtrGH1E4fkGw9OJw/7Wv5hhbYe1ortA=;6gyqiaOeaNdBkwN9L5FKmQ=="
+secured: "8T/0khNBtjCpt0zzZojaT1IwvwTGLfqBsxJ+wwX5psHT4n07ndgaM1iXLI1jY0uoKohRPho1HuxLlLB9lnX86XmPL2aieKWtrzhcUkl53on4oMJRyrhxy5cvTOsVIBxTYTcFWiI2gXOCrGZxH4+MEBRxNvtC/ltTVzhzVtjAdtDE2koJgTe6DqlqrjX+fx8WKZPnAcKQEQiCpoTXejWAIQSDH/4efI72Ew3/rZzccluBfhsaqj1bzMieAkwR6KtMwSg1oIBXjBQauxBs5mZifE8jyEVw+rFOilBNb6LKlMY5jxommOgqg8vsVD1R4odMmn3yzBGAGfIOpuYzdN3tZ1HcXBRNBPo+/gl3Un4ueph3n1lswg9eUlGxOPs6FfJCjJORWvSFbTrhYCHn1CMGOreMtLFRJsqjjSQ9QJpWY/+e+DJgSoU4qIhp+H0XPRna09THq+v/ZWgIHALCWnpJR+cHetXngP3Z5YKuZ+4L8Z6DeY8Xo0p2TKPDoHLGe+m6KHkX5U3tB3/mt8QJM8665g==;57klQ/wEY4LbsUgdTfYs5A=="
 ---
 

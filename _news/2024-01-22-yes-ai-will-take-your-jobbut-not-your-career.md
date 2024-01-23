@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

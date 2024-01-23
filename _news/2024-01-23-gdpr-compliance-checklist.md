@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/gdpr-compliance-checklist/"
 webUrl: "https://www.ibm.com/blog/gdpr-compliance-checklist/"
 type: article
 quality: 102
-heat: 104
+heat: 105
 published: true
 
 provider:

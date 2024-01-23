@@ -55,7 +55,7 @@ related:
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://barchart-news-media-prod.aws.barchart.com/FC/7def8b1f746aaef24c3b314ef4f1aa86/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761787%252fa-person-with-hand-outstretched-under-a-hologram-with-various-ai-icons.jpg%26amp%3Bw%3D700"
         width: 2440
