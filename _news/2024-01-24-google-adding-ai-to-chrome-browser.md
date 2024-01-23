@@ -50,12 +50,21 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
+  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
+    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-23T22:11:56Z
+    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 89
   - title: "Seven Keys To Making Generative AI Work For Your Business"
     excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
     publishedDateTime: 2024-01-19T10:30:00Z
@@ -109,6 +118,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
+    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
+    publishedDateTime: 2024-01-23T18:29:00Z
+    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
     publishedDateTime: 2024-01-19T05:00:00Z
@@ -138,6 +156,6 @@ related:
         height: 400
         isCached: true
 
-secured: "YTVn8hjyv4H+FFI2Mq0fWOnd/OaRGyOLfXkoT4MStlh8hlbJLMdXPpGwCz49y4/mX1TMYEJ8JU7SM7/99rtDljRSsygV6+HNx4Lya48DRk/I4KeLUf4Ypy2nldS7ATnBMqCys4jDrwxQssdFU85BEq/cYEw1rv1huuMyTirzzFpUiVa1P8VhC/q0kmOfB+0VJYSemmKssm0CRyLLM9CY1IZ9VzwVyB4D8bT49alNOatgq+wqW1fgHoDaLrpIgnsxnCkIl5QQmtG4WgQRz6Uq8wBBCt0egdEou5p8Og+2ncZI9E6Ui2yDd576mhE1mNHMM2QkVDSg5DT5yCFV1oB65MEM0xPssRPU1ZTs8By5svU=;9jEC64tUuTvL7ncb+NwZvg=="
+secured: "oU5VKyMMTtwylx+HIzjto2YAM8ZFbG3HYAQbPE9GpFvfRQVZY4NlT9y3DhMNHnSj7ZG0mnzH2qvRa5HdQ5fSh17zQ/y5gjyDkoWD0GE/ETwY5Mjqh4S971kr02+bYVG/bSjvp83w+wEEKdOCK1sQdgtCGSMesnP5QlzrqdXg4Tn7vW5mLRhLrAdxnpJQMvMls53/WAwbfDS07bSos8Wy8IByUEJEP9hfdtaARU6l6iHnwxPvoPtAy1GinKO1HBJNLsgwMLDWyDKybWh4ZyUOlgiC9+E9V+dluKAi3Y4pI0bOOKu4GQ7Vn+1YRXpiSPlHvaDV2nPecUq2U7Y1IgtDGG1Wk/hs4FbPNy3C8owAvKGWr7uRHG2bHtUN4bF0qxaoTus4BlbnTOevw4GIwjAOzRJcNqwEqI5gM4h0VVsYuMMMCvC2n1o3VZGborJ3wLmfdtcPzUSATSY5tHFmKmJj+EbcFQdyEHxyYuyhrO3m1AUWMBU/GQc+v4Xdb00rcZaM3fa8ywjGiXRJo3E2oeM45A==;51P3E2ORpSbUMpGnclt6YQ=="
 ---
 

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sevilla FC transforms player recruitment process with IBM watsonx Generative AI"
+    excerpt: "Sevilla FC has introduced Scout Advisor, an innovative tool built on IBM's watsonx platform, to enhance its player recruitment process. IBM and Sevilla FC have introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their scouting team with a comprehensive,"
+    publishedDateTime: 2024-01-23T15:22:00Z
+    webUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 52
+    images:
+      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2024/01/AdobeStock_400019282_Editorial_Use_Only-www.jpg"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI"
     excerpt: "\"We are proud to collaborate with Sevilla FC to use the power of IBM watsonx generative AI to help enhance the accuracy and effectiveness of their player recruitment process,\" said Ana Paula Assis, Chair and General Manager at IBM EMEA. \"With the ..."
     publishedDateTime: 2024-01-22T23:59:00Z

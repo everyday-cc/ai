@@ -58,6 +58,34 @@ related:
         width: 1365
         height: 865
         isCached: true
+  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
+    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
+    publishedDateTime: 2024-01-23T22:08:00Z
+    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
+    excerpt: "\"Voting this Tuesday only enables the Republicans in their quest to elect Donald Trump again,\" the voice mimicking Biden says. \"Your vote makes a difference in November, not this Tuesday.\""
+    publishedDateTime: 2024-01-23T19:33:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/ai-generated-robocall-impersonates-biden-in-an-apparent-attempt-to-suppress-votes-in-new-hampshire/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 25
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2024/01/AP24022637397821.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
     excerpt: "The New Hampshire attorney general’s office says it is investigating reports of an apparent robocall that used artificial intelligence to mimic President Joe Biden’s voice and discourage voters in the"
     publishedDateTime: 2024-01-22T14:12:00Z

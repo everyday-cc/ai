@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-r
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
 quality: 63
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -144,6 +144,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Startup Digest: Byju's FY22 surge to ₹8,245 crore, Voice AI startup ElevenLabs turns unicorn and more"
+    excerpt: "Edtech unicorn Byju's has filed its FY22 financials today after a delay almost 22 months after the reporting period ended."
+    publishedDateTime: 2024-01-23T17:57:00Z
+    webUrl: "https://www.cnbctv18.com/startup/startup-digest-byjus-fy22-curefit-sacks-tiktok-layoffs-elevenlabs-unicorn-tencent-riot-games-18875181.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 2
 
 secured: "erZ8rSQP6Oq9w0c3K1L1skfqBPa7kIg8WTBmlEY9Y067P2l1Tm8Yb3gFHl+fLwplMSZ9jYDVyK9KRzp2UpbX8HtsXMqzf262JaSvwKCB5Rxghmle7CXY++6noMMAk0DLV1XFgKcyM1SK+UQR4p2FHruw6YnrrmGw4hqPUhMpTNOneS4gA2OShmYCs0v9nNqwYnQfzHS218oF5EkIMx/uhcbigyH+JU4l5JXGeU9XY5yhOXHO9AgODgpu9LNSurz/hTu03DIXtFijGADThj0Fpxj01JFugQ6pbb/hOOeB9bMA2ktLWFRP/JgPuu0TLbpKRgfFiCdMNKyihsq2Ux1RFaKOxwn4jDLhpVu6tqS8xZq0y0uwANtwQ5dtS8Mq9sIX+OObYJsIPN+OjQ8PbNz6M3mAQdVuqwQ1eX4dSHf/8HgA8gm6ssJyKpQNcpTlozjorux28rVIMp8vUxDsELSp1VOZFw9PNQhi4VYtg54CYVknP5aO+U2InWQc93kSQ7tAKHHe7EF8IOv0edVfT6WUPA==;9z3AqyuCLK3CUKVA4V2lXQ=="
 ---

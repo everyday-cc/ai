@@ -24,6 +24,17 @@ images:
     height: 668
     isCached: true
 
-secured: "cNUNc6T1aCdoFEFJZHTRH6ADSLV4fVx4dcXKTcyK1Bm6+29tejJLgZbiF979NZFsvP1R5lbnJOfM3GCHmtf71IHbkOE4GOAzh4sVQgN+YIN3bcjBQTLRrYKNjUlw1D6pM6qUwpUpDBKAz3m/2hsvDzdwOEAIBZc0EG9zTOnx1RlSj2EiXxt6Xq4yhC7yrprbMEo5ox8oAo2tZl+bqYcET4TN3y6UHee6zEPNxuYHK9AJk5xGK6VIIzdDAF/q32liutFnmWJ+Ez9n4o+hLJIz6ysmj9lLmFavu24SN8BvuBdckXUIFSHxeHDV61G/vzMoNWlaRXZlLgHYpUHFcgwMuYuevYQ3UFwhfpZLJKV+oBY=;kyygGto+QgoEm2/N9BJzYQ=="
+related:
+  - title: "Lawmaker proposes restricting use of AI in Georgia healthcare, insurance coverage decisions"
+    excerpt: "ATLANTA — A member of the Georgia House of Representatives filed legislation to ban the use of artificial intelligence programs when making insurance, health coverage, or public assistance award decisions. Specifically, Rep. Mandisha Thomas’ bill would ..."
+    publishedDateTime: 2024-01-23T20:07:00Z
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/lawmaker-proposes-restricting-use-ai-georgia-healthcare-insurance-coverage-decisions/UZPSOQ5BV5G6ZEWU3XOTESNZDQ/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 24
+
+secured: "2CBsuQGK0FNPVj+03gU9UDnRXeE6hVhmuFyU+tEX0DDBjzAqM4ySwN73hDrBKTvZgH6rw+dSq3YjsbkIIdm2/Nj3DuXp5QHAUEKB+PCxnUhs1D2Ivx+T84ByGqwQqhtDZQyEqUTHOy9l9j5opIWkiJTcdxqZ3eQ70U9rXInqVFUxEZMmhkz41x08VOU/KReiVc+I2zn9/8YKZNmSvpPfQMSfMNYQU8H8WKaNvdEL9Kdcqn1jE7pOnVi3aDD8QNRQ9G0FL+rgibsknbul3Y/Vl+XJ9PozrvzrqgiM+Mk3oJ5FXYm7GaaMedLD20NNPrLXoAEF/dr61Oc9KLKlEdkIkrfwZjUTWchjaxuR3dQIe/WsJmz5blVU0BOp4t0H1817vdBrqR4sH93eH0rXH3F8m6jcDuwsCpURBvAnuIjN/hBK18Iuiq3GO9+1AWKwWhKNGO6FoXBcz2RmJLo/76yCKTf5aFr/6eABv8g8I8R71eBNIwqZbJOfPg+qDXm9XKphGLw5qge8Dz7CbTLGON8Pqw==;JMra7zfGGe17rty0esOFew=="
 ---
 

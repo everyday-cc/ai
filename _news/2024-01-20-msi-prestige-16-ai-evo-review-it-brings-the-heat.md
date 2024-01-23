@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "AMD Q4 Earnings Preview: 2.5/3D Chips Are Big For AI"
+    excerpt: "Advanced Micro Devices, Inc.'s new 2.5/3D AI chips could revolutionize data centers and propel AMD to lead the AI chip sector. Click for my AMD Q4 earnings preview."
+    publishedDateTime: 2024-01-23T15:52:00Z
+    webUrl: "https://seekingalpha.com/article/4664414-amd-q4-earnings-preview-new-chips-are-big-for-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "U6gcY5nZd+WBTVk+gtUwSI1Yl4Yh1A0rrBbjRYzd3g9UXIa5L5n2NTc3amB5znmAmWL6n/y+kWq4NT0z0DFynpKBvNHGpM14V6ZdrATKrvqG6l1EU5YJM2HOusbghBKPepzdswR308I+v+IJBkcp4PGPwlbXxVhtrnzB24c8aoIfLet5m22hoIrL5Cr4ck1ihpghoi2bk9CTpBHk6EUDA0rl2CQBt6jcnnOJ9tMUXVpJFaRERvnoXhXPa4Z1a/5YNjXy7MPhAmi+p4q6cPrlQtVZ2EJa52PS/ExTYA/acb5IuuGaWxkv7UXPTlwrH0lmyJ4vihTcCp2xjSPW7Y9eCYcdRKUFDkOus6nqcd9Oa3pxUENyjZENfL53g4tomJhf/xAqNb6iIidO7G+VYgosnSoAn4zs/NpR2fWAhnc6tv5YECf0/m4gMG7q40uhCd0N/EAX73I2dAfv/DMZqqH82OGM3v64S2ywLH0DS+gi5sgSeZkO9rbhVGK8/a1N+z8AIlIQimcVcR1qwoaACwfD9Q==;sTQXkdC2SJyJHUMGezXb6A=="
 ---

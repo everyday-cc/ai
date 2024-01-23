@@ -39,6 +39,15 @@ related:
         width: 1456
         height: 971
         isCached: true
+  - title: "Meta's Billion-Dollar Bet On Nvidia's AI Chips Could Reshape The Tech Landscape And Catapult Stocks To Unprecedented Heights"
+    excerpt: "Meta is making a significant investment in Nvidia's AI chips, a move that positions Nvidia as a leading player in AI chip production. These sought-after H100 graphics cards from Nvidia, essential for advanced AI algorithm development and implementation ..."
+    publishedDateTime: 2024-01-19T14:15:00Z
+    webUrl: "https://www.benzinga.com/24/01/36700357/metas-billion-dollar-bet-on-nvidias-ai-chips-could-reshape-the-tech-landscape-and-catapult-stocks-to"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "qxmQPwUM1E8IQGoUF0CcIt9EIsSEnGeTVkVVIJaK8DmDL//tuY0w1BmOZ4581/KeY3IH+XqZSEz3m8Dg3M/DaqCTnsyzHoXusYhpHQnuGOTDk/veZgTMEoEDhRIxo0mN46L1BpjgvrpK8nssHiKQTuPSrAI3wDjIN5xr96NCccQFvSc1dmphCy2772XXhghY50e7mnzMZruAxBt22kX5UOxRHxP5ezVkTY2k0tKILWC53gNGbp/S3uuM2yTMA+wPfslKLTD5c18ckK/Naj3k3xSY2fUvLUAKQhueQUMLHb9MvVlkRjEQSIrNyFRej+NTmMvjCtKxedkKsY3SwXpvnDjoSLPfNkGOuhqhmOtg+8TPKkloQz+bxCbJIZQOTEIsZBacJmGmZzQ4ufj/Hd3GRjEdmNL1vwJQnk4fuP1JLvugGf0BCoot6o2sv+66cQYRul9kBpngmYUt17Sg8RbFj6vLLe74CFXSzBdiZDID6kKyZa+xooY5guzNJ6GkB/g/2eHbiWRmRcLe+OUKGAuHuA==;Zv9WaM0EM8M0J+EJHbmLew=="
 ---

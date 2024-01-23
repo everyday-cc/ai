@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai
 ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -47,6 +48,15 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
+    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-23T22:11:56Z
+    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 89
   - title: "Seven Keys To Making Generative AI Work For Your Business"
     excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
     publishedDateTime: 2024-01-19T10:30:00Z
@@ -100,6 +110,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
+    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
+    publishedDateTime: 2024-01-23T18:29:00Z
+    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "How Generative AI Will Shape Contracting"
     excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
     publishedDateTime: 2024-01-19T05:00:00Z

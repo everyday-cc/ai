@@ -38,6 +38,20 @@ related:
         width: 2308
         height: 1298
         isCached: true
+  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
+    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
+    publishedDateTime: 2024-01-23T22:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 45
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "Meta Platforms Is Wall Street's Top Internet Pick, Analysts Laud AI Investments and Advertising Strength"
     excerpt: "Several Wall Street analysts hailed Meta Platforms Inc (NASDAQ:META) as their top internet pick. The analysts included Baird’s Colin Sebastian, JMP’s Andrew Boone, Truist’s Youssef Squali, and KeyBanc’s Justin Patterson."
     publishedDateTime: 2024-01-19T20:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 28
-  - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
-    excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
-    publishedDateTime: 2024-01-22T20:18:00Z
-    webUrl: "https://www.inc.com/sam-blum/what-coheres-possible-1-billion-investment-signals-for-ai-startups-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
 
 secured: "u05o3N0ZGXkG5ceMNvamf3NiB20UHRpxdkaQwskqis30bSj8J2gF+tNW7XmfktGwJ7KMYgZPH6iZviGMMfZTwcmmB5kMythKMl8cCPuhWUXzz2iLyJfbxW2NgOhaIkrcwNSucUiKjkWzebTXBloTWbdtNB17DIu4ilRE8qEABDI6GPPWCxHy5ekr3sjX0KnNfkhvZEE3duZGsabZiSU+pKDwAHWDvL2p2R4y6Yj6Z+nvYJxf+XxhSSUEUZyKiA8c8ycn9+39Zjb/ljIM/9NMywcCGh8B9CNeKlXaMdo3GsUbExwZHyyW37aHPeQLNKgmx7kNq89zEkbIHuyZwCsHssYXzfW/oTBu0ICQhiDCSWc=;ivZelz9D0AudTYlibceG2w=="
 ---

@@ -139,6 +139,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Startup Digest: Byju's FY22 surge to ₹8,245 crore, Voice AI startup ElevenLabs turns unicorn and more"
+    excerpt: "Edtech unicorn Byju's has filed its FY22 financials today after a delay almost 22 months after the reporting period ended."
+    publishedDateTime: 2024-01-23T17:57:00Z
+    webUrl: "https://www.cnbctv18.com/startup/startup-digest-byjus-fy22-curefit-sacks-tiktok-layoffs-elevenlabs-unicorn-tencent-riot-games-18875181.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 2
 
 secured: "Qjq9nE5pY6G1kRsTsEMiTaC2wNhK058PprQIess3aszt6EAjbTQBzCEuuVJx95SIz5Z9Qt8PARX0CqWAPVJRsmL3pCoNiI1ab8UTzJhd18eKn9xdEGkQzkDh1GJyZP7wDYlypYPIc5L0EHW5wGYU49x+5Xt4hhXJd0IVgnTQh6R7oFCQ7ZTfY75tozDhVpGC/m7exLbZE8CdGPlWiOK6Uq/NIrMUiuciMaL2Q9uUuuZ6jgYmpxVNQF8yq7Wyz/OT0yzkhRPghiT++ra7FiDjiGPWRl3zcZ/pEq7h7qpZiStiLODrL6WhgS7Blg7bIuxbMIoOBzlCpNP0kILSTh5x3M8c89cf3VvlZltMYbqyF94=;vhnuVa7OnYVio9LJBQVM+Q=="
 ---

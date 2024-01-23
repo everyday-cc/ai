@@ -109,20 +109,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Here’s Every New AI Feature in the Samsung Galaxy S24 Explained"
-    excerpt: "Samsung has injected a ton of AI capabilities into its Galaxy S24 smartphones that will go on sale later this month, including translation, search, and photo editing features."
-    publishedDateTime: 2024-01-18T19:45:00Z
-    webUrl: "https://www.inverse.com/tech/samsung-galaxy-s24-ai-features-google-explained"
-    type: article
-    provider:
-      name: Inverse
-      domain: inverse.com
-    quality: 39
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2024/1/18/69612cb4-6230-49a2-9fca-d50bc1bcddd8-38ab91ee-88fc-42c6-85c9-4c63d6e6b124-samsung-galaxy-s24-hands-on-38.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why Samsung's Galaxy AI Actually Feels Like the Future of Phones"
     excerpt: "One of the more gutsy Galaxy AI features launching with the S24 is something called Live Translate. At its most tame, you’ll be able to use an Interpreter app and translate between dozens of languages in a split-screen view, with responses in your chosen ..."
     publishedDateTime: 2024-01-20T15:30:00Z
@@ -160,15 +146,6 @@ related:
       name: Techno-Science.net
       domain: techpp.com
     quality: 21
-  - title: "Despite the Samsung Galaxy S24's Killer Specs, Galaxy AI Barely Works Without the Internet"
-    excerpt: "Only a few Galaxy AI features rely on your phone's hardware. The rest reach out to the cloud, where Samsung has partnered with Google to use its new Gemini large language model. Samsung promises several features in Galaxy AI: Interpreter,"
-    publishedDateTime: 2024-01-18T20:41:00Z
-    webUrl: "https://www.extremetech.com/mobile/samsung-galaxy-s24s-galaxy-ai"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 9
 
 secured: "H+TE0NRjc0CvARMmSLWuH7TY6DsqJ14KDfE/FoR7McutXqL7Zx1R3l2TzsUEvFm+H4/p0WLcUOVEj2sD8HDEnicxOubF594w8wUR/zHVGULu8IuVrxXrNduDv6g+Lj4pWSAXTh+H01HqbP45c7pqzBTD7p/KjqVSVHUKQ9hhBkEiAr3G1F+ZT/6JwDO0Pk2wshBINuWc+9SpIUUe5EGYDRM8wqWIyjfJ2O1KQ4FKEopWWUtb/vvJvea3kNCYc7d10YSvCjGdTlcn6u8Ex7YFD7wyDnAGiTRNGRcohn4iuSPpNfH2iIsLsQVC8BPY1/GaO/JqHM5hipG6AntHrZ6OJzKRxza+O58Yh5yxtS5KzBc=;LJ9i3CHKjBPX9D+Ebos8vQ=="
 ---

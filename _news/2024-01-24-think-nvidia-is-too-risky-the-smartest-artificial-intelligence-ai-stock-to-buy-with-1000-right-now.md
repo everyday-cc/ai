@@ -41,8 +41,8 @@ related:
         isCached: true
   - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
     excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-    publishedDateTime: 2024-01-23T18:16:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23532568/"
+    publishedDateTime: 2024-01-23T22:48:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
     type: article
     provider:
       name: The Globe and Mail
@@ -52,6 +52,20 @@ related:
       - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
         width: 709
         height: 868
+        isCached: true
+  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
+    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
+    publishedDateTime: 2024-01-19T16:26:00Z
+    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
     excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
@@ -67,6 +81,29 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Nvidia stock hits all-time high as AI craze rolls on"
+    excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
+    publishedDateTime: 2024-01-19T18:33:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-stock-hits-time-high-183354058.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/iBoQeug.O.I95gqupORTZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/ceba0172b8d779dc8e48145d0c4094d0"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Here's the Next Big Artificial Intelligence (AI) Opportunity, According to Cathie Wood. It Could Make 1 Stock Larger Than Nvidia."
+    excerpt: "Nvidia has become synonymous with artificial intelligence (AI) thanks to its industry-leading data center chips. However, technology investor Cathie Wood believes AI software is going to generate significantly more revenue than AI hardware. Meta Platforms ..."
+    publishedDateTime: 2024-01-23T13:15:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/23/next-big-ai-opportunity-cathie-wood-1-stock-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 35
 
 secured: "17MWLzSuG8Li9J/EaJs9eKnJyHHPjm5/MCutQvLZwRZILviQOHCuTQZONBXYiRVdTPtCIMal9xKhp3gnWoFXpEpt2PKPeu5iRxVvpPwkQuIR4V9x6FmZG1P3pegJlIs0ZhkAHAZoXNUcKamWTeuiz5aGLQNCXL7YDmc8fzWFa0rR6r6diM4DXErdks56+QvwqqddSE9JljtWpBXODQoTvXew3xUud13iysx3v6cXW8p6oaFdYymFQvXKZqrjxBa26DVWQeRwbbQ8FMncav3EDcw/UMrh0eE4B/zJvvLGeMCKOKni1tDLa/ikKHaGgszIf6eWlXeie549mUaAH8yJvOKW7498CF7JtGQkKkKD/08=;D4Kw5wRZdg8IlqG6vYYc0A=="
 ---

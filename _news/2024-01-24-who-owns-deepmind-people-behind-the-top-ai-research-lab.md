@@ -148,20 +148,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Could AI kill us all? Inside Google DeepMind, the world’s biggest AI company"
-    excerpt: "A week later, at the beginning of December, Google DeepMind announced a new era for Gemini — their “largest and most capable AI model” and the “next step in our journey to make AI more hel ..."
-    publishedDateTime: 2024-01-18T19:08:00Z
-    webUrl: "https://www.standard.co.uk/business/technology-media/google-deepmind-ai-gemini-threat-demis-hassabis-rishi-sunak-elon-musk-safety-summit-b1131459.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 51
-    images:
-      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2014/10/07/18/Demis-Hassabis.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

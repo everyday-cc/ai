@@ -18,45 +18,45 @@ topics:
   - AI
 
 related:
-  - title: "It’s 2021 for AI while the rest of the startup market is stuck in 2024"
-    excerpt: "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ..."
-    publishedDateTime: 2024-01-22T15:15:00Z
-    webUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/"
-    ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
+  - title: "What AI Means For Networking Infrastructure In 2024"
+    excerpt: "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ..."
+    publishedDateTime: 2024-01-23T18:10:00Z
+    webUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
-        width: 680
-        height: 383
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 648
+        height: 500
         isCached: true
-  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
-    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
-    publishedDateTime: 2024-01-19T15:14:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
+    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
+    publishedDateTime: 2024-01-19T20:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 38
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
-        width: 767
-        height: 633
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Could Snowflake Be the Best Artificial Intelligence (AI) Stock to Own in 2024?"
-    excerpt: "Snowflake(NYSE: SNOW) has become a popular artificial intelligence (AI) stock for a good reason: It fuels AI innovation. AI is built on the back of data, and Snowflake's business of data collection, storage, and processing makes it a perfect AI ..."
-    publishedDateTime: 2024-01-21T20:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23486349/could-snowflake-be-the-best-artificial-intelligence-ai-stock-to-own-in-2024/"
+  - title: "Edge AI could catapult growth for chip manufacturers in 2024"
+    excerpt: "With the potential surge of Edge AI on the horizon, many are wondering if it can catalyze significant market value growth for the top global semiconductor companies going forward. The premium content you are trying to open requires News database subscription."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.digitimes.com/news/a20240122PD211/ic-manufacturing-edge-computing-ai-pc-ai-smartphone-nvidia-ai-chips+components-it+ce.html"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "O7W8oPmyp7dqXtULu+kfoOy6xa9CYIcjRLYlC4znMXzWO7gg858DUOmDggWbjDJpNJDkxXVuN0tTna5Q7Eh7330jIxj/es2kVNXLPR/xGECOqFGoMMyUyjQ/tbU5CDbEQC6j/kOnTm0k0a8VOKjGrkNflSrIgrPNXWedICyUEX6FZuwwNsnLJnho8BOcl0MxXrX94fJsZNT1mPlLp0VEkgogcVyg8L5t0cJExr2MDNPATa/8+1TZLfVCC8yF8UcBOPS5/w84xURmNP3RGFGyWWYNxmoS+BEX7VEOGbA9sK+qz9Y7paL4sL9WNXQHhP/CNkgE/kQQ2JVycGMkOi/U1wm71T6GEPVZ9/of5Cto33A=;AsrfKYE85BcMzFX4WZW5Bw=="
 ---

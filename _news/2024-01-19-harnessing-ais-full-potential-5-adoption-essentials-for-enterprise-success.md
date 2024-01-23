@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How AI-Assisted Programming Tools Can Boost Your Startup"
-    excerpt: "Applications like ChatGPT and GitHub Copilot can improve developer productivity. But there are some drawbacks."
-    publishedDateTime: 2024-01-18T19:28:00Z
-    webUrl: "https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-605375763_536526_sjcmqs.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "LoDc0h0xdnpoUNIZ+kJuOjodGZtm/922zgCqmEpiY3xHroJNiabdoU7h7/e27AopoqYGzVpmPAooFC3nkvWEQUKDfMoOPNPjty9CrymStAB9SaT3P5AZqD/mzHUbQDc4Em9hmQuSPgjaZoRodEPQ5LFcgO1Pciu8BhA6qI5a9pQCucNlQqa9xTmIk29TcJhZlRWfLRl0DvH+s8jBIsjuFrjfbKdwwVbYNyKd5WN0pc/DTB7NN5y60ruPUV75uNPRRIJUFbbEE/eM8Mvm5sCvh++EDUJreYpQLmY3TOPsABHwBKvceyANrG2Vpf/2LcViLeleVGUcKtCcNRZb3KZ1lFVt+N74oIiyR54vfuibgImeBvfUjN6wFCnkcqjJNvf8NS+kLskYyAnkvX6+sl7Xf7cJYmGqDZYD8qibxXJ+h0lSSt+crbSrBuTe4FOJjPjNwGgB94yFwx6xpyOxI9SiElDr9zf4ToX0liwZqyFTAHorxk6xrid0B0sygomvvU7axCNwEvkv6aLA843qOXfXEw==;/qJhjbLTz9l9naQ28UdIfQ=="
 ---

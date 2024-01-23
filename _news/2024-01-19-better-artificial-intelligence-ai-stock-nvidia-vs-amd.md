@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/19/better-artificial-intell
 webUrl: "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/"
 type: article
 quality: 84
-heat: 114
+heat: 144
 published: true
 
 provider:
@@ -31,8 +31,8 @@ images:
 related:
   - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
     excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-    publishedDateTime: 2024-01-23T18:16:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23532568/"
+    publishedDateTime: 2024-01-23T22:48:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
     type: article
     provider:
       name: The Globe and Mail
@@ -42,6 +42,20 @@ related:
       - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
         width: 709
         height: 868
+        isCached: true
+  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
+    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
+    publishedDateTime: 2024-01-19T16:26:00Z
+    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
     excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
@@ -57,6 +71,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Nvidia stock hits all-time high as AI craze rolls on"
+    excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
+    publishedDateTime: 2024-01-19T18:33:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-stock-hits-time-high-183354058.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/iBoQeug.O.I95gqupORTZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/ceba0172b8d779dc8e48145d0c4094d0"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Think Nvidia Is Too Risky? The Smartest Artificial Intelligence (AI) Stock to Buy With $1,000 Right Now"
     excerpt: "Aided by strong profitability, Microsoft has paid a dividend since 2003 and raised its payout annually for 18 years straight. While the company's current yield of roughly 0.7% won't be attractive to investors looking for big payouts right away, this is a dividend growth stock that's perfectly suited to be a set-it-and-forget-it portfolio component."
     publishedDateTime: 2024-01-23T16:55:00Z
@@ -71,6 +99,15 @@ related:
         width: 720
         height: 451
         isCached: true
+  - title: "Here's the Next Big Artificial Intelligence (AI) Opportunity, According to Cathie Wood. It Could Make 1 Stock Larger Than Nvidia."
+    excerpt: "Nvidia has become synonymous with artificial intelligence (AI) thanks to its industry-leading data center chips. However, technology investor Cathie Wood believes AI software is going to generate significantly more revenue than AI hardware. Meta Platforms ..."
+    publishedDateTime: 2024-01-23T13:15:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/23/next-big-ai-opportunity-cathie-wood-1-stock-nvidia/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 35
 
 secured: "TiPoZZgkTVNRBVwLIP4a/rztMtaEKmEiSacoRaJWZTCoEppeaXKxQve1ldsT6y1Jmjcys3y6ceRM308Mi1ChqafNcT3/iXO5PGSJnj5qS/x6gdlL+DFxcHZM2ogtizOqZsWiJ0foAm1Qo3gqcX39tLK0DNGcr0UdHH5tAz0aDGpjTXty8tBOdFykcngV289mP1wDCfgNcQWgZ+7rTfsRoKsFQqSWQRak8yoGrxz3oeeYcW3DpxDtRxqDNehSRbgvmMktvkoESuLvrKb9k0rao8UGDcFD+VsfZTPd5JUQWgEZTscVdbwG9HWHKDp0EjS79ZpyvDb6RzUQxvIV1/7ZwBUOchY/k1Ez+mMqIu4nRas=;qf071mhFng7rUDrzypey/Q=="
 ---

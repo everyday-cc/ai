@@ -38,6 +38,15 @@ related:
         width: 718
         height: 300
         isCached: true
+  - title: "Shareholder Update: Gaxos.AI Expands into AI-powered Health and Wellness Optimization Solutions"
+    excerpt: "Roseland, NJ, Jan. 23, 2024 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. (\"Gaxos\" or the \"Company\"), a company ... The Company will methodically launch games based on research and market data. Commitment to Shareholder Value: Share Buyback Program In a strong display ..."
+    publishedDateTime: 2024-01-23T08:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shareholder-update-gaxos-ai-expands-into-ai-powered-health-and-wellness-optimization-solutions-1032987950"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "Tf5VE8tP/UgebcK/Nzx9zfE8IzZXjLTKEZGcXSoqLQGs8b8SWV2HG+D4WEIjmybi3pokjUnzD8TWYvToJh9Nj3Tgy1iB3QQ4fKh4qfcV+bTIwF5xZoeZFc6rm2Bsb/sDkKDUOBNc4sfs9lwmNLG10piMSK72N2XLYPkPvuiNxG1tOt23a5Q0Lm7ofuG2LcywHQ0vWcp/eX5rKUPZpEkmoWGE1I7goKBMlQCMPHznVEX5GJgmGGGJpkVLv+yToyP/cw1AlzUKFkG4imCxVGTp9u69PJWT2/SjHN+HBCXSSJ5ibcJtEl4oxB1azPGuFgXvEYm74NZqM4ag8pTVTMHh3xzWW2/f4RQV+Z0q2wLx1lJwgkNZgXZOVyrrdapVaYJg6pABbIXn7yNz/MNrrXzXdR7pRpYTyWQejeJLsp4MkOba6jAuGSs6AuK/Gi8lzbSLoEib9YjVhk6bkyBLjH1/BhmC3clW/0VFShvGxq727V+stQK7kCTBRIW7K6kEbWDZMg/DcmLPHEkiOR22aSp+XA==;SvL3U3yZzs8+RNHVDadRLQ=="
 ---

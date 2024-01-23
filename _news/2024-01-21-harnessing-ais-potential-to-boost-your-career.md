@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How AI-Assisted Programming Tools Can Boost Your Startup"
-    excerpt: "Applications like ChatGPT and GitHub Copilot can improve developer productivity. But there are some drawbacks."
-    publishedDateTime: 2024-01-18T19:28:00Z
-    webUrl: "https://www.inc.com/tom-taulli/how-ai-assisted-programming-tools-can-boost-your-startup.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-605375763_536526_sjcmqs.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "/omJjXarEk9OdFEWQ/N/LmISOpfOzqO1f+/53niGy4hus+eH0MJ5xwPM0ooAFly9MNmT5KBkFVi022nf55fOD+jE4G3ZnXXHdqEdT2GckX9nZIqZmueGhr50YsKaDqWDWFBFqTSqkJdklKCQK7CqPXa2KQqW81XMDJzoH84u9FpV4sEF9L4Ij4rVsNgjGxY4E1zVyg0vyd99dpk4E5GA2nt3aL1SBo3rKfAkACzsGnIr6hvutUuBzVMz2Z9TMMMZ0lLJwcR1YTNiC0pR5LTSnU/NKx/2FVB0n/cfphunRRfSXG4eS3ia/OR3f6kdKGWTRnLolRnzxLi8q33qnIm/QabUU2GqzjI7OJa9t6u1uXj5Hcw1Z22TIZeKCgf7bztL0msrkTB3cIGtvcKfy51ual/qTOvwZLmnyd/Y5bbv0uXBJ8dQdOKolBsOYgn+eRs7ac1qkFCsbT97kO2rofCa+gfRTjDBnryrZYZminxGNq41YeKfuJ4yKsh2dxk8iegdlqjqEM5qZgfZRE8HiVFL7A==;85ZaoWlQ+wfJzr1C7n11HA=="

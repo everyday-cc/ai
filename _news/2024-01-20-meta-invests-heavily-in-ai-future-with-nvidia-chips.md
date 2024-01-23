@@ -25,164 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips"
-    excerpt: "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects"
-    publishedDateTime: 2024-01-18T19:18:00Z
-    webUrl: "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html"
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. AMD"
+    excerpt: "Of course, AMD stock could be rewarded with a higher multiple if it can grow at a faster pace, assuming its AI business accelerates strongly. However, on current form and 2024 prospects, Nvidia seems like the better AI stock of the two, especially considering the potential upside it could deliver."
+    publishedDateTime: 2024-01-19T12:15:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
+      name: The Motley Fool
+      domain: fool.com
+    quality: 84
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729"
-        width: 2237
-        height: 1376
+      - url: "https://g.foolcdn.com/editorial/images/761413/chatbot-smartphone-person.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Zuckerberg on AI: Meta Building AGI For Everyone And Open Sourcing It"
-    excerpt: "Zuckerberg said that Meta would have a massive array of compute power in its cloud facilities by the end of 2024: 350,000 Nvidia H100s, or around 600,000 H100"
-    publishedDateTime: 2024-01-18T19:04:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/"
+  - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
+    excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
+    publishedDateTime: 2024-01-23T22:48:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 55
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9759419c00e9785da0f45/0x0.jpg?format=jpg&crop=2556,1437,x0,y18,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
         isCached: true
-  - title: "Meta To Build Open-Source Artificial General Intelligence For All, Zuckerberg Says"
-    excerpt: "Meta is building full general intelligence, or artificial general intelligence, and a massive array of compute power in its cloud facilities by the end of 2024."
-    publishedDateTime: 2024-01-18T19:04:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2024/01/18/zuckerberg-on-ai-meta-building-agi-for-everyone-and-open-sourcing-it/amp/"
+  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
+    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
+    publishedDateTime: 2024-01-22T23:51:00Z
+    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9759419c00e9785da0f45/0x0.jpg?format=jpg&crop=2556,1437,x0,y18,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Zuckerberg says Meta is working on open source “general intelligence” for AI"
-    excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
-    publishedDateTime: 2024-01-18T23:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/zuckerberg_front_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype"
-    excerpt: "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models."
-    publishedDateTime: 2024-01-21T02:25:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Zuckerberg reveals Meta’s AI reorganization and massive GPU purchase"
-    excerpt: "Mark Zuckerberg said the company would bring the two AI teams at Meta “closer together” as it plans to expand both groups."
-    publishedDateTime: 2024-01-19T02:24:00Z
-    webUrl: "https://interestingengineering.com/culture/zuckerberg-reveals-metas-ai-reorganization-and-massive-gpu-purchase"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/19/image/jpeg/9Oxalurr8RfQH1ATW1f5yrXa3zIVjzfQ36jF8ktv.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
-    excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
-    publishedDateTime: 2024-01-20T12:37:00Z
-    webUrl: "https://futurism.com/the-byte/zuckerberg-bored-metaverse-ai-chips"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
-    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
-    publishedDateTime: 2024-01-23T10:20:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Zuckerberg’s AGI remarks follow trend of downplaying AI dangers"
-    excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
-    publishedDateTime: 2024-01-18T23:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 47
-  - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
-    excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
-    publishedDateTime: 2024-01-19T03:50:00Z
-    webUrl: "https://www.techtimes.com/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 44
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
-        width: 1024
-        height: 702
-        isCached: true
-  - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
-    excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
-    publishedDateTime: 2024-01-19T19:17:00Z
-    webUrl: "https://www.djournal.com/news/national/mark-zuckerberg-hints-at-metas-ambitious-ai-investment-plan-9-billion-on-nvidias-h100-chips/video_f0b07677-05da-5594-817c-f586a215ce1d.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
-        width: 720
-        height: 378
+      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
+        width: 1500
+        height: 857
         isCached: true
   - title: "Nvidia stock hits all-time high as AI craze rolls on"
     excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
@@ -198,152 +81,29 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
-    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
-    publishedDateTime: 2024-01-19T07:09:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+  - title: "Think Nvidia Is Too Risky? The Smartest Artificial Intelligence (AI) Stock to Buy With $1,000 Right Now"
+    excerpt: "Aided by strong profitability, Microsoft has paid a dividend since 2003 and raised its payout annually for 18 years straight. While the company's current yield of roughly 0.7% won't be attractive to investors looking for big payouts right away, this is a dividend growth stock that's perfectly suited to be a set-it-and-forget-it portfolio component."
+    publishedDateTime: 2024-01-23T16:55:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23538219/"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 38
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
-        width: 1600
-        height: 900
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/bff0406b1497a4e808b5c5acec460120/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fa35beafb109701e4697d6d6fd0cae75d.png%26amp%3Bw%3D700"
+        width: 720
+        height: 451
         isCached: true
-  - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
-    excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
-    publishedDateTime: 2024-01-19T16:03:00Z
-    webUrl: "https://www.techtimes.com/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+  - title: "Here's the Next Big Artificial Intelligence (AI) Opportunity, According to Cathie Wood. It Could Make 1 Stock Larger Than Nvidia."
+    excerpt: "Nvidia has become synonymous with artificial intelligence (AI) thanks to its industry-leading data center chips. However, technology investor Cathie Wood believes AI software is going to generate significantly more revenue than AI hardware. Meta Platforms ..."
+    publishedDateTime: 2024-01-23T13:15:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/23/next-big-ai-opportunity-cathie-wood-1-stock-nvidia/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 36
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442700/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-to-develop-advanced-ai-with-open-source-accessibility.jpg"
-        width: 1024
-        height: 687
-        isCached: true
-  - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
-    excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
-    publishedDateTime: 2024-01-19T12:46:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/meta-platforms-zuckerberg-hints-company-is-spending-billions-on-nvidia-ai-chips-432SI-3278359"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 29
-  - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
-    excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
-    publishedDateTime: 2024-01-23T15:13:00Z
-    webUrl: "https://www.cweb.com/watch-mark-zuckerberg-wants-meta-to-create-artificial-general-intelligence/"
-    type: article
-    provider:
-      name: cweb
-      domain: cweb.com
-    quality: 22
-    images:
-      - url: "https://www.cweb.com/wp-content/uploads/2023/03/shutterstock_2179427777-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Zuckerberg wants to build a different kind of artificial intelligence"
-    excerpt: "Meta Platforms Inc. CEO Mark Zuckerberg has seen the future and it's driven by open-source artificial general intelligence (AGI) that benefits all of humanity by its ease of use, broad availability and safety. Speaking with The Verge in an exclusive ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/19/zuckerberg-wants-to-build-a-different-kind-of-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
-  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
-    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
-    publishedDateTime: 2024-01-19T11:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source?ref=mc.news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
-  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
-    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
-    publishedDateTime: 2024-01-19T18:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
-  - title: "Mark Zuckerberg just escalated the war for AI talent against Google and OpenAI with a clever Reels video and an AI team reorg"
-    excerpt: "Mark Zuckerberg is turning up the heat in the already competitive AI market by merging his company's two advanced AI divisions into one group, a move to accelerate Meta's development of general purpose artificial intelligence chatbots and to win the competition for AI engineering talent."
-    publishedDateTime: 2024-01-19T00:05:00Z
-    webUrl: "https://www.aol.com/finance/mark-zuckerberg-just-escalated-war-220549857.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/NRN5AKyExljYJ4ov6FLULQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/aol_fortune_385/a4fc588f3e1878e1b4dc623b51a5ec3e"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Meta's AI overhaul: Zuckerberg's plan to integrate and expand generative AI research"
-    excerpt: "Explore Meta's bold AI strategy as Zuckerberg reveals plans to integrate generative AI teams, invest in H100 GPUs, and push for advancements in reasoning, planning, coding, and memory. Witness the merger of research divisions for a comprehensive approach to AI innovation."
-    publishedDateTime: 2024-01-19T13:42:00Z
-    webUrl: "https://cointelegraph.com/news/meta-ai-expansion-zuckerberg-reveals-350k-gpus-and-merged-research-teams"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 12
-  - title: "Meta's Billion-Dollar Bet On Nvidia's AI Chips Could Reshape The Tech Landscape And Catapult Stocks To Unprecedented Heights"
-    excerpt: "Meta is making a significant investment in Nvidia's AI chips, a move that positions Nvidia as a leading player in AI chip production. These sought-after H100 graphics cards from Nvidia, essential for advanced AI algorithm development and implementation ..."
-    publishedDateTime: 2024-01-19T14:15:00Z
-    webUrl: "https://www.benzinga.com/24/01/36700357/metas-billion-dollar-bet-on-nvidias-ai-chips-could-reshape-the-tech-landscape-and-catapult-stocks-to"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
-  - title: "Artificial general intelligence — when AI becomes more capable than humans — is just moments away, Meta's Mark Zuckerberg declares"
-    excerpt: "Mark Zuckerberg said Meta will have \"an absolutely massive amount of infrastructure\" in place by the end of the year to prime it for training an artificial general intelligence model."
-    publishedDateTime: 2024-01-19T18:11:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/artificial-general-intelligence-when-ai-becomes-more-capable-than-humans-is-just-moments-away-metas-mark-zuckerberg-declares"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 7
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DW7RQ2KvkbjTRApQMuSWan-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Llama 3 coming soon reveals Mark Zuckerberg, CEO of Meta"
-    excerpt: "Meta, the tech giant formerly known as Facebook, is making a significant leap into the realm of artificial intelligence (AI) with its new project, Llama 3. This advanced AI model is not just another incremental improvement; it represents a major step ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/llama-3-llm/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-  - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
-    excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
-    publishedDateTime: 2024-01-19T06:03:00Z
-    webUrl: "https://www.islandernews.com/news/national/meta-has-released-its-own-ai-model-llama-2-and-zuckerberg-said-his-teams-were/image_19408ec7-4bf2-5530-ad87-c661220bc07e.html"
-    type: article
-    provider:
-      name: Islander News
-      domain: islandernews.com
-    quality: 2
+      name: The Motley Fool
+      domain: fool.com
+    quality: 35
 
 secured: "PFqwJTvagquzish4fjxi03eeETEhHHKpP6zw2z44ciwcAp4rAvejSZuP2sutanxI6Pw6DMYgg6o+VaWCq9LwYQY741gywMcpiKvBhac8Bo0fjEtHggtd8uZGvx8t3QwHEBTpF6eBNFahUQNPc0cIQKhBem2RPfiJbP6PsMS8oy31nkzcbqJv5vFbH3P0ZYZPNP2CpKyJxt13XsMmYAsRhI9E/AFdZoIVkO46ym8XMMF4K3l4qDlbDZojS0eeJv+XxeHJQRT9Jpc7+w1NpjbzJ8p3DfID4gLL+Xgl+/UjtXyKQwJewG51OwY4wIVptQzWpEZYoDYAcKi0ZX03o+KIBVy9Y0kpDJCrJYsN/JJuTKiY8Cl1v1OEjs19fUUNmeXduwlWGD2E7w3Cuor4bTFZD5UqJvl5ocWwYxSti2seATsppv0u4J5KUleIQW/1bn1rMLLNfyCFeiT+wZQ1tx8yQ3a+83ZH3KuEG+2yiDdb4IRM/Aj8SUaGAfFdh1LDL0wGTVla+8enCS5t481mn174Aw==;Dz3UrKL56OOguBMkUUN14g=="
 ---

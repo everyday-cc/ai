@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Qlik Acquires Kyndi to Advance AI-Driven Business Outcomes"
-    excerpt: "Qlik, a global leader in data integration, analytics, and AI, today announced the acquisition of pivotal intellectual"
-    publishedDateTime: 2024-01-18T19:41:00Z
-    webUrl: "https://www.datanami.com/this-just-in/qlik-acquires-kyndi-to-advance-ai-driven-business-outcomes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-
 secured: "SfYTb8Uf7C7KsZIHle+ghd/BqdhOTdxnn6xTfLQZmb4PM71n0FZZyKKgAKrRwuRgODFnSi2QJEU0ooEwdFs2RsL8qBjtXPF75UOYXQCx9gvhkWisCixA2uvIm+0x/uTYBSCNvw3YmJIQyWPdhdQmt9a/a0dD1w9YcwNx/+/NPQchxuAuiMg7hxsIVi0bq2CxWwahCs8h4FRkgsh+PDIHA+nWcsKNxLriEqsqI796NLwDT6MzbIVq19SZQ3KQWI09TITFduSsZw4lsL+R1TVYnAsN6YxotpXZAdgOduQjeEmBPGuhsISLc2W/S6gFd5HFNJyOLzx99vdqlVnGgsytLXwek1yP67QL6ArsTJOdr0siQ7SHW+AHUW0keh8dqxoyAe64X3cZtjmOaQ3mCewp5/Y8Ogl/bySyUkghk6ypcLqEoWd6Qyfae4g4V+hyY9VdkIjuDaHFSsRt9iTp7E2jVmMDWaCHOI+vNk7lo61YegUcyPGBofNIL2a30p+zJ/VyvzgqV8jCvmAoie5d5Cox6Q==;uIDu5wcUv5l+Mq28eJCmTw=="
 ---
 

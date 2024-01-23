@@ -9,8 +9,8 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-managemen
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Scoop
@@ -21,126 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft's Copilot Revolutionizes AI Investing"
-    excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
-    publishedDateTime: 2024-01-18T22:32:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1338
-        height: 900
-        isCached: true
-  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
-    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
-    publishedDateTime: 2024-01-19T17:57:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
-    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
-    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 74
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
-    excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
-    publishedDateTime: 2024-01-21T21:14:00Z
-    webUrl: "https://www.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028"
-    ampWebUrl: "https://m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 74
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
-  - title: "Supermicro Stock Surges As AI Computing Boom Continues"
-    excerpt: "Shares of Supermicro, a major maker of computer servers, shot up more than 30% to a record high after the company said revenue for its recently ended quarter would be far higher than initially expected."
-    publishedDateTime: 2024-01-19T18:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-19-2024/card/supermicro-stock-surges-as-ai-computing-boom-continues-mZYGhxVVIwZg8qM16I7n"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
-    publishedDateTime: 2024-01-21T09:13:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "No Jitter Roll: Microsoft Copilot Receives New Features, Cognigy Available in Azure Marketplace, and Nureva Collaborates with MAXHUB"
     excerpt: "Microsoft adds new features to Copilot, Cognigy is now available in Azure Marketplace, Nureva collaborates with Maxhub and Q.SYS on new audio/video products, 8x8 adds AI-powered features to its XCaaS platform, and several new products debut for CX ..."
     publishedDateTime: 2024-01-19T00:00:00Z

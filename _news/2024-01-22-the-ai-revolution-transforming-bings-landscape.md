@@ -25,114 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Copilot Revolutionizes AI Investing"
-    excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
-    publishedDateTime: 2024-01-18T22:32:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/"
+  - title: "Opinion: AI can revolutionize healthcare"
+    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1338
-        height: 900
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach"
-    excerpt: "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things."
-    publishedDateTime: 2024-01-19T17:57:00Z
-    webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
+  - title: "Opinion: The big AI party is not cancelled, just postponed"
+    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
+    publishedDateTime: 2024-01-22T11:03:00Z
+    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg"
-        width: 1120
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
+        width: 3501
+        height: 2469
+        isCached: true
+  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
+    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
+        width: 829
+        height: 553
+        isCached: true
+  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
+    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
+    publishedDateTime: 2024-01-22T17:39:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 43
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
-    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
-    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+  - title: "Opinion: How Generative AI Could Boost Aerospace In The 2020s"
+    excerpt: "Here’s to a promising year in the aerospace industry, driven by record commercial aircraft deliveries, a steady increase in airline passenger traffic and a strong maintenance, repair and overhaul (MRO) sector. There is a good chance the industry will reach pre-pandemic revenue levels by mid-2024."
+    publishedDateTime: 2024-01-19T11:38:00Z
+    webUrl: "https://aviationweek.com/aerospace/emerging-technologies/opinion-how-generative-ai-could-boost-aerospace-2020s"
     type: article
     provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 74
+      name: Aviation Week
+      domain: aviationweek.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
+      - url: "https://aviationweek.com/sites/default/files/styles/crop_freeform/public/2024-01/vwpt03-brazilphotos-alamy_stock_photo_promo.jpg?itok=NzFacAnK"
         width: 1024
-        height: 683
+        height: 577
         isCached: true
-  - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
-    excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
-    publishedDateTime: 2024-01-21T21:14:00Z
-    webUrl: "https://www.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028"
-    ampWebUrl: "https://m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
+  - title: "Artificial intelligence in health care needs more regulation, WHO says"
+    excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
+    publishedDateTime: 2024-01-19T00:00:00Z
+    webUrl: "https://www.phillyvoice.com/generative-ai-artificial-intelligence-health-care-world-health-organization-guidance/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 74
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
-    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2024-01-22T23:05:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 62
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
-  - title: "Supermicro Stock Surges As AI Computing Boom Continues"
-    excerpt: "Shares of Supermicro, a major maker of computer servers, shot up more than 30% to a record high after the company said revenue for its recently ended quarter would be far higher than initially expected."
-    publishedDateTime: 2024-01-19T18:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-19-2024/card/supermicro-stock-surges-as-ai-computing-boom-continues-mZYGhxVVIwZg8qM16I7n"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
-    publishedDateTime: 2024-01-21T09:13:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"
-        width: 650
-        height: 450
-        isCached: true
+      name: phillyvoice.com
+      domain: phillyvoice.com
+    quality: 21
   - title: "AI set to revolutionise retail"
     excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
     publishedDateTime: 2024-01-19T00:00:00Z
@@ -142,15 +117,24 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "No Jitter Roll: Microsoft Copilot Receives New Features, Cognigy Available in Azure Marketplace, and Nureva Collaborates with MAXHUB"
-    excerpt: "Microsoft adds new features to Copilot, Cognigy is now available in Azure Marketplace, Nureva collaborates with Maxhub and Q.SYS on new audio/video products, 8x8 adds AI-powered features to its XCaaS platform, and several new products debut for CX ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.nojitter.com/ai-automation/no-jitter-roll-microsoft-copilot-receives-new-features-cognigy-available-azure"
+  - title: "Opinion: Harvard president failed to defend free speech"
+    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
+    publishedDateTime: 2024-01-22T11:35:00Z
+    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
     type: article
     provider:
-      name: No Jitter
-      domain: nojitter.com
-    quality: 18
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 19
+  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
+    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
+    publishedDateTime: 2024-01-22T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 7
 
 secured: "NMOdHe9vAsekHlS5Y1/et9iFF2cdy72A1eFHe6n+w1K/qA+kQ/Y/avBtzo7LF9gjuh+AR6q1n+4EGM0vJROVZTU0yxEXjgJexfKtUWlTYgo2ysbVEHXD9EnmABFYtba5gppLPk8gd1Em5mIvHKRaJ7XmigwvKcQ+UPwDCOaW3zhWZVcaSyWIGOcHGFi5mRZ0fRhZTxB5HdY/zwa8zZBzlN8h1iqdav+TyUZP0vSD0BDUL0jwX4wEh48YHI0T2lxRRYBYlW5yN5adcqd/DPf92SKBmD8TYWphIC/1cGCorFXI2gbdCjK1X3KmQUXmTSWY7ghB0ZObh31fSrwmeSaaL26PZMMffPCH6XNn5O7iUaG5Uwcbfa6YpNSvJ4DykRUDK68dIHAQe9NFnj+YlcNpLYPp+oJKaoi1KLTNOgmtRkmCCamHbg17RrfdhbRUF1Jk6IHL5QcXz1+XTElqF0ioou/XP/m54/K0HdGdQt3Qmp/UnAaxnX66gjFEPb3zXMreR0u40q8t1RKhG2Sda7Iddg==;Nkxn8racQXDLG5PffNjD1A=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI Model Gemini Could Help Businesses Create Better Ads"
+    excerpt: "A chatbot similar to ChatGPT or Google's Bard allows the user to \"talk\" through the ad-creation process, ask questions, or request a redo if they don't like the initial output. The system can also generate unique images based on a company's existing logos ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/google-s-ai-model-gemini-could-help-businesses-create-better-ads.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-office-inc-GettyImages-1402126273_536717_dmcfr9.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
     excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
     publishedDateTime: 2024-01-23T06:15:00Z

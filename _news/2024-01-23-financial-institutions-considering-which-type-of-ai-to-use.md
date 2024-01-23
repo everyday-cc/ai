@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1326
     height: 900
     isCached: true
+
+related:
+  - title: "STACK Construction Pursuing AI Tools"
+    excerpt: "STACK has increased its research and development staff to focus on different ways AI can improve its customers' experience while maintaining the highest standards for accuracy."
+    publishedDateTime: 2024-01-23T21:50:00Z
+    webUrl: "https://www.forconstructionpros.com/business/article/22884838/stack-construction-technologies-stack-construction-pursuing-ai-tools"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2024/01/Jesse_Bpeopleimages.com_AdobeStock_557097239.65b023379eb42.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 822
+        isCached: true
 
 secured: "LfbDBywIVuMgdpyoHvYBzHOCV9M0mKIyPtm2aZnQ0hNRjbLMfB/Omh4Er+hkNGCQALCsCmRukbtTg/cShIjQ9AFnrv0tHN24Qs6i0wCCLBxqTMNg4in8nEd5hsc4nToXjyleZTT5xvFY7ghf6uqXfX8TyFfSO1Fl+kCMHosNLXUuvSaXlR4NdvTgCveJ3pblvXD6s5YT2HsnO+R81K04zZ0LqJ3Phn/vkl0ZV1HLKoZj3SEoeF/bi5DjjkdjcKko6P8TFqVLO5CaI0fRR2UJshbfIUPRGquoHFSHbVCNIEnxHhbboz0usICoPaBYYyblwpIVg4QJmVsoUAkKVw7k1SXGzWg8gdQvEoMHHszmhNc=;Jinul1NKeGuhrERMRV/gLw=="
 ---

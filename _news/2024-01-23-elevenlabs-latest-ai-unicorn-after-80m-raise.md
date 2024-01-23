@@ -139,6 +139,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Startup Digest: Byju's FY22 surge to ₹8,245 crore, Voice AI startup ElevenLabs turns unicorn and more"
+    excerpt: "Edtech unicorn Byju's has filed its FY22 financials today after a delay almost 22 months after the reporting period ended."
+    publishedDateTime: 2024-01-23T17:57:00Z
+    webUrl: "https://www.cnbctv18.com/startup/startup-digest-byjus-fy22-curefit-sacks-tiktok-layoffs-elevenlabs-unicorn-tencent-riot-games-18875181.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 2
 
 secured: "Fyee7GudHcDkmaJEZiZoJfoaxiBVXiHfdMSTZNd9kvWmBaeNi4LRoRoCuQDKNKQldn3GCINP+tv2syfzvaBqt2SjZhe+Ah/9HZ8N02Xn2s5sY9vD/V6pMYkAZ5+Z0zBBnScRGSVaN70NE41vBjCtS5XCoibhReEYhfc3ZWn13UXXRvGkoEi4QPJpypcADVwyFcPW17K8ZuJRld4qXd3eRkYMsfHQmUyQ7IZbnsPlRGKINPplxg5id5NEeOUk1rg7yd8iAEuUxogS6Thar8sa/+rrM8md9Mfb/MXrKBu0l5yT2bcrj6iEjWbzR3AFkI6/nyEdkOaNEchl7255iGkKyfan88uQBRC+T7QtB68wE7o=;sFOgPjCCoWQcf9wsvqxaBA=="
 ---

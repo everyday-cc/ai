@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visit
 webUrl: "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Meta's Billion-Dollar Bet On Nvidia's AI Chips Could Reshape The Tech Landscape And Catapult Stocks To Unprecedented Heights"
+    excerpt: "Meta is making a significant investment in Nvidia's AI chips, a move that positions Nvidia as a leading player in AI chip production. These sought-after H100 graphics cards from Nvidia, essential for advanced AI algorithm development and implementation ..."
+    publishedDateTime: 2024-01-19T14:15:00Z
+    webUrl: "https://www.benzinga.com/24/01/36700357/metas-billion-dollar-bet-on-nvidias-ai-chips-could-reshape-the-tech-landscape-and-catapult-stocks-to"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "xxV3HQSR5XF767IpUstcV6chT7MpzTsEJkrXzCNcYJ1uB98pm1Z0fi3mGpP+wepINLNfWWemd+6c4/sxZMZKH0KXlzAhY9qAIbXOcJtGorKhyusremKiMiK1J6leBy3XRscMkJl526US9ZqkKsoHH2ypgUidCWsOI/bUdbdfw8GRziMmtz029OfjF8PSnpLtYrOH6b9YmWKelm3cbj8AFOz7kbrHsz3ARPpHVnhfEFGQIDNeXMfkCd2XLdhpSXp/2rkaynLACU0gel+XknggkITPJpHBY272q8tXCKEug7L5JxzWFI3h//W95+aO+c8ZggfRqa3yP1rPNWwxhrKtUo/vkVn44BAo3I6dsXkayyIzbX7cp6DPvA8rfHPmYRPAudoPpGNpEn5nqly76cZvd/fDe6k99zQwIEAiXYwn+xY3N+rHIbR/RMbLsqdW8o3pf5HiAGl6Mu6l0JnB/nr/6Gf0Zizl02/YHbzH/MPMcgangsT9AQsCVdKQxs4qckxkscEdSeSwJrVUmqGjr4X+BA==;F59Gr843WlPaAwChSYnniQ=="
 ---

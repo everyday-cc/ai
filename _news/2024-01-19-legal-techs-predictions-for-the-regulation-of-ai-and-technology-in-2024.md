@@ -50,15 +50,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 28
-  - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
-    excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
-    publishedDateTime: 2024-01-22T20:18:00Z
-    webUrl: "https://www.inc.com/sam-blum/what-coheres-possible-1-billion-investment-signals-for-ai-startups-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
 
 secured: "1GSJs/2Q9SbBUbUj9BL0kRZ+LTanlDVH5uLSXYKHz1pLfc49aoHVmGHW5pIGxXL3vRuvXUlbiR9cEWqorh4+TZ7lgUT+KttFq5gS8F+M3NB6W1RfAEQV/yl7iUB+vzwblgCYMl5bq6B2GH7dEQ1d92bAWEKFI3+IDDMTTAFKEIUwAtzp+C+/9bGlb0oni9KE9l1avE1D3QwLNe3JK5Lqxh0SUmFDmVa6MYUYJG7XbwXLnCKtVG9VrF8DhDACC0dtbQlCloN8ytm20lxEXRqVMLvu7IrBKBpe8A7FOOH1Q5oJ5i2lme7wMae3BSVy71ocBBG0pV7bJ4iLgr/YoMbdqnprK9bpJss1kDFm2P2Ye00=;37VhgoOY1BEJ0rKIzeHiEA=="
 ---

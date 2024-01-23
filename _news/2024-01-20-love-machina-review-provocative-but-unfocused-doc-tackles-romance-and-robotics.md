@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-
 cdnAmpWebUrl: "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hollywood Reporter
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Watch the Robot Star of ‘Love Machina’ Discuss Life on the Sundance Red Carpet"
+    excerpt: "The three humans (and one AI) spoke about the process of making the hot Sundance documentary, the rise of artificial intelligence, and what they hope audiences take away from their unconventional love story."
+    publishedDateTime: 2024-01-23T15:00:00Z
+    webUrl: "https://www.indiewire.com/video/love-machina-sundance-interview-robot-1234947094/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 15
 
 secured: "i5NSnH20ThMLt3w4ZaPEn4yz3Ry/CB0OPqxXw0hArZkjAJxIVvbvS4pl8TNp+QwhaCh5MdudQHrSmdlpdjj3ppxV6N94p5L1pvvAKD94CYz5WNX7L5s4SFXYEAmNqk8ASWH0nEptJfDLF6FejbMhaIpmwS8qJDMq/aPM6bOdBU1TraKQxOt7EJYEAK1nkbEuiOPrDCATovDf+Ty6kLxYK+v3kacKvp/P/IAusny1P2lWe2oX9awMJP6jLEZkZFjcV7bLMEpsvuOWySWNg4p6dnRBDTxsF2r2o8wHEtfbTe3t+6vEGcM9fB0rMDuT7KiH2FQ2tQp+6m0KAHBcnzuhy3vUCFpg67CIqEMQEkoeUcM=;bcjRf2OeCWnNrKn1YO7vUg=="
 ---

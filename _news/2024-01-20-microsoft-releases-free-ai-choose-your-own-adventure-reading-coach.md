@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-
 webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: PC Magazine
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Copilot Revolutionizes AI Investing"
-    excerpt: "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge."
-    publishedDateTime: 2024-01-18T22:32:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1338
-        height: 900
-        isCached: true
   - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
     excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
     publishedDateTime: 2024-01-21T00:00:00Z
@@ -75,86 +61,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
-    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2024-01-22T23:05:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 62
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
-  - title: "Supermicro Stock Surges As AI Computing Boom Continues"
-    excerpt: "Shares of Supermicro, a major maker of computer servers, shot up more than 30% to a record high after the company said revenue for its recently ended quarter would be far higher than initially expected."
-    publishedDateTime: 2024-01-19T18:00:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-19-2024/card/supermicro-stock-surges-as-ai-computing-boom-continues-mZYGhxVVIwZg8qM16I7n"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
-    publishedDateTime: 2024-01-21T09:13:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "No Jitter Roll: Microsoft Copilot Receives New Features, Cognigy Available in Azure Marketplace, and Nureva Collaborates with MAXHUB"
-    excerpt: "Microsoft adds new features to Copilot, Cognigy is now available in Azure Marketplace, Nureva collaborates with Maxhub and Q.SYS on new audio/video products, 8x8 adds AI-powered features to its XCaaS platform, and several new products debut for CX ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.nojitter.com/ai-automation/no-jitter-roll-microsoft-copilot-receives-new-features-cognigy-available-azure"
-    type: article
-    provider:
-      name: No Jitter
-      domain: nojitter.com
-    quality: 18
 
 secured: "DichLoF0jEIew9R499uDjqti9GnWSOq0dLyCa2e+MsHNYe0J3zraBCVpSw9qy/FmMJDi1yb0fcI+n5T0HZ3Ex4G5y+k233SyJWX/SCOaiQIxrcuwDb1Cd4m23X0r1Vs7YGr/xgAItdMag2/ZDHCKDhui467U3uKNhKxVgYDQhRvYUV2IeFvmKGYzwcmCww+MHW93szZpItHuV3Ajt8rNL+13KMP+b0Ya58xzE+7KBIb//pzdxplNT9/dQMgtFIV9CakcJNaSF+UPYB18BPRHgUNKOtzcZA0R7FJK1YYAuC7Pdt/Y5Xif+UTqquUCxpQF0pc9Q8X/vyuspcmzDvwEdKttjvjUOW7pxd+5yzmPWZlFXv/HwfrmQf2NcjPMWDLP50BYAt7tp70AJXy68LXUAnQYp20CrbBI4lcH5hUm/yR7lTXnJdk2YRgR2nCpY26nSeSBla/aRakZ0qpLPhBxA9m2fgkeDMddoVyVWNsd+8OffafJQ4fZcekT0AgRwPnDviy5lfihgEXUw1rT7IXsXQ==;T5wKkWx3/r3CLQnX2bSDoA=="
 ---

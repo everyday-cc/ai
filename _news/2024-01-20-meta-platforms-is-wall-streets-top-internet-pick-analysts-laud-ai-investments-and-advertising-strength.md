@@ -50,6 +50,20 @@ related:
         width: 709
         height: 868
         isCached: true
+  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
+    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
+    publishedDateTime: 2024-01-23T22:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 45
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy in 2024 and Hold Forever"
     excerpt: "The coming of generative AI takes that to the next level. Generative AI can create original text and music, summarize data, draft email responses, create presentations from existing data, and even write and debug computer code. Novel uses for the technology are being developed every day."
     publishedDateTime: 2024-01-22T15:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/21/openai-suspends-startup-used-g
 webUrl: "https://siliconangle.com/2024/01/21/openai-suspends-startup-used-gpt-4-model-impersonate-democratic-presidential-candidate/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1575
     height: 1048
     isCached: true
-
-related:
-  - title: "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform"
-    excerpt: "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire."
-    publishedDateTime: 2024-01-18T19:58:00Z
-    webUrl: "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform"
-    ampWebUrl: "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 85
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec303fa-b8ef-42a6-9e5a-220a06665e9f/b38f73cc-bbc3-4780-879b-ac593b1f3374/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jVhCCPBQtDEJTa1KsAozBFsKayz8e4gYZ04LIXbBUyg5x2zEPBep6+5c2OE/Sv049azJDSNdsEnj87cbA5Ics9u7CI+g1muHTNAsWJ+dorD1SL5h5DQ6exUvh57vFVYLMBZW3zYEdgq63YFKeTLovpwoi0M8h463YZ3IxNVxrlKxfsNsaD2OZ8i9H+yz8k8yi+t9V6XqMtFYkIL7ATTMdYKV8RJuXSUbtjqvJFrkAiPys+8D2NQA8CrgC3f3r/gYaImLVzEGrCRK+t5osOsMpFKCLJeCVxu0QNWkuyrXoy+1G20ycuFgw+bpDI+N94Xz56YR30YwcF7m6h820wBe75Kiw572B7e4GD6R6azfm8FC8wBzeaX4ke47u0KBx+4qLCn+UtRT7w4p+Jgc+x9UOdYQFbq/H4PGWKW0DMq8+kUt3pGxk348qhg9jXD6iXq7uuv/WYuFpHkFxK06u0fBZzSJ6ugi31e9XSp+AXG9/81F/y69FHFHdgCC9005EtsYmOh24Uitl+Ym9XsnQOoaKA==;BgFWqecaXyIPeu8t6QmHqQ=="
 ---

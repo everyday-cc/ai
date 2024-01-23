@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Free Up Your Human Talent With Hyperautomation on AWS"
+    excerpt: "Unfortunately, finding and retaining such rare talent as Leah and David is difficult. However, since early 2020, maturing artificial intelligence (AI) and machine learning (ML) services continue to augment the rule-based flows that solutions need to ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://hbr.org/sponsored/2024/01/free-up-your-human-talent-with-hyperautomation-on-aws?ab=HP-latest-sponsored-image-7"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 19
+
 secured: "AATF/3AwnhX3QOhJv5IEnro8orMnY8M+y/MGR7egb9cKDHz8uZuYRK8ntr+RI9HMxfxvlr99V7ur5AaR1n7HkVAXDn/dA6bV3wUESu4lFugDLlUR5IkNxFbJqhzo2plPpg85fp3EFwg3+/eOmp92SmpPcPCJ8ovVJ48mIJsjK2M392AQaR/+LZwQSSuyfSPH5Nn9XzTZmiSwkVk9wwAUk3JJYOSZPv8b+igqSH+paJdQ5dTrRsxaZo1wHMNJy/qnX+/pI+TBLH4OSVQ8aPcG9SxnhleIGX5kdcI9JfO2XKy2iNxRG63krqAAgKGmnjW8EZgCnH4DF/c86efjDAX8YgOPwCWQZf56A3Rps1P09zw=;drRx0b/HmbQGAan39DAhqQ=="
 ---
 
