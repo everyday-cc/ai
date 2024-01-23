@@ -41,6 +41,54 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
+  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
+    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
+    publishedDateTime: 2024-01-19T15:35:00Z
+    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 28
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "xTiR9vaMnVeSteKWMR4BIRP3yDJJCD8nkRTLTWun5XvQgMO9jW3GfHd1c75ftssdOFXZnn+nANN/4wawLx54uG391oSn0uCH7XGjZj6R2QBKPRks4r3ze/RWC/cVgQo95Fmt2M5AtxkXSqFxIi5ID6wjNc2ak6i4ZcEa8qnv+OPWNM30QAyyyXKZVYEyPAp/irzTBX0ZfFLg1dseiM6MnvpCxG2dEe6AcA76Ni+hivdIsQPaJodOYPPqZnPSA11V8lGNe5Oef/e4cnZ2rUKcECYWhVc3AHVcoP733vEZa+HY86x1DspF/hxY8yeKajT3tJ1MXSIZmcStRSjN0gmSbdeB6/gc9t1wGKtUYcu2gevk1Zw77h3+xjdGjA0fRx9IsPfBLBaFug1MPzXKqEY4XxvSfbQQZevdT7FgkTswhnbX04rgLL2+xmp7eiTn7fnUbMOeUEWeSIB+LsbiATtCI2/9/PoScrLgB1q2XtnXzUvzQnO5pVMaXO5RXfNFx3HitKK5Yb+R2UOnb4YQZH/hhw==;fzDdRisDsg5UYb3uf/7+hw=="
 ---

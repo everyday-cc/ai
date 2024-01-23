@@ -50,6 +50,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 54
+  - title: "Is AI-Generated Information Likely to Start Showing Up in Legal Reviews?"
+    excerpt: "In the absence of formal regulation, lawyers and eDiscovery professionals must ensure they are prepared and develop effective strategies for identifying, validating, and integrating AI-generated content into the legal review and eDiscovery process."
+    publishedDateTime: 2024-01-23T02:55:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/22/is-ai-generated-information-likely-to-start-showing-up-in-legal-reviews/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 36
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Robot-Hand-767x633-1.jpg"
+        width: 768
+        height: 633
+        isCached: true
 
 secured: "LETreFOdkFO/+Byezwln2yVFW/g4A/L4RAlBOmVF/OHs7379vY2wU64NT/JCPDtpXO1XxExvu81HQP5+qbopEdi6e6sliDmPuflPfrvAqGqJHr0CAdP+HipXjdtUTeLFlRbvgXJQlOmUDk5tnBx2CH56rdmHXEL7uJqmk1de2CLf3l8+ulT6iDwMrbku5Zm0v9SVtfqI9CZFrymjmc8sq1fwQn3XHTdl+ElLttfWnL29gtyFbw2JinrLzhE1qbDivx7iNHTiKI7Ed5sbQsXPDhCUmkRR6l8F8M1iDq/g6O2BJwfDHTDzU5cY9Vu/5TV6GBxmeXRyPIxBruhagZMSuO0cGU9x8CrppA2c0N51Tik=;zhB2KBBle+FflA+2cmlxlg=="
 ---

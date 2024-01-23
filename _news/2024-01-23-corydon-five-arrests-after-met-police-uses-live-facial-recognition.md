@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
 type: article
 quality: 89
-heat: 120
+heat: 119
 published: true
 
 provider:
@@ -69,6 +69,6 @@ related:
       domain: reason.com
     quality: 34
 
-secured: "TiKhseBxhC6d99uSRA9NnQiSA0zjRLpUkFD/nzoWJJ9MVJ4pZp0PQnriy4S4ZY3VhIXqWpF41ABt84qsx0KCgFtpo1mtsKmPNE1KmVDb0MSz99ht31j0lRX2JNM4YiUxanxysrCniOueC4rcoskq68FCXaJKoa7iXiEnARbpaZ9uHhIB3aHQ8RJ4HEBfxlR2OWa4HU/qUuI1VxeVhdxyIyxxN3BoVBQrvr9AeYi+6000nXoZvqJZfPGv836NtYGq0PNNE97mOz1SicBVcQyPYTLFGSAq36qtU+CksSnypBTSOCaYsP/hmjjyDVsM7mSV4ry0uBJiOEniYuTGPVd/AilrvTVDR+gjt73mTUs/oVA=;hRJT29nNY1uuyhxZ5HPWVw=="
+secured: "KZ0Jn9e/d6MjMFiCoTHJltDemtUAXgx/T/b2lD8bNq9ecEGCR2KEfkDExDnoXFY2oLNtLKq0p5J6hqEfyUibVyVRxv+PCaJFQxlgDeUBB9OiwJ7UweNzNcqgLypfWl02LElqvRz1kwqw+stp2yIUzMdlbHSuCsvZmtW+Q5kLqGwXAX41oalGGsKyyPiUTc42uV7ud9Ix5kqeiDpz4LJ5YzKTu1apSKOp1Zuxp2yn6KkjHdjVNWye91rXFIP9dGicQambY9J6wCcSzoKLXLEacBy+J5LASmyQdHWmEyh3FDZxtGzZnQuaFsJo2kWIYB/uin3153h8q7alwr+uuhJ6aUJGPHSbHsSYPEprvxFCTbNUsREKDN1t38VKXrkNFovGMH1dQZf/JlhFdG68zjjGYkg1jNlvNeYLb2S2VlXQg3pkSC3uxMZbYusnkKASIGJMe1TRRNR4rtZtvTLkSVKZVe4VQn2KWYeVzNYsUQ0LMrYrf5VJafs+xDJsJHUz+C2j+Vc1AkCNYJKxlwv0H4aLPg==;m07e/Pnc6aSBsd3t3fnUog=="
 ---
 

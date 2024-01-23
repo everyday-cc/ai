@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/how-to-organize-your-schedule-with-g
 webUrl: "https://www.geeky-gadgets.com/how-to-organize-your-schedule-with-google-bard/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Hey Google, what’s happening with Bard?"
-    excerpt: "Google is adding AI image generation to Bard tomorrow, according to developer Dylan Roussel, who shared a screenshot of a changelog dated for tomorrow. Roussel says it will use Imagen, Google’s text-to-image model,"
-    publishedDateTime: 2024-01-18T03:15:00Z
-    webUrl: "https://www.theverge.com/2024/1/17/24042206/hey-google-whats-happening-with-bard"
+  - title: "10 Google Bard Hacks That Will Make You a Pro"
+    excerpt: "Don’t underestimate the power of a well-crafted prompt. Google Bard thrives on specific instructions. Instead of asking broad questions, give it context, keywords, and desired tone. Want a poem about a robot falling in love? Describe the robot ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/10-google-bard-hacks-that-will-make-you-a-pro/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 34
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-Hacks.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How to Build a Website with the Help of Google Bard"
+    excerpt: "This guide is designed to show you how to build a website with the help of Google Bard. Building a website can seem daunting, especially for those with little technical experience. But fear not! Google Bard is here to lend a helping hand, guiding you ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-a-website-with-the-help-of-google-bard/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/website-google-bard.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "UnumejDBXcqlmk7LFvncxKqHo7UkiDFP/MmO8mdGUnxGrwOpMcdN+zvnfzavWWLWnd5dB7uq5l6U6nTVW38ZyPPHoZt/cnsryTEe1kItsp1uNWVbm1lJCMnAfBmSP7/LEuL3da7BybWiBI/zQAsLHoWkJeWwO0LjxudcEBKtaf21S+p5z6sI5LKlwzb9xlE+8I94OqZXk+tXJUz7qtniY9MYjRKlzudAu6rrf7pse90E6nSjM3k8F7+xgVLyJw+Q2fiZpe9/wT2KxQQHtau2cqwYwB/zKq4q7siSgVPF9pG/80WJXUKjUFrCeoTusdwqifCZbgGyn9IUvoWgdZi1oawmW+Alh1mSdEox9rlEEsE=;ZLqnd2pGtgaS2ntKmpkIxQ=="
 ---

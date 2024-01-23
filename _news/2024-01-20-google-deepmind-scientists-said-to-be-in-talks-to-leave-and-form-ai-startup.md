@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind’s AI system solves geometry problems like a math Olympian"
-    excerpt: "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist."
-    publishedDateTime: 2024-01-18T04:21:00Z
-    webUrl: "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_geometric_shapes_math_competition_33d7db75-2612-4028-8673-02dc7d32c1ad-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "DeepMind AI rivals the world’s smartest high schoolers at geometry"
     excerpt: "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022."
     publishedDateTime: 2024-01-18T23:55:00Z
@@ -86,22 +72,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107013470,width-1280,height-720,resizemode-4/107013470.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
-    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
-    publishedDateTime: 2024-01-22T08:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
-        width: 324
-        height: 435
         isCached: true
   - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
     excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
@@ -207,61 +177,6 @@ related:
       name: acm.org
       domain: acm.org
     quality: 50
-  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
-    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
-    publishedDateTime: 2024-01-19T15:35:00Z
-    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 44
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google's DeepMind can square its hypotenuse"
-    excerpt: "Because everyone needs a squared hypotenuse  DeepMind, the brainy Google-owned company that makes super-smart AI, has created a system that can crack hard geometry problems. It's a huge leap for machines that can think like humans,"
-    publishedDateTime: 2024-01-18T09:13:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58282-google-s-deepmind-can-square-its-hypotenuse"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/6fd3a52170f7c91d97310037e549cdb9_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "AI News: Google DeepMind Experts Plots Breakout for New Venture"
-    excerpt: "Two Google DeepMind veterans are plotting a breakout move for a new venture amid conversations to raise $220 million"
-    publishedDateTime: 2024-01-19T20:14:00Z
-    webUrl: "https://coingape.com/ai-news-google-deepmind-experts-plots-breakout-for-new-venture/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 34
-  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 28
-  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 26
 
 secured: "kfRlNlVEoFyTJHNBq84TA+vF1M2Ht7CJszYgzymeOzUHMZH38zS21FNaCry2EZrUmMHyZBj9mmkzSZCvV5AL8nO+YG/CcfQdeFb7upUJVx7dqd091Pip1URfPYjX51OidMUB+YP9cN96c0crUmlRUB1IGSLk//e7qQYREFYII/yqa0avffjAZaySfq7EXjfwqUiIcE0SyTJKiumJ5cgo9GYuYPVwiLB+wkb1gN6u8UoahCa2YI1RrPPVjwl37swp9L9+HIf60n302Cflq63JTK4aoDm/C59kc8m5q0CJrFPQNXPO/ivUZDjiMPFv4v7eeNN0Tt1B8fFN96zydUIkUsAJXC95xA4oJ+PeoHR9PStTSrgpdE3xK/KV7Dv+VtQ+07uXpbFqRsuBfH3uSJDmJoYqk7yOXfvJv8cMG07oGOsr0tVjO/Aedwd6YdNL7E0Zofa3SAvwPl7vkHvYrsayWmjnhw1rVKqn3S7vrBN0y+fAm1VVhktsRqAbhKw6RAZsBbnCH3pR+Lp8vmGrn29Kww==;zbkEzCWI3ba06SGF+L6fBw=="
 ---

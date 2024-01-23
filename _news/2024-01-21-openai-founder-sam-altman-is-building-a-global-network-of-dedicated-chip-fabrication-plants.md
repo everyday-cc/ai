@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is Sam Altman Entering The Chip Business?"
+    excerpt: "Sam Altman is reportedly in discussions with key investors, and TSMC, to launch a new chip venture to design and build semiconductors for accelerating AI workloads."
+    publishedDateTime: 2024-01-23T03:03:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65af2c370b3956c11331aae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1318
+        height: 900
+        isCached: true
   - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
     excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
     publishedDateTime: 2024-01-20T14:58:00Z
@@ -152,15 +168,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say"
-    excerpt: "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say."
-    publishedDateTime: 2024-01-22T12:30:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 70
   - title: "Sam Altman engages in discussions with TSMC for AI chip manufacturing plant: Report"
     excerpt: "Sam Altman, the CEO of OpenAI is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. As per the recent report in The Financial Times, Altman aims to raise billions of dollars from global ..."
     publishedDateTime: 2024-01-21T10:00:00Z
@@ -225,20 +232,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Altman seeks to raise billions for AI chip venture"
-    excerpt: "Altman’s fundraising push reflects his concern that as artificial intelligence (AI) becomes more pervasive, there won’t be enough chips for widespread deployment, some of the people said. Some current forecasts for production of AI-related chips fall ..."
-    publishedDateTime: 2024-01-22T00:44:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2024/01/22/altman-seeks-to-raise-billions-for-ai-chip-venture"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/22/2502985.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z
@@ -295,6 +288,36 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Sam Altman addresses ‘nervousness’ around Artificial Intelligence: ‘It's on us to…'"
+    excerpt: "OpenAI CEO Sam Altman expresses empathy for concerns about AI systems like ChatGPT and proposes co-evolution of society and technology. Altman believes AI will lead to higher levels of abstraction and increased decision-making capabilities for humans."
+    publishedDateTime: 2024-01-19T04:42:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to-11705636013098.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 51
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/SWITZERLAND-DIPLOMACY-ECONOMY-SUMMIT-DAVOS-42_1705638144974_1705638170691.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
+    excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
+    publishedDateTime: 2024-01-22T10:46:00Z
+    webUrl: "https://www.inc.com/peter-cohan/sam-altman-says-chatgpt-is-good-for-education-here-are-four-lessons-from-my-student.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 51
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-ai-inc_536595_s6eifk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "OpenAI's Sam Altman in discussions with investors and chip manufacturers for AI chip venture"
     excerpt: "OpenAI CEO Sam Altman has been engaged in discussions with Middle Eastern investors and Taiwanese semiconductor manufacturers in an effort to raise billions of dollars for an AI chip venture that would include the development of a global network of ..."
     publishedDateTime: 2024-01-22T00:00:00Z
@@ -309,15 +332,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Altman Seeks To Raise Billions For Network Of AI Chip Factories"
-    excerpt: "While efforts to raise funds for a chip venture were earlier reported by Bloomberg, the scope of the project and the focus on manufacturing wasn’t previously known."
-    publishedDateTime: 2024-01-19T19:13:00Z
-    webUrl: "https://www.ndtvprofit.com/technology/altman-seeks-to-raise-billions-for-network-of-ai-chip-factories"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 34
   - title: "Sam Altman looks to raise billions for network of AI chip factories"
     excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with ..."
     publishedDateTime: 2024-01-20T00:01:00Z

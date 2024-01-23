@@ -130,6 +130,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 62
+  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
+    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
+    publishedDateTime: 2024-01-22T16:03:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
+        width: 1260
+        height: 840
+        isCached: true
   - title: "Microsoft and Cognite extend partnership to build industrial data operations platform on Microsoft Fabric and Azure OpenAI Service"
     excerpt: "Cognite and Microsoft are excited to announce an expansion of their strategic partnership to bring enterprise data operations to the generative AI era."
     publishedDateTime: 2024-01-18T16:09:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access"
-    excerpt: "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ..."
-    publishedDateTime: 2024-01-18T05:00:00Z
-    webUrl: "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_digital_ocean_c230cf44-8417-42fd-ae3c-73ec14de19d0-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Meta's long-term vision for AGI: 600,000 x NVIDIA H100-equivalent AI GPUs for future of AI"
     excerpt: "We're bringing our two major AI research efforts (FAIR and GenAI) closer together to support this\". He continued: \"We're currently training our next-gen model Llama 3, and we're building massive compute infrastructure to support our future roadmap ..."
     publishedDateTime: 2024-01-21T10:28:00Z

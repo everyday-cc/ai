@@ -33,7 +33,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 55
+    quality: 75
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image-7.jpg"
+        width: 1456
+        height: 971
+        isCached: true
 
 secured: "qxmQPwUM1E8IQGoUF0CcIt9EIsSEnGeTVkVVIJaK8DmDL//tuY0w1BmOZ4581/KeY3IH+XqZSEz3m8Dg3M/DaqCTnsyzHoXusYhpHQnuGOTDk/veZgTMEoEDhRIxo0mN46L1BpjgvrpK8nssHiKQTuPSrAI3wDjIN5xr96NCccQFvSc1dmphCy2772XXhghY50e7mnzMZruAxBt22kX5UOxRHxP5ezVkTY2k0tKILWC53gNGbp/S3uuM2yTMA+wPfslKLTD5c18ckK/Naj3k3xSY2fUvLUAKQhueQUMLHb9MvVlkRjEQSIrNyFRej+NTmMvjCtKxedkKsY3SwXpvnDjoSLPfNkGOuhqhmOtg+8TPKkloQz+bxCbJIZQOTEIsZBacJmGmZzQ4ufj/Hd3GRjEdmNL1vwJQnk4fuP1JLvugGf0BCoot6o2sv+66cQYRul9kBpngmYUt17Sg8RbFj6vLLe74CFXSzBdiZDID6kKyZa+xooY5guzNJ6GkB/g/2eHbiWRmRcLe+OUKGAuHuA==;Zv9WaM0EM8M0J+EJHbmLew=="
 ---

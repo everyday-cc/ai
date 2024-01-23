@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-rea
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 62
+  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
+    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
+    publishedDateTime: 2024-01-22T16:03:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
+        width: 1260
+        height: 840
+        isCached: true
   - title: "Microsoft at Legalweek: Secure data and gain efficiencies with Microsoft Purview eDiscovery enhanced by generative AI"
     excerpt: "Explore opportunities to connect with Microsoft at Legalweek and learn how Microsoft solutions can ease some of the top challenges of legal professionals."
     publishedDateTime: 2024-01-18T17:00:00Z

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-08-we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai.md",
+      "title": "We Need Smarter Driverless Vehicle Regulations More Urgently Than We Need Smarter AI",
+      "excerpt": "Recent Tesla Autopilot and Cruise robo-taxi news has raised public concern. Strong federal and state safety regulations are needed to ensure the safety of driverless vehicles’ AI-based software",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
+      "originalUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/F2537A88-8EAB-4C9B-95814FB1DBAB792E_source.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad.md",
       "title": "Driverless navigation to charge spots – thanks to Bosch and VW subsidiary Cariad",
       "excerpt": "Bosch and Volkswagen subsidiary Cariad are testing driverless parking and charging based on automated valet parking. Automated parking service now includes automated charging of electric vehicles. Aim is to create additional benefit for automotive ...",
@@ -1335,49 +1378,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
-      "title": "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go",
-      "excerpt": "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
-      "originalUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg",
-          "width": 496,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T02:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

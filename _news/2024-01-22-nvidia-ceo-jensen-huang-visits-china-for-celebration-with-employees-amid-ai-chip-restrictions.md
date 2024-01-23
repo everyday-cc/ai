@@ -6,9 +6,9 @@ publishedDateTime: 2024-01-22T08:09:00Z
 originalUrl: "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html"
 webUrl: "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html"
 type: article
-quality: 55
-heat: 65
-published: false
+quality: 75
+heat: 85
+published: true
 
 provider:
   name: TechSpot
@@ -22,6 +22,12 @@ topics:
   - AI Hardware
   - AI
   - AI Ethics
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image-7.jpg"
+    width: 1456
+    height: 971
+    isCached: true
 
 related:
   - title: "NVIDIA CEO Jensen Huang visits Taiwan, preparing for Hopper H200 and Blackwell B100 AI GPUs"
@@ -39,6 +45,6 @@ related:
         height: 857
         isCached: true
 
-secured: "8xL2GD1nhYZd0+m/5OcifIepKko6u87gQkatYlIKvRnQ/Gh0ppLbpVhlaIkY4lapHl9EmiABzjshUkl99YsHuovG+QpiVKM0ziIXQxeTNljJuNDizYjqPnfqucoNRmUHDGS8crY+2XQw62cBqRRAVrAdwPO3OatzWLClmdDj1I53upInAg2Bq6ayQYeBtJhdyzviwJ9tW/gCUK/CZ3SRxGQf2cw4rzR54M28qzNnUapygyLv6IR1v0QLYsAklbtLW3Z5Yu1HjYFhMRX7B8FvH/WKjm5vthh6MfYX0j2weB5ewrhr6mjrC1VhtouX3L+u9II4r/knhWnUrAf6FR5tWFYlxdKBtdrmynoCNegv6Ps=;brvBOMrqQ2ZIeLqzjuQaOw=="
+secured: "tOcOhQfcinxZvM37vGyorARJSsdK9k7cOd1EpZbVOdS1jXXj0pkBKeZWTSu6ptSFZA55Mn+3JkO+vXtgngJtg4uftrTBeVoL5YX2qn1nn0hqx7DvnQURZ1eqoN3oRgOuaiGx9TCygic5A3VbkPUG6bphIyITclwgG8vPf7KgwCYht99J+xp4uoORHuj8ByD1yCiezBTC9/AgN+Fdiawev/pw2VCnsjIVNFKvhVFiSHE4wuqHo0O0J3OCY/7q32krvB0BT4+W05dbfv3SJcnKcNW7MwEoaAbiMMNJ5+HktAZEIRGg3hEEhtOXPakCdrhXJYEDaaFuesgdES2nIzC0sb/hl0zuAG93r9XSRTNeBXg=;49E3+BptmwjemkvsuhJ/GQ=="
 ---
 

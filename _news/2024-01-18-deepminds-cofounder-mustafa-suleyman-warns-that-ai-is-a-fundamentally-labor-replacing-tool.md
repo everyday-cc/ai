@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-i
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp"
 type: article
 quality: 93
-heat: 103
+heat: 143
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
+    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
+    publishedDateTime: 2024-01-22T08:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
+        width: 324
+        height: 435
+        isCached: true
   - title: "DeepMind Co-Founder: AI Is Fundamentally a “Labor Replacing Tool”"
     excerpt: "Welcome to AI This Week, Gizmodo’s weekly deep dive on what’s been happening in artificial intelligence. For months, I’ve been harping on a particular point, which is that artificial intelligence tools—as they’re currently being deployed—are ..."
     publishedDateTime: 2024-01-21T23:30:00Z
@@ -45,6 +61,38 @@ related:
         width: 7018
         height: 3939
         isCached: true
+  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
+    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
+    publishedDateTime: 2024-01-19T15:35:00Z
+    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 44
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 28
+  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
+    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
+    publishedDateTime: 2024-01-19T18:40:00Z
+    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 26
 
 secured: "jBbbP2ONL4PYcabGpWrwVBhPRCrf5SYwlkap4iMoIzNEH6EJlt8gSinB35EGwh1fdcM9tGKTxx0jF+dOX34lNA1jQZnfHz+O/ky8YsLFBX7VJ4BkzM565mDdmv+3wQzLPacd1roJJCjzfpF4TbnAyVzJcR7m3KiYWpR+6yY4Qf/QiGLfc4VSXyeX2teUIERJzk2GTgeMxTcOhApLCXXpnh4hyC8ZR7z8XZwjjDoySJZs+cu03J0PVjc1EsZ2PSvU3V8PF0+CRpL+6z2Hj/1jmKcggG3+YWkI9Qa6QuXSyPmf5dfGx1odGDxGAiYWs9cpEOxgq2KU3EaL56Zwwoqpd32m1vjKRXG4z4kEzrP3Qi4qU6W1yrbBGNq4U2emobkaH7co/vv03dMOc6qzc0CoYJZyQiWSQPKChy/sVkrb06zN6TyfGt1COpK/tQa713yV7i9M3gekz6LsNBaNimvhPFBFwt1SgVRchDs4qW6WKeeTN/snemmEt69MDZ+4Qd68Ew+giWaP/7WrM80GTRGorw==;hgAbFpwUYYKRV5rBri30Jw=="
 ---

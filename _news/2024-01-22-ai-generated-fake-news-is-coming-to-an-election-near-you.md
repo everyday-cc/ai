@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an
 webUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20240119/c1_2727082_240119160859_700.jpeg"
         width: 700
         height: 470
+        isCached: true
+  - title: "Is AI-Generated Information Likely to Start Showing Up in Legal Reviews?"
+    excerpt: "In the absence of formal regulation, lawyers and eDiscovery professionals must ensure they are prepared and develop effective strategies for identifying, validating, and integrating AI-generated content into the legal review and eDiscovery process."
+    publishedDateTime: 2024-01-23T02:55:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/22/is-ai-generated-information-likely-to-start-showing-up-in-legal-reviews/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 36
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Robot-Hand-767x633-1.jpg"
+        width: 768
+        height: 633
         isCached: true
 
 secured: "9MqQksYX+dDRAxEP4WfxSK5nrjnKnAvArwfi8/8+UW14nulQ+mJ2y0kOefKQcXg4l9HOXFdNW8yz7DDMpUXr7tGRN9VsoAzPgzcNHXhceH3Q5/Gbfo94DATk3xU2+ZSiuRSOT+nizkQiM2T8j2zqEkCiYMh79v6cRGn3rwCCs/mC3NKbQl1O4mJ8c1fgQD/WxYv10+QkYm3WQfsRnKOkwOGd/Y6Cj9cEa0exrGJgCvwAAaCk5HQvvQqVVw1aVY2BXreja3h15qAK/sa52FRRaxFAGw+PbxDEvUhyCgrFKMPnv2Vna91rc2gIXo5kc7lrtkpiVLjXzYBQqmzl+Nah9ZRH9h827bqNlqofq83KhDs=;1PQ3QV3g7mwkyks09Y3TnA=="
