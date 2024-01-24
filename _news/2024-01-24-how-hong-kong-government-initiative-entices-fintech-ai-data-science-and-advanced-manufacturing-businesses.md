@@ -173,6 +173,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 24
+  - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-24T07:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-zeal-secures-4m-funding-to-expand-its-technology-solutions/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Fintech major Paytm plans to deploy AI to improve business operations"
     excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
     publishedDateTime: 2024-01-21T13:21:00Z
@@ -183,6 +197,6 @@ related:
       domain: business-standard.com
     quality: 19
 
-secured: "EIC3V+xc2FkuCePm2WATkXuRWRGBY3eWkbqHJazNL1+g9Vxdsq3+CLrdji18ELXX1OEofc2+lGh33HWBUy3uD/f5vXUdZyF5xWAH+gHQoc9/dAwkGEGmvGA6TGoJ/W9VZ9KrSWcwz2YY6h4sh4jNjINHbJnLzMptn9O7MUo77LstKqVRT9be5kz/0a6SSnFZPbqsjNJMQdckRfnY9dncIdGO9POZ1OGnKQM9Db1bxHlz/2njLbwpr+WE2FjgslVy4dXdVThZDq+NuBDrj9hPn8RfkjR3uF4rt/JmclXNCtw2sB4IXCETZbMSdNhaIoZblsJ+N7BdjMcSBW1OFs0VfJUvEpJkBVCabqsiYvc0XpM=;NxYPHZoYHUSPNTsKWJnJsw=="
+secured: "cAs3UEr7A1xTAzpk6AaC3JIW/Gxzvk1/OG9166gXwfWgXiQsd1tT0yVLzIrM9CqifTVPSK7vx+OLPgwTav5VGNrp5wlr3NkTTq7gvi1B81/P9W3VnEIGmGh5uCu/wSRUZQY/9iFGMlW99FFaKAjivyqhx/31gRVIdAQ2M/x9zqd6Ullh9VLZiFVVXk9tuaPMfiLulng4waZi++grM2gRptvyomKfyG23VLI3eS+kIIRbNrXsrWKdq1NTk27P8lyYhKqLBFAPgvKITe3tXD0MLiM9wEgJ0/BWJToZpl72vnb3vI0swjeHVQj5oEAE5CyGZrG5CwfbP8PmRaV9PvneAu3+69AbHUYvSe3OTuSH1XQ8EMyL87TajRnYHQZY1zHStO06JHHoCylPe7VGE57OisRd0g+JcGU9IMI60vrQUCeJnPl+PCS6r/hE06ijaFA1JV1q1CDLQwqdUHLrX3cj1vPDVwQUV8nBdcPwtka5ljc3enyPFQS6H2a7nViVb4w3xIqpa35xDb/6rt8xSA/pqQ==;8+hyLSC0lq4xLZ97t2mjIw=="
 ---
 

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bard AI is coming to Google Messages. Here's how it'll work."
-    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
-    publishedDateTime: 2024-01-19T09:02:00Z
-    webUrl: "https://www.androidauthority.com/p-3405223/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 71
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Bard AI is coming to Google Messages"
     excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
     publishedDateTime: 2024-01-19T09:19:00Z
@@ -79,6 +65,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Training AI to use System 2 thinking to tackle more complex tasks"
+    excerpt: "What can we hope to accomplish by enabling AI to use System 2 thinking methods when approaching complex tasks and requests? This guide offers"
+    publishedDateTime: 2024-01-23T15:41:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-system-2-thinking/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Training-AI-large-language-models-ystem-2-thinking.jpg"
+        width: 1280
+        height: 831
+        isCached: true
   - title: "How artificial intelligence is changing work in law firms"
     excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
     publishedDateTime: 2024-01-22T18:40:00Z
@@ -102,6 +102,15 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 4
+  - title: "Effortlessly Craft Messages with Google Messages’ New Feature: Gemini Nano’s On-Device Magic Compose"
+    excerpt: "Read Also: Google's Assistant with Bard: A Possible Rebranding Before Launch Google is expanding the availability of the Voice Moods feature, allowing users to visually theme the waveform of an audio recording before sending it. There are nine available ..."
+    publishedDateTime: 2024-01-21T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/01/21/effortlessly-craft-messages-with-google-messages-new-feature-gemini-nanos-on-device-magic-compose/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 0
 
 secured: "mghpFvW41mt49HBqqVr9FfaiDfVW499rt7WEH5/JDxT2YbZRCG2mTMhRoVZ8X7h5ofJNTxQtdoKrdV0lw3MselUx6aH18e0mi1mriVd9WQxozBNpwGMQACCu49j2JWy3BZKr+XZXwPBcCyDSiBJoCx1X/7wd1Mvix/jgfCRbJRrqegDpJSvlvaaoqvTSrFnI9fvJ1CJl3PWzNin3sAXv6M6V97LPsuXd/Rzc0tzXQqSzYvz+udvvEPhzW8lFsQ+9CrXwDojeUCLixkNQzLsp0oUAAUOiN3blv5FXx/QReCgnmOco/mEvarZ+nFGpo8OkDScTpSO76rDB5xSci63yltq3D/twDk0ZfjpCdHEqP7HiDhz6y5/nDeGgO7KDTmNjIhpj2Fa6M58Falx1RSfZu6LcaEa8gJ0Suyds5oTyKXjSdT5Jo5z/Mm7vXQOX9zkgcF2Py6C79eK3BfSHNGc62axcuoRs8MPbZyLngtPQsyfDr74hLwv8mY3Jvugg5D8wOGBuplGaHLTPH31TT1X7fA==;ra/bWH1AesxGnJXtB6B7dw=="
 ---

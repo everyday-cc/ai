@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls
 webUrl: "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/"
 type: article
 quality: 84
-heat: 86
+heat: 84
 published: true
 
 provider:

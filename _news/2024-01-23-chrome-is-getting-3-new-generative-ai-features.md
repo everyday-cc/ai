@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
+        height: 900
+        isCached: true
+  - title: "13 Ways Writers Should Embrace Generative AI"
+    excerpt: "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks."
+    publishedDateTime: 2024-01-24T06:20:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
   - title: "AI-Generated Fake News Is Coming to an Election Near You"

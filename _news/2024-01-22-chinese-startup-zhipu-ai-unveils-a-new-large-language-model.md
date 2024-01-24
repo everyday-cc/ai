@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "This Stock Is Leading the AI Chip Rally"
-    excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2024-01-22T20:56:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/23509878/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/5924117a1cef296a8f6aa8ab681cb7a3/vvse482hkfzc5v23.png"
-        width: 878
-        height: 642
-        isCached: true
   - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
     excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
     publishedDateTime: 2024-01-21T12:53:00Z

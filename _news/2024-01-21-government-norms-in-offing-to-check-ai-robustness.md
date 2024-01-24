@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-gov
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Financial Express
@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "5/Hb0g6LFnty9UgPJvOeN+z830a/ymerSTuW3NoETQ2xVVtH4pJZEEw7ao4UubsIQY8Mh91D0lqHEk2/EAvq3AHz6ODx6IXHs9pfhIO7MSlEkfLPj+l0FSG24w0iu7SgZq2rGz0h2VoaYkxOewrTxfKwpE0IqIDnsf651nBINHmg9ydmaJ8w7pjT16qZJlXcqSpIb+4Ar/LXRU0YQT6lUgF6B2D6r6DOd3KValxXIs6468CSWjNZrl0HbnUbUjm2YthoO68isFoRsy5nfPFs7ZEeq+dV2vtZHCJU8+HGFVdTt5163tzpxJGzNq9OX+HLbckYk0Z3W7PoplEvsUPf968V7qxSL9X2R2dBmBE6jkPyMT+uEatwgCRkUPFCkK0sNaH+J/FUhZGO08ZbbcXK/yjnSDaTh/EyL9gXCJMMPdrraTKpS9s/GupIpQopopXhMDJ/d6OqQs26CflBDxtzAUzTXsvUCLyToV1h8TP/zczmol60gAs0usjwjxUi4QdGrFcQwjk1JHL/jvttcfRijA==;GQu4JU+UKtzVd2/H9NVSYA=="
 ---

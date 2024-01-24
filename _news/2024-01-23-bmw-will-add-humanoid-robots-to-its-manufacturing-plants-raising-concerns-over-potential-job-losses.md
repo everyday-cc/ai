@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robotics Startup Figure Signs Partnership With BMW Manufacturing for Humanoid Robot Deployment"
-    excerpt: "Robotics startup Figure has announced a groundbreaking partnership with BMW Manufacturing, aiming to deploy its cutting-edge humanoid robots within the car makers facility in the United States. More companies adoption"
-    publishedDateTime: 2024-01-19T08:06:00Z
-    webUrl: "https://www.econotimes.com/Robotics-Startup-Figure-Signs-Partnership-with-BMW-Manufacturing-for-Humanoid-Robot-Deployment-1669830"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 42
-    images:
-      - url: "https://f1.econotimes.com/2024/01/eizdozq1ui_th_1024x0.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "BMW plans to put humanoid robots in a South Carolina factory to do… something"
     excerpt: "The carmaker recently reached a commercial agreement with the robotics startup Figure to bring its eponymously named ... “Figure 01 brings together the dexterity of the human form and cutting edge AI to go beyond single-function robots and lend ..."
     publishedDateTime: 2024-01-23T19:59:00Z

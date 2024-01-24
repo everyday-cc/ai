@@ -88,6 +88,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
+    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
+    publishedDateTime: 2024-01-24T05:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
     excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
     publishedDateTime: 2024-01-19T23:25:00Z
@@ -139,15 +155,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
   - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
     excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
     publishedDateTime: 2024-01-20T00:57:00Z

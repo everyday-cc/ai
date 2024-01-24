@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-22T00:00:00Z
 originalUrl: "https://www.investopedia.com/artificial-intelligence-stocks-8404873"
 webUrl: "https://www.investopedia.com/artificial-intelligence-stocks-8404873"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.investopedia.com/thmb/LinjIvuSrJSmljARh_ES19dm-VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"

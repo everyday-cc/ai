@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-12-23-humane-announces-ai-pin-will-start-shipping-in-march.md",
+      "title": "Humane announces AI Pin will start shipping in March",
+      "excerpt": "Humane has announced that it will start shipping its AI Pin in March 2024, with those who who placed priority orders getting first dibs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
+      "originalUrl": "https://www.androidauthority.com/ai-pin-shipment-date-3396904/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/11/Humane-Ai-Pin-Business.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-23-grimes-and-her-ai-toy-grok-the-fearless-leaders-of-tomorrow.md",
       "title": "Grimes And Her AI Toy Grok: The Fearless Leaders Of Tomorrow",
       "excerpt": "In the maze of AI uncertainty, branding and positioning become even more essential to illuminate the path and help make sense of it all. Enter Grimes and her AI toy Grok.",
@@ -1182,57 +1234,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-22-shopping-while-black-in-the-era-of-artificial-intelligence-lessons-from-a-federal-case-against-rite-aid.md",
-      "title": "Shopping While Black In The Era Of Artificial Intelligence — Lessons From A Federal Case Against Rite Aid",
-      "excerpt": "As a condition of a legal settlement with the Federal Trade Commission, Rite Aid has agreed to discontinue its reliance on AI-powered facial recognition technology in its shoplifting prevention efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/",
-      "originalUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6584f1494a460c4e21ffd1ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shaunharper/2023/12/21/shopping-while-black-in-the-era-of-artificial-intelligence---lessons-from-a-federal-case-against-rite-aid/amp/",
-      "publishedDateTime": "2023-12-22T02:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

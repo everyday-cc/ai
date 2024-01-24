@@ -2,26 +2,26 @@
 category: news
 title: "Tech execs say a type of AI that can outdo humans is coming, but have no idea what it looks like"
 excerpt: "Leaders from the likes of OpenAI, Google DeepMind and Cohere see a form of AGI approaching, but say that it’s still too early to tell what it’ll look like."
-publishedDateTime: 2024-01-23T03:48:00Z
-originalUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/"
-webUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/"
-ampWebUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
-cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
+publishedDateTime: 2024-01-23T04:48:00Z
+originalUrl: "https://www.nbcconnecticut.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/"
+webUrl: "https://www.nbcconnecticut.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/"
+ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/?amp=1"
+cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/?amp=1"
 type: article
 quality: 46
 heat: 46
 published: false
 
 provider:
-  name: NBC DFW
-  domain: nbcdfw.com
+  name: NBC Connecticut
+  domain: nbcconnecticut.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.nbcdfw.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcconnecticut.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "NZgFpH0a5PAd7Age1Py9SeovMUBDLgKTEHmPIVQf6bLEw0lZNWRpg6PDnI1lMZ/zPMi9YIz8bORri/2feJT2GmBKVYSr2CZWLqbh7YESxQXvOBxRc322O/p8SpDHdyKBS4UngcO4X6vivIg5B2+5pX6auJ3kU33tcM2dxBkKXecmzJ1eOyr7CZRhb+htjk7hQQ1fW5D8pi/4pUg97/5cD+g0Fb0PWHDh+vZHXQ4cakrQBIBsr7u8gKDXQfbqBpzd8baGehfYYxCZKByU7ElxSfsMyzWgzokZi50dZ/H4GYn/pzoZ1LfTA1Gqjuk7BkD3rfzVkGKbfgNMOCd3g/1aEJlOz3OZFNoyhRnZ45tfKII=;BU8keDIqCDKWcZK0e9s0GA=="
+secured: "pNHYYXpLbs4pRnvYSjWagjLTO6JHddy1BFHtYcY+O65hcLK02ogl6L7vO3n1F4rEkSrUG8qlmHlHFvu6CQtHiu9BnYaaojHR0ghQnWsvnA7hPazZYvwfSe+CZ9TB2+5z8sh8cOgeHUY84Dh7r6ChEHtmq6Ztr5E2Td3ogXOqxLudgrGYKBKf7VHWW1LenHjhy9l4VUzNjyFHyguzngrPoMq2xj4tiRZ502Uu6q3aOquVF/1WxqgbYq8VOSk1fcZu9x0ofUp+NPpWgYUWrVp5/1UaMw8mXyOV8XB7cqrYUXiFIiPmWuQ6TNPca2ZTFRAu2lcni5lc2K6USsaj9vTzg85p5IRoxSFudhN6cs30vus=;YbaJkPus/sHi5JHwgtVZDQ=="
 ---
 

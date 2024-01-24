@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challe
 webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "Pro Research: Wall Street dives into Meta's prospects and challenges"
-    excerpt: "Despite the positive outlook, Meta faces potential headwinds. The regulatory environment poses a challenge, with antitrust issues and privacy initiatives that could impact ad targeting capabilities. Moreover, the competitive landscape for user engagement, especially among younger demographics, remains fierce."
-    publishedDateTime: 2024-01-21T20:58:00Z
-    webUrl: "https://za.investing.com/news/pro-research-wall-street-dives-into-metas-prospects-and-challenges-93CH-2984773"
+  - title: "3 Use Cases for AI in Litigation Finance"
+    excerpt: "David Perla, the co-chief operating officer of Burford Capital, outlines where he sees artificial intelligence helping the litigation finance firm make more and better investments."
+    publishedDateTime: 2024-01-23T12:42:00Z
+    webUrl: "https://www.law.com/litigationdaily/2024/01/23/3-use-cases-for-ai-in-litigation-finance/"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 4
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/407/2024/01/David-Perla-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "QgHJffsKg7dgGBT1icXsoXW9Ieta6cisX6IHFQ5D9asUMZpMotn6Nkg256bwpZ+TzpHhSJMMEQJyCm9xPwK/23qB8oo1ZL4gin1GT35qhLdjQoTlskerUbzr2pR7ZDVEtBM6Mlgf3cMcsAAQ47Yy3ux/KGUIp/zaCgT2A3wowe/b9V19NViaIXLbllD1ZSN6pc0WXn6HaDyrHFVjmrr6qGQK4+ZZBo/O84TNaR2yuLWr/G/Q3BZUGZoRDqKHRII/8QkN//kJ2lW395g3o4E9b80Lbv5n+XxQkzOl5+n2/Kj/X41CPrsSqF3b6ywIS++F1IwzZJtwgWWyfLsDMEw0Kk/sQI8pX6WLat0uws9xWA0=;3L1yxTB3FP1PtsVOxTlkdw=="
 ---

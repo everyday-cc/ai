@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
-      "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
-      "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579cc1db49bac13c8c88cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "publishedDateTime": "2024-01-19T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-19-education-meets-ai-at-the-2024-world-economic-forum-in-davos.md",
       "title": "“Education Meets AI” At The 2024 World Economic Forum In Davos",
       "excerpt": "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies.",
@@ -251,6 +199,57 @@
       ]
     },
     {
+      "path": "_news/2024-01-19-how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending.md",
+      "title": "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending",
+      "excerpt": "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/",
+      "publishedDateTime": "2024-01-19T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-ai-start-up-ceo-accused-of-killing-minor-son-sent-to-13-day-judicial-custody.md",
       "title": "AI start-up CEO accused of killing minor son sent to 13-day judicial custody",
       "excerpt": "The childrens court in Goa on Friday remanded Suchana Seth, the chief executive officer of an Artificial Intelligence start-up who is accused of killing her four-year-old son, in judicial custody for 13 days.",
@@ -301,7 +300,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -446,6 +445,59 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages.md",
+      "title": "Bard AI is coming to Google Messages",
+      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
+      "originalUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T09:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1214,58 +1266,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
-      "title": "Microsoft makes its AI-powered reading tutor free",
-      "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
-      "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
-      "publishedDateTime": "2024-01-18T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

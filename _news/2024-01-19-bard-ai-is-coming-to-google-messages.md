@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
 webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: Android Authority
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bard AI is coming to Google Messages. Here's how it'll work."
-    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
-    publishedDateTime: 2024-01-19T09:02:00Z
-    webUrl: "https://www.androidauthority.com/p-3405223/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 71
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google plans to bring AI image generator to Bard"
     excerpt: "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google."
     publishedDateTime: 2024-01-20T04:39:00Z
@@ -75,6 +61,20 @@ related:
       - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Training AI to use System 2 thinking to tackle more complex tasks"
+    excerpt: "What can we hope to accomplish by enabling AI to use System 2 thinking methods when approaching complex tasks and requests? This guide offers"
+    publishedDateTime: 2024-01-23T15:41:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-system-2-thinking/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Training-AI-large-language-models-ystem-2-thinking.jpg"
+        width: 1280
+        height: 831
         isCached: true
   - title: "How artificial intelligence is changing work in law firms"
     excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
@@ -108,6 +108,15 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 4
+  - title: "Effortlessly Craft Messages with Google Messages’ New Feature: Gemini Nano’s On-Device Magic Compose"
+    excerpt: "Read Also: Google's Assistant with Bard: A Possible Rebranding Before Launch Google is expanding the availability of the Voice Moods feature, allowing users to visually theme the waveform of an audio recording before sending it. There are nine available ..."
+    publishedDateTime: 2024-01-21T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/01/21/effortlessly-craft-messages-with-google-messages-new-feature-gemini-nanos-on-device-magic-compose/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 0
 
 secured: "u3mgtUYILfCJgaju2A5S9E9Unky47olkzFWAaJyQ+hEuKgaP+nelrpayvsKDm7Spc6QbIusyn0n00P7ip1GhoyYx+xvwFfO5cDXPN6Uy0AdpRuDUeRaFJ75RiPyaRibziyA60zfAjtGVUuzbHLXrToKsOy1/P3i9NxC6XvueIGyT6A3vZ2VPKEY/spSkh/59VxBQtm5EhDTLb9KyZp6VfGVSJc8HEEiHRnPTtIfagmQRILX05W+CjBLdIJG/NBq26wGyhSqLY5ZtrKVxMX1VArkeTNmGn3ScxMhyJXd7jzXT3jeKbEso4jU0P7FPsXbAEWC6Dl9kSfNhEG6Xw02HeNZMj8V2P8kIYfgz4Ho+CmexUZYlIa6NjhZuY2Vp4kyBApqD/nnAeGvgJNRLI54mlJT/7pQq0+70vrKyZ8CHNkxf6pid+YFovOML3FYZJYaiBhdxna84vkrnS4/u/eFhLZFDVCEx8MFYsjF3RNfev5Ol87SVCx8FcdDEsyPkMYWE7SVnpMjyEmfA3qYwc9Uezg==;R8/5wN+seB6t2EPdQBWG9g=="
 ---

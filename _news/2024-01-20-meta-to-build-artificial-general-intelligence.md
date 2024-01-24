@@ -33,6 +33,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Intelligence Community Leverages AI"
+    excerpt: "The future of the intelligence community will hinge on how well intelligence services can adopt and leverage artificial intelligence (AI) tools to make the most of the constant"
+    publishedDateTime: 2024-01-23T14:22:00Z
+    webUrl: "https://www.conwaydailysun.com/online_features/tech_talk_and_innovation/intelligence-community-leverages-ai/article_24d27454-3bf1-5c77-9673-89e4f72331de.html"
+    type: article
+    provider:
+      name: The Conway Daily Sun
+      domain: conwaydailysun.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/4/0c/40c0227d-8df9-5f46-bdf8-70ace8624d74/65b0bdd81f8b0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta to Build Artificial General Intelligence"
     excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
     publishedDateTime: 2024-01-22T00:00:00Z

@@ -26,17 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Effortlessly Craft Messages with Google Messages’ New Feature: Gemini Nano’s On-Device Magic Compose"
-    excerpt: "Read Also: Google's Assistant with Bard: A Possible Rebranding Before Launch Google is expanding the availability of the Voice Moods feature, allowing users to visually theme the waveform of an audio recording before sending it. There are nine available ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/21/effortlessly-craft-messages-with-google-messages-new-feature-gemini-nanos-on-device-magic-compose/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 0
-
 secured: "Rx+IuieNZEgoE9ClMYxiM2tZ3ofM507GCcxZndBK4i39UgYloXmixjmPFyl0vOcfgiOvUqvd8+CzLCEMkafF4jx9nkR56LQnqyNBZ2ecA0BRbRexp2oVk26YlgEy/ehFPmUdCEqRReUC79KhzD8hAosDDPL7275rD32Ns7DZ4UJj1Hbd3Jk+AgkB+kUCJ5zC6W464roCywwlUZqGfjQCv14Yqmobiu8d9GxBoag6/cN3wzNeBalo/cxQEugHIXfEMfUGfniIn0rgfi2hgZ6+Xg2tsDaQo44Sy6M9y6jGOs/sH04HhCd8h1//uIDWtMrPprV3WGB7tAXyg0zpR3T8oo66GKqpG2mtsXq0KJwTT2jiBmvB2npplapQca964loyXvvYdDkICpm7vfK2vjtc4C6Q2gWhN11ubJoKhu9bZHh5MEBPYV1k8D4rNXheGhqaIcC7xtkUkswrAPZOeN9BLKtUcAVf/tTkEvJahCaiPNyc4M3h5CIrXpKeQSyQlhRagoqh6oQbk/J+1FW2SekEhg==;z2wGQxzlsyK+vevD5z1i0w=="
 ---
 

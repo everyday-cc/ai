@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-12-13-artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024.md",
+      "title": "Artificial Intelligence, Quantum Computing, and Space are 3 Tech areas to Watch in 2024",
+      "excerpt": "There is much to explore! In this article, I focus on three evolving technology areas that are already impacting our future but are only at the early stages of true potential: artificial intelligence, quantum computing, and space systems. In addition to my ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657915b857ba3a8c688cb64c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1447,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/",
+      "publishedDateTime": "2023-12-13T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
       "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
       "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
@@ -1107,42 +1158,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-slowing-sales.md",
-      "title": "Top 10 Biggest AWS News Stories Of 2023: AI, Layoffs And Slowing Sales",
-      "excerpt": "AWS top news from 2023 included generative AI, Amazon layoffs, Anthropic investment, cloud computing sales, chips, AWS Marketplace and new AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
-      "originalUrl": "https://www.crn.com/news/cloud/top-10-biggest-aws-news-stories-of-2023-ai-layoffs-and-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T14:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales",
-        "AI Hardware"
       ]
     }
   ],

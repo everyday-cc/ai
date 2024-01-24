@@ -28,17 +28,17 @@ images:
 related:
   - title: "Tech execs say a type of AI that can outdo humans is coming, but have no idea what it looks like"
     excerpt: "Leaders from the likes of OpenAI, Google DeepMind and Cohere see a form of AGI approaching, but say that it’s still too early to tell what it’ll look like."
-    publishedDateTime: 2024-01-23T03:48:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
+    publishedDateTime: 2024-01-23T04:48:00Z
+    webUrl: "https://www.nbcconnecticut.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/"
+    ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3200009/?amp=1"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
+      name: NBC Connecticut
+      domain: nbcconnecticut.com
     quality: 46
     images:
-      - url: "https://media.nbcdfw.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcconnecticut.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-chil
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 70
-  - title: "NHS doctors to take part in AI “bake-off” with ChatGPT at Rewired 2024"
-    excerpt: "Digital Health Rewired 2024 will feature a live AI “bake-off”, where a panel of NHS doctors will test AI LLM models on a series of diagnostic questions"
-    publishedDateTime: 2024-01-19T08:30:00Z
-    webUrl: "https://www.digitalhealth.net/2024/01/nhs-doctors-to-take-part-in-ai-bake-off-with-chatgpt-at-rewired-2024/"
-    type: article
-    provider:
-      name: Digital Health
-      domain: digitalhealth.net
-    quality: 56
-    images:
-      - url: "https://www.digitalhealth.net/wp-content/uploads/2024/01/panel_session_ai_bake_off_rewired_2024.png"
-        width: 555
-        height: 330
-        isCached: true
   - title: "Should You Use ChatGPT for Medical Advice?"
     excerpt: "Yes, patients and doctors can use chatbots for certain types of questions, experts say. But beware of the shortcomings."
     publishedDateTime: 2024-01-19T15:00:00Z

@@ -82,22 +82,6 @@ related:
         width: 720
         height: 378
         isCached: true
-  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
-    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
-    publishedDateTime: 2024-01-19T07:09:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
     excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
     publishedDateTime: 2024-01-19T16:03:00Z

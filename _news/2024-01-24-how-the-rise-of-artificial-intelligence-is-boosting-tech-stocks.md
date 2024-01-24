@@ -34,7 +34,7 @@ related:
     provider:
       name: Investopedia
       domain: investopedia.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://www.investopedia.com/thmb/LinjIvuSrJSmljARh_ES19dm-VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"
         width: 1500

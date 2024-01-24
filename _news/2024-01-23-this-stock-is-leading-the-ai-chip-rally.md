@@ -25,48 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "This Chinese Startup Is Winning the Open Source AI Race"
-    excerpt: "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI."
-    publishedDateTime: 2024-01-23T12:00:00Z
-    webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
+  - title: "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending"
+    excerpt: "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ..."
+    publishedDateTime: 2024-01-19T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Chinese startup Zhipu AI unveils a new large language model"
-    excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
-    publishedDateTime: 2024-01-22T09:13:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
+  - title: "Mastering AI interaction with GoDaddy: A UAE business’s guide to effective AI prompting"
+    excerpt: "By intuitively understanding the customers’ business and preferences, GoDaddy’s AI engine provides a substantial head start for establishing new WordPress sites. This includes pre-generated content and images tailored to customer needs. Ethics and ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
+      name: Zawya
+      domain: zawya.com
+    quality: 51
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NmIwZGE1YTEtMGEzMS00/3/godaddylogo-jpg.jpeg?f=3%3A2"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "Starting a Business in an AI World"
+    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
+    publishedDateTime: 2024-01-22T12:47:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Mastering the machines: Giving M’sians a helping hand towards an AI future"
+    excerpt: "“Full AI literacy demands ongoing learning, practical experience, ethics, diverse subfield understanding, and active community engagement,” he says. This is pertinent to the goal of positioning Malaysia as a global and regional hub for AI, which ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/22/mastering-the-machines-giving-msians-a-helping-hand-towards-an-ai-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
     quality: 37
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
-        width: 841
-        height: 560
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/21/2502801.jpg"
+        width: 1240
+        height: 721
         isCached: true
-  - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
-    excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
-    publishedDateTime: 2024-01-21T12:53:00Z
-    webUrl: "https://www.globaltimes.cn/page/202401/1305782.shtml"
+  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
+    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
+    publishedDateTime: 2024-01-20T01:46:00Z
+    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 3
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2024/2024-01-21/e4043edd-2cb0-48ac-b932-b654dfdb5d50.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
+      name: Coingape
+      domain: coingape.com
+    quality: 32
 
 secured: "wcdTdTlIpEO5bzkBle+k62vLKkOIl+5pjRg+I8/fX4CzvkVKKUGa5IBsXmhcE7JEotjce1Tkqnym6YW+1VmWJsKFLEZAkTEoeYg/aifN8+/ODzQgPn4HdmSLeW8fOiWXSVIfcKiWeJ/HUnztPFd1XBSoe3JJYC5BL+jQxs/N2ciw4EObtNL5Vk4sCY1gvIyt1M1VoJwZ/6orKIeqG0P6Wm3tsMQst8crKDRnmKJS4q+VeFu0W5KNeT/iIbM8O6W/UR5MCKtJUstansFibzbppczSc4jZ+mWeKizOzWhf7YbYJFuVxMQdNBVVNynREmiF69leTskO7zbDpn+f1XVpXoDWs/Ra1vk9X04GfBl1Vp4=;UbxhtlPaRs1Nmwq0bT+iiw=="
 ---

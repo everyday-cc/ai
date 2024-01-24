@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
+    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
+    publishedDateTime: 2024-01-23T11:08:00Z
+    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
+    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 64
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "GPU-powered HPC Workloads in the Cloud with AWS and NVIDIA"
     excerpt: "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... efficiently in the cloud–helping to overcome bursting constraints. How AWS and NVIDIA are solving HPC challenges Amazon Web Services (AWS) and NVIDIA ..."
     publishedDateTime: 2024-01-22T00:00:00Z

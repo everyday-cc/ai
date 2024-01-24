@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
+      "title": "How AI emerges as revolutionary force?",
+      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.samaa.tv/images/ai-file.jpg",
+          "width": 850,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T18:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Samaa",
+        "domain": "samaa.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
       "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
       "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
@@ -1042,40 +1085,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024.md",
-      "title": "Shift Robotics to Unveil Moonwalkers X at CES 2024",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / January 3, 2024 / Significantly lighter, quicker, and smarter than the original Moonwalkers model introduced in the spring of 2023, Moonwalkers X have six wheels instead o",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61050400-shift-robotics-to-unveil-moonwalkers-x-at-ces-2024-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

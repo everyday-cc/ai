@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI design startup shuns Stable Diffusion for in-house foundation model"
-    excerpt: "AI designer Recraft is building a foundation model. The move will ensure higher quality images than Stability Diffusion, the startup says."
-    publishedDateTime: 2024-01-19T08:45:00Z
-    webUrl: "https://thenextweb.com/news/recraft-ai-design-shun-stable-diffusion"
+  - title: "AI Art: Leading UK Artists Call For Legal Action and Regulation"
+    excerpt: "The intersection of art and artificial intelligence has recently taken a contentious turn, with hundreds of British"
+    publishedDateTime: 2024-01-21T23:43:00Z
+    webUrl: "https://artlyst.com/news/ai-art-leading-uk-artists-call-for-legal-action-and-regulation/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
+      name: Artlyst
+      domain: artlyst.com
+    quality: 39
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F01%2FUntitled-design-6.jpg&signature=6dbb2ed935c496dab1e0d3f9d9e15cf2"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "3 Use Cases for AI in Litigation Finance"
-    excerpt: "David Perla, the co-chief operating officer of Burford Capital, outlines where he sees artificial intelligence helping the litigation finance firm make more and better investments."
-    publishedDateTime: 2024-01-23T12:42:00Z
-    webUrl: "https://www.law.com/litigationdaily/2024/01/23/3-use-cases-for-ai-in-litigation-finance/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/407/2024/01/David-Perla-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://artlyst.com/wp-content/uploads/2024/01/aicover.jpg"
+        width: 1084
+        height: 600
         isCached: true
 
 secured: "B3mOscbld65pEioSCFpGSP0q69i+HaO+dAJARJWVzo2U969LM7aSDHNa2ywgUQJ0XxReD1JA0MwBfh+VWqT5//fsjbmTMkGpcB6oj75R4at+UrEMYrgwaw9qnMZYuFTYiAyOTuXMXsZ5FkrQBBOx4RtEJU6AZ1DAo9HUx6X88VSZGckPqtSnPhuH3gsAN+zPHkOIhP+IayB50+kN7xEdUV6TWnLHahX/eOxscguMzBd38wq0sL2rrtPHjsRLyBK0vmsKs33waJG3sjZjFgsW9PlaqPofhnwwV+zS4h2DFP11Q/o5M5V1LITEj26HrGDYrBo+XFlOMlzifN8HFnJ6JTq3qaidaS4fwpTQRwEh9XxCe29w3wv1qKFbVBpUzH9xVLNUTOcheKyDpvpZuChgXcmDILWFt3k/gsI9GRqjvD+/3YfPdFzyoEjILGbmBeLMYKj5xB5o0y3BV9iMVamPlcOYKqiiLYQGy25iR3B8lIlbpTWfOL8Vou28eavbOUKiOroy6DTtmzOnXkdqb0ceZQ==;irg2XhYn2t2j6kePoiyckg=="

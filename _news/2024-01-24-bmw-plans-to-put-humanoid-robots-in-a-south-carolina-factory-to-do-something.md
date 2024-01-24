@@ -34,20 +34,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Robotics Startup Figure Signs Partnership With BMW Manufacturing for Humanoid Robot Deployment"
-    excerpt: "Robotics startup Figure has announced a groundbreaking partnership with BMW Manufacturing, aiming to deploy its cutting-edge humanoid robots within the car makers facility in the United States. More companies adoption"
-    publishedDateTime: 2024-01-19T08:06:00Z
-    webUrl: "https://www.econotimes.com/Robotics-Startup-Figure-Signs-Partnership-with-BMW-Manufacturing-for-Humanoid-Robot-Deployment-1669830"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 42
-    images:
-      - url: "https://f1.econotimes.com/2024/01/eizdozq1ui_th_1024x0.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "k/7UPQgcmz7/G3J2DFzvUlXFkpfcSAYKSr/fH3H1xeesBT54JAQete1pIhBdGC2OeWuDpxETkivIUPxpfCUpLZsJyMNVFjU7JqMFsHFnkmNyIGTFMQRELUEVHFEEIe30gmBpMdXhY2I1+ReSz+1FwPnLovJhTwbTcQMy645rJgN2KTQCXw7D8bTF+P1VCcR1Bm/2F39oaeU/qid559irqkiDgHutqcnN4lLf6gR0g3/U2rd7zjgfjXUzWl1WYEzaBr381A6ChanmeLNTRK4DDN9ryXsX0AubGK4D57N4sBuT7h1uVcxBu7sxoM5gbwC+Vw2+bDc/29u7wsJrq5CmeGawUXbNDE3UmZfluvwmLck=;GqJS/6k5lfUZR/KGiQ6roA=="
 ---

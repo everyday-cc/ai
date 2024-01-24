@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerber
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
 type: article
 quality: 59
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
         width: 720
         height: 378
-        isCached: true
-  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
-    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
-    publishedDateTime: 2024-01-19T07:09:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 38
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
     excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
