@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T17:00:00Z
 originalUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-reduces-bioprocessing-guesswork/"
 webUrl: "https://www.genengnews.com/topics/bioprocessing/machine-learning-reduces-bioprocessing-guesswork/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GEN

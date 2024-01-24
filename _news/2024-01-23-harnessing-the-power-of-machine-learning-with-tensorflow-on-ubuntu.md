@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-22T23:59:00Z
 originalUrl: "https://www.linuxjournal.com/content/harnessing-power-machine-learning-tensorflow-ubuntu"
 webUrl: "https://www.linuxjournal.com/content/harnessing-power-machine-learning-tensorflow-ubuntu"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: Linux Journal

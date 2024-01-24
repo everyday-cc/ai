@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in
 cdnAmpWebUrl: "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VCCircle
@@ -40,6 +40,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Can Artificial Intelligence Help Human Mental Health?"
+    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
+    publishedDateTime: 2024-01-24T18:01:00Z
+    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
+    type: article
+    provider:
+      name: Cal Alumni Association
+      domain: berkeley.edu
+    quality: 21
 
 secured: "h7MtyeguB5ppEL21TwYqWQIeQtQrCaRVNixhkEuUV7JDnuVEkvGs9y3sJ08G2CN7YhYcX1a7P2ueBCQ5x0P7CzPS4VjsWLwNO7/aqSZLwj+TVxEiGOLdVrHf3uet7TLOT5OcrHeQJMMAVtxz3vdw261TyVjeW5ZPWRuNA79SXvk9honXxhaMSciTA/7ZxSEbP7LuIQd5gFZeu0pz6UJVlp8kmCdAn+ahYU5Y0UkQOxBy8bnXnFW3m741nP0k5tGiWnBQT0wkGGOLiNksnzrc4PoUhTiwauw8S8Ft1znhRvxpE9c7BKUkLnxWHk0c3QUHW9yDXS76T8odSB4CFDSM4V3JHWJMP20+2Rg6dlX6un0=;NkxaQQijszBNkdSZwnkWCA=="
 ---

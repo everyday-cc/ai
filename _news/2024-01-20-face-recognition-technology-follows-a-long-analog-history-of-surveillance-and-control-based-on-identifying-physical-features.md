@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2782326-face-recogni
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur?amp"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology being studied as a way to identify vaccinated dogs"
+    excerpt: "BOSTON - Humans use facial recognition technology all the time, like for unlocking your phone, but now it's being studied as a way to determine whether a dog has been vaccinated or not. Rabies kills about 60,000 people around the world each year."
+    publishedDateTime: 2024-01-24T22:43:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/02/c03893c5-bcb8-44d3-9b19-c87e49653699/thumbnail/1200x630/9ed86ac5acd8d7c83bf8a08685fda1fb/gettyimages-1147997709.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face recognition technology follows a long analog history of control based on identifying physical features"
     excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit a"
     publishedDateTime: 2024-01-20T09:25:00Z

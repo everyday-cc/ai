@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 410
         isCached: true
+  - title: "Healthcare organizations face challenge of upskilling staff for large language models"
+    excerpt: "Learn how healthcare organizations can overcome the hurdle of upskilling staff to implement large language models, according to Dr. Karandeep Singh, inaugural."
+    publishedDateTime: 2024-01-24T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-organizations-face-challenge-of-upskilling-staff-for-large-language-models.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "HVEN4EdTHefLi/6bFN+ANutCoeY3dttuC0lQqceII8btitFdp87+wjBVX4XCQdAOmIJnJHFnfxsInXKrq6lVNaSFRhekU5aZNQGWj8qG9ehtfZIpIdvrI5EFOg77Z07gvmz1X/sYZoAkwYMkyV123tOThhGzkdvEdrwcKo2/drVTsWLpDjaWQaK5dPdK3hCNUy1jPTYQ/4AKDe7wQj7tORmjNmz+SA3wc4S89I2D2/+wVrVRgd4+IXHREFzECUAAExSpz/hNJ1n4t7gz2JQ3pTj/QGSWiuXb/KePcubJ1VSTR/meJFnoUSHNChEhlSzYCfJV/TNpzC6V58k+O9FcFxHJH1Sn3vdd64/RxX6yC6fMf2NwtTpgDnF5WHLRRm1r0Hyyh8RK3Bx3TH2UwvyX4OhBosp2FVmuFwrTyFUtQMLYbj7mjg1UtQYRbY12IIIYMDJFBssMmduQaVUBAWDzXJy3+4AJQIzm3baGr8kwfMboJxPkvgUFZlciJw4/hJ4CidcfNJcSN0kkKLVTFU9gVw==;jgu0BDay/yoTWTMIy4d+6Q=="
 ---

@@ -1,0 +1,46 @@
+---
+category: news
+title: "AI Is Already Seeping Its Way Into Elections"
+excerpt: "From chatbots to fake robocalls and doctored photos, the chilling realities of AI are already proving to have major consequences for 2024."
+publishedDateTime: 2024-01-24T20:30:00Z
+originalUrl: "https://www.vanityfair.com/news/ai-already-seeping-way-into-elections"
+webUrl: "https://www.vanityfair.com/news/ai-already-seeping-way-into-elections"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: Vanity Fair
+  domain: vanityfair.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://media.vanityfair.com/photos/65b1641bcb88ea648c678e5b/16:9/w_1280,c_limit/vf0124-presidential-ai-02.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "From cartoon lions to channelling dead dictators, here's how artificial intelligence is being used in elections around the world"
+    excerpt: "Divyendra Singh Jadoun, an artificial intelligence (AI) expert based Rajasthan in northern India, gets asked to do two kinds of jobs for political campaigns. \"One is to enhance the image of their existing politician that they are endorsing,\" he told the ..."
+    publishedDateTime: 2024-01-21T00:00:00Z
+    webUrl: "https://www.abc.net.au/news/2024-01-22/how-ai-artificial-intelligence-being-used-in-elections/103310862"
+    ampWebUrl: "https://amp.abc.net.au/article/103310862"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/103310862"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 28
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/7d6217be48d2340e961cc4d9329ef3da?impolicy=wcms_crop_resize&cropH=267&cropW=400&xPos=0&yPos=31&width=862&height=575"
+        width: 400
+        height: 267
+        isCached: true
+
+secured: "/H1AjDl4ikjY13xvw6EadV7zySMXVXijkRWr6A18Mvsvt8f+SVLLLn06D/t3yiKh5reJnsuAN7mEPfJtufbPzjv/plUY8BY6JjHyFlyQ96SRuDdU50FL6QPnusMkYBZ7vPU1B2FZUybvjoea8VMW6tg7yV4FYp0PU6IeMrH73NuZsVqkxnH3NX0es6hp9zTziBkql0USwTbAQghbWQenjgq6ohUL+hbS9IfEY5yI3C6W0x6SMk0+egjTCw/aNaDVMEtKYpmvQGRFSS42GMFOrrsJpdpdittP+ZOe3iXec8dKfiZO3EjfqtukOAqfO46fwk8Q6hWtcHSQsazLyrA0ff5je3Z3r+wnSS43dG1/bgg=;rsy7v+mCV5k3r8aEo/DrBQ=="
+---
+

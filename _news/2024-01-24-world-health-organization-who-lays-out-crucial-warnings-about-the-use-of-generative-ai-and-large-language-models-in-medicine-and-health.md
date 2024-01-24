@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-orga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://pharmabiz.com/Ads_images/PharmaLiveExpo_2023.jpg"
         width: 1024
         height: 410
+        isCached: true
+  - title: "Healthcare organizations face challenge of upskilling staff for large language models"
+    excerpt: "Learn how healthcare organizations can overcome the hurdle of upskilling staff to implement large language models, according to Dr. Karandeep Singh, inaugural."
+    publishedDateTime: 2024-01-24T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-organizations-face-challenge-of-upskilling-staff-for-large-language-models.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models"
     excerpt: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models - SiliconANGLE"

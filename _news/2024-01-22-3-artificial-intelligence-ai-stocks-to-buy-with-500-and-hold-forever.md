@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pres
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 2440
         height: 1229
         isCached: true
-  - title: "Wall Street Analysts' Top Picks: 2 Artificial Intelligence (AI) Growth Stocks to Buy in 2024 and Hold Long Term"
-    excerpt: "Wall Street seems excited about cybersecurity and artificial intelligence (AI) in 2024. Wedbush Securities analyst Dan Ives said he believes cybersecurity will be the best-performing sub-category in the technology sector this year. Similarly, Morgan ..."
-    publishedDateTime: 2024-01-19T22:55:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PANW-Q/pressreleases/23454144/wall-street-analysts-top-picks-2-artificial-intelligence-ai-growth-stocks-to-buy-in-2024-and-hold-long-term/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 12
 
 secured: "AtxTAt8CoEAmMlCcEm+oU+nJNSvxVl5rajUd6tJ3CX+ZDeua7+QYBDqo/DJvigJIeL/UhyCnImg8w0INCO/WAf/OnTpOrwZcjp0eQCz/O8vf2Qvv9RTV5Y5+S5+GQQJwNv/KHNYMJkf1/OVXqhBIvqSozPN1gqquEFb9NXs6kLyShBTEDPynPbTU1eI7sNSBrAzagKHiWx2DdpiYYj+212FANga5aFxZAcz3EnPlgwxvfVERDf4QskKg9pM2oZWeGSE115RxAL2dWQwXPSC0QftSOJZZwzKD4L2UQOa83dIM7VxrGQi1Nw4i/jji7TT06THWaI5avVNqoOdqa7HF6njUtyXbQchFfqFXPdyQLhM=;TuYh45ebf7VbuZ/lVImmRw=="
 ---

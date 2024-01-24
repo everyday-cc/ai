@@ -19,14 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity"
-    excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users \"In today's rapidly evolving landscape of AI applications ..."
-    publishedDateTime: 2024-01-24T08:13:00Z
-    webUrl: "https://www.star-telegram.com/press-releases/article284624670.html"
+  - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform for Added GPU Capacity"
+    excerpt: "This partnership increases the amount of GPU resources available in the Covalent Cloud platform, while expanding Hyperstack’s base of AI & Machine Learning users. “In today’s rapidly evolving landscape of AI applications, on-demand access to high ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/01/agnostiq-partners-with-nexgen-clouds-hyperstack-platform-for-added-gpu-capacity/?preview_id=93294"
     type: article
     provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Agnostiq-logo-2-1-0124.png"
+        width: 591
+        height: 294
+        isCached: true
+  - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity"
+    excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users"
+    publishedDateTime: 2024-01-24T12:14:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article284624670.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 5
 
 secured: "U2GyGxsmJs5xLaN0cQA7g3wnri5SpnItlwvK1KY9IH3iwscIUhP1mLpHIHVnymFlCnzEJq2LvwzsqvXDUcHxrR2MPKYr8fBYQTZpASqpsDDxavbtyMcFnuVpqOW5dmsAIv9qKnprKXh+VSXTgbaRs9MsvQwS/t423NZonIETUowhfn6OeofUHIKjgXvN1ZN4+zFBEtbdLI/bHBUvys/HTft5SgQlclfZwHUL9JpMFJZTPHlnXmnZwuQDnJr4WLUaM3SyKF9WLt50QN944qAF6ApUPHBJJEAYWW7iIUP2oB0VYbe8iUdcAc1DJ0ixKDW3c01DmCB7x277z7IkbfkfecjKzR2ynNrfGsIPGI+Y+Hw=;cyjrrAhEQgSe2aTEyFy8hA=="

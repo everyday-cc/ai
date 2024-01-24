@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-t
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hans India
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle's new offerings bring AI to your data, and manage it too"
+    excerpt: "That includes what Oracle calls \"super-clusters\" of Nvidia GPU chips on which Oracle has spent billions of dollars. \"We're essentially bringing AI to the data,\" said Erik Bergenholtz, Oracle's vice president for strategy and operations, in a briefing with ..."
+    publishedDateTime: 2024-01-24T18:12:00Z
+    webUrl: "https://www.zdnet.com/article/oracles-new-offerings-bring-ai-to-your-data-and-manage-it-too/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Google Bard to adopt Imagen as its image generation tool"
     excerpt: "Google Bard is expected to adopt Imagen as its image generation tool. That change could represent a big boost for Bard."
     publishedDateTime: 2024-01-22T18:30:00Z

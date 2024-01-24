@@ -113,6 +113,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
+    excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
+    publishedDateTime: 2024-01-24T18:29:00Z
+    webUrl: "https://www.extremetech.com/computing/google-axes-underpaid-contractors-who-helped-train-bard"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "WMTVfp+cA7pJYamAcGCPccaMOKNTZsul2cF4AsTpCoJwrvvBNRwb/Hrtbfa9ftmPpvQ7l/pBwsxd5iTNBd/a5PXsd6RHkTBSkTBdAH96fiEltWfGicrxhdXx/KNMUlkSbhTlSfqAPufSeemx7zsjsJAYHQwHdGNxGh0FxyMnL7KKHIOgC7rlarWG62/6giNLYHE/pg7ESXJf7Thpa8MgAgjKhs9qmeuZlWFFgMvhPfFYVdxOgYNf4yRAUQjhOdurFSa7se6VuZqI/sLEqf+iPnwAoCMniEcrYnQLtpmIiz0v4xyEuHwi/m6nWbBSbGyGD9HQRasAASM9MP42WvAaQxbnBglK5IhWjkSHQvgl+FWUBKDfiBxDKqXz5vtPXMJE+0dAn9AZDJ5COwz63308cYTA5/zHrDgH67gDbO+DmynZRRWPxQwHEF/yBdKB+NvxRSGM8RTXGfbIKUGwowoHHf1QR/nBD8NgWSq9axQqH3dwIi4xVkUkbvhawoguUpkL+VEcc2Gv6kMn9/jkgh1/Vw==;szhPDwt9qoxgTycJbz6pCA=="
 ---

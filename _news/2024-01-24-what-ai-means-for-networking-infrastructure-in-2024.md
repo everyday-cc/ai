@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-mean
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Poised for Continued Dominance in AI Infrastructure, Analysts Forecast Robust Growth"
-    excerpt: "Raymond James reiterates Nvidia as a Strong Buy, raising the target from $600 to $700, backed by its dominance in Gen AI infrastructure. With new GPU launches and expansion in restricted markets, Nvidia is expected to continue its strong revenue growth."
-    publishedDateTime: 2024-01-19T20:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-poised-for-continued-dominance-in-ai-infrastructure-analysts-forecast-robust-growth-1032980964"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Nvidia-Logo-And-Sign-On-Headquarters--Bl_0.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Edge AI could catapult growth for chip manufacturers in 2024"
     excerpt: "With the potential surge of Edge AI on the horizon, many are wondering if it can catalyze significant market value growth for the top global semiconductor companies going forward. The premium content you are trying to open requires News database subscription."
     publishedDateTime: 2024-01-22T23:59:00Z

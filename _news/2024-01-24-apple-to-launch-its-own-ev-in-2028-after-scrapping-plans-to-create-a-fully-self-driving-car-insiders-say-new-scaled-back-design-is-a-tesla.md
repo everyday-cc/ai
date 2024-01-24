@@ -108,6 +108,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Apple's 'Project Titan' self-driving car project gets rethought"
+    excerpt: "Following years speculation and setbacks it appears Apple Inc.'s legendary self-driving car is being reimagined as a partially autonomous electric vehicle (EV). According to a report from Bloomberg, the Cupertino-based tech titan (Nasdaq: AAPL) has ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/24/apple-project-titan-bloomberg.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "MXyVPke/Iqkt7iU4CwFLScfgCuBVB5hNMhWfn5NlCq4bfaxt1cpI6XDYb8q6Dts1m4wXHSLxsA8QzfxZn5CaC2wNa9l459AdOIW1WSa8vrLvnufD8eU9sfSB9KWqW7lTw1xlG/VVKcvPxmJ7uRQjupICTeBbOIkhbjiQDBCy6RSOPgLznyEDcqDsr6QxwUS8m6zLhS1DsfgRjThwRTG7Ts7/7RH6LaGaqcA4rcQvnU9xF+qEHWGP9YqcGSSkKVMIHNjoY1dHaWs7eu8NlVLEdZakdPP7Oa+Doz0IPLDWWmnfYpSBw7U6kaq+0B+uquIhPYCQZIo2uUmAb1gAFS8zyYpGxfcviNeA2DBn2Ib73RY=;7KNCjJwlnX05Ck+plAd45w=="
 ---

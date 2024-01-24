@@ -41,6 +41,15 @@ related:
         width: 712
         height: 415
         isCached: true
+  - title: "Can Artificial Intelligence Help Human Mental Health?"
+    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
+    publishedDateTime: 2024-01-24T18:01:00Z
+    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
+    type: article
+    provider:
+      name: Cal Alumni Association
+      domain: berkeley.edu
+    quality: 21
 
 secured: "sMCxeEt0vFTtyZC2pC5e06ZWrBcQF+FJ2p4sjl1dpOzNdOF9fLYgKThVeMqBFgJ8aKIyRUb5bUYfNWRpBMO3HzVP+EQxwst2eLsW+pU06EUse3pfdjmg0JJFPHa7j7zqL1zya7cuO1Z5jq3sO3AVLNw62bEihhinM4osa5dR4clD12McGw0nA2ERSWACwBzkNDH4l0F9bxwfN/03i6whB4jE9HUBD6Hr3qCDgg39oZji0DfKScccWkbnaEDTqxOi1jw7G7s6S7l5fazSo0JxbcLtqCf4UY0XKNICKe0cTEXHeBHDhRbBRN9MLLHeaHkxx6HDggHPBKhEAvIA7jwoPlIQP2IxmkCBNok4ME/D/6w=;PTrzci4KQXXaFrEG4T5blA=="
 ---

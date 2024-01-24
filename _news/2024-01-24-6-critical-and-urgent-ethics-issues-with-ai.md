@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T15:43:00Z
 originalUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/"
 webUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

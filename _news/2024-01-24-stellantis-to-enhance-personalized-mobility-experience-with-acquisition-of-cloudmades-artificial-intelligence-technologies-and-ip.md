@@ -27,6 +27,17 @@ images:
     height: 8534
     isCached: true
 
+related:
+  - title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
+    excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
+    publishedDateTime: 2024-01-24T17:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
+
 secured: "I7SOQ8brDF+fsymLK0FnF/s2HVlWBu6oMvEj9VM9eloykD06NitHMFG278tXpjCuy2649TFaXifzZVFTHF7KXRiMb6yKE27GjkjteQgpSwEWKobV+V84toTX8PSxF+gUIJUybWNDKuDxa7ObIEHiGyCOHm8nRQwgMQoH+6eZVBR1NmAnmIRgO+PIw2+MqG8gP42AXlhZUPB5HOMf3ieBeHpnKfBSHsx3eASzQeUESyoYYG7IDFMqckMI617wp5hNl1L0wI6Jg6JUeLFZwJJq9kNGGdfdCHsdqj3Z4mj7nl+Gei++R5FC2LBFf46Hwawbef5Pyz+FhkHAZoTWJ4HAbCIzYNlefhI7ny7IF1s9COk=;DUfuREn6j64zySnqfgWBnQ=="
 ---
 

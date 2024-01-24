@@ -41,6 +41,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Davos 2024 recap: Climate change and AI take the cake"
+    excerpt: "spoke on how AI is becoming more streamlined and accessible, however, tech firms need to reorganise their data centres to stay ahead of the curve. Concerning new developments in fintech, a report on the future of global fintech was launched by executive ..."
+    publishedDateTime: 2024-01-24T17:50:00Z
+    webUrl: "https://www.finextra.com/the-long-read/924/davos-2024-recap-climate-change-and-ai-take-the-cake"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "GjLJdGwTI3eym64aZlq8Ky35y43HtP7zQ/s0gD+eNMh5LDJOqE4nNbSWqAhXb+MWWG8HNrVJYv8Uf/ydSNrDEY1QAUUj29u2J8gglwrflRwthFCC09hAOTgMqzakaN1zSkGcoKcROa8c4ocfdizdnNgtMiVo8RAmKbqDj1a7yEJvJuTkislFjf+RxoWSOXYgmbi1GgcYi3aVxD+MHPplpIuYvyFu57LC89Cf+KFM3PSOojOjjrDtSBY+Z+71FwVoFbgJ/8G3vlLjpVQ3tiPZF8c064q1M+X1eTaUWi+8SKZYy2apyWfp8uPJpFPikui0eeTjHomwU0wFs/iCup6rpYIvijpBK5P3YwN6h3JnwYU=;1aT2nDr1SbhQrkaznGRHmw=="
 ---

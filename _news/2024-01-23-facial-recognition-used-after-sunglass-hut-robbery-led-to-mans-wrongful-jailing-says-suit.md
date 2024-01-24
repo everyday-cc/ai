@@ -3,14 +3,14 @@ category: news
 title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
 excerpt: "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas"
 publishedDateTime: 2024-01-22T23:22:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
-quality: 66
-heat: 106
-published: true
+quality: 64
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -23,7 +23,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3"
@@ -48,6 +47,31 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Man Sues Sunglass Hut After Faulty AI Facial Recognition Tech Led to Wrongful Arrest"
+    excerpt: "Harvey Murphy was arrested in October 2022 for the armed burglary of a Huston-area Sunglass Hut store after a facial recognition device identified him as the burglar. The only problem? Murphy was in Sacramento, California at the time of the crime ..."
+    publishedDateTime: 2024-01-24T15:13:00Z
+    webUrl: "https://reason.com/2024/01/24/man-sues-sunglass-hut-after-faulty-ai-facial-recognition-tech-led-to-wrongful-arrest/"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 47
+    images:
+      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/01/zumaglobalten922832-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "How did facial recognition technology send the wrong man to jail where he was brutally attacked?"
+    excerpt: "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail."
+    publishedDateTime: 2024-01-24T00:28:00Z
+    webUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked"
+    ampWebUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 41
   - title: "Man falsely accused of robbing Sunglass Hut in Houston suing companies over use of facial recognition software"
     excerpt: "But Dutko said Murphy was nevertheless charged with armed robbery after the head of loss prevention for Sunglass Hut's parent company coordinated with Macy's and the property management company to use surveillance footage and facial recognition software to ..."
     publishedDateTime: 2024-01-23T14:55:00Z
@@ -92,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0PS+GYWFGYhN00Ae6mpaef1Y7J0wQyaCN9iQX7MQcRdeygfy/WEgbfAL3y3wB+Q5HWiSGRtgrYsBP4+HnWWc6KATEZfxci0NrObshqDH0U1OK/fHns4TW7TlcddAtcFfk5UAo4kEtPk+2DxM+J3HVFROIyHCTiEaz9ZuCnXHaeOX44zrmq4mUYbL81P+6ggUgrPvRVCGc3YmJVnvRL58En4CaGSAtE4JUlqOoyXtQJweqy0asLBZ2mdYfs1/VkUunFPXWv7fSbVvGKf0WVMQ7e3eh4/czG5zbf1976aoDLP/bSzCqPymmNWpveMxlnDgAWCM5iQNkvl8ckXaNdvg1ZRJg3XQL1yqUgTUDsuPA8vmoCwFFdJNrLTe2x7q1Bx2Y7WmOVfsPvgp8skmoV2TgXseDZJZJvTE9qv1B/tKzJw4t1AhZDX881xV4Ov9NyWwnht66p4Pga3dv5PI45Y+Y+4Kv3pQ6GEqqsDCJe4SnDeliT8HqG3CMJxbVn9CGHbYTn+bpWQebgIjW2w6EqHmjQ==;t5sKuwmDDa9N8xseDVZFqw=="
+secured: "XYpnjB0HJ+HwRe1HtOL/vF+IptP1gO8DpL8mrQhJlsA7o9ecZDFhQqZt33pgY5rJzMS+TZhpzs4LZQyvy1a214y39IsNUlx/aYxL0keAXiOYAP3QBpfiNYpMFJXS6wzpguwUz+7XexrYYJHJVWTNT7rtWiduzSAycPNaaC1dITJcRpLxEV9uJXOhQhWge0LN4/iN5gCr1mCYJFgEHaNfdiMsx9JpSRwAWi42CSlDH7tPI6/OE5yICiTbBWP9gMpAgJh1AgL1eP6GCGLfmcsh884b3NIv1+Oty/oJDC0deYBwprJBh1AmrX+kqQ+TT6L7GoCoy5AbEC9cPkSWyDXpzpEYyPwXlh8MqobUzXyDeXo=;dHIyu/+HIzFyqPaUsqNPiA=="
 ---
 

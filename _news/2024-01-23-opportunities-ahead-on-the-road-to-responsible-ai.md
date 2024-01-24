@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Responsible AI development in the shadow of profit is a balancing act, these experts say"
+    excerpt: "The complex interplay of technology, ethics, and governance in AI development necessitates a nuanced and multi-faceted approach. The creation of an independent body of algorithmic auditors represents a significant step toward achieving a balanced objective ..."
+    publishedDateTime: 2024-01-24T11:42:00Z
+    webUrl: "https://technical.ly/software-development/ai-ethics-profit-conflict-solution/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 10
 
 secured: "2r9EFUtpWxJhWtwNH/22se5WaUtfv5034uCChl4jmPLehN577t0ni9tZ9PClN0YCHBs9nL6QbR9PMV17vYoNDhIrJvBQSuRK4wKHDwI0ZZw+oBbwID/Qjq8OZpAetXp/kfXDDRGYrxxLnJYoVnL0td8phk1ohlvjxl8f4lf625ROtt4HeFw59SJrh10R5bGdp0fS3qE1SyIlkXfoahQFMFoUSVVxMshyA3SoIaIgviHRHkHTnBgAJrhdIkg52DepWGax8I9zlXypmAgQc3tD5dyYGGB6KFhawPJ4vtYMh0wG9I37UiPfi4Ot2zg2K3JdzZU6qlYMHYvp5DgUsVOdIPN1mh0bG+6/66BZGqqnzMrutMxXeQv2LJaczIYd8Yyy0lGTcaTdmnC7p1YHhcmyR0Odozwbd9wmpSxiA9VeARZMTAxlsfVMLcsBPv4xXJFMqSpV0DDDX6ICDixrfYLvLOoHaln0l9X17EMZ5xSRu50eclPE1TpZ+iMagPnSo1+z3oQclebyWwwq5lxSLilw1w==;LkSLFJJcpS9JmcuW7QTGBw=="
 ---

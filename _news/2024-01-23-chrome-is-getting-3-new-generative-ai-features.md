@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -109,6 +109,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Apple Plans To Launch IPhone With Generative AI"
+    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
     excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
     publishedDateTime: 2024-01-23T18:29:00Z

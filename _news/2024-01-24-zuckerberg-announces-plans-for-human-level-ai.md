@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
-    excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
-    publishedDateTime: 2024-01-19T19:17:00Z
-    webUrl: "https://www.djournal.com/news/national/mark-zuckerberg-hints-at-metas-ambitious-ai-investment-plan-9-billion-on-nvidias-h100-chips/video_f0b07677-05da-5594-817c-f586a215ce1d.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 42
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
-        width: 720
-        height: 378
-        isCached: true
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z
@@ -92,29 +78,6 @@ related:
       - url: "https://www.cweb.com/wp-content/uploads/2023/03/shutterstock_2179427777-1-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
-    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
-    publishedDateTime: 2024-01-19T18:29:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
-  - title: "Artificial general intelligence — when AI becomes more capable than humans — is just moments away, Meta's Mark Zuckerberg declares"
-    excerpt: "Mark Zuckerberg said Meta will have \"an absolutely massive amount of infrastructure\" in place by the end of the year to prime it for training an artificial general intelligence model."
-    publishedDateTime: 2024-01-19T18:11:00Z
-    webUrl: "https://www.livescience.com/technology/artificial-intelligence/artificial-general-intelligence-when-ai-becomes-more-capable-than-humans-is-just-moments-away-metas-mark-zuckerberg-declares"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 7
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DW7RQ2KvkbjTRApQMuSWan-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "myP1tjePCw9r4GlggQWFj7F7Msgf0I67Wvd7O8u3HaDmRwGt2h91uGL2uPqRajz1d88eKrhsC7a9FUrw5V5KV1CgEIm4JGUHrLGRG38o0rwnT0urXW0OJk/sNQKn45ygfVc8/m1xCuLVyhjT+32nLQDmbDz1oaDyRCTVYByzi7CrXJgv7To225LTL+jeXef7LMcOSHl1cVNRnkOv117VKgZW+91ZHVN7Z3lQU7gk7Kd78oJq46mhAURz2KNQxZPGAePu4pfs8lLzgrFK4rwWFNWLG/x16H8/1NboSg6BDoIEln0T5RNV8tpo+TEtijq5knrl+SvajjE/+ywA/6/p4Ukbb9euTqgyePrvK9OZkiLKilS8iu3BphlkBa7sFA9XMzYn+zf0bnlAFRBcaEx1x2RTcDlh/Ox+QS8MhGMhqmqcF7ttAqmNW7XdEf75XtdSNXZR2ZPVb3RISwosZpo5SNCRa6RyVmAIzSu5hQ53a3YXUjLWmthqTZOTeEJ03ibn8cp48oC0lXwMYiwB01ChxA==;9zHVGut2IIlHpckgUgfXew=="

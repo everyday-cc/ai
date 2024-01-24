@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-t
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
 type: article
 quality: 72
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: cnbctv18
@@ -27,6 +27,105 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
+    excerpt: "Also Read: Microsoft Represents Solid Reacceleration Story in 2024 – Bank of America Analyst Raises Forecast Radke expects a solid beat and raise and notes improving IT budgets, partially driven by generative AI where Microsoft is in a leadership ..."
+    publishedDateTime: 2024-01-24T14:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microsoft-shutter_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Microsoft is building a team to build smaller, cheaper AI models."
+    excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
+    publishedDateTime: 2024-01-23T22:45:00Z
+    webUrl: "https://www.theverge.com/2024/1/23/24048489/microsoft-is-building-a-team-to-build-smaller-cheaper-ai-models"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
+    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
+    publishedDateTime: 2024-01-21T00:00:00Z
+    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
+    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
+    type: article
+    provider:
+      name: The Daily Item
+      domain: dailyitem.com
+    quality: 74
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
+    excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
+    publishedDateTime: 2024-01-21T21:14:00Z
+    webUrl: "https://www.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028"
+    ampWebUrl: "https://m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
+    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/economy/pro-research-wall-streets-indepth-look-at-microsofts-ai-leap-93CH-3279028?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 74
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Microsoft: Azure Taking Share With AI Push"
+    excerpt: "Microsoft is positioned to benefit greatly from the AI revolution. Azure, Microsoft's cloud platform, has been a major growth driver for the company, fueled by increased AI consumption. MSFT's expansion of AI to its other products and services, as well as ..."
+    publishedDateTime: 2024-01-24T04:19:00Z
+    webUrl: "https://seekingalpha.com/article/4664547-microsoft-azure-taking-share-with-ai-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
+        width: 594
+        height: 370
+        isCached: true
+  - title: "Let Bears Fret About Tech Valuations, Analyst Says: How AI Leaders Microsoft, Nvidia And Google Can Push Higher"
+    excerpt: "Microsoft is expected to deliver year-on-year increases in profits and revenues, with consensus forecasts at $2.75 earnings per share, on a 15.7% surge in revenues to $61 billion. In the previous quarter, it delivered a surprise $2.99 EPS above expectations of $2.65."
+    publishedDateTime: 2024-01-23T21:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/let-bears-fret-about-tech-valuations-analyst-says-how-ai-leaders-microsoft-nvidia-and-google-can-push-higher-1032989401"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/bullish_0.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
+    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2024-01-22T23:05:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 62
   - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
     excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
     publishedDateTime: 2024-01-24T15:50:00Z
@@ -50,6 +149,52 @@ related:
         width: 1260
         height: 840
         isCached: true
+  - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
+    excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
+    publishedDateTime: 2024-01-24T17:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 41
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2024/01/OasisSmall_Context_003_Web_Carousel-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Cushman & Wakefield Leans Into AI With New Microsoft Partnership"
+    excerpt: "The firm, which has 52,000 employees across 400 offices, will use three different Microsoft AI tools: Azure OpenAI Service, Microsoft Technology Centers and Copilot for Microsoft 365. “With this next generation of AI, we have a unique opportunity to ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.bisnow.com/national/news/proptech/cushman-wakefield-taps-microsofts-suite-for-ai-tools-122541"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 34
+  - title: "Microsoft forms advanced AI team dedicated to developing OpenAI-like models but at a smaller and cheaper scale"
+    excerpt: "Microsoft has already assembled a team to take on this new challenge, which will fall under its Azure Cloud unit. Microsoft's CVP, Misha Bilenko, alongside top developers from the company's Research division, will see this project through. The small AI ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-forms-advanced-ai-team-dedicated-to-developing-openai-like-models-but-at-a-smaller-and-cheaper-scale"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/NFzzMK2Dge3jNDmviSZDgB-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mastek Joins Forces with Microsoft to Transform Industries Using Generative AI"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud transformation partner, announced a strategic collaboration with Microsoft. The collaboration is focused on pioneering innovative solutions that harness ..."
+    publishedDateTime: 2024-01-24T10:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240123111601/en/Mastek-Joins-Forces-with-Microsoft-to-Transform-Industries-Using-Generative-AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 30
   - title: "Cushman & Wakefield Collaborates with Microsoft to Enhance AI Technology Platform"
     excerpt: "Cushman & Wakefield (NYSE: CWK), a global leader in real estate services, today announced the firm is working with"
     publishedDateTime: 2024-01-23T23:17:00Z

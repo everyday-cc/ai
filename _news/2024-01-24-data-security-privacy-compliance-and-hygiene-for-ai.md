@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,15 +32,29 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating data challenges and compliance in AI initiatives"
-    excerpt: "Additional checks could involve outside audits and ethics boards made up of experts from different fields to oversee AI initiative development and deployment. By putting all these pieces together into one framework, organizations can do a better job of ..."
-    publishedDateTime: 2024-01-19T17:32:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/navigating-data-challenges-compliance-ai-initiatives-2024-01-19/"
+  - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
+    excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
+    publishedDateTime: 2024-01-24T22:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240124609493/en/Protect-AI-Announces-Guardian-A-Secure-Gateway-To-Enforce-ML-Model-Security"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
+      name: Business Wire
+      domain: businesswire.com
+    quality: 48
+  - title: "The University of Texas San Antonio Creates a College for AI and Cybersecurity"
+    excerpt: "OpenAI CEO Sam Altman argued that AI is good for education and this makes sense. If an AI can help a CEO dream up a new business plan, then it can certainly help a professor with routine tasks like pulling together the right topics for their course syllabus."
+    publishedDateTime: 2024-01-24T18:01:00Z
+    webUrl: "https://www.inc.com/kit-eaton/the-university-of-texas-san-antonio-creates-a-college-for-ai-cybersecurity.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1516287974_536738_fmgdao.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Uh7ReIUjnkR1sjBZZnZR1UX5GTNAt4u44/K1spPZWqR/pSMqMXTr6QN+G2Wgd2nk2G6jcbZ23OwSlEURiZdy+J25zKOU6ngxlJUEf7FeheFCWm+X2xh4K3QRgNUmq3noV5owuJHPsoTMZd0pglDEnPMlISQZ5V2SOB6Ky1oOnJ22dlX6/M9800L5lKCshSyFgF67IWz32TKBkShXPF7XbmWKMBhY/v8e19j0mZ/Z0YKb9KuevYVRlFG3hXI34FEcI38kW/VqQEEA4g0wb1MKDM2uEThBI8aD8pgx301k7bxwS0CehRsDmYkZs2GuG2+Dfr4DaTR9VFghB9XLEAAwxRcrOylyrjdOcP4c9l2CiY0=;6h5AcElQc44BWlReNsQ31A=="
 ---

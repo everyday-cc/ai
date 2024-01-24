@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T09:35:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/finovateeurope-2024-the-future-of-fintech-unveiled-with-35-live-demos-and-100-expert-speakers-1032992588"
 webUrl: "https://markets.businessinsider.com/news/stocks/finovateeurope-2024-the-future-of-fintech-unveiled-with-35-live-demos-and-100-expert-speakers-1032992588"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Business Insider

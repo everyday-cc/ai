@@ -97,6 +97,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Apple's 'Project Titan' self-driving car project gets rethought"
+    excerpt: "Following years speculation and setbacks it appears Apple Inc.'s legendary self-driving car is being reimagined as a partially autonomous electric vehicle (EV). According to a report from Bloomberg, the Cupertino-based tech titan (Nasdaq: AAPL) has ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/24/apple-project-titan-bloomberg.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
   - title: "Apple to launch its own EV in 2028 after SCRAPPING plans to create a fully self-driving car. Insiders say new scaled back design is a 'Tesla Me Too'"
     excerpt: "Apple is planning to launch its own electric car as early as 2028, according to new reports. The tech giant had originally intended to create a fully self-driving vehicle as part of a decade-old project dubbed internally as Titan."
     publishedDateTime: 2024-01-23T20:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/meta-eyes-agi-with-llama-3/"
 webUrl: "https://analyticsindiamag.com/meta-eyes-agi-with-llama-3/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Meta LLAMA 3 Will Be Opensource AGI"
-    excerpt: "Meta CEO, Mark Zuckerberg, is saying that the LLAMA 3 large language model will be providing open source AGI. Zuckerberg feels that people will wear glasses to hold their connection to AGI. Glasses will provide the video and audio connection from people to ..."
-    publishedDateTime: 2024-01-19T19:03:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/01/meta-llama-3-will-be-opensource-agi.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 24
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-19-at-4.54.17-PM.jpg"
-        width: 1318
-        height: 976
-        isCached: true
 
 secured: "ZTu59sqMHfEX9Q95hSNdiRdJAPjq7r7Id8R2GdHs3lw0wTozZ6psfwgS4myJN3Ge0e3pY6Am6fi/jDYrRRlMswLEYUbSozv4BlCKzJz7NGrwByz+WMe2DGlDYGeu2Y7dx0zqWEIRZTdWb0eSPYdEONnbBDy0Ra3XUSQvuhMlYCp3goKDu0q+USO389NaZbI7S613rnTtgalPngjh9ueLYbfJPt5JwHLvM1ouiEhqUnkYh1nhkAZPB3gdJJ2/up2OKFtUqJkdo1gh73xw2v4G/8PrZdaWib3277lQ8wZlL6COPuzJL/LHhz+rWK8hBTwplxf0ow6yFszy739/NsoMnz1Lojrffhy4E4Qsl4UIXDER5Wgw8mYWbIbRMv3yW0SJC98ILfgSHjqVL4tY6UDqSaFpLwTqArtSS11brMYtT8yolfL2ckAN4cY6HUbh3RYIoVnArs5zj/IwLWBCrAiJO78rzpB5I2aHClYD0vclSa23FVXq2BwIBIr+aJ9VGEe/96ikBOKi5LjO8PDsSrk8bw==;kLSfJGE3+LoSQUf6sZDrPw=="
 ---

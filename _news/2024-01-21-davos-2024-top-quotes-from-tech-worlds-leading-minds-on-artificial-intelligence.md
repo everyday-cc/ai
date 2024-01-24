@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/davos-2024-top-quotes-fr
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Indiatimes
@@ -41,6 +41,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Davos 2024 recap: Climate change and AI take the cake"
+    excerpt: "spoke on how AI is becoming more streamlined and accessible, however, tech firms need to reorganise their data centres to stay ahead of the curve. Concerning new developments in fintech, a report on the future of global fintech was launched by executive ..."
+    publishedDateTime: 2024-01-24T17:50:00Z
+    webUrl: "https://www.finextra.com/the-long-read/924/davos-2024-recap-climate-change-and-ai-take-the-cake"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "aj+lpc7LwVrD5PuK02bDnTBY0S5Fc/qfQKxV+Fy3ZbLGhEVitGTVvn5/L5VeFkgu9d0lswgApKmh+QZRo0dkBSzuWIQE7X85zU1AlUi0QipCvXqWbUGz4IQabgHeCi3K1KfrnWBsh02d9xaz+exNF68IAy79uHcMgFGBHCcjeVTpwAG9cEN8Bg6pLsrhIh4zWgChGQPak8RlfQo/fR85Y1sSesSrC/20TnKmvSnLSHV127tCXTJYKmo4FcGq7vN7cyaoq8HGn2dRcbJXK9OJ1aLtVat42eQFFFYQSD16vqQt09xPv1czHMnWlsoaeFL5MB8p1MpVtrER+HWXU6aqpwWNm+TM9/MNOBYtp0uF1JnsX2SW1evXd//uEoRMQFL7S4seUnhIM4x0MehUgOpQm/KJqgO2VCGVm/XnzjsNc8tGS7+wvG8yEId96SglKMXBQ0bJYSjY63qy40E+xcQIxOxq8sI77pRkc63WrZ25mcXQXWdEJTXgO2GScn8Rz/hqEdKrRvyYFaH7SdrkqTNIww==;j+2Mbr+62eIxpqV7bV7+Ug=="
 ---

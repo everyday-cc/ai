@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-24T00:00:00Z
 originalUrl: "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/"
 webUrl: "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/"
 type: article
-quality: 66
-heat: 76
+quality: 68
+heat: 78
 published: true
 
 provider:

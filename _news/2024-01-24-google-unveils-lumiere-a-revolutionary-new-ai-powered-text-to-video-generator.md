@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/300937/20240124/google-unveil
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 840
     height: 560
     isCached: true
+
+related:
+  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
+    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2024-01-24T12:57:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Google’s latest AI video generator renders implausible situations for cute animals"
+    excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
+    publishedDateTime: 2024-01-24T14:45:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 61
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "v0Jd+snqqj3+uHCrK9Pq+1ST35wWZXhw6z6lLWNLFpZKGvEGq+SY8wdBP1FmNJYa6XQhCdaIdTr6KMkQwOScuZ9kJWwtnrSk0UnYberZSdYt6ijWJE4MekiQvRASg5lHhHDNgpoeezq0vWu5bioFfOcznUgPVYSckvAy4X/wb/P5wIJhM0Wpci9EGOD01oppPJtRWAzfdg3fhCP88Zi0RdI0GfDRuLkkeCdsVKH4hLS8RX4LhmcXiQ8lcHmJHFjDDxd5oC/O6EAz3LSFDSWHS6HmlCYJkH5MNEBDX0kTPctmyuc8HQ1wxLuqzWa/rx1n2iqlSNCNb3ZVWFqeGjym2nLI+R4QqoWADGQmm/nq8Zg=;xgLWVx8O7mFS/l3k60O6Ig=="
 ---

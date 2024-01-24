@@ -2,14 +2,14 @@
 category: news
 title: "AI will make scam emails look genuine, UK cybersecurity agency warns"
 excerpt: "NCSC says generative AI tools will soon allow amateur cybercriminals to launch sophisticated phishing attacks"
-publishedDateTime: 2024-01-23T23:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
-webUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
+publishedDateTime: 2024-01-23T23:05:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
 type: article
-quality: 59
-heat: 69
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -46,6 +45,6 @@ related:
         height: 500
         isCached: true
 
-secured: "YRpqIj4MKTAf+kFzq+akbbwEepy4QDVZWGv8A1l64xa3hetPlIFHQm+GGzGzS4/08BrArLtZ/p6ikXn+p5gDgDL0sRfmA0jfehVEr5QGK9llO71o/bElZIv1ZpWMbRUv/t7g04kvG12tukoXlOx9qwYWj8GmaNeQzED8KZ3Mb+ej7yCOPt/s15Bo6vln6rzyfdCMBquaXpUURtOIAbs02sdQ8XduX11hbWuM28r8DhmFntbtLOTOwZNfexJNZeOT8dpcGA/SJs7gKlaU0jaMDqqePw7tH0B0CbdOPhxWaN9C9djkqcskMuZ8IpRlYbwZ2PFVXFB4TVQ/rkMorymINeFqze1UDinMb9xkhwMGGurL//ve2q5aIuXa5Yvfq/51RQIGqB4px2VGDbdHFThYr+lkrYoXb7Ue+pZuxAhji6B4UjQ/kQog2sHTQjQJHNjLdLCYWUffP9y1CG5Xlr6q2JvvYrBOWMThdfkCOMV0TLBFjxbxbIXJHJ5W2L0+XSawzL56K6AYh5Ki9RnqaO7CMw==;NFKuCWJuApK5TqbGnfjP3g=="
+secured: "oJP81s4kih2HH0yqSsLiT2SxQY14apsDgdBLqRu75CvQEPisTvE2up8mw27FFle9f/HSDdNl7pKHEtE5WTCrY0YwnANm1SUx9GZ6e52jJZNd7qurulIZbmUFvyvUK53d4+njW/l4FMcC3sDIhjR5XMrO/FkYUoUSZKmb+0SBW/KC8aZfNalXwQhGxKdp+xoknzntIAiS/jo5A7QVAAT+Ngw9SozItAy2ZRDLsP5xafYegZrRILLq8jiePtVluZgsY2O0tcqY4lm8ETLwsFRteBHgitMNah8V+KCfrda0csE+NZb3V//hurXKSt0gLtE+FBbWqjO6y/gZF0vfLadKPJgKxBxW9yKvsh50UgDjvK8=;6WL0HmSkZuA3qzvjZVS/cQ=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "Why AI needs to learn new languages"
+    excerpt: "These are passed to a piece of machine-translation software developed at IIT Madras ... ChatGPT-4 is much better than ChatGPT-3 at answering questions in non-English languages. However it is done, teaching AI to speak more of the world’s 7,000-odd ..."
+    publishedDateTime: 2024-01-24T14:01:00Z
+    webUrl: "https://www.aol.com/finance/why-ai-needs-learn-languages-190103985.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
+
 secured: "RhzgoW2o01CmzRpNU0WmvaIpltVi34jJnjxj0e3fFvlXSsD3GjqAPDox0rOtseAZw74tbf3qBaYZT4swfLj7zn47Rs715laD4CWNPP4n6W9h7Dd/rFtGQRLeZyBmARmTgwwbB8wSzS7rQvecwQL6ESNgn57D9fDWe1/ycdKG4TYuu087GDM5piWOWYW9oSAOuhyksbT0HypTtP9lJgimnsn3C5eipcDJ+LxNBjXAvNPY0NorRjLaawE/5fPsB+MNDX4wCo5x1xcarABuU51L0NcLzJ31QMrBVV5+ASx9UIWYJkYqA8ew8zjp+rqcGRMYuX+lkQY6rxCtOwrvamg1P3GXsksyYtRJwGLClyiY6rLL6DB5oAKLCUqDusYV7MMuOYqeDxKXH/pIveepRkXrFEuzV1BhuTmjZ5ps+vBRWlXTESaDAkQEm/oWjDYV4axKgono4TDZDyHYlycJ+IDgwZdUvYiQ/WIDFRjGef73PYSr+wSQ6WMS/EfNgTPy2R1xTynrJOkdk64M7hvx8nJblg==;7AR6v6VLGvXsDfvhlIIs1w=="
 ---
 

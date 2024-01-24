@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T06:55:00Z
 originalUrl: "https://www.businesswire.com/news/home/20240124406246/en/Global-Surgical-Robots-Market-Forecast-Report-to-2030---Partner-Customer-Ecosystem-Competitive-Index-Regional-Footprints---ResearchAndMarkets.com/"
 webUrl: "https://www.businesswire.com/news/home/20240124406246/en/Global-Surgical-Robots-Market-Forecast-Report-to-2030---Partner-Customer-Ecosystem-Competitive-Index-Regional-Footprints---ResearchAndMarkets.com/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Business Wire

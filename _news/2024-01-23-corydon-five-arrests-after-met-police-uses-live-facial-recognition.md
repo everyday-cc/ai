@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1782
         height: 1002
         isCached: true
-  - title: "Miami Police Used Clearview AI Facial Recognition in Arrest of Homeless Man"
-    excerpt: "Facial recognition technology is increasingly being deployed by police officers across the country, but the scope of its use has been hard to pin down."
-    publishedDateTime: 2024-01-19T19:37:00Z
-    webUrl: "https://reason.com/2024/01/19/miami-police-used-clearview-ai-facial-recognition-in-arrest-of-homeless-man/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 34
 
 secured: "KZ0Jn9e/d6MjMFiCoTHJltDemtUAXgx/T/b2lD8bNq9ecEGCR2KEfkDExDnoXFY2oLNtLKq0p5J6hqEfyUibVyVRxv+PCaJFQxlgDeUBB9OiwJ7UweNzNcqgLypfWl02LElqvRz1kwqw+stp2yIUzMdlbHSuCsvZmtW+Q5kLqGwXAX41oalGGsKyyPiUTc42uV7ud9Ix5kqeiDpz4LJ5YzKTu1apSKOp1Zuxp2yn6KkjHdjVNWye91rXFIP9dGicQambY9J6wCcSzoKLXLEacBy+J5LASmyQdHWmEyh3FDZxtGzZnQuaFsJo2kWIYB/uin3153h8q7alwr+uuhJ6aUJGPHSbHsSYPEprvxFCTbNUsREKDN1t38VKXrkNFovGMH1dQZf/JlhFdG68zjjGYkg1jNlvNeYLb2S2VlXQg3pkSC3uxMZbYusnkKASIGJMe1TRRNR4rtZtvTLkSVKZVe4VQn2KWYeVzNYsUQ0LMrYrf5VJafs+xDJsJHUz+C2j+Vc1AkCNYJKxlwv0H4aLPg==;m07e/Pnc6aSBsd3t3fnUog=="
 ---

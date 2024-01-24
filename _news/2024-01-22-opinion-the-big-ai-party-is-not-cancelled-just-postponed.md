@@ -75,6 +75,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
+    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
   - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
     excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
     publishedDateTime: 2024-01-22T17:39:00Z
@@ -112,6 +121,20 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 36
+  - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
+    excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
+    publishedDateTime: 2024-01-24T11:00:00Z
+    webUrl: "https://www.stltoday.com/opinion/column/opinion-artificial-intelligence-could-spawn-astounding-human-advances-or-catastrophe/article_ab96cc22-ba24-11ee-88ab-179f1cb1754b.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/1b/71b8e39c-baf0-11ee-99a5-e7fcebac959c/65a41326d97bf.image.jpg?crop=928%2C487%2C0%2C130&resize=928%2C487&order=crop%2Cresize"
+        width: 928
+        height: 487
+        isCached: true
   - title: "Opinion: Harvard president failed to defend free speech"
     excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
     publishedDateTime: 2024-01-22T11:35:00Z

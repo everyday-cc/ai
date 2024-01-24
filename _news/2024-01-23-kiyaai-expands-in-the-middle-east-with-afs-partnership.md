@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
     excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
     publishedDateTime: 2024-01-23T08:54:00Z

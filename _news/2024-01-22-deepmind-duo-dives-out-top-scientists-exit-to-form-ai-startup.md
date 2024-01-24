@@ -89,15 +89,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google DeepMind Scientists in Talks to Leave and Form AI Startup - Bloomberg News"
-    excerpt: "(Reuters) - A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations."
-    publishedDateTime: 2024-01-19T19:31:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-01-19/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
   - title: "DeepMind Co-Founder: AI Is Fundamentally a “Labor Replacing Tool”"
     excerpt: "Welcome to AI This Week, Gizmodo’s weekly deep dive on what’s been happening in artificial intelligence. For months, I’ve been harping on a particular point, which is that artificial intelligence tools—as they’re currently being deployed—are ..."
     publishedDateTime: 2024-01-21T23:30:00Z
@@ -140,15 +131,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI News: Google DeepMind Experts Plots Breakout for New Venture"
-    excerpt: "Two Google DeepMind veterans are plotting a breakout move for a new venture amid conversations to raise $220 million"
-    publishedDateTime: 2024-01-19T20:14:00Z
-    webUrl: "https://coingape.com/ai-news-google-deepmind-experts-plots-breakout-for-new-venture/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 34
   - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
     excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."
     publishedDateTime: 2024-01-23T16:29:00Z
@@ -167,24 +149,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 29
-  - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 28
-  - title: "DeepMind co-founder says AI will be able to invent, market, and run businesses by 2029"
-    excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
-    publishedDateTime: 2024-01-19T18:40:00Z
-    webUrl: "https://cointelegraph.com/news/deep-mind-co-founder-artificial-intelligence-invent-market-run-businesses-2029"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 26
 
 secured: "2+MohP12IMKogowtxldw854aeEAuu4PBud1RU9QCjOJBPS4mTcvp5/AymEnTSepzw/5ADvXde1sd+bDp0kIBaEn6NT7yx4tEmjmgvMPmxAi83uO6hb3WCg1oCDNqaImty2ksG2Q7l4ABeJO7zGgyYrMAsmMxx8lHK1A09obzG4oCUVGWORwDIzhdGrHCnYVCUv1GQxDzzc7rrtTS+KeC2axTovcbxLGzE5KObHPAAqcm0iWCNTzz8w/Nbf4OadBgQhGJ5uSnzoecMOh7hWHQEHNRq7FdssCoZUhniGRDjWckFFj6FiIOx0uHPvrr3UEhn+2/IpaosXKfoxV9okNcGieMMv7FRt+KtK7ojFd17ng=;yxYGHKGLS1y+wChtP5GUOQ=="
 ---

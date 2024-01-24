@@ -63,6 +63,15 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "Responsible AI development in the shadow of profit is a balancing act, these experts say"
+    excerpt: "The complex interplay of technology, ethics, and governance in AI development necessitates a nuanced and multi-faceted approach. The creation of an independent body of algorithmic auditors represents a significant step toward achieving a balanced objective ..."
+    publishedDateTime: 2024-01-24T11:42:00Z
+    webUrl: "https://technical.ly/software-development/ai-ethics-profit-conflict-solution/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 10
 
 secured: "UbKPBYCnPArsh6mrhKBk8B8JNOcs4unVJneAZiGOwjytN/qcEbohjXSqxBnx3jrDftTw7BWdYXSvqUjgORo3NxwnJebRVTurknIHS5s3VXichcLCbyouKJ7IIa7wLWcRkscUeRk8XGTfGz0MGAtnUiQ4Rx6710czQsWybhrPfviVGhOwf/o85deb2s4NLbrlkx4aE+abJfjR0RhB+oKyKSDqY1YgqTQKLV47gIQphR2GH9B58hNYSSjj8Yia3qxcJUdHGnJ8EawiSzzb1i7Jo/l8RE156Pn0ekbLagcefYhgnbTtzEOr1NuvTX1v1ZzHQkUJelqp4j0GtCPgTpr/GARChR7TINeWd0k7h6Vhh48=;svslAAB/eeAGcKVOVilEJw=="
 ---

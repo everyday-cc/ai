@@ -105,6 +105,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
+    excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
+    publishedDateTime: 2024-01-24T18:29:00Z
+    webUrl: "https://www.extremetech.com/computing/google-axes-underpaid-contractors-who-helped-train-bard"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Five months since the Voice was silenced, what now for Indigenous Australians?"
     excerpt: "Many believed the bruising defeat could make Labor unable, or even unwilling, to pursue Indigenous rights. Fears abounded that a week of silence, announced by Indigenous leaders soon after the result became clear, could morph into a term of inaction from the government."
     publishedDateTime: 2024-01-21T18:48:00Z

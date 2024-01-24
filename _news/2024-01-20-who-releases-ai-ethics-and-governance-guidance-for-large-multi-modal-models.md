@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Healthcare organizations face challenge of upskilling staff for large language models"
+    excerpt: "Learn how healthcare organizations can overcome the hurdle of upskilling staff to implement large language models, according to Dr. Karandeep Singh, inaugural."
+    publishedDateTime: 2024-01-24T21:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-organizations-face-challenge-of-upskilling-staff-for-large-language-models.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 32
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models"
     excerpt: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models - SiliconANGLE"
     publishedDateTime: 2024-01-23T06:00:00Z

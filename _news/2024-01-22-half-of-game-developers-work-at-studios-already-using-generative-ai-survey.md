@@ -35,19 +35,21 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Navigating The Ethical Landscape Of AI: Insights From A Creative Director"
-    excerpt: "Educating users about AI's capabilities, limitations and ethical considerations empowers them to make informed decisions. It encourages a culture of responsible AI use, where creators and companies can leverage AI's potential while respecting ethical standards."
-    publishedDateTime: 2024-01-19T17:19:00Z
-    webUrl: "https://www.fa-mag.com/news/navigating-the-ethical-landscape-of-ai--insights-from-a-creative-director-76173.html"
+  - title: "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways"
+    excerpt: "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%."
+    publishedDateTime: 2024-01-24T20:30:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
     type: article
     provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
 
 secured: "6Nj/rYmK7tzMfhrN8+Oai2FDY7xfRryGyQT9oGiFTLQWDDUD1esrcaY4IuJpHej7cVdL6gUddvogz1ZeHJg44UMxiopHzMMvQ0EO/YbEFkyAb7k7QLUPdKRiA3HOCJyg8tCo7cjNDitXfgSig+/d0803YaiiD73hsOkbCoL2fak2NtywiwLR5a6tUxgIGg30cNWAlozkphlevVDTDMX61ip2/+M9Dwe/ZCa3j8zjuiVvVgBhgqdwSJGHApkU41wZzy5eaqyIyaCj54CEyX3hfSrNnyNgiQ0P8lgWsmDdU72devIBJATuiuLShu0fhORKH2+04p23skYrnQVm5qarn2gI2cokZoiLmkYb/MTcD4FSKTZidSIhbkj8nBDAwJR7LHSs3BqdFoISp6yb7b7sbptn1+G1g8OvSLMBp8S3gSCYqml2DSqqrRt38EG651MRmiHbLV8vOcLXoswGxDiK3yH3+19pUu0iB0L8Yi5MNjV3PACrIAg7J14SZQuuKx3QpxLR8wFwdJVi1ec2YJTI3A==;QDPnR/B6L73IiSrMrZ66+g=="

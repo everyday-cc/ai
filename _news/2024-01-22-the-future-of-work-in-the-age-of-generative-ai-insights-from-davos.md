@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The Ethical Landscape Of AI: Insights From A Creative Director"
-    excerpt: "Educating users about AI's capabilities, limitations and ethical considerations empowers them to make informed decisions. It encourages a culture of responsible AI use, where creators and companies can leverage AI's potential while respecting ethical standards."
-    publishedDateTime: 2024-01-19T17:19:00Z
-    webUrl: "https://www.fa-mag.com/news/navigating-the-ethical-landscape-of-ai--insights-from-a-creative-director-76173.html"
+  - title: "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways"
+    excerpt: "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%."
+    publishedDateTime: 2024-01-24T20:30:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
     type: article
     provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 53
+      name: Forbes
+      domain: forbes.com
+    quality: 82
     images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
   - title: "Half of Game Developers Work at Studios Already Using Generative AI: Survey"
     excerpt: "But even developers who use generative AI worry about the technology’s ethical implications. Of those surveyed, 42% of developers said they were very concerned about the ethics of using generative AI within their industry, while another 42% said they ..."

@@ -116,6 +116,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Apple Plans To Launch IPhone With Generative AI"
+    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
     publishedDateTime: 2024-01-22T18:08:00Z

@@ -69,15 +69,6 @@ related:
         width: 1782
         height: 1002
         isCached: true
-  - title: "Miami Police Used Clearview AI Facial Recognition in Arrest of Homeless Man"
-    excerpt: "Facial recognition technology is increasingly being deployed by police officers across the country, but the scope of its use has been hard to pin down."
-    publishedDateTime: 2024-01-19T19:37:00Z
-    webUrl: "https://reason.com/2024/01/19/miami-police-used-clearview-ai-facial-recognition-in-arrest-of-homeless-man/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 34
 
 secured: "ALcQgj+5sMrFzLo51kHBkAfSPEYaXKFHXBek8HTH20QxioidydgvetzG/fVk+bz16iZnGBdHes+1UV3gHbybJDV81XdwNPGz4mnWK86aUI/lOyCg2atSOS4z6fKjV25oeuZA9bEuyUGIhLQeZDpKBqanJX0I2SjPeggeVU6pNsaRYEEUgM0IIbBvxf+zhGvg131FSW8jJ+pnDITtlCP3fWywHEbFv1O3K1QwL9JEu+orOrMCrYoa6PmL1RhTrbp2TnpfYFZWza44knVTCMsbFj2ey3xMW0HakFWMV6bviUxrVJr+Xaa3tTxA+K/364hi+/eH4lGDMqYz4xlAQhROm9f42rDntzdPHE4emRq9ng0=;IQyw7PXpbSeUeX7Q22Lj0A=="
 ---

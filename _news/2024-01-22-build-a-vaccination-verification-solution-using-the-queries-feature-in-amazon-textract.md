@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "The AI evolution in tech: Pioneering smarter decisions, from surgery to security"
-    excerpt: "AI is triggering a fundamental shift that is making technology more important, because it’s revamping the actual physical processes. As a result, organizations are consuming AI at a high rate, as evidenced by Recursion Pharmaceuticals Inc. use in the optimization of therapies and vaccines, according to Cohen."
-    publishedDateTime: 2024-01-19T17:53:00Z
-    webUrl: "https://siliconangle.com/2024/01/19/ai-evolution-tech-pioneering-smarter-decisions-surgery-security-cubeconversations/"
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Alan-Cohen-Clean-Thumb.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
         isCached: true
   - title: "AI will turbocharge political disinformation. We must pay closer attention"
     excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."

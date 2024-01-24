@@ -26,15 +26,15 @@ images:
 related:
   - title: "AI will make scam emails look genuine, UK cybersecurity agency warns"
     excerpt: "NCSC says generative AI tools will soon allow amateur cybercriminals to launch sophisticated phishing attacks"
-    publishedDateTime: 2024-01-23T23:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
+    publishedDateTime: 2024-01-23T23:05:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/24/ai-scam-emails-uk-cybersecurity-agency-phishing"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://i.guim.co.uk/img/media/b4a60fb59a988517de97b303ecda1983c415d637/0_0_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=1dd266ee065cd8857ed736422039cc39"
         width: 620

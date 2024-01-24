@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/january-2024/toyota-moto
 webUrl: "https://www.automation.com/en-us/articles/january-2024/toyota-motor-corporation-collaborates-with-ready-r"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 500
     height: 313
     isCached: true
+
+related:
+  - title: "Young Innovator Explores the World of Robotics and Robot Programming"
+    excerpt: "Third-grader, Sidney, explores the world of robotics and programming a robot to perform a variety of technological tasks."
+    publishedDateTime: 2024-01-24T20:32:00Z
+    webUrl: "https://marketscale.com/industries/education-technology/young-innovator-explores-the-world-of-robotics-and-robot-programming/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 34
 
 secured: "zDydY7wByMpyl5lY40Z0JqrVAajV6IwAkBdxdfYPsvBvoEFzLycbdq6DYKRCGjbFWSZVfVdlqoEcjKsirEj2etcd6IbhpKsSqI6BLFigkmbrMSMa/J1NfI7uo5ROs1kjUml1O6FQmSRWDL9+jy1S1EE8KZIN2sTJwFBU98UhiE0bG6RvPSmWUpNzDqN90b0Bpr0f6kBu3BGAf2WjC1zKJCmmVasi6zAxkbNWd1k7O1v4dDSza94/HF6Ev6gPRxzUVKFbzMQsMZ/Aji/8xbO9tXkWkI2WkCc6ikJBlV5DNO/xY8YkQQZ3lrfRU8aXtKz5saVBcPcy0mPq/O0kFlc8LSvUBxyhSZIpAXMiys85ClU=;/q+9QrhxenHCVl/sboKd+g=="
 ---

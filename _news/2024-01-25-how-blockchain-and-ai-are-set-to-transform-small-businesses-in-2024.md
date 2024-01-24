@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T17:02:00Z
 originalUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/"
 webUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

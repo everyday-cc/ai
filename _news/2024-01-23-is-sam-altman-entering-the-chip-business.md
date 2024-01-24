@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
 type: article
 quality: 89
-heat: 319
+heat: 299
 published: true
 
 provider:
@@ -319,24 +319,6 @@ related:
       name: ジャパンタイムズ
       domain: japantimes.co.jp
     quality: 34
-  - title: "Sam Altman seeks to raise billions for AI chip factories"
-    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported, citing people with knowledge of the plans."
-    publishedDateTime: 2024-01-19T20:05:00Z
-    webUrl: "https://www.itnews.com.au/news/sam-altman-seeks-to-raise-billions-for-ai-chip-factories-604244"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 34
-  - title: "OpenAI CEO Sam Altman reportedly seeking to raise billions for chip fab venture"
-    excerpt: "OpenAI chief executive officer Sam Altman is seeking to raise billions of dollars for a new chip manufacturing venture, Bloomberg reported today."
-    publishedDateTime: 2024-01-19T22:45:00Z
-    webUrl: "https://siliconangle.com/2024/01/19/openai-ceo-sam-altman-reportedly-seeking-raise-billions-chip-fab-venture/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
   - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
     excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
     publishedDateTime: 2024-01-23T13:29:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-24T15:00:00Z
 originalUrl: "https://techcrunch.com/2024/01/24/theres-an-ai-brain-drain-in-academia/"
 webUrl: "https://techcrunch.com/2024/01/24/theres-an-ai-brain-drain-in-academia/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

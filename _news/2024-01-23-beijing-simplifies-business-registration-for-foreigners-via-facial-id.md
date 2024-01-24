@@ -34,6 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "ENZTQK/vTkyftW4lb9TFTcKzbyqg5VDiPsi5nzmiam9WXrcDLDvAf31cO7h+5AdcPyjVwrpCnYw+8jvDs5AkyZq9I8x55ysO2I170Zn40tXmLE3SX9FqD/bXoK0NPXjUhSQaeTVLL0TQWUd5e4zxRZHk1bpzRlqdnrgO/xQM8FFHERNtsiMJ4w/LLM/3TA1VWj2xE7Bqg1BpLSERsSSsMeYG2QH+NLhuE/d4H2DHIqj8/lvIWnhaVohZq88tYvQthXBgs+XWXN2LCr2HVjF2xH55aipCyCX9S6vT5GcFDFvJF+LuFQS5dZBfscoRNOg35tpkzIZyKyEL0UGmcvWjovSk+4YjGPfGK8fdgnpu/atz+3h1Wjza6OIA+3UcBVIrMsax8RyyqmSODzqJTmrENTv+5KP5XJVlxs/TYOF3t2OjHGjR2JDHmWkvV4cv8HwjIMj2sxj01A3ZVbK9utl0Et2qnTMSYY7fWsZp6rWspfZNLpagstOot9ZnH1hKBw1GwwGcf+dLLyICogAWppWPbQ==;IrQ8o9jLBwPhxDimfiuvRw=="
 ---
