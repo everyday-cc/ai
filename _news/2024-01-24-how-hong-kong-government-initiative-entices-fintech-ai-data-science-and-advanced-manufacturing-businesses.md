@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI To Help Create A Fintech Game-Changer"
-    excerpt: "In today’s fast-paced economy, fintech companies are increasingly turning to AI to gain a competitive edge. From early-stage startups to late-stage enterprises, AI has emerged with multifaceted applications and disruptive technology to revolutionize the ..."
-    publishedDateTime: 2024-01-19T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/using-ai-to-help-create-a-fintech-game-changer/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6442fb6e1e6588f81da821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Addressing Two Common Fintech Issues With AI: Exploring Solutions"
     excerpt: "The ability of AI algorithms to identify potential risks by analyzing historical financial data, transactional behavior and customer profiles is the reason that a significant number of fintech companies have already implemented the technology for fraud ..."
     publishedDateTime: 2024-01-22T10:59:00Z
@@ -59,22 +43,6 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6446b86f7e2e09f059a821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1502
-        height: 900
-        isCached: true
-  - title: "AI, Hardware And Fintech Collide At CES 2024 In Vegas"
-    excerpt: "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving"
-    publishedDateTime: 2024-01-23T15:45:00Z
-    webUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/"
-    ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1362
         height: 900
         isCached: true
   - title: "Upskilling: Why finance guys need to study fintech"
@@ -123,55 +91,32 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
-    excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
-    publishedDateTime: 2024-01-23T13:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/articleshow/107087828.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+  - title: "What next for India’s fintech revolution?"
+    excerpt: "With AI, cyber-risks will pose a significant threat. But the challenges can spur agile and proactive regulatory resposes to safeguard users while fostering innovation."
+    publishedDateTime: 2024-01-22T22:30:00Z
+    webUrl: "https://www.financialexpress.com/opinion/what-next-for-indias-fintech-revolution/3372194/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/what-next-for-indias-fintech-revolution/3372194/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/what-next-for-indias-fintech-revolution/3372194/lite/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 44
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23984,msid-107087883/fintech.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/fintech-reuters.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Davos 2024: AI most relevant for fintech development until 2029"
-    excerpt: "‘The Future of Global FinTech: Towards Resilient and Inclusive Growth’ finds that artificial intelligence (AI) will be the most relevant topic for the development of fintech in the next five years, according to 70% of respondents. Embedded ..."
-    publishedDateTime: 2024-01-19T11:05:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43558/davos-2024-ai-most-relevant-for-fintech-development-until-2029"
+  - title: "Fintech, Ecommerce Firms Eyeing Integration Of Bhashini Platform"
+    excerpt: "India’s fintech and ecommerce space, which is experiencing rapid growth, is actively engaging with the government’s AI-powered language translation platform, Bhashini, to offer their users multiple languages, both text and speech. This could include ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://inc42.com/buzz/fintech-ecommerce-firms-eyeing-integration-of-bhashini-platform/"
+    ampWebUrl: "https://inc42.com/buzz/fintech-ecommerce-firms-eyeing-integration-of-bhashini-platform/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-ecommerce-firms-eyeing-integration-of-bhashini-platform/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/1078088593.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Spot ETFs, AI Autonomy, Fintech’s Inclusivity and iGaming Ethics"
-    excerpt: "From the mainstream breakthrough of AI to SEC’s crackdown on exchanges, from BTC’s fluctuations between $16k and $44k to the aftermath of FTX’s collapse, the past year's events in AI, fintech, and cry"
-    publishedDateTime: 2024-01-23T12:39:00Z
-    webUrl: "https://techround.co.uk/other/spot-etfs-ai-autonomy-fintechs-inclusivity-igaming-ethics/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 36
-  - title: "Fintech firm Quinte, Tamil Nadu sign deal to set up development centres"
-    excerpt: "US-based company will use state's 'talent pool' to establish artificial intelligence, machine learning banking operations"
-    publishedDateTime: 2024-01-23T07:53:00Z
-    webUrl: "https://www.business-standard.com/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
+      name: inc42
+      domain: inc42.com
     quality: 24
   - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

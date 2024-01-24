@@ -9,7 +9,7 @@ ampWebUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messag
 cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "Here's how Bard will work in Google Messages"
-    excerpt: "Based on a few code snippets, it seems Bard is gearing up to be your all-in-one helper in Google Messages for things like drafting messages, image identification (yes, it's a genius at recognizing pictures), language translation, book recommendations—you name it. Apparently, Bard learns from your location and past chats to give you spot-on answers."
-    publishedDateTime: 2024-01-19T12:36:00Z
-    webUrl: "https://www.androidpolice.com/new-evidence-suggests-bard-is-coming-to-google-messages/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
 
 secured: "jINEWq/pbdbyvHN53D61z5OvpnBZHGpI7qRAFILhI9cUPvRddVnttV4QkVRZ+cJ9al3fg9iK70jw/VGfjPLy6MSl/qDwzlzj8aVspixSNGxhUjIQBd8e8px8dPbpCdDgq4Plmei/4Ja6HPPibELNcgX+d60wHcib49ifmw4/g2jE8v+ajj9COwIMiUqb5/hDFWhP/NvlH2mBE9pSFYvR71EkT9OCE2mx8soGWCjeOMRjbCEk02CXZiqHWHZH1eN9sLi/rNkFXb07GUt7QQKg6vwFJQT833yhe0zhBVFB0YCLeYj4Ku9dAxwHdPNIzvxYmmNVRsjX6zernyTteyULjwchCK/ogIVL1nllapIbdqqiwxDyGpoNyUybzJE2AhK3QKtH1tcqX+I5QJoAIZirxO0c7N2I83qkY0fvvs56OePJp3VL7stZys9cyTtzi5fh/lhSEJ15Crr2VJK4VgG4S+96MplK3GmSRyo7TF0qbgadSDG60PESkMkphEVVq02W8hNapNhK3oVqWssga/uC1Q==;sq3JAYJNN4q8fVP3rANRpA=="
 ---

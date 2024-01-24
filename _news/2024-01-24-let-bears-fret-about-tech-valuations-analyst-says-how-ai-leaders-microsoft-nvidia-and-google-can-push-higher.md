@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/let-bears-fret-abo
 webUrl: "https://markets.businessinsider.com/news/stocks/let-bears-fret-about-tech-valuations-analyst-says-how-ai-leaders-microsoft-nvidia-and-google-can-push-higher-1032989401"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
 
 secured: "gSxMy48Uvvu+dyT4UkEa0yU5rY/3RtVU/LNKVBSmW9dOXyHQwbLVDpjrOVeo8Lm5zs+ds4RG+w4XFjTWWAVPPLgxDpE9X8eP50YfXtw948KUMBZd7JVWPJQkGYQufOtL8c91eFZHdy4LktbqyuaN1rdz+n3j1EWsYyMuL6ZtEvLY5MYY3JIVKD5FexHgoJOuEw3Tb4XaTYnV74sIyK2yeINU141cVGXsGY4xdGO7RaHajFt8teuLhfu0AFaIrwHh+hdRJWfuD1Gtizc1w7rD89l51Wk9M13TOVK57ISTnDkNseYHwB3TgUK+63TLMbxGYuinVYHB4Nd4Cgwtqus0MSPSaV7qEp2AkLbl1/WL+/4=;xewUzeewxCUTgjVnlCZoWQ=="
 ---

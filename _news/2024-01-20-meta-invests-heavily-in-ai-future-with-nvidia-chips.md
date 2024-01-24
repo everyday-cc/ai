@@ -25,85 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. AMD"
-    excerpt: "Of course, AMD stock could be rewarded with a higher multiple if it can grow at a faster pace, assuming its AI business accelerates strongly. However, on current form and 2024 prospects, Nvidia seems like the better AI stock of the two, especially considering the potential upside it could deliver."
-    publishedDateTime: 2024-01-19T12:15:00Z
-    webUrl: "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/"
+  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
+    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
+    publishedDateTime: 2024-01-22T12:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 75
     images:
-      - url: "https://g.foolcdn.com/editorial/images/761413/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
-    excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-    publishedDateTime: 2024-01-23T22:48:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
+  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
+    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
+    publishedDateTime: 2024-01-23T11:08:00Z
+    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
+    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 55
+      name: Firstpost
+      domain: firstpost.com
+    quality: 64
     images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
-    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
-    publishedDateTime: 2024-01-22T23:51:00Z
-    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
+  - title: "GPU-powered HPC Workloads in the Cloud with AWS and NVIDIA"
+    excerpt: "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... efficiently in the cloud–helping to overcome bursting constraints. How AWS and NVIDIA are solving HPC challenges Amazon Web Services (AWS) and NVIDIA ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/01/gpu-powered-hpc-workloads-in-the-cloud-with-aws-and-nvidia/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 47
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 56
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
-        width: 1500
-        height: 857
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/AWS-Nvidia-logos-2-1-0124.jpg"
+        width: 700
+        height: 350
         isCached: true
-  - title: "Nvidia stock hits all-time high as AI craze rolls on"
-    excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
-    publishedDateTime: 2024-01-19T18:33:00Z
-    webUrl: "https://www.aol.com/finance/nvidia-stock-hits-time-high-183354058.html"
+  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
+    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
+    publishedDateTime: 2024-01-23T13:48:00Z
+    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/iBoQeug.O.I95gqupORTZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/ceba0172b8d779dc8e48145d0c4094d0"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Think Nvidia Is Too Risky? The Smartest Artificial Intelligence (AI) Stock to Buy With $1,000 Right Now"
-    excerpt: "Aided by strong profitability, Microsoft has paid a dividend since 2003 and raised its payout annually for 18 years straight. While the company's current yield of roughly 0.7% won't be attractive to investors looking for big payouts right away, this is a dividend growth stock that's perfectly suited to be a set-it-and-forget-it portfolio component."
-    publishedDateTime: 2024-01-23T16:55:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23538219/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 38
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/bff0406b1497a4e808b5c5acec460120/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fa35beafb109701e4697d6d6fd0cae75d.png%26amp%3Bw%3D700"
-        width: 720
-        height: 451
-        isCached: true
-  - title: "Here's the Next Big Artificial Intelligence (AI) Opportunity, According to Cathie Wood. It Could Make 1 Stock Larger Than Nvidia."
-    excerpt: "Nvidia has become synonymous with artificial intelligence (AI) thanks to its industry-leading data center chips. However, technology investor Cathie Wood believes AI software is going to generate significantly more revenue than AI hardware. Meta Platforms ..."
-    publishedDateTime: 2024-01-23T13:15:00Z
-    webUrl: "https://www.fool.com/investing/2024/01/23/next-big-ai-opportunity-cathie-wood-1-stock-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 35
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
 
 secured: "PFqwJTvagquzish4fjxi03eeETEhHHKpP6zw2z44ciwcAp4rAvejSZuP2sutanxI6Pw6DMYgg6o+VaWCq9LwYQY741gywMcpiKvBhac8Bo0fjEtHggtd8uZGvx8t3QwHEBTpF6eBNFahUQNPc0cIQKhBem2RPfiJbP6PsMS8oy31nkzcbqJv5vFbH3P0ZYZPNP2CpKyJxt13XsMmYAsRhI9E/AFdZoIVkO46ym8XMMF4K3l4qDlbDZojS0eeJv+XxeHJQRT9Jpc7+w1NpjbzJ8p3DfID4gLL+Xgl+/UjtXyKQwJewG51OwY4wIVptQzWpEZYoDYAcKi0ZX03o+KIBVy9Y0kpDJCrJYsN/JJuTKiY8Cl1v1OEjs19fUUNmeXduwlWGD2E7w3Cuor4bTFZD5UqJvl5ocWwYxSti2seATsppv0u4J5KUleIQW/1bn1rMLLNfyCFeiT+wZQ1tx8yQ3a+83ZH3KuEG+2yiDdb4IRM/Aj8SUaGAfFdh1LDL0wGTVla+8enCS5t481mn174Aw==;Dz3UrKL56OOguBMkUUN14g=="
 ---

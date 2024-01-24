@@ -7,8 +7,8 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: The Globe and Mail
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. AMD"
-    excerpt: "Of course, AMD stock could be rewarded with a higher multiple if it can grow at a faster pace, assuming its AI business accelerates strongly. However, on current form and 2024 prospects, Nvidia seems like the better AI stock of the two, especially considering the potential upside it could deliver."
-    publishedDateTime: 2024-01-19T12:15:00Z
-    webUrl: "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/761413/chatbot-smartphone-person.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
-    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
-    publishedDateTime: 2024-01-19T16:26:00Z
-    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
-    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
-    publishedDateTime: 2024-01-22T23:51:00Z
-    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 47
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "Nvidia stock hits all-time high as AI craze rolls on"
     excerpt: "Nvidia ( NVDA) stocks hit an all-time high on Friday, as the AI craze continues to roll on in early 2024. Nvidia’s share price jumped more than 2% to $584.87 as of midday. Shares of the AI juggernaut are up some 18% in the first few weeks of the new year and 179% over the last 12 months. And its market cap is quickly approaching $1.5 trillion."
     publishedDateTime: 2024-01-19T18:33:00Z

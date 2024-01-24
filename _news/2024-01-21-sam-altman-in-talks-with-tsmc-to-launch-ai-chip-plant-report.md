@@ -208,15 +208,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 60
-  - title: "Sam Altman Seeks to Raise Billions for Network of AI Chip Factories - Bloomberg News"
-    excerpt: "(Reuters) -OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported on Friday, citing people with knowledge of ..."
-    publishedDateTime: 2024-01-19T12:28:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-19/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z

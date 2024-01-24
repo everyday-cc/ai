@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/23/oracle-debuts-cloud-generative
 webUrl: "https://siliconangle.com/2024/01/23/oracle-debuts-cloud-generative-ai-service-help-enterprises-deploy-fine-tune-large-language-models/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,38 @@ images:
     width: 2047
     height: 1365
     isCached: true
+
+related:
+  - title: "World Health Organization (WHO) Lays Out Crucial Warnings About The Use Of Generative AI And Large Language Models In Medicine And Health"
+    excerpt: "In today’s column, I am continuing my ongoing series about generative AI in the medical and health domain by taking a close look at the recently released World Health Organization (WHO) report entitled “Ethics and Governance of Artificial Intelligence ..."
+    publishedDateTime: 2024-01-24T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0c0c0a8706b21e2c100bb/0x0.jpg?format=jpg&crop=3240,2160,x51,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "WHO releases AI ethics and governance guidance for large multi-modal models"
+    excerpt: "The World Health Organization (WHO) released new guidance on the ethics and governance of large multi-modal models (LMMs) – a type of fast growing generative artificial intelligence (AI) technology with applications across health care. The guidance ..."
+    publishedDateTime: 2024-01-20T03:35:00Z
+    webUrl: "https://pharmabiz.com/NewsDetails.aspx?aid=165891&sid=2"
+    type: article
+    provider:
+      name: Pharmabiz
+      domain: pharmabiz.com
+    quality: 52
+    images:
+      - url: "https://pharmabiz.com/Ads_images/PharmaLiveExpo_2023.jpg"
+        width: 1024
+        height: 410
+        isCached: true
 
 secured: "HVEN4EdTHefLi/6bFN+ANutCoeY3dttuC0lQqceII8btitFdp87+wjBVX4XCQdAOmIJnJHFnfxsInXKrq6lVNaSFRhekU5aZNQGWj8qG9ehtfZIpIdvrI5EFOg77Z07gvmz1X/sYZoAkwYMkyV123tOThhGzkdvEdrwcKo2/drVTsWLpDjaWQaK5dPdK3hCNUy1jPTYQ/4AKDe7wQj7tORmjNmz+SA3wc4S89I2D2/+wVrVRgd4+IXHREFzECUAAExSpz/hNJ1n4t7gz2JQ3pTj/QGSWiuXb/KePcubJ1VSTR/meJFnoUSHNChEhlSzYCfJV/TNpzC6V58k+O9FcFxHJH1Sn3vdd64/RxX6yC6fMf2NwtTpgDnF5WHLRRm1r0Hyyh8RK3Bx3TH2UwvyX4OhBosp2FVmuFwrTyFUtQMLYbj7mjg1UtQYRbY12IIIYMDJFBssMmduQaVUBAWDzXJy3+4AJQIzm3baGr8kwfMboJxPkvgUFZlciJw4/hJ4CidcfNJcSN0kkKLVTFU9gVw==;jgu0BDay/yoTWTMIy4d+6Q=="
 ---

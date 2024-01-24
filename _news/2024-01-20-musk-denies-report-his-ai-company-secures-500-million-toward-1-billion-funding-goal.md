@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-compan
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
 type: article
 quality: 80
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -145,6 +145,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
+    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
+    publishedDateTime: 2024-01-20T01:46:00Z
+    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 32
   - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
     excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
     publishedDateTime: 2024-01-21T23:21:00Z

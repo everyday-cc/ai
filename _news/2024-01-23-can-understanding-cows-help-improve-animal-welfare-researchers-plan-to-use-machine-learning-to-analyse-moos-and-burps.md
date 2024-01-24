@@ -28,7 +28,7 @@ related:
   - title: "Artificial intelligence to analyse rush hour traffic"
     excerpt: "A new scheme that uses artificial intelligence (AI) to try to improve traffic flow in Hull has begun. The technology will be used to analyse data gathered during the morning and evening rush hours on main roads in and out of the city. Computer software is then used to change the sequencing of traffic lights to help keep vehicles moving."
     publishedDateTime: 2024-01-23T16:53:00Z
-    webUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo"
+    webUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo?at_bbc_team=editorial&at_link_id=14A0A1D6-BA1E-11EE-81EA-D9518161DE7E&at_link_type=web_link&at_link_origin=BBC_East_Yorkshire_%26_Lincolnshire&at_medium=social&at_campaign=Social_Flow&at_format=link&at_campaign_type=owned&at_ptr_name=facebook_page"
     ampWebUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c1014dr286yo.amp"
     type: article

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Google's AI chatbot Bard to arrive on Google Messages"
-    excerpt: "According to info spilled from tipster and code detective Assemble Debug (via Android Authority), it seems Bard is gearing up for action in Google Messages. The scoop is that Bard"
-    publishedDateTime: 2024-01-19T11:49:00Z
-    webUrl: "https://www.phonearena.com/news/googles-ai-chatbot-bard-to-arrive-on-google-messages_id154513"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 19
 
 secured: "8XjgL00pCZTx7Nt8b0iyLr2BRAJbUi9PseRz2PtGNgTHdPACDm8okGW7bbdZb6w7vMwDXCOa/Eb95hUpBBKUcMNda590ij06OvNCEE0SF+4zv78dh+tViucD52YR8xXxp7Lxa0pn4raIDEg3TmGYOHKzvnA6dk3nwThWTon0dXFoUZlSzoYrNweW+PbrptUa1VAbkLrKPAT0Ej2qZYQkRHZJcZyPLbv2mvXfSUKW6zcD/m/tX0fNJNmxXggH7x7PZT2iQurj+M44izMtRdPfA9ROXQNAePAv09jHO69zTYNJ2ywGYH6/IuA2Si/CnAiM5HSPbgF7rIXfwTkgdAQC5TrftPUF10dpn6qw7woYaO2KD/kgxiSXZ2o2ROWTuT3gniw8ydeggbPuA1d7gn/dpYlqOH8tHKPViR9tMUlQ5BqY5Xqjpb2ipUutU/jXTPiscG8mJ5BkblCaQxuaw2Hse1dp9qeQI2JRMsc3yvFL9h99CiNvJkggouk3+KzGkHeQA0C/gifX/gW3dH/vh6Fhvg==;qYw2gKxC6wzypV/+d0oeZg=="
 ---

@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "TikTok to detect and label AI-generated content ahead of US 2024 Elections"
+    excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.medianama.com/2024/01/223-tiktok-detect-label-ai-generated-content-2024-elections/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 17
+
 secured: "jaX11NKvPVDjAvPmT63Gtlj4vHhNBkuJjpvZj3SlQISqavhu5fj6xCJ/c1NwltIVBK9ozXzaDiVwYZlB8ixo3bR7mU1WbnLzZDVLnmYJwrTe8cCjJzvuuWBnWvu1+uRGvYLWd/JKNN2J3q369Ghy8HxZI08Nc5oYRk63N9CxLlf7EvlR+5TbV123uFkrOQEIlPrrX5iSdv8IIoPmMfCDiNBCnaALXzZCjLbtlZMtMgF7e/GMQQawIgeAL69RFFD3CffnSFXkf9KNqXUaZEgGujo+WWEzP8KkRsd9UXalBi3RGPqgFN+zcqNMJ5x/RIZSYNKXuqDMHtBeaUHy2oLZzOv3NtwrzW4WTTOKwcFYN7lmnh7GfDhWG0svBLHsq/2ELcuN92Oru25byZ2+hMYYNHSbkJ5ZR6G55SxJ30LuNE9oNcZ75W2ujSBOiASi1c+SPd6EA6HP8UNYLpFtD1jEjLk7THDwast57VlgBcAI6PwGiof1+Plf6bS9AnW2ZIKR5H6QdzD/DguFjhkr5JZWlg==;ZrXrB4WrmM5BUAtNbQ9YHA=="
 ---
 

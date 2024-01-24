@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kennesaw State vs. Bellarmine February 1 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Thursday's ASUN slate includes the Kennesaw State Owls (12-6, 3-1 ASUN) facing the Bellarmine Knights (4-15, 0-4 ASUN) at 7:30 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
-    publishedDateTime: 2024-01-19T11:24:00Z
-    webUrl: "https://www.wtoc.com/sports/betting/2024/02/01/kennesaw-state-vs-bellarmine-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTOC-TV
-      domain: wtoc.com
-    quality: 22
-    images:
-      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/7NWY6NKRP5KBFAVAZN33VSMNVM.jpg?auth=1587cb14b395d0050edf47f62869531bdc2eb9ae0cb3a53163b2aede60d3e1fe&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Houston vs. Kansas February 3 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Saturday's Big 12 slate includes the Kansas Jayhawks ... Texas A&M-CC February 3 Tickets & Start Time Incarnate Word vs. New Orleans February 3 Tickets & Start Time Texas A&M-Commerce vs. Northwestern State February ..."
     publishedDateTime: 2024-01-21T11:30:00Z

@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
+    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
+    publishedDateTime: 2024-01-23T08:54:00Z
+    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 23
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BghzCI71E9xDq2xCERhPskZ+5CUauvO+XhPQvEFluQzHGijkL5JudnRi40PtwM17kb2uGrgcKBietsx2BFTwvRMQykSFfBdqNRh71Ti8sDO+sTsvJCcV3ErrJUbhgu4GcO11JSzOdzxj0vvgF5Aah8xnsWfkkrMQWNB4F1VJlz+obq6+KSsZXTniCR6YYYinHUu7i2yQaOaeS3DOjCc8aOBmOFvv2iXmaiNLHivOlSiWO/+AhnK0RrLGXQEcXeZx+/Xla6yrxieaX9Wq1GDdj4vINO+TMD5K/L68nkLS5G78HwIiHRbfn5y7ZFhtDt+LolUpviHnxmeP1JCqGusm5ZLslbm1VgXYCLbEdILikC4F2xV0cPhSqaDaRvRy1f7Hnehu+26K9Gj55B1D9AmL/Y8T4zf1O0G4wn/U4Oe22r5RtuTM3Wmkorj6lIYcZRpkLjxWDIYM9xJBhQ8Ob6azv+jeQUCb2SqWniX8wY0vgYP3NMBkRPPiKKfnMq2pDZZePQVwSAeU4w2Ukx53H04cEw==;CeA5A9yU2bfCH1Z0+oVRrg=="
 ---

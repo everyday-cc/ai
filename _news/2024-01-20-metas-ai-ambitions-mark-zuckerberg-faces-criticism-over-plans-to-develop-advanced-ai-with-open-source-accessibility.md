@@ -87,15 +87,6 @@ related:
         width: 720
         height: 378
         isCached: true
-  - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
-    excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
-    publishedDateTime: 2024-01-19T12:46:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/meta-platforms-zuckerberg-hints-company-is-spending-billions-on-nvidia-ai-chips-432SI-3278359"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 29
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z
@@ -110,15 +101,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
-    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
-    publishedDateTime: 2024-01-19T11:45:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source?ref=mc.news"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
   - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
     excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
     publishedDateTime: 2024-01-19T18:29:00Z

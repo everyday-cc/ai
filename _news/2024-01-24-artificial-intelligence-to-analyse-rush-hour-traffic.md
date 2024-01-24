@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence to analyse rush hour traffic"
 excerpt: "A new scheme that uses artificial intelligence (AI) to try to improve traffic flow in Hull has begun. The technology will be used to analyse data gathered during the morning and evening rush hours on main roads in and out of the city. Computer software is then used to change the sequencing of traffic lights to help keep vehicles moving."
 publishedDateTime: 2024-01-23T16:53:00Z
-originalUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo"
-webUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo"
+originalUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo?at_bbc_team=editorial&at_link_id=14A0A1D6-BA1E-11EE-81EA-D9518161DE7E&at_link_type=web_link&at_link_origin=BBC_East_Yorkshire_%26_Lincolnshire&at_medium=social&at_campaign=Social_Flow&at_format=link&at_campaign_type=owned&at_ptr_name=facebook_page"
+webUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo?at_bbc_team=editorial&at_link_id=14A0A1D6-BA1E-11EE-81EA-D9518161DE7E&at_link_type=web_link&at_link_origin=BBC_East_Yorkshire_%26_Lincolnshire&at_medium=social&at_campaign=Social_Flow&at_format=link&at_campaign_type=owned&at_ptr_name=facebook_page"
 ampWebUrl: "https://www.bbc.co.uk/news/articles/c1014dr286yo.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/articles/c1014dr286yo.amp"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 562
         isCached: true
 
-secured: "dfx05at15UY18R6GNpa95yQXOd8B2MKqzDUkLixHiL/55YiVQDvI4mnASZ1V8H55awxNTJGhihQ7yaPSJbUlrUuI2yTYS8PjSkZgrQW32G2Q3d14CYIg/5XgZNak9M2VlCe8WHDwIsfY9+tvqI+ZRAnsRYZSgZa+nmwio2DlP48S3ZTVnphwsEXeQeVqo4lS1xPU28qeXns9w4QFBQFu2n1QW7ogu+pyXkqiFWgqSh36giFWaMt4qnM8YGxIUs9h0AtZYQ4+eR+15IxiedVe7ZQssCH7u6/q9KCI47q8/WQAPADQkpEanDJTzX9ihG9lroHXp6a9o+H1/wABSJudAqt2WTAmiWyygi7qnZk7kDM=;BnHGizchvZl11wMlhVb1/A=="
+secured: "3uJQfLM6YjiQ/J6IonfvZzfzujDg9RQ5VoyBxjCT4N9e39S9J1a+cRjiDpYZT5krrX+fJ9lw3afPuCoW18qtf+klv/ZLoUz7wHqPgJSczT8KB/xcDxCJlTdiwARsJAEScCSz3TpKkE2YmcdQwGodSvev9bdx6bqyW61mbd9CeFaxbVXxNvO94zrHPVEjJW/YGA+zRpNgC8TvjbYhFAHt+jIsAJlsRSRswcvQol80qWuVmrSCzcW5cFbGoQCvtK+6TxUd4O/Nvp5zjIwGC5InVGZp0XCMaIImB9wklnMlBxwDA//RJ3JL1z8DNfJghIrtSI//CkWPoyzof1kbyCzAK78AbzFBg19vn6j4Uc2DWgg=;yzZ8/wBlOGRWFetl05D7dw=="
 ---
 

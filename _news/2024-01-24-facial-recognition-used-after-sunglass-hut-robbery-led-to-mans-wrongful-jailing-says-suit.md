@@ -64,6 +64,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Sunglasses Hut Incident Shows Pitfalls Of Facial Recognition Technology"
+    excerpt: "Harvey Murphy is a 61-year-old man who has recently sued Macy’s and EssilorLuxottica, who is Sunglass Hut's parent company. This is due to a wrongful arrest made from using a facial recognition system."
+    publishedDateTime: 2024-01-24T10:44:00Z
+    webUrl: "https://techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/"
+    ampWebUrl: "https://techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 39
   - title: "Lawsuit: Facial recognition software leads to wrongful arrest of Texas man; he was in Sacramento at time of robbery"
     excerpt: "A Texas man is suing Macy's and the parent company of Sunglass Hut after the two companies allegedly relied on error-prone facial recognition technology to falsely accuse him of armed robbery. After being held in jail for nearly two weeks, Harvey Murphy Jr ..."
     publishedDateTime: 2024-01-23T20:56:00Z
@@ -81,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Z+yQZ65zhwroXsULv8F3Y8tVWxPd5Gjn3rnk0yZyXULrU6CygajkqylxRx9y0G2lm1Mybtfmb+BiQWJL4VGtJ5diBhTHb1y3OD8OeD2N5QjuhuPV3DT+x7/uf8i8LkRKOoOxxTiSc7w6uJ8Lft8QznAza1BMDQ51myym1Tn0gAfLqOsnt4YykqqIWSHOh3CVLMXxqyPEOehxoCo7Vn/YXwCbsPSZmDzu2B5FRuYL4jr8DpdtaQIQ2aLjTql/UWnDsPM6KPdeEzfzZcO5uvH6W/PG2pvJFuIc6IDNH8sZcMHjwklwIs0sSSRrA/2L0hUC7kWJr4nu9kTXkSc3GY+qp5B+YG3peDmye1P4Vt+twxQ=;JPiFPxf42zT+A9W7tD7RNg=="
+secured: "dEtiqo+Grxcy7GJrOL5vnqzTkxAdW7Ws1Vx9RDY18WDl5pThAE18D/U8uK+bGhqXEvzM2ysMOm1EujwOdwcXPdu8biu6kIH3Fmk+KXfu3sDgAoJA5bnLzOMwiQLowsBnygD0b5Vu9XTpVSCb3MMzcUj5PMIvyfu5QHS1G0dMskZyZZyFh+Jr8yqPLeDO6zt/HMVKF80H/XysUhCS+DHuspwrwma90mBN6vKq/ZnXkYUp35VzxGBtnQAT5Ujjw3t5s12a6RIpMZslJ/OVVeYwFGbdCJWgndWprA0PgsrrLs/f5Qv+9G1vuO9yaFHfLDPVPwY6G0zVmsqHNPhcpUFAtv8b8hAC0Ii2jC0ji6cqcgMFz4+sCgWkkyxk3z353L8Dewkln6lzAyh4yWhzjsM27xcWd6PgW/YhQpCQkJz5RKGvn4Lx9geo6tcGTkcLXt98hFb79bYJ4R7NsQk5GBvWOtERbAqM+HOb6Q0b20iAFTR3LMYVxS9kRVMjH+KbUshsGSDRaNfAWSMHjVfEiEg9bA==;Ao6ydP3qw3A2TWqpseCxbw=="
 ---
 

@@ -52,6 +52,20 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
+    excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
+    publishedDateTime: 2024-01-24T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1138068_apple-car-reportedly-due-in-2028-with-scaled-back-self-driving-goals"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/ios-16-next-generation-apple-carplay-preview_100843991_h.jpg"
+        width: 1920
+        height: 1098
+        isCached: true
   - title: "Apple Car release date reportedly pushed back — and it doesn't sound like the self-driving car of the future"
     excerpt: "According to Bloomberg's Mark Gurman, the scheduled launch of Apple's anticipated EV has slipped from 2026 to 2028. The project, which has reportedly been in the works since 2014, was aiming to deliver advanced self-driving features to a sleek electric car. But now it seems the company's ambitions are scaled back."
     publishedDateTime: 2024-01-23T23:02:00Z
@@ -63,6 +77,20 @@ related:
     quality: 5
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/43Zjm88ELA9RYTdGeVBQYP-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple to launch its own EV in 2028 after SCRAPPING plans to create a fully self-driving car. Insiders say new scaled back design is a 'Tesla Me Too'"
+    excerpt: "Apple is planning to launch its own electric car as early as 2028, according to new reports. The tech giant had originally intended to create a fully self-driving vehicle as part of a decade-old project dubbed internally as Titan."
+    publishedDateTime: 2024-01-23T20:36:00Z
+    webUrl: "https://www.thisismoney.co.uk/yourmoney/consumer/article-12997589/Apple-reportedly-set-launch-EV-early-2028.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/01/23/19/80372785-0-image-a-11_1706036870172.jpg"
         width: 1200
         height: 675
         isCached: true

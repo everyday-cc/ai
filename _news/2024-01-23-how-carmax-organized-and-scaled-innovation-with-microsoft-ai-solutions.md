@@ -29,20 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Let Bears Fret About Tech Valuations, Analyst Says: How AI Leaders Microsoft, Nvidia And Google Can Push Higher"
-    excerpt: "Microsoft is expected to deliver year-on-year increases in profits and revenues, with consensus forecasts at $2.75 earnings per share, on a 15.7% surge in revenues to $61 billion. In the previous quarter, it delivered a surprise $2.99 EPS above expectations of $2.65."
-    publishedDateTime: 2024-01-23T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/let-bears-fret-about-tech-valuations-analyst-says-how-ai-leaders-microsoft-nvidia-and-google-can-push-higher-1032989401"
+  - title: "Mastek partners with Microsoft to transform industries using Generative AI"
+    excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
+    publishedDateTime: 2024-01-24T11:34:00Z
+    webUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 72
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/bullish_0.png"
-        width: 1024
-        height: 768
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/04/2019-04-24T202127Z_3_LYNXNPEF3N1PX_RTROPTP_4_MICROSOFT-AI.jpg"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "Cushman & Wakefield Collaborates with Microsoft to Enhance AI Technology Platform"
+    excerpt: "Cushman & Wakefield (NYSE: CWK), a global leader in real estate services, today announced the firm is working with"
+    publishedDateTime: 2024-01-23T23:17:00Z
+    webUrl: "https://www.01net.it/cushman-wakefield-collaborates-with-microsoft-to-enhance-ai-technology-platform/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 29
 
 secured: "zvTlCnOGz/GpBJKOaW5UnUiB6EtKb1PmDoa2oduNjvKLXIxx2Y536E0CEkXW4Ln73O8MdD90pRYPFWygj/+CmtanBtZbhPdoGV5dN/bREakLzTZ10Q1Knilqp0sOfayWdcGnnslrUnE6uQpzVtaign7ujGUvmMCRGteIAzKH8x/yjQtzoIxbXIee1NqNDRZpWuy5ta7bk+9vcP8UhnyHkzHhlRSlws8pyh0LFuGM84HTQEXMq5sXeNuNqU0aOvC5JsXVhvXUEr71RHGBGcDwF0jhapwZgPInCvSruXI+95SPk2r5eDkiZmBmIEmb0L5iopMR/kBu1f+w7bq+M/yFCzdaFXeTS44jrSXQZLGD9rxPTQhZi7AMKd1j4HgCI3fncq7dx7Qy/kT02ILYKtsCDafcu0Cv3fAhmbzWERAuGYJLSQrOHSOos58WEeWvsj1m54G7sPkfEedpaV+xHqYcP6No4qyGWHiSTt+KRMgSZLKqEYd5ZqwM2P1BaoZh5Txv/YJQXIsABkPt3S1DRG2BlQ==;8jf1w8yB92ACUy0dXA4bqg=="
 ---

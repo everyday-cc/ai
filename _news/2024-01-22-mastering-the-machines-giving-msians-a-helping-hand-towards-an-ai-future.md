@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending"
-    excerpt: "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ..."
-    publishedDateTime: 2024-01-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "This Stock Is Leading the AI Chip Rally"
-    excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2024-01-22T20:56:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/23509878/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/5924117a1cef296a8f6aa8ab681cb7a3/vvse482hkfzc5v23.png"
-        width: 878
-        height: 642
-        isCached: true
   - title: "Mastering AI interaction with GoDaddy: A UAE business’s guide to effective AI prompting"
     excerpt: "By intuitively understanding the customers’ business and preferences, GoDaddy’s AI engine provides a substantial head start for establishing new WordPress sites. This includes pre-generated content and images tailored to customer needs. Ethics and ..."
     publishedDateTime: 2024-01-22T23:59:00Z
@@ -71,24 +41,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
-    excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
-    publishedDateTime: 2024-01-20T01:46:00Z
-    webUrl: "https://coingape.com/ai-funding-elon-musks-xai-nears-1b-goal-altman-pushes-for-chip-funding/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 32
 
 secured: "B6eAKob0XOq7tLknuG3XtZkrVnEXbY1qPvXyf+b01vdwXnN05T7l1/rPx0oHQVLGRYOPdqKBqgCr2yUh33nA2a/VW3XR5xmLDtSX29E1V4RkMtXWNI2M7NUwWgYxr81hQC4VJSNWXiHL+KzRiwOeEss0er8Ej3PPLjEdrcSHfagVTIlar+E8Oy8kyO6ZfS/Zin+bfbiQWka/4B+Azxldpk+l3cCHCl66q2ZqosWbTEdfVKLUFkvekzNHqfOyZSJz5f6GRi3ho2CIpzn5zCk24u4lwRToBdBKHLeadoAKeoEj+bdQNOToCvT6ax5oQcvyslSganUqq+XAfJ7G/X5nJ40h65f7lR13ov6rYoUksIQ=;kCY+l8/Qo8H7G5+rARhtBA=="
 ---

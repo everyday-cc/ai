@@ -7,7 +7,7 @@ originalUrl: "https://www.ktre.com/sports/betting/2024/02/03/houston-vs-kansas-b
 webUrl: "https://www.ktre.com/sports/betting/2024/02/03/houston-vs-kansas-buy-college-basketball-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kennesaw State vs. Bellarmine February 1 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Thursday's ASUN slate includes the Kennesaw State Owls (12-6, 3-1 ASUN) facing the Bellarmine Knights (4-15, 0-4 ASUN) at 7:30 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
-    publishedDateTime: 2024-01-19T11:24:00Z
-    webUrl: "https://www.wtoc.com/sports/betting/2024/02/01/kennesaw-state-vs-bellarmine-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WTOC-TV
-      domain: wtoc.com
-    quality: 22
-    images:
-      - url: "https://gray-wtoc-prod.cdn.arcpublishing.com/resizer/v2/7NWY6NKRP5KBFAVAZN33VSMNVM.jpg?auth=1587cb14b395d0050edf47f62869531bdc2eb9ae0cb3a53163b2aede60d3e1fe&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Samford vs. Chattanooga February 3 Tickets & Start Time"
     excerpt: "The Chattanooga Mocs (11-7, 3-2 SoCon) meet the Samford Bulldogs (16-2, 5-0 SoCon) in a matchup of SoCon teams at 4:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-01-21T04:21:00Z

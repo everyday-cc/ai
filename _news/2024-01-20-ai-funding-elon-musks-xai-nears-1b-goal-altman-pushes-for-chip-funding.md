@@ -19,75 +19,160 @@ topics:
   - AI
 
 related:
-  - title: "How AI Is Adding Faster Funding And Efficiency To Small-Business Lending"
-    excerpt: "When business owners use AI data to make lending decisions at the start of their loan application, they may be able to better avoid denials, which can delay a business from obtaining funding for months. AI’s ability to process vast amounts of data allows ..."
-    publishedDateTime: 2024-01-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/01/19/how-ai-is-adding-faster-funding-and-efficiency-to-small-business-lending/amp/"
+  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
+    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
+    publishedDateTime: 2024-01-20T13:46:00Z
+    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a9408d972483f2df60c7d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
+        width: 7008
+        height: 4672
         isCached: true
-  - title: "This Stock Is Leading the AI Chip Rally"
-    excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2024-01-22T20:56:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMD/pressreleases/23509878/"
+  - title: "OpenAI plans to set up chip factories worth $100 billion: Report"
+    excerpt: "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips."
+    publishedDateTime: 2024-01-22T12:40:00Z
+    webUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html"
+    ampWebUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
+      name: Network World
+      domain: networkworld.com
+    quality: 74
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/5924117a1cef296a8f6aa8ab681cb7a3/vvse482hkfzc5v23.png"
-        width: 878
-        height: 642
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Mastering AI interaction with GoDaddy: A UAE business’s guide to effective AI prompting"
-    excerpt: "By intuitively understanding the customers’ business and preferences, GoDaddy’s AI engine provides a substantial head start for establishing new WordPress sites. This includes pre-generated content and images tailored to customer needs. Ethics and ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
+  - title: "Musk's AI startup secures $500 million toward $1 billion funding goal"
+    excerpt: "xAI's product, a chatbot named Grok, is developed using social media posts on X File photo: Tesla and SpaceX's CEO Elon Musk gestures, as he attends political festival Atreju organised by Italian Prime Minister Giorgia Meloni's Brothers of Italy (Fratelli ..."
+    publishedDateTime: 2024-01-20T04:46:00Z
+    webUrl: "https://gulfnews.com/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
+    ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 51
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 57
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NmIwZGE1YTEtMGEzMS00/3/godaddylogo-jpg.jpeg?f=3%3A2"
-        width: 768
-        height: 512
+      - url: "https://imagevars.gulfnews.com/2023/12/16/Tesla-and-SpaceX-s-CEO-Elon-Musk-gestures_18c73574e41_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
+  - title: "Musk's AI startup secures $500 million"
+    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
+    publishedDateTime: 2024-01-21T01:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Mastering the machines: Giving M’sians a helping hand towards an AI future"
-    excerpt: "“Full AI literacy demands ongoing learning, practical experience, ethics, diverse subfield understanding, and active community engagement,” he says. This is pertinent to the goal of positioning Malaysia as a global and regional hub for AI, which ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/22/mastering-the-machines-giving-msians-a-helping-hand-towards-an-ai-future"
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
+  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
+    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
+    publishedDateTime: 2024-01-24T05:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
+    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
+    publishedDateTime: 2024-01-19T23:25:00Z
+    webUrl: "https://www.reuters.com/technology/musks-ai-company-secures-500-mln-toward-1-bln-funding-goal-bloomberg-news-2024-01-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 44
+  - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
+    excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
+    publishedDateTime: 2024-01-21T00:10:00Z
+    webUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
     quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/21/2502801.jpg"
-        width: 1240
-        height: 721
+      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Musk’s AI startup secures $500M"
+    excerpt: "Elon Musk’s artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people with knowledge of the talks. The company is discussing a valuation of $15 billion to $20 billion,"
+    publishedDateTime: 2024-01-21T12:05:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-500m/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 37
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2024/01/xi01.jpg"
+        width: 720
+        height: 378
+        isCached: true
+  - title: "Musk's AI startup secures $500 million"
+    excerpt: "Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI's product, a chatbot named Grok, is developed using social media posts on X ..."
+    publishedDateTime: 2024-01-22T04:53:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/musks-ai-startup-secures-500-million/107042614"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107042614,imgsize-37130,width-1200,height=765,overlay-ettelecom/internet/musks-ai-startup-secures-500-million.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
+    excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
+    publishedDateTime: 2024-01-21T23:21:00Z
+    webUrl: "https://siliconangle.com/2024/01/21/elon-musk-denies-report-indicating-ai-startup-xai-raised-500m-funding/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/muskhappy.jpg"
+        width: 763
+        height: 600
+        isCached: true
+  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
+    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
+    publishedDateTime: 2024-01-20T00:57:00Z
+    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 28
 
 secured: "rfjlPiRFS9uE/2iB9rnKJOpjmmoFXbHBDuRy8VGK5WNvB2uRZsXZcR1Sv9Te7n7Lgw4SloQPokfaUFQMLe4TfCWVdMrfXf3h1byiFNCXFTu1t51WhSV0jLeElN18BGB2FbwsFclg1U5HTvImKO3zBTvKCLzHxnEtD0lavMoRHAZiaIfcyDaefM3PFEAeO5Es6kOZChPcd5V4v4XnLKInwsM6opgrQGArjdABmPWemhh2YAx0sf4YfIEBr6YoPJy2BMr9TOXfHlXxfbjs83rs1nA3fZVXiipwEOCf+5K5DUXFAF/S64lAeO7ntP8vFCocSMg8So44norhRi79FuCdoapjdlSmd4T940u8uRznY7oCDVdTpFyes6c/tBRjvCtkEjNR6Chs4eJmY8A431q5/lYrwTSU3BZUb4YI1fZVTbwtdyllOO5Xd/kTYKVDI9288QY4ykkqTJ8LA3iXToHiepNCfhIChTNij3jyf5Yuu0SKXI2E5zPbnM9yozcR4OjvbtQauRb2TtS1zcZsuykWhg==;kdqs/ZHgj1EdPph9jMhD0A=="
 ---

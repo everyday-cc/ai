@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/fixing-ai-made-easy-ragaai-emerges-from
 webUrl: "https://venturebeat.com/ai/fixing-ai-made-easy-ragaai-emerges-from-stealth-with-automated-testing-solution/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 689
     isCached: true
+
+related:
+  - title: "RagaAI tests AI models. Check out the 10-slide pitch deck it used to raise $4.7 million."
+    excerpt: "The San Francisco-based startup, founded by an ex-Nvidia staffer, has automated the process for checking AI systems for bugs and errors."
+    publishedDateTime: 2024-01-24T11:42:00Z
+    webUrl: "https://www.businessinsider.com/ragaai-ex-nvidia-raises-4-7-million-for-ai-startup-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+    images:
+      - url: "https://i.insider.com/65ae7fd2dcdb354a98598f06?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/J1dosviLlZc4QcU1Q35eQaKI3GvQDEoeB8nPA0U3zUYCDxemLXk9sxrGesbiX4DMmRhYC2ul3+d/Ru/ta3XFMch7wvnmw218jlj3FHt2e9lhsW9liBDdnoh6ghshCpZhISTRrpALr8XB+qXhzuHZ/6D0J6SBpmk5rZO624q9Bwn+okrKn0LxIV4AfoeI1Q1MHrTLfI438gkOC0P/O/NLupFzhpj8IcO+q+tJ5pVVQJBw8W4IUt6SIwwhmLn1F5lgMLx/rjwye8v1WV+OvEknDFg1RE3prthOQqzJR7i5v2ow596UVdeHsxZPJR7e8eSmprcs9+/+m+mN+jmAfJkLlNpicmxrAZACZU3bjPod8E=;cwH4Nh2viSRZkoPNnBssYg=="
 ---

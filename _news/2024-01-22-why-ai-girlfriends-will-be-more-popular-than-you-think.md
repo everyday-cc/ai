@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-of-intimacy/20240
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-of-intimacy/202401/why-ai-girlfriends-will-be-more-popular-than-you-think?amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "What happens when you think AI is lying about you?"
-    excerpt: "Experts in several countries are agreed that humans must always be able to challenge AI actions, and as time goes on AI tools are increasingly both generating content about us and also making decisions about our lives."
-    publishedDateTime: 2024-01-19T12:21:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67986611"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67986611.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67986611.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17120/production/_132369449_gettyimages-157424694.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "vNzeZlRb+u2HmNOgZiKHzJA7CNiwT7kUT4k5gtxlKViEa6vi2etSyzkMWpSWXSOO1gEsRUj3RYx6FEmAKzn0lrESXM7CvnX5lzXD9Xy/bGNSnFFHSra7xJqXghJXSHO4qTI0W0Q/R+/sM0uQintxWzIq+uXTCJYMoojf9UDPBNWt0+enLOEaXh6kSuOY6fGify4ow/wnKMQGBmkpR3D8HaJzxIjzF1ADlJR3o6xs+Djl8Re2JPkJF9MIqDS/R+GHpBfcmJru0YmtX6YrxMrZhn7S99KFaNjgJuWrCSyRCbaeEUpTKPGU2/0s3pnZxaCPyfsflsplPgyTIrUg0+9LzEwcysXvZ9z17mhKBU1C6JdmMU9JY02+XWLuFh5bWoiADDlr3pKbdC8fR0hkDDVl4YrSSusbNRd3eLD7ZbKj+XtHptFUWKe6A/6GC6xbIwpdH5wdORjB4p+mXjaLXTRT8iO90Hesn+KFJdViUxnaf/7kaqUEa+/fRLlvLh+vHamro/yyrSk4fy1SGofrtCKlmA==;Apsrtxah59Ct+g5irTa8FA=="
 ---

@@ -65,6 +65,20 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
+    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
+    publishedDateTime: 2024-01-19T16:26:00Z
+    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "szJ+RxlopK8rIwqRbkADuk0ecRY7/D5MUSG0fMrhU/7p8lvl544Tc3ev0qnVaTcMibtYbx4aen6GMsOctV13WwD0fH19Hqr3Ryy11OgAfed9vKjPrC4YpuTZANiXNKMyNLBmXUkt1aDgzrq2WrQCvQ/lOWrSAydP7IRLGTt/kNTWBpvtg7NlK3BxSPTa0XLmdnw4zg/VLdgfJY6zryecFJVXVKazgiDLAxks+xBJovAiJf8tqM0zqqNSXRT+kEE6Yff8Ww8b8Kkwmgg3cvq6t+kUvQD+B+SeeUf/Y1/ZhWsGR9iLhBHlj/6ELBKc3iNmWTNRFE2ZgYnT6GJfBLGlbe2c3FjWeE9RbJi9NjcqQjTd30srRQJ80Rpk4KUKj2AbNKm+TJiuDxux4a/d9xoyy56G7C4AvhRpfBP1REB1YnTCP9eFXJfewvtlG8Kn01Ugam4mBEPPs6y7HCvoV6RGmPue2mjGbCDCoB0VAs/yFMEhFCpKe7zTPs3UYQeGJ0YWtNXB/HaY9CNDIkpCtqkJYw==;n1lK9OHgC13PhzYGOgg6Dg=="
 ---

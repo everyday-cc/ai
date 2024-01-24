@@ -66,6 +66,34 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
+    excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
+    publishedDateTime: 2024-01-24T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1138068_apple-car-reportedly-due-in-2028-with-scaled-back-self-driving-goals"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/ios-16-next-generation-apple-carplay-preview_100843991_h.jpg"
+        width: 1920
+        height: 1098
+        isCached: true
+  - title: "Apple to launch its own EV in 2028 after SCRAPPING plans to create a fully self-driving car. Insiders say new scaled back design is a 'Tesla Me Too'"
+    excerpt: "Apple is planning to launch its own electric car as early as 2028, according to new reports. The tech giant had originally intended to create a fully self-driving vehicle as part of a decade-old project dubbed internally as Titan."
+    publishedDateTime: 2024-01-23T20:36:00Z
+    webUrl: "https://www.thisismoney.co.uk/yourmoney/consumer/article-12997589/Apple-reportedly-set-launch-EV-early-2028.html"
+    type: article
+    provider:
+      name: This is Money
+      domain: thisismoney.co.uk
+    quality: 0
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/01/23/19/80372785-0-image-a-11_1706036870172.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XcJ3itglhS6iiOZ1m75nVn1vGXvrONf5ngNgjQ2HYtcru3k71Nna/Wz1Vv1+wMSGirg3gmpNYS6y/rSPb5VG8fiKxUYP3eZGGuXbxbRl8KX20aUFVyKRa0AgPn9KooLI8zZR27KIcUpDSxZmzvc+ut9332zLXXwkPkuWw3tYpllrrC39JToT0kUsLtkjBvjgZHo4cRyuLNrQNYrrrQ3wrU7jK7apYla0BVf/M4dv6AK/NQqj2rOSxnP+/kL+mBTMHvXpAFemU24P2O9lzSm6t+TFlC/MaX3jSSj4G9U8JbWm//GjMbfdenqS+unfZz++pvkvjKz/jvI1Yny20zF5eg6wH/x+88tXkUr+XgmF69s=;7E863CnR4+M6baTZs31OMg=="
 ---
