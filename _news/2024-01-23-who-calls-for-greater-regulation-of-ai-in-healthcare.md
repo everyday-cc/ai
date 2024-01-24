@@ -64,6 +64,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "WHO pushes for oversight of AI in healthcare"
+    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
+    publishedDateTime: 2024-01-23T21:57:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Can Artificial Intelligence Think Like a Human?"
     excerpt: "In a new perspective recently published in the journal PNAS Nexus, Athanassios S. Fokas explores a timely question: the potential of artificial intelligence (AI) to achieve and possibly exceed human cognitive capabilities."
     publishedDateTime: 2024-01-21T10:02:00Z

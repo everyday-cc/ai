@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Build a real-time speech-to-image AI using Stable Diffusion"
-    excerpt: "When you speak, your words are captured by a microphone and then swiftly and accurately interpreted by an advanced speech recognition system known as Faster Whisper. Once your speech is converted into text, the baton is passed to a sophisticated image ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/real-time-ai-speech-to-image/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Create-a-real-time-speech-to-image-AI.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "AI monitoring startup Arthur adds support for AI-powered recommendation systems"
     excerpt: "Artificial intelligence performance startup ArthurAI Inc., said today it’s adding a powerful new tool to its suite of AI monitoring services. The new Recommender System Support tool is designed to help companies ensure their AI systems are safely ..."
     publishedDateTime: 2024-01-23T14:01:00Z

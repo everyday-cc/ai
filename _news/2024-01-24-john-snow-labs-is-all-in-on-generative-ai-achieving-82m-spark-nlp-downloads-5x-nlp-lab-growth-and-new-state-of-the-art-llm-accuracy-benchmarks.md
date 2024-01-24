@@ -34,7 +34,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.datanami.com/wp-content/uploads/2024/01/John-snow-300x300.png"
         width: 300

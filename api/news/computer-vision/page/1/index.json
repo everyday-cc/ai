@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-24-ai-facial-recognition-software-concerns.md",
+      "title": "AI facial recognition software concerns",
+      "excerpt": "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox26houston.com/video/1399941",
+      "originalUrl": "https://www.fox26houston.com/video/1399941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fox26houston.com/video/1399941.amp",
+      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp",
+      "publishedDateTime": "2024-01-24T00:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KRIV",
+        "domain": "fox26houston.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
       "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
       "excerpt": "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas",
@@ -1305,40 +1339,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail.md",
-      "title": "Centific and Telaid Partner to Bring AI and Computer Vision to Retail",
-      "excerpt": "AI-Powered Computer Vision Meets Deployment Expertise for Retail and QSR Innovation SEATTLE, Dec. 21, 2023 /PRNewswire/ -- Centific, a global provider of AI and data services, has announced its partnership with Telaid ,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/",
-      "originalUrl": "https://www.cmswire.com/the-wire/centific-and-telaid-partner-to-bring-ai-and-computer-vision-to-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T14:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

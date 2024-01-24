@@ -64,6 +64,20 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Apple Car release date reportedly pushed back — and it doesn't sound like the self-driving car of the future"
+    excerpt: "According to Bloomberg's Mark Gurman, the scheduled launch of Apple's anticipated EV has slipped from 2026 to 2028. The project, which has reportedly been in the works since 2014, was aiming to deliver advanced self-driving features to a sleek electric car. But now it seems the company's ambitions are scaled back."
+    publishedDateTime: 2024-01-23T23:02:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-car-release-date-reportedly-pushed-back-and-it-doesnt-sound-like-the-self-driving-car-of-the-future"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 5
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/43Zjm88ELA9RYTdGeVBQYP-1200-80.jpeg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EKB/Flz149TYzsVXB7+CE5AVhRK4nq8nYTLNuOh7xi6/6QmFl6Wp7MCKukbAvhyOOg6PV8tUzSq0zg/H1YPYsGVMSKPvydgvsvm3VtY164FaVBAXBI1xkc3nKIg+fA2UleRp3hGrWZuB5pw3XfuGNY5rEDTOJqg1s9tPoSoknUqhy0CRf/+m13vK1b/8p4kOQOru+RD2M5aI18q2OUJzbDYp248RC6y4WmFJLmz6NvS+EPKJI1JXvtOpUEiHmQCURl3rAAd1ObjSimTmhwJ7IFjOcwykwQUtz6VHc9bgKSzrDQLbPJslDTu0/zfg2zYt1kETo4nOYjoIdWSzh0F/iBOM1PWm3mwOFWimkYXENZgiBbBoXAbyWxO7NlvMeuEa8VNIGh7ZIRALT7qkaonoQb4OH2nSiWLbKaoFs1xUBZvHWPYmW3fg0x2x7rikh/a9FanUg/cH4fodNPKCMyNy5hsF+l/59M/2iozqkrovHAfCBu/gr7bMw/xBO+W5weiL+i3zGfmKXcyEaVLJCXnC5g==;md5U4xiZlybEhz5oaRYwVA=="
 ---

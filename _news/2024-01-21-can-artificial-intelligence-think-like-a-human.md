@@ -70,6 +70,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "WHO pushes for oversight of AI in healthcare"
+    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
+    publishedDateTime: 2024-01-23T21:57:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "WHO calls for greater regulation of AI in healthcare"
     excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
     publishedDateTime: 2024-01-23T12:00:00Z

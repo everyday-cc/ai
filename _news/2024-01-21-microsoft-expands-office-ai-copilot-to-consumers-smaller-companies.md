@@ -41,6 +41,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Microsoft is building a team to build smaller, cheaper AI models."
+    excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
+    publishedDateTime: 2024-01-23T22:45:00Z
+    webUrl: "https://www.theverge.com/2024/1/23/24048489/microsoft-is-building-a-team-to-build-smaller-cheaper-ai-models"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
     excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
     publishedDateTime: 2024-01-21T21:14:00Z

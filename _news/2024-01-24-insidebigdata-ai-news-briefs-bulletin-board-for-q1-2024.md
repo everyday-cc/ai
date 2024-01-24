@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-23T17:57:00Z
 originalUrl: "https://insidebigdata.com/2024/01/23/insidebigdata-ai-news-briefs-bulletin-board-for-q1-2024/"
 webUrl: "https://insidebigdata.com/2024/01/23/insidebigdata-ai-news-briefs-bulletin-board-for-q1-2024/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2023/07/AI-News-Briefs-column-banner.png"
@@ -24,6 +25,6 @@ images:
     height: 550
     isCached: true
 
-secured: "ZP7OB/Ur7w96lIGscvo9vQVrVKLtuL2YSzQ+Rsul3sP6uCvefAFyo+LLTQ0IzpplFRHBkTkwaa2DFYk8lF/9iDLqAuIAzkpf8BCk64faVehVs1STnK9LzzSfzoIqvN9zSRyeVnauZD+M6ZVz3jIdfjRRYLipPe5e7qY4dUIubm5VQKk5dd+vjg/obLuk4IyUbbQxWh8UUIZvpRcGkzSXI1rQ3T8xjn7NN/hR9yjVnsa/IRvdumeNVSyAE0TpumyQ/nbqtESfkeoCwhiIZTj88QkjcMAu6wK5ReJip0M98obTxDumL4bWxOmOQFNNbn1sE5cWSUJeDdz0zkOrW1ovu+2rJVN83VN6TsQg2KwmYVQ=;/lTUcbXNK8AFUpYsOTjhxA=="
+secured: "giscBF9nk/XjEZDaupHYW3oVreVpl/IntNnAe//H47xxozU/Dso5m1/7Oh9Cw88M6sc6Elu1wAdsTT7Q01Uw8SoL/c8aaPD7UCvpZ/pDioeYYJbj5cBbtk4G8wL/EaAsfa18DBY7kZ2hzlicnmgMzdEm5QpGxn+UcNn4bJXDXt0MLvVjhktvCeVdFYLrgI/Wsd4S93cm3Hge0ENrtv7rrakWhcVGfMilsPM6jlQLUp4eD5+oB27rfbBHo3M1mMuWIzEJ23j7PF2j73MWCS5+PS94i3T/zpNGRLay9FGdXV/syy8MQWVyBJt53Kj5OtgeGZ4xHs99QHVfalGFaAjwv4izCMkPGAinWzpdqBwFD2XExSOyFrkxmYefTY2Tz7jKF9477nI/mCnASPVw0QBaSbpKz4vijK1CSSQvHSdslzWGaDxocwVuTJNTtLmiZYYORRIg7/kmMcq5OfaQvflPm9QdRh73EiQAEFOxNRoamBXHUUVfreAaaTssAwV953yJRmjMlsGSnH11gCvpLwtiyQ==;CcbQcnhyF0YNcDGVcc7DvA=="
 ---
 

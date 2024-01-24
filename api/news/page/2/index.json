@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-23-lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy.md",
+      "title": "Lexicon on AI: US NIST crafts standards for making artificial intelligence safe and trustworthy",
+      "excerpt": "Q: The AI risk framework was voluntary but the executive order mandates some obligations for developers. That includes submitting large-language models for government red-teaming (testing for risks and vulnerabilities) once they reach a certain threshold in size and computing power. Will NIST be in charge of determining which models get red-teamed?",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html",
+      "publishedDateTime": "2024-01-23T01:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds.md",
       "title": "AI and jobs: Humans Still Cheaper Than Artificial Intelligence in Majority of Jobs, MIT Finds",
       "excerpt": "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries.",
@@ -53,7 +95,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -157,7 +199,7 @@
       "originalUrl": "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -242,40 +284,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.md",
-      "title": "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace",
-      "excerpt": "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm",
-      "publishedDateTime": "2024-01-22T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -941,7 +949,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {

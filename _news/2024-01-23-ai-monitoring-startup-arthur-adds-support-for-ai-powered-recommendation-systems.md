@@ -52,20 +52,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Build a real-time speech-to-image AI using Stable Diffusion"
-    excerpt: "When you speak, your words are captured by a microphone and then swiftly and accurately interpreted by an advanced speech recognition system known as Faster Whisper. Once your speech is converted into text, the baton is passed to a sophisticated image ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/real-time-ai-speech-to-image/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Create-a-real-time-speech-to-image-AI.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "B3mOscbld65pEioSCFpGSP0q69i+HaO+dAJARJWVzo2U969LM7aSDHNa2ywgUQJ0XxReD1JA0MwBfh+VWqT5//fsjbmTMkGpcB6oj75R4at+UrEMYrgwaw9qnMZYuFTYiAyOTuXMXsZ5FkrQBBOx4RtEJU6AZ1DAo9HUx6X88VSZGckPqtSnPhuH3gsAN+zPHkOIhP+IayB50+kN7xEdUV6TWnLHahX/eOxscguMzBd38wq0sL2rrtPHjsRLyBK0vmsKs33waJG3sjZjFgsW9PlaqPofhnwwV+zS4h2DFP11Q/o5M5V1LITEj26HrGDYrBo+XFlOMlzifN8HFnJ6JTq3qaidaS4fwpTQRwEh9XxCe29w3wv1qKFbVBpUzH9xVLNUTOcheKyDpvpZuChgXcmDILWFt3k/gsI9GRqjvD+/3YfPdFzyoEjILGbmBeLMYKj5xB5o0y3BV9iMVamPlcOYKqiiLYQGy25iR3B8lIlbpTWfOL8Vou28eavbOUKiOroy6DTtmzOnXkdqb0ceZQ==;irg2XhYn2t2j6kePoiyckg=="
 ---

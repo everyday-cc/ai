@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
-  - title: "Meta plans to buy 350K Nvidia GPUs to build artificial general intelligence"
-    excerpt: "In order to get there, Meta will need to make a significant investment in its AI computing infrastructure, hence its plans to acquire mountains of powerful H100 GPUs from Nvidia. The H100 chip is Nvidia’s most advanced ever, and is said to be particularly adept at training the large language models that power generative AI such as ChatGPT."
-    publishedDateTime: 2024-01-18T23:59:00Z
-    webUrl: "https://siliconangle.com/2024/01/18/meta-plans-buy-350k-nvidia-gpus-build-artificial-general-intelligence/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/47774197691_ef179b2c80_c-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "ISOfQUFspWURw/z2Q27n9si8nYYdEU00UcA0kK7TKVwgWKVfSfMzyCfGh96aHoCVjQefx54hiyiXnmAiSJNaUqvoPsR1ffKzp/gODzlpRZeJepOE3PsQVXoKQ+Rjuhm4N8ZIB7Zh55FlFaTgZLuMlC0F9ryg+yA5gwMXl/TaBPvWiXp1a2gjdFw6GzJjEyHuQQpEfA7Rr56S8du8Y3xZq565ekf6Cr7OiNtSoiVYg1H4djGJXZm9wJIbq7MM2vBffHmCiUiRzW/Oid5jHehVyVERNLi4gH+Xr9dfJStu510/fAX5q891LWOeXTAt70rXv+dBp9ynjggL0Wpq09MhdyGX8aGyiq05/Wx2svGimXI=;iILAYXMBtFLIvPkdUIBy7w=="
 ---

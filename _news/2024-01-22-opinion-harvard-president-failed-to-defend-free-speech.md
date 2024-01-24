@@ -107,24 +107,6 @@ related:
         width: 800
         height: 418
         isCached: true
-  - title: "Artificial intelligence in health care needs more regulation, WHO says"
-    excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.phillyvoice.com/generative-ai-artificial-intelligence-health-care-world-health-organization-guidance/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 21
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
     excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
     publishedDateTime: 2024-01-22T16:00:00Z

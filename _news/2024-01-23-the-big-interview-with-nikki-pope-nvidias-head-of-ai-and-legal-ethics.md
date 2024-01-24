@@ -49,20 +49,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "Meta plans to buy 350K Nvidia GPUs to build artificial general intelligence"
-    excerpt: "In order to get there, Meta will need to make a significant investment in its AI computing infrastructure, hence its plans to acquire mountains of powerful H100 GPUs from Nvidia. The H100 chip is Nvidia’s most advanced ever, and is said to be particularly adept at training the large language models that power generative AI such as ChatGPT."
-    publishedDateTime: 2024-01-18T23:59:00Z
-    webUrl: "https://siliconangle.com/2024/01/18/meta-plans-buy-350k-nvidia-gpus-build-artificial-general-intelligence/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 20
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/47774197691_ef179b2c80_c-768x513.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "szJ+RxlopK8rIwqRbkADuk0ecRY7/D5MUSG0fMrhU/7p8lvl544Tc3ev0qnVaTcMibtYbx4aen6GMsOctV13WwD0fH19Hqr3Ryy11OgAfed9vKjPrC4YpuTZANiXNKMyNLBmXUkt1aDgzrq2WrQCvQ/lOWrSAydP7IRLGTt/kNTWBpvtg7NlK3BxSPTa0XLmdnw4zg/VLdgfJY6zryecFJVXVKazgiDLAxks+xBJovAiJf8tqM0zqqNSXRT+kEE6Yff8Ww8b8Kkwmgg3cvq6t+kUvQD+B+SeeUf/Y1/ZhWsGR9iLhBHlj/6ELBKc3iNmWTNRFE2ZgYnT6GJfBLGlbe2c3FjWeE9RbJi9NjcqQjTd30srRQJ80Rpk4KUKj2AbNKm+TJiuDxux4a/d9xoyy56G7C4AvhRpfBP1REB1YnTCP9eFXJfewvtlG8Kn01Ugam4mBEPPs6y7HCvoV6RGmPue2mjGbCDCoB0VAs/yFMEhFCpKe7zTPs3UYQeGJ0YWtNXB/HaY9CNDIkpCtqkJYw==;n1lK9OHgC13PhzYGOgg6Dg=="
 ---

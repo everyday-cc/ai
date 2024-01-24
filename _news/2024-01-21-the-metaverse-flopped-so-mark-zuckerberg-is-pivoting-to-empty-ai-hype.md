@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerber
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 199
+published: true
 
 provider:
   name: Rolling Stone
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Zuckerberg says Meta is working on open source “general intelligence” for AI"
-    excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
-    publishedDateTime: 2024-01-18T23:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/"
+  - title: "Mark Zuckerberg plans to build advanced AI, worrying experts"
+    excerpt: "Mark Zuckerberg wants to build advanced artificial intelligence, and some industry experts are raising concerns over his new project.  The Meta CEO shared details in a Facebook post on his account Jan."
+    publishedDateTime: 2024-01-23T23:18:00Z
+    webUrl: "https://www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-ai"
+    ampWebUrl: "https://www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-ai.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-ai.amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 59
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/zuckerberg_front_1-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/01/932/470/Mark-Zuckerberg.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
   - title: "Zuckerberg reveals Meta’s AI reorganization and massive GPU purchase"
     excerpt: "Mark Zuckerberg said the company would bring the two AI teams at Meta “closer together” as it plans to expand both groups."
@@ -69,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Zuckerberg’s AGI remarks follow trend of downplaying AI dangers"
-    excerpt: "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course)."
-    publishedDateTime: 2024-01-18T23:19:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 47
   - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
     excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
     publishedDateTime: 2024-01-19T03:50:00Z
@@ -94,19 +87,51 @@ related:
         width: 1024
         height: 702
         isCached: true
-  - title: "Meta focuses research efforts on ‘general intelligence’ AI"
-    excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
-    publishedDateTime: 2024-01-19T10:02:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
+  - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
+    excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
+    publishedDateTime: 2024-01-19T19:17:00Z
+    webUrl: "https://www.djournal.com/news/national/mark-zuckerberg-hints-at-metas-ambitious-ai-investment-plan-9-billion-on-nvidias-h100-chips/video_f0b07677-05da-5594-817c-f586a215ce1d.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Daily Journal
+      domain: djournal.com
+    quality: 42
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/47721887002_11d5bacf9b_o.jpg"
-        width: 800
-        height: 600
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/f/0b/f0b07677-05da-5594-817c-f586a215ce1d/65aae31fabdcc.image.jpg?crop=720%2C378%2C0%2C14&resize=720%2C378&order=crop%2Cresize"
+        width: 720
+        height: 378
+        isCached: true
+  - title: "Mark Zuckerberg reveals Meta Platforms' stunning target - creating AGI capabilities"
+    excerpt: "Meta Platforms chief Mark Zuckerberg reveals AI plans, says building Llama 3 with artificial general intelligence capabilities."
+    publishedDateTime: 2024-01-19T07:09:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/mark-zuckerberg-reveals-meta-platforms-stunning-target-creating-agi-capabilities-71705647636859.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 38
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/19/1600x900/META-PLATFORMS-TECH-CHILDREN-0_1705653151338_1705653194526.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
+    excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
+    publishedDateTime: 2024-01-19T16:03:00Z
+    webUrl: "https://www.techtimes.com/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 36
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442700/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-to-develop-advanced-ai-with-open-source-accessibility.jpg"
+        width: 1024
+        height: 687
         isCached: true
   - title: "Meta Platforms' Zuckerberg hints company is spending billions on NVIDIA AI chips"
     excerpt: "Meta Platforms (NASDAQ: META) is said to be spending billions of dollars on NVIDIA's (NVDA) computer chips as part of the company's AI efforts."
@@ -117,20 +142,6 @@ related:
       name: Investing
       domain: investing.com
     quality: 29
-  - title: "Meta to Build Artificial General Intelligence"
-    excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/7e/57e7a46e-0ab5-58da-83ae-33b45824ee4d/65ae9863ba7fd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z
@@ -145,31 +156,24 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Mark Zuckerberg commits to developing Artificial General Intelligence: ‘Want to work on more ambitious problems’"
-    excerpt: "Zuckerberg believes that building for general intelligence is necessary to create the products Meta wants to build, attracting the best researchers to work on ambitious problems."
-    publishedDateTime: 2024-01-19T06:32:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems-11705639505993.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/mark-zuckerberg-commits-to-developing-artificial-general-intelligence-want-to-work-on-more-ambitious-problems/amp-11705639505993.html"
+  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
+    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
+    publishedDateTime: 2024-01-19T11:45:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source?ref=mc.news"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 21
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/Meta-Corporate-Responsibility-Lawsuit-0_1705645807066_1705645848198.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Zuckerberg wants to build a different kind of artificial intelligence"
-    excerpt: "Meta Platforms Inc. CEO Mark Zuckerberg has seen the future and it's driven by open-source artificial general intelligence (AGI) that benefits all of humanity by its ease of use, broad availability and safety. Speaking with The Verge in an exclusive ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/19/zuckerberg-wants-to-build-a-different-kind-of-ai.html"
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
+  - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
+    excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
+    publishedDateTime: 2024-01-19T18:29:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/19/mark-zuckerberg-artificial-general-intelligence-system-alarms-experts-meta-open-source"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: The Guardian
+      domain: theguardian.com
+    quality: 15
   - title: "Meta's AI overhaul: Zuckerberg's plan to integrate and expand generative AI research"
     excerpt: "Explore Meta's bold AI strategy as Zuckerberg reveals plans to integrate generative AI teams, invest in H100 GPUs, and push for advancements in reasoning, planning, coding, and memory. Witness the merger of research divisions for a comprehensive approach to AI innovation."
     publishedDateTime: 2024-01-19T13:42:00Z
@@ -193,24 +197,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Llama 3 coming soon reveals Mark Zuckerberg, CEO of Meta"
-    excerpt: "Meta, the tech giant formerly known as Facebook, is making a significant leap into the realm of artificial intelligence (AI) with its new project, Llama 3. This advanced AI model is not just another incremental improvement; it represents a major step ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/llama-3-llm/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-  - title: "Meta to Build Artificial General Intelligence"
-    excerpt: "Meta to Build , Artificial General Intelligence. Meta CEO Mark Zuckerberg made the announcement on Jan. 18. Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses hu"
-    publishedDateTime: 2024-01-19T18:18:00Z
-    webUrl: "https://www.conwaydailysun.com/around_the_web/meta-to-build-artificial-general-intelligence/video_0c60ca2e-6218-5698-8ddb-ac55f48d2775.html"
-    type: article
-    provider:
-      name: The Conway Daily Sun
-      domain: conwaydailysun.com
-    quality: 4
   - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
     excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
     publishedDateTime: 2024-01-19T06:03:00Z

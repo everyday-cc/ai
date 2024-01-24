@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-23T14:33:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2024/01/23/458438-generative-artificial-intelligence-latest-developments-impact-industries.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2024/01/23/458438-generative-artificial-intelligence-latest-developments-impact-industries.htm"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/3278267047-artificial-intelligence-2167835_960_720.jpg"
+    width: 960
+    height: 642
+    isCached: true
 
 related:
   - title: "Top 10 AI Development Companies In USA 2024"
@@ -36,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "K+PQtcwVMrCrHNyeU2JeBv4+B7splpbk5dD7+Y5Ro2TGjO4kwYtk2ed24z1NH3jl//+5fbE2ozcOyTwtubawgctWBHLDaiZPcK+4KS6qLmJtK+c04tkvs/mQYgOjLIZet5ksISdXVEQGTi8EwovEBcBjDp8LvBIEgqzwTLCOGX1mOq6RmX4msYRU51wKst/RfyH5gKCRgeyBxj/4Eq75JThtP5AyWBvwZDX9zf0Uy1T2d2hLT7+vebmW3gbubDpYlqJb9iT2wn48KvynlR8cLBCO5ABCtjZ8o67ogFtf7uS9NP7+prbmUPZNI/Jrg7oY5V9BWaCCmHHe8K+cxuCNCzW6Y64sa5Gbn83ha2KnFCI=;tROwy3yzsthgGY/GGROlWg=="
+secured: "V3jdscBnZnA7yZPC2zjUYGWz99TIUgvmey1z/MDqxOKeaTP9/4tuczjy8wnH5QZdZxD42BctIVYx4Js8HhxkJE6L9sBpCUInPUwcmm5D0pLPwp6EighHab4ePw6WbzCmr+jpvEB1NvCl+aYcsAo/dnhXPooG6JCMGWi/eUYaYeHhN6LH+fO02Tc4op7pKoT49tOoEcrUut2EYvmp/RoJTXOpgNUhIIY3JZr/IOxnH4/waxu083PGpTuU8DV6shgcm4OQvkIjC5WzXtaLwjsqNu+nUlZ0rFM+wlImrfzvdl+h7eCTe+9VKU/xMP4IDO1SN0LMAmuhRVplLjgykECLpPq6LVwb2pXLrT7S1vn6fcM=;It/OoNYEzrrOJMR++MqVvQ=="
 ---
 

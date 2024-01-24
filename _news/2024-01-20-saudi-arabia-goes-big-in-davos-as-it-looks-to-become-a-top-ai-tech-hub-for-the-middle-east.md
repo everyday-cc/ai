@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Arabia goes big in Davos as it looks to become a top AI tech hub for the Middle East"
-    excerpt: "as well as Riyadh's International Center for AI Research and Ethics (ICAIRE) and Saudi Aramco's AI research center that focuses on advanced projects in oil and gas. \"KAUST contributes through its own AI Initiative and hosts the SDAIA AI Center,\" added the ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.nbcconnecticut.com/news/national-international/saudi-arabia-goes-big-in-davos-as-it-looks-to-become-a-top-ai-tech-hub-for-the-middle-east/3197817/"
-    type: article
-    provider:
-      name: NBC Connecticut
-      domain: nbcconnecticut.com
-    quality: 9
   - title: "Global fintech CoorB launches operations in Egypt, Saudi Arabia, UAE"
     excerpt: "Dubai-based global fintech company CoorB announced the launch of its operations in Egypt, Saudi Arabia, and the UAE, according to a statement on Sunday."
     publishedDateTime: 2024-01-21T12:55:00Z

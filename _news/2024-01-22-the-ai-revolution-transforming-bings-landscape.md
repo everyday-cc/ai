@@ -99,24 +99,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "Artificial intelligence in health care needs more regulation, WHO says"
-    excerpt: "In an effort to curb the improper use of artificial intelligence in health care, the World Health Organization released new guidelines Thursday for ethically using the technology. Generative AI, or AI that can generate text and images (think ChatGPT ..."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://www.phillyvoice.com/generative-ai-artificial-intelligence-health-care-world-health-organization-guidance/"
-    type: article
-    provider:
-      name: phillyvoice.com
-      domain: phillyvoice.com
-    quality: 21
-  - title: "AI set to revolutionise retail"
-    excerpt: "Steven Heilbron, CEO of retail fintech Capital Connect, says that the maturity and accessibility of AI has improved in leaps and bounds in recent years. Cloud-based platforms have made AI easier to use and more affordable, democratising the technology."
-    publishedDateTime: 2024-01-19T00:00:00Z
-    webUrl: "https://it-online.co.za/2024/01/19/ai-set-to-revolutionise-retail/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Opinion: Harvard president failed to defend free speech"
     excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
     publishedDateTime: 2024-01-22T11:35:00Z
