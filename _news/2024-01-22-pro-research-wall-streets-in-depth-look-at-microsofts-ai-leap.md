@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft: Azure Taking Share With AI Push"
+    excerpt: "Microsoft is positioned to benefit greatly from the AI revolution. Azure, Microsoft's cloud platform, has been a major growth driver for the company, fueled by increased AI consumption. MSFT's expansion of AI to its other products and services, as well as ..."
+    publishedDateTime: 2024-01-24T04:19:00Z
+    webUrl: "https://seekingalpha.com/article/4664547-microsoft-azure-taking-share-with-ai-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
+        width: 594
+        height: 370
+        isCached: true
 
 secured: "x/6IUnOj9Xf7huWfvKA0ri7ihWd+2vAbmIUt9zJOyV+IC5lYvZL0mP1/snka44hUejJdsoGETUPjCfoXcs48sNx2vgojJc2ntJEkNvrOE1Bj7NluYWVe3X7yYkiXD1elwylqCaNjTBF2JPT5zL26gKOWhrXj5C45z4l+4Ur1Kp+lVS+y1RjDb0i/7DBMaYcWCBIuM8Bs85FFon8l4zqUj4hcauTRTpR4u53KAfP9uP8ucGWNJsgaZXxD48k3/g9fild1BEcyUWlIfUVlq9lfUR5QUeXNqJlxkXeHYc9cbvV/DffXWB4v/J/08lZtxKcitXFuUZne4+hlx6WWPVFLK8K8NrF/c1P2hq/afskG3Kw=;8D4Bo6CpDvi4FsDeQ6YECg=="
 ---

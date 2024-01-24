@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon's AWS to invest $15 bln to expand cloud computing in Japan"
-    excerpt: "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services."
-    publishedDateTime: 2024-01-19T06:42:00Z
-    webUrl: "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "AWS plans huge investment in Japan cloud infrastructure"
-    excerpt: "Amazon Web Services plans to invest over $15bn into its existing cloud infrastructure in Tokyo and Osaka by 2027 to meet growing customer demand"
-    publishedDateTime: 2024-01-19T02:25:00Z
-    webUrl: "https://www.computerweekly.com/news/366566832/AWS-plans-huge-investment-in-Japan-cloud-infrastructure"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "AWS to invest $15bn in cloud computing in Japan"
     excerpt: "Amazon Web Services (AWS) is planning to invest 2.26 trillion yen ($15.24 billion) in expanding its cloud computing infrastructure in Japan by 2027. As part of this investment, the company will seek to expand its data center facilities in Tokyo and Osaka."
     publishedDateTime: 2024-01-19T12:26:00Z
@@ -63,15 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
-    excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
-    publishedDateTime: 2024-01-19T06:01:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazons-aws-invest-226-trillion-yen-expand-cloud-computing"
+  - title: "AWS Announces ¥2.26 Trillion Investment in Tokyo and Osaka Cloud Infrastructure, Predicted to Create 30,500 Jobs"
+    excerpt: "Amazon Web Services (AWS) yesterday announced its plans to invest 2.26 trillion yen into its existing cloud infrastructure in Tokyo and Osaka by 2027"
+    publishedDateTime: 2024-01-24T02:39:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/34696-aws-announces-2-26-trillion-investment-in-tokyo-and-osaka-cloud-infrastructure-predicted-to-create-30-500-jobs"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
+      name: Deep
+      domain: thefastmode.com
+    quality: 18
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2f7fff129b9dd678b9ada1edf2abe80a.jpg?t=20240124_022410"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "DpqvFCnEJOpES3y7IPScsJBNFVdQDVDDeXWUWICWZ/izeLMMpTJomfTSxFCpWbXYlKxJNfnlCIVBgysZL8BpJDmO+n222gbgHJwXTqv70IbJFCRJfuIDGldLU6R4wVu2F3H3iSZT9JnISBFpDXDeW1UkNpq2Iol3mUlXNKiRtrrI6xSw00Fcquy8YJAvI0GlAPnqTKRiwUHhM+vb9pLsxM/tB8blywmLZR25OrVa/EeQMYEbmEmSrR8OGWvJxDe98fSBdKRQpuXdFJyBUhTV999HlncE3a3gkgeYSe3f6J3Eo0AFdwR5rhxyc0q37onsezQ1Bl2m5B++81BDCBOh9IbXht7Sa8DfSF3XfSWHeywImDP5p5+qScfCC51cJzS0CD0cwybTCunrgdEUDvmiUnyDLmm8go8JSPzUBCU5mYHkJwb2LOwtI7CalMwvWolR/BxSi4JdZcVxsgcdpwJUm5yG6xjo6zs9GnR6rO4f7V1WmYO6e7P9yFcmeCcOdpDC4KNuYlNU1uoJl8lyjvXKuQ==;69IW3khDXHA53ggSxEvkzQ=="
 ---

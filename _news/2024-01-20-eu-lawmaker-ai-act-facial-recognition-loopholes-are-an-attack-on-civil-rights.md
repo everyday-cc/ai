@@ -36,6 +36,17 @@ related:
       name: KRIV
       domain: fox26houston.com
     quality: 54
+  - title: "How did facial recognition technology send the wrong man to jail where he was brutally attacked?"
+    excerpt: "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail."
+    publishedDateTime: 2024-01-24T00:28:00Z
+    webUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked"
+    ampWebUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 41
   - title: "India govt blocks plans to procure facial recognition, drones to monitor election"
     excerpt: "The NIC was looking to procure and deploy of surveillance equipment including drones and facial recognition systems for monitoring election processes."
     publishedDateTime: 2024-01-19T19:10:00Z

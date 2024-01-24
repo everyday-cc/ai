@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-23T16:58:00Z
 originalUrl: "https://www.infoq.com/news/2024/01/mistral-ai-mixtral/"
 webUrl: "https://www.infoq.com/news/2024/01/mistral-ai-mixtral/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Meta AI
   - AI
 
-secured: "PW5yifWI6ooizsC9z3ebWrc+r0ArLk8WW6fkbiawMWUb2MqZ8bT6dWvfTkaLa/u6OzAVmtPHf/xKHdLBQuletm/nRrfSaiUNXut1FmFDTAKpKDjEhyeakNkrIBpYVJ5fGRq1amKWSR71NSkxj9PbNSPHadQQmTAtP5KvTQK+ep7CjNzSC1rmuWcgj+pu/YF83uTSzFh//qryeaNczSCdFfG1iW5YdJTSCy1Wqx3vhhdGIN6P9AODYF20nqPxOysMPHomn88LTCVazUCNL0XPM3uLiGSgzsesKHu8Gp08sxteDtxy+Emy+LX606FA9fSWoLsZBWKBcEzlLS8ZK14m9/18hNT5ZFqrrYK68VNM9Qw=;Wavrjnxd/PMxMuUDWJBMOw=="
+images:
+  - url: "https://res.infoq.com/news/2024/01/mistral-ai-mixtral/en/headerimage/generatedHeaderImage-1705358046257.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ZwyDV3cAIScuxyFV7kr8YInfFHPIJMSc99UZXCZUf11VKT1Alzwbp6oIwxyhAY6zAbCxQ0ppcyIsHPZNBjIyizJw0NZrVXe6wvzGxmgOhyMj2sIzEwQyCunOKABuI4d0XtAsVP8yK2wYbsIPS6l40oXAOabnULQc+F+ABgoL7OyTl9eLKR8l9vGhxb+aGlFPxeA18LTaVZqu9Fx5+iwaxjCiCAjQTKLSO7IMCUYbfKpz2n2v/3lzrZT+iD9uBYeKES9sJHy6kG2m4xtxoNluOEVCeiyijZohaC3fKv2Q2TLlV9A+v6orEoIPGmZ2uqt30TqkNkt+PnW+QYe+BzYMAVCCeUkIJC3wc0+5kJl4Fp8=;2r4aTuX6VG2gW9u+B+NCBw=="
 ---
 

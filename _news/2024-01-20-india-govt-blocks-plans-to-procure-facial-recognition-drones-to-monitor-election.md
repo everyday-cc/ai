@@ -50,6 +50,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "How did facial recognition technology send the wrong man to jail where he was brutally attacked?"
+    excerpt: "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail."
+    publishedDateTime: 2024-01-24T00:28:00Z
+    webUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked"
+    ampWebUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 41
   - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
     excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
     publishedDateTime: 2024-01-21T09:13:00Z

@@ -65,6 +65,20 @@ related:
         width: 829
         height: 553
         isCached: true
+  - title: "Is there AI discussion fatigue in healthcare?"
+    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
+    publishedDateTime: 2024-01-22T23:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
     excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
     publishedDateTime: 2024-01-22T17:39:00Z
@@ -107,6 +121,15 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "WHO calls for greater regulation of AI in healthcare"
+    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
+    publishedDateTime: 2024-01-23T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
   - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
     excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
     publishedDateTime: 2024-01-22T16:00:00Z

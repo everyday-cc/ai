@@ -26,73 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "The secret to healthcare AI is ... human beings"
-    excerpt: "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human."
-    publishedDateTime: 2024-01-19T07:00:00Z
-    webUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings"
-    ampWebUrl: "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp"
+  - title: "Tech execs say a type of AI that can outdo humans is coming, but have no idea what it looks like"
+    excerpt: "Leaders from the likes of OpenAI, Google DeepMind and Cohere see a form of AGI approaching, but say that it’s still too early to tell what it’ll look like."
+    publishedDateTime: 2024-01-23T03:48:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tech-execs-say-a-type-of-ai-that-can-outdo-humans-is-coming-but-have-no-idea-what-it-looks-like/3441584/?amp=1"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 46
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+      - url: "https://media.nbcdfw.com/2024/01/107361594-1705663400079-gettyimages-1934702395-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Can Help Humans Become More Human"
-    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
-    publishedDateTime: 2024-01-22T16:22:00Z
-    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "WHO pushes for oversight of AI in healthcare"
-    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
-    publishedDateTime: 2024-01-23T21:57:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "WHO calls for greater regulation of AI in healthcare"
-    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
-    publishedDateTime: 2024-01-23T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 36
 
 secured: "xtLETUINsJVrykrhksKvDmXmENsmwLmRqgUyc5/nCl8zvRXmHBToGJB70zMrShQjPIpnnOM/9zTGo0dueIiU26FU8SND7ou5IdLYBi5uux5jYr6b41ZhwnyKHEIWbKN2La1S0zF0STB5b+rI9g30eNR7hKlzEg+X2Ql+QXhyEEzgnoXkplVM+DsfARvMq+qVzM2Z8M0pzt7nJMXoZIcfnliQWxPz0KS8MqZWLfgtw/sCILEAkfr6hEOg31qVS8zZM+zXOa7vlPuJheu3aSMvxQR+QbeAiEDTE91ZQ2GKStxRw1PnLV3bU2tywNJVkpVbNEIo/zw9wC91NIAgdNbRFN5ClQGccR++E/2ZFREdmjX4ePEAgo6z79tsH4CC+2W48InkZ0UizAlUd/vIJESQK8Ul1zTQ2nTJIi/oupLF5RX/h5zi4BuyRxjYkI6s4nLNW85uMTsDKNkcCfZ9uxzv2hl2+u84mOT6+KcBJ7q2+MlJuH+LdKdxMdO//5i6lCeFma4ipY/mpJq9osaJIeeUIg==;ismULM7sdqXZkSvutJYp7A=="
 ---

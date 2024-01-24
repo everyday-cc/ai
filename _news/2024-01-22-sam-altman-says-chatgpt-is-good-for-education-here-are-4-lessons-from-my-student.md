@@ -288,22 +288,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Sam Altman addresses ‘nervousness’ around Artificial Intelligence: ‘It's on us to…'"
-    excerpt: "OpenAI CEO Sam Altman expresses empathy for concerns about AI systems like ChatGPT and proposes co-evolution of society and technology. Altman believes AI will lead to higher levels of abstraction and increased decision-making capabilities for humans."
-    publishedDateTime: 2024-01-19T04:42:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to-11705636013098.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 51
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/SWITZERLAND-DIPLOMACY-ECONOMY-SUMMIT-DAVOS-42_1705638144974_1705638170691.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "OpenAI founder Sam Altman is building a global network of dedicated chip fabrication plants"
     excerpt: "Bloomberg reports that these Altman would be working with the world's best chip manufacturers and that the network of fab plants would be global in scope. Altman knows there is a future AI GPU shortage coming, as companies like NVIDIA, AMD, and Intel can't ..."
     publishedDateTime: 2024-01-21T15:09:00Z

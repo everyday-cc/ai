@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-sto
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Psychology Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI could help us talk to animals"
-    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
-    publishedDateTime: 2024-01-19T10:58:00Z
-    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why did this company AI chatbot start swearing and criticizing the company?"
     excerpt: "Shipping company DPD has a chatbot on its website that uses artificial intelligence to help answer basic customer queries. However, a recent update to the system caused the chatbot to become rather unruly and not at all helpful. Ashley Beauchamp turned to ..."
     publishedDateTime: 2024-01-22T00:00:00Z

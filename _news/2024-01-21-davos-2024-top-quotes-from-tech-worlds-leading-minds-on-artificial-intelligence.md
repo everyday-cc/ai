@@ -36,22 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Davos 2024: On Day 4, the business of AI dominates"
-    excerpt: "As the third day of World Economic Forum in Davos was filled with the talks of the never-ending geopolitical tensions, the emergence of Sam Altman on the penultimate day of the annual jamboree put the focus back on AI. He assured artificial intelligence won't replace human care for each other, just like computers didn't kill the game of chess."
-    publishedDateTime: 2024-01-19T03:30:00Z
-    webUrl: "https://www.livemint.com/news/davos-2024-on-day-4-the-business-of-ai-dominates-11705598475989.html"
-    ampWebUrl: "https://www.livemint.com/news/davos-2024-on-day-4-the-business-of-ai-dominates/amp-11705598475989.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/davos-2024-on-day-4-the-business-of-ai-dominates/amp-11705598475989.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/18/1600x900/DAVOS-MEETING--47_1705598545620_1705598572642.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "WEF: Davos fears AI and 2024 elections"
     excerpt: "As global leaders descended on Davos this week, many fretted about the World Economic Forum’s top risk for 2024: AI-generated misinformation. Though big tech attempts at curbing misinformation was lauded,"
     publishedDateTime: 2024-01-19T10:04:00Z

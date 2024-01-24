@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/aws-to-invest-15bn-in-c
 webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-invest-15bn-in-cloud-computing-in-japan/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon's AWS to invest $15 bln to expand cloud computing in Japan"
-    excerpt: "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services."
-    publishedDateTime: 2024-01-19T06:42:00Z
-    webUrl: "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859"
-        width: 5000
-        height: 3333
-        isCached: true
-  - title: "AWS plans huge investment in Japan cloud infrastructure"
-    excerpt: "Amazon Web Services plans to invest over $15bn into its existing cloud infrastructure in Tokyo and Osaka by 2027 to meet growing customer demand"
-    publishedDateTime: 2024-01-19T02:25:00Z
-    webUrl: "https://www.computerweekly.com/news/366566832/AWS-plans-huge-investment-in-Japan-cloud-infrastructure"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-160124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "AWS will invest $15B+ in Japan to expand its local data center footprint"
     excerpt: "Amazon Web Services Inc. will invest 2.26 trillion yen, or about $15.24 billion, in Japan through 2027 to expand its local data center network."
     publishedDateTime: 2024-01-19T19:08:00Z
@@ -64,15 +34,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 18
-  - title: "Amazon’s AWS to invest 2.26 trillion yen to expand cloud computing in Japan"
-    excerpt: "AMAZON Web Services (AWS) said on Friday (Jan 19) that it plans to invest 2.26 trillion yen (S$15.24 billion) in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for artificial intelligence (AI) services."
-    publishedDateTime: 2024-01-19T06:01:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazons-aws-invest-226-trillion-yen-expand-cloud-computing"
+  - title: "AWS Announces ¥2.26 Trillion Investment in Tokyo and Osaka Cloud Infrastructure, Predicted to Create 30,500 Jobs"
+    excerpt: "Amazon Web Services (AWS) yesterday announced its plans to invest 2.26 trillion yen into its existing cloud infrastructure in Tokyo and Osaka by 2027"
+    publishedDateTime: 2024-01-24T02:39:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/34696-aws-announces-2-26-trillion-investment-in-tokyo-and-osaka-cloud-infrastructure-predicted-to-create-30-500-jobs"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 17
+      name: Deep
+      domain: thefastmode.com
+    quality: 18
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2f7fff129b9dd678b9ada1edf2abe80a.jpg?t=20240124_022410"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "qdewXXfyO9WUddF4QO5KfSySfSUd/NyVPPjkOZb/rO+7VjGyVMc0AoMRYCMLvu81P0ouHKweYdq52loPjPrpZajRjJcPkgv7W4zvR7TECmoVbdDM2KetAqn8YY7fpCVdCQJURhtfjy2RVZRn7TeZUqA8CmztT/HZlg8byM2G+ycXU5HEt09Dm0RTsaab0a4JMu1WPkmtww2MqdG/uQj/BTkrI57i38oN4EIsm0Hb5LhL3CHu4C5niqyEgd6K5JaQCCHux7C2xNCht/DpYJkgFeBxk9IE4YggoAZgLl1WP5FInFcTGJDiYIEUqCW7ySloNLfcK4MTfZhma0qb/nA2uFzVpKjqLnjeYnRd9AtrhuvwRyQjVPcLA0J2BpKWXzumBPpB8Kl5IzmOvWS/N0GA0urNiIbqXIdO7d2Ls/a6WTY+WXycD11OupCiMn9Rh1rBHzmE70gBHBbO1abPTxMqthVBEZKuU06yXYf6wnYOaL1lJl+A/OlNmssGbBTfLOTxlDf2oIJovY5SZOb1P/4Psg==;n0RKSlR/e0Eu1aU2LE3EBw=="
 ---

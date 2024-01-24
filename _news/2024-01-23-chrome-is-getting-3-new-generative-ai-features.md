@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How Generative AI Will Shape Contracting"
-    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
-    publishedDateTime: 2024-01-19T05:00:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
-        width: 953
-        height: 635
-        isCached: true
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
     publishedDateTime: 2024-01-22T18:08:00Z
@@ -161,6 +147,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ukmkNvR6DLSHMrFAjBSN6r3iGeOLCbFEy8Vto9/54b0HjJ5o+V2BjyIsREahsTaOHIu3GMCNBPMETgntZZIbI3qloCOHbq1JnIRim++vavhhG26jKpKvsrrYhqjdfaYHeyZks/PuC3VgD7noZJikvkJwhN+xOxSHMR9+e1Lpz90/u9L2g9AN8CqLIHUF9NRTdpbcI8dVKqXNCpXGQiNtpZrUTJlVxD2HJyRtkFuxk7g0WF2zdV9FPSsRB4yccaqXrrDVqBwNEZtkTWjaC6hJ2o8aK1UnD5uWtd1QXpfaLun5UhDWyxfv0LzsGaVF1CM/rtQbw2jqlELBgKd5OQeH87c1tjXArP3mTIKNG62/0xs=;KA+iUUD9Ao8dalJaSWivcA=="
+secured: "dIXNIqP45bcmGChDZ6HwLvnny4fUCLgUgBkp6OjCyb7h8imh4ZihzzrgGiua464HOj5TKeeC/7G5396wt8hSQpIurxRfDxyV/snlw6u2RJhCV6QFF4sm3rV05mlPD5wOYjOxzoH0XrvZJCHoyvbitQMEcjnqrcoGkpwF2ESEZ8g2Ugg8kgU688UF8Q4fecXILSk7uh688cV8+SzXs5E/ewjob0mQOcU4ivLktgBGF/1t/C2t8SJLnPH6+EhLXQRfhqXpepWFT8NGzXenGICMeaFXhvFWi9b/Ui0rfCCGU9nrwInk6ta1kCe3w8H/dYhOW0M0J+xBcoCVcOaPfBkoreayxHnvXvPKZygEirqlSFw=;zMZh/8TLe03ONu29Xh30sw=="
 ---
 

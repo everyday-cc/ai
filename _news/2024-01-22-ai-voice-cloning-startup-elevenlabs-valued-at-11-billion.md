@@ -68,6 +68,22 @@ related:
         width: 492
         height: 474
         isCached: true
+  - title: "AI voice cloning startup ElevenLabs becomes unicorn after $80 million funding round"
+    excerpt: "AI voice cloning startup ElevenLabs has gained unicorn status after its latest round of fundraising, per a Reuters report on Monday. According to a source, the company raised $80 million in Series B funding from investors led by Andreessen Horowitz ..."
+    publishedDateTime: 2024-01-24T06:50:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 51
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/i19zt7/article67771715.ece/alternates/FREE_1200/2024-01-04T174955Z_1617394727_RC24B5AC0VSG_RTRMADP_3_APPLE-AI-INVESTORS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
     excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
     publishedDateTime: 2024-01-23T00:01:00Z

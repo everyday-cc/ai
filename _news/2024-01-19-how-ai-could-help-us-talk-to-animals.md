@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "We Should Stop Comparing Animal and Artificial Intelligence"
-    excerpt: "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries."
-    publishedDateTime: 2024-01-21T23:47:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
+  - title: "How AI Helps Drive Cloud More Safely"
+    excerpt: "There’s a place for an accelerated cloud vulnerability resolution process and a drive down safer cloud journeys through the use of AI."
+    publishedDateTime: 2024-01-24T06:24:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65afcb5df16229caf4ad0178/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "How AI Can Help Humans Become More Human"
+    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
+    publishedDateTime: 2024-01-22T16:22:00Z
+    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Telco AI Deep Dive: From cloud-native to AI-native"
+    excerpt: "For an operator to be AI-native it first has to be cloud-native; today most aren't, so where does that leave them with regard to AI?"
+    publishedDateTime: 2024-01-22T21:52:00Z
+    webUrl: "https://www.rcrwireless.com/20240122/deep-dive/telco-ai/telco-ai-deep-dive-from-cloud-native-to-ai-native"
+    ampWebUrl: "https://www.rcrwireless.com/20240122/deep-dive/telco-ai/telco-ai-deep-dive-from-cloud-native-to-ai-native/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240122/deep-dive/telco-ai/telco-ai-deep-dive-from-cloud-native-to-ai-native/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
     quality: 59
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Why did this company AI chatbot start swearing and criticizing the company?"
-    excerpt: "Shipping company DPD has a chatbot on its website that uses artificial intelligence to help answer basic customer queries. However, a recent update to the system caused the chatbot to become rather unruly and not at all helpful. Ashley Beauchamp turned to ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-did-this-company-ai-chatbot-start-swearing-and-criticizing-the-company"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 35
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
-        width: 1440
-        height: 700
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2024/01/Deep-Dive-Slides-4.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "JTk551kneu3pyPWynS4Rv79M7f/OhtvvFHPyL7Wppwf3KCQLNqXGQyRJwd9Ihrc1x3Ch32WZnLOE401XZHKB6su8jQd7UHBkdjuqovmWkN/p+MBDiGqQQZ6CdSacPP2/hY2UpFgwE/cPRzUA99qFgBjFlqyT+5YdA7TTJTPH7IEUC6iOfGwT17EGoKoz9AaAPWWkafKZRBECJClju/7t1uBKGo7L7f2pJRLBeDIKer9W0D6FQNMwY/Fru2JU5rYF9ti5QjVA5MHxTeKOnTE9nMXAJ08QgnJghHWCP/VvV6sfsvQqUdi9Lwov2Pr514gM5RMsh0yNMdkwfNOyEcyC0v/M0GPi/wle7IlZzxccqaw=;6j/nbpty72ff9qn1xJmldQ=="

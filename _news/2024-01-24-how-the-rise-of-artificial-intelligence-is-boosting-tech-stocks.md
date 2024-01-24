@@ -34,8 +34,13 @@ related:
     provider:
       name: Investopedia
       domain: investopedia.com
-    quality: 19
+    quality: 41
+    images:
+      - url: "https://www.investopedia.com/thmb/LinjIvuSrJSmljARh_ES19dm-VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
-secured: "g4VFkZv96bEfHXgMKJQVRyWoRwBiSeaajsskHkhwmZV9/7Ykv0MpJUSlsXCnWtEp3mOcxVH+HSOMgXmMc6ixf/4T1h8Ocyx671N/QzXGAafpPkCyd0L/PBYhS+zB8Wik47SBF4hFdwNc4FU5eUkMAdAUZ3TZtuUJw33oRN2i2ixbEP7XgnrhNPXRoFKaLHE0ibnUNjxq9e//tc+VDWbKwOsOio71vP8FfqGiAYHpX6Fu8wMi+gKVDzjMFocSRc/JDbM4cIRIwAgedTy0FxRJSOcCEpr735vKPzAlyRebVhxyu0cVNwqUSCh4Rcobg6xH+hg8IZ1O8vM1nrbHS/jfEZJ4lyL/9zDupEepURMGjoY=;zSR6E6BCbUKuB6KwyM9+0g=="
+secured: "mMRsantZzOmy5zsaIvYRk5bJquSkK/mNENPk+WjDiM2kM7+vZh/lz2yBG7cLHTkTChA/HRO1N2fpKqWMDI2mD7b97Y2zoIaW9cwthUymKZSY7Homt+oMvJ59XkQnYKMUafVqhq8lCh+gQj0xYdYJPI7PWM/0gq2CAfGuajOoMuXp1pF5Rk0yKWAfPwVdaSUGyjxuHO6JLPVMWYvD3A5yKXS94WSVc1df/nSVmKqIGBY0iJ6CS6xuzrpbS6sOCcW9gNLaL0tBa54u/gJiGp3bJacCdCs0d+S0gYBpOhBfuMEJYGhw+6T21an4AMsxQ42Vs/aclgH6W0anIHWNJsyktY82Jc8RSQou/0oLFM4mSID4WrgbBJgG4Vi0TgSCb1gLndcvrmy62m0VXxU5DrfMu6V4wyONc08oxN1+HD84aLARvWrJMw+Gcti0q3Inwbkb5D0S9hXd2vyd5zBknS00hoWOX2LF+JIY04yGjgVYmdt8da7T2Y06GTehVOxr0d14+ILNaG/Yw+Ic42MILgFAOg==;dIZv0flN+DIfB/C21AmNpg=="
 ---
 

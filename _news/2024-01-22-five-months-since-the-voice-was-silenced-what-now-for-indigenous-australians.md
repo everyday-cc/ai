@@ -35,6 +35,22 @@ related:
         width: 5246
         height: 3497
         isCached: true
+  - title: "Google ends contract with Australian data firm that helped train Bard AI"
+    excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
+    publishedDateTime: 2024-01-24T06:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Can the power of artificial intelligence be harnessed to help predict Australia’s weather?"
     excerpt: "Machine learning from existing models is already helping some developing countries with forecasts, one researcher says"
     publishedDateTime: 2024-01-21T01:19:00Z

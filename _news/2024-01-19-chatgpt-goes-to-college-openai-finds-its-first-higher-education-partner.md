@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-ope
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/"
 type: article
 quality: 120
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://i.insider.com/65aa55866979d737182492d3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "AI comes to higher education as OpenAI partners with Arizona State University"
-    excerpt: "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere."
-    publishedDateTime: 2024-01-19T03:58:00Z
-    webUrl: "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-18-22.06.46-A-robot-wearing-a-striking-red-and-gold-graduation-robe-and-cap-proudly-holding-a-diploma.-The-robot-is-standing-in-front-of-a-university-campus-in-T.png?w=1200&strip=all"
-        width: 1199
-        height: 685
         isCached: true
 
 secured: "xMrgvyBgbu6DDF8M7nF0MvtFZMSgTM3HoTcCLV8INH8hniSNzVVY47HfRDY0w587FqFzgG9O3Fir0ISduUq921cSzGk8Z/l14V9gPVdri5iNcRA4r9F+lywnuKkhzDZAmztmWRoi8BnspHj5XcSezQytcKrAjXbicUO+C9IZ1za71d42In94Y+gkkz7QJ/6BCiXWJ3Hhv5XGCW2Bf8TzLyJ66IXSDn84qFlLVcPeQ4lMES6MA26U+lI1xc+KsIgcQjE6ghyZeocNPRWY6Ucx3+Aw7gnptY5XcqkozaGxZTyIkU/pqYeyEMDiIPknUd2/JrIOuJcZx77m3tyYXfiw11mtSORFMgj17jKChdG2aFY=;C16R/WZjK5OZ4O/v7QLSuw=="

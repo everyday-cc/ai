@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
 type: article
 quality: 89
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -276,22 +276,6 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Sam Altman addresses ‘nervousness’ around Artificial Intelligence: ‘It's on us to…'"
-    excerpt: "OpenAI CEO Sam Altman expresses empathy for concerns about AI systems like ChatGPT and proposes co-evolution of society and technology. Altman believes AI will lead to higher levels of abstraction and increased decision-making capabilities for humans."
-    publishedDateTime: 2024-01-19T04:42:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to-11705636013098.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openai-chatgpt-sam-altman-addresses-nervousness-davos-wef-2024-around-artificial-intelligence-its-on-us-to/amp-11705636013098.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 51
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/19/1600x900/SWITZERLAND-DIPLOMACY-ECONOMY-SUMMIT-DAVOS-42_1705638144974_1705638170691.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
     excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."

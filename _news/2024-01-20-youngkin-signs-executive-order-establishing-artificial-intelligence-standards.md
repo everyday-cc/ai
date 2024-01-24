@@ -7,7 +7,7 @@ originalUrl: "https://www.thecentersquare.com/virginia/article_b21b9fe0-b6f6-11e
 webUrl: "https://www.thecentersquare.com/virginia/article_b21b9fe0-b6f6-11ee-8b5a-bf5bcee7e2aa.html"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Gov. Youngkin signs executive order on artificial intelligence guidelines"
-    excerpt: "The order implements AI standards and guidelines to protect Virginians, utilizing $600,000 in proposed funds for AI pilots in state agencies."
-    publishedDateTime: 2024-01-19T04:15:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/19/gov-youngkin-signs-executive-order-on-artificial-intelligence-guidelines/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 38
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-19-2024/t_b0da767aca1241e1acec2ff0ce96846c_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Youngkin signs executive order establishing artificial intelligence standards"
     excerpt: "Gov. Glenn Youngkin signed an executive order to implement artificial intelligence standards and guidelines he says will protect Virginians. Executive Order 30 will implement AI educational guidelines for the classroom and policy and information technology standards."
     publishedDateTime: 2024-01-22T12:50:00Z

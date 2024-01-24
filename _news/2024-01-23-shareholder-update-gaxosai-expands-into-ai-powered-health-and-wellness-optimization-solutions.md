@@ -39,15 +39,6 @@ related:
         width: 718
         height: 300
         isCached: true
-  - title: "AI adoption and innovation will add trillions of dollars in economic value"
-    excerpt: "The trifecta of opportunities -- economy, business, people -- stands out, potentially creating an additional $10.3 trillion in economic value by 2038. Most CxOs believe generative AI will ultimately increase their company's market share, with 17% predicting the technnology will increase their market share by 10% or more."
-    publishedDateTime: 2024-01-19T05:41:00Z
-    webUrl: "https://www.zdnet.com/article/ai-impact-on-work-workforce-and-workers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
 
 secured: "FolghoPo1g7WO+AY40gmyBO6d/mjAGmzJuPlO4fdJxbCukG29bTHVH2LJJ40J4Pq8fOdsSWOIeyvJsJb5AxrAomW1+MgfqhurcPlW7uz+oxu1oiiAP0kDVu7nQxEiFwxuRr/bezZs6NYgs0TS8v+GQ48SOYI82WbbG8fNP8hhAwatK7uJ5rCn3ewv4MsKTAAMtg2o2o716QjV6CROWtMDQr6uEMgHJxxM4EE/i3SSRtTT6QTHC549lcpEXEbSqq3nAY6VzZHFImhWt53Cx0641DK0AO6d2sxzWOTBM9rMVjjQ2ZfCzjmgnoto0iK/BWAgtKKcbTFUo3mt0MtOmYFRhbyXWOQYBxng8EWh2vIX/E=;3iMP0uHMKOxGceSYr6Pg7w=="
 ---

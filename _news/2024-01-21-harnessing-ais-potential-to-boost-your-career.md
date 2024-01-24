@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI's Full Potential: 5 Adoption Essentials For Enterprise Success"
-    excerpt: "Uncover the five essential steps for enterprises to effectively harness the transformative power of AI: aligning AI strategy with business goals."
-    publishedDateTime: 2024-01-19T06:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/19/harnessing-ais-full-potential-5-adoption-essentials-for-enterprise-success/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa21dac2425a84517c911a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Bringing Agility into AI to Drive Business Success"
     excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
     publishedDateTime: 2024-01-19T10:54:00Z

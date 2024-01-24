@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI comes to higher education as OpenAI partners with Arizona State University"
-    excerpt: "The generative AI boom that has been embraced by many enterprises is still lagging when it comes to the broader educational sphere."
-    publishedDateTime: 2024-01-19T03:58:00Z
-    webUrl: "https://venturebeat.com/ai/ai-comes-to-higher-education-as-openai-partners-with-arizona-state-university/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-18-22.06.46-A-robot-wearing-a-striking-red-and-gold-graduation-robe-and-cap-proudly-holding-a-diploma.-The-robot-is-standing-in-front-of-a-university-campus-in-T.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
 
 secured: "rWw2NTZqq/rPvAvf3txuxI+9rzRM56JIj8dNJ81Dh2hGhMrtTnZl+AvmKg/MTp17FmvhqjinX55nHhi3lBuy/t3/ZuslJZtRe5LTIJ6VWgfAIsEWHbb5+nlL8MpRuec1zgkwlEt9H9qqRGrpmfKDBPhzP0MFlpKKz5yqI9NT5088fgK0JYFniPlrnJWn842hyY8ebiotHsdeDzn6yo7Qv5VLaCgQsBfv3VxaZzI2jGBj9XGI3AL6l8MQ5xSLDfxW8saXZCArOGWWx8F31RM1yq/DpDdFx9x+CApwismUJjeHONALuGIt1NEEFI+stSkSeSz9ZUst45IaJjAaFFPXunr/P4alPXXSKdPz3AXPxlk=;20HAmeqSzk3NSfT3EM2HCg=="
 ---

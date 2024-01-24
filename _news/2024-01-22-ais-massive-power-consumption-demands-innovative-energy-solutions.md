@@ -9,8 +9,8 @@ ampWebUrl: "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consump
 cdnAmpWebUrl: "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Crude Oil Prices
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI adoption and innovation will add trillions of dollars in economic value"
-    excerpt: "The trifecta of opportunities -- economy, business, people -- stands out, potentially creating an additional $10.3 trillion in economic value by 2038. Most CxOs believe generative AI will ultimately increase their company's market share, with 17% predicting the technnology will increase their market share by 10% or more."
-    publishedDateTime: 2024-01-19T05:41:00Z
-    webUrl: "https://www.zdnet.com/article/ai-impact-on-work-workforce-and-workers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 45
   - title: "Shareholder Update: Gaxos.AI Expands into AI-powered Health and Wellness Optimization Solutions"
     excerpt: "Roseland, NJ, Jan. 23, 2024 (GLOBE NEWSWIRE) -- Gaxos.ai Inc. (\"Gaxos\" or the \"Company\"), a company ... The Company will methodically launch games based on research and market data. Commitment to Shareholder Value: Share Buyback Program In a strong display ..."
     publishedDateTime: 2024-01-23T08:55:00Z

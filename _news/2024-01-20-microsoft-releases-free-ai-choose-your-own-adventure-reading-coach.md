@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-
 webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Microsoft: Azure Taking Share With AI Push"
+    excerpt: "Microsoft is positioned to benefit greatly from the AI revolution. Azure, Microsoft's cloud platform, has been a major growth driver for the company, fueled by increased AI consumption. MSFT's expansion of AI to its other products and services, as well as ..."
+    publishedDateTime: 2024-01-24T04:19:00Z
+    webUrl: "https://seekingalpha.com/article/4664547-microsoft-azure-taking-share-with-ai-push"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
+        width: 594
+        height: 370
         isCached: true
 
 secured: "DichLoF0jEIew9R499uDjqti9GnWSOq0dLyCa2e+MsHNYe0J3zraBCVpSw9qy/FmMJDi1yb0fcI+n5T0HZ3Ex4G5y+k233SyJWX/SCOaiQIxrcuwDb1Cd4m23X0r1Vs7YGr/xgAItdMag2/ZDHCKDhui467U3uKNhKxVgYDQhRvYUV2IeFvmKGYzwcmCww+MHW93szZpItHuV3Ajt8rNL+13KMP+b0Ya58xzE+7KBIb//pzdxplNT9/dQMgtFIV9CakcJNaSF+UPYB18BPRHgUNKOtzcZA0R7FJK1YYAuC7Pdt/Y5Xif+UTqquUCxpQF0pc9Q8X/vyuspcmzDvwEdKttjvjUOW7pxd+5yzmPWZlFXv/HwfrmQf2NcjPMWDLP50BYAt7tp70AJXy68LXUAnQYp20CrbBI4lcH5hUm/yR7lTXnJdk2YRgR2nCpY26nSeSBla/aRakZ0qpLPhBxA9m2fgkeDMddoVyVWNsd+8OffafJQ4fZcekT0AgRwPnDviy5lfihgEXUw1rT7IXsXQ==;T5wKkWx3/r3CLQnX2bSDoA=="

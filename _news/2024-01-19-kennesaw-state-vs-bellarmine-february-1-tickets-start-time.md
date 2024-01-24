@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wild vs. Panthers January 19 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Florida Panthers' Sam Reinhart and the Minnesota Wild's Kirill Kaprizov are two of the best players to watch when these squads face off on Friday at 7:00 PM ET, at Amerant Bank Arena. Kaprizov is a leading scorer for ..."
-    publishedDateTime: 2024-01-19T06:21:00Z
-    webUrl: "https://www.wowt.com/sports/betting/2024/01/19/wild-vs-panthers-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WOWT.com
-      domain: wowt.com
-    quality: 22
-    images:
-      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/ISJVT4GEZZJ4HB4VVVXEM2NSNE.jpg?auth=f7dc8dd33f69866c189e9178a31c2b98b5a3ca12959100a73e656e4e44abdd3e&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Houston vs. Kansas February 3 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Saturday's Big 12 slate includes the Kansas Jayhawks ... Texas A&M-CC February 3 Tickets & Start Time Incarnate Word vs. New Orleans February 3 Tickets & Start Time Texas A&M-Commerce vs. Northwestern State February ..."
     publishedDateTime: 2024-01-21T11:30:00Z
@@ -49,6 +35,20 @@ related:
     quality: 22
     images:
       - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/3IWB4OVZENNGHPZEIJ2MYGCYVE.jpg?auth=705f7e9839622b6624468478d065c441068e0f5d362cd15bb7ca5df1a12ea394&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Samford vs. Chattanooga February 3 Tickets & Start Time"
+    excerpt: "The Chattanooga Mocs (11-7, 3-2 SoCon) meet the Samford Bulldogs (16-2, 5-0 SoCon) in a matchup of SoCon teams at 4:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-01-21T04:21:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/samford-vs-chattanooga-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/WANJQ3AIG5PWNKM6YENCTTIRSI.jpg?auth=6a280c56ebcec92c9d40440045990f51fb118895b0c397d8e5851d4be609b0de&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -161,20 +161,6 @@ related:
     quality: 21
     images:
       - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/M7XKNDBPVNMPNCOYEGHO3YV724.jpg?auth=509dd1222d4df7c3b851a40c7c9be56315c75db57107cf1cce89fc3a61efe7f6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ole Miss vs. Vanderbilt February 1 Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Ole Miss Rebels (12-5 ... Prairie View A&M January 22 Women's Basketball Tickets & Start Time Jackson State vs. Prairie View A&M January 20 Women's Basketball Tickets & Start Time Mississippi Valley State vs."
-    publishedDateTime: 2024-01-19T06:50:00Z
-    webUrl: "https://www.wlox.com/sports/betting/2024/02/01/ole-miss-vs-vanderbilt-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 20
-    images:
-      - url: "https://gray-wlox-prod.cdn.arcpublishing.com/resizer/v2/27KJQU7AONKLNGK3KWXJPEITYA.jpg?auth=3f5fcf02bc2b5da670c4c62f8468aa53ef93cbf38d69eb11310ed687c5ef0274&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

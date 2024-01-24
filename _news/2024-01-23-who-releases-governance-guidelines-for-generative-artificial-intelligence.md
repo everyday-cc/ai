@@ -128,20 +128,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
-  - title: "How Generative AI Will Shape Contracting"
-    excerpt: "Generative AI (GenAI) has the potential to transform the contracting practices of companies by significantly reducing the contract authoring, review times, and making negotiations of commercial agreements more effective."
-    publishedDateTime: 2024-01-19T05:00:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/38868-how-generative-ai-will-shape-contracting"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2023/07/20/ARTIFICIAL-INTELLIGENCE-iStock--Boonyakiat-Chaloemchavalid--1486987406.jpg?height=635&t=1689914052&width=1200"
-        width: 953
-        height: 635
-        isCached: true
   - title: "Google Adding AI to Chrome Browser"
     excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
     publishedDateTime: 2024-01-23T17:43:00Z

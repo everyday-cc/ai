@@ -35,20 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Samsung Unpacked 2024: Galaxy S24 Includes Google’s Generative AI"
-    excerpt: "The Galaxy S24 will retail starting at $799.99. Preorders begin today and the phone hits shelves on January 31."
-    publishedDateTime: 2024-01-19T03:08:00Z
-    webUrl: "https://www.techrepublic.com/article/samsung-galaxy-unpacked-2024/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/samsung-galaxy-series-hero-jan-24.jpg"
-        width: 1400
-        height: 990
-        isCached: true
   - title: "The Samsung Galaxy S24 Bets Big on AI, Apple Watch Ban Saga, and More"
     excerpt: "Fresh off the heels of CES 2024 comes another huge January tech event, in which Samsung officially launched its highly anticipated Galaxy S24 AI-powered smartphone. Ubisoft turned some heads this week when the French gaming publisher said gamers should be more comfortable not owning their digital games."
     publishedDateTime: 2024-01-20T12:59:00Z
@@ -62,22 +48,6 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d901b17fa85a6004ad087f80214148b7.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Here comes the AI phone Samsung Galaxy S24 Ultra"
-    excerpt: "We are excited to see how our users around the world empower their everyday lives with Galaxy AI to open up new possibilities.” The Samsung Galaxy S24 comes with live translation features. The company feels when one needs to overcome language barriers ..."
-    publishedDateTime: 2024-01-19T03:52:00Z
-    webUrl: "https://www.newindianexpress.com/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
-    ampWebUrl: "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/19/here-comes-the-ai-phone-samsung-galaxy-s24-ultra"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 59
-    images:
-      - url: "https://media.assettype.com/newindianexpress%2F2024-01%2F11a5e77d-dd45-4492-94c2-170af0d0ee90%2Fhere_comes_the.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-        width: 660
-        height: 384
         isCached: true
   - title: "Google is partnering with Samsung because that’s the only way it can beat Apple"
     excerpt: "If the new Galaxy S24 series is anything to go by, Google and Samsung are working together more closely than ever to close the gap on Apple."

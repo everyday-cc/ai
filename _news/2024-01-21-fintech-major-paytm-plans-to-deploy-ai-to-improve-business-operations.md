@@ -99,6 +99,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "How Hong Kong government initiative entices fintech, AI, data science and advanced manufacturing businesses"
+    excerpt: "Smart retail solution provider Dmall will use Hong Kong presence as springboard to expand software-as-a-service platform in Asia and across world."
+    publishedDateTime: 2024-01-24T04:00:00Z
+    webUrl: "https://www.scmp.com/native/news/hong-kong/hong-kong-economy/topics/hub-enterprises-future/article/3249368/how-hong-kong-government-initiative-entices-fintech-ai-data-science-and-advanced-manufacturing"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 51
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/22/83728ca1-1597-456d-9318-0f40de89748b_ab5aec8d.jpg?itok=R7DQbD7d&v=1705918198"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
     excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
     publishedDateTime: 2024-01-23T18:36:00Z

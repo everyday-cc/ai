@@ -59,20 +59,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Zuckerberg reveals Meta’s AI reorganization and massive GPU purchase"
-    excerpt: "Mark Zuckerberg said the company would bring the two AI teams at Meta “closer together” as it plans to expand both groups."
-    publishedDateTime: 2024-01-19T02:24:00Z
-    webUrl: "https://interestingengineering.com/culture/zuckerberg-reveals-metas-ai-reorganization-and-massive-gpu-purchase"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/19/image/jpeg/9Oxalurr8RfQH1ATW1f5yrXa3zIVjzfQ36jF8ktv.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
     excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
     publishedDateTime: 2024-01-20T12:37:00Z
@@ -86,22 +72,6 @@ related:
       - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Meta’s Artificial General Intelligence: CEO Mark Zuckerberg’s New Focus"
-    excerpt: "With AGI, Meta will see massive changes that would help it in various aspects of its business, including its research and the metaverse."
-    publishedDateTime: 2024-01-19T03:50:00Z
-    webUrl: "https://www.techtimes.com/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300773/20240118/meta-s-artificial-general-intelligence-ceo-mark-zuckerberg-new-focus.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 44
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/438875/mark-zuckerberg.jpg"
-        width: 1024
-        height: 702
         isCached: true
   - title: "Mark Zuckerberg Hints At Meta's Ambitious AI Investment Plan: $9 Billion on Nvidia's H100 Chips"
     excerpt: "Mark Zuckerberg revealed that Meta's computing infrastructure will include 350,000 of Nvidia's top-of-the-line H100 graphics processing units by the end of 2024. At average prices estimated to be around $25,"
@@ -197,15 +167,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
-    excerpt: "Meta has released its own AI model, LLaMa 2, and Zuckerberg said his teams were working on a next version"
-    publishedDateTime: 2024-01-19T06:03:00Z
-    webUrl: "https://www.islandernews.com/news/national/meta-has-released-its-own-ai-model-llama-2-and-zuckerberg-said-his-teams-were/image_19408ec7-4bf2-5530-ad87-c661220bc07e.html"
-    type: article
-    provider:
-      name: Islander News
-      domain: islandernews.com
-    quality: 2
 
 secured: "HMSMtOx+gFxKtNttRCEq2RmoqanJztBDymLFz2/+0x1vGAdThk+ILvNlRGbOxbNT5lt6Vi5DiteBXArAKmjvZyVE6l4mBB1kK5nim07S7loP0JBqGivNljTEzLshlEnuBKNiRBk9mYKirzM/o69K14Y+SgrE61l5g9nPdbars68HZYAuCICn3wB+ePLEKQEgXp3QRJ/rsqzjiV4+2DbtwDwAJfTaEwunR7NmoXkdP3klR9VvPi4wH8M4vcK66bNXsY0kg/KlI81glSvUfvHkkTRG2uiyIhqoudLQHH9hvC6EU9upWHr53QmcQzAqL658g8ZYuvMPkoaf8vDutHdyaDoM8V0SF3Sm+xlm2JE/7dc=;K62pWWFmXKP+taQHMgLeHQ=="
 ---
