@@ -29,6 +29,19 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Google’s termination of Appen contracts big ‘wake up call’ for tech workers, Alphabet Workers Union warns"
+    excerpt: "Appen’s multimillion-dollar contract loss should be “a wake-up call for workers” as artificial intelligence is increasingly eating into the roles of some of the tech industry’s most vulnerable, a major union has warned."
+    publishedDateTime: 2024-01-24T16:49:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/googles-termination-of-appen-contracts-big-wake-up-call-for-tech-workers-alphabet-workers-union-warns/news-story/1536a7e274d09d259c631f583d858646"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/googles-termination-of-appen-contracts-big-wake-up-call-for-tech-workers-alphabet-workers-union-warns/news-story/1536a7e274d09d259c631f583d858646?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/googles-termination-of-appen-contracts-big-wake-up-call-for-tech-workers-alphabet-workers-union-warns/news-story/1536a7e274d09d259c631f583d858646?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 7
+
 secured: "noPkuzR1HL8EfSInkd3vgzWdWJhk2p7ieOOnTJVJyX/Pmr5UK/imPs89y/PG0Vfq2+amw9+4J6Q4C+Ek6NTTnlaud1Nu+STR9wL2ZvPTESoV9k/oN4rkxyNaPF6zOXrxTKBkiF1lu6NKwpLOW8tKOFneXJj64Q6diV9shEqgs+99EbvgX65yaKuZrH/AXzTqdqau/PfvA5P2hmy0v16odSAkQxAmKg1st/T96TRXLt82VK2xb3vfLOvnPjIEAh3gEYFSF7bDN00fVOVJBZpIvDfFZFD0k0w3dJ5dkDoaXt2XodIZo2t/4KFPyU9xdzW+vleBBYznTVbzEefa4U0KhrfkA/Xsq1og0hNwxFYFUHXY/kISMqpERoJdw4AiMrcLb8UWuIzERX3u/7HJIfEm6wgF/D0FpnXU5+lyE3UWAvKM4YKATQQST3aV3MbpZ5u0om7qDSMR4JRBlDy69UGmtJn827Lvs6G1z/ruTzwr767g0/ei7ymTeaIrJ7NYgk2VDfairt4F7fOAuWxMfq5iOw==;KjxOayE91fJ+Lldx9hc79g=="
 ---
 

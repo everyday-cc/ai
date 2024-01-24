@@ -54,6 +54,15 @@ related:
         height: 367
         isCached: true
   - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
+    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
+    publishedDateTime: 2024-01-24T15:47:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
     excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
     publishedDateTime: 2024-01-23T06:15:00Z
     webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"

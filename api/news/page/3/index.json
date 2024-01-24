@@ -2,6 +2,463 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
+      "title": "Corydon: Five arrests after Met Police uses live facial recognition",
+      "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-london-68062080",
+      "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-68062080.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp",
+      "publishedDateTime": "2024-01-22T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
+      "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/10/ML-11666-image001-1120x630.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:54:50Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
+      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
+      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-these-robot-dogs-paint-like-picasso-and-fetch-up-to-40k-for-their-art.md",
+      "title": "These robot dogs paint like Picasso — and fetch up to $40K for their art",
+      "excerpt": "The robots can be seen painting, navigating their environment and self-charging in the show, which runs until April 7. The exhibition’s theme is generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
+      "originalUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-85xyqhh4w-1705939812973.jpg?quality=75&strip=all&1705921857&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
+      "publishedDateTime": "2024-01-22T16:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024.md",
+      "title": "It’s 2021 for AI while the rest of the startup market is stuck in 2024",
+      "excerpt": "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
+      "publishedDateTime": "2024-01-22T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices.md",
+      "title": "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices",
+      "excerpt": "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
+      "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-ai-and-emotion-imagining-a-world-where-machines-feel.md",
+      "title": "AI And Emotion: Imagining A World Where Machines Feel",
+      "excerpt": "In a world increasingly intertwined with artificial intelligence (AI), it’s fascinating to ponder a future where AI could experience emotions akin to human beings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/01/22/ai-and-emotion-imagining-a-world-where-machines-feel/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/01/22/ai-and-emotion-imagining-a-world-where-machines-feel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a5cef44a7f1efc194e5907/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-palworld-accused-of-being-an-ai-product-with-no-evidence-so-far.md",
+      "title": "‘Palworld’ Accused Of Being ‘An AI Product,’ With No Evidence So Far",
+      "excerpt": "Palworld has been accused of using GenAI based on past Pocket Pair behavior, but is there any hard evidence that's the case at this point?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae763a4a628c4f4b6663a0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1224,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "publishedDateTime": "2024-01-22T13:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-the-dynamic-forces-behind-data-center-re-transformation.md",
+      "title": "The dynamic forces behind data center re-transformation ",
+      "excerpt": "Advancements in hardware and software, as well as increased focus on sustainability, are driving rapid transformation of data centers.\nThe post The dynamic forces behind data center re-transformation  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/pi-2275202.jpg",
+          "width": 1800,
+          "height": 1198,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-3-artificial-intelligence-ai-stocks-to-buy-with-500-and-hold-forever.md",
       "title": "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever",
       "excerpt": "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade.",
@@ -609,7 +1066,7 @@
       "originalUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -661,7 +1118,7 @@
       "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -788,430 +1245,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-ai-powers-user-acquisitionand-mobile-game-publishers-have-the-edge.md",
-      "title": "AI Powers User Acquisition—And Mobile Game Publishers Have The Edge",
-      "excerpt": "More mobile game publishers are harnessing AI to unlock the power of their first-party data to control the entire app user acquisition and monetization process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peggyannesalz/2024/01/21/ai-powers-user-acquisition-and-mobile-game-publishers-have-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/peggyannesalz/2024/01/21/ai-powers-user-acquisition-and-mobile-game-publishers-have-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad09eb31f955e1a83e62dd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peggyannesalz/2024/01/21/ai-powers-user-acquisition-and-mobile-game-publishers-have-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peggyannesalz/2024/01/21/ai-powers-user-acquisition-and-mobile-game-publishers-have-the-edge/amp/",
-      "publishedDateTime": "2024-01-21T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
-      "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
-      "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "publishedDateTime": "2024-01-21T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023.md",
-      "title": "ChatGPT effect: Coursera sees signups for AI courses every minute in 2023",
-      "excerpt": "US edutech platform Coursera added a new user every minute on average for its artificial intelligence courses in 2023, CEO Jeff Maggioncalda said on Thursday, in a clear sign of people upskilling to tap a potential boom in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023",
-      "originalUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/ChatGPT1682753951-0/ChatGPT1682753951-0.jpg",
-          "width": 960,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023?amp=1",
-      "publishedDateTime": "2024-01-21T08:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-government-norms-in-offing-to-check-ai-robustness.md",
-      "title": "Government norms in offing to check AI robustness",
-      "excerpt": "For instance, driverless cars depend on real-time decision-making ... Meanwhile, TEC has released procedures for accessing and rating artificial intelligence systems for fairness. The AI fairness score will check how much bias exists in the systems for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/",
-      "publishedDateTime": "2024-01-21T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-ai-contactless-technologies-will-affect-banking-palmpay-ceo.md",
-      "title": "AI, contactless technologies will affect banking – PalmPay CEO",
-      "excerpt": "Managing Director of PalmPay, Mr Chika Nwosu, speaks on the challenges facing the fintech industry, the importance of fostering financial inclusion",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
-      "originalUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2024/01/20215253/Mr-Chika-Nwosu.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
-      "publishedDateTime": "2024-01-21T02:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-the-metaverse-flopped-so-mark-zuckerberg-is-pivoting-to-empty-ai-hype.md",
-      "title": "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype",
-      "excerpt": "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/",
-      "originalUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/",
-      "publishedDateTime": "2024-01-21T02:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-harnessing-ais-potential-to-boost-your-career.md",
-      "title": "Harnessing AI’s Potential To Boost Your Career",
-      "excerpt": "Workplace futurist Marti Konstant suggests that AI can supercharge careers. Like the internet in the 90s, AI will become an essential tool for knowledge workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
-      "originalUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ac38c2447a46ffb0923861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1261,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/",
-      "publishedDateTime": "2024-01-20T21:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-love-machina-review-provocative-but-unfocused-doc-tackles-romance-and-robotics.md",
-      "title": "‘Love Machina’ Review: Provocative but Unfocused Doc Tackles Romance and Robotics",
-      "excerpt": "One of the great pleasures of reviewing documentaries, though, is that every few months a new film will pull back the curtain on the latest advancement in artificial intelligence or consciousness-infused robotics. Fairly consistently, the answer is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/LoveMachina-Still1-copy.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "publishedDateTime": "2024-01-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-this-week-in-ai-openai-finds-a-partner-in-higher-ed.md",
-      "title": "This Week in AI: OpenAI finds a partner in higher ed",
-      "excerpt": "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
-      "originalUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
-      "publishedDateTime": "2024-01-20T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/davos-2024-top-quotes-fr
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/davos-2024-top-quotes-from-tech-worlds-leading-minds-on-artificial-intelligence/amp_articleshow/107017806.cms"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "“Education Meets AI” At The 2024 World Economic Forum In Davos"
-    excerpt: "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies."
-    publishedDateTime: 2024-01-19T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Davos 2024: AI disinformation tops global risks"
     excerpt: "In this week’s Computer Weekly, AI-generated disinformation and misinformation will be the top risks for businesses, governments and the public over the next two years, according to the World Economic Forum."
     publishedDateTime: 2024-01-23T10:31:00Z

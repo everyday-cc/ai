@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kagan: Artificial intelligence is top of mind at Davos"
-    excerpt: "Most of the debate in Davos is focused on what artificial intelligence means, how it will impact the world, how it will help make them more efficient, improve life, becoming more competitive and cutting edge, and how it will continue to change going forward."
-    publishedDateTime: 2024-01-19T16:16:00Z
-    webUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos"
-    ampWebUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 57
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/02/102205780_m-scaled-1-e1683665147186.jpg"
-        width: 696
-        height: 696
-        isCached: true
   - title: "Navigating The Ethical Landscape Of AI: Insights From A Creative Director"
     excerpt: "Educating users about AI's capabilities, limitations and ethical considerations empowers them to make informed decisions. It encourages a culture of responsible AI use, where creators and companies can leverage AI's potential while respecting ethical standards."
     publishedDateTime: 2024-01-19T17:19:00Z

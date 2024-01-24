@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-t
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
+    excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
+    publishedDateTime: 2024-01-24T15:50:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-24-2024/card/microsoft-s-journey-to-3-trillion-aided-by-cloud-growth-ai-optimism-and-big-deals-XHk5tNNJ8qOg4xrQbGNe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
   - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
     excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
     publishedDateTime: 2024-01-22T16:03:00Z

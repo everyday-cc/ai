@@ -44,15 +44,15 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Meta's Billion-Dollar Bet On Nvidia's AI Chips Could Reshape The Tech Landscape And Catapult Stocks To Unprecedented Heights"
-    excerpt: "Meta is making a significant investment in Nvidia's AI chips, a move that positions Nvidia as a leading player in AI chip production. These sought-after H100 graphics cards from Nvidia, essential for advanced AI algorithm development and implementation ..."
-    publishedDateTime: 2024-01-19T14:15:00Z
-    webUrl: "https://www.benzinga.com/24/01/36700357/metas-billion-dollar-bet-on-nvidias-ai-chips-could-reshape-the-tech-landscape-and-catapult-stocks-to"
+  - title: "NVIDIA and Jeff Bezos investing in Perplexity AI"
+    excerpt: "In a bold move that's catching the attention of the tech world, NVIDIA and Jeff Bezos have placed their bets on an AI startup named Perplexity. This"
+    publishedDateTime: 2024-01-24T13:58:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-and-jeff-bezos-investing-in-perplexity-ai/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 7
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "xxV3HQSR5XF767IpUstcV6chT7MpzTsEJkrXzCNcYJ1uB98pm1Z0fi3mGpP+wepINLNfWWemd+6c4/sxZMZKH0KXlzAhY9qAIbXOcJtGorKhyusremKiMiK1J6leBy3XRscMkJl526US9ZqkKsoHH2ypgUidCWsOI/bUdbdfw8GRziMmtz029OfjF8PSnpLtYrOH6b9YmWKelm3cbj8AFOz7kbrHsz3ARPpHVnhfEFGQIDNeXMfkCd2XLdhpSXp/2rkaynLACU0gel+XknggkITPJpHBY272q8tXCKEug7L5JxzWFI3h//W95+aO+c8ZggfRqa3yP1rPNWwxhrKtUo/vkVn44BAo3I6dsXkayyIzbX7cp6DPvA8rfHPmYRPAudoPpGNpEn5nqly76cZvd/fDe6k99zQwIEAiXYwn+xY3N+rHIbR/RMbLsqdW8o3pf5HiAGl6Mu6l0JnB/nr/6Gf0Zizl02/YHbzH/MPMcgangsT9AQsCVdKQxs4qckxkscEdSeSwJrVUmqGjr4X+BA==;F59Gr843WlPaAwChSYnniQ=="
 ---

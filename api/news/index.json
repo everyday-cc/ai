@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-24-penetration-testing-methodologies-and-standards.md",
+      "title": "Penetration testing methodologies and standards",
+      "excerpt": "Discover the top penetration testing methodologies used to find security vulnerabilities and mitigate cyberattack risks.\nThe post Penetration testing methodologies and standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "originalUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-apple-aims-to-run-ai-models-directly-on-iphones-other-devices.md",
+      "title": "Apple aims to run AI models directly on iPhones, other devices",
+      "excerpt": "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/",
+      "originalUrl": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/apple-ai-list-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T15:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters.md",
+      "title": "Anomalo’s machine learning approach to data quality is growing like gangbusters",
+      "excerpt": "When Anomalo’s co-founders left Instacart in 2018, they thought they could put machine learning to work to solve data quality problems inherent in large data sets. Five years later, the company’s idea is even more relevant as data quality takes center ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
+      "originalUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1939454430.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
+      "publishedDateTime": "2024-01-24T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-protect-ai-rolls-out-guardian-for-management-of-machine-learning-model-security.md",
+      "title": "Protect AI rolls out Guardian for management of machine learning model security",
+      "excerpt": "Artificial intelligence and machine learning cybersecurity startup Protect AI Inc. today announced the launch of Guardian, a new secure gateway that enables organizations to enforce security policies on machine learning models to prevent malicious code ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/",
+      "originalUrl": "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png",
+          "width": 2500,
+          "height": 1313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-mastek-partners-with-microsoft-to-transform-industries-using-generative-ai.md",
       "title": "Mastek partners with Microsoft to transform industries using Generative AI",
       "excerpt": "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,",
@@ -10,7 +200,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -42,6 +232,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-data-security-privacy-compliance-and-hygiene-for-ai.md",
+      "title": "Data Security, Privacy, Compliance And Hygiene For AI",
+      "excerpt": "Data privacy regulations, security frameworks and AI ethics guidelines are constantly evolving, continuing to be top of mind for security and business leaders. Learn to stay ahead of the curve by automatically applying policies based on data type and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
+      "publishedDateTime": "2024-01-24T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -136,6 +379,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-google-settles-ai-related-chip-patent-lawsuit-that-sought-167-billion.md",
+      "title": "Google Settles AI-Related Chip Patent Lawsuit That Sought $1.67 Billion",
+      "excerpt": "(Reuters) - Google on Wednesday reached a settlement in a patent infringement lawsuit over chips that power the company's artificial-intelligence technology, according to a filing in Massachusetts federal court. The settlement comes the same day that ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T09:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -278,6 +564,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
+      "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
+      "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "originalUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-celestron-home-observatory-lets-users-view-the-cosmos-on-a-smart-tv.md",
       "title": "Celestron \"home observatory\" lets users view the cosmos on a smart TV",
       "excerpt": "The latest addition to Celestron's range can also throw object captures onto a smart TV screen ... and takes care of automated processes like Celestron's StarSense sky recognition technology (which makes use of the telescope's image sensor for quick ...",
@@ -326,6 +664,100 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
+      "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
+      "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
+      "originalUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks.md",
+      "title": "How the rise of artificial intelligence is boosting tech stocks",
+      "excerpt": "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks",
+      "originalUrl": "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks",
+      "publishedDateTime": "2024-01-23T23:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -587,7 +1019,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -733,21 +1165,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
-      "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
-      "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
+      "path": "_news/2024-01-23-delaware-lawmakers-seek-rules-for-artificial-intelligence.md",
+      "title": "Delaware lawmakers seek rules for artificial intelligence",
+      "excerpt": "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "webUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "originalUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
+          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/0/41/04126c30-ba11-11ee-8d3e-371c2e512477/65aff0f824b16.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -755,214 +1187,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "publishedDateTime": "2024-01-23T15:56:00Z",
+      "ampWebUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "publishedDateTime": "2024-01-23T15:59:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-hardware-and-fintech-collide-at-ces-2024-in-vegas.md",
-      "title": "AI, Hardware And Fintech Collide At CES 2024 In Vegas",
-      "excerpt": "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1362,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
-      "publishedDateTime": "2024-01-23T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
-      "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
-      "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742",
-          "width": 5246,
-          "height": 3497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "publishedDateTime": "2024-01-23T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-legit-security-delivers-ai-powered-accuracy-to-secrets-scanning.md",
-      "title": "Legit Security Delivers AI-Powered Accuracy to Secrets Scanning",
-      "excerpt": "Legit Security, the leading application security posture management (ASPM) platform that enables secure application delivery, today announced expanded and AI-powered capabilities to detect and protect secrets across the software development pipeline.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/legit-security-delivers-ai-powered-accuracy-to-secrets-scanning-1032988513",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/legit-security-delivers-ai-powered-accuracy-to-secrets-scanning-1032988513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai.md",
-      "title": "Sevilla FC transforms player recruitment process with IBM watsonx Generative AI",
-      "excerpt": "Sevilla FC has introduced Scout Advisor, an innovative tool built on IBM's watsonx platform, to enhance its player recruitment process. IBM and Sevilla FC have introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their scouting team with a comprehensive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/",
-      "originalUrl": "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2024/01/AdobeStock_400019282_Editorial_Use_Only-www.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T15:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio",
-        "domain": "intelligentcio.com",
+        "name": "The Center Square",
+        "domain": "thecentersquare.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -972,266 +1203,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-chrome-is-getting-3-new-generative-ai-features.md",
-      "title": "Chrome is getting 3 new generative AI features",
-      "excerpt": "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
-      "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
-      "publishedDateTime": "2024-01-23T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-why-every-modern-leader-is-now-a-chief-ai-officer.md",
-      "title": "Why Every Modern Leader Is Now A Chief AI Officer",
-      "excerpt": "Responsibility for AI cannot be relegated to one person or department. Modern leaders must embrace AI as a core competency. All leaders should be 'Chief AI Officers'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65afd06fad5ec9e8dbbbc41c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
-      "publishedDateTime": "2024-01-23T14:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
-      "title": "This Chinese Startup Is Winning the Open Source AI Race",
-      "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
-      "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-financial-institutions-considering-which-type-of-ai-to-use.md",
-      "title": "Financial Institutions: Considering Which Type Of AI To Use",
-      "excerpt": "Financial institutions need to understand the key differences between these types of solutions to partner with the right providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae985ef0bc9604a2bf128b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1326,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
-      "publishedDateTime": "2024-01-23T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-opportunities-ahead-on-the-road-to-responsible-ai.md",
-      "title": "Opportunities Ahead On The Road To Responsible AI",
-      "excerpt": "Demand for expertise in budding fields, such as AI ethics and prompt engineering, will likely rise as the regulatory and legal groundwork to support responsible AI evolves. These important points reflect a vision for a future of innovation with net ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f038ad797a5ee00069255fd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
-      "publishedDateTime": "2024-01-23T11:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

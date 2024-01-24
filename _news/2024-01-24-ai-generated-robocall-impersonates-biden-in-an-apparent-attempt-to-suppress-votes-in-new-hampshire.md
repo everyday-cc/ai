@@ -39,20 +39,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "To Stop AI Killing Us All, First Regulate Deepfakes, Says Researcher Connor Leahy"
-    excerpt: "C onnor Leahy remembers the time he first realized AI was going to kill us all."
-    publishedDateTime: 2024-01-19T16:16:00Z
-    webUrl: "https://time.com/6564434/connor-leahy-ai-risk-deepfakes/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 62
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/01/signal-2024-01-16-11-41-56-693_e8dbdd.jpg?quality=85"
-        width: 1365
-        height: 865
-        isCached: true
   - title: "Democrats sound alarm over AI robocall to voters mimicking Biden"
     excerpt: "Fake robocall beginning ‘What a bunch of malarkey’ encourages Democrats to not vote in New Hampshire primary"
     publishedDateTime: 2024-01-22T19:13:00Z

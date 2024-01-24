@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Dump These 3 Loser AI Stocks Before It’s Too Late"
+    excerpt: "C3.ai (AI) The stock of AI start-up C3.ai (NYSE:AI) has benefitted greatly from the fact that its ticker symbol is “AI.” While the stock has gained 80% in the last 12 months, it remains extremely volatile and its long-term performance is terrible."
+    publishedDateTime: 2024-01-24T07:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dump-these-3-loser-ai-stocks-before-its-too-late-1032992236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "j4H/4jyQNJAflIdzjd9YYSobXss0T7UPQesKRA/Dd+oVu7flvHEzHF5ZzXJl/Vb82UQzgNZwPXxZkre7bvMOmZbuDxRcJ1S4RdU94BtOuk7ebS6xHg2jF2Mq46LpfUPMr6zEg5UctJivXT5iC6X2FGTJVTyUrA6FmGDfc+2kKqW4ziZHECQTaTPb7VlC/3i44YAj7GxTa/4MXsLX1jqRfzjKIH3x3SCWw16A2/1YGe7TDJZnroCbjIrfzT8kn2N/WR3jbRKPr3+ZV0Sckf3kNifcGR2Ke6cQOIUqun031DkKGrMUbwtdm4rY0Jz/apoDhxPeVNMRvUWket4+EHuArUDJs4KQxa2cN/nXmZ00IQkBpyrLqAF/hJ/bnMbSI8BDSOcnch/7CuIgQLY8nD9pOqo6B8zaMy7r+9uNQZ4OwK/LJXuyu1/ULdscs93OIBElBPBveJv09s92SFyLrXmTF3U0q2h4iSb832THHGhrv9Gl84pjQ7tEJOhz9zs8BbN3owGAF3/FzrmXG01UjFPypQ==;lu/dAAizbcljBuVNWal0FQ=="
 ---

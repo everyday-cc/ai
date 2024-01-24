@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "“Education Meets AI” At The 2024 World Economic Forum In Davos"
-    excerpt: "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies."
-    publishedDateTime: 2024-01-19T13:32:00Z
-    webUrl: "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Davos 2024: Top quotes from tech world’s leading minds on artificial intelligence"
     excerpt: "In all, about 60 heads of state and 800 CEOs were in attendance among a total of 2,800 participants, as they discussed wide-ranging issues — from climate change to economic slowdowns — at both formal and informal gatherings."
     publishedDateTime: 2024-01-21T00:32:00Z

@@ -55,6 +55,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Live facial recognition helps deliver justice in Croydon"
+    excerpt: "For the second time in five days, the Met deployed live facial recognition technology in Croydon resulting in eight people being arrested. This action from officers on Tuesday, 23 January is a direct result of listening to community concerns about serious ..."
+    publishedDateTime: 2024-01-24T15:00:00Z
+    webUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-croydon-478451"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/lykkap5cas9xk7ycmkmm"
+        width: 1782
+        height: 1002
+        isCached: true
   - title: "Miami Police Used Clearview AI Facial Recognition in Arrest of Homeless Man"
     excerpt: "Facial recognition technology is increasingly being deployed by police officers across the country, but the scope of its use has been hard to pin down."
     publishedDateTime: 2024-01-19T19:37:00Z

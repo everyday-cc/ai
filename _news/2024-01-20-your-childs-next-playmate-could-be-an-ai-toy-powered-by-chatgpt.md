@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-chil
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 70
-  - title: "Should You Use ChatGPT for Medical Advice?"
-    excerpt: "Yes, patients and doctors can use chatbots for certain types of questions, experts say. But beware of the shortcomings."
-    publishedDateTime: 2024-01-19T15:00:00Z
-    webUrl: "https://www.wsj.com/tech/ai/chatgpt-medical-advice-767b4aa1"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
 
 secured: "ngW3AYUfs4IDHC/ULUpKSe69Ps5tmYiqlalQ+4Y/PGqOD0hUD8qCnfUBsETbJjUHGCcTnE3YahC5dnuV/7Q5mIjIooPyP9tmMgkBtzgVZGybgiZV9lDp8JVXXg72VbzFhz/aigKM4JvrvftDnsDdRetn5+7ruPF8PxPj1RQT7UBR0z8NXg5lbsI4r+TfA+nHMdypAPl33naI8aRT7KtUNgjqPtWYZxgdfOeyb0UgyJa6jVhQV2IJ2jC+PFjNSARlkZbuuYqG2CMqHMjCKyI7P4b+bsFdKEHForF5rrdVbArqmjn+iYq9bADEuP/9PFPgITv0PVufqwHfnV3xdRUq4nVCXarVWUQX3g0yNVbKRLy0BHAYCoKLvD/DKMN8fO78+CCehZTIYzFIE/BCbPA8xqpSECb7OcL0KtW4CTc9c2xvZrmaoZzWnrKmJC/UVKDJmrcnsqL1zSycUlkXKC+DzYPllTdpwZP36fyREX6TGAGm+07oPLDRzKR6nOS1RhASPyRILYEZbe5uoUI4MvSTLQ==;zDioETH0CYlme79ZPIguRw=="
 ---

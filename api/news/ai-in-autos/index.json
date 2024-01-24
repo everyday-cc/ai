@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
+      "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
+      "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "originalUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-teslas-own-former-ai-engineer-trolls-the-company-full-self-wiping.md",
       "title": "Tesla’s own former AI engineer trolls the company: ‘full self-wiping’",
       "excerpt": "Tesla’s own former head of AI infrastructure, Tim Zaman, is impressed with the latest FSD v12 Full Self-Driving software, but he trolls the company’s AI effort. Up until last year, Tim Zaman was the head of AI infrastructure and platform at Tesla ...",
@@ -1298,49 +1350,6 @@
       "provider": {
         "name": "ABC7",
         "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
-      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
-      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
-      "publishedDateTime": "2024-01-09T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

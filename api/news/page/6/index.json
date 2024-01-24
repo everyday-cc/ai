@@ -2,6 +2,437 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-18-unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers.md",
+      "title": "Unlocking the power of chatbots: Key benefits for businesses and customers",
+      "excerpt": "Discover how well-designed chatbots can encourage your customers to take action and boost your bottom line.\nThe post Unlocking the power of chatbots: Key benefits for businesses and customers appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/",
+      "originalUrl": "https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T15:30:29Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-challenging-norms-and-finding-your-north-star-with-ai-in-2024.md",
+      "title": "Challenging norms and finding your North Star with AI in 2024",
+      "excerpt": "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
+      "originalUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-farm-ng-raises-series-a-funding-to-scale-amiga-robot-and-ai-for-small-to-midsize-farms.md",
+      "title": "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms",
+      "excerpt": "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "originalUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg",
+          "width": 770,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
+      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
+      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "publishedDateTime": "2024-01-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
+      "title": "Academic Intelligence: The Evolution of Education Through AI",
+      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
+          "width": 2311,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T12:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diplomatic Courier",
+        "domain": "diplomaticourier.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-deepminds-cofounder-mustafa-suleyman-warns-that-ai-is-a-fundamentally-labor-replacing-tool.md",
+      "title": "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool",
+      "excerpt": "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
+      "originalUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65a90e936979d737182439db?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
+      "publishedDateTime": "2024-01-18T12:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-the-role-of-ai-in-healthcare.md",
+      "title": "The Role Of AI In Healthcare",
+      "excerpt": "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
+      "publishedDateTime": "2024-01-18T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-a-new-accelerator-for-ai-first-startups-in-north-america.md",
+      "title": "A new accelerator for AI-first startups in North America",
+      "excerpt": "Learn more about Google for Startups Accelerator: AI First program for North American startups.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
+      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Startup_Accelerator_highlights_-_high_.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
+      "publishedDateTime": "2024-01-18T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-5-ways-ai-can-make-your-human-to-human-relationships-more-effective.md",
       "title": "5 Ways AI Can Make Your Human-To-Human Relationships More Effective",
       "excerpt": "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships.",
@@ -771,437 +1202,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-the-power-of-google-ai-comes-to-the-new-samsung-galaxy-s24-series.md",
-      "title": "The power of Google AI comes to the new Samsung Galaxy S24 series",
-      "excerpt": "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "originalUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 269,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-government-cant-set-prices-for-services-it-doesnt-comprehend.md",
-      "title": "Government Can’t Set Prices For Services It Doesn’t Comprehend",
-      "excerpt": "The odd comparison from above comes to mind as healthcare types go to the federal government in search of price equality in the face of hospital consolidation. A recent piece in RealClearHealth by Lee Gross noted with glee that “members of both houses of Congress on both sides of the aisle are working to stop the existing incentives for hospital consolidation and monopoly pricing in healthcare and increase transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
-      "originalUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8059f9749cdf277b22cb5/0x0.jpg?format=jpg&crop=3620,2036,x0,y185,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
-      "publishedDateTime": "2024-01-17T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-alphageometry-an-olympiad-level-ai-system-for-geometry.md",
-      "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "excerpt": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "originalUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-deepminds-latest-ai-can-solve-geometry-problems.md",
-      "title": "DeepMind’s latest AI can solve geometry problems",
-      "excerpt": "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
-      "originalUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
-      "publishedDateTime": "2024-01-17T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cryptography-use-cases-from-secure-communication-to-data-security.md",
-      "title": "Cryptography use cases: From secure communication to data security ",
-      "excerpt": "When it comes to data security, the ancient art of cryptography has become a critical cornerstone of today’s digital age.\nThe post Cryptography use cases: From secure communication to data security  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T15:34:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
-      "title": "JFrog, AWS team up for machine learning in the cloud",
-      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "publishedDateTime": "2024-01-17T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-deep-tech-can-transform-surgery.md",
-      "title": "How Deep Tech Can Transform Surgery",
-      "excerpt": "Developing and implementing deep tech solutions, like surgical robotics, into the healthcare ecosystem can launch surgical care to new heights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-chatbot-examples-a-beginners-guide.md",
-      "title": "Chatbot examples: A beginner’s guide ",
-      "excerpt": "Chatbots have become the go-to method for organizations to provide around-the-clock customer service—learn the best ways to use them.\nThe post Chatbot examples: A beginner’s guide  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "originalUrl": "https://www.ibm.com/blog/chatbot-examples-a-beginners-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up.md",
-      "title": "How one IBMer is creating a more sustainable future for the island where he grew up",
-      "excerpt": "Takahito Motonaga is one IBMer making a difference in the community where he grew up: Miyakojima City, Okinawa, Japan.\nThe post How one IBMer is creating a more sustainable future for the island where he grew up appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "originalUrl": "https://www.ibm.com/blog/how-one-ibmer-is-creating-a-more-sustainable-future-for-the-island-where-he-grew-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

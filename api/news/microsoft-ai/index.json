@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -45,29 +45,38 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-legit-security-delivers-ai-powered-accuracy-to-secrets-scanning.md",
-      "title": "Legit Security Delivers AI-Powered Accuracy to Secrets Scanning",
-      "excerpt": "Legit Security, the leading application security posture management (ASPM) platform that enables secure application delivery, today announced expanded and AI-powered capabilities to detect and protect secrets across the software development pipeline.",
+      "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
+      "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
+      "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/legit-security-delivers-ai-powered-accuracy-to-secrets-scanning-1032988513",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/legit-security-delivers-ai-powered-accuracy-to-secrets-scanning-1032988513",
+      "webUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
+      "originalUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T15:25:00Z",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -84,8 +93,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Security"
+        "AI"
       ]
     },
     {
@@ -249,7 +257,7 @@
       "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -302,7 +310,7 @@
       "originalUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -792,10 +800,10 @@
     {
       "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "This milestone broadens Grid Dynamics' participation in the Microsoft Azure Innovate for AI Apps program, showcasing the company's exceptional technical capabilities in designing, building ...",
+      "excerpt": "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
-      "originalUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
+      "webUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -808,8 +816,8 @@
       "publishedDateTime": "2024-01-16T13:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

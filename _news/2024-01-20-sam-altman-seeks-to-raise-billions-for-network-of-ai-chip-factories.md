@@ -342,15 +342,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 30
-  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
-    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
-    publishedDateTime: 2024-01-19T13:34:00Z
-    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
 
 secured: "STfLGIjuKbsrkCoCu5P4pk3qyf9JS84EcFIVHetYdf0vyzSRwjryFOywi8zFy/VUiGvGL5x21GUpEMIc2vfKFYgJy6zm+I6DSve/vpBdRtVQIshSq5XMwjOUflpZgSBsoP16Z/+57UcHFW/yR9VwzL5872KpJ5BkfH9bR5+anKSWBcPw6Vf0rjH+oylCtG7rgHwDh0BZI1J2aC2rI7PPqhZX+hRhKb2ez/X1aDSQ8YnIbMZTE+lbZ6kbxdt2I1yxnnh1Pp08Tlt3FNuPjIsyMXUH7kBjylKXBQe57fTpBirEJKQAj88pJLOLNVmIvbw518AKqApL26nc3it/+DUGiwngr4RnabKGtYTbjBS14gOEqS2GXFeKesrAQPUn6U6zAeyBFYiR6QiPoN9MzGySsLDKWDrR6UbZm70W+P3wAAGM0hgoHrTYgdAftHmcpHzf/HdDvFhzIqEzzjRviMEmllSa9Xzz+sZhGVonXi5d0OGN2+jLMkUytlzoHPq3uotSN/Km1Va3tHvemhc/yIE7Wg==;ZSrlHZtzKEeXtHqhyW2SXQ=="
 ---

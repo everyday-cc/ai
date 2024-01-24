@@ -45,6 +45,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
+    excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
+    publishedDateTime: 2024-01-24T15:50:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-24-2024/card/microsoft-s-journey-to-3-trillion-aided-by-cloud-growth-ai-optimism-and-big-deals-XHk5tNNJ8qOg4xrQbGNe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
   - title: "Cushman & Wakefield Collaborates with Microsoft to Enhance AI Technology Platform"
     excerpt: "Cushman & Wakefield (NYSE: CWK), a global leader in real estate services, today announced the firm is working with"
     publishedDateTime: 2024-01-23T23:17:00Z

@@ -85,6 +85,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Even Microsoft Copilot can't help Bing touch the dominance in search from Google"
+    excerpt: "That said, Google continues to make advances in the AI landscape with its own ChatGPT-like iteration, Google Bard, coupled with other nifty AI-powered features. It will be interesting to see how things pan out in the long run for Microsoft with these ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/even-microsoft-copilot-cant-help-bing-touch-the-dominance-in-search-from-google"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 16
 
 secured: "4wxEA+4ZlL6VwopNEcm8GzCvmjaXZ4OUU/Atj8R0JHb72PJnAaNkKdYQYRAvbooMjFSBwb72j0E4+wvL8BcCQXWMdMsyMYJOOP5nXi5uQ44dI6LgzkYrfFTITwq/FDblNqYzwiGN4GPrxtouFDPfsB7xKDua9JnhyrxphfI+q74ZI7wiUsiYK9jj/VJrsW6ZKdKHRHtOnBSaOkOthjcJ6Vx1UohlesC0QZGUwKMKHwVsaEVpM8gM4Ze9QoC/PGCv/DwzPZyMz4de/L5HEi/2LfJZ8ZLrjvDR3B/NVZKa2dvcVaunpSkthCp6lkrCZdsVsm75FnmJ9MqOo6lLWpvgGW00VibYExwqfr44XWPFqDQ+1tEAKuIbfcCf7qpbXkuDmLsOVezsBkqCx0Iet2na/VNNPjNICpU4Zzdz/IgmCeF7hhdAeqpUGgn32Qa21dmLD1lYXYojC54Wncyxg3GL45mP1umLAaG2c2szncEcTfv38fmejDaH0ykTmNt7vKZ/k5phNptLPGLNGO56IZPVFA==;ifLIY0A1AGBLEagm6YUHdw=="
 ---

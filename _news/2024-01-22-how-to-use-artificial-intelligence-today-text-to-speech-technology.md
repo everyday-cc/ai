@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Five of the Top Artificial Intelligence Stocks to Buy Today"
-    excerpt: "One of the most intriguing artificial intelligence (AI) opportunities right now is in the healthcare space, most notably in waiting rooms. For far too long, backed-up waiting rooms – and long wait times – at healthcare clinics have frustrated"
-    publishedDateTime: 2024-01-19T15:07:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/16937/Five-of-the-Top-Artificial-Intelligence-Stocks-to-Buy-Today"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 39
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/AI.jpg"
-        width: 845
-        height: 396
-        isCached: true
   - title: "Five of the Top Artificial Intelligence Stocks to Buy Today"
     excerpt: "One of the most intriguing artificial intelligence (AI) opportunities right now is in the healthcare space, most notably in waiting rooms. For far too long, backed-up waiting rooms – and long wait times – at healthcare clinics have frustrated patients ..."
     publishedDateTime: 2024-01-19T23:42:00Z

@@ -35,6 +35,22 @@ related:
         width: 5246
         height: 3497
         isCached: true
+  - title: "Alphabet Terminates AI Firm Trainer of Google's Bard"
+    excerpt: "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19."
+    publishedDateTime: 2024-01-23T22:01:00Z
+    webUrl: "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Google ends contract with Australian data firm that helped train Bard AI"
     excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
     publishedDateTime: 2024-01-24T06:41:00Z

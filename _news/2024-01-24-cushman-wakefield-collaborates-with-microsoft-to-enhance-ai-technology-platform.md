@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
+    excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
+    publishedDateTime: 2024-01-24T15:50:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-24-2024/card/microsoft-s-journey-to-3-trillion-aided-by-cloud-growth-ai-optimism-and-big-deals-XHk5tNNJ8qOg4xrQbGNe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
   - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
     excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
     publishedDateTime: 2024-01-22T16:03:00Z
@@ -50,6 +59,6 @@ related:
         height: 840
         isCached: true
 
-secured: "rpiJIFMi8Crk1gh/Kh9vMPIv1RfcT34xxTEEFN2kuvvJkV92iLN7qJM9jaHyUjCg9zgXhujguRhxjUvQEd9CNkPAlQHBaZBQri66zFeL6zspF9I9DaGnyOBapAbi0yK5/1bZIrN9MZEnYXjOQNZlEHAftxeOWsL+C4v0DxzmjJ8UeuYgrXt2N1jPNDRP9x2Nz+U3tflZf+vnIMpeWC7OkN0YKB9Z64xX0gwjCqu4ByKSeJVQzSXP9Yl+LK1Men6Yvd9PaAhXWDpkSg/v14BLHMcBpSvX/UCuGZizp+28txKhvqJukoVU/tU7/U/r7f7bksnR8vK4g0M4oNeISjQ7t3GRnzYMU0NtN3f8/JMB3JFGoq8y7jIbA+pj0xhbGQZXZzVrUQeZkY1ySLlDmykxAX4GaJxlp9BMme8Ajl04lyvgnHCNt0rlQwRqWmWE3jGpOj8OVpRo4+h8dGTyck5mJ4JASnX3RTeLMWGSPUzMZK5bhwVOyOe81gNzFFeCD09bSkcQi22/G59jTnkklSTNtg==;XbT63gsAL4xbqR99rXeoYA=="
+secured: "tzOBLdKTGZtzD8fH6G2yoN6jdt+DX/Lxh+uyQ6BZ/xFBsXUshF0eNO30hxAGVb1zAqR7x69bZujSeK0gMEcZyTuXmRyYKW54UL8zcCy3dziODa3raMlmNEGhUkzkfi1qbjEKtwYv1/gAz05lC5VGXwd2gyBHW0Raj0Rqeu/+6HEkCMERIFavoGYVYpC7vd+uqQreAWBoOO1+ATnfqsX/mOsTo+Elp5sUdLruWu2Ez+47e6xIe+Y60iV9J/aLTNIJ8V9PwHPKiDmOXwGycqAtCbgWTg0HmGnUFebmHAXwrIYEcvB+f+AEOZQZ92nBJU4sN992v8O3YA7dYK2/c8FMDv0AFarqBcQFErl2irfiJ/tQ+raxR2iNQzVUUyt0r5YHuyfXm3ZLwCKwfWEyb2I+WGCXWiCdr4jq8zR+SH8v2ON2wzuc3q0MoVIzyTfXnURCZbe6qplSnsAThn+Osavs/xZSHujkNycV6J0yva+q7LfJnYAB3F8Kfq99kB2/eIfcvzJfemC91D1qkD2JGf0X6A==;gvWa+rONwzrjQkmryCS0Lg=="
 ---
 

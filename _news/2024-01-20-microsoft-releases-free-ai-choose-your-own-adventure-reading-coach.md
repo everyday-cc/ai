@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-
 webUrl: "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 594
         height: 370
         isCached: true
+  - title: "Even Microsoft Copilot can't help Bing touch the dominance in search from Google"
+    excerpt: "That said, Google continues to make advances in the AI landscape with its own ChatGPT-like iteration, Google Bard, coupled with other nifty AI-powered features. It will be interesting to see how things pan out in the long run for Microsoft with these ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/even-microsoft-copilot-cant-help-bing-touch-the-dominance-in-search-from-google"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 16
 
 secured: "DichLoF0jEIew9R499uDjqti9GnWSOq0dLyCa2e+MsHNYe0J3zraBCVpSw9qy/FmMJDi1yb0fcI+n5T0HZ3Ex4G5y+k233SyJWX/SCOaiQIxrcuwDb1Cd4m23X0r1Vs7YGr/xgAItdMag2/ZDHCKDhui467U3uKNhKxVgYDQhRvYUV2IeFvmKGYzwcmCww+MHW93szZpItHuV3Ajt8rNL+13KMP+b0Ya58xzE+7KBIb//pzdxplNT9/dQMgtFIV9CakcJNaSF+UPYB18BPRHgUNKOtzcZA0R7FJK1YYAuC7Pdt/Y5Xif+UTqquUCxpQF0pc9Q8X/vyuspcmzDvwEdKttjvjUOW7pxd+5yzmPWZlFXv/HwfrmQf2NcjPMWDLP50BYAt7tp70AJXy68LXUAnQYp20CrbBI4lcH5hUm/yR7lTXnJdk2YRgR2nCpY26nSeSBla/aRakZ0qpLPhBxA9m2fgkeDMddoVyVWNsd+8OffafJQ4fZcekT0AgRwPnDviy5lfihgEXUw1rT7IXsXQ==;T5wKkWx3/r3CLQnX2bSDoA=="
 ---

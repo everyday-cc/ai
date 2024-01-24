@@ -80,6 +80,20 @@ related:
         width: 1920
         height: 1098
         isCached: true
+  - title: "‘Make Or Break Point’: Apple Delays Car Launch To 2028, Dials Back Self-Driving Features"
+    excerpt: "But Apple has struggled with how to approach such a product. As of the end of 2022, the Cupertino, California-based company aimed to release a car by 2026 with advanced self-driving features for highways. Now, after finding it wouldn’t be able to ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://jalopnik.com/make-or-break-point-apple-delays-car-launch-to-2028-1851191962"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 15
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b8d11f62d7b6573c4b81c8edac85c6ee.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple to launch its own EV in 2028 after SCRAPPING plans to create a fully self-driving car. Insiders say new scaled back design is a 'Tesla Me Too'"
     excerpt: "Apple is planning to launch its own electric car as early as 2028, according to new reports. The tech giant had originally intended to create a fully self-driving vehicle as part of a decade-old project dubbed internally as Titan."
     publishedDateTime: 2024-01-23T20:36:00Z

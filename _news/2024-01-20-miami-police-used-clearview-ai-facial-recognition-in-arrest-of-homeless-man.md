@@ -64,6 +64,20 @@ related:
         width: 1782
         height: 1002
         isCached: true
+  - title: "Live facial recognition helps deliver justice in Croydon"
+    excerpt: "For the second time in five days, the Met deployed live facial recognition technology in Croydon resulting in eight people being arrested. This action from officers on Tuesday, 23 January is a direct result of listening to community concerns about serious ..."
+    publishedDateTime: 2024-01-24T15:00:00Z
+    webUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-croydon-478451"
+    type: article
+    provider:
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 39
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/lykkap5cas9xk7ycmkmm"
+        width: 1782
+        height: 1002
+        isCached: true
 
 secured: "oXTKOR2Y456DmNkBbuUFmaHXPOvm7me4A2zme3UW42qzGANO2XncYl652rFC1zSWE6uL3KN+4wMNNmELUFx3YNvRgatV8n0tbSANQoICTZ9of6O/pTq/drCZMzV6SfAnZwXdK5MWnU7spstt7Ni1ykmoYzfw09d8cX7841JdRCR0kmuxbX2JJ3R9LKQTLbJo9R7nhDnWs5NSFjNmq49FYlun183k/nc13y5WP8oOSUCcbFdrieCED4SeBb2INZz+2g1twFryh7AjuDL8ikg0HjDb577+gvmFrh4DfO5nlyisuIO1AmTjdYAp4ZdT2qmCUffzRCGkfzm/T57nN5MCUec+GqfstH8k1noEuCZ6k8CLtZ6gDhjbaUhlrsuyj4GywG5FnqqQWqRnPKzJyfcmTUakzUkDxRWJhVxqJgDl39Xnot3m39y4A2NyOKQfVzlp4WPvWlY8HrAALZpwWvCpNYfvwfdUM9UEYYWr4Uedymn2Ch3IfwndLXpRE9fo4gN6V4FWHT1P30fPD3Vlo+1+BQ==;jhu0u8Fr1/FzXX2XNXGTbQ=="
 ---

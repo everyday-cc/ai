@@ -40,6 +40,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-24T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai-1032992189"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "It’s a Terrible Idea to Use AI to Resurrect the Dead"
     excerpt: "The documentary “Eternal You” is a cautionary tale about the “digital afterlife.” Want to ask your dead husband where they are? Be prepared for the response to be, “I’m in Hell.”"
     publishedDateTime: 2024-01-22T02:27:00Z

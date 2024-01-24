@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-int
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PBS
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Dump These 3 Loser AI Stocks Before It’s Too Late"
+    excerpt: "C3.ai (AI) The stock of AI start-up C3.ai (NYSE:AI) has benefitted greatly from the fact that its ticker symbol is “AI.” While the stock has gained 80% in the last 12 months, it remains extremely volatile and its long-term performance is terrible."
+    publishedDateTime: 2024-01-24T07:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dump-these-3-loser-ai-stocks-before-its-too-late-1032992236"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Guide to Selecting the Best Artificial Intelligence Stocks"
     excerpt: "She is the CEO of Xaris Financial Enterprises and a course facilitator for Cornell University. Investing in artificial intelligence (AI) stocks is a prevailing topic in the financial media as investors seek to capitalize on one of the most transformative ..."
     publishedDateTime: 2024-01-22T00:00:00Z

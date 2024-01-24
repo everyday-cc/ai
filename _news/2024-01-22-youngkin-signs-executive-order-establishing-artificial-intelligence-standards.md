@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/news/2809549/youngkin-signs-exe
 webUrl: "https://www.washingtonexaminer.com/news/2809549/youngkin-signs-executive-order-establishing-artificial-intelligence-standards/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Youngkin signs executive order establishing artificial intelligence standards"
-    excerpt: "Gov. Glenn Youngkin signed an executive order to implement artificial intelligence standards and guidelines he says will protect Virginians."
-    publishedDateTime: 2024-01-19T17:15:00Z
-    webUrl: "https://www.thecentersquare.com/virginia/article_b21b9fe0-b6f6-11ee-8b5a-bf5bcee7e2aa.html"
-    type: article
-    provider:
-      name: The Center Square
-      domain: thecentersquare.com
-    quality: 14
 
 secured: "iNDc7QcfEPiC4k9jLWQxn46m2yavkyZHhlB812KofRvVysN4nnU7o+hI9o4wbFaPOpmZn+EjRZ5fZbiJFgTad7KZLTN0MzOs8ctCIysm0bgGaK7CoOA+nSQgmoD8tsY1Zpfz4k1dBVRRAQgNVm5tGzlM+4MXJ+Jm+TmZg59f3sbbWiFGz7LStl6u8Cas/NAgoU5/s9e2WSLhbbNbGk9fIxT994tYxXK3RGSd4KUhsCjfLLGbR2GfoblvMYuWDARjsNtc0zlFdFxPG64EYgRSwAH3FxiSNedKlPPKDYc7CmzkZLXp3qwHWWlF9Ruz21UVWj7IHzA2VSOHoXBFrI254/Zm4PzXNPB1IYyGWl7Mvps=;VeOPkZHqoIwd8RcaRtvnJg=="
 ---

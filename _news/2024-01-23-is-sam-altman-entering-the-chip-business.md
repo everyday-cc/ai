@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
 type: article
 quality: 89
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -346,15 +346,6 @@ related:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 30
-  - title: "Inside Davos: Sam Altman Reflects on the Realities and Future of AI"
-    excerpt: "Techopedia reports on Sam Altman’s panel discussion on balancing AI and human decision making at the World Economic Forum in Davos"
-    publishedDateTime: 2024-01-19T13:34:00Z
-    webUrl: "https://www.techopedia.com/inside-davos-sam-altman-reflects-on-the-realities-and-future-of-ai"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
 
 secured: "aAeuuuKSf2PkIuU+gh7pWs0x8gAH0v7V9HIWUnNJWHiPpBHz9buuXXCw4ceiz2wNWN9ZnUZSVGmAB7J8WYe8mFHM5PUwHoKh7MHTzunJOPyjjoveeGTdkAe3dk5rM6iZA/5jcHSM+h7IIUZ/0fc0bAyWFeX4iNIRncflZbrmORVAF37kKgrxxOTVYinsAC4PeT9hc+OeitTujfvvtJbbLbzr4a7fRry1jpmP20KohxH2IceixGZIzWyjiOIGdEZSNYSKDDaVnkZOncwX+9vkHLnlh24NkfhS791wQewppn6GGlVtW5Kn+Ap5pCTEjz+Ouf1PUJ6Vs97wMdtTum06+rhCqr5VuGsF+mFHj+HIpdI=;tKSz48iWEX53M4SzUyW0lA=="
 ---

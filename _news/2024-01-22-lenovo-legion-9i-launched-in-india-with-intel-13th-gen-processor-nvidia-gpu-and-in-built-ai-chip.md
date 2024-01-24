@@ -57,20 +57,6 @@ related:
         width: 700
         height: 350
         isCached: true
-  - title: "Meta Invests Heavily in AI Future with Nvidia Chips"
-    excerpt: "In an ambitious move signaling a major strategic shift, Meta is diving deep into the realm of artificial intelligence. At the core of this venture is a massive investment in Nvidia's cutting-edge computer chips,"
-    publishedDateTime: 2024-01-19T16:26:00Z
-    webUrl: "https://www.unite.ai/meta-invests-heavily-in-ai-future-with-nvidia-chips/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/01/Alex_Mc_Close-up_of_futuristic_AI_chips_Nvidia_H100_GPUs_promin_6959e565-6328-453b-aaae-5a6595c095c8-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
     excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
     publishedDateTime: 2024-01-23T13:48:00Z
@@ -80,6 +66,20 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
+  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
+    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
+    publishedDateTime: 2024-01-24T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ISOfQUFspWURw/z2Q27n9si8nYYdEU00UcA0kK7TKVwgWKVfSfMzyCfGh96aHoCVjQefx54hiyiXnmAiSJNaUqvoPsR1ffKzp/gODzlpRZeJepOE3PsQVXoKQ+Rjuhm4N8ZIB7Zh55FlFaTgZLuMlC0F9ryg+yA5gwMXl/TaBPvWiXp1a2gjdFw6GzJjEyHuQQpEfA7Rr56S8du8Y3xZq565ekf6Cr7OiNtSoiVYg1H4djGJXZm9wJIbq7MM2vBffHmCiUiRzW/Oid5jHehVyVERNLi4gH+Xr9dfJStu510/fAX5q891LWOeXTAt70rXv+dBp9ynjggL0Wpq09MhdyGX8aGyiq05/Wx2svGimXI=;iILAYXMBtFLIvPkdUIBy7w=="
 ---

@@ -34,20 +34,24 @@ related:
         width: 680
         height: 383
         isCached: true
-  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
-    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
-    publishedDateTime: 2024-01-19T15:14:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+  - title: "Riding the AI Wave: How Intel Stock Is Poised for Massive Growth in 2024"
+    excerpt: "Intel (NASDAQ:INTC) is benefiting from strong demand for its chips that are used to produce AI. Moreover, the company is positioning itself to get a lift from AI PC proliferation with its improved server chips. Long term, Intel stock should get a boost to ..."
+    publishedDateTime: 2024-01-24T08:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riding-the-ai-wave-how-intel-stock-is-poised-for-massive-growth-in-2024-1032992628"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "This Artificial Intelligence (AI) Stock Is My Top Stock-Split Candidate for 2024"
+    excerpt: "Its latest Tomahawk 5 is a high-bandwidth switch designed to accelerate artificial intelligence (AI) and machine learning workloads. These chips determine how quickly data travels from one point to another, and when developers are training AI models using ..."
+    publishedDateTime: 2024-01-24T14:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/23558554/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
 
 secured: "FHj5Qk+NU/0weT4GmNPn/4tsdXZJ9zg64rlMAwiDLbgLcBFMejtx6HTdKWGXYAh9+j9EGZ6JsQHo0PcT8ViNYzXtm+2Hfhsf/mlYDFvMFTZ6GfH7Hzouj/GQivQv3exkkuPzPDagZE1m7v6EfWLb1D3RJ6NTJ66t0lMK8Yadk9JvicHc4TWAk0ebjnxgyLkkeVuaOnF3K4eRtIJJOUW/irvpmqRn46U6kvtjrUCY86f9Rt2y7i313yHFKgDmWo9lmeJfTwORH13FLh0UvvX1B+MVv120hkT8l8tuaMXHU3SgpR/LMt1c+nfjg+wVCpMeLPI2YHyJhWql5KIbteioT8wQQGnO+skBz66VaQsKA4qmuOizMYY+Ynx0VGzWMGYoQU++NAlLwVouTo5iPxjsNEOOEs7UsClmylYQhgGk+pwr9r8upPYhaAm8bJK5BV68jdFRFg8fVDr13mGci/nTvUr104qsA9g0KU35APP9TChwKmWi4Nsvr0RUSHaYvj+LsYN+ulF8Ocd2W3z58/A28w==;bMUcr+2cL40uaKZmQpXRZg=="
 ---

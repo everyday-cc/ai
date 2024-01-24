@@ -49,6 +49,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "AI is currently too expensive to take most of our jobs, finds MIT researchers"
+    excerpt: "So, how worried should we be about AI coming for our jobs? That is the focus of some new research from MIT FutureTech, which doesn’t just look at the capability or effectiveness of AI in carrying out tasks end-to-end, but also acknowledges the costs ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers"
+    ampWebUrl: "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-03/shutterstock_2067577946.png"
+        width: 740
+        height: 450
+        isCached: true
 
 secured: "5EKwREB7IztRcz+WY85rQGX51QtbQRpKo8SKZCvTf1C4py8fDaAqLjXG7kOAxMCjSRRtQz+8pnB/P097UBZzGn+Ky2+wg8k02tCO9Sy9S+/sgFNP0o1spKa4DbCfQeWgyFwQgqJBXXXMld3bj5V0PEJZCad/BOWNR3EYT495NQM+m4QsMTo6b0N/0C0GXhL8P62u2YGlZ4o7pzWCg49Gg3/Nq+AnFlFMmR46uqlIzE1FzvyE3bGpDyHqvD4gjyNAtGVaHhDCvYQK+Cncsz6Dv0sj76y4affmpiLUkcScK53ByBnBtKzXx3QPhHnPIzPnXelbGOk7wfVsLYGVATolI+/P126buMF6vCqbRWlAPag=;9g74QUObpHmtw1pUj5Qx6g=="
 ---

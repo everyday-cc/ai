@@ -140,20 +140,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Can an AI Become its Own CEO After Creating a Startup? Google DeepMind Cofounder Thinks So"
-    excerpt: "Google's DeepMind division has long led the way on all sorts of AI breakthroughs, grabbing headlines in 2016, when one of its systems beat a world champion at the strategy game Go, then seen as an unlikely feat."
-    publishedDateTime: 2024-01-19T15:35:00Z
-    webUrl: "https://www.inc.com/kit-eaton/can-an-ai-become-its-own-ceo-after-creating-a-startup-google-deepmind-cofounder-thinks-so.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 44
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1355638834_536598_u9fsf5.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI News: Google DeepMind Experts Plots Breakout for New Venture"
     excerpt: "Two Google DeepMind veterans are plotting a breakout move for a new venture amid conversations to raise $220 million"
     publishedDateTime: 2024-01-19T20:14:00Z
@@ -172,6 +158,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
+  - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
+    excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
+    publishedDateTime: 2024-01-24T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 29
   - title: "DeepMind co-founder says AI will be able to invent, market, run businesses by 2029"
     excerpt: "The next five years will be revolutionary for the business world, at least according to DeepMind co-founder and Inflection AI CEO Mustafa Suleyman."
     publishedDateTime: 2024-01-19T18:40:00Z

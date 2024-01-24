@@ -3,24 +3,18 @@ category: news
 title: "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast"
 excerpt: "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast."
 publishedDateTime: 2024-01-13T14:30:00Z
-originalUrl: "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html"
-webUrl: "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html"
+originalUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
+webUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
 type: article
 
 provider:
-  name: Richmond
-  domain: richmond.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - Meta AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/a2/4a2e3610-bc1d-5761-a84a-ce39f176fb7c/65a1991e3678b.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "0m1unud6kE2dtuPbhYpEV16ZrjXOrJbgPq7+RSikdGoZNktEwTxZ95xEWM+bbgD5GSplNCsZ1h+Nej5lRr8T7rdmcSSwkZobuc8Gly4h7vYnLB5ClxJ2ikFWkKtqPxzXIASbRvC2na4t6FR5Vxhwr/YzJSA1u5leWCLyjdtrFFMz0qXJNJXZ6cAca/dgt5bzBVbxfHnZFMgk/DEHb+zsPEg1dRpZgw3krF6cQ/ukjfzURjgO5cpdCyOjRN1uJEFBan8COxJVieJRhQvFvWcymjq7CnXRH9SBQudeeD+2iCMhsNYCf4pQwVHObf5KVz+K4QIqFces/9YALa07Zy5d/Ilp43+UPH7WhX2pniFpXJ4=;tASm1eeatp3B+9tDaRtrBQ=="
+secured: "MmtJHGtftQBWxKK8hwurD7LgKwlUiYp+cwB2m5BOq0Q6wFoad8x1HlP2BzyYwJ9mw4htuTiNbtfT8a5bAnjuQXBHICkJufgVrht6Bx8cCo3DZSNgKEWC2BQXO5ePOtVIomCeUG32aqypPl1LFxMJP0fil8GjFZ/SJVqFSEISv2/5YBEowxKItupjxJ+kqHbvHnovPsbm/Zfw2TYX3OUyHnm09kTOrPuSIdUiff9O/XzxePDkRoZTP3Wp5bcE/W3ySM1b9GSvT+JJQif4AUZRTp3MPLp+nNIlMno1tWhU6RZtCjm0sB/6Nv8uTJpiwQpmcid4qmSU3NgOWJAAehovrBm+r04WULSXGr8wbxHALomNjEoOyy08Hu15yTvWTOiS6sn6BgVEYddJKx8ihHOvf5LKgrB+Wq6L8FG35Zs8h2wMTijo/nw5m/ARNKj/8ld3Crwm01g+/a8X7mC3xRYiO0iW0eCNOZa7Iqn/G08J/LvH4JAO+BqupIu1e1dJ1POjLtKRX5nxYWZYlvpBoYZIhQ==;cYiNVMxw+DEotkjzYDO3zg=="
 ---
 

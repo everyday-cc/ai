@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-24-penetration-testing-methodologies-and-standards.md",
+      "title": "Penetration testing methodologies and standards",
+      "excerpt": "Discover the top penetration testing methodologies used to find security vulnerabilities and mitigate cyberattack risks.\nThe post Penetration testing methodologies and standards appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "originalUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai.md",
       "title": "Sevilla FC transforms player recruitment process with IBM watsonx Generative AI",
       "excerpt": "Sevilla FC has introduced Scout Advisor, an innovative tool built on IBM's watsonx platform, to enhance its player recruitment process. IBM and Sevilla FC have introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their scouting team with a comprehensive,",
@@ -1256,58 +1298,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-1-no-brainer-ai-stock-to-buy-for-164-and-hold-for-years.md",
-      "title": "1 No-Brainer AI Stock to Buy for $164 and Hold for Years",
-      "excerpt": "Is the AI market missing a beat? This blindingly obvious AI investment has gone surprisingly unnoticed in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/25/1-no-brainer-ai-stock-to-buy-for-164-and-hold/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/25/1-no-brainer-ai-stock-to-buy-for-164-and-hold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759587/ai-robot-hand-building-coin-stacks.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T10:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

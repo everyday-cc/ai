@@ -53,20 +53,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Inaugural BRICS-CCI Annual Recognition Awards 2024 Celebrate Excellence, Innovation, Collaboration"
-    excerpt: "Dr B.B.L. Madhukar, laid out the chamber's vision as the \"voice\" of young entrepreneurs ... Winners' Expressions: The BRICS-CCI Annual Recognition Awards were marked by the celebration of outstanding achievements, with numerous national and international ..."
-    publishedDateTime: 2024-01-19T13:15:00Z
-    webUrl: "https://menafn.com/1107743404/Inaugural-BRICS-CCI-Annual-Recognition-Awards-2024-Celebrate-Excellence-Innovation-Collaboration"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/19/I_0cc55image_story.jpeg"
-        width: 300
-        height: 227
-        isCached: true
 
 secured: "zrZKu6OXUmEz96J8Y7wBQdkpRa4RE4kQmTW0rh87O8uwTBXPGf+1o6o8ZysywqLiJM39m+J7Y6laqZPFfK0Jd//DWHlVYj3vF1sxLwVpmapyHezRhy7SOfDJGPuXK+Z38BrkwYvO64WzwlgOEvyPyQXjG3j3kzCDEFxq/peFFuCOaUnN8dKhVTfcRPuoGWeMTD8WtmvW5VeJHRYOFo8dDX1C9TqXIWarby2ldBmUlaJsQ5NGXH1er/WcUMnEkevlpCovKwlnDgcLpjoanQQhOVRY2fOyf1zdrk2pVDlb6AokjLgnBCW2hAC6JHV8j40RDqZui3X0XRfSMuNDBFSAVQlGT9hiFXWghpgo0yjPlWQ=;8hA7g/1YRBkRUcPeQCuLpA=="
 ---

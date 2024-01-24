@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Kagan: Artificial intelligence is top of mind at Davos"
-    excerpt: "Most of the debate in Davos is focused on what artificial intelligence means, how it will impact the world, how it will help make them more efficient, improve life, becoming more competitive and cutting edge, and how it will continue to change going forward."
-    publishedDateTime: 2024-01-19T16:16:00Z
-    webUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos"
-    ampWebUrl: "https://www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240119/analyst-angle/kagan-artificial-intelligence-is-top-of-mind-at-davos/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 57
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/02/102205780_m-scaled-1-e1683665147186.jpg"
-        width: 696
-        height: 696
-        isCached: true
   - title: "Half of Game Developers Work at Studios Already Using Generative AI: Survey"
     excerpt: "But even developers who use generative AI worry about the technology’s ethical implications. Of those surveyed, 42% of developers said they were very concerned about the ethics of using generative AI within their industry, while another 42% said they ..."
     publishedDateTime: 2024-01-22T13:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 4000
     height: 2666
     isCached: true
-
-related:
-  - title: "Investing in artificial intelligence (AI): A beginner’s guide"
-    excerpt: "Analysts at International Data Corp. (IDC), a provider of market intelligence, predict that worldwide revenues for the AI market could reach $900 billion by 2026, logging a compound annual growth rate of 18.6 percent from 2022-2026."
-    publishedDateTime: 2024-01-19T16:59:00Z
-    webUrl: "https://www.aol.com/finance/investing-artificial-intelligence-ai-beginner-170003323.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 52
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Kj2WnW8zNoQUZfjfK175CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/2c5c722c8c89262b83e7d45ded28db1c"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "WXfxqYqWM3vX5n9mwBIoXeqLAbonGIO2qcBZtH3ADp8o17n53YrwzvaHbFRQhbS9p6EorzeZ20OqFmn/xir8ae2ZYzKBifKcHYVVGAz5+zafVSIuUSmy0Sxm3EfhachoLlNg5Z5xKYHKIo0zAGBwWy6pCo8oPgeWq/wTdPs7NyhgswmhFSArwSkOtphq0GsmMk2wojd2cxY19s/JsXrKcFWwddy/YIWrydysFxXGPvj8DIlApVQ2tJqDM/dnpOBxNyYlinmNAq+CKpdcDVTih15ODtX4IcH6ZPQtHeKihBWSfNl5oDwmIAr2ekuBxv2+lfsLCedzveKzMPaYqS6TNe3COaEBmBnCYzANDWmT3Dw=;4uP7tpou+9xCyvSHzImKdA=="
 ---

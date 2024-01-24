@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-yo
 webUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/ai-branding-.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "AI is currently too expensive to take most of our jobs, finds MIT researchers"
+    excerpt: "So, how worried should we be about AI coming for our jobs? That is the focus of some new research from MIT FutureTech, which doesn’t just look at the capability or effectiveness of AI in carrying out tasks end-to-end, but also acknowledges the costs ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers"
+    ampWebUrl: "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2022-03/shutterstock_2067577946.png"
+        width: 740
+        height: 450
         isCached: true
   - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
     excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."

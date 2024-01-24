@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerber
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -71,22 +71,6 @@ related:
         width: 720
         height: 378
         isCached: true
-  - title: "Meta's AI Ambitions: Mark Zuckerberg Faces Criticism Over Plans to Develop Advanced AI with Open-Source Accessibility"
-    excerpt: "CEO and founder of Meta Mark Zuckerberg discusses his aspirations to develop AI further, but experts question his vision."
-    publishedDateTime: 2024-01-19T16:03:00Z
-    webUrl: "https://www.techtimes.com/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300800/20240119/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-develop.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 36
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442700/metas-ai-ambitions-mark-zuckerberg-faces-criticism-over-plans-to-develop-advanced-ai-with-open-source-accessibility.jpg"
-        width: 1024
-        height: 687
-        isCached: true
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z
@@ -101,6 +85,15 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Zuckerberg announces plans for human-level AI"
+    excerpt: "Meta has already released its own AI model, Llama 2, with Zuckerberg further revealing the company is currently training the next iteration, Llama 3. Meta has not provided a timeframe for its AGI-development plans."
+    publishedDateTime: 2024-01-24T13:01:00Z
+    webUrl: "https://ia.acs.org.au/article/2024/zuckerberg-announces-plans-for-human-level-ai.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 19
   - title: "‘Very scary’: Mark Zuckerberg’s pledge to build advanced AI alarms experts"
     excerpt: "Meta CEO accused of being ‘irresponsible’ by considering making tools on par with human intelligence open source"
     publishedDateTime: 2024-01-19T18:29:00Z
@@ -110,15 +103,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 15
-  - title: "Meta's AI overhaul: Zuckerberg's plan to integrate and expand generative AI research"
-    excerpt: "Explore Meta's bold AI strategy as Zuckerberg reveals plans to integrate generative AI teams, invest in H100 GPUs, and push for advancements in reasoning, planning, coding, and memory. Witness the merger of research divisions for a comprehensive approach to AI innovation."
-    publishedDateTime: 2024-01-19T13:42:00Z
-    webUrl: "https://cointelegraph.com/news/meta-ai-expansion-zuckerberg-reveals-350k-gpus-and-merged-research-teams"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 12
   - title: "Artificial general intelligence — when AI becomes more capable than humans — is just moments away, Meta's Mark Zuckerberg declares"
     excerpt: "Mark Zuckerberg said Meta will have \"an absolutely massive amount of infrastructure\" in place by the end of the year to prime it for training an artificial general intelligence model."
     publishedDateTime: 2024-01-19T18:11:00Z

@@ -33,19 +33,19 @@ images:
     isCached: true
 
 related:
-  - title: "ChainGPT facilitates the launch of the GT Protocol, bringing AI-powered auto-trading to crypto"
-    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, launches the GT Protocol through its IDO (initial DEX offering) launchpad, ChainGPT Pad. The protocol’s app grants access to CeFi,"
-    publishedDateTime: 2024-01-19T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chaingpt-facilitates-the-launch-of-the-gt-protocol-bringing-ai-powered-auto-trading-to-crypto-1032980546"
+  - title: "Google’s Art Selfie 2 puts you in famous painting styles using gen AI"
+    excerpt: "At the start of 2018, Google introduced Art Selfie to match your face with existing works and find your doppelgänger. For Art Selfie 2, Google is leveraging generative AI to actually place you in paintings. Simply, take a lone or group selfie and choose ..."
+    publishedDateTime: 2024-01-24T16:35:00Z
+    webUrl: "https://9to5google.com/2024/01/24/google-art-selfie-2/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 37
     images:
-      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/40f714aa-c647-4c4c-884d-3253e4a072e2.jpg"
-        width: 1536
-        height: 864
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/google-art-selfie-2-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "s6Kuf3rkbbeyOIeJgomHv0YcQvfDHJleDDrCpx3EuDRoal5rBnOXXq49dSOcBFDGLgwpA42Cpk+NbCDERTjTxXKmOH7DCI0BOPV0uSOZsNIcwpAXYvIWcGYniiYuklOlauZcXwNfKwH9KraSr75w1CODHOrRMEPIgt5fG7owuFfpG40aPCG4pFL1jNBENX7QBngEjOm31FvXXbrGYU5FwSgJ7xwLmjkjuZPcxpuVubbRvECEzR1OxQNBzaC6DDUFrGrCRXtxPKflSWSxffv8WHw2sIviUl4Kx/VB6NAoFYPpkGCv9FBB5bdSfjNHM6i5OesdLWjQDgm0DSfHJ12urLqbzScstztSjTPHCWaIuLGfHjuK5mbqNLde0gonXcEyrIqgfJ9lFYbA+fXra/1NWxdOpHLL1YDUSEnj684VLO3kt4GHtFPwjeEoueHS8oNLf+JIx0YgIgqHjsLV41LgFe/P+OrakJpkTkhgqiapWHeABvmgR8H0T7LjIuLM/2CXzXd4jREYWfbXD4Qmpyt6Tw==;lvV9aLegVa6tUbrv9PlkyQ=="

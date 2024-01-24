@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Legal Tech's Predictions for the Regulation of AI and Technology in 2024"
-    excerpt: "and transparent use of personal data in AI processes. Companies adapting early to these rigorous standards can navigate the evolving regulatory landscape more proficiently and efficiently, embedding robust data ethics into their day-to-day operations.”"
-    publishedDateTime: 2024-01-19T15:14:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/19/legal-techs-predictions-for-the-regulation-of-ai-and-technology-in-2024/"
+  - title: "Riding the AI Wave: How Intel Stock Is Poised for Massive Growth in 2024"
+    excerpt: "Intel (NASDAQ:INTC) is benefiting from strong demand for its chips that are used to produce AI. Moreover, the company is positioning itself to get a lift from AI PC proliferation with its improved server chips. Long term, Intel stock should get a boost to ..."
+    publishedDateTime: 2024-01-24T08:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riding-the-ai-wave-how-intel-stock-is-poised-for-massive-growth-in-2024-1032992628"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 38
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Display-Arts-Final-04-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Could Snowflake Be the Best Artificial Intelligence (AI) Stock to Own in 2024?"
     excerpt: "Snowflake(NYSE: SNOW) has become a popular artificial intelligence (AI) stock for a good reason: It fuels AI innovation. AI is built on the back of data, and Snowflake's business of data collection, storage, and processing makes it a perfect AI ..."
     publishedDateTime: 2024-01-21T20:31:00Z
@@ -53,6 +48,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 28
+  - title: "This Artificial Intelligence (AI) Stock Is My Top Stock-Split Candidate for 2024"
+    excerpt: "Its latest Tomahawk 5 is a high-bandwidth switch designed to accelerate artificial intelligence (AI) and machine learning workloads. These chips determine how quickly data travels from one point to another, and when developers are training AI models using ..."
+    publishedDateTime: 2024-01-24T14:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/23558554/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
 
 secured: "u05o3N0ZGXkG5ceMNvamf3NiB20UHRpxdkaQwskqis30bSj8J2gF+tNW7XmfktGwJ7KMYgZPH6iZviGMMfZTwcmmB5kMythKMl8cCPuhWUXzz2iLyJfbxW2NgOhaIkrcwNSucUiKjkWzebTXBloTWbdtNB17DIu4ilRE8qEABDI6GPPWCxHy5ekr3sjX0KnNfkhvZEE3duZGsabZiSU+pKDwAHWDvL2p2R4y6Yj6Z+nvYJxf+XxhSSUEUZyKiA8c8ycn9+39Zjb/ljIM/9NMywcCGh8B9CNeKlXaMdo3GsUbExwZHyyW37aHPeQLNKgmx7kNq89zEkbIHuyZwCsHssYXzfW/oTBu0ICQhiDCSWc=;ivZelz9D0AudTYlibceG2w=="
 ---

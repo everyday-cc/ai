@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
         width: 1480
         height: 800
-        isCached: true
-  - title: "Inaugural BRICS-CCI Annual Recognition Awards 2024 Celebrate Excellence, Innovation, Collaboration"
-    excerpt: "Dr B.B.L. Madhukar, laid out the chamber's vision as the \"voice\" of young entrepreneurs ... Winners' Expressions: The BRICS-CCI Annual Recognition Awards were marked by the celebration of outstanding achievements, with numerous national and international ..."
-    publishedDateTime: 2024-01-19T13:15:00Z
-    webUrl: "https://menafn.com/1107743404/Inaugural-BRICS-CCI-Annual-Recognition-Awards-2024-Celebrate-Excellence-Innovation-Collaboration"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/19/I_0cc55image_story.jpeg"
-        width: 300
-        height: 227
         isCached: true
 
 secured: "xAS9j55xw8Ju3M4Tr8BmfbDJE+xSmjfqvA+sXz3aIuXrp/lPnRBM5xTgfywgvscDOGdHCARFHyaVokEY1ubcIXeaABnW1RqQF1I8LwH0lESStTO205oSv1oeLjE43pf/D5wpMS56pDLfA6PuKH0M7Q7hZEvU7NJD3lb3PMwUtNGB638l1RCJb2FONfAKZhjfUUjs0KOPFJdt9owEZboExsk+S4bwo+Pyy3Ktwkf2kEj94tWzCGMH4hPmUmNlluQUcGuaQYS54D1gfztLqIZZ554V/zJjbUz+fnKqXd+30FT/bj6B3H5jYSGo7fvkWtZ5cGdjGPQas3mjFKye/9ExuoRMkVvecUsXAbmHkhiOtzo=;smlyxjxsslWaqELYhrDAYQ=="

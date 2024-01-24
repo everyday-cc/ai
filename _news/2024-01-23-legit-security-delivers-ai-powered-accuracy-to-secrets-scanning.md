@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/legit-security-del
 webUrl: "https://markets.businessinsider.com/news/stocks/legit-security-delivers-ai-powered-accuracy-to-secrets-scanning-1032988513"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,34 +24,31 @@ topics:
   - AI in Security
 
 related:
-  - title: "Investors to look for AI-powered gains during Big Tech earnings season"
-    excerpt: "Early signs that huge investment in generative AI could soon lead to stronger revenues would boost ‘Magnificent Seven’"
-    publishedDateTime: 2024-01-22T12:29:00Z
-    webUrl: "https://www.irishtimes.com/business/2024/01/22/investors-to-look-for-ai-powered-gains-during-big-tech-earnings-season/"
+  - title: "Protect AI rolls out Guardian for management of machine learning model security"
+    excerpt: "Artificial intelligence and machine learning cybersecurity startup Protect AI Inc. today announced the launch of Guardian, a new secure gateway that enables organizations to enforce security policies on machine learning models to prevent malicious code ..."
+    publishedDateTime: 2024-01-24T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
     images:
-      - url: "https://www.irishtimes.com/resizer/hS9J2kkVZoWLTFf6mG9G8zKAuqQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CTSOI6QAXKBZMR6QZ6OCXBCDYU.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
+        width: 2500
+        height: 1313
         isCached: true
-  - title: "Understanding the Role of Artificial Intelligence in Cybersecurity"
-    excerpt: "But fear not! In this blog post, we delve into the captivating realm of Artificial Intelligence (AI) and its indispensable role in safeguarding our digital existence. From predictive analytics to deep learning algorithms, let’s embark on an exhilarating ..."
-    publishedDateTime: 2024-01-20T07:02:00Z
-    webUrl: "https://techbullion.com/understanding-the-role-of-artificial-intelligence-in-cybersecurity/"
+  - title: "Artificial intelligence may have potential role in airway management"
+    excerpt: "The state of AI in airway control, the most recent advancements in this subject, and its potential therapeutic applications are all covered in a recently published narrative review. A subfield"
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://medicaldialogues.in/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
+    ampWebUrl: "https://medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
+    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 37
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Cybersecurity.jpg"
-        width: 1000
-        height: 500
-        isCached: true
+      name: Daily
+      domain: medicaldialogues.in
+    quality: 54
 
 secured: "gWQCJ9l/WnGYlhIMcv8pD4RluVfM1BDMh77f5C20NvbuDbsZ/OCU6xpZGpy9v61mfMpQ/pnhbPjI/0DrWsE7avKbBZE8BzlWTK94020MiT39Txtru/Uxhxc5gzbtM4PvvLyUOJEaLdmINGT1eXUwMtFbmeqtWUwiCJ/LgSTuZB3bK6d/Rv4nrKwxAz229RuEg8Hi1vhfCZU7XuN+NIwqOXXOD/lBmD/imBTvXzZsJ5VuSSENt68YyS1wwZ2/4AWd70SOcRXJ0wls+wa9eVBYpAnVP0bfSF8YB3Fo74mw8jl+n4d4N0mnrzXEqM3NeUZYOQLwHAl2MIRzYvYj4wOuok6dwWoYc4l+3Zwizu7xuBU=;pT1ZmDog897cu3C1JXlVsQ=="
 ---
