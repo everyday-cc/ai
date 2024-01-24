@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-sho
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -71,22 +72,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 89
-  - title: "Seven Keys To Making Generative AI Work For Your Business"
-    excerpt: "A successful AI strategy requires a few specific principles for businesses that want to gain a competitive advantage with AI while avoiding its many pitfalls."
-    publishedDateTime: 2024-01-19T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/19/seven-keys-to-making-generative-ai-work-for-your-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/613b7852f73c1b393f5afbd9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AI-Generated Fake News Is Coming to an Election Near You"
     excerpt: "In collaboration with YouGov, we used the AI-generated headlines to test how susceptible Americans are to AI-generated fake news. The results were concerning: 41 percent of Americans incorrectly thought the vaccine headline was true,"
     publishedDateTime: 2024-01-22T12:00:00Z
@@ -162,6 +147,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ef//wBPE2ifQd/J7MKj0Kdq+YSi+DAXKRPFvE1JGiCBx/OPNMW/kFVbxoyBDHioqDXba8gEn2igwldzbjMJ9Ykwfc0uRI+CAQhb/+mO4lL/PxXcpEx2VJG2Cg2UPU9K40ge5dM8FXf1WQdHQRdA/M48PezcB6MrR3t//SnxmyN0Ig7T/0esvex3laVfkNvsHoBpnwZNuR2fnhzOVFC6rwGrcM6qzeIYtFeXji8FFzAW7GBrhh++Zch5UKb7ihGIERNKSVAEdu6xC+2rSViMY9Puz8H1HnUTuGPpYwTgmbw7yImSpc8uVsdOKRj5xhpRX6HkH2QeLxsYm4Qe2n0rNI7VFp9BPS24LRkWhngB8QtY=;acYkCdAv1K8dmWQfeG/ftw=="
+secured: "N3/eU2xgUvGaId24tVr9JA+PdeZz6JC8dlAtCCjmEOyAtgWadTZdTBVuIfqRQs7nyNYp+SDQZ+tskJeNC1nfSqZXQUxqZAld600mefD+BO3KyqnqhxUvBEIJ8lhOGUEC1XnuHEFxiZW6HKE/AiA7eSQ+CO/uhD/9Eo+8w7dIovO27vr7ohTvnvlqAejXGMnrSPQr/nltY2b0Rgq7/CN9zq91qkhgyzmvU3BYcBhOiiMEeKwka26Vew2GFso1xHiDax4tnTueYYCD6q72KpLkRRWrXS6HdTuVREnfWdxQ8w0OXwK2xhqHMtXNjDVJJxydbiiuOusFdqJ7MdrnfqYXvKAEcOaaLphIe33FUOo1RGo2IVsKYcazF/pp5a46Q3ygWB7NfTaT0djd1hrLbFq7zaqBeFRyjvRAGBN4FI1QbqwlyMpWZPjRT4TBsbYy5RJKQiLfEcF57wJICWZ3SwjKMm2dy6cFhb0JbW8IpePUFNebMyPvf+VWspqK0mEzUAyl6dgoqmyHP6+f7j3pWB5cWQ==;ORnrgqwNLUQeFovuRfLYVA=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Cushman & Wakefield Collaborates with Microsoft to Enhance AI Technology Platform"
-excerpt: "Cushman & Wakefield (NYSE: CWK), a global leader in real estate services, today announced the firm is working with"
-publishedDateTime: 2024-01-23T23:17:00Z
-originalUrl: "https://www.01net.it/cushman-wakefield-collaborates-with-microsoft-to-enhance-ai-technology-platform/"
-webUrl: "https://www.01net.it/cushman-wakefield-collaborates-with-microsoft-to-enhance-ai-technology-platform/"
+excerpt: "\"We are committed to seamlessly integrating our people with the right technology and processes to enhance service offerings to our clients. Today's launch of the use of Microsoft Azure OpenAI Service and Copilot for Microsoft 365 at Cushman & Wakefield again demonstrates our ability to pair robust technologies with market intelligence and expertise,"
+publishedDateTime: 2024-01-23T23:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9951059.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9951059.htm"
 type: article
-quality: 29
-heat: 29
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "umlHSQ8TNXPNtZiifaxYdgJnJ3U0Iqd42EJ5pwWf2/A3KuUptHDEmeDPwROooCWe7FHxQ+hhb2tyzPdUAAaHjNy7Q7hHsD5t9NTeZ64+ht/DQYfuRUFlfYOWWSCAXekZP5v6EBfdz+nWIdroprqXwIbb35CVXkjJ13XMfTOn3lqYlFzQZPvX7EKtCqbd/ZoVXiJinVO2isvBVDaO0NXBQNDgT9X1Zfv3o1XdXtjY/SXHdwPDDpz3ypqRRI78QKVj5ZIp6W/y2UL+TwR0m82Wt4RU1cf0+fRJW3EMRIdTBFrTc2YkvAA/Jyg2GmEi9ke3KPVHh0kFXhGbvKjydVJsFyMrKKZugHVFoc9DOLFl8PhYf8DvXiDBBmG2wkX7xIXXCmXRhmwQ1OF/wGGcn6O36fbCd0JxxZBzFUYlwHF5SkNuhae4YiReYA8fEqUV2Eh5oSdq0vjYAos0j8UaL5IE1VRjdZVDxAGeZGuFszFm1ny7doko9uCfmxmBFEAIxDlP5yx3dnJ52am9KH91QoaBBg==;WGr0YikJP1IRrDb0sYNdDQ=="
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "5arxLq8dqkm3xJCDf+ojCuozS1GHvu/GtWoYVxR5D5wB4If1egziJGUSO8h+pBDjYlRp33YphyykgEW231+iAv1GtmUIzsYnz2LfYz6sKz+BoAL5OETlNkt9EObvMec+dc8N9Fy+1U/fY6l4U1LPH57Bv+nMebXwJlx9LgQ+ZR4GdrVkj0PVKnBsYFgZH0dKdaLbnXZ5e2o5WkrG5KxuHHM+COeY0RoiJYUFRrck4HZeyo9gRRiTQex7zaKaPzneGEUadzShtp06XOCW8pFVw1Bvgz/51ybA5iYC8CFljEBc0T5+rXawTu8LvU97WzC3ayOq0HCBbsoE4O6tuGWtqRMv4c5Ak3OsTGTs/nh/r20=;ZOsn1GnTe/E+Ep/7/SYO8w=="
 ---
 

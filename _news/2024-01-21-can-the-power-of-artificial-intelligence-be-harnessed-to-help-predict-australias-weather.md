@@ -62,6 +62,36 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Google terminates contract with Australian data firm that helped train Bard AI"
+    excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
+    publishedDateTime: 2024-01-24T05:31:00Z
+    webUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    ampWebUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 55
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
+        width: 400
+        height: 265
+        isCached: true
+  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
+    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
+    publishedDateTime: 2024-01-24T02:15:00Z
+    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Five months since the Voice was silenced, what now for Indigenous Australians?"
     excerpt: "Many believed the bruising defeat could make Labor unable, or even unwilling, to pursue Indigenous rights. Fears abounded that a week of silence, announced by Indigenous leaders soon after the result became clear, could morph into a term of inaction from the government."
     publishedDateTime: 2024-01-21T18:48:00Z

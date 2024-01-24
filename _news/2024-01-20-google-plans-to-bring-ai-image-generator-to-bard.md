@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/google-plans-t
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hans India
@@ -27,63 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bard AI is coming to Google Messages"
-    excerpt: "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ..."
-    publishedDateTime: 2024-01-19T09:19:00Z
-    webUrl: "https://www.androidauthority.com/google-messages-bard-3405223/"
+  - title: "Google Bard to adopt Imagen as its image generation tool"
+    excerpt: "Google Bard is expected to adopt Imagen as its image generation tool. That change could represent a big boost for Bard."
+    publishedDateTime: 2024-01-22T18:30:00Z
+    webUrl: "https://www.androidheadlines.com/2024/01/google-bard-to-adopt-imagen-image-generation-tool.html"
+    ampWebUrl: "https://www.androidheadlines.com/2024/01/google-bard-to-adopt-imagen-image-generation-tool.html?amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2024/01/google-bard-to-adopt-imagen-image-generation-tool.html?amp"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 71
+      name: Android
+      domain: androidheadlines.com
+    quality: 44
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Bard Inbound for Google Messages to Help You Compose, Translate Conversations"
-    excerpt: "Prepare yourselves for the arrival Bard, Google’s conversational AI, in the Google Messages app. With it, you’ll be composing messages, translating languages, and so much more. Detailed by the good people at 9to5Google,"
-    publishedDateTime: 2024-01-19T23:04:00Z
-    webUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/"
-    ampWebUrl: "https://www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
-    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/01/19/bard-inbound-for-google-messages-to-help-you-compose-translate-conversations/amp/"
-    type: article
-    provider:
-      name: Droid Life
-      domain: droid-life.com
-    quality: 58
-    images:
-      - url: "https://www.droid-life.com/wp-content/uploads/2023/03/Google-Bard-2-600x315-cropped.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Training AI to use System 2 thinking to tackle more complex tasks"
-    excerpt: "What can we hope to accomplish by enabling AI to use System 2 thinking methods when approaching complex tasks and requests? This guide offers"
-    publishedDateTime: 2024-01-23T15:41:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-system-2-thinking/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Training-AI-large-language-models-ystem-2-thinking.jpg"
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2023/11/Google-Logo-AH-3-Large-jpeg.webp"
         width: 1280
-        height: 831
-        isCached: true
-  - title: "How artificial intelligence is changing work in law firms"
-    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
-    publishedDateTime: 2024-01-22T18:40:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
-        width: 2560
-        height: 1600
+        height: 854
         isCached: true
   - title: "Google's AI chatbot Bard to arrive on Google Messages"
     excerpt: "According to info spilled from tipster and code detective Assemble Debug (via Android Authority), it seems Bard is gearing up for action in Google Messages. The scoop is that Bard"
@@ -94,24 +52,6 @@ related:
       name: PhoneArena
       domain: phonearena.com
     quality: 19
-  - title: "Here's how Bard will work in Google Messages"
-    excerpt: "Based on a few code snippets, it seems Bard is gearing up to be your all-in-one helper in Google Messages for things like drafting messages, image identification (yes, it's a genius at recognizing pictures), language translation, book recommendations—you name it. Apparently, Bard learns from your location and past chats to give you spot-on answers."
-    publishedDateTime: 2024-01-19T12:36:00Z
-    webUrl: "https://www.androidpolice.com/new-evidence-suggests-bard-is-coming-to-google-messages/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
-  - title: "Effortlessly Craft Messages with Google Messages’ New Feature: Gemini Nano’s On-Device Magic Compose"
-    excerpt: "Read Also: Google's Assistant with Bard: A Possible Rebranding Before Launch Google is expanding the availability of the Voice Moods feature, allowing users to visually theme the waveform of an audio recording before sending it. There are nine available ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/21/effortlessly-craft-messages-with-google-messages-new-feature-gemini-nanos-on-device-magic-compose/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 0
 
 secured: "dGOPE3CfOuJnmsUt4QBXdmzrkVf78LihQmbMHkDpOVYo3LYqy898NzoNztjKDJ8NWTrLO3O8sMWK1eczrVhLS9hqZleLwFZFAMt/y5GFpg4TulYZTKo7uGfbvqqDbCWHLNSXyYJhf02ZCXIBpzfyEg3KylO3W9t1vBmye7wa8gcOtJxN1UZyXROqJ3T8n39ddVGd3q/MGtA0vF1AgOYE4Q8/FR3emGOSnc4aAbk4ow9I73TvN++djkozIFg13dM56+/IyRhu0GRucxGPgO0gqkZNV/+oh1k/qSRBIlUp+w5j17VfNRSt6WWrkA3D5P/fgI4prUl9X2Dy6WkZaZZYVv9edW7AOSihgpN6dO0XP49MLgsC2ljCa90011TzfkmuB/7y+feWJADDeTko61Fqw6bU+tf71XiMoQgy0jDvCEcbXEQ1up+3+FtUHdQhfArbkaxccYoRIKPxjMH49BJrI9u2f3p9BjJXPQ1nGSoXrXThgU8SmtTkJ0/mqP40pGFQ3O8auXDp4oR60HxJ8kTH0g==;oH2lCtcY9OxiRun2g9SVbw=="
 ---

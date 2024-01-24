@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-faci
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
+    excerpt: "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ..."
+    publishedDateTime: 2024-01-24T09:15:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 66
+    images:
+      - url: "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Man falsely accused of robbing Sunglass Hut in Houston suing companies over use of facial recognition software"
     excerpt: "But Dutko said Murphy was nevertheless charged with armed robbery after the head of loss prevention for Sunglass Hut's parent company coordinated with Macy's and the property management company to use surveillance footage and facial recognition software to ..."
     publishedDateTime: 2024-01-23T14:55:00Z

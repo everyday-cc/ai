@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janinemaclachlan/2024/01/20/harnessing-ais-potential-to-boost-your-career/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1261
     height: 900
     isCached: true
-
-related:
-  - title: "Bringing Agility into AI to Drive Business Success"
-    excerpt: "That’s the pivotal choice presented to many business leaders today when it comes to artificial intelligence (AI). But what if we defined AI as agile intelligence, and freed our teams to embrace the spirit of digitization and “cheer AI” not “fear AI”?"
-    publishedDateTime: 2024-01-19T10:54:00Z
-    webUrl: "https://www.business-reporter.co.uk/global-agenda-series/global-agenda-series/bringing-agility-into-ai-to-drive-business-success"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 39
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/039/_9461211f-abb7-4244-914f-74b0b592ed16.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "/omJjXarEk9OdFEWQ/N/LmISOpfOzqO1f+/53niGy4hus+eH0MJ5xwPM0ooAFly9MNmT5KBkFVi022nf55fOD+jE4G3ZnXXHdqEdT2GckX9nZIqZmueGhr50YsKaDqWDWFBFqTSqkJdklKCQK7CqPXa2KQqW81XMDJzoH84u9FpV4sEF9L4Ij4rVsNgjGxY4E1zVyg0vyd99dpk4E5GA2nt3aL1SBo3rKfAkACzsGnIr6hvutUuBzVMz2Z9TMMMZ0lLJwcR1YTNiC0pR5LTSnU/NKx/2FVB0n/cfphunRRfSXG4eS3ia/OR3f6kdKGWTRnLolRnzxLi8q33qnIm/QabUU2GqzjI7OJa9t6u1uXj5Hcw1Z22TIZeKCgf7bztL0msrkTB3cIGtvcKfy51ual/qTOvwZLmnyd/Y5bbv0uXBJ8dQdOKolBsOYgn+eRs7ac1qkFCsbT97kO2rofCa+gfRTjDBnryrZYZminxGNq41YeKfuJ4yKsh2dxk8iegdlqjqEM5qZgfZRE8HiVFL7A==;85ZaoWlQ+wfJzr1C7n11HA=="
 ---

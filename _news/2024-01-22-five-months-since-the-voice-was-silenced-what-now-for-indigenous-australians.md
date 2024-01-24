@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Google terminates contract with Australian data firm that helped train Bard AI"
+    excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
+    publishedDateTime: 2024-01-24T05:31:00Z
+    webUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    ampWebUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    type: article
+    provider:
+      name: orissapost
+      domain: orissapost.com
+    quality: 55
+    images:
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
+        width: 400
+        height: 265
+        isCached: true
   - title: "Can the power of artificial intelligence be harnessed to help predict Australia’s weather?"
     excerpt: "Machine learning from existing models is already helping some developing countries with forecasts, one researcher says"
     publishedDateTime: 2024-01-21T01:19:00Z
@@ -66,6 +82,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/4a97aef94bf6590118be2f7931ddeb93776811ab/629_704_4480_2690/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=987398b7423d04a5bc9ac5a8a9a93a9e"
         width: 620
         height: 372
+        isCached: true
+  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
+    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
+    publishedDateTime: 2024-01-24T02:15:00Z
+    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "WMTVfp+cA7pJYamAcGCPccaMOKNTZsul2cF4AsTpCoJwrvvBNRwb/Hrtbfa9ftmPpvQ7l/pBwsxd5iTNBd/a5PXsd6RHkTBSkTBdAH96fiEltWfGicrxhdXx/KNMUlkSbhTlSfqAPufSeemx7zsjsJAYHQwHdGNxGh0FxyMnL7KKHIOgC7rlarWG62/6giNLYHE/pg7ESXJf7Thpa8MgAgjKhs9qmeuZlWFFgMvhPfFYVdxOgYNf4yRAUQjhOdurFSa7se6VuZqI/sLEqf+iPnwAoCMniEcrYnQLtpmIiz0v4xyEuHwi/m6nWbBSbGyGD9HQRasAASM9MP42WvAaQxbnBglK5IhWjkSHQvgl+FWUBKDfiBxDKqXz5vtPXMJE+0dAn9AZDJ5COwz63308cYTA5/zHrDgH67gDbO+DmynZRRWPxQwHEF/yBdKB+NvxRSGM8RTXGfbIKUGwowoHHf1QR/nBD8NgWSq9axQqH3dwIi4xVkUkbvhawoguUpkL+VEcc2Gv6kMn9/jkgh1/Vw==;szhPDwt9qoxgTycJbz6pCA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-vo
 webUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting"
 type: article
 quality: 66
-heat: 118
+heat: 116
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-
 webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta focuses research efforts on ‘general intelligence’ AI"
-    excerpt: "Mark Zuckerberg said Meta is expanding its two main research groups and bringing them closer together to develop its long term AI goals."
-    publishedDateTime: 2024-01-19T10:02:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/meta-general-intelligence-ai-zuckerberg-metaverse"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/01/47721887002_11d5bacf9b_o.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Intelligence Community Leverages AI"
-    excerpt: "The future of the intelligence community will hinge on how well intelligence services can adopt and leverage artificial intelligence (AI) tools to make the most of the constant"
-    publishedDateTime: 2024-01-23T14:22:00Z
-    webUrl: "https://www.conwaydailysun.com/online_features/tech_talk_and_innovation/intelligence-community-leverages-ai/article_24d27454-3bf1-5c77-9673-89e4f72331de.html"
-    type: article
-    provider:
-      name: The Conway Daily Sun
-      domain: conwaydailysun.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/conwaydailysun.com/content/tncms/assets/v3/editorial/4/0c/40c0227d-8df9-5f46-bdf8-70ace8624d74/65b0bdd81f8b0.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta to Build Artificial General Intelligence"
     excerpt: "Meta to Build , Artificial General Intelligence. Meta CEO Mark Zuckerberg made the announcement on Jan. 18. Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses hu"
     publishedDateTime: 2024-01-19T18:18:00Z

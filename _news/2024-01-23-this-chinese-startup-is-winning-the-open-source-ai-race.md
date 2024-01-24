@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-o
 webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
 type: article
 quality: 69
-heat: 91
+heat: 89
 published: true
 
 provider:

@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Is AI-Generated Information Likely to Start Showing Up in Legal Reviews?"
-    excerpt: "In the absence of formal regulation, lawyers and eDiscovery professionals must ensure they are prepared and develop effective strategies for identifying, validating, and integrating AI-generated content into the legal review and eDiscovery process."
-    publishedDateTime: 2024-01-23T02:55:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/22/is-ai-generated-information-likely-to-start-showing-up-in-legal-reviews/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 36
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Robot-Hand-767x633-1.jpg"
-        width: 768
-        height: 633
-        isCached: true
 
 secured: "ENZTQK/vTkyftW4lb9TFTcKzbyqg5VDiPsi5nzmiam9WXrcDLDvAf31cO7h+5AdcPyjVwrpCnYw+8jvDs5AkyZq9I8x55ysO2I170Zn40tXmLE3SX9FqD/bXoK0NPXjUhSQaeTVLL0TQWUd5e4zxRZHk1bpzRlqdnrgO/xQM8FFHERNtsiMJ4w/LLM/3TA1VWj2xE7Bqg1BpLSERsSSsMeYG2QH+NLhuE/d4H2DHIqj8/lvIWnhaVohZq88tYvQthXBgs+XWXN2LCr2HVjF2xH55aipCyCX9S6vT5GcFDFvJF+LuFQS5dZBfscoRNOg35tpkzIZyKyEL0UGmcvWjovSk+4YjGPfGK8fdgnpu/atz+3h1Wjza6OIA+3UcBVIrMsax8RyyqmSODzqJTmrENTv+5KP5XJVlxs/TYOF3t2OjHGjR2JDHmWkvV4cv8HwjIMj2sxj01A3ZVbK9utl0Et2qnTMSYY7fWsZp6rWspfZNLpagstOot9ZnH1hKBw1GwwGcf+dLLyICogAWppWPbQ==;IrQ8o9jLBwPhxDimfiuvRw=="
 ---

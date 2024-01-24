@@ -34,22 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "WEF: Davos fears AI and 2024 elections"
-    excerpt: "As global leaders descended on Davos this week, many fretted about the World Economic Forum’s top risk for 2024: AI-generated misinformation. Though big tech attempts at curbing misinformation was lauded,"
-    publishedDateTime: 2024-01-19T10:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/wef-davos-fears-ai-and-2024-elections-12085961.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/wef-davos-fears-ai-and-2024-elections-12085961.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/wef-davos-fears-ai-and-2024-elections-12085961.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 59
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/01/social-media-bbo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Davos 2024: Top quotes from tech world’s leading minds on artificial intelligence"
     excerpt: "In all, about 60 heads of state and 800 CEOs were in attendance among a total of 2,800 participants, as they discussed wide-ranging issues — from climate change to economic slowdowns — at both formal and informal gatherings."
     publishedDateTime: 2024-01-21T00:32:00Z

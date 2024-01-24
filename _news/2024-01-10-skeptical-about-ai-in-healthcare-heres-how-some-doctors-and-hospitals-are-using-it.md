@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Skeptical about AI in healthcare? Here's how some doctors and hospitals are using it"
-excerpt: "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”"
+excerpt: "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and ..."
 publishedDateTime: 2024-01-10T15:44:00Z
-originalUrl: "https://www.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/"
-webUrl: "https://www.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/"
+originalUrl: "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/"
+webUrl: "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "gq5j0UWzqnoWpf6ULi6OVk8/TZ49oxfMV6vPKy5di/13hP9e5Ly7usnOinmXzdupKn1CDs6JchBcJ9AqaxT5J6TEcjUllo3hvkQ8dzQGQkbs+lFU/HRvHVtHchhGVQM+rmh+LTVKGHeNxU55nX3cnTLiKqWQlT07ROc9nsieEcWGzFM9NRFfmsJYPlBJqqOo0J4qiTQIm9W/z60ml2lDNvEAAjrtAHO0rF6bNtLE21yhsrQBaW9HBI4g430c2ZD5VV5+ekOWuiJCW2qi1jkZamsQSrFWeUIBlZz+1kHdYNWjGZLAk5VX1I9sj7Bu3OQiFXlHsCZzHuqkf4ipZ7NE5xil0elZRjJm5diUtGtdYEA=;BuO6st+IUNZhxC3J1BDr0g=="
+secured: "vB2ahnW6LQh9fkimhbYTnc/fC0tHnzWTmkzfd5vXkUnz5givn0i+C4gjL5IkWCN+W0P0WOnVNcnVbxljzWNrPM1Uv8O+1IgK1rIt+Lj5lG9ykKsAG/Ct2ePYTTqyYUrvAdaze5OQbyvfaYl/N9C98fw61EPO556rOf4klNdAljbAqpxB47C6HoK6t5eNLihP08Z0nwIZC5oMFlQ9ia3UAZWMLK+CJN11kHiLzKRk6qO8pyb6Nw8Yde5kQhKJni1O3IMohynORhOCCw6LjD1bFVliIa0kCd7EvJUNxYswWuIfl2cKgx7Y6lSuUatthLfzzT+waYQwjQFXh91h0KXaT1T2yfdt0PgSwpeDZW7woTw=;bKX2A2Nmulq79wyMefu6zQ=="
 ---
 

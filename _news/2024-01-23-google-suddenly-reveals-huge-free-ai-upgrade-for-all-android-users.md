@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade
 ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
 type: article
-quality: 91
-heat: 93
+quality: 93
+heat: 95
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Google AI
   - AI
   - Natural Language Processing
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

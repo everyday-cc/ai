@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-help
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.rcrwireless.com/wp-content/uploads/2024/01/Deep-Dive-Slides-4.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How AI could help us talk to animals"
-    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
-    publishedDateTime: 2024-01-19T10:58:00Z
-    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "O22Zp4ZDhl2UlwTdIgrvXupSa1gr61Uy53kWf+rOMBDrFMYil7CGgS7ZUOaB8hupyiNs6aXRswGx2k6TZSQHo4CzF2x+PtabxsKDPFfQPRR/ftshRCl3+i4S9jnYGBoxLgU8dzU2tTMS8kG7eiZcIxxrB42p7jAaLDYWST9IzThVE1Tyk293yKyBNKrc/s1E8QAOAWqRVanv8eMcWi0uHkQQjh3UtMR0D7GR8PBierBLChEGBJoDlgPwUyctZHiLBM76n+6yxJGsxV4NJhAKCG1cmKZIyq/PyiZ2BN8mjFXAa1I2UiCAeXhhyyZD4iYd4L+qJqOEfRCqR8NCu50j8MtpBbnplU6G21ehFQswDPtQtiGJE9FZQJRydEsSatgPo0sv3p1ZBl6e5aHOU87w7SFcbO2OGKFvXb2k6AA2dlXKSQDXUDh3m4Zprmb0bUTgzUixC9tTd/hITUuojg5d20tdhqiI5qGWBN0sdb2ojO/1VbW8RtlWyJyVPsjGLTJbYFmTiCpdglmakJ8EaIPnOw==;XNmoyhzA6GhKqfIeebel/Q=="

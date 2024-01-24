@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Is AI-Generated Information Likely to Start Showing Up in Legal Reviews?"
-    excerpt: "In the absence of formal regulation, lawyers and eDiscovery professionals must ensure they are prepared and develop effective strategies for identifying, validating, and integrating AI-generated content into the legal review and eDiscovery process."
-    publishedDateTime: 2024-01-23T02:55:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/22/is-ai-generated-information-likely-to-start-showing-up-in-legal-reviews/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 36
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Robot-Hand-767x633-1.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Beijing simplifies business registration for foreigners via facial ID"
     excerpt: "BEIJING - Foreigners applying to start a company in Beijing can now complete the entire registration process online through facial recognition, according to the city's market regulation authorities."
     publishedDateTime: 2024-01-23T10:15:00Z

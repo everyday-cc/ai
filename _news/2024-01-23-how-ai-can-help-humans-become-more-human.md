@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI could help us talk to animals"
-    excerpt: "To what extend computers will help us \"penetrate the secret world of animals\" is \"still unclear\", said the Financial Times. But \"it could radically alter our perception of the billions of other creatures we share the planet with\","
-    publishedDateTime: 2024-01-19T10:58:00Z
-    webUrl: "https://theweek.com/science/how-ai-could-help-us-talk-to-animals"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/EEuyXMEmfjUizBCZThduc9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5G1AnCN2Nh9vTpJd8/pdvH74yKSqBwUPjkDHtFN7D13A1Ln3WlF6GPSuXrRayo3UHMtmR0AN7+Rv/RByMu47lzcHq4L7oR42U++Iu+HUPT7yXszJYFY91mFuLkTaT4mMb+FW8EpcHC2TfIU4ayif17rlAQXKYHtRxgdnfzwr8kiA5xUqknBr7W1dLFO8ffht6pwgIaXyYYEAIiGZ8eqlMS8w0zOPL6EZe6mBW5iAVZwtSLAxHspxa+C/VEBuaYxUMvckyzYpcMqm7NhCZeGyAAQ4t931kx5EuYXTi92gMLCDaKkHOfnWT8u6qsyJJFfI5vOV3kDbay5Z2gd0aQbk9a2p5zhSNjDPwcrG7xo3yPgDzkPuR/2Ufuv7WqG6E744JVKpXL7XKGPjOOgh+iooe+8a4C3WtxwMq+noZQa4EgXQpJg0v+fVbZI9M+t0r7Uo80xWMgkV45uDJjEn+M2TaiqjQj3AUa5f9QDEyR4QbXERFDrKYyqqPojOes5BtW04wEyv2vBQzEs61C8qY09TcQ==;OxnhPXEMIZ6BydB8w5ZHYg=="
 ---
