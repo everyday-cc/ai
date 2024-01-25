@@ -47,6 +47,15 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
+    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "xcu8yMvTZ/5Z04/r5uH1tiziDdFS/IJ5uIFh92krtHYFtiuM6FyxWmmIBlrHw724h+MkPNvVYcMA9HMhE87eF6hegDlV1gBjIhpNerX8fupb3q7KIP8oEC6uwHjMPtjtFv2FlY4HyjeUctCqx5HM7qs49mYaftBLcdzPwSvV/3yuBXlSbeisU5GHDCXbJPARh3r5obb5vHGiio+wlDDL2QBum9SiYrTzorSMBmzT2nxa+aAbPz7x0pa0uRSnn4EfCpwz1h7EZ+tvVz25cu1Lc0F+Wa8mmdNobxHsy0OoH0z+saajTjLt5vnuQWgLzj8PZuWQYmmi8J3FkLkslT//8lXza3uZy1kiKHqqXbwCurc=;DO8pWXp6O1OX38N8A2eBag=="
 ---

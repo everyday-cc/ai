@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Why AI needs to learn new languages"
     excerpt: "In other languages it is less impressive. When taking the test in Telugu, an Indian language spoken by around 100m people, for instance, it scored just 62%. Open AI has not revealed much about how Chat GPT -4 was built."
     publishedDateTime: 2024-01-24T19:01:00Z

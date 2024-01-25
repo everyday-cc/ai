@@ -35,6 +35,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Will AI Take Our Jobs?"
+    excerpt: "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\""
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 852
+        height: 568
+        isCached: true
 
 secured: "pPTscI1v8Sd0hfPjxjOC8BMiwS76qOoBUza+a/F+zCzOVRS00DOZkvoMxbTAXZlt7u3ZVq8/sSaDJT0sbepo02gSxmh+k0vqr/O3jvp4CeCXFtn6iN5sBztDaawfFGhQtV32pZexS0iPUy9LP0dY8BvAWlLyZoxCFBdOMtEqgCn7l3agzzQGf8q+lF2k3IAv2rjEWDXDwf2ttA5mueOSYQ0b4D36xB2cIRaG/Q4AeV4NG9jiKea0R1ea5wQHOpg9Pez8UmLDuCDcEKrWbypAMPqNvhvBVyzut5ehqiJcxFjapEPFcTRn8ceWcgXn/iom3fR2UNuhXiWW0zKIhcpOh9T1itIou2BgzEJR0eJ10/Y=;p5sPQrccAS54zYsnHZCRPg=="
 ---

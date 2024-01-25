@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23984,msid-107087883/fintech.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "IeDigital acquires AI fintech software house Abaka"
+    excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform which uses machine learning and behavioural segmentation software to predict which products – such as banking products,"
+    publishedDateTime: 2024-01-25T10:18:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99431/iedigital-acquires-ai-fintech-software-house-abaka"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "8EuAKp2UWsd2Ro/2dpYmr2lzszeXMUmTYjpjAJ7vgkrHAxDDOXsUyTBOSupjkVijvi9A/AJ+D/Jal37GVD7/nwiiuvzmSMqdT27oXVhFab7dp8N3iI+e/MEZgLr7ClnXsNzxw3FtGejPh07qkHqWgBRddnxgz4MPFQQG61bl4sFnvLO8c/IWrrbkgFOxM0V5E668PwEM1lBW1U7IqPobPxIBof3C0jdo2prn9LUgv3Y7PkN7xBfzePtkp8ZXpp71Wojw89lIPfgFo1ZG3gR3NPik3nJthlLF2GVGpwrZK+tQxJ7qL2ZsIXwEldX4c9L01FaWpIeUoewBQ0D+VC1b3u+bd/bgih69YfxOf/35yfEIIX60fgGihy5s6ARFQiYVK+5/vqPpR5TUfcpfPEI+S6Ni68ivLmj+WZBYUTTOTslWsI0xHGWDvDssITTJKy50dO8qz3gms0jJVU3isFMrcN/i4kAsgW5bke9j6p31gb2yqO2lKsbmRxQ/qsJfdKQ95mZ1JGWsZSpgYuBREXRxEw==;quRIVsnPWjPrgbAv9ix2ng=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technolog
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 65
+published: false
 
 provider:
   name: CBS News
@@ -41,17 +41,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Face recognition technology follows a long analog history of control based on identifying physical features"
-    excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit a"
-    publishedDateTime: 2024-01-20T09:25:00Z
-    webUrl: "https://www.thenewsminute.com/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    ampWebUrl: "https://www.thenewsminute.com/amp/story/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/amp/story/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 23
 
 secured: "pMgNKe0zXxJMo04Fw/jUGprIjQpXktomBdek1jyDSX5d0+rQ9cGWgB6Xy3Br7oYGsLr+6V6qQYeV3Ci07FJWTYFRqPEULRmKlEkcGycvdI+Ed4lPmSIKrvLZunvnhdbKxXWf6qKckvnYVtvplRkIjbwn+fQ9s0Zp1HIwW/2Y81k3al3WDRomGK3moVfBIotrswW8pSSw7/lSiVGHv5nzwZISSDrL+MSj5aYCVrqBprSJWUW+e2gw+GDkGsJFupmJZT4r0ho73ZOgOk62aM6W/uUseUtjRpDqwa+Cc5DFNtgLXqQ05QMdsxeTetym6rFfFzM0M0N5dzERFZPxMnojvFCvd5OvKJ0D1mhcuyC0Ji0=;UYDeIi9a6Mckj8lv2MJ1/A=="
 ---

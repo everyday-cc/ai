@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "How to Use Gemini Pro in Google Bard"
-    excerpt: "In the digital era, where efficiency and creativity are paramount, Google's Gemini Pro stands as a beacon of innovation. As part of the Google Bard"
-    publishedDateTime: 2024-01-20T10:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-use-gemini-pro-in-google-bard/"
+  - title: "How to Build a Website with the Help of Google Bard"
+    excerpt: "This guide is designed to show you how to build a website with the help of Google Bard. Building a website can seem daunting, especially for those with little technical experience. But fear not! Google Bard is here to lend a helping hand, guiding you ..."
+    publishedDateTime: 2024-01-22T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-a-website-with-the-help-of-google-bard/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 24
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-14.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/website-google-bard.jpg"
         width: 1280
         height: 720
         isCached: true

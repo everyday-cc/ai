@@ -43,6 +43,20 @@ related:
         width: 1362
         height: 900
         isCached: true
+  - title: "IeDigital acquires AI fintech software house Abaka"
+    excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform which uses machine learning and behavioural segmentation software to predict which products – such as banking products,"
+    publishedDateTime: 2024-01-25T10:18:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99431/iedigital-acquires-ai-fintech-software-house-abaka"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "rPrwWbldc6kMZLSTvEvxym7A+lwI6INW+gjFbaGe2cUTHhU3BfXE5EVP55eRauRmpf6lGfTwEKo1VBICl6jSZF/W5lABVicRA0lnT2LKbolo4bQ54MLpKVEPZy9FZrzceRTdHfmC+XcfPDXtoDQd2z2wAB1jViHLj4AjaIu4sTWkTchI+IVeD2YqWbSx+EQsUKMFMFKJ8+iAODDhv9a/zmFCS2/Lm0J4Bcjwe4O60RLreTcOJFQ/ZjiUhOT9nTuUeHfAEeMatp0LLXGLz8pJ7s25OuS9WA6HulSU4Ivt2uu9nMes34nTAxd0LNrMNK5RZMGMcm5EMTDsU+DyV3efcXyWOgHI7fEEaQYVyZP0K00=;2jsG3g6LQFLFOb+Grpj/NQ=="
 ---

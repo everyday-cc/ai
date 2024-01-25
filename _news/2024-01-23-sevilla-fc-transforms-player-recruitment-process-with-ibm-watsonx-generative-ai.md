@@ -7,8 +7,8 @@ originalUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms
 webUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: intelligentcio
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards"
+    excerpt: "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628"
+    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
+    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 73
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2024/01/AI-Stories-with-watsonx-on-GRAMMYs-social-media-channels.jpg"
+        width: 640
+        height: 405
+        isCached: true
   - title: "Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI"
     excerpt: "\"We are proud to collaborate with Sevilla FC to use the power of IBM watsonx generative AI to help enhance the accuracy and effectiveness of their player recruitment process,\" said Ana Paula Assis, Chair and General Manager at IBM EMEA. \"With the ..."
     publishedDateTime: 2024-01-22T23:59:00Z
@@ -40,34 +56,42 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Sevilla and IBM create generative AI tool for player scouting"
-    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
-    publishedDateTime: 2024-01-24T14:22:00Z
-    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
+  - title: "IBM watsonx AI scores pro soccer player scouting gig"
+    excerpt: "An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI. In an announcement released on IBM’s blog, the technology company revealed that Scout ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/ibm-watsonx-ai-pro-soccer-player-scouting-gig"
     type: article
     provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 39
-    images:
-      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Sevilla FC, IBM introduce new generative AI solution to streamline player recruitment process"
-    excerpt: "Scout Advisor uses natural language processing and semantic analysis to pore through textual scouting reports to identify player attributes, even when described in different ways."
-    publishedDateTime: 2024-01-23T15:00:00Z
-    webUrl: "https://www.sportsbusinessjournal.com/Articles/2024/01/23/sevilla-fc-ibm-gen-ai-recruiting"
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "'AI Stories with IBM Watsonx' now live - How it helps 66th Grammy Nominees"
+    excerpt: "Tech giant IBM Thursday January 25, 2024 introduced 'AI Stories with IBM Watsonx' - a generative AI solution co-created alongside the Recording Academy to generate and scale editorial content around GRAMMY nominees before and during the 66th Annual GRAMMY Awards."
+    publishedDateTime: 2024-01-25T08:31:00Z
+    webUrl: "https://ummid.com/news/2024/january/25-01-2024/ai-stories-with-ibm-watsonx-now-live-how-it-helps-66th-grammy-nominees.html"
     type: article
     provider:
-      name: Sports Business Journal
-      domain: sportsbusinessjournal.com
-    quality: 28
-    images:
-      - url: "https://www.sportsbusinessjournal.com/-/media/Images/Daily/2024/01/23/SBJ-TECH/sevilla-fc-ibm-hp-large.ashx"
-        width: 699
-        height: 725
-        isCached: true
+      name: Ummid
+      domain: ummid.com
+    quality: 32
+  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
+    publishedDateTime: 2024-01-25T09:40:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-302044476.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 15
+  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
+    publishedDateTime: 2024-01-25T10:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "mFYKNv4ybI+3MD+xvd92NSvOXENMndEUVplYxKAbJhkLPxLPcBTg8y8tqsO/vfFEHQEKEhkPnxZQgXwhouSN8bZXD7GvoSGP7DtpJwSNXVOn4XiE05f+1YxFezCpbfrGtHfP3Qb9fij6kkT8VEsg+MGlOye/pGzGbUikxXyJpVgPGtIz7CfNF1dUJCeO6tJZkYU8aK6bAMfoPwP4/xvFlkP/8a4DgIBMtHz2TjE+/BDfGT0DU6KQSWRQmaTUabUe4bSYYCZi15xK57Pr7MI4LngZ212hk7eEhdaIJv1FYUjdGwsa/UAHnfG+7VUkRTlCXk7cxUwrpeQ9V1rgjHZ9R+mKEnq8nR/rhLJOcXz0qcHGtkGhQw11A2UcegD4/hxjaxQJ5G/ltu2MpC9D4UISDRQkeRLESAnMDRAVV2HZyfdKIqA5+hrilfl2FYxi2aiKN1t7DrvrZeI3eD1p17kzIXYxPh75OaeZk5oShg3uSp3cgKpto/NHBccq766fUZiqqMxbXhABH1cL21YgkIOCAg==;VeE39hlNWEHCVAlG6i9B8A=="
 ---

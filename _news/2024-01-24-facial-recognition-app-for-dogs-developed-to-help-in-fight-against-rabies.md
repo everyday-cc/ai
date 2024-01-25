@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face recognition technology follows a long analog history of control based on identifying physical features"
-    excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit a"
-    publishedDateTime: 2024-01-20T09:25:00Z
-    webUrl: "https://www.thenewsminute.com/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    ampWebUrl: "https://www.thenewsminute.com/amp/story/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/amp/story/news/face-recognition-technology-follows-a-long-analog-history-of-control-based-on-identifying-physical-features-2"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 23
 
 secured: "9wRodomOb/Axx9h9DRN7+j+lzXc0s93lytCjBH7DUh+8g4WgpFGq9Lq5/4O0KwPbUQGu3owohpxEX0cqWfTadLxtK+BcUTmhwHH8D7e4RmEzpazVockOOgGDaPRxYZrREFqw8p0hHkSSCmsWYdtdcShFWFdgns+Qo8hL0TL1aQz7Jnu/UIyQd/UrTluvam69boQtl6fsvGpqRFoQL8CMdp4WvqW9sEti8kZ7o1o08ww0FD4aOtNV7Gc6HIX3xTYvW4oeLuzejeGPV1Vcio/bcafh52SzQWFogT/3Bp9xY+gimzMD83fWIyzPKsPCdVB+HqN1AUMWEKLPqRBBIGAecQ0sWGxJxQTQ0Y6JNycGHUtoNioN04wDdCMTy8bibMpBkw02jumjVshUck5cLMI8PDqLFqplmNu8KTySp4/6xlI/HFkB9XvwZZUjIO6ZyKeRAFjVdtCH6WNnueGOHVZwu+tAMEHXgkenx35nsUfTCZ3QeChzD3BQCj6yt2PaltzsrQSuVg+EywFmLWPdMId+og==;Z0UvuXOX4gNhKNhPeNQCLQ=="
 ---

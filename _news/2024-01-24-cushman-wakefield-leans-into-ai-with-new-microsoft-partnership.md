@@ -215,6 +215,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft adds two more Indian languages to Translator"
+    excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
+    publishedDateTime: 2024-01-25T09:25:00Z
+    webUrl: "https://www.deccanherald.com/technology/microsoft-adds-two-more-indian-languages-to-translator-2864237"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 41
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft forms advanced AI team dedicated to developing OpenAI-like models but at a smaller and cheaper scale"
     excerpt: "Microsoft has already assembled a team to take on this new challenge, which will fall under its Azure Cloud unit. Microsoft's CVP, Misha Bilenko, alongside top developers from the company's Research division, will see this project through. The small AI ..."
     publishedDateTime: 2024-01-24T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Plus-vs-iPhone-15-Pro-colorful.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How Samsung Galaxy S24 series launch was similar to Google’s Pixel 8 event"
-    excerpt: "Discover how Samsung's Galaxy S24 series launch was similar to Google's Pixel 8 event. Explore the AI features and collaborations showcased by Samsung at the Unpacked 2024 event."
-    publishedDateTime: 2024-01-20T10:54:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/articleshow/107012044.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-s24-series-launch-a-comparison-with-googles-pixel-8-event/amp_articleshow/107012044.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107012064,width-1280,height-720,resizemode-4/107012064.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Why Samsung's Galaxy AI Actually Feels Like the Future of Phones"
     excerpt: "One of the more gutsy Galaxy AI features launching with the S24 is something called Live Translate. At its most tame, you’ll be able to use an Interpreter app and translate between dozens of languages in a split-screen view, with responses in your chosen ..."

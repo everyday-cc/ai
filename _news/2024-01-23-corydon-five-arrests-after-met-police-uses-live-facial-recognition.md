@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
 type: article
 quality: 89
-heat: 119
+heat: 121
 published: true
 
 provider:
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Five arrests in Croydon after police use live facial recognition"
-    excerpt: "Five people have been arrested as part as part of a Live Facial Recognition operation in Croydon. The five people were arrested on Friday (January 19) as part of a longer-term operation to tackle serious violence in the area."
-    publishedDateTime: 2024-01-20T10:13:00Z
-    webUrl: "https://www.thisislocallondon.co.uk/news/24063275.five-arrests-croydon-police-use-live-facial-recognition/"
+  - title: "Croydon: Five arrests after Met Police uses live facial recognition"
+    excerpt: "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of it \"deeply concerning\"."
+    publishedDateTime: 2024-01-22T18:23:00Z
+    webUrl: "https://www.bbc.com/news/uk-england-london-68062080"
+    ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
     type: article
     provider:
-      name: This is Local London
-      domain: thisislocallondon.co.uk
-    quality: 39
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://www.thisislocallondon.co.uk/resources/images/16026307/?type=og-image"
-        width: 945
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Live Facial Recognition used in Croydon"
     excerpt: "As part of the Met’s ongoing work to reduce serious violence in the Croydon area officers made five arrests using LFR."

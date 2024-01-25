@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will AI Take Our Jobs?"
+    excerpt: "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\""
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 852
+        height: 568
+        isCached: true
   - title: "Will AI take our jobs? Maybe not just yet."
     excerpt: "“There’s definitely going to be an initial push,” said Neil Thompson, director of the FutureTech research project at MIT’s Computer Science and Artificial Intelligence Laboratory. “But then we should expect a more measured rollout of it."
     publishedDateTime: 2024-01-22T00:00:00Z

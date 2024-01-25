@@ -28,6 +28,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Google resolves Tensor chip patent infringement case in the U.S."
+    excerpt: "Google was dragged to court by Singular Computing claiming that the Tensor chip infringed its patent. On January 1oth, Singular Computing sued Google, accusing the company’s AI processor of infringing on two of its technology patents. The suit was ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/01/25/google-tensor-chip-infringement-settlement/"
+    ampWebUrl: "https://www.gizchina.com/2024/01/25/google-tensor-chip-infringement-settlement/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/25/google-tensor-chip-infringement-settlement/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/10/Google-Tensor-chip-2-1-1480x833-1.jpg"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "Google Settles AI-Chip Suit That Had Sought Over $5 Billion"
     excerpt: "Google LLC is settling a patent lawsuit in which it was accused of ripping off a lone inventor’s protected computer chip designs that more cheaply run artificial intelligence and cloud computing functions,"
     publishedDateTime: 2024-01-24T14:20:00Z
