@@ -53,6 +53,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Sevilla and IBM create generative AI tool for player scouting"
+    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
+    publishedDateTime: 2024-01-24T14:22:00Z
+    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 39
+    images:
+      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "S8PKOSKFsmfcDFrXCkQIR3mh3l9ZjhgvnJVvpo5dBVNv5EE+eOVsWiK8tLRbA1+wnHhoyewJJe27/88nArCHnBGk2SGJe+82QRpmdgDLAdyQjWTL1jolVeq9xEj9WJeBZIFeXNtCoT+tI5ykQ3q5DuDc/4fE0FeGSHdgcjCOjNBGtXlo2FgzE1ooLS6TilL0kTf3++Zl+8eJ0dbwfPhoZaANVfpLS15g7QeNhiM2pK0AD2iLOSX3rR7NErMJxl5MykSrnTxNyNuLKK3A09h3F5DaIJMpMJ19mnNZBf1byqUhEmW9LA5WC3oLaZndg6+YZpQjw3A5zalEmWB2TLnnSKyUtC0mMJGQPH9Q2bl5gm30reF4wkFrRzYEofyuNM57jUvODyEkA72GFO8loK09/Dyo+j6/4do2mfANGBBdFJ/XPad1115hLs9ExCjWqye7TImAEZdxPNk9hb6xJ/LF3an6dUG/XumbmRsN2jgEzMVpwVWKddp/GvUoujhGxj+45nJ2vkoLXs59Hfw3IacaqA==;wsVnainkgklLMFIJsL1/Ow=="
 ---

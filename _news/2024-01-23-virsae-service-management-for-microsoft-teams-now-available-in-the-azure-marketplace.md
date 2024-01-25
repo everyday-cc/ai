@@ -125,6 +125,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft adds two more Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
+    publishedDateTime: 2024-01-25T06:52:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 61
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
     excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
     publishedDateTime: 2024-01-24T15:50:00Z
@@ -147,6 +163,20 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
         width: 1260
         height: 840
+        isCached: true
+  - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-25T05:56:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/impactsures-sure-platform-goes-live-on-the-microsoft-azure-marketplace/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 54
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "Microsoft deviates from OpenAI with new team for small AI models"
     excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"

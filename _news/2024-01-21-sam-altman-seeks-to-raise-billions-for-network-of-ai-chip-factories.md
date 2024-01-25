@@ -57,38 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman aims to secure billions for AI chip factories network"
-    excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."
-    publishedDateTime: 2024-01-20T05:40:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2024/01/20/sam-altman-aims-to-secure-billions-for-ai-chip-factories-network.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2023/images/2023/7/10/Sam-Altman-CEO-of-OpenAI--World-Economic-Forum-reu.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "Sam Altman seeks to raise billions for network of AI chip factories"
-    excerpt: "Altman has had talks with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants"
-    publishedDateTime: 2024-01-20T06:10:00Z
-    webUrl: "https://www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098"
-    ampWebUrl: "https://www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/sam-altman-seeks-raise-billions-network-ai-chip-factories-778098?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/05/2024-01-05t032707z_1_lynxmpek04025_rtroptp_4_israel-palestinians-sam-altman.jpg"
-        width: 600
-        height: 314
-        isCached: true
   - title: "Sam Altman in talks with TSMC to launch AI chip plant: Report"
     excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
     publishedDateTime: 2024-01-22T04:32:00Z

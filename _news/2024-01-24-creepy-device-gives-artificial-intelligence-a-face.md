@@ -3,22 +3,22 @@ category: news
 title: "Creepy Device Gives Artificial Intelligence A Face"
 excerpt: "A creepy gadget has been unveiled which equips AI with a lifelike face. Wehead transforms text-based AI systems by bestowing them with facial expressions and a voice and integrates seamlessly with the widely used Chat GPT AI tool. Featuring ultra-high ..."
 publishedDateTime: 2024-01-24T00:00:00Z
-originalUrl: "https://www.victoriaadvocate.com/creepy-device-gives-artificial-intelligence-a-face/video_e7fc6ed5-bc91-5ce3-b2b1-7a1bea78089f.html"
-webUrl: "https://www.victoriaadvocate.com/creepy-device-gives-artificial-intelligence-a-face/video_e7fc6ed5-bc91-5ce3-b2b1-7a1bea78089f.html"
+originalUrl: "https://www.news-journal.com/creepy-device-gives-artificial-intelligence-a-face/video_92386250-e986-5759-85b4-343c718ee624.html"
+webUrl: "https://www.news-journal.com/creepy-device-gives-artificial-intelligence-a-face/video_92386250-e986-5759-85b4-343c718ee624.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Longview News-Journal
+  domain: news-journal.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/e/7f/e7fc6ed5-bc91-5ce3-b2b1-7a1bea78089f/65b1229cbd659.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/9/23/92386250-e986-5759-85b4-343c718ee624/65b1228c8dc2c.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Ias0y8qEuUPIGdEOdkgUJYFJoVqk1FiOpxI8+lLqa9CBaQBJIZ8ryrkLZgsr1NfdT8xnIuPX39W/tsVG/HJjf3nqrtyF3yXtLO8WMpMw+7h+kBSQGocbfqDhIzahfqIc2Qg81eyKxMy0+P5puYx58Amfeb9Sx0/5Sbuht2GTxSi8BtLV5NM32GwI+CiZ+48n/wIYRDKqWUXVeBrVr/WsMVQS7oIn6SeRxj9YjQ376+ApXzmyVD5kIt2LmaPp+WevgcGq+cRGK1rw11ADQBIu8yCGGz4oLcw/qRwRvAdThzQgAzNaKtd2J9Qr3oVemppKKObTZsSTYNbQkO0ByRgFwR9RQhBlWu0QPtefoxdVF2w=;G6uUxmw5FtOgLXPxbMDV6g=="
+secured: "b8XF1+zgiQDOUunEQGDuqCq7MbrensxQYv59d/gNF+FNSbgIiInjkA/IJCIBcRRAq7qpc30Pl6E2kSiixYpcIjW38gtOuxk1wdK5GJD+I75PGa3uXzU4A9LxErV50YnqiKVI8lhRrpfm/sR7nKfiB7WrY2Y9qGsThhrEsi6MGliqwoj8HEsjTwv2otu7hiRfooabz3q+49mJpUQ0t+8z7rEHjQp5aCFlkzjvvsQ9g8wT5KslAxC0gNHpAHLyqGt6dzK6udDBNiTZhuDfkAfDqKT80DWo4/V9W/7skyfysRguE5ExUCR4b1hBPp01l98E2811q4FRQ7Tu0JZEhBgz58t57cu4yPcsGEWkCfUAhfk=;xontbrAWKFzTiqIYhqo82w=="
 ---
 

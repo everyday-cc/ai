@@ -7,7 +7,7 @@ originalUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms
 webUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/Sevillla_FC_watsonx_Social_0.jpg?h=c66d06c9&itok=qiGzN5iF"
         width: 600
         height: 316
+        isCached: true
+  - title: "Sevilla and IBM create generative AI tool for player scouting"
+    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
+    publishedDateTime: 2024-01-24T14:22:00Z
+    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 39
+    images:
+      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Sevilla FC, IBM introduce new generative AI solution to streamline player recruitment process"
     excerpt: "Scout Advisor uses natural language processing and semantic analysis to pore through textual scouting reports to identify player attributes, even when described in different ways."

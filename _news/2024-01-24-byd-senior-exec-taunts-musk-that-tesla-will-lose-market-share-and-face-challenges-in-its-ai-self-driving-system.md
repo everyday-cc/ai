@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesl
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 840
     height: 560
     isCached: true
+
+related:
+  - title: "Musk Gives an Update on Tesla's Self-Driving Software, Robots"
+    excerpt: "Tesla is betting big on self-driving cars. CEO Elon Musk in prior calls hinted that other auto makers were considering licensing Tesla’s so-called Full Self Driving software. No one has licensed that technology yet,"
+    publishedDateTime: 2024-01-24T23:20:00Z
+    webUrl: "https://www.barrons.com/livecoverage/tesla-q4-earnings-report-stock-price/card/musk-gives-an-update-on-tesla-s-self-driving-software-robots-hZntXYxvh00H6HM3iYRO"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 19
 
 secured: "yg/umRZVMIOR4L9xsFgwHVz/nGDdSoBAZ5t6iCb6y2Txq4U6Z/LLVWSd/80YCgIyLUHSBSZGxhZckGco1KJXP/HPhamfL59yZb7m/txE0GdpFBq9Eh77H5hb3eLAMs+U7MbMx4nkvtvrJqpQ2i9WRWlDqL8GhS+b1dwHc2dDlZvp5jM6sGoPNtxOP2clBs6GSC/JAEGfJQkBqhSNZj3r3R9zMhWH1O9LhNLixu4f6U+GAL/anJKULErUG2BSYfF5fAM6UtixhXGh7XhZcKJmuab8ne2BygIUwYzEWt/gCiBVZOBaPrrRKmX/w6Hg9JkUlIRAegZC87oyWWmVE0HVj4QmK2VDXcVVk+lgwX/GAEQ=;bm3D7Ev0wQYRkkq3DRGDmg=="
 ---

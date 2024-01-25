@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/health-care-down-slightly-afte
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-24T18:16:00Z
 originalUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
 webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
 type: article
-quality: 46
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg"
+    width: 2048
+    height: 1365
+    isCached: true
 
 related:
   - title: "Apple aims to run AI models directly on iPhones, other devices"
@@ -96,6 +102,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "YwHS3BLR5od71QmIjkv3mRO9AJGh+e3IXU+FI53c87qt9LFg+gjfWS3g7KEIhT0u65rNZrOVtzgQT5+p1hPmaIqKHDI+WEYLoV1k0A7JV5eAyMhFd+XZ4pb8c8yWzplazaQauG/cYOr7Bkmy6f5XKyWnIuFfNcZRaFW3hK5evQ2Djb8vkmlKMpT/3wHhJHhidhmfa6LNFkVDZ23pm+DuBViLwYED7V8a6Bxd6aoSCfE8xEfN6yrgBt0GNyiRgePV5KIi/Z6Hdv94SwHqCO8r2IIQWV5pUivCRvfeuq4AFZn/lPIvUN7Dnqth7RJNPZtx7TqHRMln8EsxMQAS7uX6GSHkPxO+NUJRYXDugewP3Mw=;9rLif6IIjg4QXxsG/btx7w=="
+secured: "p2Qv/bIUJ7QPQd2PbdAeImKvF882qpsH8pYvvwqu7VyI7Es2qzX1DED9ZLsqf/pYSCxyxpmyGFvHHomE1FwGIBQ5726VWf32KEPI8nsD559RjgJN8wMakmnNxjWJoZFJ2vNL0KtzIor9Sa9AA140R0Rv+tm+wh2EaVn/w9QolSaPzObrYn+CSwUWCTLTiAk+T3NMR1L5uFcUNpfKZq3GRPjir29C/JOleKQpHonBAeaKoU4geGNVYkGmSMwhPH6UpS32qL4L0GVoO/we1Y66tOPcBnWZc2cANFSPgU5G5Y9ikZPPyzZ9V6ewkh2AtZWm/VmQK6qTAr61P/hUjZSoCpmR44JT6GSRB9dVVmTfBRw=;1NDwkbs2xEMsVMvVjoamrA=="
 ---
 

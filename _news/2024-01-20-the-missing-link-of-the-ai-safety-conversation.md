@@ -37,6 +37,15 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "White House science chief signals US-China co-operation on AI safety"
+    excerpt: "Biden adviser says the two nations must work together to tackle risks from artificial intelligence despite race to dominate its development"
+    publishedDateTime: 2024-01-25T05:01:00Z
+    webUrl: "https://www.ft.com/content/94b9878b-9412-4dbc-83ba-aac2baadafd9"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "Zq2FF1apinl95VGWGDgm2zqRMGvsvYWXv9Lv+288IOzgqUi8tY+lozr2Z8WgN9qzqeIarlJ4LoRUSJQCZwppfTtNFL1ue+pEKI9qXJqTjABrLdogCNTuyp/8YOOzaO9CU7IOgMpUhYGjSCCS4v4VGus4795WAUIJUV9aGIn4a4a/g4gl+gK7zyXDFJQkeL22LyY00nAp1kePz4nRaJs5P8g2TAIsb23Ml+6fDxPfdB+VCdmqnPaLAIf51r7GmDasa7EYVEv5UCzud+UUPD154JTq86PhwKQ/pBTc1qiy/CL0yUMkX0AtTJR5F+hBGZFwIB93j+oSXFOYizkTE5CKpgeiw954JP6qVgEM8qA9uek=;76cMy2SH8s6vP5UmVqDTwg=="
 ---

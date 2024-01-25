@@ -41,6 +41,22 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand"
+    excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence."
+    publishedDateTime: 2024-01-25T06:57:00Z
+    webUrl: "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
+    ampWebUrl: "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP9831328596374683969694032955726021614765---1.jpg"
+        width: 768
+        height: 519
+        isCached: true
 
 secured: "m6eVIPXBoNht5M6pSMRTa13bjE0OEh8kRPQFhR4aVstRV8QbcMwmYI6LpmT6M2LLvPnvrMM/apx9f32Yc+1oRySjw1oKK3noqQ2UeRnzY7I59Zb96vq2SFqjdCsohQsmFUVRLzolaK/3fi8TMf/inz6dV+z9q3Wdv3+6hMsQUJOhqSf6nME90rTROhT9iSQQwZp5iogDVVLeW4pkrNJjo/HvP8imvfBv5Dt4Agvrh7bqcxvSM9bm/KsYStyX8Nza8T3mCV5J0OOsZ+lcJMdLRvvOQG6n1686c6mmuQNqLTeYUT35+ANe0mYfF5onZpfvIvDlR8PJT+eq+5x2hu4T9ToqPHI87blqFvq7VIOKXKw=;pQnsqJGs1yMBHCeRd9Dc7Q=="
 ---

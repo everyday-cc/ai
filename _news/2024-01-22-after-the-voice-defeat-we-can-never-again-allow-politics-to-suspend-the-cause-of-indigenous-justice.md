@@ -30,19 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "After the Voice, Tom Calma sees hope for the next generation of Indigenous leaders"
-    excerpt: "But Calma says it was the structural reform that the Voice offered that was the primary goal, after years of consultation had cemented a position within Indigenous groups eschewing symbolic recognition alone. “The primary objective was to get the Voice ..."
-    publishedDateTime: 2024-01-20T05:31:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/after-the-voice-tom-calma-sees-hope-for-the-next-generation-of-indigenous-leaders-20240119-p5eyll.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/after-the-voice-tom-calma-sees-hope-for-the-next-generation-of-indigenous-leaders-20240119-p5eyll.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/after-the-voice-tom-calma-sees-hope-for-the-next-generation-of-indigenous-leaders-20240119-p5eyll.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 18
-
 secured: "XGIPDY3thvfm7b4SvjLY1Gw3KLA633lSUEMl12KaPT0Wkc4rk8OUW1Z8uqQx2KIAVFt2BDjIzPGwcujisRNvpVZm815nzVQ5fhc3z6Gc/U1qRC8nwGW+gCICDmGcxms4rP+6Bdi1V1FRv7V+jqbQAGSPTEB4fZp4h2WLOPQoM10IKt9Hbcs8qyOPbR8guJXN2cynuPRFI+p0NvEd11cl7y6h4O9jNuqG24AE5nESgkqKeYfX68yrWCAeeXtI/gKPFiq9g3cNni92IdwPIPVcoqu4EBNnVGAkRtZRjWoL2ZLkBtup+faMgFzJIFoyllzZIqJQ3PeyuXA6EGb1ulmUbywBxZ19dSqGf7mOv1YM5IxXMt/3o49lJ6gvFQ4xHesaU9qj81IEcovAariZGQloashsFBogwujP3TmZLiYDhwjyV/TBDch+qAIGW253WG1+/H2Ki/k2Cs4NQaUeXft7yaomQggPukV37Ab6ez+J+XSx8LiuNs1tnvKoxgCRiZ7ZbZjr7/ijG8aPORhIMclAYw==;zzGbyh8lYOxMWPUheg5hfg=="
 ---
 

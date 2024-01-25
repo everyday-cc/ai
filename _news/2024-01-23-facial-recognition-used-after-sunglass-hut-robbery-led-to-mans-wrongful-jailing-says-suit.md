@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
-excerpt: "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped"
+excerpt: "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas"
 publishedDateTime: 2024-01-23T14:19:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
+webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
@@ -116,6 +116,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3XTlIROoKMfNDFiT/U8nEXz1sp+bAc6aLYqdkwq8Q+VE6BHf814L9yI4qU+8KGfn12S3i7AfIW8gXCnUpqx3rfU7ZZarfxE1vEAzdmAiR3MXJO+FbjGu/rt5IeyYtXJD6k4JAu2HoiNxpK3upTFukr6A9/LYiKYEAkFJtPWIFpoN7C+YqFaft+EnmnJatTQMsOhjq+uV5QEOu/C3MqJhgUXTBmjU0r+SQnA/jt5wWRXJ3XShy1Ds+G96kV2R9tTvyDrHu3/iXFUoxlQsoGf8I29C/z9rhewhcgwRKbPoNSLN1NUTmvm4OeBqN1SVrAaoIerngyrsWw2C9KIvP4fRNoUyBauqPykIKr1xrO5ZvdY=;Umm5p5jydGtK4cP9gQPnTw=="
+secured: "/aUUKo6lKhDEDUu+CocVgZDE9tgMvQzEWsPi+ldNUWGb68wElTLEx/Yk/agVout1iK9nVSd8GlB4Q4kA4pEcEYKHG6pOaxn8/nW4RHuXem9LNFwUgG3SP/KJ1rqcqauEnQ8bGo781GcKFYnR+6nL3tfzL/SS0AYgVoShubehWq9aDBkWyZrUl4rKLu1qPVOxS4z7jbIxeO7Fx/kJxh2aoLjiTX88cbnKIfOmtGI0cwYyvpPleBPzyzbsFdRCT9YPXKp3YZtXcjAWeGME9vHwf1spIYyifglfhzYvB1QpkMRua04ftR6K+Yzyw+qQ9e1dyAnoqn0IU2pSKNLIVHzIStElKtPLBGTLwiG0BOglboQ=;3qYvPf3bceAcUpffryCIVg=="
 ---
 

@@ -22,36 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Government norms in offing to check AI robustness"
-    excerpt: "For instance, driverless cars depend on real-time decision-making ... Meanwhile, TEC has released procedures for accessing and rating artificial intelligence systems for fairness. The AI fairness score will check how much bias exists in the systems for ..."
-    publishedDateTime: 2024-01-21T04:22:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-government-norms-in-offing-to-check-ai-robustness-3370515/lite/"
+  - title: "How Blockchain And AI Are Set To Transform Small Businesses In 2024"
+    excerpt: "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates."
+    publishedDateTime: 2024-01-24T17:02:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/Artificial-Intelligence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Standardised norms in offing to check AI systems, robustness"
-    excerpt: "Once the norms are devised, companies deploying AI technologies would be rated on various parameters like the time taken to restore the system in the event of any hacking, malware or breakdown."
-    publishedDateTime: 2024-01-20T22:34:00Z
-    webUrl: "https://indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/"
-    ampWebUrl: "https://indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/standardised-norms-in-offing-to-check-ai-systems-robustness-9119555/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2024/01/ai_1200_gettyimages_b3276e.jpg"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b14fe78b7bfa33c952a2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1354
         height: 900
         isCached: true
 

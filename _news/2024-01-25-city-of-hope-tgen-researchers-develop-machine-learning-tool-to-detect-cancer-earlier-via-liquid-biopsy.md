@@ -1,23 +1,43 @@
 ---
 category: news
 title: "City of Hope, TGen Researchers Develop Machine-Learning Tool to Detect Cancer Earlier via Liquid Biopsy"
-excerpt: "The Science Translational Medicine study “Machine Learning to Detect the SINEs of Cancer” was supported by Burroughs Wellcome Career Award for Medical Scientists, National Institutes of Health (R21NS113016, RA37 CA230400, U01CA230691, U01CA230691 ..."
-publishedDateTime: 2024-01-25T00:00:00Z
-originalUrl: "https://www.01net.it/city-of-hope-tgen-researchers-develop-machine-learning-tool-to-detect-cancer-earlier-via-liquid-biopsy/"
-webUrl: "https://www.01net.it/city-of-hope-tgen-researchers-develop-machine-learning-tool-to-detect-cancer-earlier-via-liquid-biopsy/"
+excerpt: "Researchers at City of Hope, one of the largest cancer research and treatment organizations in the United States, and Translational Genomics Research"
+publishedDateTime: 2024-01-24T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20240124304332/en/City-of-Hope-TGen-Researchers-Develop-Machine-Learning-Tool-to-Detect-Cancer-Earlier-via-Liquid-Biopsy"
+webUrl: "https://www.businesswire.com/news/home/20240124304332/en/City-of-Hope-TGen-Researchers-Develop-Machine-Learning-Tool-to-Detect-Cancer-Earlier-via-Liquid-Biopsy"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "KZnthWVyfPjhMtx6Vc8DgHekhjdw2YTSxrsdQOpojaKfdjGr6zEtCIjsd6tF5JUI97Uj93Ahr0e902jAFAeyjw6QlUJXia0bCDM8Er3KgCEecW1sXygmFzzePqXSCG965uL/hJgC2kQa8mItbGqBuMEMFoljifkKB7GDBqrkDq5JTGHw77oCWKoCwyqU6bcVCjYxL4dYMUUz2mxX5AE3h0wjzYlGwY46susatpTtiEh0MUxtp4so2lSyk3Pmsc2X+2z/Nlc0mTZveaAb2pqrTVoFzcGJEuUVaK2PUE9zI96SWPPjlxO0o4TlUAUGvJnTCWDKJmC1Wk5YBbkkgn3xi8Yiv1NNueZ5H4esIm783bw9C9YGJ6yyWHaUSEsv0FyBS9EJS+p6hjuSfJifar28GXuCj2M4lh1zvTT84gO8a934qxpuqpCHlopYYLKqMfE+YHFXBl6/elAGio0MRQu1fXbdodEXeBhxkIiRVwTyU0Bp1MK6oY3fCZgPnJR41Ec6Th9wYtgAt/OCeDfupPhhEw==;HOxwws86IPE1geWF2kZEPA=="
+related:
+  - title: "Machine Learning Tool, A-Plus, Makes the Grade for Liquid Biopsies"
+    excerpt: "Researchers at City of Hope, and at the Translational Genomics Research Institute (TGen), have developed and tested a machine-learning approach that they suggest could one day enable earlier blood-based detection of cancer in patients, using only small ..."
+    publishedDateTime: 2024-01-24T19:01:00Z
+    webUrl: "https://www.genengnews.com/topics/artificial-intelligence/machine-learning-tool-a-plus-makes-the-grade-for-liquid-biopsies/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 19
+  - title: "City of Hope, TGen Researchers Develop Machine-Learning Tool to Detect Cancer Earlier via Liquid Biopsy"
+    excerpt: "Researchers at City of Hope, one of the largest cancer research and treatment organizations in the United States, and Translational Genomics Research Institute (TGen), a precision medicine research organization that is part of City of Hope, have developed ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/city-of-hope-tgen-researchers-develop-machine-learning-tool-to-detect-cancer-earlier-via-liquid/article_0bcf8d8c-9ec8-53e9-8a1c-3d0a4567bdc4.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 0
+
+secured: "SobUQhaNtLKtStBCjLVxmYDguJGfST2I8R+QLj2/kTn8AI8hUV0PwJyagWBoc0h3bcj34O6gIYSi+XHl2/fNbTHT7cBA4Df50PMaef/ck/D10e0cBtqM1MSC+UdWP5h8HX4AGTVZEbH54zrpM7/hoMSNJSEdoaplVaY7YTBGfwsiCzHlQ7hvXeoQhxlYOzvkxu4ieFJoH0PJ+hVx3ahOZDLiIShauHOFZnT3XZbBijxegvZeFsWilBnrRrhNK1eTfVAjqyzCmllzWTFf0S1aOoeQAxnm4Q+3BlhDkPjq99Ik5ndaY7J31BbQ6d3Pbsk8ebKeI6V4xJaUOoKpasBxlnA1Ufl+0PaIm+/SPdx9LJ7k6wcDdVt77YHw7GWmJI4rSIvaSbbwy+Zun6wg/sNQBvG2YoWlzo9UatdqxGaOrQ5mgv7SSMp1KLeDyU2bN25ADZqd60sxHepYLj1f6Ll4zgv8ywD+zQHYRisQTVvu+lZKGA3BgocT9H2i4IBGNTFQIsp/riuMXJoXahV1LFM0LQ==;VQL61dblaqPddYIOwY9lZQ=="
 ---
 

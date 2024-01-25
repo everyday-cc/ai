@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "Sevilla and IBM create generative AI tool for player scouting"
+    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
+    publishedDateTime: 2024-01-24T14:22:00Z
+    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
+    type: article
+    provider:
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 39
+    images:
+      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Sevilla FC, IBM introduce new generative AI solution to streamline player recruitment process"
     excerpt: "Scout Advisor uses natural language processing and semantic analysis to pore through textual scouting reports to identify player attributes, even when described in different ways."
     publishedDateTime: 2024-01-23T15:00:00Z

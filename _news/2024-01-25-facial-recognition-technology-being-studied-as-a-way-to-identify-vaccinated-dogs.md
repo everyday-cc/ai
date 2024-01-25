@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technolog
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
         width: 300
         height: 225
-        isCached: true
-  - title: "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features"
-    excerpt: "These photos are stored in a database, creating ever more comprehensive systems of surveillance and tracking.And while that means that today it is unlikely that Amara Majeed, Robert Williams, Randal Reid and Black members of Congress would be ensnared by a false positive,"
-    publishedDateTime: 2024-01-20T06:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 32
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Face recognition technology follows a long analog history of control based on identifying physical features"
     excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit a"

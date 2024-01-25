@@ -52,22 +52,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features"
-    excerpt: "These photos are stored in a database, creating ever more comprehensive systems of surveillance and tracking.And while that means that today it is unlikely that Amara Majeed, Robert Williams, Randal Reid and Black members of Congress would be ensnared by a false positive,"
-    publishedDateTime: 2024-01-20T06:41:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2782326-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-featur?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 32
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_20_7172535.jpg?width=1280"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "xxDCRTLrCSW63qOezznuRfCXVzbEvlyJKUSjugYlv13TMsvNTvwkWNX6+w8m/MwCswHAvy8u2TO8jQ0vDtMbejW4Ljivz851bOLfdj9b8o0XxFTnZ/33LaKcy7oLecM6xtTTL3vJ9RAsYL7LD7LT4OOzaSyccOpAxNZX+JwHuTuJvvFAPa03RdOWxiXzFcyAj9ViZ2qOC+5tPDVH80iAJTVY5OM8l6hLZviVWOJ58qMteeTwNTH3fUttguEE8T6d+2JiX0cTfowgkaEYRdmLdji3zgfcowqVBezmH87TG/EHFmxJlMoa86bubJebvQ6Lyg+jTfFg+ITur0WYP3FOFROa4tGqit0PtVRonlGcIYMFW0rH5vbw3m0oDWJ1H53eFnkBp+F3PK+ag67RKU1/5E3ojfBzl22vE0ijuq5lhe7ECwreDy4kMkEEJwaeR7LUtQlX/o+RF+gKcCWQX+0SGbIuk9L/UNwzBbb/aYPCvu7UUSvDW2DmJxyHsojv6ax9ZOn8kHh874wVfBUmoYggug==;eyeT4z8RoKaSwTTFRII9Aw=="
 ---

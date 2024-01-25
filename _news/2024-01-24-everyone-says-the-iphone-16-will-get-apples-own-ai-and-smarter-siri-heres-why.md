@@ -40,6 +40,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
+    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
+    publishedDateTime: 2024-01-24T18:16:00Z
+    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 66
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Emerging AI Hardware Devices to Challenge Smartphones - Or Is It Too Soon?"
     excerpt: "The Rabbit r1, Humane AI Pin, and Meta's Ray-Ban Wayfarers represent the AI hardware revolution, challenging smartphone dominance and sparking debates about necessity versus innovation."
     publishedDateTime: 2024-01-21T14:45:00Z
@@ -70,15 +84,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
-    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
-    publishedDateTime: 2024-01-24T18:16:00Z
-    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 46
   - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
     excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
     publishedDateTime: 2024-01-25T03:33:00Z
