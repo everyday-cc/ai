@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-cla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Voltron Data Acquires Claypot AI, Aiming to Enhance Data Preprocessing and AI/ML Workloads"
+    excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired"
+    publishedDateTime: 2024-01-25T17:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/voltron-data-acquires-claypot-ai-aiming-to-enhance-data-preprocessing-and-ai-ml-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
 
 secured: "ppneSNwFX/qGerXqJLPPOrzedXaYwO6xoWSHs27FME2eRSK0Amgnc5/nEazme45eCWVREd+RXZgnhQC+/DOwiadhXbcLKp3fRXKo+6x5MTKIagqoH9HDG6ni8OnQF0vQ36GnRCQzFcDrFp+7sSfSHochtP7Pahrnn6/ip1wMWwnFM93hghZGtg+yQpnRBHB4DOZH/FviovykpJ5OBXKbLfQ/6IIzrovifsgkeVAOp43KT0bUSOTwmPvAYs1TqsayNNK0jEaLqnKXyueR/cz+SSHb3iv1U4gCX7sGn754QSw9koGGAubsLMoyxCDQsNW8QP1Pw4uspPwf2ulBrNlQiRJILF0vBKuPcHKSVZVqDbLajEKQnGCdB90bF4ibGXfoocbxKvFotM0vXBz/nbN0vmOJzNSfCuawGcIbEOdFM+PpWMvx6hKOrDhBtCEYCDgcamsVoafv/2VDNKDFXblNdgDpdAEBhiJ3P//12PQGNMSj/RAqtJ31MYPNPs1nChJzS2LbAC5Ni/58cxu/MzIFdA==;bJLpov8QNYiN9GKFoKho5w=="
 ---

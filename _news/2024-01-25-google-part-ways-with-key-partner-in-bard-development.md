@@ -34,20 +34,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Google Cloud partners with Hugging Face to attract AI developers"
-    excerpt: "The cloud computing arm of Alphabet Inc said on Thursday it had formed a partnership with startup Hugging Face to ease artificial intelligence (AI) software development in the company's Google Cloud."
-    publishedDateTime: 2024-01-25T16:03:00Z
-    webUrl: "https://www.aol.com/news/google-cloud-partners-hugging-face-140453436.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/f8d3efd91cbcb0dc4a86c897b6556f8e"
-        width: 800
-        height: 545
-        isCached: true
 
 secured: "Py9oxBDphBQg4AhGImu8lQME2As+SdxZWoXimJKsskTpoO3peWVQVu3OmR+cHKGIcNk+y5T8tAbR7iWyuSbGsVTsF4WSL+sNolqWVrNCiI42IT5DIbrGBcU3LMmf8aSx3WWCrjX6aAD+dxO/zMSWpybvOz2EoqkTE9na2Bavu22qXN939gqPcOGpBUH9YksvTKoMF348+1wRkIqq5hbBkwAmCSNHkyBDGcYYZJdpFYpyW1IKiPvUOJ/wqOpmeLK8LSAv7k4tzAo8t2cwMSbkEJ48dhBEgbkwzEghEzFoTzkeX1WRzKUW6ChYgIV93xHs3GGArYX7w+4Gm3YCYmMQWtbJapKXZaKxcDN4AhojarUmvCQVL00K1U0oh9ouP4Iu14H/L+nPwmIfK04ZchjybdRjo5jUyJx2Aricuu0rzF+V07uHYVcN29wG92cgdoiexwiCmTziD42+HIpakRR09OFvlvKo61HOJc6l2AiFBLdC6GNSLpqFvbMDhztPU/qRfFWlyn7wwbIShnIxFPGyUw==;TU1jDn6VnIPx0XxNrLoHug=="
 ---

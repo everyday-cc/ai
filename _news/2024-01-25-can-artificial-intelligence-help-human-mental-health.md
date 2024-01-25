@@ -54,6 +54,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tech, healthcare leaders to join AI startup board"
+    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
+    publishedDateTime: 2024-01-25T17:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI is ready to start changing health care, but people are holding it back"
+    excerpt: "AI is ready to make a positive impact in health care, Philips CEO Roy Jakobs told me last week in Davos, but people in charge of the health care system are holding it back."
+    publishedDateTime: 2024-01-25T16:38:00Z
+    webUrl: "https://www.aol.com/finance/ai-ready-start-changing-health-143852499.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/h.KemaIwJF0kbcefeAMVqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/04495ca03e65074387d50da84af11f91"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "bUaS9OJUyysawhod2csuo/dIAplXQSU3szE6IsMu6WF6DnaJ1RidvbDXNIiPFuYrV1h1/YXTH2LRWcKj2k3utJZa+syvuvkGzyY8tQVselGf/lhpZjuSdHdFfZ8yiQHZ4A5zFQUQFKUDSiG6xWRk/b6KIULRHa8Uzlbg5pH9CCEQY8Qho/1w09ae2OKOGf/2O5iZ8qaJ0aai3a9MrXXGCvWmQyTWPb9MabBN6tgWRR9UL42E8IaCfKl7Gs3PEAMZOkR0NUR1PfrFg8p03iezRD+tlms1bhWuCYPvd5c/NrQ8mQZfRTXMTxutelnfmow0Eq99bMrmqKABuLFAwtfXESTh6csZKQS/k9kO9V0GDBY=;095G3W5pqktX1YDArf3fnQ=="
 ---

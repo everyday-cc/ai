@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technolog
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition app helps scientists identify rabies-vaccinated dogs"
+    excerpt: "In regions where dogs often run loose, don't wear tags and aren't microchipped, it can be difficult for authorities to keep track of which ones have already been vaccinated against rabies. A new app could help,"
+    publishedDateTime: 2024-01-25T18:13:00Z
+    webUrl: "https://newatlas.com/good-thinking/facial-recognition-app-rabies-vaccinated-dogs"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/d343313/2147483647/strip/true/crop/4032x2117+0+286/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd5%2F25%2F6107ce6c4609b3e5d7f5e83ff3d1%2F20211002-112912.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition app for dogs developed to help in fight against rabies"
     excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
     publishedDateTime: 2024-01-24T13:15:00Z

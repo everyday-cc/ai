@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Deploy a Microsoft Teams gateway for Amazon Q, your business expert"
+    excerpt: "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get"
+    publishedDateTime: 2024-01-25T17:41:19Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 91
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg"
+        width: 1023
+        height: 513
+        isCached: true
   - title: "Microsoft is building a team to build smaller, cheaper AI models."
     excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
     publishedDateTime: 2024-01-23T22:45:00Z
@@ -78,6 +92,22 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXMPEABP0EU_L.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
+    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
+    publishedDateTime: 2024-01-25T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
+        width: 620
+        height: 372
         isCached: true
   - title: "Mastek partners with Microsoft to transform industries using Generative AI"
     excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
@@ -159,6 +189,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
+    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 59
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
+        width: 506
+        height: 338
+        isCached: true
   - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
     excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
     publishedDateTime: 2024-01-24T15:50:00Z
@@ -235,6 +279,20 @@ related:
     quality: 41
     images:
       - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
+    excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"
+    publishedDateTime: 2024-01-25T17:03:00Z
+    webUrl: "https://www.tmcnet.com/voip/news/articles/458489-vodafone-microsoft-sign-decade-long-alliance-generative-ai.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
         width: 1200
         height: 630
         isCached: true

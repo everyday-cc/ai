@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Blockchain AI Market Demand Will Increase to 2030 Evaluated by Global Top Players Like Cyware Labs, Neurochain Tech, SingularityNET, Core Scientific"
+    excerpt: "As there is increasing in the blockchain AI platforma€™s adoption similarly the demand for these services is expected to rise. The Infosys High Tech practice enables microprocessors, manufacturers, and system-on-chip products to achieve operational ..."
+    publishedDateTime: 2024-01-25T18:48:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blockchain-ai-market-demand-will-increase-to-2030-evaluated-by-global-top-players-like-cyware-labs-neurochain-tech-singularitynet-core-scientific"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0I9j9dctVQoq/7nA34JZ79LE7ErE8/Z/nv8WGH6HaCoeSUK1cXVwn87cx4WExr2rcHSMO6OAMdHH3xwOQ90zImDylwpQuaPexrnnA32B+L/dIHpDAxzLEvO8gzMAH35LRFwspUjjyUGd5eFQAy1wc+MtQpc/sMgbI1tDIExX9Y6aYLUys5VDkL/SnPrekaUHb3E5pbym5Gat+jpeNLSlAEu512MlgJ3RTRbBf83+ix49rUJ5V4E3WL3bCgzpjXN0PtXu9OZRgavCROsQkgkxIGLf3KbngVhEAptjWkiTi7nQKVJ8H4ddmB+cXyS/PT7yCX65Nn/OkrDqKa4ccs/LFVpXzo7kyD3R+wb+rOs1iYs=;oFkOTmz+VJCWik/XzWyySA=="
 ---

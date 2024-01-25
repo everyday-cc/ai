@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattnovak/2024/01/24/pope-francis-warns
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2024/01/24/pope-francis-warns-of-ai-dangers-after-fake-image-of-himself-went-viral/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:

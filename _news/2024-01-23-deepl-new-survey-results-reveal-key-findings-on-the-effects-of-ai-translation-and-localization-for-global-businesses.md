@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CFPB Applies Adverse Action Notification Requirement to Artificial Intelligence Models"
+    excerpt: "As technology continues to advance, regulators are increasingly addressing the fair lending implications of artificial intelligence (AI), 1 even though comprehensive rules governing AI have yet to be promulgated. Notably, the Consumer Financial Protection ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/cfpb-applies-adverse-action-4532992/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 29
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13534_143.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
     excerpt: "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances."
     publishedDateTime: 2024-01-23T12:56:00Z

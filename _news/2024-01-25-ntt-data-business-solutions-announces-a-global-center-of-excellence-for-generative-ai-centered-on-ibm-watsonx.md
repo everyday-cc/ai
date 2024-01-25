@@ -1,22 +1,28 @@
 ---
 category: news
 title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-publishedDateTime: 2024-01-25T09:40:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-302044476.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-302044476.html"
+excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
+publishedDateTime: 2024-01-25T00:00:00Z
+originalUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
+webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
 type: article
-quality: 15
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+    width: 300
+    height: 235
+    isCached: true
 
 related:
   - title: "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards"
@@ -91,6 +97,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "7O6QOOTYWOs/IL6Mu+EqEIxTmS0R56OG6pb+3kBaRkDRfZ+jxK7I1ibkKJiXn1LxV4xnGb7v7OpLUTODdMYwFUovzHgIoS8kCjQ7U8qXpkmlc+SNYzfGprHpvHN1jR4j46nt4aR0m69pb7rubG1mjvETGEj0xp7jxFN8C/hgVjDPPSoDPf4lH8TmpPn4ei4D9zfb6wHpSlqPdb1ul9lu+/7ZRSHEpkutfXapPTG0Q94tIZIG0NRg753t+ohI6CV0nen01zgnDvLL8+XRjaI47FHMSX9p42zzzV6JlwBZo5noBGMkbm/OE5NvdnRlSZuiS6aUsZYH31pL69QiDtcRrP/YlqcYGF3vvrgDYCngru4=;5yLjeF/SDCOoiPP6vTxNGw=="
+secured: "EY6IbL6djlRlcqkIHPoTBUIonNRtV6CASoIaS/8RiYTyS+nrnS4plHhqYTkCy7mSp++LVP2XK67N85tT0b/dwg0jvym7fqJIqPztMlbI46IvdL8TU2Ayx760vO+fHr6HpOy7ibsNwADVjjWjhLAf4umS0hJ7YHpObhI10CpGQb4fKSGWqN7nEhC3TAg3ZOCXbqc8livcl7/wcKOeDdFPElUuikMwNRUuGp+HlwN5f0JN+EbVHgdfWLAx9XptzfQ/dB7ckew10Qeho4ASutSPUtsGoS3Vm4Se2ABDuBx5SQjFC2OIc9HwqkZaM9/1Ka0PqK2HtNB7/7bU17bFxS8JpG045G/OFMMlZAAbjS+iDOw=;TRe4bxgDjPyZ7LKhcCIEfQ=="
 ---
 

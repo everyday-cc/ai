@@ -50,6 +50,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Voltron Data Acquires Claypot AI, Aiming to Enhance Data Preprocessing and AI/ML Workloads"
+    excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired"
+    publishedDateTime: 2024-01-25T17:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/voltron-data-acquires-claypot-ai-aiming-to-enhance-data-preprocessing-and-ai-ml-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
 
 secured: "nvjYgPGPR9pt+YXfZpRMmZTI5qcrghBbtMOUWJ8IDIM/ZaWO2Cs0/gNIjeKd+9WVKLpohVTb3TPwzK9B1M2nRIXzgH6vd6ZI5kjZT0U+ad8DlUjjvvGZQcg9Q4+kSoHLnC1TWp10jRYtb3ANnoFRT9RcEgBHxUZXWv06rUoIE8LE45UrS396gA9UBW4KHRrNvf0HtWteqQyeq9VmL+0bvoOftxuMW+CVpphwuSG+hUiI/kncwE9XmXTxfu++F5DoJ+LSIqOj+0vP3YgXyaPSwOa/YFE0S53McYG7g6lV2Z5xNf95FwIi520s3pDIHi1GFmdWzpInBYrIdZ8/JQu1Sp8FqYOZ7r2llDQnsc2+kjRjvtXe45NuMzAyouTjappJkEdN1NVjg15j8+sq/b7bKiPSElS0HH0RAJYBhOlK7EuhQ2yGGmShuhsnUjWyQV7nV6TNnlBBVB0QF40FpjGjPk1Bkr2sUZJ8OizhkDJqNkjebyYGOKkoeSyJLnan+PrRGD/3flP8ngbpdIgyYMhI0A==;ZB5gs/KAXIkGvy1ZShCG0A=="
 ---

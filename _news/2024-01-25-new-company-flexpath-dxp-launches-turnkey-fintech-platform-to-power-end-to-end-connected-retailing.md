@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "New Company, FlexPath DXP, Launches Turnkey FinTech Platform to Power End-to-End Connected Retailing"
+    excerpt: "Automobile Consumer Services, Inc. (ACS), announced the establishment of FlexPath™ DXP, LLC (FlexPath), a FinTech (Financial Technology) connected ret"
+    publishedDateTime: 2024-01-25T17:11:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240125937097/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+
 secured: "ThbAe2CHiGxmECK+fc1x3vw94wGJjFmAC9vqZUOleUjYnFggs5pivv/uDr4gsH1ZQvv2W5VKI+d0LDCbG2cWTYO6HgD2B5pCVPLTGMUK1y8Iis/5lk0fuFstni+I/zmXBwzSUfXhn+FknyJa0pRZAP5mWE9Tg5qSZtHmneNtyj9dDrJzZADkDj8utwpW/EuyGxQMmIt/AFPvkCSlu4blUQQAeLCNetH/fzWxmj4w9gWnA6f1u8jFe1qoZtQyntJohcM34cFxIoWB1NMx4q0n7suzXqVjSOZil9DQqwdccpHu8zmWoSWmKv51N1W+r6Y9PVFhUdAuSlM/mU3v2RFbaOJLxBA1hbbSgUkQ5dzr4CE=;CLv6Rx9pfgGzOLEUsCg4aA=="
 ---
 

@@ -53,6 +53,15 @@ related:
         width: 820
         height: 428
         isCached: true
+  - title: "Voltron Data Acquires Claypot AI, Aiming to Enhance Data Preprocessing and AI/ML Workloads"
+    excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired"
+    publishedDateTime: 2024-01-25T17:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/voltron-data-acquires-claypot-ai-aiming-to-enhance-data-preprocessing-and-ai-ml-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
 
 secured: "dXc5+QucFV5ZqY8pNH6Lyc88uMXd5joBBx+8jx9RrDzsz7Th/UBDKFeGiljjitOqJMIM+dzRMngepKyhTM9aUrfn1eF8UD6bR9Vl6qj36mKxqNcT6z45C7S1FkFiZ40OiIArzqQZjfNvcwHnvLqDj4OOXFAYSqU+Tpe49FcNKEbqIdujp7bplO4+3NZy/mjOpnK4PKzaa15Agv0uyBIyjPGf1RHkuye6VDkqriYg7/pjNtjUv7rUZ0g283X84Vt7QQ44+dHHx5NwqUqmxXm51IIHzVFmTyezvodrut3fO6xUxJDvWo3kQjxGlj/7te0TKrHl53Q31/+LeaH6byGJBVYZpxlh8OSnG8IZmJ0IVUU=;bK5dRxdZkF7Bg+cAWOxZAQ=="
 ---

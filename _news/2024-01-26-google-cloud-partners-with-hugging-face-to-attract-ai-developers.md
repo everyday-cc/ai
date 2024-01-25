@@ -25,28 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Partners With Hugging Face to Attract AI Developers"
-    excerpt: "The arrangement will allow developers using Google Cloud's technical infrastructure to access and deploy Hugging Face's repository of open source AI software, such as models and data sets. Hugging Face has grown into a central hub for open-source AI software, and signed a similar arrangement in February last year with Amazon.com's cloud unit."
-    publishedDateTime: 2024-01-25T14:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google-cloud-partners-with-hugging-face-to-attract-ai-developers"
+  - title: "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'"
+    excerpt: "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology."
+    publishedDateTime: 2024-01-25T15:37:00Z
+    webUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Google Part Ways With Key Partner In Bard Development"
-    excerpt: "Australian artificial intelligence data firm Appen has played a key role in training AI models for a slew of tech behemoths including Microsoft, Meta and Apple."
-    publishedDateTime: 2024-01-25T07:22:00Z
-    webUrl: "https://www.ibtimes.co.uk/google-part-ways-key-partner-bard-development-1722983"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 24
+      name: CNBC
+      domain: cnbc.com
+    quality: 90
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1719632/google-bard.jpg"
-        width: 2048
-        height: 1294
+      - url: "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
+    excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
+    publishedDateTime: 2024-01-25T18:27:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 52
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/2021-04-21T162907Z_733587271_RC2G0N91NZC0_RTRMADP_3_USA-BIDEN-NASA-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "d6WUQUsk2nRwFJZYUSCynIzSMTyUeUXVi0v/dp8cAG/HOuRgq1LuvqkmbhaJDWjRV0P8tvhDJFrsLu94j2S7gJ+tj63cr35mri9FP435OD9ZN7teCqBgqPtc2XhHQUoRJZbqkU5LduZjg2RSRMDNZUbdu+WUMPLO/A33Z3ZQtmjvf+J8adcZEMnLnlgMkDrH8AHjC0jnUCCo5e7Z4KkCzPnua+5GqQYL84mbBMQDDCkJOIukr7DitVqHNFpYn+BvwNjPTWI5saweCSbTbEFG8APZtqNcEmEwN6jw66fmF1ceB+mLhjAXuWNWZjFIwvzHAUf0CWUX0EsR1jO4Id2laJQHQkZ8/2HkUmsQIFWt3FI=;aF6FLsUs1E9kf8RAjfJVuQ=="

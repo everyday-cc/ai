@@ -190,6 +190,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OpenAI CEO Altman consulting with Congress on adding chip factories to meet AI demand"
+    excerpt: "OpenAI CEO Sam Altman has been in discussions with members of Congress about building new semiconductor factories in the United States to keep up with the growing demand for AI programs."
+    publishedDateTime: 2024-01-25T17:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2817557/openai-ceo-consulting-with-congress-chip-factories/"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 47
+    images:
+      - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "OpenAI's Sam Altman in discussions with investors and chip manufacturers for AI chip venture"
     excerpt: "OpenAI CEO Sam Altman has been engaged in discussions with Middle Eastern investors and Taiwanese semiconductor manufacturers in an effort to raise billions of dollars for an AI chip venture that would include the development of a global network of ..."
     publishedDateTime: 2024-01-22T00:00:00Z

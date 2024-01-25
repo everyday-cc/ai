@@ -14,7 +14,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
-secured: "zjaU3yaNHi9AVtJXbZRjIl6OApVtJxAsV8JFDSdfJ6IkXw/qzE4mZ/qImd4Fk9B+e7qSV962PqGEQoHEhBn24X8edSx+w197x9zrcJ3ThO6JCM3gONK+wi9maGGeQqkVmbtMHeRq5/DQym4hUxRnkMZ/l61ieIs3StELRkcHyCAav+cBd7/AHsSI/fhxCaEgkEaNZvdYbg7R3f+oI2xqGkBD8qDCoD4LF+MuvaXxf+ZlV1E1es+++evjVW8D5e3kura5/p5WjpvRMkh/dLR7crnaFBAHzn63USpsBinPbQUHR7HEbhen+nt7S3Oo0fZ7bMZWdsL8Ycr5i6r1NC8RD0w3uuRxEabDcSctXoEie+cue1oSf/u1Kp7JNYZuWp/wCnuunk+5zU0YC412VRnjcg0wNCgU+W5hl6cVIxeWb23F9bfIcOABHEvK6c+u6fEJ31G2QROqG62C/tptgBOJVnbXhOuZpBRlhunrTh8BMJ7Rt0Gv5P/2F+M/l55T2qj6Vkmk9flpxfZCN4dwfclCjw==;GCSFPgbdC+GwtYh6PLUQBw=="
+images:
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2016/04/930101_johnston_063-768x512.jpg"
+    width: 768
+    height: 512
+    isCached: true
+
+secured: "F3iGK3zSiJg2S7zTtCAIqqzJ43hNcW6WHz4QzeYaw+hM1uUtRacPgb89Hya+Y5g8XmxnWK3OYebrqTmku1OP+0xBlrToX8iTQqAiYAT7I/TUcnl8y8S31Bbw/gWTtS963Zgul/Y4TdbTMm+fSrY4RIJqlzFXA/p9d0dJXuuG74IlIr2ofxKwl6M3hWCUqJSpxuwPNG+qgbEE3nYdPIxcN3Xd6K+TRz3xmdZHNy4eJ5Yph2/K2ke57pH6c9ZkQr7A5QFgpYjKwcf+2KhFvoxuvOz6kNBP8XJ0RmMxGkq9RrPT82kR7Y7mG/GencVhTveuz108hDU/+zUbQjcPOruQOXMSGlWkheIbjOEZr1wbaj0=;RDdsem1wVEiTBKk7jX/xbw=="
 ---
 
