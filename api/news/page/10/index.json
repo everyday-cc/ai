@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-14-best-robot-vacuum-deals-save-on-roomba-shark-and-others.md",
+      "title": "Best robot vacuum deals: save on Roomba, Shark, and others",
+      "excerpt": "It also has AI-controlled AIVI 3D 2.0 obstacle ... the Roomba is made with the smart home in mind. The iRobot Roomba 694 is one of the most popular Roomba robot vacuums. It features a minimal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/iRobot-Roomba-694-Wi-Fi-Connected-Robot-Vacuum.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-14-if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer.md",
       "title": "If you want to run AI training and inference on almost any GPU, then this startup may be the answer",
       "excerpt": "In September 2023, the firm launched its Superlcoud for AI platform – which lets businesses tap into a GPU network remotely to run AI workloads, while others can also contribute GPUs from their ...",
@@ -170,15 +222,15 @@
       "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
       "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
-      "originalUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
+      "webUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
+      "originalUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/e7/0e7a18ac-72d3-51d3-96e9-c41a3c11548c/65a19a574661e.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/a2/4a2e3610-bc1d-5761-a84a-ce39f176fb7c/65a1991e3678b.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -193,8 +245,8 @@
       "publishedDateTime": "2024-01-13T14:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Richmond",
+        "domain": "richmond.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -976,21 +1028,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-12-sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation.md",
-      "title": "Sam’s Club Deploys AI-Powered Computer Vision to Speed Payment Confirmation",
-      "excerpt": "Sam’s Club is piloting tech designed to address a big customer pain point: waiting for an associate to check their receipt against the items in their cart.",
+      "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
+      "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
+      "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
       "sourceUrl": null,
-      "webUrl": "https://www.retailtouchpoints.com/features/news-briefs/sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation",
-      "originalUrl": "https://www.retailtouchpoints.com/features/news-briefs/sams-club-deploys-ai-powered-computer-vision-to-speed-payment-confirmation",
+      "webUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://www.retailtouchpoints.com/wp-content/uploads/2024/01/Sams-Club-cart_JohnHansonPye.jpg",
-          "width": 999,
-          "height": 666,
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2024/01/ABB_Sevensense.65a0777131390.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 862,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1000,11 +1052,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T14:42:00Z",
+      "publishedDateTime": "2024-01-12T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
+        "name": "Packaging World",
+        "domain": "packworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1014,50 +1066,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-application-development-software-market-2024-size-industry-shares-revenue-business-opportunities-and-forecast-till-2032.md",
-      "title": "Application Development Software Market 2024 Size, Industry Shares, Revenue, Business Opportunities And Forecast Till 2032",
-      "excerpt": "Report Ocean published the latest research report on the  Application Development Software Market  . In order to comprehend a market holistica",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
-      "originalUrl": "https://menafn.com/1107713581/Application-Development-Software-Market-2024-Size-Industry-Shares-Revenue-Business-Opportunities-And-Forecast-Till-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
-          "width": 258,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     }

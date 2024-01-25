@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-20
 webUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-201429769.html"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MSI Prestige 16 AI Evo Review: It Brings The Heat"
-    excerpt: "The review unit I was sent has 32GB of DDR5 memory and a 1TB SSD for storage. Configurations of the Prestige 16 AI Evo start at $1,399, including builds that feature a QHD+ display or NVIDIA GeForce RTX 4070 instead of the OLED display and Intel Arc GPU I ..."
-    publishedDateTime: 2024-01-20T08:52:00Z
-    webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/"
-    ampWebUrl: "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a6ede53b814e09e85f0897/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "AMD Q4 Earnings Preview: 2.5/3D Chips Are Big For AI"
     excerpt: "Advanced Micro Devices, Inc.'s new 2.5/3D AI chips could revolutionize data centers and propel AMD to lead the AI chip sector. Click for my AMD Q4 earnings preview."
     publishedDateTime: 2024-01-23T15:52:00Z

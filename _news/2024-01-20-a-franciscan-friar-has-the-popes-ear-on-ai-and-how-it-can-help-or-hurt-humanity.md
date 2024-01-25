@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wral.com/amp/21242114/"
 cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21242114/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Protecting Humanity from AI Armageddon: Tackling the Dangerous Side of Artificial Intelligence"
-    excerpt: "Welcome, fellow humans, to a world where cutting-edge technology meets thrilling possibilities and heart-stopping challenges. In this digital era, artificial intelligence has emerged as both a beacon of hope and an ominous force lurking in the shadows."
-    publishedDateTime: 2024-01-20T07:36:00Z
-    webUrl: "https://techbullion.com/protecting-humanity-from-ai-armageddon-tackling-the-dangerous-side-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 46
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/AI.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "Yls1zwP0ER0TXLBXT8Vbtx+aXK+9MMyZltXy9lS8wpF7XGZ718N7CKyAbyh0AyCydqvmyosoyOSItPhsp2MSB55R5JNcNC/qCII42Ev2/jWlazbbnglXnnEtrcpRKTuXyEIoiXNz6tHQ+jX3p2tw3f8nTzPzgOhmomqP8rC9bdBfDAsrbLvvieuaaAcOVynkXgeT8FwLuI7UfAHeYVgaBubGT4aLMLKUnXb3z6EZt0drOe6+zKEWgqbAkbQBPs6eHd3CNsG4oJdzkXGiafnfpTgaeUHBWUAgWGcabeEdnaYhJFOGZjKZ/rr8Xz9P37CLCvekKqNsAOi9Xe9EansiV3GnhRJHZAdKebbperx+1mM=;woIezBY3LPJWcxpf4qlCaA=="
 ---

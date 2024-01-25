@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-chil
 webUrl: "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:

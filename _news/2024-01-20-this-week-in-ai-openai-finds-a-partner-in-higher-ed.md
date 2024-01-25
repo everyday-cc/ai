@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-par
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"
+    excerpt: "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more"
+    publishedDateTime: 2024-01-24T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "How to fine tune OpenAI’s Whisper speech AI for transcriptions"
     excerpt: "OpenAI Whisper is an automatic speech recognition (ASR) system. It’s designed to convert spoken language into text. Whisper was trained on a diverse range of internet audio, which includes various accents, environments, and languages. This training ..."
     publishedDateTime: 2024-01-22T00:00:00Z

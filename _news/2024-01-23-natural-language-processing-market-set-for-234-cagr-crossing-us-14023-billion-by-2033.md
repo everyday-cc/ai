@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "GCC Artificial Intelligence Market Size To Reach US$ 23.7 Billion By 2032 At 13.88% CAGR"
+    excerpt: "(MENAFN- IMARC Group) The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market ... and competitiveness in various non-oil sectors such as healthcare, finance, retail, and tourism. In line with this, AI is being widely used for ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://menafn.com/1107765559/GCC-Artificial-Intelligence-Market-Size-To-Reach-US-237-Billion-By-2032-At-1388-CAGR"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 10
   - title: "Disclosure Management Market Forecasted to Reach $4.5 Billion by 2030 with Fintech Innovations and Regulatory Trends Driving Growth"
     excerpt: "The global Disclosure Management Market is projected to ascend from a valuation of USD 1.3 billion in 2022 to an impressive USD 4.5 billion by the year 2030, progressing at a Compound Annual Growth Rate (CAGR) of 17.1%."
     publishedDateTime: 2024-01-23T18:23:00Z

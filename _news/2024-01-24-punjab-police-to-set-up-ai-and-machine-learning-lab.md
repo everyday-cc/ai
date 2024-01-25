@@ -7,7 +7,7 @@ originalUrl: "https://www.devdiscourse.com/article/technology/2786812-punjab-pol
 webUrl: "https://www.devdiscourse.com/article/technology/2786812-punjab-police-to-set-up-ai-and-machine-learning-lab"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Punjab Police to set up AI and machine learning lab"
+    excerpt: "The Punjab Police on Wednesday inked an MoU with IIT-Ropar to establish a first-of-its-kind in-house Artificial Intelligence and machine learning laboratory. Punjab Director General of Police Gaurav Yadav said AI can assist police in the detection of ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.dailypioneer.com/2024/state-editions/punjab-police-to-set-up-ai-and-machine-learning-lab.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "1oLSphDJ0XxShzBCrplxm/BbmnTCdTaw4sCwES7j3LHwghL7sc4LFb+yF6zWRLTkWMtqOBIifE3W1yiAONtXWsuDcYSKtZkWFvsUGJ5dn9L+BeoO23XGyHPscamtqyKaInvfr4WJQaf7QVj0LQX78G/Z2rSuTAGz9V1DeoP25pnptZrkvjZDONP48rh2Pm8u4RWl4guN0wDrbV3OpKqrm9Bjt6Mt3b824aMi6GTe9XCkePlo7pGCn6y5rVlcaurQmVHGZThMGaPvJH5ZvBKSm13fPz7tuiu+yvKyfR0eFUvzE671I7L1yS98chFgSVnNYniRbGs6nWCuTHwoGB7XbNXTHr25IHgA5GeZ4sFoxQo=;9yw7HP59Llav2YutEtxHrw=="
 ---

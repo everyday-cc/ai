@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-c
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -130,6 +130,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/1b/71b8e39c-baf0-11ee-99a5-e7fcebac959c/65a41326d97bf.image.jpg?crop=928%2C487%2C0%2C130&resize=928%2C487&order=crop%2Cresize"
         width: 928
         height: 487
+        isCached: true
+  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
+    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
+    publishedDateTime: 2024-01-25T08:42:00Z
+    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 26
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Opinion: Harvard president failed to defend free speech"
     excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"

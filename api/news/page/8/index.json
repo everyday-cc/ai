@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-17-leadership-around-tech-and-ethics.md",
+      "title": "Leadership Around Tech and Ethics",
+      "excerpt": "Father Paolo Benanti, an expert on AI and ethics in Rome, is coming to Seattle University as a distinguished visiting professor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "originalUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.seattleu.edu/media/newsroom/EthicsAndTech_yk_002-1130x631.jpg",
+          "width": 1130,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle University",
+        "domain": "seattleu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-opinion-the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia.md",
       "title": "Opinion: The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia",
       "excerpt": "After all, Nvidia has history on its side: It was the hardware vendor that paved the road that the AI markets are all driving down today when it introduced CUDA, programmable graphics processing unit (GPU) chips, and created a software ecosystem rivaling ...",
@@ -1076,59 +1119,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-says-he-wants-more-control-over-tesla-far-from-ideal-says-analyst.md",
-      "title": "Elon Musk says he wants more control over Tesla. ‘Far from ideal,’ says analyst.",
-      "excerpt": "Elon Musk said he doesn’t want to grow Tesla’s TSLA, +0.47% artificial intelligence and robotics capability without having control of a quarter of the company. Musk already owns 13% of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "originalUrl": "https://www.marketwatch.com/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66475805/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/elon-musk-says-he-doesnt-want-to-grow-teslas-ai-and-robotics-stake-without-having-25-control-453c3dcc",
-      "publishedDateTime": "2024-01-16T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
