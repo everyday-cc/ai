@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "Kili Technology Launches davinci Patent AI Copilot Which Helps Attorneys Draft Better Patents & Office Action Answers in Half the Time"
+    excerpt: "Today, startup Kili Technology launched davinci, a new AI technology tool which drafts patents and office action answers in a fraction of the time."
+    publishedDateTime: 2024-01-25T18:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240125517683/en/Kili-Technology-Launches-davinci-Patent-AI-Copilot-Which-Helps-Attorneys-Draft-Better-Patents-Office-Action-Answers-in-Half-the-Time/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "VQMvT319YBx+aQF2Oo/TJBwgr2lEAYj47V0vAPpCX2WqW4i6mBnU8ekvKNvxdpjsw9/5+oEdzI4GaTIspH0EBG+DSfUJG5dcWXIk1juFvo0QND9+qcsMj6xcZNRo9Eo1gslCx2/A0Knol6WqN72ePk8VZNWGqepyOXfk/6qc1oIVoHOVkAXtFtXMKcwTvesn74pd8K4OKC5u3RVXPKLdv2aa1Z/8dz6E96/K3Df1PXp9+5chqIukIexUEgecBvcXDeO8yO+sKl6sQfGAG08TZdTYqdTym6aX70xYO9ogerBhVJlOamBa4+3wKcV2qKweqRLtmaNOkhfFOCXVRoZD9aN+H/GyPBiophmEj+7iLUE=;T1G7Hqe7jUX57CuaeLhA4A=="
 ---
 

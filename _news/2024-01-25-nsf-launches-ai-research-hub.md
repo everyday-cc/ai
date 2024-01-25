@@ -56,17 +56,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Biden administration, tech giants partner for AI research program"
-    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
-    publishedDateTime: 2024-01-24T16:38:00Z
-    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
-    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
 
 secured: "owfxyo9E5WwO4hLyFa/5jmKul8nSWLN8pjqDTWIQ4NuJ2DtMBelkyCzmxs8Cx+L3lPsHrPetZ1FpEouXs1VCCvlFiyE10g1OEZkX0GrKmptW43Hdj+OGAujaAVnC9tzx1nlkcqHZb1LWLna4Smsi2HFFR2wvRb+Mo7FgSNRSf8kaXCO9ugqVVvjp9TqA1Zjr7WTpbD9V01Yvk7P09FkCLjNFPnakfWCxX057zhQmhnLwCVHfVJ+epHLfDsixc7lFzWoJicwNiv3vu8zCAysqippTw+XyNy9zIh/1cfj3Dazyc2M8N9cYOhoC6y7UF0vcOVxkpFmD0rejyJiAskajTp8CugCsdDRNhnNPtWFcpZBisFNFgvV5h1GJE8F13xaps01hE2SGL3jGTM3UCH617E4tOq4b11+VPm2mAil01hVyPUs6O8OKiIn85VbHtuXs+Pug8kfmZ5FS5DXBUlrMMHwYKB22qeDyY1YjA8pDtrVz6oyZ1yvCmiwUsUZDx8uRBjbO6YZrNwN5RM1Qv+ER3A==;b/O4eOW8VZ9wLnac4VBiiw=="
 ---

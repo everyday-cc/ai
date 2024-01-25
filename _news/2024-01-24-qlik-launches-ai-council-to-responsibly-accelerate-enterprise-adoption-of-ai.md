@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/qlik-2024-300x271.png"
+        width: 300
+        height: 271
+        isCached: true
   - title: "Responsible AI development in the shadow of profit is a balancing act, these experts say"
     excerpt: "The complex interplay of technology, ethics, and governance in AI development necessitates a nuanced and multi-faceted approach. The creation of an independent body of algorithmic auditors represents a significant step toward achieving a balanced objective ..."
     publishedDateTime: 2024-01-24T11:42:00Z

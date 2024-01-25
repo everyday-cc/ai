@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Alabama vs. Mississippi State February 3 Tickets & Start Time"
-    excerpt: "Alabama Crimson Tide vs. Mississippi State Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-21T16:31:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/alabama-vs-mississippi-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/GDVGLFA7LRM5VCBBIEPNMKIPNQ.jpg?auth=98a72d78540a845e26d60cff61cb8c2b02f7e947a92ff7af346900d4c6412e38&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Houston vs. Baylor February 4 Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Houston Cougars (11-7 ... Southern Utah February 3 Women's Basketball Tickets & Start Time"
     publishedDateTime: 2024-01-22T06:54:00Z

@@ -105,20 +105,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
-    excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
-    publishedDateTime: 2024-01-20T23:00:00Z
-    webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z
@@ -227,6 +213,6 @@ related:
       domain: tomsguide.com
     quality: 30
 
-secured: "/k8/rQESxjQPDcD/eUojwo+uMy0G5WajvcaUwa5MkV6kTK4wW7SISwMuCCjKv7UaoI38xaXcKROoinGpEoubKcvYoO9SHoNKjGh4lZstXflAs1KYRF6UrCJ9/y2RHynHVqmmoFDaQ3FFjbBl4BdGLus3tpHWiky0zH0p3P0QXWlawCuU5Zw+Z6sqB3l/OrR6tpz76jQkQqIBbJPaL0A50eue2NYVE8OCofFMDySLonCRcR+nX8a8UfsV8vGNj0uPVNdoZcHQEM64iqacsV9KP/L6CkyGk1kOA858U1AW5Tm67hVQeagDH1Zxq7hbAWs9mKtAwGZ9Wg7MZo5b5OyLeE1qNKwumR76NUwyfK4Nn2g=;Q447MDTq8Naj82jbDKtV+g=="
+secured: "sIECHbmbiXbjyk+xXmG9hv/xC3wEY0p/CXJzCNZsWPJsnxcXbgPmDL42+pRXCCobXEq2sad1dl5/xmddIKnCWGtggzRkV+S7GWH/3xjDUebuWaQHYNdpskrFHFE9pdgeXFYgXvpgARrX3soHnccD0JMG2KYddOA0b4fPFoFVPi3nrdIOKrRrDUelbBMLSHJX2gNI9HKsZSTBMX4ZPVERzsVcFMQpkIOymSS2fc/xm60fm3w57Gm0/YMRJPmZc4vLXnrI+qFbJyO1cZ+aCxAtZ6UXYawOBtU7IlNXFR5x+6TbykKkGrXtmpOhtxoZ6HOh0gVOKh4VcJuS/hdGcXCAojX4b1eJ28wZwheZ6YJvi5j1o0D0aGU6EkEpw41JW9V8dfAS/jsGqH+p3s1Q9kuqyPCNwulfX3E7LIo/alkbUBoUE5KOqy8WWE3p8jYFUZ9XPT45RPik2oj88ShZvn5IowybKCzGfedjlTXcwqqI5804j0DQTfRAfTxuzljgBoK2+9qignFOiN3MX/b725QhUQ==;LZFtWIvGtg6mAAVb8cZWPw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "More work needed to blunt public’s AI privacy concerns: Report"
+    excerpt: "Organizations aren't making much progress in convincing the public their data is being used responsibly in artificial intelligence applications, a new survey suggests. The report, Cisco Systems' seventh annual data privacy benchmark study,"
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.itworldcanada.com/article/more-work-needed-to-blunt-publics-ai-privacy-concerns-report/557328"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
 
 secured: "EEFey2YYKSE5nRBoel8/SaWc8Vz1QdA7GtjI3BeL1dagTxJ5HGhtiOvDq8xDal3YoABH4PMeoq2A/D8CUoFLAZ94K56eqAFyJp/zBJMQKRl5qrKcEE6W9gedJ8tc+qemYSja5c1ol+y7OK3kp8Egu/E7GYtYkpIH3GPBGVXZOB3C8ov0IOopWos4edgpaMIKiDn8x4rANR4pNE//DA/20pZD8DYwaKkk35j4eQI5OUjwSEjp9/oAVY/25LKN8+sUGWsLjqjxIOIn+HgM/ysKQsJZBy5RO0k/FrNiDfwfm00k3MeVac3zFoxxI2EYgw34fsjzTzW/XoHBBHoDj6NURHLzFwVzUo9Qf07r39JKTVxTlv2Fu3YGCkQhsBaV1qI1SAcnIIBdIpeR48z95ptWmp7DUonwYGp8sT1s161NTFZkPTIkAfZbpgIlt6fs2YvwQ9wDPXzQsHz/pmq77EEvZYc72yCOPSDdWLzI9MRiR7RBtjPsXiVCx+mHLfLM57YxXVzKe64b3RtvcLqQ0eJuAA==;MfboqLMSRkSbnM7kiQoTfA=="
 ---

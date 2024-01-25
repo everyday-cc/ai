@@ -19,15 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Union Govt Seeks Cabinet Approval for Rs 10,000 Cr India AI Program"
-    excerpt: "Union minister of electronics and IT Rajeev Chandrasekhar said on Tuesday that the ministry of electronics and IT would seek cabinet approval for the India artificial intelligence"
-    publishedDateTime: 2024-01-23T16:11:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/business-tech/union-govt-seeks-cabinet-approval-for-rs-10000-cr-india-ai-program-879539"
+  - title: "US regulator probes AI investments by tech giants"
+    excerpt: "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html"
+    ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
+    cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 19
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Biden administration, tech giants partner for AI research program"
+    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
+    publishedDateTime: 2024-01-24T16:38:00Z
+    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
+    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
 
 secured: "ekKvEENCl5IaEge2JdEw3w4TUIrGlFfTkhP37qGeEQba1L6PsCZjKKr/FQddEKbsQsay5W+CWXQwh8G+CCQdCs7UIAZ048YXSQ/N9yzMyYKVAjon2IoJ0x9XLS4+rEfrj4d0UzpJ2KGHg9J2CTlyOuzT/rGktmGZj8SkdVVe+4hOst9KUzpGhE7gCulicp9vsXQO0Q/woPydJmTFU758D5E2VuNXPWa/sU2e37/rpeVPHlT/IbDlNxOl7WRSt2vgyRlVnfAPbKph0NhORniqVAgSoRrstVSI0ERQOYPWSj9ssJFyxgDzAURppp2ocXb6/SfroDCwVcUfvOPtKlQG7+WKKvVL/Drbey+RYZmVWU3WWAja1bESW/qWx2tWVaUeG6BpigXyApl9M8BM15DsNfCGN5WYOMheUAFWYorCwhnAznm3uKO70Nzr5N9BikvTBpDxTgBRGvw1AQ1UIUrtSROZ2oO+ewQVC097uJrbvrikPA96RmKgb5RywI2E0bA4/eKM5NM3GXep/TqPtGXrUg==;FkSN/rY2Sak1VHsM9zG4Ig=="
 ---

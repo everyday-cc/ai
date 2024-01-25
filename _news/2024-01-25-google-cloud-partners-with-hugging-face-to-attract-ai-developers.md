@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google
 webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google-cloud-partners-with-hugging-face-to-attract-ai-developers"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Google Part Ways With Key Partner In Bard Development"
-    excerpt: "Australian artificial intelligence data firm Appen has played a key role in training AI models for a slew of tech behemoths including Microsoft, Meta and Apple."
-    publishedDateTime: 2024-01-25T07:22:00Z
-    webUrl: "https://www.ibtimes.co.uk/google-part-ways-key-partner-bard-development-1722983"
+  - title: "Hugging Face teams up with Google to accelerate open AI development"
+    excerpt: "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs."
+    publishedDateTime: 2024-01-25T19:19:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1719632/google-bard.jpg"
-        width: 2048
-        height: 1294
+      - url: "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "GzYLY1mwMIunNnzDdERM+VX+5eoB5OlnmdCI0qlJDSL+ubJ5+UMSA4u85cLooCCCBcKFSeX5uLs8AncTIYDkbIUmPUknbtUXCGAUSY43O6AH+ZQ7MvtCu8DIgmkrMCIfgLVjZFlcUD7HywOLOQf94CkX0h+ufzWGwBmkrRKljavf1EPeF6SPwW/V282pRhJHL40U8l/LA8k6m6FwNOvXIbSnoZmlNqKHa0va53uKsGzy9hwJq9SXDiM9ReJwvjhimkeiZDP4m7PG8lEW4VJLc4iXCxKk4Lgb/64UNNxPADx7+nqYAl2XHE4snB/gbNoWDpZ6fHAMS5KwptG3t1OmR5uQ9XfW7mxAXVhq0JvFIZRe05zx2RBfiJwVif9Rxxjv8sHo00pyKI8P99nM/clWVmJFQlEFEtFEm1HOwRk73r2BCWE380eBrGWsAigUnDnXsDwZsSCSYsz0V6pUabwLXK0jgqKmiTGPfiAZ0u1H5/gTSZVcpv/X9ErXln+kqxceORPws2wSlzRWwmW0GRJiOA==;obbNiiKzfvUv2tNqlZH21A=="

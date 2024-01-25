@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Jacobi Robotics shortens the robot programming cycle in partnership with Formic"
+    excerpt: "Jacobi Robotics has launched new path-planning and optimization system with Formic to accelerate palletizing applications."
+    publishedDateTime: 2024-01-25T19:29:00Z
+    webUrl: "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 60
   - title: "Young Innovator Explores the World of Robotics and Robot Programming"
     excerpt: "Third-grader, Sidney, explores the world of robotics and programming a robot to perform a variety of technological tasks."
     publishedDateTime: 2024-01-24T20:32:00Z

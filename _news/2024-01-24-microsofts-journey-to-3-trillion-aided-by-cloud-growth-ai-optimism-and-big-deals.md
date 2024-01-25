@@ -97,21 +97,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
-    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-    publishedDateTime: 2024-01-25T17:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
+    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
+    publishedDateTime: 2024-01-25T14:09:00Z
+    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
-        width: 620
-        height: 372
+      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
         isCached: true
   - title: "Mastek partners with Microsoft to transform industries using Generative AI"
     excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
@@ -157,6 +155,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
+    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
     publishedDateTime: 2024-01-25T13:17:00Z
@@ -285,7 +292,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
         width: 1200
@@ -314,6 +321,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
+    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
+    publishedDateTime: 2024-01-25T18:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 33
   - title: "Mastek Joins Forces with Microsoft to Transform Industries Using Generative AI"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud transformation partner, announced a strategic collaboration with Microsoft. The collaboration is focused on pioneering innovative solutions that harness ..."
     publishedDateTime: 2024-01-24T10:00:00Z

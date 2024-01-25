@@ -42,6 +42,31 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
+    publishedDateTime: 2024-01-25T21:43:00Z
+    webUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/ftc-opens-inquiry-into.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
+    excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"
+    publishedDateTime: 2024-01-25T19:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "Google Cloud partners with Hugging Face to attract AI developers"
     excerpt: "The cloud computing arm of Alphabet Inc said on Thursday it had formed a partnership with startup Hugging Face to ease artificial intelligence (AI) software development in the company's Google Cloud."
     publishedDateTime: 2024-01-25T16:03:00Z
@@ -56,7 +81,25 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
+    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
+    publishedDateTime: 2024-01-25T19:43:00Z
+    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Big Tech’s AI partnerships draw inquiry from FTC"
+    excerpt: "US regulator seeks more information on multibillion-dollar ties between Google, Amazon and Microsoft and OpenAI and Anthropic"
+    publishedDateTime: 2024-01-25T18:48:00Z
+    webUrl: "https://www.ft.com/content/6046292f-1c6d-499b-8ed5-7e7c337c5bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
-secured: "Pnrw0rVoXS7YhreS+z/yaqVEa3Mbki/jrSSqz/tLGDpKa0GxZX/UsBm5h6Z5oEECK2rSUrnSIJqDlPOb+jcuMskwXQcoeDFVuyYddjTegfW/i26gFLMKNnkdipez93fteTjuKTgagnsUZOUzICtcHHGzzu4UQj9dZz9XvPkydXmOHhBJoN6KI01MGxSrnGhGnZzdmWu+j+yAQ3lOO3OdmunIE4+pIehZckMchxEJ4AF79UnTSsgSdMSD/2ctMyPP7e8g2iPJ+s5Bm8vFgR7VGkFUKPUdCUmzG2fooxIgtAib7k2z6RKnm2mQpQXvNruKF2gHgEK+mkn3pW4M3XEI3HFQIMBIM/B8V/cUjcIrvZU=;PI5Ly80qIEyDYLo0lK5J7A=="
+secured: "i3D6qcc4v/5VW1B0UcGDMcNwh21D044cbpy7VTGn05wqYO5nl0rqV2vDspsfd3xmA07pO37HCCNZoaVqWNz1FDdJ7SsELkQHFrT5dAi4ItDqIUk7kVYtjhivy7vSEwcigsd7TFDotK+OkDDTY2M3foKytseY2LyHM9/f01H65RVJJkpc/8Xabwv0gZw1osjtBRAWsRagXKX+4Pl2kD55ekg7zJSYxHM7Kfi7K6DWvkEtVA13iRqTpi6gS/mY7dbD7izMKF8g0NP/82xJEaapm1n4fIbhmXgD5ixYT4c5qncXEJX/Tg3nfwNe85KDPPqPknSyrV4ahTgVBdkJrVUyQrV9VbFQUR1sN4FX4iXzRPZihhnS+716O8QJ5W3VQSLLVvXFquMq1Sp4g+cOZx3i8eiCjGpGubx1GuRyrYKoe53uKYpMNV/3QnDKzQZY/vF5sez2ScOIAAGbuv+OtdeViA3jPl1NztABGPjpAcIbWUgjLp44WltYXb0phy0etj7V3dPuQYEknMW+ZL2DjiFQIg==;dtUgpFEY6NmoHYr8fwXwyg=="
 ---
 

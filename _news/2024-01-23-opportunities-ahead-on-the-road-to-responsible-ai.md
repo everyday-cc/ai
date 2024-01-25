@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunit
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://www.irishtimes.com/resizer/2IY2SJAczVE8rRGdIcgcG-1I9QU=/1200x630/filters:format(jpg):quality(70):focal(3430x1195:3440x1205)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YIZTH5U22FZPK4QFBKIWDYIAXM.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/qlik-2024-300x271.png"
+        width: 300
+        height: 271
         isCached: true
   - title: "Responsible AI development in the shadow of profit is a balancing act, these experts say"
     excerpt: "The complex interplay of technology, ethics, and governance in AI development necessitates a nuanced and multi-faceted approach. The creation of an independent body of algorithmic auditors represents a significant step toward achieving a balanced objective ..."

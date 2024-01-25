@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-29-synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality.md",
+      "title": "Synthetic data generation: Building trust by ensuring privacy and quality",
+      "excerpt": "To build trust, vendors of synthetic data generation tools will need to address two critical questions that many business leaders ask.\nThe post Synthetic data generation: Building trust by ensuring privacy and quality appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality/",
+      "originalUrl": "https://www.ibm.com/blog/synthetic-data-generation-building-trust-by-ensuring-privacy-and-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-whats-next-phil-anderson-of-datacentrix-explains-how-businesses-can-use-ai-to-its-full-potential.md",
       "title": "What’s Next – Phil Anderson of Datacentrix explains how businesses can use AI to its full potential",
       "excerpt": "Anderson then discusses the most important things executives should consider when developing an AI adoption strategy. He also talks about IBM Watson, which has been a leader in AI for many years. Anderson unpacks the new innovations IBM have brought to ...",

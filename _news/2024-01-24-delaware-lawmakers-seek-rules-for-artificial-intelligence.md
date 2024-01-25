@@ -34,6 +34,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A red flag for AI translation"
+    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
+    publishedDateTime: 2024-01-25T20:31:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
+        width: 8256
+        height: 5504
+        isCached: true
   - title: "Robot vessels and digital twins are among Delaware blue tech’s latest advancements, thanks to Project ABLE"
     excerpt: "Leaders from UDel and Project ABLE highlight what’s being done to develop this waterborne part of the downstate tech economy."
     publishedDateTime: 2024-01-24T11:30:00Z

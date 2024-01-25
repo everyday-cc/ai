@@ -51,17 +51,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Biden administration, tech giants partner for AI research program"
-    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
-    publishedDateTime: 2024-01-24T16:38:00Z
-    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
-    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
   - title: "NSF launches AI research hub"
     excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
     publishedDateTime: 2024-01-24T16:01:00Z

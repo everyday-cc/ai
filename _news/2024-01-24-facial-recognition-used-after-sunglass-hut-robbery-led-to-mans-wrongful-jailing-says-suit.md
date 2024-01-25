@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-faci
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -129,6 +129,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/JefRMUbC3InWx3hUHtNoaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU-/https://media.zenfs.com/en/aol_nbc_universal_184/13f8a04416b6b38713c34ccacebc464b"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Texas grandfather was wrongly ID'd as Sunglass Hut robber by facial recognition technology and GANG-RAPED after being jailed for crime that took place while he was in ..."
+    excerpt: "Using artificial intelligence and facial recognition software, EssilorLuxottica and Macy’s took the video from the robbery and determined that Murphy was the robber,' the lawsuit states. 'The video was recorded by Kimco’s poor low-quality cameras.'"
+    publishedDateTime: 2024-01-25T21:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-13007297/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "dEtiqo+Grxcy7GJrOL5vnqzTkxAdW7Ws1Vx9RDY18WDl5pThAE18D/U8uK+bGhqXEvzM2ysMOm1EujwOdwcXPdu8biu6kIH3Fmk+KXfu3sDgAoJA5bnLzOMwiQLowsBnygD0b5Vu9XTpVSCb3MMzcUj5PMIvyfu5QHS1G0dMskZyZZyFh+Jr8yqPLeDO6zt/HMVKF80H/XysUhCS+DHuspwrwma90mBN6vKq/ZnXkYUp35VzxGBtnQAT5Ujjw3t5s12a6RIpMZslJ/OVVeYwFGbdCJWgndWprA0PgsrrLs/f5Qv+9G1vuO9yaFHfLDPVPwY6G0zVmsqHNPhcpUFAtv8b8hAC0Ii2jC0ji6cqcgMFz4+sCgWkkyxk3z353L8Dewkln6lzAyh4yWhzjsM27xcWd6PgW/YhQpCQkJz5RKGvn4Lx9geo6tcGTkcLXt98hFb79bYJ4R7NsQk5GBvWOtERbAqM+HOb6Q0b20iAFTR3LMYVxS9kRVMjH+KbUshsGSDRaNfAWSMHjVfEiEg9bA==;Ao6ydP3qw3A2TWqpseCxbw=="

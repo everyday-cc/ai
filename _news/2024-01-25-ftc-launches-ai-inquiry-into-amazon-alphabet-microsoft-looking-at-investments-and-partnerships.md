@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-ama
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
 type: article
 quality: 90
-heat: 110
+heat: 150
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
+    publishedDateTime: 2024-01-25T21:43:00Z
+    webUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/ftc-opens-inquiry-into.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-25T18:27:00Z
@@ -47,6 +63,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
+    excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"
+    publishedDateTime: 2024-01-25T19:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
   - title: "Google Cloud partners with Hugging Face to attract AI developers"
     excerpt: "The cloud computing arm of Alphabet Inc said on Thursday it had formed a partnership with startup Hugging Face to ease artificial intelligence (AI) software development in the company's Google Cloud."
     publishedDateTime: 2024-01-25T16:03:00Z
@@ -61,7 +86,25 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
+    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
+    publishedDateTime: 2024-01-25T19:43:00Z
+    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Big Tech’s AI partnerships draw inquiry from FTC"
+    excerpt: "US regulator seeks more information on multibillion-dollar ties between Google, Amazon and Microsoft and OpenAI and Anthropic"
+    publishedDateTime: 2024-01-25T18:48:00Z
+    webUrl: "https://www.ft.com/content/6046292f-1c6d-499b-8ed5-7e7c337c5bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
-secured: "sDr9OqvMMUKAU+ttfx5DnhLTdIElprYxCAlN5hd7FJi+fJG/mJy2jjQAZJrQgW8Xgk9RDSK6PRTup+h66FXYhqijDV/LI9XeU6pabXTzqj/r6ByZfnWiiGIe6vSb9d7dIrIffdcdHLsgS8BWGsDFg9sFiE97IMyfruJ5zzjbvspWUDrlS3lVBuF9nA4EK3pSLX1bAoRs6WtPgJeo7+KCQGezTYNDol/MOmBA7TXFB3LJeKyQv+o8Oeie1Jnb1Oe2q+HKAB/NE5x+MdxfonxXZDVgJQsex2ZJdx1oZSuquXKgRtNdP7vpJttuUvOeGtH/MnDC4DIqGVFL5vy3N/F8405O21q2DX3Us6kql8C1dUA=;o09XoQTjctdy1wznSI1NOw=="
+secured: "e65w8Nl0bu0VLhAA6SvikgqTSznnFN7Ul98lj1Ykcsf7Gb7ffAET7Q2tEhpvKdCPWDFdmveel8Y7OxAtQLEzXHw0BSR7CaLVHWgDDu0Pie/VlvcWix+5EyI1monTYD9q0K8NbMDh2kx8S6r2JiY8y5BmFvTROP36nkdKzxcjJYv4atXESq/cDEO7+A39izGBfJzuIG3kw+hPajG1kH01aYjHjGOO2qTA1CoSC2gbfSn1Q3Ntqv3w6TJ1In/DJ+TrYqrPSkN4mRqsbd13bqq8VGaJ4ZMB/qMrPQT/VCTgBwu2LljvqbLleI0gZKLgTFPYEEv6kGNj6VlrubDv7pFlrZ0Ovg+H0HOSfEAFY4buoJBrN97H+7+9mVv3fm0lz8qwgjeHKS4biR9hPaai2I9zflvfazld44CD78PHP0esZcN3SSBWKDI57VHiVtT6y6bVPDdRllUWlJfEMRJ5BY1Sgtz9LXd0GfI8c1WmO7O4woFSzdVUiet4D9IOngum3MiQ/IjBgXdFBCbTy9yRDJNoVQ==;B8aNXSNwevhAWBmekg8UGQ=="
 ---
 

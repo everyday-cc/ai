@@ -58,6 +58,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "MIT study finds limited impact of AI on jobs requiring visual tasks"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. A hot potato: The most pessimistic forecasts about the impact of AI on society suggest mass layoffs and the imminent replacement of millions of human workers by robots and ..."
+    publishedDateTime: 2024-01-25T14:53:00Z
+    webUrl: "https://www.techspot.com/news/101645-mit-study-finds-limited-impact-ai-jobs-requiring.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways: study"
     excerpt: "director of the FutureTech Research Project at the MIT Computer Science and Artificial Intelligence Lab. “We show that there will be more automation in retail and health-care, and less in areas like construction, mining or real estate,” he said via email."
     publishedDateTime: 2024-01-22T00:00:00Z

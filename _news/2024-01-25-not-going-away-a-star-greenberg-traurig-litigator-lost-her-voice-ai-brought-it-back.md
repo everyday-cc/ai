@@ -27,8 +27,8 @@ images:
 related:
   - title: "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought It Back"
     excerpt: "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom."
-    publishedDateTime: 2024-01-25T18:06:00Z
-    webUrl: "https://www.law.com/nationallawjournal/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
+    publishedDateTime: 2024-01-25T20:36:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
     type: article
     provider:
       name: Law

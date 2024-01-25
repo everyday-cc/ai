@@ -7,7 +7,7 @@ originalUrl: "https://marketscale.com/industries/education-technology/young-inno
 webUrl: "https://marketscale.com/industries/education-technology/young-innovator-explores-the-world-of-robotics-and-robot-programming/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Jacobi Robotics shortens the robot programming cycle in partnership with Formic"
+    excerpt: "Jacobi Robotics has launched new path-planning and optimization system with Formic to accelerate palletizing applications."
+    publishedDateTime: 2024-01-25T19:29:00Z
+    webUrl: "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/"
+    type: article
+    provider:
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 60
   - title: "Toyota Motor Corporation and READY Robotics Introduce Sim-to-Real Robotic Programming in Industrial Manufacturing"
     excerpt: "READY Robotics, a pioneer in operating systems for automation and robotics, is collaborating with Toyota Motor Corporation and NVIDIA to bring a significant leap forward in industrial robotics"
     publishedDateTime: 2024-01-22T18:42:00Z

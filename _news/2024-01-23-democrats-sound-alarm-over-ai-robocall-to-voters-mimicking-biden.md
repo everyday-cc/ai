@@ -44,6 +44,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
+    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
+    publishedDateTime: 2024-01-25T20:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 45
   - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
     excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
     publishedDateTime: 2024-01-23T22:08:00Z

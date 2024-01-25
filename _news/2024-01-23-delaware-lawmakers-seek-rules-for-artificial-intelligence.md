@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-
 cdnAmpWebUrl: "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "A red flag for AI translation"
+    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
+    publishedDateTime: 2024-01-25T20:31:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
+        width: 8256
+        height: 5504
+        isCached: true
   - title: "Delaware lawmakers seek rules for artificial intelligence"
     excerpt: "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism"
     publishedDateTime: 2024-01-24T12:18:00Z

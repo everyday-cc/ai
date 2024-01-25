@@ -54,6 +54,15 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
+    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
+    publishedDateTime: 2024-01-25T20:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 45
   - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
     excerpt: "\"Voting this Tuesday only enables the Republicans in their quest to elect Donald Trump again,\" the voice mimicking Biden says. \"Your vote makes a difference in November, not this Tuesday.\""
     publishedDateTime: 2024-01-23T19:33:00Z

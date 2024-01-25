@@ -2,13 +2,11 @@
 category: news
 title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
 excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-publishedDateTime: 2024-01-25T17:26:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+publishedDateTime: 2024-01-25T18:06:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
 type: article
-quality: 73
+quality: 33
 heat: -1
 published: false
 
@@ -23,12 +21,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
@@ -105,6 +97,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
+    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
+    publishedDateTime: 2024-01-25T14:09:00Z
+    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "Mastek partners with Microsoft to transform industries using Generative AI"
     excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
     publishedDateTime: 2024-01-24T11:34:00Z
@@ -149,6 +155,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
+    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
     publishedDateTime: 2024-01-25T13:17:00Z
@@ -286,7 +301,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
         width: 1200
@@ -334,6 +349,6 @@ related:
       domain: 01net.it
     quality: 29
 
-secured: "W8beO9C29Z4Wf1i6emTb1Au8hAGkH6lPodYaojLg/QM3wp7UdVPvuJ8fmbdHJoH4GybcfQoFfTPy5P3UvyBGnLS0TOc+1gCip0omSLJ5VqEc6EXPg+e9e/2HE12z25gEqOZ/rL06+mOk8pK3Sfat2jYiS+2iK4y+uO48vMlUGzxKG1H5P+yIf2GAmVzATdLzCTr2l+EQ/JaHFEl4JLI5Bv0n31PcHIsDfxJofA7v0NUQdwZp/1JqiRFVoM0OKtabyhRoPxcKr4cN6aojaZZyMErpw88SRDNIb3MlwSq1XEIDDnM7uHnsmK/fcC0RN6BkpCCMsi7gkIGia7OBlDRBauGT+iFTFvSO6FxaLumDdi8=;rb7NE/OaZ4YRFmvrOt3wqA=="
+secured: "QrLPYf0h7IRBscbyIXREQbwR96Vp2+77IgnNKIvPJLgRoFEzz88rp383WHDzu9TVSZTMml5UDn7GIo86tNQyBjVm7+AlzT4WZIIUCdz0R5tvwMwMI0jf+TZfoQ/5czGbH8yojvAoD3xuge6IPUaNmOBO3WobN6cgWekph7WPPy5UYC+HrXMC8e89rlXVsFhgx7ZOUaQe0OOE5fLGVYDRiKdHV9nMakwNm128Q+T7vXLzH/5iu/9OXdKA5cjzr9zyZ/CVftXY7qPKeajotmK8eIWw0HpM8qRAHbey/cRRFxbtJDwZbvMyA9Az9BSv8juIBnhF2h3tItbQ/eKxWLKQixrd+rrNz6I5QmO5TEpf41Igg7mr04XoSBtP6zIhNZXsYINwTgIRkUkyJ18gBSzHMTCzG5FxDVk0UY9KCG/7Yx5d0PfuZQk0lprlk59TkwkMcGp4d2+5NTpxe41SEC7PoPZX4KIBmW/fTcTPxoKYGYzdvg+sgZHilwMCPQIYuJOj1HM2Y7MQQ4SxbaMzDslCLw==;LqzQw18usU4Je+8wtqw1mA=="
 ---
 

@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Texas grandfather was wrongly ID'd as Sunglass Hut robber by facial recognition technology and GANG-RAPED after being jailed for crime that took place while he was in ..."
+    excerpt: "Using artificial intelligence and facial recognition software, EssilorLuxottica and Macy’s took the video from the robbery and determined that Murphy was the robber,' the lawsuit states. 'The video was recorded by Kimco’s poor low-quality cameras.'"
+    publishedDateTime: 2024-01-25T21:51:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-13007297/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 24
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "I7BATwB6IbSyaUMqfvTZgLKigHxIp4thaHn1BXwcW7HLKWDmYBqnbY7q8M8TcSY1iVN0s6f5FFSGj0XqzxlCmFCACQsF+NdWQg3Rar7S6HV8UBOe9i9veZHJgWiImGcinuTYNpRE/QL14T8sYVWk1HrShqlsDdmKGs77vvYq4oKhojD3ovXB34OtI4vGck2YVdIMYfQ6j+f4ACUbdvs0ioM733PjzagCyNPPD24YSiZ72pdVKvxjqBYvilwKcz6mSOSZZKId7TOu8abAct8/ya0zfBBDvtQQHs8XU6A3GGz/HXIjHlu5eOSy14af9IjGaURjZPT4aByqAtrX/04W2VI0R8shJ2p5BIQVVIia80g=;AJyl+i/0e+POXnTRwLXJKw=="
 ---

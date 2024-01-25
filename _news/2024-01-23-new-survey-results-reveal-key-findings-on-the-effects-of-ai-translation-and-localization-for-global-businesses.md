@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Over 35 Federal & Private Organizations Come Together for National AI Research Resource Pilot"
+    excerpt: "Looking for the latest Government Contracting News? Read about Over 35 Federal & Private Organizations Come Together for National AI Research Resource"
+    publishedDateTime: 2024-01-25T22:10:00Z
+    webUrl: "https://executivegov.com/2024/01/over-35-organizations-come-together-for-national-ai-research-resource-pilot/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 28
+    images:
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/documents/54f84d6c-f685-4c9c-984f-6b9281177834.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "DeepL: New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
     excerpt: "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled director-level marketers at global companies with more than 100 ..."
     publishedDateTime: 2024-01-23T12:19:00Z

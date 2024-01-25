@@ -9,7 +9,7 @@ ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/ig
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13534_143.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Over 35 Federal & Private Organizations Come Together for National AI Research Resource Pilot"
+    excerpt: "Looking for the latest Government Contracting News? Read about Over 35 Federal & Private Organizations Come Together for National AI Research Resource"
+    publishedDateTime: 2024-01-25T22:10:00Z
+    webUrl: "https://executivegov.com/2024/01/over-35-organizations-come-together-for-national-ai-research-resource-pilot/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 28
+    images:
+      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/documents/54f84d6c-f685-4c9c-984f-6b9281177834.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "DeepL: New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
     excerpt: "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled director-level marketers at global companies with more than 100 ..."

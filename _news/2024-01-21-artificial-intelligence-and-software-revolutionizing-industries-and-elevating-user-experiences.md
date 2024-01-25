@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "More work needed to blunt public’s AI privacy concerns: Report"
+    excerpt: "Organizations aren't making much progress in convincing the public their data is being used responsibly in artificial intelligence applications, a new survey suggests. The report, Cisco Systems' seventh annual data privacy benchmark study,"
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.itworldcanada.com/article/more-work-needed-to-blunt-publics-ai-privacy-concerns-report/557328"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 19
 
 secured: "IbPMBbOA2h8GPfDaAAuWBFGbNdgq+QARPV7rNFwi4e8DW61qltLwx6C7SmuNYxOcZRIWLy0vMe0tRBSd2ABBRdZWVwc55gb4YgfYrKEhsQoPbntEzqgN2N+juEsg2ShBTAKfXhhiRZ09aIaUq/g+CbmouvADPp2v2hjAZlrgxMC8ZppjMOOeRfYnn4Z5NXQLI55J+/SR9kxQjnbSjZS56wjXt0GOMxRtOGWp5NLovhPDK8AMRQdqyMJLNGGZxr8KWBnmC/NYjt582ogLIDbsFhn6A7Zq3Ss1dxUjZQgzCMy/C/gjBnGGTDjYwAPR2kjiRJuUL7gbvT9koBAVbrsjJdElqM1VM+u1AJaz187xg11cr3zT9GK336Jdwa4eDWeqqM08Dtyd4poeSaVQmv98EgP7vUQ8lcLIOI9D/w0PHno9pqvl2bEAOiCUcG1xCXYGm1PfBpNR8w/wWOz7B420f/+NhFTP+hRLaZKnyNnCUbRBNC1UyGn1U4wJEUpZC0/kRSHJCAxxvMBZ9Aqiyk7f5A==;obmeo0U/SprAoSlmJlsASw=="
 ---

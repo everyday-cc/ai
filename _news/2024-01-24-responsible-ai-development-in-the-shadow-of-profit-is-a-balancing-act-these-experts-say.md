@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/qlik-2024-300x271.png"
+        width: 300
+        height: 271
+        isCached: true
 
 secured: "F7FF2pCp+24yRzwNFJ5bVU74iaFJE0SrnyXgWavV7DR147L+pWIkT5ehO2MaaQzaZ/DR0y/iUZOZK7UWAWa0Wj8fTpCljbf7rURjpz/cO5fvTENHeZXWJEa9QA+OEmkhpu8QHg/GpXjOjP8A9iUfS8aOlqUguwQ02DA+KO0tyuoWrtTNA/9Rq/UI3UMvUbLJObikLVM//OiRSdBPr3q1MMD49QiSdsEVJWLSjLd1I9yXE/c9x9BDUkAuBAtKjgnawD5HI0aV8e/CX/dohZQXH+HTaL8DCvYk4jdmZcGcb0eilCV0NpyNn76AiGcl45O3Ce2ZeiEKlt250BZke9U5YVn6VQQGcPJRuksBs2bEpyo=;4V5N4W/OezYa5glbZL86dA=="
 ---

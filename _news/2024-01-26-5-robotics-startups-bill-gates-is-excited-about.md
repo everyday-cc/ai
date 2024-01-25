@@ -7,8 +7,8 @@ originalUrl: "https://www.therobotreport.com/5-robotics-startups-bill-gates-is-e
 webUrl: "https://www.therobotreport.com/5-robotics-startups-bill-gates-is-excited-about/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Robot Report
@@ -25,23 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Gates is excited about rapidly advancing robotics, says it won’t be taking all jobs"
-    excerpt: "The billionaire philanthropist took to his blog to share his thoughts on robotics and how it can transform the way we live and work in the future."
-    publishedDateTime: 2024-01-25T10:44:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/bill-gates-on-robotics-artificial-intelligence-9127474/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/bill-gates-on-robotics-artificial-intelligence-9127474/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/bill-gates-on-robotics-artificial-intelligence-9127474/lite/"
+  - title: "General purpose humanoid robots? Bill Gates is a believer"
+    excerpt: "To Apptronik, an Austin-based start-up that spun out of the human-centered robotics lab at the University of Texas ... Other firms mentioned in the piece include robotic perception firm Field AI and Tevel, which builds apple-picking drones."
+    publishedDateTime: 2024-01-25T22:06:00Z
+    webUrl: "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/"
+    ampWebUrl: "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 65
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://images.indianexpress.com/2024/01/Google-AI-1.jpg"
-        width: 1600
-        height: 900
+      - url: "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
 
-secured: "yDSVBoYMQlsyaIxRMkv9jwvAFmw1h1CdBKN4TW45TJ0YrPIXTqt1Ti2aCQF4kPT3zCI7Xt6v6V32Bz/D4FR4SRSH/dGc/3LwoXaHXFS2uBsnoxkdaZKm76w2K6NTbhT5Qb3MsMzAntLbL5HUfkAQaqxWQH0Kssck20LksTWDgD1Uta6ZO8pBv5p5CN8W2xkMlWGsoYmhBNnk2Xedmq1BfwQiv8jxC+kQLo32KcjtUm3ZcgSYgp6WK0bfZ+50ShedJVzYI0Q00bbDtv0jMN+M5byh34RaOO00+hIIy4W6j0rZi09i/J6ieJKuWoxW5lWDfxbm62nZKiSM+FtKLJPd5v9ECs+SR2Xr5KY45We/3zE=;QjYmheKvQzOC+R9GfALevw=="
+secured: "54ZiW1Bo9titbCalOp1PvE8T006alOrsQbC6sZkz5b7sCtnpA4dm8k3wo0SobaXxGb78v018Qa6adb+Z+h/809F3Ru2/L05j1LCI5UYb6OUXG3PjPeZXBQvJA/1XDKSGc7TewjCPpjWSKc97ba+EgkhuRYPoqsgZlOdTN1yach1IEBZ+BQF2rG1bzoMHOU4dSiixPRU4s822mb0kQoGVRUbMghg2bGmO660Nqmx2ON3fRs7HhJhGWmQ2mSfLV0VQlmCrtNMBkVNIZKbl95UdQklu4YAL/Ae+w9jOxoqmjWM2yChjx2GXC/WbSLnuwNFko27uXZvGTESM2XyKEtNsAC+x3NPm8QUz520/ADw8MOlbo8WA63iPh1AD2RIcV/WkQPLLNkLW5GhvlGKPuWj13pEcPNq3l63hfccMifckz8EKqUU64OBTHazPUczuOZJcwpLl4HZ9B0rbK3KRHvzbFknMkiHZ5OVFC4fJcJFNuEJS9bM3vYlPWNxZ29U1TePVp4h4bor7oibE1K2pfIu4sg==;nrzHZMSJfsjHUg39yAYewA=="
 ---
 

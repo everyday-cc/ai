@@ -105,20 +105,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
-    excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
-    publishedDateTime: 2024-01-20T23:00:00Z
-    webUrl: "https://menafn.com/1107746124/Sam-Altman-In-Talks-With-TSMC-To-Launch-AI-Chip-Plant-Report"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/20/I_0e187image_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Sam Altman developing new AI “Brain Chips” or Neuromorphic chips"
     excerpt: "Sam Altman, a leading figure in the tech industry and head of OpenAI, is spearheading an ambitious project to raise funds for the development and worldwide production of advanced AI chips. These chips are designed to operate similarly to the human brain ..."
     publishedDateTime: 2024-01-22T00:00:00Z

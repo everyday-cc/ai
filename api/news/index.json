@@ -2,6 +2,185 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-general-purpose-humanoid-robots-bill-gates-is-a-believer.md",
+      "title": "General purpose humanoid robots? Bill Gates is a believer",
+      "excerpt": "To Apptronik, an Austin-based start-up that spun out of the human-centered robotics lab at the University of Texas ... Other firms mentioned in the piece include robotic perception firm Field AI and Tevel, which builds apple-picking drones.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
+      "originalUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
+      "publishedDateTime": "2024-01-25T22:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-customer-experience-examples-that-drive-value.md",
+      "title": "Customer experience examples that drive value",
+      "excerpt": "Discover some proven customer experience examples that organizations can use to improve customer loyalty and grow value.\nThe post Customer experience examples that drive value appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-experience-examples/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T20:39:42Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-jacobi-robotics-shortens-the-robot-programming-cycle-in-partnership-with-formic.md",
+      "title": "Jacobi Robotics shortens the robot programming cycle in partnership with Formic",
+      "excerpt": "Jacobi Robotics has launched new path-planning and optimization system with Formic to accelerate palletizing applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/",
+      "originalUrl": "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-hugging-face-teams-up-with-google-to-accelerate-open-ai-development.md",
+      "title": "Hugging Face teams up with Google to accelerate open AI development",
+      "excerpt": "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T19:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-kirsty-gilmour-working-with-ai-firm-in-bid-to-end-online-threats.md",
       "title": "Kirsty Gilmour working with AI firm in bid to end online threats",
       "excerpt": "Scotland's Kirsty Gilmour says she is still receiving death threats and abusive messages on social media despite using AI to block out trolls.",
@@ -113,7 +292,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -152,49 +331,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-5-robotics-startups-bill-gates-is-excited-about.md",
-      "title": "5 robotics startups Bill Gates is excited about",
-      "excerpt": "Gates noted that he has been more interested in companies that are working to solve dexterity and mobility issues with robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/5-robotics-startups-bill-gates-is-excited-about/",
-      "originalUrl": "https://www.therobotreport.com/5-robotics-startups-bill-gates-is-excited-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/bill-gates-robotics-startups.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T17:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -301,7 +437,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -812,7 +948,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1088,162 +1224,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-health-care-down-slightly-after-mixed-earnings-health-care-roundup.md",
-      "title": "Health Care Down Slightly After Mixed Earnings -- Health Care Roundup",
-      "excerpt": "Health-care companies fell slightly amid mixed earnings ... Evaxion Biotech shares surged, almost doubling in value, after the vaccine developer said it was applying artificial-intelligence methods to exploration of cancer vaccines, pledging to produce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
-      "originalUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
-      "publishedDateTime": "2024-01-24T22:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love.md",
-      "title": "AI is for everyone: Prompts to help you with work, life, school and love",
-      "excerpt": "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
-      "originalUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d82d0b5-ce16-415b-ac50-c309419796e2/57376624-6d61-4e7a-898e-04ec81ef53d2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
-      "publishedDateTime": "2024-01-24T22:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.md",
-      "title": "SK Hynix swings to fourth-quarter profit on strong AI chip demand",
-      "excerpt": "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107094418-1658892335251-gettyimages-465379179-SKOREA_HYNIX_EARNS.jpeg?v=1706139305",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "publishedDateTime": "2024-01-24T21:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
