@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Groundbreaking Linguistic AI Solution ‘Evolve’ by RWS Transforms Global Translation Practices"
-excerpt: "RWS’s language services, which include 1,750+ in-house ... “RWS has created a groundbreaking linguistic AI solution that addresses the ever-growing translation challenges presented by large content volumes, enabling us to engage international audiences ..."
-publishedDateTime: 2024-01-25T00:00:00Z
-originalUrl: "https://www.01net.it/groundbreaking-linguistic-ai-solution-evolve-by-rws-transforms-global-translation-practices/"
-webUrl: "https://www.01net.it/groundbreaking-linguistic-ai-solution-evolve-by-rws-transforms-global-translation-practices/"
+excerpt: "Following a successful beta program involving Dell and several other industry leaders, RWS announces the availability of Evolve."
+publishedDateTime: 2024-01-25T08:00:00Z
+originalUrl: "https://slator.com/groundbreaking-linguistic-ai-solution-evolve-by-rws-transforms-global-translation-practices/"
+webUrl: "https://slator.com/groundbreaking-linguistic-ai-solution-evolve-by-rws-transforms-global-translation-practices/"
 type: article
 quality: 8
 heat: 8
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Slator
+  domain: slator.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "RC/s1m/sFP3eRVvbFCliD/rnoDTdAQ8pKcRp5FamUDHv62pHINicmMSl5M4C/Vb8UjzSrDiBbS0KRBU8d2wIHvcwIWArNT9DyJAXBeyqqX1vFi0sL2sIBLrN4x+lJizcZwOGY7prDfd95zAOjnoAe2FpWqXv4GkXZfGaPsW9KoGU5egqRFce3mjV/zDa7BMgOoT+NPm9HvDMsvdmOH31f8zOCB9ezImMyv4idm+FKE4msXqNrjMA/yeCj+wGcUAP/Ehvel/gnDIDvdRZ6fjbSBcwkqAds/ExUkucFG22+a7kCHrkKOwVi+25AxRP1cTt1LfhT/z9g6rxgsmRaWA9dFhoqXo8mt28jH8xbJsraB0=;rSSsNDff2HQeG9M/nZrfcA=="
+secured: "5AlrCu7VavxPac02DH078lJ8pYy8ziWSt3k6osZvpcHTugSveSuem1w1XTS5OzexnonTkP6bbB1ZMoGh6IeCXesDR5pm7rYcc7sorAetbrlxQn9+DU7ZePQG+wmxlkyEdoHQXBSGUq/b0dRofrGW5s89H8aPFiNZSTF96RFDxwo472PUbCyof6Egh8aWoE83SFqGKZWWqsZX0IlImVOGwSJ4H/DL5ah2Iw+/BAzT1q6XSvUHMGTOxZxNeWMFuEmNeXK4B01ByXmTEo+oRt8ZbWY/x7JkgFxqKkKHLBYJh/qxGbtaKsqBmP6Qm3ckpojbpzrwWFEP+DCw8HMg/kSsAyqaSHv4lrGOBa/QNRO9Q+WNPJU2+2tUzO9t67h6oR9yuEaE5i2j4+l7G2q1fDIZebhjuALFBgNpug3Njyt3618L87NyZz0IXgoDKI2LOhL0XGi0VrhT5M5MjTTBdol3EusPoAOjN8sVZPG79+g+3N6yb17vMMDyQjJ+wipt3iwA7aHj9Z2j+ckTFO8pXplJoQ==;EkM7AH34JSyicBu2AC/XgA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/policy/technology/2811081/congr
 webUrl: "https://www.washingtonexaminer.com/policy/technology/2811081/congress-running-low-on-time-to-address-ai-misinformation-in-elections/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,24 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "The missing link of the AI safety conversation"
-    excerpt: "In light of recent events with OpenAI, the conversation on AI development has morphed into one of acceleration ... According to Coatue’s recent research, the demand for GPUs is only just beginning. The investment firm is predicting that the shortage ..."
-    publishedDateTime: 2024-01-20T12:04:00Z
-    webUrl: "https://venturebeat.com/ai/the-missing-link-of-the-ai-safety-conversation/"
+  - title: "AI Is Already Seeping Its Way Into Elections"
+    excerpt: "From chatbots to fake robocalls and doctored photos, the chilling realities of AI are already proving to have major consequences for 2024."
+    publishedDateTime: 2024-01-24T20:30:00Z
+    webUrl: "https://www.vanityfair.com/news/ai-already-seeping-way-into-elections"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "White House science chief signals US-China co-operation on AI safety"
-    excerpt: "Biden adviser says the two nations must work together to tackle risks from artificial intelligence despite race to dominate its development"
-    publishedDateTime: 2024-01-25T05:01:00Z
-    webUrl: "https://www.ft.com/content/94b9878b-9412-4dbc-83ba-aac2baadafd9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 37
+    images:
+      - url: "https://media.vanityfair.com/photos/65b1641bcb88ea648c678e5b/16:9/w_1280,c_limit/vf0124-presidential-ai-02.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3tJ4WwfqOiYpm79crq+BmZNrgLKtX3niv8AOgv7EM3haUw5YXSUVxoV14h9rYPZaLSXBd/jVIA1nX/Dq5Cd19KtwRBjt97kezLBSt3eOrbW3Qh3LDuVLx/kkV9tykzccBdMcpj2dIIVvQTH4TtHc98to3r0XGEEH/fI+vu42roMYkXm79QJnvujXoWY6hYFVk+qO7LUeNdcJYj786mSVhiTs470FagkiBQTRFUyq9Jc7gART5+i0iyXhRwUk3RpyFXf+kbNH+RZC21l/uwUjtuB4cwcdwo2GM975OpjXzD1DVvcq1hxMC9UXGgnkqDoofZPop7ldv+ULfeacXdrfkjpqJDun6/43Vt1Y95/wUFo=;hON1eEU/50Gl6mFJKjmjgA=="
 ---

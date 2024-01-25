@@ -52,6 +52,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "The tantalising promise of AI for the emerging world"
+    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
+    publishedDateTime: 2024-01-25T11:50:00Z
+    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "sn3MYtijsXy8iTDaxDtvwPGRF1WQCeF+LQS1mmTF4Lw0Ngx1TrZuNBQ8LaWYq9eajAVQdEBM77viOAi/wFK7DjEIFH4+9CP9BlmLXBethj/nfiV4vsdt7BfoT7pY5+hi9DzLt6n1F/MXIAkRSUb+gtpDS8ZIu30O/kzZ0H81io5hT3Vx/1E23GDxv0wP2dYLSah+hvM7XxzLD6N+iOXBjdPlu8sBWluz7W7lFcDdqZBvW+hHtsD46yQy814odZB8qRD42rRYYqnNUxOWTc6NikPFPBpmuE49/MNjXGAxFKKapnxpsw5ahtVHDI5ya1rRqxyQF/gSH1rdrril1NTuPnDT+hfmco7KcdQoPX2/3Ic=;GpZ4JlUd0SAhhVXG2KFTCA=="
 ---

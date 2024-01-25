@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Voltron Claypot Deal Cooks Up Faster AI Engine Power"
+    excerpt: "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?"
+    publishedDateTime: 2024-01-25T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b24cfb438acdd6bba57f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "GPU-powered data processing startup Voltron Data acquires Claypot AI"
     excerpt: "Voltron Data will use Claypoint AI’s technology to add GPU-powered real-time analytics capabilities to its product portfolio. The company envisions customers applying the capabilities to use cases such as feature engineering and MLOps."
     publishedDateTime: 2024-01-24T22:54:00Z

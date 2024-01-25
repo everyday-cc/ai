@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-11-30-google-deepmind-ai-predicts-2-million-novel-chemical-materials-for-real-world-tech.md",
+      "title": "Google DeepMind AI predicts 2 million novel chemical materials for real-world tech",
+      "excerpt": "Google DeepMind’s AI predicts the structures of two million materials, with potential for batteries and chips.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
+      "originalUrl": "https://cointelegraph.com/news/google-deep-mind-ai-predicts-2-million-material-structures-for-real-world-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T11:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-google-deepminds-materials-ai-has-already-discovered-22-million-new-crystals.md",
       "title": "Google DeepMind’s materials AI has already discovered 2.2 million new crystals",
       "excerpt": "Google DeepMind has developed a revolutionary AI system that discovered 2 million new materials, unlocking massive potential for innovations in renewable energy, batteries, electronics, and more.",

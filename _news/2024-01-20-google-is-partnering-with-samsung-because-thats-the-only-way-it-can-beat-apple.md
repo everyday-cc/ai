@@ -45,20 +45,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The Samsung Galaxy S24 Bets Big on AI, Apple Watch Ban Saga, and More"
-    excerpt: "Fresh off the heels of CES 2024 comes another huge January tech event, in which Samsung officially launched its highly anticipated Galaxy S24 AI-powered smartphone. Ubisoft turned some heads this week when the French gaming publisher said gamers should be more comfortable not owning their digital games."
-    publishedDateTime: 2024-01-20T12:59:00Z
-    webUrl: "https://gizmodo.com/the-samsung-galaxy-s24-bets-big-on-ai-apple-watch-ban-1851180114"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d901b17fa85a6004ad087f80214148b7.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Why Samsung's Galaxy AI Actually Feels Like the Future of Phones"
     excerpt: "One of the more gutsy Galaxy AI features launching with the S24 is something called Live Translate. At its most tame, you’ll be able to use an Interpreter app and translate between dozens of languages in a split-screen view, with responses in your chosen ..."
     publishedDateTime: 2024-01-20T15:30:00Z

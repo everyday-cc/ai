@@ -7,8 +7,8 @@ originalUrl: "https://www.news-medical.net/news/20240123/AI-risks-in-healthcare-
 webUrl: "https://www.news-medical.net/news/20240123/AI-risks-in-healthcare-Misdiagnosis-inequality-and-ethical-concerns.aspx"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -26,29 +26,59 @@ images:
     isCached: true
 
 related:
-  - title: "WHO pushes for oversight of AI in healthcare"
-    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
-    publishedDateTime: 2024-01-23T21:57:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
+  - title: "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations"
+    excerpt: "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood."
+    publishedDateTime: 2024-01-25T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
     type: article
     provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 111
     images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Can Artificial Intelligence Help Human Mental Health?"
-    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
-    publishedDateTime: 2024-01-24T18:01:00Z
-    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
+  - title: "Top 10 Principles For Developing An Ethical Generative AI Strategy"
+    excerpt: "In a world where technology outpaces our grasp on ethics, Asimov's Runaround doesn't seem like sci ... Apparently, we need more than the Three Laws of Robotics to benefit from AI and build a safe future. Having analyzed the EU AI Act draft and the ..."
+    publishedDateTime: 2024-01-23T13:26:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/top-10-principles-for-developing-an-ethical-generative-ai-strategy/"
     type: article
     provider:
-      name: Cal Alumni Association
-      domain: berkeley.edu
-    quality: 21
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Generative Artificial Intelligence Latest Developments And Impact On Industries"
+    excerpt: "In the ever-evolving landscape of technology, one term that has gained significant attention is generative artificial intelligence. But what is generative AI, and how is it shaping the future of industries worldwide?"
+    publishedDateTime: 2024-01-23T14:33:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2024/01/23/458438-generative-artificial-intelligence-latest-developments-impact-industries.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/3278267047-artificial-intelligence-2167835_960_720.jpg"
+        width: 960
+        height: 642
+        isCached: true
+  - title: "CGI Federal’s Steve Sousa: AI Integration Could Enable Federal Health Agencies to Enhance Patient Care, Drive Innovation"
+    excerpt: "Steve Sousa, senior vice president of health and social services at CGI’s (NYSE: GIB) federal arm, said integrating artificial intelligence technologies provides federal health care agencies with opportunities to improve patient outcomes by harnessing ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.govconwire.com/2024/01/cgi-federals-steve-sousa-ai-integration-could-enable-federal-health-agencies-to-enhance-patient-care-drive-innovation/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 14
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2024/01/daf58c4a-7d07-4d56-bf43-b93604dfbd7e.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "N4Bn00ASP/gGCkTuS+310Gd5XU841oTmTilIZRDcFPiyilwIwLpf1wYWc1i+A1wCmMEcmn3Bm31k/fc1o0QV+szuqqWEQvl5aE1fAjjzVv7PEz33+08xzdOmD1TN2HccE5rMwYmHlIqF6ongDQ/Q6vIANWXApoxKQ+WAhlP6SzJ70Gm118kaREoWJoDHcSEsDHu3w0llksGGGGOgTXDX7FOv+8MCXwCZH9uL89KesSoaYytfFS3KYAcRtuxv5X1ANG1Z3uB3n71LdSvbkacwxJv1vdsqbarsENPGkQPHT+xpESTS3kRD/UDvLqm8LIL9Xx4BSuazmMrCcObCybKNh+Oc1zRPFjtlQ99/6V8wY38=;WR6t1ksRY0w7pvpYTmbQ5A=="
 ---

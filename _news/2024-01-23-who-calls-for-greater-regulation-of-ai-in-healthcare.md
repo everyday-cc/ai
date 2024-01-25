@@ -117,6 +117,20 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
+    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
+    publishedDateTime: 2024-01-25T11:31:00Z
+    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
     excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
     publishedDateTime: 2024-01-24T11:00:00Z

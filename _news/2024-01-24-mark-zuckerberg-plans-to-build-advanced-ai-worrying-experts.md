@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
-    excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
-    publishedDateTime: 2024-01-20T12:37:00Z
-    webUrl: "https://futurism.com/the-byte/zuckerberg-bored-metaverse-ai-chips"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z

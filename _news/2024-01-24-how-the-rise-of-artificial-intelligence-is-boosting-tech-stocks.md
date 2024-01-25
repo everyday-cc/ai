@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-int
 cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://www.investopedia.com/thmb/LinjIvuSrJSmljARh_ES19dm-VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "The tantalising promise of AI for the emerging world"
+    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
+    publishedDateTime: 2024-01-25T11:50:00Z
+    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "mMRsantZzOmy5zsaIvYRk5bJquSkK/mNENPk+WjDiM2kM7+vZh/lz2yBG7cLHTkTChA/HRO1N2fpKqWMDI2mD7b97Y2zoIaW9cwthUymKZSY7Homt+oMvJ59XkQnYKMUafVqhq8lCh+gQj0xYdYJPI7PWM/0gq2CAfGuajOoMuXp1pF5Rk0yKWAfPwVdaSUGyjxuHO6JLPVMWYvD3A5yKXS94WSVc1df/nSVmKqIGBY0iJ6CS6xuzrpbS6sOCcW9gNLaL0tBa54u/gJiGp3bJacCdCs0d+S0gYBpOhBfuMEJYGhw+6T21an4AMsxQ42Vs/aclgH6W0anIHWNJsyktY82Jc8RSQou/0oLFM4mSID4WrgbBJgG4Vi0TgSCb1gLndcvrmy62m0VXxU5DrfMu6V4wyONc08oxN1+HD84aLARvWrJMw+Gcti0q3Inwbkb5D0S9hXd2vyd5zBknS00hoWOX2LF+JIY04yGjgVYmdt8da7T2Y06GTehVOxr0d14+ILNaG/Yw+Ic42MILgFAOg==;dIZv0flN+DIfB/C21AmNpg=="

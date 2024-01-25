@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-c
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
         width: 800
         height: 418
+        isCached: true
+  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
+    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
+    publishedDateTime: 2024-01-25T11:31:00Z
+    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+    images:
+      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
+        width: 1200
+        height: 738
         isCached: true
   - title: "WHO calls for greater regulation of AI in healthcare"
     excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."

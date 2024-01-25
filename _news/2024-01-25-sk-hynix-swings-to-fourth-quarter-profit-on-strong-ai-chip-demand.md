@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarte
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/b2aa7af8ed11428fa34fb035dad20c46.jpg"
         width: 740
         height: 416
+        isCached: true
+  - title: "SK Hynix’s Q4 profit signals an AI-backed rise in advanced DRAM demand"
+    excerpt: "Sales of key products, DDR5 and HBM3, have surged with over four and fivefold increases compared to the previous year."
+    publishedDateTime: 2024-01-25T11:09:00Z
+    webUrl: "https://www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html"
+    ampWebUrl: "https://www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/id-2960930-ddr4_module_2-0-100602653-orig-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Memory chip giant SK Hynix returns to profit on strong AI demand"
     excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence. SK Hynix posted an operating profit of ..."

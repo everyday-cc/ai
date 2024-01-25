@@ -108,15 +108,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 10 Principles For Developing An Ethical Generative AI Strategy"
-    excerpt: "In a world where technology outpaces our grasp on ethics, Asimov's Runaround doesn't seem like sci ... Apparently, we need more than the Three Laws of Robotics to benefit from AI and build a safe future. Having analyzed the EU AI Act draft and the ..."
-    publishedDateTime: 2024-01-23T13:26:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/top-10-principles-for-developing-an-ethical-generative-ai-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
     excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
     publishedDateTime: 2024-01-23T18:29:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/24/gpu-powered-data-processing-st
 webUrl: "https://siliconangle.com/2024/01/24/gpu-powered-data-processing-startup-voltron-data-acquires-claypot-ai/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Voltron Claypot Deal Cooks Up Faster AI Engine Power"
+    excerpt: "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?"
+    publishedDateTime: 2024-01-25T12:44:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b24cfb438acdd6bba57f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "Voltron Data Acquires Claypot AI As It Unlocks the Power of the Largest Datasets for AI"
     excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired Claypot AI, a real-time AI platform startup. Voltron Data processes large batch workloads on GPUs today and will be incorporating Claypot AI's real-time capabilities on GPU."
     publishedDateTime: 2024-01-24T18:04:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/electricity-demand-for-data-centers-ai-
 webUrl: "https://www.pcmag.com/news/electricity-demand-for-data-centers-ai-crypto-could-double-by-2026"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,17 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Soaring power demand from AI and crypto pose threat to grid"
+    excerpt: "Also in today’s newsletter, Biden reported to be delaying plans to approve US’s largest natural gas export terminal"
+    publishedDateTime: 2024-01-25T12:01:00Z
+    webUrl: "https://www.ft.com/content/58e3a4f2-fe0a-4930-b01d-0822e80c4f83"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "CgORTvVKzHatJ95u8bLWnrSBnPPQoKdpI3Pfpa51pOFPye+/gEukJcFIseR5mRDNcvzh/6Ihl5nUT+Z6W22rPsj+2gqmuZsHiYWlWocS2YtphwJKJ+EsxLnT3Z+t09JtpVhrVLjQIBm6768637Q0FLjKuL3q+oymeRf4qA3bRshVpnz1ZLhOJvF0HEsXgVmkxRCQShijNE6qln6Y8tJh7cR3NwRXHB/2gjdsLkS2pRvWA0YgqKcuZ3ZAMKuKYfXDC/qE4pf2X7XJ/sG01sASGyF/tuCTFN9AUAAwpjAv1A4kZ60jS3AbukNM42i8KevA0McrhZSNTV/ebeNRs5wJpY4bEUycSrCdWhpXN+oLIunbTacwMRJlO5jSyU9jVqFWazYgyVqDxMmki1BG+AaP7o7fU7+kBs1qmMPKq5F5YfwkLFlzkDX8T5OzkSTC9ktqh15l7OYW5Lra8wwQJ2RLQa4BEYuO1G4lyBEFcTNR7xp8PE4ZCmFITSNGxv5QJex2bFluGX/iESbdqpQYo6y0+w==;Jl1POWF7wjw+0zu/vkBXjQ=="
 ---

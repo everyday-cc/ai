@@ -73,6 +73,22 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "SK Hynix’s Q4 profit signals an AI-backed rise in advanced DRAM demand"
+    excerpt: "Sales of key products, DDR5 and HBM3, have surged with over four and fivefold increases compared to the previous year."
+    publishedDateTime: 2024-01-25T11:09:00Z
+    webUrl: "https://www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html"
+    ampWebUrl: "https://www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html/amp/"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1298355/sk-hynixs-q4-profit-signals-an-ai-backed-rise-in-advanced-dram-demand.html/amp/"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/id-2960930-ddr4_module_2-0-100602653-orig-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "SK Hynix posts surprise Q4 profit on AI chip demand"
     excerpt: "He added that SK Hynix will strive to \"grow into a total AI memory provider\". Hynix's results outpaced market expectations as strong appetite continued for its advanced DRAM chips such as high bandwidth memory (HBM) chips used in generative AI. SK Hynix is ..."
     publishedDateTime: 2024-01-24T01:09:00Z

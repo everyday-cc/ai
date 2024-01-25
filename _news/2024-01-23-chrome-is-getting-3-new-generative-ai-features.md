@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -100,15 +100,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 10 Principles For Developing An Ethical Generative AI Strategy"
-    excerpt: "In a world where technology outpaces our grasp on ethics, Asimov's Runaround doesn't seem like sci ... Apparently, we need more than the Three Laws of Robotics to benefit from AI and build a safe future. Having analyzed the EU AI Act draft and the ..."
-    publishedDateTime: 2024-01-23T13:26:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/top-10-principles-for-developing-an-ethical-generative-ai-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Apple Plans To Launch IPhone With Generative AI"
     excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
     publishedDateTime: 2024-01-24T21:01:00Z

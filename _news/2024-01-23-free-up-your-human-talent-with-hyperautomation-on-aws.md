@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "SMX Signs Multi-Year Strategic Collaboration Agreement with AWS to Accelerate Innovation"
-    excerpt: "As part of this agreement, SMX and AWS are offering proven, repeatble, scalable, and secure digital solutions tailored for federal customers and their solution providers ensuring accelerated outcomes."
-    publishedDateTime: 2024-01-22T14:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/22/9949755.htm"
+  - title: "How To Use Cognitive Automation To Optimize Operational Workflows"
+    excerpt: "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open."
+    publishedDateTime: 2024-01-25T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 883
         isCached: true
 
 secured: "uoIdhfzrgk+/xOykerezK6vgQko0J0rp1EGB4A+lbo+JxCA4nDNc9vwqJ7/cPmXlJnPjS9nLKAH2OavUMiNewC04C9B++6b1uu/UZKV/jtFSqAN880fR3x3OQ+Avm7DRdpBOTjlRDWz/hnDdUu86STo7wrw8J3q+4gFbiAg7aW+RNvX4el+FD2Ygnpv88iWbyaSdh8gj9Da7OysGlnHvL0dmwZz5/gwfMY/+7uOLMOnnoeXurMdXQGYRDyyMoFRaobFapZIUxWgTFvYk9nQjDkjKEXI1IrD6Tww5QwwT+YuS8WgLQObLw/K3Q0BNwawGBInvgc++M26OZFTIKo0laRyWQ3oFXLLkr2pA8AV7JrY=;sYRLcFgO84oC2AnP5YT+QQ=="

@@ -57,20 +57,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Bored With the Metaverse, Zuckerberg Spending Billions on AI Chips"
-    excerpt: "Now that he's all but abandoned the Metaverse, Mark Zuckerberg's pivot to artificial intelligence is in the spotlight."
-    publishedDateTime: 2024-01-20T12:37:00Z
-    webUrl: "https://futurism.com/the-byte/zuckerberg-bored-metaverse-ai-chips"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 54
-    images:
-      - url: "https://wp-assets.futurism.com/2024/01/zuckerberg-bored-metaverse-ai-chips.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Zuckerberg announces plans for human-level AI"
     excerpt: "Meta has already released its own AI model, Llama 2, with Zuckerberg further revealing the company is currently training the next iteration, Llama 3. Meta has not provided a timeframe for its AGI-development plans."
     publishedDateTime: 2024-01-24T13:01:00Z
