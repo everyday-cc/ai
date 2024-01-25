@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-compan
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
 type: article
 quality: 80
-heat: 190
+heat: 180
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
-    publishedDateTime: 2024-01-19T23:25:00Z
-    webUrl: "https://www.reuters.com/technology/musks-ai-company-secures-500-mln-toward-1-bln-funding-goal-bloomberg-news-2024-01-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 44
   - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
     excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
     publishedDateTime: 2024-01-21T00:10:00Z
@@ -145,6 +136,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Axyon AI secures €3.9 million investment"
+    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
+    publishedDateTime: 2024-01-25T00:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "AI Funding: Elon Musk’s xAI Nears $1B Goal; Altman Pushes for Chip Funding"
     excerpt: "Elon Musk's xAI is reportedly progressing toward its ambitious $1 billion funding goal and has secured $500 million in commitments."
     publishedDateTime: 2024-01-20T01:46:00Z
@@ -168,15 +173,6 @@ related:
         width: 763
         height: 600
         isCached: true
-  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
-    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
-    publishedDateTime: 2024-01-20T00:57:00Z
-    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 28
 
 secured: "OepujK8TQb7NurSAslr1fRjXHTaIaf2CaSmUkd/kC7ErBc9af/tFKY6EnChfnrxV2EQ6Toh+D3KMypL90/RcHhFkNBSIT8tiNsjNKNYjIJemhcbTWRYExBZ4rHTrDmH4Nd5SiIxv04d7vnXY7MVECN29x6ypekyLAcOAVOjjUXlrQ3mlAmAY8/U7tx4KzbucZMooiz7XHmms+TH5xVUlfaU9LpMwUQCyHeXtaxSwY4vNkrKqS7Xj2K0vfTP7g5hcMeb8xVU2pzVZje7bOPHB+/QEuZwiCtmsNVL4UC66P3EA48FBCUDnSD8vcqaWHpEObs0VFDxAJ9v10+TpQIPF+fLtKr2//Jlrjd1VHX6lZv2lJkBsImMzlLTyE0GDC+RnHNQan137tJEn73uzFHEZkmEPz8LhhOVIi/9fOxu4y9kK6S+RvRHlRdKFS55p1v3+pohGOzsj3o7rfrTu/cbzrU1Cxl38CYDwU4YNiDGiZSMuL1GTYnRSoKXnxGPxA6+ckitm/3DR0L4LpJc2hb+Tpg==;rB2k7xo93ixg3rHv2WmrNg=="
 ---

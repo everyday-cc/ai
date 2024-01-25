@@ -33,6 +33,20 @@ related:
         width: 591
         height: 294
         isCached: true
+  - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform for Added GPU Capacity"
+    excerpt: "Advanced computing startup Agnostiq, Inc. today announced the integration of NexGen Cloud’sHyperstack GPU compute resources into its Covalent Cloud offering. Covalent Cloud customers will now gain access to Hyperstack’s GPU hardware,"
+    publishedDateTime: 2024-01-24T19:33:00Z
+    webUrl: "https://insidehpc.com/2024/01/agnostiq-partners-with-nexgen-clouds-hyperstack-platform-for-added-gpu-capacity/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Agnostiq-logo-2-1-0124.png"
+        width: 591
+        height: 294
+        isCached: true
   - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity"
     excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users"
     publishedDateTime: 2024-01-24T12:14:00Z

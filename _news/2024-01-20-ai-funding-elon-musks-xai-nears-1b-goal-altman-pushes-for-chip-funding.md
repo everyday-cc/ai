@@ -99,15 +99,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Musk's AI company secures $500 mln Toward $1 bln funding goal- Bloomberg News"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, Bloomberg News reported on Friday."
-    publishedDateTime: 2024-01-19T23:25:00Z
-    webUrl: "https://www.reuters.com/technology/musks-ai-company-secures-500-mln-toward-1-bln-funding-goal-bloomberg-news-2024-01-20/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 44
   - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
     excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
     publishedDateTime: 2024-01-21T00:10:00Z
@@ -150,6 +141,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Axyon AI secures €3.9 million investment"
+    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
+    publishedDateTime: 2024-01-25T00:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
     excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
     publishedDateTime: 2024-01-21T23:21:00Z
@@ -164,15 +169,6 @@ related:
         width: 763
         height: 600
         isCached: true
-  - title: "Elon Musk’s AI startup that hopes to leapfrog OpenAI is halfway to its goal of landing $1 billion in funding"
-    excerpt: "Musk didn’t immediately respond to a request for comment. Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI’s product ..."
-    publishedDateTime: 2024-01-20T00:57:00Z
-    webUrl: "https://fortune.com/2024/01/19/elon-musk-ai-startup-funding-1-billion-investors/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 28
 
 secured: "rfjlPiRFS9uE/2iB9rnKJOpjmmoFXbHBDuRy8VGK5WNvB2uRZsXZcR1Sv9Te7n7Lgw4SloQPokfaUFQMLe4TfCWVdMrfXf3h1byiFNCXFTu1t51WhSV0jLeElN18BGB2FbwsFclg1U5HTvImKO3zBTvKCLzHxnEtD0lavMoRHAZiaIfcyDaefM3PFEAeO5Es6kOZChPcd5V4v4XnLKInwsM6opgrQGArjdABmPWemhh2YAx0sf4YfIEBr6YoPJy2BMr9TOXfHlXxfbjs83rs1nA3fZVXiipwEOCf+5K5DUXFAF/S64lAeO7ntP8vFCocSMg8So44norhRi79FuCdoapjdlSmd4T940u8uRznY7oCDVdTpFyes6c/tBRjvCtkEjNR6Chs4eJmY8A431q5/lYrwTSU3BZUb4YI1fZVTbwtdyllOO5Xd/kTYKVDI9288QY4ykkqTJ8LA3iXToHiepNCfhIChTNij3jyf5Yuu0SKXI2E5zPbnM9yozcR4OjvbtQauRb2TtS1zcZsuykWhg==;kdqs/ZHgj1EdPph9jMhD0A=="
 ---

@@ -199,15 +199,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
-    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 60
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z
@@ -306,15 +297,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman looks to raise billions for network of AI chip factories"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2024/01/20/tech/altman-ai-chip-factories/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 34
   - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
     excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
     publishedDateTime: 2024-01-23T13:29:00Z

@@ -70,6 +70,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
+    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
+    publishedDateTime: 2024-01-24T18:16:00Z
+    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 46
 
 secured: "sbiAW3oxjQcSGaVPqq+UwiT7AyY2E4xJEWk6iNWuQcJfluoILOtqS/ZtyZIbeWzfp4h9QUC6KxQ8/H/Jcy1pgB9HcsTROT0p8r6JCk8ydHOHJKKhbOn1abTF3W8KZB6Ro/p4cTPOi1tcw2qbdJnkA1J5llUeV0krLgA/OW4jJHRaXonsDEkPUJ1WhDBLW2oFw2VeyfJC3kQD5qUKsU/9y/fhu4YnbC772T45+btXRZgRCSaPltfBA1NGNt185yjgTllB+LPl+/XPdNUiKJV+sHq/7cM+N15nNOZacHshupIysdIr3dzLYmxnQstKItrIEHGtfm3YT0M/JUGS/Kt5t2IYoLzUxZjUDVgMtBkwKiw=;7h+tkL6u9eThoCJE3FYMLg=="
 ---

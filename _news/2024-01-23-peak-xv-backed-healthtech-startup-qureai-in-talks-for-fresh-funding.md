@@ -9,8 +9,8 @@ ampWebUrl: "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in
 cdnAmpWebUrl: "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: VCCircle
@@ -24,31 +24,6 @@ images:
     width: 712
     height: 415
     isCached: true
-
-related:
-  - title: "WHO pushes for oversight of AI in healthcare"
-    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
-    publishedDateTime: 2024-01-23T21:57:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Can Artificial Intelligence Help Human Mental Health?"
-    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
-    publishedDateTime: 2024-01-24T18:01:00Z
-    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
-    type: article
-    provider:
-      name: Cal Alumni Association
-      domain: berkeley.edu
-    quality: 21
 
 secured: "h7MtyeguB5ppEL21TwYqWQIeQtQrCaRVNixhkEuUV7JDnuVEkvGs9y3sJ08G2CN7YhYcX1a7P2ueBCQ5x0P7CzPS4VjsWLwNO7/aqSZLwj+TVxEiGOLdVrHf3uet7TLOT5OcrHeQJMMAVtxz3vdw261TyVjeW5ZPWRuNA79SXvk9honXxhaMSciTA/7ZxSEbP7LuIQd5gFZeu0pz6UJVlp8kmCdAn+ahYU5Y0UkQOxBy8bnXnFW3m741nP0k5tGiWnBQT0wkGGOLiNksnzrc4PoUhTiwauw8S8Ft1znhRvxpE9c7BKUkLnxWHk0c3QUHW9yDXS76T8odSB4CFDSM4V3JHWJMP20+2Rg6dlX6un0=;NkxaQQijszBNkdSZwnkWCA=="
 ---

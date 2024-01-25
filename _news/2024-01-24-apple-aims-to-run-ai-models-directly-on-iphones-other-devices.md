@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-
 webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
+    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
+    publishedDateTime: 2024-01-24T18:16:00Z
+    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 46
   - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
     excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
     publishedDateTime: 2024-01-24T15:47:00Z

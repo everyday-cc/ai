@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 75
+published: true
 
 provider:
   name: KRIV
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Face recognition AI will check you’re old enough to buy alcohol"
+    excerpt: "Government hopes that the digital technology will act as a ‘shield to aggression’ for shopworkers trying to stop under-age sales"
+    publishedDateTime: 2024-01-24T23:20:00Z
+    webUrl: "https://www.thetimes.co.uk/article/face-recognition-ai-will-check-youre-old-enough-to-buy-alcohol-w86rlmp3s"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86e88859-0a71-4ffc-b612-4c8b7083d210.jpg?crop=2121%2C1193%2C0%2C110&resize=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
     excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
     publishedDateTime: 2024-01-21T09:13:00Z

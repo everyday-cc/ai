@@ -193,15 +193,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI CEO Sam Altman seeks billions to build a global AI chip factory network"
-    excerpt: "Sam Altman, CEO of OpenAI, is actively seeking to raise billions of dollars to establish a global network of Artificial Intelligence (AI) chip factories. This ambitious venture aims to manufacture semiconductors, essential for AI applications. Bloomberg ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.gizmochina.com/2024/01/20/sam-altman-openai-ceo-seeks-billions-build-global-ai-chip-factory/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 60
   - title: "Sam Altman In Talks With TSMC To Launch AI Chip Plant: Report"
     excerpt: "(MENAFN- IANS) San Francisco, Jan 21 (IANS) OpenAI CEO Sam Altman is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. According to The Financial Times, Altman, who aims to raise billions of ..."
     publishedDateTime: 2024-01-20T23:00:00Z
@@ -314,15 +305,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman looks to raise billions for network of AI chip factories"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman, who has been working to raise billions of dollars from global investors for a chip venture, aims to use the funds to set up a network of factories to manufacture semiconductors, according to several people with ..."
-    publishedDateTime: 2024-01-20T00:01:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2024/01/20/tech/altman-ai-chip-factories/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 34
 
 secured: "Ejce+YwcD61Hhv76RI704DMTVNo3NkQxXjhv+AhnAq/pvKDn77q+0Dkvdste/qmEJ55pRavKTOFSlnFvtQl0ukyo3qdJzS6e+W5O2eDJPLH6B17p3IZKgl83AJZRolvv3FnG3Arn2hO5AWFiEFjxOb5u0j7yzQM4oVHz4dLIpxDNSGqwg6JwkZ6oXbMOBqaOPgY6H7rw8Cgo2gFbP+9PV8pp0sAnTyN77qryJ4fd99i1eoopv65ZMwklndljeV6cuJX/cmeIUFFzeNyLmV2nQtkyQxTmNnf1vPGxbc7bOgV2F/z52RIofXjM19+bqgK8Bn9ou/MTDGVeLhIhc9JlTheiZOeNZ1gV0QunCX5PV+rSj7YKUPwOpjCVZguwfonGnQ8oFSOBiUAyoifxjUMeLsER34p7a4j+tFgALyeZh3c+cgTc93MThvuXzFkmPecU0TV0O02v+GvGb2zMuD/y2bp/1Sr+FeXcfbSlhFBOtoRxpDarO+1pb2aLyJ3AXE/io9GHt5TJDVUoOnwBZ5DiYw==;m++I00BVsaP5ZFlT84cwgg=="
 ---

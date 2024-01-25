@@ -24,21 +24,19 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Peak XV-backed healthtech startup Qure.ai in talks for fresh funding"
-    excerpt: "Qure.ai Technologies Pvt. Ltd, a health-tech startup that uses artificial intelligence for medical imaging diagnostics, has hit the market to raise what could be its biggest institutional round of funding till date, two people aware of the development told ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding"
-    ampWebUrl: "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1"
-    cdnAmpWebUrl: "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1"
+  - title: "AI risks in healthcare: Misdiagnosis, inequality, and ethical concerns"
+    excerpt: "Healthcare providers need to be aware of the risks of using AI – especially in low- and middle-income countries – the World Health Organization (WHO) said."
+    publishedDateTime: 2024-01-24T12:27:00Z
+    webUrl: "https://www.news-medical.net/news/20240123/AI-risks-in-healthcare-Misdiagnosis-inequality-and-ethical-concerns.aspx"
     type: article
     provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 57
+      name: News Medical
+      domain: news-medical.net
+    quality: 71
     images:
-      - url: "https://assets.vccircle.com/uploads/2024/01/Qure-CEO.jpg"
-        width: 712
-        height: 415
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/British_GP_talking_to_senior_couple_in_surgery-Monkey_Business_Images-2000_f6030d6ad6a14fd9b5373dd78745ad65-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "WHO pushes for oversight of AI in healthcare"
     excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."

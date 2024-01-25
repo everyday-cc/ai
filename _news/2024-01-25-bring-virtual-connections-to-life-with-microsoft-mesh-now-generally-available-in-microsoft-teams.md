@@ -167,6 +167,20 @@ related:
         width: 1260
         height: 840
         isCached: true
+  - title: "Microsoft deviates from OpenAI with new team for small AI models"
+    excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
+    publishedDateTime: 2024-01-24T20:32:00Z
+    webUrl: "https://www.techzine.eu/news/applications/115694/microsoft-deviates-from-openai-with-new-team-for-small-ai-models/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/shutterstock_2167303377-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Cushman & Wakefield Leans Into AI With New Microsoft Partnership"
     excerpt: "The firm, which has 52,000 employees across 400 offices, will use three different Microsoft AI tools: Azure OpenAI Service, Microsoft Technology Centers and Copilot for Microsoft 365. “With this next generation of AI, we have a unique opportunity to ..."
     publishedDateTime: 2024-01-24T00:00:00Z

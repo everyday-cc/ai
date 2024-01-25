@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuatio
 webUrl: "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/"
 type: article
 quality: 67
-heat: 67
+heat: 68
 published: false
 
 provider:

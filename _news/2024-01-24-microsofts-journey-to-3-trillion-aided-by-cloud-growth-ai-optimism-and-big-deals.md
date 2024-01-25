@@ -152,6 +152,20 @@ related:
         width: 1260
         height: 840
         isCached: true
+  - title: "Microsoft deviates from OpenAI with new team for small AI models"
+    excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
+    publishedDateTime: 2024-01-24T20:32:00Z
+    webUrl: "https://www.techzine.eu/news/applications/115694/microsoft-deviates-from-openai-with-new-team-for-small-ai-models/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/shutterstock_2167303377-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
     excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
     publishedDateTime: 2024-01-24T17:00:00Z
@@ -208,6 +222,6 @@ related:
       domain: 01net.it
     quality: 29
 
-secured: "KYjScaXPyJEiz7zohfgwvk0sRjy3LjxO0LMqczSg2xd/X5LAbCKf9RsZkBEWXCrGmJUmuCiwRr8+mNqHA/LsdejIJFv24OKNPQnXAPjlUKLlJ/eqBoZRycCA2bu5j/Dd4pR4N7RJNkqFrYAlLmlKlqXWbOeh3i4M9Bk2jwW/HHZGwxhGcizzhivBwUIJJ9ApQjCATEjPZO/YAmQoIKREKN4NiyTu3jxXRMAcVRBU0Il3W3TMJd9drWW7gPyanhmZzqDwfAQXLjI2+iALILOfgo1e+zcRp3lQlXfxK79egZTInrIMfRTseGUR26+E5Yt00a1R2MrjWUcZf6Ecp02lgII3aQs176LLny0jAVMql/M=;aK1VJ+3bHXWyNW3p9hYrKQ=="
+secured: "+EerfN82ezvAvgA+y6Ac+p8UAWyrHKYHyUwp9NLe4zf14+LtTm0mekHZa84JAr7m4ZF8XUl5sH3YYdCZ6JxoMq5nY8Hf8qspb0MRZF3HtFUO6Basxi1EFLPANwzqE+NxkEPbEALQY+K+P2BtDNJdHaLTpSOTRUPSuUUK3L5Ua5iVpOAwvi6y1CtJ85BHxDouDPDPLdCybz7Vye23m6wWyCGH0+2ZZexKgK6y3UnzJRvTXzi+CVzSiWZTe7MfcQ0EPaQDNmLO0Rh4ID+6GZa54I67vjdAaDPGT4zOPiiCCg8s4hv2RBgRMlya0SjE6qasUMQzF45EiYfr/q4+Zoul6RGsbRFIhLgSCfBLlu840xCmmMVJhGebraotO57jy6ynxAiabwCWfKMRogmaWPnt6Dn19S5FC6GCXpvS6IGxiIpSIHFaHsyN/AWSm9OphcB+0JzV9q1a7ypPfDCOqeMRGdlVVq+bYXE5NAD8SrkADD6X/JgCl/2CDx4n06VA0IfYhL7oeqQOyyvkpqpmfwtB+g==;EN4OlYpx9ICDOk/nspzlFw=="
 ---
 

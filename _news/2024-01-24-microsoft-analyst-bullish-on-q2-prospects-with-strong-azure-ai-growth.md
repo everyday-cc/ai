@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
 type: article
 quality: 99
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -153,6 +153,20 @@ related:
         width: 1260
         height: 840
         isCached: true
+  - title: "Microsoft deviates from OpenAI with new team for small AI models"
+    excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
+    publishedDateTime: 2024-01-24T20:32:00Z
+    webUrl: "https://www.techzine.eu/news/applications/115694/microsoft-deviates-from-openai-with-new-team-for-small-ai-models/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/shutterstock_2167303377-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
     excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
     publishedDateTime: 2024-01-24T17:00:00Z
@@ -209,6 +223,6 @@ related:
       domain: 01net.it
     quality: 29
 
-secured: "yPBObcA9QgINYQ8RkiNHaWVvV06gUvntpzuZ4lu5O+QrerlbCqAjMRqJ3nCVpkqDVEVkMxqY2LCJFg5kxXm9d72N8qLMIXTjz1aNWQO2lqGsVxzwSDX+lXoH8sDaAdKDuVHt44vIrSdaTiRIVzY4NL7GfTUv46RX2exDolLDvWTgmTp+ze5EwuUPXlVYZrzb8SfXAeehyN7xDcLVboK5so2kNZbrhtUZTSVI8GuqPArcRhTLJgOzGJIn2NQaYpyyrxCZAU+2k0xhiwKvVFukQCRbojoJAZ3lzmTR//wSg2Cuq0v+eFEaSac8Z6/MO+zYhHBodznofkyfZjcTF0rJqBCtXbWKMr0airKQ6WjAKto=;1qX087ixCqaiIZfYrekaTw=="
+secured: "vNTBOz7bxrwPd2U1OILrpTckQXf8LbiEOVVXbCl6EClR0WEJHM/QJG30fXdm3DRMcTyrvaYy3SjkvpBinW7AioJ2/wcH0LHjJ0MSHNWnUfknVORp5RYRGTzanf3ZW+5KTg4baaA9Vc+5SmoQwCwWmxifVPPryTBewldfcBtrBhY9Upe0U3WvBrNVDn2TGAjFnTR2sJ4bea4ctbzpHxP4cf6I9hEA72dJrsF+FyYVAh0u00A3NIcXDF+Aefpdg9iR3GveBFdy1cX3b2QWClGwZc4ggRebBsP2njQ16UQfAPcS7Lr5QAFPQqcmxrOWtQHsE2b7ivh8lhLPciL8dVOOsU3AQmFKRPE6r54dN3z8tLZToq0VCqOlpqjgD1qMPCI5o/Uyq+9NGbWS2YQuv//v7H2mYfoCbw9yLpyqnt29Ayg0AU90KZQhOvc9NsUhyhvcFM72Iy7JbU06zq6Mqv3jPo665Y0yJfGmp7tA5FEtG58Au+5M2vtvtGEfzhUuNtBRgSs9GWJZthY/tpaS5WjBFg==;VugAOVnyDJCDoYDnagYHgw=="
 ---
 

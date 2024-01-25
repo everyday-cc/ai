@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-sto
 ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -57,6 +58,6 @@ related:
       domain: extremetech.com
     quality: 17
 
-secured: "rWf/dlaPgCrGTEk5ULroHB+bASY5JXg0Xsox8//r/iUl5B8ppwf6k0edbvv7UyWS8litkyZcRe5Nt9yNgM359tJRkMp+MgTU6zMpKh6z/tz+to7s4lOAYNnpaKqGuwZfl++QeHw5u8TSksW63JCWJgfUIEP3yVfaD2EIvF82lORCOsL/1fUfYBT8YWweSKF5j2TrOiYGTRTEuMQxuHOZuvN32SzMFiJBydOkZa/ulPClHKe1r705iUUN6X7WYxVaO1JR5cM1SIXhnd60OepZirnKqLelLUjtzJdvlBmqhKeDPYbqPSSXctu93EFI7Thc6osSK6EbWoX/85nUJlDqgOSSN6cXfY0upiht7CBfLfM=;vwmSqXXwBQ2R8jlyM4D/+w=="
+secured: "ZRX9GoKUFFVm7Q2UE8JobF/oq5+ip63wISypRPI6yDzh8WssPx0xYwvQxmDqzXAqEqFPIC2kA2MFjc4nk9S5jbIgT+bt2D7HObiRYaH1tVAD9Czej8JY5wyv2etprGknhxTsHyq0jMYHKtQ2W3tI01stbXAl/AXDDmaIxNJ89Jqt7RGKIM3HpejV4t8LQOHH4IEXscATEOxJU+88tHiJhWYGdT+ttk62NHe4gkiocsHy40hqgE8RjgZDjAXPAmUavDWBRzL8TZ9yVUlbbr2cWaG9MGnmMNFDmoIF1DHlTtYovufbw4R7NULk81cXasNacAkFh8+QNzCUKbY5Fs5P8g1NHsOv4svlhPy3eZZ4wfJOimCJdpLuAUjhWChsIup1PE2pZHwRvbTYP6ekGcZhznzrnnoLiDdmSdysUq5KyMgN2FPJapdGDdSI2DzTkvNR38+LavBfudfJIh3CwXkoJs4DAMl23ijKzb/A4ecilJXD95LiMlX/nhynIpOpXGKAfztbSXRdiUzIdy479FzWxg==;C8k+/mtbU7TfL4+AOH5QbA=="
 ---
 

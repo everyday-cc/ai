@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1600
     height: 831
     isCached: true
-
-related:
-  - title: "Five of the Top Artificial Intelligence Stocks to Buy Today"
-    excerpt: "One of the most intriguing artificial intelligence (AI) opportunities right now is in the healthcare space, most notably in waiting rooms. For far too long, backed-up waiting rooms – and long wait times – at healthcare clinics have frustrated patients ..."
-    publishedDateTime: 2024-01-19T23:42:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23461330/five-of-the-top-artificial-intelligence-stocks-to-buy-today/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
 
 secured: "b1gNJ9ZMEkuy8G7t3hfhIoY097pDLf3lAGQxtYaPSnQVfei/bYxDuwbmTtQ9o4K/kk/gO+FBr6d15Z5eMImPzn42jE9sYijWnC1OU5Np+mx7EEFGjgPRqLuUg7M/rwT/Q0WzG6i4YljvWo4gvMEmLnlHSRin4eW7RmwXWz8YLbrBDhQVtwoT8NQnjWJoWk0tI2XUzn8U35S+Vz8tz7XJrwsUjqUeoSPTxJJQDdw0X4XZWkqNlQ33HXrTuT7Zjv++rljyWWz3wi+0UgE0ZLz1FmXMBB/UQTAsUb/39kPR+vKfDzKYwnCosx44Ob/9ZcASg/AWH52DRfE+oHwbhct9Xz7GMh++hpewYc3dacJhPJaiSKkz9qltehqwU7eKZM9UauCxWQwlWCQVCxxZHkmru+NnIe1P5ue9BtkdclZ1OKxVhYP7Z0GP0akYCsJaphQqUVVVc1+3mUSK6DmT/wkaoCV7TmAquoFOmo7mtusmP4aq/qguVDKtznRAu6a2eHpS0yJarshG7p2aSNVo6Ejhtw==;68PsLoQHOOUsIrQxFtksoQ=="
 ---
