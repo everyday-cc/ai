@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Generative AI Is All About the Money"
+    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
+    publishedDateTime: 2024-01-25T15:26:00Z
+    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "Generative Artificial Intelligence Latest Developments And Impact On Industries"
     excerpt: "In the ever-evolving landscape of technology, one term that has gained significant attention is generative artificial intelligence. But what is generative AI, and how is it shaping the future of industries worldwide?"
     publishedDateTime: 2024-01-23T14:33:00Z

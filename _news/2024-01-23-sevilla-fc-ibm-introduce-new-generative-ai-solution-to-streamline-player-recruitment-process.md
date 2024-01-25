@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sevilla FC banks on IBM AI"
+    excerpt: "Sevilla FC partners with IBM to deploy generative AI as a 'critical 12th man' in their player recruitment process."
+    publishedDateTime: 2024-01-25T15:21:00Z
+    webUrl: "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/"
+    ampWebUrl: "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 59
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2024/01/Fernando-Suarez-IBM-Software-director-SPGI-Jose-Maria-del-Nido-Carrasco-presidente-del-Sevilla-FC-Arturo-Guerrero-Senior-Manager-Client-Engineering-IBM-SPGI-Elias-Zamora-Chief-Data-Officer--scaled.jpg"
+        width: 2560
+        height: 1622
+        isCached: true
   - title: "Sevilla and IBM create generative AI tool for player scouting"
     excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
     publishedDateTime: 2024-01-24T14:22:00Z

@@ -2,6 +2,360 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-delaware-lawmakers-seek-rules-for-artificial-intelligence.md",
+      "title": "Delaware lawmakers seek rules for artificial intelligence",
+      "excerpt": "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "originalUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/0/41/04126c30-ba11-11ee-8d3e-371c2e512477/65aff0f824b16.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "publishedDateTime": "2024-01-23T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Center Square",
+        "domain": "thecentersquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
+      "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
+      "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "publishedDateTime": "2024-01-23T15:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-ai-hardware-and-fintech-collide-at-ces-2024-in-vegas.md",
+      "title": "AI, Hardware And Fintech Collide At CES 2024 In Vegas",
+      "excerpt": "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
+      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1362,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
+      "publishedDateTime": "2024-01-23T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
+      "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
+      "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742",
+          "width": 5246,
+          "height": 3497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "publishedDateTime": "2024-01-23T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-chrome-is-getting-3-new-generative-ai-features.md",
+      "title": "Chrome is getting 3 new generative AI features",
+      "excerpt": "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "publishedDateTime": "2024-01-23T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-why-every-modern-leader-is-now-a-chief-ai-officer.md",
+      "title": "Why Every Modern Leader Is Now A Chief AI Officer",
+      "excerpt": "Responsibility for AI cannot be relegated to one person or department. Modern leaders must embrace AI as a core competency. All leaders should be 'Chief AI Officers'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65afd06fad5ec9e8dbbbc41c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "publishedDateTime": "2024-01-23T14:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
       "title": "This Chinese Startup Is Winning the Open Source AI Race",
       "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
@@ -10,7 +364,7 @@
       "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -414,7 +768,7 @@
       "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -508,7 +862,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -866,361 +1220,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting.md",
-      "title": "AI-Powered Robocall Deepfakes Biden's Voice to Discourage Primary Voting",
-      "excerpt": "The robocall is targeting residents in New Hampshire, which will hold a presidential primary on Tuesday. 'Your vote makes a difference in November, not this Tuesday,' it falsely states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "originalUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06sHJQ6QhfcIt6SC8UIb7vv-1.fit_lim.size_1200x630.v1705948204.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T18:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
-      "title": "Corydon: Five arrests after Met Police uses live facial recognition",
-      "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-68062080",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-68062080.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp",
-      "publishedDateTime": "2024-01-22T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
-      "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/10/ML-11666-image001-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:54:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
-      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
-      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-these-robot-dogs-paint-like-picasso-and-fetch-up-to-40k-for-their-art.md",
-      "title": "These robot dogs paint like Picasso — and fetch up to $40K for their art",
-      "excerpt": "The robots can be seen painting, navigating their environment and self-charging in the show, which runs until April 7. The exhibition’s theme is generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "originalUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-85xyqhh4w-1705939812973.jpg?quality=75&strip=all&1705921857&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "publishedDateTime": "2024-01-22T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024.md",
-      "title": "It’s 2021 for AI while the rest of the startup market is stuck in 2024",
-      "excerpt": "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
-      "originalUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
-      "publishedDateTime": "2024-01-22T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices.md",
-      "title": "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices",
-      "excerpt": "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "This Week in AI: OpenAI finds a partner in higher ed"
-    excerpt: "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ..."
-    publishedDateTime: 2024-01-20T14:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/"
-    ampWebUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+  - title: "Is OpenAI’s ‘moonshot’ to integrate democracy into AI tech more than PR? | The AI Beat"
+    excerpt: "After all, isn’t American democracy itself currently being tested like never before? Aren’t AI systems at the core of deep-seated fears about deepfakes and disinformation thre"
+    publishedDateTime: 2024-01-22T16:53:00Z
+    webUrl: "https://venturebeat.com/ai/is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"
-    excerpt: "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more"
-    publishedDateTime: 2024-01-24T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-21-11.20.07-Abstract-illustration-representing-the-concept-of-making-AI-more-democratic-featuring-diverse-human-figures-and-symbolic-elements-like-digital-networ.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
 
 secured: "+zP8hKjF0AHw6qipLpeqZPDu2ipia6N5ReIvnyEycp/b9HOR39LO6s/vglDdy6Yj/OnN8ccFebaY2NsfNdduvsIBfZ5P9COnOsho5x5qEzIYB5o+OOVifWjVelGs1FbMF8c+o4Dr8Yjbt7cOcgcnoA3efg742FNtcKbe5QlevQ8yGkLjrG5/CtaAp+EZllSYm+GDN0F/fjEw9gxFyaaMlj4rNlCLny+FyCOpK4pUDk7XFL80EoSgm7sFvxKO6gIqfFZJ+YAomjDW1s0ySwyWtPbfimG2UZMzDx/JcXZ/xSyd6wbC4qLKVCha0mUlhwRQcRakF6T9fz0hs9UMfaQRWrqXlPGqAzx/CZ1U+c65n44=;3JCZCADMUS4jf3DrRVVApQ=="

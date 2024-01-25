@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-fi
 webUrl: "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
+    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
+    publishedDateTime: 2024-01-24T05:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI automation software startup Bluesheets raises US$6.5 million in Series A funding"
     excerpt: "Find out more about subscription packages here. BLUESHEETS, an artificial intelligence (AI) automation software company, has raised US$6.5 million in Series A funding, it announced on Tuesday (Jan 23). Venture capital firm Illuminate Financial led the ..."
     publishedDateTime: 2024-01-23T14:25:00Z

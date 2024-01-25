@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Indiatimes
@@ -26,69 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
-    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
-    publishedDateTime: 2024-01-20T13:46:00Z
-    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
+    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
+    publishedDateTime: 2024-01-22T12:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 80
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
-        width: 7008
-        height: 4672
-        isCached: true
-  - title: "OpenAI plans to set up chip factories worth $100 billion: Report"
-    excerpt: "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips."
-    publishedDateTime: 2024-01-22T12:40:00Z
-    webUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Google settles $1.7 billion lawsuit over AI chips patent infringement"
-    excerpt: "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ..."
-    publishedDateTime: 2024-01-25T09:47:00Z
-    webUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
-    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
-    publishedDateTime: 2024-01-24T05:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
         isCached: true
   - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
     excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
@@ -145,20 +95,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
-    excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
-    publishedDateTime: 2024-01-21T23:21:00Z
-    webUrl: "https://siliconangle.com/2024/01/21/elon-musk-denies-report-indicating-ai-startup-xai-raised-500m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/muskhappy.jpg"
-        width: 763
-        height: 600
         isCached: true
 
 secured: "T7QEynPWw5aMRxCsbqZB4K/XJtf/9JLFtPKrIOyYweEYFiWcROx9OjtMkvyYtKokJKRauKEDO93p2fiE4tIAi315GjIU43/rtJqCkvqlWf1CQ/474TFxALZWybmW/E0FJPdWTJhDtiY429e2iNqm9tM0FufalC0vp7gkkUAElpJVmZRezJs7WK81I30Zup57vDg8vgxPQDOw9NTghy4ynLvXV/jhOYNQ5dxKwlX/+FhGjFPQkCKxLtQvCq1od5aqkmiXDiOOIGHHj64WUqeebuv9f4H0lugot8cc9cze3bDPb+lN9GO8jaLaF7+loGoyN7+/Lx1OhLqx4EbT7DsulzRSSjAU05DGMcpTThrP7C0=;o5ge3NsFJfirHyMz5u0zkQ=="

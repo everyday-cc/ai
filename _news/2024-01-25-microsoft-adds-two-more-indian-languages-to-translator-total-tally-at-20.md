@@ -38,6 +38,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft Translator adds two new languages, Chhattisgarhi and Manipuri"
+    excerpt: "Further, the company now claims to cover more than 95 per cent of the Indian population in terms of its language support options in Microsoft Translator"
+    publishedDateTime: 2024-01-25T12:53:00Z
+    webUrl: "https://www.business-standard.com/companies/news/microsoft-translator-adds-two-new-languages-chhattisgarhi-and-manipuri-124012500803_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 21
 
 secured: "8MUIMcmwEoNYvCFliUc5SsahrBFZ7fZyaTVmLG/FPHtgYk6yYhyRQSH4uWMiXJCOrblMwqNpo0zdFhnw5CHyv/zLWrCpnpyihG+GHOy445kt8iNdr7anKilLN89nb7xzOTnLQBNFHM4PWarXLpWwLO6CYVEeI/ijhUDEDVxzSQBLONV7judAaATBYsEzVdHszjCrcHGl5Oy3DAlIz4UGVS94HBYQpmSP76jqmcQUsssNyivLfZwI/vasKJj3wA3IOrrVGixcJdQMCP02WT6ePTJruSYTCCP5d3zDBf8f3fzxkMjHB4PR+jjIJxtteELgdwOpnCGP0nLPK940ey200Q4yTh+VrvMSOFkczAf6CVhWUHB2LcPjwnuBUSM9xDFuC2JMpBeGSJpJCtSs6AYJvB7Zi/ZIFGJoRdP6qqfVwVjmxqEDVvwIY87LcxckXY+bc4QwU/YVEQo+XtN5ZU8ARA2VwyfwTQfPnK3WVZgFNjsoVUDfBTTAsfw+M7mmpLcEiM1HLVtyP0sRWNiC/79tXQ==;NrrlcVXKFWxGPmh79ow/fQ=="
 ---

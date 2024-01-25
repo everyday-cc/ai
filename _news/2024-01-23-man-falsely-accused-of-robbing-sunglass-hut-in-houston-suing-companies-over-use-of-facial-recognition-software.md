@@ -111,6 +111,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
+    excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
+    publishedDateTime: 2024-01-25T16:32:00Z
+    webUrl: "https://www.aol.com/news/man-says-ai-facial-recognition-163202740.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/JefRMUbC3InWx3hUHtNoaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU-/https://media.zenfs.com/en/aol_nbc_universal_184/13f8a04416b6b38713c34ccacebc464b"
+        width: 1200
+        height: 765
+        isCached: true
 
 secured: "E36EREEkxQ5k/zBFJ9OczSohSl3k29YeAWEQ4OSlVZlTr+P3jg9jbEprnQSoEUWAqFADmT1o2R96fxbv3rM5x2n9rqG3CqyOfsxWOla5kvjP4bUSzsgclHE2iecbY6/MqyiU41EHXeYXk9LYdtvyMzrO4LzWFOZjsRYA8jmO+maMEmRTqdjlJhwjlzbF3UWqM3PkQRtpCo0ZXgA00SGdLvAfJWZaT/hs/3HVy+uRPrmO3l7thZN/w5Nhuauau0ochb7e5wSMkeRhHve96e2Fou7gJJLjaBRdGk9kezr1XoSCxKwGNvjE3NZE4ExrT9Nsu/pjMfG4AaRTsxdQvOLqjJD0zB0EKv/uXsJgsGT1mv2R5eY52c1L5pHmQM7bIQrWv7rbmv7hlwuQ6l9IvZMkFQx2gsqcCjEado3pR+ElOlSTmdA09n60CMitpbVkyvva90X3rvjWXpv0mQ/4ETv5pNID4CdV0NMVR5RkybCvzp+41tGbQSeQdk+M0XL+UC8MteLfksBQjsnLrWm0epwu7A==;S6fyIg5NgpU2GsguNOBV4g=="
 ---

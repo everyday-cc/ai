@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/despite-all-the-ai-hype-suc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and the arts"
+    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
+    publishedDateTime: 2024-01-25T10:59:00Z
+    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
+    type: article
+    provider:
+      name: TheCourierExpress.com
+      domain: thecourierexpress.com
+    quality: 19
 
 secured: "1Yf4r+0JnNZga0pis1KtcZHkps+3VRurkUTd0pPHNrUmthUsgKufSsNEJTVcld2QJesc5qGrDpZSt/7E46VNzMOl+JU41g4B5vXlKwqF5pn4D8N9qKOfGdV4+ZVcelYAwRRBuUhUG6rIQ0cFoh5B47+XsxQU5jRNjEARKNZ+naAfnsFIDVOzns74FVpCCucVAAAhO1B/OGcckzwp3ywh+1ScI2psL/M5PAlHy14J25+ZYhKWdvTaKD8OwULDxZuYBVaeh0bCGmiXAMFLTZGQtINMY4IwsqM8ozztaFkHqyTFYs7IcPt7EOE6VHv6awm8DJ/AcxCZwkU/55wUkPx8JIsYCcLuDCPzb13ScUhTMDs=;x8+7RiMTAyNtQmqHzCNlvA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
 type: article
 quality: 111
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Generative AI Is All About the Money"
+    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
+    publishedDateTime: 2024-01-25T15:26:00Z
+    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "Generative Artificial Intelligence Latest Developments And Impact On Industries"
     excerpt: "In the ever-evolving landscape of technology, one term that has gained significant attention is generative artificial intelligence. But what is generative AI, and how is it shaping the future of industries worldwide?"
     publishedDateTime: 2024-01-23T14:33:00Z
@@ -84,6 +98,6 @@ related:
         height: 628
         isCached: true
 
-secured: "UKFudtcGYwBk/3PtRA4ZTNusYndwnK3eHUmVCg64h/zsfrss+tGtb5hUA+9pUy5H7FKjigu3Tk4BPoK5XjXHt8tciAS1yFLa+7UmVca5LkMVQsp8Upa19mHmLh+9/cFGGeRB+jms7GFyXWVMOUl6+TpYczh+pWGuvLJITT+g0CUQACajfX/apMT0j+5mCsGxuEZAGJM35+wSSGhhzy1J/QzlxyFqReL1gp8MAqZcq12bAmR12Zuabi+67pEOsbX8/BngWJzSTruSf1JPb+LSNaq1UiAywa2q6oebmlRkoN9bsga26S8JpAAk+p2OtM+qNRDfxaA+kYNhcbW5PKWCW4QRLNc+CHQQq7pE7u8Krao=;ARpmePpxAg0o4nhXj05n5w=="
+secured: "JE1excrKdhXem9yy0ljoC5mHLC0rWCghL3Cwn1xjgdpYJJ39FNCqvgIE06Ih7sxOUyCudPNbrqfimTn0ocfFLWEknNbvU1y4ApELVhvQaKBb1R8W0+2Nw5oVTvOUW2P80iA8tEEuCnyWhNBHDaf5+DobweD7bBm2sxbnuPhykujd+RRVGCGNZUnm5stF9NdamPLvG63AWRTdnaOdswt76PcOEl82dTraYgH6sxwAZemd4WN/HbKfsSRLac+vYriaVkPG76cHhJ15jn39OI8eAcVNQ8DJYh+HzUL0t/5jAtu9C/VwxVeAtSACK8uyGlSTpNXRr4Zmim0NE32tFlDgM2PC1fw+Qh2pKn3QjgkudOPi+JmvLMRsNXhcY5DGxiv4DQU6saRU1fdf0Uy9uCs+XQhbiW8RA8jWQcRXtu63Jd1mBllSbX/Pp80Lk7vDV9O2PmjfxJd8fmnwzRo+iRPm6XtNO/+mRdZiizx3B2txrPsU/4SdpFzpuZ08EBNCkjLLp5NrGdNDXm7B2wEt9t9AnQ==;1mouBP1pOgS5aImcM6LPYg=="
 ---
 

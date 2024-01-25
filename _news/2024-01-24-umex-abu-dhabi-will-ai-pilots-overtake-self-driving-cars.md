@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/aviation/umex-abu-dhabi-will-ai-pi
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/aviation/umex-abu-dhabi-will-ai-pilots-overtake-self-driving-cars-wtosif5e?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "What Are Self-Driving Cars? The Technology Explained"
-    excerpt: "Only that top level represents a driverless, or fully autonomous vehicle ... Indeed, the world will likely be affected in five key ways, according to artificial intelligence company Allerin: fewer traffic accidents, reduced car ownership, automated ..."
-    publishedDateTime: 2024-01-23T16:15:00Z
-    webUrl: "https://www.forbes.com/sites/technology/article/self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "GFKh1l1yEk8jgRQet9iOkMiuwDOD0E/SNFQBbcDkomoYCy4dMuMFJ/K231bxQjtYV8drvBzPqf+7F8t/derUK9idk4v2LdvxwLdq6WJkOJPN+0KWZkNuhXSBORKb8AL0ILHrpGwxWuTaj09Tw7AxCOMbgHZJRmHUrgUtcmchzfhMjFGCHepgktYdTjBctUT0+DAIVje4B4Njr5hdLGk4EtbcdHwVJRPva+tCwkvuIpZqO50frLXGJ7ei2b0DUeFRzsI2PpU0pHMcwY3tmM/MTS2EtfBbj52qGz4K1FaT9Na0vVC0U8uAxPSZ4ZcFl6YUBxoMvjJGptKywpcgs8zaEVVyoZ79TsUzxXIm+5d2VUE=;GPbiI5B4zqAIC1tqTQLxCw=="
 ---

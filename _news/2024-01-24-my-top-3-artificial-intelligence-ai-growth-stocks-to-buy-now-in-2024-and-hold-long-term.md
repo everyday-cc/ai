@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
-    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
-    publishedDateTime: 2024-01-22T12:52:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
+  - title: "Investing in Artificial Intelligence (AI) Stocks Can Be Risky, but Here's a Spectacular Way to Do It"
+    excerpt: "Artificial intelligence (AI) was the dominant stock market theme in ... Similarly, Alphabet isn't just an internet and cloud computing company -- it's also home to Waymo, an early mover in self-driving technology. Apple might seem out of place in the ..."
+    publishedDateTime: 2024-01-23T18:32:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 52
+    quality: 39
     images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/a69fe218102c1d2c24b67985259c5a54/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f762051%252fa-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg%26amp%3Bw%3D700"
+        width: 4000
+        height: 2666
         isCached: true
   - title: "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy in 2024 and Hold Forever"
     excerpt: "The coming of generative AI takes that to the next level. Generative AI can create original text and music, summarize data, draft email responses, create presentations from existing data, and even write and debug computer code. Novel uses for the technology are being developed every day."

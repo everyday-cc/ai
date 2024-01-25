@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Generative AI Is All About the Money"
+    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
+    publishedDateTime: 2024-01-25T15:26:00Z
+    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "CGI Federal’s Steve Sousa: AI Integration Could Enable Federal Health Agencies to Enhance Patient Care, Drive Innovation"
     excerpt: "Steve Sousa, senior vice president of health and social services at CGI’s (NYSE: GIB) federal arm, said integrating artificial intelligence technologies provides federal health care agencies with opportunities to improve patient outcomes by harnessing ..."
     publishedDateTime: 2024-01-25T00:00:00Z

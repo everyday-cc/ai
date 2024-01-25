@@ -1,27 +1,27 @@
 ---
 category: news
-title: "IeDigital acquires AI fintech software house Abaka"
-excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform which uses machine learning and behavioural segmentation software to predict which products – such as banking products,"
-publishedDateTime: 2024-01-25T10:18:00Z
-originalUrl: "https://www.finextra.com/pressarticle/99431/iedigital-acquires-ai-fintech-software-house-abaka"
-webUrl: "https://www.finextra.com/pressarticle/99431/iedigital-acquires-ai-fintech-software-house-abaka"
+title: "IeDigital Acquires AI Fintech Software House Abaka"
+excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform that uses machine learning and behavioral segmentation software to predict which products – such as banking products,"
+publishedDateTime: 2024-01-25T15:15:00Z
+originalUrl: "https://financialit.net/news/artificial-intelligence/iedigital-acquires-ai-fintech-software-house-abaka"
+webUrl: "https://financialit.net/news/artificial-intelligence/iedigital-acquires-ai-fintech-software-house-abaka"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo.png"
-    width: 512
-    height: 512
+  - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_7_14.png"
+    width: 900
+    height: 480
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 450
         isCached: true
 
-secured: "K6JKlOxJFsY4A2OgPRlljWdxDXKiOdg7MN6R/O0obCSxf7liY/qFnYxT0PW+AoV0W6XY0i0qaE2fSHR558kzGUkWqeOALwQWAclHZfQOj+p9bKkW5VIU9XyU4NI82J1bJr+rkl82AZ7GTWt9Igh0eNx4ZvC1QKTghNOhUlogG8kAYCwfw7FeAoQ+6m3k4m3xxNM/eYhNriotTzPEMWX/7MNZ9WhcSWfeytR2zHegVMy+HzjONmnmlVyYB/0yoEJZrETb4qxT/EgcqSp+IjsLPmL+C69GrS1Mmf0KygjDfyHBzE7TNOJuKV1/nAGwBVb9zFCnqyOfaiMsZ/D+ecUCQe1Ef6/7VSaAY0BzGD4qZ3Q=;q34s9OaDnHcqnD4+fdyYgQ=="
+secured: "rFMv1TAB+joGvVMs6V6w6t6t9N1RuTTVnKf54lcsL+cUGF1Int1TuE8tEFmLs/td92HQbM+qSnGtk/pyMs/9ROr9eYZk/IrhLIYQTKRzQwNMFbbnC/LRvtw3sBHca5rLaJ9bjbARs7dBpiNCeo/qgnn7/e2re5dDIEH3jGtdT3mfAA4h1asKU0h1ekXdchSANbC6bXjEpeyWnv0J8JIN04UaLC9ZZc2u+lOsfD9RkQcmFDPJBkhKckbk/2Ooi5A+PCj0clzB8lJjtUSfZy4JnLsON85/G11WbRzKpLZmabK7txiThpmhwjl4D98iCXZepD7+7EQe/WnQmSKKmY5I04viD7T8/Kn7JlGrEBubu3A=;Qgtaxkcs/H/WxYyllC6FEQ=="
 ---
 

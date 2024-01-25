@@ -43,20 +43,6 @@ related:
         width: 1318
         height: 900
         isCached: true
-  - title: "OpenAI CEO Sam Altman is talking to TSMC about fabricating AI chips."
-    excerpt: "That’s according to a Financial Times story this morning, building on yesterday’s Bloomberg report on Altman’s search for investors to realize an AI chip venture. TSMC, or Taiwan Semiconductor Manufacturing Co,"
-    publishedDateTime: 2024-01-20T14:58:00Z
-    webUrl: "https://www.theverge.com/2024/1/20/24044957/openai-ceo-sam-altman-is-talking-to-tsmc-about-fabricating-ai-chips"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sam Altman in talks with TSMC to launch AI chip plant: Report"
     excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
     publishedDateTime: 2024-01-22T04:32:00Z

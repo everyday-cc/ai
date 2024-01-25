@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-24T14:03:00Z
 originalUrl: "https://theconversation.com/ai-in-hr-are-you-cool-with-being-recruited-by-a-robot-our-studies-reveal-job-candidates-true-feelings-219354"
 webUrl: "https://theconversation.com/ai-in-hr-are-you-cool-with-being-recruited-by-a-robot-our-studies-reveal-job-candidates-true-feelings-219354"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - AI in Robotics
 
-secured: "8SWtDT1ROfGxToK3ptB4rRevPQn9SosEjYrWK4ROmNobowsyb8DL5o83f8tpG1O0uHai53mWb+tWOy6Gc6swZOlgs3Sg2YvON4c3rBsRZz0h62coGWNz6kOhF0v1awdhwtVW5/VSOab4GjDWgivCw1DYv70+WV/warcCl5jWEcZhGL+0NI3O39NGtvhNuZpPtjlImd5wJIKMMiBcKK6YCW/OfaEtOAzjwlFAMuBh51RFn7pEr1/55s2hUj4uigWwrbcSzatC1mxSUb+MmSgzRDR7h2VH53ADH+Ma+fGZLgAjdMj4T4bkzbUE8Ya1ogfxuq/LiN7cP198F5y2vy4XpcltEkxlAuUuY8tQvbSGf+Y=;vVn5eYFXstf838ck2AI6Fw=="
+images:
+  - url: "https://images.theconversation.com/files/571139/original/file-20240124-17-rh0f0d.jpg?ixlib=rb-1.1.0&rect=95%2C85%2C6243%2C3116&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "JM34wq1ukd0yqFyKaG0GXA6BrQUEo9Ud9qe8/3N49rAaaYE06Y8ue8tSsU6LTmoL2wQLF7KDpdaE2eDybEExkRVItFjbbERy38Vz8Yl6YJohZPKm5syFfzCte9o0b3gE5N+arAKhnMqb2qqOdWO/SC4d+0Z+kbZV/WJ+P80VQ2cMQD43bIuNEC6qV2eVGrZNBtdzHrB66PN5XVo8uMXdnsakrC/Shm0IiKaFQ3YPBsFc1lMm3ONfvU5vawhgyGxde+wZQ2jv1u1WTc/YI1r9BdhIDM3yWRPWiH1svvI6h9rLQsqMphzzpbz3v4eBZejg/S+ukQ4zboLp47AlfOdz7RmCMtoAMSguF0kVuF9o+BE=;iSVjqiNarMSsSuARgPIStQ=="
 ---
 

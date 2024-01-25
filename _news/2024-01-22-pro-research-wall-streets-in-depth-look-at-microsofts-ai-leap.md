@@ -115,6 +115,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
+    excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
+    publishedDateTime: 2024-01-25T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/01/25/microsoft-uses-ai-and-hpc-to-analyze-32-million-new-materials/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
     excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
     publishedDateTime: 2024-01-22T23:05:00Z

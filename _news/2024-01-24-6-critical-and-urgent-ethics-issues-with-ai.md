@@ -5,10 +5,12 @@ excerpt: "There is no doubt in most people’s minds that AI is one of the most 
 publishedDateTime: 2024-01-24T15:43:00Z
 originalUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/"
 webUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/"
+ampWebUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 800
+    isCached: true
 
 related:
   - title: "Building AI agents with Semantic Kernel"
@@ -39,21 +47,7 @@ related:
         width: 1200
         height: 850
         isCached: true
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
 
-secured: "8Ieua0gKpyNSFijAnHNE2Wi9QIR6PS2CHWy1DxkuYZeg5DZKt3sB8uE6A0OhvwicHVMBFReO5kL812dyg3XJ0NwCjHtJss1qU3IuN1PNtiZPk993BqsRfGIXCj+16OrlpUTnTRNgWMTzInk0+53XcN1Di/gvRWeth+kgaOW1PbGiVRZhdOHOtJxwvlwsDQ2RQ0qjNgW4Fn+L6b/Muuf2DIOy9cxzBvByaN2Wtwwfb+9AIHiEgQFXg5tkgIrsEHGqRG848zAuQTgbYOyAZn+RndO7Z2DRBxvtInmAcpPpicgbNnFikymwrvxTY9c76ceCk+GVPreu9WT3m5HHIXROTuzoYWqYFsAjFKhjDIYzsYo=;IoBj2XRt44Vla7NGVPLU4Q=="
+secured: "ot+dKAzijbjPy8v08eTKtlevaJSqqjiZmwjsSbA01m0RVfbP2BhA7SpFkmIu/3PVN8u5Q5bQJY0aWRla2qHC3aF8FqmhSYdlFyH6/9zu0IQWpAx0EcsHp2fEr3xoVM+/MD1G5VhJJC6Mu3ClNNnE3ghDAyyEgPJZotubXCAbcKD4SNRFG1lJ92K7TTmYgwyBu8smjBlko5ToYZYCOWUbghzpp/k9k+l1s6fRSJNo3l7kyntAwtvBCXkCURPGNANQHxWOmw7t8jdLUXqCagce1vwyWa8SA5t1aksRK6+fCE9YGAZ0dZtYuWSE1hAsyvll78Pkq52k2ZZr+AjDpDaxvxbc5mYtSwuNg5DKISfqdzg=;qVIkKFbdfjflhq5MCTV1Kw=="
 ---
 

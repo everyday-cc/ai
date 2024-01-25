@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-
 webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -28,36 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "This Week in AI: OpenAI finds a partner in higher ed"
-    excerpt: "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ..."
-    publishedDateTime: 2024-01-20T14:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/"
-    ampWebUrl: "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/"
+  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
+    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
+    publishedDateTime: 2024-01-23T10:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "How to fine tune OpenAI’s Whisper speech AI for transcriptions"
-    excerpt: "OpenAI Whisper is an automatic speech recognition (ASR) system. It’s designed to convert spoken language into text. Whisper was trained on a diverse range of internet audio, which includes various accents, environments, and languages. This training ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/fine-tuning-whisper-speech-ai/"
+  - title: "AI Stocks Alert: Palantir, Nvidia, and More Team Up for AI Research Program"
+    excerpt: "Earlier Wednesday morning, the National Science Foundation (NSF) announced that it will team up with some of the top-flight names in technology to launch the National Artificial Intelligence Research Resource (NAIRR) pilot program. Naturally, this ..."
+    publishedDateTime: 2024-01-24T13:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-alert-palantir-nvidia-and-more-team-up-for-ai-research-program-1032993879"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Biden administration, tech giants partner for AI research program"
+    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
+    publishedDateTime: 2024-01-24T16:38:00Z
+    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
+    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/fine-tune-OpenAI-Whisper-speech-AI.jpg"
-        width: 1280
-        height: 717
-        isCached: true
+  - title: "NSF launches AI research hub"
+    excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
+    publishedDateTime: 2024-01-24T16:01:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/01/24/nsf-launches-ai-research-hub"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "/6bu7UsOYMEYfHnUrqKPX4KQ12fGG/z8y3wc9HmBoss+Ha+3HFiGf4JgHDku7lSY2vDSQb8y8EqfDnARwYiRcJJ1shW177skUsaR825lkHQ/tvsqGrcUeeIpam3ZA957dieQ6u/9eKPGlaTI3+UORmw8+DG8rMWnK3SoBZ9wk7U8nvcDAxXvpQP5yVzPVfg4Zun8Z50noIKG5KZBvU3dcFyV60cCVWjRv07mBaVE1dfGUosKWORz9T6xq7vuBLBphI8w7J558U+LN1fE0Cw1Lml8OGKNRm86C7wrxVMsMyuWzzyi5fe3iJ+3MZ5vCnVRBYjJD+MxlNibWzyCY59fdZNPqRsFPPKEfHLAr5dTFdI=;GfV92YAq6DL4iblAswy+Gw=="
 ---

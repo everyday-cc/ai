@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-con
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 140
+published: true
 
 provider:
   name: moneycontrol.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup"
-    excerpt: "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore)."
-    publishedDateTime: 2024-01-20T14:46:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 72
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
     excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
     publishedDateTime: 2024-01-24T12:49:00Z

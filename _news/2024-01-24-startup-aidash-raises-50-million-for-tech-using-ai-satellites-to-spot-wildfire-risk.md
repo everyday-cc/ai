@@ -26,140 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Musk denies report his AI company secures $500 million toward $1 billion funding goal"
-    excerpt: "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X."
-    publishedDateTime: 2024-01-20T13:46:00Z
-    webUrl: "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html"
+  - title: "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI"
+    excerpt: "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data."
+    publishedDateTime: 2024-01-23T08:39:00Z
+    webUrl: "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 80
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858"
-        width: 7008
-        height: 4672
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "OpenAI plans to set up chip factories worth $100 billion: Report"
-    excerpt: "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips."
-    publishedDateTime: 2024-01-22T12:40:00Z
-    webUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
+  - title: "AI automation software startup Bluesheets raises US$6.5 million in Series A funding"
+    excerpt: "Find out more about subscription packages here. BLUESHEETS, an artificial intelligence (AI) automation software company, has raised US$6.5 million in Series A funding, it announced on Tuesday (Jan 23). Venture capital firm Illuminate Financial led the ..."
+    publishedDateTime: 2024-01-23T14:25:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-automation-software-startup-bluesheets-raises-us65-million-series-funding"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
-    images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Google settles $1.7 billion lawsuit over AI chips patent infringement"
-    excerpt: "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ..."
-    publishedDateTime: 2024-01-25T09:47:00Z
-    webUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
-    publishedDateTime: 2024-01-21T01:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
-    excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
-    publishedDateTime: 2024-01-21T00:10:00Z
-    webUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Musk’s AI startup secures $500M"
-    excerpt: "Elon Musk’s artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people with knowledge of the talks. The company is discussing a valuation of $15 billion to $20 billion,"
-    publishedDateTime: 2024-01-21T12:05:00Z
-    webUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-500m/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 37
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2024/01/xi01.jpg"
-        width: 720
-        height: 378
-        isCached: true
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI's product, a chatbot named Grok, is developed using social media posts on X ..."
-    publishedDateTime: 2024-01-22T04:53:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/musks-ai-startup-secures-500-million/107042614"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 37
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107042614,imgsize-37130,width-1200,height=765,overlay-ettelecom/internet/musks-ai-startup-secures-500-million.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Axyon AI secures €3.9 million investment"
-    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
-    publishedDateTime: 2024-01-25T00:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Elon Musk denies report indicating his AI startup, xAI, has raised $500M in funding"
-    excerpt: "Musk’s AI startup is a distinct entity from X the social media platform, but they are said to be working in collaboration with one another. XAI has also reportedly been working with Tesla. In November, xAI announced that it was launching a preview of its ..."
-    publishedDateTime: 2024-01-21T23:21:00Z
-    webUrl: "https://siliconangle.com/2024/01/21/elon-musk-denies-report-indicating-ai-startup-xai-raised-500m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/muskhappy.jpg"
-        width: 763
-        height: 600
-        isCached: true
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 11
 
 secured: "1D0vt1uWJZmjowyUzwYp29Alzi+vUZTKIdUI36ClyfGsD4ISNHLQtZYwvyvms8J/P7zFjsyDA/JIFUXIvMvnLHik7/qQYqhuakF8He9VbydPOXCNnDCwgMn9fZBd00nyrKr62bRB9JTnK/SSU5w0S3woYuSwk91Ym4lPTPoslGegGLKmBgJl0SulHg1ZuiplfraIv+zPGXG29E5XZcguK5tRvcGjd4ZM1ID2Vxa/fRhDtnOQ6M0m/ksSugqNkWUtEMTfuHRpZhGHUS5vfkkSNr3HJADYWQW+j/0wdQP6+B5RWS/f88dIYb1WnszRdJjftHdXRGlgWq7k8koqXIBJEP3KhRCKDBlDmlDhdDBWfwU=;14SO0UhvitwCRWGC2kAgoA=="
 ---

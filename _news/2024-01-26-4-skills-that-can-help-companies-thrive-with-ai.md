@@ -1,0 +1,42 @@
+---
+category: news
+title: "4 skills that can help companies thrive with AI"
+excerpt: "In-depth knowledge of market dynamics, product-market fit, and understanding your customer have always been essential business skills, but they’re especially critical in the AI era, says Subbaiah."
+publishedDateTime: 2024-01-25T16:32:00Z
+originalUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html"
+webUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html"
+ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
+cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
+type: article
+quality: 59
+heat: 69
+published: false
+
+provider:
+  name: CIO
+  domain: cio.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.cio.com/wp-content/uploads/2024/01/3_iStock-1133750811.jpg?quality=50&strip=all&w=1024"
+    width: 1024
+    height: 710
+    isCached: true
+
+related:
+  - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
+    excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
+    publishedDateTime: 2024-01-24T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2024/01/24/meet-the-startup-that-believes-ai-can-solve-your-it-outages/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
+secured: "50X5GeWcO5aV8rAlzg7cpY1trZWjinIBbyRJh2+7pICA9OxeqOW5jj67KZSOC9CzneERXlwwW+LyxlfHA4+IFI61oowtunDeuBnAN02w1AvbmLa/PNvlGtKBgDgemMoomqj53BUr0PyLVRtB7nOfSm8SsxQ+QilO3VKUBJnFx0rrMZL/mt1kxTCC0x6bqLGVUj6uRSltB2w9ZU4CjYVEpWRXsahhg/JJT/u5mWrRw3fNQ++K/tYdp0rC+6MGrNgoe1hzRi1R8teDfi/qaQv0x6Xp/MeGs5sJhbLcH3h1OIPiiHVgpjuFIs4+2RujQDADvdywI3Zuut4rFJ+8zYkdWu/d7TUl+A1746pxokIptCc=;VCjGcsomN3ghDt0RJz62bw=="
+---
+

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup"
-    excerpt: "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore)."
-    publishedDateTime: 2024-01-20T14:46:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836"
-    ampWebUrl: "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 72
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
     excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
     publishedDateTime: 2024-01-22T08:52:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
+      "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
+      "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
+      "originalUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
+      "publishedDateTime": "2024-01-25T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-voltron-claypot-deal-cooks-up-faster-ai-engine-power.md",
       "title": "Voltron Claypot Deal Cooks Up Faster AI Engine Power",
       "excerpt": "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?",
@@ -41,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
+      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
+      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "publishedDateTime": "2024-01-25T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -158,49 +253,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-google-settles-ai-related-chip-patent-lawsuit-that-sought-167-billion.md",
-      "title": "Google Settles AI-Related Chip Patent Lawsuit That Sought $1.67 Billion",
-      "excerpt": "(Reuters) - Google on Wednesday reached a settlement in a patent infringement lawsuit over chips that power the company's artificial-intelligence technology, according to a filing in Massachusetts federal court. The settlement comes the same day that ...",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T09:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-24-nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024.md",
       "title": "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024",
       "excerpt": "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ...",
@@ -252,7 +304,7 @@
       "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -356,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -387,6 +439,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-openai-plans-to-set-up-chip-factories-worth-100-billion-report.md",
+      "title": "OpenAI plans to set up chip factories worth $100 billion: Report",
+      "excerpt": "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
+      "originalUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
+      "publishedDateTime": "2024-01-22T12:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -549,7 +644,7 @@
       "originalUrl": "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -591,49 +686,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-ai-chatbot-at-delivery-firm-dpd-goes-rogue-insults-customer-and-criticizes-company.md",
-      "title": "AI Chatbot At Delivery Firm DPD Goes Rogue, Insults Customer And Criticizes Company",
-      "excerpt": "See Also: From $200 Device Replacing iPhone To Mark Zuckerberg’s AI Chips Treasure: Here’s Your AI Weekly Roundup A customer, Ashley Beauchamp, brought the chatbot’s misconduct to public attention via a post on X (formerly Twitter), which displayed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/24/01/36713566/ai-chatbot-at-delivery-firm-dpd-goes-rogue-insults-customer-and-criticizes-company",
-      "originalUrl": "https://www.benzinga.com/news/24/01/36713566/ai-chatbot-at-delivery-firm-dpd-goes-rogue-insults-customer-and-criticizes-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/DPD-Delivery.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36713566",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36713566",
-      "publishedDateTime": "2024-01-22T07:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1423,58 +1475,6 @@
         "name": "NBC Bay Area",
         "domain": "nbcbayarea.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-do-you-need-gpus-for-generative-ai-systems.md",
-      "title": "Do you need GPUs for generative AI systems?",
-      "excerpt": "There is so much interest in GPUs for generative AI deployment and for some good reasons. However, in some cases, they are overkill and too expensive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
-      "originalUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-money-100945612-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
-      "publishedDateTime": "2024-01-16T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

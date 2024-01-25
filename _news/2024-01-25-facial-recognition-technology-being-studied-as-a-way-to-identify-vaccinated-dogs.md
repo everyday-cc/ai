@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technolog
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
 type: article
 quality: 54
-heat: 65
+heat: 64
 published: false
 
 provider:

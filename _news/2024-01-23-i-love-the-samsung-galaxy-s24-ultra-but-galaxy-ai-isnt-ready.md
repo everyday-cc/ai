@@ -31,33 +31,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google is partnering with Samsung because that’s the only way it can beat Apple"
-    excerpt: "If the new Galaxy S24 series is anything to go by, Google and Samsung are working together more closely than ever to close the gap on Apple."
-    publishedDateTime: 2024-01-20T15:00:00Z
-    webUrl: "https://www.androidauthority.com/google-samsung-ai-partnership-3405053/"
+  - title: "Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze"
+    excerpt: "You can also translate any of these types of content into different languages. These features should sound familiar to anyone who has been following Google's AI developments over the past year. That's intentional: Samsung worked closely with Google on ..."
+    publishedDateTime: 2024-01-25T13:00:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
+    images:
+      - url: "https://www.cnet.com/a/img/resize/cc46635c9507b24a40989d15d3a3dbdad54f175f/hub/2024/01/24/73947584-67eb-4e99-b66d-207b4c0e1eda/samsung-galaxy-s24-ultra-1887.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
+    excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
+    publishedDateTime: 2024-01-25T16:36:00Z
+    webUrl: "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/"
     type: article
     provider:
       name: Android Authority
       domain: androidauthority.com
-    quality: 50
+    quality: 69
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Plus-vs-iPhone-15-Pro-colorful.jpg"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Why Samsung's Galaxy AI Actually Feels Like the Future of Phones"
-    excerpt: "One of the more gutsy Galaxy AI features launching with the S24 is something called Live Translate. At its most tame, you’ll be able to use an Interpreter app and translate between dozens of languages in a split-screen view, with responses in your chosen ..."
-    publishedDateTime: 2024-01-20T15:30:00Z
-    webUrl: "https://www.inverse.com/tech/samsung-galaxy-s24-phones-generative-ai"
-    type: article
-    provider:
-      name: Inverse
-      domain: inverse.com
-    quality: 39
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2024/1/19/6218fad9-7b1f-4b10-b977-64903ce027da-samsung-galaxy-s24-hands-on.jpeg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
     excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."

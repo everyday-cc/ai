@@ -1,10 +1,10 @@
 ---
 category: news
 title: "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought it Back"
-excerpt: "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long ... for herself as a “Trial Wizard,” gaining national recognition and amassing an impressive record of 58 defense ..."
-publishedDateTime: 2024-01-24T19:46:00Z
-originalUrl: "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
-webUrl: "https://www.law.com/legaltechnews/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
+excerpt: "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom."
+publishedDateTime: 2024-01-25T15:10:00Z
+originalUrl: "https://www.law.com/texaslawyer/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
+webUrl: "https://www.law.com/texaslawyer/2024/01/24/not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back/"
 type: article
 quality: 31
 heat: 31
@@ -24,6 +24,6 @@ images:
     height: 633
     isCached: true
 
-secured: "LgyWfzjU9W8dNoPXiAlbd2REQUn+hrINDu4R0zY1DCTejB+54KSSgV96Sm/5nz/eg84IVWyrwSPvFnTwPIAL8S4ll2mMoDgLsGKCyO3WeX1CWinrAi3s45TVqYvzZ09TR4KjW+vYq/JPqlvxD2SS+6kPxdELoI0898Su7fkbg5drItJ/aTfZrUmrD17ZSQQKJekuVDBzHjbDty05P+QZh63MkHifoMM3su/npIo40M+1h0gyiU6/Z/fIaa+kKhVnoYNRBxgsl74v48707dgc/rFWVXjs73UMQrQA8KvgfKoZx+JZinnwOinRTe+8iFTTG3PUfsJnyh0eceoV3Q79uglyB7ScOPEZJeNvNqCZ88s=;KYK4e+IV96sSvbn/dSQoYg=="
+secured: "JY7p/el7Znf1qfzv5xHsXeE+osq4qEX4X984Bq+r+bcURpmxYPYg870lcI3pngK3xddiOzhsYeLkmmQpQ7OzTthAx8JyJo8eYnnBwTBSgjKwEBWwjZVYwMUkqct3uy1eZQcKo69dFOxyOvOZaiYnOH8zs4FtyR90LQoSpwl6EQR0t7qKhBQBNo/cB4Ay4kABKQPUbBwCufw4+5wwPNAzkHiqWNgR7R0Q01/JD6Lupwt1LNEFAENmEyF/VJrs2wjQLkncqf6cIh2OcoZF7+zYUSFJoe9SkWzZetOfdtRvYbyEBT3mgAuhnaIQuEqmBBC3ju/XP5hX6HsJvsyx+zq8MXLfFCjWa2bAMGhBNLJTRYs=;P5HkT3barF5z+GWnFbkvDg=="
 ---
 

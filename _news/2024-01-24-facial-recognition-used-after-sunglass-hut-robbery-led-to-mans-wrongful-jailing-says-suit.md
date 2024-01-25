@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-faci
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/cc001638-abc5-49f1-9ca9-a834fc488b50/thumbnail/1200x630/c3cc8483864dee0cacfaf7c0440e17e5/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhjxbzg5nwuwmda0m2i2adhidzh2y2e3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nscnfta2lkotawmwrhmxa5m2s2zte4nji.jpg?v=1acc31b0e955989267fc7dd28b496c5e"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
+    excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
+    publishedDateTime: 2024-01-25T16:32:00Z
+    webUrl: "https://www.aol.com/news/man-says-ai-facial-recognition-163202740.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/JefRMUbC3InWx3hUHtNoaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU-/https://media.zenfs.com/en/aol_nbc_universal_184/13f8a04416b6b38713c34ccacebc464b"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "dEtiqo+Grxcy7GJrOL5vnqzTkxAdW7Ws1Vx9RDY18WDl5pThAE18D/U8uK+bGhqXEvzM2ysMOm1EujwOdwcXPdu8biu6kIH3Fmk+KXfu3sDgAoJA5bnLzOMwiQLowsBnygD0b5Vu9XTpVSCb3MMzcUj5PMIvyfu5QHS1G0dMskZyZZyFh+Jr8yqPLeDO6zt/HMVKF80H/XysUhCS+DHuspwrwma90mBN6vKq/ZnXkYUp35VzxGBtnQAT5Ujjw3t5s12a6RIpMZslJ/OVVeYwFGbdCJWgndWprA0PgsrrLs/f5Qv+9G1vuO9yaFHfLDPVPwY6G0zVmsqHNPhcpUFAtv8b8hAC0Ii2jC0ji6cqcgMFz4+sCgWkkyxk3z353L8Dewkln6lzAyh4yWhzjsM27xcWd6PgW/YhQpCQkJz5RKGvn4Lx9geo6tcGTkcLXt98hFb79bYJ4R7NsQk5GBvWOtERbAqM+HOb6Q0b20iAFTR3LMYVxS9kRVMjH+KbUshsGSDRaNfAWSMHjVfEiEg9bA==;Ao6ydP3qw3A2TWqpseCxbw=="

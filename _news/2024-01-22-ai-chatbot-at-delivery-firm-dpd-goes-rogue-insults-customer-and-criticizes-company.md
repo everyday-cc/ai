@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/36713566"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36713566"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Benzinga.com
@@ -41,15 +41,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "DPD AI chatbot swears, calls itself ‘useless’ and criticises firm"
-    excerpt: "Company updates system after customer decided to ‘find out’ what bot could do after failing to find parcel"
-    publishedDateTime: 2024-01-20T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/20/dpd-ai-chatbot-swears-calls-itself-useless-and-criticises-firm"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "kGiXxgWVma6DQdpgik0xJRGhuU6Kbd8x5P/AkATFOtzuupC3ArnDtHpJxm6io3R0Hzpaabrvaavv59ph+9xoGPNDzFBD0y4WtcKM9Z2wsqzKcXLQ969YPkqOE93TzIcty7g49HUDT5SeU2LNeXxz+vzoJJS5ePOYcPpJFgBbBF/RjriuyCLL5mQraIC9DshHFcxw2x1OtmIcJOQO8yUgTqvKBNfJzZJC96dl+X3RCZm1+3tc4wpjhOhxiWAaoen2OD+/koIxV2B1dmWI87q3FmFozMoknGDOJxQBO8dI/Hhi4m8xRe+aqbCYsB7Ugwrrj8zfYZrbGpj0ZcG8s/duyt3arMYbaiITGOZkGIqBDcM=;crbxXypLDBgoxEZl0u6uwA=="
 ---

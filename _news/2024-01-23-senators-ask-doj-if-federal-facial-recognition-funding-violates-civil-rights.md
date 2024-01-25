@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202401/senators-ask-doj-if-federal
 webUrl: "https://www.biometricupdate.com/202401/senators-ask-doj-if-federal-facial-recognition-funding-violates-civil-rights"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1152
     isCached: true
+
+related:
+  - title: "Dem Senators Ask: Is Facial Recognition A Civil Rights Violation?"
+    excerpt: "In a letter sent to the Department of Justice (DOJ) on Thursday, a group of Democratic senators demanded that the agency review how police use facial recognition and other biometric technologies and whether the use of such tools are in violation of federal civil rights laws."
+    publishedDateTime: 2024-01-24T23:00:00Z
+    webUrl: "https://crooksandliars.com/2024/01/dem-senators-ask-facial-recognition-civil"
+    type: article
+    provider:
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 41
+    images:
+      - url: "https://crooksandliars.com/files/primary_image/24/01/surveillance.jpg"
+        width: 1584
+        height: 1024
+        isCached: true
 
 secured: "A5qqwImuca0xsnjmmfd3qBIUVI0t1Y852zSZjX1xyTHZgWxbEKh4FsE/YIANQcXxP6cuGLrrnMXiBd/BwD3or6h/d60FI6Ssge7ltxjPN9gQiA6Dt0ip56HwJ0rQcjKgW6NwSrOVUtC80d+a5AmDR10738/YOSgwAYY8YkPP2xi1/t7tpHZEWMVh/RoYlDJGfbxdazeSWDn8/qqGt0FJofzoG5NZnoOapKUQkXQmqVTrgXoOoPMGpRHNL4K4LlQFl8oqm0X7iaYZz8Y2sK/m3MMbU+MqqSg+MOGeZmPa7QlCLL383mK29ZNXGyAliMGXhOnHesFfh6LTslemkZMrsEnQHKrxGvAATEwdCLx8fbwsYKuZqQYG2d/FxebKeaI/Dei604COrUuckZCQDqe5gTTJ88dM86aVkedP1Xc5lBG/YJXcYMnUV9LU1vSsJ3+5A8sMDsHyzQXBSE+l2DCio4JCQCFGucSmuolw6DokgxyXMtBKwDs/R8gqfZAmpuStuZSsM7OPWWHnGnb3qyW6Wg==;Ecqtyi3lNLbSE74oTCnheg=="
 ---

@@ -125,6 +125,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
+    excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
+    publishedDateTime: 2024-01-25T13:17:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/01/25/microsoft-uses-ai-and-hpc-to-analyze-32-million-new-materials/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Microsoft adds two more Indian languages to Microsoft Translator"
     excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
     publishedDateTime: 2024-01-25T06:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 40
+  - title: "Microsoft Translator adds two new languages, Chhattisgarhi and Manipuri"
+    excerpt: "Further, the company now claims to cover more than 95 per cent of the Indian population in terms of its language support options in Microsoft Translator"
+    publishedDateTime: 2024-01-25T12:53:00Z
+    webUrl: "https://www.business-standard.com/companies/news/microsoft-translator-adds-two-new-languages-chhattisgarhi-and-manipuri-124012500803_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 21
 
 secured: "dl/ub3Tr8j2vkV4g4zDxFLcQBB+YgUoCvUHhpBy1FpAkxuGY9ZBjnBfyJlSX/Ndo8ISmoT8QJvdqbpaGeZqkWn2j/4WSKoMdcE8dpaaBH1EBLyjA8mIRqBPmptR8RrEn1xQz8nIZU9Z6TeDNXZzdFeOPTJkeeyHIkvEijie5oxRt7ewVo4ftT1YZBbQOyl+9Gf9dKDE6xFvG3FYuH7t/bsylGK+/qY+oPPM3lArRBZ5kQh1vJkmSIeUHlfWlqb4ZxrKm+jlhlUOw4Oz3DjIBI0dLMUPDbF8LqbqMwVxb1rl93WViBCB1yYHISoeUoRUl9YZiT8if42qm1rDomTuW+luQeGHs8rxg09oMyjwiJgaZZhC9Ww0FqphZZUVxRGvzJvprkUAGaAscWLniMtjR+VyDGRJ1e2P0i95aQ0mxyl5Y4np5kzgzJUo8QCEcwMw8zgjxUuHKK1VlMdlAEzwIPb/GQglcMHp5hr5P4klN1sMdH3DfQoU0lFH3f2LRPoGDvooP9HPsusy2FhgJmQuO9w==;VyFSl16mDfNcnfl6RdBPhQ=="
 ---

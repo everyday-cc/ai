@@ -35,6 +35,15 @@ related:
         width: 648
         height: 500
         isCached: true
+  - title: "Leveraging AI For Good In The Healthcare Industry"
+    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
+    publishedDateTime: 2024-01-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
     excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
     publishedDateTime: 2024-01-22T20:18:00Z

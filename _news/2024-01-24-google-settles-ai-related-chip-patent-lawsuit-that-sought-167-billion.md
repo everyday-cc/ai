@@ -7,8 +7,8 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2024-01-24/google
 webUrl: "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion"
 type: article
 quality: 64
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Google settles $1.7 billion lawsuit over AI chips patent infringement"
+    excerpt: "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ..."
+    publishedDateTime: 2024-01-25T09:47:00Z
+    webUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google resolves Tensor chip patent infringement case in the U.S."
     excerpt: "Google was dragged to court by Singular Computing claiming that the Tensor chip infringed its patent. On January 1oth, Singular Computing sued Google, accusing the company’s AI processor of infringing on two of its technology patents. The suit was ..."
     publishedDateTime: 2024-01-25T00:00:00Z

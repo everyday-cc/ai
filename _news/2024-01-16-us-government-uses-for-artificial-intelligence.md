@@ -17,6 +17,13 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.investopedia.com/thmb/E83S8kouqMBBaP6CHG1K4RXQmsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-14540212711-39b6f75239454990ae22ed9faf8ba318.jpg"
+    width: 1500
+    height: 942
+    isCached: true
 
 related:
   - title: "University Librarians See Urgent Need for AI Ethics"

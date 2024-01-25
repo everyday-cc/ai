@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-mean
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging AI For Good In The Healthcare Industry"
+    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
+    publishedDateTime: 2024-01-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Edge AI could catapult growth for chip manufacturers in 2024"
     excerpt: "With the potential surge of Edge AI on the horizon, many are wondering if it can catalyze significant market value growth for the top global semiconductor companies going forward. The premium content you are trying to open requires News database subscription."
     publishedDateTime: 2024-01-22T23:59:00Z

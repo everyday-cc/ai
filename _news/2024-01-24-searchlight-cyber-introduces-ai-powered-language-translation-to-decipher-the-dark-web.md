@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-sear
 webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
-    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
+  - title: "AI will increase the number and impact of cyber attacks, intel officers say"
+    excerpt: "Threats from malicious cyber activity are likely to increase as nation-states, financially motivated criminals, and novices increasingly incorporate artificial intelligence into their routines, the UK’s top intelligence agency said."
+    publishedDateTime: 2024-01-25T13:44:00Z
+    webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 2
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "AI Rise Will Lead to Increase in Cyberattacks, GCHQ Warns"
+    excerpt: "LONDON (Reuters) - The rapid development of novel Artificial Intelligence (AI) tools will lead to an increase in cyberattacks and lower the barrier of entry for less sophisticated hackers to do digital harm, Britain’s GCHQ spy agency warned on Wednesday."
+    publishedDateTime: 2024-01-24T00:04:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2024-01-23/ai-rise-will-lead-to-increase-in-cyberattacks-gchq-warns"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
 
 secured: "j5BbdqYvS54XcuaO+R8IeNYTYFFspr4pgvPHVnv3nZ3h5KbE+N4j5DV2k5l86V2Lu9i0SpJIPIRRdpq1W35EvSpR2huiXEZXmN4J0q5891hIi1IbbWY7NWl9+T6w7KamiUsZtPXfjqjqkYro4Qs6vw3WCA1CygsfG1/aogl+kNDqUf1fK9jbjqPmnkyfH3R5ppEO3s4M1PkGJqyZ9IWC0ZPTtGpzor7HH7p+OE5K/1pZGocZ8Mxkflkc9ITODt2GjRZv0TblQNfIhTGuaoimDc9FN3xxsSK+SYAqj/GYCOSyWVGLVb/Irr3n7GWHNZoQoCL7tiQGvSplCpsTGlz1mtNSEDQxCW+LZnin0KU25y8=;cZ571prc5d4DvZbptb4y+w=="
 ---

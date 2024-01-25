@@ -24,17 +24,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "Experienced New Hampshire hiker dies on solo trek in blinding, waist-deep snow in White Mountains"
-    excerpt: "Christopher Roma, 37, was an expert hiker who ran his own long-distance trail guide business and had accomplished the 'Triple Crown' of challenging cross-country hikes."
-    publishedDateTime: 2024-01-20T16:00:00Z
-    webUrl: "https://www.pressherald.com/2024/01/19/experienced-new-hampshire-hiker-dies-in-solo-trek-in-blinding-waist-deep-snow-in-white-mountains/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 6
-
 secured: "9Ya5OdUh1W7t//r1IfD2cY/SwLGMUrbRzp7aIu/0bFtI+IJTwa5nt8htqpMYam6KoaNNPLAmPN6LXkFMBTOyWsG8s9KG88rP6S0pC9NyZwjtl5GvyB3IWh9opWRonYiQL7FcVdaADiqFrE2bIjC2ZkHW/iS35uRWwFcedi+MG9UYzbPY2CKplEcwJBu9j0JPJSERA4ww8O++htBnveKj+CIz8uJwjvmot64r7V+OoVSpICHCObHoWI2AwYj0vUdhS74F4NXHYmUEXL7gMW5WjYJUzkszeA0Y10S2oIRtH8gQ8Cl5RphLSyKT2LjSQxkhyu+b/+dPjmtcgdMbdzRprmG5UNdW2knAXlvnl4O6XUg=;cYJTZDI77ohsimG+3c8zsQ=="
 ---
 

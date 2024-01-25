@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3712423/building-ai-agents-with-se
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoWorld
@@ -35,24 +35,17 @@ related:
     excerpt: "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already."
     publishedDateTime: 2024-01-24T15:43:00Z
     webUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
+    quality: 104
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 800
         isCached: true
 
 secured: "C86BX8/QrYLGOsRErfqh7Ol0ZhDDth+2Vo4JUEawLrFDDAI/fYPJwuVoQ2mu48gsjmI1Fi2uxCsWOeDQgvYrWQcXeuJmXR1D5fHUsYkD8VIh84d0ZPZAbChpYihWxHCesLYWlSsfmfzaHJwGWPFK1iT0r3UidgafWU6D9pVsRgh1tP1D3+MjmvqlVjbcMxS1OEdsm+GezVq/jGYQzypso7TdYKbz1lLWcl5Sve9HdXZPfxkckNPXl0vY+u3VqhTXyu0/HzyKBqbe4HiAZDLaK0JlJW5WbMN49qSFAPbHVc4IyIuMDPtGYCfkpURvn7jXziLTP6qFDwvAnK+iqciAanCS/v7GAS5ux+7YvAYWmNMHgXCLDJLbPkrF3zkFhkMRikj4a1iPl0YctnZUIvROsnKqQYFFxDNVy83KwTp/3Ju/ZhdMA1oBN1KKTGTbnLadv3f7EcyqrzVnFsXiXENAajlPpVGVwB1SpOKZE2wEQr6aX3S4kVxeayk0Bdab7AAWKDFZaP8Hzu0zS1Uuc6lYwA==;b712c/5UoAYYgIh4E4xV8g=="

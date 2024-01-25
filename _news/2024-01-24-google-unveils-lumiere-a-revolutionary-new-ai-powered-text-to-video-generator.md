@@ -55,6 +55,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Lumiere, Google's latest generative AI model, can create brief yet fairly realistic video clips"
+    excerpt: "Google has just unveiled Lumiere, the company's latest AI model for video creation. Lumiere is a significant improvement in video synthesis, Google states, as creating \"realistic,"
+    publishedDateTime: 2024-01-25T15:13:00Z
+    webUrl: "https://www.techspot.com/news/101642-lumiere-google-latest-generative-model-can-create-brief.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-25-image-3.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "v0Jd+snqqj3+uHCrK9Pq+1ST35wWZXhw6z6lLWNLFpZKGvEGq+SY8wdBP1FmNJYa6XQhCdaIdTr6KMkQwOScuZ9kJWwtnrSk0UnYberZSdYt6ijWJE4MekiQvRASg5lHhHDNgpoeezq0vWu5bioFfOcznUgPVYSckvAy4X/wb/P5wIJhM0Wpci9EGOD01oppPJtRWAzfdg3fhCP88Zi0RdI0GfDRuLkkeCdsVKH4hLS8RX4LhmcXiQ8lcHmJHFjDDxd5oC/O6EAz3LSFDSWHS6HmlCYJkH5MNEBDX0kTPctmyuc8HQ1wxLuqzWa/rx1n2iqlSNCNb3ZVWFqeGjym2nLI+R4QqoWADGQmm/nq8Zg=;xgLWVx8O7mFS/l3k60O6Ig=="
 ---

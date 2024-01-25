@@ -25,61 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "This Chinese Startup Is Winning the Open Source AI Race"
-    excerpt: "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI."
-    publishedDateTime: 2024-01-23T12:00:00Z
-    webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
+  - title: "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom"
+    excerpt: "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products."
+    publishedDateTime: 2024-01-25T16:56:00Z
+    webUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1"
+    ampWebUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
     images:
-      - url: "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Chinese AI processor developers face challenges"
-    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
-    publishedDateTime: 2024-01-25T01:25:00Z
-    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Chinese startup Zhipu AI unveils a new large language model"
-    excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
-    publishedDateTime: 2024-01-22T09:13:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
-        width: 841
-        height: 560
-        isCached: true
-  - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
-    excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
-    publishedDateTime: 2024-01-21T12:53:00Z
-    webUrl: "https://www.globaltimes.cn/page/202401/1305782.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 3
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2024/2024-01-21/e4043edd-2cb0-48ac-b932-b654dfdb5d50.jpeg"
+      - url: "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg"
         width: 1200
-        height: 720
+        height: 600
+        isCached: true
+  - title: "How the rise of artificial intelligence is boosting tech stocks"
+    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
+    publishedDateTime: 2024-01-23T23:24:00Z
+    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "wcdTdTlIpEO5bzkBle+k62vLKkOIl+5pjRg+I8/fX4CzvkVKKUGa5IBsXmhcE7JEotjce1Tkqnym6YW+1VmWJsKFLEZAkTEoeYg/aifN8+/ODzQgPn4HdmSLeW8fOiWXSVIfcKiWeJ/HUnztPFd1XBSoe3JJYC5BL+jQxs/N2ciw4EObtNL5Vk4sCY1gvIyt1M1VoJwZ/6orKIeqG0P6Wm3tsMQst8crKDRnmKJS4q+VeFu0W5KNeT/iIbM8O6W/UR5MCKtJUstansFibzbppczSc4jZ+mWeKizOzWhf7YbYJFuVxMQdNBVVNynREmiF69leTskO7zbDpn+f1XVpXoDWs/Ra1vk9X04GfBl1Vp4=;UbxhtlPaRs1Nmwq0bT+iiw=="
