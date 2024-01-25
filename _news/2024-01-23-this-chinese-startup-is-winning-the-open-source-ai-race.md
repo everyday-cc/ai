@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-o
 webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/5924117a1cef296a8f6aa8ab681cb7a3/vvse482hkfzc5v23.png"
         width: 878
         height: 642
+        isCached: true
+  - title: "Chinese AI processor developers face challenges"
+    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
+    publishedDateTime: 2024-01-25T01:25:00Z
+    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Chinese startup Zhipu AI unveils a new large language model"
     excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."

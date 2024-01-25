@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
-    excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
-    publishedDateTime: 2024-01-20T03:02:00Z
-    webUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/"
-    ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 74
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/01/OpenAI-CEO-Sam-Altman-raising-billions-to-establish-AI-chip-factories-network.jpg"
-        width: 1250
-        height: 750
-        isCached: true
   - title: "Sam Altman seeks to raise billions for network of AI chip factories"
     excerpt: "Altman has had talks with several large potential investors in the hopes of raising the vast sums needed for chip fabrication plants"
     publishedDateTime: 2024-01-20T06:10:00Z

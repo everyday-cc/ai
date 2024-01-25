@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
+      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
+      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
       "title": "Improving 3D Object Detection in Self-Driving Cars",
       "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
@@ -1003,49 +1047,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-how-beamr-technology-can-boost-machine-learning.md",
-      "title": "How Beamr Technology Can Boost Machine Learning",
-      "excerpt": "Beamr BMR is advancing on a new front and reveals its capability to boost Machine Learning for video. Machine Learning and Artificial Intelligence for video have demonstrated immense achievements and have even more tremendous potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/12/screenshot_2024-01-12_at_7.02.46_pm.png?width=1200&height=800&fit=crop",
-          "width": 1005,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
-      "publishedDateTime": "2024-01-12T12:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

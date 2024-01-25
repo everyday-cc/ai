@@ -5,8 +5,10 @@ excerpt: "Google employees from the DeepMind AI division have left to launch Unc
 publishedDateTime: 2024-01-24T12:49:00Z
 originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms"
 webUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms"
+ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
 type: article
-quality: 29
+quality: 69
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://static.toiimg.com/thumb/msid-107118397,width-1280,height-720,resizemode-4/107118397.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Two Google DeepMind scientists may leave company to form AI startup"
@@ -149,6 +157,6 @@ related:
       domain: techopedia.com
     quality: 34
 
-secured: "3Hu2I29K4NJpWiaKqifQQBAD4ooGRAYBY+8Et/aJAwByYbRumm1JDrh2eBJVjj8ZxgHUhI4rV7FLOUX9GBYvICh7+cgRD3XjDpLaQ1zZycKGiIfxiD69xCm9ceo+vg+a7oKWXzrqAfg4QgUH4O+AxAujSdL4k2eqOA6H9myZFcoH8noG1AZ405g4VapwxubRlOG7c2AKoj1A9pQbmyTgKY2BeIifv9YU3o2TplCSWDtZkMDqeK8CXAsbf+59uSVNnpaMPxB/k6FIACnPkos4ZptjYdGsAmuKGlfxDi4jAAPqE2qHnK0Fa68+ii7BoYYNUDBN7vp1NPllP9KbCwX2AvRE2j62wnq+1ND1eaSCzqE=;YaMW/qR1PNOHjoCeew+JEg=="
+secured: "4z+B6/tNTk8eA1xIfT66sk0krWjU80WascPm3bBZyaHH1PFYne2Q10+FEPZ7Mh6JS4zC/HrzhMuUq9a3HyP2q0p0WLuPiTGX77hKLVvZOyGRQLvS4yobM9AN4WaK7V4GwdMaGN69HUP7+PdHV9bNQLbw0lXVRBqj3/LArFuTUMJEnV5ItwMNVXYv0hbmOViAX5qnvlEDeQ03i9Z2+GS6C4M5WCO1M20e9xgEya4Mlvi1vYOwYSymw0GrQX+tmp+23Gugnt8mezij3jzjJlg+vUt/UbE+fbFmNs6+gaFrCGOxHSQ1HqD9zLDIuqpCccI4zJ+i9tRZTZsGuv7QFpQPjrcjTPYD0l8RDXqn41wAI7Y=;ik+cS0goDHNF4ZEkg4NdAg=="
 ---
 

@@ -38,7 +38,7 @@ related:
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16153_4556.jpg"
         width: 1200

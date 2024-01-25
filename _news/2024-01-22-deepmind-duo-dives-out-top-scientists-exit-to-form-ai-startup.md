@@ -73,6 +73,22 @@ related:
         width: 324
         height: 435
         isCached: true
+  - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
+    excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
+    publishedDateTime: 2024-01-24T12:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107118397,width-1280,height-720,resizemode-4/107118397.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
     excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
     publishedDateTime: 2024-01-22T03:49:00Z
@@ -140,15 +156,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
-  - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
-    excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
-    publishedDateTime: 2024-01-24T12:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 29
 
 secured: "2+MohP12IMKogowtxldw854aeEAuu4PBud1RU9QCjOJBPS4mTcvp5/AymEnTSepzw/5ADvXde1sd+bDp0kIBaEn6NT7yx4tEmjmgvMPmxAi83uO6hb3WCg1oCDNqaImty2ksG2Q7l4ABeJO7zGgyYrMAsmMxx8lHK1A09obzG4oCUVGWORwDIzhdGrHCnYVCUv1GQxDzzc7rrtTS+KeC2axTovcbxLGzE5KObHPAAqcm0iWCNTzz8w/Nbf4OadBgQhGJ5uSnzoecMOh7hWHQEHNRq7FdssCoZUhniGRDjWckFFj6FiIOx0uHPvrr3UEhn+2/IpaosXKfoxV9okNcGieMMv7FRt+KtK7ojFd17ng=;yxYGHKGLS1y+wChtP5GUOQ=="
 ---

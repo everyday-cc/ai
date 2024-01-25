@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
 type: article
 quality: 89
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "OpenAI’s Sam Altman Is Raising Money to Set Up AI Chip Factories"
-    excerpt: "According to a new report, OpenAI CEO Sam Altman is raising billions to build a network of AI chip factories. Here's all you need to know!"
-    publishedDateTime: 2024-01-20T03:02:00Z
-    webUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/"
-    ampWebUrl: "https://beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/openai-sam-altman-raising-money-ai-chip-factories/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 74
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/01/OpenAI-CEO-Sam-Altman-raising-billions-to-establish-AI-chip-factories-network.jpg"
-        width: 1250
-        height: 750
         isCached: true
   - title: "Sam Altman aims to secure billions for AI chip factories network"
     excerpt: "Sam Altman, the CEO of OpenAI, is reportedly in the process of raising billions of dollars for a groundbreaking chip venture. According to Bloomberg News, Altman plans to utilise these funds to establish a global network of factories dedicated to manufacturing semiconductors."

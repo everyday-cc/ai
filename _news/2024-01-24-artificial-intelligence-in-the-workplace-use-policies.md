@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-24T00:00:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-8706757/"
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-8706757/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16153_4556.jpg"

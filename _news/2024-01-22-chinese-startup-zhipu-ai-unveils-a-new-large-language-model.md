@@ -52,6 +52,20 @@ related:
         width: 878
         height: 642
         isCached: true
+  - title: "Chinese AI processor developers face challenges"
+    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
+    publishedDateTime: 2024-01-25T01:25:00Z
+    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
     excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
     publishedDateTime: 2024-01-21T12:53:00Z
