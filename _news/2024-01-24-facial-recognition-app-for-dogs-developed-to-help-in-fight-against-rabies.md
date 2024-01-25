@@ -1,45 +1,45 @@
 ---
 category: news
-title: "Facial recognition technology being studied as a way to identify vaccinated dogs"
-excerpt: "BOSTON - Humans use facial recognition technology all the time, like for unlocking your phone, but now it's being studied as a way to determine whether a dog has been vaccinated or not. Rabies kills about 60,000 people around the world each year."
-publishedDateTime: 2024-01-24T22:43:00Z
-originalUrl: "https://www.cbsnews.com/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
-webUrl: "https://www.cbsnews.com/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
-ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+title: "Facial recognition app for dogs developed to help in fight against rabies"
+excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
+publishedDateTime: 2024-01-24T13:15:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/1032196"
+webUrl: "https://www.eurekalert.org/news-releases/1032196"
 type: article
-quality: 54
-heat: 84
-published: true
+quality: 53
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/02/c03893c5-bcb8-44d3-9b19-c87e49653699/thumbnail/1200x630/9ed86ac5acd8d7c83bf8a08685fda1fb/gettyimages-1147997709.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
-    width: 1200
-    height: 630
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 225
     isCached: true
 
 related:
-  - title: "Facial recognition app for dogs developed to help in fight against rabies"
-    excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
-    publishedDateTime: 2024-01-24T13:15:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1032196"
+  - title: "Facial recognition technology being studied as a way to identify vaccinated dogs"
+    excerpt: "BOSTON - Humans use facial recognition technology all the time, like for unlocking your phone, but now it's being studied as a way to determine whether a dog has been vaccinated or not. Rabies kills about 60,000 people around the world each year."
+    publishedDateTime: 2024-01-24T22:43:00Z
+    webUrl: "https://www.cbsnews.com/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+    ampWebUrl: "https://www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/boston/news/facial-recognition-technology-rabies-dogs-vaccination/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 53
+      name: CBS News
+      domain: cbsnews.com
+    quality: 54
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/02/c03893c5-bcb8-44d3-9b19-c87e49653699/thumbnail/1200x630/9ed86ac5acd8d7c83bf8a08685fda1fb/gettyimages-1147997709.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features"
     excerpt: "These photos are stored in a database, creating ever more comprehensive systems of surveillance and tracking.And while that means that today it is unlikely that Amara Majeed, Robert Williams, Randal Reid and Black members of Congress would be ensnared by a false positive,"
@@ -69,6 +69,6 @@ related:
       domain: thenewsminute.com
     quality: 23
 
-secured: "pMgNKe0zXxJMo04Fw/jUGprIjQpXktomBdek1jyDSX5d0+rQ9cGWgB6Xy3Br7oYGsLr+6V6qQYeV3Ci07FJWTYFRqPEULRmKlEkcGycvdI+Ed4lPmSIKrvLZunvnhdbKxXWf6qKckvnYVtvplRkIjbwn+fQ9s0Zp1HIwW/2Y81k3al3WDRomGK3moVfBIotrswW8pSSw7/lSiVGHv5nzwZISSDrL+MSj5aYCVrqBprSJWUW+e2gw+GDkGsJFupmJZT4r0ho73ZOgOk62aM6W/uUseUtjRpDqwa+Cc5DFNtgLXqQ05QMdsxeTetym6rFfFzM0M0N5dzERFZPxMnojvFCvd5OvKJ0D1mhcuyC0Ji0=;UYDeIi9a6Mckj8lv2MJ1/A=="
+secured: "TX7hIQmXl99+4Zy6aGge93lNPNSfkMhvEo4hVtR2MXZuWMfvgL+yF7VxsWiydFtY94j0xbyU1ec3aeatpQr07Z4PjWuZt5weAjEte+WmT0kDrmFcI86Aun+3sCEBj1D2eZL+WE5J38AvjzPxIpWz+WhjumDbd/VE5micFM00oydG9XAOW6kHaV1OH62X21oTyXEjudGsaiNH/hpXN6TaZGjUPkknLzshjQc+vVXHS2uQeq48KepdaTw78SC2FHvZUa3mWG3zDXdHLWvwJF0TP8eRcpqHjCyK2yQSYVZjPi5xl47/KC5TBDHZmuYxxI0qZvbcWQ8YRiAiOskRq1XLJGQMM4yuO04Aehon5X0sbPU=;wwI+YuX6e0/bViPybD03wg=="
 ---
 

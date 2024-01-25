@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Musk's AI startup secures $500 million toward $1 billion funding goal"
-    excerpt: "xAI's product, a chatbot named Grok, is developed using social media posts on X File photo: Tesla and SpaceX's CEO Elon Musk gestures, as he attends political festival Atreju organised by Italian Prime Minister Giorgia Meloni's Brothers of Italy (Fratelli ..."
-    publishedDateTime: 2024-01-20T04:46:00Z
-    webUrl: "https://gulfnews.com/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
-    ampWebUrl: "https://gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/musks-ai-startup-secures-500-million-toward-1-billion-funding-goal-1.1705725990558"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2023/12/16/Tesla-and-SpaceX-s-CEO-Elon-Musk-gestures_18c73574e41_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
     excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
     publishedDateTime: 2024-01-24T05:06:00Z

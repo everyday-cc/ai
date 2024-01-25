@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-
 webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 46
+  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
+    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
+    publishedDateTime: 2024-01-25T03:33:00Z
+    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
     excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
     publishedDateTime: 2024-01-24T15:47:00Z
@@ -83,6 +97,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "SicjL/5ntSdo6PI4tSy/FS/12+D3ZizeWjS9OewTyOtOVe9REg9mWceJ44mP/DueDgHQOKEWwsZzXPRBXCFZjwjViJmcIaAv4zpwJicUQZRQiH98jvMzD55EqgJ0iKuVp2ufA4HBjCBFyzt867MQbU8CZ0/YeBBZ92z6FGyQrak/2xIeHc/eBy/VAQxtgWoJKLI025ehrYJkwK55ZzIL4g9vxnVwVGq+5T78lp1pVORD4sTggYomTZlZWVRPPEH0C0ZpHouR1P//7MfOItMyOQ5lgNCZYHIAKZ/Ul+uX0hHqyA1/QJK4CZ5LYE60NXJT4JIXsQGm9mgPSavU6PPjs258FhClx6P0KXFhjPlyksk=;aQpg4r/TfkNETNueUU+fSg=="
+secured: "3uh2D7bm0XPYg1+eBoi+CBse295JgX9+LUR0WS1gEGcIvH2jTkIV4eCmuUG72uIhf4HMGdtz40tNWQSnBSraYB/ASdBf75ze0BSU8rlbS+ocVsYI4goCGh3XFPoq+zduDFKbopKmFGOp4uJL5/+8k/PbdVEU1D3WNelaggyE5a0vTUpo1QM5t1BaIW075/a8bPzW3eMdll5+/hCLOWUjwk9mapaefXo2f9ibCukUbYrldymew5LzQfrYnnrf0Cch86s2QZV4or1uqxz2avEL5sRycWLvQyxhEF0iMzXXO6So4jVbjQNV+KDWYSODDHoVnlc3A15DQdbf3BZHLEpud5n6lOv2N7QVb1QIZiCfaRA=;C0z/bbMSIPg1wB5/44mk1w=="
 ---
 

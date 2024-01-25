@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial recognition app for dogs developed to help in fight against rabies"
+    excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
+    publishedDateTime: 2024-01-24T13:15:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1032196"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 53
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features"
     excerpt: "These photos are stored in a database, creating ever more comprehensive systems of surveillance and tracking.And while that means that today it is unlikely that Amara Majeed, Robert Williams, Randal Reid and Black members of Congress would be ensnared by a false positive,"
     publishedDateTime: 2024-01-20T06:41:00Z

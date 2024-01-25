@@ -67,6 +67,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
+    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
+    publishedDateTime: 2024-01-25T03:33:00Z
+    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
     excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
     publishedDateTime: 2024-01-24T15:47:00Z

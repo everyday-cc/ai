@@ -41,6 +41,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "AI And The Future Of Coding"
+    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
+    publishedDateTime: 2024-01-24T19:52:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1040
+        height: 700
+        isCached: true
 
 secured: "xWAat8AU9X9ZSmmmJNPin8CoPfrKsIq6b/e+n5jct0IZ1dE/4QdMRqe/KY5d417X3BLz4AlkgftQAXNk0HyYykAAHOIExEcz8WnmK7S4RBUzHOzPtUB8rvKk4gcGl8Qy0IJeiD8f2zfyfG7qvw5iB1SuivCVK60sXTEr2L9DMirOD71eYPtFOFMONyeTJvoXwW/9mMuHyH3MLdggwzR2fGReey4uJ6onn1t6WSF3Zj7KZzqkFS+LCOPYmZ8JrvNX86bM3JgqLLWI19q/Lea/r7b1tlLsLDqx89jwZ0ZItBhsqFmnkSnA76dhPpO2k2zL3KworGIJ/qyl3/86yvIZdNkBYdjRb6L6EJSvxedBvds=;AmSMCYXGKLubIw8ZFIS3Qw=="
 ---

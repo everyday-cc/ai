@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
-excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
-publishedDateTime: 2024-01-24T15:47:00Z
-originalUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
-webUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
+title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
+excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
+publishedDateTime: 2024-01-25T03:33:00Z
+originalUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
 type: article
-quality: 36
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: BGR
-  domain: bgr.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
-  - Meta AI
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
-    width: 2000
-    height: 1125
+  - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
+    width: 1500
+    height: 857
     isCached: true
 
 related:
@@ -79,21 +78,21 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 46
-  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
-    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
-    publishedDateTime: 2024-01-25T03:33:00Z
-    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+  - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
+    excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
+    publishedDateTime: 2024-01-24T15:47:00Z
+    webUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
+      name: BGR
+      domain: bgr.com
+    quality: 36
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
-        width: 1500
-        height: 857
+      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
         isCached: true
 
-secured: "sbiAW3oxjQcSGaVPqq+UwiT7AyY2E4xJEWk6iNWuQcJfluoILOtqS/ZtyZIbeWzfp4h9QUC6KxQ8/H/Jcy1pgB9HcsTROT0p8r6JCk8ydHOHJKKhbOn1abTF3W8KZB6Ro/p4cTPOi1tcw2qbdJnkA1J5llUeV0krLgA/OW4jJHRaXonsDEkPUJ1WhDBLW2oFw2VeyfJC3kQD5qUKsU/9y/fhu4YnbC772T45+btXRZgRCSaPltfBA1NGNt185yjgTllB+LPl+/XPdNUiKJV+sHq/7cM+N15nNOZacHshupIysdIr3dzLYmxnQstKItrIEHGtfm3YT0M/JUGS/Kt5t2IYoLzUxZjUDVgMtBkwKiw=;7h+tkL6u9eThoCJE3FYMLg=="
+secured: "cMnSNQGDRPc3BZDc7AE4uJMT7RC058xd0KJwbLAhFRZoy9Oo2rjOUFFC5Eo6OrsAns1ukPAnUyw97OCpNGD4Amf3vHE8AVvNPnZudZjhpvpQ+lU2jWLwd896/++Ze+5IGCx2VzBIt0iVZl88eb21Ttn2BsmautQnHpJAmpnW9Jm3c1cGwskvBDX0/65a1nTSYuft7a+Eu+Y7ikBgR78Cvliz41891oGCpa2KmpUC9Do3KJenglnWkfstq+iCwi+CYtyHT69nxQsUVQBN2mHHKb9PwIYCbG4vmzngAlshHrpWMDDI4QyzYUOoDsKyRLlO4lPJaxhqrhNU9mX6NCn5tcKL2L9gWaxSKsa3IYdiSd0=;WZ2hngPO6UD1fW6SImgBsg=="
 ---
 

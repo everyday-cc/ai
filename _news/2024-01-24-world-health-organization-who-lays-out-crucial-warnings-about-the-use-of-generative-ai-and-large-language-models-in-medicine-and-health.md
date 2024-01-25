@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-orga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "WHO releases AI ethics and governance guidance for large multi-modal models"
-    excerpt: "The World Health Organization (WHO) released new guidance on the ethics and governance of large multi-modal models (LMMs) – a type of fast growing generative artificial intelligence (AI) technology with applications across health care. The guidance ..."
-    publishedDateTime: 2024-01-20T03:35:00Z
-    webUrl: "https://pharmabiz.com/NewsDetails.aspx?aid=165891&sid=2"
-    type: article
-    provider:
-      name: Pharmabiz
-      domain: pharmabiz.com
-    quality: 52
-    images:
-      - url: "https://pharmabiz.com/Ads_images/PharmaLiveExpo_2023.jpg"
-        width: 1024
-        height: 410
-        isCached: true
   - title: "Healthcare organizations face challenge of upskilling staff for large language models"
     excerpt: "Learn how healthcare organizations can overcome the hurdle of upskilling staff to implement large language models, according to Dr. Karandeep Singh, inaugural."
     publishedDateTime: 2024-01-24T21:09:00Z
