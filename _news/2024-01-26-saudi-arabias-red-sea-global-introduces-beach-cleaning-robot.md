@@ -24,17 +24,6 @@ images:
     height: 848
     isCached: true
 
-related:
-  - title: "Global fintech CoorB launches operations in Egypt, Saudi Arabia, UAE"
-    excerpt: "Dubai-based global fintech company CoorB announced the launch of its operations in Egypt, Saudi Arabia, and the UAE, according to a statement on Sunday."
-    publishedDateTime: 2024-01-21T12:55:00Z
-    webUrl: "https://english.ahram.org.eg/News/516211.aspx"
-    type: article
-    provider:
-      name: Hebdo Ahram
-      domain: ahram.org.eg
-    quality: 4
-
 secured: "+4eGKmzvHUu2J6qZU/GPtBDCXjct3xxVPjc8LOiC7HQBKpOGSVxuUIumnsMt0c6rnAwtQ/eIXORAuGzjW5ujYXl+joypAVRqPW9+yts3V8wc6R/xigvrhRwvDLP5bx1kSTU0HtNmhLimr8rBcFFCGe5kEZoID0gOreY/v98FqMbQJ3MTYEo0gHsUI+sTGCl5Las/f8aXdx69QC/XV0C5mCCdR8FupB7ew2FhUu5HyS45V6zRQkPRfK/0Hoafi1bfFDsX65LjamseMuqaAAKXh5d6MXXPL10xPSwQvKoWaQ622muM1OJBZba1sMJzDBYJrly4NUrUzVKg9mtNfZXMCSci/cFP8Z6/nvfLwOmSZ0O8LmMla1REl+nPfsbBdB20WHdCWeRyglufeSmT4wA2bdse6U6dV6mNlgtABEZxDIDyeMMNQetIUhuyamP2FwRT6rVXDkPOsJrIWo7dHdGooy1piDb+yKY9Fdqq7P/YwHt421aV1qSp/RNJOb2bXm3XD+9bpPjM+MPBi6gKersO8Q==;lPYGJ6JwbsxI6bt/psz7Dg=="
 ---
 

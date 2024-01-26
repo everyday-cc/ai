@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
 type: article
 quality: 99
-heat: 389
+heat: 399
 published: true
 
 provider:
@@ -404,6 +404,20 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 29
+  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
+    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
+    publishedDateTime: 2024-01-26T11:52:00Z
+    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 26
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
+        width: 1200
+        height: 856
+        isCached: true
 
 secured: "vNTBOz7bxrwPd2U1OILrpTckQXf8LbiEOVVXbCl6EClR0WEJHM/QJG30fXdm3DRMcTyrvaYy3SjkvpBinW7AioJ2/wcH0LHjJ0MSHNWnUfknVORp5RYRGTzanf3ZW+5KTg4baaA9Vc+5SmoQwCwWmxifVPPryTBewldfcBtrBhY9Upe0U3WvBrNVDn2TGAjFnTR2sJ4bea4ctbzpHxP4cf6I9hEA72dJrsF+FyYVAh0u00A3NIcXDF+Aefpdg9iR3GveBFdy1cX3b2QWClGwZc4ggRebBsP2njQ16UQfAPcS7Lr5QAFPQqcmxrOWtQHsE2b7ivh8lhLPciL8dVOOsU3AQmFKRPE6r54dN3z8tLZToq0VCqOlpqjgD1qMPCI5o/Uyq+9NGbWS2YQuv//v7H2mYfoCbw9yLpyqnt29Ayg0AU90KZQhOvc9NsUhyhvcFM72Iy7JbU06zq6Mqv3jPo665Y0yJfGmp7tA5FEtG58Au+5M2vtvtGEfzhUuNtBRgSs9GWJZthY/tpaS5WjBFg==;VugAOVnyDJCDoYDnagYHgw=="
 ---

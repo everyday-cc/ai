@@ -80,6 +80,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
+  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
+    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
+    publishedDateTime: 2024-01-26T12:57:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "bZfjELJ3mjjIalrBgbcOS4op2U2qQ4ctt4InjGtTeukJg0vLi+Ai9lZ9oqRAr1kgLW0pB5NiExRy/tCmHLHfC5LNggAJfe+WiNwktvYFg/z64ETIZohN5RkJACF2wqKVTLe+S/rboK3g9Snmex7HsGR1Qa2UDiSa6YdSeMMWTDKlQaJEozgXUGur64enHvNPbR67TciUvqbRNCHbnVGSMBxfbSFZSduJJVltzPd+L2V6z960aY8df56+X9mQVeT6eJdxbNIok7gnJl2Tel9lyTxCsRDbrXjX3IEz3LEPQQNJnKJCvpXfsl2A2JyNRmXq7ORUJBR1EE7RSAuXEbpdXRbQk1uK77BzPAp8m/4uUUs=;aSRd+jOsGx+NktzBv7w1Og=="
 ---

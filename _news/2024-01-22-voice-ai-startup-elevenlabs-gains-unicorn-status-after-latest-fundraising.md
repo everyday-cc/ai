@@ -51,6 +51,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Ola Electric CEO's new AI venture valued at $1 billion"
+    excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
+    publishedDateTime: 2024-01-26T10:40:00Z
+    webUrl: "https://www.reuters.com/technology/ola-electric-ceos-new-ai-venture-valued-1-billion-2024-01-26/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 47
   - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
     excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
     publishedDateTime: 2024-01-23T00:01:00Z

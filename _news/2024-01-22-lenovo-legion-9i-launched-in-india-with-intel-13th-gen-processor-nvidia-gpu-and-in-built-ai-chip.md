@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
+    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
+    publishedDateTime: 2024-01-26T12:57:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "ISOfQUFspWURw/z2Q27n9si8nYYdEU00UcA0kK7TKVwgWKVfSfMzyCfGh96aHoCVjQefx54hiyiXnmAiSJNaUqvoPsR1ffKzp/gODzlpRZeJepOE3PsQVXoKQ+Rjuhm4N8ZIB7Zh55FlFaTgZLuMlC0F9ryg+yA5gwMXl/TaBPvWiXp1a2gjdFw6GzJjEyHuQQpEfA7Rr56S8du8Y3xZq565ekf6Cr7OiNtSoiVYg1H4djGJXZm9wJIbq7MM2vBffHmCiUiRzW/Oid5jHehVyVERNLi4gH+Xr9dfJStu510/fAX5q891LWOeXTAt70rXv+dBp9ynjggL0Wpq09MhdyGX8aGyiq05/Wx2svGimXI=;iILAYXMBtFLIvPkdUIBy7w=="
 ---

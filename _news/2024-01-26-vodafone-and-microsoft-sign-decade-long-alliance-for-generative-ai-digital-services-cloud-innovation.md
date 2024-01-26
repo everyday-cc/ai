@@ -401,6 +401,20 @@ related:
       name: 01Net
       domain: 01net.it
     quality: 29
+  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
+    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
+    publishedDateTime: 2024-01-26T11:52:00Z
+    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 26
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
+        width: 1200
+        height: 856
+        isCached: true
 
 secured: "RXnvI5qwasR7RGdKmfDaujR9sEl8jAn4+0aKUOGqO2tVzfUYH5hugRDSuI+nZBvno9bATqmP/bb1mDinsyzTs47eT5AYgTrtUfh9Q66gMwnVgHwRosXDydfac4rv+rmFj7JJXBw6A8NA7Kz+PcEpcbuc14mxgm++xxOAcmlqmLBOdCfoir0+Ce+sWJv4A4OiSZOkSMQus0OhrsZ695VWgh37hq40s7d4Wq5085djAYbzzMuF9ydaXvb2ZvV0PCWorzagzuHdImSnwYC3AIzPdowhzYrtAULPAN2/5tB+PBAgsmySiZA84HYYe+0WXx4aNw9k06rQCNqoM4M5FrEIgiTdW6V3klzPd6aH3Xe6pFPpfVONTIkGmsRVByjNYNu/vZJatCtC+lgYAx5t6PB8+XOgCLOyz8GuS0GsnjdbHNU1dXTiKMDuBhc3jJpJeiM2IOt8K1yWDZelrEVaD80krBSM7H568h3oRtPUa50dS5bRwjo1vCi3t8UpzsS4rrMXDQC9QRTjj6sd2i4DBSUxFA==;aADmCXb3xHcibHxY0PQ+gQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-inve
 cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Tech Giants Take a Beating at FTC's AI Summit"
+    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
+    publishedDateTime: 2024-01-26T06:52:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "MeitY to seek cabinet nod for India AI program entailing over Rs 10,000 cr investments: MoS IT"
     excerpt: "New Delhi: The Ministry of Electronics and IT (MeitY) will seek cabinet approval for the India AI program, which includes the setting up of GPU-based servers in public-private partnership mode with an outlay of over Rs 10,000 crore, Minister of Electronics ..."
     publishedDateTime: 2024-01-23T11:47:00Z

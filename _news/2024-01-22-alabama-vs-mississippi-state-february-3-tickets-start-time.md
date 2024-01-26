@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS to invest $10 billion for two data centres in Mississippi"
+    excerpt: "AWS' Mississippi expansion plan comes days after it announced a more than $15 billion investment in Japan, and Google's move to set up a data centre just outside of London for $1 billion."
+    publishedDateTime: 2024-01-26T12:09:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/articleshow/107170105.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-231444,msid-107170304/aws.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Amazon plans two AWS data centers for $10 bln in Mississippi"
     excerpt: "in artificial intelligence (AI) over the next three years, as part of its new plan to become \"the industry's first AI-powered intelligent system\". Technologycategory ServiceNow raises annual subscription revenue forecast on GenAI product demand 12:26 AM ..."
     publishedDateTime: 2024-01-25T20:55:00Z

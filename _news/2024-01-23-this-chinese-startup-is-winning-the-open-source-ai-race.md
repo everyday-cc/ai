@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-o
 webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
         width: 841
         height: 560
-        isCached: true
-  - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
-    excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
-    publishedDateTime: 2024-01-21T12:53:00Z
-    webUrl: "https://www.globaltimes.cn/page/202401/1305782.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 3
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2024/2024-01-21/e4043edd-2cb0-48ac-b932-b654dfdb5d50.jpeg"
-        width: 1200
-        height: 720
         isCached: true
 
 secured: "/U8814MhGyd4/7RxwVA4Vl5e3OJ01jxYbF/J3H+CcDcFGFWaY5FaMkgFHYmuAEBqfMgaW5kDtV3svZzuvyOBWRoAJdAiTeMJtBM0D8tM4JYEK09wDj5Un/lhokkSPYskpaNMgneOTmsnfXq79dB89OQrVbZGIarFLE7IKGE18w3QiacxXPYu2jJupsqhjVjmdy5TCfMWsFrufOXohFE2RJzHSJI9WL/RZIIJIbxk1Zzd9duOKVezMQlNf3xzzC2828w3ydPlOUCVvSLBVaf9Pktr8b4dp0S9n1ce6YEH0fY5vhy2MB/EnpxQVHb5T8em5Zacz2eQhOXY3XTm1Xu1oXKccabn7JY3n0McCV/qiFPuXWAMGlLdlwR41yW6k72/MyW+L1py6D0IoFh8+ujzyP0y+xsQYxL5SYUX0p1kwSOGYmJNAG3S5naymD1qZ289obD+dNm+Qr58TNUfyBnft4XHfko6ATNmI58aa8wlK5tqUT0zoIrkJRxof+Q4WXbNRZErhBgAGfywxXwJw3V1mg==;vwEjWDk6BHO5SgLK1jTDGA=="

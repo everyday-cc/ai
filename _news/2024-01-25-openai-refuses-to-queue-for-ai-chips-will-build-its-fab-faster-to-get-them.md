@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowo
 webUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Digi Times
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
+    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
+    publishedDateTime: 2024-01-26T09:33:00Z
+    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 13
 
 secured: "5YX8icLFp6Dh82Df28fz9a9Op6BiMlbD9aUBSdXRmrOrASHC3Kw3sz7kGc5Vecl9jvhi817Jh3tRF29q6SGo7QZqcuTRMOOR2u+XK3Bq3NyGJ51HXOfe5uLJsHQ6b9UaIS+WiTXSOolv4kVDbPM3N77C8Z/JLQjZc7C0SvaP3RZlkOmf89zV3xYznPukCKUBr4Z0MmEQF7G/aHoNPFNuh185znrGmgRtQ+EdYU4wywbWWI/eo/189u4AUJlCvrbwDbMPNs50XA6roLY+eFPwpS7Ej585veey6eW2vLe6PsYYkC+R0sezN23lr3XUkG2g5Fz2vTDaZj87DoZPwpjoPp2CALr0+/XF+vK4SZQexHJ9NXxLhqIDpBScR8cQQC3E1uVPctC/LL3OAT1Qd73tDslDKipge1wDtEU1fhmpkhJcuMt9EYC/KU8ee4bKCN99+eEgTLtokF04RJtny3kfqJ5MLLyIAC6nJClwCz0eZb53BzFFHsGsDcg0sYQTu7Q8A8ipsWnHdJUh3Cy/YtPMIA==;OVch5izp/cqLT14annPn1g=="
 ---

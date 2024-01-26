@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
+    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
+    publishedDateTime: 2024-01-26T12:57:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "NIpUxvzEZP4BVAEmw49U78Uj6JTDebxyhZy1NQNfdXk/tNCXb8IKYm1hWkibQYKnUwCCMNMPIznQc+TYB97LuOu7L7uREl+RrgT08NChHoeEkw2u1gkLF7fDd2pK+L8cdx6xtvJ3gFpr5PUSp3/XHS1Mv7Ra9N2F9oRdz3lREsxKCAoGeSZHqscTtXoRvR9rtaxz7PLtCUQdQ2d2cu3YrH/jB6a43Kt5U69OGivm+DXSieBaRr4g9mMOj87ayqQ0YVuMlJltCU+ODp1xxM+ulbwO0/B0ssG81FC/XtdjJV6hgQdVFj9QtkcUZBEc5N+ZP/JPgOO8xhI6AIcpxUSoZrbKzg3jeFYRnGgWK9hes4LDLcqYcbDVyaT2imALIHMcoQnZVhjp1UW/WBR3mFeilaGqO2Smwf/BW/pPJWLuftAvmreD15NTh2NbQst6KwBOZ8lgvlDGfSDylCiQdLewCYlbNfJVtXE43CRA2NoruOF4q2uAatKl38eW3E4mZLcvv4a/GlImvY7apQgIUXa/zg==;7kokSfNFOP9H9j6DL1IZsA=="
 ---

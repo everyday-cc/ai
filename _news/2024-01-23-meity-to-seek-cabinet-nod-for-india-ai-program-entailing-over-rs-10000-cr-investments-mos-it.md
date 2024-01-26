@@ -57,6 +57,20 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Tech Giants Take a Beating at FTC's AI Summit"
+    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
+    publishedDateTime: 2024-01-26T06:52:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
 
 secured: "ekKvEENCl5IaEge2JdEw3w4TUIrGlFfTkhP37qGeEQba1L6PsCZjKKr/FQddEKbsQsay5W+CWXQwh8G+CCQdCs7UIAZ048YXSQ/N9yzMyYKVAjon2IoJ0x9XLS4+rEfrj4d0UzpJ2KGHg9J2CTlyOuzT/rGktmGZj8SkdVVe+4hOst9KUzpGhE7gCulicp9vsXQO0Q/woPydJmTFU758D5E2VuNXPWa/sU2e37/rpeVPHlT/IbDlNxOl7WRSt2vgyRlVnfAPbKph0NhORniqVAgSoRrstVSI0ERQOYPWSj9ssJFyxgDzAURppp2ocXb6/SfroDCwVcUfvOPtKlQG7+WKKvVL/Drbey+RYZmVWU3WWAja1bESW/qWx2tWVaUeG6BpigXyApl9M8BM15DsNfCGN5WYOMheUAFWYorCwhnAznm3uKO70Nzr5N9BikvTBpDxTgBRGvw1AQ1UIUrtSROZ2oO+ewQVC097uJrbvrikPA96RmKgb5RywI2E0bA4/eKM5NM3GXep/TqPtGXrUg==;FkSN/rY2Sak1VHsM9zG4Ig=="
 ---

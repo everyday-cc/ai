@@ -42,6 +42,20 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
+    excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
+    publishedDateTime: 2024-01-26T12:34:00Z
+    webUrl: "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1530150886.jpg?quality=85"
+        width: 7571
+        height: 5046
+        isCached: true
   - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
     excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
     publishedDateTime: 2024-01-25T23:00:00Z

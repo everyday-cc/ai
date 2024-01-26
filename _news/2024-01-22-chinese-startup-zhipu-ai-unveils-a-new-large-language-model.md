@@ -52,20 +52,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Chinese automakers gear up for global intelligence race by building on strengths in high-end international market"
-    excerpt: "When Elon Musk's Tesla lost its crown as the largest electric vehicle (EV) maker to Chinese automaker BYD in the fourth quarter of 2023, the American billionaire said at that time that \"Tesla is an AI/robotics ... a dual artificial intelligence (AI ..."
-    publishedDateTime: 2024-01-21T12:53:00Z
-    webUrl: "https://www.globaltimes.cn/page/202401/1305782.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 3
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2024/2024-01-21/e4043edd-2cb0-48ac-b932-b654dfdb5d50.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "qe7uuvM6lnYEB/B6mQL3No8FCQVcjMEVwBxTHiME7ycZ9wArlQ93oaidhrsvI9NoPlBhJ4DqaJoT8HtR+v1a9A7xwRVVir2kRdMf/A5OJz/HuKR36dObdfKJJE5++cQRR+iorSlp8bQ7vqeuQ89pPU/jmZHlfjId8hNLpPOtqQ4Jykahsn/0n0K67eCLCIG75OBQJ2PbJWMZbo9mF7QOGxAVIXIOZbFxjJ6NGvDACkMVd1Y2KdhMhFjMGHTzT+ze9xJZkAc3zUB0xDePsR5eLgKclAwWXEfrBpWy89b/WSd2R39tUCrxKGgzZCyLCddD6OuELUIkkMKDEeGM9q2N5A7+4FeqYQ0iNivPZbWDv20=;WHrXcsyqdjZPWIeECOfHfQ=="
 ---

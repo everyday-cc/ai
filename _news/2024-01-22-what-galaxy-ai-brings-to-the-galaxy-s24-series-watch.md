@@ -83,6 +83,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
+    excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."
+    publishedDateTime: 2024-01-26T12:41:00Z
+    webUrl: "https://gulfnews.com/technology/consumer-electronics/samsungs-ai-powered-galaxy-s24-series-makes-life-easier-than-ever-1.1706272769043"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 39
+    images:
+      - url: "https://imagevars.gulfnews.com/2024/01/26/-_18d45b1eb29_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
     excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"
     publishedDateTime: 2024-01-22T10:18:00Z

@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "61-year-old says he was wrongfully arrested due to facial recognition technology, then sexually assaulted in jail"
+    excerpt: "A 61-year-old grandfather is now suing Sunglasses Hut and Macy’s after he says he was wrongfully arrested and jailed in Harris County due to faulty facial recognition technology."
+    publishedDateTime: 2024-01-26T12:47:00Z
+    webUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-says-he-was-wrongfully-arrested-due-to-facial-recognition-technology-then-sexually-assaulted-in-jail/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_0ea45d2be86740c696cfaabb8db5d244_name_MicrosoftTeams_image__20_.png?_a=ATAPphC0"
+        width: 700
+        height: 447
+        isCached: true
   - title: "Texas grandfather was wrongly ID'd as Sunglass Hut robber by facial recognition technology and GANG-RAPED after being jailed for crime that took place while he was in ..."
     excerpt: "Using artificial intelligence and facial recognition software, EssilorLuxottica and Macy’s took the video from the robbery and determined that Murphy was the robber,' the lawsuit states. 'The video was recorded by Kimco’s poor low-quality cameras.'"
     publishedDateTime: 2024-01-25T21:51:00Z

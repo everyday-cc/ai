@@ -7,7 +7,7 @@ originalUrl: "https://www.wmbfnews.com/sports/betting/2024/02/04/clemson-vs-virg
 webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/04/clemson-vs-virginia-buy-womens-college-basketball-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Houston vs. Kansas February 3 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Saturday's Big 12 slate includes the Kansas Jayhawks ... Texas A&M-CC February 3 Tickets & Start Time Incarnate Word vs. New Orleans February 3 Tickets & Start Time Texas A&M-Commerce vs. Northwestern State February ..."
-    publishedDateTime: 2024-01-21T11:30:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/02/03/houston-vs-kansas-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 22
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/3IWB4OVZENNGHPZEIJ2MYGCYVE.jpg?auth=705f7e9839622b6624468478d065c441068e0f5d362cd15bb7ca5df1a12ea394&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Houston vs. Baylor February 4 Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Houston Cougars (11-7 ... Southern Utah February 3 Women's Basketball Tickets & Start Time"
     publishedDateTime: 2024-01-22T06:54:00Z
@@ -119,20 +105,6 @@ related:
     quality: 21
     images:
       - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/M7XKNDBPVNMPNCOYEGHO3YV724.jpg?auth=509dd1222d4df7c3b851a40c7c9be56315c75db57107cf1cce89fc3a61efe7f6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Denver vs. Oral Roberts February 3 Women's Basketball Tickets & Start Time"
-    excerpt: "Denver Pioneers vs. Oral Roberts Golden Eagles women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-21T12:24:00Z
-    webUrl: "https://www.kktv.com/sports/betting/2024/02/03/denver-vs-oral-roberts-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KKTV11
-      domain: kktv.com
-    quality: 20
-    images:
-      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/WDO4DZF27NMZLFIHNDSGJD3NZE.jpg?auth=e93045a9d5e031b9b22d230a199977fe5b1c05947aab28c4ce7b86db2177c6f7&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
