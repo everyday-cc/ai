@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 1098
         isCached: true
+  - title: "Apple Car project reportedly delayed yet again, this time to 2028 – self-driving system reduced to Level 2+"
+    excerpt: "Apple’s electric car project (also known as Project Titan) is back in the spotlight, with Bloomberg reporting the project has been delayed yet again, with production now slated to begin in 2028. Project Titan first"
+    publishedDateTime: 2024-01-26T02:24:00Z
+    webUrl: "https://paultan.org/2024/01/26/apple-car-project-reportedly-delayed-yet-again-this-time-to-2028/"
+    type: article
+    provider:
+      name: Paul Tan
+      domain: paultan.org
+    quality: 21
+    images:
+      - url: "https://paultan.org/image/2015/02/apple-titan-render-630x442.jpg"
+        width: 630
+        height: 442
+        isCached: true
   - title: "‘Make Or Break Point’: Apple Delays Car Launch To 2028, Dials Back Self-Driving Features"
     excerpt: "But Apple has struggled with how to approach such a product. As of the end of 2022, the Cupertino, California-based company aimed to release a car by 2026 with advanced self-driving features for highways. Now, after finding it wouldn’t be able to ..."
     publishedDateTime: 2024-01-24T00:00:00Z

@@ -39,15 +39,6 @@ related:
         width: 1456
         height: 971
         isCached: true
-  - title: "Nvidia, TSMC CEOs Meet as Global AI Chip Supply Remains Tight"
-    excerpt: "Nvidia Corp. Chief Executive Officer Jensen Huang met with his counterpart at Taiwan Semiconductor Manufacturing Co. this week to discuss AI chip supply constraints, a major challenge to the artificial intelligence boom that got going in 2023. The heads of ..."
-    publishedDateTime: 2024-01-25T11:43:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-01-25/nvidia-tsmc-ceos-meet-as-global-ai-chip-supply-remains-tight"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "NVIDIA and Jeff Bezos investing in Perplexity AI"
     excerpt: "In a bold move that's catching the attention of the tech world, NVIDIA and Jeff Bezos have placed their bets on an AI startup named Perplexity. This"
     publishedDateTime: 2024-01-24T13:58:00Z

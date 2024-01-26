@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "OpenAI's Sam Altman looking to raise billions for new AI chip venture. Here's what we know so far"
-    excerpt: "The report stated that OpenAI is not decided yet finalized the move but the company has been discussing on various options to resolve the AI chip shortage. OpenAI is focusing on diversifying its suppliers beyond Nvidia and working with other chip ..."
-    publishedDateTime: 2024-01-21T03:22:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far-11705800948990.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far/amp-11705800948990.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/openais-sam-altman-looking-to-raise-billions-for-new-ai-chip-venture-heres-what-we-know-so-far/amp-11705800948990.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/21/1600x900/DAVOS-WEF-2024-446_1705807277953_1705807303298.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z
@@ -118,34 +102,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGbvoXJqC7gY%2F0.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Sam Altman in talks with TSMC to launch AI chip plant"
-    excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
-    publishedDateTime: 2024-01-22T05:14:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant/107043258"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107043258,imgsize-10204,width-1200,height=765,overlay-etcio/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
-    excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
-    publishedDateTime: 2024-01-21T20:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
     excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
@@ -203,15 +159,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
-    excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
-    publishedDateTime: 2024-01-23T13:29:00Z
-    webUrl: "https://www.tomsguide.com/news/sam-altman-hopes-to-take-on-nvidia-with-new-global-network-of-ai-chip-factories"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
 
 secured: "t10m34Sh5d0EEuF2hBsxR3JKWjkYGnYNT5dVm1+aioD0fRwR/2ysFrriQm6xH5nmWLPnRN050oK6R0ZkCXFlmXmPJXgLJqzowHF0WgDOfnEGZPcRylT1uorwkWU2aOXSqNSAzByLZ70nlqUVkn5L666qm0eEgIqE9WbzpMuefiqVtM1+1daTrWQLewo2oBz81KWHyEgsgNOZecHkv79NNUoM+zTSb9C4pOG7iagk/+svsfyk5mEwj1oMmw/GCwMwqhG8jkDBNOtZSRTuHYdpF2dJcvB+s0esZg3U7wfKJMX3mi45yl9vZSrATp+trZ1N089/uk04Oro0WUJoCEkqId1BJ1y12WLMNRTsbguAxYAQ9TtELVM6COfL1m3oFClFZAtL3pQLcQBwTtWjvNKdb+xXYtvaRfu6BhIJFloi0iqzkXMPOR5aM5wod5YA3G67IZhLimGYWTAUQ4+TwPPkXzBCYl6mxHG7nZYyltXad+NisQlJNfjd4LGTVKqD6D3utiel6UoVBCUV/fAZNL3U0g==;5HOqkELM/eiEKs9UhWBp2w=="
 ---

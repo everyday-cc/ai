@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samford vs. Chattanooga February 3 Tickets & Start Time"
-    excerpt: "The Chattanooga Mocs (11-7, 3-2 SoCon) meet the Samford Bulldogs (16-2, 5-0 SoCon) in a matchup of SoCon teams at 4:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-01-21T04:21:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/samford-vs-chattanooga-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/WANJQ3AIG5PWNKM6YENCTTIRSI.jpg?auth=6a280c56ebcec92c9d40440045990f51fb118895b0c397d8e5851d4be609b0de&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Clemson vs. Virginia February 4 Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Sunday's ACC schedule includes the Virginia Cavaliers (9-9) against the Clemson Tigers (8-11) at 4:00 PM ET. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
     publishedDateTime: 2024-01-22T06:55:00Z

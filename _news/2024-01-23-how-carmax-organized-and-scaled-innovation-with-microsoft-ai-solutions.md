@@ -243,6 +243,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 57
+  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
+    excerpt: "The FTC said on Thursday that it has issued “compulsory orders” to five companies, requiring them to provide information regarding investments and partnerships."
+    publishedDateTime: 2024-01-25T18:42:00Z
+    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 57
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
+        width: 506
+        height: 338
+        isCached: true
   - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-25T05:56:00Z
@@ -271,6 +285,17 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "Microsoft, Amazon and Google are kingmakers for AI start-ups"
+    excerpt: "Microsoft Corp., Alphabet Inc. and Amazon.com Inc. have invested billions in the top AI start-ups, supercharging the fast-growing AI sector and establishing the old guard of technology companies as kingmakers for a new generation of businesses."
+    publishedDateTime: 2024-01-26T03:22:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 54
   - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
     excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
     publishedDateTime: 2024-01-26T00:59:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices"
-    excerpt: "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion."
-    publishedDateTime: 2024-01-22T15:01:00Z
-    webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI voice-cloning startup ElevenLabs valued at $1.1 billion"
     excerpt: "The company plans to expand into dubbing films or creating AI actors ElevenLabs, a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, has raised a new round of funding that values the two-year-old ..."
     publishedDateTime: 2024-01-22T16:36:00Z
@@ -64,22 +50,6 @@ related:
       - url: "https://i.tribune.com.pk/media/images/IMG_70661705925056-0/IMG_70661705925056-0.png"
         width: 492
         height: 474
-        isCached: true
-  - title: "AI voice cloning startup ElevenLabs becomes unicorn after $80 million funding round"
-    excerpt: "AI voice cloning startup ElevenLabs has gained unicorn status after its latest round of fundraising, per a Reuters report on Monday. According to a source, the company raised $80 million in Series B funding from investors led by Andreessen Horowitz ..."
-    publishedDateTime: 2024-01-24T06:50:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 51
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/i19zt7/article67771715.ece/alternates/FREE_1200/2024-01-04T174955Z_1617394727_RC24B5AC0VSG_RTRMADP_3_APPLE-AI-INVESTORS.JPG"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AI Voice-Cloning Startup ElevenLabs Valued at $1.1 Billion"
     excerpt: "Chief Executive Officer Mati Staniszewski said the latest financing gives his startup a $1.1 billion valuation. Tech investors have poured money into startups developing AI tools that generate convincing audio and video, eying the business opportunities in ..."
@@ -141,20 +111,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
-    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
-    publishedDateTime: 2024-01-22T18:25:00Z
-    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Fast-Rising Voice AI Startup ElevenLabs Hires Privacy Guru as GC"
     excerpt: "Farrah Zaman's arrival as legal chief coincides with the closing of a new funding round that values the business at $1.1 billion, up from $100 million last May."
     publishedDateTime: 2024-01-25T13:04:00Z

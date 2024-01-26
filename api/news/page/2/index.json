@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
+      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
+      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "publishedDateTime": "2024-01-25T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
+      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
+      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "publishedDateTime": "2024-01-25T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse.md",
+      "title": "Will Generative AI Help Us Solve The Climate Crisis (Or Will It Make It Worse)?",
+      "excerpt": "You might be surprised to learn that AI is already proving to be a powerful weapon in the fight against climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2091ee442f865f2c67c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "publishedDateTime": "2024-01-25T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards.md",
       "title": "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards",
       "excerpt": "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ...",
@@ -707,7 +854,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -1098,143 +1245,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-ai-helps-drive-cloud-more-safely.md",
-      "title": "How AI Helps Drive Cloud More Safely",
-      "excerpt": "There’s a place for an accelerated cloud vulnerability resolution process and a drive down safer cloud journeys through the use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65afcb5df16229caf4ad0178/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/",
-      "publishedDateTime": "2024-01-24T06:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-facial-recognition-software-concerns.md",
-      "title": "AI facial recognition software concerns",
-      "excerpt": "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/video/1399941",
-      "originalUrl": "https://www.fox26houston.com/video/1399941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/video/1399941.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp",
-      "publishedDateTime": "2024-01-24T00:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
-      "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
-      "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
-      "originalUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

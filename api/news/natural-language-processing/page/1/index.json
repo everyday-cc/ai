@@ -363,59 +363,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-22-ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices.md",
-      "title": "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices",
-      "excerpt": "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-22-voice-search-seo-practices-optimizing-for-the-future-of-search.md",
       "title": "Voice Search SEO Practices: Optimizing For The Future Of Search",
       "excerpt": "I believe that adapting strategies to optimize content for voice search should be one of the highest priorities for small-business owners.",
@@ -1402,6 +1349,58 @@
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-solos-debuts-airgo-3-smart-glasses-that-can-translate-languages.md",
+      "title": "Solos debuts AirGo 3 Smart Glasses that can translate languages",
+      "excerpt": "Beyond language translation, the AirGo3 Smart Glasses boast a comprehensive array of features like SolosChat and SolosTranslate powered by ChatGPT. It leverages AI to facilitate natural voice communication through the Solos app, enabling users to perform tasks via voice commands.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "originalUrl": "https://venturebeat.com/ai/solos-debuts-airgo-3-smart-glasses-that-can-translate-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/solos.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 694,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

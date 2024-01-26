@@ -2,6 +2,144 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-18-farm-ng-raises-series-a-funding-to-scale-amiga-robot-and-ai-for-small-to-midsize-farms.md",
+      "title": "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms",
+      "excerpt": "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "originalUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg",
+          "width": 770,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
+      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
+      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
+      "publishedDateTime": "2024-01-18T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
+      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
+      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
+      "publishedDateTime": "2024-01-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
       "title": "Academic Intelligence: The Evolution of Education Through AI",
       "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
@@ -1075,153 +1213,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-alphageometry-an-olympiad-level-ai-system-for-geometry.md",
-      "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "excerpt": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "originalUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-deepminds-latest-ai-can-solve-geometry-problems.md",
-      "title": "DeepMind’s latest AI can solve geometry problems",
-      "excerpt": "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
-      "originalUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 354,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
-      "publishedDateTime": "2024-01-17T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cryptography-use-cases-from-secure-communication-to-data-security.md",
-      "title": "Cryptography use cases: From secure communication to data security ",
-      "excerpt": "When it comes to data security, the ancient art of cryptography has become a critical cornerstone of today’s digital age.\nThe post Cryptography use cases: From secure communication to data security  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T15:34:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Security"
       ]
     }
   ],

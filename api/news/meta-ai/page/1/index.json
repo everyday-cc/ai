@@ -359,59 +359,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-22-ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices.md",
-      "title": "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices",
-      "excerpt": "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
       "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
       "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
@@ -574,15 +521,15 @@
       "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
       "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
       "sourceUrl": null,
-      "webUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
-      "originalUrl": "https://richmond.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_4a2e3610-bc1d-5761-a84a-ce39f176fb7c.html",
+      "webUrl": "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html",
+      "originalUrl": "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/a2/4a2e3610-bc1d-5761-a84a-ce39f176fb7c/65a1991e3678b.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/c1/5c1051c0-e2b9-58b8-968d-a4954f921637/65a1991806425.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -597,8 +544,8 @@
       "publishedDateTime": "2024-01-13T14:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1422,6 +1369,40 @@
       "provider": {
         "name": "ABC 7 Chicago",
         "domain": "abc7chicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-chp-catches-llama-trotting-across-i-80s-snowy-donner-summit-was-he-looking-for-santa.md",
+      "title": "CHP catches llama trotting across I-80’s snowy Donner Summit. Was he ‘looking for Santa’?",
+      "excerpt": "The twists in this llama drama finished with a merry ending this holiday season. A llama — exuding festive cheer with a red harness — broke free from his owner’s home and began trotting acro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/local/article283436028.html",
+      "originalUrl": "https://www.sacbee.com/news/local/article283436028.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/local/article283436028.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/local/article283436028.html",
+      "publishedDateTime": "2023-12-22T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
         "images": null,
         "publishers": null,
         "authors": null

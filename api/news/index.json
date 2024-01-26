@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-heads-of-chip-giants-nvidia-tsmc-meet-in-taiwan-as-tight-chip-supply-threatens-to-hinder-ai-boom.md",
+      "title": "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom",
+      "excerpt": "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/26/a2635928-5278-4dc8-8593-d3abe5d38ede_2622355f.jpg?itok=G3ionfAy&v=1706240895",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "publishedDateTime": "2024-01-26T04:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films.md",
+      "title": "Eleven Labs Secures $80 Million For Voice Cloning, AI Photo App Artisse Bags $6.7 Million, AI Art Films",
+      "excerpt": "In this photo illustration, the Eleven Labs logo is displayed on a smartphone ... [+] screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket v",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b31a394eaeffd3d60f20e7/0x0.jpg?format=jpg&crop=1417,797,x0,y209,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/",
+      "publishedDateTime": "2024-01-26T02:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-love-machina-meet-the-first-ai-robot-based-on-a-living-human.md",
       "title": "‘Love Machina’: Meet the First AI Robot Based on a Living Human",
       "excerpt": "The new documentary “Love Machina” reveals the messiness of creating a digital consciousness in a robot bust’s form.",
@@ -273,6 +376,50 @@
       "topics": [
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist.md",
+      "title": "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1078,153 +1225,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
-      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
-      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
-      "publishedDateTime": "2024-01-25T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
-      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
-      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
-      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
-      "publishedDateTime": "2024-01-25T09:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse.md",
-      "title": "Will Generative AI Help Us Solve The Climate Crisis (Or Will It Make It Worse)?",
-      "excerpt": "You might be surprised to learn that AI is already proving to be a powerful weapon in the fight against climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2091ee442f865f2c67c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
-      "publishedDateTime": "2024-01-25T06:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

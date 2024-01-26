@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-want-to-improve-rewire-your-brains-neural-pathways.md",
+      "title": "Want To Improve? Rewire Your Brain's Neural Pathways",
+      "excerpt": "Will your brain adjust just because it has the capability and capacity to do so? Not necessarily. You have to want to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae8254d725061c1c6886e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
+      "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
+      "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106875152-1619622957732-Avi_.jpg?v=1619623037",
+          "width": 4800,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "publishedDateTime": "2024-01-23T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-why-does-ai-being-good-at-math-matter.md",
+      "title": "Why does AI being good at math matter?",
+      "excerpt": "AI systems that can solve complex math could allow us to build more powerful AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
+      "originalUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/240122_AImath.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
+      "publishedDateTime": "2024-01-23T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-the-future-of-work-ai-remote-work-and-the-labor-shortage.md",
       "title": "The Future Of Work: AI, Remote Work And The Labor Shortage",
       "excerpt": "Artificial intelligence will change the nature of work in the coming years, interacting with demographics and remote work desire.",
@@ -155,7 +301,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -863,6 +1009,48 @@
       ]
     },
     {
+      "path": "_news/2024-01-23-ai-voice-cloning-startup-elevenlabs-valued-at-11-billion.md",
+      "title": "AI voice-cloning startup ElevenLabs valued at $1.1 billion",
+      "excerpt": "The company plans to expand into dubbing films or creating AI actors ElevenLabs, a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, has raised a new round of funding that values the two-year-old ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
+      "originalUrl": "https://gulfnews.com/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/03/04/Computers-with-human-brain-cells-could-soon-be-a-reality_186ac972c54_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
+      "publishedDateTime": "2024-01-22T16:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024.md",
       "title": "It’s 2021 for AI while the rest of the startup market is stuck in 2024",
       "excerpt": "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ...",
@@ -911,59 +1099,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices.md",
-      "title": "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices",
-      "excerpt": "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Meta AI"
       ]
     },
     {
@@ -1066,143 +1201,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-3-artificial-intelligence-ai-stocks-to-buy-with-500-and-hold-forever.md",
-      "title": "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever",
-      "excerpt": "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg",
-          "width": 709,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-voice-search-seo-practices-optimizing-for-the-future-of-search.md",
-      "title": "Voice Search SEO Practices: Optimizing For The Future Of Search",
-      "excerpt": "I believe that adapting strategies to optimize content for voice search should be one of the highest priorities for small-business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aac9452af0e05000b41374/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
-      "publishedDateTime": "2024-01-22T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-openai-plans-to-set-up-chip-factories-worth-100-billion-report.md",
-      "title": "OpenAI plans to set up chip factories worth $100 billion: Report",
-      "excerpt": "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "originalUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
-      "publishedDateTime": "2024-01-22T12:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
