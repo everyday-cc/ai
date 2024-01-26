@@ -86,6 +86,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Generative AI Is Revolutionizing Customer Service"
+    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
+    publishedDateTime: 2024-01-26T06:22:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "No, the Samsung Galaxy S22 isn’t getting Galaxy AI features – here’s why"
     excerpt: "When probed on the chipset uniformity between the Samsung Galaxy S23 FE and Samsung Galaxy S22 – both phones use Samsung’s own Exynos 2200 chipset – Chomet acknowledged the fact but added: “For now, we’re limiting Galaxy AI to last-gen devices.”"
     publishedDateTime: 2024-01-23T07:23:00Z

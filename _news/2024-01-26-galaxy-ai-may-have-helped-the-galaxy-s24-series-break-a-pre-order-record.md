@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
-excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
-publishedDateTime: 2024-01-25T16:36:00Z
-originalUrl: "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/"
-webUrl: "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/"
+title: "Galaxy AI may have helped the Galaxy S24 series break a pre-order record"
+excerpt: "touting a variety of AI capabilities. The Korean brand allowed users around the world to pre-order the devices ahead of the January 31 in-store sale date, and it looks like pre-orders are off to a good start in one market. Maeil Business News reports that ..."
+publishedDateTime: 2024-01-26T08:49:00Z
+originalUrl: "https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/"
+webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/"
 type: article
-quality: 69
+quality: 66
 heat: -1
 published: false
 
@@ -19,11 +19,10 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg"
+  - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-series-standing-angled.jpg"
     width: 1920
     height: 1080
     isCached: true
@@ -59,17 +58,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Galaxy AI may have helped the Galaxy S24 series break a pre-order record"
-    excerpt: "touting a variety of AI capabilities. The Korean brand allowed users around the world to pre-order the devices ahead of the January 31 in-store sale date, and it looks like pre-orders are off to a good start in one market. Maeil Business News reports that ..."
-    publishedDateTime: 2024-01-26T08:49:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/"
+  - title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
+    excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
+    publishedDateTime: 2024-01-25T16:36:00Z
+    webUrl: "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/"
     type: article
     provider:
       name: Android Authority
       domain: androidauthority.com
-    quality: 66
+    quality: 69
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-series-standing-angled.jpg"
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -97,6 +96,6 @@ related:
       domain: techopedia.com
     quality: 15
 
-secured: "u3pk0KzWq8+8UnGt02gy5p+NKtqwHMCuhzeFuM4Z7EOCZpSoCF30TkR5jch5o0E0pmxWFA1Dvb77y7Vq2g6+5C0SdrfjvEPVOmXI7QfaDoCEos19WB3hWLdaSBJiwpfP7Gsd2MA9vDsSa/8j9OQvHUXJ79KRkaOVYAZKorRsgLRZ3QSy1C/tziqHs6KZkowg9ONXTaDUdTlNvrq5VluUlo0F0rq72o2htxoh4rm2+i8zzXFFZUDynW4xm2IH8065W943JXWKemFHVVLjlIPaOGojyfI9htmfq6u62zLi5HjrTKGQdRL5RwzAJT7ZsfBqxbZZfmzrT4dYB4wwntgKy+2xBvc/mD2AZb98YvC5wnE=;7m7cEM2x90fYxcx7lCWRDw=="
+secured: "U9ssMcj7VcBlIccuZ8YN7v+rn4myJHVQP9HKVqDOZ1aav+F6iFqG94/WUhSmc3vTNL2pk+JGeHFwNkQqE647vCUvZYqt9JIjw3e/JRuYp25nUCdKl96B9lGqdavtrNNzkZXz+fG6UFHZqGyRdoleKcBC1zxO26MKO38zpnm66nS9pQWDQ/cCwcA/NGPb+Z8EyNgwUJeMgr1JWOKLzo0ikInkJL7nZ5/Ysf10Yu8C3Uy5ivBxaDyLgRTDKGy+KoRP5P+P15gc4Kxm8CPzn268JNVB680YZ2B9OWFjPl9gPu+yVdmDFLfz+2wJ3bdnt0xQoXEvXJMl0qNT01JRqeur5V/rcVWAk3CqMHSAVQAz4AU=;iTUDAHCpbM4a3P/dOJn1IA=="
 ---
 

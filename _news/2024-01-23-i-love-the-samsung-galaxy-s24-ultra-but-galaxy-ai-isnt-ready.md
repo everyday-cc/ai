@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 69
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Galaxy AI may have helped the Galaxy S24 series break a pre-order record"
+    excerpt: "touting a variety of AI capabilities. The Korean brand allowed users around the world to pre-order the devices ahead of the January 31 in-store sale date, and it looks like pre-orders are off to a good start in one market. Maeil Business News reports that ..."
+    publishedDateTime: 2024-01-26T08:49:00Z
+    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 66
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-series-standing-angled.jpg"
         width: 1920
         height: 1080
         isCached: true

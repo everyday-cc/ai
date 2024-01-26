@@ -1,27 +1,33 @@
 ---
 category: news
-title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-publishedDateTime: 2024-01-26T02:00:00Z
-originalUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
-webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+title: "How Generative AI Is Revolutionizing Customer Service"
+excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
+publishedDateTime: 2024-01-26T06:22:00Z
+originalUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
+webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
+ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-    width: 1100
-    height: 550
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -79,22 +85,6 @@ related:
     quality: 89
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
         isCached: true
@@ -158,6 +148,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
+    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
+    publishedDateTime: 2024-01-26T02:00:00Z
+    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
     publishedDateTime: 2024-01-22T18:08:00Z
@@ -187,6 +191,6 @@ related:
         height: 576
         isCached: true
 
-secured: "wI6x6mZLIp9zC5RE5iPEkSDme0lXQiquXdk0Bn40jRnijpU0bUMnVPUbpBgixEUpnAIUdN7ez0TlBXOO3Ekw02oDf+DGt1qZfbLQceeGTPYKVId0KpI3TBCngYqJFI2pmZYlKmYyByCnMkwQrOB5PuFwZKEGh5JNmxczCDhe4eE5hiAlHOQvY7zs/6SiuGKRps9leUQJ24Bk+h0x+GpgKtjRSxqcBKgsH2zIwwqyuGY0q8jHPN94YXkQ2vnzANsv6eWg9MXI1B41lg9EqFQ4X+sveGMOzoR9mHQQ6LWsR/gssE9gR2ON4h/RI+JBTuC+kiqzgGJGxaqKYUchcw0snPOj+Vn+b/qiZbcxTdA63X1mF0q5QPNPzUZP/95plF43SZ+lANF5XMGd9BVNP+EDsojweKGHhv8I29GUzQ7IcqURxyBQOSrWf7H5b2rnT81JZccMRyizk8YOZHqfU3DWShOn3DiGXK8CnbMGuq3rSpN3CwAyQULXTxdT2rfPcmCb7CrLlL19ch3Dyq0cPGXV5A==;IGyl3i/FV358aywsnpGXTg=="
+secured: "NebUyyrwUAaDN6qs99RauYVOU1UN8zodFGdypEpmsQBtZ2p+MW/xGisG3V5M2SsRJzmGSxDSooLnDdges/ufWg4LKeSGOMpnWbz1yvfrPLiO4qLl1SoSPkXLQopv9el+GDgmraaRKfcjNOrHX+nq5ufFcuFjvJ0B3wbtjo+djvZTHCSBflY9mcr4o7KyO8EeKMvearXgmKrf7rv5gf2HnoT2nunmHerNL6n0W5l7bB4ChJxh+4Jfk2OGCTsUyWDNd1zlsITnjpfOoL+QTiPt1XRD6BycBMBwzDK1qNoyGv3G6gYJgCxd0pk7PL5R3T/Cd1tXbin50nprk723nGkm9ZDRvW3uRwGoAs07YDyI4po=;4PGknXWXj2rPn8hF9rWNiA=="
 ---
 
