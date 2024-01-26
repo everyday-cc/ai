@@ -39,6 +39,22 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "AI in 2024: Riding the next wave of transformation"
+    excerpt: "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ..."
+    publishedDateTime: 2024-01-26T06:39:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Could Snowflake Be the Best Artificial Intelligence (AI) Stock to Own in 2024?"
     excerpt: "Snowflake(NYSE: SNOW) has become a popular artificial intelligence (AI) stock for a good reason: It fuels AI innovation. AI is built on the back of data, and Snowflake's business of data collection, storage, and processing makes it a perfect AI ..."
     publishedDateTime: 2024-01-21T20:31:00Z

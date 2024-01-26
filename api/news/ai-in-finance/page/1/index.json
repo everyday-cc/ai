@@ -540,10 +540,10 @@
     {
       "path": "_news/2024-01-11-rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams.md",
       "title": "Rigetti Computing Awarded Innovate UK Grant to Develop Quantum Machine Learning Techniques for Financial Data Streams",
-      "excerpt": "Rigetti UK Limited, a wholly owned subsidiary of Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced that it was awarded an Innovate UK grant as part of the Feasibility Studies in Quantum Computing Applications competition.",
+      "excerpt": "Rigetti will be joined by Amazon Web Services (AWS), Imperial College London, and Standard Chartered to develop quantum machine learning techniques designed to enable financial institutions to ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams-1032960520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams-1032960520",
+      "webUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
+      "originalUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -553,21 +553,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:30:00Z",
+      "publishedDateTime": "2024-01-11T14:37:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

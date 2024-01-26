@@ -39,6 +39,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
+    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
+    publishedDateTime: 2024-01-26T06:57:00Z
+    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Democrats sound alarm over AI robocall to voters mimicking Biden"
     excerpt: "Fake robocall beginning ‘What a bunch of malarkey’ encourages Democrats to not vote in New Hampshire primary"
     publishedDateTime: 2024-01-22T19:13:00Z

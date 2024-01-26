@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coe
 webUrl: "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coes-for-model-risk/"
 type: article
 quality: 136
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The role of artificial intelligence in solar energy"
+    excerpt: "As Artificial Intelligence (AI) advances, its transformative impact on the renewable energy (RE) sector has become increasingly apparent. AI’s ability to analyse patterns and leverage vast knowledge has set the stage for improvements in energy production, conversion, and delivery."
+    publishedDateTime: 2024-01-26T06:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/Untitled-design-2024-01-25T155933.608.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The State of AI in Literary Translation"
     excerpt: "So-called translation fails can get plenty of attention on social media worldwide — particularly when they involve big-name buyers and/or shocking mistranslations in marketing materials. Interest in literary translation,"
     publishedDateTime: 2024-01-25T10:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Here’s how AI can enhance cybersecurity in healthcare"
+    excerpt: "Artificial intelligence (AI) can help because of its potential to find anomalies in huge datasets in no time, facilitating early detection of ransomware, breaches, and insider threats. Before we highlight the ways AI impacts healthcare, let’s look at the ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.scmagazine.com/perspective/four-ways-ai-can-enhance-cybersecurity-in-healthcare"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 54
+    images:
+      - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/DavidBalabanColJAN2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z

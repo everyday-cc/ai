@@ -26,6 +26,24 @@ images:
     height: 899
     isCached: true
 
+related:
+  - title: "Budget 2024 Expectations: What fintech and digital lending industry expects this year?"
+    excerpt: "The thriving fintech and digital lending industry in India, encompassing the gold loan sector, delivers innovative and accessible credit solutions to millions in rural and underserved areas through digital platforms and technologies."
+    publishedDateTime: 2024-01-26T04:55:00Z
+    webUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024-11706181720832.html"
+    ampWebUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/25/1600x900/jason-briscoe-amLfrL8LGls-unsplash_1706184277887_1706184290565.jpg"
+        width: 1373
+        height: 900
+        isCached: true
+
 secured: "lX9enwPBATO680pcJqRshIqSnW5PjnEuAXSpBgnKJ86Yu8jA2CqLloxv9EP1xa3FHyV9caXya7ZVM5hKy2n/FLQqebcw0EQO4RDgmSQSqTa6/9UTop/QidglM7bqGpvppGhjfe6Sn4a1XXHJDNAvjiIeY9Wu6yEhrCPgNoyggoS5dI0grPGsgs+90lj2FQSngmX5gDeKeN68exApHgM9RGczRxNLL05J3HVDppNkL7sY7RGKTQiSlpTNg9vO+uGdSg/9LQACPanNtTkBmAWoYGBMqgn5X+Ap0I1PYZ7dhZhegAOgxGhamzKkgf3sTi6Gbmpvnd6JxTdTKnOAnjG+H1+TbzMfqO3c1AmpcGwW/iY=;IAuhSAy5ifrHFKy/ohr2jw=="
 ---
 
