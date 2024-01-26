@@ -42,6 +42,22 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
+    excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
+    publishedDateTime: 2024-01-25T23:00:00Z
+    webUrl: "https://www.barrons.com/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP6244888337299153745034023267276247467373---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-25T18:27:00Z

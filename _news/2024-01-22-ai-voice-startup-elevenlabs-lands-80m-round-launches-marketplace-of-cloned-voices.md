@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-22T15:01:00Z
 originalUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
 type: article
-quality: 63
-heat: 183
+quality: 65
+heat: 185
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"

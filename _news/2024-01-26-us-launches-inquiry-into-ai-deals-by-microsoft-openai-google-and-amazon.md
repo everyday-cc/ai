@@ -2,11 +2,13 @@
 category: news
 title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
 excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-publishedDateTime: 2024-01-25T18:06:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
+publishedDateTime: 2024-01-25T17:26:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
+ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
 type: article
-quality: 33
+quality: 73
 heat: -1
 published: false
 
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
@@ -64,22 +72,6 @@ related:
       - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
-    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
-    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 74
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
     excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
@@ -349,6 +341,6 @@ related:
       domain: 01net.it
     quality: 29
 
-secured: "QrLPYf0h7IRBscbyIXREQbwR96Vp2+77IgnNKIvPJLgRoFEzz88rp383WHDzu9TVSZTMml5UDn7GIo86tNQyBjVm7+AlzT4WZIIUCdz0R5tvwMwMI0jf+TZfoQ/5czGbH8yojvAoD3xuge6IPUaNmOBO3WobN6cgWekph7WPPy5UYC+HrXMC8e89rlXVsFhgx7ZOUaQe0OOE5fLGVYDRiKdHV9nMakwNm128Q+T7vXLzH/5iu/9OXdKA5cjzr9zyZ/CVftXY7qPKeajotmK8eIWw0HpM8qRAHbey/cRRFxbtJDwZbvMyA9Az9BSv8juIBnhF2h3tItbQ/eKxWLKQixrd+rrNz6I5QmO5TEpf41Igg7mr04XoSBtP6zIhNZXsYINwTgIRkUkyJ18gBSzHMTCzG5FxDVk0UY9KCG/7Yx5d0PfuZQk0lprlk59TkwkMcGp4d2+5NTpxe41SEC7PoPZX4KIBmW/fTcTPxoKYGYzdvg+sgZHilwMCPQIYuJOj1HM2Y7MQQ4SxbaMzDslCLw==;LqzQw18usU4Je+8wtqw1mA=="
+secured: "oL+Yj0/KfvJ+rxGw6h3PLsxrANEuPc5RRjcY/JwWQPAEWLtxjqI74fNg8S5jCC006YPwRI2frrJVLfqt1pwg8WGAK4qyTIoKNr4HRtPxMQHtN4AhotNLc2gtpXGa4UCSzwYzuvbv/kFALF9PivwtIDz6zZdll+W8bxgkw8StzSKNHOU62dkw1k1fID7x7DIjfnSBIhCngSpLV5FmvfLsVzWPurj2mH54MzTUcVxxJyMCMoRJkwvHOHzMiJjD/b9HPVa4e8qsL1BoLZZv02Oj7sa+tOZQqsfrRfjZmOrsViYu40MSrHblknBKVaIkYIodcGq5tHCadbW64usZrop0jYvJCPPXQdqFiswxTBlYjrM=;661+peM5bKNrnADxloMEgA=="
 ---
 

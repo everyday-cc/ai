@@ -128,6 +128,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
+    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
+    publishedDateTime: 2024-01-24T17:14:00Z
+    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Google Adding AI to Chrome Browser"
     excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
     publishedDateTime: 2024-01-23T17:43:00Z

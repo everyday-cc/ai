@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-01-09-artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch.md",
-      "title": "Artificial Intelligence: OurCrowd's 20 Verticals For Investors To Watch",
-      "excerpt": "AI seems to be the world’s fastest-growing investment sector. The rush of interest in ChatGPT and similar generative AI platforms has triggered a global wave of funding for the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36555269/artificial-intelligence-ourcrowds-20-verticals-for-investors-to-watch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/09/screenshot_2024-01-09_at_6.58.18_pm.png?width=1200&height=800&fit=crop",
-          "width": 668,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36555269",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36555269",
-      "publishedDateTime": "2024-01-09T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-09-slow-and-steady-waymo-is-winning-the-self-driving-race.md",
       "title": "Slow-and-Steady Waymo Is Winning the Self-Driving Race",
       "excerpt": "That Waymo now stands ahead of its competitors should serve as a lesson to companies rushing forward with artificial intelligence: A little caution can pay off.",
@@ -1357,6 +1314,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports.md",
+      "title": "Nitin Gadkari Takes A Firm Stand Against Autonomous Vehicles & Tesla Imports",
+      "excerpt": "Nitin Gadkari strongly opposes the introduction of autonomous cars in India, citing potential job losses for around 80 lakh drivers when questioned about the introduction of driverless vehicles to reduce road accidents in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556",
+      "originalUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-106122870,thumbsize-1187784,width-1280,height-720,resizemode-75/106122870.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/auto/nitin-gadkari-takes-a-firm-stand-against-autonomous-vehicles-tesla-imports-article-106122556/amp",
+      "publishedDateTime": "2023-12-19T10:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

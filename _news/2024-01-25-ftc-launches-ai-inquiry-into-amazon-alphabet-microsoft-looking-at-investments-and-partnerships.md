@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-ama
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
 type: article
 quality: 90
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
+    excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
+    publishedDateTime: 2024-01-25T23:00:00Z
+    webUrl: "https://www.barrons.com/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP6244888337299153745034023267276247467373---1.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
     excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
     publishedDateTime: 2024-01-25T21:43:00Z

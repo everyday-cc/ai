@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Mastering AI interaction with GoDaddy: A UAE business’s guide to effective AI prompting"
-    excerpt: "By intuitively understanding the customers’ business and preferences, GoDaddy’s AI engine provides a substantial head start for establishing new WordPress sites. This includes pre-generated content and images tailored to customer needs. Ethics and ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mastering-ai-interaction-with-godaddy-a-uae-businesss-guide-to-effective-ai-prompting-wp6mo5s9?amp=1"
+  - title: "‘Love Machina’: Meet the First AI Robot Based on a Living Human"
+    excerpt: "The new documentary “Love Machina” reveals the messiness of creating a digital consciousness in a robot bust’s form."
+    publishedDateTime: 2024-01-25T23:28:00Z
+    webUrl: "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 51
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NmIwZGE1YTEtMGEzMS00/3/godaddylogo-jpg.jpeg?f=3%3A2"
-        width: 768
-        height: 512
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706225226/240124-love-machina-tease_xtbk4y"
+        width: 1480
+        height: 833
         isCached: true
+  - title: "‘Love Machina’ Review: Artificial Intelligence Doc Fails to Ask the Interesting Questions"
+    excerpt: "Peter Sillen’s documentary follows married couple Bina and Martine Rothblatt and the robot they constructed to transfer Bina’s consciousness."
+    publishedDateTime: 2024-01-25T22:00:00Z
+    webUrl: "https://www.indiewire.com/criticism/movies/love-machina-review-1234948198/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 47
+    images:
+      - url: "https://www.indiewire.com/wp-content/uploads/2024/01/80g980futLoveMachina-Still1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Watch the Robot Star of ‘Love Machina’ Discuss Life on the Sundance Red Carpet"
+    excerpt: "The three humans (and one AI) spoke about the process of making the hot Sundance documentary, the rise of artificial intelligence, and what they hope audiences take away from their unconventional love story."
+    publishedDateTime: 2024-01-23T15:00:00Z
+    webUrl: "https://www.indiewire.com/video/love-machina-sundance-interview-robot-1234947094/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 15
 
 secured: "B6eAKob0XOq7tLknuG3XtZkrVnEXbY1qPvXyf+b01vdwXnN05T7l1/rPx0oHQVLGRYOPdqKBqgCr2yUh33nA2a/VW3XR5xmLDtSX29E1V4RkMtXWNI2M7NUwWgYxr81hQC4VJSNWXiHL+KzRiwOeEss0er8Ej3PPLjEdrcSHfagVTIlar+E8Oy8kyO6ZfS/Zin+bfbiQWka/4B+Azxldpk+l3cCHCl66q2ZqosWbTEdfVKLUFkvekzNHqfOyZSJz5f6GRi3ho2CIpzn5zCk24u4lwRToBdBKHLeadoAKeoEj+bdQNOToCvT6ax5oQcvyslSganUqq+XAfJ7G/X5nJ40h65f7lR13ov6rYoUksIQ=;kCY+l8/Qo8H7G5+rARhtBA=="
 ---

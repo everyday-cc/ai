@@ -19,43 +19,50 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market Set for 23.4% CAGR, Crossing US$ 140.23 Billion by 2033"
-    excerpt: "The natural language processing market is poised for remarkable expansion, with projections indicating that it could exceed a staggering US$ 140.23 billion by the year 2033. This substantial growth trajectory is fueled by an extraordinary CAGR of 23."
-    publishedDateTime: 2024-01-23T04:15:00Z
-    webUrl: "https://www.fmiblog.com/2024/01/23/natural-language-processing-market-set-for-23-4-cagr-crossing-us-140-23-billion-by-2033/"
+  - title: "Fintech Klarna Enters Subscription Market with Launch of Klarna Plus in the United States"
+    excerpt: "Klarna, the AI powered global payments network and shopping assistant ... online lending, and other forms of Fintech. Join Crowdfund Insider and securitiescrowdfunding experts to review thepast years market of privatesecurities offerings availableonline."
+    publishedDateTime: 2024-01-25T18:03:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 29
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2024/01/Natural-Language-Processing-Market.jpg"
-        width: 1000
-        height: 418
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Global Healthcare Natural Language Processing Industry Set to Skyrocket to US$ 18.5 Billion by 2033 | Reveals Future Market Insights"
-    excerpt: "The Global Healthcare Natural Language Processing Industry is experiencing an extraordinary surge, with a projected valuation of approximately US$ 3.5 Billion by the end of 2023. This meteoric rise is underpinned by a robust Compound Annual Growth Rate (CAGR) of 18."
-    publishedDateTime: 2024-01-22T11:51:00Z
-    webUrl: "https://www.fmiblog.com/2024/01/22/global-healthcare-natural-language-processing-industry-set-to-skyrocket-to-us-18-5-billion-by-2033-reveals-future-market-insights/"
+  - title: "FinTech Focus: Catch latest developments of the week"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-25T10:33:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-11/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 25
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2024/01/Global-Healthcare-Natural-Language-Processing-Industry.jpg"
-        width: 1000
-        height: 600
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "GCC Artificial Intelligence Market Size To Reach US$ 23.7 Billion By 2032 At 13.88% CAGR"
-    excerpt: "(MENAFN- IMARC Group) The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market ... and competitiveness in various non-oil sectors such as healthcare, finance, retail, and tourism. In line with this, AI is being widely used for ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://menafn.com/1107765559/GCC-Artificial-Intelligence-Market-Size-To-Reach-US-237-Billion-By-2032-At-1388-CAGR"
+  - title: "Majority of Consumers View Circularity as a Money Saver, According to Report from Fintech Klarna"
+    excerpt: "The vast majority of consumers are “aware of the financial benefits of circular practices – particularly repair and second-hand shopping” – finds a new report from Klarna, the AI-powered payments ... and other forms of Fintech."
+    publishedDateTime: 2024-01-23T13:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220610-majority-of-consumers-view-circularity-as-a-money-saver-according-to-report-from-fintech-klarna/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "yzFZhYJN6amlnpGrSvIMIVKsYy48USvrvWSe9R9Hn6kGJLWn3aL3oK1ruaDj6R4a39fKXmG7PNQavwyRE7hbObGgBLGRFONyzVA/KHXaKcaQolMMGApcWfQlXl6ekxkN4sP+mb0+pJ7caKEV/pSUXM8PNdwzPaTuFJhh04pf/czHKCJ+7LCNbsVvzcg6FK/efriElSIMyxCBSkUt2SgYUVn7Jj9a+PdVbNTwdoQ8d2G6qMhVLpjZAVwKMOa29FPMP0A3nW+t2h54uifrM4sTzk/IoyUeaKHNc+8VBYX1nm9PFhnUF6X/1KBhggGPdqcQIl2cHGrXHqAiQNm5TWZn26I13CsXpD/+tYseWlYjx6U=;YchKuxYQzwu2Iww25dKxDw=="
 ---

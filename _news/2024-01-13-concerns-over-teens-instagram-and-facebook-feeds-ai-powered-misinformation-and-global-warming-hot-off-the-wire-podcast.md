@@ -3,18 +3,24 @@ category: news
 title: "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast"
 excerpt: "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast."
 publishedDateTime: 2024-01-13T14:30:00Z
-originalUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
-webUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html"
+webUrl: "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Meta AI
   - AI
 
-secured: "kbuRlqjQk4U6w5FZqJUW6Ee0LyOsavAtBZeU12dkGgyTqdlXFyGPLiIKS8XjsxRXBtQxCM8qMt/08qg/x9e4sxrwtClw1UmyNISu51fXzACFpXGfx1m5i/sN6PYfIzdRI34WKuRQT0u9xJ3+G2jLFDpjLl/wsFbIO0AfVrSG5FUMyvOKiHPbKgktn4goFfnywGH8Hh9UvbjbU0JB5Z6mdoZCrVjC7v7PciffXeq1ToTgr2gF18nOR2jF1okwhu1oyVRLqogx5f88lqGLfq9ikmcKR8kzh8zgRKZk/W5ogKTWZLFKiLfVxvdacrKS+CavAuGJsJKjOuNT7I0o7qbDxWhJGOQMrq7VKhRN3EJm420KtitTocxDg3kOIeBGUjYlEU8cPmyKvSiEiDiMoNxMGfwgbGIuqNi0us457j/Nykklfuf8TFF575Fojp59B40O6WqwcaU6oLKMrJ5qvlPcS1nyDdaFEQmlkKbqYJYsqpg3SEWCg4CmhRzR9L+FTKvVnn5yMePvizHniwqzNOttzA==;hYyo5K2YJNQMY1XQ+Y3Ndg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/c1/5c1051c0-e2b9-58b8-968d-a4954f921637/65a1991806425.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "/Z+r6l5ULGLUkQC9ENTTzQYeSkE7BAGUIQ+RJhPZhBFI6zq0lgESMGg+1khYpgHCFcSJIlgaE+E4P5iXZ6bPOyF+uwCTkoQ4zZZlkQsTqOe2KjwLXQ2Rz5wHbQ5YsoMadQ9rqpCm/q8JYnTRl4/dpWuTboypj94O9lw5nPH4EDHxW2ZTok9v2SwzoXMWXaloQMG8UJY8fR6Crmb/wA4cwQZrxCF3Mqy4/owtHx0ENhqhkC/ekwkbhSqb9ms3WV5HeQrO7tUkobCM3oPXN+SqGUWGhU6q+Shcl6xPD0ZuLySNvIvSlawGCjM/eWXBN+L47kb3Ppu780wuZIRNhONWEVd1mIHi4RbXUVYvNid8X6w=;j1V6nOkd+3fSVtuxvc2QRQ=="
 ---
 

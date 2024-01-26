@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft expands Office AI Copilot to consumers, smaller companies"
-    excerpt: "its Office products remain one of the best ways to get customers to pay extra for AI assistance. Executives have said demand is unusually high, with Azure chief Scott Guthrie likening it to the lines outside shops to purchase Windows 95 software nearly ..."
-    publishedDateTime: 2024-01-21T00:00:00Z
-    webUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.html"
-    ampWebUrl: "https://www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    cdnAmpWebUrl: "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/business/microsoft-expands-office-ai-copilot-to-consumers-smaller-companies/article_59156a15-d175-5cdc-a732-e79c619c2b0b.amp.html"
-    type: article
-    provider:
-      name: The Daily Item
-      domain: dailyitem.com
-    quality: 74
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/c/87/c871dd86-b6fb-11ee-aaf0-773c7751cdd4/65aac4d484b56.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Pro Research: Wall Street's in-depth look at Microsoft's AI leap"
     excerpt: "There are also risks associated with potential Azure deceleration, slower-than-expected AI-related revenue growth, and margin pressure from investments in new AI product innovation. Will Microsoft's AI investment yield direct financial benefits?"
     publishedDateTime: 2024-01-21T21:14:00Z
@@ -103,6 +87,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
         width: 1200
         height: 598
+        isCached: true
+  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
+    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
+    publishedDateTime: 2024-01-25T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
+        width: 620
+        height: 372
         isCached: true
   - title: "Mastek partners with Microsoft to transform industries using Generative AI"
     excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
@@ -323,15 +323,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
-    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-    publishedDateTime: 2024-01-25T18:06:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=biztoc.com"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 33
   - title: "Mastek Joins Forces with Microsoft to Transform Industries Using Generative AI"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud transformation partner, announced a strategic collaboration with Microsoft. The collaboration is focused on pioneering innovative solutions that harness ..."
     publishedDateTime: 2024-01-24T10:00:00Z

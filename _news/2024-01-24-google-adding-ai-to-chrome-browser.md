@@ -127,6 +127,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
+    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
+    publishedDateTime: 2024-01-24T17:14:00Z
+    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
     publishedDateTime: 2024-01-22T18:08:00Z

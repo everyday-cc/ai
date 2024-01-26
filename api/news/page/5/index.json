@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-22-cops-used-dna-to-predict-a-suspects-faceand-tried-to-run-facial-recognition-on-it.md",
+      "title": "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It",
+      "excerpt": "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
+      "originalUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65a983aeccf1dfc50354872a/191:100/w_1280,c_limit/security_police_DNA_facial_recognition.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-yes-ai-will-take-your-jobbut-not-your-career.md",
       "title": "Yes, AI Will Take Your Job—But Not Your Career",
       "excerpt": "The advent of AI is not just about displacing jobs but also about creating new career opportunities. Roles such as AI ethics officers or AI integration specialists are emerging at the forefront of this technological revolution. Preparing for these new ...",
@@ -750,7 +802,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1160,58 +1212,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-msi-prestige-16-ai-evo-review-it-brings-the-heat.md",
-      "title": "MSI Prestige 16 AI Evo Review: It Brings The Heat",
-      "excerpt": "The review unit I was sent has 32GB of DDR5 memory and a 1TB SSD for storage. Configurations of the Prestige 16 AI Evo start at $1,399, including builds that feature a QHD+ display or NVIDIA GeForce RTX 4070 instead of the OLED display and Intel Arc GPU I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a6ede53b814e09e85f0897/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
-      "publishedDateTime": "2024-01-20T08:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

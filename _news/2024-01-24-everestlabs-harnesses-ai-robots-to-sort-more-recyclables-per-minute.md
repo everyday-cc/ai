@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harness
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

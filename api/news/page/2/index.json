@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards.md",
+      "title": "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards",
+      "excerpt": "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "originalUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2024/01/AI-Stories-with-watsonx-on-GRAMMYs-social-media-channels.jpg",
+          "width": 640,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-us-regulator-probes-ai-investments-by-tech-giants.md",
       "title": "US regulator probes AI investments by tech giants",
       "excerpt": "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ...",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -664,7 +707,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -1191,58 +1234,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-celestron-home-observatory-lets-users-view-the-cosmos-on-a-smart-tv.md",
-      "title": "Celestron \"home observatory\" lets users view the cosmos on a smart TV",
-      "excerpt": "The latest addition to Celestron's range can also throw object captures onto a smart TV screen ... and takes care of automated processes like Celestron's StarSense sky recognition technology (which makes use of the telescope's image sensor for quick ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/",
-      "originalUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/900ec1c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F2f%2F999ade75433b8cc2f7bb70678395%2F01.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/?amp=true",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

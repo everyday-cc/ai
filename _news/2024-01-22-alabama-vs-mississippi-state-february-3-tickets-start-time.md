@@ -33,6 +33,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Amazon’s AWS to invest US$10 billion for two data centres in Mississippi"
+    excerpt: "Find out more about subscription packages here. AMAZON.COM’S AWS said on Thursday (Jan 25) it plans to invest US$10 billion to build two data centre complexes in Mississippi, its latest capacity expansion amid growing demand for cloud services as more ..."
+    publishedDateTime: 2024-01-26T00:18:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/amazons-aws-invest-us10-billion-two-data-centres-mississippi"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 18
 
 secured: "0oPm3vNat79Bvz+5YowsYxJY7DlPhfHl3FpjH83o8eq2ntJo8wTKuAhDGFxzmRIAhe2lEvrzOCO8QPl+qZ/UVO7nkC+QdcJFInFensH3ImaX6jL9NyKpbzDtQzmNQZ1yikJnyhE++tU6pDbvL1CkP7MvnZ3A2LkkEh/kpnX6a7HX4+xk1IF+7x1kZrQLzf4s74N3E7zu/qsV1SXLDGAajax3Xk7qnaSL+VcRRd+oeaDlnpE8myGleRo3vMPlxpijWUlDO/5RArAKmKfp/Lo7ZuTCsYhx1k9QqSErIk8hglb7sglIpb6jOgwoVvKNtzLnF55LIVNc+WOWLjdjtBqrOdEpukFUcJr0x7e3/MwQh+s=;h3KUq6F2OU+Gf9LgJB+thQ=="
 ---

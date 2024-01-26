@@ -37,6 +37,17 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "FTC probes Big Tech ties with AI"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
+    publishedDateTime: 2024-01-25T22:24:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
+    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
   - title: "MeitY to seek cabinet nod for India AI program entailing over Rs 10,000 cr investments: MoS IT"
     excerpt: "New Delhi: The Ministry of Electronics and IT (MeitY) will seek cabinet approval for the India AI program, which includes the setting up of GPU-based servers in public-private partnership mode with an outlay of over Rs 10,000 crore, Minister of Electronics ..."
     publishedDateTime: 2024-01-23T11:47:00Z

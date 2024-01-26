@@ -25,17 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech firm Quinte, Tamil Nadu sign deal to set up development centres"
-    excerpt: "US-based company will use state's 'talent pool' to establish artificial intelligence, machine learning banking operations"
-    publishedDateTime: 2024-01-23T07:53:00Z
-    webUrl: "https://www.business-standard.com/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/fintech-firm-quinte-tamil-nadu-sign-deal-to-set-up-development-centres-124012300334_1.html"
+  - title: "Fintech Klarna Enters Subscription Market with Launch of Klarna Plus in the United States"
+    excerpt: "Klarna, the AI powered global payments network and shopping assistant ... online lending, and other forms of Fintech. Join Crowdfund Insider and securitiescrowdfunding experts to review thepast years market of privatesecurities offerings availableonline."
+    publishedDateTime: 2024-01-25T18:03:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 24
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 35
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Majority of Consumers View Circularity as a Money Saver, According to Report from Fintech Klarna"
+    excerpt: "The vast majority of consumers are “aware of the financial benefits of circular practices – particularly repair and second-hand shopping” – finds a new report from Klarna, the AI-powered payments ... and other forms of Fintech."
+    publishedDateTime: 2024-01-23T13:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220610-majority-of-consumers-view-circularity-as-a-money-saver-according-to-report-from-fintech-klarna/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Disclosure Management Market Forecasted to Reach $4.5 Billion by 2030 with Fintech Innovations and Regulatory Trends Driving Growth"
+    excerpt: "The global Disclosure Management Market is projected to ascend from a valuation of USD 1.3 billion in 2022 to an impressive USD 4.5 billion by the year 2030, progressing at a Compound Annual Growth Rate (CAGR) of 17.1%."
+    publishedDateTime: 2024-01-23T18:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950932.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "zqkpBIvIaiiOW4sHO+iV30573HueBsJTDCAATbFW5g7/w/ZbyCW4NCwQVuUTwzw4DE9ajuwrmx0wgF1mh5mPiVy1Fk82nqEzNy4WuOi9caXFIv7APyk5nhvITfp8u7ZBu1glz0a7PbQm8PPA+1NBEvgdIaIqdNcJwNdZfeL2jOWXWCQf7Ln8NQiGF46m+NeRsdsIyY+UgygAP/+SidZGLcpN5wpSQuW2XB5MT4YCgqrCV25uj0WUTMEU0IhORHqzl2V8gitJCiXfdVVkelAPMAoRZR7YO6USvVHwQpS69PzckeIcoWqwaMowSExwkF0ksjWPF7CIwvpf2ZcImFPfl5pJtmDik3VBEabm4kuPlLo=;QT2OdxOyov5ybEE52Oq9og=="
 ---

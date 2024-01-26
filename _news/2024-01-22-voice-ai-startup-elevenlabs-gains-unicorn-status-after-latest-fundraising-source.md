@@ -32,7 +32,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
         width: 1200

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-24-celestron-home-observatory-lets-users-view-the-cosmos-on-a-smart-tv.md",
+      "title": "Celestron \"home observatory\" lets users view the cosmos on a smart TV",
+      "excerpt": "The latest addition to Celestron's range can also throw object captures onto a smart TV screen ... and takes care of automated processes like Celestron's StarSense sky recognition technology (which makes use of the telescope's image sensor for quick ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/",
+      "originalUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/900ec1c/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa0%2F2f%2F999ade75433b8cc2f7bb70678395%2F01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/technology/celestron-origin-home-observatory-smart-telescope/?amp=true",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-national-cyber-security-centre-study-generative-ai-may-increase-global-ransomware-threat.md",
       "title": "National Cyber Security Centre Study: Generative AI May Increase Global Ransomware Threat",
       "excerpt": "Similarly to how attackers offer ransomware-as-a-service, they now offer generative AI-as-a-service as well, the report said. SEE: A recent malware botnet snags cloud credentials from AWS, Microsoft Azure and more (TechRepublic) “AI services lower ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -262,7 +314,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -313,7 +365,7 @@
       "originalUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -718,7 +770,7 @@
       "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1191,57 +1243,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/",
       "publishedDateTime": "2024-01-23T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai.md",
-      "title": "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI",
-      "excerpt": "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T08:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

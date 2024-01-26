@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
+      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
+      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/Screenshot-2023-12-12-at-9.45.06-PM.jpg?quality=82&strip=all&w=639",
+          "width": 639,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-google-announces-520k-grant-for-ai-robotics-education-at-virginia-middle-schools.md",
+      "title": "Google announces $520K grant for AI, robotics education at Virginia middle schools",
+      "excerpt": "HERNDON, Va. — Google is investing more than half a million dollars in Virginia middle schoolers. Google announced a $520,000 grant to expand access to robotics and artificial intelligence education programs across middle schools in the Commonwealth on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
+      "originalUrl": "https://www.wusa9.com/article/news/local/virginia/virginia-middle-school-google-ai-robotics-grant/65-ac6f1f3a-19bc-4748-9cae-035ebfb5c021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/3c113c2b-8d31-4f17-963c-5a2e4dd1917a/3c113c2b-8d31-4f17-963c-5a2e4dd1917a_1140x641.png",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T17:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-ai-companion-robot-helps-some-seniors-fight-loneliness-but-others-hate-it.md",
       "title": "AI companion robot helps some seniors fight loneliness, but others hate it",
       "excerpt": "Some seniors in New York are successfully combating their loneliness with an AI-powered companion robot named ElliQ—while others called the \"proactive\" device a nag and joked about taking an ax to it.",
@@ -1167,83 +1264,6 @@
       "provider": {
         "name": "NextBigFuture",
         "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale.md",
-      "title": "Roomba robot vacuum deals start at $159 in this big Cyber Week sale",
-      "excerpt": "Prices start at just $159 for the Roomba 694 robot vacuum cleaner. This model isn’t the most ... First, the Roomba Combo j7+ with AI and integrated mopping is $300 off right now. Or, you can get the $550 Roomba Combo i5+ for $349, matching the lowest ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
-      "originalUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
-          "width": 3560,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-seaweed-robot-startup-nets-gbp-150000-in-pre-seed-funding-us-doe-funds-seaweed-study-searching-for-rare-earth-metals.md",
-      "title": "Seaweed-robot startup nets GBP 150,000 in pre-seed funding; US DOE funds seaweed study searching for rare earth metals",
-      "excerpt": "-London, England-based seaweed startup Samudra Oceans has secured a GBP 150,000 (USD 190,000, EUR 174,000) investment from the British Design Fund as a part of its GBP 800,000 (USD 1 million, EUR 927,000) pre-seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "originalUrl": "https://www.seafoodsource.com/news/aquaculture/seaweed-startup-samudra-oceans-receives-gbp-150-000-in-pre-seed-funding-round-university-of-hawaii-at-manoa-receives-usd-892-290-from-national-science-foundation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T11:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SeafoodSource",
-        "domain": "seafoodsource.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,17 +2,17 @@
 category: news
 title: "Artificial intelligence introduces new ethical issues to newsgathering"
 excerpt: "But, with the acceptance of AI, come new concerns. \"There's an ethical question, for sure,\" said Humphrey. \"Like, just basic ethics: What's the right and wrong thing to do? But journalism already has a lot of trust issues, and if we want to exacerbate that ..."
-publishedDateTime: 2024-01-24T14:19:00Z
-originalUrl: "https://www.abcactionnews.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
-webUrl: "https://www.abcactionnews.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
+publishedDateTime: 2024-01-24T13:19:00Z
+originalUrl: "https://www.kjrh.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
+webUrl: "https://www.kjrh.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: kjrh.com
+  domain: kjrh.com
 
 topics:
   - AI Ethics
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1i4Pf/6kiH6EOoHiFJGEqh4+baJMsWw8sHY/Obwy0OUkrjCS0o9BN/lk41mSTs5YOGwQfempIByHcsDFxftTCjoawFF793fI39MBARZlDUXwFKo9/b9+FA3mrGIBb7AYhxbRyLMJ+Dj5CckS2IAgdZg/gyaMPXA0Rwi+n7UsclHGH11MTQN9xljTz6dYLCTwx3SRurFuyr7QtJum1ged19xv3Tg3irx7u/7Xa+TzORdWnk3FYcDItafg6KFZmgdgdZ0ngvd90AcZITdVKvcwywH0d8dP9kRfloPKLFhOb0siK2tQpK0iV4HiIH3gc1OdhGaWWscBCT5zi+LgyMhZ0da0yIs2HGFksmP5DR5hrbU=;RXCQo2ZujyJsNpI8Eq5q4A=="
+secured: "mmO2rxDb4xIsPrj1deMfaKYxoB/bt6XACcsXKKQz1RQDohnLPk3cTt3oJH4/vv08HAgSvPoe9WCoDbwgOCCO/WH8bSZv3tqgZSNFzrdC6DX5V7GzW6HZ5SR1iN7aht7Co6mPEkkAHxEfZYWPtuBSxCFOU5O5o5Pezav5KRdzmZd5xKHTGyVPxy0alEgUm/vhHawUw/KTU1cgHRxOIKC42UFswB6ZHApD+epprDrT74TFIDYbrtvtDul+PQMXRBI64lLfSAcSGIzKY98bjdUJjBK63MHBVmhCEZzIdfOH0zCGUPrSrYDsS4gMH/27PC+azWhuiMrlO1TqfJV9dwgqHVVpN7wTQyMlanJayzzOqcs=;V2xMhn2Xm8FvTkGvEpdJSA=="
 ---
 

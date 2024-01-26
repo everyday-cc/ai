@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-19-amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.md",
+      "title": "Amazon's AWS to invest $15 bln to expand cloud computing in Japan",
+      "excerpt": "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "publishedDateTime": "2024-01-19T06:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
+      "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
+      "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
+      "originalUrl": "https://www.techrepublic.com/article/leftoverlocals-vulnerability-apple-amd-imagination-qualcomm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/leftoverlocals-logo-jan-24-hero.jpeg",
+          "width": 1090,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T03:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry.md",
       "title": "DeepMind AI rivals the world’s smartest high schoolers at geometry",
       "excerpt": "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022.",
@@ -1129,100 +1234,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-5-ways-ai-can-make-your-human-to-human-relationships-more-effective.md",
-      "title": "5 Ways AI Can Make Your Human-To-Human Relationships More Effective",
-      "excerpt": "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "originalUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "publishedDateTime": "2024-01-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-7-must-have-home-robots-in-2024.md",
-      "title": "7 Must-Have Home Robots in 2024",
-      "excerpt": "Samsung has once again announced Ballie, an AI robot that will follow you around, acting as a home assistant. It can connect to all the IoT devices at home and even guard and feed your pets. The robot can answer questions, text you, and do everything that Alexa can.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "originalUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/k-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

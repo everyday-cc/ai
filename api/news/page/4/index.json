@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-23-singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai.md",
+      "title": "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI",
+      "excerpt": "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T08:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization.md",
       "title": "IGC Proposed Acquisition of a Deep Neural Network and AI Research Related Service and Application Research Organization",
       "excerpt": "Promoting Transformation of Trading Technology R&D and Service HONG KONG SAR - Media OutReach Newswire - 23 January 2024 - (",
@@ -465,7 +516,7 @@
       "originalUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -516,7 +567,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -820,7 +871,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -860,7 +911,8 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Meta AI"
       ]
     },
     {
@@ -1145,58 +1197,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-cops-used-dna-to-predict-a-suspects-faceand-tried-to-run-facial-recognition-on-it.md",
-      "title": "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It",
-      "excerpt": "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
-      "originalUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a983aeccf1dfc50354872a/191:100/w_1280,c_limit/security_police_DNA_facial_recognition.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

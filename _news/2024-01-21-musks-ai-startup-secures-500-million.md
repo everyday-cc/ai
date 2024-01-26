@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
         width: 709
         height: 868
-        isCached: true
-  - title: "Elon Musk’s AI start-up secures $US500m towards $US1b funding goal"
-    excerpt: "Elon Musk launched xAI last year as an alternative to Open AI. Bloomberg Mr Musk launched the start-up last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology."
-    publishedDateTime: 2024-01-21T00:10:00Z
-    webUrl: "https://www.afr.com/world/north-america/elon-musk-s-ai-start-up-secures-us500m-towards-us1b-funding-goal-20240121-p5eyw0"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 37
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_19/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/648521c8e0b2ddeaa4d6c7141f335aae2eae40e7"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Musk’s AI startup secures $500M"
     excerpt: "Elon Musk’s artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people with knowledge of the talks. The company is discussing a valuation of $15 billion to $20 billion,"

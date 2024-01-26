@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-inve
 cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -33,6 +33,17 @@ related:
     webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
     ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "FTC probes Big Tech ties with AI"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
+    publishedDateTime: 2024-01-25T22:24:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
+    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
     type: article
     provider:
       name: The Hill
