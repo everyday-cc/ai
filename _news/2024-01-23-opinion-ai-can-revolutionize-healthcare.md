@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-c
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -122,15 +122,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "WHO calls for greater regulation of AI in healthcare"
-    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
-    publishedDateTime: 2024-01-23T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 36
   - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
     excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
     publishedDateTime: 2024-01-24T11:00:00Z

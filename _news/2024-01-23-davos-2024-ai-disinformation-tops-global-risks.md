@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Davos-2024-AI
 webUrl: "https://www.computerweekly.com/ezine/Computer-Weekly/Davos-2024-AI-disinformation-tops-global-risks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+  - title: "Davos 2024 recap: Climate change and AI take the cake"
+    excerpt: "spoke on how AI is becoming more streamlined and accessible, however, tech firms need to reorganise their data centres to stay ahead of the curve. Concerning new developments in fintech, a report on the future of global fintech was launched by executive ..."
+    publishedDateTime: 2024-01-24T17:50:00Z
+    webUrl: "https://www.finextra.com/the-long-read/924/davos-2024-recap-climate-change-and-ai-take-the-cake"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "AI is destabilizing ‘the concept of truth itself’ in 2024 election"
-    excerpt: "Politicians around the globe have been swatting away potentially damning pieces of evidence by dismissing them as AI-generated fakes."
-    publishedDateTime: 2024-01-22T22:07:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/22/nation/ai-is-destabilizing-concept-truth-itself-2024-election/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 37
-    images:
-      - url: "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=447"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "GjLJdGwTI3eym64aZlq8Ky35y43HtP7zQ/s0gD+eNMh5LDJOqE4nNbSWqAhXb+MWWG8HNrVJYv8Uf/ydSNrDEY1QAUUj29u2J8gglwrflRwthFCC09hAOTgMqzakaN1zSkGcoKcROa8c4ocfdizdnNgtMiVo8RAmKbqDj1a7yEJvJuTkislFjf+RxoWSOXYgmbi1GgcYi3aVxD+MHPplpIuYvyFu57LC89Cf+KFM3PSOojOjjrDtSBY+Z+71FwVoFbgJ/8G3vlLjpVQ3tiPZF8c064q1M+X1eTaUWi+8SKZYy2apyWfp8uPJpFPikui0eeTjHomwU0wFs/iCup6rpYIvijpBK5P3YwN6h3JnwYU=;1aT2nDr1SbhQrkaznGRHmw=="
 ---

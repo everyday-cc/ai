@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Beijing simplifies business registration for foreigners via facial ID"
-    excerpt: "BEIJING - Foreigners applying to start a company in Beijing can now complete the entire registration process online through facial recognition, according to the city's market regulation authorities."
-    publishedDateTime: 2024-01-23T10:15:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202401/23/WS65af8cc2a3105f21a507de9b.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202401/23/65af8cc2a3105f211c85fef6.jpeg"
-        width: 658
-        height: 438
-        isCached: true
   - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
     excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
     publishedDateTime: 2024-01-24T20:40:00Z

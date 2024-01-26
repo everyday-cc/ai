@@ -257,6 +257,20 @@ related:
         width: 506
         height: 338
         isCached: true
+  - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
+    excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
+    publishedDateTime: 2024-01-26T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58333-us-watchdog-probes-microsoft-google-and-amazon-s-ai-investments"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5a1be1bea6dcd18ceedb33210235d286_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-25T05:56:00Z

@@ -20,163 +20,68 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Opinion: AI can revolutionize healthcare"
-    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+  - title: "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work."
+    excerpt: "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter."
+    publishedDateTime: 2024-01-26T02:41:00Z
+    webUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/"
+    ampWebUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
-        width: 800
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b1996fda6126e5c3faa4d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Opinion: The big AI party is not cancelled, just postponed"
-    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
-    publishedDateTime: 2024-01-22T11:03:00Z
-    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+  - title: "The Future Of Work: AI, Remote Work And The Labor Shortage"
+    excerpt: "Artificial intelligence will change the nature of work in the coming years, interacting with demographics and remote work desire."
+    publishedDateTime: 2024-01-23T09:30:00Z
+    webUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/"
+    ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
-        width: 3501
-        height: 2469
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65aef1500eca516b333d89bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+  - title: "Lexicon on AI: US NIST crafts standards for making artificial intelligence safe and trustworthy"
+    excerpt: "Q: The AI risk framework was voluntary but the executive order mandates some obligations for developers. That includes submitting large-language models for government red-teaming (testing for risks and vulnerabilities) once they reach a certain threshold in size and computing power. Will NIST be in charge of determining which models get red-teamed?"
+    publishedDateTime: 2024-01-23T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 60
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
+  - title: "How artificial intelligence is changing work in law firms"
+    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
+    publishedDateTime: 2024-01-22T18:40:00Z
+    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: boersen-zeitung.de
+      domain: boersen-zeitung.de
+    quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
+        width: 2560
+        height: 1600
         isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
-    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
-    publishedDateTime: 2024-01-22T17:39:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 43
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
-    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
-    publishedDateTime: 2024-01-25T11:31:00Z
-    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
-    excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/column/opinion-artificial-intelligence-could-spawn-astounding-human-advances-or-catastrophe/article_ab96cc22-ba24-11ee-88ab-179f1cb1754b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/1b/71b8e39c-baf0-11ee-99a5-e7fcebac959c/65a41326d97bf.image.jpg?crop=928%2C487%2C0%2C130&resize=928%2C487&order=crop%2Cresize"
-        width: 928
-        height: 487
-        isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Opinion: Harvard president failed to defend free speech"
-    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
-    publishedDateTime: 2024-01-22T11:35:00Z
-    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "4u/P+ZhfM6nvb9Rzujk5muHFBTewDYWW9VDLxt+Aygguvgn3La+enfYT6hAW5eqynhV1z/feyPUX08WkdncSg82wK2dAoXhXaa7Wm0DCiXIdOgFzTkJMXBANtP9XiTBdgAm+2nfSjzjghf5+4lTvhJwUn2KokgW9O4F7gpOSk99znqN51Axdzrn569fw/bFEDNxII095qJNyltIIQ1zlWSkWfrNqf5ganAgz9ktcrA7QGsInZYR7qEfSHEJReyaXhMj80icLmwjcs1HHh+1+q5rEwEBufVPxf7k1rwWeSeM5ZuEOxmGGyxQzYlTBfl+HKf9te6zyczC/uESHVppTW+rQVjCrGRKmvjZsoZ27iCNPXVXWr0VMkqobKXfK0SqJOwzzWu7kaPs1IcKdfkC0icxBFzehcvf/Dkly5Ww+cE8i9YbneqVre/cDKvqHMKvzWbiZ/W61eoA626KKtysh16uJm7wokr0YUYfhNn+wux3+G+tZsvJknJVcHWUt6SaBwH9HAPlD8e7FfNPkiYwq2A==;5VPHgAZMbRIY4tYrR8ITFQ=="
 ---

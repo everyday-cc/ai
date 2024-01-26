@@ -28,20 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Beijing simplifies business registration for foreigners via facial ID"
-    excerpt: "BEIJING - Foreigners applying to start a company in Beijing can now complete the entire registration process online through facial recognition, according to the city's market regulation authorities."
-    publishedDateTime: 2024-01-23T10:15:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202401/23/WS65af8cc2a3105f21a507de9b.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202401/23/65af8cc2a3105f211c85fef6.jpeg"
-        width: 658
-        height: 438
-        isCached: true
 
 secured: "fZ2RXbCZ58G+NMPzC8vnIxhxbqu0cJATYp9lMY/zoG7xu+Lm32+4WYi/lE/o9XqFu93vZ+wjC2KGeDQt3e/M2drSOVpVR0lX/5PcDZRU8+Lg+JDkSWe+Ud6YvyY//RYgC/s8uAxcVdCHf2Djsfp+PiNjM5kWNamGf1o440LEyYj99qnaI/up5nY03y7/tthbP+mrhOTm7U+l6/U8xg0tW9HgqQ4CnsUUQpyDEOTsegUpp4yIJ2695CpG/rmZlHU402Jo1KRx2mA15vSYFyB2zEF37czUSgiEoj6JwjraE53aa0BUxOLwWIZZeSeTJNTAaJ+WkOIPfhCB5VP9gmIicNoAzA2p3aBx1RRcGt/EHSg=;SEJi8VNrdGNhGkc8nw/wXw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -34,20 +34,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86e88859-0a71-4ffc-b612-4c8b7083d210.jpg?crop=2121%2C1193%2C0%2C110&resize=1200"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Artificial Intelligence and Software: Revolutionizing Industries and Elevating User Experiences"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) and software have emerged as transformative forces, reshaping industries and enriching user experiences. This dynamic duo is not merely a buzzword but a reality that is propelling us into a future where efficiency,"
-    publishedDateTime: 2024-01-21T09:13:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-software-revolutionizing-industries-and-elevating-user-experiences/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 29
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-Software-Revolutionizing-Industries-and-Elevating-User-Experiences.jpg"
-        width: 650
-        height: 450
         isCached: true
   - title: "More work needed to blunt public’s AI privacy concerns: Report"
     excerpt: "Organizations aren't making much progress in convincing the public their data is being used responsibly in artificial intelligence applications, a new survey suggests. The report, Cisco Systems' seventh annual data privacy benchmark study,"

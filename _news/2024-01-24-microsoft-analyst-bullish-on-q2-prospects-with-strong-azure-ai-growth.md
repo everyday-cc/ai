@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
 type: article
 quality: 99
-heat: 379
+heat: 389
 published: true
 
 provider:
@@ -242,6 +242,20 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
         width: 506
         height: 338
+        isCached: true
+  - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
+    excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
+    publishedDateTime: 2024-01-26T10:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58333-us-watchdog-probes-microsoft-google-and-amazon-s-ai-investments"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/5a1be1bea6dcd18ceedb33210235d286_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
     excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."

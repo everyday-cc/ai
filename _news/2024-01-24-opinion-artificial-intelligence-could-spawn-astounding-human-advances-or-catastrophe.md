@@ -135,15 +135,6 @@ related:
         width: 1200
         height: 738
         isCached: true
-  - title: "WHO calls for greater regulation of AI in healthcare"
-    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
-    publishedDateTime: 2024-01-23T12:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 36
   - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
     excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
     publishedDateTime: 2024-01-25T08:42:00Z

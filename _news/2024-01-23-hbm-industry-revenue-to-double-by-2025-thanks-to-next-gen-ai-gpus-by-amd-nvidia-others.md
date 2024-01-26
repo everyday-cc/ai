@@ -25,22 +25,6 @@ images:
     height: 857
     isCached: true
 
-related:
-  - title: "Meta's long-term vision for AGI: 600,000 x NVIDIA H100-equivalent AI GPUs for future of AI"
-    excerpt: "We're bringing our two major AI research efforts (FAIR and GenAI) closer together to support this\". He continued: \"We're currently training our next-gen model Llama 3, and we're building massive compute infrastructure to support our future roadmap ..."
-    publishedDateTime: 2024-01-21T10:28:00Z
-    webUrl: "https://www.tweaktown.com/news/95693/metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95693_02_metas-long-term-vision-for-agi-600-000-nvidia-h100-equivalent-ai-gpus-future-of_full.png"
-        width: 1500
-        height: 857
-        isCached: true
-
 secured: "qsERWsoY+6JdTHaQIUC7MRQit8KY++L3189fnSPi9p6K/E5FCDOdVGb2a0c4x9qn2qKF8NUW4AQWdFACgCnHml0Zh53RL1nBNeACoSmHjXFucvaAeIDY9FutF+9zB2EFWrHZYWA9rvKo/s2z8vpTPbaaHuq2saZGADcKY8QQHzueNdsDCpLhsdcME2hsuQEUFe+cXs90axmrcOP45c9cowJSy+PXXf/eKWGtRGrS4CXEaE4jL8ueB6ZXzexhaU8KAGsUM6qpzpz9Q69iDRwR7t2KtYDwbz1X78h9CellbW1qVVchWEKqaD3bHCuMHNqAeljJJ0ZV0tKiubwVPKo9Vr+UaNP7U8+G3DPwDGiinZCSSxMMa7q1oRJbKJCNuP/tCiFWGAsFpQqrfuSpZuOTLyntfN37OxhMgC6rKyjah6AYpxAfKGqFHCNZFQm7qykcBVCd0aNYuPulX1Zqc2aiv/lFv2Wzj+xjM24kE6cAcYrW6gEt5olQEe8KdXo5VgDh5YDOkB7IONCkvU+MzRzOHg==;IY1kZFCZAWhb9QcrtHdbng=="
 ---
 

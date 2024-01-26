@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "We Should Stop Comparing Animal and Artificial Intelligence"
-    excerpt: "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries."
-    publishedDateTime: 2024-01-21T23:47:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
+  - title: "AI Chatbot At Delivery Firm DPD Goes Rogue, Insults Customer And Criticizes Company"
+    excerpt: "See Also: From $200 Device Replacing iPhone To Mark Zuckerberg’s AI Chips Treasure: Here’s Your AI Weekly Roundup A customer, Ashley Beauchamp, brought the chatbot’s misconduct to public attention via a post on X (formerly Twitter), which displayed ..."
+    publishedDateTime: 2024-01-22T07:15:00Z
+    webUrl: "https://www.benzinga.com/news/24/01/36713566/ai-chatbot-at-delivery-firm-dpd-goes-rogue-insults-customer-and-criticizes-company"
+    ampWebUrl: "https://www.benzinga.com/amp/content/36713566"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36713566"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
-        width: 1528
-        height: 800
+      - url: "https://cdn.benzinga.com/files/images/story/2024/DPD-Delivery.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "V9CCNK42KpWL/pFgXsnRoFGbIBXCVeJjf0SShCvW3gxju0lTK0otZS/8a6F/Tm2AHrc53OgrJZs/+PqLhy7SIS7pdCpUUkTHALhpW631d15X75zxfj3BPDTp08zR4m8BJu/jNCOa7pKyONcoIvRR7c1+rDGNrxJ/uWzJmINVjfj2sdinvX7Qnu2KidNaG5GG3Pz3S39LLVGAspDheqnM7bPgmfbipA1r1QK0X4Okdnp3QUx/ZpQvrZKurGZIhiZL0isdOE4VPUmU5ZOuaDbW9A97xdnug04+f7DE4XpfFOhTpjpnAx8RcluRlbBH3jzN0VscLBKP7loLXxWdwyL6C2kY36l0shtim4B4dmDVCkU=;UlTb5jXaVqhWB9IDPTJmbw=="

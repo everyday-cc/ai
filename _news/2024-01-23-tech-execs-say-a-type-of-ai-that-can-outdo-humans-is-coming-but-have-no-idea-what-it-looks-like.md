@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Can Artificial Intelligence Think Like a Human?"
-    excerpt: "In a new perspective recently published in the journal PNAS Nexus, Athanassios S. Fokas explores a timely question: the potential of artificial intelligence (AI) to achieve and possibly exceed human cognitive capabilities."
-    publishedDateTime: 2024-01-21T10:02:00Z
-    webUrl: "https://scitechdaily.com/can-artificial-intelligence-think-like-a-human/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 41
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "/LeSSMYFrD6e/omKHe0U1RxzRUUh23Z39ItVPZHS7y+IAyKqB6gIp0+OPJKziLfUwQk6rH6ubQRoZdHzo1oPJgtCdRGkVe+5fnY1wIKjUUK0ACiLIMA+IhV93H3nKYVOIXb6LEtwxXCnNHZrdP6UBgszddtpHrzhgF7pc7xcXpYJS1LejqdVKKeDfD8cMKt1JnmJsR4aaWZWedm8/JVfhAbuIXw/bFJfjkC0BF8dI/m2bbq7A3N1YNA4rMOQMvhrVZoTB4oSVDHRM2CCpM55+PULhvCKm+3BCNp48nP61kUD/XRcXl/3abAkXvXTECODobvhWJd/klyDvqlN6P8aX97pKeloTkZ9qcAdOShubLdjudEKCVH2T9/+20LDTOrvAPE8jLhbLMakY/MXPP1Bkf7vX5DAUCvQanrfxLC6M65jDseFtBi5i0WGkMKihEAWUNm2qb8EUU9RorIO9YYA1BVS+O43hQ/CFLv7f9gD7PxptCirBvNSQEbBhbr9IUrrgesOyaWEsWG23RHl9SdFuA==;aTiELwYV6dwXuUDtdL0w0g=="
 ---
 

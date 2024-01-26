@@ -41,22 +41,6 @@ related:
         width: 1318
         height: 900
         isCached: true
-  - title: "Sam Altman seeks to raise billions for network of AI chip factories"
-    excerpt: "OpenAI CEO Sam Altman plans to use the billions of dollars he is trying to raise for a chip venture for setting up a network of factories that will manufacture semiconductors, Bloomberg News reported,on Friday, citing people with knowledge of the plans."
-    publishedDateTime: 2024-01-21T09:23:00Z
-    webUrl: "https://tribune.com.pk/story/2453952/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories"
-    ampWebUrl: "https://tribune.com.pk/story/2453952/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2453952/sam-altman-seeks-to-raise-billions-for-network-of-ai-chip-factories?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 74
-    images:
-      - url: "https://i.tribune.com.pk/media/images/IMG_67531700635658-0/IMG_67531700635658-0.jpeg"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Sam Altman in talks with TSMC to launch AI chip plant: Report"
     excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
     publishedDateTime: 2024-01-22T04:32:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107042034,imgsize-10204,width-1200,height=765,overlay-ettelecom/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Sam Altman engages in discussions with TSMC for AI chip manufacturing plant: Report"
-    excerpt: "Sam Altman, the CEO of OpenAI is reportedly in touch with Taiwan Semiconductor Manufacturing Co (TSMC) to launch an AI chip fabrication plant. As per the recent report in The Financial Times, Altman aims to raise billions of dollars from global ..."
-    publishedDateTime: 2024-01-21T10:00:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/sam-altman-engages-in-discussions-with-tsmc-for-ai-chip-manufacturing-plant-report-2024-01-21-912926"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 68
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/sam-altman-openai-1705828421.jpg"
-        width: 360
-        height: 202
         isCached: true
   - title: "Sam Altman developing new AI “Brain Chips” or Neuromorphic chips"
     excerpt: "Sam Altman, a leading figure in the tech industry and head of OpenAI, is spearheading an ambitious project to raise funds for the development and worldwide production of advanced AI chips. These chips are designed to operate similarly to the human brain ..."

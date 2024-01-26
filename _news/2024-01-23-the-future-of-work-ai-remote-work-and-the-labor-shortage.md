@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-wo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,36 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Future Of Coding"
-    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
-    publishedDateTime: 2024-01-24T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+  - title: "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work."
+    excerpt: "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter."
+    publishedDateTime: 2024-01-26T02:41:00Z
+    webUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/"
+    ampWebUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1040
-        height: 700
-        isCached: true
-  - title: "Artificial Intelligence in the Workplace: Use Policies"
-    excerpt: "Artificial intelligence (AI) technology has presented numerous ways to perform tasks more efficiently, including in the workplace. But as AI in the workplace grows, so do potential legal risks for an organization. As more businesses embrace AI, their ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-8706757/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16153_4556.jpg"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b1996fda6126e5c3faa4d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
+  - title: "Lexicon on AI: US NIST crafts standards for making artificial intelligence safe and trustworthy"
+    excerpt: "Q: The AI risk framework was voluntary but the executive order mandates some obligations for developers. That includes submitting large-language models for government red-teaming (testing for risks and vulnerabilities) once they reach a certain threshold in size and computing power. Will NIST be in charge of determining which models get red-teamed?"
+    publishedDateTime: 2024-01-23T01:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 60
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How artificial intelligence is changing work in law firms"
+    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
+    publishedDateTime: 2024-01-22T18:40:00Z
+    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
+    type: article
+    provider:
+      name: boersen-zeitung.de
+      domain: boersen-zeitung.de
+    quality: 37
+    images:
+      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
+        width: 2560
+        height: 1600
+        isCached: true
+  - title: "WHO calls for greater regulation of AI in healthcare"
+    excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
+    publishedDateTime: 2024-01-23T12:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-artificial-intelligence-healthcare-regulation-who"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 36
 
 secured: "uHkWmLhrvxeuIkMskIhehOPXzztmceGSiaICDOAAGFRbl4+vOiiUUMviIPbI5Xa7kiWg4g8qWuOJGcSjCX1rynqlciQRKHOcy/2asKAFCIrGlOGiqWBihnFgWDZLB0j8Qh4NEL7O23dUcLQY3yoxLMLCJW+qPINwp9xmS/yEs8w0SMpiowh8nLg1djRzerBFhNk9YLA2ouj4rt3yA1irQ3Wdajyn+ZD7LbE9PpMrBNHS2wV71VjTVWTpluejsDp0etpzeVTqUwnOoB+WtjQW2TwTlxcPZt3bPJlBFX8Lhvyq6uZnrTwhfIGFGsGSWjQWjzH2ubbmq0Wo9/JvlTknSY4j9QKmAD9NZS19Ot/A7qc=;SjLxV/tNiPZOr4hqAwHJTQ=="
 ---

@@ -25,6 +25,17 @@ images:
     height: 506
     isCached: true
 
+related:
+  - title: "UAE: Participants pitch AI startup ideas after success of MBZUAI Entrepreneurship Programme"
+    excerpt: "Abu Dhabi [UAE], January 26 (ANI/WAM): The inaugural Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) Entrepreneurship Courses concluded with 12 AI-based startup business plans presented at an on-campus event in Masdar City. 22 students ..."
+    publishedDateTime: 2024-01-26T09:55:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/World/20240126/4162412.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 7
+
 secured: "7GRGXx8ezw/77NgzyTfsAMwS3+JVgt9NiJwwBs6g0BTuFDGCEtZXR9+B9eep5J0+C0qXHbh8ALVh+DsqV6W3cQjLIN9jp0QmKkn9vTvnUOubzreekOkdZJ/W9AF8TBrtPNJljHAkUvqqsr1FLIVODNm0Qn5rzsNOTIEiRYTrzsx4HSyfQzdajrS7m/+0N6Tuc8+vD4JlJDfz8PNknleJdYaZGb5PnIEx68EZsSxzUEeUylljmOs8V1jhvDH1Ye6wMYsC5ph7gve8/gufc1plW0rYzJpJvUdQ6LjgfxgpOfp46IPeL6SuFoUcx2Iyw7nCXHzHxD4XBJ9lyGVG/mg2Hyr6e4tLpNu1H4APC9GuE5o=;hdaaDzI7Xy9fANqLH1Ih+A=="
 ---
 
