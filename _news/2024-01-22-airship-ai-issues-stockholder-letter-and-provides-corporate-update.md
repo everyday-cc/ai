@@ -34,6 +34,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 26
+  - title: "New York State Department of Financial Services Issues Proposed Artificial Intelligence Circular Letter"
+    excerpt: "On January 17, 2024, the New York State Department of Financial Services (“NYSDFS”) released a proposed circular letter addressing the use of external consumer data and information sources (“ECDIS”) and artificial intelligence systems (“AIS ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-state-department-of-financial-4847012/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 21
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16300_1146.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "bBfeuZjBr8WFGQwmBuxHaihDTaUE0lFq2iopPd2byzz/OVCHgAoJRL8N5Z0USoUKSp1gXFbTY47V7tx2ZpXEE3qMCkJlbB9rdcA0p+369foIo0ff+xkyindoaBQOACYP1FfvTV0mzNIBt7k0zKtVI5+XA1ctsi+KkpxA/fEo3b+9sbsVOjkC3V+rstb5pYOeGVit/IbjIOvqoi6/+r12ppK25zkd64BlEQA7ThO4oZPCUxLbNhMNoRMonOM0SRIXpdAHat31wrQqAIbWpt70NTzjqBhPbJ4qKdcdADu8+qASsTAN5vTZ7ZERfyUndc1MM2iJ0gQqp8DLxsbcgR2mQvhJabpSw6lpQzjhwjHIZhQ=;aydUOL//UYDR+yBoQEPqKQ=="
 ---

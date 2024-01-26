@@ -34,6 +34,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "GM's Self-Driving Car Division Under Scrutiny From DOJ, SEC"
+    excerpt: "Auto giant General Motors (GM) has revealed that its self-driving car division Cruise is under investigation by the Department of"
+    publishedDateTime: 2024-01-26T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-division-under-scrutiny-from-doj-sec-1033002213"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Apple Car project reportedly delayed yet again, this time to 2028 – self-driving system reduced to Level 2+"
     excerpt: "Apple’s electric car project (also known as Project Titan) is back in the spotlight, with Bloomberg reporting the project has been delayed yet again, with production now slated to begin in 2028. Project Titan first"
     publishedDateTime: 2024-01-26T02:24:00Z

@@ -36,6 +36,15 @@ related:
         width: 388
         height: 544
         isCached: true
+  - title: "Half of Game Developers Work at Studios Already Using Generative AI: Survey"
+    excerpt: "But even developers who use generative AI worry about the technology’s ethical implications. Of those surveyed, 42% of developers said they were very concerned about the ethics of using generative AI within their industry, while another 42% said they ..."
+    publishedDateTime: 2024-01-22T13:00:00Z
+    webUrl: "https://www.extremetech.com/gaming/half-of-game-developers-work-at-studios-already-using-generative-ai-survey"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 17
 
 secured: "4T8IZ7plHnnTMhV+LoKHdVvjO12JRfZvzb/OfozStgsWU4se47VZwOnvxG2CPEsVh7+z4rr7haxDTRvqy/JbHtNv6ZzgBor4iLhdDwC4gP/X73WqmAR02+FnR8EazdoUOgrZe/x7ssHw6a9PB058bBWZtz8rnjXGyME6wNPtstv65PpA5gtel4Q7RJ+ya796Ew6pmax9GclKlHf7mu/Eu1mkkgmeBnvdnGQ3HQYb3xlJfYkzheVxv1b28VoUsHyIGm0RzWR3EKoWMrAUF2KLbaz/esFzehG4DQouP1RVKP1oe7vRH2G2xVOnoUKdp10qzteXqdu40tq3IPhVuyfI3GtHZuOqq0W/3GJ23dtgq8jqFnK1C3WaMd8AfAm1WB6eWzsxY3gR0kOMUM5U7ExghkdV6OUzJJzAn+oC3Ni8m8/fB7bdyCnA/A30jdJ3lHiPLkBv8NrTHFXf/AL6/LazHSmjAEkua/QAQedpaQw33DwfgKsHqjFVEPTdGD4lK9hTgCM5J8uDo9I69FxNli8wGg==;GmfUJvCrBjgwei/g6qhAvA=="
 ---

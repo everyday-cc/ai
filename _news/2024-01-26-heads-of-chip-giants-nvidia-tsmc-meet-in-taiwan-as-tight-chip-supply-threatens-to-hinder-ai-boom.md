@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-gia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107043258,imgsize-10204,width-1200,height=765,overlay-etcio/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
-    excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
-    publishedDateTime: 2024-01-21T20:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
     excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."

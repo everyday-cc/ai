@@ -19,37 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Work In The Age Of Generative AI: Insights From Davos"
-    excerpt: "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years."
-    publishedDateTime: 2024-01-21T20:33:00Z
-    webUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/"
-    ampWebUrl: "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/"
+  - title: "Integrating Generative AI: Through All The Noise, Stay On Course"
+    excerpt: "Despite the plethora of benefits, it is worth another reminder that foundational strategy is key to IT success."
+    publishedDateTime: 2024-01-23T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/23/integrating-generative-ai-through-all-the-noise-stay-on-course/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways"
-    excerpt: "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%."
-    publishedDateTime: 2024-01-24T20:30:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
+    quality: 47
+  - title: "Kia in artificial intelligence: theme innovation strategy"
+    excerpt: "Kia grant share with artificial intelligence as a theme is 25% in Q3 2023. Grant share is based on the ratio of number of grants to total number of patents. Blending expert knowledge with cutting-edge technology, GlobalData’s unrivalled proprietary data ..."
+    publishedDateTime: 2024-01-23T11:07:00Z
+    webUrl: "https://www.just-auto.com/data-insights/kia-in-artificial-intelligence-theme-innovation-strategy/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Just Auto
+      domain: just-auto.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png"
+        width: 388
+        height: 544
         isCached: true
 
 secured: "6Nj/rYmK7tzMfhrN8+Oai2FDY7xfRryGyQT9oGiFTLQWDDUD1esrcaY4IuJpHej7cVdL6gUddvogz1ZeHJg44UMxiopHzMMvQ0EO/YbEFkyAb7k7QLUPdKRiA3HOCJyg8tCo7cjNDitXfgSig+/d0803YaiiD73hsOkbCoL2fak2NtywiwLR5a6tUxgIGg30cNWAlozkphlevVDTDMX61ip2/+M9Dwe/ZCa3j8zjuiVvVgBhgqdwSJGHApkU41wZzy5eaqyIyaCj54CEyX3hfSrNnyNgiQ0P8lgWsmDdU72devIBJATuiuLShu0fhORKH2+04p23skYrnQVm5qarn2gI2cokZoiLmkYb/MTcD4FSKTZidSIhbkj8nBDAwJR7LHSs3BqdFoISp6yb7b7sbptn1+G1g8OvSLMBp8S3gSCYqml2DSqqrRt38EG651MRmiHbLV8vOcLXoswGxDiK3yH3+19pUu0iB0L8Yi5MNjV3PACrIAg7J14SZQuuKx3QpxLR8wFwdJVi1ec2YJTI3A==;QDPnR/B6L73IiSrMrZ66+g=="

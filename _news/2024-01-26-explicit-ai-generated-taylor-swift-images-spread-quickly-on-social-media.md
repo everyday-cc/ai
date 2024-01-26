@@ -34,35 +34,12 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
-    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
-    publishedDateTime: 2024-01-26T06:57:00Z
-    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
-    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
-    publishedDateTime: 2024-01-25T20:30:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 45
   - title: "Taylor Swift is the latest victim of 'disgusting' AI trend"
     excerpt: "In the past year, AI-generated deepfake fraud has ventured beyond images and into video and audio. Cases of AI-generated fraudulent phone calls have recently been on the rise; a fake robocall, seemingly from President Joe Biden, encouraged voters not to vote in the New Hampshire primary, according to NBC ."
     publishedDateTime: 2024-01-25T16:34:00Z
@@ -73,6 +50,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "H5BNWnalzeci4gMagaSn1xLaUlBm7TLg3mCAiqm+BtWq9eWDxc3bRa3ynorkwh0/gH6rEGlsGqkmZseS1YyDnjxpISr4nYjXNmBRS3s7awHuND3HAUjpjGnR8Md345Iw2DGMXbp1h0hh+pd56ZepDn1F+prdEsCc1KlLrauvSWKo7C+4p9jdJlX8gbj9+Fu38ElqBVthSQcbpj5vVi1bi5Zzj8pNYMRuXawb4hkBwn7sBgKW8+e64OaqHRn9Mq8DIBWqGR7VyocaNia6tYXWVRtWxUQZ6I3oGi0fL4JITSV0tYRtdhJbdxocwbhVrMsVMpSEL4mWj9WgsDtWCusK6a1umkT8PK16Lc57lBGO2Ww=;4bw/d5PzG4LYq+pKr2f52Q=="
+secured: "mAuFIKVAqyJJDAOlzltJAb/6TevZiUpdTtwoRj4qA85qPks59P4uBJws30i2b7fOQ/LnpgCZ5D+R4/EF3tbRp9zPKJcrHKMiY28nvGd7KVLdNTn5BH9ZrAMytWRp9+RY5sOPqvkhpXQ1H9EIydC8Q5WDdFB7L+DV/VaNjeNxwuO+Cztpi3hAweiO7dHGItjWx3CYcagbhKZ1TRrCvzYQsacDWBbRAEzNBowndD9XTg/SiHgTdcBMi2Re+4YWeV9ZfM8z9eBTlfvv/O4viUlfUcmLWjSZtFOiCMZ23OEHushNzI8xnzLVEtfpLrW9D1SmPkcMRpeVfu5/0Aov90xMpBKF6LXN7dlR81DDlY7pvD0G/TTl3iMyOyjAMZFswLhcUaNY0LeaHAB7Xt5z3wtrrNt6FZA7FVEEna646PWOVuv60eIC2j+qqITh2h3KyKWrjbsrDyMPHesB+VgPp/YzC6ASqPEh3OGnvqVODio7Lm3C8RyCdkWzgevBDgrFzaqQBDbSrJy6Od/WfiCJZMKRow==;stCqhNPo4MQqAocsgibRgg=="
 ---
 

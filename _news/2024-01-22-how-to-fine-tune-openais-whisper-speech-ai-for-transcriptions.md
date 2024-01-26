@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Is OpenAI’s ‘moonshot’ to integrate democracy into AI tech more than PR? | The AI Beat"
-    excerpt: "After all, isn’t American democracy itself currently being tested like never before? Aren’t AI systems at the core of deep-seated fears about deepfakes and disinformation thre"
-    publishedDateTime: 2024-01-22T16:53:00Z
-    webUrl: "https://venturebeat.com/ai/is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat/"
+  - title: "OpenAI updates ChatGPT model with potential fix for AI “laziness” problem"
+    excerpt: "Elsewhere in OpenAI's blog update, the company announced a new version of GPT-3.5 Turbo (gpt-3.5-turbo-0125), which it says will offer \"various improvements including higher accuracy at responding in requested formats and a fix for a bug which caused a text encoding issue for non-English language function calls.\""
+    publishedDateTime: 2024-01-26T17:26:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-updates-chatgpt-model-with-potential-fix-for-ai-laziness-problem/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-21-11.20.07-Abstract-illustration-representing-the-concept-of-making-AI-more-democratic-featuring-diverse-human-figures-and-symbolic-elements-like-digital-networ.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
 
 secured: "+zP8hKjF0AHw6qipLpeqZPDu2ipia6N5ReIvnyEycp/b9HOR39LO6s/vglDdy6Yj/OnN8ccFebaY2NsfNdduvsIBfZ5P9COnOsho5x5qEzIYB5o+OOVifWjVelGs1FbMF8c+o4Dr8Yjbt7cOcgcnoA3efg742FNtcKbe5QlevQ8yGkLjrG5/CtaAp+EZllSYm+GDN0F/fjEw9gxFyaaMlj4rNlCLny+FyCOpK4pUDk7XFL80EoSgm7sFvxKO6gIqfFZJ+YAomjDW1s0ySwyWtPbfimG2UZMzDx/JcXZ/xSyd6wbC4qLKVCha0mUlhwRQcRakF6T9fz0hs9UMfaQRWrqXlPGqAzx/CZ1U+c65n44=;3JCZCADMUS4jf3DrRVVApQ=="
 ---

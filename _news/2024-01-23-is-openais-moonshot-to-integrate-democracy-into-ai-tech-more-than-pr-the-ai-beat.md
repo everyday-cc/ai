@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "How to fine tune OpenAI’s Whisper speech AI for transcriptions"
-    excerpt: "OpenAI Whisper is an automatic speech recognition (ASR) system. It’s designed to convert spoken language into text. Whisper was trained on a diverse range of internet audio, which includes various accents, environments, and languages. This training ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/fine-tuning-whisper-speech-ai/"
+  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
+    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
+    publishedDateTime: 2024-01-26T17:31:00Z
+    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/fine-tune-OpenAI-Whisper-speech-AI.jpg"
+      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
         width: 1280
-        height: 717
+        height: 670
         isCached: true
 
 secured: "6FhdDZShX58nKp1C6BnpRBH4/+YEtsybjzonrfiuL6epvrncNsQdszuK+EAf4h4XUh2ZyU0UfpFWGJ9mJzkNxMDsvieJASDRoyq0rd+L0yOr9H7M8oYzL8quW49CyhisDnaHT/QiRvGhisKhFD7E6CU3pBCSTnJJEvz31W7qVgLUxY7+CE0neKRdXHdw+aOSd5x975Qtefy70bBAGS7glt7z5c+NRZ54xOJp2+bwBem2VYiyn79r8cqWNfPQPDCYDJunHQkfkGfI31Z/Ou2YijRgjuXxgQimADmD/tCC8BULFxJybO90RBKmmwtTgPpkB3FkOHBVgcN8akfBtkPIbI1XJ8EL5zvGvSH8PnCpjqQ=;rHO4MqzvrFSAd1+bGb4Q9Q=="

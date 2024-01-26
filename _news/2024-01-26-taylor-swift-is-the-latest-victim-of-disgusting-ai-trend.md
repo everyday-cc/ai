@@ -26,25 +26,11 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
-    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
-    publishedDateTime: 2024-01-26T06:57:00Z
-    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
         isCached: true
   - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
     excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
@@ -62,15 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
-    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
-    publishedDateTime: 2024-01-25T20:30:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 45
 
 secured: "kmwYgdAQ5DtOdKLa43m62+Rn3GMNIPLdHiCKTQTqw302eUkI2mz+qMgXt7cYhdQzVlrXNmPHvCn+l2oSjFkxDt/eYBDyq0LQNsT7sxgOHc+SlXHsezsWQDOW63TXVXXtRpTi2Qkjc0PA2MmgBNZxXxoFlsE9DY78jiCPz2UfzOzXjn+MYJQI+7yly+KGk65xFzjs0r6CyVNu5fgM0EfM6ErGL2bhppjj6IqPO55ICf4rok3wYU2i3DXYLW0Qj+CEqsSvNyituQY71CY3iDwwsFyOcxw67CcYD3KjDMvAzWCgQmk1dj4j7a1A0nHmHR9eUvAKQjf7CsGDWdrWVJMJ/1lEZ4J2fOjILvWBYIP3Kw9fec6vdseTpKeBjSa68nlACdW30sBAFO0Ny0neE8pVHwboGT58W/Eiq/Lxhw+vVqljIVtNTMcKoMYz3IQDPRIGdqlxGp3dkAA1zfrnUkT+9eqghWiwBbeml7T11ul9QZE1U2wUXsDkYM8IldTOrL08SpjuRMSIeGgd7+L1zynb7Q==;u9oh44t+kaLwrQHahhjl/w=="
 ---

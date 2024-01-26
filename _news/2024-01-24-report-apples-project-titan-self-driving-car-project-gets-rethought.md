@@ -28,6 +28,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+  - title: "GM's Self-Driving Car Division Under Scrutiny From DOJ, SEC"
+    excerpt: "Auto giant General Motors (GM) has revealed that its self-driving car division Cruise is under investigation by the Department of"
+    publishedDateTime: 2024-01-26T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-division-under-scrutiny-from-doj-sec-1033002213"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
     excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
     publishedDateTime: 2024-01-24T12:00:00Z

@@ -29,6 +29,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "New York State Department of Financial Services Issues Proposed Artificial Intelligence Circular Letter"
+    excerpt: "On January 17, 2024, the New York State Department of Financial Services (“NYSDFS”) released a proposed circular letter addressing the use of external consumer data and information sources (“ECDIS”) and artificial intelligence systems (“AIS ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-state-department-of-financial-4847012/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 21
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16300_1146.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "BVgJ7eC/gWK0/Sj1UBa1pCN09/7/5y+VY8RKtLfYacJSFnJmRRfF3lwUBTAG3+Kyow0xRpk6Bj6TJCNtaoFm91qWyeWe++EBuw0iZL71oFVtw7oE07iKxVqQOpdvGrxHEa03pTVoOfYzOvqFED2Z0H0PLCWGUP4b2HVwAkaw8WOrqPcMb3YSHJtl/Q2SLUGBskHRv7+4GYYunKTRnbIWb7UFP5doZPlmKaOlguRkLmjv2jL8FtcMiC3sdUNMLqQW+2ZodOUt+bVpKXIYGA2kx6Zb7sMCL6mu1WwvDSxGV8jmNofx2j38Db7e+GPTOreJcoci9w0VlgC7B7Ev8lsKeyyG/dMO3vyyWsdfJXz4xJo=;q4gtDIWXQMAobTL8nXQqwg=="
 ---

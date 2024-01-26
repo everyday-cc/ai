@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-vo
 webUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
         width: 1480
         height: 833
+        isCached: true
+  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
+    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
+    publishedDateTime: 2024-01-26T22:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
+        width: 1021
+        height: 739
         isCached: true
   - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
     excerpt: "\"Voting this Tuesday only enables the Republicans in their quest to elect Donald Trump again,\" the voice mimicking Biden says. \"Your vote makes a difference in November, not this Tuesday.\""

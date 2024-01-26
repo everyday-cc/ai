@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-artificial-intelligence-stocks-in-2024-according-to-grok-ai-1032989672"
 type: article
 quality: 57
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,15 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "3 Edge AI Stocks to Profit From Technology’s Next Big Thing"
-    excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
-    publishedDateTime: 2024-01-26T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-edge-ai-stocks-to-profit-from-technologys-next-big-thing-1033001777"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 Artificial Intelligence Stocks to Buy as the Technology Advances in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips According to the International Monetary Fund, we are on the brink of a"
     publishedDateTime: 2024-01-26T02:25:00Z

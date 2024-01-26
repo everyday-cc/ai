@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 197
 published: true
 
 provider:
@@ -90,6 +90,15 @@ related:
         width: 878
         height: 642
         isCached: true
+  - title: "For the age of the AI PC, here comes a new test of speed"
+    excerpt: "The new MLPerf Client benchmark will rate how well chips and systems perform with generative AI on desktops, laptops, and workstations, said the MLCommons, the industry consortium that has published various AI benchmarks for five years, in a blog post."
+    publishedDateTime: 2024-01-26T19:02:00Z
+    webUrl: "https://www.zdnet.com/article/for-the-age-of-the-ai-pc-here-comes-a-new-test-of-speed/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
     excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
     publishedDateTime: 2024-01-25T13:36:00Z
@@ -127,6 +136,15 @@ related:
         width: 1240
         height: 721
         isCached: true
+  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
+    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
   - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
     excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
     publishedDateTime: 2024-01-26T17:05:00Z

@@ -3,24 +3,24 @@ category: news
 title: "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast"
 excerpt: "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast."
 publishedDateTime: 2024-01-13T14:30:00Z
-originalUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
-webUrl: "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html"
+originalUrl: "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html"
+webUrl: "https://www.stltoday.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_5c1051c0-e2b9-58b8-968d-a4954f921637.html"
 type: article
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/e7/0e7a18ac-72d3-51d3-96e9-c41a3c11548c/65a19a574661e.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/c1/5c1051c0-e2b9-58b8-968d-a4954f921637/65a1991806425.preview.jpg?crop=1732%2C909%2C5%2C36&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "JYyzASjwY+mcmyF1ts+7NlMYhE9WAExAm4hUlOuqMCG/m6SeQzJOYG78P4yXX/JHZNKL5J2eWSBHc06pLOB0ZENDES528xm2bYI1FVv75+LMDsFG2l+F67ZWR/6zSdDBWQGhdw+WF1jE5wilJ6/SlOVXyp3+an1CT+Dh/avCiMpO38I3B2/bKU8TicFQ6yuvT7eh3yq3YKY5RmRuC7E145y5boT8ig9pTVHa2237KQYMFPnmVHcu6CNR1POBfoHgEqGSVFhCUm45yLyF84u9Nt44e6brSnmLgbCiMhN43EMH95VDaRFq8AVEG3kb+yQG+MKgAuImXzWLMsPXl9jqSqE52a12MC6TJHG0ZIgVVW4rGNaKXwJvM+7/SGfC3sMRK+xCCDYMtx+WDGIAlPufs0CKg5DA/boUy9IJnVdu+IzqBK7zM6biwdUI4U7oIkh7+JfrQ52ALxgPIN3H+mx7ehzbLtPdH2e2xM6k0QIq965Gil+exellMW9FeqspDFbj0UyshtkoyBD2mWb42VgNJA==;valBwCGehq5BU5TR9nhe1Q=="
+secured: "NwjTOnKlDm/vaJB7lJUBmC1iQ7Eku+DzNZatut8cpLRjk+DUO8lGG8WUOUuOaT/wdEXbkh+bqyQNpskMdEEEcyDlcr97m7T7KaUldQ9fxX0xLW97NgblqnQ3ru4QMBwbDI2wLb4Az1KA3PSB67muKW1xin5oT4RUssOuQ1CH6NIO1Kq0tJ5GFxF+pdlHllXPr0S32U+jkVcpcKTFb/DoHiUJ8Rvdo1+oPGYLKzzlaCW5PSQbZZQoSb7NWnNuCEy3Mx2g51fz2B8rx/UKrpH93PwU4QbmEDq7st94eqA875qhexXZbv8+BzuIqB3Sy+m0GptiFQNu06FHRcUq7gTVK2TcQvbDGzu8B6u3wz16YwU=;MFdzu3Q+lbHTpOtm/GpMaQ=="
 ---
 

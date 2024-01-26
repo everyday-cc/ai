@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Supermicro Introduces a Rack Scale Total Solution for AI Storage to Accelerate Data Pipelines for High-Performance AI Training and Inference"
-excerpt: "Turn-Key Data Storage Solution for Large Scale AI Training and Inference – Hundreds of Petabytes in a Multi-tier Solution Supports the Massive Data Capacity Required and High-Pe"
+excerpt: "\"The high performance and large flash capacity of Supermicro's All-Flash Petascale Storage Servers perfectly complement WEKA's AI-native data platform software. Together, they provide the unparalleled speed, scale, and simplicity demanded by today's enterprise AI customers,\" said Jonathan Martin, president at WEKA."
 publishedDateTime: 2024-01-25T21:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/01/25/9952732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/01/25/9952732.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
-secured: "ado1U0vp5Pgv7OvxpvcgOydliFDKMGVlcdoZElKdbP2/VjdqZO8iJxcBGnSbrbABFjczG3G3Hry8GvBpQz5k0vRUaQIE9gag8DaA1RXhbVeTggcJVXdz+pHZQ+hwS0rDZpYS2So3Q+lWWRvtowvcfSdXNKNrJkyNTG4unaIUE5tH0I517WfLguZbQikWXdiHGhp/FJ17FAdvCad3yySfjnPabWT7CaJHYvVRKgl9CpsvbSNzM2rZNzu/JYSii1BwA4hisdPDNwAb0+EMki19MtP5//5+wAPGvAwWkqfGlhCN38hQ+t2yhWn8uBnl44dh5nECM+OM3vXOMNCJnyvR5WYAEt+mby2Lm3F7rh+to0LkzQVssBm58TKJCGB/dDi0tQZtGddSopHkdn0+zNtqjIbZTynAEmrb2Np31J9XFBU4kP+694H2tLL7qgNBLb+3W8PcKyAvQ/5nG4j5s69ikXFQP8no6TeK0pfYlaJOlVsyurbsNevIbfmP1QW5jjF+tgIu015/aEpQFFRn/GPUTg==;rd4QOCRBgmX2A05JTEzMZg=="
+related:
+  - title: "Supermicro Launches Optimized Storage for Enhanced AI and ML Data Pipelines"
+    excerpt: "This new solution maximizes AI time-to-value by keeping GPU data pipelines fully saturated. For AI training, massive amounts of raw data at petascale capacities can be collected, transformed, and loaded into an organization’s AI workflow pipeline."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/supermicro-launches-optimized-storage-for-enhanced-ai-and-ml-data-pipelines/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+
+secured: "BJiiyJt1PQ71T0wOJVGiPs21wWlINuFTJpt5QRgqlZ13FUjgNy8Yo0vNs5N3mEI0JwthZgMFXdlYt4ypIhPC5QtpfBlWim2wz8mI7bgUKPHtS+s86rHB+gj69ZiAvUxAx7XX8T46r0TEluWlXuNYAEBP/iKQsf1KSz1YzQX30a3XMjAcUanwo3+gQ2VIeR8IrldlUrKUtv6xumrh1XmxHe4Nj/fqZ4jHlj7/2CwnBuTDymDrpIW2O5aqODXBpmYxw071bf5FQ4r9IolgukHH9SgBpnDLKjp3YH1ViPQedtBfJ7Jkwacc3TW62o7EzolEocFj1HL5cBq7eQeCkZuvT0uUHGbWiOsl+UtxhWOpP9A=;ay7ONwaGE+C82djFzHQt5Q=="
 ---
 

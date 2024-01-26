@@ -37,6 +37,20 @@ related:
         width: 709
         height: 868
         isCached: true
+  - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
+    publishedDateTime: 2024-01-26T22:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23628764/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 41
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "Think Nvidia Is Too Risky? The Smartest Artificial Intelligence (AI) Stock to Buy With $1,000 Right Now"
     excerpt: "Aided by strong profitability, Microsoft has paid a dividend since 2003 and raised its payout annually for 18 years straight. While the company's current yield of roughly 0.7% won't be attractive to investors looking for big payouts right away, this is a dividend growth stock that's perfectly suited to be a set-it-and-forget-it portfolio component."
     publishedDateTime: 2024-01-23T16:55:00Z

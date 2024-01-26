@@ -66,6 +66,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
+    excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
+    publishedDateTime: 2024-01-26T19:18:00Z
+    webUrl: "https://insidehpc.com/2024/01/vast-data-and-genesis-cloud-partner-for-ai-cloud-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "O7W8oPmyp7dqXtULu+kfoOy6xa9CYIcjRLYlC4znMXzWO7gg858DUOmDggWbjDJpNJDkxXVuN0tTna5Q7Eh7330jIxj/es2kVNXLPR/xGECOqFGoMMyUyjQ/tbU5CDbEQC6j/kOnTm0k0a8VOKjGrkNflSrIgrPNXWedICyUEX6FZuwwNsnLJnho8BOcl0MxXrX94fJsZNT1mPlLp0VEkgogcVyg8L5t0cJExr2MDNPATa/8+1TZLfVCC8yF8UcBOPS5/w84xURmNP3RGFGyWWYNxmoS+BEX7VEOGbA9sK+qz9Y7paL4sL9WNXQHhP/CNkgE/kQQ2JVycGMkOi/U1wm71T6GEPVZ9/of5Cto33A=;AsrfKYE85BcMzFX4WZW5Bw=="
 ---

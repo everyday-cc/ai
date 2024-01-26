@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
+    excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
+    publishedDateTime: 2024-01-26T19:18:00Z
+    webUrl: "https://insidehpc.com/2024/01/vast-data-and-genesis-cloud-partner-for-ai-cloud-infrastructure/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
   - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
     excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
     publishedDateTime: 2024-01-22T20:18:00Z

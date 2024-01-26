@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Upskilling: Why finance guys need to study fintech"
-    excerpt: "The financial services industry is undergoing a profound transformation. To keep up with the changes, we need to constantly reskill and upskill. While there are multiple courses, a master’s degree in financial technology (fintech) can also be considered – not merely as an academic pursuit, but also if you want to thrive in the world of finance."
-    publishedDateTime: 2024-01-21T22:30:00Z
-    webUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/upskilling-why-finance-guys-need-to-study-fintech/3370926/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/slice.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cairo-based fintech Zeal raises $4mln funding"
     excerpt: "The app will use the investment to expand its technology solutions across the EMEA region, following its recent expansion into the UK market"
     publishedDateTime: 2024-01-23T07:16:00Z
@@ -122,6 +106,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/fintech-reuters.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Redefining Security With AI: Info-Tech Research Group Releases Blueprint for Security and Privacy in an Exponential IT Era"
+    excerpt: "Info-Tech's latest research blueprint navigates the complex landscape of AI-driven security threats and ethical considerations. The resource offers a strategic approach for security leaders to safeguard their organizations in the exponential IT era."
+    publishedDateTime: 2024-01-26T16:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/26/9953000.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Fintech, Ecommerce Firms Eyeing Integration Of Bhashini Platform"
     excerpt: "India’s fintech and ecommerce space, which is experiencing rapid growth, is actively engaging with the government’s AI-powered language translation platform, Bhashini, to offer their users multiple languages, both text and speech. This could include ..."

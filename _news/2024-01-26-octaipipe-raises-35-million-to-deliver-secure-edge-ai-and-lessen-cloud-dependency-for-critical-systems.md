@@ -7,7 +7,7 @@ originalUrl: "https://www.01net.it/octaipipe-raises-3-5-million-to-deliver-secur
 webUrl: "https://www.01net.it/octaipipe-raises-3-5-million-to-deliver-secure-edge-ai-and-lessen-cloud-dependency-for-critical-systems/"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "OctaiPipe Empowers Critical Industries with Unique Edge AI Federated Learning Platform"
+    excerpt: "OctaiPipe has announced raising £3 million in pre-Series A funding and a £500,000 non-equity grant, totaling £3.5 million"
+    publishedDateTime: 2024-01-26T21:10:00Z
+    webUrl: "https://www.datanami.com/this-just-in/octaipipe-empowers-critical-industries-with-unique-edge-ai-federated-learning-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 11
 
 secured: "m1FvJyoPYgAZzdQhTP9H9TudieEUcLBme3Wt5xzcVt/H7WBOovQRhVMRg0cQdh4f7BFO4H2967NixwU33KgXb0aRERBT4jJFEobYolxSNd/iz9z3xlbbyDqOjPtxumDYSdxlCs0fZN8Hr8PRzkR1bKvw8cQKK6dzFq/ZKmUVtRUTBUwc9TfJwBRrmUjDrxDrsrO0rzRAbrxilykmzkYutyo0bz+fgmqrKiExk2or+8LuirmRknZ3r5Lkl+plU/B9FXOcIdUuE2p+vchpdHYeSyJqtbwgE+bvjUZV/WakExqet5tAyQQvlS5JNTbYEj+59zDdHVHjYACYAMd5v8z5MmMBMzrpBwPIkjZUvXM2Sm5EhJjU6veQc82qhpBJhWWhiYuGojg4904tCBQul5HXfK2mEVCsw0hAIj4mI29pnKbLEpVAglG5wuj4jhq6iDV/tP7oT82lbHJYKozzjZgVYnbWCBLm6si2jWTAUl0Mmm9jPk5KmRgc0Y8aVg9SUzLolCHPe3E3ryT4WS+nYPZz0Q==;MjyLqGQPt5KEZTTxx3zA3Q=="
 ---

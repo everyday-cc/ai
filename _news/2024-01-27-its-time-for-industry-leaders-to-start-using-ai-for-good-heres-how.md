@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-le
 webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,26 @@ images:
     width: 1200
     height: 575
     isCached: true
+
+related:
+  - title: "Your Cover Letter Still Matters-Here’s How To Use AI To Write It"
+    excerpt: "For the right role, and the right opportunity, cover letters are a great way to start the conversation. Here's how to use AI for your next cover letter."
+    publishedDateTime: 2024-01-26T20:01:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2024/01/26/your-cover-letter-still-matters-heres-how-to-use-ai-to-write-it/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Afraid of AI? Here's how to get started and use it to make your life easier"
+    excerpt: "Artificial intelligence, or AI, can sound overwhelming if you've never tried it. However, it can be a game changer for just about anyone."
+    publishedDateTime: 2024-01-25T09:21:00Z
+    webUrl: "https://www.freep.com/story/tech/columnist/komando/2024/01/25/how-to-use-ai-to-improve-life/72328123007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 17
 
 secured: "BrVewgTnOrU96VAwykX5oSuNrmbPsrQr9WBcRlNfaGZP0O7Ufj2HaDcD2u7+u686YfH+S5yO26WIKDnJ9AX8ijZjGPBTJAy3/hmkrIxkm7aF0JzWxg1LKRcDSA8EnfaH3ga4uW+JWzZtUQR5L7nSKzWHCYRsEfVZDMLnP1/28pc6V+VwrvnP0PSW0kFETa4WVej21ddHF+TBJY0jabpjjSESJ+V8FBmnxaXmmXBXt4P2qij1hU5akN9osgpRqyq/af4BrFh+QX+K7nb9FkmHhLNzI+LnB5sB7J8QKGd9CMeRT0YdWAJQjTP/7WCv4O0kKJWidsu/w6fTOJc6bld4URCVh1u69kQv1qR/TZlm0B4=;4mMlz2ZgMkO8TMnQJlMkcw=="
 ---

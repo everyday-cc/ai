@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-26T17:20:00Z
 originalUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
 webUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
 type: article
-quality: 67
-heat: 107
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg"
@@ -28,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
-    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
-    publishedDateTime: 2024-01-26T06:57:00Z
-    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
     excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
     publishedDateTime: 2024-01-26T15:36:00Z
@@ -58,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
-    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
-    publishedDateTime: 2024-01-25T20:30:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 45
   - title: "Taylor Swift is the latest victim of 'disgusting' AI trend"
     excerpt: "In the past year, AI-generated deepfake fraud has ventured beyond images and into video and audio. Cases of AI-generated fraudulent phone calls have recently been on the rise; a fake robocall, seemingly from President Joe Biden, encouraged voters not to vote in the New Hampshire primary, according to NBC ."
     publishedDateTime: 2024-01-25T16:34:00Z
@@ -77,6 +55,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "Ip9cWWUlqY4c7LkY4Z/gCDW03cvdvQeyBhOaG/OevnTXZVBgffP0S9161hQl/FWqyTlShB9gdphRIrIQbgo/lXNxabYcMxSHRTvSWayW3p/qVy9l7TnpxWbiK7Obhl3Ha/nNHuw9a0QZ4VOfPPIBvKlnYB99TkNnx6Dm4ItBH14B52+l3R6weFmmyTe55HG+yPBwOh5gBNyjmXO3Gi0hiAfa+li4JC6L0NnxMYhmVOEILDO0n5SvIhmie6udh14IAsQMDKehR4bZKlGDwQrkERk951HDhXe5zmzgEORk8sG5T7PLn1Q+8Ltx8nhmpuzj0A5mZldE0sXUNbWr4InQth+juPwoQEAffYVoFwtidls=;SFAYPy3zWU6JXz0NZcJ3cQ=="
+secured: "Xeqy4tTOu17Wv8NjkTTreiZXn563MrgGYv41qR57iJPaw6VqIpO9gUL5GRp7YD86waHpEoPnKDtX07KojDAeAAWNacUSn1dqwqq9m+ASznULW4R1gOgjxozyvkXJRG8YdmQHEnHGruyyVE5NUhK01RBqNu5bw0E2QNoRL+tHPJhuT8Ndk0MxDhXaaME8+FykFji8NFQIpoYg1VADV6MMKVD3sNsZ7S/Il5df7hDEcUHtJCycmJJTNMSUuXca9U9S8Y5+ZbuL57sKd+Wepfb5u60DWKEqSISyAC+PJJrg6TjnVXq+zGJgiL5Xwl1jjZoT+oK3V1Tf8LFYdVg9+Rd8NLDSoAm897/BpUX81jmsL/56gWlK1ZFxAgIO596cebfbLu9Si0jv0NumnD03XNhL/e4NmV2m6RnEKAzhBDGN11JUu7RyvGNAXi9KIt1Ez60/tONtUpEZ3Pbmoa2bAmzTPrW3vBS8VRN9YkTHKneJFizDhGmf/P7RkAY96DOzJCroAp18OULqn5WnEPz6ZYy5ow==;H7cFjVtLvfDKe9zkWldOew=="
 ---
 

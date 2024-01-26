@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Sam Altman plans to tap TSMC to rival Nvidia with his own AI chip"
-    excerpt: "Nvidia's GPUs have been the main choice for most AI researchers and companies, as they offer high performance and efficiency for training and running LLMs."
-    publishedDateTime: 2024-01-21T20:47:00Z
-    webUrl: "https://interestingengineering.com/innovation/sam-altman-plans-to-tap-tsmc-to-rival-nvidia-with-his-own-ai-chip"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/21/image/jpeg/6f7Vq3Xgu9rscR11txzeivVGOtVQVHx4GwEk1zLs.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Ejce+YwcD61Hhv76RI704DMTVNo3NkQxXjhv+AhnAq/pvKDn77q+0Dkvdste/qmEJ55pRavKTOFSlnFvtQl0ukyo3qdJzS6e+W5O2eDJPLH6B17p3IZKgl83AJZRolvv3FnG3Arn2hO5AWFiEFjxOb5u0j7yzQM4oVHz4dLIpxDNSGqwg6JwkZ6oXbMOBqaOPgY6H7rw8Cgo2gFbP+9PV8pp0sAnTyN77qryJ4fd99i1eoopv65ZMwklndljeV6cuJX/cmeIUFFzeNyLmV2nQtkyQxTmNnf1vPGxbc7bOgV2F/z52RIofXjM19+bqgK8Bn9ou/MTDGVeLhIhc9JlTheiZOeNZ1gV0QunCX5PV+rSj7YKUPwOpjCVZguwfonGnQ8oFSOBiUAyoifxjUMeLsER34p7a4j+tFgALyeZh3c+cgTc93MThvuXzFkmPecU0TV0O02v+GvGb2zMuD/y2bp/1Sr+FeXcfbSlhFBOtoRxpDarO+1pb2aLyJ3AXE/io9GHt5TJDVUoOnwBZ5DiYw==;m++I00BVsaP5ZFlT84cwgg=="
 ---

@@ -92,6 +92,15 @@ related:
         width: 960
         height: 642
         isCached: true
+  - title: "The generative AI smartphone age is here"
+    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
+    publishedDateTime: 2024-01-26T15:11:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "INF3Gj0Z1UDXQGmzjzvDESRwjlk4eb8H2Oh0/BG/w62xovAv470bHeow/i80KGRpeYntUvrlI1MQHslWt4hrsPKHeom32eorlHEn9KKnnayMqTdqcDhG8nMYg4F4DTXfq6TfLoOBQMdJKrZfH6biapOfsSUvZMycR5qxDLVmU4wE4C7EAY0X57S69K4Eccy3fH75davu5JkYYn7iS7r9vJ2SGyKibFDPgu4a3BkptnqpNKnV9gZjs5g2vX2tWo2bd9/djOLaIdliUSD2J43N5u+vpJB5OqkmWP3JFxX0GqJdoNAD7EWhLbQSMSFmb1RDJMN0VgpnzjW9AOCX+7btSCDq9CKyuFE55igIf2Z9rwGVa5aMsgBq8aB8yNY8WTMXmkuHuRSobgvgtwdSYSlGxBh37j1KN9/uH/X5BVU2Yk+e8+N4+YG8BTjgBqAa3jIK4afjihP37OhOAKhdieZWSoudr34/eZRqDhCzTYKChQp+C2ZNZnTlzOUmrhOSWy5PXXsrvK1PKusmncOHJ1bUpQ==;6DT4mM2th53JR4ixDfMdMw=="
 ---

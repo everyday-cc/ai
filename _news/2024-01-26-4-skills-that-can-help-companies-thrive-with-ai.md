@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google made an AI doctor that can help diagnose patients"
+    excerpt: "Bringing AI into the doctor’s office could help alleviate some of the stressors that doctors and patients have to deal with. And this is something that IBM has been working towards for quite a while now with its Watson computer system. Despite being ..."
+    publishedDateTime: 2024-01-26T22:37:00Z
+    webUrl: "https://bgr.com/tech/google-made-an-ai-doctor-that-can-help-diagnose-patients/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/01/doctor-ai.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1079
+        isCached: true
 
 secured: "50X5GeWcO5aV8rAlzg7cpY1trZWjinIBbyRJh2+7pICA9OxeqOW5jj67KZSOC9CzneERXlwwW+LyxlfHA4+IFI61oowtunDeuBnAN02w1AvbmLa/PNvlGtKBgDgemMoomqj53BUr0PyLVRtB7nOfSm8SsxQ+QilO3VKUBJnFx0rrMZL/mt1kxTCC0x6bqLGVUj6uRSltB2w9ZU4CjYVEpWRXsahhg/JJT/u5mWrRw3fNQ++K/tYdp0rC+6MGrNgoe1hzRi1R8teDfi/qaQv0x6Xp/MeGs5sJhbLcH3h1OIPiiHVgpjuFIs4+2RujQDADvdywI3Zuut4rFJ+8zYkdWu/d7TUl+A1746pxokIptCc=;VCjGcsomN3ghDt0RJz62bw=="
 ---

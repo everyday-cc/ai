@@ -38,6 +38,20 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Google made an AI doctor that can help diagnose patients"
+    excerpt: "Bringing AI into the doctor’s office could help alleviate some of the stressors that doctors and patients have to deal with. And this is something that IBM has been working towards for quite a while now with its Watson computer system. Despite being ..."
+    publishedDateTime: 2024-01-26T22:37:00Z
+    webUrl: "https://bgr.com/tech/google-made-an-ai-doctor-that-can-help-diagnose-patients/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/01/doctor-ai.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1079
+        isCached: true
 
 secured: "jYviCJIZzxTLhY1qrJlni1mTWQRvs3/dEqWfjJD30A7rkHWV0GCCX4U7kpjnXewQcrPYvbIFR3DQRQqWUS5TE9vlf9d8IxHOE2ABThdB+6qad88GJT4kzl2J6saoYlOT/0RJKQVcuLMNgiVUB5Li2OgVO++6O8Pt8pJijZzuDVHJ+b6fBgwCbKxDOhdmARJvpoczTf0t0VlYe2HQqRt+Vbh75hNPvCrzniRfdWDC+U62K4tthCgBJzkGICOP1yU6lshcwVm3HJo3Px/D8uQzAbfzSCUR+5h1PddkAECjg67Dc866NbK3a0YFGH270aDLrkq4qo+/iq1epFvRT6l1bhD9gghXmYxn1nzT9PoUQDlGFhfjt8dNpwsaWoXWQ4KkG3+LJZOx318JZvzopBj475ARoDzpJ3KxbUACxQ25LqqacDuLZEud90m0gPHqCUBIsLMJXtdg67MWB4Ex+Td3BYrgBULAAP8jEOLyukixyOHW/puAEjFlgqD5lgVd5Sh2YrMDUupHr2YDvferaLOY8g==;3IE3belZE8QVcXMgmT3/IQ=="
 ---
