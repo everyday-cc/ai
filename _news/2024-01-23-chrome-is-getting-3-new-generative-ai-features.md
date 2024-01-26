@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
+    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
+    publishedDateTime: 2024-01-26T02:00:00Z
+    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
         isCached: true
   - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
     excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."

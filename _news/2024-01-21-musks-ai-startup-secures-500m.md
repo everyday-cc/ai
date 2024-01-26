@@ -7,7 +7,7 @@ originalUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-
 webUrl: "https://businessmirror.com.ph/2024/01/21/musks-ai-startup-secures-500m/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,63 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Elon Musk's artificial intelligence company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal, according to people."
-    publishedDateTime: 2024-01-21T01:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/musks-ai-startup-secures-500-million/articleshow/107021302.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/musks-ai-startup-secures-500-million/amp_articleshow/107021302.cms"
+  - title: "AI startup strikes $200m SPAC deal to list on Nasdaq"
+    excerpt: "Fusemachines, based in New York, will trade under the ticker FUSE. Fusemachines, which develops artificial intelligence products for enterprise use, is merging with a blank check company in a $200 million deal to begin trading on the Nasdaq."
+    publishedDateTime: 2024-01-24T07:36:00Z
+    webUrl: "https://www.moneyweb.co.za/news/ai/ai-startup-strikes-200m-spac-deal-to-list-on-nasdaq/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107021312,width-1070,height-580,imgsize-28642,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
-    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
-    publishedDateTime: 2024-01-22T12:52:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 52
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI's product, a chatbot named Grok, is developed using social media posts on X ..."
-    publishedDateTime: 2024-01-22T04:53:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/musks-ai-startup-secures-500-million/107042614"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
+      name: Moneyweb
+      domain: moneyweb.co.za
     quality: 37
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107042614,imgsize-37130,width-1200,height=765,overlay-ettelecom/internet/musks-ai-startup-secures-500-million.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Axyon AI secures €3.9 million investment"
-    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
-    publishedDateTime: 2024-01-25T00:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2014/10/AdobeStock_245853295-1024x683.jpeg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "IxqAkcLZGxBzh7EKH6bjflOIUD1Z0lTBHeomHpfmRsqdRpXbWH7XoVZygA0dsFSmCrsv6n3V+DZaU7y0dZP2WV5md5PZkqEU5P68i9Gay9kydn0ToE8nflXn9INczcxtqNcT59Ij8J0NQX6rIAD3L6DNtal25z73gOVZchBJ54ZzecJM1v/YZX/CmsIcYarb62d88uruLYajgp4+86WbYDvlrCsZZLbUkJeixK/Tg0v1zn4UTFR3N1i6yvF9Dtf064fcUhZ/I4K7p6DI2CVTRjfZhIWAdsup336dgsMZZRheYxza2yrSu2e223LD4KxIxwTXGzZbWv0W4oD1e2A98Eis7aktKRucv+XO3nPUVODG1FtNiFTTrtjRnZIIFd/HoKb1qPWvDoCrMYWEnEFjWr8IoaUVTArHrjmumhmNp9jevQUMbY5pjK/cv/pk72SYalQDBCtXqoimmVmwn08jd0s3AU2TPiIc+IGblBvYRGlsmZ0D6mZX5DE7E9iQyZeUlhPg5VQ3L1zsh3A/tHLPMg==;QTldbvMrrLZqJf8xFUVGRA=="

@@ -89,22 +89,6 @@ related:
         width: 400
         height: 265
         isCached: true
-  - title: "Can the power of artificial intelligence be harnessed to help predict Australia’s weather?"
-    excerpt: "Machine learning from existing models is already helping some developing countries with forecasts, one researcher says"
-    publishedDateTime: 2024-01-21T01:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/4a97aef94bf6590118be2f7931ddeb93776811ab/629_704_4480_2690/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=987398b7423d04a5bc9ac5a8a9a93a9e"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
     excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
     publishedDateTime: 2024-01-24T18:29:00Z

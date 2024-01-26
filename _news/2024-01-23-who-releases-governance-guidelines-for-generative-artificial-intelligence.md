@@ -142,6 +142,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
+    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
+    publishedDateTime: 2024-01-26T02:00:00Z
+    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "Google Adding AI to Chrome Browser"
     excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
     publishedDateTime: 2024-01-23T17:43:00Z

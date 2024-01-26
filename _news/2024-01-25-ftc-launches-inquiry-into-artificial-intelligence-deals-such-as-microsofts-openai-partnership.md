@@ -1,18 +1,18 @@
 ---
 category: news
-title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
-excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later."
-publishedDateTime: 2024-01-25T00:00:00Z
-originalUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
-webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
+title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
+excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
+publishedDateTime: 2024-01-25T12:05:00Z
+originalUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
+webUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Meta AI
@@ -20,9 +20,9 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
-    width: 506
-    height: 338
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/RAPQTDWAONALZBRKPFLSSVLCGI.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -53,6 +53,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg"
         width: 1023
         height: 513
+        isCached: true
+  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
+    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
+    publishedDateTime: 2024-01-25T21:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft is building a team to build smaller, cheaper AI models."
     excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
@@ -254,6 +268,17 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
+    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
+    publishedDateTime: 2024-01-26T00:59:00Z
+    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
+    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 52
   - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
     excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
     publishedDateTime: 2024-01-24T17:00:00Z
@@ -338,6 +363,6 @@ related:
       domain: 01net.it
     quality: 29
 
-secured: "ggI6aJN9MZWsycQXhtquL+NTJsD/lrudNURxpt96Pv3rcv2utKlnnykcj8SAj+M7X9TQVGlOWs2TrbLs2UxERvhmgtlB5TZeUsg5Ik+oDJ9AnAG5LWXj47yjZGxVXRwCfs/3cc+8YFSeGdJHDK5VuLePkr8sWN0U1r1Ouzi+qQVhHouUlAPycfo97LKwUrfl9zC6nZv3SK8C8p8nl6SeQbyUxaFXyo1Au1Vr02WhdF2nUW9m3rkjMdz7Yv8Hm9AmoY9Z4p7F112kHwY4epmkT3Y5pv80HgaB/7REjlO3N+599IX0DfkQXLPWoyYk5EuTsSpnqwadcHi1HjdeCOiYcLBToxphYGzjzz3ZbiYPPB0=;jjlIvJymForEbBz4MbIGQA=="
+secured: "Itay7pyuCZX6BF0YcAZJ0y1pcxmUzF1vNFd569LLHYVhYuZZ7+veGeyeCEpNO/LKKHikZ/4lzntpbIxxoYWN3dsuSqIpFkqcKR1HWzZ7V+rZpbtQq62TzZrcttNL3BSfufrddFwkMh1uYLk0IJY3KO74G+grRQxy3xQ1A6OU67P6RByr/4fi8tqV8nudoDVxHahGzPxb/VBFXa2/B31At9BxDTc/aMTA0suxlVanJJ94AHGxLE+rbm8If3rs6GJKmWBFVN5sD3dmtytcq6o6JwUrjczySK8TNDycg+lL2sJEa94tQ8oWpMkzdSw2V2dsv9JPGV2AKLfp1rCvQtvJabpww1tRsLMtnt3PWNH5VpE=;eH8c8nJ9tcs0NYG6P8KLBQ=="
 ---
 

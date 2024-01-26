@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
+    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
+    publishedDateTime: 2024-01-22T12:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 52
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
   - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
     excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
     publishedDateTime: 2024-01-23T22:41:00Z
@@ -39,19 +53,19 @@ related:
         width: 709
         height: 868
         isCached: true
-  - title: "Investing in Artificial Intelligence (AI) Stocks Can Be Risky, but Here's a Spectacular Way to Do It"
-    excerpt: "Artificial intelligence (AI) was the dominant stock market theme in ... Similarly, Alphabet isn't just an internet and cloud computing company -- it's also home to Waymo, an early mover in self-driving technology. Apple might seem out of place in the ..."
-    publishedDateTime: 2024-01-23T18:32:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/"
+  - title: "Musk's AI startup secures $500 million"
+    excerpt: "Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI's product, a chatbot named Grok, is developed using social media posts on X ..."
+    publishedDateTime: 2024-01-22T04:53:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/musks-ai-startup-secures-500-million/107042614"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 37
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/a69fe218102c1d2c24b67985259c5a54/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f762051%252fa-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg%26amp%3Bw%3D700"
-        width: 4000
-        height: 2666
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107042614,imgsize-37130,width-1200,height=765,overlay-ettelecom/internet/musks-ai-startup-secures-500-million.jpg"
+        width: 1200
+        height: 765
         isCached: true
 
 secured: "OthN2TFRfdO1af+nBEzZpD+h+hYYlnP1StxQBUEhNF2Ey5rzTm1q/RKcJWWbSyGY59qnB2rkCEWc1ai65pH3Ccu5IEkqV93/2nzU7e31HthY/f0cgx7bL6oJrKSv01D1UVyqGXTjxFEy9CLWfxQU9IDjsox4V/XELh3V5VWPCrKN3rXEb/xjV+286hYy23Rjro99dQeb95hOgz7XPClMBuiHm2C2zZEzfOkVP1UzmVqygCi2HUK6oBRlYRNcleGuML+Av+BE/WGTuccuOR+MirO2l8e7KdLIy5NHVRdeHTzvWRxQzB7VCG0csC4WO+ejxOH349yy3d/1/L0Vw3gz5bq82cEMAQGYB6omQtuYqkQ=;06jE6M3DVCnp+FFeJAtRxQ=="

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -232,7 +232,7 @@
       "originalUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -271,7 +271,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Meta AI"
       ]
     },
     {

@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-25T19:19:00Z
 originalUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
 webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all"

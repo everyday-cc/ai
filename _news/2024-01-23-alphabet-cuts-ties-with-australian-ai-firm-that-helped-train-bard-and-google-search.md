@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appe
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
 type: article
 quality: 85
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
         width: 400
         height: 265
-        isCached: true
-  - title: "Can the power of artificial intelligence be harnessed to help predict Australia’s weather?"
-    excerpt: "Machine learning from existing models is already helping some developing countries with forecasts, one researcher says"
-    publishedDateTime: 2024-01-21T01:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/21/can-the-power-of-artificial-intelligence-be-harnessed-help-to-predict-australias-weather"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
-    images:
-      - url: "https://i.guim.co.uk/img/media/4a97aef94bf6590118be2f7931ddeb93776811ab/629_704_4480_2690/master/4480.jpg?width=620&quality=85&auto=format&fit=max&s=987398b7423d04a5bc9ac5a8a9a93a9e"
-        width: 620
-        height: 372
         isCached: true
   - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
     excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."

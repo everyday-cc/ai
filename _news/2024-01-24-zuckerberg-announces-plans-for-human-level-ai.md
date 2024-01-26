@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype"
-    excerpt: "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models."
-    publishedDateTime: 2024-01-21T02:25:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Mark Zuckerberg plans to build advanced AI, worrying experts"
     excerpt: "Mark Zuckerberg wants to build advanced artificial intelligence, and some industry experts are raising concerns over his new project.  The Meta CEO shared details in a Facebook post on his account Jan."
     publishedDateTime: 2024-01-23T23:18:00Z

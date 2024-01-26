@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-
 cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-ai.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: FOX 10 Phoenix
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Metaverse Flopped, So Mark Zuckerberg Is Pivoting to Empty AI Hype"
-    excerpt: "division with its GenAI product team in order to expedite user access to AI features — which, as Zuckerberg pointed out, also requires a massive investment in graphics processing units (GPUs), the chips that provide the computing power for complex AI models."
-    publishedDateTime: 2024-01-21T02:25:00Z
-    webUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/"
-    ampWebUrl: "https://www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/mark-zuckerberg-meta-ai-metaverse-1234950139/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 59
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/01/mark-zuckerberg-metaverse-AI.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
     excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
     publishedDateTime: 2024-01-23T15:13:00Z

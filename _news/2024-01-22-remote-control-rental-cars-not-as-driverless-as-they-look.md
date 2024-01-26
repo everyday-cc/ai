@@ -7,8 +7,8 @@ originalUrl: "https://newatlas.com/automotive/teledriving-remote-rental-car/"
 webUrl: "https://newatlas.com/automotive/teledriving-remote-rental-car/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: New Atlas
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Driverless car knocked pedestrian due to 'internet connectivity issues': Report"
+    excerpt: "The law firm, Quinn Emanuel Urquhart & Sullivan, was hired by Cruise to determine whether its executives misled regulators in the aftermath of the October 2nd incident in which a hit-and-run driver struck a pedestrian, knocking her into the path of a driverless Cruise vehicle."
+    publishedDateTime: 2024-01-26T01:44:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/787312-Driverless-car-knocked-pedestrian-due-to-‘internet-connectivity-issues’:"
+    ampWebUrl: "https://dunyanews.tv/amp/english/787312.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/787312.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 55
+    images:
+      - url: "https://img.dunyanews.tv/news/2024/January/01-26-24/news_big_images/787312_13539262.jpg"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "1JpniSzm1EUlWamxXM465tqmU3c6Fw6r0s3He6m+ASVs54IaRk0Jfl5kbyN93TWO0y6e1bdh6mlVD+hXvN0i8FCCaHSYgDqPHY2pr1s+H2Ny1B7zy/eIfG4cZesbxhf2EnwF49fQZRE6zSctQJY5JTndwe0t61TrsLS2fWKSJ9GlSv3vwBVbY8QXTNRY4jMkHOKhZUCm6Apo8o69Z+739+CHagtGiukOxejk8qx9NDpJTlzPgOmG9qBQ/6Qbl4kqbfmpQ1OshD/Oj9hneHglOTuLeABaex0L7tqUbyBYBClx8P3vHqXra5Rhdsn9epe7g7poU/7yg4K3PPsT3dUrkfusWhPYxtNvQA7eWiQy3s6YWjR3+wR2o1t6AeaM5BQRQpTpRcLOQEa/0TwCEvIiwThEKuvfqCogZgTaGTq3UVOHULyTI/dpiHNO5RBawQBJaFJ29hsZSl8k0FahKKV96XTgVyHtJD4CIUWcG3L4aobBO9VEDzS849x0mym828D9mprZXHEncc4v073kdB7grg==;1TMhEs4K6pX7BoPoTV9pFA=="
 ---

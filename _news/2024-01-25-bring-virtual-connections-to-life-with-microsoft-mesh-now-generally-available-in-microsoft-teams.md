@@ -57,6 +57,20 @@ related:
         width: 1023
         height: 513
         isCached: true
+  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
+    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
+    publishedDateTime: 2024-01-25T21:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft is building a team to build smaller, cheaper AI models."
     excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
     publishedDateTime: 2024-01-23T22:45:00Z
@@ -206,19 +220,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
-    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
+  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
+    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
+    publishedDateTime: 2024-01-25T12:05:00Z
+    webUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: KSAT
+      domain: ksat.com
     quality: 59
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
-        width: 506
-        height: 338
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/RAPQTDWAONALZBRKPFLSSVLCGI.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
   - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
     excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
@@ -271,6 +285,17 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
+    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
+    publishedDateTime: 2024-01-26T00:59:00Z
+    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
+    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+    type: article
+    provider:
+      name: Coingape
+      domain: coingape.com
+    quality: 52
   - title: "Microsoft adds two more Indian languages to Translator"
     excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
     publishedDateTime: 2024-01-25T09:25:00Z

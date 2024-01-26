@@ -429,6 +429,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-12-abb-acquires-sevensense-expanding-leadership-in-next-generation-ai-enabled-mobile-robotics.md",
+      "title": "ABB Acquires Sevensense, Expanding Leadership in Next-generation AI-enabled Mobile Robotics",
+      "excerpt": "The acquisition underlines ABB’s strategic investment focus on innovative AI solutions transforming industries, such as logistics and manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
+      "originalUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/fbc920be-6374-44d4-bd7d-a10ae4823436/ABB-news-Jan-12-2024-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
       "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
       "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
@@ -1271,50 +1314,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-remote-controlled-robots-bring-metropolitan-healthcare-experience-to-outback-patients-with-heart-conditions.md",
-      "title": "Remote-controlled robots bring metropolitan healthcare experience to outback patients with heart conditions",
-      "excerpt": "The Queensland-designed remote-controlled robot, hailed as a world-first, is expected to help alleviate the tyranny of distance faced by patients living in remote, rural, and regional areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "originalUrl": "https://www.abc.net.au/news/2024-01-10/robot-ultrasound-medical-technology-remote-scans-echocardiogram/103297658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/69f4eb37c41fe4db45d41c56f8e71e0d?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575",
-          "width": 862,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/103297658",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/103297658",
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

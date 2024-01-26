@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-25T16:21:00Z
 originalUrl: "https://techbullion.com/from-siri-to-tesla-exploring-everyday-applications-of-artificial-intelligence/"
 webUrl: "https://techbullion.com/from-siri-to-tesla-exploring-everyday-applications-of-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/AI-3.jpg"

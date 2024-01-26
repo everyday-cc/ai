@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-22T09:56:00Z
 originalUrl: "https://www.royalgazette.com/general/news/article/20240122/artificial-intelligence-a-threat-or-an-opportunity/"
 webUrl: "https://www.royalgazette.com/general/news/article/20240122/artificial-intelligence-a-threat-or-an-opportunity/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Autos
+  - Machine Learning
 
 images:
   - url: "https://imengine.editorial.prod.rgb.navigacloud.com/?uuid=8ba0b206-f3a3-5c5e-bd2d-376e986851e2&function=fit&type=preview"

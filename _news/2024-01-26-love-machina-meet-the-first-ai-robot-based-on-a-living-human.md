@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/obsessed/love-machina-review-meet-th
 webUrl: "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -63,6 +63,6 @@ related:
       domain: indiewire.com
     quality: 15
 
-secured: "hODyWVSD7Dkh7D9s7EeBz2OfKXVNE+8MYFpeb5HD7GY/HsiIvQcOu3fom9oX0oKhXj1vj8cAj3ilp2o9qLws9BqpJ6rGqNiIz/JH/on0mAvLkkwUCPJEsN9a5LL6fvaJB9zb5k4CuVlwbbRcGCLtgPvWEkPv3S0KSg+owtjPnOi7rNaMoAceX43VPdaj/zN/iO3IF8K8ZHVPna/BhnlMeQ36YI3QXIw0naGSA0D6JoQ1ncXH8gCCegKDYyIt4lxWEmi+Ka1Ef8VFjQK7dZyktfCx7ZWZqMajJrkM6z8ZMjHAbyYLXQuVAoGPbrJHtFS/xk+97VbsUevweDsp+kiEoGsyHuexca3E1ZhHZxkfchc=;CiNfnJFar3v51abxoxS8Vw=="
+secured: "FF736mmpLZqMIbSfw4WM3Hfxf2VIden1uJPCAGfnBsTxMufeiQf18orG2y3AwQmVpEOZ2Swr4k1eKtlDUafyw1Yx37t3Ok+exOhwDRffvlH5ciMKlKOsG/j72K8fVdDxAgEXKcpp6y11EcisSwvgkdOMofiie2SwwLCgfqlpk7ouPcq6ZL4s/1x7Yb8Q+3nIVuu6+W+5+Owc81ayhuDGHcjOzD84apmmXpSX9o0hNC2c96dSy0qjUpq9gD5yXHO619hUQ2aSLTouRj+u3nAh+MKpm+IGYOfoSfxKX7MHosaXnhn9DekEOsiz855IwakTaf4jeytFMIuXdoLm3DirpaktFpd9rYsrmeqaBUJcMvTnyxeZoAAXqyGyohQAbZ0fLp/A59zD/p1wP0XQHFEN9w+jZBY0flEbfHVUdDKhHXyWrJRvxAdl+VDbfjnNFjFEogSwD3hk5vtsJFgV0ByGFoAqUdULF17ZJa7YNpy+90hJw+5zluVYw8OCBSf9rhIbuSWmhgFDxRoL5uPXcK6w6g==;cbMwraUupRUoSL0A9UEweA=="
 ---
 
