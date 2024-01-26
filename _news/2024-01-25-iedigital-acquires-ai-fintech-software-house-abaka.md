@@ -57,6 +57,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "I54mDspg27q1OfjRMvahOzpSS3gv+LqjfIY6fTRccQv/OuqZL1jyas9SkILAo4Az9cWPIk0nLm8SX+XOw6dgG3ofRu6Q++Z4xpsfFLciCmIpMJUwlqLqQI1Nou/4sIo4jPPNyzvyfa9VhKnxYFoZdNpD03bWFWTBYz2cRYyA2gY78pkZQSz+HnzH5dgyfe0XVBXWtLpfdgqQqkuxDmnL08AhONoe53gHi1cBHWNjwuA4+X3YDac9+YrY5/OeDEu8NRk5LoWgkTzMIciqHNPf5FVPDr/YTHqnGDKsySzeIHABrWLKN1TR6YAGoghRH+/okaHztCZcFP9Ik0z3xBs/Shk7tzCfGw5QxRQ3j0y48Y5eyAn4trrBQz4XwGM0J4Y83XFk3Oj8TZ281f35uuouy8kcrtEAuqBZ59Oqvl3kYMEYdS6LWJtT6uHIHkC2cwgOxZdn9+LABXU/xgFRPiKhNS/aVeLuLtzPHZbxMmoLcUS0m13RPdpFhUuWlppXt8XA7LvfHIuBe9ew7KkyCQJMxA==;ja1adW45cyNY0v1DsN+9jw=="
 ---

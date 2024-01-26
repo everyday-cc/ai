@@ -89,6 +89,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
+    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
+    publishedDateTime: 2024-01-26T17:35:00Z
+    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
     excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
     publishedDateTime: 2024-01-24T18:29:00Z
@@ -98,15 +112,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Five months since the Voice was silenced, what now for Indigenous Australians?"
-    excerpt: "Many believed the bruising defeat could make Labor unable, or even unwilling, to pursue Indigenous rights. Fears abounded that a week of silence, announced by Indigenous leaders soon after the result became clear, could morph into a term of inaction from the government."
-    publishedDateTime: 2024-01-21T18:48:00Z
-    webUrl: "https://www.sbs.com.au/news/article/five-months-since-the-voice-was-silenced-what-now-for-indigenous-australians/jigu8rq6s"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 0
 
 secured: "BRBQQge666zbAa0JFi2awmOibyhbuNf0ggWA1Sd22aUKW9IegRiARpvrjUvLa2ShndbmSdFXmlD91BbxxZROjLN79K1PvMxUUDz/T/ip2SfZftGEBsLWe2xwYBp1h9ZLXvwJ6eCW7GpPMHA8KwVO6+may9weGSetHDQzhpJqpZ1fHvQ2JH37bWTsf13Iwe44TzyNL76kGhUYiWooO/XkJPfMhtpjFYZWGkUy907pFpfQUThAECkogzlBqnaVDS/jziTJVYoYGeU2m1y/67BqYJO69Do186Dl6rj95oIwoi2Wjq2Pd/ie3S5hpNZITk+eCw4TG90qKvZ4QgSc8sqrCNOKgnLHGPC9MeWMmNXE1PM=;aI+uGKBdb3Sxvo+x6oNoCg=="
 ---

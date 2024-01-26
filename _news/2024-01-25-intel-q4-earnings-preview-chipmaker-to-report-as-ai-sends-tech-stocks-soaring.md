@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-20
 webUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-201429769.html"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Q4 Earnings Preview: 2.5/3D Chips Are Big For AI"
-    excerpt: "Advanced Micro Devices, Inc.'s new 2.5/3D AI chips could revolutionize data centers and propel AMD to lead the AI chip sector. Click for my AMD Q4 earnings preview."
-    publishedDateTime: 2024-01-23T15:52:00Z
-    webUrl: "https://seekingalpha.com/article/4664414-amd-q4-earnings-preview-new-chips-are-big-for-ai"
+  - title: "Shaky Intel Earnings Confirm Chip Stocks Are Maxed Out For Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to the future of AI, you probably won’t find anyone more"
+    publishedDateTime: 2024-01-26T16:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://lh7-us.googleusercontent.com/INCX9RGQd6Tw6HVoCA-uIFeD70VrQ719e13wBVlcZ0mnabnXu-lV5n295m3pEefURlvH-fTlcZhcNv_nzvqN-0BYj_bjoIp1-NIDi_tgsiTeSahlkjzlNymNxxx-NDI2n3WiGhdBsrc-uRFRt2mA8w"
+        width: 1482
+        height: 579
+        isCached: true
+  - title: "Chip Stock Alert! Intel Stock Is Nifty Anywhere Near $50."
+    excerpt: "The bigger-picture considerations seem to bode well for Intel. Intel Could Thrive in the Automotive AI Chip Market Not long ago, technology’s top innovators featured their next-generation products at the 2024 Consumer Electronics Show in Las Vegas."
+    publishedDateTime: 2024-01-24T08:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chip-stock-alert-intel-stock-is-nifty-anywhere-near-50-1032992627"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "cUGeu3sXGm6KBFeE7MxxNgwICeWSS2kv7n8n1x626/NBtA3Yy0W+UhAdRvokMw1xuZZPQswbAkawfLVyzVJrTyFWTFTPqzd+UHAkHBX1AoekHBJqvIGW1DIm3rSxNEY16zHyRmA7vgeW3NrTrhciOkskOpBBYMEikmy+Qm5RtPgBTmtqiTHwfoEegOYur+mg87AUSqkQuvWEBZ/2GVKURbBlTtbMDEezpJ0YPr8DDV9hCS70W18jqsUBwAl5JKPsZXd3Jmm+i9JAjz2+y16564HT5IWMNw7kVacU8hWWPl/nMhuaD8UC5n6ESmi64SP9etB/XwGpwBwz0sa75tlfZFYp629cN70MpnJt0R9MiwO2jqCHPMPbtV0nqoOaRS5YY3SzBPWXAc0iBYOYtP9aRNwqqnLZdS6hs2fuXzXq8Je80DGv+vjyOVh5VAy8YCmzEfj7YzCIF8lP/V0lH/cwcVpPz5BfOunrnVdMEjVzSpP5X9yaGfQt8jGtagYul0q/XiwFvXvO8dssNs6H84h3DQ==;k3+rDu570XHp7VdZiLUxow=="
 ---

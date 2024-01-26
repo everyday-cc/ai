@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/despite-all-the-ai-hype-suc
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
+    publishedDateTime: 2024-01-26T18:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-capitalizing-on-the-artificial-intelligence-boom-1033002073"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Artificial Intelligence and the arts"
     excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
     publishedDateTime: 2024-01-25T10:59:00Z

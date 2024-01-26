@@ -97,15 +97,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Five months since the Voice was silenced, what now for Indigenous Australians?"
-    excerpt: "Many believed the bruising defeat could make Labor unable, or even unwilling, to pursue Indigenous rights. Fears abounded that a week of silence, announced by Indigenous leaders soon after the result became clear, could morph into a term of inaction from the government."
-    publishedDateTime: 2024-01-21T18:48:00Z
-    webUrl: "https://www.sbs.com.au/news/article/five-months-since-the-voice-was-silenced-what-now-for-indigenous-australians/jigu8rq6s"
+  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
+    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
+    publishedDateTime: 2024-01-26T17:35:00Z
+    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
     type: article
     provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 0
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "uhlQ1GuB73HWOWrOIDPHGKs7DB/TwcRh0UxuKvskKBq0wJ6cHvTE/gtUjt1zw35LYEGI1+NelsNYWJGh4BEPwdkcQSkFwGVwQjRV/L/0Mw6Hv5M3x8rzZd1mMJFgv3LFAUHrSr5y18pGAVMB76aQbdBn0K031wRoBZA2yg0ZOGpz0P42+8W/9nJZn+7WcpeqPQx8vMaMLCQ4ONl/J/C3T278mqIafHB+Cgg3KCqc9+mXBEZD9fBvAgnBGW6NK8x58DxOjTLgVB2rBt+q3LDQydFgbnmLbQJ76UxDkj1bAPAXLbKCPVaiICV706PsWH7kb77nNw2ztpm47wjH+2xXokbU+7ep/DsWR73TUyy+SSwKwDfT/cYao3u261xHEAqvZcb0SeRIPjwWgLDvahf663Cl+w+yozKQjW5xY/8ydowLlkX58/zmgl62TgXxtXeWrc9Vi/vEN7yezwFo+3HHnzJYhY0NgHn2zEOgmqQmk2FPariFb8aKXQ6b4KmHEMNjrOD0RXrAEt76cOdcGKiqJg==;EjL7nWtiSiJj2ZKJo0v7dA=="
 ---

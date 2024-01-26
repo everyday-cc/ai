@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assis
 ampWebUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -47,6 +48,6 @@ related:
         height: 900
         isCached: true
 
-secured: "MDphiE9IpkKI9/mPsag1GCnw0zCpBzDbHcsbaHHUzEJBrMJHx63qWAKzILFFrzRszZI9/zDm/CvV3lMgOCjTM2m6HrAMjtLdaCs6ejAwQqCPRPl6v0dhQmGjYIabaqgiSIxsggM2haWB8VtXBagFKs7mEYQjE/DfNLzH7wtqjMrXiZjL/EY6rSvaBelk08HJCqbEEJ8I2BCfxnt+IvmBgXUavE83D6Hm6Lh+pcbr21QZ5B4IEH1p6IPSmZ/Hfvuv2NJXW5EbKPXqxIKmorRnbH19ronvKjYQ8kra5SeTwYZlv/X4rq1xt6g2StLzIVcNhM0H9SOWvH+W5H0ZW1OlGmQfOzveWIVfkQViwyaML7k=;d9NinEuuDHl8o1oeKSWbQg=="
+secured: "DI3V1++1RSrNY/4sfr/JvP26Zuh3Fyn40ORQVtonlWvkt/gfwTY6MM4flNxw/cANf9rPzGzW5E90tx+SFKIsZvxPlrms+LYMI6zRFTymkZvnOY2MjHZshhUntdcPckERUzI2IL7gLD257Rsd1dFz/+QwJ37WjD/W/RcXVBtOhY7ZSi7w14viEmF+di0cgp6rP7N2cSRLMQhFcH/lBaJOqLuexlp2e3i3ncCALPMsx3SgJz9DxdHkE5f8ycAckhhia0zoOY2ImqhKpbjBYOoU9ylcKD2jsIqKGb4KjGGo08DDzjA9tqXNtCxJzNg3Am8itcHkJIn4FT3d30bdNVjK4kuQNXTx6Q2jEYG3052dR7w3jD8bvzAFujC/ecveIotiNDWardNBrqm3Fhpx9po7HG/yobVm+dhkdajdyLLKUrRW6nko+kBmsQm4bfYFGx4kAoMl4mXDKPy9d3/QXeVC27O4pp0v/MYt1Q1nB8+259w8BSCPjIbUmPTnXHssqlRaaIwOeqlwKeZ/er9rjaCphw==;MnSTzBI/T8AQIbp1+d+aJw=="
 ---
 

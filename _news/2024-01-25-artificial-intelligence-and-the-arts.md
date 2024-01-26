@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
+    publishedDateTime: 2024-01-26T18:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-capitalizing-on-the-artificial-intelligence-boom-1033002073"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "8JPZFlksAdax7Yl1b/FJC83DV47qGudWqos/+nT6KoStmcqWj3nZu4GefRLceL+jLlZO2MbH/cvtF16xX9ocVWFlcWeP/fd1y7eUQUO8W4lYfkWNGn3BfOmCDwcNXLMWKaAeGdmpVpFQF2eGeEKavurMaGJiYLX2mq+g+WC6mKv/UUw4sbVseq3Bl8JL0XFm3rJUsFHVEcaW6GzsRxAqltF57+rprQeh+/wWhpI4qPWaMkzBlHqYnNg7odfyR/gTm0t2zdjk9qCJCI/gzFlJp2dLuJWich3MNSLOl8Nenc9bSXtSWDpUsZ14F7nfJKXZPPG+G3B1suNrK25oxVg8MmYvczbNg1NQoAXgPGMHlvc=;SBJ6ve9F1N1xtJC7+m881Q=="
 ---

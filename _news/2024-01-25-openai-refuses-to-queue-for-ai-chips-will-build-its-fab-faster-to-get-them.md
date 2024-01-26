@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowo
 webUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digi Times
@@ -25,43 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the OpenAI mafia: These 19 former employees left the AI juggernaut and founded startups that have collectively raised nearly $8 billion"
-    excerpt: "Now, other Big Tech companies like Facebook and Oracle each ... of Perplexity Founded in 2022 by a former research scientist at OpenAI, Aravind Srinivas, San Francisco-based Perplexity aims to become the go-to AI search engine. The startup uses a range ..."
-    publishedDateTime: 2024-01-22T10:33:00Z
-    webUrl: "https://www.businessinsider.com/former-openai-employees-who-left-launch-vc-backed-ai-startups-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/65a941acdcdb354a98588ec8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
     excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
-    publishedDateTime: 2024-01-26T14:08:00Z
-    webUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
+    publishedDateTime: 2024-01-26T14:01:00Z
+    webUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 22
+      domain: bbc.com
+    quality: 52
     images:
-      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0h79r4l.jpg"
+      - url: "https://ychef.files.bbci.co.uk/624x351/p0h79r4l.jpg"
         width: 624
         height: 351
         isCached: true
-  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
-    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
-    publishedDateTime: 2024-01-26T09:33:00Z
-    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
+  - title: "Humanoid robots are here, but do we really need them?"
+    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of in"
+    publishedDateTime: 2024-01-23T12:57:00Z
+    webUrl: "https://www.columbian.com/news/2024/jan/23/humanoid-robots-are-here-but-do-we-really-need-them/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 13
+      name: The Columbian
+      domain: columbian.com
+    quality: 19
 
 secured: "5YX8icLFp6Dh82Df28fz9a9Op6BiMlbD9aUBSdXRmrOrASHC3Kw3sz7kGc5Vecl9jvhi817Jh3tRF29q6SGo7QZqcuTRMOOR2u+XK3Bq3NyGJ51HXOfe5uLJsHQ6b9UaIS+WiTXSOolv4kVDbPM3N77C8Z/JLQjZc7C0SvaP3RZlkOmf89zV3xYznPukCKUBr4Z0MmEQF7G/aHoNPFNuh185znrGmgRtQ+EdYU4wywbWWI/eo/189u4AUJlCvrbwDbMPNs50XA6roLY+eFPwpS7Ej585veey6eW2vLe6PsYYkC+R0sezN23lr3XUkG2g5Fz2vTDaZj87DoZPwpjoPp2CALr0+/XF+vK4SZQexHJ9NXxLhqIDpBScR8cQQC3E1uVPctC/LL3OAT1Qd73tDslDKipge1wDtEU1fhmpkhJcuMt9EYC/KU8ee4bKCN99+eEgTLtokF04RJtny3kfqJ5MLLyIAC6nJClwCz0eZb53BzFFHsGsDcg0sYQTu7Q8A8ipsWnHdJUh3Cy/YtPMIA==;OVch5izp/cqLT14annPn1g=="
 ---

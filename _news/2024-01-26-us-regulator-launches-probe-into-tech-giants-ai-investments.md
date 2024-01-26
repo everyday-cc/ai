@@ -112,6 +112,34 @@ related:
         width: 800
         height: 545
         isCached: true
+  - title: "FTC Begins Inquiry into Artificial Intelligence"
+    excerpt: "Jan 26, 2024 The Federal Trade Commission (FTC) issued orders to five companies requiring them to provide information about their investments and partnerships involving artificial intelligence (AI)."
+    publishedDateTime: 2024-01-26T18:00:00Z
+    webUrl: "https://www.rfidjournal.com/ftc-begins-inquiry-into-artificial-intelligence"
+    type: article
+    provider:
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 37
+    images:
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2024/01/FTC-Adobe.jpeg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "FTC opens inquiry into Big Tech’s partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have"
+    publishedDateTime: 2024-01-26T17:15:00Z
+    webUrl: "https://www.orlandosentinel.com/2024/01/25/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 37
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2024/01/FTC_AI_Antitrust_43493-4.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
     excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
     publishedDateTime: 2024-01-25T19:43:00Z

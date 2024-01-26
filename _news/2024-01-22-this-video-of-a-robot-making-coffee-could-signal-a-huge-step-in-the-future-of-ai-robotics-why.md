@@ -125,6 +125,15 @@ related:
         width: 1240
         height: 721
         isCached: true
+  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
+    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
+    publishedDateTime: 2024-01-26T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
   - title: "Hello, Apple has joined the AI arms race"
     excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
     publishedDateTime: 2024-01-24T17:52:00Z

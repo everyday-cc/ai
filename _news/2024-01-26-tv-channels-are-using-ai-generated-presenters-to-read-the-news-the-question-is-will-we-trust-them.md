@@ -2,23 +2,27 @@
 category: news
 title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
 excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
-publishedDateTime: 2024-01-26T14:08:00Z
-originalUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
-webUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
+publishedDateTime: 2024-01-26T14:01:00Z
+originalUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
+webUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
 type: article
-quality: 22
-heat: -1
-published: false
+quality: 52
+heat: 72
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://ychef.files.bbci.co.uk/live/624x351/p0h79r4l.jpg"
+  - url: "https://ychef.files.bbci.co.uk/624x351/p0h79r4l.jpg"
     width: 624
     height: 351
     isCached: true
@@ -38,30 +42,16 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Meet the OpenAI mafia: These 19 former employees left the AI juggernaut and founded startups that have collectively raised nearly $8 billion"
-    excerpt: "Now, other Big Tech companies like Facebook and Oracle each ... of Perplexity Founded in 2022 by a former research scientist at OpenAI, Aravind Srinivas, San Francisco-based Perplexity aims to become the go-to AI search engine. The startup uses a range ..."
-    publishedDateTime: 2024-01-22T10:33:00Z
-    webUrl: "https://www.businessinsider.com/former-openai-employees-who-left-launch-vc-backed-ai-startups-2024-1"
+  - title: "Humanoid robots are here, but do we really need them?"
+    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of in"
+    publishedDateTime: 2024-01-23T12:57:00Z
+    webUrl: "https://www.columbian.com/news/2024/jan/23/humanoid-robots-are-here-but-do-we-really-need-them/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/65a941acdcdb354a98588ec8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
-    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
-    publishedDateTime: 2024-01-26T09:33:00Z
-    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 13
+      name: The Columbian
+      domain: columbian.com
+    quality: 19
 
-secured: "YyImONE2VNdF6Q/IdmdU/JxE13O9Wj/CsfN3uvB+m0K+LrQnqfVSsjsWsE+qk+myz91uQv76wz2JFQQlzY7SZn/feA98zrrunUVlVogxq9UhmBp8zenrTbXm8n44dCFeSVwJfEFVDWJG7JiENKGs9WwdgKb6RtpW0aOg+G+TaYPzcovqLRhblvLLVeHCS/k5OEhggG9THSUxWMChlh9Plks2HucADHUmpN+HOhfBy4DiNBfmv1NAGQRl47RiBjI+d9AHGsXLZJuOMeqdZKB6iBh0UUxuV049M5aapcNqrPDCUgM9AKYxP926kcK7w3d/zrLuHUPfUs2iLHxAVjvj/TMaJ+SmZmRLkg15XlWucDA=;MVVdNW6+lfBl7CpbX9Uj+A=="
+secured: "RCA32Q6iVQ2QMqntfSW9K7NTpyXsc9rBMHDJVer40NKRjscu+k7nmwAyziklCcmTPj2LSK7iMdzWu2PET6fv07/V7Kq4ouvPXTdXhxpypjz+S+nnSWFxLKoz4eLps+7YHV/FxDB/9Sm/l6lEm2Nc5rIIfPlTVLvXbGMcaUJ2aZItgcvRH0hrJJ9TMwoP2fWrTnWBWipRYccvL6eE1InAlIjSRoLOWv4DGeAnL0nhGNSfgoQyL9lwp6NG0TVIF5vJS+aBhjNBk0bvBsJ0uVrrG1B8FdqAn3IUFuDOdLd/GmbtKp4S4gSpOPvdAVrMhG5csI8IYUJNK8R+QT9vVxsMYNyaWH96mrdQPes4sUWUAMI=;YjUam6UTFV5lBmxJJtMTFQ=="
 ---
 

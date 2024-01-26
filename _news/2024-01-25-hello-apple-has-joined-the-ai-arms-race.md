@@ -132,6 +132,15 @@ related:
         width: 1240
         height: 721
         isCached: true
+  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
+    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
+    publishedDateTime: 2024-01-26T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
 
 secured: "fikFAGrGMGIgPqJaGCWaDt59rbO0TV0jk+vVaXpnj3wbz99WtyRRUuDXMJtQoHu8W3O0tGrP7uKrU6sJFKV8u0qPTAEEzG3S6N7cRENIbo1vAGR8AOeb3+n9nEMvjympw/rbi4HbDnAmlbvPFG5BISOcqs+Aeub5GsGFQC3jrbOW8ng1YeJBR5sYidA0/Zn2otWyoY+85ztiPPYXV9Uql9ExOoblF/6FD2pB5Wv9oS1h0azAdD/knJs8UXCyLBKPky0jyR9apVYW+kqaA5AlguJ7V24uEFs0ehzvatEFJUZK83e9IBCWZnx9OqyPys+7Ajhz3eybi0tMWWCYoyBbSl+PEAGHp/ZnPOX/LZf+Ifg=;LcqmwGBCfYoNq6zyAUC6ew=="
 ---

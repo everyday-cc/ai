@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 900
         height: 480
         isCached: true
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "8EuAKp2UWsd2Ro/2dpYmr2lzszeXMUmTYjpjAJ7vgkrHAxDDOXsUyTBOSupjkVijvi9A/AJ+D/Jal37GVD7/nwiiuvzmSMqdT27oXVhFab7dp8N3iI+e/MEZgLr7ClnXsNzxw3FtGejPh07qkHqWgBRddnxgz4MPFQQG61bl4sFnvLO8c/IWrrbkgFOxM0V5E668PwEM1lBW1U7IqPobPxIBof3C0jdo2prn9LUgv3Y7PkN7xBfzePtkp8ZXpp71Wojw89lIPfgFo1ZG3gR3NPik3nJthlLF2GVGpwrZK+tQxJ7qL2ZsIXwEldX4c9L01FaWpIeUoewBQ0D+VC1b3u+bd/bgih69YfxOf/35yfEIIX60fgGihy5s6ARFQiYVK+5/vqPpR5TUfcpfPEI+S6Ni68ivLmj+WZBYUTTOTslWsI0xHGWDvDssITTJKy50dO8qz3gms0jJVU3isFMrcN/i4kAsgW5bke9j6p31gb2yqO2lKsbmRxQ/qsJfdKQ95mZ1JGWsZSpgYuBREXRxEw==;quRIVsnPWjPrgbAv9ix2ng=="
 ---

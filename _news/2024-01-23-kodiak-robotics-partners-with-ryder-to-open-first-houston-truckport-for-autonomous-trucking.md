@@ -20,6 +20,20 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Kodiak Opens Truck Port at Ryder Facility in Houston"
+    excerpt: "Kodiak Robotics opened a second truck port for its autonomous semis at a Ryder System Inc. fleet maintenance facility in Houston, the companies said Jan. 23."
+    publishedDateTime: 2024-01-25T17:22:00Z
+    webUrl: "https://www.ttnews.com/articles/kodiak-ryder-houston"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2024-01/Kodiak-Ryder-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
   - title: "Kodiak Opens Second Truck Port at Ryder Facility in Houston"
     excerpt: "Kodiak Robotics opened a second truck port for its autonomous semis at a Ryder System Inc. fleet maintenance facility in Houston, the companies said Jan. 23."
     publishedDateTime: 2024-01-25T17:22:00Z
