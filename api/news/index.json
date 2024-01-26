@@ -2,6 +2,278 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-the-different-types-of-renewable-energy.md",
+      "title": "The different types of renewable energy ",
+      "excerpt": "Understanding the types of renewable energy sources available can be a key step towards reducing your carbon footprint.\nThe post The different types of renewable energy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression.md",
+      "title": "George Carlin’s heirs sue comedy podcast over “AI-generated” impression",
+      "excerpt": "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "originalUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T16:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-could-a-security-guard-shortage-be-solved-with-this-autonomous-security-robot.md",
+      "title": "Could a security guard shortage be solved with this autonomous security robot?",
+      "excerpt": "Ascento Guard is a two-wheeled, all-terrain robot equipped with cameras, speakers, a microphone and GPS tracking to work as a security guard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "originalUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/bg/default.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-instana-2023-recapping-our-latest-innovation.md",
+      "title": "Instana 2023: Recapping our latest innovation",
+      "excerpt": "A comprehensive recap of what we launched in 2023, awards and links to the latest update and how you can get started with each enhancement.\nThe post Instana 2023: Recapping our latest innovation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T14:28:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-decoding-the-future-unravelling-the-intricacies-of-hybrid-cloud-mesh-versus-service-mesh.md",
+      "title": "Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh ",
+      "excerpt": "Better understanding the nuances of Hybrid Cloud Mesh versus Service Mesh in the realm of modern enterprise connectivity.\nThe post Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-what-is-vegetation-management.md",
+      "title": "What is vegetation management? ",
+      "excerpt": "Unmanaged vegetation can be a threat to infrastructure and the environment—learn how AI and analytics help organizations reduce the risk. \nThe post What is vegetation management?  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-aws-to-invest-10-billion-for-two-data-centres-in-mississippi.md",
       "title": "AWS to invest $10 billion for two data centres in Mississippi",
       "excerpt": "AWS' Mississippi expansion plan comes days after it announced a more than $15 billion investment in Japan, and Google's move to set up a data centre just outside of London for $1 billion.",
@@ -10,7 +282,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/articleshow/107170105.cms?from=mdr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -918,299 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
-      "title": "MRO spare parts optimization",
-      "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:45:34Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ftc-launches-ai-inquiry-into-amazon-alphabet-microsoft-looking-at-investments-and-partnerships.md",
-      "title": "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'",
-      "excerpt": "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
-      "publishedDateTime": "2024-01-25T15:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-sevilla-fc-banks-on-ibm-ai.md",
-      "title": "Sevilla FC banks on IBM AI",
-      "excerpt": "Sevilla FC partners with IBM to deploy generative AI as a 'critical 12th man' in their player recruitment process.",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
-      "originalUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2024/01/Fernando-Suarez-IBM-Software-director-SPGI-Jose-Maria-del-Nido-Carrasco-presidente-del-Sevilla-FC-Arturo-Guerrero-Senior-Manager-Client-Engineering-IBM-SPGI-Elias-Zamora-Chief-Data-Officer--scaled.jpg",
-          "width": 2560,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
-      "publishedDateTime": "2024-01-25T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-why-self-driving-cars-are-able-to-completely-break-the-rules-in-this-california-city.md",
-      "title": "Why self-driving cars are able to completely break the rules in this California city",
-      "excerpt": "Autonomous vehicles have been operating legally in San Francisco city limits since 2022. Citations for violations cannot be issued unless there is a driver or safety driver present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
-      "originalUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524b243f-059e-4548-ae47-865c746a7721/aed75e40-78a0-4500-84a4-882b5003c87a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
-      "publishedDateTime": "2024-01-25T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say.md",
-      "title": "AI will increase the number and impact of cyber attacks, intel officers say",
-      "excerpt": "Threats from malicious cyber activity are likely to increase as nation-states, financially motivated criminals, and novices increasingly incorporate artificial intelligence into their routines, the UK’s top intelligence agency said.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/",
-      "originalUrl": "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T13:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
-      "title": "Balancing AI: Do good and avoid harm",
-      "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

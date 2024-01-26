@@ -2,6 +2,257 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-22-how-genai-influences-your-agile-knowledge-management-transformation.md",
+      "title": "How GenAI Influences Your Agile Knowledge Management Transformation",
+      "excerpt": "Advancements in natural language processing (NLP) and deep learning will make AI-driven operations even more intuitive and human-like. The future of operations requires a seamless integration between AI and humans to create and deliver exceptional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae71f796befe48a727f531/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 691,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "publishedDateTime": "2024-01-22T07:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
+      "title": "Remote-control rental cars: Not as driverless as they look",
+      "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "originalUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/efef334/2147483647/strip/true/crop/2162x1135+0+152/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd2%2F82%2Fd42259e04e569d651c76a719e0e9%2F10-vay-car-modern-1.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-the-future-of-work-in-the-age-of-generative-ai-insights-from-davos.md",
+      "title": "The Future Of Work In The Age Of Generative AI: Insights From Davos",
+      "excerpt": "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
+      "originalUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad8be9269af150bc29665b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ravinjesuthasan/2024/01/21/the-future-of-work-in-the-age-of-generative-ai-insights-from-davos/amp/",
+      "publishedDateTime": "2024-01-21T20:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
+      "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
+      "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
+      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad550e37fafb7b30393fc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
+      "publishedDateTime": "2024-01-21T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector.md",
+      "title": "AI, machine learning systems, drones show new-age face of Kerala's plantation sector",
+      "excerpt": "As many as 166 stalls by 120 entrepreneurs were open for the public at the expo organised by the Plantation Directorate of the State Industries Department.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/articleshow/107033614.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/articleshow/107033614.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-10288,msid-107033654/kerala-plantation-expo.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/amp_articleshow/107033614.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/amp_articleshow/107033614.cms",
+      "publishedDateTime": "2024-01-21T15:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-ai-powers-user-acquisitionand-mobile-game-publishers-have-the-edge.md",
       "title": "AI Powers User Acquisition—And Mobile Game Publishers Have The Edge",
       "excerpt": "More mobile game publishers are harnessing AI to unlock the power of their first-party data to control the entire app user acquisition and monetization process.",
@@ -938,238 +1189,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-microsoft-releases-free-ai-choose-your-own-adventure-reading-coach.md",
-      "title": "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach",
-      "excerpt": "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
-      "originalUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
-      "title": "Exploring the hyper-competitive future of customer experience",
-      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:26:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
-      "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
-      "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579cc1db49bac13c8c88cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
-      "publishedDateTime": "2024-01-19T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
-      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
-      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
-          "width": 467,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "publishedDateTime": "2024-01-19T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-education-meets-ai-at-the-2024-world-economic-forum-in-davos.md",
-      "title": "“Education Meets AI” At The 2024 World Economic Forum In Davos",
-      "excerpt": "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
-      "originalUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

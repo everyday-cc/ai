@@ -2,27 +2,21 @@
 category: news
 title: "Artificial intelligence introduces new ethical issues to newsgathering"
 excerpt: "But, with the acceptance of AI, come new concerns. \"There's an ethical question, for sure,\" said Humphrey. \"Like, just basic ethics: What's the right and wrong thing to do? But journalism already has a lot of trust issues, and if we want to exacerbate that ..."
-publishedDateTime: 2024-01-24T13:19:00Z
-originalUrl: "https://www.kjrh.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
-webUrl: "https://www.kjrh.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
+publishedDateTime: 2024-01-24T14:19:00Z
+originalUrl: "https://www.abcactionnews.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
+webUrl: "https://www.abcactionnews.com/artificial-intelligence-introduces-new-ethical-issues-to-newsgathering"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: kjrh.com
-  domain: kjrh.com
+  name: ABC Action News
+  domain: abcactionnews.com
 
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/4946829/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fx%2F1706120157_PUxnnn.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial intelligence introduces new ethical issues to newsgathering"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lKs7SQMxZPxhVZf5GDrDicgeLGCls7nrtC/fnObvantJuN840scr4YRtGIri6o+Tna1iOKFIe5cQ5+UdLrkW1mh+SL97IyQEcdOMFRkYuVB9HZZGHtEX/sSSDtkWb4EgYEk+/WMa3gEZu3peSmQSp6YeS1GgGqX1ppv/c/ak9PYcBFfabbvp2lsyhxJYm6BK3ct5n2t/Bc79sOLGfflqy6+/ZG7j7v+7jgjZDwG7VP0yb0z4Er4mN04l9X2AgK04x00dnTdydzKW228RSs44HVqoS8v0yWkV4bKCplCesrZEy3JkSrBHmeIUyl+ETsTbcLDXjmd4qYkc01rvYp4EOCnURsfb4KAf5Ot41m+nXXA=;q8jpiDJDFo0TbkIWTkZwXg=="
+secured: "zEui+S7HNNj2gcqY7amTeUdLc5w9S2rLFxHN2hS6u+duka3yQsjvIByvcF8aPovjXKYY5lXC6vHmSCi2MFCg1YfFBzQFlbHPdnu88neAFvXHbmcEPyA6yQXR4wPBzlOi9r6JPh7mKyK6t7SwZczSD/bTk9z0QzB1DuBH6zJAHrSxS0ihZj+RK6y4a8XCKBZYxmtlcsPxwd8JOEG9THTR46KN3QC0l5zwsj1oQC1Ce6DlNt3UFLcXe+gx92befB85VNFDPIbTbEQrQKOKimX1agDwLgMcslnE9NR6ZnDI/7HPNhWhNHc98vJRhDgiWlPkXTOGkr5KaSXJiYR2qyQHzM9G6497/APaB07t4Yvc6wQ=;UCTqsFBzdMwrdXDO7K17lA=="
 ---
 

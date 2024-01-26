@@ -103,6 +103,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Axyon AI, an Italian Fintech Leveraging AI, Closes New Funding Round led by Montage Ventures"
+    excerpt: "Axyon AI, an Italian AI fintech company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures."
+    publishedDateTime: 2024-01-26T15:09:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/David-Florence-Italy.jpeg"
+        width: 899
+        height: 1280
+        isCached: true
   - title: "Fintech, Ecommerce Firms Eyeing Integration Of Bhashini Platform"
     excerpt: "India’s fintech and ecommerce space, which is experiencing rapid growth, is actively engaging with the government’s AI-powered language translation platform, Bhashini, to offer their users multiple languages, both text and speech. This could include ..."
     publishedDateTime: 2024-01-24T00:00:00Z
@@ -128,15 +144,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Fintech major Paytm plans to deploy AI to improve business operations"
-    excerpt: "Fintech major Paytm has set its sights on deploying artificial intelligence (AI)-powered systems to improve business efficiency, company executives said at the firm’s Q3 earnings call with analysts. “Instead of expanding business functions,"
-    publishedDateTime: 2024-01-21T13:21:00Z
-    webUrl: "https://www.business-standard.com/companies/news/fintech-major-paytm-eyes-artificial-intelligence-to-improve-biz-operations-124012100348_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 19
 
 secured: "cNkoW8kjj6XdFhT9VPYVA7+l0U255PrOfqF1wAj9VRGgvibjavc9yapm/5eIAKwyv8nqqrqvN4BjPV4vkPyLWOqnwMdQp34okefGLeJux1CofWsoxySkRuELV48ovwyXYSN39K6exgIJbpwV5tS0Ik63KV3npxo77m6MNaedABaeYoCYYHg4QNPtKd7KosqLSgcHFIBUNLfUhZwPYoO1anU1/JKdTbkEO5aNzGxMD2Fm+v1kXGWrKBCb/w/dA5McYdNBmBgSZh6iQFIbuaCq1eNtym4DALfB6UY0Za1oIVQSZ8dfXStcZuIcuSSShJhdZlLP0IyZ0Ej88x1nMP+KfQp8WrcXT4qiMNGVi7ZcjkXXb7CgwyWYAPhDQWA7O2P3oWM0ECr+0nK8mZyFF+3gVwYJtPGiwxFvwHPLGcEbBtbwCxHFF+vbhEKqLQ7TJr3w2e9RfPBZCdTcc1dapbTyRBF0NlRU9ZxAWusCLTb8qlK6naSzhUlbc10Kti1xLwJq9Xz+v+5VOYAeTe6/uzQb3g==;GWnY8OFt+HGcv9rgNuIn4A=="
 ---

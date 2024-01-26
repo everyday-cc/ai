@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -101,6 +101,29 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
+    excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."
+    publishedDateTime: 2024-01-26T16:00:00Z
+    webUrl: "https://www.wdef.com/tech-byte-samsungs-artificial-intelligence-smart-phone/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/11/z/x/techbyte-epikos-carousel.jpg"
+        width: 768
+        height: 423
+        isCached: true
+  - title: "Samsung Galaxy S24 Powered By 'Galaxy AI' Sets A New Pre-Order Record"
+    excerpt: "The Galaxy S24 series offers multiple AI functions, including real-time translation of phone calls in different languages, a \"circle-to-search\" function for image search on Google, AI summaries and translation of voice recordings, and generative editing of ..."
+    publishedDateTime: 2024-01-26T09:02:00Z
+    webUrl: "https://www.benzinga.com/news/24/01/36801050/samsung-galaxy-s24-powered-by-galaxy-ai-sets-a-new-pre-order-record"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
   - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
     excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"
     publishedDateTime: 2024-01-22T10:18:00Z

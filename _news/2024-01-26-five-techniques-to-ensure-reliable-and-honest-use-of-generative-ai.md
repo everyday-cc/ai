@@ -221,6 +221,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
 
 secured: "SnQ6Y9OatRqTZoIDimnLqNJINULG50ImNyHy75HIUm81PRVi2dS+oIrO6/fRNOQbYHu4lViD0LIVYkbXzQjX9G9eY1FxIhjF3N4RPR7Wnq95IoSZrMcSzFLxUGUdY0wIZI8ZOjit0DcXR1cpd+hhKDcqPGCvhlHWvvoO5kXBbmGtwlzxIacOAAIokOwW3Riev2axGZZYwG4dFP0bKrFNBazdZNr6OTDQkbrzvfcjlRoPE8xgstIhR6/DSHIWz/qTOGXM0KiQ0ua/FhSnWwx6SbWqDv+2eZ44teh4yyhIZuImdSa3gjXoOcbx7jjnJGCSEKo1jfwHsr71WiKF0dqM/6ON2v+cbj8eegGIjXCclcY=;/I9/1gv4EXeXh0bBfvRrbA=="
 ---

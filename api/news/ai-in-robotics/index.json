@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-could-a-security-guard-shortage-be-solved-with-this-autonomous-security-robot.md",
+      "title": "Could a security guard shortage be solved with this autonomous security robot?",
+      "excerpt": "Ascento Guard is a two-wheeled, all-terrain robot equipped with cameras, speakers, a microphone and GPS tracking to work as a security guard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "originalUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/bg/default.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-love-machina-meet-the-first-ai-robot-based-on-a-living-human.md",
       "title": "‘Love Machina’: Meet the First AI Robot Based on a Living Human",
       "excerpt": "The new documentary “Love Machina” reveals the messiness of creating a digital consciousness in a robot bust’s form.",
@@ -139,7 +192,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1324,50 +1377,6 @@
       "provider": {
         "name": "Shacknews",
         "domain": "shacknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-as-tesla-stock-tumbles-musk-threatens-25-voting-control-or-no-ai-robotics.md",
-      "title": "As Tesla Stock Tumbles, Musk Threatens 25% Voting Control Or No AI, Robotics",
-      "excerpt": "Musk wrote that he would be “uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control.” He claimed that would be enough to “be influential, but not so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "originalUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2024/01/ewrwerewrewrewrewrwerfsdcx-fdscdscx.jpg",
-          "width": 2410,
-          "height": 1356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-mana
 webUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -35,17 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Artificial intelligence may have potential role in airway management"
-    excerpt: "The state of AI in airway control, the most recent advancements in this subject, and its potential therapeutic applications are all covered in a recently published narrative review. A subfield"
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://medicaldialogues.in/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    ampWebUrl: "https://medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 54
 
 secured: "KZgXq5/72VhYWmF5QnjATHBUhy4GRd2EScxTxgYBtsOflVybjyVGM+0yqAoeZoK8zOCoEVpnkfnSESZZywon3GC+VbY2+ppyEL+Wnp12Ux09bYTiuLdr2eELdUksYGbJUudpqCxm6TMm2eI+Ryo91JbCqWaH1F2xUbJmMhR2zTrJVfe8GtYDdzjURPjUeofcbcFURrr3mAX3oh8SKokeglPYJJbLsD3oMbwUF8oOB0+kktk+eWg9wHLUl7DNR7rGSwZjgp8G79zZ8qYn5/Saesq0JcRkO6HV6xeo2OoYaNktl20wZ1zpes74YowkfIHZ0+zobhrJSl4XlF9OD3hcdGbSYifeXdxapkhJSx6x0oxc12PDReWgBB97z+lxzLjkAdnVog4k2SIIVy96xXNMNyo2Ru4srbUdwyfZAWjj67j0on9NGnQc6zi456Gtv2fEEbU5rFuPS+H9WfxaUsf2ERDeaD8+SWYw67waQOAT3Z1GBuz/Wg9XmR9rcrghy0cR8pfGcyDIo7E6UdLQH1qjSg==;06A1BYuBIv3/nX9gHa3DpQ=="
 ---

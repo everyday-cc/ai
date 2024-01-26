@@ -2,6 +2,238 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-20-microsoft-releases-free-ai-choose-your-own-adventure-reading-coach.md",
+      "title": "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach",
+      "excerpt": "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
+      "originalUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T17:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
+      "title": "Exploring the hyper-competitive future of customer experience",
+      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T17:26:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
+      "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
+      "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
+      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6579cc1db49bac13c8c88cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/19/google-pixel-8-new-discount-and-gift-card-deal/amp/",
+      "publishedDateTime": "2024-01-19T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
+      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
+      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
+          "width": 467,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "publishedDateTime": "2024-01-19T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-education-meets-ai-at-the-2024-world-economic-forum-in-davos.md",
+      "title": "“Education Meets AI” At The 2024 World Economic Forum In Davos",
+      "excerpt": "AI tutoring, how and what we teach and the importance of critical thinking were discussed by government officials of Slovenia and the UAE, with CEOs of 2 tech companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
+      "originalUrl": "https://www.forbes.com/sites/marlenacorcoran/2024/01/19/education-meets-ai-at-the-2024-world-economic-forum-in-davos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-operational-data-lakes-why-theyre-needed-in-your-2024-ai-strategy.md",
       "title": "Operational Data Lakes: Why They're Needed In Your 2024 AI Strategy",
       "excerpt": "Operational data lakes can play an important role in fueling AI strategies and have a lot of potential for driving business success.",
@@ -1007,265 +1239,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-imf-ai-will-impact-60-of-jobs-and-worsen-inequality.md",
-      "title": "IMF: AI will impact 60% of jobs and worsen inequality",
-      "excerpt": "Just as with past technology advancements, AI will also lead to income and economic disparity, job displacement and inequality, IMF says.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
-      "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_a5aa4b6f-7f83-4a44-b093-cc325ee94fcf.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-as-expected.md",
-      "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs as expected",
-      "excerpt": "There’s been many attempts to extrapolate out and project how the AI technologies of today, like large language models, might impact people’s’ livelihoods — and whole economies — in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
-      "originalUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-496822526.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
-      "publishedDateTime": "2024-01-18T20:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-dean-phillips-vows-to-be-first-ai-president-in-campaign-speech-on-his-artificial-intelligence-platform.md",
-      "title": "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform",
-      "excerpt": "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
-      "originalUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec303fa-b8ef-42a6-9e5a-220a06665e9f/b38f73cc-bbc3-4780-879b-ac593b1f3374/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "publishedDateTime": "2024-01-18T19:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
-      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
-      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "publishedDateTime": "2024-01-18T19:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
-      "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
-      "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a974ad913d58e48af2a75f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "publishedDateTime": "2024-01-18T18:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

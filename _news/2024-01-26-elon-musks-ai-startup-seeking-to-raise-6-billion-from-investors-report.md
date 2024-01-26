@@ -2,13 +2,11 @@
 category: news
 title: "Elon Musk's AI startup seeking to raise $6 billion from investors - report"
 excerpt: "Elon Musk's artificial intelligence (xAI) initiative is reportedly in talks to secure up to $6 billion in funding from investors, aiming to compete with OpenAI, according to sources familiar with the matter. The fundraising efforts have approached wealthy individuals and investors, with a focus on family offices in Hong Kong."
-publishedDateTime: 2024-01-26T10:28:00Z
-originalUrl: "https://au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920"
-webUrl: "https://au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920"
-ampWebUrl: "https://m.au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920?ampMode=1"
-cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920?ampMode=1"
+publishedDateTime: 2024-01-26T10:25:00Z
+originalUrl: "https://in.investing.com/news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3989497"
+webUrl: "https://in.investing.com/news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3989497"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
-    width: 800
-    height: 533
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
 related:
@@ -56,6 +54,6 @@ related:
         height: 600
         isCached: true
 
-secured: "08Zgsb2uhlwlXLMoQhU9k6UilDSZfqKGb1EAsWLCY978AAHbP1x2c73oi1aPfYn3R5P0DBWOGZlRfiN2hpFzHYI+RhgzQjd1UNTQEZVv2b1hmcYrqoaOuiQPBHtTH+1GmN41dMU0nbS522XSCvgnOWNKkNPk2LVIPH8a+6VPY1UQC9bj1AYlsNykfF2/1dRi5Sb/3I9KVkwXRCmjEvmrytMB/BXNFCQxnfAJwfwlfN16Ls5dvrWdWKDfOlaD77f6A+Uhb0NjnkHYrxBdbOCsTMahjzpFBUnOR3ODy//vOwJMQbre/0guTbgwat+HrxhTmC702zuuKMaO38zZbha0pMCt3eVywuQSivfy1Sp/bHqIlYC2qiSKn2i5P2TLZw1lzyB8YADE0jltJizoMUhOs8Hl5q3RyuL2k+Z9Io9sd8dF3q92EJSoGsdawgJhtr6Puu4KvmNj+J3XKp78Tpi+UrV6xuJswubX6yFZwGxfBdPhT1iL74HELx5idi+mCjHZj8a0nnFwAqomp4JbzDy2bA==;QPUSBevxPWFYk6881wJUwA=="
+secured: "32qz7Kv0o63/CpuDJp/pRpSrTXWBNk11dJYHovit0QjE5hvexGOKzM3LDQDjPJSjH6c8ElxxEUfQFsVkZMR/WfBewTlZvRm4xubXjotbYOIODdD1Sth7h5TfDq+Y+JyswWVxzXcjQWJjR/wNsvQtuui8oT/81Qlz4WBoCS1ux6e4GDhFiNjzR0XOdII7gqZNSKz9xTmNRkifwx0EyQpYmoixURB7zTaJ30xwaM4ZRDMD/CKbyeBYQFMc8Jk9pF590pz+Hy7dyebY2e4YX0hQOyOQBNdych41TljcfdvuKUlPnF4EZc71yuprHzYN/HpY1lednGGQnWhulKID2rKvR4PKsAobij4Z5RuLgvlzfjk=;6zsgzZ5Phvx7BeM/VQmS1g=="
 ---
 

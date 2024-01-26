@@ -39,20 +39,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Alabama vs. Mississippi State February 3 Tickets & Start Time"
-    excerpt: "Alabama Crimson Tide vs. Mississippi State Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-21T16:31:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/alabama-vs-mississippi-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/GDVGLFA7LRM5VCBBIEPNMKIPNQ.jpg?auth=98a72d78540a845e26d60cff61cb8c2b02f7e947a92ff7af346900d4c6412e38&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon’s AWS to invest US$10 billion for two data centres in Mississippi"
     excerpt: "Find out more about subscription packages here. AMAZON.COM’S AWS said on Thursday (Jan 25) it plans to invest US$10 billion to build two data centre complexes in Mississippi, its latest capacity expansion amid growing demand for cloud services as more ..."
     publishedDateTime: 2024-01-26T00:18:00Z

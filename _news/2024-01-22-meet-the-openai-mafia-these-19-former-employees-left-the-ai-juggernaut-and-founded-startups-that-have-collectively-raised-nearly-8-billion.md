@@ -43,6 +43,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
+    excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
+    publishedDateTime: 2024-01-26T14:08:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 22
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0h79r4l.jpg"
+        width: 624
+        height: 351
+        isCached: true
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
     publishedDateTime: 2024-01-26T09:33:00Z

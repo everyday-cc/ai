@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
+    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
+    publishedDateTime: 2024-01-26T10:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
   - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
     excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
     publishedDateTime: 2024-01-25T14:09:00Z
@@ -382,6 +391,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
+    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
+    publishedDateTime: 2024-01-26T11:41:00Z
+    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
   - title: "Mastek Joins Forces with Microsoft to Transform Industries Using Generative AI"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud transformation partner, announced a strategic collaboration with Microsoft. The collaboration is focused on pioneering innovative solutions that harness ..."
     publishedDateTime: 2024-01-24T10:00:00Z
@@ -414,6 +432,15 @@ related:
         width: 1200
         height: 856
         isCached: true
+  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
+    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
+    publishedDateTime: 2024-01-26T13:34:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
 
 secured: "x/6IUnOj9Xf7huWfvKA0ri7ihWd+2vAbmIUt9zJOyV+IC5lYvZL0mP1/snka44hUejJdsoGETUPjCfoXcs48sNx2vgojJc2ntJEkNvrOE1Bj7NluYWVe3X7yYkiXD1elwylqCaNjTBF2JPT5zL26gKOWhrXj5C45z4l+4Ur1Kp+lVS+y1RjDb0i/7DBMaYcWCBIuM8Bs85FFon8l4zqUj4hcauTRTpR4u53KAfP9uP8ucGWNJsgaZXxD48k3/g9fild1BEcyUWlIfUVlq9lfUR5QUeXNqJlxkXeHYc9cbvV/DffXWB4v/J/08lZtxKcitXFuUZne4+hlx6WWPVFLK8K8NrF/c1P2hq/afskG3Kw=;8D4Bo6CpDvi4FsDeQ6YECg=="
 ---

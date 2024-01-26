@@ -113,20 +113,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "OpenAI founder Sam Altman is building a global network of dedicated chip fabrication plants"
-    excerpt: "Bloomberg reports that these Altman would be working with the world's best chip manufacturers and that the network of fab plants would be global in scope. Altman knows there is a future AI GPU shortage coming, as companies like NVIDIA, AMD, and Intel can't ..."
-    publishedDateTime: 2024-01-21T15:09:00Z
-    webUrl: "https://www.tweaktown.com/news/95711/openai-founder-sam-altman-is-building-global-network-of-dedicated-chip-fabrication-plants/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95711_17_openai-founder-sam-altman-wants-to-see-global-network-of-dedicated-chip-fabrication-plants_full.png"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "cHMmz/ka/w58VcyFUwkVxmWBT0v1u4VtdwlzjVHNEGWCRUIrx6Z7QAyYDbR+T0//LhYVgdhVGVdFV2CecVWLacuAX5J2kfiqCXOD8b5RM+t6IgpcS8k6xj2wdEb+E7JIvvRYwkw5rguSaq3UCw3SZtHeFz9heRx9qRmuYayP78e5jBGNDNEajNs77KhKIVJTGWCAbHwbkyNMNmrjskzFU23omNMmJfv5YA308FTU9F4hVvmUuJHxpMWc5xLp6fg85PwnruBupB15Q+zIoGT+PVwZDJzYI2VrgYX1MnOSZsvdOlw6gqzmKSqL8zzvv6u4o6o1Uy3+L+GOnplHUuTjmjBY4XL0JYYJ5Kue9UILEMM=;7slme96XZoqn8GcPW+eYIw=="
 ---

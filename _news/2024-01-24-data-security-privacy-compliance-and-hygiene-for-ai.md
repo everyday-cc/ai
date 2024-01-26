@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI Methods Need Heightened Security"
+    excerpt: "The company has blended talent disciplines from cybersecurity and deep learning and they are now entering their fifth year of software development of their secure AI risk platform that covers computer vision, natural language processing, machine learning ..."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b3cc5450e1d7610d2631ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Here’s how AI can enhance cybersecurity in healthcare"
     excerpt: "Artificial intelligence (AI) can help because of its potential to find anomalies in huge datasets in no time, facilitating early detection of ransomware, breaches, and insider threats. Before we highlight the ways AI impacts healthcare, let’s look at the ..."
     publishedDateTime: 2024-01-26T00:00:00Z

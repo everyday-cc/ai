@@ -44,20 +44,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Alabama vs. Mississippi State February 3 Tickets & Start Time"
-    excerpt: "Alabama Crimson Tide vs. Mississippi State Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-21T16:31:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/alabama-vs-mississippi-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/GDVGLFA7LRM5VCBBIEPNMKIPNQ.jpg?auth=98a72d78540a845e26d60cff61cb8c2b02f7e947a92ff7af346900d4c6412e38&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "dzzbxyqyiNgUA6KSeJpX/2cLzDvgzU58pMQ4gK+PbfMKrJ3GnIqiKAk7gp+6+fr6PkxStiVWz+goZaBwfFJcN/xEGatjrmUEyeiCEAu1SzYwecdDG7pkgwr1QIg0AZSrDfFgiANqa5LGIKw8JXZRBoS3ZDnYY4XF8+tMHBK4dMk/vlUQA8+PhGoIZIzT/xYQ2Uz1ArCLIKk+StRrpMcvVnIKNWwGJhR9UEHYyKTjxiThE00cR4CxKj/7eTv0GXv+2LJwj6cALNoEQJONcv7VBfB2uyKXTn9pkyuONXsbrlK8Akuz2I76eoqFXNl46d5cX/HkKf1X9jw3PgRyAfaVeJAc9DRhH+YbijZG58J1x5k3UuDpaC14M7fkQ/eNV4AhxqtmN/EwNvfruiS4JFew0kNIo6Ac/bhlDjM6kKwb8+9kQZUq3Cp50l6wAoNbW3GkyzXSvwk825ya3Cz8O7V8An3HwtNPo/n3wNyFqmkI464XtnEB4eHzmj/4EqaOVDoCV14LZC4/Xh0SjutJzw20ag==;fPY7NMiH6Z6ezjihQbG0hQ=="
 ---

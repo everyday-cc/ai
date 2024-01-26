@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -222,6 +222,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
 
 secured: "dIXNIqP45bcmGChDZ6HwLvnny4fUCLgUgBkp6OjCyb7h8imh4ZihzzrgGiua464HOj5TKeeC/7G5396wt8hSQpIurxRfDxyV/snlw6u2RJhCV6QFF4sm3rV05mlPD5wOYjOxzoH0XrvZJCHoyvbitQMEcjnqrcoGkpwF2ESEZ8g2Ugg8kgU688UF8Q4fecXILSk7uh688cV8+SzXs5E/ewjob0mQOcU4ivLktgBGF/1t/C2t8SJLnPH6+EhLXQRfhqXpepWFT8NGzXenGICMeaFXhvFWi9b/Ui0rfCCGU9nrwInk6ta1kCe3w8H/dYhOW0M0J+xBcoCVcOaPfBkoreayxHnvXvPKZygEirqlSFw=;zMZh/8TLe03ONu29Xh30sw=="
 ---

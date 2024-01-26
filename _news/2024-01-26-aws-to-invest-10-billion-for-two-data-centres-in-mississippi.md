@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/aws-to-invest-10-billion
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Alabama vs. Mississippi State February 3 Tickets & Start Time"
-    excerpt: "Alabama Crimson Tide vs. Mississippi State Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-21T16:31:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/03/alabama-vs-mississippi-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/GDVGLFA7LRM5VCBBIEPNMKIPNQ.jpg?auth=98a72d78540a845e26d60cff61cb8c2b02f7e947a92ff7af346900d4c6412e38&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Amazon’s AWS to invest US$10 billion for two data centres in Mississippi"
     excerpt: "Find out more about subscription packages here. AMAZON.COM’S AWS said on Thursday (Jan 25) it plans to invest US$10 billion to build two data centre complexes in Mississippi, its latest capacity expansion amid growing demand for cloud services as more ..."
     publishedDateTime: 2024-01-26T00:18:00Z
@@ -60,6 +46,6 @@ related:
       domain: businesstimes.com.sg
     quality: 18
 
-secured: "yKDFizUt595Z3V7y+B0xsho2hIgHaZe7Agnnc7YqIE/sUC3ccM67x82spWuFJ5e38ruXQC8XlMQOyEU49eVtVvWIdd25TNlzeRYD98cFd1bFLl8wZ0a4d1Y5hivMFsTYJ0XhaxNMMK2e3+kQoI5SArv7uihIZ0H48EV+Hdw+iK7quXv7NzbNPKuDqiAKXKbZ0R7blA4RgZYXoJbSK2qeOqlgPaod5i5ZF5tXhVZl2ikB9GDlQ7rq7VYIKLg2/98lkiJYuG2xnr8phIJWM+O350yAJh82luRvYNg3ByD6MxKWdvBx+UWxiz0BMckGtCwfUahuBwq2U0eat+JCzEYOlt4Cu2zrHfckK1/AzAFUsiM=;8InA/J7sPTsF4mE5WJeFMA=="
+secured: "ws+TUcjoUDPcj62izclpcLxmPOYtdV/2M6Vmn2xLXER23Jor6zUFxhkpy8JsxwjTLYQDiHJKH2/gQUn+lpQQcDNxy39WeVdxoYzU0StyEDyCyxTS63+V38FZ8SUKTm8+elgGAmsitiLXYkfzNNkDBL3ODb+WCwRrJOwT5sdF8tpRri67tpl2Q8suE8y598TUhlP46r0soiquiVS94TIgiL5xszAk3q3WaNUCwTvvKm4ut/gVyUxh1vP/lurOsVINtNGzB6b5ymYduNnvB4o0LL+sHSvwiYAIxia6HOtnLMojzAVttDxzOXK0NHUJ8yZKTwQxGMoO34fQWuzeGlEZuXFISR3YO2n/MYxUIMZaQtzsGVuXbmbR02tCx86DgY0iMeK5IUUbd/Xh8DMLPt7BF7vLloirvDmD4ZgZH44+PJbe0RfkOtAKaG9k7qbk+c3ZAIZvJPK86DyogJoYL78ZrPyal18bdDdXG3YBkTcrqilTknfhq6OJWBvUy9dl28Vzjflym2f4OIuZBKHkBihnHA==;1Pl464xQU7RxxKyZMW1L7g=="
 ---
 

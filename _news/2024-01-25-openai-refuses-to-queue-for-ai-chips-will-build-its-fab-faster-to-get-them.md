@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowo
 webUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://i.insider.com/65a941acdcdb354a98588ec8?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
+    excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
+    publishedDateTime: 2024-01-26T14:08:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 22
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0h79r4l.jpg"
+        width: 624
+        height: 351
         isCached: true
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."

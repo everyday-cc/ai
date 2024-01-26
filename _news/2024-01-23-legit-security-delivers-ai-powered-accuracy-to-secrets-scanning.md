@@ -38,17 +38,6 @@ related:
         width: 2500
         height: 1313
         isCached: true
-  - title: "Artificial intelligence may have potential role in airway management"
-    excerpt: "The state of AI in airway control, the most recent advancements in this subject, and its potential therapeutic applications are all covered in a recently published narrative review. A subfield"
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://medicaldialogues.in/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    ampWebUrl: "https://medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/anesthesia/news/artificial-intelligence-may-have-potential-role-in-airway-management-123434"
-    type: article
-    provider:
-      name: Daily
-      domain: medicaldialogues.in
-    quality: 54
 
 secured: "gWQCJ9l/WnGYlhIMcv8pD4RluVfM1BDMh77f5C20NvbuDbsZ/OCU6xpZGpy9v61mfMpQ/pnhbPjI/0DrWsE7avKbBZE8BzlWTK94020MiT39Txtru/Uxhxc5gzbtM4PvvLyUOJEaLdmINGT1eXUwMtFbmeqtWUwiCJ/LgSTuZB3bK6d/Rv4nrKwxAz229RuEg8Hi1vhfCZU7XuN+NIwqOXXOD/lBmD/imBTvXzZsJ5VuSSENt68YyS1wwZ2/4AWd70SOcRXJ0wls+wa9eVBYpAnVP0bfSF8YB3Fo74mw8jl+n4d4N0mnrzXEqM3NeUZYOQLwHAl2MIRzYvYj4wOuok6dwWoYc4l+3Zwizu7xuBU=;pT1ZmDog897cu3C1JXlVsQ=="
 ---

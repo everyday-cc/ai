@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-26-the-different-types-of-renewable-energy.md",
+      "title": "The different types of renewable energy ",
+      "excerpt": "Understanding the types of renewable energy sources available can be a key step towards reducing your carbon footprint.\nThe post The different types of renewable energy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-instana-2023-recapping-our-latest-innovation.md",
+      "title": "Instana 2023: Recapping our latest innovation",
+      "excerpt": "A comprehensive recap of what we launched in 2023, awards and links to the latest update and how you can get started with each enhancement.\nThe post Instana 2023: Recapping our latest innovation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T14:28:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-decoding-the-future-unravelling-the-intricacies-of-hybrid-cloud-mesh-versus-service-mesh.md",
+      "title": "Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh ",
+      "excerpt": "Better understanding the nuances of Hybrid Cloud Mesh versus Service Mesh in the realm of modern enterprise connectivity.\nThe post Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-what-is-vegetation-management.md",
+      "title": "What is vegetation management? ",
+      "excerpt": "Unmanaged vegetation can be a threat to infrastructure and the environment—learn how AI and analytics help organizations reduce the risk. \nThe post What is vegetation management?  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood.md",
       "title": "All Hype? How To Counter Distrust In AI By Looking Under The Hood",
       "excerpt": "In 2021, Zillow relied on iBuying’s AI algorithms to buy and sell houses. Unfortunately, the algorithm was incorrect for Q3 and Q4, resulting in Zillow overpaying for homes. This overpayment combined with overtly aggressive expansion led to stunning losses of over $550 million. What seemed to be an easy solution ended up being a huge mess.",
@@ -240,7 +408,7 @@
       "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1159,178 +1327,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
-      "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
-      "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
-      "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
-      "originalUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-q1s-rising-stars-3-ai-stocks-for-your-must-watch-list.md",
-      "title": "Q1’s Rising Stars: 3 AI Stocks for Your Must-Watch List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Even though it still sounds like science fiction, artificial intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T19:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
-      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
-      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T09:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-5-best-ai-chatbots-in-2024.md",
-      "title": "5 Best AI Chatbots in 2024",
-      "excerpt": "IBM has long been developing artificial intelligence, including Deep Blue, the computer that beat the reigning world chess champion, and Watson, its supercomputer that won the game show Jeopardy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-chatbots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/AI-head-dollar-signs-Getty-Images.width-600.jpg",
-          "width": 600,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

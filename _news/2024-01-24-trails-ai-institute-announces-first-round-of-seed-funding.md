@@ -24,6 +24,17 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "Abode Announces Ultra Long Range, Battery Powered, AI-Enabled Security Camera"
+    excerpt: "Integration of state-of-the-art AI models and algorithms from Xailient pushes the boundaries of what is possible and enables the new camera to perform advanced tasks, such as object detection, facial recognition, and anomaly detection. Advanced AI features ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.twice.com/product/product-spotlight/smart-home/abode-announces-ultra-long-range-battery-powered-ai-enabled-security-camera"
+    type: article
+    provider:
+      name: Twice
+      domain: twice.com
+    quality: 33
+
 secured: "J+RvRjEtr1prFJtuMW9iad5OhR2ns0dNHLWU0h4lR5rzwDGMhKkVWIFtIWPDNez2fxrFCQAaf501DwFM6l/I1hhxNcdXt/tH9VFQUYXnzWZE+6GXI0vhCeAl6rWgcEVUJ32iZY/5PEi5ynVW3NLKJAHundCwSJZZ3fU19eHpg3SeB6wNSjXL9V+iHZM495uAZpbmsrURU36/bdDzO7nDMm78i5oR3C6R0FS72qkg87G+IkNNNOutvYMvZV/ZNZTYZx/qnUH/Zd+eZaPbH3hq9mKi4PM7CJegSddrcM4jDQDuQo3Fn5yWHNBq1S48cFZhpBRyxtMkmfZiCFs7hkA5S5Rk6mX+0QEdLqRH0zImG35XoebGL2WwkPL03iyBGU4T5J0s/zWBmYR6/n2igOxyDpfxp1fCQHCPrXfQO2czpNs8RwjKh6AAls+UFOIPMBzxJO36MCljPwyq5+EDB47Z4ierdArQuIulkonY6U75VyvV6cM2+6WOJcQmw486mceiBdwQ4bAge+NfS6d5GmY3Kg==;74pHcEaEqSPqaFWwNWLrhw=="
 ---
 

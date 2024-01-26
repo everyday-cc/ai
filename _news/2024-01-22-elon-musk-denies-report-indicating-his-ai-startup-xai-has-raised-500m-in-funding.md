@@ -40,19 +40,17 @@ related:
         isCached: true
   - title: "Elon Musk's AI startup seeking to raise $6 billion from investors - report"
     excerpt: "Elon Musk's artificial intelligence (xAI) initiative is reportedly in talks to secure up to $6 billion in funding from investors, aiming to compete with OpenAI, according to sources familiar with the matter. The fundraising efforts have approached wealthy individuals and investors, with a focus on family offices in Hong Kong."
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920"
-    ampWebUrl: "https://m.au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920?ampMode=1"
-    cdnAmpWebUrl: "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3096920?ampMode=1"
+    publishedDateTime: 2024-01-26T10:25:00Z
+    webUrl: "https://in.investing.com/news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3989497"
     type: article
     provider:
       name: Investing
       domain: investing.com
-    quality: 57
+    quality: 37
     images:
-      - url: "https://i-invdn-com.investing.com/news/Tesla_800x533_L_1608133744.jpg"
-        width: 800
-        height: 533
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
         isCached: true
 
 secured: "1/ew8NxS6kzyIWDKGhsGJKKNmBaX6ACUpGeT1jW3S+1lV5lDC+6ZVMM4Hhv/dFvMZWqQ7+DUbAF35zXyhVP/tH83auSnXxaVKd98+jyUY11eY7Tm+vyCw8iMDJ8V8VfYvdYy/+CI2gmN30qIrVD2btOcCexhmzqArDtqw4fqCD8NmhBDWjQB5C3wV7NHndBidti56H1ovxigmF5TUVK+Zfu8yM94XH8QIzzsfTpZW5I6+55xZyz7QiBXhThmyTwNjAyddQiUdFuEVGAtN9meG60JwVhJbM8w47nGWfXX6Y6i8gbgjpLtLqt1IUce+RiZdlbDmBtvGhLpBmSQk3Cv5/kucdCmqSfntpXpictAsFd3e3klvEiFCI1ODl9W3rhkQDRtg4pWfDkrQiGBtEbyQry8DMWUAFTi/AXqhijSrARSzHrVj3MpK8p5oKZuwd4oLPfOjgzwmD4qggTZTswOB3mcwe7JV8zKR5U07G3ED2WwIVtdD1mWR+bZEOCT1WK0jQfgxXAqwd2ZUdloYS/YGw==;6PerOHik9e6Ymp3FLiNcNQ=="

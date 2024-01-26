@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-76
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "TT Show Episode 19 - RTX 4070 Ti SUPER, Radeon RX 7600 XT, Apple Vision Pro, Meta AI, and more!"
+    excerpt: "Kosta and Jak discuss how they fit into the current GPU landscape. It's not all GPU talk, as Jak and Kosta touch on Mark Zuckerberg and Meta's big AI push that will see them spend over $10 billion on NVIDIA GPUs. Then there's the Apple Vision Pro ..."
+    publishedDateTime: 2024-01-25T23:01:00Z
+    webUrl: "https://www.tweaktown.com/news/95811/tt-show-episode-19-rtx-4070-ti-super-radeon-rx-7600-xt-apple-vision-pro-meta-ai-and-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 7
 
 secured: "yyGzZa2bjmsJ/S7LhRvW/ah36fxzrujSV8dkZmLOdeAXrdH3mH0PToAEHlZQbOwTtRjG+yi5Z1Iujo/PywuKv/sy1g086pekeBK1Prbc8BS74BBJwt2k5XN2EF4wm5X4Qve2wXCSkR00cZXCMsDLW7jbPl1pXSqm2YzeUm1WpdLcNskd+9PG0cO+fWuK0ceIr6dL0RbEdNphFllcShCWvODrQDXHTXsTB7L4SbIn8jIl7nJPFz5Tlh3Qz/7Z0IpPYPn5ZJhXzeWJpkSNyJgGZ3lRuaHSWMBKH+3z2CFGz7xqNwABo8b805eQlvYSLBYxm2sNxJTZMRiBuuoEXOS+UnKXaMTp3HQ/Sx+0WGP1bA3JB/GrvP4Vn9ApODd5CIGjRuHMRrbGIeWXlCOLHnkWlPvWmckyGT0uhfgPoAPFQ8HUso7XjR6BM1tVxkKam0KSRpi0Lkf5ztyC1vPPkcU3jmRyoTLXYe9Iv5tiF3zTFvdqu6EMAHZjvVSb9Z7lObU34GdQwdrHPuEFQxJwwcQ0Yg==;qXAET102jwlL582MYrrjAw=="
 ---

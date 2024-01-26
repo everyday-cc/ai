@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
+      "title": "MRO spare parts optimization",
+      "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
+      "originalUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T16:45:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-ftc-launches-ai-inquiry-into-amazon-alphabet-microsoft-looking-at-investments-and-partnerships.md",
+      "title": "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'",
+      "excerpt": "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
+      "publishedDateTime": "2024-01-25T15:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-sevilla-fc-banks-on-ibm-ai.md",
+      "title": "Sevilla FC banks on IBM AI",
+      "excerpt": "Sevilla FC partners with IBM to deploy generative AI as a 'critical 12th man' in their player recruitment process.",
+      "sourceUrl": null,
+      "webUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
+      "originalUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2024/01/Fernando-Suarez-IBM-Software-director-SPGI-Jose-Maria-del-Nido-Carrasco-presidente-del-Sevilla-FC-Arturo-Guerrero-Senior-Manager-Client-Engineering-IBM-SPGI-Elias-Zamora-Chief-Data-Officer--scaled.jpg",
+          "width": 2560,
+          "height": 1622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
+      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
+      "publishedDateTime": "2024-01-25T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ventureburn",
+        "domain": "ventureburn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-why-self-driving-cars-are-able-to-completely-break-the-rules-in-this-california-city.md",
+      "title": "Why self-driving cars are able to completely break the rules in this California city",
+      "excerpt": "Autonomous vehicles have been operating legally in San Francisco city limits since 2022. Citations for violations cannot be issued unless there is a driver or safety driver present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
+      "originalUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524b243f-059e-4548-ae47-865c746a7721/aed75e40-78a0-4500-84a4-882b5003c87a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
+      "publishedDateTime": "2024-01-25T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say.md",
+      "title": "AI will increase the number and impact of cyber attacks, intel officers say",
+      "excerpt": "Threats from malicious cyber activity are likely to increase as nation-states, financially motivated criminals, and novices increasingly incorporate artificial intelligence into their routines, the UK’s top intelligence agency said.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/",
+      "originalUrl": "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T13:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
+      "title": "Balancing AI: Do good and avoid harm",
+      "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
+      "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-the-importance-of-diversity-in-ai-isnt-opinion-its-math.md",
       "title": "The importance of diversity in AI isn’t opinion, it’s math",
       "excerpt": "All predictive models, including AI, are more accurate when they incorporate diverse human intelligence and experience.\nThe post The importance of diversity in AI isn&#8217;t opinion, it’s math appeared first on IBM Blog.\n",
@@ -103,57 +396,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-did-an-ai-write-that-hour-long-george-carlin-special-im-not-convinced.md",
-      "title": "Did an AI write that hour-long “George Carlin” special? I’m not convinced.",
-      "excerpt": "But I think that anger is at least partially misplaced. After spending the last few weeks diving down a distractingly deep rabbit hole, I’m convinced that Dudesy’s “AI-generated” George Carlin special was actually written by a human, using voice- and image-generation tools to essentially perform in “AI face” as part of an ongoing comedy bit.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/01/did-an-ai-write-that-hour-long-george-carlin-special-im-not-convinced/",
-      "originalUrl": "https://arstechnica.com/ai/2024/01/did-an-ai-write-that-hour-long-george-carlin-special-im-not-convinced/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/george-carlin-mask-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -269,7 +511,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -514,7 +756,7 @@
       "originalUrl": "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -992,256 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024.md",
-      "title": "How Blockchain And AI Are Set To Transform Small Businesses In 2024",
-      "excerpt": "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14fe78b7bfa33c952a2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1354,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "publishedDateTime": "2024-01-24T17:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-penetration-testing-methodologies-and-standards.md",
-      "title": "Penetration testing methodologies and standards",
-      "excerpt": "Discover the top penetration testing methodologies used to find security vulnerabilities and mitigate cyberattack risks.\nThe post Penetration testing methodologies and standards appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
-      "originalUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
-      "title": "6 Critical – And Urgent – Ethics Issues With AI",
-      "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "publishedDateTime": "2024-01-24T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-apple-aims-to-run-ai-models-directly-on-iphones-other-devices.md",
-      "title": "Apple aims to run AI models directly on iPhones, other devices",
-      "excerpt": "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/",
-      "originalUrl": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/apple-ai-list-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters.md",
-      "title": "Anomalo’s machine learning approach to data quality is growing like gangbusters",
-      "excerpt": "When Anomalo’s co-founders left Instacart in 2018, they thought they could put machine learning to work to solve data quality problems inherent in large data sets. Five years later, the company’s idea is even more relevant as data quality takes center ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
-      "originalUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1939454430.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/anomalos-machine-learning-approach-to-data-quality-is-growing-like-gangbusters/amp/",
-      "publishedDateTime": "2024-01-24T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
