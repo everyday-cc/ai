@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/ai-pc-coming-hp-ceo-155518048.html"
 webUrl: "https://www.aol.com/finance/ai-pc-coming-hp-ceo-155518048.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1199
     height: 798
     isCached: true
+
+related:
+  - title: "The AI Hunger Games Is Coming to Your Workplace"
+    excerpt: "We must train 100 million people to develop serious AI skills over the next 18–24 months."
+    publishedDateTime: 2024-01-27T20:46:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-tao-of-innovation/202401/the-ai-hunger-games-is-coming-soon-to-your-workplace"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-tao-of-innovation/202401/the-ai-hunger-games-is-coming-soon-to-your-workplace?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-tao-of-innovation/202401/the-ai-hunger-games-is-coming-soon-to-your-workplace?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/AIHungerGamesTitle.jpg?itok=8xlp-Oxo"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence in the Workplace: Use Policies"
+    excerpt: "Artificial intelligence (AI) technology has presented numerous ways to perform tasks more efficiently, including in the workplace. But as AI in the workplace grows, so do potential legal risks for an organization. As more businesses embrace AI, their ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-8706757/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16153_4556.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "05UDOPAXY9Q53+q73aStDGngdRa/YyoeR5FurBGn0VgTvkANfkaoDg0zBH5JmJtJgTsCpNKgDC2nqvfAD44mHjhSvEt0JX3wtkKFTsssRvh1obKeUldXIhN58wBl5/5NJl6rMCUiIwsFTjAoShDIQETx97yfjWoH/nnzT3SDDDO5/qYjdG1fd6lVTZrX5TlX1w3jtV0G6foBQ2bhl5KwzSExu8ucAGYOQ7F64LxGUNp0YXTNBYO8Ml348BI/lzgLlYiXLOgbuUqY0AmbzaICZduqZakJA32v4rNtjJJDBw4/cEp7fPJakdkUlb9xNg6OcbNoJbTi2n87apZqKfVpLlfm/FjS0WlEnTHSnA0QtZs=;7q7M5ysewbnlWKdnkE2aZg=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 831
     isCached: true
 
-related:
-  - title: "Companies Are Taking Advantage of a Loophole in This New AI Hiring Law"
-    excerpt: "Businesses in New York are required to disclose how they use algorithms to screen job candidates. Very few are following through with it."
-    publishedDateTime: 2024-01-22T20:37:00Z
-    webUrl: "https://www.inc.com/brit-morse/companies-taking-advantage-loophole-new-ai-hiring-law.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1675715772_536667_a48qtg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "YnkQhFiwIl7oDvKeAyPYbb48pVEG5+9woXzACYm91C5xh/bKwy6HmO6SMeGlQ//KyzmUEWmpr8z2aNga+t8wZXdosOpoVD/lDkDgXw0/mlpZS7G8hHbEuHFohlML3A/M44okDx8BXXBIBHQOOUQm9Vq0WO7IebzTdBYi3F2bGaBv8armgEWcpZiL6+pDiA1Sbh7u5gGqcKz1MepuVgEfH1KzX1OfdYyGH354PiGm6EfUly85h46y60qOQ21lKj7Ca+1KjYrGXmAUq2Io1331auOpX8vChRiW8k9VlQ+m910aSQfUsFfEoT+lVWkv/tppqvteesHpLu/H+RUX85Zg6sMf6GwBFrgoHEQHnN2Z4SQ=;82JG45vRdOM1//susyDQew=="
 ---
 

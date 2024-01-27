@@ -48,6 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
+    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
+    publishedDateTime: 2024-01-27T20:27:00Z
+    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 15
 
 secured: "kmwYgdAQ5DtOdKLa43m62+Rn3GMNIPLdHiCKTQTqw302eUkI2mz+qMgXt7cYhdQzVlrXNmPHvCn+l2oSjFkxDt/eYBDyq0LQNsT7sxgOHc+SlXHsezsWQDOW63TXVXXtRpTi2Qkjc0PA2MmgBNZxXxoFlsE9DY78jiCPz2UfzOzXjn+MYJQI+7yly+KGk65xFzjs0r6CyVNu5fgM0EfM6ErGL2bhppjj6IqPO55ICf4rok3wYU2i3DXYLW0Qj+CEqsSvNyituQY71CY3iDwwsFyOcxw67CcYD3KjDMvAzWCgQmk1dj4j7a1A0nHmHR9eUvAKQjf7CsGDWdrWVJMJ/1lEZ4J2fOjILvWBYIP3Kw9fec6vdseTpKeBjSa68nlACdW30sBAFO0Ny0neE8pVHwboGT58W/Eiq/Lxhw+vVqljIVtNTMcKoMYz3IQDPRIGdqlxGp3dkAA1zfrnUkT+9eqghWiwBbeml7T11ul9QZE1U2wUXsDkYM8IldTOrL08SpjuRMSIeGgd7+L1zynb7Q==;u9oh44t+kaLwrQHahhjl/w=="
 ---

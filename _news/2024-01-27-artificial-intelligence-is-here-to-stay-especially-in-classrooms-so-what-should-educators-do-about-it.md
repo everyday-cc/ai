@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-26T19:45:00Z
 originalUrl: "https://missoulian.com/news/state-regional/education/artificial-intelligence-ai-education/article_7e285044-bc81-11ee-89fb-4797265b7e52.html"
 webUrl: "https://missoulian.com/news/state-regional/education/artificial-intelligence-ai-education/article_7e285044-bc81-11ee-89fb-4797265b7e52.html"
 type: article
-quality: 2
+quality: 4
 heat: -1
 published: false
 
@@ -17,19 +17,20 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Meta AI
 
 related:
   - title: "Artificial intelligence is here to stay, especially in classrooms. So what should educators do about it?"
-    excerpt: "Within two months, it had 100 million users, the fastest growing emerging technology in recent history, leapfrogging the likes of Facebook ... research. Many experts say it’s best to assume nearly every student in a college classroom is using AI on ..."
+    excerpt: "From the Board of Regents and legislative biennium meetings to school hallways and college classrooms, it seems like everyone is trying to predict how artificial intelligence will ... as a form of mental health therapy. The hope is that investments from ..."
     publishedDateTime: 2024-01-26T11:15:00Z
-    webUrl: "https://billingsgazette.com/news/state-regional/education/artificial-intelligence-ai-education/article_57c79ddb-1eff-55c7-ae14-746cc16001eb.html"
+    webUrl: "https://helenair.com/news/state-regional/education/artificial-intelligence-ai-education/article_48333e1e-94f3-52f1-843c-f9f59dab05cc.html"
     type: article
     provider:
-      name: Billings Gazette
-      domain: billingsgazette.com
+      name: Independent Record
+      domain: helenair.com
     quality: 22
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/5/7c/57c79ddb-1eff-55c7-ae14-746cc16001eb/65b41722e1c66.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/83/48333e1e-94f3-52f1-843c-f9f59dab05cc/65b41a46dff4e.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
         width: 629
         height: 330
         isCached: true

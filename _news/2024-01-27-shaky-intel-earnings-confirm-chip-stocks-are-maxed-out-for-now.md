@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnin
 webUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941"
 type: article
 quality: 69
-heat: 99
+heat: 100
 published: true
 
 provider:

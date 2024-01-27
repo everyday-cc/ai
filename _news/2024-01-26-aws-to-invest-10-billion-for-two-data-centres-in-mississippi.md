@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/aws-to-invest-10-billion
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -35,6 +35,15 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 49
+  - title: "Amazon's AWS to Invest $10 Billion for Two Data Centers in Mississippi"
+    excerpt: "(Reuters) -Amazon.com said on Thursday it plans to invest $10 billion to build two data center complexes in Mississippi."
+    publishedDateTime: 2024-01-25T20:55:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/amazon-plans-two-aws-data-centers-for-10-billion-in-mississippi"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
   - title: "Amazon’s AWS to invest US$10 billion for two data centres in Mississippi"
     excerpt: "Find out more about subscription packages here. AMAZON.COM’S AWS said on Thursday (Jan 25) it plans to invest US$10 billion to build two data centre complexes in Mississippi, its latest capacity expansion amid growing demand for cloud services as more ..."

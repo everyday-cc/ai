@@ -39,20 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nvidia: AI Driving The Bull Case Forward (Rating Upgrade)"
-    excerpt: "Nvidia Corporation's Data Center is a force to be reckoned with, boasting strong performance & broad product range. Click here to see why we upgraded NVDA stock."
-    publishedDateTime: 2024-01-22T22:21:00Z
-    webUrl: "https://seekingalpha.com/article/4664267-nvidia-ai-driving-the-bull-case-forward-rating-upgrade"
+  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
+    excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
+    publishedDateTime: 2024-01-27T20:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23645298/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://media.gettyimages.com/id/1730512586/photo/the-logo-of-nvidia-is-seen-during-the-hon-hai-tech-day-in-taipei-on-october-18-2023.jpg?b=1&s=594x594&w=0&k=20&c=euQbL59kd03W1e09HfVxCMei1WIaMFeJvmoNY7Az7Fc="
-        width: 594
-        height: 355
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
 
 secured: "bZfjELJ3mjjIalrBgbcOS4op2U2qQ4ctt4InjGtTeukJg0vLi+Ai9lZ9oqRAr1kgLW0pB5NiExRy/tCmHLHfC5LNggAJfe+WiNwktvYFg/z64ETIZohN5RkJACF2wqKVTLe+S/rboK3g9Snmex7HsGR1Qa2UDiSa6YdSeMMWTDKlQaJEozgXUGur64enHvNPbR67TciUvqbRNCHbnVGSMBxfbSFZSduJJVltzPd+L2V6z960aY8df56+X9mQVeT6eJdxbNIok7gnJl2Tel9lyTxCsRDbrXjX3IEz3LEPQQNJnKJCvpXfsl2A2JyNRmXq7ORUJBR1EE7RSAuXEbpdXRbQk1uK77BzPAp8m/4uUUs=;aSRd+jOsGx+NktzBv7w1Og=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-mean
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "Cohere Is On Track to Raise $1 Billion. What That Means for AI Startups in 2024"
-    excerpt: "Last year, generative AI startups remained a rare bright spot amid a dimming venture capital market, netting $22.8 billion across the globe, a Dealroom analysis found."
-    publishedDateTime: 2024-01-22T20:18:00Z
-    webUrl: "https://www.inc.com/sam-blum/what-coheres-possible-1-billion-investment-signals-for-ai-startups-in-2024.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 13
 
 secured: "r49CYfyeYt6ztSMXr4/Oy/7mxMHLRIzfiHnZKtV3Q5V7Kgvo/ClSBsLwOL08mHYCu9zz+Z0gynPX4KegjBOPch+sbNwGibPwsFriZLvUsgcAmLzhhK9K7DbiupQ8Ya2Ar94eUf0vdTI03D9+7OLTBpSGdBlfon6l1bMGU6oYLb60+IuaXat5oJ1otdgFwkLMsinoba9P/Cj397tgIhM4/uSpXqAySH6oeMbUcci9ijgSc5O9bIsn7+0GGgbSV/V04w0SCPDXYPFgF6FLV19T/GR6Hrbk50hrUBemjxUfHUprUfRSNFXOFIegeeaePHQ0KjllajBtfpQWG7xbfu8ettoz8bl5f1Q7655leVSB9fY=;79igWNTev6yoQfZFVR2Jlg=="
 ---

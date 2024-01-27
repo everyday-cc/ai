@@ -7,7 +7,7 @@ originalUrl: "https://efe.com/en/latest-news/2024-01-23/confident-trump-focused-
 webUrl: "https://efe.com/en/latest-news/2024-01-23/confident-trump-focused-on-elections-in-last-new-hampshire-speech/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
+    excerpt: "\"Voting this Tuesday only enables the Republicans in their quest to elect Donald Trump again,\" the voice mimicking Biden says. \"Your vote makes a difference in November, not this Tuesday.\""
+    publishedDateTime: 2024-01-23T19:33:00Z
+    webUrl: "https://sentinelcolorado.com/uncategorized/ai-generated-robocall-impersonates-biden-in-an-apparent-attempt-to-suppress-votes-in-new-hampshire/"
+    type: article
+    provider:
+      name: Sentinel Colorado
+      domain: sentinelcolorado.com
+    quality: 25
+    images:
+      - url: "https://sentinelcolorado.com/wp-content/uploads/2024/01/AP24022637397821.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "9Ya5OdUh1W7t//r1IfD2cY/SwLGMUrbRzp7aIu/0bFtI+IJTwa5nt8htqpMYam6KoaNNPLAmPN6LXkFMBTOyWsG8s9KG88rP6S0pC9NyZwjtl5GvyB3IWh9opWRonYiQL7FcVdaADiqFrE2bIjC2ZkHW/iS35uRWwFcedi+MG9UYzbPY2CKplEcwJBu9j0JPJSERA4ww8O++htBnveKj+CIz8uJwjvmot64r7V+OoVSpICHCObHoWI2AwYj0vUdhS74F4NXHYmUEXL7gMW5WjYJUzkszeA0Y10S2oIRtH8gQ8Cl5RphLSyKT2LjSQxkhyu+b/+dPjmtcgdMbdzRprmG5UNdW2knAXlvnl4O6XUg=;cYJTZDI77ohsimG+3c8zsQ=="
 ---

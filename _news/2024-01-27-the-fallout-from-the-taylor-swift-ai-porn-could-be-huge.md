@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-coul
 webUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
 type: article
 quality: 69
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
+    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
+    publishedDateTime: 2024-01-27T20:27:00Z
+    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 15
 
 secured: "Xeqy4tTOu17Wv8NjkTTreiZXn563MrgGYv41qR57iJPaw6VqIpO9gUL5GRp7YD86waHpEoPnKDtX07KojDAeAAWNacUSn1dqwqq9m+ASznULW4R1gOgjxozyvkXJRG8YdmQHEnHGruyyVE5NUhK01RBqNu5bw0E2QNoRL+tHPJhuT8Ndk0MxDhXaaME8+FykFji8NFQIpoYg1VADV6MMKVD3sNsZ7S/Il5df7hDEcUHtJCycmJJTNMSUuXca9U9S8Y5+ZbuL57sKd+Wepfb5u60DWKEqSISyAC+PJJrg6TjnVXq+zGJgiL5Xwl1jjZoT+oK3V1Tf8LFYdVg9+Rd8NLDSoAm897/BpUX81jmsL/56gWlK1ZFxAgIO596cebfbLu9Si0jv0NumnD03XNhL/e4NmV2m6RnEKAzhBDGN11JUu7RyvGNAXi9KIt1Ez60/tONtUpEZ3Pbmoa2bAmzTPrW3vBS8VRN9YkTHKneJFizDhGmf/P7RkAY96DOzJCroAp18OULqn5WnEPz6ZYy5ow==;H7cFjVtLvfDKe9zkWldOew=="
 ---

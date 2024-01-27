@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2024/01/25/fast-rising-voice-ai-st
 webUrl: "https://www.law.com/corpcounsel/2024/01/25/fast-rising-voice-ai-startup-elevenlabs-hires-privacy-guru-as-gc/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
-    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
-    publishedDateTime: 2024-01-22T19:59:00Z
-    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "Startup Digest: Byju's FY22 surge to ₹8,245 crore, Voice AI startup ElevenLabs turns unicorn and more"
     excerpt: "Edtech unicorn Byju's has filed its FY22 financials today after a delay almost 22 months after the reporting period ended."
     publishedDateTime: 2024-01-23T17:57:00Z

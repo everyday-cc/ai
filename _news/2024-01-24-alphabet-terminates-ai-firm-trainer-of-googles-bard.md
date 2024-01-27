@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Australian Open hopes AI audio translations will speak to new fans"
+    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
+    publishedDateTime: 2024-01-27T18:00:00Z
+    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Google terminates contract with Australian data firm that helped train Bard AI"
     excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
     publishedDateTime: 2024-01-24T05:31:00Z

@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "A link between self-driving cars and roundworms — and it makes sense"
-    excerpt: "Discover how salt concentration affects roundworm motion. This shows the crucial role of the SMBD neuron in directing these creatures to higher salt areas."
-    publishedDateTime: 2024-01-22T21:11:00Z
-    webUrl: "https://interestingengineering.com/science/link-self-driving-cars-roundworms-sense"
+  - title: "AI and self-driving vehicle risks are worth the rewards, says former GM R&D chief"
+    excerpt: "Forget about Level 5 self-driving cars, says former GM R&D chief Larry Burns. Level 4 is the goal. And AI will be a boon to designers and engineers."
+    publishedDateTime: 2024-01-23T16:09:00Z
+    webUrl: "https://www.autonews.com/mobility-report/ai-self-driving-risks-worth-rewards-ex-gm-rd-chief-says"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 24
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/22/image/jpeg/XqGBuiZDs7nmKDrtFhzafjc3o8LUPTXKMZa5RVHe.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Automotive News
+      domain: autonews.com
+    quality: 14
 
 secured: "LvxMGlsxF3Ow2Ug+x10/Ir1eAjCJsOIo4NF5N2XTtiAEnLhISWabagezqCvkJOOowPfpODSEiEZajDYdDQmOBDeEGQUHaR1CkMjqk6CBPFB6NzTGP9gDaiD9l3SYFEWOlLABfIEs17WiycRNy30W43t2ik8pV6Yoq8kPoyCW+kbZic2lBTcIB4tZ8xohLhgDdVsb42Mj0QfZXjyCyKIYUU8uyCvbCmb1trsESsX39Ystr5iifkCxNm18nSj0zgd6IufqdRfY/2P6WNzrtgXkqOvXSbL2H4B9oQjiXbTff7fHGtzmSjovJ6qsvbXXrxA7tU1RLQkUlLYL8vnhfpk66OQc4EXCWZsgM9sVbzuwKOT4BwwiBseKGNFFrYSjPaHMOm7zeejcxY5FvyhYVVrN+h6ZRBru2Y8fa+NQXOPSlQ+asqR1wpTaSfGHoUG/sbWAc7p0ijTGZvguc/pe9pI/SRMdd/Gbr4IHiOoKkYZ+9et7EIORGOf6SmjcorOcqjad/X0gTAv+9Jbf8ke0sNe0KA==;qvt4Jz29vaROe30FwnSBUw=="
 ---

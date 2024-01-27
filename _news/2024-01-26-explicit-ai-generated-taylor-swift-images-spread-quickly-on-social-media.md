@@ -49,6 +49,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 17
+  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
+    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
+    publishedDateTime: 2024-01-27T20:27:00Z
+    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 15
 
 secured: "mAuFIKVAqyJJDAOlzltJAb/6TevZiUpdTtwoRj4qA85qPks59P4uBJws30i2b7fOQ/LnpgCZ5D+R4/EF3tbRp9zPKJcrHKMiY28nvGd7KVLdNTn5BH9ZrAMytWRp9+RY5sOPqvkhpXQ1H9EIydC8Q5WDdFB7L+DV/VaNjeNxwuO+Cztpi3hAweiO7dHGItjWx3CYcagbhKZ1TRrCvzYQsacDWBbRAEzNBowndD9XTg/SiHgTdcBMi2Re+4YWeV9ZfM8z9eBTlfvv/O4viUlfUcmLWjSZtFOiCMZ23OEHushNzI8xnzLVEtfpLrW9D1SmPkcMRpeVfu5/0Aov90xMpBKF6LXN7dlR81DDlY7pvD0G/TTl3iMyOyjAMZFswLhcUaNY0LeaHAB7Xt5z3wtrrNt6FZA7FVEEna646PWOVuv60eIC2j+qqITh2h3KyKWrjbsrDyMPHesB+VgPp/YzC6ASqPEh3OGnvqVODio7Lm3C8RyCdkWzgevBDgrFzaqQBDbSrJy6Od/WfiCJZMKRow==;stCqhNPo4MQqAocsgibRgg=="
 ---

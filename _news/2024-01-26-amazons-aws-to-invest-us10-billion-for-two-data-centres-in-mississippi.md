@@ -44,6 +44,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "Amazon's AWS to Invest $10 Billion for Two Data Centers in Mississippi"
+    excerpt: "(Reuters) -Amazon.com said on Thursday it plans to invest $10 billion to build two data center complexes in Mississippi."
+    publishedDateTime: 2024-01-25T20:55:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/amazon-plans-two-aws-data-centers-for-10-billion-in-mississippi"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "dzzbxyqyiNgUA6KSeJpX/2cLzDvgzU58pMQ4gK+PbfMKrJ3GnIqiKAk7gp+6+fr6PkxStiVWz+goZaBwfFJcN/xEGatjrmUEyeiCEAu1SzYwecdDG7pkgwr1QIg0AZSrDfFgiANqa5LGIKw8JXZRBoS3ZDnYY4XF8+tMHBK4dMk/vlUQA8+PhGoIZIzT/xYQ2Uz1ArCLIKk+StRrpMcvVnIKNWwGJhR9UEHYyKTjxiThE00cR4CxKj/7eTv0GXv+2LJwj6cALNoEQJONcv7VBfB2uyKXTn9pkyuONXsbrlK8Akuz2I76eoqFXNl46d5cX/HkKf1X9jw3PgRyAfaVeJAc9DRhH+YbijZG58J1x5k3UuDpaC14M7fkQ/eNV4AhxqtmN/EwNvfruiS4JFew0kNIo6Ac/bhlDjM6kKwb8+9kQZUq3Cp50l6wAoNbW3GkyzXSvwk825ya3Cz8O7V8An3HwtNPo/n3wNyFqmkI464XtnEB4eHzmj/4EqaOVDoCV14LZC4/Xh0SjutJzw20ag==;fPY7NMiH6Z6ezjihQbG0hQ=="
 ---

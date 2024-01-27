@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
-    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
-    publishedDateTime: 2024-01-22T19:59:00Z
-    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "Fast-Rising Voice AI Startup ElevenLabs Hires Privacy Guru as GC"
     excerpt: "Farrah Zaman's arrival as legal chief coincides with the closing of a new funding round that values the business at $1.1 billion, up from $100 million last May."
     publishedDateTime: 2024-01-25T13:04:00Z

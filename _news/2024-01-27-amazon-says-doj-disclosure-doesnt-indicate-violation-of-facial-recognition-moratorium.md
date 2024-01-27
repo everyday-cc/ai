@@ -40,20 +40,6 @@ related:
         width: 1584
         height: 1024
         isCached: true
-  - title: "Senators ask DoJ if federal facial recognition funding violates civil rights"
-    excerpt: "The history of misidentifications with facial recognition by police is an expression of bias that remains technically embedded in facial recognition systems."
-    publishedDateTime: 2024-01-22T21:00:00Z
-    webUrl: "https://www.biometricupdate.com/202401/senators-ask-doj-if-federal-facial-recognition-funding-violates-civil-rights"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
 
 secured: "6go8fNGY3oFK4fCcmPc3Z3d2dD0OhL29JGkDoC0pou23x1Mp3Kofvr/LedbMMEmUeVhW6t0Izhm9sfRkR9VEk0p6bITAn4ACFJvOIXULic553jD4Bn5eOl4bJ7jtB+zsX7N3w6ovV2/n6kUKxx07WM9TO9QiCEYLewvi+hU31ji2hASl1BpXMJVx0rix0pkPAT4IpJH8owJ4DBTS2+p0emXIPFz/RKZJRaSLi10GYQmI/7PHVBFfISqDUJFMzTfBd946a5U4c523MuxqlHAPnS6LThiCuDLizuYrBFzpp7fhXl6vYcF9Uvki8ZPWo307eRImPAGL7cqo0AYZ9UR0bJGfhIW2oQvBRAFp8wnvJvEsqS36z3GwJ9AjBHcLMKtZTRuYhU5zrMXY+zFnQK7aiYVBPhaUF7J3rXpnV4QXeCFl/Dy6CB+rQM6BkbRo8Uwdn3shRQddxgmiTjzDlX1s6d/4EJVtbVAnudvo9QqDWUXQQsV7HOejR/qANkwm2GNBGQIod7irpf/9BarzTNBpDw==;pOMzAKv2KgHKVk1qkw+cVw=="
 ---

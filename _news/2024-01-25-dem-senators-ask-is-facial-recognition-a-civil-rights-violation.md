@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senators ask DoJ if federal facial recognition funding violates civil rights"
-    excerpt: "The history of misidentifications with facial recognition by police is an expression of bias that remains technically embedded in facial recognition systems."
-    publishedDateTime: 2024-01-22T21:00:00Z
-    webUrl: "https://www.biometricupdate.com/202401/senators-ask-doj-if-federal-facial-recognition-funding-violates-civil-rights"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 36
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
     excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
     publishedDateTime: 2024-01-27T02:44:00Z

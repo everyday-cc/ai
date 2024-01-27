@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-compl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "California restaurant incorporates kitchen robots and AI"
+    excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."
+    publishedDateTime: 2024-01-27T20:45:00Z
+    webUrl: "https://www.kwtx.com/2024/01/27/california-restaurant-incorporates-kitchen-robots-ai/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 34
 
 secured: "bIlKgTvjaxNpsdQdfVd4ybC0xwJ5kZcigtnLiuoJ4pKJpwdeND2GYonUvbiuOuEDelYjiFCL0Y4YhyFyItM2GsFBnhwvT6Cpy2AjZc3lv2frhe15HB5oOtnlxFyobXN4gdQCWHWusd66whdTawXKSFTH8ORGFwiexLgpF8DdMkYSmDytitpD6rBwYS1n1qTFlApnzqzValn5HZyONiCqZ0/SY9jGIzT7r0rJ8ruDyBUxxy9KWsHNBaCExdKgnKYNeuN4onclWwRfsiTxFe1EzOPTXCRk3NPXJG37MLQPevMue3lUp5gKnyoUCSG7k12JGgdZGxLdpI5tdn6knrY96bRs20+cMIvlncDbJf7/NZRiGxy8CnkIIqsZCNzugqtIt1fupKsXvKVc1kborcC0sVbqb1MWYJ7ff5p5kRd3v5gmrSkvRdS95S3xrCIJjzMY7ULV6P6Ha7NrJztuVifNdK8kUFuO1xbPrqEJ7Dg29frHpbEyuE90bTzn/P4sWg5a8fBX2H4PeBbAMDAo6upyuQ==;2lzJsFnSA7STdICERwP+bA=="
 ---

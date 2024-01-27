@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/florida-s-lawyer-leaders-push-et
 webUrl: "https://www.jdsupra.com/legalnews/florida-s-lawyer-leaders-push-ethical-9090723/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Lawyers' use of AI spurs ethics rule changes"
-    excerpt: "The Florida Bar on Friday provided lawyers with some clarity on how they can use artificial intelligence without running afoul of ethics rules, following a similar move by the California Bar in November."
-    publishedDateTime: 2024-01-22T20:21:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/"
+  - title: "Florida Bar Provides Attorneys with Roadmap for Integrating AI into Their Legal Practice"
+    excerpt: "\"Ethics opinions like this are crucial because they are going to help us with the latest technologies,\" said F. Scott Westheimer, president of the Florida Bar. The Florida Bar released an advisory opinion on integrating generative artificial intelligence ..."
+    publishedDateTime: 2024-01-23T16:10:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2024/01/23/florida-bar-provides-attorneys-with-roadmap-for-integrating-ai-into-their-legal-practice/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
+      name: Law
+      domain: law.com
+    quality: 30
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2023/11/Florida-Bar-Center-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "8IQ8/rxIRmFYopiExo2+Kp7wIPgcMCYeCtfRW5rVWr3yEm/v0a+sDjlROU0+shzvfvBnQHpAGfVBXcTh7UBI+CifrCiK1MTGjHgWRX3t53dc4NZT2aAEegHVU05aDU8MmglEdzklbyQv/alCMn0Dj/UllI81yy6enF5DELbS8v0vlUL+fSLxiWxYAaVRs9Pe8utguHM4KrtrPHpG0YxAVqbXs+tTSDNXUUJ79BNWNdJb5hbpd9ANSkIX9FYAamJFjIKoUDymggkCPRpAsvJAFw4lRLwvg31LS5LbsZOaQ4xhDCWwl4Ok5MZT84wJF6SaJVF1qKoSk0Y8Z3aIyNNFs3qn0ujjwf2/qy1+mOF6Fj4=;eBKQWAxbKQEG7rr0JwqYrw=="
 ---

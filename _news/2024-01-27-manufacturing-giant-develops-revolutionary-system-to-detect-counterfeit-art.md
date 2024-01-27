@@ -30,6 +30,17 @@ images:
     height: 620
     isCached: true
 
+related:
+  - title: "Manufacturing giant develops revolutionary system to detect counterfeit art"
+    excerpt: "The developers of the “optical recognition system” claim they have created “tamper ... Every work of art – from drawings and prints to paintings and sculptures – is a manufactured object and no matter how skilfully an intended facsimile might ..."
+    publishedDateTime: 2024-01-27T17:35:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art?ref=biztoc.com"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 2
+
 secured: "1ozxBnENf2BLLmbblSKU50Q0HpfqMDE/Y9YiJ5hZEjUbnpGhI2WXjIG4GnsjByI3k/hXHbDQ3teE4ATMWJroQcBqoAfwFQsudqJySjRiGsLaxdboe3gMyVjurWhtlygl8VAj29WRCQHRuvJZ2g8EwvqWDlO8LKHoxG+IRnu6IS7Rcg5G4nkAd0Xq/i/xNAkHfCVFs5RfwqhDTrQFVdxyTutJXsSVW/E34cHa7MoFGEBS4gpC3B+L8MNSFskzqgoPUZVenCfg5PeQwxWz1JxH/RtZo6DDtioY+dELpxpFC/3fHzw80VtAP8hxoR2HRm7mf1QPN1htxl7WUAxCwrHXdLFag0N0n3EjYGUVGvKv+Bw=;L3Uy5ZInOj5VVjGhem4uNQ=="
 ---
 

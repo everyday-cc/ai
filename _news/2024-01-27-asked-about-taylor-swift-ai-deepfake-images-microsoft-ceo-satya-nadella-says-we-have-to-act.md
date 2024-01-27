@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake
 webUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/"
 type: article
 quality: 72
-heat: 95
+heat: 96
 published: true
 
 provider:
