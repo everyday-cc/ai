@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-mi
 webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Musk's AI startup secures $500 million"
-    excerpt: "Musk launched the startup last year as an alternative to Open AI, which he co-founded and later left over philosophical differences about how to profit from the technology. xAI's product, a chatbot named Grok, is developed using social media posts on X ..."
-    publishedDateTime: 2024-01-22T04:53:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/musks-ai-startup-secures-500-million/107042614"
+  - title: "Thentia secures $38M to drive global expansion, innovation in regulatory technology and artificial intelligence"
+    excerpt: "First Ascent Ventures, Spring Mountain Capital, BDC Capital and Espresso Capital lead Thentia's latest $38M Series B extension round, supporting the company's continued growth. \"We are thrilled to continue our support for Thentia with this latest investment."
+    publishedDateTime: 2024-01-26T16:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/26/9953001.htm"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 37
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107042614,imgsize-37130,width-1200,height=765,overlay-ettelecom/internet/musks-ai-startup-secures-500-million.jpg"
-        width: 1200
-        height: 765
+      - url: "https://mma.prnewswire.com/media/2327781/Thentia_Corporation_Thentia_secures__38M_to_drive_global_expansi.jpg"
+        width: 400
+        height: 225
         isCached: true
+  - title: "AI Startup Legalyze.ai Receives $100,000 Angel Investment from Payment Ventures"
+    excerpt: "DALLAS, January 24, 2024 (Newswire.com) - Legalyze.ai, a rising AI startup that is poised to revolutionize how legal professionals handle casework, is pleased to announce it has received a $100,000 angel investment from Bethesda, Maryland-based venture capital firm Payment Ventures."
+    publishedDateTime: 2024-01-24T14:13:00Z
+    webUrl: "https://www.miamiherald.com/press-releases/article284626995.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 13
 
 secured: "g1QbKe2p7LTbRXp3/XderHnbYkW54FkZx06MuhcRysgHGsU87J/57Y3kuqS6Ow2i6EAjyoHU+3wejYnOnfAMF1olJGnGxTUFBk5DXJyQUkSxhEPFH5R9huayzwfyfH68pO/dJT7pIYhRAJqdD5KjOxgheCEm71rNgLvOwvudKbUpYme/k3J3LagKJC/r9W5FOof/7omC86Q954th4hY/hyeNjzjIsyRfrMpaHUhx9NHTyNnTyC/WSQk9ocz5qcyhItbBuHO/Jak396EAQZnHzwEauZNoBtSeh4PmuRBW8MNjbcKowqW+JEBDlvh3Gp3XCOgZrCx/hotSsrPws2G0ZauWqwjP4WTU4A67Aa1I3JI=;YfTyto6y1aCRe8aTFv/Sow=="
 ---

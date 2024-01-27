@@ -41,22 +41,6 @@ related:
         width: 1318
         height: 900
         isCached: true
-  - title: "Sam Altman in talks with TSMC to launch AI chip plant: Report"
-    excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
-    publishedDateTime: 2024-01-22T04:32:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107042034,imgsize-10204,width-1200,height=765,overlay-ettelecom/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
     excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
     publishedDateTime: 2024-01-22T10:46:00Z

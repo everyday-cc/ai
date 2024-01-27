@@ -57,6 +57,20 @@ related:
         width: 1480
         height: 800
         isCached: true
+  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
+    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
+    publishedDateTime: 2024-01-27T02:44:00Z
+    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 31
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
+        width: 600
+        height: 320
+        isCached: true
 
 secured: "XdLditINECDpMd+8QgZHnpMQDxwfDgzRCogxxd/GiuNvzrxqQ7tmAykHPvOjQlJ1eYvF39W+SO3EWGkV9yjmGnot7NRTrn15CGvdLRRU6CEQC48nnimFGer+TndWQWaHGctf9Oje/ge6Hh7a6b/D4AqOub2TdytlMI1DCa8iDERFymQScDvR5bJAAORUCZShGp7+CLeJu7WpGaNzI/P7KtMfl1lUtuoRi+bzUBhWTHl2SIip3Ab9f1A83hsqWkdEDyN8hZydH46CIcJz1GZEQBU9pfaZOFDy70ln4CSQ/vxgYe5nTiNNlNZ2yL5bhR6H4AnlcyQ7s+raM2pIKK2JvOWU6DiWAyim+rUzxjH47EY=;JRPgXSnTdbK1sghkcf8Npw=="
 ---

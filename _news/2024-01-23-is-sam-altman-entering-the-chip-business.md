@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman in talks with TSMC to launch AI chip plant: Report"
-    excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
-    publishedDateTime: 2024-01-22T04:32:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report/107042034"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107042034,imgsize-10204,width-1200,height=765,overlay-ettelecom/devices/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant-report.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Altman wants his own AI chip factories"
     excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
     publishedDateTime: 2024-01-22T10:18:00Z

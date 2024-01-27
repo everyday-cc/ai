@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-ac
 webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
+    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "t3UbRRno4XCGwvHBAtBX/pnj28f9/vfhJpXXWvRO6qyGXjSiQd19b4Lpfes4Ic82tjRWuLYa2WJYo45QmZP9rkl5zJVkt6kQmII4Ktyjk6OwT52oy1HPTfmY5aiOR2V6GPVC50/iDKKnsyOWZ/wj9sg+RYWSBVvt3hAzhHsletf5qCVQGFZaE7j4HChM9VwauhoLYHRXwW2QjTw3ChFONxP7DwDWdECPvkI6yqdMmKxdzX1+5C4ZZeHlG5XhpxghDk2adFxuK9WQ6w2C/idzUeq0wPOp4jji6dIqARVHDzbCygc3Uf4Chq7JULcqBD7o7B8KBhJNPGHY4FwrDmO2k8AtpTFVONpHeXR7kOGNsbKtptfUjL7xb5zXcwfhqt/meUNtV2zMi3YpoUzvdfeltAf3oDznpAlL8lsqO5Kg8AbNx/6qGcNzTh1GhoTi/xPGJuRajhF2H1Ov4I6KMShtvFQHEHMGz2nqASFKEhObnI60tMeMuTvnn/T7ZNUab59ni14vdgqobhd2AXq68Efh3g==;DckXON4pqCCDWbC6L6/KiA=="
 ---

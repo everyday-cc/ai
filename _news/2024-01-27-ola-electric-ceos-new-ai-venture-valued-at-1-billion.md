@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
-excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
-publishedDateTime: 2024-01-22T10:08:00Z
-originalUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
-webUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
+title: "Ola Electric CEO's new AI venture valued at $1 billion"
+excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
+publishedDateTime: 2024-01-27T04:54:00Z
+originalUrl: "https://www.channelnewsasia.com/business/ola-electric-ceos-new-ai-venture-valued-1-billion-4078051"
+webUrl: "https://www.channelnewsasia.com/business/ola-electric-ceos-new-ai-venture-valued-1-billion-4078051"
 type: article
-quality: 32
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
-    width: 800
-    height: 534
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--l-FUNIg9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-26t165441z_2_lynxmpek0p0d9_rtroptp_3_mahindra-ola.jpg?itok=pHzIuWjr"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -86,19 +86,19 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Ola Electric CEO's new AI venture valued at $1 billion"
-    excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
-    publishedDateTime: 2024-01-27T04:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ola-electric-ceos-new-ai-venture-valued-1-billion-4078051"
+  - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
+    excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
+    publishedDateTime: 2024-01-22T10:08:00Z
+    webUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
+      name: AOL
+      domain: aol.com
+    quality: 32
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--l-FUNIg9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-26t165441z_2_lynxmpek0p0d9_rtroptp_3_mahindra-ola.jpg?itok=pHzIuWjr"
-        width: 1200
-        height: 676
+      - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
+        width: 800
+        height: 534
         isCached: true
   - title: "AI voice cloning startup ElevenLabs confirms $1.1 billion valuation after it closes third funding round in year"
     excerpt: "The round values the startup at $1.1 billion, confirming Business Insider's earlier reporting. ElevenLabs uses AI to generate realistic text-to-speech voiceovers and clone voices. ElevenLabs, an early-stage AI startup that has captured the attention of ..."
@@ -137,6 +137,6 @@ related:
       domain: cnbctv18.com
     quality: 2
 
-secured: "fgjDTEZngvAr3GOolQaimU/bhouLyW4G9CY6x3vyeAcD7Hxr6Lu8cGTmEeJ/8i6phnGA8Edx+uUuoOqcTb9pvIZveCmu+BvdEetKQtyTuZMjete+DY1drsoR0bjHleFETg0JlZkyu+VKcM7ceXWAkCFmax18ghvS0icy6xy4jcHDq5HpfHOLhzRoJ3Q/c6I4EzpXeqdd2MUsCPipu9MSfHRxURfQfi6Adrfd4cSvEpXg8tIOM967Ua8Jd8iK7GmgQ4mrlZwMoxJ3JI3F4QU7cloGzEJAwTwbvKLAPllaSXPEcPeoLCnvTXoM5J7irenFEocOGrLiuYqXfO3F+uOBk1nQUyuTsC79FI4SX5Ek/m8+VZyfmKyCgwTT4eKeG2cBlKJTFT3TqUSGXCW6UBwC3w+XhOHuDaaZQrzEhKYtd5nm0P4vRaLrXVjt011AXQ8Bk9aSSkVHPCuZkU8R4jKip187GL4RaEhHVA5g6ZoJPSt6ae6lUhqr2Wn0lpiPSDv+IFqSrI5DVattrHsGthClbw==;wzhRdIRPOogO0FiyYWbSXw=="
+secured: "ABwRMf4iBvx2Osm50HcGVA1sm6ZFbuQoprWMf1WYqtEpPKP7iRKCBrHwraFAJTBhYyYkR4kbIET7yw4lZHyEt6IHj6vb8Zi+6ZUQlTs5O0MNYx9avckB1V3YGHNAfBclVAFxKRynb0UYUK7QlB/LQzv/ghA40SCscau/f89AJ8ZraIEkGSNFxPqVElrii04uwzp9FHywgSeHBu52hYfYpa8AlsCBoewBLLeTy23FVvtesi3XQOL1qwftEaYUXOYGXy9ViHWMwxhD8hj+la/OFvFCp1mFRq0E+bjmPhBYG2dw4RZr5IG3WnZghy9Lv9jjsLiS0IHzjdP9QRvs9XOFcEspulWEfVIxZ7GmXgbXPL4=;qCwglYbiUX3Pn1yiAQ8VAg=="
 ---
 

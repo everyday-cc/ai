@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
-    excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
-    publishedDateTime: 2024-01-22T03:49:00Z
-    webUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html"
-    ampWebUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Amid-mass-layoffs-Google-DeepMinds-AI-scientists-may-leave-and-start-their-on-startup.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
     publishedDateTime: 2024-01-22T15:26:00Z

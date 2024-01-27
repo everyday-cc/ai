@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
         width: 1480
         height: 800
+        isCached: true
+  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
+    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
+    publishedDateTime: 2024-01-27T02:44:00Z
+    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 31
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
+        width: 600
+        height: 320
         isCached: true
 
 secured: "xAS9j55xw8Ju3M4Tr8BmfbDJE+xSmjfqvA+sXz3aIuXrp/lPnRBM5xTgfywgvscDOGdHCARFHyaVokEY1ubcIXeaABnW1RqQF1I8LwH0lESStTO205oSv1oeLjE43pf/D5wpMS56pDLfA6PuKH0M7Q7hZEvU7NJD3lb3PMwUtNGB638l1RCJb2FONfAKZhjfUUjs0KOPFJdt9owEZboExsk+S4bwo+Pyy3Ktwkf2kEj94tWzCGMH4hPmUmNlluQUcGuaQYS54D1gfztLqIZZ554V/zJjbUz+fnKqXd+30FT/bj6B3H5jYSGo7fvkWtZ5cGdjGPQas3mjFKye/9ExuoRMkVvecUsXAbmHkhiOtzo=;smlyxjxsslWaqELYhrDAYQ=="

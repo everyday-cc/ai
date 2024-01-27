@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
+    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "GzYLY1mwMIunNnzDdERM+VX+5eoB5OlnmdCI0qlJDSL+ubJ5+UMSA4u85cLooCCCBcKFSeX5uLs8AncTIYDkbIUmPUknbtUXCGAUSY43O6AH+ZQ7MvtCu8DIgmkrMCIfgLVjZFlcUD7HywOLOQf94CkX0h+ufzWGwBmkrRKljavf1EPeF6SPwW/V282pRhJHL40U8l/LA8k6m6FwNOvXIbSnoZmlNqKHa0va53uKsGzy9hwJq9SXDiM9ReJwvjhimkeiZDP4m7PG8lEW4VJLc4iXCxKk4Lgb/64UNNxPADx7+nqYAl2XHE4snB/gbNoWDpZ6fHAMS5KwptG3t1OmR5uQ9XfW7mxAXVhq0JvFIZRe05zx2RBfiJwVif9Rxxjv8sHo00pyKI8P99nM/clWVmJFQlEFEtFEm1HOwRk73r2BCWE380eBrGWsAigUnDnXsDwZsSCSYsz0V6pUabwLXK0jgqKmiTGPfiAZ0u1H5/gTSZVcpv/X9ErXln+kqxceORPws2wSlzRWwmW0GRJiOA==;obbNiiKzfvUv2tNqlZH21A=="
 ---

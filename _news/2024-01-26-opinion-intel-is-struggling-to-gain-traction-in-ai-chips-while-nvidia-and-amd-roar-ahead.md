@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-tr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
 type: article
 quality: 95
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI Chips Market Reaching $400+ Billion in 2027"
+    excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/ai-chips-market-reaching-400-billion-in-2027.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-26-at-7.17.57-PM.jpg"
+        width: 1608
+        height: 1262
         isCached: true
   - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
     excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."

@@ -43,22 +43,6 @@ related:
         width: 324
         height: 435
         isCached: true
-  - title: "Amid mass layoffs, Google's DeepMind AI scientists may leave and start their on startup"
-    excerpt: "Amid massive layoffs and other cost cutting measures at Google, two of the lead scientists at DeepMind, Alphabet's AI division are planning to leave the company and start their own AI venture, and hav"
-    publishedDateTime: 2024-01-22T03:49:00Z
-    webUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html"
-    ampWebUrl: "https://www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/amid-mass-layoffs-google-deepminds-ai-scientists-may-leave-and-start-their-on-startup-13640652.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 66
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Amid-mass-layoffs-Google-DeepMinds-AI-scientists-may-leave-and-start-their-on-startup.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
     publishedDateTime: 2024-01-22T15:26:00Z
@@ -111,6 +95,6 @@ related:
       domain: techopedia.com
     quality: 34
 
-secured: "4z+B6/tNTk8eA1xIfT66sk0krWjU80WascPm3bBZyaHH1PFYne2Q10+FEPZ7Mh6JS4zC/HrzhMuUq9a3HyP2q0p0WLuPiTGX77hKLVvZOyGRQLvS4yobM9AN4WaK7V4GwdMaGN69HUP7+PdHV9bNQLbw0lXVRBqj3/LArFuTUMJEnV5ItwMNVXYv0hbmOViAX5qnvlEDeQ03i9Z2+GS6C4M5WCO1M20e9xgEya4Mlvi1vYOwYSymw0GrQX+tmp+23Gugnt8mezij3jzjJlg+vUt/UbE+fbFmNs6+gaFrCGOxHSQ1HqD9zLDIuqpCccI4zJ+i9tRZTZsGuv7QFpQPjrcjTPYD0l8RDXqn41wAI7Y=;ik+cS0goDHNF4ZEkg4NdAg=="
+secured: "q1jMvDrM8D1Kcm9y6Al6AKEA+lPhaMgmLjqQ9j0WOGUIzpNIKaP2CEHR/1xRkn96LBEWr+2CZTTk8gnMGLXMKpriITSJBJes1OGE5MN63YmuO+EiUrWJeGq33lwHVDkrsRL/EEthzUb3IAx5Wj3HJ920sx2eryoi99TyOKLvS4gWjv5VvGs2B9JQAMj0kveqnkDXota7Si6sahpIiYM/E2Y3vJumrcpBRimgeOIR8gczKGSgwE00RW5w1vccuAoCOt3xgh00AqnfGQfIne4Khg1XP/Ku9HFwqYcGN6Cin9O6m7GiXvEdoyxt4RLyFLD3D7bMk/BqHunwVhXkUA19EYBK6p6PRGRlsmj1RJYFPk7VeB/Ab9IzJ7ltq0JQfyz06TQZPAHGEBB+PBnGK9lJsN46fBNhJTvIIC91m4a/WYCiRFxxcUHK5OWBplBl+XSD7Ugu3/XnNflz3eakGCEK6WARvRt52KkKFPeglj0KENSIJllg7xkkSwwewgtyB6SmYGF8xmKyTU8LAkK/u/MASg==;FC96aNoyI/hC5o7ue++wnw=="
 ---
 

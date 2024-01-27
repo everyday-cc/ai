@@ -90,6 +90,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Chips Market Reaching $400+ Billion in 2027"
+    excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/ai-chips-market-reaching-400-billion-in-2027.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-26-at-7.17.57-PM.jpg"
+        width: 1608
+        height: 1262
+        isCached: true
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
     publishedDateTime: 2024-01-26T12:57:00Z

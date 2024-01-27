@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AI will turbocharge political disinformation. We must pay closer attention"
-excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."
-publishedDateTime: 2024-01-22T22:44:00Z
-originalUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
-webUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
+title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
+excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
+publishedDateTime: 2024-01-27T02:44:00Z
+originalUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
 type: article
-quality: 37
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Crikey
-  domain: crikey.com.au
+  name: FedScoop
+  domain: fedscoop.com
 
 topics:
-  - AI Ethics
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
-    width: 1480
-    height: 800
+  - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
+    width: 600
+    height: 320
     isCached: true
 
 related:
@@ -53,21 +53,21 @@ related:
         width: 1021
         height: 509
         isCached: true
-  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
-    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
-    publishedDateTime: 2024-01-27T02:44:00Z
-    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+  - title: "AI will turbocharge political disinformation. We must pay closer attention"
+    excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."
+    publishedDateTime: 2024-01-22T22:44:00Z
+    webUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 31
+      name: Crikey
+      domain: crikey.com.au
+    quality: 37
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
-        width: 600
-        height: 320
+      - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
+        width: 1480
+        height: 800
         isCached: true
 
-secured: "zrZKu6OXUmEz96J8Y7wBQdkpRa4RE4kQmTW0rh87O8uwTBXPGf+1o6o8ZysywqLiJM39m+J7Y6laqZPFfK0Jd//DWHlVYj3vF1sxLwVpmapyHezRhy7SOfDJGPuXK+Z38BrkwYvO64WzwlgOEvyPyQXjG3j3kzCDEFxq/peFFuCOaUnN8dKhVTfcRPuoGWeMTD8WtmvW5VeJHRYOFo8dDX1C9TqXIWarby2ldBmUlaJsQ5NGXH1er/WcUMnEkevlpCovKwlnDgcLpjoanQQhOVRY2fOyf1zdrk2pVDlb6AokjLgnBCW2hAC6JHV8j40RDqZui3X0XRfSMuNDBFSAVQlGT9hiFXWghpgo0yjPlWQ=;8hA7g/1YRBkRUcPeQCuLpA=="
+secured: "fWwfZ6bS3kkXFvV5QdctYMCeGcbifSYl9EFOkaW1R7U1Atw2+xMJSpIHDRsQ5FAoN+3vXtNq8qYbePMkLdzdxcejF93hgopdoQcapST+rkrm3n+Ogh2JyhcVri5xy/6uZj/MjM0+NMN2Yw+C3iw/LoodHmCgF1LrbbwHLbCkbn7Rtx1enchxBVMVAV8gAqbtG0ayUKIE9ab7DT0oyc4LvcsSnDxkRjhQ+ndn8HvX9sDVAQpKnTpk9Xwu6R/Azr3WpMb9bWZ54LER4A7dvI9EGEuYUUPcGNrHGI35RvCDw2mqpikf/o9GJMKkR16Lf9g3jsMenj2y7166ISaDk+rw4dFxWpZfg8rskaOnoibTcw0=;CVKv+I5JVjky/lnj58hYVg=="
 ---
 

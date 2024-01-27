@@ -72,6 +72,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Ola Electric CEO's new AI venture valued at $1 billion"
+    excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
+    publishedDateTime: 2024-01-27T04:54:00Z
+    webUrl: "https://www.channelnewsasia.com/business/ola-electric-ceos-new-ai-venture-valued-1-billion-4078051"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--l-FUNIg9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-26t165441z_2_lynxmpek0p0d9_rtroptp_3_mahindra-ola.jpg?itok=pHzIuWjr"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
     excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
     publishedDateTime: 2024-01-22T10:08:00Z
