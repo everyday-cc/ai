@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Is there AI discussion fatigue in healthcare?"
+    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
+    publishedDateTime: 2024-01-22T23:41:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "John Snow Labs Achieves Record Growth with Advanced AI Models in Healthcare"
+    excerpt: "Attributed to its state-of-the-art artificial intelligence (AI ... John Snow Labs will continue to innovate and improve its large language models (LLMs) for healthcare. The shift across John Snow Labs’ product suite has resulted in several notable ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.datanami.com/this-just-in/john-snow-labs-achieves-record-growth-with-advanced-ai-models-in-healthcare/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/John-snow-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "HCA's 6,200-member IT team are 'healthcare professionals first'"
     excerpt: "and now it's part of \"every conversation around key strategies at HCA Healthcare.\" Digital transformation has elevated the IT department to touch every aspect of the health system, and now, with new artificial intelligence and automation capabilities to ..."
     publishedDateTime: 2024-01-26T15:49:00Z
@@ -39,6 +67,29 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI in healthcare presents big opportunities for Brazil – but further public debate and legislation are needed now"
+    excerpt: "The expansion of AI and the arrival of the Open Health concept emphasise the need to revise existing laws. Among other things, to make it easier for doctors to store and access their patients’ health information in integrated digital systems."
+    publishedDateTime: 2024-01-23T17:19:00Z
+    webUrl: "https://theconversation.com/ai-in-healthcare-presents-big-opportunities-for-brazil-but-further-public-debate-and-legislation-are-needed-now-221480"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 33
+    images:
+      - url: "https://images.theconversation.com/files/570187/original/file-20240118-23-pld9ct.jpeg?ixlib=rb-1.1.0&rect=49%2C704%2C5398%2C2695&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Artificial intelligence technologies expanding possibilities in health care"
+    excerpt: "Never miss an episode of Getting Health Care Right. Subscribe today on Apple Podcasts or Spotify. Pulmonary embolism kills more patients than HIV, breast cancer and motor vehicle accidents combined, according TriHealth’s Dr. Chris Hayner, a specialist in ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2024/01/26/ai-tech-expanding-possibilities-in-health-care.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "+HBrPRQiCGVGhnphLVFE4MRH0nqg6J1fNRUT0jRMx7K1z5bztROL0/aXTwkiMKrilWU0AFt4Za03wjoNX+5UKXIk8zRS4XC+0st/ag8vTRLqI8CnbLarMQ3KmpOdIgaIY9TatrURpi9I/JHQrSLm/19kruC5fNLkomtsSmz9BwFzy0b7LZZZ2hwIydwtnv0O6lpQ3Bx3Og0kMGFyXVWFc+avtPF2TXVkmxNgR6KQ0txZGzA/VfqLKVO0G1TfKtlJAEXbUk0ezZbYttYTOVWRA5EVz3JIdLa6cfNR2STX4k8YjtLkXVrPO+6dEZJaxfAP5/eYXaCLPRidx2SMPPHHTlW59xuB9iYzuDybH+oA2PY=;VqGKQfaUFFGDx9/s4x/I0Q=="
 ---

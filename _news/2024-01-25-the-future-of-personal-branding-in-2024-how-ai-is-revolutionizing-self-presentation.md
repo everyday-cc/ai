@@ -77,6 +77,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 41
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
     excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
     publishedDateTime: 2024-01-25T17:07:00Z
@@ -90,20 +104,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/ai_hominoid_robot_touching_virtual_hologram_screen_showing_concept_big_data_1_8e39d0c3b4-scaled-1.jpg"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
   - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
     excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
@@ -132,6 +132,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "x7zu1sKjV1mEsBm/MFolXJLt4lmOAVHI9+8GKC5/n8iyMCPksPLyAQbl+2r2Lt5ia8VwjbFn8PvViaRRGDmDxEU5096vIwiCJtI9+40nAG7Kf3H8EUKJIK5RDAN8byl5TCAP1f61JADOu7RZLZvZz0o7KXYfpT7XI2ZMWHJWybPm6vfwmo6Xka7JYY1aafz35GMg0fpadLGVBDi5MK0SlKGzRGYqpTGm9I0kRkIcPHHNQC9eYV0B3BOksTB1mWd9vdvrYBJscbR9qQZQScxmkjPhJaHox4MoVhzISA5HmeZFJu7VHlwkhINIXBBekZX4Ijn2h4oAMk8X2dYC6H5HC/zLGqpQX9ztESneVqquOiMeOcHqqmIII24eC48RDhb9ZcG28EoAeH0VgzSSAtXOz5z4FJ1F6eQ8nEp8AP23rEV3FAO7/HQraT9puCVx8dpJqADZyfqc2Z7jxB/qgvGCPGaeX60Bxcq+NyMLsPQK3Hl2otGs+K7KlK0wH0W/yyc2ewtA9qrkjgAmIhWbb9r0tg==;nTiUOo7AHT2twbtZlMccGA=="
 ---

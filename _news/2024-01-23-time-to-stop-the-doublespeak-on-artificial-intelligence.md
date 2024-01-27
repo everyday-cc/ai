@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "It’s a Terrible Idea to Use AI to Resurrect the Dead"
-    excerpt: "The documentary “Eternal You” is a cautionary tale about the “digital afterlife.” Want to ask your dead husband where they are? Be prepared for the response to be, “I’m in Hell.”"
-    publishedDateTime: 2024-01-22T02:27:00Z
-    webUrl: "https://www.thedailybeast.com/obsessed/eternal-you-its-a-terrible-idea-to-use-ai-to-resurrect-the-dead"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1705890342/Eternal_You-Still1_zo0amk"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
     excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
     publishedDateTime: 2024-01-25T00:00:00Z

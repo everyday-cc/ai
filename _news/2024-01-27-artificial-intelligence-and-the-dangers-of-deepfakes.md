@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-26T23:43:00Z
 originalUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
 webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
@@ -130,7 +131,21 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "BmaRjttUtZZ5UjmeXsVz+83LJbvgCct7OHcYLPYAiljgJdK78tP9CuyAPPjyxa94Xdg1qUJMkQJXfaELQcdDuPaTpOcnw7YMymyISBNVDnqQrupjeWe4eF/ahwUAmy6RrZwE5FyhreZAcylsSI/xMtuaCaNpbYQz2IXF2W2kef9i53CXHfL6xs7AEO/6XBYq5Oevw4iIzk1MXIK5c/qeMXZno7U/4ccqeX/dZN0R+yligLIUjAs5KiMOZHOYbCa/yFKP2KW0d5u4aWNelKmYT8Vp4ceb72j4CMjwBcDJAOhs37/BhSc17F+hFGbj3OWIPoZuYkUVhlkv1W/lzb6eIaAkLEYi4T/byTckCg0b02I=;h00EdKotBuOq6ux0S+Ld4w=="
+secured: "3264qvF21tUBMD3fzD1OTXuMpBLyZ+2EbIf+SluNP+u2D1nyh6pxHBIdiNiEs4RuX2n60IRj8dF3NIQ54kxUp8zoEozhAhFwCRCG2YhdQ/545HODYjz6Tr3MrBCSyl47ZO5A/WwRHj9SeFF6jO60gYI8M/rB2gEjloUlVDWY+toT+KtWT4d2rU/3FwDBHHVPA7aw0xmWQAkgtd5K9//lLTxq61ffRYnwQc3pMxMAU2ZTbf1lccsN4y5w9D6cqSlDNlNyYy/zt18uSbnJuR9TjhBv6d2TkLs5LPFU6f5haQSSRJz77WGWJ/k4QAcReCsvMxvBFuOf1BIUOq+pHwYRqhpkgTS3ZIugSldY9zZDRskyqTWlOmmK9sROtrs90u95/dSGkXf+aoCucL2wwC/WJAKpLlvTAMESwz68R7HK84DUrpSOIh32fom97MzzxKB6UQFN1DfqBhRLjqZWBsXXEs+/bkH5TOlABFJizEAP1Vz4xCLo7VpvBPfak4DNdcF4dMaE5qaEcO6GxPqcKCSLyg==;4lqGzuzdotyP1xmufoVFGQ=="
 ---
 

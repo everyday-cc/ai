@@ -74,6 +74,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 41
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
     excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
     publishedDateTime: 2024-01-25T13:36:00Z
@@ -97,20 +111,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
     excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
     publishedDateTime: 2024-01-26T00:00:00Z
@@ -129,6 +129,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Cwazzz+7ebNv3PZ43Df2SRotQ4BxvznuGEDM5Unw9DFVVAKsD/g+9PF17KhqnpG8NBO6lrpDk+86y6Ivtnan1gMqGks8ioiOBipD2/X9fvJceHM6vpfljca9mHVwwGNQf5aKBEAi83DZFlFnp3iwIvXPagN/vWY+7t8t3xbz992U+4k4OtNHrua8SmVB7yo/P1Mup7Vxh9ecx1RH/9xn/SedxWj15bP3gfwnS+VhocMrc+6rT5/SjWbQbXzMgBuFFIab5wmBZqa/Q1aioU2CB18Bt+p9zp3r96/HY0IBmx27ucuPRq1X4yk9CRF2fxqDWLiWkpJ6eB3xmtpzrvYRs7Przw+spYNF6ktWhP8wODw6mvruuZAFF//e5faL/tURrx4e1YkiuRDAhrLwkB9XKXkqJRRmBdiq0sbXQL4/oICujItOnjB/bmimKy3OZuGfBtN+b7h8KZllF/MQeBZAnHn1ev9sfP//g3W/dMRxiS86Fckk+G4GFh0c7vuJHEIQCap92L60jcJY9iV/wf+82Q==;CY1xBkY0qxWHXuAoS5IOBw=="
 ---

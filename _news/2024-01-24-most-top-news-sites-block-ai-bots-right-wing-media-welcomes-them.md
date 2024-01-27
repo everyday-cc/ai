@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wi
 webUrl: "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

@@ -25,56 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
-    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
-    publishedDateTime: 2024-01-22T12:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
+  - title: "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers"
+    excerpt: "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 75
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 68
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
-    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
-    publishedDateTime: 2024-01-23T11:08:00Z
-    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
-    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+  - title: "Nvidia: AI Driving The Bull Case Forward (Rating Upgrade)"
+    excerpt: "Nvidia Corporation's Data Center is a force to be reckoned with, boasting strong performance & broad product range. Click here to see why we upgraded NVDA stock."
+    publishedDateTime: 2024-01-22T22:21:00Z
+    webUrl: "https://seekingalpha.com/article/4664267-nvidia-ai-driving-the-bull-case-forward-rating-upgrade"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 64
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media.gettyimages.com/id/1730512586/photo/the-logo-of-nvidia-is-seen-during-the-hon-hai-tech-day-in-taipei-on-october-18-2023.jpg?b=1&s=594x594&w=0&k=20&c=euQbL59kd03W1e09HfVxCMei1WIaMFeJvmoNY7Az7Fc="
+        width: 594
+        height: 355
         isCached: true
-  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
-    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
-    publishedDateTime: 2024-01-23T13:48:00Z
-    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
-  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
-    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
-    publishedDateTime: 2024-01-26T12:57:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "bZfjELJ3mjjIalrBgbcOS4op2U2qQ4ctt4InjGtTeukJg0vLi+Ai9lZ9oqRAr1kgLW0pB5NiExRy/tCmHLHfC5LNggAJfe+WiNwktvYFg/z64ETIZohN5RkJACF2wqKVTLe+S/rboK3g9Snmex7HsGR1Qa2UDiSa6YdSeMMWTDKlQaJEozgXUGur64enHvNPbR67TciUvqbRNCHbnVGSMBxfbSFZSduJJVltzPd+L2V6z960aY8df56+X9mQVeT6eJdxbNIok7gnJl2Tel9lyTxCsRDbrXjX3IEz3LEPQQNJnKJCvpXfsl2A2JyNRmXq7ORUJBR1EE7RSAuXEbpdXRbQk1uK77BzPAp8m/4uUUs=;aSRd+jOsGx+NktzBv7w1Og=="
 ---

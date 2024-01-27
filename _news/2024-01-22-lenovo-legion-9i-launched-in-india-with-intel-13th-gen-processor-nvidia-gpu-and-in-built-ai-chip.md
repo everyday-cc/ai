@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead"
+    excerpt: "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%."
+    publishedDateTime: 2024-01-26T00:28:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 95
+    images:
+      - url: "https://images.mktw.net/im-474373/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Opinion: AI can revolutionize healthcare"
+    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
     excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
     publishedDateTime: 2024-01-23T11:08:00Z
@@ -43,28 +75,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
-    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
-    publishedDateTime: 2024-01-23T13:48:00Z
-    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
+  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
+    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
+    publishedDateTime: 2024-01-22T23:51:00Z
+    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
-  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
-    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
-    publishedDateTime: 2024-01-24T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
+        width: 1500
+        height: 857
         isCached: true
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."

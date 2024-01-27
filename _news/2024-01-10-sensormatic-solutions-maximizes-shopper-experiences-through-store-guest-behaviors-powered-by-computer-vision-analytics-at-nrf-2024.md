@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/DEC-2023-Jmag-350px.jpeg"
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/FEB-2024-Jmag-350px.jpg"
     width: 350
     height: 456
     isCached: true
 
-secured: "vwnJsCSK+nDHWDOWgLD7/9ARbvcFHZiq6CZBZUBSZfu3AS6YMz0H5cdCEQby+TtYk9vQ0ZdCe61Pq8nOErdxsYfY62zXHKpgVghcr9+6AvPhoM59xvqVmmNC3mcNm9O/AC8+YVhH/ZPd9zEDUdwFaAv94HvaZ0lT7Jrlwq+j6bNmArbmMz+DBWR15TXe3IiTCKXjFEa+3hf3MIJr7YcBPUcQiOIMcKtmSHd71FrqMVA4PSuqj7wKyDxA1CNma5vjTJu+NwPipy3a6uOylHKhr0cyjHRBftQjvgsDYCIpB+JflNeV0hNALSZGoyLjOj3+YTP9FZl1U/USaB1s+B/7Rr7Ijq55rbcmF/BPbf/4ap0=;6kUY7YVR0UBPDZphTF96LQ=="
+secured: "rvkXLaU3Pn0/1AuZ+jGMjwSsSoqJK5qLW7eb+lxkpp9t85Smzgoquu/zmBUkSd/WeBB7+HxSHQpuXwAvagv38TfgXz48MuHxfVaa0bSXQvhvSHPLAoKqSJ5RMTHZIaT1HK0AhjtLhfWy7MOnTEjomk6wzhl9VA1uyL8/t+sYm3FBZv9jTyljjkZGB6pbjF3X+prLFMZ+u5A89miwgy8dORo8lx8W13wBr3Hw0zipNHal6QUXTL7SJ3yTrwIWlOT/wIpkQLPslM3QlJswAI985jonLnf4RNtqx1KWLCxc6wb1zxpz4vpzH/N2eZtYi2Qn4I7uoQOazx8S/fBj8RMUrE1C9cdCwDQbThwHBte4N5E=;7MC18rcIq4rfmvOTJmmWgw=="
 ---
 

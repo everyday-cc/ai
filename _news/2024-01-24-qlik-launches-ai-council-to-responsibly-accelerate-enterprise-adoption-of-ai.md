@@ -40,20 +40,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "It’s a Terrible Idea to Use AI to Resurrect the Dead"
-    excerpt: "The documentary “Eternal You” is a cautionary tale about the “digital afterlife.” Want to ask your dead husband where they are? Be prepared for the response to be, “I’m in Hell.”"
-    publishedDateTime: 2024-01-22T02:27:00Z
-    webUrl: "https://www.thedailybeast.com/obsessed/eternal-you-its-a-terrible-idea-to-use-ai-to-resurrect-the-dead"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1705890342/Eternal_You-Still1_zo0amk"
-        width: 1480
-        height: 833
-        isCached: true
   - title: "Time to stop the doublespeak on artificial intelligence"
     excerpt: "We might be in awe of artificial intelligence’s potential or dread the changes it will inevitably bring but, as Taoiseach Leo Varadkar’s courting of Sam Altman at Davos showed, the one thing we cannot do is ignore it."
     publishedDateTime: 2024-01-23T05:00:00Z

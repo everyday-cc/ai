@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "North Korean Hackers Spotted Using Generative AI"
+    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
+    publishedDateTime: 2024-01-26T22:30:00Z
+    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Send app gets personalized artificial intelligence feature"
     excerpt: "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you."
     publishedDateTime: 2024-01-26T12:20:00Z

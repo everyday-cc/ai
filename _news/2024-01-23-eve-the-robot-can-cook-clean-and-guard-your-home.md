@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "12 Best Home Robots You Can Buy Now"
+    excerpt: "As we push into 2024, robots for the home and office are not only becoming more commonplace, they’re also becoming more affordable. From robot lawnmowers, to smart cleaning assistants, to home security systems,"
+    publishedDateTime: 2024-01-26T20:08:00Z
+    webUrl: "https://www.gottabemobile.com/best-home-robots-you-can-buy/"
+    type: article
+    provider:
+      name: Gotta Be Mobile
+      domain: gottabemobile.com
+    quality: 39
+    images:
+      - url: "https://www.gottabemobile.com/wp-content/uploads/2024/01/Robots-You-Can-Buy-Right-Now-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "TNCg6xFPQkqaZxbpu4yFofuNqEFHy5UlDgbsiu4RmCL3II5y/T5SaQCZSpyHUvBomk9f1P14ZIK8Nm0S4m3VX/f5MzxAScTibyc53uy7zXgMW2rP5dfsO4PGZ9RywcXvMuNKS/AewAkZxTqATFTe9zVQw7o/e6qLS+VU1cURF4H4vhpF2M97BpLEMPV7qHeG5GYgohyxyVmuaoGdoXwBxQ2eNfIyc0W3qe0pDHTx+M2FJ1/IVs0ANMsrVvrL9m2RLyENmxWdxTmwN/o7uaeTaezd4ZjtBdcnPaQxh4AApN4uVlVTmPXwiqm6tebZCMtBFf1OAGskMXKjnvpv0I2Zxptry5MjEUcKiUhEbAQhfED9XLgQ4egVpadDcNXEqJNX1EQdSsgrQMAQ2y5UrhJpyHYoOgwOsIX0DaBHVLUZaIbDzMlf3Hmaqg3ycqOB0toMIsysxqTBAcX0k8fbKHlLRB698iQ9l7QAWP/uAovLVY2CcUlhuf5kKl4uxJvYEgTeKWG+l2MvPNzA3BkqCFuPAQ==;MH88B4cMRh6uhVpzdr/SXw=="
 ---

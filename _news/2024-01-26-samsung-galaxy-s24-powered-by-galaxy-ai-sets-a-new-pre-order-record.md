@@ -77,6 +77,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
+    excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
+    publishedDateTime: 2024-01-27T02:31:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107177596,imgsize-6576,width-1200,height=765,overlay-ettelecom/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
     excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
     publishedDateTime: 2024-01-22T08:56:00Z

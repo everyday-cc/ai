@@ -9,8 +9,8 @@ ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-c
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
 type: article
 quality: 74
-heat: 184
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Times
@@ -27,147 +27,77 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: The big AI party is not cancelled, just postponed"
-    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
-    publishedDateTime: 2024-01-22T11:03:00Z
-    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+  - title: "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead"
+    excerpt: "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%."
+    publishedDateTime: 2024-01-26T00:28:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 95
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
-        width: 3501
-        height: 2469
+      - url: "https://images.mktw.net/im-474373/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
+    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
+    publishedDateTime: 2024-01-22T12:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 75
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
+      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
+  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
+    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
+    publishedDateTime: 2024-01-23T11:08:00Z
+    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
+    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Firstpost
+      domain: firstpost.com
+    quality: 64
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
+  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
+    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
+    publishedDateTime: 2024-01-22T23:51:00Z
+    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
-    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
-    publishedDateTime: 2024-01-22T17:39:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 43
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
+  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
+    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
+    publishedDateTime: 2024-01-26T12:57:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
     type: article
     provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
-    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
-    publishedDateTime: 2024-01-25T11:31:00Z
-    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
-    excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/column/opinion-artificial-intelligence-could-spawn-astounding-human-advances-or-catastrophe/article_ab96cc22-ba24-11ee-88ab-179f1cb1754b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 29
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/1b/71b8e39c-baf0-11ee-99a5-e7fcebac959c/65a41326d97bf.image.jpg?crop=928%2C487%2C0%2C130&resize=928%2C487&order=crop%2Cresize"
-        width: 928
-        height: 487
-        isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Opinion: Harvard president failed to defend free speech"
-    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
-    publishedDateTime: 2024-01-22T11:35:00Z
-    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 17
 
 secured: "lZtqGL0dXDsxrwc5t+R2ehNwFEfTsrc0E4Bo3buxmtN9+tCPrX93OI/9zQItYTCMMlRmzp2XfMT8REUeJSJOP9NvLfHDxBcOa/R2dcO+mSQM9N7jQiM7QTXKZvZ7YRMPFDOopteVZdrFYljeWTD1jDcaea4fSqbQfLvlQFSTvKQ3fg+avCXyCBI5kBo8ZQxeG7AS1cy0nHMCoDJYO3Y8yFAnssSqs5/oVfgpWytlZPEslWGQvq3+y4Zk973pcPTwTZ1wGlo3fxPmmyu6VYO2mZYylfp97489dKDVA0Ga4rn8zHw7rrGPs0wn+YfgKoMCcBYlsPtuPc//TKXm6rIA0fftljLCesSgBr+2nwfP+zI=;/RQoP2Ae50Px6MZTNzxRkg=="
 ---

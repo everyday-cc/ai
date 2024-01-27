@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-canc
 webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechSpot
@@ -29,103 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI can revolutionize healthcare"
-    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
-        isCached: true
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
-    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
-    publishedDateTime: 2024-01-22T17:39:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 43
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
-  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
-    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
-    publishedDateTime: 2024-01-25T11:31:00Z
-    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
-    images:
-      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
     excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
     publishedDateTime: 2024-01-24T11:00:00Z
@@ -140,38 +43,6 @@ related:
         width: 928
         height: 487
         isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Opinion: Harvard president failed to defend free speech"
-    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
-    publishedDateTime: 2024-01-22T11:35:00Z
-    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "dZi47f0P8cqS2qyzGNYF2lCMHzWA9XTHEp0gOS73poKDfDIA1rfQhMN6oWu5RiRsR9x+04l+NHryjdO/CvztbIU1K8WvexDbbDgQhF65PHWxu7SaYaoHTZMuj1mfmBMh55vNE/MUzcx7VHyYbbO6mSfEHOboDqfAxVY/n7YadbJ8ycaECSX+hlaBjnGOEUXvLUA4Qv7P5Ids0M0AJv0+VyfzJZNl8XibLGEw7dznS/bmDL/BrTGzSfZQHgRcmyAnEhTIcEf/A00/i9xbMmshuonSZxlQwqxBIoPnmMJ5MtsCuj8hmsn6YncftrnKppY5jggjJefSNJVGomvJmKGtm+BHN3lyJ/rbcyc5/TEcXL4=;jF5GxzqJMPFZ7+8HpEWMIg=="
 ---

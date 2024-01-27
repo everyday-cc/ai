@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -25,149 +25,71 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI can revolutionize healthcare"
-    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
+  - title: "John Snow Labs Achieves Record Growth with Advanced AI Models in Healthcare"
+    excerpt: "Attributed to its state-of-the-art artificial intelligence (AI ... John Snow Labs will continue to innovate and improve its large language models (LLMs) for healthcare. The shift across John Snow Labs’ product suite has resulted in several notable ..."
     publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
+    webUrl: "https://www.datanami.com/this-just-in/john-snow-labs-achieves-record-growth-with-advanced-ai-models-in-healthcare/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
-        width: 800
-        height: 400
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/John-snow-300x300.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Opinion: The big AI party is not cancelled, just postponed"
-    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
-    publishedDateTime: 2024-01-22T11:03:00Z
-    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+  - title: "HCA's 6,200-member IT team are 'healthcare professionals first'"
+    excerpt: "and now it's part of \"every conversation around key strategies at HCA Healthcare.\" Digital transformation has elevated the IT department to touch every aspect of the health system, and now, with new artificial intelligence and automation capabilities to ..."
+    publishedDateTime: 2024-01-26T15:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/hcas-6-200-member-it-team-are-healthcare-professionals-first.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
-        width: 3501
-        height: 2469
-        isCached: true
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
-        isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
-    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
-    publishedDateTime: 2024-01-22T17:39:00Z
-    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 43
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 39
     images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
-        height: 418
+        height: 600
         isCached: true
-  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
-    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
-    publishedDateTime: 2024-01-25T11:31:00Z
-    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
+  - title: "'We have the technology to transform healthcare': Bold ideas from big systems"
+    excerpt: "Now, the largest health systems in the nation are focused on finding ways to optimize technology and leverage data to support the workforce, boost capacity and provide better clinical care."
+    publishedDateTime: 2024-01-25T16:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/we-have-the-technology-to-transform-healthcare-bold-ideas-from-big-systems.html"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 39
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 36
     images:
-      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
-        width: 1200
-        height: 738
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Opinion: Artificial intelligence could spawn astounding human advances — or catastrophe"
-    excerpt: "I’ll never forget witnessing it in action for the first time. Where I was, what I was doing, who was around me."
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.stltoday.com/opinion/column/opinion-artificial-intelligence-could-spawn-astounding-human-advances-or-catastrophe/article_ab96cc22-ba24-11ee-88ab-179f1cb1754b.html"
+  - title: "AI in healthcare presents big opportunities for Brazil – but further public debate and legislation are needed now"
+    excerpt: "The expansion of AI and the arrival of the Open Health concept emphasise the need to revise existing laws. Among other things, to make it easier for doctors to store and access their patients’ health information in integrated digital systems."
+    publishedDateTime: 2024-01-23T17:19:00Z
+    webUrl: "https://theconversation.com/ai-in-healthcare-presents-big-opportunities-for-brazil-but-further-public-debate-and-legislation-are-needed-now-221480"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 29
+      name: The Conversation
+      domain: theconversation.com
+    quality: 33
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/1b/71b8e39c-baf0-11ee-99a5-e7fcebac959c/65a41326d97bf.image.jpg?crop=928%2C487%2C0%2C130&resize=928%2C487&order=crop%2Cresize"
-        width: 928
-        height: 487
+      - url: "https://images.theconversation.com/files/570187/original/file-20240118-23-pld9ct.jpeg?ixlib=rb-1.1.0&rect=49%2C704%2C5398%2C2695&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
+  - title: "Artificial intelligence technologies expanding possibilities in health care"
+    excerpt: "Never miss an episode of Getting Health Care Right. Subscribe today on Apple Podcasts or Spotify. Pulmonary embolism kills more patients than HIV, breast cancer and motor vehicle accidents combined, according TriHealth’s Dr. Chris Hayner, a specialist in ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2024/01/26/ai-tech-expanding-possibilities-in-health-care.html"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Opinion: Harvard president failed to defend free speech"
-    excerpt: "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”"
-    publishedDateTime: 2024-01-22T11:35:00Z
-    webUrl: "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 19
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "TmANF7Jj06ypOh0prmo6aurdvkqoNFKridxzQovutz9T1Hadr0MeroHsnEpe4LWD+uHnZE3cBW7pZfsQA94B5n+COfnk1X4fgLEctVEBHq+LKaPLHMr2g9KsEv1ikiboTQNQHTBGR18q59OAeI6iXcXkhLkTJKUSYpzI89WQR5Y7GOCH9lNcNRhml01ZRJNKmiUeEwB2baNSQwM/1eKRA2+j1KAoPdaO8SGEQc5RtXSZi11s7r2ggUZerqE4kj+ylY49d01q2hD44lpulZaE+lVegD1AL0qPd0iGA7Q8OFSmcVAaQElU/0oyZ8DrDueHF8trnUqnBcEO+4b4XUMsfYM6kRCSc3hRGBAPZMiN4yI=;QnJloZpVS6tyE+ZPnG+JFw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
+    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
+    publishedDateTime: 2024-01-24T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "yYKQg7i6KSJwzsoXaekH3zUCHtsExvjeCZQrYCsu8GcpjZ7/DbxAPJLFjTHuJheQiIYynEVhXZ+ybOHSMcz+0PrDBh9biYxS8GPh0afJdWM4FAoHUq302kEGcrh2Z+K46OXgsfbcxiy1SZxwzbrsymRe1yMV2guvWNTmDzNXiaWx82e74Zt1Ggz53+OiFT0u+f8fme7TDqjlr9IQau8Ci/5JADZG7RRFNDVisjX9fmtZ8PE7JoUpxv42KQFKYIysXgp2GLN5aILSWnFSLxeOugG1mglb+9CZudt30yMm2OLS9As4rxH0ADTomvwo92Ci5w7io9wYAdo2kjCfRjTBZu2ORsUuo38X15ExdaBKvPdgRX/ttRvrBtDpk1bDPc8UJuc9wQKlnXS8yvDR2H4QHo0KAdTUwmWPpbVDgG0gQgGsKVRebuHhjywkKRQJgacau27hp0ZWQJtkOjDh3RWXBj8rDqM2p498QW8cxMuTxPsl09qjvRpFqV4DVuHcdWVnnC87BLjsBGVZftMSII6anQ==;PF7Ngzgt8Va4D+b1+ulzwA=="
 ---

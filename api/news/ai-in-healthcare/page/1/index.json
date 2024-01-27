@@ -204,21 +204,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-opinion-ai-can-revolutionize-healthcare.md",
-      "title": "Opinion: AI can revolutionize healthcare",
-      "excerpt": "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ...",
+      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
+      "title": "Is there AI discussion fatigue in healthcare?",
+      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
       "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/",
-      "originalUrl": "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/",
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1",
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
           "width": 800,
-          "height": 400,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -226,13 +226,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/",
-      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:41:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null

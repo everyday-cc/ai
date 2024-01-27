@@ -75,6 +75,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 41
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
     excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
     publishedDateTime: 2024-01-25T13:36:00Z
@@ -98,20 +112,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
     excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
     publishedDateTime: 2024-01-26T17:05:00Z
@@ -130,6 +130,20 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "sNJqS0AgCaKsJOY2B2lYcxrRmyDQnkyDVwjRHSIJ2hP54DgV/PSd0I91LcWnw3EpAKG5Ax6SXzX0Y92ZpDQcHPVx8Z02D2g/15w5lYNdqeCnWxBqKuAXOeE/E9R77KkmKEFcvals61+iOY5M8DuejtJrLG1bt01Bbi4oaBugtRWC91py5DbNGydLRJcL/KVIRtyZf1suhk6bHkbxJlaI1IIjTKPafTIIAlxAnNzTAw7Xz1fAslhhgb6qPuFf0pSKaPARfarJRO5DocMUc5rN2AnzJI17p9VwmXUqP+CD+HNCh1DBk0LLnH+OFy7QQTMj+j7C0on1NmdpFM+6DFb/WXxraL0gTJZUb0KWfo65Ds8=;z8FgY29mEvz6mC8NHc2PlA=="
 ---

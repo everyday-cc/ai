@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards.md",
+      "title": "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards",
+      "excerpt": "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "originalUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2024/01/AI-Stories-with-watsonx-on-GRAMMYs-social-media-channels.jpg",
+          "width": 640,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-us-regulator-probes-ai-investments-by-tech-giants.md",
       "title": "US regulator probes AI investments by tech giants",
       "excerpt": "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ...",
@@ -365,7 +408,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -717,7 +760,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1117,7 +1160,7 @@
       "originalUrl": "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1209,40 +1252,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-facial-recognition-software-concerns.md",
-      "title": "AI facial recognition software concerns",
-      "excerpt": "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/video/1399941",
-      "originalUrl": "https://www.fox26houston.com/video/1399941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/video/1399941.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp",
-      "publishedDateTime": "2024-01-24T00:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

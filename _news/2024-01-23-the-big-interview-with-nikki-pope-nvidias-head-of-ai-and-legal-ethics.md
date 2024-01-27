@@ -19,61 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
-    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
-    publishedDateTime: 2024-01-22T12:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
+  - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"
+    excerpt: "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more"
+    publishedDateTime: 2024-01-24T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
-    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
-    publishedDateTime: 2024-01-23T11:08:00Z
-    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
-    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
+  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
+    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
+    publishedDateTime: 2024-01-23T10:20:00Z
+    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 64
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
-    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
-    publishedDateTime: 2024-01-24T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
+  - title: "AI Stocks Alert: Palantir, Nvidia, and More Team Up for AI Research Program"
+    excerpt: "Earlier Wednesday morning, the National Science Foundation (NSF) announced that it will team up with some of the top-flight names in technology to launch the National Artificial Intelligence Research Resource (NAIRR) pilot program. Naturally, this ..."
+    publishedDateTime: 2024-01-24T13:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-alert-palantir-nvidia-and-more-team-up-for-ai-research-program-1032993879"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
-    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
-    publishedDateTime: 2024-01-26T12:57:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "NSF launches AI research hub"
+    excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
+    publishedDateTime: 2024-01-24T16:01:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/01/24/nsf-launches-ai-research-hub"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "szJ+RxlopK8rIwqRbkADuk0ecRY7/D5MUSG0fMrhU/7p8lvl544Tc3ev0qnVaTcMibtYbx4aen6GMsOctV13WwD0fH19Hqr3Ryy11OgAfed9vKjPrC4YpuTZANiXNKMyNLBmXUkt1aDgzrq2WrQCvQ/lOWrSAydP7IRLGTt/kNTWBpvtg7NlK3BxSPTa0XLmdnw4zg/VLdgfJY6zryecFJVXVKazgiDLAxks+xBJovAiJf8tqM0zqqNSXRT+kEE6Yff8Ww8b8Kkwmgg3cvq6t+kUvQD+B+SeeUf/Y1/ZhWsGR9iLhBHlj/6ELBKc3iNmWTNRFE2ZgYnT6GJfBLGlbe2c3FjWeE9RbJi9NjcqQjTd30srRQJ80Rpk4KUKj2AbNKm+TJiuDxux4a/d9xoyy56G7C4AvhRpfBP1REB1YnTCP9eFXJfewvtlG8Kn01Ugam4mBEPPs6y7HCvoV6RGmPue2mjGbCDCoB0VAs/yFMEhFCpKe7zTPs3UYQeGJ0YWtNXB/HaY9CNDIkpCtqkJYw==;n1lK9OHgC13PhzYGOgg6Dg=="
 ---
