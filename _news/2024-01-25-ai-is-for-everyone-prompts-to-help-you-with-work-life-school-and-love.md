@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-scho
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
 type: article
 quality: 88
-heat: 90
+heat: 88
 published: true
 
 provider:

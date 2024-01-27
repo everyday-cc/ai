@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-con
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Amid-mass-layoffs-Google-DeepMinds-AI-scientists-may-leave-and-start-their-on-startup.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "DeepMind Co-Founder: AI Is Fundamentally a “Labor Replacing Tool”"
-    excerpt: "Welcome to AI This Week, Gizmodo’s weekly deep dive on what’s been happening in artificial intelligence. For months, I’ve been harping on a particular point, which is that artificial intelligence tools—as they’re currently being deployed—are ..."
-    publishedDateTime: 2024-01-21T23:30:00Z
-    webUrl: "https://gizmodo.com.au/2024/01/deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2024/01/7f9f5c4175d40dbf8befd5716ec87baf.jpg?quality=75"
-        width: 7018
-        height: 3939
         isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"

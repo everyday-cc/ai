@@ -84,22 +84,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways: study"
-    excerpt: "director of the FutureTech Research Project at the MIT Computer Science and Artificial Intelligence Lab. “We show that there will be more automation in retail and health-care, and less in areas like construction, mining or real estate,” he said via email."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://nationalpost.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study"
-    ampWebUrl: "https://nationalpost.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/4d68655c-4a36-46f0-a9b9-71516f8c2a18/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/4d68655c-4a36-46f0-a9b9-71516f8c2a18/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 45
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2024/01/ai-branding-.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "MIT Study Reveals Limited AI Job Replacement Viability, Urges Caution"
     excerpt: "A recent Massachusetts Institute of Technology (MIT) study challenges the prevailing notion that artificial intelligence (AI) is poised to replace a significant portion of jobs cost-effectively. The MIT study,"
     publishedDateTime: 2024-01-23T10:21:00Z

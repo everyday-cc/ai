@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "10 Google Bard Hacks That Will Make You a Pro"
-    excerpt: "Don’t underestimate the power of a well-crafted prompt. Google Bard thrives on specific instructions. Instead of asking broad questions, give it context, keywords, and desired tone. Want a poem about a robot falling in love? Describe the robot ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/10-google-bard-hacks-that-will-make-you-a-pro/"
+  - title: "Google’s goals for 2024 include improving Bard, helpful Pixel products, and cost savings"
+    excerpt: "Google's top goal for the year is to update Google Bard to become the world's most advanced and safe AI service. Google also plans to enhance efficiency and productivity and deliver cost savings, possibly through AI integration and job cuts."
+    publishedDateTime: 2024-01-22T17:52:00Z
+    webUrl: "https://www.androidpolice.com/googles-goals-for-2024/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
+      name: Android Police
+      domain: androidpolice.com
+    quality: 15
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-Hacks.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-2024-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "pX74CdPf+dLQ8MG9nCUqc501deAnJHkDKha14VJPVX4epnX9ji/AA0F/wJSXBrCZKxPhzK28EqtdY4SNruPl8ckRJWytz4RUqZnsCrEtc7kcpoc08q/jvTWYe+r1MmgYuscx+l/LsDkKWUTe2PYhTE+nfNc+6lKx5KB8HSxWceO+fkdfnNC47htXuDRSQcSZVUXaZ6sjCwEtevWCpdmDnnOunCkSfbULikwnpfdCu5b4gOw4h1NvwsY/GtW2IOUNZB7lHMqFMlVB6AW8qApFX3xCp+/jiqdExLDEVOTQxBCL9jGYDAxgJb+HSvdZa4K7nNmX6w+Y+x07QwHjs/YYnwI09qwyepK+6/eHL0tekaOE0SoR4b6uIrk5l9Ul8bstRuiz7vhkmdGzbU9jilyJlnjQ/RniCyp39HRXbQzz9Y1R6h+OKt0mXjGrrPBPxjwqx5ZxJEz8zJxZUrzCQ6s/i+te2gmT9QN8NxjEj+EJg5D2eJw5VXdFNzN4sTS5JFJ7u0jSBh9xUBwC8PBgOUsx5A==;uL2mFX9N7BtbkACIQcxX5w=="

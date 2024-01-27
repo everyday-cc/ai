@@ -72,20 +72,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Sam Altman developing new AI “Brain Chips” or Neuromorphic chips"
-    excerpt: "Sam Altman, a leading figure in the tech industry and head of OpenAI, is spearheading an ambitious project to raise funds for the development and worldwide production of advanced AI chips. These chips are designed to operate similarly to the human brain ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-brain-or-neuromorphic-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGbvoXJqC7gY%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "OpenAI CEO Altman consulting with Congress on adding chip factories to meet AI demand"
     excerpt: "OpenAI CEO Sam Altman has been in discussions with members of Congress about building new semiconductor factories in the United States to keep up with the growing demand for AI programs."
     publishedDateTime: 2024-01-25T17:04:00Z
@@ -99,20 +85,6 @@ related:
       - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "OpenAI's Sam Altman in discussions with investors and chip manufacturers for AI chip venture"
-    excerpt: "OpenAI CEO Sam Altman has been engaged in discussions with Middle Eastern investors and Taiwanese semiconductor manufacturers in an effort to raise billions of dollars for an AI chip venture that would include the development of a global network of ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openais-sam-altman-in-discussions-with-investors-and-chip-manufacturers-for-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Sam_Altman_CropEdit_James_Tamim.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "1siGvZKu1G69J2rDvlUQJVUTdT4DKP0UiKdryQHFBcs7g4u0e20p2jMr2663NdNXJKhtFKcg28oCyxveB2KAeTak2Mk/4Qn/maSBb8TXyKD5oOOpmwPz0zfib+3yibdF+42eO20WQj2dAxRf2NBEut+qJT7lz6ygwl9kfLmCjGNHR338RCuzdwUKraNkICcAaWyPeavOMvmA/IzlNEKndYt/ALWjSdMk3Nj4Taorsk5XFB8A/o8Bm7vIzzcvdKc11xNBEGXCz+Fk7A7rDaFJUoUzRLnIWjNkHR5Beik+pDGalxVnOEagF3chdAtICJh6zKOIxx6dX1D6bFQet/CNWuPgpm6gmCKgv7ZN6JDPctHuE+8y8/7bG2NZJjz6D6Ag9moAeQnhAObhHaUNHqdkxuS0jQ4+A6CXzC3qWKEqCJv8nfRNJE9VGtYSA54PWLDBNVSdiN/TrsRJDkeqvn+i8VG0mRyqsEYF5+tJ+6YTL6sc87DUOKuN+U4Hh+4bA0SLF9PJaaIjoq4dbvaw+7EH7w==;+48j9hvYXCFqMddyUJVv3g=="

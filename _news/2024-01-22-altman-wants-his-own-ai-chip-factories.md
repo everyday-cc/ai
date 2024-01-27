@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Sam Altman developing new AI “Brain Chips” or Neuromorphic chips"
-    excerpt: "Sam Altman, a leading figure in the tech industry and head of OpenAI, is spearheading an ambitious project to raise funds for the development and worldwide production of advanced AI chips. These chips are designed to operate similarly to the human brain ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-brain-or-neuromorphic-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 54
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGbvoXJqC7gY%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
     excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
     publishedDateTime: 2024-01-22T10:46:00Z
@@ -98,20 +84,6 @@ related:
       - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "OpenAI's Sam Altman in discussions with investors and chip manufacturers for AI chip venture"
-    excerpt: "OpenAI CEO Sam Altman has been engaged in discussions with Middle Eastern investors and Taiwanese semiconductor manufacturers in an effort to raise billions of dollars for an AI chip venture that would include the development of a global network of ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openais-sam-altman-in-discussions-with-investors-and-chip-manufacturers-for-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 43
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Sam_Altman_CropEdit_James_Tamim.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "bb3ZGrtsE2pbcnmNNgl8Vd/PKadHhBKY4EDiCRAw3lOBmkPQsG1HuZrvm2bqsPnfitIVUln6mx72UPp0TIucuqS0B79O7b2IdSCw1QQBoxRC8/pLEl7nGL9S2TATuRjTqwJTBkzZFh6XyqjhcL1jVJg0sobr3xykBWacEtiJkNVpGigCpgH76UXeuTWxkLsdrBknWDQ4bnzcR87oJEe/p45VnyvtBlyPDkRwOIz5caWf1S01FqIm9TFIgGgJiLqjAz/dD45E4ycZ+Y6o3T5h00WTJn4LnsxcNTUF8JiDYqd3noRSRli/m4QfIIzMibVGQPTo7BhAPz6vF1WnA/zeffNM9Kyked3IDG2E2ag3w9I=;+OaiHdiFIlVnm6bfT6Aoyw=="

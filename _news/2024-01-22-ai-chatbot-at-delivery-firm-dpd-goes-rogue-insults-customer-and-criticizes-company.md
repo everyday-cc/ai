@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/36713566"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36713566"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Why did this company AI chatbot start swearing and criticizing the company?"
-    excerpt: "Shipping company DPD has a chatbot on its website that uses artificial intelligence to help answer basic customer queries. However, a recent update to the system caused the chatbot to become rather unruly and not at all helpful. Ashley Beauchamp turned to ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/why-did-this-company-ai-chatbot-start-swearing-and-criticizing-the-company"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 35
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/aed2476/2147483647/strip/true/crop/940x457+0+87/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F39%2F30%2F39f6bdf361c3c6d991ccb20a8241%2Fchatbots.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "kGiXxgWVma6DQdpgik0xJRGhuU6Kbd8x5P/AkATFOtzuupC3ArnDtHpJxm6io3R0Hzpaabrvaavv59ph+9xoGPNDzFBD0y4WtcKM9Z2wsqzKcXLQ969YPkqOE93TzIcty7g49HUDT5SeU2LNeXxz+vzoJJS5ePOYcPpJFgBbBF/RjriuyCLL5mQraIC9DshHFcxw2x1OtmIcJOQO8yUgTqvKBNfJzZJC96dl+X3RCZm1+3tc4wpjhOhxiWAaoen2OD+/koIxV2B1dmWI87q3FmFozMoknGDOJxQBO8dI/Hhi4m8xRe+aqbCYsB7Ugwrrj8zfYZrbGpj0ZcG8s/duyt3arMYbaiITGOZkGIqBDcM=;crbxXypLDBgoxEZl0u6uwA=="
 ---

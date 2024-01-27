@@ -46,15 +46,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Will AI take our jobs? Maybe not just yet."
-    excerpt: "“There’s definitely going to be an initial push,” said Neil Thompson, director of the FutureTech research project at MIT’s Computer Science and Artificial Intelligence Laboratory. “But then we should expect a more measured rollout of it."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/22/business/ai-jobs-mit/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 19
 
 secured: "zFoMH8zvkXl3D+Flt3EjhKiUaP5oYdAkKuuz9rdFfU3OnJmJ7L+5KNrkJUnDZlPkJsK7XnV6E3MlnLf93PGcWTqMBCbSR8ePUZflKiPUm51VQoS/1hxJZ2jug3q5VUrxHax5hpFzGlPQhF6y0dE8AHGlgWF2SQ2LmjrFc7aGMUmPZru5Kd0wLEyLHfOMFrz0ntxhy2mjmj3PAN8fsyEqJCTjs1id0TC5ykaLLMBQk+gdwXl8XlYzlVCCWQ0Vy01j5zgrWSA0JUOexllT+e9meqAh+ieg3YU5RRNSe4FW5nmjR2USWbQUMWTF/FLcVRmP7jl7K+353eb5JpYOwHmsW8AKCM/21OVMegxPknadWEI=;kyfrgM2smpksboJYVtdCaw=="
 ---

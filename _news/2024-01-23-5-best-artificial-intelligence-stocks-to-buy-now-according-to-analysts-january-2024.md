@@ -45,20 +45,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Guide to Selecting the Best Artificial Intelligence Stocks"
-    excerpt: "She is the CEO of Xaris Financial Enterprises and a course facilitator for Cornell University. Investing in artificial intelligence (AI) stocks is a prevailing topic in the financial media as investors seek to capitalize on one of the most transformative ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.investopedia.com/artificial-intelligence-stocks-8404873"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 43
-    images:
-      - url: "https://www.investopedia.com/thmb/LinjIvuSrJSmljARh_ES19dm-VY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1337928487-8028b164d3b94cc5b4a39c15777ffc92.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "The tantalising promise of AI for the emerging world"
     excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
     publishedDateTime: 2024-01-25T11:50:00Z

@@ -38,22 +38,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising"
-    excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring. ElevenLabs ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising"
-    ampWebUrl: "https://tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2454059/voice-ai-startup-elevenlabs-gains-unicorn-status-after-latest-fundraising?amp=1"
-    type: article
-    provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 56
-    images:
-      - url: "https://i.tribune.com.pk/media/images/IMG_70661705925056-0/IMG_70661705925056-0.png"
-        width: 492
-        height: 474
-        isCached: true
   - title: "Ola Electric CEO's new AI venture valued at $1 billion"
     excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
     publishedDateTime: 2024-01-26T10:40:00Z

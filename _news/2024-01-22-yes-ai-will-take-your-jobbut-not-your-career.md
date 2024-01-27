@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-wil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 852
         height: 568
         isCached: true
-  - title: "Will AI take our jobs? Maybe not just yet."
-    excerpt: "“There’s definitely going to be an initial push,” said Neil Thompson, director of the FutureTech research project at MIT’s Computer Science and Artificial Intelligence Laboratory. “But then we should expect a more measured rollout of it."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/22/business/ai-jobs-mit/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 19
 
 secured: "EQKX373+glGUofT2Eiq9X7w3CFv9L7qvshZo49pmve4mzyvAL/+de7ygu1EuZtnvGxgRFpp79ESsoyXthORjAzeddxGaiwmuBzpc5oAzbdvzeK5AFWfqXkz5J5BJoH2CbbJWzBOkADAnWvmpnto2t5HDThhxVHKmnZp4XC80yOyDxciSmGOEaqR466BfhjpamaDtrKdKws+VbXJO0v8bDAanzF7azhmQpBtfPMGwChFoYMbxwSxZ0LViqB+jRSpNIpNFLF/K3yQi5e1N2hxlj5cbdYSPRoSufEkYSKFWRR+TSUV0AC/TPOYoqed2qBce3zlyJGql+8FbVACeSdQOg5XrYZFec/jYzYU+9hcOvZwrvWlXONq1jIOTa93Q27NRhwmH8RENdjhRgHcrXVQ/zniCZXkSqhuiXtWE7cveTomdEmBJNKcdkCBXSgIXo/qFwU1vY6YDEqetfGWAVI+pDx5h5RY16fSjb0/sYnoAl1BX3pufxSJPe5xXHFQAhImpBSJ7HHNeAY2LpI0PEDy2sw==;lX6sSlAIJFjGTJswHHp77w=="
 ---

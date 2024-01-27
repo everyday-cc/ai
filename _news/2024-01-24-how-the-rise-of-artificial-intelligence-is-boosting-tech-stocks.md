@@ -42,36 +42,6 @@ related:
         width: 1040
         height: 700
         isCached: true
-  - title: "This video of a robot making coffee could signal a huge step in the future of AI robotics. Why?"
-    excerpt: "\"Before about 2016, object recognition like distinguishing between cats and dogs in photos would get success rates of around 50%,\" Walsh told Live Science. \"Once neural networks were refined and working, results jumped to 80 to 90% almost overnight ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.livescience.com/technology/robotics/video-of-figure-01-robot-making-coffee-could-signal-a-huge-step-in-the-future-of-ai-robotics"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jZQEfPS4f6LPHW7WsuCyrH-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "We Should Stop Comparing Animal and Artificial Intelligence"
-    excerpt: "We don’t really know what it means to be a conscious non-human because we simply cannot imagine the way non-humans experience the world. Does a rat know it’s a rat? In animals, the question of consciousness is something scientists and philosophers have been struggling with for centuries."
-    publishedDateTime: 2024-01-21T23:47:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/anima/202401/we-should-stop-comparing-animal-and-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/alexandre-debieve-o9TJMZ1BKCw-unsplash.jpg?itok=57LQCbuv"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "This Stock Is Leading the AI Chip Rally"
     excerpt: "Detailed price information for Adv Micro Devices (AMD-Q) from The Globe and Mail including charting and trades."
     publishedDateTime: 2024-01-22T20:56:00Z
@@ -118,19 +88,19 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Mastering the machines: Giving M’sians a helping hand towards an AI future"
-    excerpt: "“Full AI literacy demands ongoing learning, practical experience, ethics, diverse subfield understanding, and active community engagement,” he says. This is pertinent to the goal of positioning Malaysia as a global and regional hub for AI, which ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/22/mastering-the-machines-giving-msians-a-helping-hand-towards-an-ai-future"
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
+      name: WSLS 10
+      domain: wsls.com
+    quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/21/2502801.jpg"
-        width: 1240
-        height: 721
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
   - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
     excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."

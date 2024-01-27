@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-call
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1351
     height: 900
     isCached: true
-
-related:
-  - title: "Meta to Build Artificial General Intelligence"
-    excerpt: "Cover Media - Shareable Jan 22, 2024 11 mins ago 0 Artificial general intelligence (AGI) \"is artificial intelligence that meets or surpasses human intelligence in almost all areas.\" Get up-to-the-minute news sent straight to your device."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://omaha.com/life-entertainment/nation-world/technology/meta-to-build-artificial-general-intelligence/video_57e7a46e-0ab5-58da-83ae-33b45824ee4d.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/7e/57e7a46e-0ab5-58da-83ae-33b45824ee4d/65ae9863ba7fd.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CU1861K3kSy5cYiqcTF92A6bOHaIp/DyzjAdUjl39vFV/8tqceTuP2F5GkvaysE0oMJk1PdbiYU/cCdD3VPnML+Ke+AsWjyjfNu00SeUQgON3R49SxYy2qeHmTDJ8S+Wpiar20QJEG/DHnvUcyqdmOHdbPq5NejqXVrpSk5K2U/hhv1KgNt0ARi8Ctsa2yorfZU/Y6l4IavErgdWroGSiEOTo8ZtWRG3mUNxP7hRvfnJhKczIj2rrjYe+NlF8TE0Uk0f3GFdUF4x3lupYTlcqvtY3xU+34Aehs7x94TRbMe5VCDgVWyIw5PvbHd+SXlacLj94gLJYGeftvwAnabRUxVs2Ouwi0uwK0A+WPqcHPKBegt+yfCNs4fod+jyog4u5pcrt3Hy8X9qcJrVza0Jf8IYCGUeA7koH+tqJeoJ9lz/lC9aTS4SrioDFReWlluc8zSkKtdr6vUMRgzJbB0VSNNA681mlkz3aeS2Fd6R4XF5O4nsKtt7thuilskT1+cBHyilmc/EielZaBv6eS/Lhg==;A2bNZsp00kzMb3p3eO3PqQ=="
 ---

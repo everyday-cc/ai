@@ -24,22 +24,6 @@ images:
     height: 798
     isCached: true
 
-related:
-  - title: "AI could be coming for CEOs"
-    excerpt: "So, when one of DeepMind's bigwigs makes a bold claim about the future of AI, it's worth paying attention, especially if you're a startup entrepreneur. AI might be after your job. Mustafa Suleyman, co-founder of DeepMind and now boss of Inflection AI -- a ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58298-ai-could-be-coming-for-ceos"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/d5aeb815f3b5cf60023cc3b3071be53c_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-
 secured: "05UDOPAXY9Q53+q73aStDGngdRa/YyoeR5FurBGn0VgTvkANfkaoDg0zBH5JmJtJgTsCpNKgDC2nqvfAD44mHjhSvEt0JX3wtkKFTsssRvh1obKeUldXIhN58wBl5/5NJl6rMCUiIwsFTjAoShDIQETx97yfjWoH/nnzT3SDDDO5/qYjdG1fd6lVTZrX5TlX1w3jtV0G6foBQ2bhl5KwzSExu8ucAGYOQ7F64LxGUNp0YXTNBYO8Ml348BI/lzgLlYiXLOgbuUqY0AmbzaICZduqZakJA32v4rNtjJJDBw4/cEp7fPJakdkUlb9xNg6OcbNoJbTi2n87apZqKfVpLlfm/FjS0WlEnTHSnA0QtZs=;7q7M5ysewbnlWKdnkE2aZg=="
 ---
 

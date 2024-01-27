@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-pr
 webUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-prompts/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "How to Build a Website with the Help of Google Bard"
-    excerpt: "This guide is designed to show you how to build a website with the help of Google Bard. Building a website can seem daunting, especially for those with little technical experience. But fear not! Google Bard is here to lend a helping hand, guiding you ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-build-a-website-with-the-help-of-google-bard/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/website-google-bard.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "E9bjxaoSaCG3ahWlXBjdKapdsjRUcP0o2ZjBl3sDQGUdbDePaQdte95E1ptKXo3aIKQyFCIzrPZOytYEEUzOg7vVuY21k9hdmoWmadIstRxwNVRSO1QD5csZUfKwDL3GAsnpUsQym4Tmw/U4gVx7N4EsDhlD/c5F/uJM3SuM47sVHNkQ9wiVc1uMvEmqq280BsO8RKg1oi9XzUyCs/3WZyHsF2agJH0idXQzxJ6u3fQfrQYkB0WuSY1GZ4GBmBoAATdybbfDGdmEm0UwKuCzPWrqe15uSwM27xNqluRkXOUOfLZXWQYIbsxSnbet8d550aBkNtZ8xD85MZLwb6Zpm29mOJkgD/gRWsxAhPGhoHQwRHBGCWzdmAavKzd9tE98cG7QqHzqGNtUg7lN5gHwDCkEv4WKjpBW8kHVLTEh6ZpWt6U7Gdwuz0wsOswRs1NQ/4kVBBbzqUbX+0PUopBXwvyOH13880O3NDhievSTPrbJSBzeb8wAu2tc1ag+PMdPVOxu5Qw81lR0iiYaERQ4Fw==;sRSToKfu07hJZy2cGOmneg=="
 ---

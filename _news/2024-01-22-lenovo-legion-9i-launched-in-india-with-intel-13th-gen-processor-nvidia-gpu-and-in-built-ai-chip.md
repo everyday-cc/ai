@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-la
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "GPU-powered HPC Workloads in the Cloud with AWS and NVIDIA"
-    excerpt: "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... efficiently in the cloud–helping to overcome bursting constraints. How AWS and NVIDIA are solving HPC challenges Amazon Web Services (AWS) and NVIDIA ..."
-    publishedDateTime: 2024-01-22T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/gpu-powered-hpc-workloads-in-the-cloud-with-aws-and-nvidia/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/AWS-Nvidia-logos-2-1-0124.jpg"
-        width: 700
-        height: 350
         isCached: true
   - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
     excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."

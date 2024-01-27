@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-faci
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
 quality: 66
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -159,6 +159,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
+    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
+    publishedDateTime: 2024-01-26T17:11:00Z
+    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 16
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "dEtiqo+Grxcy7GJrOL5vnqzTkxAdW7Ws1Vx9RDY18WDl5pThAE18D/U8uK+bGhqXEvzM2ysMOm1EujwOdwcXPdu8biu6kIH3Fmk+KXfu3sDgAoJA5bnLzOMwiQLowsBnygD0b5Vu9XTpVSCb3MMzcUj5PMIvyfu5QHS1G0dMskZyZZyFh+Jr8yqPLeDO6zt/HMVKF80H/XysUhCS+DHuspwrwma90mBN6vKq/ZnXkYUp35VzxGBtnQAT5Ujjw3t5s12a6RIpMZslJ/OVVeYwFGbdCJWgndWprA0PgsrrLs/f5Qv+9G1vuO9yaFHfLDPVPwY6G0zVmsqHNPhcpUFAtv8b8hAC0Ii2jC0ji6cqcgMFz4+sCgWkkyxk3z353L8Dewkln6lzAyh4yWhzjsM27xcWd6PgW/YhQpCQkJz5RKGvn4Lx9geo6tcGTkcLXt98hFb79bYJ4R7NsQk5GBvWOtERbAqM+HOb6Q0b20iAFTR3LMYVxS9kRVMjH+KbUshsGSDRaNfAWSMHjVfEiEg9bA==;Ao6ydP3qw3A2TWqpseCxbw=="

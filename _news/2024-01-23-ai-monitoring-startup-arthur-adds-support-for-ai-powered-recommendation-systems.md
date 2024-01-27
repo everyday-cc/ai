@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Art: Leading UK Artists Call For Legal Action and Regulation"
-    excerpt: "The intersection of art and artificial intelligence has recently taken a contentious turn, with hundreds of British"
-    publishedDateTime: 2024-01-21T23:43:00Z
-    webUrl: "https://artlyst.com/news/ai-art-leading-uk-artists-call-for-legal-action-and-regulation/"
+  - title: "Investors to look for AI-powered gains during Big Tech earnings season"
+    excerpt: "Early signs that huge investment in generative AI could soon lead to stronger revenues would boost ‘Magnificent Seven’"
+    publishedDateTime: 2024-01-22T12:29:00Z
+    webUrl: "https://www.irishtimes.com/business/2024/01/22/investors-to-look-for-ai-powered-gains-during-big-tech-earnings-season/"
     type: article
     provider:
-      name: Artlyst
-      domain: artlyst.com
+      name: The Irish Times
+      domain: irishtimes.com
     quality: 39
     images:
-      - url: "https://artlyst.com/wp-content/uploads/2024/01/aicover.jpg"
-        width: 1084
-        height: 600
+      - url: "https://www.irishtimes.com/resizer/hS9J2kkVZoWLTFf6mG9G8zKAuqQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/CTSOI6QAXKBZMR6QZ6OCXBCDYU.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "B3mOscbld65pEioSCFpGSP0q69i+HaO+dAJARJWVzo2U969LM7aSDHNa2ywgUQJ0XxReD1JA0MwBfh+VWqT5//fsjbmTMkGpcB6oj75R4at+UrEMYrgwaw9qnMZYuFTYiAyOTuXMXsZ5FkrQBBOx4RtEJU6AZ1DAo9HUx6X88VSZGckPqtSnPhuH3gsAN+zPHkOIhP+IayB50+kN7xEdUV6TWnLHahX/eOxscguMzBd38wq0sL2rrtPHjsRLyBK0vmsKs33waJG3sjZjFgsW9PlaqPofhnwwV+zS4h2DFP11Q/o5M5V1LITEj26HrGDYrBo+XFlOMlzifN8HFnJ6JTq3qaidaS4fwpTQRwEh9XxCe29w3wv1qKFbVBpUzH9xVLNUTOcheKyDpvpZuChgXcmDILWFt3k/gsI9GRqjvD+/3YfPdFzyoEjILGbmBeLMYKj5xB5o0y3BV9iMVamPlcOYKqiiLYQGy25iR3B8lIlbpTWfOL8Vou28eavbOUKiOroy6DTtmzOnXkdqb0ceZQ==;irg2XhYn2t2j6kePoiyckg=="
