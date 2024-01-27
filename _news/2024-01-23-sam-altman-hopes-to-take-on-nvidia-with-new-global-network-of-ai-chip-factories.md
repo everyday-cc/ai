@@ -44,20 +44,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Sam Altman in talks with TSMC to launch AI chip plant"
-    excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
-    publishedDateTime: 2024-01-22T05:14:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant/107043258"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107043258,imgsize-10204,width-1200,height=765,overlay-etcio/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "Ejce+YwcD61Hhv76RI704DMTVNo3NkQxXjhv+AhnAq/pvKDn77q+0Dkvdste/qmEJ55pRavKTOFSlnFvtQl0ukyo3qdJzS6e+W5O2eDJPLH6B17p3IZKgl83AJZRolvv3FnG3Arn2hO5AWFiEFjxOb5u0j7yzQM4oVHz4dLIpxDNSGqwg6JwkZ6oXbMOBqaOPgY6H7rw8Cgo2gFbP+9PV8pp0sAnTyN77qryJ4fd99i1eoopv65ZMwklndljeV6cuJX/cmeIUFFzeNyLmV2nQtkyQxTmNnf1vPGxbc7bOgV2F/z52RIofXjM19+bqgK8Bn9ou/MTDGVeLhIhc9JlTheiZOeNZ1gV0QunCX5PV+rSj7YKUPwOpjCVZguwfonGnQ8oFSOBiUAyoifxjUMeLsER34p7a4j+tFgALyeZh3c+cgTc93MThvuXzFkmPecU0TV0O02v+GvGb2zMuD/y2bp/1Sr+FeXcfbSlhFBOtoRxpDarO+1pb2aLyJ3AXE/io9GHt5TJDVUoOnwBZ5DiYw==;m++I00BVsaP5ZFlT84cwgg=="
 ---

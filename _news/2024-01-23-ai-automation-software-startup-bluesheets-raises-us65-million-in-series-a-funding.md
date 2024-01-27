@@ -32,22 +32,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Elon Musk's AI startup seeks to raise up to $6 billion"
-    excerpt: "Elon Musk's AI startup xAI is reportedly seeking $6 billion in funding, with a potential valuation of $20 billion. The company competes with OpenAI's ChatGPT and recently filed for a $1 billion equity offering."
-    publishedDateTime: 2024-01-26T10:48:00Z
-    webUrl: "https://www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 57
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/elon-musk-x-grok-xai-1019x573.jpeg"
-        width: 1019
-        height: 573
-        isCached: true
   - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
     excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
     publishedDateTime: 2024-01-24T05:06:00Z
@@ -63,6 +47,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Elon Musk Aims for $6 Billion Fundraise to Fuel His AI Startup’s Growth"
+    excerpt: "According to a new Financial Times report, Musk is looking to secure $6 billion in fresh funding for his startup XAI. This enormous target reflects Musk’s ambitions to aggressively scale up XAI and compete at the top levels of the red-hot AI sector."
+    publishedDateTime: 2024-01-27T05:04:00Z
+    webUrl: "https://techreport.com/news/elon-musk-aims-for-6-billion-fundraise-to-fuel-his-ai-startups-growth/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities-2.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "8IAW7u87DjQO4dDxSrylNhOMK/ZpNPZLh5a04FXmom9j1t7F0Ckux1dBxaPxrTlNYv9KEwngEJwYUmqlQcUtfLQ2SWNcwufiGv0w2OMWGzS3YLizxHDWIcll5M+M87rtAp/7RBdQFPiaAApUHY2zxoG9H65ompvfmGImT9N7l0XYtOS6CZuLifNnpu6hR5xjKnpf68mSc6lpqu6mQ2+OXHfq1rHNk0V+P3ztMURiiFonOe7xiBZl95SjwjfFndtVpApiLZRg9/bbyXejM20BN1QtC3kbhD9vTO6Dcg0zhDsYuG26o1xxtZgE7q1WS3sFQcerb6cGT8dmzdSSv/6hjd+2LS6mIj9DmAio0/B9nZihW/9rdfmbJQgrxi2hzTnnOAFCVk7Ds8K9sacNkZl5lLIZYHTQmLNHseGNk+VfhTX0Gd6b/fKa3fq2gB+no7Xc7HBOs0gJn1HXGpMYRuck5C4uLVBWYlmexoPccuQO3Mi3pT6ftdhw2YHbTQc6UX4Y397fDm4a08rK9r6LRIWGuA==;4JjVrm3Pv9HPqAfGR+DS+g=="

@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman in talks with TSMC to launch AI chip plant"
-    excerpt: "OpenAI: Altman is also reportedly in talks with one of the wealthiest persons in Abu Dhabi, Sheikh Tahnoon bin Zayed al-Nahyan, for the semiconductor plant."
-    publishedDateTime: 2024-01-22T05:14:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant/107043258"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107043258,imgsize-10204,width-1200,height=765,overlay-etcio/artificial-intelligence/sam-altman-in-talks-with-tsmc-to-launch-ai-chip-plant.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
     excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
     publishedDateTime: 2024-01-23T13:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/25/apples-app-store-now-permits-strea
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta's AI Reorg To Build Super Chatbots And Attract Top Minds Raises Concerns"
-    excerpt: "Shedding some light on the company's AI efforts in an Instagram Reel video, Zuckerberg said that Meta's AI research group ... various ways generative AI can enhance user experience across Facebook, Instagram, Messenger and WhatsApp. In line with this ..."
-    publishedDateTime: 2024-01-22T06:20:00Z
-    webUrl: "https://www.ibtimes.co.uk/metas-ai-reorg-build-super-chatbots-attract-top-minds-raises-concerns-1722890"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 36
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717037/mark-zuckerberg.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Apple’s App Store now permits streaming game stores, adds in-app purchase for mini-apps, games, and AI chatbots"
     excerpt: "Alongside the numerous changes Apple is making to its platforms to comply with the EU's Digital Markets Act (DMA), the company is also updating its rules"
     publishedDateTime: 2024-01-25T18:54:00Z

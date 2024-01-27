@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
+    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
+    publishedDateTime: 2024-01-23T01:09:00Z
+    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 24
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
   - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
     excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
     publishedDateTime: 2024-01-22T16:00:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-27T02:44:00Z
 originalUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
 webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
@@ -68,6 +69,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fWwfZ6bS3kkXFvV5QdctYMCeGcbifSYl9EFOkaW1R7U1Atw2+xMJSpIHDRsQ5FAoN+3vXtNq8qYbePMkLdzdxcejF93hgopdoQcapST+rkrm3n+Ogh2JyhcVri5xy/6uZj/MjM0+NMN2Yw+C3iw/LoodHmCgF1LrbbwHLbCkbn7Rtx1enchxBVMVAV8gAqbtG0ayUKIE9ab7DT0oyc4LvcsSnDxkRjhQ+ndn8HvX9sDVAQpKnTpk9Xwu6R/Azr3WpMb9bWZ54LER4A7dvI9EGEuYUUPcGNrHGI35RvCDw2mqpikf/o9GJMKkR16Lf9g3jsMenj2y7166ISaDk+rw4dFxWpZfg8rskaOnoibTcw0=;CVKv+I5JVjky/lnj58hYVg=="
+secured: "6go8fNGY3oFK4fCcmPc3Z3d2dD0OhL29JGkDoC0pou23x1Mp3Kofvr/LedbMMEmUeVhW6t0Izhm9sfRkR9VEk0p6bITAn4ACFJvOIXULic553jD4Bn5eOl4bJ7jtB+zsX7N3w6ovV2/n6kUKxx07WM9TO9QiCEYLewvi+hU31ji2hASl1BpXMJVx0rix0pkPAT4IpJH8owJ4DBTS2+p0emXIPFz/RKZJRaSLi10GYQmI/7PHVBFfISqDUJFMzTfBd946a5U4c523MuxqlHAPnS6LThiCuDLizuYrBFzpp7fhXl6vYcF9Uvki8ZPWo307eRImPAGL7cqo0AYZ9UR0bJGfhIW2oQvBRAFp8wnvJvEsqS36z3GwJ9AjBHcLMKtZTRuYhU5zrMXY+zFnQK7aiYVBPhaUF7J3rXpnV4QXeCFl/Dy6CB+rQM6BkbRo8Uwdn3shRQddxgmiTjzDlX1s6d/4EJVtbVAnudvo9QqDWUXQQsV7HOejR/qANkwm2GNBGQIod7irpf/9BarzTNBpDw==;pOMzAKv2KgHKVk1qkw+cVw=="
 ---
 

@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
+      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
+      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-06T07:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.md",
+      "title": "Artificial intelligence decreases barrier to treating ultrasonic brain illness",
+      "excerpt": "A research team led by Dr Kim, Hyungmin of the Bionics Research Center at the Korea Institute of Science and Technology (KIST) has developed a real-time acoustic simulation technology based on generative AI to predict and correct the distortion of the ultrasound focus position caused by the skull in real-time during focused ultrasound therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-106375550,imgsize-7518,width-1200,height=765,overlay-ethealth/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-decreases-barrier-to-treating-ultrasonic-brain-illness/106375550",
+      "publishedDateTime": "2023-12-29T09:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "health.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-medbright-ai-announces-closing-of-investment-in-limmi-healthcare-ai-platform.md",
       "title": "MedBright AI Announces Closing of Investment in Limmi Healthcare AI Platform",
       "excerpt": "Pursuant to the IP License and Option Agreement, Limmi also granted to MB Licensing Co. the binding and irrevocable option to purchase the Limmi AI Platform (the “ Option ”) on the earlier of: (a) October 16, 2025; and (b) 90 days after a written request by Limmi for MB Licensing Co. to exercise the Option.",
@@ -1305,93 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
-      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
-      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
-          "width": 1262,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "publishedDateTime": "2023-12-15T11:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-kettering-university-plunges-into-artificial-intelligence-with-ai-degrees.md",
-      "title": "Kettering University plunges into artificial intelligence with AI degrees",
-      "excerpt": "From social obscurity in the 80s to a hot topic in 2023, artificial intelligence is on the rise. At Kettering University, they are taking the plunge into the new-age technology with their Master of Engineering in Artificial Intelligence program.",
-      "sourceUrl": null,
-      "webUrl": "https://upnorthlive.com/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "originalUrl": "https://upnorthlive.com/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://upnorthlive.com/resources/media/39f058ff-3604-4174-8cc9-637d0e2eae69-large16x9_ketteringnewfacaility.jpg?1663950025224",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://upnorthlive.com/amp/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "cdnAmpWebUrl": "https://upnorthlive-com.cdn.ampproject.org/c/s/upnorthlive.com/amp/news/local/kettering-university-plunges-into-artificial-intelligence-with-ai-degrees",
-      "publishedDateTime": "2023-12-15T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "upnorthlive",
-        "domain": "upnorthlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

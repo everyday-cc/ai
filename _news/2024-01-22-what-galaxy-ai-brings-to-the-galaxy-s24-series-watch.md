@@ -99,6 +99,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China"
+    excerpt: "Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features,"
+    publishedDateTime: 2024-01-27T06:34:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/articleshow/107181467.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/amp_articleshow/107181467.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/amp_articleshow/107181467.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107181443,width-1280,height-720,resizemode-4/107181443.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."
     publishedDateTime: 2024-01-26T12:41:00Z

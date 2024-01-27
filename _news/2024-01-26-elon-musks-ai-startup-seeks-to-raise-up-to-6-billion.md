@@ -26,45 +26,54 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI"
-    excerpt: "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data."
-    publishedDateTime: 2024-01-23T08:39:00Z
-    webUrl: "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/"
+  - title: "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware"
+    excerpt: "Musk was asked if he would also buy chips from AMD. “Yes,” the billionaire replied. Nvidia is the current leader in so-called AI accelerators — processors suited to the data-intensive requirements of the technology — but rivals like AMD are ..."
+    publishedDateTime: 2024-01-27T06:01:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 61
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 71
+  - title: "Elon Musk: automakers don’t believe Tesla Full Self-Driving is real"
+    excerpt: "Elon Musk says that other automakers don’t believe Tesla’s Full Self-Driving (FSD) is “real” as Tesla tries to sell"
+    publishedDateTime: 2024-01-25T14:59:00Z
+    webUrl: "https://electrek.co/2024/01/25/elon-musk-automakers-dont-believe-tesla-full-self-driving-real/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
-    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
-    publishedDateTime: 2024-01-24T05:06:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+  - title: "Elon Musk Says Tesla Will Buy Chips From AMD, Invest Over $500M On Nvidia Hardware"
+    excerpt: "The company is also planning on getting chips from AMD, he added in another post. “The table stakes for being competitive in AI are at least several billion dollars per year at this point,” Musk wrote. Why It Matters: During Tesla’s fourth-quarter ..."
+    publishedDateTime: 2024-01-26T23:15:00Z
+    webUrl: "https://www.benzinga.com/news/24/01/36813208/elon-musk-says-tesla-will-buy-chips-from-amd-invest-over-500m-on-nvidia-hardware"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 50
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Elon-Musk_9.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "AI automation software startup Bluesheets raises US$6.5 million in Series A funding"
-    excerpt: "Find out more about subscription packages here. BLUESHEETS, an artificial intelligence (AI) automation software company, has raised US$6.5 million in Series A funding, it announced on Tuesday (Jan 23). Venture capital firm Illuminate Financial led the ..."
-    publishedDateTime: 2024-01-23T14:25:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-automation-software-startup-bluesheets-raises-us65-million-series-funding"
+  - title: "Elon Musk's AI start-up seeks to raise up to $6 bln - FT"
+    excerpt: "Thanks to the popularity of OpenAI's chatbot ChatGPT, the AI industry has been a rare bright spot in a subdued start-up funding environment. Google-backed Anthropic and Microsoft-backed Inflection AI have also raised funds in recent months. Musk's AI start ..."
+    publishedDateTime: 2024-01-26T10:18:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 11
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "llWbfsGbHeDtEf/jBEfr7b4VMwjlvEUXv2YPgwL4Lq/4CTXfgt8wQ4lUNdAfktcKeoc6QYgF7DLYIZanvB8ZKYrV4EXbJ6NYLCIVeaMF0JMQI69L41EEKMhlBj+2aOB0h1icc7deqd4Jg7igQ0ryykKdB6EbQZx5RlcW/qdNwG+d/38xfWigCGNQGmj59r9D9bnkm/qqjX6YG15iOVIS1vDZHvh78uAe4WQSl1xCMOVdSbyPLxy2dHk8UiE4A+b23TKYMAObjTbm/V6GT3yLN4HjPffG/HKSVngClxU15NVRaOoyGpxW5YvZcb+5lOKtlaWZdqCet7rJ+wLi+XoJnse88nuJzOqb/K8D5c1UD4Tbk0wOfQhWffcgxhDCPneOdljPmo+U8QZf8SnvBlHMDk1q4JPlIx4f7g7u99NArUNh5NBXRlpErHOZUM+oKpIXAlT4b1Z1lrRNZdYopUebsXgCQ8AiChZbQx1VpxjUWqSqaoYRHTjucmCExlj9TYZY8R1b08XCZ8ihOinC6Jek3A==;7s5cqFmc7NZjRNahxMovdQ=="
 ---

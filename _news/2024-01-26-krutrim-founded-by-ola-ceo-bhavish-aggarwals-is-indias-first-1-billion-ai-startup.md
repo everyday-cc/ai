@@ -42,6 +42,50 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Ola Founder Bhavish Aggarwal's Krutrim Becomes India's First AI Unicorn"
+    excerpt: "Bhavish Aggarwal's AI startup Krutrimt has become India's first AI unicorn after successfully closing its first funding round with a remarkable $50 million investment led by key investors, including Matrix Partners India. \"At Krutrim, we are committed to ..."
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ola-founder-bhavish-aggarwals-krutrim-becomes-indias/468894"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1706335388-newbhavish.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup"
+    excerpt: "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion."
+    publishedDateTime: 2024-01-27T05:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/articleshow/107175284.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107179736,width-1280,height-720,resizemode-4/107179736.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Krutim’s 2 trillion token LLM is India’s first AI unicorn"
+    excerpt: "Krutim, a generative AI company that can converse fluently in multiple Indian languages achieved the status of India's first AI unicorn."
+    publishedDateTime: 2024-01-27T05:43:00Z
+    webUrl: "https://invezz.com/news/2024/01/27/krutims-2-trillion-token-llm-is-indias-first-ai-unicorn/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 37
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2024/01/mother-daughter-indian-laptop-phone-1024x535.jpg"
+        width: 1024
+        height: 535
+        isCached: true
   - title: "Ola founder Bhavish's Krutrim becomes first $1 billion Indian AI startup"
     excerpt: "It becomes the first Indian AI startup to gain a billion-dollar valuation, a mere month after debuting a large language model, the firm said in a blog post"
     publishedDateTime: 2024-01-26T10:39:00Z
