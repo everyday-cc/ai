@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Artificial Intelligence is a Quantum Leap"
-excerpt: "By- Osho Perhaps I am only one in the world who is in absolute support of mechanical brains taking over work of human intelligence. Reasons are very clear, why I am in support of"
-publishedDateTime: 2024-01-27T02:29:00Z
-originalUrl: "https://timesofindia.indiatimes.com/blogs/toi-edit-page/artificial-intelligence-is-a-quantum-leap/"
-webUrl: "https://timesofindia.indiatimes.com/blogs/toi-edit-page/artificial-intelligence-is-a-quantum-leap/"
-ampWebUrl: "https://timesofindia.indiatimes.com/blogs/toi-edit-page/artificial-intelligence-is-a-quantum-leap/"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/toi-edit-page/artificial-intelligence-is-a-quantum-leap/"
+title: "Artificial intelligence is a quantum leap"
+excerpt: "Abridged from \"Hari Om Tat Sat,\" it challenges traditional perspectives on the role of technology and offers a compelling vision for a harmonious coexistence between human consciousness and artificial intelligence. For example, computers can change all ..."
+publishedDateTime: 2024-01-27T12:33:00Z
+originalUrl: "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/artificial-intelligence-a-quantum-leap-in-the-era-of-mechanical-brains/articleshow/107188200.cms"
+webUrl: "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/artificial-intelligence-a-quantum-leap-in-the-era-of-mechanical-brains/articleshow/107188200.cms"
+ampWebUrl: "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/artificial-intelligence-a-quantum-leap-in-the-era-of-mechanical-brains/amp_articleshow/107188200.cms"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/artificial-intelligence-a-quantum-leap-in-the-era-of-mechanical-brains/amp_articleshow/107188200.cms"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -19,12 +19,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2017/08/TREE.png"
-    width: 568
-    height: 429
-    isCached: true
-
-secured: "bZB/TZSUVlRNhtluvhPOpsVjWBW368I6MHj9LwRNWWeNiZuRa5X75YgODVzZGyIk3ZJxWrLeBxnC5Sh+bVKcCZkzeDBO9attWYQb3JqwTqjBb9FHFYNcvEYTp8ZBgsQmK537P666auhdNnc4Q1b1V+iKNN1g6QuI6mUGc7Lqkn9RLT3mL8hy5GxJpn7diNMOOj5xeMCdZszFaZ/EfenMJhfqHSMLQAZ1X2pAv++4dUVbtRPy6/C7E8ZGubEGs6soGduAmd1+d8Meadf/iPqg36YZ2UyatBds7t55g0tnyWLWdCJfWbi1bKyu6/iXax6CDGlbtp7HAL7FnTSsC4Vg5Tdshx5VK17Ee3+jxb0koHQ=;o4wLg1fFgHgGAnORSwlXug=="
+secured: "XU1w6zNl51fEP1dvYtO5GvoqJAv9cIPVQk4Carj5uSzg8Q2wSJcjEbyaHo11YY+KhAqUuTDHuhe5O4TBMZy+ngsIvMR5rqm2vigwGclNZpjL4hLptkAvif9fgHhXHwg3C2qefJqMx3gXIUQzFCK9d3xoE9WEFjpsH22YcpT+9ZMmziYPgt7W2FERwJjgLH5h9ezIKFxBiQj/e9StzOLwQIugbxzd/lok50vUvIA87GPYdNNFq7N1L0lYNuQaNpGUiGq+8SQ/gmP8/FC0pvzRSBVzk2J0rm0GeLUA7Ak/oN0+bA7U9o8wZ3geJX7mqLF+byDWUnCOg72PX03cOnaW2EMS2EQQspXEq2eLSLqo3UBYyRnT2mcNFYmLgLPRLXJMlJiAqF0vY5KipOvkNDV1rGF9xWEXucn52/dGveMeZ1SGOeiDwGv/C7z/P7dhDnQm40CY0K1yPT0FxP7iFCZ+qny79XUSE90CWFSgrLVQqxjN5fXpItflNGMYeVoALpjb0g1ozoz9QJM1Mcz5eYGc+g==;ZHKjH3zWuLIOXO9RODCLdQ=="
 ---
 

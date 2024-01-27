@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla Rolls Out New Full Self-Driving Update That Appears To Be A Big Improvement"
-    excerpt: "The latest version has brought significant updates to the system. The latest version of Tesla's Full Self-Driving (FSD) software has begun reaching customers. Known as v. 12.1.2, the newest update, which promises many improvements, was first rolled out to ..."
-    publishedDateTime: 2024-01-22T11:18:00Z
-    webUrl: "https://carbuzz.com/news/tesla-rolls-out-new-full-self-driving-update-that-appears-to-be-a-big-improvement"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 34
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1221000/0/1221096.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
 
 secured: "bjxKelfvUYm/AlinPf4kzVA6h/OdxGsmyKZxWT1wsqPdj/zcPmHLA3ryKxThcKpAkrIySJutA6NtRVWy18ZYSKViXufZBx7ZzOdNTkWtfUF5zZ+quSMOS780uOiLUm9+aD2MYI0f8odUPrXmAaF1KYTk5LHazyEj8Ku+AIsqv8Dj3NGYIIDzhglz8SqYKvgX9I4YzY9cjXHtNWWyZLnvnW2HcBlj7QR0bAdL/gOdyTL1Ykqy47Sz/97UmkcuhS7d0TMBo7S6zJD3ixaf0iBt05o0WRkiNlez3kim0EBY79s6ozls/e35/t2I2FtRojMCyYACO7cQKaAiIY9D6a9E+3TI/A+49hD7m6bq5CAbE0kHjg9M9Pa36Hdj8sXaHwfvcQZAoXOIy8Tolvkd8j+QBVNrRaxvS+k5X+ZloxSmkB+YoXE2Jj7xLQe4xtSguRSUUzavjfDe02ovNGxiMNAU6Vh8vocFQT+c8T6QOlCbPEkJTotsqLwBJ0zBT4wLhjmEn7V+hs7shAfkGog3Nv06nA==;7BEif/woGAb3uHBO1OOTiA=="
 ---

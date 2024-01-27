@@ -35,6 +35,22 @@ related:
         width: 1040
         height: 700
         isCached: true
+  - title: "Role of artificial intelligence in improving sexual and mental health"
+    excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
+    publishedDateTime: 2024-01-24T06:30:00Z
+    webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
+    ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "How the rise of artificial intelligence is boosting tech stocks"
     excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
     publishedDateTime: 2024-01-23T23:24:00Z

@@ -38,6 +38,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Elon Musk's AI startup seeks to raise up to $6 billion: report"
+    excerpt: "Thanks to the popularity of OpenAI's chatbot ChatGPT, the AI industry has been a rare bright spot in a subdued start-up funding environment."
+    publishedDateTime: 2024-01-26T10:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-report/articleshow/107168206.cms?from=mdr"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-report/amp_articleshow/107168206.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-report/amp_articleshow/107168206.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-29542,msid-107168230/elon-musk-expects-1-billion-humanoid-robots-by-2040s.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
     excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
     publishedDateTime: 2024-01-24T05:06:00Z

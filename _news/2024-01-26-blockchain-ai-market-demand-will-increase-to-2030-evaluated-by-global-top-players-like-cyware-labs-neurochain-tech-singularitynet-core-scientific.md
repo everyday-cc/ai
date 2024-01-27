@@ -41,15 +41,6 @@ related:
         width: 1354
         height: 900
         isCached: true
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "GzeqPdOX+Dp5UD8QswcuDG926o25HSujv0OFbsbcl0Zeqnx+NgZ4wtNsOJRGpDeK6y8arORh/Dy1YrIXJED0hGptD+SRg7hZb0F7nMjGgArzRry0mK+cmG04mLhw15bI7ZB/IYt28q96BNDDQteHQrfBeuMmZBsmXbXwyrGAL5mW8Skl9UrHx9cAkSez1k+V+UyA0hhaeVPtnLVBltQVWeWzmXFL4qasJ5efvOrK5zHdnBRGWp38SdvjVADZIkbC5lZxeJ1ngbpkZXSOZd0dTtHkv66uUKH89i4qUNhCrEKzwOn8ksuiTsj/tZGjlIUNwjJl9SRydlXDo/Cha88+cZ0oM7hWj4Y/faqkGqOE0nA=;j7Srl5CCO0mZHkJVizYiQg=="
 ---

@@ -47,20 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
-    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
-    publishedDateTime: 2024-01-22T12:52:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 52
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
     publishedDateTime: 2024-01-25T18:49:00Z

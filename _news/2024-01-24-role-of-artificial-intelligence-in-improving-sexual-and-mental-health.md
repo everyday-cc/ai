@@ -1,25 +1,30 @@
 ---
 category: news
-title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-publishedDateTime: 2024-01-25T13:36:00Z
-originalUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
-webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+title: "Role of artificial intelligence in improving sexual and mental health"
+excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
+publishedDateTime: 2024-01-24T06:30:00Z
+originalUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
+webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
+ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
+cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
 type: article
-quality: 40
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Week
+  domain: theweek.in
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
+    width: 760
+    height: 443
+    isCached: true
 
 related:
   - title: "AI And The Future Of Coding"
@@ -37,22 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1040
         height: 700
-        isCached: true
-  - title: "Role of artificial intelligence in improving sexual and mental health"
-    excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
-    publishedDateTime: 2024-01-24T06:30:00Z
-    webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
-    ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 59
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
-        width: 760
-        height: 443
         isCached: true
   - title: "How the rise of artificial intelligence is boosting tech stocks"
     excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
@@ -107,6 +96,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
+    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
+    publishedDateTime: 2024-01-25T13:36:00Z
+    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 40
   - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
     excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
     publishedDateTime: 2024-01-25T17:07:00Z
@@ -163,6 +161,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "x7zu1sKjV1mEsBm/MFolXJLt4lmOAVHI9+8GKC5/n8iyMCPksPLyAQbl+2r2Lt5ia8VwjbFn8PvViaRRGDmDxEU5096vIwiCJtI9+40nAG7Kf3H8EUKJIK5RDAN8byl5TCAP1f61JADOu7RZLZvZz0o7KXYfpT7XI2ZMWHJWybPm6vfwmo6Xka7JYY1aafz35GMg0fpadLGVBDi5MK0SlKGzRGYqpTGm9I0kRkIcPHHNQC9eYV0B3BOksTB1mWd9vdvrYBJscbR9qQZQScxmkjPhJaHox4MoVhzISA5HmeZFJu7VHlwkhINIXBBekZX4Ijn2h4oAMk8X2dYC6H5HC/zLGqpQX9ztESneVqquOiMeOcHqqmIII24eC48RDhb9ZcG28EoAeH0VgzSSAtXOz5z4FJ1F6eQ8nEp8AP23rEV3FAO7/HQraT9puCVx8dpJqADZyfqc2Z7jxB/qgvGCPGaeX60Bxcq+NyMLsPQK3Hl2otGs+K7KlK0wH0W/yyc2ewtA9qrkjgAmIhWbb9r0tg==;nTiUOo7AHT2twbtZlMccGA=="
+secured: "2yoWIhaIK3mD9mWqr8/pvhcIMj/26Trjys1FhircRH3qkzT9KEbNhYi6djTAFAjcvm+ebSsjThAfL8IHjs3W2hGu56Mu3zR2J8C9OxDup7ynXx0ARIc1UP6e51BOBZT+RImmrx7kEiuMz3v8iZ8lSW5iZoJa5rbzOW1CW+5rDkdQQOcz/HK2+Rx3csecX/dhYl8mBbJww0QOjRyuh1/RBJ9vRXC8LDOXj1fFcebC3BKID9qxVIUVIvz3DvQLrsopcW6APZwh+K0Kz/uMO0DadSF6eqEo5yRHy15sGvZ+/DtdjCQ2cxO5kUYOXCD51Gn6+pluDCG1JrPchiU9pwO+jhIR9TtaThMp5T6roQnltLg=;7SEWq/Py1eBzMKD6qMyI/w=="
 ---
 

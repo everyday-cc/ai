@@ -52,7 +52,7 @@
       "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": null,
       "content": "",
@@ -606,6 +606,48 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
+      "title": "Procurement transformation: Why excellence matters",
+      "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T16:27:14Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1289,49 +1331,6 @@
       "provider": {
         "name": "Travel Weekly",
         "domain": "travelweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-casper-labs-announces-blockchain-based-ai-governance-tool-built-using-ibms-watsonx-platform.md",
-      "title": "Casper Labs announces blockchain-based AI governance tool built using IBM’s watsonx platform",
-      "excerpt": "Casper Labs, a flexible blockchain solutions company, today announced that it’s working with IBM Corp. to build an artificial intelligence governance tool that uses decentralized ledger technology to introduce version control, monitoring and access controls for AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
-      "originalUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cybersecurity-hand-reach-binary.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null

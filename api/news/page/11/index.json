@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
+      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
+      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-google-might-rebrand-assistant-with-bard-before-launch.md",
       "title": "Google might rebrand ‘Assistant with Bard’ before launch",
       "excerpt": "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\"",
@@ -1084,58 +1135,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-pinecones-vector-database-gets-a-new-serverless-architecture.md",
-      "title": "Pinecone’s vector database gets a new serverless architecture",
-      "excerpt": "For a long time, vector databases were a bit of a niche product, but since they are uniquely suited to provide context and long-term memory to large",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/",
-      "originalUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-91640841.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/amp/",
-      "publishedDateTime": "2024-01-16T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

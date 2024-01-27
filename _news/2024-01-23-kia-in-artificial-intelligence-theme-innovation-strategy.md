@@ -33,15 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Half of Game Developers Work at Studios Already Using Generative AI: Survey"
-    excerpt: "But even developers who use generative AI worry about the technology’s ethical implications. Of those surveyed, 42% of developers said they were very concerned about the ethics of using generative AI within their industry, while another 42% said they ..."
-    publishedDateTime: 2024-01-22T13:00:00Z
-    webUrl: "https://www.extremetech.com/gaming/half-of-game-developers-work-at-studios-already-using-generative-ai-survey"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 17
 
 secured: "ZuspDaAJM6VPxcV34GWYnC5wUY3lpudLC3oljYGH0WzbuLUewYyONWsBoaOPwaoYmLmBHM8PbHTEIFoV2VaQPCUB20JkR7MlRI4/j+eDq5hiH3M+/JOe69xacOllTVa8ERC2ySl79b6RevXQewyeTQk7ZR6mYSG78uxQa+6FiyT406Qh4Nep4N20GWAXNcSBvgNETHVurFXGMUGryxzvtTgRXGYUYTxX9LQLEQ1DjxZJWyNRCDjLpanW09NWXgWTaJ4xrOqjDMOow7TjRZDq/Af+ZZsMwSNNCbczA9VLzIGLygq2Wx82waFdAzFGYhjunX6oJfcMJ4WR6RBqZlJpb/+rKPpRTeL6P5u6IcgKjag=;RQtw4F69k6ACk8JUw5VA5A=="
 ---

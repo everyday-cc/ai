@@ -114,20 +114,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI-Generated Fake News Is Coming to an Election Near You"
-    excerpt: "In collaboration with YouGov, we used the AI-generated headlines to test how susceptible Americans are to AI-generated fake news. The results were concerning: 41 percent of Americans incorrectly thought the vaccine headline was true,"
-    publishedDateTime: 2024-01-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65aaeee4031fd329f137a48b/191:100/w_1280,c_limit/WW2024_159682594_POLITICS_Sander-van-der-Linden.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "No, the Samsung Galaxy S22 isn’t getting Galaxy AI features – here’s why"
     excerpt: "When probed on the chipset uniformity between the Samsung Galaxy S23 FE and Samsung Galaxy S22 – both phones use Samsung’s own Exynos 2200 chipset – Chomet acknowledged the fact but added: “For now, we’re limiting Galaxy AI to last-gen devices.”"
     publishedDateTime: 2024-01-23T07:23:00Z

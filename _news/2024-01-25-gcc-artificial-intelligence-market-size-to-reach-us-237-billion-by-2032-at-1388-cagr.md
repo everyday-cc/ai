@@ -33,20 +33,6 @@ related:
         width: 1000
         height: 418
         isCached: true
-  - title: "Global Healthcare Natural Language Processing Industry Set to Skyrocket to US$ 18.5 Billion by 2033 | Reveals Future Market Insights"
-    excerpt: "The Global Healthcare Natural Language Processing Industry is experiencing an extraordinary surge, with a projected valuation of approximately US$ 3.5 Billion by the end of 2023. This meteoric rise is underpinned by a robust Compound Annual Growth Rate (CAGR) of 18."
-    publishedDateTime: 2024-01-22T11:51:00Z
-    webUrl: "https://www.fmiblog.com/2024/01/22/global-healthcare-natural-language-processing-industry-set-to-skyrocket-to-us-18-5-billion-by-2033-reveals-future-market-insights/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 25
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2024/01/Global-Healthcare-Natural-Language-Processing-Industry.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "1i1RYQs+ENhO9qo67f65/2ufZwa1EPc+HmNYVGRrc6+wqnixzPlAv2bE4fYgTkJOl3W5cEDkJBXA2oQ0gLMmawbCE6cxUFkZ07zcXuTR3c8cWDURx075c660vx0FQTl5u6lh0gFaXohrgOoXrQyAevNcSOeQxM3RLioidei5G2R4/t869wIiq+Wnlc4ggxthjm4kGAp4UPekhsapMxF0PXaVoC4s5aztDJpY9dnxk8PqByiZBqLP2KSN7p/BlYCPpuOso47e05xHn4uBa3ufvax88g016jNdozTl7VZXzF/m/Zamx6/oteBKu7llRlol8kLM9UwIvhI7iLaA7kzk5eAkqDErtn21yAK6W1ioxT8=;1S7cFotBV5hAkN8IHJWakA=="
 ---

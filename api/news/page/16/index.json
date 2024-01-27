@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
+      "title": "California considers artificial intelligence to improve traffic",
+      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "publishedDateTime": "2024-01-11T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News 8",
+        "domain": "cbs8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
       "title": "Toyota combines voice, gesture recognition in new operating system",
       "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
@@ -999,40 +1042,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions.md",
-      "title": "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions",
-      "excerpt": "Translator for SharePoint: an enterprise-ready integration with Microsoft Cognitive Services to provide content authors translation services directly from within their content creation flow. \"Accelerator 365 is a great opportunity for us to bring together ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T09:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

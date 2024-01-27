@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-sti
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html"
 type: article
 quality: 63
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times Tech
@@ -27,76 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "We may not lose our jobs to robots so quickly, MIT study finds"
-    excerpt: "CNN — (CNN) — As anxiety about artificial intelligence tools putting workers out of jobs ... saying that amid all the headlines about robots taking jobs, “It’s really important to think about the economics of actually implementing these systems.”"
-    publishedDateTime: 2024-01-23T00:42:00Z
-    webUrl: "https://www.wral.com/21247543/"
-    ampWebUrl: "https://www.wral.com/amp/story/we-may-not-lose-our-jobs-to-robots-so-quickly-mit-study-finds/21247543/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/story/we-may-not-lose-our-jobs-to-robots-so-quickly-mit-study-finds/21247543/"
+  - title: "Will AI Take Our Jobs?"
+    excerpt: "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\""
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wral_news5_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 852
+        height: 568
         isCached: true
-  - title: "AI still far more expensive than humans in most jobs: MIT study"
-    excerpt: "AI could overtake humans if the costs of its deployment come down or if it is deployed via AI-as-a-service platforms that have greater scale than individual firms."
-    publishedDateTime: 2024-01-23T05:55:00Z
-    webUrl: "https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712460/ai-still-far-more-expensive-than-humans-in-most-jobs-mit-study.amp.html"
+  - title: "People are worried that AI will take everyone’s jobs. We’ve been here before."
+    excerpt: "In a 1938 article, MIT’s president argued that technical progress didn’t mean fewer jobs. He’s still right. MIT Technology Review is celebrating our 125th anniversary with an online series that draws lessons for the future from our past coverage of technology."
+    publishedDateTime: 2024-01-27T12:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/"
+    ampWebUrl: "https://www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/amp/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 56
     images:
-      - url: "https://images.idgesg.net/images/article/2023/12/workers-union-people-100949298-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "MIT study finds limited impact of AI on jobs requiring visual tasks"
-    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. A hot potato: The most pessimistic forecasts about the impact of AI on society suggest mass layoffs and the imminent replacement of millions of human workers by robots and ..."
-    publishedDateTime: 2024-01-25T14:53:00Z
-    webUrl: "https://www.techspot.com/news/101645-mit-study-finds-limited-impact-ai-jobs-requiring.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
-  - title: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways: study"
-    excerpt: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries."
-    publishedDateTime: 2024-01-22T16:25:00Z
-    webUrl: "https://vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d"
-    ampWebUrl: "https://vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d/amp/"
-    cdnAmpWebUrl: "https://vancouversun-com.cdn.ampproject.org/c/s/vancouversun.com/news/artificial-intelligence-cant-replace-the-majority-of-jobs-right-now-in-cost-effective-ways-study/wcm/69374925-87c6-4242-946e-0d6ec1126a4d/amp/"
-    type: article
-    provider:
-      name: The Vancouver Sun
-      domain: vancouversun.com
-    quality: 45
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2024/01/ai-branding-.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "MIT Study Reveals Limited AI Job Replacement Viability, Urges Caution"
-    excerpt: "A recent Massachusetts Institute of Technology (MIT) study challenges the prevailing notion that artificial intelligence (AI) is poised to replace a significant portion of jobs cost-effectively. The MIT study,"
-    publishedDateTime: 2024-01-23T10:21:00Z
-    webUrl: "https://www.econotimes.com/Human-workforce-irreplaceable-by-AI-due-to-financial-constraints-1670029"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://f1.econotimes.com/2024/01/tgjct660ge_th_1024x0.jpg"
-        width: 1024
-        height: 683
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/unemployment4f.jpg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
 
 secured: "Cjptp6bVdHTKVC4gCGzW3/M/AEDKYmT/c3DmW9fT815f+HQEquAVD44536SCyFa3UoU6f41uYjAuqJspcrIddk1CX4U4P78a063xUCh358y5GLMAfSDOhHppWyUGqouReSkuDQxb++t254VgzHiYhEivrlq/6phZkWVwCSUq/naQwZq00FCoyp+iqSKOdHPUv0USAHBFYKbY23Gl9PKZlmw2Bbr9pm265Wc7gYncWRlgnX0F5G9yoxIec3jHMzdSwPtJaKg98WNZIIGWbaf47xpPA1inyGmlk/+MoRRFKHEnMd4YrfpkUEIMQ4pKZ+M4C3hBDHGnGmoMtp+dLcmZjomPeha4rKRXMpDIQlxFXDLnffcxphB5Z2X7AZ4zXiONY2F/NebycPGkfyNxyqkRQDjHGdUyTtuMSNknT7dwCro2527ePWW7+bbZdWhpIT4rkof3+TCjI6OOR6dyjsAR1K/6DHYezZP/BJ2fFIky8rfU4bJ8fsGzuLiLMQMAQiT6hGbgT+gLBBQ+a/j/bDnLLA==;ceRNy5PBf2yNHkUhoooYiA=="

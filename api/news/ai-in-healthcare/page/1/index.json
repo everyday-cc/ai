@@ -213,49 +213,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds.md",
-      "title": "AI and jobs: Humans Still Cheaper Than Artificial Intelligence in Majority of Jobs, MIT Finds",
-      "excerpt": "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/EU-ALPHABET-BARD-0_1689231827645_1705973738815.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html",
-      "publishedDateTime": "2024-01-23T01:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
       "title": "Is there AI discussion fatigue in healthcare?",
       "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
@@ -1313,6 +1270,58 @@
         "name": "Healthcare Dive",
         "domain": "healthcaredive.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
+      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
+      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-06T07:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

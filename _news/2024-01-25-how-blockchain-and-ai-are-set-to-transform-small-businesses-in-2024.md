@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Starting a Business in an AI World"
-    excerpt: "With the advent of AI, we are poised to see millions of startups benefiting from that paradigm shift and, ultimately, an unprecedented creation of wealth. The three-hour lecture at MIT evolved into the #1 Amazon Bestseller \"Start. Scale. Exit. Repeat.,\""
-    publishedDateTime: 2024-01-22T12:47:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbooksauthors/2024/01/22/starting-a-business-in-an-ai-world/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Blockchain AI Market Demand Will Increase to 2030 Evaluated by Global Top Players Like Cyware Labs, Neurochain Tech, SingularityNET, Core Scientific"
     excerpt: "As there is increasing in the blockchain AI platforma€™s adoption similarly the demand for these services is expected to rise. The Infosys High Tech practice enables microprocessors, manufacturers, and system-on-chip products to achieve operational ..."
     publishedDateTime: 2024-01-25T18:48:00Z

@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: The big AI party is not cancelled, just postponed"
-    excerpt: "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns"
-    publishedDateTime: 2024-01-22T11:03:00Z
-    webUrl: "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html"
+  - title: "Opinion: AI In Policing - Saviour Or Suspect?"
+    excerpt: "In the race between cops and criminals, it often seems like the bad guys have the upper hand, especially with tech like AI creating deepfakes, policing algorithms going rogue with their biases, and so on."
+    publishedDateTime: 2024-01-25T11:31:00Z
+    webUrl: "https://www.ndtv.com/opinion/ai-in-policing-saviour-or-suspect-4930010"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg"
-        width: 3501
-        height: 2469
+      - url: "https://c.ndtvimg.com/2023-08/j4lbd4g_artificial-intelligence_625x300_01_August_23.jpg"
+        width: 1200
+        height: 738
         isCached: true
 
 secured: "gJ9SrhNwyZlqYY+3gL1KYE+R6F/dlef2ldavOExGa+4CXaqMv9774d5hEOnDEPxcB/PKwbpmMGDgggkk/emIvvxK6v4pp1+eXqt9OUid1+bGT6MKyOaC31ZwU8DBtyKTLOr/+v9PfmtJKWVMDiCviRGpSABBYk0Dpi/qfgfab1/aXTK0o7poj0GCriYNZF5TIlei5RPQ+bN1KplWEG5tfPLwog7AWEiP/VUUVXF6F+Qr3OiqXN56GZ6QNNxPvyasRu62MJ7qUinf9eW1EV1w29hPjFsdz3YLAS8D7G+jxfq/WuBL5v6AqR9IzE4laqrWj7GnI0WtLDLQ+nOxx+xtCW/rUYKZbP8Zad3fPby7ueU=;AmcJA6N3UoZe9dtPKlCPNA=="

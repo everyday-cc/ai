@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Natural Language Processing Industry Set to Skyrocket to US$ 18.5 Billion by 2033 | Reveals Future Market Insights"
-    excerpt: "The Global Healthcare Natural Language Processing Industry is experiencing an extraordinary surge, with a projected valuation of approximately US$ 3.5 Billion by the end of 2023. This meteoric rise is underpinned by a robust Compound Annual Growth Rate (CAGR) of 18."
-    publishedDateTime: 2024-01-22T11:51:00Z
-    webUrl: "https://www.fmiblog.com/2024/01/22/global-healthcare-natural-language-processing-industry-set-to-skyrocket-to-us-18-5-billion-by-2033-reveals-future-market-insights/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 25
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2024/01/Global-Healthcare-Natural-Language-Processing-Industry.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "GCC Artificial Intelligence Market Size To Reach US$ 23.7 Billion By 2032 At 13.88% CAGR"
     excerpt: "(MENAFN- IMARC Group) The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market ... and competitiveness in various non-oil sectors such as healthcare, finance, retail, and tourism. In line with this, AI is being widely used for ..."
     publishedDateTime: 2024-01-25T00:00:00Z

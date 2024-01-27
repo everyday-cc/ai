@@ -48,6 +48,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Update Reveals AI Will Start Reading All Your Private Messages"
+    excerpt: "Bard also warns that such data analysis might bias its results. “AI algorithms can perpetuate biases present in the data they're trained on. Analyzing messages could lead to unintended profiling based on language, demographics, or social circles.”"
+    publishedDateTime: 2024-01-27T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/"
+    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "QP4WRGhpIaBNKBOQMv97kmao/nmOoouv2JxCURLpYxb5CF7u5Uusa3xONzz7Eeig5Tpo2pQSaYi02s1i2EiovE6Z5uY6mMKEoq54kyaKjYaLEyi5sBXSAr/AyABxjerYhpEwYBTB06tBu+mZEwKPjffV5lX7POZo/SUqbnpQbr6j38hk/I5O5tS1xPLeZUtj+GU1BNTuLShDIr+DNUS4fy5ZTrMc6JDR0RKqmrMihl2bAffGBVqdPiriNPD6hpBF/8HjyfdFtzMUdSorkaQgRaVLWrBbWIFKhqdZP6bac6Eqfz/+EyDKXVgrIXSo1dgVTX8ZXQsj2UjBDtD7I9pCTISr62ueUjUgac/uwD/AnsI=;MEvD4kaEvQDHJ8wegX81yw=="
 ---

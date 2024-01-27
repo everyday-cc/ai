@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases
 webUrl: "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Rolls Out New Full Self-Driving Update That Appears To Be A Big Improvement"
-    excerpt: "The latest version has brought significant updates to the system. The latest version of Tesla's Full Self-Driving (FSD) software has begun reaching customers. Known as v. 12.1.2, the newest update, which promises many improvements, was first rolled out to ..."
-    publishedDateTime: 2024-01-22T11:18:00Z
-    webUrl: "https://carbuzz.com/news/tesla-rolls-out-new-full-self-driving-update-that-appears-to-be-a-big-improvement"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 34
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1221000/0/1221096.jpg"
-        width: 1600
-        height: 1066
         isCached: true
 
 secured: "T4QGsVAKhS1Z++T0sSUlVHLfYPRy2dRYDkthl37ricWrH1XMGrLgselYpH7VXoQDIsv9d3WiUZQ7AwJeNDRUWlUM0dlcQRA1K3PKGqsFZXkxmXYTyJjnrXJcPt2ehcfJG4wQsSt0iivR4dDT0aXsuB6V/sFtFJAbmTFa3hBzHHsyyJaOatUpmW7snf38o3XMKxYElfJccpAb82ZMJx+zT8vEWXs/675U87ycgH14Err3kMGkm+g7spVjG+xTfKiVxqCIu6HBMfNhkSJD8HzN15G7yRBI0d1XccnsgrHKESy40nf2uf7vPNKEuzsl4+wfPaQRTlgEssPgNUbM9sdwXdgJipNquURdhckimu7BNI8=;FXvmu78ktmh5XADjpZ+Q+w=="

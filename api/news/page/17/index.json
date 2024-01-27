@@ -2,6 +2,40 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-01-10-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions.md",
+      "title": "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions",
+      "excerpt": "Translator for SharePoint: an enterprise-ready integration with Microsoft Cognitive Services to provide content authors translation services directly from within their content creation flow. \"Accelerator 365 is a great opportunity for us to bring together ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T09:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-deepmind-spin-off-aims-to-halve-drug-discovery-times-following-big-pharma-deals.md",
       "title": "DeepMind spin-off aims to halve drug discovery times following Big Pharma deals",
       "excerpt": "Chief of Google’s AI unit and Isomorphic Labs spells out targets following $3bn Eli Lilly-Novartis partnerships",
@@ -1033,49 +1067,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
-      "title": "How to find out if facial recognition is being used where you shop",
-      "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
-      "sourceUrl": null,
-      "webUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "originalUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://local12.com/resources/media/d62bea90-86f1-4b19-92a7-1929ec5f1d0a-large16x9_OH_FACIALRECOGNITION_frame_1443.jpeg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "publishedDateTime": "2024-01-09T15:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 12 WKRC Cincinnati",
-        "domain": "local12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

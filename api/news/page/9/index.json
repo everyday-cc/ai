@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-01-19-imf-ai-will-impact-60-of-jobs-and-worsen-inequality.md",
+      "title": "IMF: AI will impact 60% of jobs and worsen inequality",
+      "excerpt": "Just as with past technology advancements, AI will also lead to income and economic disparity, job displacement and inequality, IMF says.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_a5aa4b6f-7f83-4a44-b093-cc325ee94fcf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-as-expected.md",
       "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs as expected",
       "excerpt": "There’s been many attempts to extrapolate out and project how the AI technologies of today, like large language models, might impact people’s’ livelihoods — and whole economies — in the future.",
@@ -1165,58 +1217,6 @@
         "Google AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
-      "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
-      "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a89ff7bbe6a0f6c19b549b/0x0.jpg?format=jpg&crop=1598,1065,x38,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
-      "publishedDateTime": "2024-01-18T04:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

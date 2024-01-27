@@ -118,20 +118,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI-Generated Fake News Is Coming to an Election Near You"
-    excerpt: "In collaboration with YouGov, we used the AI-generated headlines to test how susceptible Americans are to AI-generated fake news. The results were concerning: 41 percent of Americans incorrectly thought the vaccine headline was true,"
-    publishedDateTime: 2024-01-22T12:00:00Z
-    webUrl: "https://www.wired.com/story/ai-generated-fake-news-is-coming-to-an-election-near-you/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65aaeee4031fd329f137a48b/191:100/w_1280,c_limit/WW2024_159682594_POLITICS_Sander-van-der-Linden.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "North Korean Hackers Spotted Using Generative AI"
     excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
     publishedDateTime: 2024-01-26T22:30:00Z

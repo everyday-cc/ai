@@ -26,22 +26,59 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI plans to set up chip factories worth $100 billion: Report"
-    excerpt: "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips."
-    publishedDateTime: 2024-01-22T12:40:00Z
-    webUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html"
-    ampWebUrl: "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/"
+  - title: "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI"
+    excerpt: "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data."
+    publishedDateTime: 2024-01-23T08:39:00Z
+    webUrl: "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 61
     images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
+  - title: "Startup AiDash raises $50 million for tech using AI, satellites to spot wildfire risk"
+    excerpt: "California startup AiDash, using AI and satellites, raised $50 million to spot fire and weather risks on power lines. This reflects Silicon Valley's efforts to help energy companies adapt to climate change."
+    publishedDateTime: 2024-01-24T05:06:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/articleshow/107101454.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/startup-aidash-raises-50-million-for-tech-using-ai-satellites-to-spot-wildfire-risk/amp_articleshow/107101454.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 50
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46276,msid-107101472/ai-artificial-intelligence-tech-startups-technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Elon Musk Aims for $6 Billion Fundraise to Fuel His AI Startup’s Growth"
+    excerpt: "According to a new Financial Times report, Musk is looking to secure $6 billion in fresh funding for his startup XAI. This enormous target reflects Musk’s ambitions to aggressively scale up XAI and compete at the top levels of the red-hot AI sector."
+    publishedDateTime: 2024-01-27T05:04:00Z
+    webUrl: "https://techreport.com/news/elon-musk-aims-for-6-billion-fundraise-to-fuel-his-ai-startups-growth/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 37
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities-2.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI automation software startup Bluesheets raises US$6.5 million in Series A funding"
+    excerpt: "Find out more about subscription packages here. BLUESHEETS, an artificial intelligence (AI) automation software company, has raised US$6.5 million in Series A funding, it announced on Tuesday (Jan 23). Venture capital firm Illuminate Financial led the ..."
+    publishedDateTime: 2024-01-23T14:25:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/startups/ai-automation-software-startup-bluesheets-raises-us65-million-series-funding"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 11
 
 secured: "cxK6ZqUG1JluVmRpuBOeswNl6SrxU9w8BwsqJPlLaghaqHSR4zT6wD+JBN1+MEyBm+cQ6Xb2sWbD/laMEe9w1jkOwW9iMdmTcaYv6cafP6/x/nWubHmWLuJrFJdR04fO7VY0lZMMPt6bpKUiXa6+1512NOoDQp+s4vG2wXMmcqBYag9o7l4JLchAgZVNz+TgbPaAxR4sqqMjuXayc/HSOQjccUOwhfjFJpmw1NNBl0PDpWRjZf1Xu1ZwKNp2NbRf5NofcpoVtiDei1/3NzfdbgQ/JpMQnSStUhEsSZTNptpzzH6pXIcyENZcZNkegDnU17lj8jMgvvyfXgNnxOEM0dIiOfaWi2rj6OKl8KVIuUQ=;U65GwcoR42/8kmwXbMtIIQ=="
 ---

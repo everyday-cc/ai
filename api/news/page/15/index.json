@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-01-12-top-10-best-python-libraries-for-deep-learning-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Deep Learning in 2024",
+      "excerpt": "Python is one of the most popular programming languages in the world, and it’s used extensively in the field of deep learning. Python’s versatility and ease of use make it an ideal language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Python-Libraries-for-Deep-Learning.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
       "title": "TuSimple’s self-driving trucks up for auction following US exit",
       "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
@@ -997,49 +1040,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
-      "title": "California considers artificial intelligence to improve traffic",
-      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "publishedDateTime": "2024-01-11T06:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News 8",
-        "domain": "cbs8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

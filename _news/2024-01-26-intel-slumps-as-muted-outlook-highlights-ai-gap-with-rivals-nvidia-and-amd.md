@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Lenovo Legion 9i launched in India with Intel 13th gen processor, Nvidia GPU, and in-built AI chip"
-    excerpt: "Lenovo has launched its first 16-inch gaming laptop in the Legion lineup, Legion 9i, in India. The Legion 9i comes with an Intel 13th-generation processor, a Nvidia graphics card, and a self-contained liquid-cooling system. Here’s all you need to know ..."
-    publishedDateTime: 2024-01-22T12:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/articleshow/107056924.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/lenovo-legion-9i-launched-in-india-with-intel-13th-gen-processor-nvidia-gpu-and-in-built-ai-chip/amp_articleshow/107056924.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 75
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107056946,width-1280,height-720,resizemode-4/107056946.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Opinion: AI can revolutionize healthcare"
     excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
     publishedDateTime: 2024-01-22T23:59:00Z

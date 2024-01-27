@@ -591,6 +591,57 @@
       ]
     },
     {
+      "path": "_news/2024-01-25-will-ai-take-our-jobs.md",
+      "title": "Will AI Take Our Jobs?",
+      "excerpt": "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 852,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "publishedDateTime": "2024-01-24T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
       "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
       "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
@@ -704,7 +755,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -806,7 +857,7 @@
       "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1243,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos.md",
-      "title": "Google shows off Lumiere, a space-time diffusion model for realistic AI videos",
-      "excerpt": "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/",
-      "originalUrl": "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T12:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

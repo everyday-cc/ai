@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
-    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
-    publishedDateTime: 2024-01-22T12:52:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 52
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
     publishedDateTime: 2024-01-25T18:49:00Z
@@ -117,6 +103,6 @@ related:
       domain: theglobeandmail.com
     quality: 34
 
-secured: "AmSg9XBXnNuXzWscr3AtoT9+AItdgKw8EwtR9uWgvSUcL8RMCBqXysmNn9PJ+Y65OUCYAOxa53zgpFLGfjUFZaOIVIY62A6sze6l9rJYH5mUfCTjtAfLPaYYmeEbDaei7JiZtUvBkXklrTA+sLpoSgyaBZs7fulUKVt3g+WK1rQJA3pMVKqd6/tGCZO5WiRG5alIfEeSOpQSSNXT+O2QZnuuMfJMU7bChKXYna7RzYnLnVVwPgvdNrbrQjxJSHzaKMtL2fKoxIGJYXqm60Vr7O+O8kCQOrTJonGqXltK8nX6pEqqN5ffSa1kIff/eEPh2AizYbqZ/NcQaN3U3Ud0b1hsjeme0iL8q/8WGL4aWzE=;Jc5V0BdGIo0goDYjdv5HEQ=="
+secured: "ubz++mnrf6N4c9NVaAWkbXPOZUmyHa2ZiSUuyoclBlHSCYwwPhUhS4gwuZtcWWa6U/Z5M1s1mX1E9lZWvfeGFlxzNkyFx4BUKWUH7SGOQvXistILQMI/KWNudd7t2iUDfvV30ReMrpcxmIh6LHdqeAB0cy6G8CRvnhvL3nOvhw3CvG6/k2AGx7p1ewwCbPbHsW/Gvhf2c8c8PRcsrBnfL6lgB7EGionzU2UuuFJeR5l5mj8v/65XRXuZcmA+IVAzkdcKJf+s1Jsi06p1O58qQHsbwMtaVxjvKrnS/VBLSi3jUnBOYdFDx9c80m663sh0xh1vAEelwWO8i6zJO3CDpbL4Z+BxJGQtXXt08FXIEHU=;un/tjBZJc6F4dnrUs6Ky9Q=="
 ---
 
