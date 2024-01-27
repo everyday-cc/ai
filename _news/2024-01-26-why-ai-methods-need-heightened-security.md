@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial intelligence and immunity"
+    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z
@@ -83,6 +92,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Role of Artificial Intelligence in Cybersecurity"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
+    publishedDateTime: 2024-01-27T13:21:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "VC0rWWytoaBPYL47RzRqOBRV5xN7Z9sbO0LfvtVQSWLpJbeWzCm6ctcEP1iSRF3mUq7zQ2+P8vEE0fFGh+obPafwgngd029oudmL5fDDk2io3ZwGp8CH4q+lgyy/rVBeJqvdrNsJyQ52kA5fLEj7/+5lT9gedDjOa3zRhS926j8WYrLer9fV7jw+ogIxpXQjIvP9DO+k7/qgBtl+achy+koA9RYyHbNqHCSIJCNi9ViMvdfsx4GVORMsh719RKTIuHMKsQF8ppW7EfIEzOQOrugilKlSV5MxBgPWroahwVHECriSZX9ppNNw5v7Gbfl9+6fSnODDKOrndSKCVuOrkkh0aMlGkaTVWlnoB8a/CWo=;sBMo9dOfySPcBUVyiV0nxg=="
 ---

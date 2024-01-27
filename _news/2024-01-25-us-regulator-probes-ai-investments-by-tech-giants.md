@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-inve
 cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
+    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
+    publishedDateTime: 2024-01-26T17:31:00Z
+    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 56
+    images:
+      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Biden administration, tech giants partner for AI research program"
     excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
     publishedDateTime: 2024-01-24T16:38:00Z

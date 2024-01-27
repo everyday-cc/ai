@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI voice startup ElevenLabs lands $80M round, launches marketplace of cloned voices"
-    excerpt: "With this round, the valuation of the AI voice startup, known for speech cloning and synthesis, has grown ten-fold to over $1 billion."
-    publishedDateTime: 2024-01-22T15:01:00Z
-    webUrl: "https://venturebeat.com/ai/ai-voice-startup-elevenlabs-lands-80m-round-launches-marketplace-of-cloned-voices/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_surreal_ima_7c73dac2-8f58-4d7d-9453-d9085963aaf4-e1705687641947.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AI voice cloning startup ElevenLabs becomes unicorn after $80 million funding round"
     excerpt: "AI voice cloning startup ElevenLabs has gained unicorn status after its latest round of fundraising, per a Reuters report on Monday. According to a source, the company raised $80 million in Series B funding from investors led by Andreessen Horowitz ..."
     publishedDateTime: 2024-01-24T06:50:00Z

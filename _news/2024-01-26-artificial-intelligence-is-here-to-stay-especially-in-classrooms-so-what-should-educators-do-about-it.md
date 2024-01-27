@@ -1,26 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence is here to stay, especially in classrooms. So what should educators do about it?"
-excerpt: "From the Board of Regents and legislative biennium meetings to school hallways and college classrooms, it seems like everyone is trying to predict how artificial intelligence will impact education in Montana and what to do about it. AI will be a fixture in ..."
+excerpt: "Within two months, it had 100 million users, the fastest growing emerging technology in recent history, leapfrogging the likes of Facebook ... research. Many experts say it’s best to assume nearly every student in a college classroom is using AI on ..."
 publishedDateTime: 2024-01-26T11:15:00Z
-originalUrl: "https://helenair.com/news/state-regional/education/artificial-intelligence-ai-education/article_48333e1e-94f3-52f1-843c-f9f59dab05cc.html"
-webUrl: "https://helenair.com/news/state-regional/education/artificial-intelligence-ai-education/article_48333e1e-94f3-52f1-843c-f9f59dab05cc.html"
+originalUrl: "https://billingsgazette.com/news/state-regional/education/artificial-intelligence-ai-education/article_57c79ddb-1eff-55c7-ae14-746cc16001eb.html"
+webUrl: "https://billingsgazette.com/news/state-regional/education/artificial-intelligence-ai-education/article_57c79ddb-1eff-55c7-ae14-746cc16001eb.html"
 type: article
-quality: 24
-heat: 24
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Independent Record
-  domain: helenair.com
+  name: Billings Gazette
+  domain: billingsgazette.com
 
 topics:
-  - AI
   - Meta AI
-  - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/83/48333e1e-94f3-52f1-843c-f9f59dab05cc/65b41a46dff4e.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/5/7c/57c79ddb-1eff-55c7-ae14-746cc16001eb/65b41722e1c66.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
     width: 629
     height: 330
     isCached: true
@@ -36,6 +35,6 @@ related:
       domain: missoulian.com
     quality: 2
 
-secured: "vnxsp4nTJzSIP9JvEm65ze+2t90owRyG/Vg3H2EiOR2U9He1Sd4OdHKxEPAHz9mnl0XygBLKMwv7yn9lSR0UrcLg9A/THMnPNkdZ5MM3OE7J0YDWzxs7TvqT4F3wITXvQQx31GMszjtJw2tffs64wsmHHDn26qxLgeNOI8+3/tfUeTtvZqtQQDRDlD4dpDXbJzdcDHw52ChElnsQw7qKEiqg1zlq3tUW6iJ27zdBrWzY+fDLEAWVB5Gx+1jJAXbNFWgINxMP4VmNLXiXJrOIDcideppm05GYQSpRGT4SLi87ivXeuRuS+6+kqmuQKKKdnyYx0FuMOp6tn8WWKZ5UgjSKrQu1XPHPHSn4YJo5l6G37GesKaE9OsfssuPHxyiFgnOSYaMTjDgbNwAgCUXmr/dvYQxdbyZncsDNIZZiMLeiMp1v+uSdAa7ARrJqAio9hkz5W1YUKNdkt1zIMQP8ikedKCTf+yZyPfzfuihXxW5FhLlBBpIjdQWGo/HUl9OSVprFV9suryXoDaCkzxEryg==;hpV8RYeSrhffvYvr16+u5g=="
+secured: "+7daa89TU2I3PIPmWnQwHQUVRosZ0NMGjKu4KNhkN3FpwZVrn9HKxDyC3fN8orLAU3bEyPykvn4TpwCSPccmN2w+jdvEEJTts8MKsF6PLXxd83gdOUOzFzo4PGnTgRC2ICdn9WO/fn+B+/v+pj9Vk/drAzXkPNxQlPFC8d2jz4iJNqwDM1y94D3OtM3fB9lfrIOVw+io0nKl+8c9S2x5VjgBr/4g2b22jhlBB6wkSIDq54DMFpcbZyB7Uwj1qWfT+xdeHlcTjLfR1zgAgQQ6hU888q89cJkw7TcWvgmjUZcTGkO0XlTB3iRbZuyuaEsYbquS5LVlWJ785OIz9JnE1f+fx4KJcj5EFC9dlTq+5TA=;T+86o8RpJnot42645FM4Rw=="
 ---
 

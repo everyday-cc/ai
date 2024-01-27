@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 166
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial intelligence and immunity"
+    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z
@@ -83,6 +92,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Role of Artificial Intelligence in Cybersecurity"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
+    publishedDateTime: 2024-01-27T13:21:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "lAMuTMkvj9cxlqtVaPdgu7n3jLy+gIbgXaLhtv34PySnaOvHjEGCMD+zp5prljXuaDV4mBEfH5BnJ0YskBIYmkyCbisTYCq554n416K9jTvJkCvwx1cM0H3hGkrmta4e5NqC+NOljGH2KgDx33Ue9QF45a+apfX5uOr3zX79o5pP7m/mwCNtOHIQ0Q8Y92M306eDJulladRruQcaJZvmorNtdqxz5VA8e9SNGBzXblbtY9mEjjmqU7/M73SjdKyNwknAAp3VfXwM6Kph8KsgJOxV9l8vABpzvvRz9N2vb7ODvO0MSgR8VLAmE/8GCz2bJmC9Map4fcy3+s0rcyOQoRpu77Q3r3WGJE6HpUstzXA=;LzmoKTXpCFKvyLHCryEMXg=="
 ---

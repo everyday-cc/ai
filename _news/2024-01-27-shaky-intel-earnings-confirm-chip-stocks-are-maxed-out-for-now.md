@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnin
 webUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941"
 type: article
 quality: 69
-heat: 90
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Riding the AI Wave: How Intel Stock Is Poised for Massive Growth in 2024"
+    excerpt: "Intel (NASDAQ:INTC) is benefiting from strong demand for its chips that are used to produce AI. Moreover, the company is positioning itself to get a lift from AI PC proliferation with its improved server chips. Long term, Intel stock should get a boost to ..."
+    publishedDateTime: 2024-01-24T08:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riding-the-ai-wave-how-intel-stock-is-poised-for-massive-growth-in-2024-1032992628"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "MWK+CoILpbUbK/e6Fs7e3nGFZcn0Sy04uh54B4t9/+Fti6/24muZG98Q4cS2tlBZSw+XAMFJ/iOvIt0o1pMQn36vzvHVlz4GHR3rgVl8kbmbFXQROiCOK9cmr5yyc5Ye74uQFmw+DP/FW0pfuZoJXV1lFGOwNlVnXIQ9tgno3lHKLzaZn9YHKCL3rRVfzOskE+xTGEmGessz7jNOgyZ9xTjLEF7t+ZCdlnhLTey4s5v9PUX81rECpeH66tN18Cz5i119G3N7exWU94yyHtc02lXquU6M7xGh6jLNfv7Hd/El/OAze2xOG9b+qa6HjcjF6vvPn4gp4l1LYSZagxhCvkwra69GEhNodN/jm7DTYqc=;xfQteXmKhp8w9a9KsNFC5Q=="
 ---

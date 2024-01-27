@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
-    excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
-    publishedDateTime: 2024-01-22T15:26:00Z
-    webUrl: "https://techstory.in/top-scientists-exit-to-form-ai-startup/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_copy_protection-2.jpg"
-        width: 350
-        height: 216
-        isCached: true
 
 secured: "fez1v77KcqJuHI1ry1p1jc9CoC+MIxbJtuYq13nmus6tkTMHlQvepJlKQ0mJ4JEPSq7nUc+D+rCLf3kB4JwPEBEJiBrMYxpTbY1KTXtweeVq+OVbwMwNCF05rZq6xCvRkJpELx9niFOqgwgZsdzMZtzIEQ72R7zeUd9UF7R3H2kghy3lBDdd6uxhsPi4rQA+QH8Z8JTUMoYRVmpuumcvmBfNYuWCAx99lI52u0H/RkdaxudgV0DtEJg2PnFO33FSFmU+tTb0fg62mwKZ/Z8pwMd3ZLIOiOB8djWz703lw2aHYDTql1opK1+rHDzdAnBs91Rf3sV6vzcpGfVybyxAmP0VuarRvJBW99c1jYhAQrxqB/jLLMQwUQijM4PNhdm4sB54hCBZFE00+mLkZKTJJM71H16kS33jjtnQHjRuNvLehOrZyYFeNqsbY4TEeXbapibJj/5XdCsGvX6cdaGGFleOicR1s4aCxiqYffDGt456xqs/Rt4vZxKDmgXaCghoYBazFhuBJ7Kuu3ZT35oKGw==;N1TFztFcuZmr9aJl0HXnYQ=="
 ---

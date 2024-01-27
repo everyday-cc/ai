@@ -64,6 +64,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Artificial intelligence and immunity"
+    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "The University of Texas San Antonio Creates a College for AI and Cybersecurity"
     excerpt: "OpenAI CEO Sam Altman argued that AI is good for education and this makes sense. If an AI can help a CEO dream up a new business plan, then it can certainly help a professor with routine tasks like pulling together the right topics for their course syllabus."
     publishedDateTime: 2024-01-24T18:01:00Z
@@ -78,6 +87,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Role of Artificial Intelligence in Cybersecurity"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
+    publishedDateTime: 2024-01-27T13:21:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "rGujgGXoF/ev1KbqYOU55FitsuQfFYuzOdG99WT2FtNDTccmKpJDNhjB/H3npM7TBgZ7E6rToL13W4zc0gAjroQ1w+K39+Qlh9F9Y5j8Q7r3/88rwdgFTveZRtW4Wa1SLuT/KbilbLdSqgKBLGFWftAW9JL1bbvhFWN4iq1hOzstT0TsSXqHycbjsFwp4UF9cReg2LsXKWZDsM+pW5oPekp9RnCJbbSao5gCEZAZJC4L6VCYM7+Z1QhZWTy1OX4ocgmgOujnoR9entmMbrItuE8x3FK/eruJg8ikpjvWeBgS+NYUW7zeU8Mtic+eLKlSyPuSlcWZAxHz1BVtYMSSmz5xp8aSXZ1ICIgTBXwHXO4=;snjmTipfvU0inrLko7uu+Q=="
 ---

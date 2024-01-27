@@ -260,20 +260,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
   - title: "Microsoft deviates from OpenAI with new team for small AI models"
     excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
     publishedDateTime: 2024-01-24T20:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-help
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Can Help Humans Become More Human"
-    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
-    publishedDateTime: 2024-01-22T16:22:00Z
-    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Telco AI Deep Dive: From cloud-native to AI-native"
     excerpt: "For an operator to be AI-native it first has to be cloud-native; today most aren't, so where does that leave them with regard to AI?"
     publishedDateTime: 2024-01-22T21:52:00Z

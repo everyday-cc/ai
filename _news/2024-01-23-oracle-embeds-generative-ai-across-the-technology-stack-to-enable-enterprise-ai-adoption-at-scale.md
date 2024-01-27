@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
+        isCached: true
+  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
+    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2024-01-24T12:57:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "CAPGEMINI, AWS Partner to Drive Widespread Adoption of Enterprise-Level Generative AI"
     excerpt: "Helping clients realize the full value of generative AI at scale As part of this new initiative, Capgemini and AWS will build industry specific solutions, assets and accelerators supported by a unique platform designed to help clients improve the Total Cost of Ownership (TCO)."
     publishedDateTime: 2024-01-23T01:59:00Z
@@ -32,20 +60,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/7fbda677d2eca469ada6d41a37753cb2.jpg?t=20240123_015240"
         width: 752
         height: 408
-        isCached: true
-  - title: "Google's AI Model Gemini Could Help Businesses Create Better Ads"
-    excerpt: "A chatbot similar to ChatGPT or Google's Bard allows the user to \"talk\" through the ad-creation process, ask questions, or request a redo if they don't like the initial output. The system can also generate unique images based on a company's existing logos ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/google-s-ai-model-gemini-could-help-businesses-create-better-ads.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-office-inc-GettyImages-1402126273_536717_dmcfr9.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
     excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
@@ -61,15 +75,15 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
-    publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
+  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
+    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
+      name: ITWire
+      domain: itwire.com
+    quality: 2
 
 secured: "PKn6l6xZYJgGRBGF4RuFl/CEsJzItM75QLfz3LrfwECnub/6dXb+BONEcHFf43yR74r8oZ8I9/51rDtAxK0ebvXJRa7o7oz+iMLf2NtA3CL1tdhQdqRIsO9L/7lSMkQ5sWJb3ETCrfvXPscXLGJGomxmyKVPtW/MVRBtsdrUuyhXrAGiOvgRY1oZmeJYHkClHPDXTBnQS3I/5D8xIFL9erzJadXzC3w+jqJGLqlgGKuJ/IGFYP2jWj9ykh0aOQdo4WhtFFHXJcjEXh6ct4QSTTRrDheSxb4l6N6GlL3362AOWAkhqm5FJpEDcF8rWaSzG46RuUw+rKE6Girs6/2YAy7QAM3mpFJC70bYHCAW+gI=;jB6S8v9YTuJq2pyUnuY5NA=="
 ---

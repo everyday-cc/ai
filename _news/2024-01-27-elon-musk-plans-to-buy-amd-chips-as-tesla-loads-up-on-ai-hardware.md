@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-bu
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -75,7 +75,16 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Elon Musk says his AI startup xAI not raising capital"
+    excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
+    publishedDateTime: 2024-01-27T13:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/elon-musk-says-his-ai-startup-xai-not-raising-capital-12134591.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
-secured: "jhlPKRpuzyr0YCw0Csf9gV4PnaVEHj/fURgqkEUTn9A/29X4z55SxsTt/P2YolbUbTqQ1ZgigfBSTjbzl7RJ0udbbj2cDSY6qyPKtEq6WtmXyFCuOdnKZh6v19/y+bIig+gdrOtqWJNqvjhOZY7kpuPY2wruLFNuM9ir3/XSis8PfSsXVgQaXonalscog3ZexHOB6GdJyhjUi8MNoyT94uQwGvWKBMoXhM9nAxN2u3TcI/hSrx/lpjoWjQiPeNw5XL4YmNJOJQCgxu6yS8Z/pG6HIb4j3sOv6LgG6e3S3MaTYiGJzHMkVQuBrj6T6V97l8hSIw+9JvGuQAOnLAkD55yj9SpfHR+77YlPFCfjycvFUvQI2Jfllnsd7LkhdSaiRpDok80rKMPUZfDudOMEP292p3YexD/yXFZEJzqRlEy3liFw2DlTGzrUyOk9/7TZrpW5LijWcRigAqfnJ2zb4T8WYSWCZopTMe3WzgNB3EXXci8DOJPgJrUssrj2/BbfHANl5ir39uSbBehTLYrGBw==;EVzH2RnNQTxzOFGj1o0G+Q=="
+secured: "xeP6Cq+d8Ulcp0r0XRpwzgrUDuzX7XsrKWiE7I5eKrFViiARAOYfO5i5rvwWBKLZi1Pt0Wjs+96k/dT1wEOsPCyAnnHpL32o7GmbYZDYBwkFG05Eewdwx0bRAAUm4xu5SQKB0gYhBST2K/sMbmfW5eLuAWISPa14kA/Ch+yKE9etucNvW669nwuiKnw+G9H190sKfDdtU9skwXhuxD8tDfFOkfB1YSIgLypXzDByNaqO/ZywC8Znw6sfkQU8ijG7bwcVmnNTRC3HfgpTfiwPcj/V0HVpVpkrj75qCUBzZOHDP5LWqz7FxAhbr3yzqC/W6+2bqkx788uSxiSUQ2j76kgcwH86sM2pXTw2CanwPwWZ1/P0BBXqz1WguDK6ON328vmtnryCjVKT/1PRh95ss/+E7LeWf/mUfi2yiUrN/WNugI0EkPRDRHBHlfmf4yk3w4vUq5JgWuY3cnH7ChDB74S09AWYdsC4eJ5CzdyndHazzxhh3FTo2nal/4j2OE4ln+CqTxFGVCeRYcfGEMeOQQ==;I96ckAFq1bnQ+PMi8GTfnQ=="
 ---
 

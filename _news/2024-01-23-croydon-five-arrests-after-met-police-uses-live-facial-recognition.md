@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Live Facial Recognition used in Croydon"
-    excerpt: "As part of the Met’s ongoing work to reduce serious violence in the Croydon area officers made five arrests using LFR."
-    publishedDateTime: 2024-01-22T16:27:00Z
-    webUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-croydon-478292"
-    type: article
-    provider:
-      name: Metropolitan Police Service
-      domain: police.uk
-    quality: 39
-    images:
-      - url: "https://resources-prod.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/elzkqau2jt3ndjgsszua"
-        width: 1782
-        height: 1002
-        isCached: true
   - title: "Live facial recognition helps deliver justice in Croydon"
     excerpt: "For the second time in five days, the Met deployed live facial recognition technology in Croydon resulting in eight people being arrested. This action from officers on Tuesday, 23 January is a direct result of listening to community concerns about serious ..."
     publishedDateTime: 2024-01-24T15:00:00Z

@@ -79,6 +79,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Elon Musk says his AI startup xAI not raising capital"
+    excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
+    publishedDateTime: 2024-01-27T13:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/elon-musk-says-his-ai-startup-xai-not-raising-capital-12134591.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "Zc6Q4kuK3W8iFRC0Dfd30rneJxcfbhhkEGUeU+q7ZtBF+q4pHaeBlQ1EAEmZZqzilYT9Hn43qQgb2kTdWx1ZgNgaF81S+tV77mthC3Tw1Pfkfw9XpQtdlS6ks1LfKPIBU7il6YOkQ/YL96jNnXyz868R0bN6aLHE48Dsd9AduJ9I36Pr8A9Umeldkc4OsgkMPrzOzK5gax1OohEjEjTAS6q9BRSsvIE7neT6bh/XVTbz68iFfx+DS0J4Ee4msSEU7qdWLtwQaXr7158t4rXxiYbEWdGlXVvp0xN7o1lz20wSl3LSz+LtU6vos/rXvZVaQmDMU64GoVk8kw1G1r3+wP0B7Q6JYNz2XYbne3kuyhfIfzXe8S2mvuIZUF7FFK3pOEJJSU+s2a+Ng6mwjReu/6O90weYk0GzuNiD9qOknBEvY00l/w+6ot3nS5kQwEpHgTdcRJrDso2WHsUuGit3kKWim8D6byp9IU+aZ++EPQl1iqW7h7gAIx2MwlhKFCqB4X8Jo/uxFTgYWtypGUTZZA==;Zli1k6DvO2vFYeVhKtALOg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-vo
 webUrl: "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://sentinelcolorado.com/wp-content/uploads/2024/01/AP24022637397821.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
-    excerpt: "The New Hampshire attorney general’s office says it is investigating reports of an apparent robocall that used artificial intelligence to mimic President Joe Biden’s voice and discourage voters in the"
-    publishedDateTime: 2024-01-22T14:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2024/01/22/new-hampshire-primary-biden-ai-deepfake-robocall/9ef718d6-b958-11ee-b176-fe5fd794e716_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 23
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SLYFH5FZLAI65MLW7ZP5PFHHCY.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "1+WaJxT245ulCOSwGK6hWKQrFefqAyrZZtJkXcXRtaU4aAb1nEScwhfZtqyf5CywAHqCptS/KtxBNalt1VPOPEciuVHvTRLYUnew8BNBCOHgkUWd83SgtWhLqd3tzfxX0yfISYtptNXas7YYJ86SJOcBp5M7PPsBKSojYq1NlQQSM3GPpTA7drwQEg3Hh7KlUlzalfw1jdIH09R8Qd/fD0CdpMTRz30YdEghRtZwuU/tI68hLGL44Zf6sbH/6X6zXE5LLiOCtpN5Eh1bP+vWXE+JTYI63PWObB9Pe8fdajHCcTl2e/iPFa1F/Kv4C6IyZit3Yh1AkpBdvyhmdgxTmE7qSUOC+D1gRVFtlOm/jjvxh4zJL2Wwem2LQLdOMtHN/rlGHdduetuzFovV4to4UAr42l6Moc9135axdGsv9NZMzb18v6FNDkwdDds0DNXHcczF57UyAH7c1rW8XG6JWUl6HoM7487ue4uajhIi3338lGDY9x0ClqSf5hhcxt9jTriTJl1+MAFNNb0O9wH+dw==;SGmcqM3eCHSQnCZcw8AqKw=="

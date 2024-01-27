@@ -18,47 +18,93 @@ topics:
   - AI
 
 related:
-  - title: "It’s 2021 for AI while the rest of the startup market is stuck in 2024"
-    excerpt: "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ..."
-    publishedDateTime: 2024-01-22T15:15:00Z
-    webUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/"
-    ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
+  - title: "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024"
+    excerpt: "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed."
+    publishedDateTime: 2024-01-27T10:05:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
-        width: 680
-        height: 383
+      - url: "https://g.foolcdn.com/editorial/images/762310/artificial-intelligence-ai.jpg"
+        width: 2102
+        height: 1426
         isCached: true
-  - title: "AI in 2024: Riding the next wave of transformation"
-    excerpt: "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ..."
-    publishedDateTime: 2024-01-26T06:39:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Riding the AI Wave: How Intel Stock Is Poised for Massive Growth in 2024"
-    excerpt: "Intel (NASDAQ:INTC) is benefiting from strong demand for its chips that are used to produce AI. Moreover, the company is positioning itself to get a lift from AI PC proliferation with its improved server chips. Long term, Intel stock should get a boost to ..."
-    publishedDateTime: 2024-01-24T08:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/riding-the-ai-wave-how-intel-stock-is-poised-for-massive-growth-in-2024-1032992628"
+  - title: "The 3 Most Promising Artificial Intelligence Stocks in 2024, According to Grok AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the steady rise of artificial intelligence, we asked Grok AI for its"
+    publishedDateTime: 2024-01-23T23:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-artificial-intelligence-stocks-in-2024-according-to-grok-ai-1032989672"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
+    quality: 57
+  - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
+    publishedDateTime: 2024-01-25T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "3 Artificial Intelligence Stocks to Buy as the Technology Advances in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips According to the International Monetary Fund, we are on the brink of a"
+    publishedDateTime: 2024-01-26T02:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-to-buy-as-the-technology-advances-in-2024-1032998857"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
+    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
+    publishedDateTime: 2024-01-23T22:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 45
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
+  - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
+    excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
+    publishedDateTime: 2024-01-26T22:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23628764/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 41
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
+  - title: "5 Best Artificial Intelligence Stocks to Buy Now, According to Analysts – January 2024"
+    excerpt: "Artificial Intelligence (AI) stocks soared in 2023, and the trend shows no signs of slowing down in 2024. Fueled by advancements in areas like machine learning and robotic process automation, AI companies are witnessing solid growth and attracting investors' attention."
+    publishedDateTime: 2024-01-23T05:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-best-artificial-intelligence-stocks-to-buy-now-according-to-analysts-january-2024"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 39
+  - title: "3 Top Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in 2024"
+    excerpt: "Artificial intelligence (AI) was a hot market last year ... That's more than the $23.1 billion in third-quarter revenue generated by Amazon Web Services (AWS), the company's cloud computing platform. AWS provides AI services to other businesses, such ..."
+    publishedDateTime: 2024-01-24T18:12:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23561136/3-top-artificial-intelligence-ai-stocks-to-buy-hand-over-fist-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 34
 
 secured: "blrnpk9GTdGFHCDOLiVqKl+PtszQMA56bNVzBTzgXy97Vud8+2UIl7t2UjysLuLo4hRLbATyZcv+/C9I0ZsuL0XYkhwYJWZYNlB3zo4h6sFsf0/psSZdJUrZt60KZ2FXj/rO3tgUxW+FaK+uTVm74FWBRppRQOBHvIDuEfKoBVHDSeP8AUy6bD8WRIdjbmPsca4S7rjroZ5iRCQmI32fU4vYlaIadci56WgkEr6aqtI6gBI8pdwJwCA30Wld4eWEufYXMU4Gp6Od7rlF7LaxBW03F4qm7ctIuIJbsLOoQW43ZBIlQcqOrgi9CC5gRdxcw8m8pKpxQXfKHr/Yvi4jlLqF9OB3p+ajILFGUamNCAE=;Bc4SiuiNYWXc7DD262a9aA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-
 webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     provider:
       name: Axios
       domain: axios.com
+    quality: 19
+  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
+    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 19
 
 secured: "/6bu7UsOYMEYfHnUrqKPX4KQ12fGG/z8y3wc9HmBoss+Ha+3HFiGf4JgHDku7lSY2vDSQb8y8EqfDnARwYiRcJJ1shW177skUsaR825lkHQ/tvsqGrcUeeIpam3ZA957dieQ6u/9eKPGlaTI3+UORmw8+DG8rMWnK3SoBZ9wk7U8nvcDAxXvpQP5yVzPVfg4Zun8Z50noIKG5KZBvU3dcFyV60cCVWjRv07mBaVE1dfGUosKWORz9T6xq7vuBLBphI8w7J558U+LN1fE0Cw1Lml8OGKNRm86C7wrxVMsMyuWzzyi5fe3iJ+3MZ5vCnVRBYjJD+MxlNibWzyCY59fdZNPqRsFPPKEfHLAr5dTFdI=;GfV92YAq6DL4iblAswy+Gw=="

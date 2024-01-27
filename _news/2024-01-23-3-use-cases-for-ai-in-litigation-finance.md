@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/litigationdaily/2024/01/23/3-use-cases-for-ai-
 webUrl: "https://www.law.com/litigationdaily/2024/01/23/3-use-cases-for-ai-in-litigation-finance/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
-    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+  - title: "The Case For AI In Observability And Growth"
+    excerpt: "In the modern business landscape, data is the new currency. It informs decisions, drives strategies, and can be a key differentiator in competitive markets."
+    publishedDateTime: 2024-01-27T15:42:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b52f9a184f38f65ecec3bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "MaEwJVwa+IjDecaFEAXtviObGOROSxAbtWeWbiEH75akEHSbDCE69EsKts5P1vIDO/iGGRH1YU8Y74P5F4OW4suWiQfoutUyFWtyHZ1TsWWibkazSV8vo4o9Ihm84Tr/KU5d20g8nbdsv9WA7jIzB9xaAfFD9yoAj7KW0ydbI/px40bCbeunJUZiD7U86oB+zRNKBW/y/5XFe/8bWHyMAK4UYsWyo2iO8MGNhAr9OG8zypMQUoQKMp0XH2yrxvFdWACYO95jeyHnxTGrJpUTKhMPzMej438djg68mvv/YqbO6Esh0e8fsKzv44i/2sg5iZteF39eK1fW5bsRChPNoEf/WngtDDR4b8c4E7WgGuY=;y1tbFAPd7cokE6rd6jXv/g=="
 ---

@@ -250,20 +250,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "How CarMax organized and scaled innovation with Microsoft AI solutions"
-    excerpt: "CarMax organized for AI success by scaling Microsoft solutions and drove innovation that transformed its business for customers and employees. Learn how."
-    publishedDateTime: 2024-01-22T16:03:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/01/22/how-carmax-organized-and-scaled-innovation-with-microsoft-ai-solutions/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 54
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/01/Ofc17_frontline-worker.jpg"
-        width: 1260
-        height: 840
-        isCached: true
   - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-25T05:56:00Z

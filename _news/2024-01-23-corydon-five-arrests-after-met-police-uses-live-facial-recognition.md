@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Live Facial Recognition used in Croydon"
-    excerpt: "As part of the Met’s ongoing work to reduce serious violence in the Croydon area officers made five arrests using LFR."
-    publishedDateTime: 2024-01-22T16:27:00Z
-    webUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-croydon-478292"
-    type: article
-    provider:
-      name: Metropolitan Police Service
-      domain: police.uk
-    quality: 39
-    images:
-      - url: "https://resources-prod.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/elzkqau2jt3ndjgsszua"
-        width: 1782
-        height: 1002
         isCached: true
   - title: "Live facial recognition helps deliver justice in Croydon"
     excerpt: "For the second time in five days, the Met deployed live facial recognition technology in Croydon resulting in eight people being arrested. This action from officers on Tuesday, 23 January is a direct result of listening to community concerns about serious ..."

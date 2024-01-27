@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 139
+heat: 151
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "This Artificial Intelligence (AI) Stock Is My Top Stock-Split Candidate for 2024"
+    excerpt: "Its latest Tomahawk 5 is a high-bandwidth switch designed to accelerate artificial intelligence (AI) and machine learning workloads. These chips determine how quickly data travels from one point to another, and when developers are training AI models using ..."
+    publishedDateTime: 2024-01-24T14:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/23558554/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 27
 
 secured: "ubz++mnrf6N4c9NVaAWkbXPOZUmyHa2ZiSUuyoclBlHSCYwwPhUhS4gwuZtcWWa6U/Z5M1s1mX1E9lZWvfeGFlxzNkyFx4BUKWUH7SGOQvXistILQMI/KWNudd7t2iUDfvV30ReMrpcxmIh6LHdqeAB0cy6G8CRvnhvL3nOvhw3CvG6/k2AGx7p1ewwCbPbHsW/Gvhf2c8c8PRcsrBnfL6lgB7EGionzU2UuuFJeR5l5mj8v/65XRXuZcmA+IVAzkdcKJf+s1Jsi06p1O58qQHsbwMtaVxjvKrnS/VBLSi3jUnBOYdFDx9c80m663sh0xh1vAEelwWO8i6zJO3CDpbL4Z+BxJGQtXXt08FXIEHU=;un/tjBZJc6F4dnrUs6Ky9Q=="
 ---

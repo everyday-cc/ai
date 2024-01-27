@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "What could go wrong if police run facial recognition on an AI-generated face based on old DNA?"
-    excerpt: "Wired tells the story of California detectives who tried to use facial recognition to identify a face made with machine learning and crime scene DNA by phenotyping company Parabon NanoLabs. That’s not a good idea,"
-    publishedDateTime: 2024-01-22T14:45:00Z
-    webUrl: "https://www.theverge.com/2024/1/22/24046731/what-could-go-wrong-if-police-run-facial-recognition-on-an-ai-generated-face-based-on-old-dna"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 52
 
 secured: "lgNmZD1HTDUuxLrX3/tZYnjUteq2vQKw5B35LidyRT3Gds5eSN6evFfUYeDRbQpz2UAV6EU2EeG24xmN6V6BP+Jk7FXu66ZZgYGFz3KJZLc33homH2Gvignh5DJbOA6Pz33CWCifP+UFfgDQSoTWDyRBzHP+sfbQ8wc1lheJRkbLhfeOCrzuuUJaK9tv8pcAS1A93fN9WoNRM8Dtq9wnTrhhhDBvhVpkrQHKzFGIgbITV8qqwccgtJP+cN4wzWuCAvNYXkCKUx0P/rKnS58eNB6zZp78vVo4kdhwYMNhOFf04nGphlIqirRZKChEcNC9TfziSFtSh/jkqdI+yfEnrE3cbJ++N0v/b1UuRGIX3g6r3lpSMrSuRVV23b6yN4HFGYRLxvNjemm/hQHM6A+VoV49rS99Je+BeKcpM0aV69tpp3zV5hA7U/4f+/9CMnwRct4BO5HSYdvFpaN06ha6lwXJ8lem1Y3JrgGmc92ngVu2pMdndeRH1oEri98Rz0zE/ThZ5oKRrzBLCDijcXvRcA==;n0LQrl6ZdnSiYbscV27Auw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/23/ai-monitoring-startup-arthur-a
 webUrl: "https://siliconangle.com/2024/01/23/ai-monitoring-startup-arthur-adds-support-recommendation-systems-suggest-content-products/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Google launches AI-first startup accelerator for ecosystem expansion"
-    excerpt: "Google has announced the addition of AI First category to its startup accelerator program. Initially targeting startups in North America and Canada, the program is set to expand its reach to Europe, India, Brazil, and other regions. Selected startups will ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD218/ai-startup-accelerator-gemini-google-it+ce-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd218_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "B3mOscbld65pEioSCFpGSP0q69i+HaO+dAJARJWVzo2U969LM7aSDHNa2ywgUQJ0XxReD1JA0MwBfh+VWqT5//fsjbmTMkGpcB6oj75R4at+UrEMYrgwaw9qnMZYuFTYiAyOTuXMXsZ5FkrQBBOx4RtEJU6AZ1DAo9HUx6X88VSZGckPqtSnPhuH3gsAN+zPHkOIhP+IayB50+kN7xEdUV6TWnLHahX/eOxscguMzBd38wq0sL2rrtPHjsRLyBK0vmsKs33waJG3sjZjFgsW9PlaqPofhnwwV+zS4h2DFP11Q/o5M5V1LITEj26HrGDYrBo+XFlOMlzifN8HFnJ6JTq3qaidaS4fwpTQRwEh9XxCe29w3wv1qKFbVBpUzH9xVLNUTOcheKyDpvpZuChgXcmDILWFt3k/gsI9GRqjvD+/3YfPdFzyoEjILGbmBeLMYKj5xB5o0y3BV9iMVamPlcOYKqiiLYQGy25iR3B8lIlbpTWfOL8Vou28eavbOUKiOroy6DTtmzOnXkdqb0ceZQ==;irg2XhYn2t2j6kePoiyckg=="
 ---

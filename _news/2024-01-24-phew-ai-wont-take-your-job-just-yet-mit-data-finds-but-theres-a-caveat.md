@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-yo
 webUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
-    excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."
-    publishedDateTime: 2024-01-22T16:52:00Z
-    webUrl: "https://www.crainscleveland.com/technology/mit-study-says-humans-still-cheaper-ai-most-jobs"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 19
 
 secured: "3VV5Myny6lQYITd6n1wKvJ8wM0rxOia8++ZLqTGS9a/5Y/KYwV05RzodLM29+DO5iQewJ8aBxJl1ulTCwZwJRyHn9a2s7txXiznwKmSNIy+cc2Rdp13NUcMIXE7D1mDT/xcldC9HREwuI3FsgNqvOvYUVYVwf3PtzZyCIFkEjziPba46/HcyhvWXtgn0iQ7MoFBrFjQtWWSARE4wgpNX8a0opn5UMGw3ZEWVTcX4tABgZ6SwVv0qjpLdM1CVWEtydjaOf1yYXWjQ/R53VB27xSSAK1ML5fIfGCkpm2fl53D3oNo0ZRTH3UDkBvZjMgfoYjU7DJzd9/UGjZ6x5vGeMQ1u2aKvXE0Jx1zrgk9Quylvnawm4IsoEWBgMEL9aM0NnTzm+iSu8h61sZSJ//VsN+TYNytJDgi5LRN75yhcfBobtbmz5DGT0vPsM5/d4SSv3SXq0/NWDNFqMsL0Wq8rZmjzKhBkhIxGDwEP3SAeeQccaYbgvWgAZXBmdXYmr5zALAHKQHu0Och2BPPXxprGCw==;GrDWvWJppSYW3zrWkR8l7g=="
 ---

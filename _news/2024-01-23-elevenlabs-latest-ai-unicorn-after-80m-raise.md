@@ -24,31 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI voice-cloning startup ElevenLabs valued at $1.1 billion"
-    excerpt: "The company plans to expand into dubbing films or creating AI actors ElevenLabs, a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, has raised a new round of funding that values the two-year-old ..."
-    publishedDateTime: 2024-01-22T16:36:00Z
-    webUrl: "https://gulfnews.com/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567"
-    ampWebUrl: "https://gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2023/03/04/Computers-with-human-brain-cells-could-soon-be-a-reality_186ac972c54_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "Ola Electric CEO's new AI venture valued at $1 billion"
-    excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
-    publishedDateTime: 2024-01-26T10:40:00Z
-    webUrl: "https://www.reuters.com/technology/ola-electric-ceos-new-ai-venture-valued-1-billion-2024-01-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
     excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
     publishedDateTime: 2024-01-23T00:01:00Z
@@ -63,29 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ola Electric CEO's new AI venture valued at $1 billion"
-    excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
-    publishedDateTime: 2024-01-27T04:54:00Z
-    webUrl: "https://www.channelnewsasia.com/business/ola-electric-ceos-new-ai-venture-valued-1-billion-4078051"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--l-FUNIg9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-26t165441z_2_lynxmpek0p0d9_rtroptp_3_mahindra-ola.jpg?itok=pHzIuWjr"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "AI voice cloning startup ElevenLabs confirms $1.1 billion valuation after it closes third funding round in year"
-    excerpt: "The round values the startup at $1.1 billion, confirming Business Insider's earlier reporting. ElevenLabs uses AI to generate realistic text-to-speech voiceovers and clone voices. ElevenLabs, an early-stage AI startup that has captured the attention of ..."
-    publishedDateTime: 2024-01-22T14:32:00Z
-    webUrl: "https://www.businessinsider.com/elevenlabs-ai-voice-cloning-startup-confirms-unicorn-valuation-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
     excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
     publishedDateTime: 2024-01-22T19:59:00Z

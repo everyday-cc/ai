@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-d
 webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
 type: article
 quality: 65
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,50 +29,66 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s latest AI video generator renders implausible situations for cute animals"
-    excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
-    publishedDateTime: 2024-01-24T14:45:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 61
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
         isCached: true
-  - title: "Lumiere, Google's latest generative AI model, can create brief yet fairly realistic video clips"
-    excerpt: "Google has just unveiled Lumiere, the company's latest AI model for video creation. Lumiere is a significant improvement in video synthesis, Google states, as creating \"realistic,"
-    publishedDateTime: 2024-01-25T15:13:00Z
-    webUrl: "https://www.techspot.com/news/101642-lumiere-google-latest-generative-model-can-create-brief.html"
+  - title: "CAPGEMINI, AWS Partner to Drive Widespread Adoption of Enterprise-Level Generative AI"
+    excerpt: "Helping clients realize the full value of generative AI at scale As part of this new initiative, Capgemini and AWS will build industry specific solutions, assets and accelerators supported by a unique platform designed to help clients improve the Total Cost of Ownership (TCO)."
+    publishedDateTime: 2024-01-23T01:59:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/34679-capgemini-aws-partner-to-drive-widespread-adoption-of-enterprise-level-generative-ai"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 57
+      name: Deep
+      domain: thefastmode.com
+    quality: 47
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-25-image-3.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://www.thefastmode.com/media/k2/items/src/7fbda677d2eca469ada6d41a37753cb2.jpg?t=20240123_015240"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Google Unveils Lumiere: A Revolutionary New AI-Powered Text-to-Video Generator"
-    excerpt: "Google has unveiled a cutting-edge text-to-video artificial intelligence (AI) generator called \"Lumiere\" that will revolutionize the synthesis of realistic and diverse motion in videos. The project, developed by Google Research, introduces a groundbreaking ..."
-    publishedDateTime: 2024-01-24T05:01:00Z
-    webUrl: "https://www.techtimes.com/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
+    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
+    publishedDateTime: 2024-01-24T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 55
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 30
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442862/google-unveils-lumiere-a-revolutionary-new-ai-powered-text-to-video-generator.png"
-        width: 840
-        height: 560
+      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
+        width: 570
+        height: 367
         isCached: true
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
+    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
+    publishedDateTime: 2024-01-23T06:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
+    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 2
 
 secured: "44Fsvt/PqWc2Dm0UU5oj2gI4rjtXAS9hx6RlMgXLn656F9ii7rCIZUkJMrdVVAoeUmxv5lq7/ycPdRxpDIdWnzjagg5U+xIxOqMxDHJ3Ok8q/Bz1RaLUb7UyNf6YugMDPGXvrTRTwisNXUO/1SObaMRTdYdAmk95wr1O/F6yXAfVTJOdiihH8B9Rzn6ISleVbTB5MtEW/A3Dg65cGXlsN4W7Vr3ZDZa5qjMlCSfYDfL/Gv08PaBenGR9qUfQomn7O3ab1gepGVEOTSbvlxh7zie1PsRvRNc0bLozcLjLP8YKnW1a2kZinW9cQ3+hEqQR1mcOCKiwM0uDxtpnu54LHN2pspeeE4Y0ef8eXvQ0UKs=;T87ng0w0rPHSWp3bvY8R1g=="
 ---

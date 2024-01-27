@@ -43,20 +43,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "How AI Can Help Humans Become More Human"
-    excerpt: "At the moment the AI conversation is focused on how to align AI with human values. But the possibility I’m most excited about isn’t how AI can become more human — it’s how AI can help humans become more human. It can do this in two ways — one is very personal, and the other collective and universal."
-    publishedDateTime: 2024-01-22T16:22:00Z
-    webUrl: "https://time.com/6565048/ai-help-humans-become-more-human/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1910724443.jpg?quality=85"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "Ki1Zcf2wfFvXg/9y7PK7TLfaHiA6f8MlaUeWD+BbumpPipeESIS64535gBfDBfbUI7eE8gGusp1mCJVNg5hcHWrFPbfabmJoHA+WxqOYnkPv5DT9EBN1VvbA16fj8k3c/dpJmL6a5INP6UOoJBUC1CMVh9tudRpLbb3xswu4F+TxbU5A9itaB5zVIBVeq5/G1g67Wchdgv1gRL8q/JPVuSt1n471NDQ/QSvbHlUnJN2Cp6A1pFD8m+R7qTVy4v/f+DXX+kZuQs/V9Gzzm9VdMkpaeIn1RwOjRQ/o1gnGpWjREsgGqZWv7TKAUXijmFzGjAe1fYKh5OmDwtiJOvfZAPmQZlzomuPDV07rwBF3833IiZkApeI1/QbwdlPoup7REKPAjRtBauRYV5TjLh4JPOoZoTn/A41AJG1kvLHEsN3CYLrpsHhz/qhgBwoDlOQiwOn8kppHsYco9os1YX8q0Rhe8dGbS7BkLbVXeuAbEzOJnvdBejQYR+rKAhNhqImAbL/qMM29mNc0djcynjo85w==;H6eNJy4qXvg+XzOCbOZsiA=="
 ---

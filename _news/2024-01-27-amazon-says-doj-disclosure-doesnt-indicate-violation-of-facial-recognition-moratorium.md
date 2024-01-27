@@ -26,47 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Build a vaccination verification solution using the Queries feature in Amazon Textract"
-    excerpt: "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,"
-    publishedDateTime: 2024-01-22T16:54:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/"
+  - title: "Dem Senators Ask: Is Facial Recognition A Civil Rights Violation?"
+    excerpt: "In a letter sent to the Department of Justice (DOJ) on Thursday, a group of Democratic senators demanded that the agency review how police use facial recognition and other biometric technologies and whether the use of such tools are in violation of federal civil rights laws."
+    publishedDateTime: 2024-01-24T23:00:00Z
+    webUrl: "https://crooksandliars.com/2024/01/dem-senators-ask-facial-recognition-civil"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 98
+      name: Crooks and Liars
+      domain: crooksandliars.com
+    quality: 41
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/10/ML-11666-image001-1120x630.png"
-        width: 1120
-        height: 630
+      - url: "https://crooksandliars.com/files/primary_image/24/01/surveillance.jpg"
+        width: 1584
+        height: 1024
         isCached: true
-  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
-    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
-    publishedDateTime: 2024-01-24T17:14:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
+  - title: "Senators ask DoJ if federal facial recognition funding violates civil rights"
+    excerpt: "The history of misidentifications with facial recognition by police is an expression of bias that remains technically embedded in facial recognition systems."
+    publishedDateTime: 2024-01-22T21:00:00Z
+    webUrl: "https://www.biometricupdate.com/202401/senators-ask-doj-if-federal-facial-recognition-funding-violates-civil-rights"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
-        width: 1021
-        height: 509
-        isCached: true
-  - title: "AI will turbocharge political disinformation. We must pay closer attention"
-    excerpt: "There are no hard rules against deepfakes — a form of AI called deep learning to make images or videos of fake events — and digital platforms have deprioritised ethics and election integrity teams. OpenAI recently announced it will not allow political ..."
-    publishedDateTime: 2024-01-22T22:44:00Z
-    webUrl: "https://www.crikey.com.au/2024/01/23/ai-turbocharge-political-disinformation/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 37
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2024/01/Donald-Trump.jpg"
-        width: 1480
-        height: 800
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/04170318/face-biometric-scaled.jpg"
+        width: 2048
+        height: 1152
         isCached: true
 
 secured: "6go8fNGY3oFK4fCcmPc3Z3d2dD0OhL29JGkDoC0pou23x1Mp3Kofvr/LedbMMEmUeVhW6t0Izhm9sfRkR9VEk0p6bITAn4ACFJvOIXULic553jD4Bn5eOl4bJ7jtB+zsX7N3w6ovV2/n6kUKxx07WM9TO9QiCEYLewvi+hU31ji2hASl1BpXMJVx0rix0pkPAT4IpJH8owJ4DBTS2+p0emXIPFz/RKZJRaSLi10GYQmI/7PHVBFfISqDUJFMzTfBd946a5U4c523MuxqlHAPnS6LThiCuDLizuYrBFzpp7fhXl6vYcF9Uvki8ZPWo307eRImPAGL7cqo0AYZ9UR0bJGfhIW2oQvBRAFp8wnvJvEsqS36z3GwJ9AjBHcLMKtZTRuYhU5zrMXY+zFnQK7aiYVBPhaUF7J3rXpnV4QXeCFl/Dy6CB+rQM6BkbRo8Uwdn3shRQddxgmiTjzDlX1s6d/4EJVtbVAnudvo9QqDWUXQQsV7HOejR/qANkwm2GNBGQIod7irpf/9BarzTNBpDw==;pOMzAKv2KgHKVk1qkw+cVw=="

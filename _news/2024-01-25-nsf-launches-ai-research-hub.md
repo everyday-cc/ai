@@ -65,6 +65,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 34
+  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
+    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "owfxyo9E5WwO4hLyFa/5jmKul8nSWLN8pjqDTWIQ4NuJ2DtMBelkyCzmxs8Cx+L3lPsHrPetZ1FpEouXs1VCCvlFiyE10g1OEZkX0GrKmptW43Hdj+OGAujaAVnC9tzx1nlkcqHZb1LWLna4Smsi2HFFR2wvRb+Mo7FgSNRSf8kaXCO9ugqVVvjp9TqA1Zjr7WTpbD9V01Yvk7P09FkCLjNFPnakfWCxX057zhQmhnLwCVHfVJ+epHLfDsixc7lFzWoJicwNiv3vu8zCAysqippTw+XyNy9zIh/1cfj3Dazyc2M8N9cYOhoC6y7UF0vcOVxkpFmD0rejyJiAskajTp8CugCsdDRNhnNPtWFcpZBisFNFgvV5h1GJE8F13xaps01hE2SGL3jGTM3UCH617E4tOq4b11+VPm2mAil01hVyPUs6O8OKiIn85VbHtuXs+Pug8kfmZ5FS5DXBUlrMMHwYKB22qeDyY1YjA8pDtrVz6oyZ1yvCmiwUsUZDx8uRBjbO6YZrNwN5RM1Qv+ER3A==;b/O4eOW8VZ9wLnac4VBiiw=="
 ---

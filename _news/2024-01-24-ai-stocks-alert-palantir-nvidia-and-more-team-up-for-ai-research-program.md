@@ -69,6 +69,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
+    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "DZxTk2mqgL9xZ7chKwQpLjhj5et5hjDE8OTds4W+VA6xkYXSjw/x7qorc3aIrYdV0/vA8iuF0bvKbG4Yc5mMh7/EOFxfvz3S9ZYvgJRXuWEi3lXbin/oY5/aXeQLZtNT8MUs5KMgnvFOFUdkwSsY48cWBYdvbYbvxf0d9JkF3ImumuPKFNUaARP0u9PsqCekyC10D+ozCErkw0tbh1WY4yccDiGDpmVO2uslGrpjfoO1KPzBf/GIWT3IN32YZYmHhlpdFEsptG1iprQCq9h/DMzmvrtKJF3NIs/HAj0J2QFBuhDwBFvURd9w5xaxJJQmjK/O3X8tFwBQcJ2BDjnqZY324AcgESXygJyyRN66oXo=;PoVnnOmzPVJyRmSOAHFoPg=="
 ---

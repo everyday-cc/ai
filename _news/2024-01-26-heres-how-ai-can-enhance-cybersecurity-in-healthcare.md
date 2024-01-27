@@ -55,6 +55,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Artificial intelligence and immunity"
+    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
+    publishedDateTime: 2024-01-22T23:59:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z
@@ -78,6 +87,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Role of Artificial Intelligence in Cybersecurity"
+    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
+    publishedDateTime: 2024-01-27T13:21:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "MPcDVmvfcOr09vj16oWg72vgtNSeTnz0PG3DtkAbQc+GNSrvulgolsOCg0bu6ttH0uQ6R78+EL3cceC1gRu3w0r5OYm1Fy42iLcLYbUPpYK7kZi2Zd5NA4+KtkkvkxA1pXPQiRPzJdofIfi//Qn6oJVpohVzWGR3P87/yOwwVFwYffBDjgW3j/1yJO5xWsYD/EBidbUzqYrDmtku4kCAcy/XPf5jtDdEbAEBmbNAXNbN2inOEIl6Wn+uif5hGLjI8CAml4GsiB0lIvqzBqXprqiUGgHQ3BOM0bRBSu4O9PIrRqzlcAYXStEU/WR0f9CTBf273nSw6JSiMF33xB8jAN4RVZOAOrb1f808kXICvW9nGBqX08oQYigB6jS+SPuj4yl3oDXIaxVQGsMJa1y3FOoKhhPvlLKGd0B7WouVVfwR4X4/kvIey9BwHUcX7DeOZEIBrl6wJeR4Pla/cj6ah3VF2efFVUNutdu/4qvEcUvDItrlorClXJVgRvNmGpAVVOnOh7Lr02k4VNpmYak3eg==;JQ7eGSedTyUQWnquc80TZQ=="
 ---

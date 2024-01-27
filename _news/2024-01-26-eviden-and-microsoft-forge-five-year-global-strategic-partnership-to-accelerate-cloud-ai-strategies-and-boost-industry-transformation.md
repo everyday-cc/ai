@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "LEAK: EU Commission prepares ‘strategic framework’ to boost AI start-ups, generative AI uptake"
-    excerpt: "The European Commission is to propose an innovation strategy on Artificial Intelligence to establish ‘AI Factories’ and boost the uptake of generative AI in strategic sectors, according to an early draft seen by Euractiv."
-    publishedDateTime: 2024-01-22T16:46:00Z
-    webUrl: "https://www.euractiv.com/section/artificial-intelligence/news/leak-eu-commission-prepares-strategic-framework-to-boost-ai-start-ups-generative-ai-uptake/"
+  - title: "CES 2024 Attracts Record International and Startup Participation, Shares Strategic Growth Strategies"
+    excerpt: "Displaying everything from flying cars and transparent TVs to ice cream robots and artificial intelligence-enhanced products, CES 2024 was a triumph."
+    publishedDateTime: 2024-01-26T15:36:00Z
+    webUrl: "https://www.tsnn.com/news/ces-2024-attracts-record-international-and-startup-participation-shares-strategic-growth"
     type: article
     provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 25
+      name: TSNN
+      domain: tsnn.com
+    quality: 9
     images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2024/01/shutterstock_1746589178-1-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.tsnn.com/sites/default/files/CTA%20CEO%20Gary%20Shapiro%20Speaking%20at%20CES%20Walmart%20Keynote.JPG"
+        width: 700
+        height: 426
         isCached: true
 
 secured: "QX8tCAqLflEe0tamnzRVJM7vWFl8kAPD53lTtwqthPiuflMuN4iFwzwVL9okV4chvIMthXLyuVQwXwNFbv67a+cVs4GMrNNzcZt5+cYcG8fxQg4aD/G7JQ5H7VKZ71xAvnRjcN5J8O+41L+y0+bqUSfD4lkggl48dgc1VyrMeB5iCgaa8wgIUxWJcSdPWz8zjm/hEl57oUeT30jUGvQvBEp4dkP5PCLLFGeI/aNsXmF1FQnOAsSK+B7a6CjSj7b6CBAMrbkXCMHe+85pKfkG6pmyeuAht/qSXgcm7XK0sDQs7ulLEgS4mmPexeYG+mXm6aM/QOFN9U+rBS4U8072H+ck+K6z6o5XCW1tHVtiH+mXZ/3HvL9qkPmcsA5YVgdEDG2T3szWxnkd1d9XBGe9mNdvlNRRMObRnkytr+9Qzin5EfdfFQY9Y7X0SOZUpcE0yDzLNVAplOgYWzb9ozKbFnI31XPLCVy4+pXZea3vi5VH4LC6KEFFV05k8dkug6WprhwERFqvXJKefpyxlRDKLQ==;QWhPWZEBrTOHxs/DlAz2ag=="

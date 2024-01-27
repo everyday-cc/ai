@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "What could go wrong if police run facial recognition on an AI-generated face based on old DNA?"
-    excerpt: "Wired tells the story of California detectives who tried to use facial recognition to identify a face made with machine learning and crime scene DNA by phenotyping company Parabon NanoLabs. That’s not a good idea,"
-    publishedDateTime: 2024-01-22T14:45:00Z
-    webUrl: "https://www.theverge.com/2024/1/22/24046731/what-could-go-wrong-if-police-run-facial-recognition-on-an-ai-generated-face-based-on-old-dna"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 52
   - title: "More work needed to blunt public’s AI privacy concerns: Report"
     excerpt: "Organizations aren't making much progress in convincing the public their data is being used responsibly in artificial intelligence applications, a new survey suggests. The report, Cisco Systems' seventh annual data privacy benchmark study,"
     publishedDateTime: 2024-01-25T20:41:00Z

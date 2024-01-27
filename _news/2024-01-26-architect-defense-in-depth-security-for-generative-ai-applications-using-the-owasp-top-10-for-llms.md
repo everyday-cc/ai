@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,24 @@ topics:
   - AI
   - AWS AI
   - AI in Security
+
+related:
+  - title: "AI in 2024: Riding the next wave of transformation"
+    excerpt: "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ..."
+    publishedDateTime: 2024-01-26T06:39:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "swzsQytHecjbi+5WEhpkZWMcUxo2CxJVQaXI+5kw9Ub+H70ZEA3ibBZlkjuGTgJm3IGR3LL5hlkNXBE10d30meddLSEEkhCz48HtyNfSL/aXA/aCLGG9P6RzkFAJNmWDXKOLrzISWilrQ/CSDgpKZCo/D1ejew/Jp8e+73Ui24hf3OD6iv0Xyd6XkdlJlMNaVHGWgNvJsDshV/h2uC6wdto/hWg45th8auJRvGRRqqSH9I+Ezbidk82MiYv13ujZy6ybWrwwnU9PDYsMeMUvR3mUV1ZVeqXEe/3+cgkWj2EfslLvMrKHrTPa4ndWki5C4GiyHelsHCq94H4o2ROqqo0sG+WxdATDs6kdZmAIbk8=;i+9CX5D0raiN2tfEL9QMVA=="
 ---

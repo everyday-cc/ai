@@ -77,6 +77,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk says his AI startup xAI not raising capital"
+    excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
+    publishedDateTime: 2024-01-27T13:23:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/elon-musk-says-his-ai-startup-xai-not-raising-capital-12134591.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 17
 
 secured: "QkxUPgeoXj4qWMvS1VN2HobpZpQS5XamGroc3K11BAnoqOCBL2M2FKXylhXeP9kG63Ct+A+LQ/m5WA6Hdkna2W083VaIBi095RrwCFUR3V1Nh/albuk+fGaJYqjM38hiSNWXnIg9x1W0zMv7jXM9eHii42HMElk3+tm4glbF3OSPDHw2S3t7wmH6PSROlgacwtyYtIiKPfEvnMh66JHCylZAMzzhpyRYfEY+AxvALgCHIxy5gqobPbPprd6a9ODUp0CUbw85u0YXXO+fN855iNJIh4CnjwsGc+Ap0bZXd6Ny9AhH0FjWV406XH42uTWOCLvPLauyiIfyQ5CODYrGA73gfQgm/36iKVDXFFvtVBI=;NZEIY9PuWEKdSQq/be8j1Q=="
 ---

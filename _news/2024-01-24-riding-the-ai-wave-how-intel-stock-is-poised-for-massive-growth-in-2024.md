@@ -23,47 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "It’s 2021 for AI while the rest of the startup market is stuck in 2024"
-    excerpt: "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ..."
-    publishedDateTime: 2024-01-22T15:15:00Z
-    webUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/"
-    ampWebUrl: "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/"
+  - title: "Shaky Intel Earnings Confirm Chip Stocks Are Maxed Out For Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to the future of AI, you probably won’t find anyone more"
+    publishedDateTime: 2024-01-26T16:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
-        width: 680
-        height: 383
+      - url: "https://lh7-us.googleusercontent.com/INCX9RGQd6Tw6HVoCA-uIFeD70VrQ719e13wBVlcZ0mnabnXu-lV5n295m3pEefURlvH-fTlcZhcNv_nzvqN-0BYj_bjoIp1-NIDi_tgsiTeSahlkjzlNymNxxx-NDI2n3WiGhdBsrc-uRFRt2mA8w"
+        width: 1482
+        height: 579
         isCached: true
-  - title: "AI in 2024: Riding the next wave of transformation"
-    excerpt: "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ..."
-    publishedDateTime: 2024-01-26T06:39:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+  - title: "Intel Q4 earnings preview: Chipmaker to report as AI sends tech stocks soaring"
+    excerpt: "Wall Street analysts anticipate a strong year-over-year recovery for Intel’s client computing group, which encompasses the chips side of the business that sells to PC makers and enthusiasts. Analysts expect the company to report client computing revenue of $8.4 billion, up from $6.6 billion in Q4 2022."
+    publishedDateTime: 2024-01-24T22:14:00Z
+    webUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-201429769.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: AOL
+      domain: aol.com
+    quality: 50
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/7TJ0.qq9eYigcw6Oc68Iqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/7ca2ceeb2e27b320bd775e4f33c7afb3"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "This Artificial Intelligence (AI) Stock Is My Top Stock-Split Candidate for 2024"
-    excerpt: "Its latest Tomahawk 5 is a high-bandwidth switch designed to accelerate artificial intelligence (AI) and machine learning workloads. These chips determine how quickly data travels from one point to another, and when developers are training AI models using ..."
-    publishedDateTime: 2024-01-24T14:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TSLA/pressreleases/23558554/"
+  - title: "Chip Stock Alert! Intel Stock Is Nifty Anywhere Near $50."
+    excerpt: "The bigger-picture considerations seem to bode well for Intel. Intel Could Thrive in the Automotive AI Chip Market Not long ago, technology’s top innovators featured their next-generation products at the 2024 Consumer Electronics Show in Las Vegas."
+    publishedDateTime: 2024-01-24T08:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chip-stock-alert-intel-stock-is-nifty-anywhere-near-50-1032992627"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "T657P1Vhx/sQpKSZN9kghK+7KC7gqsKk5vj9Bwu+N/PXd+SZu/YEwVT8Jrv4bposlOT+csIcfze/giGB1Dfglf6I/KSgpq+F7Rw5Ks6pMTEW+r/PjGUatTFF1X8/P9KLh58E3GUUdzwIqwvl/lq0JztVL1Ec3OT36Zt/6RGfixXl30WRg6/omBS5BcpaABTSyNiwAmWLDynL+b1ulGaWgox9+V07I3DAuA+NEdz0SLNtJdiNoeFtFx7J8RT7ii80y/ybE+RT/iKPgOdplZ+dhAgAtT7frESTnq1eSsTGVhRpjcawQOIPawD1l+BA9B8zEkSUQl6Op/gpycbBYda3y1ITNNNDcbTFl1b1W78JcgU=;x13TzixfG1ZI3OASM9qssw=="
 ---

@@ -82,20 +82,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI-generated robocall impersonates Biden in an apparent attempt to suppress votes in New Hampshire"
-    excerpt: "The New Hampshire attorney general’s office says it is investigating reports of an apparent robocall that used artificial intelligence to mimic President Joe Biden’s voice and discourage voters in the"
-    publishedDateTime: 2024-01-22T14:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2024/01/22/new-hampshire-primary-biden-ai-deepfake-robocall/9ef718d6-b958-11ee-b176-fe5fd794e716_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 23
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SLYFH5FZLAI65MLW7ZP5PFHHCY.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "o+uC1zndfiFLDNwl5GSUMo5ZGmhzWGZ/AJxOZvbrXr7wk/vVhWbUvXxgDtcjbaeF7nFKnO24yMcimnOuzN/qB3/RZ7v4kCv075hmlSZsxxO4hEyP1nOd6eZghTXkLoZ9RHlBFyQbt8b+Ln/zjb0VICfjEHcqyOFsmin30dReTie3xwqqMXCIaRXNp0t8jWRr+krHgQ700A1RFUxkYnQzE+qO3QWzoRAQHUSpiVfHA0YrVYB2jOKRUscZD03WTMhZGzVf4QTIs0iQRzZtzJq6PfHoGDL7FkIqdJ5wXlE7c9raVFFjbH90qpCXp+wY/hi0fW9inL7xTxK3otmifi4rso83C8ONtYsJcpWEnqRdJ20P/nZda4vUI2FN7LvzCxsA7DLrWqhAT+jWEoR4+S2FIczuZ8cx5JapU/607kelbfMklTAF9ebqyzT4YJn91cWHdvpfxeRxHPh8YZ/8WjbIP0o2nfuI6/vQ6Y8MJ3R80DrFvehpFe05URXWLE88O/xGmmR+zbJM3Y6GX/i+sR/95Q==;lHhBtEb90Hazabj1f9IfrA=="
 ---

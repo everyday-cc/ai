@@ -57,15 +57,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Humans still cheaper than AI in vast majority of jobs, MIT finds"
-    excerpt: "The study counters widespread concerns about artificial intelligence wiping out jobs as researchers deemed many AI replacements as cost-inefficient."
-    publishedDateTime: 2024-01-22T16:52:00Z
-    webUrl: "https://www.crainscleveland.com/technology/mit-study-says-humans-still-cheaper-ai-most-jobs"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 19
 
 secured: "srQWEkiqPqmeiNQeRU9i4j0YPHaARGAJDiCLMP3AJ34ApIV2lpSi9tH7Kr37xj7v6Bx2fSmU+b8KGlrcZNNYKgdCCQ4z+PISoikx3ta4iKFzBPYsPldqrnm1ZACJT8YIxQ6F+dJaSVqHhMpFhMFwPuBUc8nV3n0B7b81YifC6PJwkvNfUIr8Yh5kD51nJNWlLjlI7pufgV9CfTQQSaRReIToJJ59QnstNAYbBIJIoKHxXOF8dE8IVlmSNKZEZPyNa4WEMkOE1z5lkEN/6Xs0jSJpzYsETq/YUIkON0c+foKlw6M4jPKw6zXgrzWootzMJiGPgaoA8EilJI6aIcdpbEhXL5D8iIE6NKmB//Wa/Ck=;meNM5DApjqLrd8U+tZut2Q=="
 ---

@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Riding the AI Wave: How Intel Stock Is Poised for Massive Growth in 2024"
+    excerpt: "Intel (NASDAQ:INTC) is benefiting from strong demand for its chips that are used to produce AI. Moreover, the company is positioning itself to get a lift from AI PC proliferation with its improved server chips. Long term, Intel stock should get a boost to ..."
+    publishedDateTime: 2024-01-24T08:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/riding-the-ai-wave-how-intel-stock-is-poised-for-massive-growth-in-2024-1032992628"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
 
 secured: "9PlwCTX52T45FFsahFXxR7HkDRYwaXPcvbVAo0/ua/jbdCu6bbGgIdli86EPHkyBtxEo8qXKkehoG15Ak4U3mh+DYI1jhBuwLrgYYB7k4oE4lW7zbZ8fvAA8CVITvtVnOJe5F2THM0pGtmuV1K8HVgrf3ZACiGsYgPrO9Wd3IbCsblBLMHW/oO5ULGHOeLgpVGIF2YE+kG/NeiYC0IMbVjkZX3NeUlRbG9CpIiiXsH0Sh50QOoDrlxIjkS6JliwO2pi5sUimxRptReBLeq3qgqm6J325NaYDt9uwO+/C+m+APdKfQ2KZ+Lnqb0UGHQk/88ly8T8LV2QF54KEYYUL/AAjKO7U6owhoXMelZ0RmPQ=;QR2Zoj1ZnlwWyY2Z5DulbQ=="
 ---

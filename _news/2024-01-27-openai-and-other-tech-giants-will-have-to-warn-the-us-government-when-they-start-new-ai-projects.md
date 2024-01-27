@@ -29,20 +29,67 @@ images:
     isCached: true
 
 related:
-  - title: "Is OpenAI’s ‘moonshot’ to integrate democracy into AI tech more than PR? | The AI Beat"
-    excerpt: "After all, isn’t American democracy itself currently being tested like never before? Aren’t AI systems at the core of deep-seated fears about deepfakes and disinformation thre"
-    publishedDateTime: 2024-01-22T16:53:00Z
-    webUrl: "https://venturebeat.com/ai/is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat/"
+  - title: "US regulator probes AI investments by tech giants"
+    excerpt: "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html"
+    ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
+    cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-21-11.20.07-Abstract-illustration-representing-the-concept-of-making-AI-more-democratic-featuring-diverse-human-figures-and-symbolic-elements-like-digital-networ.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg"
+        width: 512
+        height: 341
         isCached: true
+  - title: "Biden administration, tech giants partner for AI research program"
+    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
+    publishedDateTime: 2024-01-24T16:38:00Z
+    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
+    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "FTC probes Big Tech ties with AI"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
+    publishedDateTime: 2024-01-25T22:24:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
+    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "Tech Giants Take a Beating at FTC's AI Summit"
+    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
+    publishedDateTime: 2024-01-26T06:52:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
+  - title: "MeitY to seek cabinet nod for India AI program entailing over Rs 10,000 cr investments: MoS IT"
+    excerpt: "New Delhi: The Ministry of Electronics and IT (MeitY) will seek cabinet approval for the India AI program, which includes the setting up of GPU-based servers in public-private partnership mode with an outlay of over Rs 10,000 crore, Minister of Electronics ..."
+    publishedDateTime: 2024-01-23T11:47:00Z
+    webUrl: "https://www.deccanherald.com/india/meity-to-seek-cabinet-nod-for-india-ai-program-entailing-over-rs-10000-cr-investments-mos-it-2861011"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 7
 
 secured: "4ys/rYwsM1YSE/5Oe6zx9/1jtwlBG+G3XdQ98T9S4KH/81G/ZGVTOLmlZuxjWX4y15wIODo3Mf1CmWr7QqxIUTJZllBRQnZxWs9g0TicgrjgbiGu5wgXdmi3BJd+9XivrLNp5BcQ1bHNpRsw/LzYwt0PqAHX/LEVUirSy7IoNCUnkB2JpXUtBZoYNQlRpLv6d4sznTiheOSH1accuoQ4VPYowvkdVJP92rikvN62j/qImpJ2g3ZHqRBUWm4TRaTDMLeA4hj8omLMWFuieETqWZ6YTygXqirSDml49RtBzvwXixCT3PkEVNdgJ3YPwYzXOuoot6j8K85lIR3ZGlGU+RjgLGmCsv0X3pZrvnlk7BX3R/MQSd58OjLusvPkQ/jqdkvtMwrHq4Y8kWXVCBf3R+gy8WeHtv9l6W8s5IllzfVLdxM3K6rjRKliPZXeXTCW9dEF7UjQWN0F70boSYKoq24DYMiEXXOX2kdBHc7LejJz/MdkdUvQiH3Dp/LxckhTFmMeuhOZviBkg9wqJQC90A==;9Yt3ZFwXoOF4sk7v7xon7A=="
 ---

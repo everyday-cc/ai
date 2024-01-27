@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI Revolution: Transforming Bing’s Landscape"
-    excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
-    publishedDateTime: 2024-01-22T15:21:00Z
-    webUrl: "https://www.techwyse.com/blog/online-innovation/the-ai-revolution-transforming-bings-landscape"
-    type: article
-    provider:
-      name: TechWyse
-      domain: techwyse.com
-    quality: 39
-    images:
-      - url: "https://www.techwyse.com/wp-content/uploads/2024/01/The-AI-Revolution-Transforming-Bings-Landscape.png"
-        width: 800
-        height: 418
-        isCached: true
   - title: "Kiya.ai expands in the Middle East with AFS partnership"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-23T10:49:00Z
@@ -136,15 +122,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "As AI expands across healthcare organizations, benefits and risks both grow, according to Kodiak Solutions’ top risks report"
-    excerpt: "Hospitals and medical practices face increasingly complex and interconnected risks that affect decision making in clinical, operational and financial"
-    publishedDateTime: 2024-01-22T16:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240122095169/en/As-AI-expands-across-healthcare-organizations-benefits-and-risks-both-grow-according-to-Kodiak-Solutions’-top-risks-report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 7
 
 secured: "9ZC9I06EBTiGxFjQq09Q0uBwcZKgn6MVNwgaWgC/3YGMeSabtjzbSUYLgdEL1Fde+g9bko7ODEXuG+4mWzk3c9brQ7kKqXGszcsjKdqMeCfKrSlLhMLctBld3OOm2YyMrxxvdiYqNg2f5Stj5z+wPbrMFw82Lcem39c0rKr47Twl6MzBiWLrGez9EEE7yUzh4MsucpVPtkZ/GtKsRmT9gVUavyvqUVdCZqDE+67ZLzEnQpFAtmBnSFQpJ5AwbVcsZsYMTDNTqrOTPDY4NU1504GXNUPxWdpHJwvXZcUNMQjxP46KbSrxa6fHLKUHeBE+3dRxCjarlPSqLWRCI/N5xxi9g7kP9a06sS1NjVZLn3Y=;KIajEJo1ctHdneknB25VCA=="
 ---

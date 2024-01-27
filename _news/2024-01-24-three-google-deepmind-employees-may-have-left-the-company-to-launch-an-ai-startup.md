@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmi
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
-    excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
-    publishedDateTime: 2024-01-22T15:26:00Z
-    webUrl: "https://techstory.in/top-scientists-exit-to-form-ai-startup/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_copy_protection-2.jpg"
-        width: 350
-        height: 216
-        isCached: true
   - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
     excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."
     publishedDateTime: 2024-01-23T16:29:00Z

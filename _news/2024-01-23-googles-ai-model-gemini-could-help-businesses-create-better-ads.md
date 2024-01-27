@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/jennifer-conrad/google-s-ai-model-gemini-could
 webUrl: "https://www.inc.com/jennifer-conrad/google-s-ai-model-gemini-could-help-businesses-create-better-ads.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,52 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "CAPGEMINI, AWS Partner to Drive Widespread Adoption of Enterprise-Level Generative AI"
-    excerpt: "Helping clients realize the full value of generative AI at scale As part of this new initiative, Capgemini and AWS will build industry specific solutions, assets and accelerators supported by a unique platform designed to help clients improve the Total Cost of Ownership (TCO)."
-    publishedDateTime: 2024-01-23T01:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34679-capgemini-aws-partner-to-drive-widespread-adoption-of-enterprise-level-generative-ai"
+  - title: "6 Ways AI Could Disrupt Your Business"
+    excerpt: "How can boards better understand the potential impacts of AI? The authors suggest six scenarios that all boards must consider — and then act upon — ranging from predicting extreme operational changes,"
+    publishedDateTime: 2024-01-25T13:15:00Z
+    webUrl: "https://hbr.org/2024/01/6-ways-ai-could-disrupt-your-business"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 47
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7fbda677d2eca469ada6d41a37753cb2.jpg?t=20240123_015240"
-        width: 752
-        height: 408
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan23_25_4028174.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
-    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
-    publishedDateTime: 2024-01-24T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
+  - title: "Google’s Gemini Pro Beats GPT-4"
+    excerpt: "Google's Bard (Gemini Pro) has clinched the second position on the HuggingFace Chat Bot Arena Leaderboard, surpassing OpenAI’s GPT-4."
+    publishedDateTime: 2024-01-27T04:41:00Z
+    webUrl: "https://analyticsindiamag.com/googles-gemini-pro-beats-gpt-4/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 30
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
-        width: 570
-        height: 367
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/09/google.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
-    publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
-    publishedDateTime: 2024-01-23T06:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "4eRNSzFULCerU6gURVGUqsOG5mdIDcuM8TWnZ6SyfFmEd6O16Zv1p200kBCDD4RKIvG/NUvhO2MxeaoFBMUNB6JDQP1mmWnN6qNgGSZw8+iGrIQ0I6CudV5LmMXptUFCddnBAzFN/aipXVpSwpED6kKHjLd74llg/52SCQFnNktM7VMivKd5zYc2tsH6CgbqVogfmOvRVzZAWWSSuap0o9tly1Tcla9+Gel8Bn7HAtQy14WX6jLtM/SnTC+v8aXsxOnX0m/eRuZfQgy/YHpqFkETOVEdSqZFCUYy0iabEhRdTRkydVdVEdQ8cys0OaMEFUN5E70BUZ29p/p9e86733Yne/nr1/T7sXxRON7gGKEl+6hoKMKFQyRE7imcUniqnTQ18DRm+xPMyOO/ia0YtHfQwO2JJBLUqo44K5qwBJGJAHHIbexGLwrDDBu5aeozPgCMlJpROPfQFMmUTAChXMBX6muFVDGxGh2zOje/KScT9R3XlF7UqEU+XFtb3yACmmxO0+KhWXay/ljurnM7Kg==;uSV5jOfd8JBVpVPo4M3cPw=="
 ---
