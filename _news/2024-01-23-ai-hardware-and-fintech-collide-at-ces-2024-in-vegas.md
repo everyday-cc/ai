@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
+    excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
+    publishedDateTime: 2024-01-23T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uk-tech-trends-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240123-uk-tech-trends-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
     excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
     publishedDateTime: 2024-01-23T13:03:00Z

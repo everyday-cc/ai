@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/markets/ai-voice-cloning-startup-e
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567"
 type: article
 quality: 57
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--l-FUNIg9--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-26t165441z_2_lynxmpek0p0d9_rtroptp_3_mahindra-ola.jpg?itok=pHzIuWjr"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Voice AI startup ElevenLabs gains unicorn status after latest fundraising -source"
-    excerpt: "Artificial intelligence (AI) startup ElevenLabs has gained unicorn status after its latest round of fundraising, a person familiar with the matter said, as surging investor interest for generative AI technology sends startup valuations soaring."
-    publishedDateTime: 2024-01-22T10:08:00Z
-    webUrl: "https://www.aol.com/news/voice-ai-startup-elevenlabs-gains-080845231.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/9cec850b64e6471203afad2332c72b93"
-        width: 800
-        height: 534
         isCached: true
   - title: "AI voice cloning startup ElevenLabs confirms $1.1 billion valuation after it closes third funding round in year"
     excerpt: "The round values the startup at $1.1 billion, confirming Business Insider's earlier reporting. ElevenLabs uses AI to generate realistic text-to-speech voiceovers and clone voices. ElevenLabs, an early-stage AI startup that has captured the attention of ..."

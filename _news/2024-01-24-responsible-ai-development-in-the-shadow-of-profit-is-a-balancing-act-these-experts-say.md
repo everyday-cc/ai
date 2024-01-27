@@ -72,6 +72,15 @@ related:
         width: 300
         height: 271
         isCached: true
+  - title: "Artificial Intelligence and the arts"
+    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
+    publishedDateTime: 2024-01-25T10:59:00Z
+    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
+    type: article
+    provider:
+      name: TheCourierExpress.com
+      domain: thecourierexpress.com
+    quality: 19
 
 secured: "F7FF2pCp+24yRzwNFJ5bVU74iaFJE0SrnyXgWavV7DR147L+pWIkT5ehO2MaaQzaZ/DR0y/iUZOZK7UWAWa0Wj8fTpCljbf7rURjpz/cO5fvTENHeZXWJEa9QA+OEmkhpu8QHg/GpXjOjP8A9iUfS8aOlqUguwQ02DA+KO0tyuoWrtTNA/9Rq/UI3UMvUbLJObikLVM//OiRSdBPr3q1MMD49QiSdsEVJWLSjLd1I9yXE/c9x9BDUkAuBAtKjgnawD5HI0aV8e/CX/dohZQXH+HTaL8DCvYk4jdmZcGcb0eilCV0NpyNn76AiGcl45O3Ce2ZeiEKlt250BZke9U5YVn6VQQGcPJRuksBs2bEpyo=;4V5N4W/OezYa5glbZL86dA=="
 ---

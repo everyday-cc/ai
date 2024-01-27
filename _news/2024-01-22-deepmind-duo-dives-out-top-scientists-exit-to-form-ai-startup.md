@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google DeepMind scientists mull AI move"
-    excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
-    publishedDateTime: 2024-01-22T10:55:00Z
-    webUrl: "https://www.mobileworldlive.com/ai-cloud/google-deepmind-scientists-mull-ai-move/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
     excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."
     publishedDateTime: 2024-01-23T16:29:00Z

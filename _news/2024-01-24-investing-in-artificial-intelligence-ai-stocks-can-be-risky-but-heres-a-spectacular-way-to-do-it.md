@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 4000
     height: 2666
     isCached: true
-
-related:
-  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
-    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
-    publishedDateTime: 2024-01-23T22:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 45
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
 
 secured: "WXfxqYqWM3vX5n9mwBIoXeqLAbonGIO2qcBZtH3ADp8o17n53YrwzvaHbFRQhbS9p6EorzeZ20OqFmn/xir8ae2ZYzKBifKcHYVVGAz5+zafVSIuUSmy0Sxm3EfhachoLlNg5Z5xKYHKIo0zAGBwWy6pCo8oPgeWq/wTdPs7NyhgswmhFSArwSkOtphq0GsmMk2wojd2cxY19s/JsXrKcFWwddy/YIWrydysFxXGPvj8DIlApVQ2tJqDM/dnpOBxNyYlinmNAq+CKpdcDVTih15ODtX4IcH6ZPQtHeKihBWSfNl5oDwmIAr2ekuBxv2+lfsLCedzveKzMPaYqS6TNe3COaEBmBnCYzANDWmT3Dw=;4uP7tpou+9xCyvSHzImKdA=="
 ---

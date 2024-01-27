@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Shape-Shifting Robot Lands on Moon"
-excerpt: "A lunar robot developed by researchers at Japan's Doshisha University, toy manufacturer Takara Tomy, Sony Group, and the Japan Aerospace Exploration Agency (JAXA) successfully landed on the Moon."
+excerpt: "A lunar robot developed by researchers at Japan's Doshisha University, toy manufacturer Takara Tomy, Sony Group, and the Japan Aerospace Exploration Agency (JAXA) successfully landed on the Moon. Lunar Excursion Vehicle-2 (LEV-2),"
 publishedDateTime: 2024-01-25T17:22:00Z
-originalUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon/fulltext"
-webUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon/fulltext"
+originalUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon"
+webUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "z96797DMiNnbQGCy06sbvv6FyDAQaoHGJ6ql6QxHBPhVNHmqkABtBwEEAQnkZzrNt+Kqq/cEfqY8wkOIvtEYOBViUMFJ6DgeU9z8doBo9igYW/Oyl2DovvwLj6PV30iiNW6gTqaJDvasu03QT8DamNaajFbIrgyE6CKgXqzD1ny8Xux3w1wb+k3n+dZzvDngQokJKHbuXM1CFCAE2ztnKbjB+QjmnDY1HxSiUy3gt5X6ZFFBGACw9TrMOOtTlengKr+4Aodf8iCd4g3rePeSxzO4jeFhO8GI+dYzNyPB0DwAxodFPpUeWMRmSlEKrFo62AmEKDPa6GgzeXkmnpBj9Twlv7FkPbpRdWWhviYGXPePOqU58AksmYF7L4u3FQPeFnsNffBo+Wo5UuLHUv/CC501uTd2xdta2pdrx15SFWpwPgFZmhwZl0Le8VZ6zqORJzrB+nstRL8sESFWs8zCs6Zy+EkI/JGGUHm6Yqn7LbS1vXET8m0HC3dP8lcTaz5gZS65ULzAQkkeoGMgYGg8LQ==;81p5CEZUqTKw8y8XGdUf/A=="
+secured: "kyOQOf5fjCF6kOWTZNKppxvHoZd8jmjt7D8kt62NbkwRAQY63rNst4SvNU1o9EQiQg6ZblM67/W45s2f8v87bqVZKBIWn3BtUKo9xB27R2Uzn999Y7lu3NTwrN44zWCZWTFDE7i4Vhjb5igcHCrpcMoi/byCRl85fUSQIz69rWYVZU5YqBORgwys4FGnqR9G72sfNJBcpgvXDJH+ezvu+e96AnXzXO0a040ZZMpH8d8CF/T8smPPkZc+d9qfOPefKnC9ycFtJydLDrcWs+lLZXDDydvMA6jH7x6nc0+iktrp2cchSVjQWnpU4T8+NL4adEWnJoHVPJsz9GWj2HUZSyiGq6UPD5gZu11wGkRCIqq3g6Ukd+7+aFP2pEvYaE6l1Ar/KVhpwLNA3DAlr6kGqggu/15LcJWJyQYyM0cHxMtY3Rs2MlSb5cQVHaaFNfYwvyj2ruf0yU0Fo8uzQ2HtUf3fBUDCb8+wUklK4P3UJwpgzj237F9v6wTbL6qTg+HSkW5KCKsfx1It6vlEw0d6Vg==;JaMTuSeqySuj9WiWghbgZg=="
 ---
 

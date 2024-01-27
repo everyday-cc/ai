@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Chinese startup Zhipu AI unveils a new large language model"
-    excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
-    publishedDateTime: 2024-01-22T09:13:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
-        width: 841
-        height: 560
-        isCached: true
 
 secured: "L2PL6XwT9Aes0kURsPSuARFzkiowg6e+iRo+9zpYeZ7VG5+XmdUcVt53CwoqfGXBR8kDrtuDm3afB0iMZbGtLkBI1NOpDAS2320Gw3uvgX8gei4ggsJvgrCOC355e0BcUkU/UDhRl4Gyg3u3Dhw/G5PuV3Zpjyb2k8So4LmckmCn0rH4AKszCjZeLikIfPteRx43EElr5aaTP+hyETyCjvABPhs5pR0m5204/8JTRDQRIu9Drf9Yta3JOMLWI7cYfjTqnwtnGpeOww7E+27Bo2+FWY3KOZsTj74g4IhHMDJSvJ04l7xYuayWGOXj0oSuuj3Tfh4m/WQ85rJy1LTP0GT6PqhpKo3vEjHjcyN9Zqzi9rRwlE3Oq5r2I0DqZcnvjL2xtwmwdlrWe6GJwq0EAa+8zjhatHN1l/a4fiTMrlFE+E95BuIJKdxwThhQ2Hj3MYqL2+MBkJ0mQXSHiM76wI2conSZ6Fll3cp5kZEeXAC4GNVUOMhXMp5bXXgmDW7TR0t4LJP15ZU9wvPuNFfRtg==;50g6vVRn3dEmasgKfb4EaQ=="
 ---

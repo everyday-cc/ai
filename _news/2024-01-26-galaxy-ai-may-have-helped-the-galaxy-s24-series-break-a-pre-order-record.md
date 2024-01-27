@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "What drives Samsung's decision to skip Galaxy AI in Chinese Galaxy S24?"
+    excerpt: "This includes AI-based real-time call translation, summarisation ... stating that it is now on par with GPT-4, a language model developed by OpenAI. The emergence of advanced language models like ChatGPT and others prompted Chinese tech companies to ..."
+    publishedDateTime: 2024-01-27T10:09:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/samsung-galaxy-s24-series-baidu-ai-china-1706341467.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China"
     excerpt: "Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features,"
     publishedDateTime: 2024-01-27T06:34:00Z
@@ -141,15 +157,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
-  - title: "Samsung S24 Integrates Google AI — What Does It Mean For The Smartphone Market?"
-    excerpt: "How much of this is buzzwords, and how much of this will really change how we use our smartphones? How will Apple, Xiaomi and co react to Samsung?"
-    publishedDateTime: 2024-01-22T10:18:00Z
-    webUrl: "https://www.techopedia.com/samsung-s24-integrates-google-ai-what-does-it-mean-for-the-smartphone-market"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 15
 
 secured: "U9ssMcj7VcBlIccuZ8YN7v+rn4myJHVQP9HKVqDOZ1aav+F6iFqG94/WUhSmc3vTNL2pk+JGeHFwNkQqE647vCUvZYqt9JIjw3e/JRuYp25nUCdKl96B9lGqdavtrNNzkZXz+fG6UFHZqGyRdoleKcBC1zxO26MKO38zpnm66nS9pQWDQ/cCwcA/NGPb+Z8EyNgwUJeMgr1JWOKLzo0ikInkJL7nZ5/Ysf10Yu8C3Uy5ivBxaDyLgRTDKGy+KoRP5P+P15gc4Kxm8CPzn268JNVB680YZ2B9OWFjPl9gPu+yVdmDFLfz+2wJ3bdnt0xQoXEvXJMl0qNT01JRqeur5V/rcVWAk3CqMHSAVQAz4AU=;iTUDAHCpbM4a3P/dOJn1IA=="
 ---

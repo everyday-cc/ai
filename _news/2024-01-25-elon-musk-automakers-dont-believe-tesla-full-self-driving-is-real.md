@@ -30,11 +30,11 @@ images:
 
 related:
   - title: "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware"
-    excerpt: "Musk was asked if he would also buy chips from AMD. “Yes,” the billionaire replied. Nvidia is the current leader in so-called AI accelerators — processors suited to the data-intensive requirements of the technology — but rivals like AMD are ..."
-    publishedDateTime: 2024-01-27T06:01:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
+    excerpt: "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware."
+    publishedDateTime: 2024-01-27T09:54:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
     type: article
     provider:
       name: Business Line

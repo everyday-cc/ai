@@ -68,6 +68,15 @@ related:
         width: 300
         height: 271
         isCached: true
+  - title: "Artificial Intelligence and the arts"
+    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
+    publishedDateTime: 2024-01-25T10:59:00Z
+    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
+    type: article
+    provider:
+      name: TheCourierExpress.com
+      domain: thecourierexpress.com
+    quality: 19
   - title: "Responsible AI development in the shadow of profit is a balancing act, these experts say"
     excerpt: "The complex interplay of technology, ethics, and governance in AI development necessitates a nuanced and multi-faceted approach. The creation of an independent body of algorithmic auditors represents a significant step toward achieving a balanced objective ..."
     publishedDateTime: 2024-01-24T11:42:00Z

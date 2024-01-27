@@ -41,33 +41,19 @@ related:
         width: 1318
         height: 900
         isCached: true
-  - title: "Altman wants his own AI chip factories"
-    excerpt: "Working flat out to build fancy AI chips OpenAI boss Sam Altman wants to build chip factories to come up with his new fancy AI models. Altman plans to splash billions on a global network of chip factories by working with top chip makers to meet the huge demand for chips needed for fancy AI models."
-    publishedDateTime: 2024-01-22T10:18:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58299-altman-wants-his-own-ai-chip-factories"
+  - title: "Artificial Intelligence in Business: Transforming Industries"
+    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
+    publishedDateTime: 2024-01-27T09:15:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/db51c38ffb5f370dc18359324f6bb6e3_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Sam Altman Says ChatGPT Is Good for Education: Here Are 4 Lessons From My Student"
-    excerpt: "Students. Generative AI can help students learn new languages -- via services like Duolingo -- and expand access to tutoring in remote communities. In 2023, Bill Gates predicted people would be \"stunned\" by how much AI tutors could \"be as good a tutor as any human,\" noted CNBC."
-    publishedDateTime: 2024-01-22T10:46:00Z
-    webUrl: "https://www.inc.com/peter-cohan/sam-altman-says-chatgpt-is-good-for-education-here-are-four-lessons-from-my-student.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-ai-inc_536595_s6eifk.jpg"
-        width: 1024
-        height: 576
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
+        width: 650
+        height: 450
         isCached: true
 
 secured: "sIECHbmbiXbjyk+xXmG9hv/xC3wEY0p/CXJzCNZsWPJsnxcXbgPmDL42+pRXCCobXEq2sad1dl5/xmddIKnCWGtggzRkV+S7GWH/3xjDUebuWaQHYNdpskrFHFE9pdgeXFYgXvpgARrX3soHnccD0JMG2KYddOA0b4fPFoFVPi3nrdIOKrRrDUelbBMLSHJX2gNI9HKsZSTBMX4ZPVERzsVcFMQpkIOymSS2fc/xm60fm3w57Gm0/YMRJPmZc4vLXnrI+qFbJyO1cZ+aCxAtZ6UXYawOBtU7IlNXFR5x+6TbykKkGrXtmpOhtxoZ6HOh0gVOKh4VcJuS/hdGcXCAojX4b1eJ28wZwheZ6YJvi5j1o0D0aGU6EkEpw41JW9V8dfAS/jsGqH+p3s1Q9kuqyPCNwulfX3E7LIo/alkbUBoUE5KOqy8WWE3p8jYFUZ9XPT45RPik2oj88ShZvn5IowybKCzGfedjlTXcwqqI5804j0DQTfRAfTxuzljgBoK2+9qignFOiN3MX/b725QhUQ==;LZFtWIvGtg6mAAVb8cZWPw=="

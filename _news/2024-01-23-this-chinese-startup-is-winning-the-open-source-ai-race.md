@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-o
 webUrl: "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Chinese startup Zhipu AI unveils a new large language model"
-    excerpt: "Chinese artificial intelligence startup Zhipu AI has unveiled its latest foundational large language model-GLM4, as the Beijing-based company showcased the technological achievements it has achieved over the past three years."
-    publishedDateTime: 2024-01-22T09:13:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202401/22/WS65ae31d7a3105f21a507dacb.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 37
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202401/22/65ae31d7a3105f211c85e7a1.png"
-        width: 841
-        height: 560
         isCached: true
 
 secured: "/U8814MhGyd4/7RxwVA4Vl5e3OJ01jxYbF/J3H+CcDcFGFWaY5FaMkgFHYmuAEBqfMgaW5kDtV3svZzuvyOBWRoAJdAiTeMJtBM0D8tM4JYEK09wDj5Un/lhokkSPYskpaNMgneOTmsnfXq79dB89OQrVbZGIarFLE7IKGE18w3QiacxXPYu2jJupsqhjVjmdy5TCfMWsFrufOXohFE2RJzHSJI9WL/RZIIJIbxk1Zzd9duOKVezMQlNf3xzzC2828w3ydPlOUCVvSLBVaf9Pktr8b4dp0S9n1ce6YEH0fY5vhy2MB/EnpxQVHb5T8em5Zacz2eQhOXY3XTm1Xu1oXKccabn7JY3n0McCV/qiFPuXWAMGlLdlwR41yW6k72/MyW+L1py6D0IoFh8+ujzyP0y+xsQYxL5SYUX0p1kwSOGYmJNAG3S5naymD1qZ289obD+dNm+Qr58TNUfyBnft4XHfko6ATNmI58aa8wlK5tqUT0zoIrkJRxof+Q4WXbNRZErhBgAGfywxXwJw3V1mg==;vwEjWDk6BHO5SgLK1jTDGA=="

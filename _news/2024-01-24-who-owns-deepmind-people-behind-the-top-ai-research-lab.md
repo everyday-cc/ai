@@ -49,20 +49,6 @@ related:
         width: 350
         height: 216
         isCached: true
-  - title: "Google DeepMind scientists mull AI move"
-    excerpt: "Staff with Alphabet-owned Google DeepMind reportedly approached investors to discuss raising more than €200 million for an AI start-up."
-    publishedDateTime: 2024-01-22T10:55:00Z
-    webUrl: "https://www.mobileworldlive.com/ai-cloud/google-deepmind-scientists-mull-ai-move/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
 
 secured: "fez1v77KcqJuHI1ry1p1jc9CoC+MIxbJtuYq13nmus6tkTMHlQvepJlKQ0mJ4JEPSq7nUc+D+rCLf3kB4JwPEBEJiBrMYxpTbY1KTXtweeVq+OVbwMwNCF05rZq6xCvRkJpELx9niFOqgwgZsdzMZtzIEQ72R7zeUd9UF7R3H2kghy3lBDdd6uxhsPi4rQA+QH8Z8JTUMoYRVmpuumcvmBfNYuWCAx99lI52u0H/RkdaxudgV0DtEJg2PnFO33FSFmU+tTb0fg62mwKZ/Z8pwMd3ZLIOiOB8djWz703lw2aHYDTql1opK1+rHDzdAnBs91Rf3sV6vzcpGfVybyxAmP0VuarRvJBW99c1jYhAQrxqB/jLLMQwUQijM4PNhdm4sB54hCBZFE00+mLkZKTJJM71H16kS33jjtnQHjRuNvLehOrZyYFeNqsbY4TEeXbapibJj/5XdCsGvX6cdaGGFleOicR1s4aCxiqYffDGt456xqs/Rt4vZxKDmgXaCghoYBazFhuBJ7Kuu3ZT35oKGw==;N1TFztFcuZmr9aJl0HXnYQ=="
 ---

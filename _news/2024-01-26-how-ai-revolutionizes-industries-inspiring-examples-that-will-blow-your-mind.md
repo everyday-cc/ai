@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-25T16:01:00Z
 originalUrl: "https://techbullion.com/how-ai-revolutionizes-industries-inspiring-examples-that-will-blow-your-mind/"
 webUrl: "https://techbullion.com/how-ai-revolutionizes-industries-inspiring-examples-that-will-blow-your-mind/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/AI-technology.jpg"

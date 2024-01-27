@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/millionaire-makers:-3-artificial-i
 webUrl: "https://www.nasdaq.com/articles/millionaire-makers:-3-artificial-intelligence-ai-stocks-to-transform-your-portfolio"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
-    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
-    publishedDateTime: 2024-01-22T12:52:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 52
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
 
 secured: "WsADnVDiTTfgSlL4Zmlq1oFLKfMBRVW9K7GEHMWFtbDjF3kXSljlK5ZfsHq2LmYlyt5VDzpVOiiTsxluLw5AUYmenk4b4hhdDSM1Bb5gdPUrJVg9yWO1ZqJOMbt8W8rcrmrfoBdDVtUH560VCIAUQcp0mdVDku3VXLuIyD1Za74ZM1F6HCSGwUguEv+bgCydRhlQLN0EVQBQzFiEbkFaDOsXoPxbghVWGs0+ABkir2JQIK2q1u7zJ8sWyhnT9S+cHZYogp/C0DlLVTo87TpoQ5ivgjvRbdGJk78aylORu7tL10XE3kswAxlR/EiMdm9DyS/9DASA6o6bs6atbWVhqRwz7djbbhB8FzpZFEEJMm5XQJS0Rb5kItvHvxSxGvy9plgg/ORdj7Yii6Tt/UefK3y7XBK8uVlvw07HBHBrCz3kI6t+Forlefz0Mi3o3EKnnVNpVJPAS+xvWIMhMhSYPJcoCYNLxS5FkGse45ldkMqBB0qihIpBJW1A3LpzgAOFwTFxLtYenZO9JpcoWAd6Zw==;hyZI6edgcNjYFTXoIl18gg=="
 ---

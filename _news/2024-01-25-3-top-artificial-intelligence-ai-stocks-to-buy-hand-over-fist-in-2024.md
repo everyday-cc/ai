@@ -19,15 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Stock Investors Just Got Amazing News About Its Artificial Intelligence (AI) Chips for 2024"
-    excerpt: "In today's video, I discuss recent news affecting Nvidia (NASDAQ: NVDA) and a few other semiconductor equipment companies. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used were the ..."
-    publishedDateTime: 2024-01-23T22:48:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META-Q/pressreleases/23532568/nvidia-stock-investors-just-got-amazing-news-about-its-artificial-intelligence-ai-chips-for-2024/"
+  - title: "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024"
+    excerpt: "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed."
+    publishedDateTime: 2024-01-27T10:05:00Z
+    webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/762310/artificial-intelligence-ai.jpg"
+        width: 2102
+        height: 1426
+        isCached: true
+  - title: "The 3 Most Promising Artificial Intelligence Stocks in 2024, According to Grok AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the steady rise of artificial intelligence, we asked Grok AI for its"
+    publishedDateTime: 2024-01-23T23:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-artificial-intelligence-stocks-in-2024-according-to-grok-ai-1032989672"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+  - title: "3 Artificial Intelligence (AI) Stocks to Buy With $500 and Hold Forever"
+    excerpt: "Artificial intelligence (AI) is the hot topic in the stock market today. However, the truth is that the majority of wealth from this technology will take decades to trickle through the economy and into investors' portfolios. We are in the early stages of what could be a trillion-dollar industry as soon as the end of this decade."
+    publishedDateTime: 2024-01-22T12:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/23496276/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 55
+    quality: 52
+    images:
+      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
+        width: 709
+        height: 868
+        isCached: true
+  - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
+    publishedDateTime: 2024-01-25T18:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "3 Artificial Intelligence Stocks to Buy as the Technology Advances in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips According to the International Monetary Fund, we are on the brink of a"
+    publishedDateTime: 2024-01-26T02:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-to-buy-as-the-technology-advances-in-2024-1032998857"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
+    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
+    publishedDateTime: 2024-01-23T22:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 45
     images:
       - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
         width: 709
@@ -47,29 +102,15 @@ related:
         width: 709
         height: 868
         isCached: true
-  - title: "Think Nvidia Is Too Risky? The Smartest Artificial Intelligence (AI) Stock to Buy With $1,000 Right Now"
-    excerpt: "Aided by strong profitability, Microsoft has paid a dividend since 2003 and raised its payout annually for 18 years straight. While the company's current yield of roughly 0.7% won't be attractive to investors looking for big payouts right away, this is a dividend growth stock that's perfectly suited to be a set-it-and-forget-it portfolio component."
-    publishedDateTime: 2024-01-23T16:55:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23538219/"
+  - title: "5 Best Artificial Intelligence Stocks to Buy Now, According to Analysts – January 2024"
+    excerpt: "Artificial Intelligence (AI) stocks soared in 2023, and the trend shows no signs of slowing down in 2024. Fueled by advancements in areas like machine learning and robotic process automation, AI companies are witnessing solid growth and attracting investors' attention."
+    publishedDateTime: 2024-01-23T05:03:00Z
+    webUrl: "https://www.nasdaq.com/articles/5-best-artificial-intelligence-stocks-to-buy-now-according-to-analysts-january-2024"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 38
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/bff0406b1497a4e808b5c5acec460120/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fa35beafb109701e4697d6d6fd0cae75d.png%26amp%3Bw%3D700"
-        width: 720
-        height: 451
-        isCached: true
-  - title: "Here's the Next Big Artificial Intelligence (AI) Opportunity, According to Cathie Wood. It Could Make 1 Stock Larger Than Nvidia."
-    excerpt: "Nvidia has become synonymous with artificial intelligence (AI) thanks to its industry-leading data center chips. However, technology investor Cathie Wood believes AI software is going to generate significantly more revenue than AI hardware. Meta Platforms ..."
-    publishedDateTime: 2024-01-23T13:15:00Z
-    webUrl: "https://www.fool.com/investing/2024/01/23/next-big-ai-opportunity-cathie-wood-1-stock-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 35
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 39
 
 secured: "VQFk/ZfkSc0RH7nhUIfrv0Fe5zONWXPlhbCA1K/1tEEyarhcABvUWmXeSDlEN+Y3GFIy68ng3A4Se2gIhflrtiIn/Cc82kGxO4oiB3y8u+89r5PCBbH6KwctgPjnPy5edpkLAPi6uSM2VkHB3yUBKnbNUCGgmt4+tI1NIW0HIqeFPcRsr4Zs3SEWQDhon9PNxyt4xWM2RwoNftfiDabe84JC7fuvCubEkHu4lWyc5RyMITxuL31qp5zLpWXozD6lN4tFNXVmdwnlBqrDwwSus4Qd7Dcr5TIvIaxfZvdyHSmYU5ZxcOLyIa4E/wZhJ+/y2HNRCCF+9N9Kc0qXPH28uCNxyWbzt6kkIqhfxerjJG4=;/GDnZvVy/GhY4PwgNbG49g=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1362
         height: 900
         isCached: true
+  - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
+    excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
+    publishedDateTime: 2024-01-23T18:36:00Z
+    webUrl: "https://www.techrepublic.com/article/uk-tech-trends-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 49
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240123-uk-tech-trends-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "IeDigital Acquires AI Fintech Software House Abaka"
     excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform that uses machine learning and behavioral segmentation software to predict which products – such as banking products,"
     publishedDateTime: 2024-01-25T15:15:00Z

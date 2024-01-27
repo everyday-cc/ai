@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware"
-excerpt: "Musk was asked if he would also buy chips from AMD. “Yes,” the billionaire replied. Nvidia is the current leader in so-called AI accelerators — processors suited to the data-intensive requirements of the technology — but rivals like AMD are ..."
-publishedDateTime: 2024-01-27T06:01:00Z
-originalUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
-webUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
-ampWebUrl: "https://www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
+excerpt: "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware."
+publishedDateTime: 2024-01-27T09:54:00Z
+originalUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
+webUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
 type: article
 quality: 71
 heat: 111
@@ -76,6 +76,6 @@ related:
       domain: reuters.com
     quality: 47
 
-secured: "Z8U83RrwdnxA7vX4NOyWg7ETtht8YsPyAI8kPqQab0TAOgjedtLMtAV9HVOHVUcljcl4iuSJvqIlB1YuYQH7pFIF4uAXMU4oS+uBRkFeafaYZPq/jJ+MaPqN7QItpJwVirpSniFCeo6ona7Ax/6CkRchopcd7JMCg0Pl9OupBJbK/hvoPsIgWeaPMRJ4rtv6A0bMdTGIrmLsQolLMUZN3tSvDUMTEoWQyo+pe4yK1xAmUXbf0K1tryRNeJFQndZPy70zYlqL6iudoKJKgTK5ipEDUGnZTEEJmR047rj5Ql5YvyXKq4faPO2SF0+lm7/c3IBGJQf8Hn+fQ2w1jfRIfrwrQN0m17hVavjXmFYf6x1V1WS6qhQKJ6UcP15cdFv584gyz7Beru/XNlgGYg3+0nyYsUFm6iCIFrufFNeIv0rOP2aqm8uQ00KI6LE6K2pwSUQ2qLHb3vQo+GfWINen7aLXpVOiqDtkZnoKIkcZNxLKNznIH6Sh71GnwfJujxFd/+Mn3lJn7vJKnxCE6s/Dzw==;ge6WW05Cc4R1cbDzU6p+1A=="
+secured: "jhlPKRpuzyr0YCw0Csf9gV4PnaVEHj/fURgqkEUTn9A/29X4z55SxsTt/P2YolbUbTqQ1ZgigfBSTjbzl7RJ0udbbj2cDSY6qyPKtEq6WtmXyFCuOdnKZh6v19/y+bIig+gdrOtqWJNqvjhOZY7kpuPY2wruLFNuM9ir3/XSis8PfSsXVgQaXonalscog3ZexHOB6GdJyhjUi8MNoyT94uQwGvWKBMoXhM9nAxN2u3TcI/hSrx/lpjoWjQiPeNw5XL4YmNJOJQCgxu6yS8Z/pG6HIb4j3sOv6LgG6e3S3MaTYiGJzHMkVQuBrj6T6V97l8hSIw+9JvGuQAOnLAkD55yj9SpfHR+77YlPFCfjycvFUvQI2Jfllnsd7LkhdSaiRpDok80rKMPUZfDudOMEP292p3YexD/yXFZEJzqRlEy3liFw2DlTGzrUyOk9/7TZrpW5LijWcRigAqfnJ2zb4T8WYSWCZopTMe3WzgNB3EXXci8DOJPgJrUssrj2/BbfHANl5ir39uSbBehTLYrGBw==;EVzH2RnNQTxzOFGj1o0G+Q=="
 ---
 
