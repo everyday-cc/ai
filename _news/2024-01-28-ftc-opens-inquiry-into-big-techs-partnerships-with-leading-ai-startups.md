@@ -1,36 +1,47 @@
 ---
 category: news
-title: "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'"
-excerpt: "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology."
-publishedDateTime: 2024-01-25T15:37:00Z
-originalUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-webUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested."
+publishedDateTime: 2024-01-27T18:00:00Z
+originalUrl: "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+webUrl: "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+ampWebUrl: "https://komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
 type: article
-quality: 90
-heat: 200
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: komonews
+  domain: komonews.com
 
 topics:
   - AI
-  - Microsoft AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509"
-    width: 594
-    height: 396
+  - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
+    width: 986
+    height: 555
     isCached: true
 
 related:
+  - title: "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'"
+    excerpt: "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology."
+    publishedDateTime: 2024-01-25T15:37:00Z
+    webUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 90
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509"
+        width: 594
+        height: 396
+        isCached: true
   - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-26T12:34:00Z
@@ -76,22 +87,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/ftc-opens-inquiry-into.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
-    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested."
-    publishedDateTime: 2024-01-27T18:00:00Z
-    webUrl: "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
-    ampWebUrl: "https://komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
-    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
-    type: article
-    provider:
-      name: komonews
-      domain: komonews.com
-    quality: 57
-    images:
-      - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
-        width: 986
-        height: 555
         isCached: true
   - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
@@ -179,6 +174,6 @@ related:
       domain: ft.com
     quality: 17
 
-secured: "e65w8Nl0bu0VLhAA6SvikgqTSznnFN7Ul98lj1Ykcsf7Gb7ffAET7Q2tEhpvKdCPWDFdmveel8Y7OxAtQLEzXHw0BSR7CaLVHWgDDu0Pie/VlvcWix+5EyI1monTYD9q0K8NbMDh2kx8S6r2JiY8y5BmFvTROP36nkdKzxcjJYv4atXESq/cDEO7+A39izGBfJzuIG3kw+hPajG1kH01aYjHjGOO2qTA1CoSC2gbfSn1Q3Ntqv3w6TJ1In/DJ+TrYqrPSkN4mRqsbd13bqq8VGaJ4ZMB/qMrPQT/VCTgBwu2LljvqbLleI0gZKLgTFPYEEv6kGNj6VlrubDv7pFlrZ0Ovg+H0HOSfEAFY4buoJBrN97H+7+9mVv3fm0lz8qwgjeHKS4biR9hPaai2I9zflvfazld44CD78PHP0esZcN3SSBWKDI57VHiVtT6y6bVPDdRllUWlJfEMRJ5BY1Sgtz9LXd0GfI8c1WmO7O4woFSzdVUiet4D9IOngum3MiQ/IjBgXdFBCbTy9yRDJNoVQ==;B8aNXSNwevhAWBmekg8UGQ=="
+secured: "9iYluczLv4xgCCh2P9SRlhjgpTnGBYgJkiD5Zd3bezuijNZmewTmXJBuh6peATh62Iv403xiqIUx20qT1tPszQjUtOwucGBt+2wYTYGfA8A40HnedQOZk/8yfusQfIIPC1IgU8mKBl5Jno/zJH8SdMXpt1YpeJPRhb2RK+QS6bg+a7vI9ENSm17mEX/w1fFZ/aYvOEtmJtc8aNmITw1Kix05gZKTvW8uC0gsX+FzNWNT6wAmfjhGe5pmBDp8rYsb0yt6xZiHUxrIleWOmDrljpXf6q+o7dXTCj2+2Dhyp/69RgNBMSx2kiq8LqAUHYQ1YAMlu7VJMh2NMvi5nJ/rkseTriaSHgVKltlv387jWyo=;MgoWD44xdEeTtOqVrMS3gw=="
 ---
 

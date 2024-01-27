@@ -2,12 +2,14 @@
 category: news
 title: "Manufacturing giant develops revolutionary system to detect counterfeit art"
 excerpt: "The developers of the “optical recognition system” claim they have created “tamper ... Every work of art – from drawings and prints to paintings and sculptures – is a manufactured object and no matter how skilfully an intended facsimile might ..."
-publishedDateTime: 2024-01-27T14:06:00Z
-originalUrl: "https://www.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art"
-webUrl: "https://www.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art"
+publishedDateTime: 2024-01-27T15:29:00Z
+originalUrl: "https://www.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art?ref=upstract.com"
+webUrl: "https://www.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art?ref=upstract.com"
+ampWebUrl: "https://amp.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2024/jan/27/manufacturing-giant-develops-revolutionary-system-to-detect-counterfeit-art"
 type: article
-quality: 2
-heat: 2
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -22,6 +24,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "U3CqFxx5jnVdtbdC43ITw5kn3wKlK3DpbI8wGWJWUxAbXAteUml2mIqQM4vKs/pfWWmJYO/N9mXecWqHVf2t4S+xD1tlA0z94kgm5kQtj4LwY3UOHFNv9TnlCTDhQp7Ge+babqe2e5mlu/4aYZPPuzAmZ07dj/eNtn/IvpykFpAcTbq+bMr5BCwh2f1eUeL2uGJHPY6JnEBpHt1D9ox8fV9FzGi8NFuwHY0gBO9FtMxMC3iRuABkn/i24jTcxtSF3E+5FzyDVj2wL8HMPEakdlGDjfTWozvMXg/WCkxCqeT26dotiUb8Sl5hqFOOwEzvUtvaKzqYYDYYGj8WRJi9ZBbvZjQ8e989gTFJIwgrShy35ttN93h96l8T432eY3nUgpHJbJeuB9rI9ZbEk8GVMZzomfdzXNC0FqwymzuUgoV7TdtvmNid5srzT8IfuEwBobVIBzr89Lgvybwp+FFXk4N6JkCMFMBxZwPX9Hbo1LiT/5AERW7E4ofcyACTi4Iq8F9WCDdAC6M+uSsGBzOagQ==;wtNubU5PgZSSaXB0o0PqSA=="
+images:
+  - url: "https://i.guim.co.uk/img/media/91682f44881dcd0f839f148f211415ab5c2ce30c/7_146_1145_1145/master/1145.jpg?width=620&quality=85&auto=format&fit=max&s=e1e1e10b3078bedd28ba4f6f43059166"
+    width: 620
+    height: 620
+    isCached: true
+
+secured: "1ozxBnENf2BLLmbblSKU50Q0HpfqMDE/Y9YiJ5hZEjUbnpGhI2WXjIG4GnsjByI3k/hXHbDQ3teE4ATMWJroQcBqoAfwFQsudqJySjRiGsLaxdboe3gMyVjurWhtlygl8VAj29WRCQHRuvJZ2g8EwvqWDlO8LKHoxG+IRnu6IS7Rcg5G4nkAd0Xq/i/xNAkHfCVFs5RfwqhDTrQFVdxyTutJXsSVW/E34cHa7MoFGEBS4gpC3B+L8MNSFskzqgoPUZVenCfg5PeQwxWz1JxH/RtZo6DDtioY+dELpxpFC/3fHzw80VtAP8hxoR2HRm7mf1QPN1htxl7WUAxCwrHXdLFag0N0n3EjYGUVGvKv+Bw=;L3Uy5ZInOj5VVjGhem4uNQ=="
 ---
 

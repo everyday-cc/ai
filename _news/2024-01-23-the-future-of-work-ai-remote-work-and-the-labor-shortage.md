@@ -62,20 +62,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How artificial intelligence is changing work in law firms"
-    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
-    publishedDateTime: 2024-01-22T18:40:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
-        width: 2560
-        height: 1600
-        isCached: true
   - title: "WHO calls for greater regulation of AI in healthcare"
     excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
     publishedDateTime: 2024-01-23T12:00:00Z

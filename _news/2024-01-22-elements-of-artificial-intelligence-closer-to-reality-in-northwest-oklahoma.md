@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/enidnews.com/content/tncms/assets/v3/editorial/f/ab/fab4a0b0-b9a0-11ee-91f8-e32a3c4986b9/65af34f2e71da.image.jpg?crop=1600%2C840%2C0%2C88&resize=1200%2C630&order=crop%2Cresize"

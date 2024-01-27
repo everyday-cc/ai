@@ -68,20 +68,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How artificial intelligence is changing work in law firms"
-    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
-    publishedDateTime: 2024-01-22T18:40:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
-        width: 2560
-        height: 1600
-        isCached: true
 
 secured: "4u/P+ZhfM6nvb9Rzujk5muHFBTewDYWW9VDLxt+Aygguvgn3La+enfYT6hAW5eqynhV1z/feyPUX08WkdncSg82wK2dAoXhXaa7Wm0DCiXIdOgFzTkJMXBANtP9XiTBdgAm+2nfSjzjghf5+4lTvhJwUn2KokgW9O4F7gpOSk99znqN51Axdzrn569fw/bFEDNxII095qJNyltIIQ1zlWSkWfrNqf5ganAgz9ktcrA7QGsInZYR7qEfSHEJReyaXhMj80icLmwjcs1HHh+1+q5rEwEBufVPxf7k1rwWeSeM5ZuEOxmGGyxQzYlTBfl+HKf9te6zyczC/uESHVppTW+rQVjCrGRKmvjZsoZ27iCNPXVXWr0VMkqobKXfK0SqJOwzzWu7kaPs1IcKdfkC0icxBFzehcvf/Dkly5Ww+cE8i9YbneqVre/cDKvqHMKvzWbiZ/W61eoA626KKtysh16uJm7wokr0YUYfhNn+wux3+G+tZsvJknJVcHWUt6SaBwH9HAPlD8e7FfNPkiYwq2A==;5VPHgAZMbRIY4tYrR8ITFQ=="
 ---

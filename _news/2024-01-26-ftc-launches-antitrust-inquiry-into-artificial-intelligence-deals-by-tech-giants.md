@@ -88,6 +88,22 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested."
+    publishedDateTime: 2024-01-27T18:00:00Z
+    webUrl: "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+    ampWebUrl: "https://komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+    type: article
+    provider:
+      name: komonews
+      domain: komonews.com
+    quality: 57
+    images:
+      - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
+        width: 986
+        height: 555
+        isCached: true
   - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
     excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"
     publishedDateTime: 2024-01-25T19:00:00Z

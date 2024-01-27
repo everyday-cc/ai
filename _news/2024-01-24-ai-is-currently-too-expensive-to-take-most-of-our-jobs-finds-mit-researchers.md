@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Humans still cheaper than AI in vast majority of jobs, MIT study finds"
-    excerpt: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries."
-    publishedDateTime: 2024-01-22T18:23:00Z
-    webUrl: "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds"
-    ampWebUrl: "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/ai-branding-.jpg"
-        width: 1000
-        height: 750
-        isCached: true
 
 secured: "srQWEkiqPqmeiNQeRU9i4j0YPHaARGAJDiCLMP3AJ34ApIV2lpSi9tH7Kr37xj7v6Bx2fSmU+b8KGlrcZNNYKgdCCQ4z+PISoikx3ta4iKFzBPYsPldqrnm1ZACJT8YIxQ6F+dJaSVqHhMpFhMFwPuBUc8nV3n0B7b81YifC6PJwkvNfUIr8Yh5kD51nJNWlLjlI7pufgV9CfTQQSaRReIToJJ59QnstNAYbBIJIoKHxXOF8dE8IVlmSNKZEZPyNa4WEMkOE1z5lkEN/6Xs0jSJpzYsETq/YUIkON0c+foKlw6M4jPKw6zXgrzWootzMJiGPgaoA8EilJI6aIcdpbEhXL5D8iIE6NKmB//Wa/Ck=;meNM5DApjqLrd8U+tZut2Q=="
 ---

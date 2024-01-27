@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
-    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
-    publishedDateTime: 2024-01-22T18:25:00Z
-    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "oPl408zYBfoUpKO7Lmgxh6o6LdPkS+AFLXSmQVKdtixPzzfalC5U66XqgSmhMsRGYOh7gBZN9dWzjAOek1YULbPKoaO0hSi/NIUXMGD5zVge7rmLZQBP6PVwZrVM6G9hObxwq/zO2QptUebyDWh00r4IIBg+EI6P7ziw76+DHAadpTlE/1UVl66oD1qR1sUsyo5Q3uICwCZPLMJSmO2vaMXA577GT923/YVMnQKQ4MxNdclkoRnSMem2Y37uy+fUg6BLmKXBhSz3uvB8y0YC2mc9ck5/QahzZFzO9AuEXPUYVmcRJxMWkNXpm+5Xbhryxx4awTvCB6OXhI9mafbG+CgtJYROKhnL99xG3mwW7L3W9/G56kMnybMSKUrpE3FBMrDpBb3tv9vZ+pqJh7RIOH5SeuM1tSb4rFpISbxYfnApZG5p2wxGTWzSag+MktEw0KzIklbyCJamUeTiqUVlcafMQHw4kL9wAJrQg1OEyIcb2QVK4CXlUtZXW8HywByEqsfKzZG2NLFmQMb7PI3cFQ==;pvQRYizzyZ0+8V/7XOeMMg=="
 ---

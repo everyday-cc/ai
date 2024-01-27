@@ -7,7 +7,7 @@ originalUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-cr
 webUrl: "https://news.met.police.uk/news/live-facial-recognition-used-in-croydon-478451"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,38 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Corydon: Five arrests after Met Police uses live facial recognition"
-    excerpt: "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\"."
-    publishedDateTime: 2024-01-22T18:23:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-london-68062080"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
+  - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
+    excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
+    publishedDateTime: 2024-01-26T15:32:00Z
+    webUrl: "https://www.tri-cityherald.com/opinion/editorials/article284663040.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/opinion/editorials/article284663040.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/opinion/editorials/article284663040.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Croydon: Five arrests after Met Police uses live facial recognition"
-    excerpt: "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of it \"deeply concerning\"."
-    publishedDateTime: 2024-01-22T18:23:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-london-68062080"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-london-68062080.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 28
 
 secured: "ALcQgj+5sMrFzLo51kHBkAfSPEYaXKFHXBek8HTH20QxioidydgvetzG/fVk+bz16iZnGBdHes+1UV3gHbybJDV81XdwNPGz4mnWK86aUI/lOyCg2atSOS4z6fKjV25oeuZA9bEuyUGIhLQeZDpKBqanJX0I2SjPeggeVU6pNsaRYEEUgM0IIbBvxf+zhGvg131FSW8jJ+pnDITtlCP3fWywHEbFv1O3K1QwL9JEu+orOrMCrYoa6PmL1RhTrbp2TnpfYFZWza44knVTCMsbFj2ey3xMW0HakFWMV6bviUxrVJr+Xaa3tTxA+K/364hi+/eH4lGDMqYz4xlAQhROm9f42rDntzdPHE4emRq9ng0=;IQyw7PXpbSeUeX7Q22Lj0A=="
 ---

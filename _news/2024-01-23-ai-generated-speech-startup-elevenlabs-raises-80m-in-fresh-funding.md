@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-el
 webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
-    excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
-    publishedDateTime: 2024-01-23T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-elevenlabs-achieves-unicorn-status-xnq7t3x7b"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c4e999f-c252-4b52-a07a-06717c8c4393.jpg?crop=2000%2C1125%2C0%2C105&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
-    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
-    publishedDateTime: 2024-01-22T17:54:00Z
-    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Fast-Rising Voice AI Startup ElevenLabs Hires Privacy Guru as GC"
     excerpt: "Farrah Zaman's arrival as legal chief coincides with the closing of a new funding round that values the business at $1.1 billion, up from $100 million last May."
     publishedDateTime: 2024-01-25T13:04:00Z

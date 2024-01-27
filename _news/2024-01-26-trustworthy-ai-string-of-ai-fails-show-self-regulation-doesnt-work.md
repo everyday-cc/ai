@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG"
         width: 1600
         height: 900
-        isCached: true
-  - title: "How artificial intelligence is changing work in law firms"
-    excerpt: "Artificial intelligence is finding its way into more and more law firms. There are still narrow limits to the use of the technology. But it has the potential to change entire pricing structures."
-    publishedDateTime: 2024-01-22T18:40:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/how-artificial-intelligence-is-changing-work-in-law-firms"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-6.jpeg"
-        width: 2560
-        height: 1600
         isCached: true
   - title: "WHO calls for greater regulation of AI in healthcare"
     excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."

@@ -203,20 +203,6 @@ related:
         width: 1100
         height: 550
         isCached: true
-  - title: "WHO Releases Governance Guidelines for Generative Artificial Intelligence"
-    excerpt: "New guidance from the World Health Organization outlines how stakeholders can ensure the appropriate use of large multi-modal AI models in healthcare."
-    publishedDateTime: 2024-01-22T18:08:00Z
-    webUrl: "https://healthitanalytics.com/news/who-releases-governance-guidelines-for-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 38
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
     excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
     publishedDateTime: 2024-01-26T13:04:00Z

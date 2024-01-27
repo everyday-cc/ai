@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-yo
 webUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans still cheaper than AI in vast majority of jobs, MIT study finds"
-    excerpt: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries."
-    publishedDateTime: 2024-01-22T18:23:00Z
-    webUrl: "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds"
-    ampWebUrl: "https://torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/"
-    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/business/money-news/humans-still-cheaper-than-ai-in-vast-majority-of-jobs-mit-study-finds/wcm/a487627a-4a1a-4971-a670-463c7b17685a/amp/"
-    type: article
-    provider:
-      name: Toronto Sun
-      domain: torontosun.com
-    quality: 59
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/ai-branding-.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "AI is currently too expensive to take most of our jobs, finds MIT researchers"
     excerpt: "So, how worried should we be about AI coming for our jobs? That is the focus of some new research from MIT FutureTech, which doesn’t just look at the capability or effectiveness of AI in carrying out tasks end-to-end, but also acknowledges the costs ..."
     publishedDateTime: 2024-01-24T00:00:00Z

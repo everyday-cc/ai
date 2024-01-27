@@ -51,20 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Voice Cloning Startup ElevenLabs Nets $80 Million From Big-Name Investors"
-    excerpt: "Creating digital copies of a real human voice is a controversial use of new tech. But it's here, for good or ill."
-    publishedDateTime: 2024-01-22T18:25:00Z
-    webUrl: "https://www.inc.com/kit-eaton/voice-cloning-startup-elevenlabs-nets-80-million-from-big-name-investors.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 21
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1173128215_536668_mvvdsq.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ANYruTrxxrKRTLqYfx+be8VWZczKLnOmmoxzOVo+XNPjnySdhJjUT0xIbNSkmFZeNUg63InIHScGekyqBjWBf6CC9wJ4oNiMgC0lyrWO0KXNfZtPdLAMJLSLS0n24HZbmgMBLr6MpkDhDpRhuEa0wVCXB1u9jbeR6HvtAb3TP60/SxFfZqD+Nh6wYYL9c2/++wG4elt+bsSy3T2fYnJTszIazTfSmvbLuC7lygovDWqyDHzvGE6eougYfiRSfL9dwY+oTYCKSzyLv3uYcXVG45EAur9j4npU0dJtv8RkP6v48jqq2lyHmBDTbH8W4CJjXsbGyCgXYrLUT8w+zdl2X8vXXq4tiXulG5gZBcMvxdo6WzNXgRaXx5swJV+7N4B6XEeFDJ5Spt7QnkbVIsu2E08cjZkfNZODw9vPprvcrZk9OtMouj272U5Apoxjzp/I+NW/xd3/DtzR/kZW+eyE29jCavxXU+E7E4hBzXcB/0eqh0JHpvZbRq5uicvUBqiaaFQ199FQLKNsDx1z9UjUow==;n1Ch67D7Y2EHhG+cSnoMNA=="
 ---

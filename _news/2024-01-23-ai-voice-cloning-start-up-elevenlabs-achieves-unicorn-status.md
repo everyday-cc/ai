@@ -7,7 +7,7 @@ originalUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-eleve
 webUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-elevenlabs-achieves-unicorn-status-xnq7t3x7b"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,47 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "ElevenLabs Latest AI Unicorn After $80M Raise"
-    excerpt: "Voice AI startup ElevenLabs raised an $80 million Series B at a unicorn valuation as investor interest in all AI tech remains at an all-time high."
-    publishedDateTime: 2024-01-22T17:54:00Z
-    webUrl: "https://news.crunchbase.com/ai/elevenlabs-voices-unicorn-a16z/"
+  - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
+    excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
+    publishedDateTime: 2024-01-27T16:01:00Z
+    webUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/"
+    ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
+      name: Fortune
+      domain: fortune.com
+    quality: 59
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Talk.jpg"
-        width: 900
-        height: 506
+      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
+        width: 840
+        height: 582
         isCached: true
-  - title: "AI-generated speech startup ElevenLabs raises $80M in fresh funding"
-    excerpt: "ElevenLabs, the developer of a synthetic voice platform used by more than 40% of the Fortune 500, today announced that it has raised $80 million from a group of prominent investors."
-    publishedDateTime: 2024-01-22T19:59:00Z
-    webUrl: "https://siliconangle.com/2024/01/22/ai-generated-speech-startup-elevenlabs-raises-80m-fresh-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "Fast-Rising Voice AI Startup ElevenLabs Hires Privacy Guru as GC"
-    excerpt: "Farrah Zaman's arrival as legal chief coincides with the closing of a new funding round that values the business at $1.1 billion, up from $100 million last May."
-    publishedDateTime: 2024-01-25T13:04:00Z
-    webUrl: "https://www.law.com/corpcounsel/2024/01/25/fast-rising-voice-ai-startup-elevenlabs-hires-privacy-guru-as-gc/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
-  - title: "Startup Digest: Byju's FY22 surge to ₹8,245 crore, Voice AI startup ElevenLabs turns unicorn and more"
-    excerpt: "Edtech unicorn Byju's has filed its FY22 financials today after a delay almost 22 months after the reporting period ended."
-    publishedDateTime: 2024-01-23T17:57:00Z
-    webUrl: "https://www.cnbctv18.com/startup/startup-digest-byjus-fy22-curefit-sacks-tiktok-layoffs-elevenlabs-unicorn-tencent-riot-games-18875181.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 2
 
 secured: "/uxEEurP1eCntjRPJZ6kYuua9euDfMy2WnkCow8BZ0rWDVCxdLGPo2uGSXl2M1kfjXMcPzt558YKZtMFhFrCliqRaJkA3hZUvtE7vrvGvGvqr9X22HIMoEQtW3wgpI0mIBRjdUhjxKPT9F/M7WZncXOPzwLLZb4p/0076MlfKfb6ttMXeNpfek2StaAPyGacSzbTCynyLfViIm2TVd5/sIgHYpuRZxn0xKjRNqtj8pIpORPUvPaL64l7MrHHJe/XwdFIuWpZqiPmEa6QlXyGWYh/Me/7cef6uH7GtyiqGNO82S+PLTSFto5qpciBq5YlHJKnaTc/kEHtWSEGUtWnguQGHpStTVwKNO+IoKA8NIWheCuGt9Rf2kvj48/ELwHAo4Q7XI8r5ZaBSchmCWvm/dRVHpyzKr2PO9/q/sri4AQsrjJR7Gk+qDpfLFSMgW+hpyJ8ac6wnwdzOdkP+ltjfcEvKPQihQQlIbswxfDu4C8WsB5XtBFZT/3WWwTCF+++920XsPTQ8OtPaqbE4UQdCA==;n2QkGO1fzxHaXJh8xXSnKw=="
 ---
