@@ -39,6 +39,20 @@ related:
         width: 829
         height: 553
         isCached: true
+  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
+    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
+    publishedDateTime: 2024-01-22T17:39:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 43
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The AI Revolution: Transforming Bing’s Landscape"
     excerpt: "Curious about effects of artificial intelligence on Bing? Read our blog to know more about how Bing has transformed into an advanced AI-driven platform."
     publishedDateTime: 2024-01-22T15:21:00Z

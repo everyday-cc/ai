@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/could-security-guard-shortage-be-solv
 webUrl: "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

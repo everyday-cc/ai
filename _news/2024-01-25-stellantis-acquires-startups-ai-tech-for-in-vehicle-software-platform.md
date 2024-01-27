@@ -32,6 +32,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
+    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
+    publishedDateTime: 2024-01-25T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "UAE President issues law establishing Artificial Intelligence and Advanced Technology Council"
+    excerpt: "The council will be responsible for developing and implementing policies and strategies related to research, infrastructure and investments"
+    publishedDateTime: 2024-01-23T02:42:00Z
+    webUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f"
+    ampWebUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 26
 
 secured: "hrscT2e0Z5MkCEKzKH4MteQXQwoxXL+jNLv1nea6X7B3gcpXnjcquZKR+KTdObuK09PJfS3CrvREl1IoeqNUSBUF0rFSd2h1x9kJpnGMxt/zFu75rQPuxj0a/Eyeja8zcHDbswzaIUw48iZmbWltb0yuaz2W3j2RFS4KURzmeqriOB4X9n9L4qwOUJGDeQPSB84sU62TPQSEAVILyvQF6ACSzW5qQI1ZZG/0lS97JNrkm5+KQH/v2LOxlitVKNYloLlo5hcZOxH9sCeg2mncpeacom5cgFo4qmws0duEbj3pAEnFmqMUNKyrvDsEnBdiioYXW4iaR/EQtW76Neg3FPH1hW4QrUBQk1vWntAGJVBUk4mjIHJevuF/zKZEc0e9KYo+UwrSL/3lGOtHrVtdEBeBZhn3NPUXY4yxo4gL7kxxYX8gOgqLt0z/BO2EIiGA8FpY1mbocfr/vlI0nPMRrKFHeg7qH3/uiytTlKkZTIyUBRo/SQ/Kq9yw5YU/+qpp1B+tlNwaNCqHCB2iWAFrTw==;7pWgTeRYaufEcNL88vNCGg=="
 ---

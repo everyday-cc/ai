@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-u
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107181443,width-1280,height-720,resizemode-4/107181443.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "What Galaxy AI Brings To The Galaxy S24 Series [Watch]"
-    excerpt: "The Galaxy AI has a feature that lets you turn normal videos into slow-motion videos and an image editor that lets you erase objects or subjects in an image."
-    publishedDateTime: 2024-01-22T08:56:00Z
-    webUrl: "https://www.ibtimes.co.uk/what-galaxy-ai-brings-galaxy-s24-series-watch-1722898"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722520/samsung-galaxy-ai.jpg"
-        width: 2048
-        height: 1153
         isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."

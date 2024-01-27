@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 AI Development Companies In USA 2024"
-    excerpt: "With a long history of AI research and development, IBM is one of the top global brands established in 1911. IBM Watson is one of the company’s popular AI divisions, enabling organizations to improve their decision-making process, unlock the complete ..."
-    publishedDateTime: 2024-01-22T08:50:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/top-10-ai-development-companies-in-usa-2024-news-344734"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/top-10-ai-development-companies-in-usa-2024-news-344734/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/top-10-ai-development-companies-in-usa-2024-news-344734/amp"
+  - title: "New York State Department of Financial Services Issues Proposed Artificial Intelligence Circular Letter"
+    excerpt: "On January 17, 2024, the New York State Department of Financial Services (“NYSDFS”) released a proposed circular letter addressing the use of external consumer data and information sources (“ECDIS”) and artificial intelligence systems (“AIS ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-york-state-department-of-financial-4847012/"
     type: article
     provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 21
     images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705913224.jpg"
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16300_1146.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
 
 secured: "UClqvuC3FOkRt1rynbgr8M3XyDqsSnY8HvUy1W1eD8JzV6WjTinOD0GEwZhma5Xn0ZHJ28ynfiZvZLosZWlgfPoYfkTIJEkIryg3L9lYCMyTHutp7PvE/rk1f6mB1Mn5baLbNwSikPo18YeH4dxN/i8xmQHA3qHZllI2XjAwO7/W0mxAG31BsjQ8taFpD+2JQi7mNYi3eIxNwQ1+MY70LPH8Bp1fjL/Ut/LXQ+ajeh+EMdpk6u3uBUR2OTfkCOZD3+AzeSw25wqbS8UV3jx6vVvqULUlSJ7+wJTY+w4g5yxCDBR3kLHStCzZrSc1/V4yJc2I6DHkO0sbPM3E1R7xeWI7xcS4ZTwv2BzHpL6EKnk=;wwpW7SSbey+n4INRCbLMcQ=="

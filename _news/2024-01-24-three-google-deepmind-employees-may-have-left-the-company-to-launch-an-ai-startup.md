@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmi
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Indiatimes
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
-    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
-    publishedDateTime: 2024-01-22T08:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
-        width: 324
-        height: 435
-        isCached: true
   - title: "DeepMind Duo Dives Out: Top Scientists Exit to Form AI Startup"
     excerpt: "From DeepMind to their own AI dream! Sifre & Tuyls exit giants to craft a new AI model. Know their bold move & its impact on the future!"
     publishedDateTime: 2024-01-22T15:26:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Google's DeepMind scientists are considering founding their own AI start-up"
-    excerpt: "Google DeepMind scientists Laurent Sifre and Karl Tuyls are said to be in discussions with investors about founding a new AI start-up named Holistic in Paris"
-    publishedDateTime: 2024-01-22T07:18:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-scientists-likely-to-leave-google-to-form-ai-start-up/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 52
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l4720240122122814.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
     excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."

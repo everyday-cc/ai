@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/01/doctor-ai.jpg?quality=82&strip=all"
         width: 1920
         height: 1079
+        isCached: true
+  - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
+    excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"
+    publishedDateTime: 2024-01-26T13:15:00Z
+    webUrl: "https://hbr.org/2024/01/how-data-collaboration-platforms-can-help-companies-build-better-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan24_26_1128845361.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "50X5GeWcO5aV8rAlzg7cpY1trZWjinIBbyRJh2+7pICA9OxeqOW5jj67KZSOC9CzneERXlwwW+LyxlfHA4+IFI61oowtunDeuBnAN02w1AvbmLa/PNvlGtKBgDgemMoomqj53BUr0PyLVRtB7nOfSm8SsxQ+QilO3VKUBJnFx0rrMZL/mt1kxTCC0x6bqLGVUj6uRSltB2w9ZU4CjYVEpWRXsahhg/JJT/u5mWrRw3fNQ++K/tYdp0rC+6MGrNgoe1hzRi1R8teDfi/qaQv0x6Xp/MeGs5sJhbLcH3h1OIPiiHVgpjuFIs4+2RujQDADvdywI3Zuut4rFJ+8zYkdWu/d7TUl+A1746pxokIptCc=;VCjGcsomN3ghDt0RJz62bw=="

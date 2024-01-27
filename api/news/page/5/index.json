@@ -2,6 +2,161 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-23-chrome-is-getting-3-new-generative-ai-features.md",
+      "title": "Chrome is getting 3 new generative AI features",
+      "excerpt": "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "publishedDateTime": "2024-01-23T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-why-every-modern-leader-is-now-a-chief-ai-officer.md",
+      "title": "Why Every Modern Leader Is Now A Chief AI Officer",
+      "excerpt": "Responsibility for AI cannot be relegated to one person or department. Modern leaders must embrace AI as a core competency. All leaders should be 'Chief AI Officers'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65afd06fad5ec9e8dbbbc41c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "publishedDateTime": "2024-01-23T14:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
+      "title": "This Chinese Startup Is Winning the Open Source AI Race",
+      "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-financial-institutions-considering-which-type-of-ai-to-use.md",
       "title": "Financial Institutions: Considering Which Type Of AI To Use",
       "excerpt": "Financial institutions need to understand the key differences between these types of solutions to partner with the right providers.",
@@ -648,7 +803,7 @@
       "originalUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1057,144 +1212,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
-      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
-      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-these-robot-dogs-paint-like-picasso-and-fetch-up-to-40k-for-their-art.md",
-      "title": "These robot dogs paint like Picasso — and fetch up to $40K for their art",
-      "excerpt": "The robots can be seen painting, navigating their environment and self-charging in the show, which runs until April 7. The exhibition’s theme is generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "originalUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-85xyqhh4w-1705939812973.jpg?quality=75&strip=all&1705921857&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "publishedDateTime": "2024-01-22T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-voice-cloning-startup-elevenlabs-valued-at-11-billion.md",
-      "title": "AI voice-cloning startup ElevenLabs valued at $1.1 billion",
-      "excerpt": "The company plans to expand into dubbing films or creating AI actors ElevenLabs, a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, has raised a new round of funding that values the two-year-old ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
-      "originalUrl": "https://gulfnews.com/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2023/03/04/Computers-with-human-brain-cells-could-soon-be-a-reality_186ac972c54_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567",
-      "publishedDateTime": "2024-01-22T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

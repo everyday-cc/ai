@@ -50,6 +50,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Kodiak Solutions: as AI expands across healthcare organizations, benefits and risks both grow"
+    excerpt: "Kodiak Solutions identified its top management risks through interviews with executive leaders and board members at many of the largest U.S. health systems, and risk"
+    publishedDateTime: 2024-01-22T17:39:00Z
+    webUrl: "https://www.securityinfowatch.com/healthcare/press-release/53083170/kodiak-solutions-as-ai-expands-across-healthcare-organizations-benefits-and-risks-both-grow"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 43
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/01/65ae9e31d824f6001febe374-002.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Arab Financial Services forges pact with Kiya.ai"
     excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
     publishedDateTime: 2024-01-23T09:19:00Z

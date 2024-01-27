@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
+      "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
+      "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "publishedDateTime": "2024-01-25T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-microsoft-adds-two-new-indian-languages-to-translator-service.md",
+      "title": "Microsoft adds two new Indian languages to Translator service",
+      "excerpt": "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107145308,width-1280,height-720,resizemode-4/107145308.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms",
+      "publishedDateTime": "2024-01-25T10:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
       "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
       "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
@@ -1098,21 +1196,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-data-security-privacy-compliance-and-hygiene-for-ai.md",
-      "title": "Data Security, Privacy, Compliance And Hygiene For AI",
-      "excerpt": "Data privacy regulations, security frameworks and AI ethics guidelines are constantly evolving, continuing to be top of mind for security and business leaders. Learn to stay ahead of the curve by automatically applying policies based on data type and ...",
+      "path": "_news/2024-01-24-three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup.md",
+      "title": "Three Google Deepmind employees may have left the company to launch an AI startup",
+      "excerpt": "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/articleshow/107118423.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
+          "url": "https://static.toiimg.com/thumb/msid-107118397,width-1280,height-720,resizemode-4/107118397.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1120,118 +1218,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
-      "publishedDateTime": "2024-01-24T11:30:00Z",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms",
+      "publishedDateTime": "2024-01-24T12:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health.md",
-      "title": "World Health Organization (WHO) Lays Out Crucial Warnings About The Use Of Generative AI And Large Language Models In Medicine And Health",
-      "excerpt": "In today’s column, I am continuing my ongoing series about generative AI in the medical and health domain by taking a close look at the recently released World Health Organization (WHO) report entitled “Ethics and Governance of Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0c0c0a8706b21e2c100bb/0x0.jpg?format=jpg&crop=3240,2160,x51,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/",
-      "publishedDateTime": "2024-01-24T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-should-we-trust-amazons-ai-generated-review-summaries.md",
-      "title": "Should we trust Amazon's AI-generated review summaries?",
-      "excerpt": "Last August, Amazon announced a solution to review fatigue: an AI-generated summary that succinctly highlights the pros and cons from customers. Theoretically, the feature is a useful tool that helps consumers quickly decide what products to buy.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/amazon-ai-generated-review-summaries",
-      "originalUrl": "https://mashable.com/article/amazon-ai-generated-review-summaries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02Ox7rmz3CYvJjUl7lIcEJw/hero-image.fill.size_1200x675.v1706044529.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1241,7 +1234,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Google AI",
         "AI"
       ]
     }

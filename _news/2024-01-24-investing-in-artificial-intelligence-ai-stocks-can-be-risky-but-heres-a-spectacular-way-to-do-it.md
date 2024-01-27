@@ -39,20 +39,6 @@ related:
         width: 709
         height: 868
         isCached: true
-  - title: "A Once-in-a-Generation Investment Opportunity: 1 Artificial Intelligence (AI) Growth Stock to Buy in 2024 and Hold Forever"
-    excerpt: "The coming of generative AI takes that to the next level. Generative AI can create original text and music, summarize data, draft email responses, create presentations from existing data, and even write and debug computer code. Novel uses for the technology are being developed every day."
-    publishedDateTime: 2024-01-22T07:53:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/23501085/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/7def8b1f746aaef24c3b314ef4f1aa86/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761787%252fa-person-with-hand-outstretched-under-a-hologram-with-various-ai-icons.jpg%26amp%3Bw%3D700"
-        width: 2440
-        height: 1229
-        isCached: true
 
 secured: "WXfxqYqWM3vX5n9mwBIoXeqLAbonGIO2qcBZtH3ADp8o17n53YrwzvaHbFRQhbS9p6EorzeZ20OqFmn/xir8ae2ZYzKBifKcHYVVGAz5+zafVSIuUSmy0Sxm3EfhachoLlNg5Z5xKYHKIo0zAGBwWy6pCo8oPgeWq/wTdPs7NyhgswmhFSArwSkOtphq0GsmMk2wojd2cxY19s/JsXrKcFWwddy/YIWrydysFxXGPvj8DIlApVQ2tJqDM/dnpOBxNyYlinmNAq+CKpdcDVTih15ODtX4IcH6ZPQtHeKihBWSfNl5oDwmIAr2ekuBxv2+lfsLCedzveKzMPaYqS6TNe3COaEBmBnCYzANDWmT3Dw=;4uP7tpou+9xCyvSHzImKdA=="
 ---

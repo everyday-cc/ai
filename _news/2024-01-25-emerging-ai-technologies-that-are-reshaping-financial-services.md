@@ -25,6 +25,26 @@ images:
     isCached: true
 
 related:
+  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
+    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
+    publishedDateTime: 2024-01-25T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "UAE President issues law establishing Artificial Intelligence and Advanced Technology Council"
+    excerpt: "The council will be responsible for developing and implementing policies and strategies related to research, infrastructure and investments"
+    publishedDateTime: 2024-01-23T02:42:00Z
+    webUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f"
+    ampWebUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 26
   - title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
     excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
     publishedDateTime: 2024-01-24T17:09:00Z

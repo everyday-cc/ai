@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/markets/ai-voice-cloning-startup-e
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/ai-voice-cloning-startup-elevenlabs-valued-at-11-billion-1.100588567"
 type: article
 quality: 57
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Voice-Cloning Startup ElevenLabs Valued at $1.1 Billion"
-    excerpt: "Chief Executive Officer Mati Staniszewski said the latest financing gives his startup a $1.1 billion valuation. Tech investors have poured money into startups developing AI tools that generate convincing audio and video, eying the business opportunities in ..."
-    publishedDateTime: 2024-01-22T08:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-01-22/ai-voice-cloning-startup-elevenlabs-valued-at-1-1-billion"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Ola Electric CEO's new AI venture valued at $1 billion"
     excerpt: "Artificial intelligence startup Krutrim, founded by CEO of Ola Electric Bhavish Aggarwal, has raised $50 million in the first funding round at a valuation of $1 billion, the company said in a blog post on Friday."
     publishedDateTime: 2024-01-26T10:40:00Z

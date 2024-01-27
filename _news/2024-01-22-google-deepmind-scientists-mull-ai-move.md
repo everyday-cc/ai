@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
-    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
-    publishedDateTime: 2024-01-22T08:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
-        width: 324
-        height: 435
-        isCached: true
   - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
     excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
     publishedDateTime: 2024-01-24T12:49:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_copy_protection-2.jpg"
         width: 350
         height: 216
-        isCached: true
-  - title: "Google's DeepMind scientists are considering founding their own AI start-up"
-    excerpt: "Google DeepMind scientists Laurent Sifre and Karl Tuyls are said to be in discussions with investors about founding a new AI start-up named Holistic in Paris"
-    publishedDateTime: 2024-01-22T07:18:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-scientists-likely-to-leave-google-to-form-ai-start-up/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 52
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l4720240122122814.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
     excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."

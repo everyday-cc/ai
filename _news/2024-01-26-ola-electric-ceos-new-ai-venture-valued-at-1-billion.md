@@ -38,15 +38,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "AI Voice-Cloning Startup ElevenLabs Valued at $1.1 Billion"
-    excerpt: "Chief Executive Officer Mati Staniszewski said the latest financing gives his startup a $1.1 billion valuation. Tech investors have poured money into startups developing AI tools that generate convincing audio and video, eying the business opportunities in ..."
-    publishedDateTime: 2024-01-22T08:01:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-01-22/ai-voice-cloning-startup-elevenlabs-valued-at-1-1-billion"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
     excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
     publishedDateTime: 2024-01-23T00:01:00Z

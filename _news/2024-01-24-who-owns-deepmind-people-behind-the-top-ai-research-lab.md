@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind scientists consider founding AI startup, reportedly resign from Google"
-    excerpt: "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris."
-    publishedDateTime: 2024-01-22T08:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg"
-        width: 324
-        height: 435
-        isCached: true
   - title: "Three Google Deepmind employees may have left the company to launch an AI startup"
     excerpt: "Google employees from the DeepMind AI division have left to launch Uncharted Labs, an AI startup. Laurent Sifre and Karl Tuyls are in discussions to e"
     publishedDateTime: 2024-01-24T12:49:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://assets.mobileworldlive.com/wp-content/uploads/2023/01/16113954/MWL_AI_deal_artificial_650.jpg"
         width: 650
         height: 400
-        isCached: true
-  - title: "Google's DeepMind scientists are considering founding their own AI start-up"
-    excerpt: "Google DeepMind scientists Laurent Sifre and Karl Tuyls are said to be in discussions with investors about founding a new AI start-up named Holistic in Paris"
-    publishedDateTime: 2024-01-22T07:18:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-scientists-likely-to-leave-google-to-form-ai-start-up/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 52
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l4720240122122814.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "fez1v77KcqJuHI1ry1p1jc9CoC+MIxbJtuYq13nmus6tkTMHlQvepJlKQ0mJ4JEPSq7nUc+D+rCLf3kB4JwPEBEJiBrMYxpTbY1KTXtweeVq+OVbwMwNCF05rZq6xCvRkJpELx9niFOqgwgZsdzMZtzIEQ72R7zeUd9UF7R3H2kghy3lBDdd6uxhsPi4rQA+QH8Z8JTUMoYRVmpuumcvmBfNYuWCAx99lI52u0H/RkdaxudgV0DtEJg2PnFO33FSFmU+tTb0fg62mwKZ/Z8pwMd3ZLIOiOB8djWz703lw2aHYDTql1opK1+rHDzdAnBs91Rf3sV6vzcpGfVybyxAmP0VuarRvJBW99c1jYhAQrxqB/jLLMQwUQijM4PNhdm4sB54hCBZFE00+mLkZKTJJM71H16kS33jjtnQHjRuNvLehOrZyYFeNqsbY4TEeXbapibJj/5XdCsGvX6cdaGGFleOicR1s4aCxiqYffDGt456xqs/Rt4vZxKDmgXaCghoYBazFhuBJ7Kuu3ZT35oKGw==;N1TFztFcuZmr9aJl0HXnYQ=="

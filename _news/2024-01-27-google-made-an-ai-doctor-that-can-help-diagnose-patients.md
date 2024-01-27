@@ -50,6 +50,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
+    excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"
+    publishedDateTime: 2024-01-26T13:15:00Z
+    webUrl: "https://hbr.org/2024/01/how-data-collaboration-platforms-can-help-companies-build-better-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan24_26_1128845361.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gR7I19YXQtl6uI8bnv35UDqnQ1Uebd4BeAfd5sA7YJ8k3k5m7rIYlqOrgMfYGkdremuOlnr8qTVJ3kzjrrecCrpJxQh2Hi0LxoSFGd9L9NveUG2igoMMvp2iIE8//BzuyDmFhUki/bhBEca9Ia+C37HNdLso9HqXQOsye7MGAQsePzKL12p2wB7+utrLGLRXOFq2bAnckAS/ilUdB5UroafYmJD3YXeb9w0NSctXfBecrERyXzIxftDKphnNXnxYNsPll3Zi5Fe36AAlRHW3vqaIHHo2iq/ZOK+7P13/a7pEl52iazR043P6AGXRto9muOU84I0a9yLWtmXG8ENLHoWQa/2t9H/Cs3V3ehnHjNvabNwgs5Z+sD6ioGIlLADcuY7ITtdhcbmNb/qzcLjnAcn2x8kdFbzCkqPajRYI6sNvI38KUbdgzjvQNppUvHa2DpIMhU4VeKaXB218Z0BOpAU5AubJ8bcUIePG0o8Ui2ZywmTBGvwCKn+9aODRJzR0NkoK5+W0kP2NFP9bbu96/A==;7CeOfADtku39jvBD/zr7eQ=="
 ---
