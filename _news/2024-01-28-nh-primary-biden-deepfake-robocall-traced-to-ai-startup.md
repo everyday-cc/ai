@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 99
+heat: 97
 published: true
 
 provider:

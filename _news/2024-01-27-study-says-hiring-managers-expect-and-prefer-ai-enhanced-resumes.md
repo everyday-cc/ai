@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hir
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2024/01/26/study-says-hiring-managers-expect-and-prefer-ai-enhanced-resumes/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 92
 published: true
 
 provider:

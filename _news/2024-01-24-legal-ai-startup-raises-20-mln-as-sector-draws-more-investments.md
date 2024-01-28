@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Gen AI Legal Startup CallidusAI Raises Investment Led by Andrew Ng’s AI Fund"
-    excerpt: "On Tuesday, generative artificial intelligence legal startup CallidusAI announced that it closed a funding round led by the AI Fund, the AI venture studio founded by Andrew Ng, a Stanford professor and founder of Google Brain, Landing AI and DeepLearning.AI."
-    publishedDateTime: 2024-01-23T08:00:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/23/gen-ai-legal-startup-callidusai-raises-investment-led-by-andrew-ngs-ai-fund/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Callidus-AI-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Legal AI Startup Spellbook Raises $20M Series A Funding Round, Following 10x Revenue Growth"
     excerpt: "Spellbook, the AI copilot for lawyers, today announced a $20M Series A funding round led by Inovia Capital. Thomson Reuters Ventures, The Legaltech Fund, Bling Capital, Moxxie Ventures, Concrete Ventures, Path Ventures, N49P and Good News Ventures also ..."
     publishedDateTime: 2024-01-24T05:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-feat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
 type: article
 quality: 109
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "No, the Samsung Galaxy S22 isn’t getting Galaxy AI features – here’s why"
-    excerpt: "When probed on the chipset uniformity between the Samsung Galaxy S23 FE and Samsung Galaxy S22 – both phones use Samsung’s own Exynos 2200 chipset – Chomet acknowledged the fact but added: “For now, we’re limiting Galaxy AI to last-gen devices.”"
-    publishedDateTime: 2024-01-23T07:23:00Z
-    webUrl: "https://www.techradar.com/phones/samsung-galaxy-phones/no-the-samsung-galaxy-s22-isnt-getting-galaxy-ai-features-heres-why"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 68
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tuJKqeB25jWVnN4JsiTRYk-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Browser alternatives Brave, Arc, add new AI integrations"
     excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"

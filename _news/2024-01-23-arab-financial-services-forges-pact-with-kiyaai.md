@@ -62,20 +62,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
-    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
-    publishedDateTime: 2024-01-23T08:54:00Z
-    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 23
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9ZC9I06EBTiGxFjQq09Q0uBwcZKgn6MVNwgaWgC/3YGMeSabtjzbSUYLgdEL1Fde+g9bko7ODEXuG+4mWzk3c9brQ7kKqXGszcsjKdqMeCfKrSlLhMLctBld3OOm2YyMrxxvdiYqNg2f5Stj5z+wPbrMFw82Lcem39c0rKr47Twl6MzBiWLrGez9EEE7yUzh4MsucpVPtkZ/GtKsRmT9gVUavyvqUVdCZqDE+67ZLzEnQpFAtmBnSFQpJ5AwbVcsZsYMTDNTqrOTPDY4NU1504GXNUPxWdpHJwvXZcUNMQjxP46KbSrxa6fHLKUHeBE+3dRxCjarlPSqLWRCI/N5xxi9g7kP9a06sS1NjVZLn3Y=;KIajEJo1ctHdneknB25VCA=="
 ---

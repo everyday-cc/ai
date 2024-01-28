@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Cairo-based fintech Zeal raises $4mln funding"
-    excerpt: "The app will use the investment to expand its technology solutions across the EMEA region, following its recent expansion into the UK market"
-    publishedDateTime: 2024-01-23T07:16:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd"
-    ampWebUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
+  - title: "Axyon AI, an Italian Fintech Leveraging AI, Closes New Funding Round led by Montage Ventures"
+    excerpt: "Axyon AI, an Italian AI fintech company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures."
+    publishedDateTime: 2024-01-26T15:09:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2VjNWRlOTAtYzE1OC00/24/921663488.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/David-Florence-Italy.jpeg"
+        width: 899
+        height: 1280
+        isCached: true
+  - title: "Axyon AI secures €3.9 million investment"
+    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
+    publishedDateTime: 2024-01-25T00:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "K8hgGI/4zOa5gXeowk/ZQAG9fFPEhXcQiMrSdRiPx65X+w1cozKEsXLWGFTsz/VErU6Yia8kZ1qsgNBl4jgbpveKZRHPRql7eUMEaTtjv3ACPB8+cjAg/RVwBiJQJeH8kVq+sBrJQZ00jiZSd1Ccd+mHi6Dj2g2dkQXnknIuBjWR/w7uizFW70la7L1HFcmtpTIuDQ8MLlNL7hIXD7cbaa7YnnR0yEFNJThES5pvNtifOPoXcmAg8U6jsBn9igeBntVjU2ZHQCDlfgLXSNPUxTAcqihpb7+wDSzdG9sGUCCulHP0imf+w/x6wd8ymFb+vgwA43zbf8TfisRMfyebaq9eTq7B06KdYe/4D3zVZJz3yUSInTvR492+oQQN+zxv2/ont2do4UgArBpMp34LKmi9e07P19OvEGAw/Tk5mlX//Z0Q9nfeNaRvQR73orvQozWa31krclxJCqAD5ujxmp05LcMF+6uzrUiLLv6JRianHYZpFDauKu8jXQ7M3nvVqZCH7++btm9ThK49jFuyXQ==;iXD473eoGE2/ZkMbsS9erA=="

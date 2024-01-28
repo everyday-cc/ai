@@ -27,20 +27,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
-  - title: "Gen AI Legal Startup CallidusAI Raises Investment Led by Andrew Ng’s AI Fund"
-    excerpt: "On Tuesday, generative artificial intelligence legal startup CallidusAI announced that it closed a funding round led by the AI Fund, the AI venture studio founded by Andrew Ng, a Stanford professor and founder of Google Brain, Landing AI and DeepLearning.AI."
-    publishedDateTime: 2024-01-23T08:00:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/01/23/gen-ai-legal-startup-callidusai-raises-investment-led-by-andrew-ngs-ai-fund/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/01/Callidus-AI-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
 
 secured: "YzR7EpKMpRFltOv4cew2rzle5XxUT0FeBipkJs2/5mwz6ab3kcKfxzF+DZ8z6LdNkVUu7h01w0lVbtuulT9PBa/3dXF0Q0w6CMFT8A0MtcdD9a26stPT9VEMuX6t92d0FI3Hf3o6hln84w0srJCN5ioCAyPk1cT8FL5XakFRUQq+0LFYLBaKTH70s0j/K9/4mmhIxyMCAPqoNpB8rB1qAlMSDLdNgARe+b38LEIJd1eSYJxZqwG6uqhIxebDUmR/5uP4JFJzSu2sswhRd9bRiYcA+GDeGSk8g7Fj31haGAAS0fTgRufWBmUqBMWaSlfHlc7zO7AIB+wfXCkF1UChFZaYo7aMtKIOyHKGIDc80dU=;qzxREyK4UOpIIvtlhIwOcw=="
 ---

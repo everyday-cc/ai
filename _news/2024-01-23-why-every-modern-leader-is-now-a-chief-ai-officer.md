@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-mode
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
