@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "WHO pushes for oversight of AI in healthcare"
-    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
-    publishedDateTime: 2024-01-23T21:57:00Z
-    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's ASC
-      domain: beckersasc.com
-    quality: 54
-    images:
-      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
     excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
     publishedDateTime: 2024-01-25T06:30:00Z
@@ -85,15 +71,15 @@ related:
         width: 1200
         height: 575
         isCached: true
-  - title: "Lawmaker proposes restricting use of AI in Georgia healthcare, insurance coverage decisions"
-    excerpt: "ATLANTA — A member of the Georgia House of Representatives filed legislation to ban the use of artificial intelligence programs when making insurance, health coverage, or public assistance award decisions. Specifically, Rep. Mandisha Thomas’ bill would ..."
-    publishedDateTime: 2024-01-23T20:07:00Z
-    webUrl: "https://www.wsbtv.com/news/local/atlanta/lawmaker-proposes-restricting-use-ai-georgia-healthcare-insurance-coverage-decisions/UZPSOQ5BV5G6ZEWU3XOTESNZDQ/"
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 24
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "5n6mMnHyUhuhYxrBd228IMhw2DlOwFKljlcYJzUDjkUAqtsHYs58NVk8+zZWHVPmh2NSY5syfq+EZczkD9TUeJkdRVtKDlQj9oByvu9ssloAwqYujDQvSK1ZYm8XXykHhseJcUSuH4NtTjRKyPj1iuHG9QSKLas6La2pZ6rYZwSLybMOtccCNbQ8IR3veSnF/EyVKHNwk+QiBX1fcw+Xt+8uwIGCfUzNiNSeSiGcHykmubmrHK8S2LGSDxe5RyD21O7MpkCAf377P0QM315TgiTnhqvzpqk/NF/nlASyu4isi79DerjeBwV963Q9sS6aNtW7YbC71iZRa5vB9RKK26bNbG2Jx3rdSOF++1htkio=;z53osG7FDJHGGKajKTxI+Q=="
 ---

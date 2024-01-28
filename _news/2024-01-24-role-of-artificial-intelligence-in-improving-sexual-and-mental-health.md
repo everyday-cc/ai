@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-int
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: The Week
@@ -27,123 +27,82 @@ images:
     isCached: true
 
 related:
-  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
-    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-23T22:11:56Z
-    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
+  - title: "Can AI-Driven Cancer Care Help Improve Mental Well-Being?"
+    excerpt: "Navigating a cancer diagnosis can be an emotionally challenging journey, leaving caregivers and loved ones grappling with a profound sense of confusion. One study reports that over half (58 percent) of cancer patients surveyed communicated that they struggle more with mental challenges than the physical treatment and side effects."
+    publishedDateTime: 2024-01-26T18:49:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 89
-  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
-    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
-    publishedDateTime: 2024-01-24T17:14:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
-        width: 1021
-        height: 509
-        isCached: true
-  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
-    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
-    publishedDateTime: 2024-01-26T22:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt?ref=biztoc.com"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
-    images:
-      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
-    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
-    publishedDateTime: 2024-01-26T13:03:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 49
-    images:
-      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Sevilla and IBM create generative AI tool for player scouting"
-    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
-    publishedDateTime: 2024-01-24T14:22:00Z
-    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 39
-    images:
-      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
-    excerpt: "Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering"
-    publishedDateTime: 2024-01-26T16:40:00Z
-    webUrl: "https://en.antaranews.com/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
-    ampWebUrl: "https://en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
-    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 38
-    images:
-      - url: "https://cdn.antaranews.com/cache/1200x800/2024/01/26/IBM.jpg"
-        width: 1200
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/BinocularRobHyronsShutterstock_206038120.jpg?itok=hjCizb-t"
+        width: 1528
         height: 800
         isCached: true
-  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
+  - title: "AI can crack open the 'black box' of effective mental health therapy at scale, study finds"
+    excerpt: "As artificial intelligence advances in different areas of healthcare, there are concerns that technology and AI-based chatbots will replace the human connections between patients and practitioners. | A new study finds promising potential for AI and large language models to enhance mental health therapy at scale by being able to analyze millions of text-based counseling messages to shine a light on what works."
+    publishedDateTime: 2024-01-26T16:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-can-crack-open-black-box-effective-mental-health-counseling-scale-study"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 44
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1050699608.jpg?VersionId=gt.tDMxE9X1x2QASvR1Dg8motCWphuI1"
+        width: 2448
+        height: 1224
         isCached: true
-  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
-    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
+    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
+    publishedDateTime: 2024-01-25T13:36:00Z
+    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-    publishedDateTime: 2024-01-25T10:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 40
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The tantalising promise of AI for the emerging world"
+    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
+    publishedDateTime: 2024-01-25T11:50:00Z
+    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Can Artificial Intelligence Help Human Mental Health?"
+    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
+    publishedDateTime: 2024-01-24T18:01:00Z
+    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
+    type: article
+    provider:
+      name: Cal Alumni Association
+      domain: berkeley.edu
+    quality: 21
 
 secured: "fmFt6UeSaQ+TTc7/r1plxJw44bXkmd2Q4WuIDR1BHaWjoAR1zXC1wAgsc1spZi50ro7kldb6IMXlHZn4Ww+i8W8n+W+yAhrDzj9NsggrIcFUE6Gn0NcHyArENc+eqKiZc4cs/hdfamZvYCRUc2pxUBkyE8NLXUJ0l19s7f0oxBSZn8bPfVk4aeAaVw1pNFXBgRu599Vz14sQVvRAal1bj73GrpupUhXEtEfTXzA089ujSbmcV5vQ7+al/8/Ft/u2c5VbilFZcepQnDTJkskKC1rfPUUgeoVH/B48xQn1H9BBhorxWVPwJES9Atqk1v0/YwdBr8HZgB6dpBs8oPLOFMoWhITEMBCDw9YMkAj2QAnBfJChL3jf2FCoTV/R6Wm3chc5F7adiDRxEP4F3+syXp0rDB13EXx3uoVIaK2QXRzcoZwCYeGBGpxbNfwdaYxGIyQcGBArcijZgslAq73RH2jy9ndrorCTTYXc6m9JIe9xNewLWpKkSm/gNv8x24QfxgzIQK38/XIzekBwwOrAYw==;AMlaaBBmybtFEMql9hgZmQ=="
 ---

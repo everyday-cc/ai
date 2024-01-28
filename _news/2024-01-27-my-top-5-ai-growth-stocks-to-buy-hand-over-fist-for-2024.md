@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 162
+heat: 163
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
-    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
-    publishedDateTime: 2024-01-23T22:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 45
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
     excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
     publishedDateTime: 2024-01-26T22:30:00Z
@@ -125,6 +111,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 27
+  - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
+    excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
+    publishedDateTime: 2024-01-28T20:15:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR/pressreleases/23655439/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 10
 
 secured: "ubz++mnrf6N4c9NVaAWkbXPOZUmyHa2ZiSUuyoclBlHSCYwwPhUhS4gwuZtcWWa6U/Z5M1s1mX1E9lZWvfeGFlxzNkyFx4BUKWUH7SGOQvXistILQMI/KWNudd7t2iUDfvV30ReMrpcxmIh6LHdqeAB0cy6G8CRvnhvL3nOvhw3CvG6/k2AGx7p1ewwCbPbHsW/Gvhf2c8c8PRcsrBnfL6lgB7EGionzU2UuuFJeR5l5mj8v/65XRXuZcmA+IVAzkdcKJf+s1Jsi06p1O58qQHsbwMtaVxjvKrnS/VBLSi3jUnBOYdFDx9c80m663sh0xh1vAEelwWO8i6zJO3CDpbL4Z+BxJGQtXXt08FXIEHU=;un/tjBZJc6F4dnrUs6Ky9Q=="
 ---

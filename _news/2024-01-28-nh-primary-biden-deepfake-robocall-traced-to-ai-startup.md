@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 109
+heat: 97
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
         width: 700
         height: 394
-        isCached: true
-  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
-    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
-    publishedDateTime: 2024-01-23T22:08:00Z
-    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
-        width: 1480
-        height: 833
         isCached: true
 
 secured: "NrUA4n+XKtpOnK7Ky94F1WlSZykW0sWnHmcjvXpfncQe9DVPWe7Dp0lba4Tbk12wOjFutaWFPOt6qmFnPzkHtwE/gQpj8Kj4a++JbGFGgG/NwKdMxFANBm5/LzqRWq8Mw89lItWl/7fUHYY5bPn8xRqn7sK+iqiGQGWQsDJ2/y4NzswH4qis6Iyl8ox9EGP7IWcjLx4XwlQRjh5ipBs1/Rp5e72DI5PeQ8tdEwLQ0xJkX42yeFX9vCa/dxIfBBOKKjLkES0+LEfW3Lo3yQyBvKGlrnGniLfMFq2pn0643xbbrzEDiO6n5jSqamuXc/HtjuVyGt8KgOV5XZihCj4hZT216VofmAA5UnN9Y8vtMx3ZbfdJCcAv+lqYw6bd1bHI2WRF9i2QTzTc8CYTqXtjW7Ge1m4OzxdN879VGHR+AWpadr6+r2KJW9QL831SLxlOnmakOhT/h8zqI5VlFc1PsgWNI1SrFf9LXedv8L+gkHEj/HzvReziJjeL7dhCnvm5eY4N9OzVvJlR73+rHbrCyA==;fAie1t7BvrzP0v7MthBwPQ=="

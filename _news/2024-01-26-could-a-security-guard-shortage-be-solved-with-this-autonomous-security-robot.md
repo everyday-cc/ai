@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/could-security-guard-shortage-be-solv
 webUrl: "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 2560
     height: 1440
     isCached: true
+
+related:
+  - title: "Could a security guard shortage be solved with this autonomous security robot?"
+    excerpt: "Ascento Guard is a bipedal robot that can patrol large outdoor areas, detect incidents, and alert human operators."
+    publishedDateTime: 2024-01-27T20:08:00Z
+    webUrl: "https://cyberguy.com/ai/could-security-guard-shortage-be-solved-with-autonomous-security-robot/"
+    type: article
+    provider:
+      name: CyberGuy
+      domain: cyberguy.com
+    quality: 32
 
 secured: "eLTtR5a6vvdNPiRQW+eND+VyyIg5wfFsg5vbOeU3MgA5nOQ38KIiuCv0jlQsiJPSG86hjOTq/mSK/YGEU0/RhzsykPvTLqC8CRBbDBZmHMnSiWc9xeqf6beS5oNeXm4xGpVJshNgQ3EICbZ6r3Tyonfi/0/Qq0fhTUXA5H4j03wkfozGWvQAUjWVDcjPTORCYDfKMwSttePyS4pamsoLcL9JrQzpNpGOoLFtmtVJU9E/xNoQiUUiyrU1BScmmGphxcC3867cQ6mXDz9aQMFl7iMm2GAcs63y2o18XF/pyu3Gmzim+je3BP4VDjd9hph6I32V80FiMoYeCPu7mEnXMUiygVj/1V7mpqRXnfp9usbz31u9+1mTyGLZfC5wds0VghH9dI98/PLWLCFt6l8L7GTa8dkHJ3LEuV7lSnRYmIkbvwvJBZmFdmiVVSDNhjxK/MLpWXrJIxiIwZSdf/qZ6J7Yhjq7dGVztZB879PRVpRcaDBrIul7JhvaGMVLDTSzGJrOcv1tYsg1jn/0SeZydg==;MgguxDgu+dsDHZt3JkcmVQ=="
 ---

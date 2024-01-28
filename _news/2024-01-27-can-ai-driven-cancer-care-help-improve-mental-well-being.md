@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/well-being-and-life-qualit
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Psychology Today
@@ -26,15 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI end client frustrations over billing?"
-    excerpt: "Sharon Scenna of Intapp discusses the potential role that AI can play in improving client billing along with best practices that come with use of the technology."
-    publishedDateTime: 2024-01-25T14:51:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/can-ai-end-client-frustrations-over-billing-2024-01-25/"
+  - title: "Role of artificial intelligence in improving sexual and mental health"
+    excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
+    publishedDateTime: 2024-01-24T06:30:00Z
+    webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
+    ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "AI can crack open the 'black box' of effective mental health therapy at scale, study finds"
     excerpt: "As artificial intelligence advances in different areas of healthcare, there are concerns that technology and AI-based chatbots will replace the human connections between patients and practitioners. | A new study finds promising potential for AI and large language models to enhance mental health therapy at scale by being able to analyze millions of text-based counseling messages to shine a light on what works."
     publishedDateTime: 2024-01-26T16:00:00Z
@@ -49,6 +56,52 @@ related:
         width: 2448
         height: 1224
         isCached: true
+  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
+    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
+    publishedDateTime: 2024-01-25T13:36:00Z
+    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 40
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The tantalising promise of AI for the emerging world"
+    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
+    publishedDateTime: 2024-01-25T11:50:00Z
+    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Can Artificial Intelligence Help Human Mental Health?"
+    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
+    publishedDateTime: 2024-01-24T18:01:00Z
+    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
+    type: article
+    provider:
+      name: Cal Alumni Association
+      domain: berkeley.edu
+    quality: 21
 
 secured: "K30dn7V5CZsBrrL4klVjze8tprIwwPmR+at/6C9Y1UeLRPlp5X3meSFVzbdc5aCSj8s6xIrLyKs3sJ4ycpgBvdRCEr5PFwjAAtLdwFK13lUjheIUGKhjNq17VqyEtbNit4yjIp3m0+XJlYSzzpojx76j1wRNaSiFXYYNlQWovszLqRkvKnByYaf7Tr8QTSD2dw6Jy7KqWUUqMOK1pZJ6xLcQQ4OnraVFWl5rxJu2nnfRK4s3GRfhT/6hXfZlp0b5PS9tt20J/K4QApB0pFiqkEpjSOgtvv5PLHu//Qz5bfMZqxhRNFGSLjLocSnf5jeI814ufofCjAgU+sbJ2QSdt3800TzLdV9OF9HnKkMsrHw=;KizgoFwadys/TY9p2YXmCg=="
 ---

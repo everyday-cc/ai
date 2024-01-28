@@ -54,6 +54,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How fintech leaders can build for the future"
+    excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
+    publishedDateTime: 2024-01-28T20:35:00Z
+    webUrl: "https://gulfnews.com/uae/education/how-fintech-leaders-can-build-for-the-future-1.1706260835025"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 4
 
 secured: "g1QbKe2p7LTbRXp3/XderHnbYkW54FkZx06MuhcRysgHGsU87J/57Y3kuqS6Ow2i6EAjyoHU+3wejYnOnfAMF1olJGnGxTUFBk5DXJyQUkSxhEPFH5R9huayzwfyfH68pO/dJT7pIYhRAJqdD5KjOxgheCEm71rNgLvOwvudKbUpYme/k3J3LagKJC/r9W5FOof/7omC86Q954th4hY/hyeNjzjIsyRfrMpaHUhx9NHTyNnTyC/WSQk9ocz5qcyhItbBuHO/Jak396EAQZnHzwEauZNoBtSeh4PmuRBW8MNjbcKowqW+JEBDlvh3Gp3XCOgZrCx/hotSsrPws2G0ZauWqwjP4WTU4A67Aa1I3JI=;YfTyto6y1aCRe8aTFv/Sow=="
 ---

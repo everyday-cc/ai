@@ -74,20 +74,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
-    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
-    publishedDateTime: 2024-01-23T22:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 45
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "10 Amazing AI Tools for 2024"
     excerpt: "This video translation app effortlessly translates spoken language into over 29 languages ... You record sounds mimicking musical instruments, and the AI orchestrates these into harmonious music. It’s an engaging tool for anyone looking to experiment ..."
     publishedDateTime: 2024-01-26T00:00:00Z
@@ -120,6 +106,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 27
+  - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
+    excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
+    publishedDateTime: 2024-01-28T20:15:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR/pressreleases/23655439/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 10
 
 secured: "QLKwU6rib1MC+P44hZt3qIHIVYcotQOp1t3syHep4GZ7ZcUEhX5bn4VMySQTgKJWfRnMM8RBhlIFpQWLYtpkWlckfnXm9d8SKAJ9d40cUYWTK3KiKoPZ4Ka7VxCxfm2s8huR+R/vzeqlZr0zfDH/iBHfzaNipXn5oesKfAVWrs96KFXxBlh+yFc6kiPCmlzK9OPd5oSZAlxyB4oFBoEdYxCQhNsl0vv2kE7CNjK/+2gKJTtPevwrj5dUSKROLGfOunx3HQx4TRXBhvR37Efs5sj3ZDJvTvhsxtxxbXjxn8Hdfd8B02L4wBbmJ7CrIuuuJEYoDvS7DqUvpiDWh4f7wZFIxvPbnwLda5Ln/RrZkOE=;q70L04CjW3MV9UrQ2yEG/Q=="
 ---

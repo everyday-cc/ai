@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/cruise-tried-failed-conta
 webUrl: "https://www.autonews.com/mobility-report/cruise-tried-failed-contain-robotaxi-safety-crisis"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "GM's Self-Driving Car Division Under Scrutiny From DOJ, SEC"
+    excerpt: "Auto giant General Motors (GM) has revealed that its self-driving car division Cruise is under investigation by the Department of"
+    publishedDateTime: 2024-01-26T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-division-under-scrutiny-from-doj-sec-1033002213"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident"
     excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,"
     publishedDateTime: 2024-01-26T01:14:00Z
@@ -33,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GM’s self-driving car division under investigation after pedestrian dragged"
+    excerpt: "Cruise, General Motors' self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise \"robotaxi.\" In just the latest setback in the auto industry's attempt ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.abc12.com/news/business/gm-s-self-driving-car-division-under-investigation-after-pedestrian-dragged/article_dca8c65d-d1b2-5f08-b376-a64d842e1196.html"
+    type: article
+    provider:
+      name: ABC12
+      domain: abc12.com
+    quality: 2
 
 secured: "XnYLkCH3OSe+wGM+43s1rLOUnMqO/+ovnZ2mrFukPtWys7DY7VjSNnKG95rPuDVVqvsnwsITWJy6QsmE41dqrC65SFobjnzu5BRrUdgynDsEhc4cZFT9B44WC97QzQu9WpwEn6dIK4mZMIe7IbLx3agwFD6kB0c2rkhsFgjS6RljJDhaf0Z+g9xk/KnXa0/UNy4Mj9nxq+dDhHMBFhrAVfRNKfWw3SsOCyy73lUfrJWAhNDKHDeRP6TtZJC7jw8TVIerlU3B7L7s15gHU5sSj9qDIMBxRT6B8H7ByxkalKTv41QAMqB/hiDnsgMFxNK1W4LKSVrYS/jD1vb2VZ3eagf2BFpJNrCwmTgTSnGQIi7m+jZuNmTtGNKRrF3bxoHKvLE0qExFf76NSQzEK0ZrI1GfeQ+TpmN0Gfc3a4AbY9EhUiSAyqRYm1urGJCUEO70By5a1nZUNc29H8+eDAZn1S8pU6BrcGl83E7mMZd8kBSd8yUjR4JNCUnUSd6wXCi4s1WjKWdkZNAFk7kbt4FnKA==;C6oSSDn7ElRznTSoBelgFQ=="
 ---

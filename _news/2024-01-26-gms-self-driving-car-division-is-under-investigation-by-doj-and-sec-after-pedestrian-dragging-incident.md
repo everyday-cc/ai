@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "GM's Self-Driving Car Division Under Scrutiny From DOJ, SEC"
+    excerpt: "Auto giant General Motors (GM) has revealed that its self-driving car division Cruise is under investigation by the Department of"
+    publishedDateTime: 2024-01-26T20:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-division-under-scrutiny-from-doj-sec-1033002213"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "How GM's Cruise tried — and failed — to contain self-driving safety crisis"
     excerpt: "In the wee hours of Oct. 3, the circumstances of a collision that now imperils the future of General Motors self-driving subsidiary Cruise first became clear to dozens of company employees. At 3:45 a.m., a little more than six hours after the pedestrian ..."
     publishedDateTime: 2024-01-26T10:07:00Z
@@ -34,6 +43,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 17
+  - title: "GM’s self-driving car division under investigation after pedestrian dragged"
+    excerpt: "Cruise, General Motors' self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise \"robotaxi.\" In just the latest setback in the auto industry's attempt ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.abc12.com/news/business/gm-s-self-driving-car-division-under-investigation-after-pedestrian-dragged/article_dca8c65d-d1b2-5f08-b376-a64d842e1196.html"
+    type: article
+    provider:
+      name: ABC12
+      domain: abc12.com
+    quality: 2
 
 secured: "ftKOOO+S9LqVt0qApfmcC+DUaP0LCae/xltuuOrk7MCvw2/I0jbJEuS9kDm60J0JjOgF4chxsEr/rhCQl+rWP7Z5uJjMb6sTB/qTOp5erfXKhXOhDi77QSJBayqvYUtU9KfLcPG4MuabYoUWZIMgvDiHQf4u2CDXq9z2pCGAzzAKSTSxuDGBNT8IE+9+UxhX7l5aEGsm2LYJb/2nVODtSFQT8hZG4+8nS3PB2VZuWJ1Nr/VCx24M5LsZEqOQqRh51XyFoYsofMp9+dWJR5ZYzamPzJFFnJP4Ex34R+yf+8ukio7a6ZYTLamHx4SFPkiJUoA35HB863x0j6zwaZAi1aZi3Q+RIet0doAiF8itaNRm4RAj77lS8v4sbZQb1yx51d6YMjkxtNYmlqnrjZQ4shIcirfyhFckpnSd+WpAE/Xr53n6xov9iBHhuE61EwYxRKzzmJvr2QQFvOiK0za6oWROwD+gg4A0R4+g2sL++65JzlrRI1EAHxWNgVsSj+H6Tjh5cjMT5byFPA3QQWHHsw==;u5w69v5By9NrJx8m6DQZFg=="
 ---

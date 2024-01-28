@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
+    quality: 49
+  - title: "From Davos To Dominance: How AI Is Rewriting Our Planet and Business"
+    excerpt: "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ..."
+    publishedDateTime: 2024-01-28T18:39:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 49
 
 secured: "ZRX9GoKUFFVm7Q2UE8JobF/oq5+ip63wISypRPI6yDzh8WssPx0xYwvQxmDqzXAqEqFPIC2kA2MFjc4nk9S5jbIgT+bt2D7HObiRYaH1tVAD9Czej8JY5wyv2etprGknhxTsHyq0jMYHKtQ2W3tI01stbXAl/AXDDmaIxNJ89Jqt7RGKIM3HpejV4t8LQOHH4IEXscATEOxJU+88tHiJhWYGdT+ttk62NHe4gkiocsHy40hqgE8RjgZDjAXPAmUavDWBRzL8TZ9yVUlbbr2cWaG9MGnmMNFDmoIF1DHlTtYovufbw4R7NULk81cXasNacAkFh8+QNzCUKbY5Fs5P8g1NHsOv4svlhPy3eZZ4wfJOimCJdpLuAUjhWChsIup1PE2pZHwRvbTYP6ekGcZhznzrnnoLiDdmSdysUq5KyMgN2FPJapdGDdSI2DzTkvNR38+LavBfudfJIh3CwXkoJs4DAMl23ijKzb/A4ecilJXD95LiMlX/nhynIpOpXGKAfztbSXRdiUzIdy479FzWxg==;C8k+/mtbU7TfL4+AOH5QbA=="

@@ -70,20 +70,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft is building a team to build smaller, cheaper AI models."
-    excerpt: "Microsoft spent hundreds of millions on chips for one supercomputer to run AI models, so any saving helps. The GenAI team will be led by Microsoft corporate vice president Misha Bilenko and will be part of the Azure cloud unit."
-    publishedDateTime: 2024-01-23T22:45:00Z
-    webUrl: "https://www.theverge.com/2024/1/23/24048489/microsoft-is-building-a-team-to-build-smaller-cheaper-ai-models"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 84
-    images:
-      - url: "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
     excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
     publishedDateTime: 2024-01-26T10:28:00Z
@@ -152,20 +138,6 @@ related:
       - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
         width: 594
         height: 370
-        isCached: true
-  - title: "Let Bears Fret About Tech Valuations, Analyst Says: How AI Leaders Microsoft, Nvidia And Google Can Push Higher"
-    excerpt: "Microsoft is expected to deliver year-on-year increases in profits and revenues, with consensus forecasts at $2.75 earnings per share, on a 15.7% surge in revenues to $61 billion. In the previous quarter, it delivered a surprise $2.99 EPS above expectations of $2.65."
-    publishedDateTime: 2024-01-23T21:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/let-bears-fret-about-tech-valuations-analyst-says-how-ai-leaders-microsoft-nvidia-and-google-can-push-higher-1032989401"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/bullish_0.png"
-        width: 1024
-        height: 768
         isCached: true
   - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
     excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."

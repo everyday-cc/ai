@@ -72,20 +72,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
-    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
-    publishedDateTime: 2024-01-23T22:08:00Z
-    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
-        width: 1480
-        height: 833
-        isCached: true
 
 secured: "cJWaGj5jb1egZo3KilpLhsRMiUECc/E74c4Kfi4hmYIh0Q2VcJi666L5T+gRbiuGyqU8xulqdVNS6GwDe9TZaBXqUwM5Nj4/taaJ50M2LZPvVghglJUuSQ5UqxajCqMov2WYPrC9GTlgoxPu2Of3cfSiKwO07nwNdNZayQa2NFNvdmkpvBqMR9Hjvsf95OghcUIIYf7e2StJ5OMXB8wsfoIbOOa6sWyCfQd+8MPWtOHUU1YTM5HQpxPkgdHjzgkdr4uR1fEf4o8CtrxGN+h/hxRTnbF7DmZ/TfR+dyHskdHo+YOKoRczcAowjQzFiGqrXe1FyJfWtgTJuXkzkjiQ+hv8Jnzhy6CfTUI2a/xmWLg=;3IdSgnInBzruC/7mKjB++g=="
 ---

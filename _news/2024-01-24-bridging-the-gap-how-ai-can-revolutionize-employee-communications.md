@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
   - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
     excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
     publishedDateTime: 2024-01-28T12:25:00Z
@@ -60,15 +51,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
-    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 2
 
 secured: "Srh4diVC1hVV5HeLDLVLi6gQE4MTk1F/uPAuxWRRDUo6HmT9TmVyR37t87zTMAU9LA0JiO6OrpNdMwkmVn1muEqqw1doo04Qzztc39jBPvCGtVlaiEiQJ8NzLSfEMqURVrQyZy1lJGsU7ienFjLVrvbWxnvF1xxaI5ZZFF//+UghT03Y69LLTG1BK1HG3GQMB1L5I4Zu6lzPDsbluhHUKt9vvPB6vObq1CijMOfE3zqOUxGi4gesREWelqHyy/Idi0hIua4SY50Fkk4B3iylmJsCMcWwl97xhDZJX0S/9niEGrgy3VdmQBbzz/pg6ALQZQT3AJ7GyIumRxptI1O46yUkiks+SWHveYObN6KP5Ds=;EDaKuY9IYe190yZkFda9ow=="
 ---

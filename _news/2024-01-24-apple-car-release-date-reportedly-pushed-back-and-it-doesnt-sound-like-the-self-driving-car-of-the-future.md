@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple said to be scaling down self-driving Apple car features"
-    excerpt: "Apple Inc. reportedly has scaled down its efforts to make an autonomous electric vehicle, working instead on an EV with “limited” self-driving features, Bloomberg reported Tuesday, citing people familiar with the company’s plan. Moreover, an Apple AAPL, 0.47% car would only be introduced in 2028 at the earliest, Bloomberg said."
-    publishedDateTime: 2024-01-23T19:11:00Z
-    webUrl: "https://www.marketwatch.com/story/apple-said-to-be-scaling-down-apple-car-features-37f1822a"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-  - title: "GM's Self-Driving Car Division Under Scrutiny From DOJ, SEC"
-    excerpt: "Auto giant General Motors (GM) has revealed that its self-driving car division Cruise is under investigation by the Department of"
-    publishedDateTime: 2024-01-26T20:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gm-s-self-driving-car-division-under-scrutiny-from-doj-sec-1033002213"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
     excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
     publishedDateTime: 2024-01-24T12:00:00Z
@@ -94,20 +76,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 4
-  - title: "Apple to launch its own EV in 2028 after SCRAPPING plans to create a fully self-driving car. Insiders say new scaled back design is a 'Tesla Me Too'"
-    excerpt: "Apple is planning to launch its own electric car as early as 2028, according to new reports. The tech giant had originally intended to create a fully self-driving vehicle as part of a decade-old project dubbed internally as Titan."
-    publishedDateTime: 2024-01-23T20:36:00Z
-    webUrl: "https://www.thisismoney.co.uk/yourmoney/consumer/article-12997589/Apple-reportedly-set-launch-EV-early-2028.html"
+  - title: "Rivian Poaches Apple Executive Involved In Early Stages Of Tech Giant's Self-driving Project: Report"
+    excerpt: "Apple's self-driving car project, codenamed \"Project Titan,\" has been in the works for over a decade now. The company is proceeding with a scaled-back plan for its car and may eye a 2028 launch. What Happened: DJ Novotney, who was vice president of ..."
+    publishedDateTime: 2024-01-28T09:21:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/01/36817481/rivian-poaches-apple-executive-involved-in-early-stages-of-tech-giants-self-driving-project-repo"
     type: article
     provider:
-      name: This is Money
-      domain: thisismoney.co.uk
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 0
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2024/01/23/19/80372785-0-image-a-11_1706036870172.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XcJ3itglhS6iiOZ1m75nVn1vGXvrONf5ngNgjQ2HYtcru3k71Nna/Wz1Vv1+wMSGirg3gmpNYS6y/rSPb5VG8fiKxUYP3eZGGuXbxbRl8KX20aUFVyKRa0AgPn9KooLI8zZR27KIcUpDSxZmzvc+ut9332zLXXwkPkuWw3tYpllrrC39JToT0kUsLtkjBvjgZHo4cRyuLNrQNYrrrQ3wrU7jK7apYla0BVf/M4dv6AK/NQqj2rOSxnP+/kL+mBTMHvXpAFemU24P2O9lzSm6t+TFlC/MaX3jSSj4G9U8JbWm//GjMbfdenqS+unfZz++pvkvjKz/jvI1Yny20zF5eg6wH/x+88tXkUr+XgmF69s=;7E863CnR4+M6baTZs31OMg=="
 ---

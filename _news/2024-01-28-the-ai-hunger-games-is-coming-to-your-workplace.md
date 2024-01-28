@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-tao-of-innovation/202401
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-tao-of-innovation/202401/the-ai-hunger-games-is-coming-soon-to-your-workplace?amp"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.pocket-lint.com/google-bard-prompts/"
 webUrl: "https://www.pocket-lint.com/google-bard-prompts/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,77 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet Terminates AI Firm Trainer of Google's Bard"
-    excerpt: "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19."
-    publishedDateTime: 2024-01-23T22:01:00Z
-    webUrl: "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+  - title: "How to Create Amazing Google Bard Prompts"
+    excerpt: "Google Bard, an advanced language model developed by Google AI, represents a boundless creative platform, tailor-made for individuals who possess a natural curiosity and a flair for linguistic expression. The true essence of Bard, akin to any influential ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-prompts/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 59
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-15.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Google ends contract with Australian data firm that helped train Bard AI"
-    excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
-    publishedDateTime: 2024-01-24T06:41:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 58
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Google terminates contract with Australian data firm that helped train Bard AI"
-    excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
-    publishedDateTime: 2024-01-24T05:31:00Z
-    webUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    ampWebUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    type: article
-    provider:
-      name: orissapost
-      domain: orissapost.com
-    quality: 55
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
-        width: 400
-        height: 265
-        isCached: true
-  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
-    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
-    publishedDateTime: 2024-01-24T02:15:00Z
-    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
-    excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
-    publishedDateTime: 2024-01-24T18:29:00Z
-    webUrl: "https://www.extremetech.com/computing/google-axes-underpaid-contractors-who-helped-train-bard"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "pibhRox1mcJmr1o7UuneYhMO9gjnN9CoOGljyZIjjTrlqK1+cGTIirx/VBvUPqwH67qxyDwSPRjvLGgK5uGXJwnXtuCEpaGKKNzc4UrfRYPZ1d/bqeMr2nnueBlXcaSD6Gyt6Hvi92G4VnqVfRpMaLxombFVAhy+R3ouauZUn3UL2XAn85g0h7rhWpopeFClD3zDkhsnXDzX+JnMDrZbBfUmHv0tgvDiXCrcaJMjmQImRYAHiWL8ymMdzzHJ1zw9zktA2T+uqwJQzpGzVRZeq/9hM5MP3NXoGr0KVpmFwUtOLi3oJH9A4OBbos937Lj640e2jrlHbHikFkD78CY4xBzNWDxQT7fjl0n0G7Z1PPb3iz395QbgTPlH9Q5gKMFKQT6YojsC0MdJhhXblHsK8R5AzyM5/jOOcq07K3lrfUZgWPF7pTLWYlmyMdDu1j/W4NPOtwvW2KiCsYuBMkFDguBJml+0HtkMQ6cBjgVHDIX3T/fWSWFsU+XvUigKi0IpW5ZVDSF181RFxBwH3w/xNA==;ME8VDYW0KTNWPlOZxofFPQ=="
 ---

@@ -68,20 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "My Top 3 Artificial Intelligence (AI) Growth Stocks to Buy Now in 2024 and Hold Long Term"
-    excerpt: "Grand View Research estimates that spending across artificial intelligence (AI) hardware ... Indeed, Amazon Web Services (AWS) accounted for 32% of cloud infrastructure and platform services in the most recent quarter, while its closest competitor ..."
-    publishedDateTime: 2024-01-23T22:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23525923/my-top-3-artificial-intelligence-ai-growth-stocks-to-buy-now-in-2024-and-hold-long-term/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 45
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
     excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
     publishedDateTime: 2024-01-26T22:30:00Z
@@ -119,6 +105,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 34
+  - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
+    excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
+    publishedDateTime: 2024-01-28T20:15:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR/pressreleases/23655439/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 10
 
 secured: "blrnpk9GTdGFHCDOLiVqKl+PtszQMA56bNVzBTzgXy97Vud8+2UIl7t2UjysLuLo4hRLbATyZcv+/C9I0ZsuL0XYkhwYJWZYNlB3zo4h6sFsf0/psSZdJUrZt60KZ2FXj/rO3tgUxW+FaK+uTVm74FWBRppRQOBHvIDuEfKoBVHDSeP8AUy6bD8WRIdjbmPsca4S7rjroZ5iRCQmI32fU4vYlaIadci56WgkEr6aqtI6gBI8pdwJwCA30Wld4eWEufYXMU4Gp6Od7rlF7LaxBW03F4qm7ctIuIJbsLOoQW43ZBIlQcqOrgi9CC5gRdxcw8m8pKpxQXfKHr/Yvi4jlLqF9OB3p+ajILFGUamNCAE=;Bc4SiuiNYWXc7DD262a9aA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stor
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
 type: article
 quality: 73
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
+        isCached: true
   - title: "IBM watsonx AI scores pro soccer player scouting gig"
     excerpt: "An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI. In an announcement released on IBM’s blog, the technology company revealed that Scout ..."
     publishedDateTime: 2024-01-24T00:00:00Z
@@ -54,6 +68,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 18
+  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
+    publishedDateTime: 2024-01-25T10:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "ol1jF8QD+8WxV3PvLQs2a1X3bXOS4vqS8xLYKKGNl4rj9vMZqIHuJjFTrp32czu3eQ2UX+RRA2zSl/i0TfNvlwO0Vl6NS2ux0YGG3xJVsXnYKVcL8F3ZCc4Ax3o0k4mzVL+lWVA/mbPXQ2h02g7CRfEeBVAM2aEw308q3ea8IiJgbqqEakMK+pvcN+WWM2ozzz6t1Hxc582pCB6sWow7Sc2Za0maif/vhmf4ty1uVzYK2aRBkh2Gw+HRmHnjzRh5DF3QbyVzafiJ9GryRA8RAtlKJuTiPq/3MB0U8X1patNT+B0xiesquYiqa0G8u1PBTDDmV0EAOcvu6NVQg0x+YdE0aCLxZlmeq4CZqqTUAr5QDXS5lVVQ1SxmwNyM7wTEEtaM63nhzteWdsN7KJ5h6QmHm1Zk1tGfDvZd3BcBSjj2TFngtzI5pjhcguFnFs2r2DaHuiSljqel9noFqnBHx9rufgqGaz//ylFSdyvACepVpA/E8E7+5V11VMNAio+U+TBOIJ+0bXrKSDS9GnwzUA==;/SuBvYpdsYEC91ov3Du61Q=="
 ---

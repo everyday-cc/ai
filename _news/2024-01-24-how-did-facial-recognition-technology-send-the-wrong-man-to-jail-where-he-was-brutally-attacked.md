@@ -62,22 +62,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 39
-  - title: "Lawsuit: Facial recognition software leads to wrongful arrest of Texas man; he was in Sacramento at time of robbery"
-    excerpt: "A Texas man is suing Macy's and the parent company of Sunglass Hut after the two companies allegedly relied on error-prone facial recognition technology to falsely accuse him of armed robbery. After being held in jail for nearly two weeks, Harvey Murphy Jr ..."
-    publishedDateTime: 2024-01-23T20:56:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/texas-macys-sunglass-hut-facial-recognition-software-wrongful-arrest-sacramento-alibi/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/texas-macys-sunglass-hut-facial-recognition-software-wrongful-arrest-sacramento-alibi/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/texas-macys-sunglass-hut-facial-recognition-software-wrongful-arrest-sacramento-alibi/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/23/cc001638-abc5-49f1-9ca9-a834fc488b50/thumbnail/1200x630/c3cc8483864dee0cacfaf7c0440e17e5/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhjxbzg5nwuwmda0m2i2adhidzh2y2e3-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nscnfta2lkotawmwrhmxa5m2s2zte4nji.jpg?v=1acc31b0e955989267fc7dd28b496c5e"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
     excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
     publishedDateTime: 2024-01-25T16:32:00Z
