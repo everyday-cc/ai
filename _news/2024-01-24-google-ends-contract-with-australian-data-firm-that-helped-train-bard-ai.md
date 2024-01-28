@@ -59,15 +59,6 @@ related:
         width: 400
         height: 265
         isCached: true
-  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
-    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
-    publishedDateTime: 2024-01-23T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "6 Google Bard prompts to try: AI-supercharge your workflows"
     excerpt: "Google's Bard is a powerful AI chatbot, but it's not nearly as useful if you don't know the right prompts to use. Here's six to get you started. Bard can be used for various purposes such as generating writing drafts, brainstorming ideas, and general chatting."
     publishedDateTime: 2024-01-27T00:00:00Z
@@ -81,20 +72,6 @@ related:
       - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/01/google-bard-featured-image.jpg"
         width: 3212
         height: 1807
-        isCached: true
-  - title: "Google Adding AI to Chrome Browser"
-    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
-    publishedDateTime: 2024-01-23T17:43:00Z
-    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
     excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."

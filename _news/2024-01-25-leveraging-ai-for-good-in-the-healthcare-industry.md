@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leve
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Forbes
@@ -23,45 +23,80 @@ topics:
   - AI
 
 related:
-  - title: "What AI Means For Networking Infrastructure In 2024"
-    excerpt: "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ..."
-    publishedDateTime: 2024-01-23T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
+  - title: "WHO pushes for oversight of AI in healthcare"
+    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
+    publishedDateTime: 2024-01-23T21:57:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 648
-        height: 500
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "10 Amazing AI Tools for 2024"
-    excerpt: "This video translation app effortlessly translates spoken language into over 29 languages ... You record sounds mimicking musical instruments, and the AI orchestrates these into harmonious music. It’s an engaging tool for anyone looking to experiment ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/10-amazing-ai-tools-for-2024/"
+  - title: "Tech, healthcare leaders to join AI startup board"
+    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
+    publishedDateTime: 2024-01-25T17:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/AI-Tools-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
-    excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
-    publishedDateTime: 2024-01-26T19:18:00Z
-    webUrl: "https://insidehpc.com/2024/01/vast-data-and-genesis-cloud-partner-for-ai-cloud-infrastructure/"
+  - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
+    excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
+    publishedDateTime: 2024-01-25T06:30:00Z
+    webUrl: "https://www.businessinsider.com/ad-group-publicis-lays-out-300-million-ai-ambitions-2024-1"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/65b16205617029e90a601387?width=1200&format=jpeg"
+        width: 1126
+        height: 563
+        isCached: true
+  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
+    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
+    publishedDateTime: 2024-01-26T05:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
+    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
+    publishedDateTime: 2024-01-26T16:08:00Z
+    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 37
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+        width: 1200
+        height: 575
+        isCached: true
+  - title: "Lawmaker proposes restricting use of AI in Georgia healthcare, insurance coverage decisions"
+    excerpt: "ATLANTA — A member of the Georgia House of Representatives filed legislation to ban the use of artificial intelligence programs when making insurance, health coverage, or public assistance award decisions. Specifically, Rep. Mandisha Thomas’ bill would ..."
+    publishedDateTime: 2024-01-23T20:07:00Z
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/lawmaker-proposes-restricting-use-ai-georgia-healthcare-insurance-coverage-decisions/UZPSOQ5BV5G6ZEWU3XOTESNZDQ/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 24
 
 secured: "LLJvLpg7u8xwP0bu2nU3OFSKaZz90iOvWceo8WgLUBctmMcy2RBoXmCZEctXWue9wd1tHjTV4xr4eeAB37IzfWMEGNMALba5W4NfS/dTGyIxFMVsAS3G85HwZwHBYfmUTQFdYMoDSy+fjJ9jQQd9ZK3WU0J+utIUWaLx3xtsq4eqt8ML8eqMYiGXAszGKCpJLKrt1iyNkFM+iu6mYEJxBRphNXrKEaiavo2iqW5yDdMDHcD3cS/WTo5sSk/eW8KLoVqvGbna2+3j5oKcADxq0krLXICFzApLUAhpa0eoJCVaqS3UI9Kew9voaabf1cWrzSqrH6cRzgZ+Yde272wvmCMV3KPCyTIArkkqqQ7BRl2JKMawhdvNpCjVuTN8Si/7HNJcRHyQ0UO4BoXQ7zo4nwTDETnjcEWO7PId9+E7RLPcxRmC9ZQJSAuREv7/26y6nUiwbb0/iRwQAM+me5dGBH49UwkmXyd2wmoShTL3+NsupWAWlZRcTPBeXtwaxiHKcgrvEZBRRYmZC4DA/s/tqQ==;FvJa9xaGTI5yVeJ9LoqT0A=="
 ---

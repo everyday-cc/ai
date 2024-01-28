@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
-        width: 1200
-        height: 575
-        isCached: true
   - title: "Afraid of AI? Here's how to get started and use it to make your life easier"
     excerpt: "Artificial intelligence, or AI, can sound overwhelming if you've never tried it. However, it can be a game changer for just about anyone."
     publishedDateTime: 2024-01-25T09:21:00Z

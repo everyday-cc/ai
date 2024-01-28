@@ -22,6 +22,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
 secured: "f+Hm8SXegEn2YlQXLr4hgwhBIX3Ychfhzn79b0jqjQeo7/7360gKha9gWLEQx/bso7t0eiNsLpQ6i6yEBhXqHhaU4OuwJ4DEgG5eaptTCIeZJfeQ3E7vqbYi+tfi+pwTfkE9MEr0j8a6Mqsj8X3L0o5+ASGj6QZST88MR8UWAMsnxVzAStp/QyrPTEBjTyY8DO6EqI48WsJY54nrP4Hjrb/atRdAGzVUOd2e40NEmcM6PZQOzoQ8YvaQwG2EsripGuujR265w9IhqDz1p2E/9sIdqqAKXDmiM/ML7HZ5IHCGomeIw0S4MWtOTFrDHCfJMkxTQEUvOJ6BrHea6YLwnwZCxdm1ZRnDH/WX9H8h8yk=;R5FO6rwjrpEXCA+Psuh8GQ=="
 ---
 

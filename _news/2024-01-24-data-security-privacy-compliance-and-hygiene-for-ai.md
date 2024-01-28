@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 19
+  - title: "CFTC seeks feedback on AI use in compliance and market dynamics"
+    excerpt: "The U.S. CFTC seeks insights on AI use in compliance by issuing a comment request. The agency emphasizes AI’s potential in trading, compliance, and more."
+    publishedDateTime: 2024-01-28T12:41:00Z
+    webUrl: "https://cointelegraph.com/news/cftc-seeks-feedback-on-ai-use-in-compliance-and-market-dynamics"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
     quality: 19
 
 secured: "lAMuTMkvj9cxlqtVaPdgu7n3jLy+gIbgXaLhtv34PySnaOvHjEGCMD+zp5prljXuaDV4mBEfH5BnJ0YskBIYmkyCbisTYCq554n416K9jTvJkCvwx1cM0H3hGkrmta4e5NqC+NOljGH2KgDx33Ue9QF45a+apfX5uOr3zX79o5pP7m/mwCNtOHIQ0Q8Y92M306eDJulladRruQcaJZvmorNtdqxz5VA8e9SNGBzXblbtY9mEjjmqU7/M73SjdKyNwknAAp3VfXwM6Kph8KsgJOxV9l8vABpzvvRz9N2vb7ODvO0MSgR8VLAmE/8GCz2bJmC9Map4fcy3+s0rcyOQoRpu77Q3r3WGJE6HpUstzXA=;LzmoKTXpCFKvyLHCryEMXg=="

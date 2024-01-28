@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
+    excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
+    publishedDateTime: 2024-01-28T17:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CF56/production/_132487035_gettyimages-1917155488.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Taylor Swift is the latest victim of 'disgusting' AI trend"
     excerpt: "In the past year, AI-generated deepfake fraud has ventured beyond images and into video and audio. Cases of AI-generated fraudulent phone calls have recently been on the rise; a fake robocall, seemingly from President Joe Biden, encouraged voters not to vote in the New Hampshire primary, according to NBC ."
     publishedDateTime: 2024-01-25T16:34:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirme
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,82 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Leveraging AI For Good In The Healthcare Industry"
+    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
+    publishedDateTime: 2024-01-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "WHO pushes for oversight of AI in healthcare"
+    excerpt: "The World Health Organization released updated guidance for the use of large multi-modal models, a form of artificial intelligence with multiple potential uses in healthcare. Platforms such as ChatGPT use large multi-modal models, which are able to accept ..."
+    publishedDateTime: 2024-01-23T21:57:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 54
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Tech, healthcare leaders to join AI startup board"
+    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
+    publishedDateTime: 2024-01-25T17:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
+    excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
+    publishedDateTime: 2024-01-25T06:30:00Z
+    webUrl: "https://www.businessinsider.com/ad-group-publicis-lays-out-300-million-ai-ambitions-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/65b16205617029e90a601387?width=1200&format=jpeg"
+        width: 1126
+        height: 563
+        isCached: true
+  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
+    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
+    publishedDateTime: 2024-01-26T16:08:00Z
+    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 37
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+        width: 1200
+        height: 575
+        isCached: true
+  - title: "Lawmaker proposes restricting use of AI in Georgia healthcare, insurance coverage decisions"
+    excerpt: "ATLANTA — A member of the Georgia House of Representatives filed legislation to ban the use of artificial intelligence programs when making insurance, health coverage, or public assistance award decisions. Specifically, Rep. Mandisha Thomas’ bill would ..."
+    publishedDateTime: 2024-01-23T20:07:00Z
+    webUrl: "https://www.wsbtv.com/news/local/atlanta/lawmaker-proposes-restricting-use-ai-georgia-healthcare-insurance-coverage-decisions/UZPSOQ5BV5G6ZEWU3XOTESNZDQ/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 24
 
 secured: "LJAEdYQoKvcTMVoIxUOyH10o4uNlGtZn7s+RbD6RGKJVYJsUKIfhoDIUWC4z4mMkkHM5Zgw+IadNyoqCy0PW9Nqf9CxsFDfrjCjYL3iP6C6AXmKs6cNGeP0EBY2oKNNk8OyOVo63dgDRDGp4DJSPz0kuNz624/YVsIg6ZOSt4WuY1Kz3yAp8F1UR2DUu6OCZEZPX54wOf7dsMTHBAOqOBDixl4YIt3tw85OnywwIAGev1mTgofgcItckMu8yD9oQki1WT03j/ypThUsKooFZYEKZZ0xs8+J+SxAH3Y/dYEj0GRklpEE6ZVw3OSX0uirdGCvBEetsFqQfLSD8V8dxb3QD+0PYodf/Px58Y5D04CM=;76wFgbLz9OFcFpxBGuN/aw=="
 ---

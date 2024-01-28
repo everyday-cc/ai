@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Diginomica
@@ -27,20 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Phew! AI Won't Take Your Job Just Yet, MIT Data Finds — But There's A Caveat"
-    excerpt: "Researchers at MIT conclude that the fear of job displacement by AI may be exaggerated, as human labor is still cheaper in most cases."
-    publishedDateTime: 2024-01-23T18:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145"
+  - title: "MIT researchers develop AI-based robot training model"
+    excerpt: "A combination of language-, visual- and action-based techniques could help machines learn tasks faster in fields including construction and manufacturing."
+    publishedDateTime: 2024-01-24T21:14:00Z
+    webUrl: "https://www.constructiondive.com/news/mit-ai-robots-construction-framework-hip/705283/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
+      name: Construction Dive
+      domain: constructiondive.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/AI-CEO_0.png"
-        width: 1024
-        height: 768
+      - url: "https://www.constructiondive.com/imgproxy/RWRGr3W0fBWeo1bxfwNZ_TS-9EEx0V-B-oYHBseAvJs/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEyMTIwMjc5ODAuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
+  - title: "MIT study finds limited impact of AI on jobs requiring visual tasks"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. A hot potato: The most pessimistic forecasts about the impact of AI on society suggest mass layoffs and the imminent replacement of millions of human workers by robots and ..."
+    publishedDateTime: 2024-01-25T14:53:00Z
+    webUrl: "https://www.techspot.com/news/101645-mit-study-finds-limited-impact-ai-jobs-requiring.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "srQWEkiqPqmeiNQeRU9i4j0YPHaARGAJDiCLMP3AJ34ApIV2lpSi9tH7Kr37xj7v6Bx2fSmU+b8KGlrcZNNYKgdCCQ4z+PISoikx3ta4iKFzBPYsPldqrnm1ZACJT8YIxQ6F+dJaSVqHhMpFhMFwPuBUc8nV3n0B7b81YifC6PJwkvNfUIr8Yh5kD51nJNWlLjlI7pufgV9CfTQQSaRReIToJJ59QnstNAYbBIJIoKHxXOF8dE8IVlmSNKZEZPyNa4WEMkOE1z5lkEN/6Xs0jSJpzYsETq/YUIkON0c+foKlw6M4jPKw6zXgrzWootzMJiGPgaoA8EilJI6aIcdpbEhXL5D8iIE6NKmB//Wa/Ck=;meNM5DApjqLrd8U+tZut2Q=="
 ---

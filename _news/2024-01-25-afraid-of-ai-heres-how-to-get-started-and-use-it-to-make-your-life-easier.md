@@ -28,20 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
-        width: 1200
-        height: 575
-        isCached: true
 
 secured: "mpof/VEKAxl+04YfN/KyCPxL+MuYILaWghPRURIZKjPTQPFdDfLdxq3Ui/TEGdsrK5m99UCZId5tAtxFioPG2lMgHSwynMya4MjLqhx5baLbieRsyH5V3TvU5Fl0wU3S3gMsKUENpyHGN8Pa3hfhKp6yHZounGVOHZkmI6i69+4dsOhvFqGaHJNBUl50VI0S1KxgEaZYEohZ8kSDiPR7cblzcglQYvNDMg75XyKbXYS4pOyW7/NKTNyEmUKe0ushnVG+YjTMjWcEu72N6x8aWTa5UrUEBVoHDakDF6kRWY/A9DL5qb92hq5G0TpgvYc/nfQyS6ywTLWefwOcgDLeg8tFhjf/NMYqqQxJY7jk1K/fmvVfYUJzXFS+L1ZgBSis7IfDdazigouTHKGmxdhFccJPzexQ3hC4PKJMc53MapwrItfiFEdmg4kiz0iqLH2uKU/JYvQkwtBLjRxhDycrxJ+WrsV2xe2jhIHTHbYhT/H/KWBgLQykN4+jADRTesI5ZM6zG3Ch9jAQrarybdksYA==;phgKQu8pFJsPlfV2llzg/Q=="
 ---

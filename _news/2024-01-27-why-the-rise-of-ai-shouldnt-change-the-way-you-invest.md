@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/9J2TaTmwLtSwcqA2WW9QrG-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How the rise of artificial intelligence is boosting tech stocks"
+    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
+    publishedDateTime: 2024-01-23T23:24:00Z
+    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "HYVIS1r06f5IQbifG41T8gBfV7SnkzM5K0GE6+1vrUWqtFpkA9Q9/c1aX9feNEK5L7rnbYxDOyZxafX6BKEIlVSnHHMDBtMFIxeneJf6z88yHxIl1ot9PzK/BimWlXoryJffWFxpWLOJO/wP8pwb4XJpS2z9JzzVterRYO6daKIEUYqWVw/bJl+qXKDExNha463j/xWDi642Dc+jg/4StF+cQpQBZF4BH4dBi/OuCDAIy9ugEzkZHWbHDXUL5+Tpt0vLRU0ARzD7F9FAiMkJUgDQv2lqgv+1iPfOOZWAaH5GR4GtDW/NE8X9xGGV5+nJat9YJQlSLKcG+meTmgFP2JQXxtguFF9bmn/ARpIkkyTbc+LOdSfo2gEe3Vnh094NcKMNY8v6M6aEH4ZxFWJzdi345Ud0SzWdw2KHTODj3t39ILlP6l7M5odpaxSfKK8sqO9f6bCFVSNe1pJezSx16YveEJVr2pDl0yItfx4Qp/Xi1Zsegvbjwhcss8YhhisTTZR2PbdT0fgkcN6ytmaU4w==;yAvSF26KLDjsXj6SsU4BtQ=="

@@ -40,6 +40,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Elon Musk's AI startup seeking to raise $6 billion from investors - report"
+    excerpt: "Elon Musk's artificial intelligence (xAI) initiative is reportedly in talks to secure up to $6 billion in funding from investors, aiming to compete with OpenAI, according to sources familiar with the matter. The fundraising efforts have approached wealthy individuals and investors, with a focus on family offices in Hong Kong."
+    publishedDateTime: 2024-01-26T10:25:00Z
+    webUrl: "https://in.investing.com/news/elon-musks-ai-startup-seeking-to-raise-6-billion-from-investors--report-432SI-3989497"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 37
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
     publishedDateTime: 2024-01-26T09:33:00Z

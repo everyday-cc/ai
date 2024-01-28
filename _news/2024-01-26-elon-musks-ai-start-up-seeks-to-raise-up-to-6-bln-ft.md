@@ -33,20 +33,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 71
-  - title: "Elon Musk: automakers don’t believe Tesla Full Self-Driving is real"
-    excerpt: "Elon Musk says that other automakers don’t believe Tesla’s Full Self-Driving (FSD) is “real” as Tesla tries to sell"
-    publishedDateTime: 2024-01-25T14:59:00Z
-    webUrl: "https://electrek.co/2024/01/25/elon-musk-automakers-dont-believe-tesla-full-self-driving-real/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk's AI startup seeks to raise up to $6 billion"
     excerpt: "Elon Musk's AI startup xAI is reportedly seeking $6 billion in funding, with a potential valuation of $20 billion. The company competes with OpenAI's ChatGPT and recently filed for a $1 billion equity offering."
     publishedDateTime: 2024-01-26T10:48:00Z

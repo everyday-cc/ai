@@ -23,6 +23,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Hello, Apple has joined the AI arms race"
+    excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
+    publishedDateTime: 2024-01-24T17:52:00Z
+    webUrl: "https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
+
 secured: "b8XF1+zgiQDOUunEQGDuqCq7MbrensxQYv59d/gNF+FNSbgIiInjkA/IJCIBcRRAq7qpc30Pl6E2kSiixYpcIjW38gtOuxk1wdK5GJD+I75PGa3uXzU4A9LxErV50YnqiKVI8lhRrpfm/sR7nKfiB7WrY2Y9qGsThhrEsi6MGliqwoj8HEsjTwv2otu7hiRfooabz3q+49mJpUQ0t+8z7rEHjQp5aCFlkzjvvsQ9g8wT5KslAxC0gNHpAHLyqGt6dzK6udDBNiTZhuDfkAfDqKT80DWo4/V9W/7skyfysRguE5ExUCR4b1hBPp01l98E2811q4FRQ7Tu0JZEhBgz58t57cu4yPcsGEWkCfUAhfk=;xontbrAWKFzTiqIYhqo82w=="
 ---
 

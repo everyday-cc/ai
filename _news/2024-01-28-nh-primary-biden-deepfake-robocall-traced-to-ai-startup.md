@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
         width: 840
         height: 582
+        isCached: true
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
+    type: article
+    provider:
+      name: WSLS 10
+      domain: wsls.com
+    quality: 41
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
   - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
     excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."

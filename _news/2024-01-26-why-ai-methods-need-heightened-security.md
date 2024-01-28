@@ -92,6 +92,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 19
+  - title: "CFTC seeks feedback on AI use in compliance and market dynamics"
+    excerpt: "The U.S. CFTC seeks insights on AI use in compliance by issuing a comment request. The agency emphasizes AI’s potential in trading, compliance, and more."
+    publishedDateTime: 2024-01-28T12:41:00Z
+    webUrl: "https://cointelegraph.com/news/cftc-seeks-feedback-on-ai-use-in-compliance-and-market-dynamics"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "VC0rWWytoaBPYL47RzRqOBRV5xN7Z9sbO0LfvtVQSWLpJbeWzCm6ctcEP1iSRF3mUq7zQ2+P8vEE0fFGh+obPafwgngd029oudmL5fDDk2io3ZwGp8CH4q+lgyy/rVBeJqvdrNsJyQ52kA5fLEj7/+5lT9gedDjOa3zRhS926j8WYrLer9fV7jw+ogIxpXQjIvP9DO+k7/qgBtl+achy+koA9RYyHbNqHCSIJCNi9ViMvdfsx4GVORMsh719RKTIuHMKsQF8ppW7EfIEzOQOrugilKlSV5MxBgPWroahwVHECriSZX9ppNNw5v7Gbfl9+6fSnODDKOrndSKCVuOrkkh0aMlGkaTVWlnoB8a/CWo=;sBMo9dOfySPcBUVyiV0nxg=="
 ---

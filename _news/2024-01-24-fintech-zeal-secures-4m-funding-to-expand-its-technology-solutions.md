@@ -25,38 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
-    excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
-    publishedDateTime: 2024-01-23T18:36:00Z
-    webUrl: "https://www.techrepublic.com/article/uk-tech-trends-2024/"
+  - title: "Axyon AI, an Italian Fintech Leveraging AI, Closes New Funding Round led by Montage Ventures"
+    excerpt: "Axyon AI, an Italian AI fintech company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures."
+    publishedDateTime: 2024-01-26T15:09:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 49
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 48
     images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240123-uk-tech-trends-2024.jpg"
-        width: 1400
-        height: 900
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/David-Florence-Italy.jpeg"
+        width: 899
+        height: 1280
         isCached: true
-  - title: "Top Fintech Predictions for 2024 (Free Download)"
-    excerpt: "The world saw the fintech space in 2023 progress and evolve through events like the UK government’s advancement towards utilizing open banking payments"
-    publishedDateTime: 2024-01-25T09:00:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/top-fintech-predictions-2024/"
+  - title: "Axyon AI secures €3.9 million investment"
+    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
+    publishedDateTime: 2024-01-25T00:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 34
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "K8hgGI/4zOa5gXeowk/ZQAG9fFPEhXcQiMrSdRiPx65X+w1cozKEsXLWGFTsz/VErU6Yia8kZ1qsgNBl4jgbpveKZRHPRql7eUMEaTtjv3ACPB8+cjAg/RVwBiJQJeH8kVq+sBrJQZ00jiZSd1Ccd+mHi6Dj2g2dkQXnknIuBjWR/w7uizFW70la7L1HFcmtpTIuDQ8MLlNL7hIXD7cbaa7YnnR0yEFNJThES5pvNtifOPoXcmAg8U6jsBn9igeBntVjU2ZHQCDlfgLXSNPUxTAcqihpb7+wDSzdG9sGUCCulHP0imf+w/x6wd8ymFb+vgwA43zbf8TfisRMfyebaq9eTq7B06KdYe/4D3zVZJz3yUSInTvR492+oQQN+zxv2/ont2do4UgArBpMp34LKmi9e07P19OvEGAw/Tk5mlX//Z0Q9nfeNaRvQR73orvQozWa31krclxJCqAD5ujxmp05LcMF+6uzrUiLLv6JRianHYZpFDauKu8jXQ7M3nvVqZCH7++btm9ThK49jFuyXQ==;iXD473eoGE2/ZkMbsS9erA=="
 ---

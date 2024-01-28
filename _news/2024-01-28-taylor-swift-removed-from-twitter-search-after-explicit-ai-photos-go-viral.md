@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
+    excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
+    publishedDateTime: 2024-01-28T17:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CF56/production/_132487035_gettyimages-1917155488.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Taylor Swift Just Taught a Brilliant Lesson in Emotional Intelligence"
     excerpt: "And when somebody apparently used artificial intelligence to create deepfake explicit images purporting to be Swift, she -- well, watch out. Last week, reports spread about these AI deepfakes being shared like crazy on social media. According to one report ..."
     publishedDateTime: 2024-01-28T00:00:00Z

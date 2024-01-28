@@ -19,155 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "AI And The Future Of Coding"
-    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
-    publishedDateTime: 2024-01-24T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1040
-        height: 700
-        isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How the rise of artificial intelligence is boosting tech stocks"
-    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
-    publishedDateTime: 2024-01-23T23:24:00Z
-    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "For the age of the AI PC, here comes a new test of speed"
-    excerpt: "The new MLPerf Client benchmark will rate how well chips and systems perform with generative AI on desktops, laptops, and workstations, said the MLCommons, the industry consortium that has published various AI benchmarks for five years, in a blog post."
-    publishedDateTime: 2024-01-26T19:02:00Z
-    webUrl: "https://www.zdnet.com/article/for-the-age-of-the-ai-pc-here-comes-a-new-test-of-speed/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 41
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
-    excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
-    publishedDateTime: 2024-01-25T17:07:00Z
-    webUrl: "https://techbullion.com/unveiling-the-future-navigating-ai-stocks-artificial-intelligence-stocks-and-the-realm-of-ai-ipos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: American Banker
+      domain: americanbanker.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/ai_hominoid_robot_touching_virtual_hologram_screen_showing_concept_big_data_1_8e39d0c3b4-scaled-1.jpg"
-        width: 1000
-        height: 500
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence and the Future of Work: Opportunities and Challenges"
-    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a transformative force that is reshaping the future of work across industries worldwide. As AI technologies continue to evolve, they present both opportunities and challenges for the workforce."
-    publishedDateTime: 2024-01-27T13:33:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-the-future-of-work-opportunities-and-challenges/"
+  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
+    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
+    publishedDateTime: 2024-01-25T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-the-Future-of-Work-Opportunities-and-Challenges.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
-    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
+    excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
+    publishedDateTime: 2024-01-24T17:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
+  - title: "Artificial intelligence technologies expanding possibilities in health care"
+    excerpt: "Never miss an episode of Getting Health Care Right. Subscribe today on Apple Podcasts or Spotify. Pulmonary embolism kills more patients than HIV, breast cancer and motor vehicle accidents combined, according TriHealth’s Dr. Chris Hayner, a specialist in ..."
     publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2024/01/26/ai-tech-expanding-possibilities-in-health-care.html"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
-  - title: "Artificial Intelligence and the arts"
-    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
-    publishedDateTime: 2024-01-25T10:59:00Z
-    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
-    type: article
-    provider:
-      name: TheCourierExpress.com
-      domain: thecourierexpress.com
-    quality: 19
-  - title: "Hello, Apple has joined the AI arms race"
-    excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
-    publishedDateTime: 2024-01-24T17:52:00Z
-    webUrl: "https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
-  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
-    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "Cwazzz+7ebNv3PZ43Df2SRotQ4BxvznuGEDM5Unw9DFVVAKsD/g+9PF17KhqnpG8NBO6lrpDk+86y6Ivtnan1gMqGks8ioiOBipD2/X9fvJceHM6vpfljca9mHVwwGNQf5aKBEAi83DZFlFnp3iwIvXPagN/vWY+7t8t3xbz992U+4k4OtNHrua8SmVB7yo/P1Mup7Vxh9ecx1RH/9xn/SedxWj15bP3gfwnS+VhocMrc+6rT5/SjWbQbXzMgBuFFIab5wmBZqa/Q1aioU2CB18Bt+p9zp3r96/HY0IBmx27ucuPRq1X4yk9CRF2fxqDWLiWkpJ6eB3xmtpzrvYRs7Przw+spYNF6ktWhP8wODw6mvruuZAFF//e5faL/tURrx4e1YkiuRDAhrLwkB9XKXkqJRRmBdiq0sbXQL4/oICujItOnjB/bmimKy3OZuGfBtN+b7h8KZllF/MQeBZAnHn1ev9sfP//g3W/dMRxiS86Fckk+G4GFh0c7vuJHEIQCap92L60jcJY9iV/wf+82Q==;CY1xBkY0qxWHXuAoS5IOBw=="
 ---

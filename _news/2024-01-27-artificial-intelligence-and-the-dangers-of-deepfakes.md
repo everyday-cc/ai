@@ -26,149 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Future Of Coding"
-    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
-    publishedDateTime: 2024-01-24T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+  - title: "N.H. Primary Biden Deepfake Robocall Traced to AI Startup"
+    excerpt: "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account."
+    publishedDateTime: 2024-01-27T23:49:00Z
+    webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1040
-        height: 700
+      - url: "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg"
+        width: 945
+        height: 630
         isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
+  - title: "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)"
+    excerpt: "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election."
+    publishedDateTime: 2024-01-24T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
+    excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
+    publishedDateTime: 2024-01-27T16:01:00Z
+    webUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/"
+    ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
     quality: 59
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
+        width: 840
+        height: 582
         isCached: true
-  - title: "How the rise of artificial intelligence is boosting tech stocks"
-    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
-    publishedDateTime: 2024-01-23T23:24:00Z
-    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
+    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
+    publishedDateTime: 2024-01-23T22:08:00Z
+    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "For the age of the AI PC, here comes a new test of speed"
-    excerpt: "The new MLPerf Client benchmark will rate how well chips and systems perform with generative AI on desktops, laptops, and workstations, said the MLCommons, the industry consortium that has published various AI benchmarks for five years, in a blog post."
-    publishedDateTime: 2024-01-26T19:02:00Z
-    webUrl: "https://www.zdnet.com/article/for-the-age-of-the-ai-pc-here-comes-a-new-test-of-speed/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
-    excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
-    publishedDateTime: 2024-01-25T17:07:00Z
-    webUrl: "https://techbullion.com/unveiling-the-future-navigating-ai-stocks-artificial-intelligence-stocks-and-the-realm-of-ai-ipos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/ai_hominoid_robot_touching_virtual_hologram_screen_showing_concept_big_data_1_8e39d0c3b4-scaled-1.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence and the Future of Work: Opportunities and Challenges"
-    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a transformative force that is reshaping the future of work across industries worldwide. As AI technologies continue to evolve, they present both opportunities and challenges for the workforce."
-    publishedDateTime: 2024-01-27T13:33:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-the-future-of-work-opportunities-and-challenges/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-the-Future-of-Work-Opportunities-and-Challenges.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
-    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
-  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
-    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
-    publishedDateTime: 2024-01-26T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
-  - title: "Artificial Intelligence and the arts"
-    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
-    publishedDateTime: 2024-01-25T10:59:00Z
-    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
-    type: article
-    provider:
-      name: TheCourierExpress.com
-      domain: thecourierexpress.com
-    quality: 19
-  - title: "Hello, Apple has joined the AI arms race"
-    excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
-    publishedDateTime: 2024-01-24T17:52:00Z
-    webUrl: "https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
-  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
-    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "3264qvF21tUBMD3fzD1OTXuMpBLyZ+2EbIf+SluNP+u2D1nyh6pxHBIdiNiEs4RuX2n60IRj8dF3NIQ54kxUp8zoEozhAhFwCRCG2YhdQ/545HODYjz6Tr3MrBCSyl47ZO5A/WwRHj9SeFF6jO60gYI8M/rB2gEjloUlVDWY+toT+KtWT4d2rU/3FwDBHHVPA7aw0xmWQAkgtd5K9//lLTxq61ffRYnwQc3pMxMAU2ZTbf1lccsN4y5w9D6cqSlDNlNyYy/zt18uSbnJuR9TjhBv6d2TkLs5LPFU6f5haQSSRJz77WGWJ/k4QAcReCsvMxvBFuOf1BIUOq+pHwYRqhpkgTS3ZIugSldY9zZDRskyqTWlOmmK9sROtrs90u95/dSGkXf+aoCucL2wwC/WJAKpLlvTAMESwz68R7HK84DUrpSOIh32fom97MzzxKB6UQFN1DfqBhRLjqZWBsXXEs+/bkH5TOlABFJizEAP1Vz4xCLo7VpvBPfak4DNdcF4dMaE5qaEcO6GxPqcKCSLyg==;4lqGzuzdotyP1xmufoVFGQ=="

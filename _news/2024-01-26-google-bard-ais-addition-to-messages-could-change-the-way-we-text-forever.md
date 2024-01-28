@@ -45,6 +45,22 @@ related:
         width: 1600
         height: 856
         isCached: true
+  - title: "How the rise of artificial intelligence is boosting tech stocks"
+    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
+    publishedDateTime: 2024-01-23T23:24:00Z
+    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 57
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "igpOR1EpaatStgANnMpW1S0UkNInU1f0jzGS9GQ92p/MlWZsWjGIqQgzeCubyFCtmYT9A6Q0r8bE4e4oM1ULvqQ6wtGoHpZ+5ohBSYsnOsm95aVjAHtpds9SWxOOJLYH62PYmF9GRk2OeUsrwnYrD13JfPJHTk8q1yta2ne56fV4NlmY0tX9Cj42CHx/x98xQZ8ZE1zx5dHREnogtOfKGXRmCUOCo/gimiZo3fT4md5CDgL18214SDu31AejxQ3HypIFbxwlYEtvsQkiddBe2PnkoB1E2U8i+s3i6j0gSSHKCpVBM3U7jAlZUqsHzGfkp6YGOiYdaw3gTCeIj+aJs/YqUEXPqNU1xYXel5/cOOw=;jTtJ9isSJuchz+qkll6l1Q=="
 ---

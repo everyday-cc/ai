@@ -7,8 +7,8 @@ originalUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai
 webUrl: "https://www.beckersasc.com/asc-news/who-pushes-for-oversight-of-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Becker's ASC
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging AI For Good In The Healthcare Industry"
+    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
+    publishedDateTime: 2024-01-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Tech, healthcare leaders to join AI startup board"
     excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
     publishedDateTime: 2024-01-25T17:48:00Z
@@ -39,6 +48,43 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
+    excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
+    publishedDateTime: 2024-01-25T06:30:00Z
+    webUrl: "https://www.businessinsider.com/ad-group-publicis-lays-out-300-million-ai-ambitions-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/65b16205617029e90a601387?width=1200&format=jpeg"
+        width: 1126
+        height: 563
+        isCached: true
+  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
+    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
+    publishedDateTime: 2024-01-26T05:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
+    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
+    publishedDateTime: 2024-01-26T16:08:00Z
+    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 37
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+        width: 1200
+        height: 575
+        isCached: true
   - title: "Lawmaker proposes restricting use of AI in Georgia healthcare, insurance coverage decisions"
     excerpt: "ATLANTA — A member of the Georgia House of Representatives filed legislation to ban the use of artificial intelligence programs when making insurance, health coverage, or public assistance award decisions. Specifically, Rep. Mandisha Thomas’ bill would ..."
     publishedDateTime: 2024-01-23T20:07:00Z
@@ -48,15 +94,6 @@ related:
       name: WSB-TV
       domain: wsbtv.com
     quality: 24
-  - title: "Artificial intelligence technologies expanding possibilities in health care"
-    excerpt: "Never miss an episode of Getting Health Care Right. Subscribe today on Apple Podcasts or Spotify. Pulmonary embolism kills more patients than HIV, breast cancer and motor vehicle accidents combined, according TriHealth’s Dr. Chris Hayner, a specialist in ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2024/01/26/ai-tech-expanding-possibilities-in-health-care.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "sMCxeEt0vFTtyZC2pC5e06ZWrBcQF+FJ2p4sjl1dpOzNdOF9fLYgKThVeMqBFgJ8aKIyRUb5bUYfNWRpBMO3HzVP+EQxwst2eLsW+pU06EUse3pfdjmg0JJFPHa7j7zqL1zya7cuO1Z5jq3sO3AVLNw62bEihhinM4osa5dR4clD12McGw0nA2ERSWACwBzkNDH4l0F9bxwfN/03i6whB4jE9HUBD6Hr3qCDgg39oZji0DfKScccWkbnaEDTqxOi1jw7G7s6S7l5fazSo0JxbcLtqCf4UY0XKNICKe0cTEXHeBHDhRbBRN9MLLHeaHkxx6HDggHPBKhEAvIA7jwoPlIQP2IxmkCBNok4ME/D/6w=;PTrzci4KQXXaFrEG4T5blA=="
 ---
