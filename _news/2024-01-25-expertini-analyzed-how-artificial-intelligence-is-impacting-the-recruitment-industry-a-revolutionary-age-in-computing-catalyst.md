@@ -28,6 +28,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
+    excerpt: "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances."
+    publishedDateTime: 2024-01-23T12:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "fZ2RXbCZ58G+NMPzC8vnIxhxbqu0cJATYp9lMY/zoG7xu+Lm32+4WYi/lE/o9XqFu93vZ+wjC2KGeDQt3e/M2drSOVpVR0lX/5PcDZRU8+Lg+JDkSWe+Ud6YvyY//RYgC/s8uAxcVdCHf2Djsfp+PiNjM5kWNamGf1o440LEyYj99qnaI/up5nY03y7/tthbP+mrhOTm7U+l6/U8xg0tW9HgqQ4CnsUUQpyDEOTsegUpp4yIJ2695CpG/rmZlHU402Jo1KRx2mA15vSYFyB2zEF37czUSgiEoj6JwjraE53aa0BUxOLwWIZZeSeTJNTAaJ+WkOIPfhCB5VP9gmIicNoAzA2p3aBx1RRcGt/EHSg=;SEJi8VNrdGNhGkc8nw/wXw=="
 ---

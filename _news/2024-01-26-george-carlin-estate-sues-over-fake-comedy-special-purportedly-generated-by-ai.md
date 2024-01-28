@@ -38,6 +38,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Following lawsuit, rep admits “AI” George Carlin was human-written"
+    excerpt: "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\""
+    publishedDateTime: 2024-01-28T01:44:00Z
+    webUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Did an AI write that hour-long “George Carlin” special? I’m not convinced."
     excerpt: "But I think that anger is at least partially misplaced. After spending the last few weeks diving down a distractingly deep rabbit hole, I’m convinced that Dudesy’s “AI-generated” George Carlin special was actually written by a human, using voice- and image-generation tools to essentially perform in “AI face” as part of an ongoing comedy bit."
     publishedDateTime: 2024-01-25T12:01:00Z

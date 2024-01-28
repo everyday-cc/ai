@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
+    excerpt: "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances."
+    publishedDateTime: 2024-01-23T12:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
     excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
     publishedDateTime: 2024-01-24T20:40:00Z

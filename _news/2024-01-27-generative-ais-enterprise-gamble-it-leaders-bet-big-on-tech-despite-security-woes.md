@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-lea
 webUrl: "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
-    publishedDateTime: 2024-01-23T06:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "KoqChurpAMyb0BDC6fqJ9FVva0ftad79/a29Z09S4ciem4hJe4NaK4j4GC0tkrf+EDvRJhZa34lys3KOtj3Ax8Py4g7pK/YYxL52qzIbU17Gnj8tkRIDb4J3vYl4aUsmV7oULmE9/h7jYMJ0QJ+68bKoyD4Xe9oeBe0I08yAJZiaPmsOvrrQpcEFauto4nu3miclsuAHdCKeEx+hTXD3y6pqzuTJ2WaZm2oc7sIBjcxcml/JnqkIW7DUp+CJe/baZ6JgPtYxYU/ogM3dFLg5bUfPouM5H7fAz3QaENGpEZSDcfoqNMvjrN/aVlLcv9pgtsr8jK45Aynv6GpynqMH2ldiMyNnR8PYeVa5mTDOOnlStpljiYz+8/SrgDySjL2StmeVL1DcF67+Ym+1wIMIZiLZ1BXGM4p7vPk1cPA+2337dkOajggkS+RXiQxFsGi0nR1D++wjAIpqlnxAT28ogsyZHqZM7GNAW/OUymI6R9LHQFrhQKsgxvE+RGgaRY/JYgIV7WmLKsFWCdMnIzpOdA==;A8xqmEj04wJ7LRhPP2497w=="
 ---

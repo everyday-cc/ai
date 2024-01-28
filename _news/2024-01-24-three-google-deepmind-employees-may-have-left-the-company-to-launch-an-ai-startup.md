@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/three-google-deepmi
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/three-google-deepmind-employees-may-have-left-the-company-to-launch-an-ai-startup/amp_articleshow/107118423.cms"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Who Owns DeepMind? People Behind the Top AI Research Lab"
-    excerpt: "Who owns the artificial intelligence company DeepMind? Learn more about the co-founders of the leading AI research laboratory."
-    publishedDateTime: 2024-01-23T16:29:00Z
-    webUrl: "https://www.techopedia.com/who-owns-deepmind"
+  - title: "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode"
+    excerpt: "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/"
     type: article
     provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-11.45.04-Generate-a-minimalist-abstract-illustration-that-represents-AI-code-generation-ensuring-it-contains-no-human-elements-or-facial-features.-The-design-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
 
 secured: "q1jMvDrM8D1Kcm9y6Al6AKEA+lPhaMgmLjqQ9j0WOGUIzpNIKaP2CEHR/1xRkn96LBEWr+2CZTTk8gnMGLXMKpriITSJBJes1OGE5MN63YmuO+EiUrWJeGq33lwHVDkrsRL/EEthzUb3IAx5Wj3HJ920sx2eryoi99TyOKLvS4gWjv5VvGs2B9JQAMj0kveqnkDXota7Si6sahpIiYM/E2Y3vJumrcpBRimgeOIR8gczKGSgwE00RW5w1vccuAoCOt3xgh00AqnfGQfIne4Khg1XP/Ku9HFwqYcGN6Cin9O6m7GiXvEdoyxt4RLyFLD3D7bMk/BqHunwVhXkUA19EYBK6p6PRGRlsmj1RJYFPk7VeB/Ab9IzJ7ltq0JQfyz06TQZPAHGEBB+PBnGK9lJsN46fBNhJTvIIC91m4a/WYCiRFxxcUHK5OWBplBl+XSD7Ugu3/XnNflz3eakGCEK6WARvRt52KkKFPeglj0KENSIJllg7xkkSwwewgtyB6SmYGF8xmKyTU8LAkK/u/MASg==;FC96aNoyI/hC5o7ue++wnw=="
 ---

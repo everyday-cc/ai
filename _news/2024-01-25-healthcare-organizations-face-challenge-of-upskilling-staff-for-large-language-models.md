@@ -41,20 +41,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models"
-    excerpt: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models - SiliconANGLE"
-    publishedDateTime: 2024-01-23T06:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/23/oracle-debuts-cloud-generative-ai-service-help-enterprises-deploy-fine-tune-large-language-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/52882503325_d0064b1029_k.jpg"
-        width: 2047
-        height: 1365
-        isCached: true
 
 secured: "CSFynRtkpLUbvg1UVDMfBpYFlcYuksHVfOgQdy8KPnrBWU/qUbcUfrUDJjmLsEVROLuo6LaKEJkgWgTy+2wjgKGoa3mCO/wQGNYTK5xpUobLZXGIg47xbdKiIaroLhoi5uvvhJjyFgB8ZLq4/lirN8nt3JO/Da3JOn+GjHbyLZyMWzL1llBVi5Rq3Qv52q1tZ2KwFbFNh1p9FASXLpGeoS1PPPh4TGTRQ+EJ8ti7UAfyDAW9B2ih4iyaio2wmhqm/g2laVmM5KNKrHwkLuKo+VeGWb3b5euZCsv5vBltluPVUJ1o5YaYWZ4JkMq1a7UFPJxIP2A/9vtAYKQ/4CJ8kj2NnQwbYvpAPdIkQ09S300=;HBfFydp33MBMpX5NbeOjDA=="
 ---

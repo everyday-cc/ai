@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-orga
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Forbes
@@ -44,20 +44,6 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models"
-    excerpt: "Oracle debuts cloud generative AI service to help enterprises deploy and fine-tune language models - SiliconANGLE"
-    publishedDateTime: 2024-01-23T06:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/23/oracle-debuts-cloud-generative-ai-service-help-enterprises-deploy-fine-tune-large-language-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/52882503325_d0064b1029_k.jpg"
-        width: 2047
-        height: 1365
         isCached: true
 
 secured: "ZSYZpxIXceSnzx+GqOAJHQyWxFmFMeg02JlcG9fDsN0Wu7l+7a6ZbMOCwBpSPi/JDhXNqxF2ALoTcSrKyA5JPkLN1pTBJPr9LwKfL3RCx5T9FMSaB127U0L5xFLoE7+bA4rmcLQgVe76vLvpslx3Vnk0l2YIxLd9jPV6rAgHEnJqWqCtueafdf9Gx3ioWKj9rMISUQR8Tm8rc3FQzWKJtKd/ybjV0wPvd9rJz8uVt9OejNaNaUHd5oIP6F9JbV8C+5P0nlohFluRIakxEh73iNrWPMHsSHQt9LL3I+P9JQi40iX9kP2mfZO4wW/EkB46oQ6kXAwYNo6aYPnQhuXcysDjJip98NoCaCThJ23DekWkyZVUTAURy54uGtQE3d4C0HztWfV8t3RqtRtCg2jO/lW75lrKfKkY39SLHuFwXMTZC2nLL4g0JS0pfmDqpYxrYdlyFj7+GEwH4bQmS5MtHyXn9M4Kp4HU573JsWoIEnd6Zj/l19T8n+QXJc2dvo8iwgyPRO/PBOM1OLkFJBNQXA==;wN72StRDO8ipwfy/v8lTmg=="

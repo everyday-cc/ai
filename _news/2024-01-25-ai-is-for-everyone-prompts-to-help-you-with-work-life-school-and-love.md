@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-scho
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Kim Komando: AI is for everyone — prompts to help you with work, life, school and love"
+    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
+    publishedDateTime: 2024-01-28T06:18:00Z
+    webUrl: "https://tulsaworld.com/news/nation-world/business/kim-komando-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and/article_bcbce87c-b94f-11ee-8db9-775864d22150.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "nqtLKkZKPCPam+3f/vi9DCB4Op1jxtv+yxYSb5s/rlJmTql1cq+SwcSZwmZyD8b9CNwgU6vWjY8OrFjFAhPc8HEwtB1bqNwDfLloFJtOiqp3KtlSe4ivScGaU3XTP61AZEGjDHDV9I0n0X/0e2wxUIvrb8N5jKAEFPifVxKtBkYFaEWY7mmvgx83m3BmKNetL1iuvFKXCP/jnSBB9ADjTGhGC8+H5gXiwNr9FIqyXdxP6nUKU20wKxXldQuPTipJaYpy8dYYGsmPUrwFk6wnEvgrItLPiFMNHsQQVAcBS3fsuhfb53pSjVkzosxAcDxz/XPRVeTPXexnN8AYsIpcwTXZdaPEdbseu3PSzpb6kjJttSVOlrESyLKvNQzNWccEkJ960Jrt6KLVqwaAC3FJtAZTyA2ue4cMEJWzC2NPVScROUJUYkH1elVY0Js+fDwTv0ZAJPR1rZqw9MCHyRLA8AbmrR54OHlRt1SjGg46/lIaIPw8K/etpJjySz7WKUySKZ9kGa0bIhzorhmx+lHPDg==;8WTke6eSPaC1B/7SJSbJcg=="
 ---

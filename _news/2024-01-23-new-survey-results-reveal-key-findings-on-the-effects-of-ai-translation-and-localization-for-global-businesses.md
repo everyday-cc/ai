@@ -19,58 +19,23 @@ topics:
   - AI
 
 related:
-  - title: "IGC Proposed Acquisition of a Deep Neural Network and AI Research Related Service and Application Research Organization"
-    excerpt: "Promoting Transformation of Trading Technology R&D and Service HONG KONG SAR - Media OutReach Newswire - 23 January 2024 - ("
-    publishedDateTime: 2024-01-23T06:35:00Z
-    webUrl: "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360"
-    ampWebUrl: "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360"
+  - title: "Ushur Business Leader Survey Shows Regulated Industries Rapidly Adopting AI"
+    excerpt: "As adoption of AI, and especially Generative AI, continues to gain pace and AI applications and tools proliferate, buyer behavior in highly regulated industries and markets is rapidly evolving. More than 75% of survey respondents said they were “comfortable” incorporating AI and automation into customer-facing strategies or communications."
+    publishedDateTime: 2024-01-23T16:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ushur-business-leader-survey-shows-regulated-industries-rapidly-adopting-ai-1032988730"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 50
-    images:
-      - url: "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CFPB Applies Adverse Action Notification Requirement to Artificial Intelligence Models"
-    excerpt: "As technology continues to advance, regulators are increasingly addressing the fair lending implications of artificial intelligence (AI), 1 even though comprehensive rules governing AI have yet to be promulgated. Notably, the Consumer Financial Protection ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/cfpb-applies-adverse-action-4532992/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 29
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13534_143.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Over 35 Federal & Private Organizations Come Together for National AI Research Resource Pilot"
-    excerpt: "Looking for the latest Government Contracting News? Read about Over 35 Federal & Private Organizations Come Together for National AI Research Resource"
-    publishedDateTime: 2024-01-25T22:10:00Z
-    webUrl: "https://executivegov.com/2024/01/over-35-organizations-come-together-for-national-ai-research-resource-pilot/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 28
-    images:
-      - url: "https://em-graphics.s3.us-west-2.amazonaws.com/documents/54f84d6c-f685-4c9c-984f-6b9281177834.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "DeepL: New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses"
-    excerpt: "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled director-level marketers at global companies with more than 100 ..."
-    publishedDateTime: 2024-01-23T12:19:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61205912-deepl-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "BYqLH7P81cAusiReMOGUZkJA4i0gUf++K99N7PE3QQD09Lm8KVzXTibPT7lq6PdiUN4eWHNCBHNnTn3R1XMv0lfsJ7V+6ttI299TbAhMkC+wimlwMMXJ/3ofk6eDCTLKl1a6Q/y4K0ragOybbKnoKkAJdfU9g+pvSBZPlQx4HBGzc0J5+/gmwss6YWCmP9wQMwnuhUWfX9u4r/tcWaLQR1d/t66+SePYkTtMOR5/y5OOOMvKBJpV3OiYzlrZHqVbZ/cmPDrdKwgRg301wi/AR/GeMyOdBuqRYn/OzlcyhJW95pdRr/5c/xG2H0INroSlEcLOLzf8fGdRbA6O4vs/GfuJQjPM8GWWDyftAkJFTN8=;pcrHQPhzmhCQw/qcLUCxnw=="

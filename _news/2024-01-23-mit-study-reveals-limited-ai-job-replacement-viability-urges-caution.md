@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Human-workforce-irreplaceable-by-AI-due
 webUrl: "https://www.econotimes.com/Human-workforce-irreplaceable-by-AI-due-to-financial-constraints-1670029"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "MIT study finds limited impact of AI on jobs requiring visual tasks"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. A hot potato: The most pessimistic forecasts about the impact of AI on society suggest mass layoffs and the imminent replacement of millions of human workers by robots and ..."
+    publishedDateTime: 2024-01-25T14:53:00Z
+    webUrl: "https://www.techspot.com/news/101645-mit-study-finds-limited-impact-ai-jobs-requiring.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "0mlXr6R1F3i2VtfRs4a6GZ35Apam6CBK9sK1kZVIZmU3WL6CEvG4F/UGUEl/voPmcfuDbDvqI/+/05a7eqBwXY3STZfJCBeI5NXZVGfmrFYxXhnvNlJVSerKM/ZVFiidZ/SYgmG6zUsLi9AVSmdSMTJRPtpQtDWNBLMJpstxpAx/hXSjRgdqF7WZWTCCaWBhONBhuyjWTpER8dxFA5FUaRnbnTcyKaAbWs9R2PYR7CQNW01OmfRVYwE4k/eXcg5nr6wAbnQFic0XM4KpuGrNFLyuhOhCS+KnDks368YbpnF6u9Ksx1g4G1Ckn/JxiKm/UC2l8GBY6wtzQj3eyv0IzQ+IBWFJrWtEkrJKhYTGKbt2gvdzwgXzYG3cS0NdW8SzwFYGnLCYvtgv7CGONx2FQX8Lvv0fXEmzT3ZkdCifb9BvOjkEU/5weEFZ2JPjjg+UMtBURi5LxtssdsThitN0+kUZyMlPUmyZFn9w6ffxoxh8QDmfTOjO30FHqdlb/6op/EYiHqur7OVSDWKKSOa7nA==;d3EZWRVPQfN972Ms7PPCBw=="
 ---
