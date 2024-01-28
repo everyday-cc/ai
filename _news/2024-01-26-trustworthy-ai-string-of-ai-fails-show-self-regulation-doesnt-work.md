@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future Of Work: AI, Remote Work And The Labor Shortage"
-    excerpt: "Artificial intelligence will change the nature of work in the coming years, interacting with demographics and remote work desire."
-    publishedDateTime: 2024-01-23T09:30:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aef1500eca516b333d89bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "WHO calls for greater regulation of AI in healthcare"
     excerpt: "The World Health Organization said using certain types of artificial intelligence include risks that could affect health systems."
     publishedDateTime: 2024-01-23T12:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
 cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86e88859-0a71-4ffc-b612-4c8b7083d210.jpg?crop=2121%2C1193%2C0%2C110&resize=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Dubai announces new $95.3m nol card upgrade; facial recognition, artificial intelligence and smartphone payment plan"
+    excerpt: "Dubai’s RTA announces major upgrade of nol card system to pay for public transport services Dubai nol cards will undergo a major upgrade after the Roads and Transport Authority (RTA) has announced a major upgrade, which will see facial recognition ..."
+    publishedDateTime: 2024-01-28T00:00:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-new-95-3m-nol-card-upgrade-facial-recognition-artificial-intelligence-and-smartphone-payment-plan"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 46
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2024/01/28/dubai-nol-card.jpg"
+        width: 1199
+        height: 899
         isCached: true
   - title: "More work needed to blunt public’s AI privacy concerns: Report"
     excerpt: "Organizations aren't making much progress in convincing the public their data is being used responsibly in artificial intelligence applications, a new survey suggests. The report, Cisco Systems' seventh annual data privacy benchmark study,"

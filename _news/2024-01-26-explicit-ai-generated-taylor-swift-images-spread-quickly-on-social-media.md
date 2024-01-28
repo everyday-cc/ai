@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Taylor Swift Just Taught a Brilliant Lesson in Emotional Intelligence"
+    excerpt: "And when somebody apparently used artificial intelligence to create deepfake explicit images purporting to be Swift, she -- well, watch out. Last week, reports spread about these AI deepfakes being shared like crazy on social media. According to one report ..."
+    publishedDateTime: 2024-01-28T00:00:00Z
+    webUrl: "https://www.inc.com/bill-murphy-jr/taylor-swift-just-taught-a-brilliant-lesson-in-emotional-intelligence.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 22
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/taylor-swift-ai-inc-1917155475_536802_znr0xb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Taylor Swift is the latest victim of 'disgusting' AI trend"
     excerpt: "In the past year, AI-generated deepfake fraud has ventured beyond images and into video and audio. Cases of AI-generated fraudulent phone calls have recently been on the rise; a fake robocall, seemingly from President Joe Biden, encouraged voters not to vote in the New Hampshire primary, according to NBC ."
     publishedDateTime: 2024-01-25T16:34:00Z

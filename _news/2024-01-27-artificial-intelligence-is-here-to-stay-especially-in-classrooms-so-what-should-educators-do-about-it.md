@@ -28,7 +28,7 @@ related:
     provider:
       name: Independent Record
       domain: helenair.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/83/48333e1e-94f3-52f1-843c-f9f59dab05cc/65b41a46dff4e.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
         width: 629

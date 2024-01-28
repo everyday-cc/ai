@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity"
-excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users"
-publishedDateTime: 2024-01-24T12:14:00Z
-originalUrl: "https://www.sacbee.com/press-releases/article284624670.html"
-webUrl: "https://www.sacbee.com/press-releases/article284624670.html"
+excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users TORONTO, ON / ACCESSWIRE / January 24, 2024/ Agnostiq ..."
+publishedDateTime: 2024-01-24T09:13:00Z
+originalUrl: "https://www.newsobserver.com/press-releases/article284624670.html"
+webUrl: "https://www.newsobserver.com/press-releases/article284624670.html"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Raleigh News & Observer
+  domain: newsobserver.com
 
 topics:
   - AI Hardware
@@ -57,6 +57,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "QUWre4kc5bbxAW2yw9w+C+wKNF9QIuX0Igy3jNkmUIJGX7ZIVmOsqirmBwvZPS75Wksci4Qxmq/RKs0nmVYVEIfKn8Gq2u/4y1dQdntA82m921xET4S9r25j87NOkB85RJDxuWG0sqzeDu8P4se4C5WIkaexdGDWX1tdnPtwVqEgTxoAfAdUNcyuLmQK0GxWtqNVXsSe9dedA87RyOTLSG6+YEqBxQHV/lpVGNGhuUhBeMfWJ0VGM5Y8/vaJMfeq+lM2GkRCboTKQeZQj7XqcBpxzTnk5zR4d3XORw495g1Q/XUcU5aUilWL0TEPhjqqeGa9tnXihzjgt1fYpGzMjyf6dqpNX7/n1FHAVT/0uCk=;XhDU6TdKemnBmSDdDtxz3w=="
+secured: "wl1Ipjh3CknwaEYuS2fw/Ku28IGcHafLrpV/KH9QtX4vhMppKpOSo0zAls5/ataprnYvJb6C/kdDn6hhw+nGqWLZhnc4ng2jg4MzV/NQqLO3mg/pl4LkWgy9fbfb9XLlFgEgwcHvZPEf4hYv47hrSKtHyUAGHTMW06F//9mmrXBclo2p2KTnVrvnZ9bnSlGebi5vTLH7Km3uQMxzw0aWGHAFhtJn5itv183TFi4ExqqccibLuQzgeqaN5s/t/OyQ//O+1H4/tbFCp+8l+MjrxQxltQssWEabq2Ny1k078ivGi1gS7YzU6XFYefyu52uNfL/focXNnukueRnZ5JddQXU18d1WnDd9vReObiWdqVI=;rA6ZkZjpYO8rYWBU6hqNYw=="
 ---
 

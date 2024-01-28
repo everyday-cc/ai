@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-26T11:15:00Z
 originalUrl: "https://helenair.com/news/state-regional/education/artificial-intelligence-ai-education/article_48333e1e-94f3-52f1-843c-f9f59dab05cc.html"
 webUrl: "https://helenair.com/news/state-regional/education/artificial-intelligence-ai-education/article_48333e1e-94f3-52f1-843c-f9f59dab05cc.html"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Meta AI
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/4/83/48333e1e-94f3-52f1-843c-f9f59dab05cc/65b41a46dff4e.preview.jpg?crop=629%2C330%2C3%2C125&resize=629%2C330&order=crop%2Cresize"
@@ -35,6 +36,6 @@ related:
       domain: missoulian.com
     quality: 4
 
-secured: "wbh4XS8H20TxGtimU9dn3/mtb8L6Aq4ocAyWXi5n1Jm0pFcsBVU4TiMmvYy97EdNj3dAK0qq9c2KCH+r4mvmF9Dwbx93IXe7XKl9zlNfXCSUHfiekCvxsLkBpGzlmlYIALTKMOM7E/1qyzhFSJ4O54Sq+19KJdz5uWXXww+QNZp92klVR2VSLXCJQ6iUZ6kvUulDqV1k4irC22xZVodqvFTdTlABA2TfbTLTWa0wJa5PIILom8AoN8D+CXws3LhRtDpbzf0kUeWza+tTrnng/zgj6V5FkYN9Srw0jcOxlXmNIzMvjjz3isrcoUeD6jkeC+05O4nSE4IGKrjjZuG8sokPhi0zyuroTPR4kc9gyYY=;DYKtVrtS/lUtEnGNoLW0jQ=="
+secured: "ErhFl8+MZnnJBlMJR36XtgELge/FvajB5VVDOD3gzj4Hevwqzzf2ZcdWGfjaGZiOw8qrpCPs/VY7wOKgzUZgUTK/5z2Bl+WsmxvUjIU3pT2fTMIR6N0Y7hQYxkTcbDDPuqcHfu4MO3mloVfIcIZR6oobS5n3GSxT7XGj40jxHKS/zw2Via5ydfJZkU2oCmqEA7scKutEprk4EPRKOovUkMT8Kyhd63PpYWwMqXc7J3BkPX85MmAXVtbGGL1dTEBxciSsLimisx4zY3BqBJQy5APP8IBMYdgCRiX6aM2vNTBIT6fzMvK1pxR8mYI8okBFdaf3Kd0UCSRZMXbmG4lQXEaHdeAFUlm4G0Ws2J+4YKuNS+9eloxT/cRmAaCEAjLM7HXRFGAuhjlB6NedDHDdxhLMVuPPGgJhvyE1teMAAw7zqIM/kUyG5RgQtEG2JMjqxF7/IT2NZYoVMdxnAj8ZFXqOmcRPliuaXZlhz5GMZ6nemQv+pdmQvrG3I1IkbkA2I0172on9CPA18pUiP7CaRQ==;jW9T6hMmedzWbqO42Ane7Q=="
 ---
 

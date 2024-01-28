@@ -37,20 +37,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "OpenAI's wishlist: billions, freedom from Nvidia, in-house AI chip production"
-    excerpt: "OpenAI is exploring potential self-development and production. The premium content you are trying to open requires News database subscription. Please sign in if you wish to continue. Save my User ID and Password Some subscribers prefer to save their log-in ..."
-    publishedDateTime: 2024-01-23T10:20:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD210/openai-nvidia-tsmc-ic-manufacturing-ic-design-distribution-chips+components-fab-cowos-ai-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd210_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
     excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
     publishedDateTime: 2024-01-23T13:48:00Z

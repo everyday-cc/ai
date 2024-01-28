@@ -36,22 +36,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "The Future Of Work: AI, Remote Work And The Labor Shortage"
-    excerpt: "Artificial intelligence will change the nature of work in the coming years, interacting with demographics and remote work desire."
-    publishedDateTime: 2024-01-23T09:30:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/01/23/the-future-of-work-ai-remote-work-and-the-labor-shortage/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aef1500eca516b333d89bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
 
 secured: "4u/P+ZhfM6nvb9Rzujk5muHFBTewDYWW9VDLxt+Aygguvgn3La+enfYT6hAW5eqynhV1z/feyPUX08WkdncSg82wK2dAoXhXaa7Wm0DCiXIdOgFzTkJMXBANtP9XiTBdgAm+2nfSjzjghf5+4lTvhJwUn2KokgW9O4F7gpOSk99znqN51Axdzrn569fw/bFEDNxII095qJNyltIIQ1zlWSkWfrNqf5ganAgz9ktcrA7QGsInZYR7qEfSHEJReyaXhMj80icLmwjcs1HHh+1+q5rEwEBufVPxf7k1rwWeSeM5ZuEOxmGGyxQzYlTBfl+HKf9te6zyczC/uESHVppTW+rQVjCrGRKmvjZsoZ27iCNPXVXWr0VMkqobKXfK0SqJOwzzWu7kaPs1IcKdfkC0icxBFzehcvf/Dkly5Ww+cE8i9YbneqVre/cDKvqHMKvzWbiZ/W61eoA626KKtysh16uJm7wokr0YUYfhNn+wux3+G+tZsvJknJVcHWUt6SaBwH9HAPlD8e7FfNPkiYwq2A==;5VPHgAZMbRIY4tYrR8ITFQ=="
 ---
