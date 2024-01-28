@@ -26,22 +26,6 @@ images:
     height: 375
     isCached: true
 
-related:
-  - title: "Bangladesh students protest teacher’s sacking for anti-trans speech"
-    excerpt: "Hundreds of students from a top Bangladesh university demanded the reinstatement Tuesday of a lecturer sacked for publicly condemning the inclusion of"
-    publishedDateTime: 2024-01-23T12:55:00Z
-    webUrl: "https://www.malaymail.com/news/world/2024/01/23/bangladesh-students-protest-teachers-sacking-for-anti-trans-speech/114137"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 24
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2024/01/23/thumbs/400x400/181235.jpg"
-        width: 400
-        height: 266
-        isCached: true
-
 secured: "ABfz4EP41IdGStQlmQMQk+i3eVuOyqQjEqt5hx/hRXRYeTOs6k8Janv/wPw17YIKYrc7XIxSSsiFZOZ0Ezize2JgnSWOcARXrqjAWlZSVg/+fNdEak6xSzqNubHXf9t5NjgIoU9PdtvLP0MYiqGPQ+HVl6Krnqo0a7FkOzZVw+5tGSaQSz4ANLqhz93q59EysuMbD6X0+bRlOpYEwvaJEo4hozIdL5Mw7nSRDZ9hNAnyJdyJ12h1SogUED+ZNLVbzRC7oScskbqlNqrq5owat9Q5IByHuTcISe00XlPsy8XtEOzL+/Xp1vFFN9fhjBl5anBb/RUBsPpIKjiYRisHcUdGYn/Y66qFPDYvD4QWtK0=;XFDi+bqZ351zZWK9PS/UnQ=="
 ---
 

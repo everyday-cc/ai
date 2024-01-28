@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-
 webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
         width: 1500
         height: 857
+        isCached: true
+  - title: "Chinese AI processor developers face challenges"
+    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
+    publishedDateTime: 2024-01-25T01:25:00Z
+    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
     excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/qlik-launches-inaugural-ai-council-elevate-da
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/qlik-launches-inaugural-ai-council-elevate-data-ethics-and-governance?amp"
 type: article
 quality: 73
-heat: 73
+heat: 93
 published: true
 
 provider:
@@ -25,6 +25,31 @@ images:
     width: 740
     height: 450
     isCached: true
+
+related:
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-24T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai-1032992189"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
+    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 36
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/01/qlik-2024-300x271.png"
+        width: 300
+        height: 271
+        isCached: true
 
 secured: "xeW1eUOhPI1Exd6hebPxvqFtytT98aKxHLcNk92c35AFE8ubbhNroKPRmfBH+fHPQIC5rcG4OaE7Gg/JB8dtNjzvEFNOg91fQRwJJtqS4vyfyaf405ttnhumgkKUMCrv214inw/LHf2CROdD7qtdPR9lXPSYwzY2K1FOZ7DVGb3rMZ0/g+cQnuhZEJu8fxPBn0eTs/l8OM4gplD2zBH9C5fz7rhZZLHyuAI/n10J7ZRaO/4dQOVwoNmNP9yxogvk8IjXsNCx6PF4KBAbAjSMqM5rCg15opA1EkB5fy9gyuGex/eAzI/G75HlJrXTgxHJHJ6Zda5M5/3/xxtap0MTFzQDGhTcxE2DVVcU6c2R8Pn9jBVMHwgiE86/uFTc2c6NxRbey/EEnL2buGMqBdf6imEDzPnMKjLswnEdanFpJoSyRssdL9sG7kjJBG188+tiU3FJfVgTtTvAdNTqjGzGZVz88YrT3hSAHTmzdsSeimRer7ybGjhrpWcm6Zp+B/uXbm0oLJkXPREJwekxR6DHFw==;emCXMffsI5+TtEaeFVUdyw=="
 ---

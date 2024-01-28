@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Lenovo launches new Legion 9i gaming laptops, powered by AI, top-end Intel CPU, NVIDIA GPU"
-    excerpt: "Lenovo has launched one of India's first AI-powered gaming laptop, which is powered by Intel's top-end Core i9-13980HX processor and up to NVIDIA GeForce RTX 4090 GPU. The laptop comes in at Rs 4,49,9"
-    publishedDateTime: 2024-01-23T11:08:00Z
-    webUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html"
-    ampWebUrl: "https://www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/lenovo-launches-new-legion-9i-gaming-laptops-powered-by-ai-top-end-intel-cpu-nvidia-gpu-13647462.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 64
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Lenovo-launches-new-9i-line-of-gaming-laptops-powered-by-AI-powered-by-top-end-Intel-NVIDIA-chips.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Chips Market Reaching $400+ Billion in 2027"
     excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
     publishedDateTime: 2024-01-26T00:00:00Z

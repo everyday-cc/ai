@@ -34,6 +34,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
+    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
+    publishedDateTime: 2024-01-28T12:25:00Z
+    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "vriy97h01v9KzvhwBOZhWoLnfu/SAsLvxezPPqAXoQlETj8g8fTq7jPkWN4tBjuzt1vp3vlbbyoAOI//8GF7dvoZA85/kJ526GpW2ktvd7kOK2UBbAlk5wqJIdbfqSEhm2AUFMGUNhM/1wiThsayoBkffBcw9pgjo/XjDPkrMRf6fYaHMrtils51zaCygHigvwOJtwVuTyPQ0wOt6kfxChBPnCH5UjqyoAP2rujacOSmBn4Se3kskwVtlkXimWJvbxrSpKXvaHefQ+B0xLeqdH2t4AkIOLzbCC4J3xuTLGKp15dU87dusT/ukY2ClLjcipFAWNp3AxsInj8D19K83hdveICaO33zinC3onkB1B8=;ZpsuuggiJfzZsURN+VTTKA=="
 ---

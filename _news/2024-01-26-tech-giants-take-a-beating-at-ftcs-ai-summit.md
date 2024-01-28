@@ -77,15 +77,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
-  - title: "MeitY to seek cabinet nod for India AI program entailing over Rs 10,000 cr investments: MoS IT"
-    excerpt: "New Delhi: The Ministry of Electronics and IT (MeitY) will seek cabinet approval for the India AI program, which includes the setting up of GPU-based servers in public-private partnership mode with an outlay of over Rs 10,000 crore, Minister of Electronics ..."
-    publishedDateTime: 2024-01-23T11:47:00Z
-    webUrl: "https://www.deccanherald.com/india/meity-to-seek-cabinet-nod-for-india-ai-program-entailing-over-rs-10000-cr-investments-mos-it-2861011"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 7
 
 secured: "TSl/64iWt+HSQlXlGnMH2tZTNx7obAcXZhgvwwGs1F7aIRj1VlK8K3NfTCg05wXjIdTriG5j/3u9Jen+VTY2tRRXd3VgYUrjTKTEvu7Wo5kniTToda8hUPlBt+SmhKUfwTZyYcQ4ew8pz98jF31hkRDrh7WR6MrM+YM/XkyxP0oStIrdJSuGXv2FYu0FzPuf19/Z8mQFuicoS8ghT3vW2mqBMtbWGpBBTxoTeHk6sLaLPDXALU9GQz8r0/Dj7mBvaS5RBXNtNkfgBHIZNgP9SO4wNRQaONWhwJn1h7Cm5e6CdqKG3lBiBsISl8cZwuMHaSpNY3F9i5CdS4Kzk0I+92tVx9hN3WFSEF9CiUOE8KQ=;3xuUsh2guCE4HAr/hrcBfQ=="
 ---

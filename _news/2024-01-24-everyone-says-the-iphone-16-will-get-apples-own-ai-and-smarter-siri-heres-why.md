@@ -82,6 +82,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Chinese AI processor developers face challenges"
+    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
+    publishedDateTime: 2024-01-25T01:25:00Z
+    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "sbiAW3oxjQcSGaVPqq+UwiT7AyY2E4xJEWk6iNWuQcJfluoILOtqS/ZtyZIbeWzfp4h9QUC6KxQ8/H/Jcy1pgB9HcsTROT0p8r6JCk8ydHOHJKKhbOn1abTF3W8KZB6Ro/p4cTPOi1tcw2qbdJnkA1J5llUeV0krLgA/OW4jJHRaXonsDEkPUJ1WhDBLW2oFw2VeyfJC3kQD5qUKsU/9y/fhu4YnbC772T45+btXRZgRCSaPltfBA1NGNt185yjgTllB+LPl+/XPdNUiKJV+sHq/7cM+N15nNOZacHshupIysdIr3dzLYmxnQstKItrIEHGtfm3YT0M/JUGS/Kt5t2IYoLzUxZjUDVgMtBkwKiw=;7h+tkL6u9eThoCJE3FYMLg=="
 ---

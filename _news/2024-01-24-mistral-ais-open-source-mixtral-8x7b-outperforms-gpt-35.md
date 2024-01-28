@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2024/01/mistral-ai-mixtral/"
 webUrl: "https://www.infoq.com/news/2024/01/mistral-ai-mixtral/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "New ChatGPT feature GPT Mentions and Brave browser integrates Mixtral 8x7B AI assistant"
+    excerpt: "It facilitates seamless translation between different languages, catering to a global user base. This feature is vital in an interconnected world, enabling users to access and understand content in multiple languages. Brave Leo’s AI-driven capabilities ..."
+    publishedDateTime: 2024-01-28T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/gpt-mentions-brave-browser/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 48
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-ChatGPT-feature-GPT-Mentions.jpg"
+        width: 1280
+        height: 786
+        isCached: true
 
 secured: "KYiU+LYtUhPZWySQa4v1q9Eg8Cj5mreoQqouavtNOYtt04Ghq9o2KTXFGnXGQoetHeneM42tJkwwm6yCe9C9DPyv6e9PaunB0n2uYG28QQbc93yDE29FxqWwYCU3Y04ZRXGRryAceyGDZQEG4VHR1kg4OE2yrPkaTyRORfcn+LwX+CTKXJyYv4xdFVVvJTG5PDJEOMXDVsfeTqvC+clc1mWvACMh8jLTzGDFLphxzHtoJvVBjldl/3r31FAfnbOpSM7AwK7qKwIcWcMZTKGTqEb7MlH8q24EBR8hDiIGtXfOLkcr9WwooEZK2eADT0Gc+P8UKWsclir/4s63SFxFD4L63g/TqI+nzjL0dopqsK8LDBLYhuvkEmfl7ZPFpQ/3vRt4bBFGClTwHts5uxrW5zJ5bIZZtYKLV1lIyDkMLEnCZUSy0EXbdM1uu38x+mOL5oYokzJBxG+mQ4ZUHeC+v//hVnjB3S4rIv+5wgV75J5js2TOOtOEz9DuYnGcIVirmqV8eLv5NTIxu4D351vapw==;VZWkb+fI8LWNn8angcnRmw=="
 ---

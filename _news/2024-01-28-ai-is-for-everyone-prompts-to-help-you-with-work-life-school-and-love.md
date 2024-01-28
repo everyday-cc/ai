@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Kim Komando: AI is for everyone — prompts to help you with work, life, school and love"
+title: "AI is for everyone: Prompts to help you with work, life, school and love"
 excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-publishedDateTime: 2024-01-28T06:18:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/business/kim-komando-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and/article_bcbce87c-b94f-11ee-8db9-775864d22150.html"
-webUrl: "https://tulsaworld.com/news/nation-world/business/kim-komando-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and/article_bcbce87c-b94f-11ee-8db9-775864d22150.html"
+publishedDateTime: 2024-01-28T05:45:00Z
+originalUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
+webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
 type: article
-quality: 31
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: KTAR News
+  domain: ktar.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
-    width: 256
-    height: 256
+  - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
+  - title: "Kim Komando: AI is for everyone — prompts to help you with work, life, school and love"
     excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-    publishedDateTime: 2024-01-28T05:45:00Z
-    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
+    publishedDateTime: 2024-01-28T06:18:00Z
+    webUrl: "https://tulsaworld.com/news/nation-world/business/kim-komando-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and/article_bcbce87c-b94f-11ee-8db9-775864d22150.html"
     type: article
     provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 38
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 31
     images:
-      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
-        width: 1600
-        height: 900
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
         isCached: true
 
-secured: "9Jz6uCAgkBrvjDBaf6wPZPetd9324cdm0uFNKAeml2LxGRKo0cYffnnflTFBPewXtUF+qYYxHp0aO8P6MZHaDo9OHpmQHDOih0RiFqATBmRZP/TkkyWcHRFiXxWQob6jDOz6+EeiTBFFxNTLqfdk6i8GiOB1AiQNB3Wj5ausED37y2lY5uMiGGttIPSrb12Z3dUV4Ob/uq0Bk21MyM0pC8SBM5lmcrGV58zgcutG6HwjNSb/Rr/Jx1C5TUB5pWxX/SJpxOO/6gjhzWXP9znIkzL1hhy4S79iAvAjxKYKXfSD9vm3IxOHE7RMb6u2aI0qIcV+MfTId9Q2sAE/I7qN+rgMGdnuFBduceWtaOdnxTKsRwSuvw0HkwQumqWLzQSrnE0ruHMrSSou1WYLZkS9tgV5kqy9zVlJ0l9CXg8LPJRY7oIP46HtrKBbDJLtHupPCXZl6A5eWl0u+d7e5YHT4MCUj7bZLnKNGww6EZQSYzYmQ73q9YA5+sX45gZpK7tCZLBbYOSgm1WhxeK/tTzE2Q==;28fAVix/KlfroVAww/C7TA=="
+secured: "Q/V836bvGhCA+DjXxqArGt5vzl9FIBEpBb/xITdymqOyXCnxs5teylUFfmcxxBzVSngBGsjMx517/WnOuiepgumG5r6AB2XX10GIQXdpXYuOOamQm8ZQnpO11LkvxN/GNwJjk315mDfV6mwC2sOvBQnKmtK5xkkagrP7RpKMsGvxMB2uTJU+F/1Rzwgtjy6sdpDRaKyWmSfhdMh1K7Nu2XCBYUSXZJDOQOAkJBIdUwxA6f5yEPLHRyvFZw96L8ktBILczH0xsTUUtAvwoLaTFm9OZgP1yI4AmsgD9enkala2h4MFWMpB/N6sXPjvOGypG6Zj56szDqpqL8butlpTL26h5HPR51if6MlRNuC6zAk=;W274wM5aZ17KemuO9W+zZw=="
 ---
 

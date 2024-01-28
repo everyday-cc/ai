@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-au
 webUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: BBC
@@ -42,15 +42,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Humanoid robots are here, but do we really need them?"
-    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of in"
-    publishedDateTime: 2024-01-23T12:57:00Z
-    webUrl: "https://www.columbian.com/news/2024/jan/23/humanoid-robots-are-here-but-do-we-really-need-them/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 19
 
 secured: "bESvjKDI1q+TyOaeWZpCTs/nc/lW54oRuPAkBw23qRf9QBBsHFMMl4NXTHOljcb/QdflBJVs1Rp/OQedXLUwO1INaB+1GkO0L9wldDFuxiQnoEHxbWOnV4ttQl63jCPuCRi/WtQ5JJl3oSOTgME2+WUqpdKQJHx+n6QqkMPceig3XxV1YdSpWNG3jJDqi86hJWbfGbQ6IKbj23Bm003aWC4SbX2SlXBTRax19OH3s+3gLsD/OLet7SoiWUeasTGQ662Gha4kgoLpxMYoWCbg30P8wBwtlo86j2AE0wqZkNsiePp+ezC8D2gDdnfPBYkrq3oOWyODmgOxVn9llf+ImBTOZsknyZtzi3tTwqE7yXy6g3PQOem63mFun1LWb1QcHYeh18Z611JLBAagizLzMH1F3htiODSUYNLiOmJxLazjITg+E+GpWUFkNgtO8F3g4E9/TFGZE6f6MOV2QhS40OJZW8bpwOqugnXFcxfcq07fe0yZkdQ5cVb5Qu6pauU3wpllYDG+szIQRU+ZjjqjWg==;8P+eiAl04CHAAbmiPLSSGA=="
 ---

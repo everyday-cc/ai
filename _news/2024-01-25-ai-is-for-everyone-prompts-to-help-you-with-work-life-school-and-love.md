@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-scho
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
+    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
+    publishedDateTime: 2024-01-28T05:45:00Z
+    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 38
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Kim Komando: AI is for everyone — prompts to help you with work, life, school and love"
     excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
     publishedDateTime: 2024-01-28T06:18:00Z

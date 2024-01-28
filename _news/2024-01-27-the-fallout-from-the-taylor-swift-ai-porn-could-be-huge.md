@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-coul
 webUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
 type: article
 quality: 69
-heat: 111
+heat: 109
 published: true
 
 provider:

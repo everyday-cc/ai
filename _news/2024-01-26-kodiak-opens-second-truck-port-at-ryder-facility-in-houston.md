@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Kodiak Robotics partners with Ryder to open first Houston truckport for autonomous trucking"
-    excerpt: "Autonomous trucks carrying freight in and out of Houston have a new home thanks to a California company's new facility."
-    publishedDateTime: 2024-01-23T12:38:00Z
-    webUrl: "https://www.bizjournals.com/houston/inno/stories/news/2024/01/23/kodiak-robotics-ryder-autonomous-truckport.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 26
   - title: "Kodiak Opens Truck Port at Ryder Facility in Houston"
     excerpt: "Kodiak Robotics opened a second truck port for its autonomous semis at a Ryder System Inc. fleet maintenance facility in Houston, the companies said Jan. 23."
     publishedDateTime: 2024-01-25T17:22:00Z

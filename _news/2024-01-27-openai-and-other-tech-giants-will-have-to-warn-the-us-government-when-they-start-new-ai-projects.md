@@ -81,15 +81,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "MeitY to seek cabinet nod for India AI program entailing over Rs 10,000 cr investments: MoS IT"
-    excerpt: "New Delhi: The Ministry of Electronics and IT (MeitY) will seek cabinet approval for the India AI program, which includes the setting up of GPU-based servers in public-private partnership mode with an outlay of over Rs 10,000 crore, Minister of Electronics ..."
-    publishedDateTime: 2024-01-23T11:47:00Z
-    webUrl: "https://www.deccanherald.com/india/meity-to-seek-cabinet-nod-for-india-ai-program-entailing-over-rs-10000-cr-investments-mos-it-2861011"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 7
 
 secured: "4ys/rYwsM1YSE/5Oe6zx9/1jtwlBG+G3XdQ98T9S4KH/81G/ZGVTOLmlZuxjWX4y15wIODo3Mf1CmWr7QqxIUTJZllBRQnZxWs9g0TicgrjgbiGu5wgXdmi3BJd+9XivrLNp5BcQ1bHNpRsw/LzYwt0PqAHX/LEVUirSy7IoNCUnkB2JpXUtBZoYNQlRpLv6d4sznTiheOSH1accuoQ4VPYowvkdVJP92rikvN62j/qImpJ2g3ZHqRBUWm4TRaTDMLeA4hj8omLMWFuieETqWZ6YTygXqirSDml49RtBzvwXixCT3PkEVNdgJ3YPwYzXOuoot6j8K85lIR3ZGlGU+RjgLGmCsv0X3pZrvnlk7BX3R/MQSd58OjLusvPkQ/jqdkvtMwrHq4Y8kWXVCBf3R+gy8WeHtv9l6W8s5IllzfVLdxM3K6rjRKliPZXeXTCW9dEF7UjQWN0F70boSYKoq24DYMiEXXOX2kdBHc7LejJz/MdkdUvQiH3Dp/LxckhTFmMeuhOZviBkg9wqJQC90A==;9Yt3ZFwXoOF4sk7v7xon7A=="
 ---

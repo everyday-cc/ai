@@ -39,15 +39,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "Humanoid robots are here, but do we really need them?"
-    excerpt: "Building a robot that’s both human-like and useful is a decades-old engineering dream inspired by popular science fiction. While the latest artificial intelligence craze has sparked another wave of in"
-    publishedDateTime: 2024-01-23T12:57:00Z
-    webUrl: "https://www.columbian.com/news/2024/jan/23/humanoid-robots-are-here-but-do-we-really-need-them/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 19
 
 secured: "5YX8icLFp6Dh82Df28fz9a9Op6BiMlbD9aUBSdXRmrOrASHC3Kw3sz7kGc5Vecl9jvhi817Jh3tRF29q6SGo7QZqcuTRMOOR2u+XK3Bq3NyGJ51HXOfe5uLJsHQ6b9UaIS+WiTXSOolv4kVDbPM3N77C8Z/JLQjZc7C0SvaP3RZlkOmf89zV3xYznPukCKUBr4Z0MmEQF7G/aHoNPFNuh185znrGmgRtQ+EdYU4wywbWWI/eo/189u4AUJlCvrbwDbMPNs50XA6roLY+eFPwpS7Ej585veey6eW2vLe6PsYYkC+R0sezN23lr3XUkG2g5Fz2vTDaZj87DoZPwpjoPp2CALr0+/XF+vK4SZQexHJ9NXxLhqIDpBScR8cQQC3E1uVPctC/LL3OAT1Qd73tDslDKipge1wDtEU1fhmpkhJcuMt9EYC/KU8ee4bKCN99+eEgTLtokF04RJtny3kfqJ5MLLyIAC6nJClwCz0eZb53BzFFHsGsDcg0sYQTu7Q8A8ipsWnHdJUh3Cy/YtPMIA==;OVch5izp/cqLT14annPn1g=="
 ---
