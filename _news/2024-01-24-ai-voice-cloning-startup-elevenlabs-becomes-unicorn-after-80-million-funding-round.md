@@ -42,15 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artisse AI raises $6.7M for its ‘more realistic’ AI photography app"
-    excerpt: "Artisse aims to stand out from apps like Remini and Lensa by producing photos that could be used in real life. However, the startup’s AI model is flexible enough that users could do things with their photos that wouldn’t be appropriate, like changing ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://techcrunch.com/2024/01/23/artisse-ai-raises-6-7m-for-its-more-realistic-ai-photography-app/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "ANYruTrxxrKRTLqYfx+be8VWZczKLnOmmoxzOVo+XNPjnySdhJjUT0xIbNSkmFZeNUg63InIHScGekyqBjWBf6CC9wJ4oNiMgC0lyrWO0KXNfZtPdLAMJLSLS0n24HZbmgMBLr6MpkDhDpRhuEa0wVCXB1u9jbeR6HvtAb3TP60/SxFfZqD+Nh6wYYL9c2/++wG4elt+bsSy3T2fYnJTszIazTfSmvbLuC7lygovDWqyDHzvGE6eougYfiRSfL9dwY+oTYCKSzyLv3uYcXVG45EAur9j4npU0dJtv8RkP6v48jqq2lyHmBDTbH8W4CJjXsbGyCgXYrLUT8w+zdl2X8vXXq4tiXulG5gZBcMvxdo6WzNXgRaXx5swJV+7N4B6XEeFDJ5Spt7QnkbVIsu2E08cjZkfNZODw9vPprvcrZk9OtMouj272U5Apoxjzp/I+NW/xd3/DtzR/kZW+eyE29jCavxXU+E7E4hBzXcB/0eqh0JHpvZbRq5uicvUBqiaaFQ199FQLKNsDx1z9UjUow==;n1Ch67D7Y2EHhG+cSnoMNA=="
 ---

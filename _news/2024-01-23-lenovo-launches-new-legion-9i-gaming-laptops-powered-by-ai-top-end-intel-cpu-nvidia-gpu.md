@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Opinion: AI can revolutionize healthcare"
-    excerpt: "Now, however, as artificial intelligence is rapidly improving ... AI has the potential to offer continuous patient services, alleviating the workload on healthcare professionals. In hospitals, integrated AI can monitor vital signs and detect health ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/clovis-north-high-school/opinion-ai-can-revolutionize-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2024/01/AI-in-Healthcare-LA-Times-Article.jpg?resize=800%2C400&ssl=1"
-        width: 800
-        height: 400
-        isCached: true
   - title: "AI Chips Market Reaching $400+ Billion in 2027"
     excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
     publishedDateTime: 2024-01-26T00:00:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-26-at-7.17.57-PM.jpg"
         width: 1608
         height: 1262
-        isCached: true
-  - title: "HBM industry revenue to double by 2025, thanks to next-gen AI GPUs by AMD, NVIDIA, others"
-    excerpt: "HBM market expected to double its market revenue by 2025, as next-gen AI GPUs are in production, using the very latest (and fastest) HBM memory available."
-    publishedDateTime: 2024-01-22T23:51:00Z
-    webUrl: "https://www.tweaktown.com/news/95738/hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 47
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95738_26_hbm-industry-revenue-to-double-by-2025-thanks-next-gen-ai-gpus-amd-nvidia-others_full.png"
-        width: 1500
-        height: 857
         isCached: true
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."

@@ -168,17 +168,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
-    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2024-01-22T23:05:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 62
   - title: "Microsoft adds two more Indian languages to Microsoft Translator"
     excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
     publishedDateTime: 2024-01-25T06:52:00Z

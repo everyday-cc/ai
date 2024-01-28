@@ -64,15 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial intelligence and immunity"
-    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "The University of Texas San Antonio Creates a College for AI and Cybersecurity"
     excerpt: "OpenAI CEO Sam Altman argued that AI is good for education and this makes sense. If an AI can help a CEO dream up a new business plan, then it can certainly help a professor with routine tasks like pulling together the right topics for their course syllabus."
     publishedDateTime: 2024-01-24T18:01:00Z

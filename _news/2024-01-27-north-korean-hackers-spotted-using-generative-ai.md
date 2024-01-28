@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Browser alternatives Brave, Arc, add new AI integrations"
+    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
+    publishedDateTime: 2024-01-27T05:42:00Z
+    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
     excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
     publishedDateTime: 2024-01-27T00:00:00Z

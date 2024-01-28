@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/ai-in-healthcare-presents-big-opportun
 webUrl: "https://theconversation.com/ai-in-healthcare-presents-big-opportunities-for-brazil-but-further-public-debate-and-legislation-are-needed-now-221480"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,73 +23,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Is there AI discussion fatigue in healthcare?"
-    excerpt: "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ..."
-    publishedDateTime: 2024-01-22T23:41:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "John Snow Labs Achieves Record Growth with Advanced AI Models in Healthcare"
-    excerpt: "Attributed to its state-of-the-art artificial intelligence (AI ... John Snow Labs will continue to innovate and improve its large language models (LLMs) for healthcare. The shift across John Snow Labs’ product suite has resulted in several notable ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.datanami.com/this-just-in/john-snow-labs-achieves-record-growth-with-advanced-ai-models-in-healthcare/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/01/John-snow-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "HCA's 6,200-member IT team are 'healthcare professionals first'"
-    excerpt: "and now it's part of \"every conversation around key strategies at HCA Healthcare.\" Digital transformation has elevated the IT department to touch every aspect of the health system, and now, with new artificial intelligence and automation capabilities to ..."
-    publishedDateTime: 2024-01-26T15:49:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/hcas-6-200-member-it-team-are-healthcare-professionals-first.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "'We have the technology to transform healthcare': Bold ideas from big systems"
-    excerpt: "Now, the largest health systems in the nation are focused on finding ways to optimize technology and leverage data to support the workforce, boost capacity and provide better clinical care."
-    publishedDateTime: 2024-01-25T16:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/we-have-the-technology-to-transform-healthcare-bold-ideas-from-big-systems.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 36
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Artificial intelligence technologies expanding possibilities in health care"
-    excerpt: "Never miss an episode of Getting Health Care Right. Subscribe today on Apple Podcasts or Spotify. Pulmonary embolism kills more patients than HIV, breast cancer and motor vehicle accidents combined, according TriHealth’s Dr. Chris Hayner, a specialist in ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2024/01/26/ai-tech-expanding-possibilities-in-health-care.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "2CBsuQGK0FNPVj+03gU9UDnRXeE6hVhmuFyU+tEX0DDBjzAqM4ySwN73hDrBKTvZgH6rw+dSq3YjsbkIIdm2/Nj3DuXp5QHAUEKB+PCxnUhs1D2Ivx+T84ByGqwQqhtDZQyEqUTHOy9l9j5opIWkiJTcdxqZ3eQ70U9rXInqVFUxEZMmhkz41x08VOU/KReiVc+I2zn9/8YKZNmSvpPfQMSfMNYQU8H8WKaNvdEL9Kdcqn1jE7pOnVi3aDD8QNRQ9G0FL+rgibsknbul3Y/Vl+XJ9PozrvzrqgiM+Mk3oJ5FXYm7GaaMedLD20NNPrLXoAEF/dr61Oc9KLKlEdkIkrfwZjUTWchjaxuR3dQIe/WsJmz5blVU0BOp4t0H1817vdBrqR4sH93eH0rXH3F8m6jcDuwsCpURBvAnuIjN/hBK18Iuiq3GO9+1AWKwWhKNGO6FoXBcz2RmJLo/76yCKTf5aFr/6eABv8g8I8R71eBNIwqZbJOfPg+qDXm9XKphGLw5qge8Dz7CbTLGON8Pqw==;JMra7zfGGe17rty0esOFew=="
 ---

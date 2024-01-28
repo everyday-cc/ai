@@ -7,7 +7,7 @@ originalUrl: "https://www.christiancentury.org/editors/artificial-intelligence-n
 webUrl: "https://www.christiancentury.org/editors/artificial-intelligence-needs-theology"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,31 @@ images:
     width: 600
     height: 315
     isCached: true
+
+related:
+  - title: "Why AI needs to learn new languages"
+    excerpt: "In other languages it is less impressive. When taking the test in Telugu, an Indian language spoken by around 100m people, for instance, it scored just 62%. Open AI has not revealed much about how Chat GPT -4 was built."
+    publishedDateTime: 2024-01-24T19:01:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2024/01/24/why-ai-needs-to-learn-new-languages"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_STD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why AI needs to learn new languages"
+    excerpt: "These are passed to a piece of machine-translation software developed at IIT Madras ... ChatGPT-4 is much better than ChatGPT-3 at answering questions in non-English languages. However it is done, teaching AI to speak more of the world’s 7,000-odd ..."
+    publishedDateTime: 2024-01-24T14:01:00Z
+    webUrl: "https://www.aol.com/finance/why-ai-needs-learn-languages-190103985.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
 
 secured: "eubP0PfBho9Ld7v90/TWzBs+k8xvX+X4mkLLXOQ9CqCYjaauxv9o56MBtI8jODghpQg/Is+2pyf0jEMTAs7zfyvC3eCkOeCL1Q7nmHNJe/UVbiGAyTR8/0XXN5F1bsaVHeI7eNctQyHSNQ5GEOmabGjlCQTaW5C4ZSm8Qw0VVZNrd/olsZH/TMcDqSJQihfJyLYMSJrurLsgy7uddlvMGv4QiWVQNo+UJVf4u8NT+MqiswXQ7Azj4KaKTAgnQEN7DbSv9fqmGJP0y6YIt52/gLmMaAzWxW6eaMpCu6OhlEf9RHg87omRXftVZA4cq6SSp+n5RFKkcBJR1+mOI1M6tX0fLFjajJCXrIPdQYn8yijOl8DgTymtHOeL7P8m1rEFLp42UNghLYomiDdtdiba0G+ybd1j5gr6ISxNzanZLh8wOX7O7xReoRQ/HdxPxzRzUyxLTdMwIOehcaVDrFcBLkYpLmgDd2bqagoJMk0e9l6oGz+7AXwZaixpWT1SWMogI4DdUPAN7lTLCc6YuI4ogQ==;cTtLQolZVl3KIgNRJZrZ0w=="
 ---

@@ -32,22 +32,6 @@ images:
 
 related:
   - title: "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users"
-    excerpt: "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another."
-    publishedDateTime: 2024-01-23T00:15:00Z
-    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/"
-    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users"
     excerpt: "Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another."
     publishedDateTime: 2024-01-24T13:02:00Z
     webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/24/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/"

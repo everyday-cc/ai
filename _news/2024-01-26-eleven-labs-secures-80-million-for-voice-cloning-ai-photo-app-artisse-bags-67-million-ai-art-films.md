@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artisse AI raises $6.7M for its ‘more realistic’ AI photography app"
-    excerpt: "Artisse aims to stand out from apps like Remini and Lensa by producing photos that could be used in real life. However, the startup’s AI model is flexible enough that users could do things with their photos that wouldn’t be appropriate, like changing ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://techcrunch.com/2024/01/23/artisse-ai-raises-6-7m-for-its-more-realistic-ai-photography-app/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "oPl408zYBfoUpKO7Lmgxh6o6LdPkS+AFLXSmQVKdtixPzzfalC5U66XqgSmhMsRGYOh7gBZN9dWzjAOek1YULbPKoaO0hSi/NIUXMGD5zVge7rmLZQBP6PVwZrVM6G9hObxwq/zO2QptUebyDWh00r4IIBg+EI6P7ziw76+DHAadpTlE/1UVl66oD1qR1sUsyo5Q3uICwCZPLMJSmO2vaMXA577GT923/YVMnQKQ4MxNdclkoRnSMem2Y37uy+fUg6BLmKXBhSz3uvB8y0YC2mc9ck5/QahzZFzO9AuEXPUYVmcRJxMWkNXpm+5Xbhryxx4awTvCB6OXhI9mafbG+CgtJYROKhnL99xG3mwW7L3W9/G56kMnybMSKUrpE3FBMrDpBb3tv9vZ+pqJh7RIOH5SeuM1tSb4rFpISbxYfnApZG5p2wxGTWzSag+MktEw0KzIklbyCJamUeTiqUVlcafMQHw4kL9wAJrQg1OEyIcb2QVK4CXlUtZXW8HywByEqsfKzZG2NLFmQMb7PI3cFQ==;pvQRYizzyZ0+8V/7XOeMMg=="
 ---

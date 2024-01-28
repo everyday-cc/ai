@@ -185,17 +185,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Virsae Service Management For Microsoft Teams Now Available In The Azure Marketplace"
-    excerpt: "Virsae today announced the availability of ‘Virsae Service Management (VSM) for Microsoft Teams’ in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2024-01-22T23:05:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2401/S00150/virsae-service-management-for-microsoft-teams-now-available-in-the-azure-marketplace.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 62
   - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
     excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
     publishedDateTime: 2024-01-25T12:05:00Z

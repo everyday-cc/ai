@@ -58,15 +58,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Edge AI could catapult growth for chip manufacturers in 2024"
-    excerpt: "With the potential surge of Edge AI on the horizon, many are wondering if it can catalyze significant market value growth for the top global semiconductor companies going forward. The premium content you are trying to open requires News database subscription."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.digitimes.com/news/a20240122PD211/ic-manufacturing-edge-computing-ai-pc-ai-smartphone-nvidia-ai-chips+components-it+ce.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
 
 secured: "i4LbVizkRfl9rfD16v4exxrUYklDNVfZgf7fuEGJ2IZ4nqs1Kws1ya1v6OCfm1hCsGPvHAhK2QMrJA4HeUb1AH7Vzsq5jH2zGNH65j8ZI6a1ynPJ37FhvnjPVzPlKb+CUJxlgU0z/ushODOABhcHp1UGP8FuwEtJktnX7JoOKXXK9woX8ynY8ydX5AlNPCVDXGLRfXqD2OpUQWz4FFQA1uHIL7eChkY1w7yI9mqm58Pln5/EKYbpDYetrN6MoTV120YUdf0s8hqiGRvGi9IJpPwDFDbwD7ltsOROp54jnB1n150MfClqHGvY0sejDBsd7s8rpLKNTmjlrR6icK6XoHoOU7xaGPLsbfdMwC+YwvhTkCkx+yTl0WUzMGrb5b+QxwbdKEL7dfq6s3XhF1xQ7iLW7aXOy56R23YUdcOxDbPrWr4X1WJsdssUNncPrVWCdQz3mWi50ouWhGBtGxYI+pOA81Oh/DVufJMKzV9r8+7j3c2bxgycAa1/KcK6GmrIWMtfQjD7PZm/oCJIKVoedg==;SfVenf0gXvRRfKc4sYTPSQ=="
 ---

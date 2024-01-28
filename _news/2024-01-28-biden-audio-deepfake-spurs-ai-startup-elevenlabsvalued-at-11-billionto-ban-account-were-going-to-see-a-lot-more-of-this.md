@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-b
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -30,19 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI voice-cloning start-up ElevenLabs achieves unicorn status"
-    excerpt: "A start-up that can clone people’s voices has been valued at more than $1 billion in its latest funding round, with investment from Silicon Valley stalwarts including Andreessen Horowitz and Sequoia Capital."
-    publishedDateTime: 2024-01-23T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-voice-cloning-start-up-elevenlabs-achieves-unicorn-status-xnq7t3x7b"
+  - title: "N.H. Primary Biden Deepfake Robocall Traced to AI Startup"
+    excerpt: "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account."
+    publishedDateTime: 2024-01-27T23:49:00Z
+    webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)"
+    excerpt: "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election."
+    publishedDateTime: 2024-01-24T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
+    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
+    publishedDateTime: 2024-01-23T22:08:00Z
+    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
     quality: 37
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F1c4e999f-c252-4b52-a07a-06717c8c4393.jpg?crop=2000%2C1125%2C0%2C105&resize=1200"
-        width: 1200
-        height: 675
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "cJWaGj5jb1egZo3KilpLhsRMiUECc/E74c4Kfi4hmYIh0Q2VcJi666L5T+gRbiuGyqU8xulqdVNS6GwDe9TZaBXqUwM5Nj4/taaJ50M2LZPvVghglJUuSQ5UqxajCqMov2WYPrC9GTlgoxPu2Of3cfSiKwO07nwNdNZayQa2NFNvdmkpvBqMR9Hjvsf95OghcUIIYf7e2StJ5OMXB8wsfoIbOOa6sWyCfQd+8MPWtOHUU1YTM5HQpxPkgdHjzgkdr4uR1fEf4o8CtrxGN+h/hxRTnbF7DmZ/TfR+dyHskdHo+YOKoRczcAowjQzFiGqrXe1FyJfWtgTJuXkzkjiQ+hv8Jnzhy6CfTUI2a/xmWLg=;3IdSgnInBzruC/7mKjB++g=="

@@ -27,86 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
+  - title: "Cairo-based fintech Zeal raises $4mln funding"
+    excerpt: "The app will use the investment to expand its technology solutions across the EMEA region, following its recent expansion into the UK market"
+    publishedDateTime: 2024-01-23T07:16:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd"
+    ampWebUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
     type: article
     provider:
       name: Zawya
       domain: zawya.com
     quality: 59
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2VjNWRlOTAtYzE1OC00/24/921663488.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
+  - title: "Egyptian Fintech Zeal Secures $4M in Funding via Round led by Raed Ventures and Cur8 Capital"
+    excerpt: "Zeal says it is pleased to announce a successful $4M funding round led by Raed Ventures and Cur8 Capital, along with strategic angel investors."
+    publishedDateTime: 2024-01-23T01:49:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
-  - title: "Arab Financial Services forges pact with Kiya.ai"
-    excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
-    publishedDateTime: 2024-01-23T09:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash.jpg"
+        width: 1600
+        height: 1169
         isCached: true
-  - title: "Kiya.ai expands in the Middle East with AFS partnership"
+  - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-23T10:49:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-kiya-ai-expands-in-the-middle-east-with-afs-partnership/"
+    publishedDateTime: 2024-01-24T07:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-zeal-secures-4m-funding-to-expand-its-technology-solutions/"
     type: article
     provider:
       name: IBS
       domain: ibsintelligence.com
-    quality: 39
+    quality: 24
     images:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
         width: 300
         height: 250
-        isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
-    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
-    publishedDateTime: 2024-01-23T08:54:00Z
-    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 23
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "NOsH6BOLEq5TapNCqWAgihjxnsVr5BnDAqCWQXdvHJsfLu+327lx6KrqNjuypal2N2DTAXsOgIxCOt5H9fHY71SQCCnlHQ1qRqBpvflV/9PN4jtkNs5XhELJ5dYbIuTdeKs5GsPNtCvUfwE4fNiGiVouoHBtaXs2D7P7Tk8+IEWpF5nrWdkguxlwuLvy4UFH0tJ5CyRtQoY4vSOtz4geelw+F7sNomjIW4BfydPvyL1xfwQiRu6rcnaefpAYdEgQ4ankNaZRP1VGeBWJA60Gk0kRAYxffKQcicgc945b/Di01iuwedkSRb/S4AHUPDxLH1n7PzxrFIUxtMaxPduEmV7o+xB/G2q0S8PecS2kVgc=;qYkNvdUUGQe1/tYygu2sEg=="

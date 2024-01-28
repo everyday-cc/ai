@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/science-and-technology/2024/01/24/why-ai
 webUrl: "https://www.economist.com/science-and-technology/2024/01/24/why-ai-needs-to-learn-new-languages"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
+  - title: "Artificial intelligence needs theology"
+    excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
+    publishedDateTime: 2024-01-26T07:32:00Z
+    webUrl: "https://www.christiancentury.org/editors/artificial-intelligence-needs-theology"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
+      name: The Christian Century
+      domain: christiancentury.org
     quality: 39
     images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
+      - url: "https://www.christiancentury.org/sites/default/files/styles/facebook_ratio/public/images/022024-ai-theology.jpg?h=4bb898aa&itok=xMLz5fBL"
+        width: 600
+        height: 315
         isCached: true
   - title: "Why AI needs to learn new languages"
     excerpt: "These are passed to a piece of machine-translation software developed at IIT Madras ... ChatGPT-4 is much better than ChatGPT-3 at answering questions in non-English languages. However it is done, teaching AI to speak more of the world’s 7,000-odd ..."

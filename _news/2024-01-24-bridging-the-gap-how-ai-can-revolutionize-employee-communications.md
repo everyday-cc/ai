@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-ho
 webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,50 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
-        isCached: true
-  - title: "Arab Financial Services forges pact with Kiya.ai"
-    excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
-    publishedDateTime: 2024-01-23T09:19:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Kiya.ai expands in the Middle East with AFS partnership"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-23T10:49:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-kiya-ai-expands-in-the-middle-east-with-afs-partnership/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
     excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
     publishedDateTime: 2024-01-25T08:42:00Z
@@ -80,36 +36,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
-    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
-    publishedDateTime: 2024-01-23T01:09:00Z
-    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 24
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
-  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
-    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
-    publishedDateTime: 2024-01-23T08:54:00Z
-    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 23
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "Srh4diVC1hVV5HeLDLVLi6gQE4MTk1F/uPAuxWRRDUo6HmT9TmVyR37t87zTMAU9LA0JiO6OrpNdMwkmVn1muEqqw1doo04Qzztc39jBPvCGtVlaiEiQJ8NzLSfEMqURVrQyZy1lJGsU7ienFjLVrvbWxnvF1xxaI5ZZFF//+UghT03Y69LLTG1BK1HG3GQMB1L5I4Zu6lzPDsbluhHUKt9vvPB6vObq1CijMOfE3zqOUxGi4gesREWelqHyy/Idi0hIua4SY50Fkk4B3iylmJsCMcWwl97xhDZJX0S/9niEGrgy3VdmQBbzz/pg6ALQZQT3AJ7GyIumRxptI1O46yUkiks+SWHveYObN6KP5Ds=;EDaKuY9IYe190yZkFda9ow=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/renewable-energy-types/"
 webUrl: "https://www.ibm.com/blog/renewable-energy-types/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

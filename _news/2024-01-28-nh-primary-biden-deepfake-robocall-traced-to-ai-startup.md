@@ -1,0 +1,78 @@
+---
+category: news
+title: "N.H. Primary Biden Deepfake Robocall Traced to AI Startup"
+excerpt: "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account."
+publishedDateTime: 2024-01-27T23:49:00Z
+originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
+webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
+type: article
+quality: 67
+heat: 97
+published: true
+
+provider:
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg"
+    width: 945
+    height: 630
+    isCached: true
+
+related:
+  - title: "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)"
+    excerpt: "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election."
+    publishedDateTime: 2024-01-24T20:38:00Z
+    webUrl: "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
+  - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
+    excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
+    publishedDateTime: 2024-01-27T16:01:00Z
+    webUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/"
+    ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 59
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
+        width: 840
+        height: 582
+        isCached: true
+  - title: "The Biden Deepfake Robocall Is Just the Start of Our AI Election Hell"
+    excerpt: "Voters all over New Hampshire seemingly received phone calls from President Joe Biden in the lead-up to the state’s primary on Tuesday. The call—which came from the phone number of a former New Hampshire Democratic Party chair—seemed to urge people not to vote in the upcoming primary and “save their vote” for November’s general election."
+    publishedDateTime: 2024-01-23T22:08:00Z
+    webUrl: "https://www.thedailybeast.com/the-biden-deepfake-robocall-is-just-the-start-of-our-ai-election-hell"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2241,w_3984,x_0,y_35/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706047633/GettyImages-1713792502_lwrabu"
+        width: 1480
+        height: 833
+        isCached: true
+
+secured: "LqC1nwrvfMeK8jD7kb0xXRa3QDZZxBxeFjIWa3crBax9c4+OK9m53Rnor4Z0CzmVbmbRLHJcCZacj2pLm7hVDEQ+3JOz3SDL28A77ugXfVpS3utvDnLV3G4OCB3Rx701hXIzaOEmg/ojyx8ZP4YkUFBqL+DLdvXv9cjVzgQJoII/zD7bf4ddZdn+vtSCD34cBF+bsiSpEf4QgstSC67LUX+n8k97keKbqeYAynahwlr8Ps25+CyFmn9pvQrPH2tLboDUX0mVryUazRYd5ZuAZnJbTvR52lt20qF8MbTu87TUeH3CUhXKZ7F7E/p39weatqQzldwrmvg19b8p3ETFhWXy7tbt/qG/Lmooy77BfFk=;e8ugZxk8wYv9P8FOh02hgQ=="
+---
+

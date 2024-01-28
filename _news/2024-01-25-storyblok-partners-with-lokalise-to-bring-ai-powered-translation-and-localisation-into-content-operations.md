@@ -61,29 +61,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
-    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
-    publishedDateTime: 2024-01-24T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 30
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
-    publishedDateTime: 2024-01-23T06:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "ozInDCl49FFbaZrHR6SV6hFteBUj5yWwsJKJs1otnZjN8tO24jpZWf8b5ypGrdRKoK9uh2uywvNzkGeQktoSSq4uxpuT+FrP9W08Nv8dwi/Qh1d1oW8JBeYIHTZgSuns4S8Q+ZEyy0rKl2NvY4c2LTRUfPHTuQlPfn/bb2YOj+Sci/2hED6hNir4qdQLgbve81psXbpywbvyl1aFlVlXRn2lgBEW6nvaHdSmwbCk8TBbNhaajWZYQ15Drbn7A0kOdPdqIdz4LMPhzf1Zikq77JDjQYCEMCcpHJtu6PcF3t++rW/6zchIZ0do0fj070AEWChht6+1W8/O/zhn8dCqXa2dF5j3lawJeofZ+APWqlY=;oNyaJWFf1W6/hH7Hq/MP4g=="
 ---

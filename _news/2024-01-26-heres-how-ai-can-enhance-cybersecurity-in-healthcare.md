@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence and immunity"
-    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z

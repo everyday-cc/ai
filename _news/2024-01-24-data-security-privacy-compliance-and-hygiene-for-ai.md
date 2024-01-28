@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial intelligence and immunity"
-    excerpt: "\"Partnering with IBM allows us to push the boundaries of artificial intelligence and health sciences research to change the way we develop and evaluate targets for cancer therapy.\" For decades, scientists have been researching how to better identify ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/01/240123175441.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
     excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
     publishedDateTime: 2024-01-24T22:29:00Z

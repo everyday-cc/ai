@@ -57,6 +57,22 @@ related:
         width: 1600
         height: 1169
         isCached: true
+  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
+    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
+    publishedDateTime: 2024-01-23T01:09:00Z
+    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 24
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
 
 secured: "K8hgGI/4zOa5gXeowk/ZQAG9fFPEhXcQiMrSdRiPx65X+w1cozKEsXLWGFTsz/VErU6Yia8kZ1qsgNBl4jgbpveKZRHPRql7eUMEaTtjv3ACPB8+cjAg/RVwBiJQJeH8kVq+sBrJQZ00jiZSd1Ccd+mHi6Dj2g2dkQXnknIuBjWR/w7uizFW70la7L1HFcmtpTIuDQ8MLlNL7hIXD7cbaa7YnnR0yEFNJThES5pvNtifOPoXcmAg8U6jsBn9igeBntVjU2ZHQCDlfgLXSNPUxTAcqihpb7+wDSzdG9sGUCCulHP0imf+w/x6wd8ymFb+vgwA43zbf8TfisRMfyebaq9eTq7B06KdYe/4D3zVZJz3yUSInTvR492+oQQN+zxv2/ont2do4UgArBpMp34LKmi9e07P19OvEGAw/Tk5mlX//Z0Q9nfeNaRvQR73orvQozWa31krclxJCqAD5ujxmp05LcMF+6uzrUiLLv6JRianHYZpFDauKu8jXQ7M3nvVqZCH7++btm9ThK49jFuyXQ==;iXD473eoGE2/ZkMbsS9erA=="
 ---

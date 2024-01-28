@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Gulls swap natural for urban habitats, machine-learning study finds"
-    excerpt: "Using machine learning will help us, hopefully, to advocate for improved wildlife conservation,\" Huettmann said. More information: Falk Huettmann et al, Model-based prediction of a vacant summer niche in a subarctic urbanscape: A multi-year open access ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://phys.org/news/2024-01-gulls-swap-natural-urban-habitats.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 4
-
 secured: "uuZEYy0eSZu6etVe0TcoStMW1y1UYLe2IOLbwvDgD+q69Rc2kX+MCCQY0JYxZDikolxKpQcYz7wIHHBS+IL/YbbousRpaUsFN2QmmcmGT90bQnNxmVmC5I5E7Y0h8TXSK8hE8d2pfsWeDSWPON87RbThUzkahf7x/5QbU3umk8yEQTnOr0VMt6qsfw7REshXgITOrZWMTcEZjnRLchXyzECgowm6GCcHg4eLbwF67yi2T0Fpp9a6pUYUb+TdMMpKfs1uIpdCtQPNK/9uyfLbR0Mu38HNH+QijpliNkM10Tfy849ARYfjJ695LM42VQ1nK6Lxvk2mhLpOtuiLRO8Z736gFg0un4bR/zKj17L3J7o=;y8BgJIEU5pkvdACqE6DD0Q=="
 ---
 

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Preserving indigenous languages with AI"
-    excerpt: "Māori people’s indigenous language, known as te reo, is being preserved with AI. Te Hiku Media is developing automatic speech recognition (ASR) models for te reo, which is a Polynesian language. The efforts have spurred similar ASR projects now underway by Native Hawaiians and the Mohawk people in southeastern Canada."
-    publishedDateTime: 2024-01-23T01:00:00Z
-    webUrl: "https://techwireasia.com/01/2024/preserving-indigenous-languages-with-ai/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2024/01/AI-bot-using-indigenous-language.jpeg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "Why AI needs to learn new languages"
     excerpt: "In other languages it is less impressive. When taking the test in Telugu, an Indian language spoken by around 100m people, for instance, it scored just 62%. Open AI has not revealed much about how Chat GPT -4 was built."
     publishedDateTime: 2024-01-24T19:01:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_STD001.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Artificial intelligence needs theology"
+    excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
+    publishedDateTime: 2024-01-26T07:32:00Z
+    webUrl: "https://www.christiancentury.org/editors/artificial-intelligence-needs-theology"
+    type: article
+    provider:
+      name: The Christian Century
+      domain: christiancentury.org
+    quality: 39
+    images:
+      - url: "https://www.christiancentury.org/sites/default/files/styles/facebook_ratio/public/images/022024-ai-theology.jpg?h=4bb898aa&itok=xMLz5fBL"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "8kYh46rhAvMVY9pw65vQ88aGD5xI6v9TWc3HMKd48G8ws/RzQ9j7oHqi4uTUPscGdkiZtJ1lXIQc5NCiNdzDRDQWvLS0Epkkii0K5v1GlAupGLzVvwsMqMCZFzlZCJYGw5UAAvFIPVdj4VcmJPVyVncp3gczjLA4rV27YqjvYGIKq6sUxtv7Vl4BHsT9nysaOEdKIEKsupcH+AVHe1CpMFXo1TbI9iEucvUivd+RLjgI1QkO1QFwXqz5s83HDlyvk3aSbRFa9EReYUSZd+Xtli2yaqOfD6kW9MZytlc2mE0rGrd/Gj1r2ybx7cEyZeTSswRNZjP/4/SOyhmSJJG0IYnLwkb8PFhk3tOSS6RFgcw=;kPCcZiP6A9cJBAv1pylCHg=="

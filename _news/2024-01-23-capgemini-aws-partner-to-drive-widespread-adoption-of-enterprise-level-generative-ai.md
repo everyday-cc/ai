@@ -53,29 +53,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
-    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
-    publishedDateTime: 2024-01-24T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 30
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI) Generative AI service along with new innovations that make it easier for enterprises to take advantage of the latest advancements in generative AI."
-    publishedDateTime: 2024-01-23T06:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/23/9950147.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
   - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
     excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
     publishedDateTime: 2024-01-24T20:40:00Z

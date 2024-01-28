@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stor
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
 type: article
 quality: 73
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2024/01/AdobeStock_400019282_Editorial_Use_Only-www.jpg"
         width: 1000
         height: 450
-        isCached: true
-  - title: "Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI"
-    excerpt: "\"We are proud to collaborate with Sevilla FC to use the power of IBM watsonx generative AI to help enhance the accuracy and effectiveness of their player recruitment process,\" said Ana Paula Assis, Chair and General Manager at IBM EMEA. \"With the ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.asiaone.com/business/sevilla-fc-transforms-player-recruitment-process-power-ibm-watsonx-generative-ai"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 41
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/Sevillla_FC_watsonx_Social_0.jpg?h=c66d06c9&itok=qiGzN5iF"
-        width: 600
-        height: 316
         isCached: true
   - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
     excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."

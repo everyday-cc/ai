@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-mean
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Edge AI could catapult growth for chip manufacturers in 2024"
-    excerpt: "With the potential surge of Edge AI on the horizon, many are wondering if it can catalyze significant market value growth for the top global semiconductor companies going forward. The premium content you are trying to open requires News database subscription."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.digitimes.com/news/a20240122PD211/ic-manufacturing-edge-computing-ai-pc-ai-smartphone-nvidia-ai-chips+components-it+ce.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 34
   - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
     excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
     publishedDateTime: 2024-01-26T19:18:00Z

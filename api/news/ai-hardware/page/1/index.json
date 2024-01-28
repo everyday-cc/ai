@@ -149,7 +149,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -305,7 +305,7 @@
       "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -591,58 +591,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-25-deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora.md",
-      "title": "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)",
-      "excerpt": "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/",
-      "originalUrl": "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T20:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
       "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
       "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
@@ -799,7 +747,7 @@
       "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1485,6 +1433,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
+      "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
+      "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

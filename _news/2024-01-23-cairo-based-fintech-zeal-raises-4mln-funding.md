@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-r
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash.jpg"
         width: 1600
         height: 1169
+        isCached: true
+  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
+    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
+    publishedDateTime: 2024-01-23T01:09:00Z
+    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 24
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
   - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."

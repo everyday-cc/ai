@@ -23,6 +23,34 @@ topics:
   - AI
 
 related:
+  - title: "Arab Financial Services forges pact with Kiya.ai"
+    excerpt: "Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership aimed at serving AFS’s regional bank clients alongside incumbent financial institutions and neo banks."
+    publishedDateTime: 2024-01-23T09:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Kiya.ai expands in the Middle East with AFS partnership"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-23T10:49:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-kiya-ai-expands-in-the-middle-east-with-afs-partnership/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Emerging AI technologies that are reshaping financial services"
     excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
     publishedDateTime: 2024-01-24T21:19:00Z
@@ -37,26 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UAE President issues law establishing Artificial Intelligence and Advanced Technology Council"
-    excerpt: "The council will be responsible for developing and implementing policies and strategies related to research, infrastructure and investments"
-    publishedDateTime: 2024-01-23T02:42:00Z
-    webUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f"
-    ampWebUrl: "https://www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/policy/uae-president-issues-law-establishing-artificial-intelligence-and-advanced-technology-council-ee07xx8f?amp=1"
+  - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
+    excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
+    publishedDateTime: 2024-01-23T08:54:00Z
+    webUrl: "https://startup.outlookindia.com/sector/fintech/kiya-ai-expands-global-presence-in-middle-east-and-africa-region-through-strategic-partnership-with-afs-news-10357"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 26
-  - title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
-    excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
-    publishedDateTime: 2024-01-24T17:09:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 17
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 23
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1705998950.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ukrhKdnITYM7QsM3C3iT32kEaKQmDU8Lx1TX3l0P2jwLnh8Fl7Vno2H/Ve6VDrdR+FhHBU6yqXk75Qd9qwx0th1je1skQ/BFOBBhuA6HiQRHMrhLVM1h8nnOaJj+/r3VdxA7aAAdhSBp/8KA7quqfvcAri42O5szhxtxRGkFvwKzJzXzulbJbL5nEzJJtOXhexnuohmFFTs6eG2+SmAFODXxGVmAgb1N+oOeoS0jFLERA/gTOpBpqQCTSdQglFbtQcDarJ8Y17nILFgBj9NdBtv+1pHg0XRuWuF9WSNfaJE9J+HKdxJmNiBEgHAMAAPVybXDnoJ//Pug4T+KZ1F1KiV3qtANG/64+QbZ8+ctbPI=;TRLuValWYyJESW3VLHyBJw=="
 ---

@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-28-nh-primary-biden-deepfake-robocall-traced-to-ai-startup.md",
+      "title": "N.H. Primary Biden Deepfake Robocall Traced to AI Startup",
+      "excerpt": "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
+      "originalUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T23:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-28-a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend.md",
+      "title": "A Psychologist Reveals 2 Dangers Of Falling For An AI Girlfriend",
+      "excerpt": "AI girlfriends are chatbots, powered by large language models like GPT-3, or more recently, GPT-4, that can simulate coherent and diverse conversations through voice, text or images. These are virtual companions that users can “train” to be their ideal girlfriends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b531dd28205bb1fc4614e6/0x0.jpg?format=jpg&crop=2452,1150,x0,y227,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
+      "publishedDateTime": "2024-01-27T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-28-the-ai-hunger-games-is-coming-to-your-workplace.md",
       "title": "The AI Hunger Games Is Coming to Your Workplace",
       "excerpt": "We must train 100 million people to develop serious AI skills over the next 18–24 months.",
@@ -231,6 +333,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
+      "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
+      "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Abstract_art_of_a_business_man_IT_guy_looking_at_a_co_b0eba95a-e87d-4907-b704-c6c0ccfb5b69-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T05:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -680,7 +834,7 @@
       "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "",
@@ -824,7 +978,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1061,133 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-decoding-the-future-unravelling-the-intricacies-of-hybrid-cloud-mesh-versus-service-mesh.md",
-      "title": "Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh ",
-      "excerpt": "Better understanding the nuances of Hybrid Cloud Mesh versus Service Mesh in the realm of modern enterprise connectivity.\nThe post Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
-      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-what-is-vegetation-management.md",
-      "title": "What is vegetation management? ",
-      "excerpt": "Unmanaged vegetation can be a threat to infrastructure and the environment—learn how AI and analytics help organizations reduce the risk. \nThe post What is vegetation management?  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-aws-to-invest-10-billion-for-two-data-centres-in-mississippi.md",
-      "title": "AWS to invest $10 billion for two data centres in Mississippi",
-      "excerpt": "AWS' Mississippi expansion plan comes days after it announced a more than $15 billion investment in Japan, and Google's move to set up a data centre just outside of London for $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/articleshow/107170105.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/articleshow/107170105.cms?from=mdr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-231444,msid-107170304/aws.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/aws-to-invest-10-billion-for-two-data-centres-in-mississippi/amp_articleshow/107170105.cms",
-      "publishedDateTime": "2024-01-26T12:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

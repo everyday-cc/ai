@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/transportation/after-a-year-of-setbacks-wh
 webUrl: "https://www.govtech.com/transportation/after-a-year-of-setbacks-where-do-robotaxis-go-in-2024"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1440
     height: 700
     isCached: true
-
-related:
-  - title: "What’s next for robotaxis in 2024"
-    excerpt: "In half a dozen cities in the US and China, fleets of robotaxis run by companies such as Waymo and Baidu are still serving anyone who ... industry in 2023 and launched a new trend: Chinese self-driving companies are now racing to sell their autopilot ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/"
-    ampWebUrl: "https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/240117_Robotaxis.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "Mv9wUiiRTZwLglIFbIl3CIJQyVntVG3jxiHwLj12XPpH8SK6pfc/kLtNue05rGfVe3QQzYyz5MT4OWk4dVvJ0idYOJT+B8yjUdC+7IRfKjaOYcgtnCOTH+BrfMe8qtXeYztDrWWh7tCL3nnO5xKGtz483pWXHh/0V7zKYpnZggTySqkMvbUNqRrPXbz/y3IH9jSkGFKJ8T4WdvIFfvnX6ERML3qostwWbtYfEcI1OQXQhzxpdo1rXpeUrkiC6yCVHpBwhaHO5igSi+rOzl4uFLQdWkVIEWdbKOBhY75Rgspsv8O9eUzyUu6ck6Z98k5d9j/7buPLaoWA65L10a9h0w91w3Hmcovht+ouGJrgea5yJybHP6xvwBTgDNxw38EOfxqd1AbVdRZBDJPwFwG4BTjYjMMFfSyuloR3Cr9CVoHH393Mc1MvsTMwnawgrv2w/0azaEpVnHTXytcAXFsw/oVD4pFmiG5hMpofRaKXH9oqr53EMO+eJcCB+PY3d1tG8Dh3Xf8PoA6BvJjQW2aLyg==;SC8URj2za3TJYCR6fLB8xA=="
 ---

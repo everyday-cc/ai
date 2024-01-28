@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-service
 webUrl: "https://www.finextra.com/pressarticle/99380/arab-financial-services-forges-pact-with-kiyaai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region"
-    excerpt: "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ..."
-    publishedDateTime: 2024-01-22T23:59:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2"
-        width: 829
-        height: 553
-        isCached: true
-  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
-    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "Kiya.ai expands in the Middle East with AFS partnership"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-23T10:49:00Z
@@ -64,36 +39,29 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
+      name: American Banker
+      domain: americanbanker.com
+    quality: 39
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
         width: 1200
-        height: 676
+        height: 630
         isCached: true
-  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
-    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
-    publishedDateTime: 2024-01-23T01:09:00Z
-    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
+  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
+    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
+    publishedDateTime: 2024-01-25T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 24
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Kiya.ai Expands Global Presence In Middle East And Africa Region Through Strategic Partnership With AFS"
     excerpt: "Arab Financial Services will use Kiya.ai's deep domain expertise and new-age banking technologies to expand its diverse products and solutions portfolio"
     publishedDateTime: 2024-01-23T08:54:00Z

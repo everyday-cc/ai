@@ -130,6 +130,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Browser alternatives Brave, Arc, add new AI integrations"
+    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
+    publishedDateTime: 2024-01-27T05:42:00Z
+    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "North Korean Hackers Spotted Using Generative AI"
     excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
     publishedDateTime: 2024-01-26T22:30:00Z
@@ -230,6 +244,6 @@ related:
       domain: cointelegraph.com
     quality: 18
 
-secured: "PNYqk8UGdW1C837rujdahZN6WfIX5pMVgaMBXXPC8+TbW2ItLHtSmmbKg7taYzuHg2ClfWrdD/eKZrItgz0L7dHs1YGgcnWnt/oLpwsybk2oSByh8PII77jlyk2dywbSjyoH8+yR8VlzaEgEQyWGWdDFPArkOD3cCWMRazj08UtpJt7K8bYNdJyQtdX6agl5EBkKI1eiof8XReNiFCYLt+OiDY3cvx97ODjukAuaoiY2mVdjcMo3PSaDzaXJLyULhI2e/QKjDkypCvDA6ojM8oJxifGEdsjoVRIl/Q68uZkVQ1onshhCwUfttfQdDuGI9/SDoF02f4ieB0z1kQaqBi9MyF7TuvtDPUo9GKAMh9I=;FLaK9ewFAsxsKf9SfsLZmQ=="
+secured: "NcEMP8BdLZA8gxUYPz9Scc1Nlm9A+uZ9P1YvOrlshk3+pbKy52FMM9PVib7JuVUp2+dmTcZPRgkYpF6tKuCdz6EwzgsiUFYl9JqzifcBHwhRV8ZLqF+KnLRlLQaeez9YdisyrM4g1eDUTcFjhn2VUx6ddyLRxGYSVyKX5IszVqdTMHTdAT7BryRuphNzC46E/wfdL8sABsbdT6eb83DvcaPSFuAd4ZyMooc+aDJAxK0QHLqXDMoQiQ1tIsK+mgBj1O2CVoeDpdtOvuX32g3wI/mSW+avMMmMT9wTTf06YHcHPSmO6/HwcSQ/RJcjxujrEseZMlF8tLtLDyThlm/BLjm7KUJu3vSRheL9YeM3l5UVSQnSUDeT8HgNA5vXdnW5fp6Z1qd8B+oWL+ieDb80RnaFUx9Cs/HkHnai3QPgZVdbsXOA+Mcl4vdDostG2ZbmPpDroxunq9sPEKm5Tv3iTmzQtRldkONPbrud76Dsp/ANm/QdzKmz1PZZE/ZduvMVw6pkkpodiNCKEXGmITjT+w==;h+9gUA199fuk8c2dB4UHsQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/obsessed/love-machina-review-meet-th
 webUrl: "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human"
 type: article
 quality: 54
-heat: 76
+heat: 74
 published: true
 
 provider:
