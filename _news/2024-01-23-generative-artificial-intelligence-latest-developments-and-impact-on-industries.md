@@ -78,6 +78,15 @@ related:
         width: 737
         height: 737
         isCached: true
+  - title: "AI and healthcare communication"
+    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
+    publishedDateTime: 2024-01-28T02:26:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 36
   - title: "The generative AI smartphone age is here"
     excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
     publishedDateTime: 2024-01-26T15:11:00Z

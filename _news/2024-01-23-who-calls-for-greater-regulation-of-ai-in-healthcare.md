@@ -52,22 +52,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Lexicon on AI: US NIST crafts standards for making artificial intelligence safe and trustworthy"
-    excerpt: "Q: The AI risk framework was voluntary but the executive order mandates some obligations for developers. That includes submitting large-language models for government red-teaming (testing for risks and vulnerabilities) once they reach a certain threshold in size and computing power. Will NIST be in charge of determining which models get red-teamed?"
-    publishedDateTime: 2024-01-23T01:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/lexicon-on-ai-us-nist-crafts-standards-for-making-artificial-intelligence-safe-and-trustworthy-71705946348111.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 60
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1705974648319.JPG"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "4u/P+ZhfM6nvb9Rzujk5muHFBTewDYWW9VDLxt+Aygguvgn3La+enfYT6hAW5eqynhV1z/feyPUX08WkdncSg82wK2dAoXhXaa7Wm0DCiXIdOgFzTkJMXBANtP9XiTBdgAm+2nfSjzjghf5+4lTvhJwUn2KokgW9O4F7gpOSk99znqN51Axdzrn569fw/bFEDNxII095qJNyltIIQ1zlWSkWfrNqf5ganAgz9ktcrA7QGsInZYR7qEfSHEJReyaXhMj80icLmwjcs1HHh+1+q5rEwEBufVPxf7k1rwWeSeM5ZuEOxmGGyxQzYlTBfl+HKf9te6zyczC/uESHVppTW+rQVjCrGRKmvjZsoZ27iCNPXVXWr0VMkqobKXfK0SqJOwzzWu7kaPs1IcKdfkC0icxBFzehcvf/Dkly5Ww+cE8i9YbneqVre/cDKvqHMKvzWbiZ/W61eoA626KKtysh16uJm7wokr0YUYfhNn+wux3+G+tZsvJknJVcHWUt6SaBwH9HAPlD8e7FfNPkiYwq2A==;5VPHgAZMbRIY4tYrR8ITFQ=="
 ---

@@ -54,20 +54,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Time to stop the doublespeak on artificial intelligence"
-    excerpt: "We might be in awe of artificial intelligence’s potential or dread the changes it will inevitably bring but, as Taoiseach Leo Varadkar’s courting of Sam Altman at Davos showed, the one thing we cannot do is ignore it."
-    publishedDateTime: 2024-01-23T05:00:00Z
-    webUrl: "https://www.irishtimes.com/technology/2024/01/23/time-to-stop-the-doublespeak-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/2IY2SJAczVE8rRGdIcgcG-1I9QU=/1200x630/filters:format(jpg):quality(70):focal(3430x1195:3440x1205)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YIZTH5U22FZPK4QFBKIWDYIAXM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
     excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
     publishedDateTime: 2024-01-25T00:00:00Z

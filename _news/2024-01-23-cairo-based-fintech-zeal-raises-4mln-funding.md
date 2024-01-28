@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-r
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/cairo-based-fintech-zeal-raises-4mln-funding-otry2lvd?amp=1"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Zawya
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Egyptian Fintech Zeal Secures $4M in Funding via Round led by Raed Ventures and Cur8 Capital"
-    excerpt: "Zeal says it is pleased to announce a successful $4M funding round led by Raed Ventures and Cur8 Capital, along with strategic angel investors."
-    publishedDateTime: 2024-01-23T01:49:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220556-egyptian-fintech-zeal-secures-4m-in-funding-via-round-led-by-raed-ventures-and-cur8-capital/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/Abu-Simbel-Temples-Egypt-aussieactive-unsplash.jpg"
-        width: 1600
-        height: 1169
-        isCached: true
-  - title: "Fintech major Kiya.ai expands global presence in the Middle East and Africa region through Strategic Partnership with Arab Financial Services"
-    excerpt: "Bengaluru: Kiya.ai, India’s leading Fintech company globally recognised for its AI-based omnichannel banking, core-banking tech, regtech, and metaverse solutions expands its global presence across the"
-    publishedDateTime: 2024-01-23T01:09:00Z
-    webUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    ampWebUrl: "https://indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fintech-major-kiya-ai-expands-global-presence-in-the-middle-east-and-africa-region-through-strategic-partnership-with-arab-financial-services/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 24
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
   - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-24T07:32:00Z

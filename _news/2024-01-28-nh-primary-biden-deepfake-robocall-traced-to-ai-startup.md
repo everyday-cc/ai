@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 97
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,6 @@ related:
         height: 833
         isCached: true
 
-secured: "LqC1nwrvfMeK8jD7kb0xXRa3QDZZxBxeFjIWa3crBax9c4+OK9m53Rnor4Z0CzmVbmbRLHJcCZacj2pLm7hVDEQ+3JOz3SDL28A77ugXfVpS3utvDnLV3G4OCB3Rx701hXIzaOEmg/ojyx8ZP4YkUFBqL+DLdvXv9cjVzgQJoII/zD7bf4ddZdn+vtSCD34cBF+bsiSpEf4QgstSC67LUX+n8k97keKbqeYAynahwlr8Ps25+CyFmn9pvQrPH2tLboDUX0mVryUazRYd5ZuAZnJbTvR52lt20qF8MbTu87TUeH3CUhXKZ7F7E/p39weatqQzldwrmvg19b8p3ETFhWXy7tbt/qG/Lmooy77BfFk=;e8ugZxk8wYv9P8FOh02hgQ=="
+secured: "NrUA4n+XKtpOnK7Ky94F1WlSZykW0sWnHmcjvXpfncQe9DVPWe7Dp0lba4Tbk12wOjFutaWFPOt6qmFnPzkHtwE/gQpj8Kj4a++JbGFGgG/NwKdMxFANBm5/LzqRWq8Mw89lItWl/7fUHYY5bPn8xRqn7sK+iqiGQGWQsDJ2/y4NzswH4qis6Iyl8ox9EGP7IWcjLx4XwlQRjh5ipBs1/Rp5e72DI5PeQ8tdEwLQ0xJkX42yeFX9vCa/dxIfBBOKKjLkES0+LEfW3Lo3yQyBvKGlrnGniLfMFq2pn0643xbbrzEDiO6n5jSqamuXc/HtjuVyGt8KgOV5XZihCj4hZT216VofmAA5UnN9Y8vtMx3ZbfdJCcAv+lqYw6bd1bHI2WRF9i2QTzTc8CYTqXtjW7Ge1m4OzxdN879VGHR+AWpadr6+r2KJW9QL831SLxlOnmakOhT/h8zqI5VlFc1PsgWNI1SrFf9LXedv8L+gkHEj/HzvReziJjeL7dhCnvm5eY4N9OzVvJlR73+rHbrCyA==;fAie1t7BvrzP0v7MthBwPQ=="
 ---
 

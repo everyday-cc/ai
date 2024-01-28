@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Is Sam Altman Entering The Chip Business?"
-    excerpt: "Sam Altman is reportedly in discussions with key investors, and TSMC, to launch a new chip venture to design and build semiconductors for accelerating AI workloads."
-    publishedDateTime: 2024-01-23T03:03:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/"
+  - title: "How Blockchain And AI Are Set To Transform Small Businesses In 2024"
+    excerpt: "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates."
+    publishedDateTime: 2024-01-24T17:02:00Z
+    webUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65af2c370b3956c11331aae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1318
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b14fe78b7bfa33c952a2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1354
         height: 900
         isCached: true
-  - title: "OpenAI CEO Altman consulting with Congress on adding chip factories to meet AI demand"
-    excerpt: "OpenAI CEO Sam Altman has been in discussions with members of Congress about building new semiconductor factories in the United States to keep up with the growing demand for AI programs."
-    publishedDateTime: 2024-01-25T17:04:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/2817557/openai-ceo-consulting-with-congress-chip-factories/"
+  - title: "Blockchain AI Market Demand Will Increase to 2030 Evaluated by Global Top Players Like Cyware Labs, Neurochain Tech, SingularityNET, Core Scientific"
+    excerpt: "As there is increasing in the blockchain AI platforma€™s adoption similarly the demand for these services is expected to rise. The Infosys High Tech practice enables microprocessors, manufacturers, and system-on-chip products to achieve operational ..."
+    publishedDateTime: 2024-01-25T18:48:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/blockchain-ai-market-demand-will-increase-to-2030-evaluated-by-global-top-players-like-cyware-labs-neurochain-tech-singularitynet-core-scientific"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 47
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 0
     images:
-      - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
-        width: 1024
-        height: 683
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Ek4CmjnH3VctgN45NH1Kan4O4xZPlWaOBGlbKmxr/9nqrUO7LdO695qTNYpo/KYTYC6R/t5lAvMpPTXNwIh5KaN5Oe/L6nr0cL9OKCgdx+4QjvL0uCsIyBstohzjPj94G9jUTAihNkcCs6mNvJL1PNVUS5wdDrxTDuqovtmhlbBDDsY7R8Um58m/f7Zwk5mXX+K30AFxStT5pkCdOKDVYK81obo0vmXb/j0EIV9NedR619tJDFZN9FSZ9B1C7QmLUaFRsjz4Fgb7I95reNxwUu13W1BYaWTAgdEdBz/qY8VwrcaOcA9gqeEbG4rmGLJw+uVluqjsx+15DPMj3xnF3niR98uFW7WM2HJy07uhO7ugKKzJ5/Ga9c+6hUFRQJua7n/EKTHwaaSdkoDHU+lLpEIIuNOi7tz5z9Adq3c3oa/ZfawW2MqKw7wHtDlM2GOY9qnZVb9Kw3xESrXee7tHvBBf29bHp8hYtYO0yqca2lH3CrwyP6u9eb33qXgy1WKzuE3BQ3Vfg6CyKugBcnoyTg==;qrVLgQErWPBFUxViNz3ccg=="

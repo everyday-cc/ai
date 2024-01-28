@@ -64,20 +64,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Time to stop the doublespeak on artificial intelligence"
-    excerpt: "We might be in awe of artificial intelligence’s potential or dread the changes it will inevitably bring but, as Taoiseach Leo Varadkar’s courting of Sam Altman at Davos showed, the one thing we cannot do is ignore it."
-    publishedDateTime: 2024-01-23T05:00:00Z
-    webUrl: "https://www.irishtimes.com/technology/2024/01/23/time-to-stop-the-doublespeak-on-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/resizer/2IY2SJAczVE8rRGdIcgcG-1I9QU=/1200x630/filters:format(jpg):quality(70):focal(3430x1195:3440x1205)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/YIZTH5U22FZPK4QFBKIWDYIAXM.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and the arts"
     excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
     publishedDateTime: 2024-01-25T10:59:00Z
@@ -97,6 +83,6 @@ related:
       domain: technical.ly
     quality: 10
 
-secured: "sAY7C3rD9aNb1XYuxZttbepO4qzkFAHPN+TTjZoB5bZOo8vdHqynR3i6i2gaBCgZzgZCN++czwmxFfE4//Mk8AFm5AsBMGkzpbVxHzTrMwtuPEQ8l9VVJJB31Yb5UZSwSgpIXEqX82rf3dNIVNy4+am90RHVmQBiTOGdG79ZH2zH1aj6xyOoPPsSpkes0OAwWPQeSXIiRKe/IAUheCLjXChcwIn1Y4LjQGm/FFEUHa6mo/wt2n4H4tuP11au5koDajYOQj0YuS1Jw7tJ5FeBEZIZlEOVWf1MELKPY1fDaUZKrtCqB6I+YBYWgEi990X0GEPrvOUTky6KPuC96KGQeCiRdtWA7/v0H7fzDnjlPLU=;FNYVQHquZ7KH5YuRiAQUDw=="
+secured: "iDqQHEbrubUAXkfjxDH6wZ7F02JJGpv/vYxLARJ0qphknnDyr7gCqGYXuJpieU5gIl9OypabVqZUBdTMbA9QfIi/5gqLzcaJPGAm+y9P/fApp84WDH/ExK+MQ5v82dwXuhGsgifpC6qK8d/DgGdJfsXd10b1NzU6AgJQYwNhV71HRIQBHFv1gzuwnPgnACSXkSaBFI9mnimjNBwEX3qjYSVxWqmaQ5Put7AivVIO3wbXL8Qy2XcCLV+17QciTxQAh0BuEN7P+ZzD7lMSNyO0EAYsv8sXK2tHq06/6fU6ZO8dmWbPdViHOyF4maQRQg/tQzbIzhHLSTtaY9sM0ENdorort9uR5XEGKP0cVYUxfPVpBIFIce7Gi/BP+q8BRJpcROTuAoTFI78jh0V9RkBpUR1GA2dEVmphVF14jTp/Q8i0lkCffmxMPG/YFTcWuyoetAW5Gn5lSer00sTG14HxD9uJJUzYdB+WmtvNUjPWCHQjHCnNMZnqmdMxYzrzNYB8wK6WfnDuLML/hskBlV9Iiw==;Lxi08TNicoxfSayNRBCqow=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 852
         height: 568
         isCached: true
-  - title: "AI and jobs: Humans Still Cheaper Than Artificial Intelligence in Majority of Jobs, MIT Finds"
-    excerpt: "Artificial intelligence can’t replace the majority of jobs right now in cost-effective ways, the Massachusetts Institute of Technology found in a study that sought to address fears about AI replacing humans in a swath of industries."
-    publishedDateTime: 2024-01-23T01:40:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-and-jobs-humans-still-cheaper-than-artificial-intelligence-in-majority-of-jobs-mit-finds-71705946759141.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 63
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/01/23/1600x900/EU-ALPHABET-BARD-0_1689231827645_1705973738815.JPG"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "cw9L1/J2TJoJYpjlbOZepiXShK9dbrgom9i1jskqXf5mHCnjc01ndie640cmVH2+LwFVT9LbmwolSoaoIz0wBQ2Nm83ME4jm5sZjO1gZGIgsiXhuN4OfuavS7cKAsL2trAyV3GEDmaDjQiHAKm2Z/trEqNEMJ8Og0GeIt0DfEN8ncBUU7H6r525a/VHWRNAH8Nmh5vFuNr3GKkvyW+HfkJ8utMJ+K/oTtUtMxH+cV7SKyV3PUXCeRiEwodFcCxgyJ1Qd1KjPP966Tpd0WVczog0Fvh1j2ad4Ml9RU5AtJK/8uAyWG9uYIYBbVyBuJfCNREO+Z7G53hzhfhCcQegp3icHylMJHqpBQboBA4FXcvtEolivaS/2b+ANyVxN32Qn4ohQHzHn2Hq7ogRu0IVFozH1YHqq9OdOsdK5/qHZkD+2/LklYjQTOAHitfvNqhr8NXXApFdcQTWSrwoxMlVFwA8K4mwc/DVypWliRAgOjZsH21/Eh18pV5hwLyTHXsOBpd1kWhEnkQM1TtVN70xu3A==;6M8hFIXMBb31g0GIVXYp3Q=="
 ---

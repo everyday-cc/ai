@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-rea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "CAPGEMINI, AWS Partner to Drive Widespread Adoption of Enterprise-Level Generative AI"
-    excerpt: "Helping clients realize the full value of generative AI at scale As part of this new initiative, Capgemini and AWS will build industry specific solutions, assets and accelerators supported by a unique platform designed to help clients improve the Total Cost of Ownership (TCO)."
-    publishedDateTime: 2024-01-23T01:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34679-capgemini-aws-partner-to-drive-widespread-adoption-of-enterprise-level-generative-ai"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 47
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7fbda677d2eca469ada6d41a37753cb2.jpg?t=20240123_015240"
-        width: 752
-        height: 408
         isCached: true
   - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
     excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."

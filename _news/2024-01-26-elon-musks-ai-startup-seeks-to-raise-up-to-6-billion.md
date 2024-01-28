@@ -74,6 +74,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "Elon Musk Looking for $6 Billion to Develop AI Outside Tesla"
+    excerpt: "Then there's the current controversy over Musk angering investors by threatening to move AI projects away from Tesla, which could help explain his startup's latest round of funding. The news comes after Musk denied a Bloomberg report that stated xAI had ..."
+    publishedDateTime: 2024-01-28T02:57:00Z
+    webUrl: "https://futurism.com/the-byte/elon-musk-looking-for-6-billion-to-develop-ai-outside-tesla"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 34
   - title: "Elon Musk says his AI startup xAI not raising capital"
     excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
     publishedDateTime: 2024-01-27T13:23:00Z

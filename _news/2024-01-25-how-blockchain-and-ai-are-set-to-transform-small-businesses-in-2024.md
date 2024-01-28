@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Business: Transforming Industries"
+    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
+    publishedDateTime: 2024-01-27T09:15:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
   - title: "Blockchain AI Market Demand Will Increase to 2030 Evaluated by Global Top Players Like Cyware Labs, Neurochain Tech, SingularityNET, Core Scientific"
     excerpt: "As there is increasing in the blockchain AI platforma€™s adoption similarly the demand for these services is expected to rise. The Infosys High Tech practice enables microprocessors, manufacturers, and system-on-chip products to achieve operational ..."
     publishedDateTime: 2024-01-25T18:48:00Z

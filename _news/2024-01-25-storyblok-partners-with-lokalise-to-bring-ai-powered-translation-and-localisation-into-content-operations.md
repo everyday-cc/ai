@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "CAPGEMINI, AWS Partner to Drive Widespread Adoption of Enterprise-Level Generative AI"
-    excerpt: "Helping clients realize the full value of generative AI at scale As part of this new initiative, Capgemini and AWS will build industry specific solutions, assets and accelerators supported by a unique platform designed to help clients improve the Total Cost of Ownership (TCO)."
-    publishedDateTime: 2024-01-23T01:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34679-capgemini-aws-partner-to-drive-widespread-adoption-of-enterprise-level-generative-ai"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 47
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7fbda677d2eca469ada6d41a37753cb2.jpg?t=20240123_015240"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "ozInDCl49FFbaZrHR6SV6hFteBUj5yWwsJKJs1otnZjN8tO24jpZWf8b5ypGrdRKoK9uh2uywvNzkGeQktoSSq4uxpuT+FrP9W08Nv8dwi/Qh1d1oW8JBeYIHTZgSuns4S8Q+ZEyy0rKl2NvY4c2LTRUfPHTuQlPfn/bb2YOj+Sci/2hED6hNir4qdQLgbve81psXbpywbvyl1aFlVlXRn2lgBEW6nvaHdSmwbCk8TBbNhaajWZYQ15Drbn7A0kOdPdqIdz4LMPhzf1Zikq77JDjQYCEMCcpHJtu6PcF3t++rW/6zchIZ0do0fj070AEWChht6+1W8/O/zhn8dCqXa2dF5j3lawJeofZ+APWqlY=;oNyaJWFf1W6/hH7Hq/MP4g=="
 ---

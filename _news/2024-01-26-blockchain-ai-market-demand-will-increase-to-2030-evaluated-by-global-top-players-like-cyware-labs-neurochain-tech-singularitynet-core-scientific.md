@@ -41,6 +41,20 @@ related:
         width: 1354
         height: 900
         isCached: true
+  - title: "Artificial Intelligence in Business: Transforming Industries"
+    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
+    publishedDateTime: 2024-01-27T09:15:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "GzeqPdOX+Dp5UD8QswcuDG926o25HSujv0OFbsbcl0Zeqnx+NgZ4wtNsOJRGpDeK6y8arORh/Dy1YrIXJED0hGptD+SRg7hZb0F7nMjGgArzRry0mK+cmG04mLhw15bI7ZB/IYt28q96BNDDQteHQrfBeuMmZBsmXbXwyrGAL5mW8Skl9UrHx9cAkSez1k+V+UyA0hhaeVPtnLVBltQVWeWzmXFL4qasJ5efvOrK5zHdnBRGWp38SdvjVADZIkbC5lZxeJ1ngbpkZXSOZd0dTtHkv66uUKH89i4qUNhCrEKzwOn8ksuiTsj/tZGjlIUNwjJl9SRydlXDo/Cha88+cZ0oM7hWj4Y/faqkGqOE0nA=;j7Srl5CCO0mZHkJVizYiQg=="
 ---
