@@ -27,148 +27,139 @@ images:
     isCached: true
 
 related:
-  - title: "AI And The Future Of Coding"
-    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
-    publishedDateTime: 2024-01-24T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
+    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-23T22:11:56Z
+    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 89
+  - title: "How Generative AI Is Revolutionizing Customer Service"
+    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
+    publishedDateTime: 2024-01-26T06:22:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1040
-        height: 700
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "How the rise of artificial intelligence is boosting tech stocks"
-    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
-    publishedDateTime: 2024-01-23T23:24:00Z
-    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 57
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
         isCached: true
-  - title: "For the age of the AI PC, here comes a new test of speed"
-    excerpt: "The new MLPerf Client benchmark will rate how well chips and systems perform with generative AI on desktops, laptops, and workstations, said the MLCommons, the industry consortium that has published various AI benchmarks for five years, in a blog post."
-    publishedDateTime: 2024-01-26T19:02:00Z
-    webUrl: "https://www.zdnet.com/article/for-the-age-of-the-ai-pc-here-comes-a-new-test-of-speed/"
+  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
+    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
+    publishedDateTime: 2024-01-26T22:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
+    images:
+      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
+    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
+    publishedDateTime: 2024-01-26T13:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 49
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 41
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
+      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
+        width: 620
+        height: 372
         isCached: true
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+  - title: "Sevilla and IBM create generative AI tool for player scouting"
+    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
+    publishedDateTime: 2024-01-24T14:22:00Z
+    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
-    excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
-    publishedDateTime: 2024-01-25T17:07:00Z
-    webUrl: "https://techbullion.com/unveiling-the-future-navigating-ai-stocks-artificial-intelligence-stocks-and-the-realm-of-ai-ipos/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: SportsPro
+      domain: sportspromedia.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/ai_hominoid_robot_touching_virtual_hologram_screen_showing_concept_big_data_1_8e39d0c3b4-scaled-1.jpg"
+      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
         width: 1000
-        height: 500
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence and the Future of Work: Opportunities and Challenges"
-    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a transformative force that is reshaping the future of work across industries worldwide. As AI technologies continue to evolve, they present both opportunities and challenges for the workforce."
-    publishedDateTime: 2024-01-27T13:33:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-the-future-of-work-opportunities-and-challenges/"
+  - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
+    excerpt: "Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering"
+    publishedDateTime: 2024-01-26T16:40:00Z
+    webUrl: "https://en.antaranews.com/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
+    ampWebUrl: "https://en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
+    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Antara News
+      domain: antaranews.com
     quality: 38
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-the-Future-of-Work-Opportunities-and-Challenges.jpg"
-        width: 650
-        height: 450
+      - url: "https://cdn.antaranews.com/cache/1200x800/2024/01/26/IBM.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
-    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
+  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
-  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
-    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
-    publishedDateTime: 2024-01-26T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
-  - title: "Artificial Intelligence and the arts"
-    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
-    publishedDateTime: 2024-01-25T10:59:00Z
-    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
-    type: article
-    provider:
-      name: TheCourierExpress.com
-      domain: thecourierexpress.com
-    quality: 19
-  - title: "Hello, Apple has joined the AI arms race"
-    excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
-    publishedDateTime: 2024-01-24T17:52:00Z
-    webUrl: "https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
-  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
-    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
         isCached: true
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
+    publishedDateTime: 2024-01-25T10:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "fmFt6UeSaQ+TTc7/r1plxJw44bXkmd2Q4WuIDR1BHaWjoAR1zXC1wAgsc1spZi50ro7kldb6IMXlHZn4Ww+i8W8n+W+yAhrDzj9NsggrIcFUE6Gn0NcHyArENc+eqKiZc4cs/hdfamZvYCRUc2pxUBkyE8NLXUJ0l19s7f0oxBSZn8bPfVk4aeAaVw1pNFXBgRu599Vz14sQVvRAal1bj73GrpupUhXEtEfTXzA089ujSbmcV5vQ7+al/8/Ft/u2c5VbilFZcepQnDTJkskKC1rfPUUgeoVH/B48xQn1H9BBhorxWVPwJES9Atqk1v0/YwdBr8HZgB6dpBs8oPLOFMoWhITEMBCDw9YMkAj2QAnBfJChL3jf2FCoTV/R6Wm3chc5F7adiDRxEP4F3+syXp0rDB13EXx3uoVIaK2QXRzcoZwCYeGBGpxbNfwdaYxGIyQcGBArcijZgslAq73RH2jy9ndrorCTTYXc6m9JIe9xNewLWpKkSm/gNv8x24QfxgzIQK38/XIzekBwwOrAYw==;AMlaaBBmybtFEMql9hgZmQ=="
 ---

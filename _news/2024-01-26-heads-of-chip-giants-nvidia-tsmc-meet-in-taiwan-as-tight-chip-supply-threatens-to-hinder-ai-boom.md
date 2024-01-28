@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-gia
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Sam Altman hopes to take on Nvidia with new global network of AI chip factories"
-    excerpt: "OpenAI's CEO Sam Altman has embarked on a global campaign to create a network of artificial intelligence chip factories that can take on Nvidia's dominance of the technology. Larger AI labs like OpenAI are spending billions on Nvidia GPUs to train the next generation of large language models."
-    publishedDateTime: 2024-01-23T13:29:00Z
-    webUrl: "https://www.tomsguide.com/news/sam-altman-hopes-to-take-on-nvidia-with-new-global-network-of-ai-chip-factories"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
 
 secured: "/oSTycvSQ4J9nN4TNmKizDo+TFoncsaU6QHqPLn9VzdkAEHZzxVWaG58j9OvZUzYdXwNv3Z5PRcU8Ccyo/PUqU9+twT81tze84iTW8GbKDF9apQFtkkJU7fW8X6ykoTNuqnfh+M2FSLuRZ2GHtm3MVzt0dXxk6C5LsoLhGINoe9Tm5DnERbswBjIZh4+UzStpdPoJmGt6/6FXPyTrtyl70Fy1fc3o6oOyzuVmh2pfxoHw4Xon5+wWobdImlCQ0+e4G15oac3LkjhqfaBNWkjEb+Y/m5nup7Y9cr340uwgTiYrQjKVp7a/nRPCw6N8QR4S3T1MVG3SrePJ0k0AMnv57xz86oRQbZCCqrnQTiOao6Z7nK5HQPAffEsaAbI3fzmOunXfYQczaxa8W3d/2F/6v+8TYf/jTfn6EVDAwDTIAG5aWOz9aY5JHXFPp3WH3ierXfqax07ps3Xsw/FBK6xr4TSzTaiZyce3E4hNhc3Q9xCnQDCbsyfNn7zd6HiU8GgmnxytTUZD+xVHhtXH5q+yA==;KzjPUqTAd5UFpTg0fWP2yg=="
 ---

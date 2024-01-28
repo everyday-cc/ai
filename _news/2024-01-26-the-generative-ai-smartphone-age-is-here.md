@@ -49,15 +49,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Top 10 Principles For Developing An Ethical Generative AI Strategy"
-    excerpt: "In a world where technology outpaces our grasp on ethics, Asimov's Runaround doesn't seem like sci ... Apparently, we need more than the Three Laws of Robotics to benefit from AI and build a safe future. Having analyzed the EU AI Act draft and the ..."
-    publishedDateTime: 2024-01-23T13:26:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/top-10-principles-for-developing-an-ethical-generative-ai-strategy/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Generative AI Is All About the Money"
     excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
     publishedDateTime: 2024-01-25T15:26:00Z
@@ -72,6 +63,20 @@ related:
         width: 737
         height: 737
         isCached: true
+  - title: "Generative AI: value, risk and regulation"
+    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
+    publishedDateTime: 2024-01-28T16:10:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI and healthcare communication"
     excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
     publishedDateTime: 2024-01-28T02:26:00Z
@@ -81,20 +86,6 @@ related:
       name: business-reporter.co.uk
       domain: business-reporter.co.uk
     quality: 36
-  - title: "Generative Artificial Intelligence Latest Developments And Impact On Industries"
-    excerpt: "In the ever-evolving landscape of technology, one term that has gained significant attention is generative artificial intelligence. But what is generative AI, and how is it shaping the future of industries worldwide?"
-    publishedDateTime: 2024-01-23T14:33:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2024/01/23/458438-generative-artificial-intelligence-latest-developments-impact-industries.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/3278267047-artificial-intelligence-2167835_960_720.jpg"
-        width: 960
-        height: 642
-        isCached: true
   - title: "CGI Federal’s Steve Sousa: AI Integration Could Enable Federal Health Agencies to Enhance Patient Care, Drive Innovation"
     excerpt: "Steve Sousa, senior vice president of health and social services at CGI’s (NYSE: GIB) federal arm, said integrating artificial intelligence technologies provides federal health care agencies with opportunities to improve patient outcomes by harnessing ..."
     publishedDateTime: 2024-01-25T00:00:00Z

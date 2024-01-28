@@ -38,6 +38,31 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Google cuts ties with company that help train Bard, here's why"
+    excerpt: "Google ends contract with Appen Ltd for labeling training data for Bard. Appen loses major client, impacting financial stability. Google terminates contract to evaluate supplier partnerships, says Courtenay Mencini from Alphabet. Google ends contract with ..."
+    publishedDateTime: 2024-01-28T03:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/articleshow/107196861.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107196861,width-1280,height-720,resizemode-4/107196861.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Google made an AI doctor that can help diagnose patients"
     excerpt: "Bringing AI into the doctor’s office could help alleviate some of the stressors that doctors and patients have to deal with. And this is something that IBM has been working towards for quite a while now with its Watson computer system. Despite being ..."
     publishedDateTime: 2024-01-26T22:37:00Z

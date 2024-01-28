@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-
 webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Apple Plans To Launch IPhone With Generative AI"
+    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
     excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
     publishedDateTime: 2024-01-25T03:33:00Z

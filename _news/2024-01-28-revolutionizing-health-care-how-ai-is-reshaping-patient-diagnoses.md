@@ -48,7 +48,16 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
+    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 2
 
-secured: "giWLeTvBCICAyDESVv/Ddz7i3WKzUbTW0PW5h8OvkpQSFeppo0bzifPXh5te9kv0EKf4jejE+wqbHnhYbrf4Vfjtv1/emePV1IvcG62yYIXaqGNcIj6OCEOi/DvHd0VlNmLOOJGnT0PsHSEmBrzOSy10DyIaGdts8jMQQOVka6S2WuNRyDJL7vwDko/giIb++WIG+6HaVcTj9aKikoEMa58uXO6AU9gCPBmCUwDaneywhyJXsHbDDcpo4n5IsYTIHLld+72sT04rINhJgF0x49jTe3TMFFsvFPrkkpS9tej6AcVA56hE2qmzE/TM9HBG8BUPk4bZ5l/lFgaNgX6Q9Zol8SPloVl6wpF8djrCGYw=;gVPNKnIdB4yK9JGcFLAw3w=="
+secured: "XU3nFdxalqYZOdw8teCFM+Kevlcm0dqyVtdCaPbDySEcjAjJ2MhqRY27GG4KLaLMPM8OCq1g5GflDHQ7WJQYJSBsMhF5QV3PDbvWvPClUagR4y+l9zUi3kD6oqPNZVjl+k6Ko2ztxSfqwvCZWTvPPgxMu248xc105ZB1z0b+u1Xz8+6uylOyJAcTypifNk8XwC/tf8ZVm9emrv/1PyWn6XoIkkDigCMLZth+cEkNWHrI1L4Q91jiFKEr46KAYaluQlBGDSTDuP1IAzKmBQsncFRX+6DrH+sA+lGqW0nTNA0DKogxMyuBnos+d2qnX1tPcleMDqgJ+tXGav4aXdCt2hcKqGZBTasXRCz6W7aBva1ZfBm+IPoRryQBwnpMxy7LIh9oKYQVkiIMfuqkq7w2HPsBvENr81GYjjtm+7tcZAo0ocs6nbG/EQnl+z8vG8p04krZ/P3lzER1b6si6n35V4sGp+FjnudRsHtu8w1CwQh+emn16cI1uLV9h8Wz3P2S/BhL+EALTGwLGvVzsSLOdQ==;n/tOAaT1FYKW4XYyPBUxgw=="
 ---
 

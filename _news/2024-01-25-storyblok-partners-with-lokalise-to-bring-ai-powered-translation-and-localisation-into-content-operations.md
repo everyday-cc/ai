@@ -19,33 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
-    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
-    publishedDateTime: 2024-01-24T17:14:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
+  - title: "Bridging the Gap: How AI Can Revolutionize Employee Communications"
+    excerpt: "The problem is that language barriers, time zone differences, and varying communication styles often fragment the modern workforce. AI serves as a powerful equalizer. With conversational AI assistants, it is possible to translate languages on the fly ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/growth-strategies/bridging-the-gap-how-ai-can-revolutionize-employee/468744"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
+    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
+    publishedDateTime: 2024-01-28T12:25:00Z
+    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
-        width: 1021
-        height: 509
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
-    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
-    publishedDateTime: 2024-01-24T12:57:00Z
-    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
+    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
+    publishedDateTime: 2024-01-25T08:42:00Z
+    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 26
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
 
 secured: "ozInDCl49FFbaZrHR6SV6hFteBUj5yWwsJKJs1otnZjN8tO24jpZWf8b5ypGrdRKoK9uh2uywvNzkGeQktoSSq4uxpuT+FrP9W08Nv8dwi/Qh1d1oW8JBeYIHTZgSuns4S8Q+ZEyy0rKl2NvY4c2LTRUfPHTuQlPfn/bb2YOj+Sci/2hED6hNir4qdQLgbve81psXbpywbvyl1aFlVlXRn2lgBEW6nvaHdSmwbCk8TBbNhaajWZYQ15Drbn7A0kOdPdqIdz4LMPhzf1Zikq77JDjQYCEMCcpHJtu6PcF3t++rW/6zchIZ0do0fj070AEWChht6+1W8/O/zhn8dCqXa2dF5j3lawJeofZ+APWqlY=;oNyaJWFf1W6/hH7Hq/MP4g=="

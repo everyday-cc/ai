@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "Google cuts ties with company that help train Bard, here's why"
+    excerpt: "Google ends contract with Appen Ltd for labeling training data for Bard. Appen loses major client, impacting financial stability. Google terminates contract to evaluate supplier partnerships, says Courtenay Mencini from Alphabet. Google ends contract with ..."
+    publishedDateTime: 2024-01-28T03:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/articleshow/107196861.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107196861,width-1280,height-720,resizemode-4/107196861.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
     excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
     publishedDateTime: 2024-01-24T11:00:00Z
@@ -49,6 +65,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 47
   - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
     excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"

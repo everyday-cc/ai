@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search"
-    excerpt: "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results."
-    publishedDateTime: 2024-01-23T15:25:00Z
-    webUrl: "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742"
-        width: 5246
-        height: 3497
-        isCached: true
   - title: "Alphabet Terminates AI Firm Trainer of Google's Bard"
     excerpt: "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19."
     publishedDateTime: 2024-01-23T22:01:00Z
@@ -50,22 +34,6 @@ related:
       - url: "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Google cuts ties with company that help train Bard, here's why"
-    excerpt: "Google ends contract with Appen Ltd for labeling training data for Bard. Appen loses major client, impacting financial stability. Google terminates contract to evaluate supplier partnerships, says Courtenay Mencini from Alphabet. Google ends contract with ..."
-    publishedDateTime: 2024-01-28T03:58:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/articleshow/107196861.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107196861,width-1280,height-720,resizemode-4/107196861.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google ends contract with Australian data firm that helped train Bard AI"
     excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
@@ -83,22 +51,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Australian Open hopes AI audio translations will speak to new fans"
-    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
-    publishedDateTime: 2024-01-27T18:00:00Z
-    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Google terminates contract with Australian data firm that helped train Bard AI"
     excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
     publishedDateTime: 2024-01-24T05:31:00Z
@@ -115,6 +67,43 @@ related:
         width: 400
         height: 265
         isCached: true
+  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
+    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
+    publishedDateTime: 2024-01-23T18:29:00Z
+    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
+  - title: "6 Google Bard prompts to try: AI-supercharge your workflows"
+    excerpt: "Google's Bard is a powerful AI chatbot, but it's not nearly as useful if you don't know the right prompts to use. Here's six to get you started. Bard can be used for various purposes such as generating writing drafts, brainstorming ideas, and general chatting."
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://www.pocket-lint.com/google-bard-prompts/"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 39
+    images:
+      - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/01/google-bard-featured-image.jpg"
+        width: 3212
+        height: 1807
+        isCached: true
+  - title: "Google Adding AI to Chrome Browser"
+    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
+    publishedDateTime: 2024-01-23T17:43:00Z
+    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
     excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
     publishedDateTime: 2024-01-24T02:15:00Z
@@ -128,20 +117,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
-    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
-    publishedDateTime: 2024-01-26T17:35:00Z
-    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
-        width: 2048
-        height: 1366
         isCached: true
 
 secured: "uhlQ1GuB73HWOWrOIDPHGKs7DB/TwcRh0UxuKvskKBq0wJ6cHvTE/gtUjt1zw35LYEGI1+NelsNYWJGh4BEPwdkcQSkFwGVwQjRV/L/0Mw6Hv5M3x8rzZd1mMJFgv3LFAUHrSr5y18pGAVMB76aQbdBn0K031wRoBZA2yg0ZOGpz0P42+8W/9nJZn+7WcpeqPQx8vMaMLCQ4ONl/J/C3T278mqIafHB+Cgg3KCqc9+mXBEZD9fBvAgnBGW6NK8x58DxOjTLgVB2rBt+q3LDQydFgbnmLbQJ76UxDkj1bAPAXLbKCPVaiICV706PsWH7kb77nNw2ztpm47wjH+2xXokbU+7ep/DsWR73TUyy+SSwKwDfT/cYao3u261xHEAqvZcb0SeRIPjwWgLDvahf663Cl+w+yozKQjW5xY/8ydowLlkX58/zmgl62TgXxtXeWrc9Vi/vEN7yezwFo+3HHnzJYhY0NgHn2zEOgmqQmk2FPariFb8aKXQ6b4KmHEMNjrOD0RXrAEt76cOdcGKiqJg==;EjL7nWtiSiJj2ZKJo0v7dA=="

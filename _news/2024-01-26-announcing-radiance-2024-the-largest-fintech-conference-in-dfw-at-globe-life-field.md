@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AI, Hardware And Fintech Collide At CES 2024 In Vegas"
-    excerpt: "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving"
-    publishedDateTime: 2024-01-23T15:45:00Z
-    webUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/"
-    ampWebUrl: "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1362
-        height: 900
-        isCached: true
   - title: "UK Tech Trends & Predictions for 2024: AI Boosts Productivity, Hiring Increases, Fintech Matures, More 5G Rollouts"
     excerpt: "From artificial intelligence to 5G, find out why 2024 could be a pivotal year for the tech industry and workers in the U.K."
     publishedDateTime: 2024-01-23T18:36:00Z
@@ -49,35 +33,28 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Fintech firm Quinte to set up development centers in Tamil Nadu"
-    excerpt: "Quinte on Tuesday said it has entered into a collaborative partnership with the Tamil Nadu government to establish development centers in tier II towns within the state."
-    publishedDateTime: 2024-01-23T13:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/articleshow/107087828.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/fintech-firm-quinte-to-set-up-development-centers-in-tamil-nadu/amp_articleshow/107087828.cms"
+  - title: "Top Fintech Predictions for 2024 (Free Download)"
+    excerpt: "The world saw the fintech space in 2023 progress and evolve through events like the UK government’s advancement towards utilizing open banking payments"
+    publishedDateTime: 2024-01-25T09:00:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/top-fintech-predictions-2024/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-23984,msid-107087883/fintech.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "IeDigital Acquires AI Fintech Software House Abaka"
-    excerpt: "Digital has today announced the acquisition of ABAKA, the AI - recommendation engine platform that uses machine learning and behavioral segmentation software to predict which products – such as banking products,"
-    publishedDateTime: 2024-01-25T15:15:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/iedigital-acquires-ai-fintech-software-house-abaka"
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 34
+  - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2024-01-24T07:32:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-zeal-secures-4m-funding-to-expand-its-technology-solutions/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/financial_it_-_news_template_updated_7_14.png"
-        width: 900
-        height: 480
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "q4zRqQ9PtJNVJnIcIwAU8yK/iYYvCiZL7NEeRaZQdL7OKBYlk/zKI77lQRaDGkJjX9z0oz4zao6RUmWP5vEv4YygIHET9pCtmlpPBT/60E27uLJ+M0FWXbrm/CrlR+dbkpMczshSA04SvhSfyGAISncUT69sBhz5fAOH52MPPCYuLsXPboJ+DJLsvPrIfdjWnfr5K+9GxgsUx8X9pdMwe/S1X1pLhh2OQtVQhIl8IAOd4UQYMkhhI1mgWO2vfBauQ34TBsP0A7fueW7z3W3xzL2vk/u3udNrjFOd7J7IUY2HO+ycMDzf8Do7aRLY3VE7AADO6TpalLTDiOccvKREaeCAqYxzuoZfn2rzxa7A6Lo=;vQFRem2ZTgQPEsiKdbmfbA=="

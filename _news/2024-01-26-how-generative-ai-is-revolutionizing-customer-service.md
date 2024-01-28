@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chrome is getting 3 new generative AI features"
-    excerpt: "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized."
-    publishedDateTime: 2024-01-23T15:00:00Z
-    webUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
-    ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
-    publishedDateTime: 2024-01-23T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
     excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
     publishedDateTime: 2024-01-23T22:11:56Z
@@ -72,167 +40,130 @@ related:
       name: IBM
       domain: ibm.com
     quality: 89
-  - title: "13 Ways Writers Should Embrace Generative AI"
-    excerpt: "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks."
-    publishedDateTime: 2024-01-24T06:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
         isCached: true
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+  - title: "Role of artificial intelligence in improving sexual and mental health"
+    excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
+    publishedDateTime: 2024-01-24T06:30:00Z
+    webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
+    ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Browser alternatives Brave, Arc, add new AI integrations"
-    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
-    publishedDateTime: 2024-01-27T05:42:00Z
-    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "North Korean Hackers Spotted Using Generative AI"
-    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
+      name: The Week
+      domain: theweek.in
     quality: 59
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
+        width: 760
+        height: 443
         isCached: true
-  - title: "Send app gets personalized artificial intelligence feature"
-    excerpt: "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you."
-    publishedDateTime: 2024-01-26T12:20:00Z
-    webUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/"
-    ampWebUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
+  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
+    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
+    publishedDateTime: 2024-01-26T22:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt?ref=biztoc.com"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 57
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
     images:
-      - url: "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg"
-        width: 1024
-        height: 690
+      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Apple Plans To Launch IPhone With Generative AI"
-    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
-    publishedDateTime: 2024-01-24T21:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+  - title: "Data gold rush: companies once focused on mining cryptocurrency pivot to generative AI"
+    excerpt: "Tech companies are cashing in on an unprecedented demand for computing power needed to operate artificial intelligence"
+    publishedDateTime: 2024-01-26T13:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2024/jan/27/tech-companies-shift-generative-ai-chatgpt"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 49
-  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
-    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
-    publishedDateTime: 2024-01-23T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
+    images:
+      - url: "https://i.guim.co.uk/img/media/12c8196f21ae8328c2d9d8e21c1bbf7955074562/0_96_1440_864/master/1440.jpg?width=620&quality=85&auto=format&fit=max&s=1d24ab48ca594b667a7624268cb7f349"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Sevilla and IBM create generative AI tool for player scouting"
+    excerpt: "LaLiga club hopes new technology can build on its recruitment legacy and keep it challenging for domestic and European honours."
+    publishedDateTime: 2024-01-24T14:22:00Z
+    webUrl: "https://www.sportspromedia.com/news/sevilla-ibm-generative-ai-player-scouting-tool/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+      name: SportsPro
+      domain: sportspromedia.com
+    quality: 39
+    images:
+      - url: "https://www.sportspromedia.com/wp-content/uploads/2024/01/Copy-of-Copy-of-WP-News-story-template-2024-01-24T142041.840.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants"
+    excerpt: "Consulting is rolling out IBM Consulting Advantage, an AI services platform designed to support IBM consultants in delivering"
+    publishedDateTime: 2024-01-26T16:40:00Z
+    webUrl: "https://en.antaranews.com/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
+    ampWebUrl: "https://en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
+    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/304200/ibm-introduces-ibm-consulting-advantage-an-ai-services-platform-and-library-of-assistants-to-empower-consultants"
+    type: article
+    provider:
+      name: Antara News
+      domain: antaranews.com
+    quality: 38
+    images:
+      - url: "https://cdn.antaranews.com/cache/1200x800/2024/01/26/IBM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 39
+    quality: 35
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
+        width: 300
+        height: 235
         isCached: true
-  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-    publishedDateTime: 2024-01-26T02:00:00Z
-    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "Google Adding AI to Chrome Browser"
-    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
-    publishedDateTime: 2024-01-23T17:43:00Z
-    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
+    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
+    publishedDateTime: 2024-01-25T10:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "Afde/c6JsiMnjqNG9tTE5Z03Us5rYPCqkhCatxNBHvQDKK9pskH/WEnPRC1Ro5nFFJKc0qnKM/tYkgpHfinJHhe0u9NvqoBiNalAJft9LfDB6SV1RUFxsnYmvtoUJVjQqhYNPPsnHNLJrYnlKqjNSZOd0WsMb7XnroayVklJexxm5puozrDq3R+x9aTGNxEBYVK+zAm/lV4TUJ397BA91NpV5Sjw6dPCbnI9dxKv9EUnjdE6LGBR4GLpVOoESJYL99pbx1C8MeV5m5IVWc2X5tglT6/bA8HC47tBWzPVBZkcJHOiHAschePP/HG/4zUIzujglK7PXZyRk1txSPS3zv3Fgz1olRMewjfV9cz8tXdLBqsAi4+t2/KSI3W5F6w41P3q19cEt862Q6JbVAX4MyhSRPhW8Mzd6C/4tZscHauCmWzgqJ8uznzw8podSjW8/jYh3yDAD4qlg0N1nYI1s+M8CzymkaULl9kCemLbjUaBdDyojc1voKXNWmXkquvdJdAlKB8GdGnAi9F/jCX1hg==;KRxl/NTMaSzX4wOFf+v3bQ=="
 ---

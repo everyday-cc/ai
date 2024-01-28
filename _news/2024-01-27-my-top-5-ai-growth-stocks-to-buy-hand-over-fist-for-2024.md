@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 151
+heat: 152
 published: true
 
 provider:

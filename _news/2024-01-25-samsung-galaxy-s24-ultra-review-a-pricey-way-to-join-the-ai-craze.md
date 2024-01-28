@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-s
 webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: CNET
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready"
-    excerpt: "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time."
-    publishedDateTime: 2024-01-23T15:56:00Z
-    webUrl: "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
-    ampWebUrl: "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
     excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
     publishedDateTime: 2024-01-25T16:36:00Z
@@ -120,6 +104,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107181443,width-1280,height-720,resizemode-4/107181443.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "‘Love Machina’ Review: Artificial Intelligence Doc Fails to Ask the Interesting Questions"
+    excerpt: "Peter Sillen’s documentary follows married couple Bina and Martine Rothblatt and the robot they constructed to transfer Bina’s consciousness."
+    publishedDateTime: 2024-01-25T22:00:00Z
+    webUrl: "https://www.indiewire.com/criticism/movies/love-machina-review-1234948198/"
+    type: article
+    provider:
+      name: IndieWire
+      domain: indiewire.com
+    quality: 47
+    images:
+      - url: "https://www.indiewire.com/wp-content/uploads/2024/01/80g980futLoveMachina-Still1.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."

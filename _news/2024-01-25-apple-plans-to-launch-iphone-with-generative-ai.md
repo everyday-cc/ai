@@ -23,215 +23,90 @@ topics:
   - AI
 
 related:
-  - title: "Chrome is getting 3 new generative AI features"
-    excerpt: "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized."
-    publishedDateTime: 2024-01-23T15:00:00Z
-    webUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
-    ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
+  - title: "Apple aims to run AI models directly on iPhones, other devices"
+    excerpt: "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology."
+    publishedDateTime: 2024-01-24T15:39:00Z
+    webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png"
-        width: 1300
-        height: 541
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/apple-ai-list-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
-    publishedDateTime: 2024-01-23T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
+  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
+    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
+    publishedDateTime: 2024-01-24T18:16:00Z
+    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: TechSpot
+      domain: techspot.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Tech Trends for 2024: Generative AI Models Will Get Smaller, An iPhone’s Average Life Will Be 8 Years"
+    excerpt: "AI will teach coders new skills and support creativity Workers are already using AI to augment their day-to-day jobs, such as by assisting with basic research, helping come up with ideas or even creating better reports. One of the first tech jobs AI has ..."
+    publishedDateTime: 2024-01-24T00:00:00Z
+    webUrl: "https://www.techrepublic.com/article/tech-trends-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240124-tech-trends-2024.jpg"
+        width: 1400
         height: 900
         isCached: true
-  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
-    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-23T22:11:56Z
-    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
+  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
+    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
+    publishedDateTime: 2024-01-25T03:33:00Z
+    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 89
-  - title: "13 Ways Writers Should Embrace Generative AI"
-    excerpt: "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks."
-    publishedDateTime: 2024-01-24T06:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Browser alternatives Brave, Arc, add new AI integrations"
-    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
-    publishedDateTime: 2024-01-27T05:42:00Z
-    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "North Korean Hackers Spotted Using Generative AI"
-    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Send app gets personalized artificial intelligence feature"
-    excerpt: "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you."
-    publishedDateTime: 2024-01-26T12:20:00Z
-    webUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/"
-    ampWebUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 57
-    images:
-      - url: "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg"
-        width: 1024
-        height: 690
-        isCached: true
-  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
-    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
-    publishedDateTime: 2024-01-23T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
+      name: TweakTown
+      domain: tweaktown.com
     quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
+      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-    publishedDateTime: 2024-01-26T02:00:00Z
-    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+  - title: "Chinese AI processor developers face challenges"
+    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
+    publishedDateTime: 2024-01-25T01:25:00Z
+    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 39
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Google Adding AI to Chrome Browser"
-    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
-    publishedDateTime: 2024-01-23T17:43:00Z
-    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+  - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
+    excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
+    publishedDateTime: 2024-01-24T15:47:00Z
+    webUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: BGR
+      domain: bgr.com
+    quality: 36
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
-        width: 1024
-        height: 576
+      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
 
 secured: "KFeN+ZImFP7duifjAoRMkZfa0YmYwQJRZLdcdreA8l7Va296AUa6rNLMcPcbdE/zqE1CwJ4IXS7Dw37tTEgm92Fa0Sn9rAIwSo6BPfLKagDotK5k/5D+SKNUyblMZiWGv+0ud+CMcpSZVxxfxvdaBXf/GJICo+WdA6fwNHXfqUxOjo5nScvjivY5WomjddcEkg1zixErrk3EhOO9XmCzwALvIYpArSumd9fue5/njS8V24ZWaPoiM6lIGW46EPIkSfbHiwOZRMb6cq8AhJYjNrcZWjSt/6sUAQZM0iTZY2TjipBsnKlS8oVL+sUNt1007Po4y8q5HdHCWlcq11ve41n57zkCf4Q0GCzBjyXoTnc=;s0lkeTDivSoz4qJb8MFAWQ=="
 ---

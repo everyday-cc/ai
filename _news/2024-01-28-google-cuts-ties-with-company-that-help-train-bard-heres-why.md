@@ -27,123 +27,68 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search"
-    excerpt: "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results."
-    publishedDateTime: 2024-01-23T15:25:00Z
-    webUrl: "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html"
+  - title: "4 skills that can help companies thrive with AI"
+    excerpt: "In-depth knowledge of market dynamics, product-market fit, and understanding your customer have always been essential business skills, but they’re especially critical in the AI era, says Subbaiah."
+    publishedDateTime: 2024-01-25T16:32:00Z
+    webUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html"
+    ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742"
-        width: 5246
-        height: 3497
-        isCached: true
-  - title: "Alphabet Terminates AI Firm Trainer of Google's Bard"
-    excerpt: "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19."
-    publishedDateTime: 2024-01-23T22:01:00Z
-    webUrl: "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
+      name: CIO
+      domain: cio.com
     quality: 59
     images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://www.cio.com/wp-content/uploads/2024/01/3_iStock-1133750811.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 710
         isCached: true
-  - title: "Google ends contract with Australian data firm that helped train Bard AI"
-    excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
-    publishedDateTime: 2024-01-24T06:41:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+  - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
+    excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
+    publishedDateTime: 2024-01-24T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidprosser/2024/01/24/meet-the-startup-that-believes-ai-can-solve-your-it-outages/"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Google made an AI doctor that can help diagnose patients"
+    excerpt: "Bringing AI into the doctor’s office could help alleviate some of the stressors that doctors and patients have to deal with. And this is something that IBM has been working towards for quite a while now with its Watson computer system. Despite being ..."
+    publishedDateTime: 2024-01-26T22:37:00Z
+    webUrl: "https://bgr.com/tech/google-made-an-ai-doctor-that-can-help-diagnose-patients/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg"
+      - url: "https://bgr.com/wp-content/uploads/2024/01/doctor-ai.jpg?quality=82&strip=all"
+        width: 1920
+        height: 1079
+        isCached: true
+  - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
+    excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"
+    publishedDateTime: 2024-01-26T13:15:00Z
+    webUrl: "https://hbr.org/2024/01/how-data-collaboration-platforms-can-help-companies-build-better-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan24_26_1128845361.jpg"
         width: 1200
-        height: 765
+        height: 675
         isCached: true
-  - title: "Australian Open hopes AI audio translations will speak to new fans"
-    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
-    publishedDateTime: 2024-01-27T18:00:00Z
-    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Google terminates contract with Australian data firm that helped train Bard AI"
-    excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
-    publishedDateTime: 2024-01-24T05:31:00Z
-    webUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    ampWebUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
-    type: article
-    provider:
-      name: orissapost
-      domain: orissapost.com
-    quality: 55
-    images:
-      - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
-        width: 400
-        height: 265
-        isCached: true
-  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
-    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
-    publishedDateTime: 2024-01-24T02:15:00Z
-    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
-    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
-    publishedDateTime: 2024-01-26T17:35:00Z
-    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
-  - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
-    excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
-    publishedDateTime: 2024-01-24T18:29:00Z
-    webUrl: "https://www.extremetech.com/computing/google-axes-underpaid-contractors-who-helped-train-bard"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 19
 
 secured: "Dju1W2JKPjTXGPIDLP8KdutdylXs/HTOhbmiR5iodA3l6YWR0GNdUxzliyIAsuVARnl2R42gD0dULB/qpU6wP6jiizkGhcE4ZuUI9J3gsT8u3cBWtMIK+ZXh8F91b8RVmfoFgdyFFznOu0IeM1Hqwa3aYaSkr8yeROaOqYEhwEVICik1MTwKVI0ShVAWaSR2dGHxwhfi+JCi2Osyu3qjTQREPRmE9YJgbUw+5Ap4QPwwKs+KsESoZVuAdyI0hTKk/gH8PoIlOrluvtTJ42xRdGhCaxaQgamTYhaOfMPsbq71tRfpDf4s2nJYkYc/Cr9Ptbm1z5hTHMcLxpXA9WHPZQgpl2XnDVQVVn/KGZ5I8vN2lAm/SHF915cXkC5NXEsuFMaVQaKkcGpSyqzgn4xVy07Rc33C6NsWv0fCGAI7LCUenwlPRxWlTemeBP4Rp35gA9P4B3wESUxDLYgg2skKGiStlOU6/XL/H+MvO5TWJpvW/76ozK0X1bSxAuexYmMXW3Ivw4lshm451EqWqIxbmA==;EBWcfDa56YyoQ8PFBF7phA=="
 ---

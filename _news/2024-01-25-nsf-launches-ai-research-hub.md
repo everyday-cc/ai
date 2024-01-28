@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The Big Interview With Nikki Pope, Nvidia’s Head of AI and Legal Ethics"
-    excerpt: "Techopedia interviews Nvidia's Head of AI and Legal Ethics, Nikki Pope, to discuss the risks surrounding AI in response to the OpenAI-NYT lawsuit."
-    publishedDateTime: 2024-01-23T13:48:00Z
-    webUrl: "https://www.techopedia.com/nvidia-head-of-ai-and-legal-ethics-nikki-pope"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 34
   - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
     excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
     publishedDateTime: 2024-01-25T00:00:00Z

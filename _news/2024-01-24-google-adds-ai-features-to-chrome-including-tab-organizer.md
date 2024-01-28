@@ -22,191 +22,67 @@ topics:
   - AI
 
 related:
-  - title: "Chrome is getting 3 new generative AI features"
-    excerpt: "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized."
-    publishedDateTime: 2024-01-23T15:00:00Z
-    webUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
-    ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
+  - title: "Alphabet Terminates AI Firm Trainer of Google's Bard"
+    excerpt: "Appen is one of the firms that helped train Google's AI model Bard as well as other AI models from other tech giants as reported by CNBC. According to Appen, Alphabet informed the company over the weekend of the termination, which will take effect on March 19."
+    publishedDateTime: 2024-01-23T22:01:00Z
+    webUrl: "https://www.techtimes.com/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300933/20240123/alphabet-terminates-ai-firm-trainer-bard.htm"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
-    publishedDateTime: 2024-01-23T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
-    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-23T22:11:56Z
-    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 89
-  - title: "13 Ways Writers Should Embrace Generative AI"
-    excerpt: "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks."
-    publishedDateTime: 2024-01-24T06:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Browser alternatives Brave, Arc, add new AI integrations"
-    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
-    publishedDateTime: 2024-01-27T05:42:00Z
-    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "North Korean Hackers Spotted Using Generative AI"
-    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
+      name: techtimes
+      domain: techtimes.com
     quality: 59
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/400071/alphabet-stock-split-2022-googles-parent-company-approves-20-for-1-split-to-attract-more-investors.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Google ends contract with Australian data firm that helped train Bard AI"
+    excerpt: "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ..."
+    publishedDateTime: 2024-01-24T06:41:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg"
         width: 1200
-        height: 675
+        height: 765
         isCached: true
-  - title: "Send app gets personalized artificial intelligence feature"
-    excerpt: "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you."
-    publishedDateTime: 2024-01-26T12:20:00Z
-    webUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/"
-    ampWebUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
+  - title: "Google terminates contract with Australian data firm that helped train Bard AI"
+    excerpt: "Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior knowledge of Google’s decision to terminate the contract."
+    publishedDateTime: 2024-01-24T05:31:00Z
+    webUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    ampWebUrl: "https://www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
+    cdnAmpWebUrl: "https://www-orissapost-com.cdn.ampproject.org/c/s/www.orissapost.com/google-terminates-contract-with-australian-data-firm-that-helped-train-bard-ai/"
     type: article
     provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 57
+      name: orissapost
+      domain: orissapost.com
+    quality: 55
     images:
-      - url: "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg"
-        width: 1024
-        height: 690
+      - url: "https://www.orissapost.com/wp-content/uploads/2023/05/Google.jpg"
+        width: 400
+        height: 265
         isCached: true
-  - title: "Apple Plans To Launch IPhone With Generative AI"
-    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
-    publishedDateTime: 2024-01-24T21:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+  - title: "6 Google Bard prompts to try: AI-supercharge your workflows"
+    excerpt: "Google's Bard is a powerful AI chatbot, but it's not nearly as useful if you don't know the right prompts to use. Here's six to get you started. Bard can be used for various purposes such as generating writing drafts, brainstorming ideas, and general chatting."
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://www.pocket-lint.com/google-bard-prompts/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
+      name: Pocket-lint
+      domain: pocket-lint.com
     quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-    publishedDateTime: 2024-01-26T02:00:00Z
-    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/01/google-bard-featured-image.jpg"
+        width: 3212
+        height: 1807
         isCached: true
   - title: "Google Adding AI to Chrome Browser"
     excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
@@ -222,15 +98,29 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
+    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
+    publishedDateTime: 2024-01-24T02:15:00Z
+    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
+      name: The Tech Report
+      domain: techreport.com
+    quality: 30
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Google Axes Underpaid Contractors Who Helped Train Bard"
+    excerpt: "Developers might have built Bard, but they’re not the ones who trained Google’s AI chatbot. Instead, Google signed a contract with Appen, an Australian machine-learning firm. Since Bard’s inception, Appen’s staff have been responsible for managing ..."
+    publishedDateTime: 2024-01-24T18:29:00Z
+    webUrl: "https://www.extremetech.com/computing/google-axes-underpaid-contractors-who-helped-train-bard"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "hCtw+XpIOx9sfnKfTqf50kJol/wTbh0d2NxQzyfLAGfetT/GvU8LWaZj0SFcpjAQPyO70T/T5PXuZB2MAoCu9HgmUeglfaX6zLAJQoA7Q6m/7oKZzrll2hOCsHnyCb9yzt1sI2pFbQjloJSCH6j6tj2EsSOmQ5115OchlkQhyxJA6PQlcnmTehduV+SJCQi4YkAmH3YzwLFhrWSboONhbisMKHhhpZ0vm+YPC1GEwUKuNKhzRnNqnNPRxQ1iCfe1eOFMkW/mwEn5MRaPPJNnOnZzzbZm+aA5dACPDY+PvvCiAM2kCff8q5L4tMONQt5zNHZVw7f5AY7gQUgWDHH9/mnDQR40/x5PeZMbPxvmTSxgIycRTJIwB1IZa31avwIAf8Zbl/0TAik9TtTZ5AHmriofasXVvbZ+WmB4TFIBBOvRPNBIq/TvYJ9pYdHgPcCZTPRrwm9iKlpSIX2CBdqoIN99vMDRRXS9DqCksMNqeOGH9v1KZwyFQoGuwXArGUhpaiIksgY3491jI1gQShFFfg==;fSZe0xcEGExzfCccQUjXHA=="
 ---

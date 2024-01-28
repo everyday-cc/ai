@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-27-shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now.md",
+      "title": "Shaky Intel Earnings Confirm Chip Stocks Are Maxed Out For Now",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips When it comes to the future of AI, you probably won’t find anyone more",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/INCX9RGQd6Tw6HVoCA-uIFeD70VrQ719e13wBVlcZ0mnabnXu-lV5n295m3pEefURlvH-fTlcZhcNv_nzvqN-0BYj_bjoIp1-NIDi_tgsiTeSahlkjzlNymNxxx-NDI2n3WiGhdBsrc-uRFRt2mA8w",
+          "width": 1482,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression.md",
+      "title": "George Carlin’s heirs sue comedy podcast over “AI-generated” impression",
+      "excerpt": "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "originalUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T16:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-could-a-security-guard-shortage-be-solved-with-this-autonomous-security-robot.md",
+      "title": "Could a security guard shortage be solved with this autonomous security robot?",
+      "excerpt": "Ascento Guard is a two-wheeled, all-terrain robot equipped with cameras, speakers, a microphone and GPS tracking to work as a security guard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "originalUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/bg/default.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-instana-2023-recapping-our-latest-innovation.md",
       "title": "Instana 2023: Recapping our latest innovation",
       "excerpt": "A comprehensive recap of what we launched in 2023, awards and links to the latest update and how you can get started with each enhancement.\nThe post Instana 2023: Recapping our latest innovation appeared first on IBM Blog.\n",
@@ -125,6 +281,48 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-send-app-gets-personalized-artificial-intelligence-feature.md",
+      "title": "Send app gets personalized artificial intelligence feature",
+      "excerpt": "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "originalUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg",
+          "width": 1024,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/",
+      "publishedDateTime": "2024-01-26T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -419,7 +617,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -615,49 +813,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-love-machina-meet-the-first-ai-robot-based-on-a-living-human.md",
-      "title": "‘Love Machina’: Meet the First AI Robot Based on a Living Human",
-      "excerpt": "The new documentary “Love Machina” reveals the messiness of creating a digital consciousness in a robot bust’s form.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human",
-      "originalUrl": "https://www.thedailybeast.com/obsessed/love-machina-review-meet-the-first-ai-robot-based-on-a-living-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706225226/240124-love-machina-tease_xtbk4y",
-          "width": 1480,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T23:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1042,143 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
-      "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
-      "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "originalUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "publishedDateTime": "2024-01-25T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
-      "title": "MRO spare parts optimization",
-      "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:45:34Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-4-skills-that-can-help-companies-thrive-with-ai.md",
-      "title": "4 skills that can help companies thrive with AI",
-      "excerpt": "In-depth knowledge of market dynamics, product-market fit, and understanding your customer have always been essential business skills, but they’re especially critical in the AI era, says Subbaiah.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html",
-      "originalUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2024/01/3_iStock-1133750811.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1",
-      "publishedDateTime": "2024-01-25T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

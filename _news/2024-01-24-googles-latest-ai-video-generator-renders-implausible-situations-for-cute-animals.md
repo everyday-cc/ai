@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2024/01/googles-lat
 webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
+    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2024-01-24T12:57:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Lumiere, Google's latest generative AI model, can create brief yet fairly realistic video clips"
     excerpt: "Google has just unveiled Lumiere, the company's latest AI model for video creation. Lumiere is a significant improvement in video synthesis, Google states, as creating \"realistic,"
     publishedDateTime: 2024-01-25T15:13:00Z
@@ -42,19 +56,21 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Google launches AI-first startup accelerator for ecosystem expansion"
-    excerpt: "Google has announced the addition of AI First category to its startup accelerator program. Initially targeting startups in North America and Canada, the program is set to expand its reach to Europe, India, Brazil, and other regions. Selected startups will ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD218/ai-startup-accelerator-gemini-google-it+ce-software-big-data.html"
+  - title: "Google Unveils Lumiere: A Revolutionary New AI-Powered Text-to-Video Generator"
+    excerpt: "Google has unveiled a cutting-edge text-to-video artificial intelligence (AI) generator called \"Lumiere\" that will revolutionize the synthesis of realistic and diverse motion in videos. The project, developed by Google Research, introduces a groundbreaking ..."
+    publishedDateTime: 2024-01-24T05:01:00Z
+    webUrl: "https://www.techtimes.com/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
+      name: techtimes
+      domain: techtimes.com
+    quality: 55
     images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd218_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442862/google-unveils-lumiere-a-revolutionary-new-ai-powered-text-to-video-generator.png"
+        width: 840
+        height: 560
         isCached: true
 
 secured: "0FvOLrabzBSCjD7Do9P2+qP0uQFiPqc01ihcCAKwLnaMqa2qTGIRTGUOt5lfKObpvLBaimROLgd3bF0Rrz9GLXQfHDx7eYQVDHS05nvqRlPR+G9q5lIIujLr3GtwwkrIQQJaDRyuxkr7o01sedyRfzWEIooEFVfAHpNpuQ7bdr91ajsBljK7H18jJIugsiUenkmWuBlaEVzPrsJ1fBfS3eRMSdTZtQmuHXA9VjVW6bS4dtLRfMKAzPeJHHmuhhJ5t/d15VNf7695npm1zc0ydP7v/lMYWZk59vn2yJsEHPtbkYgA11cTloLbTYyJg8LEc6tpy0Y3WgNHbfkBnWmfTD4VGOVKy4wA0RNIiIWNTidEUy5yCLlO/ez+VchwZ0oXZ60kCPUJSztG3qRt8DuqK+zOKbI3FLRn7Vc5Gvn5o08K1WMk/MgAKVyU+2eDRDOJrt+5Mh0+OX3kmAlU9uTjPhTn3BrGG+RRq2AeQJUtM8KigOopqkgVNYy/r8IEfZ1Jgv0vklkbdNpNfehMnrbnyg==;zo61YdE6S105yqmtBAXQ+A=="

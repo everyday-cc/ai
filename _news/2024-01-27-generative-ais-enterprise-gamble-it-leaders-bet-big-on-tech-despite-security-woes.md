@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-lea
 webUrl: "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
-    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
-    publishedDateTime: 2024-01-24T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 30
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "KoqChurpAMyb0BDC6fqJ9FVva0ftad79/a29Z09S4ciem4hJe4NaK4j4GC0tkrf+EDvRJhZa34lys3KOtj3Ax8Py4g7pK/YYxL52qzIbU17Gnj8tkRIDb4J3vYl4aUsmV7oULmE9/h7jYMJ0QJ+68bKoyD4Xe9oeBe0I08yAJZiaPmsOvrrQpcEFauto4nu3miclsuAHdCKeEx+hTXD3y6pqzuTJ2WaZm2oc7sIBjcxcml/JnqkIW7DUp+CJe/baZ6JgPtYxYU/ogM3dFLg5bUfPouM5H7fAz3QaENGpEZSDcfoqNMvjrN/aVlLcv9pgtsr8jK45Aynv6GpynqMH2ldiMyNnR8PYeVa5mTDOOnlStpljiYz+8/SrgDySjL2StmeVL1DcF67+Ym+1wIMIZiLZ1BXGM4p7vPk1cPA+2337dkOajggkS+RXiQxFsGi0nR1D++wjAIpqlnxAT28ogsyZHqZM7GNAW/OUymI6R9LHQFrhQKsgxvE+RGgaRY/JYgIV7WmLKsFWCdMnIzpOdA==;A8xqmEj04wJ7LRhPP2497w=="
 ---

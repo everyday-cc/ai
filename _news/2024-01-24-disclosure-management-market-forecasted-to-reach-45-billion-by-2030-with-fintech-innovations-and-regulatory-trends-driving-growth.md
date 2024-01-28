@@ -49,20 +49,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Majority of Consumers View Circularity as a Money Saver, According to Report from Fintech Klarna"
-    excerpt: "The vast majority of consumers are “aware of the financial benefits of circular practices – particularly repair and second-hand shopping” – finds a new report from Klarna, the AI-powered payments ... and other forms of Fintech."
-    publishedDateTime: 2024-01-23T13:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/01/220610-majority-of-consumers-view-circularity-as-a-money-saver-according-to-report-from-fintech-klarna/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 11
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "yzFZhYJN6amlnpGrSvIMIVKsYy48USvrvWSe9R9Hn6kGJLWn3aL3oK1ruaDj6R4a39fKXmG7PNQavwyRE7hbObGgBLGRFONyzVA/KHXaKcaQolMMGApcWfQlXl6ekxkN4sP+mb0+pJ7caKEV/pSUXM8PNdwzPaTuFJhh04pf/czHKCJ+7LCNbsVvzcg6FK/efriElSIMyxCBSkUt2SgYUVn7Jj9a+PdVbNTwdoQ8d2G6qMhVLpjZAVwKMOa29FPMP0A3nW+t2h54uifrM4sTzk/IoyUeaKHNc+8VBYX1nm9PFhnUF6X/1KBhggGPdqcQIl2cHGrXHqAiQNm5TWZn26I13CsXpD/+tYseWlYjx6U=;YchKuxYQzwu2Iww25dKxDw=="
 ---

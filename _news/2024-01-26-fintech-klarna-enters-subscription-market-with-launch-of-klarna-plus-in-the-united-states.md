@@ -41,20 +41,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Majority of Consumers View Circularity as a Money Saver, According to Report from Fintech Klarna"
-    excerpt: "The vast majority of consumers are “aware of the financial benefits of circular practices – particularly repair and second-hand shopping” – finds a new report from Klarna, the AI-powered payments ... and other forms of Fintech."
-    publishedDateTime: 2024-01-23T13:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/01/220610-majority-of-consumers-view-circularity-as-a-money-saver-according-to-report-from-fintech-klarna/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 11
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Disclosure Management Market Forecasted to Reach $4.5 Billion by 2030 with Fintech Innovations and Regulatory Trends Driving Growth"
     excerpt: "The global Disclosure Management Market is projected to ascend from a valuation of USD 1.3 billion in 2022 to an impressive USD 4.5 billion by the year 2030, progressing at a Compound Annual Growth Rate (CAGR) of 17.1%."
     publishedDateTime: 2024-01-23T18:23:00Z

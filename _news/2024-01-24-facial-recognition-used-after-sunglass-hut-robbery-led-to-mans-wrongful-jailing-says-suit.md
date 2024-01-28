@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-faci
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
 type: article
 quality: 66
-heat: 166
+heat: 146
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
-    excerpt: "Harvey Eugene Murphy Jr, 61, sues over software reportedly misidentifying him as the culprit of an armed robbery in Texas"
-    publishedDateTime: 2024-01-23T14:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 64
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Man Sues Sunglass Hut After Faulty AI Facial Recognition Tech Led to Wrongful Arrest"
     excerpt: "Harvey Murphy was arrested in October 2022 for the armed burglary of a Huston-area Sunglass Hut store after a facial recognition device identified him as the burglar. The only problem? Murphy was in Sacramento, California at the time of the crime ..."
     publishedDateTime: 2024-01-24T15:13:00Z
@@ -73,22 +57,6 @@ related:
       name: KRIV
       domain: fox26houston.com
     quality: 41
-  - title: "Man falsely accused of robbing Sunglass Hut in Houston suing companies over use of facial recognition software"
-    excerpt: "But Dutko said Murphy was nevertheless charged with armed robbery after the head of loss prevention for Sunglass Hut's parent company coordinated with Macy's and the property management company to use surveillance footage and facial recognition software to ..."
-    publishedDateTime: 2024-01-23T14:55:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/technology/2024/01/23/475288/man-falsely-accused-of-robbing-sunglass-hut-in-houston-suing-companies-over-use-of-facial-recognition-software/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/technology/2024/01/23/475288/man-falsely-accused-of-robbing-sunglass-hut-in-houston-suing-companies-over-use-of-facial-recognition-software/?amp=1"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/technology/2024/01/23/475288/man-falsely-accused-of-robbing-sunglass-hut-in-houston-suing-companies-over-use-of-facial-recognition-software/?amp=1"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 39
-    images:
-      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2023/06/29195826/FU3A2902-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
   - title: "Sunglasses Hut Incident Shows Pitfalls Of Facial Recognition Technology"
     excerpt: "Harvey Murphy is a 61-year-old man who has recently sued Macy’s and EssilorLuxottica, who is Sunglass Hut's parent company. This is due to a wrongful arrest made from using a facial recognition system."
     publishedDateTime: 2024-01-24T10:44:00Z

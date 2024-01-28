@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
+    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2024-01-24T12:57:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google’s latest AI video generator renders implausible situations for cute animals"
     excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
     publishedDateTime: 2024-01-24T14:45:00Z
@@ -43,19 +57,21 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google launches AI-first startup accelerator for ecosystem expansion"
-    excerpt: "Google has announced the addition of AI First category to its startup accelerator program. Initially targeting startups in North America and Canada, the program is set to expand its reach to Europe, India, Brazil, and other regions. Selected startups will ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD218/ai-startup-accelerator-gemini-google-it+ce-software-big-data.html"
+  - title: "Google Unveils Lumiere: A Revolutionary New AI-Powered Text-to-Video Generator"
+    excerpt: "Google has unveiled a cutting-edge text-to-video artificial intelligence (AI) generator called \"Lumiere\" that will revolutionize the synthesis of realistic and diverse motion in videos. The project, developed by Google Research, introduces a groundbreaking ..."
+    publishedDateTime: 2024-01-24T05:01:00Z
+    webUrl: "https://www.techtimes.com/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300937/20240124/google-unveils-lumiere-revolutionary-new-ai-powered-text-video-generator.htm"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
+      name: techtimes
+      domain: techtimes.com
+    quality: 55
     images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd218_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/442862/google-unveils-lumiere-a-revolutionary-new-ai-powered-text-to-video-generator.png"
+        width: 840
+        height: 560
         isCached: true
 
 secured: "2lFTukwKkUfuaPwsMe+xl398FS7Vzz0WxIqOyIDz4Evx9tVdIIFFM9e/t+G7JFR1lJxvayZvP6LVgtbgRP08hRCjjeqaJjt0wpevj0GLyJe2UjajwcnPeSk+QPLuV15GUcpZVgr2T0NdFCjtwSm9gtRKb39OYqr/RMp2GUPm70tuXfJuYJ09vbFlLJFOPrZvWJ4EH/b8rau2F4BsI32H/oOTGdP8zxWkjqQMEDQv4OqoogyxfESUBF0K3QL/wH/vZ8xC3h2B2AtCgNgQUZsTmSlvIqcfwaPo24akDRhO9yAkV78JqNowYWS1QP6QgQXdKzIdQz5vE3CyqrxxV8PYqFD8AFgxI2Pz2KyGeDlA4BjRW76Itr+g5vSgz3l97s0j3AmjADsXryPsVL3K6F/SQBLbPUEzBsUCRhYQZ6eDFdT3Cd43xVRL9jqrmJbnsbVy4SJxstat7SLq9UsSLZtijMAB1S76cv7/gKkBfyoerrfio8uZ/ml8MmwJ1dPAteiXTiR71X81yYJIr+pxB8KmfA==;RPhHOtROagQttoX478YyGA=="

@@ -1,47 +1,46 @@
 ---
 category: news
 title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
-excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
-publishedDateTime: 2024-01-24T17:09:00Z
-originalUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
-webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
+excerpt: "Stellantis NV has acquired artificial intelligence and machine learning technology, intellectual property rights and patents from U.K.-based CloudMade to enhance its in-vehicle experience."
+publishedDateTime: 2024-01-25T12:05:00Z
+originalUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.html"
+webUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.html"
+ampWebUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - AI
 
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/stellantis.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
 related:
-  - title: "Emerging AI technologies that are reshaping financial services"
-    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
-    publishedDateTime: 2024-01-24T21:19:00Z
-    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
-    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
-    publishedDateTime: 2024-01-25T14:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
+  - title: "Stellantis to Enhance Personalized Mobility Experience with Acquisition of CloudMade’s Artificial Intelligence Technologies and IP"
+    excerpt: "with Acquisition of CloudMade’s Artificial Intelligence Technologies and IP Acquisition reinforces Stellantis Dare Forward 2030 software strategy by adding an AI-powered framework to deliver advanced features to vehicles and mobile apps Based on ..."
+    publishedDateTime: 2024-01-24T09:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/stellantis-to-enhance-personalized-mobility-experience-with-acquisition-of-cloudmade-s-artificial-intelligence-technologies-and-ip-1032992446"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 30
+    quality: 37
+    images:
+      - url: "https://ml-eu.globenewswire.com/Resource/Download/f97e097a-f468-40dc-b9a5-05f23d0f3f1f/image1.png"
+        width: 8534
+        height: 8534
+        isCached: true
 
-secured: "hrscT2e0Z5MkCEKzKH4MteQXQwoxXL+jNLv1nea6X7B3gcpXnjcquZKR+KTdObuK09PJfS3CrvREl1IoeqNUSBUF0rFSd2h1x9kJpnGMxt/zFu75rQPuxj0a/Eyeja8zcHDbswzaIUw48iZmbWltb0yuaz2W3j2RFS4KURzmeqriOB4X9n9L4qwOUJGDeQPSB84sU62TPQSEAVILyvQF6ACSzW5qQI1ZZG/0lS97JNrkm5+KQH/v2LOxlitVKNYloLlo5hcZOxH9sCeg2mncpeacom5cgFo4qmws0duEbj3pAEnFmqMUNKyrvDsEnBdiioYXW4iaR/EQtW76Neg3FPH1hW4QrUBQk1vWntAGJVBUk4mjIHJevuF/zKZEc0e9KYo+UwrSL/3lGOtHrVtdEBeBZhn3NPUXY4yxo4gL7kxxYX8gOgqLt0z/BO2EIiGA8FpY1mbocfr/vlI0nPMRrKFHeg7qH3/uiytTlKkZTIyUBRo/SQ/Kq9yw5YU/+qpp1B+tlNwaNCqHCB2iWAFrTw==;7pWgTeRYaufEcNL88vNCGg=="
+secured: "sWOxoEWNuzVsmq+XeWTpxXk9y9n1r1XLYhlCLzWgtz/Dhkj2Mq/kibpsxk3h59b4myV0F6gDg8dv/QcGi2i1lz6mnIscy+YP8QcSrdOvWs4NyT7rxD6wsV2GykHLqDbdbkeZB6xVUTBfP2265bwYbsDBb8k810Kvu+N25AJl8y+QAqACgWeFWfyYVAcRVrJ4+x+AkVJDl/r0KfaTh6jXyTugOsr3DZNQZZ+rTnbwSSMhiJ67BB7LzKkXUPCrsGJI5Oz96Sc4YK2p1urVN3fMD5zG0fhDdyLuSfN/+fe30lq0ZXbn0aT1MzUZnG2n7+uYuNeQY7WmPf6J9NLR/AlacjQJQRCq8FzDHfCl/xn6cio=;BEl5GbAch8gmoHulXpGLAQ=="
 ---
 

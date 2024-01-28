@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Drones, lasers and self-driving vehicles are changing construction. Here's how."
+    excerpt: "Lasers, drones, AI and self-driving vehicles all have a role to play in the future of construction. Buffalo has been a test bed for some of these technological advances, according to a panel of industry leaders who on Monday addressed a group of ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://www.bizjournals.com/buffalo/news/2024/01/25/moog-arc-dv-brown-construction-technology-future.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+
 secured: "kJz3P9b/1jU1G/sV3BTEqUP7tCGYcRXX5rmMpK7OYyKjLZYwN59CLIi2M0bqp4cozzuDLRPXaM2bbiBDPzmSJQfApCx0ZuCEVL+NDtnUjgTkxGtgYv3kMCeN4ftpVZWvjpKzsRaqc+tlvs43KUp4nz6YONXe5AkhIWC1WJA+Up7/HXbbxtlO98PR0UhF78lhmFfweuntwQImDav0uVEHPBSmanMojup/UtmqKPKzB5Vnc2WDZ7XfzYDrRyDgWaKGO4GmfFCciXS2Y4lC1esXRwEdjElvAuu/b7z2ETNwUmf9vlZfKsFBQqVqjc5GcgiemAagAVbRQ1Obl9wvENm+S5/RE9Fx7XgyrXOOjlhhSok=;XTqtVZDcEByUwZf13TxRbw=="
 ---
 

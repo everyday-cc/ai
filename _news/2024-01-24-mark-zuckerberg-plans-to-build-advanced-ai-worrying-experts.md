@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-
 cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/mark-zuckerberg-building-advanced-ai.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: FOX 10 Phoenix
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Mark Zuckerberg wants Meta to create artificial general intelligence"
-    excerpt: "Mark Zuckerberg has a new goal after creating the metaverse earlier. He wants Meta to focus on general artificial intelligence. He is moving towards this goal by installing FAIR, the AI research group of Meta,"
-    publishedDateTime: 2024-01-23T15:13:00Z
-    webUrl: "https://www.cweb.com/watch-mark-zuckerberg-wants-meta-to-create-artificial-general-intelligence/"
-    type: article
-    provider:
-      name: cweb
-      domain: cweb.com
-    quality: 22
-    images:
-      - url: "https://www.cweb.com/wp-content/uploads/2023/03/shutterstock_2179427777-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Zuckerberg announces plans for human-level AI"
     excerpt: "Meta has already released its own AI model, Llama 2, with Zuckerberg further revealing the company is currently training the next iteration, Llama 3. Meta has not provided a timeframe for its AGI-development plans."
     publishedDateTime: 2024-01-24T13:01:00Z

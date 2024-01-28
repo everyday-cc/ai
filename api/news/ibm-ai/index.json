@@ -399,49 +399,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-25-sevilla-fc-banks-on-ibm-ai.md",
-      "title": "Sevilla FC banks on IBM AI",
-      "excerpt": "Sevilla FC partners with IBM to deploy generative AI as a 'critical 12th man' in their player recruitment process.",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
-      "originalUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2024/01/Fernando-Suarez-IBM-Software-director-SPGI-Jose-Maria-del-Nido-Carrasco-presidente-del-Sevilla-FC-Arturo-Guerrero-Senior-Manager-Client-Engineering-IBM-SPGI-Elias-Zamora-Chief-Data-Officer--scaled.jpg",
-          "width": 2560,
-          "height": 1622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2024/01/sevilla-fc-banks-on-ibm-ai/?amp=1",
-      "publishedDateTime": "2024-01-25T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
       "title": "Balancing AI: Do good and avoid harm",
       "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
@@ -555,7 +512,7 @@
       "originalUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -629,6 +586,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-examples-of-ibm-assisting-insurance-companies-in-implementing-generative-ai-based-solutions.md",
+      "title": "Examples of IBM assisting insurance companies in implementing generative AI-based solutions",
+      "excerpt": "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/",
+      "originalUrl": "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T22:11:56Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -815,6 +815,40 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-2024-prediction-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth.md",
+      "title": "2024 Prediction: Why IBM Is the AI Stock to Buy and Hold for Magnificent Growth",
+      "excerpt": "While market darlings have grabbed headlines with soaring valuations, IBM has quietly built a formidable AI arsenal, from the versatile Watson AI platform to the innovative Watsonx system tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
+      "originalUrl": "https://www.nasdaq.com/articles/2024-prediction:-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1299,49 +1333,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-making-ai-work-for-you.md",
-      "title": "Making AI work for you",
-      "excerpt": "According to travel advisor Bob Burke, the best way for advisors to meet the growing challenge from artificial intelligence is to learn to use it and other technology to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "originalUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2024/0101/T0101BOBBURKE_C_350x200.jpg?tr=w-1200%2Cfo-auto",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Travel Weekly",
-        "domain": "travelweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

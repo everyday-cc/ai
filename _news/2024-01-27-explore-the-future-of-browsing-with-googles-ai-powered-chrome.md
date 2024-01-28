@@ -27,208 +27,148 @@ images:
     isCached: true
 
 related:
-  - title: "Chrome is getting 3 new generative AI features"
-    excerpt: "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized."
-    publishedDateTime: 2024-01-23T15:00:00Z
-    webUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/"
-    ampWebUrl: "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "The service also includes improved GPU cluster management with multi-endpoint support and endpoint analytics features. Additionally, it offers flexible fine-tuning options for models, enabling businesses to adapt AI to their specific needs. The OCI ..."
-    publishedDateTime: 2024-01-23T16:47:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/23/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65afff60f2b86960f82a590f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Examples of IBM assisting insurance companies in implementing generative AI-based solutions"
-    excerpt: "Helping clients improve core productivity while reducing cost, and embrace data modernization utilizing secure hybrid cloud and AI.\nThe post Examples of IBM assisting insurance companies in implementing generative AI-based solutions appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-23T22:11:56Z
-    webUrl: "https://www.ibm.com/blog/ai-based-solutions-for-insurance-companies/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 89
-  - title: "13 Ways Writers Should Embrace Generative AI"
-    excerpt: "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks."
-    publishedDateTime: 2024-01-24T06:20:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+  - title: "AI And The Future Of Coding"
+    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
+    publishedDateTime: 2024-01-24T19:52:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
+    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1040
+        height: 700
         isCached: true
-  - title: "Browser alternatives Brave, Arc, add new AI integrations"
-    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
-    publishedDateTime: 2024-01-27T05:42:00Z
-    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
+  - title: "How the rise of artificial intelligence is boosting tech stocks"
+    excerpt: "Rallies have driven both the Dow Jones Industrial Average and the much larger S&P 500 to record highs this week. There are several reasons for that, including investors’ assessments of the economy right now and where it will be in the months ahead. Geoff ..."
+    publishedDateTime: 2024-01-23T23:24:00Z
+    webUrl: "https://www.pbs.org/newshour/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/show/how-the-rise-of-artificial-intelligence-is-boosting-tech-stocks"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "North Korean Hackers Spotted Using Generative AI"
-    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Send app gets personalized artificial intelligence feature"
-    excerpt: "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you."
-    publishedDateTime: 2024-01-26T12:20:00Z
-    webUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/"
-    ampWebUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
+      name: PBS
+      domain: pbs.org
     quality: 57
     images:
-      - url: "https://www.mactech.com/wp-content/uploads/2024/01/SendIt-1024x690.jpg"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/ai-1024x683.jpg"
         width: 1024
-        height: 690
+        height: 683
         isCached: true
-  - title: "Apple Plans To Launch IPhone With Generative AI"
-    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
-    publishedDateTime: 2024-01-24T21:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
+  - title: "For the age of the AI PC, here comes a new test of speed"
+    excerpt: "The new MLPerf Client benchmark will rate how well chips and systems perform with generative AI on desktops, laptops, and workstations, said the MLCommons, the industry consortium that has published various AI benchmarks for five years, in a blog post."
+    publishedDateTime: 2024-01-26T19:02:00Z
+    webUrl: "https://www.zdnet.com/article/for-the-age-of-the-ai-pc-here-comes-a-new-test-of-speed/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 49
-  - title: "Google Adds AI Features To Chrome, Including Tab Organizer"
-    excerpt: "Another experimental feature called 'Help me write' will tap generative AI to create text for you within the browser."
-    publishedDateTime: 2024-01-23T18:29:00Z
-    webUrl: "https://www.pcmag.com/news/google-adds-ai-features-to-chrome-including-tab-organizer"
+  - title: "Artificial intelligence and the dangers of deepfakes"
+    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
+    publishedDateTime: 2024-01-26T23:43:00Z
+    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
+      name: WSLS 10
+      domain: wsls.com
+    quality: 41
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
+    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
+    publishedDateTime: 2024-01-25T13:36:00Z
+    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 40
+  - title: "Unveiling the Future: Navigating AI Stocks, Artificial Intelligence Stocks, and the Realm of AI IPOs"
+    excerpt: "In the dynamic landscape of the stock market, where innovation intersects with investment, a compelling avenue has emerged – AI stocks, or Artificial Intelligence stocks. The intersection of technology and finance has given rise to an exciting realm,"
+    publishedDateTime: 2024-01-25T17:07:00Z
+    webUrl: "https://techbullion.com/unveiling-the-future-navigating-ai-stocks-artificial-intelligence-stocks-and-the-realm-of-ai-ipos/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 39
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/ai_hominoid_robot_touching_virtual_hologram_screen_showing_concept_big_data_1_8e39d0c3b4-scaled-1.jpg"
         width: 1000
-        height: 667
+        height: 500
         isCached: true
-  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-    publishedDateTime: 2024-01-26T02:00:00Z
-    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+  - title: "Artificial Intelligence and the Future of Work: Opportunities and Challenges"
+    excerpt: "Introduction: Artificial Intelligence (AI) has emerged as a transformative force that is reshaping the future of work across industries worldwide. As AI technologies continue to evolve, they present both opportunities and challenges for the workforce."
+    publishedDateTime: 2024-01-27T13:33:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-and-the-future-of-work-opportunities-and-challenges/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
+      name: Impacts
+      domain: techbullion.com
+    quality: 38
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-and-the-Future-of-Work-Opportunities-and-Challenges.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Google Adding AI to Chrome Browser"
-    excerpt: "Google is integrating generative artificial intelligence (AI) and machine learning (ML) features into its Chrome web browser to help users choose AI-generated themes, organize multiple tabs, and get some AI-powered writing help. An experimental version of these capabilities launches today."
-    publishedDateTime: 2024-01-23T17:43:00Z
-    webUrl: "https://www.inc.com/will-swarts/google-adding-ai-to-chrome-browser.html"
+  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
+    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
+    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
+    publishedDateTime: 2024-01-26T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
+  - title: "Artificial Intelligence and the arts"
+    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
+    publishedDateTime: 2024-01-25T10:59:00Z
+    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
+    type: article
+    provider:
+      name: TheCourierExpress.com
+      domain: thecourierexpress.com
+    quality: 19
+  - title: "Hello, Apple has joined the AI arms race"
+    excerpt: "Existing systems, even on mobile devices, rely on cloud-based AI, which drives up the cost per query. Apple seemingly hopes to exploit the Neural Engine on its powerful existing chips alongside its own innovations (including MLX and \"Ferret\") to enable on ..."
+    publishedDateTime: 2024-01-24T17:52:00Z
+    webUrl: "https://www.computerworld.com/article/3712600/hello-apple-has-joined-the-ai-arms-race.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/chrome-google-ai-inc_536707_vmg2mt.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
 
 secured: "NcEMP8BdLZA8gxUYPz9Scc1Nlm9A+uZ9P1YvOrlshk3+pbKy52FMM9PVib7JuVUp2+dmTcZPRgkYpF6tKuCdz6EwzgsiUFYl9JqzifcBHwhRV8ZLqF+KnLRlLQaeez9YdisyrM4g1eDUTcFjhn2VUx6ddyLRxGYSVyKX5IszVqdTMHTdAT7BryRuphNzC46E/wfdL8sABsbdT6eb83DvcaPSFuAd4ZyMooc+aDJAxK0QHLqXDMoQiQ1tIsK+mgBj1O2CVoeDpdtOvuX32g3wI/mSW+avMMmMT9wTTf06YHcHPSmO6/HwcSQ/RJcjxujrEseZMlF8tLtLDyThlm/BLjm7KUJu3vSRheL9YeM3l5UVSQnSUDeT8HgNA5vXdnW5fp6Z1qd8B+oWL+ieDb80RnaFUx9Cs/HkHnai3QPgZVdbsXOA+Mcl4vdDostG2ZbmPpDroxunq9sPEKm5Tv3iTmzQtRldkONPbrud76Dsp/ANm/QdzKmz1PZZE/ZduvMVw6pkkpodiNCKEXGmITjT+w==;h+9gUA199fuk8c2dB4UHsQ=="
 ---

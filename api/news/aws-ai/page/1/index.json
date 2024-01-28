@@ -89,58 +89,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace.md",
-      "title": "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace",
-      "excerpt": "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg",
-          "width": 1021,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T17:14:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
       "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
       "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
@@ -191,6 +139,49 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
+      "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
+      "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/23/screenshot-2024-01-23-at-102728-am_o0nq7eE.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

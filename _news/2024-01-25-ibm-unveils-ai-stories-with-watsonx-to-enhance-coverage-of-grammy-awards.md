@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stor
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
 type: article
 quality: 73
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sevilla FC transforms player recruitment process with IBM watsonx Generative AI"
-    excerpt: "Sevilla FC has introduced Scout Advisor, an innovative tool built on IBM's watsonx platform, to enhance its player recruitment process. IBM and Sevilla FC have introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their scouting team with a comprehensive,"
-    publishedDateTime: 2024-01-23T15:22:00Z
-    webUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 52
-    images:
-      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2024/01/AdobeStock_400019282_Editorial_Use_Only-www.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "IBM watsonx AI scores pro soccer player scouting gig"
     excerpt: "An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI. In an announcement released on IBM’s blog, the technology company revealed that Scout ..."
     publishedDateTime: 2024-01-24T00:00:00Z
@@ -73,15 +45,15 @@ related:
       name: Ummid
       domain: ummid.com
     quality: 32
-  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-    publishedDateTime: 2024-01-25T10:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
 
 secured: "ol1jF8QD+8WxV3PvLQs2a1X3bXOS4vqS8xLYKKGNl4rj9vMZqIHuJjFTrp32czu3eQ2UX+RRA2zSl/i0TfNvlwO0Vl6NS2ux0YGG3xJVsXnYKVcL8F3ZCc4Ax3o0k4mzVL+lWVA/mbPXQ2h02g7CRfEeBVAM2aEw308q3ea8IiJgbqqEakMK+pvcN+WWM2ozzz6t1Hxc582pCB6sWow7Sc2Za0maif/vhmf4ty1uVzYK2aRBkh2Gw+HRmHnjzRh5DF3QbyVzafiJ9GryRA8RAtlKJuTiPq/3MB0U8X1patNT+B0xiesquYiqa0G8u1PBTDDmV0EAOcvu6NVQg0x+YdE0aCLxZlmeq4CZqqTUAr5QDXS5lVVQ1SxmwNyM7wTEEtaM63nhzteWdsN7KJ5h6QmHm1Zk1tGfDvZd3BcBSjj2TFngtzI5pjhcguFnFs2r2DaHuiSljqel9noFqnBHx9rufgqGaz//ylFSdyvACepVpA/E8E7+5V11VMNAio+U+TBOIJ+0bXrKSDS9GnwzUA==;/SuBvYpdsYEC91ov3Du61Q=="
 ---

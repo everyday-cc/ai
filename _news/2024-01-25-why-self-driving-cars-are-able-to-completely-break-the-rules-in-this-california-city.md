@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-compl
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Are Self-Driving Cars? The Technology Explained"
-    excerpt: "Only that top level represents a driverless, or fully autonomous vehicle ... Indeed, the world will likely be affected in five key ways, according to artificial intelligence company Allerin: fewer traffic accidents, reduced car ownership, automated ..."
-    publishedDateTime: 2024-01-23T16:15:00Z
-    webUrl: "https://www.forbes.com/sites/technology/article/self-driving-cars/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "California restaurant incorporates kitchen robots and AI"
     excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."
     publishedDateTime: 2024-01-27T20:45:00Z

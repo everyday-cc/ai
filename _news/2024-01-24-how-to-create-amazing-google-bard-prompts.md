@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-pr
 webUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-prompts/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "6 Google Bard prompts to try: AI-supercharge your workflows"
-    excerpt: "Google's Bard is a powerful AI chatbot, but it's not nearly as useful if you don't know the right prompts to use. Here's six to get you started. Bard can be used for various purposes such as generating writing drafts, brainstorming ideas, and general chatting."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.pocket-lint.com/google-bard-prompts/"
+  - title: "7 Ways To Use Google Bard to Streamline Your Productivity"
+    excerpt: "In the current era of information saturation, maintaining productivity is increasingly challenging. However, a solution is at hand with Google Bard, the advanced AI-powered language model. Google Bard represents much more than a simple query-answering tool ..."
+    publishedDateTime: 2024-01-27T10:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/7-ways-to-use-google-bard-to-streamline-your-productivity/"
     type: article
     provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 39
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
     images:
-      - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/2024/01/google-bard-featured-image.jpg"
-        width: 3212
-        height: 1807
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-1-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "E9bjxaoSaCG3ahWlXBjdKapdsjRUcP0o2ZjBl3sDQGUdbDePaQdte95E1ptKXo3aIKQyFCIzrPZOytYEEUzOg7vVuY21k9hdmoWmadIstRxwNVRSO1QD5csZUfKwDL3GAsnpUsQym4Tmw/U4gVx7N4EsDhlD/c5F/uJM3SuM47sVHNkQ9wiVc1uMvEmqq280BsO8RKg1oi9XzUyCs/3WZyHsF2agJH0idXQzxJ6u3fQfrQYkB0WuSY1GZ4GBmBoAATdybbfDGdmEm0UwKuCzPWrqe15uSwM27xNqluRkXOUOfLZXWQYIbsxSnbet8d550aBkNtZ8xD85MZLwb6Zpm29mOJkgD/gRWsxAhPGhoHQwRHBGCWzdmAavKzd9tE98cG7QqHzqGNtUg7lN5gHwDCkEv4WKjpBW8kHVLTEh6ZpWt6U7Gdwuz0wsOswRs1NQ/4kVBBbzqUbX+0PUopBXwvyOH13880O3NDhievSTPrbJSBzeb8wAu2tc1ag+PMdPVOxu5Qw81lR0iiYaERQ4Fw==;sRSToKfu07hJZy2cGOmneg=="

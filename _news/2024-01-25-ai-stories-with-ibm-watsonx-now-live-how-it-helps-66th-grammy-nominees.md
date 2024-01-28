@@ -35,34 +35,6 @@ related:
         width: 640
         height: 405
         isCached: true
-  - title: "Sevilla FC transforms player recruitment process with IBM watsonx Generative AI"
-    excerpt: "Sevilla FC has introduced Scout Advisor, an innovative tool built on IBM's watsonx platform, to enhance its player recruitment process. IBM and Sevilla FC have introduced Scout Advisor, an innovative generative AI tool that Sevilla FC will use to provide their scouting team with a comprehensive,"
-    publishedDateTime: 2024-01-23T15:22:00Z
-    webUrl: "https://www.intelligentcio.com/eu/2024/01/23/sevilla-fc-transforms-player-recruitment-process-with-ibm-watsonx-generative-ai/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 52
-    images:
-      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2024/01/AdobeStock_400019282_Editorial_Use_Only-www.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "IBM watsonx AI scores pro soccer player scouting gig"
     excerpt: "An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI. In an announcement released on IBM’s blog, the technology company revealed that Scout ..."
     publishedDateTime: 2024-01-24T00:00:00Z
@@ -72,15 +44,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
-  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-    publishedDateTime: 2024-01-25T10:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
 
 secured: "8XiECMPWNtVH4UcEsKa/lj1dKgVzO1jLW2bEYnKcJAhsTRHCIdwOc6ZcahfvkOEhBd0CnjiNrDKHhEuptxb6FLrOWckSc1CghL78xtXreK8IVNzTYCn4bXmlK/yqtYjhO+h87zVCXCNA1N+++Yc9d7t9Vn5vm5otfqNzQIT+n6aMmDFmj3KRNhDMo8m9Ei9yhIPsc8TuI/XGtnO9jqrOwk/DxUNhvr1tsxskdgD5ALj+vukSl26DuF7IvW8PzJvd54ine0BHVE5yL1cyfDx95asywllO6/VTDb+YKHvp80JmmzVH/CUGvRLo1V9APeWHsB0CoT8YQ4vSBuPjHIR+DNz5/JvDwTkgyx2nwdFoLuAxqamOBz54gjVecsy3jX/8MJ9cF0c6OyGRG+XGLpFFaW5+kPodkYbSl9f21bOx7we0Fy7KUKN59ncZypBHaUciTDpRTRuDK58ww+Ynl33Lop7nhkTJZXp6Is1Uhnz0GdnANZsANwqcguW8Xzxiub1xkMmo/EG7X5k+V0cJCrV0kQ==;letNfbJc5vNl+y/SffGRFg=="
 ---
