@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Is voice biometrics in banking secure enough?"
-excerpt: "As voice cloning becomes a viable threat, financial institutions need to be aware of the possibility of fraud in voice-based interfaces, says Gur Geva, CEO of iiDENTIFii."
-publishedDateTime: 2024-01-29T06:36:00Z
-originalUrl: "https://www.itweb.co.za/article/is-voice-biometrics-in-banking-secure-enough/4r1lyMR9N1N7pmda"
-webUrl: "https://www.itweb.co.za/article/is-voice-biometrics-in-banking-secure-enough/4r1lyMR9N1N7pmda"
+excerpt: "Apart from going into a branch, calling a bank feels more human for digital-shy consumers. For many, it is the first port of call for making account changes or moving large sums of money. But how safe is voice banking really,"
+publishedDateTime: 2024-01-29T08:09:00Z
+originalUrl: "https://it-online.co.za/2024/01/29/is-voice-biometrics-in-banking-secure-enough/"
+webUrl: "https://it-online.co.za/2024/01/29/is-voice-biometrics-in-banking-secure-enough/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: IT-Online
+  domain: it-online.co.za
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.itweb.co.za/static/pictures/2022/10/Gur-Geva-iiDENTIFii-12Oct2022.jpg"
-    width: 816
-    height: 600
+  - url: "https://it-online.co.za/wp-content/uploads/2024/01/Gur-Geva.jpg"
+    width: 1075
+    height: 700
     isCached: true
 
-secured: "8qC1ybde/r3lPi2xttzVkLzZRPslVRb/BsCZ9/rXANaY6wzd6UWU1Z6apfdJXXUvwZPvrHhDusc6bBXcEsM7Tapnd9AgtzF8POhFajfDroQWDwPAXUiMNlmWm4Hxh8pqTsKVZrlhy2AfdVBru3jGlv8nzYR5+HsPtGIraKkLtaRtLOqP5i53lPdWekFv90Txgss8xyNGu+LKtURFNR8dJlBKpSRBgM3eQ87jJXC7C8Chfpjde6V2iMLc35miFIeM3xil0XZfM+CyeUogTDFzfH4LgD9aKQu98tWza7lza1opFnBVNq8vbV5np0aGgLGdcEx7hVYJS18vCv42FeZ4oBSGGM6qAmqvj3KjGxR4zkw=;Uv9sHnYg1PZJk1vrp+l0mQ=="
+secured: "qlGL0+e0UrAWf65dXtj2pAJAcwyca3u47wPR01RkxXWik8qqj1vfJECNTujdq0b3LnG7qQ4yKRCpr5kgf/sXXbgNkm1gXDlk4qcBWp7ZGPadyvt46P/sRGZ1Pj0mGxlmaPqQty0VdLy8AwewGkpj2aDlfWvgO1wtkjQWeL4Vss/KOWwNJAvfdZsrUOYMCDoH60X/DI5Pc3ItcK21S+PrJgV8mV6LD3TJ11Jk42gge3pyNiqvJhE7cXYtgPC+G97b94x58SYDhqgPYXP+HCa/GL3I1yAv75WNb/jQT66+k7xbcar/TTo1KjNr418ZwxevP+w+AChIOcQh4+Tn4i7GysWAG5VGFkKxnKaPWFZtjq0=;/SYFuAo+pftDnUzPFSJEZg=="
 ---
 

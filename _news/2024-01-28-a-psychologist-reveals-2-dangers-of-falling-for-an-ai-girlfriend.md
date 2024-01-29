@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 91
 published: true
 
 provider:

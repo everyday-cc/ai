@@ -41,15 +41,6 @@ related:
         width: 740
         height: 450
         isCached: true
-  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
-    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
-    publishedDateTime: 2024-01-24T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai-1032992189"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
 
 secured: "iDqQHEbrubUAXkfjxDH6wZ7F02JJGpv/vYxLARJ0qphknnDyr7gCqGYXuJpieU5gIl9OypabVqZUBdTMbA9QfIi/5gqLzcaJPGAm+y9P/fApp84WDH/ExK+MQ5v82dwXuhGsgifpC6qK8d/DgGdJfsXd10b1NzU6AgJQYwNhV71HRIQBHFv1gzuwnPgnACSXkSaBFI9mnimjNBwEX3qjYSVxWqmaQ5Put7AivVIO3wbXL8Qy2XcCLV+17QciTxQAh0BuEN7P+ZzD7lMSNyO0EAYsv8sXK2tHq06/6fU6ZO8dmWbPdViHOyF4maQRQg/tQzbIzhHLSTtaY9sM0ENdorort9uR5XEGKP0cVYUxfPVpBIFIce7Gi/BP+q8BRJpcROTuAoTFI78jh0V9RkBpUR1GA2dEVmphVF14jTp/Q8i0lkCffmxMPG/YFTcWuyoetAW5Gn5lSer00sTG14HxD9uJJUzYdB+WmtvNUjPWCHQjHCnNMZnqmdMxYzrzNYB8wK6WfnDuLML/hskBlV9Iiw==;Lxi08TNicoxfSayNRBCqow=="
 ---

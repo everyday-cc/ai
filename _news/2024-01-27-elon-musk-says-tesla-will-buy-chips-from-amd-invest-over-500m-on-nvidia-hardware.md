@@ -37,49 +37,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 71
-  - title: "Elon Musk's AI startup seeks to raise up to $6 billion"
-    excerpt: "Elon Musk's AI startup xAI is reportedly seeking $6 billion in funding, with a potential valuation of $20 billion. The company competes with OpenAI's ChatGPT and recently filed for a $1 billion equity offering."
-    publishedDateTime: 2024-01-26T10:48:00Z
-    webUrl: "https://www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/elon-musks-ai-startup-seeks-to-raise-up-to-6-billion-18901311.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 57
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/12/elon-musk-x-grok-xai-1019x573.jpeg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Elon Musk's AI start-up seeks to raise up to $6 bln - FT"
-    excerpt: "Thanks to the popularity of OpenAI's chatbot ChatGPT, the AI industry has been a rare bright spot in a subdued start-up funding environment. Google-backed Anthropic and Microsoft-backed Inflection AI have also raised funds in recent months. Musk's AI start ..."
-    publishedDateTime: 2024-01-26T10:18:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musks-ai-start-up-seeks-raise-up-6-bln-ft-2024-01-26/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-  - title: "Elon Musk Looking for $6 Billion to Develop AI Outside Tesla"
-    excerpt: "Then there's the current controversy over Musk angering investors by threatening to move AI projects away from Tesla, which could help explain his startup's latest round of funding. The news comes after Musk denied a Bloomberg report that stated xAI had ..."
-    publishedDateTime: 2024-01-28T02:57:00Z
-    webUrl: "https://futurism.com/the-byte/elon-musk-looking-for-6-billion-to-develop-ai-outside-tesla"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 34
-  - title: "Elon Musk says his AI startup xAI not raising capital"
-    excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
-    publishedDateTime: 2024-01-27T13:23:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/elon-musk-says-his-ai-startup-xai-not-raising-capital-12134591.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "rWYDpx2V22W7REZ6X6TQmMh3OJqbJuWadTLKPzEeERu3XIbEj68afUBAM9Lt0ubpGvvCBLYFrjllw7+/tD0lPCArDE2Hql/+10TlQRl/XDHXnUK4RGeTP5foU2ed3tnIODRfPrKS71TmhQ46kB1FLZ98Dbdlzx28IZ2j8w6sUoXLalL/jX+cETuyRUV9Wu0W1n0pUIh0+f1YZBNrrX5HuGcr4Qdb60WHh4TloGymlDlr/rN3aANQHUT/xB+jbi6Ua4rurPzXofomJPm96SM8+6/4RYOgrse/hXFb1XGlXQPlpSTPX1BFG7x9mcTK+aD/uNKNJW8SpYoVH0NUdIswG6tT4BytfdYLfe2/g8eJH7c=;zJ/OSXn/pm46VYvNQj+82A=="
 ---

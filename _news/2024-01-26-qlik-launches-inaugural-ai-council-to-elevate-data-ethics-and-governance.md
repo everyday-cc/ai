@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/qlik-launches-inaugural-ai-council-elevate-da
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/qlik-launches-inaugural-ai-council-elevate-data-ethics-and-governance?amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
-    excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
-    publishedDateTime: 2024-01-24T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-ai-council-to-responsibly-accelerate-enterprise-adoption-of-ai-1032992189"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Qlik Launches AI Council to Responsibly Accelerate Enterprise Adoption of AI"
     excerpt: "Members of the Council will work within Qlik to guide the company’s R&D direction, inform its product roadmap and ensure its customers’ use of Qlik’s AI is built with responsibility and ethics front of mind. The Council will also educate Qlik leaders ..."
     publishedDateTime: 2024-01-25T00:00:00Z

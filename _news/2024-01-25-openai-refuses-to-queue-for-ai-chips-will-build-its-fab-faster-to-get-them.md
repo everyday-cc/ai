@@ -39,6 +39,20 @@ related:
         width: 624
         height: 351
         isCached: true
+  - title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
+    excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
+    publishedDateTime: 2024-01-26T16:40:00Z
+    webUrl: "https://www.bbc.co.uk/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust?at_medium=social&at_link_id=CEA5E5A0-BD2A-11EE-AF03-DD1E423A1DFE&at_campaign_type=owned&at_bbc_team=editorial&at_format=link&at_link_type=web_link&at_ptr_name=facebook_page&at_campaign=Social_Flow&at_link_origin=BBC_News"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 22
+    images:
+      - url: "https://ychef.files.bbci.co.uk/live/624x351/p0h79r4l.jpg"
+        width: 624
+        height: 351
+        isCached: true
 
 secured: "5YX8icLFp6Dh82Df28fz9a9Op6BiMlbD9aUBSdXRmrOrASHC3Kw3sz7kGc5Vecl9jvhi817Jh3tRF29q6SGo7QZqcuTRMOOR2u+XK3Bq3NyGJ51HXOfe5uLJsHQ6b9UaIS+WiTXSOolv4kVDbPM3N77C8Z/JLQjZc7C0SvaP3RZlkOmf89zV3xYznPukCKUBr4Z0MmEQF7G/aHoNPFNuh185znrGmgRtQ+EdYU4wywbWWI/eo/189u4AUJlCvrbwDbMPNs50XA6roLY+eFPwpS7Ej585veey6eW2vLe6PsYYkC+R0sezN23lr3XUkG2g5Fz2vTDaZj87DoZPwpjoPp2CALr0+/XF+vK4SZQexHJ9NXxLhqIDpBScR8cQQC3E1uVPctC/LL3OAT1Qd73tDslDKipge1wDtEU1fhmpkhJcuMt9EYC/KU8ee4bKCN99+eEgTLtokF04RJtny3kfqJ5MLLyIAC6nJClwCz0eZb53BzFFHsGsDcg0sYQTu7Q8A8ipsWnHdJUh3Cy/YtPMIA==;OVch5izp/cqLT14annPn1g=="
 ---

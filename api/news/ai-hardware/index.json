@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-idtechex-the-age-of-artificial-intelligence-ai-chips-to-2034.md",
+      "title": "IDTechEx: The Age of Artificial Intelligence - AI Chips to 2034",
+      "excerpt": "For AI at the edge, ASICs are preferred, given that chips are more commonly designed with specific problems in mind (such as for object detection within security camera systems, for example). As the below graph shows, Digital Signal Processors (DSPs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg?p=facebook",
+          "width": 2699,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T07:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-my-top-5-ai-growth-stocks-to-buy-hand-over-fist-for-2024.md",
       "title": "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024",
       "excerpt": "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "",
@@ -149,7 +192,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/shaky-intel-earnings-confirm-chip-stocks-are-maxed-out-for-now-1033001941",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -461,7 +504,7 @@
       "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1433,59 +1476,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
-      "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
-      "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

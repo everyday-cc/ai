@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
-    excerpt: "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ..."
-    publishedDateTime: 2024-01-24T09:15:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 66
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Man Sues Sunglass Hut After Faulty AI Facial Recognition Tech Led to Wrongful Arrest"
     excerpt: "Harvey Murphy was arrested in October 2022 for the armed burglary of a Huston-area Sunglass Hut store after a facial recognition device identified him as the burglar. The only problem? Murphy was in Sacramento, California at the time of the crime ..."
     publishedDateTime: 2024-01-24T15:13:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_0ea45d2be86740c696cfaabb8db5d244_name_MicrosoftTeams_image__20_.png?_a=ATAPphC0"
         width: 700
         height: 447
-        isCached: true
-  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
-    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
-    publishedDateTime: 2024-01-26T17:11:00Z
-    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 16
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "LA7+adhp5reRMWDJ9qyW78m23c3x2dRBk77xwrkDbAUJCUvIffn8U3KGn3W8F1ayZLMIjbPSJEF9C6mtPBPOvegdnsq5MTdC1ithHBsOxKCM74PJ3BNc9Uq/QrOTPA9Qx3uOvxeJx0JFLkc19xmIpd+P2yDD/tKSNy24ufBGuUDB+bEgJ85Al/9PA8u5uj3n1VM8BLH4u1iJY6Czw1emKD0NTg16KSNLQVaWFJWHJmqVBUvsctwmoD4ErbryK++Bz1wKvu22n++i25iIcgJQb2pMPQKVVENwmozXquEYvHSVhtSEeSQTPGB6bF26sEZTtAqhN6Yne9heJuP+IG+0QXd+9jOUF2Mg4G/Io1J21uQ=;fSltRtyFOZD2SLSdbFESmw=="

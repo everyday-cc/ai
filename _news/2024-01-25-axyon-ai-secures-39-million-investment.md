@@ -40,20 +40,6 @@ related:
         width: 899
         height: 1280
         isCached: true
-  - title: "FinTech Zeal secures $4m funding to expand its technology solutions"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-24T07:32:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-zeal-secures-4m-funding-to-expand-its-technology-solutions/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

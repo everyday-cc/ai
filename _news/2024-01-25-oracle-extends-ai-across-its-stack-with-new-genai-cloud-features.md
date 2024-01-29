@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 690
         isCached: true
-  - title: "NEWS TAGGED AI CHIPS"
-    excerpt: "Lee's startup 01.AI reached the US$1 billion unicorn mark last year after receiving investment during its latest funding round from China's Alibaba and Lee's Beijing-based company... Semiconductor ..."
-    publishedDateTime: 2024-01-25T15:29:00Z
-    webUrl: "https://www.digitimes.com/tag/ai_chips/00110853.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
   - title: "Why personalised marketing works – and how AI can supercharge it"
     excerpt: "Intuit Assist in Mailchimp is a Gen AI-powered marketing assistant that can provide intelligent and  revolutionary recommendations for marketing – it can help generate content, offer vivid personalisation,  optimise strategy with customer data insights, and use NLP prompts to build smart segments."
     publishedDateTime: 2024-01-26T21:49:00Z

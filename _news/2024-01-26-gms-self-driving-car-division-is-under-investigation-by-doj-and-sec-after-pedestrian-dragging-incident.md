@@ -1,27 +1,27 @@
 ---
 category: news
 title: "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident"
-excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,"
-publishedDateTime: 2024-01-26T01:14:00Z
-originalUrl: "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/"
-webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/"
+excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.”"
+publishedDateTime: 2024-01-26T00:14:00Z
+originalUrl: "https://www.kxly.com/news/money/gm-s-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian/article_02587dbb-22bf-5d42-9aae-915fc2cb6f07.html"
+webUrl: "https://www.kxly.com/news/money/gm-s-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian/article_02587dbb-22bf-5d42-9aae-915fc2cb6f07.html"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: KXLY 4 News
+  domain: kxly.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHJ0dHJ0Z2gwMDAwM2I2aGVwNmIyNjFz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscnRudXlhdTAwMHMyNnAxZmdsbjhzdHo-scaled.jpg"
-    width: 1200
-    height: 800
+  - url: "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/custom/image/38113d50-603e-11ed-a31e-f38c773c2bba.jpg?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: abc12.com
     quality: 2
 
-secured: "ftKOOO+S9LqVt0qApfmcC+DUaP0LCae/xltuuOrk7MCvw2/I0jbJEuS9kDm60J0JjOgF4chxsEr/rhCQl+rWP7Z5uJjMb6sTB/qTOp5erfXKhXOhDi77QSJBayqvYUtU9KfLcPG4MuabYoUWZIMgvDiHQf4u2CDXq9z2pCGAzzAKSTSxuDGBNT8IE+9+UxhX7l5aEGsm2LYJb/2nVODtSFQT8hZG4+8nS3PB2VZuWJ1Nr/VCx24M5LsZEqOQqRh51XyFoYsofMp9+dWJR5ZYzamPzJFFnJP4Ex34R+yf+8ukio7a6ZYTLamHx4SFPkiJUoA35HB863x0j6zwaZAi1aZi3Q+RIet0doAiF8itaNRm4RAj77lS8v4sbZQb1yx51d6YMjkxtNYmlqnrjZQ4shIcirfyhFckpnSd+WpAE/Xr53n6xov9iBHhuE61EwYxRKzzmJvr2QQFvOiK0za6oWROwD+gg4A0R4+g2sL++65JzlrRI1EAHxWNgVsSj+H6Tjh5cjMT5byFPA3QQWHHsw==;u5w69v5By9NrJx8m6DQZFg=="
+secured: "9DWW5r1sybObjw57CDQS9Q2G36j6WsiM1lYQvY5dmxp4Vnu1pVt7RqUBkUfpGdtB2ZYCUWlny04HGwW0IM6DwvkPOSV3KQ1meFIqLCtbri8lJm0ru20t/DAQ2hL5S6LhX0ZQPY84UWhnY1a/aHw44KMDqgP32/agU5Md/0fjFnqWO5SiIdb9o2FdMgFQuqtZJRELUMgLnusalpiXqrxwrvAzoJLUqSkc999ZMa73J4BdlGYDinyel0wVLxTtwEBjBsdU1bSH8CvK03C06HHu2E6H9u+JpSb+pt4M16GZwRY7O1hBlncyR6FOaFDr+0uwX1icetIODro7Qbu8R3Lc5v7QQ/F6K3nvA5n+dZ1MU30=;CIu5GSW0gaFUKXkt3jL4Wg=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 690
         isCached: true
-  - title: "NEWS TAGGED AI CHIPS"
-    excerpt: "Lee's startup 01.AI reached the US$1 billion unicorn mark last year after receiving investment during its latest funding round from China's Alibaba and Lee's Beijing-based company... Semiconductor ..."
-    publishedDateTime: 2024-01-25T15:29:00Z
-    webUrl: "https://www.digitimes.com/tag/ai_chips/00110853.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
   - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
     excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
     publishedDateTime: 2024-01-24T17:14:00Z

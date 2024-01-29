@@ -7,7 +7,7 @@ originalUrl: "https://reason.com/2024/01/24/man-sues-sunglass-hut-after-faulty-a
 webUrl: "https://reason.com/2024/01/24/man-sues-sunglass-hut-after-faulty-ai-facial-recognition-tech-led-to-wrongful-arrest/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit"
-    excerpt: "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ..."
-    publishedDateTime: 2024-01-24T09:15:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 66
-    images:
-      - url: "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Sunglasses Hut Incident Shows Pitfalls Of Facial Recognition Technology"
     excerpt: "Harvey Murphy is a 61-year-old man who has recently sued Macy’s and EssilorLuxottica, who is Sunglass Hut's parent company. This is due to a wrongful arrest made from using a facial recognition system."
     publishedDateTime: 2024-01-24T10:44:00Z
@@ -95,20 +79,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
-    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
-    publishedDateTime: 2024-01-26T17:11:00Z
-    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 16
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "c9tQsu8Sv4YPuKViNWI0h2KQBVOmpdpVBnubIsrNAf4ocdgqF4NitmhXg/AscL7Ub2EHVsTjyA0fmoakA4jOG6KvXn4q0mtYazUOHVYsdc0XiuiDzZ9v5O1HbmsRKhjOVbQzuOYd2lYGAxOYLAo1ok2LWcbxNjdCTy3LXc02cImYxtLSLBEuD7SAsuST5jNyIAwJDjMeVEtb8wCKXRmHpkXtt5dKyeWJydNoQdmvv8aWtaTH+LNsn3plJNbFJZ28ugJPx72KtXr0vYTUoMih9HOT9RVTbrFe43CuE/5DNUAHUikW9znWumoGprmsPmJ8vVYzS0oSLCXtkxjSlK6FEOKgcyFJ73vm6f2MxGm/Vpo=;gI2CacvXcn2sib8ll6o6Vg=="

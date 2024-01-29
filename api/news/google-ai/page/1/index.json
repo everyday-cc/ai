@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
+      "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
+      "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "publishedDateTime": "2024-01-29T07:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode.md",
       "title": "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode",
       "excerpt": "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week.",
@@ -1422,50 +1466,6 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
-      "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
-      "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/cloud",
-      "originalUrl": "https://www.tensorflow.org/cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

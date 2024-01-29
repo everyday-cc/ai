@@ -33,18 +33,18 @@ related:
       domain: autonews.com
     quality: 17
   - title: "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident"
-    excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,"
-    publishedDateTime: 2024-01-26T01:14:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/"
+    excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.”"
+    publishedDateTime: 2024-01-26T00:14:00Z
+    webUrl: "https://www.kxly.com/news/money/gm-s-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian/article_02587dbb-22bf-5d42-9aae-915fc2cb6f07.html"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: KXLY 4 News
+      domain: kxly.com
     quality: 8
     images:
-      - url: "https://ktvz.b-cdn.net/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHJ0dHJ0Z2gwMDAwM2I2aGVwNmIyNjFz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscnRudXlhdTAwMHMyNnAxZmdsbjhzdHo-scaled.jpg"
-        width: 1200
-        height: 800
+      - url: "https://bloximages.newyork1.vip.townnews.com/kxly.com/content/tncms/custom/image/38113d50-603e-11ed-a31e-f38c773c2bba.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
   - title: "GM’s self-driving car division under investigation after pedestrian dragged"
     excerpt: "Cruise, General Motors' self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise \"robotaxi.\" In just the latest setback in the auto industry's attempt ..."

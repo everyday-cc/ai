@@ -23,22 +23,6 @@ images:
     height: 260
     isCached: true
 
-related:
-  - title: "Milestone Systems first to adopt G7 Code of Conduct for Artificial Intelligence"
-    excerpt: "Thomas Jensen, CEO of Milestone Systems Milestone Systems, a leading provider of data-driven video technology software, has decided to adopt and implement the G7 Code of Conduct for advanced Artificial Intelligence (AI) systems,"
-    publishedDateTime: 2024-01-24T08:56:00Z
-    webUrl: "https://www.intelligentcio.com/me/2024/01/24/milestone-systems-first-to-adopt-g7-code-of-conduct-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 33
-    images:
-      - url: "https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2024/01/AdobeStock_707276755.jpeg"
-        width: 1000
-        height: 450
-        isCached: true
-
 secured: "Ak1wCXcMnyuW/50PsfTexQ5JAZIUTnwdS3nfrRrnZOxXU2Hrq2vw1yxmJknCcVPLY1Ckq1H7z9lSCKzCJnE6FieOyxbftk5j5w93uPpGGNZ6lm4chxLgbAIeyAQT60fKFtFa08QBtIDm9TyIl0fJ6pIHunhqbHoJoaXeHZ7jB3ZfK0EzbPA47cOnzD8s3LWXrVKhth388cmAutkJ1cFWUqLtvDhYSgkL5tmfjPCjvP25MHQvNnKtytXkhfYWbQOL/rzBRz8zbK4Wu7qqmv1y4l1H0Bqgh1eAiZahvdUCsNxnAMlE5wwOUOZWpndbNf4g+1C+/VfblvmCMcryBr+eb0ajo0s6sRZvZYch7OKMLSlNEnJZJyYTHHNUh8W780L/JfhfPymUL58gHMuXAj4Z1Bt4sqUG6lBVF4B7JKXyCjo/4/2ObASeoOqu4G/Nkp1RteAFICArzBxu/pQvhVVH7xO9fvUh5fIPXU/76jjdrFP0DJn01uO8HCzktDtrm4Za2T1glfax64WjltjnnMndyg==;77TdoBGRqSHbxhnoREI+tA=="
 ---
 

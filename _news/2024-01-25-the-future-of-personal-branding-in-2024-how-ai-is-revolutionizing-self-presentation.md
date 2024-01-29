@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Budget 2024: Navigating the future of India's fintech sector"
+    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
+    publishedDateTime: 2024-01-29T08:33:00Z
+    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "x7zu1sKjV1mEsBm/MFolXJLt4lmOAVHI9+8GKC5/n8iyMCPksPLyAQbl+2r2Lt5ia8VwjbFn8PvViaRRGDmDxEU5096vIwiCJtI9+40nAG7Kf3H8EUKJIK5RDAN8byl5TCAP1f61JADOu7RZLZvZz0o7KXYfpT7XI2ZMWHJWybPm6vfwmo6Xka7JYY1aafz35GMg0fpadLGVBDi5MK0SlKGzRGYqpTGm9I0kRkIcPHHNQC9eYV0B3BOksTB1mWd9vdvrYBJscbR9qQZQScxmkjPhJaHox4MoVhzISA5HmeZFJu7VHlwkhINIXBBekZX4Ijn2h4oAMk8X2dYC6H5HC/zLGqpQX9ztESneVqquOiMeOcHqqmIII24eC48RDhb9ZcG28EoAeH0VgzSSAtXOz5z4FJ1F6eQ8nEp8AP23rEV3FAO7/HQraT9puCVx8dpJqADZyfqc2Z7jxB/qgvGCPGaeX60Bxcq+NyMLsPQK3Hl2otGs+K7KlK0wH0W/yyc2ewtA9qrkjgAmIhWbb9r0tg==;nTiUOo7AHT2twbtZlMccGA=="
 ---

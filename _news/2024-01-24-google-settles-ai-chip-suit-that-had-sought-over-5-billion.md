@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Settles AI-Related Chip Patent Lawsuit That Sought $1.67 Billion"
-    excerpt: "(Reuters) - Google on Wednesday reached a settlement in a patent infringement lawsuit over chips that power the company's artificial-intelligence technology, according to a filing in Massachusetts federal court. The settlement comes the same day that ..."
-    publishedDateTime: 2024-01-24T09:21:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-24/google-settles-ai-related-chip-patent-lawsuit-that-sought-1-67-billion"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Google resolves Tensor chip patent infringement case in the U.S."
     excerpt: "Google was dragged to court by Singular Computing claiming that the Tensor chip infringed its patent. On January 1oth, Singular Computing sued Google, accusing the company’s AI processor of infringing on two of its technology patents. The suit was ..."
     publishedDateTime: 2024-01-25T00:00:00Z
