@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-23-ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting.md",
+      "title": "AI-Powered Robocall Deepfakes Biden's Voice to Discourage Primary Voting",
+      "excerpt": "The robocall is targeting residents in New Hampshire, which will hold a presidential primary on Tuesday. 'Your vote makes a difference in November, not this Tuesday,' it falsely states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
+      "originalUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06sHJQ6QhfcIt6SC8UIb7vv-1.fit_lim.size_1200x630.v1705948204.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T18:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
       "title": "Corydon: Five arrests after Met Police uses live facial recognition",
       "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
@@ -1167,58 +1218,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected.md",
-      "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs expected",
-      "excerpt": "One wonders whether the researchers might’ve felt pressure to reach certain conclusions by the study’s backer, the MIT-IBM Watson AI Lab. The MIT-IBM Watson AI Lab was created with a $240 million, 10-year gift from IBM, a company with a vested interest ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/?tpcc=TCdailynewsletter",
-      "originalUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/?tpcc=TCdailynewsletter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-496822526.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
-      "publishedDateTime": "2024-01-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

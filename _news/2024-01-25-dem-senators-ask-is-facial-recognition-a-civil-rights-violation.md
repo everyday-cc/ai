@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lords question legality of police facial recognition"
+    excerpt: "UK police are expanding their use of live facial recognition (LFR) technology without proper scrutiny or accountability, despite lacking a clear legal basis for their deployments, according to a Lords committee. Writing to the Home Secretary on 27 January ..."
+    publishedDateTime: 2024-01-29T10:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
     excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
     publishedDateTime: 2024-01-27T02:44:00Z

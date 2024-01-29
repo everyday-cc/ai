@@ -131,6 +131,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 8
+  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
+    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 0
 
 secured: "KFeN+ZImFP7duifjAoRMkZfa0YmYwQJRZLdcdreA8l7Va296AUa6rNLMcPcbdE/zqE1CwJ4IXS7Dw37tTEgm92Fa0Sn9rAIwSo6BPfLKagDotK5k/5D+SKNUyblMZiWGv+0ud+CMcpSZVxxfxvdaBXf/GJICo+WdA6fwNHXfqUxOjo5nScvjivY5WomjddcEkg1zixErrk3EhOO9XmCzwALvIYpArSumd9fue5/njS8V24ZWaPoiM6lIGW46EPIkSfbHiwOZRMb6cq8AhJYjNrcZWjSt/6sUAQZM0iTZY2TjipBsnKlS8oVL+sUNt1007Po4y8q5HdHCWlcq11ve41n57zkCf4Q0GCzBjyXoTnc=;s0lkeTDivSoz4qJb8MFAWQ=="
 ---

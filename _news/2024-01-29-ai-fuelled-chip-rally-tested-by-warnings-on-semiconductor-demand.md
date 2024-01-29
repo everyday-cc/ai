@@ -27,8 +27,8 @@ images:
 related:
   - title: "AI-fuelled chip rally tested by semiconductor demand warnings"
     excerpt: "The Philadelphia Stock Exchange Semiconductor Index, which tracks the 30 top US chip companies, has risen by more than 50 per cent in 12 months as investors bet on continued soaring demand for the AI processors that power OpenAI’s ChatGPT and similar apps."
-    publishedDateTime: 2024-01-27T05:59:00Z
-    webUrl: "https://www.ft.com/content/90b34dda-0972-4ece-bcdc-9dcb410bcd67"
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://www.ft.com/content/90b34dda-0972-4ece-bcdc-9dcb410bcd67?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

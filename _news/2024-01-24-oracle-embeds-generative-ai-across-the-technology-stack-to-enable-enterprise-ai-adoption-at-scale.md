@@ -128,6 +128,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 18
+  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
+    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 0
 
 secured: "m9xXtKvLYq8AtYMH2m3LHKnZVudLS5Wg1mQaXM3Gi7KfRVbI3SiYtVSnJKuAfzvgUJClEj/EQs5V26uUqDMxabKVkDzmveYY6czkk0aATrYh5xB5mR2yTNDpYbpdRwTAFhJVhHNVavRXghHJPV8CeCsa+97pbSDGmhNeWG8CqPui30Kc7cZcc3rOOVFszFqn1B/kbaZgKafhXF5CnPe8/mcmHoOj+realrT7jZnysOyq6ics+eoyIPa6w1ADX2en+3w16qJ/LSA7AX26biNMcnT1f5PvfPoLOwc0Ore9UfpZPcmXqyTJh/1sZl2fZfYOp+8+OWAIw4GVqPx2XVADJpEl8X7WKltSKIsCV/yIIgw=;+kandcjgb/5yaSYRRv14bw=="
 ---

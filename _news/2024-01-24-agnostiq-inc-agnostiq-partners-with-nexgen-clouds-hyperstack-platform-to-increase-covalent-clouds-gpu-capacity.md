@@ -33,6 +33,15 @@ related:
         width: 591
         height: 294
         isCached: true
+  - title: "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity"
+    excerpt: "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users"
+    publishedDateTime: 2024-01-24T12:14:00Z
+    webUrl: "https://www.sacbee.com/press-releases/article284624670.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 5
 
 secured: "U2GyGxsmJs5xLaN0cQA7g3wnri5SpnItlwvK1KY9IH3iwscIUhP1mLpHIHVnymFlCnzEJq2LvwzsqvXDUcHxrR2MPKYr8fBYQTZpASqpsDDxavbtyMcFnuVpqOW5dmsAIv9qKnprKXh+VSXTgbaRs9MsvQwS/t423NZonIETUowhfn6OeofUHIKjgXvN1ZN4+zFBEtbdLI/bHBUvys/HTft5SgQlclfZwHUL9JpMFJZTPHlnXmnZwuQDnJr4WLUaM3SyKF9WLt50QN944qAF6ApUPHBJJEAYWW7iIUP2oB0VYbe8iUdcAc1DJ0ixKDW3c01DmCB7x277z7IkbfkfecjKzR2ynNrfGsIPGI+Y+Hw=;cyjrrAhEQgSe2aTEyFy8hA=="
 ---

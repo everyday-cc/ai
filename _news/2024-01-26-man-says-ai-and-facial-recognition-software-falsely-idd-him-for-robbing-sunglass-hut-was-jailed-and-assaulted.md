@@ -39,17 +39,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Sunglasses Hut Incident Shows Pitfalls Of Facial Recognition Technology"
-    excerpt: "Harvey Murphy is a 61-year-old man who has recently sued Macy’s and EssilorLuxottica, who is Sunglass Hut's parent company. This is due to a wrongful arrest made from using a facial recognition system."
-    publishedDateTime: 2024-01-24T10:44:00Z
-    webUrl: "https://techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/"
-    ampWebUrl: "https://techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/sunglasses-hut-facial-recognition-pitfalls-technology/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 39
   - title: "61-year-old says he was wrongfully arrested due to facial recognition technology, then sexually assaulted in jail"
     excerpt: "A 61-year-old grandfather is now suing Sunglasses Hut and Macy’s after he says he was wrongfully arrested and jailed in Harris County due to faulty facial recognition technology."
     publishedDateTime: 2024-01-26T12:47:00Z

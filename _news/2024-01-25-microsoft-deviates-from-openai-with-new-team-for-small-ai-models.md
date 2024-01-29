@@ -161,6 +161,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Microsoft adds 2 new Indian languages to Translator"
+    excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
+    publishedDateTime: 2024-01-29T09:00:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 61
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
     excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
     publishedDateTime: 2024-01-25T12:05:00Z
@@ -322,15 +338,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Mastek Joins Forces with Microsoft to Transform Industries Using Generative AI"
-    excerpt: "NEW YORK--(BUSINESS WIRE)--Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering and cloud transformation partner, announced a strategic collaboration with Microsoft. The collaboration is focused on pioneering innovative solutions that harness ..."
-    publishedDateTime: 2024-01-24T10:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240123111601/en/Mastek-Joins-Forces-with-Microsoft-to-Transform-Industries-Using-Generative-AI"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
   - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
     excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
     publishedDateTime: 2024-01-26T11:52:00Z

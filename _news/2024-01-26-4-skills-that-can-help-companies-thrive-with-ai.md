@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
-    excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2024/01/24/meet-the-startup-that-believes-ai-can-solve-your-it-outages/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
     publishedDateTime: 2024-01-28T15:00:00Z

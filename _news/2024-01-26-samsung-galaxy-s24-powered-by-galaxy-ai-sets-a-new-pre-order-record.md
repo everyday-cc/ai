@@ -93,6 +93,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
+    excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
+    publishedDateTime: 2024-01-29T10:37:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107230595,imgsize-66992,width-1200,height=765,overlay-ettelecom/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China"
     excerpt: "Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features,"
     publishedDateTime: 2024-01-27T06:34:00Z

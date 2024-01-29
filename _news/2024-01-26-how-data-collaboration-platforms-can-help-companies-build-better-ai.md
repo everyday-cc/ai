@@ -56,15 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
-    excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2024/01/24/meet-the-startup-that-believes-ai-can-solve-your-it-outages/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
     publishedDateTime: 2024-01-28T15:00:00Z

@@ -2,6 +2,40 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-01-17-maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources.md",
+      "title": "Maximizing AI Growth: Using Incentives to Unlock Unutilized GPU Resources",
+      "excerpt": "With AI expected to add trillions of dollars to global economic growth by 2030, the question on everyone’s mind is how to deal with the uncertain supply of graphics processing unit (GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
+      "originalUrl": "https://www.nasdaq.com/articles/maximizing-ai-growth-using-incentives-to-unlock-unutilized-gpu-resources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T19:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-amd-shares-jump-8-to-highest-close-since-2021-on-ai-chip-demand.md",
       "title": "AMD shares jump 8% to highest close since 2021 on AI chip demand",
       "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence.",
@@ -664,49 +698,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-conversion-therapy-ban-raises-justified-fears.md",
-      "title": "Conversion therapy ban raises justified fears",
-      "excerpt": "We are entitled to know then just what has occurred in the life of the nation that’s compelled the Scottish Government to make these",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
-      "originalUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/13910821/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

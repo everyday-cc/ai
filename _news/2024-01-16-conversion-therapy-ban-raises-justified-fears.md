@@ -2,9 +2,9 @@
 category: news
 title: "Conversion therapy ban raises justified fears"
 excerpt: "We are entitled to know then just what has occurred in the life of the nation that’s compelled the Scottish Government to make these"
-publishedDateTime: 2024-01-16T13:25:00Z
-originalUrl: "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr"
-webUrl: "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr"
+publishedDateTime: 2024-01-15T18:31:00Z
+originalUrl: "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=rss"
+webUrl: "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=rss"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "VB3lME/GR3W1pzjW83Hi+h/3EUEG+HiQhqxUDQbhtptM+xQF6sDZ2SqTA7CrhWSz58G5CX6/TtTBwXYXaUkO7gOD3xrz5sumU3zz4rTcEWouwo9tm8IoKAnYjpwt9DyEs5VlqRMCNazIbymmJoAJKSu898zvFzJfnEt1XkCKT5M9Xx4GptWBsZJcvxYx6VQttkQ/XL1I0E6YPGrSXmKPWS6tbUBPqdNbxGmcjYwOGbutlHcHDsQjbE4OlldpFduQPGdOUe6+Fl9XCgH6haRc7+5hAf1PrG1SrOMESaVJXuhBijQQUbqgR9/fk9ixh3BwjkSZ6XyYYaoOd2xa/s7hrN5BqVBoTYycdDitkPdMyDY=;/UtPzInrjENf0aBwWx/ofw=="
+secured: "zrvHg/lqsNZByhpXaOQborv/GmQ9N6I5/jZEqMjvtAmcS0l2DJXLyJCQ+S/S13EQ5gbC63ltJoBo8NCfw1rPAB0XyiWfFvY4ywjZNiz582693Nyb9eD/TabrVhGguHcHZYSlFj0jPgwCSblX8tRIumxZ0NNIZo7jKSgDjlbmQAehNtHGGhaimcX2qRs/9B8oHms0B+n2qJLrvas8rXC+fXVQkpnJcx74wFZAEoLJBTyEl/Y4OorsDw3Vy3lJo6OONMvwdQwaoGN041x4LIkLe/B1GoAiHuHDGRUvGnnMwBeqIquNc9bufryNomRvzNiDcNFOVNx+PLFPazjFSeteHNa1dicuTgx55Ty08SitdVw=;WGqNAo7RLzrIi3gMa2vsPQ=="
 ---
 

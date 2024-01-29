@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 8
+  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
+    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 0
 
 secured: "SnQ6Y9OatRqTZoIDimnLqNJINULG50ImNyHy75HIUm81PRVi2dS+oIrO6/fRNOQbYHu4lViD0LIVYkbXzQjX9G9eY1FxIhjF3N4RPR7Wnq95IoSZrMcSzFLxUGUdY0wIZI8ZOjit0DcXR1cpd+hhKDcqPGCvhlHWvvoO5kXBbmGtwlzxIacOAAIokOwW3Riev2axGZZYwG4dFP0bKrFNBazdZNr6OTDQkbrzvfcjlRoPE8xgstIhR6/DSHIWz/qTOGXM0KiQ0ua/FhSnWwx6SbWqDv+2eZ44teh4yyhIZuImdSa3gjXoOcbx7jjnJGCSEKo1jfwHsr71WiKF0dqM/6ON2v+cbj8eegGIjXCclcY=;/I9/1gv4EXeXh0bBfvRrbA=="
 ---

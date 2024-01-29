@@ -220,6 +220,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-16-conversion-therapy-ban-raises-justified-fears.md",
+      "title": "Conversion therapy ban raises justified fears",
+      "excerpt": "We are entitled to know then just what has occurred in the life of the nation that’s compelled the Scottish Government to make these",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=rss",
+      "originalUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=rss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/13910821/?type=og-image",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T18:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
       "title": "Will Artificial Intelligence Be Sociopathic?",
       "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
@@ -1082,50 +1125,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
-      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
-      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

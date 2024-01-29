@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meet The Startup That Believes AI Can Solve Your IT Outages"
-    excerpt: "Skript has raised $3.75 million of pre-seed funding as it develops a go-to-market function for its IT problem-solving platform"
-    publishedDateTime: 2024-01-24T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2024/01/24/meet-the-startup-that-believes-ai-can-solve-your-it-outages/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google made an AI doctor that can help diagnose patients"
     excerpt: "Bringing AI into the doctor’s office could help alleviate some of the stressors that doctors and patients have to deal with. And this is something that IBM has been working towards for quite a while now with its Watson computer system. Despite being ..."
     publishedDateTime: 2024-01-26T22:37:00Z

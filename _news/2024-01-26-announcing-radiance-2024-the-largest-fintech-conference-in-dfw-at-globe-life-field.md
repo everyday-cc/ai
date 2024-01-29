@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "FinovateEurope 2024: The Future of Fintech Unveiled with 35+ Live Demos and 100+ Expert Speakers"
-    excerpt: "The pre-event will include sessions with Greg Palmer, Vice President, Finovate; David Barton-Grimley, Fintech Strategy Director, 11:FS; Indrek Vainu, Head of Conversational AI, Zurich Insurance Company; and a Fireside Chat with Manas Chawla, CEO ..."
-    publishedDateTime: 2024-01-24T09:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/finovateeurope-2024-the-future-of-fintech-unveiled-with-35-live-demos-and-100-expert-speakers-1032992588"
+  - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
+    excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
+    publishedDateTime: 2024-01-29T09:33:00Z
+    webUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851"
+    ampWebUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 32
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2024/01/29/278097-jxiqfjwrrnmldhbcd32rzwuzbq.jpg?itok=szBUvuba"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "q4zRqQ9PtJNVJnIcIwAU8yK/iYYvCiZL7NEeRaZQdL7OKBYlk/zKI77lQRaDGkJjX9z0oz4zao6RUmWP5vEv4YygIHET9pCtmlpPBT/60E27uLJ+M0FWXbrm/CrlR+dbkpMczshSA04SvhSfyGAISncUT69sBhz5fAOH52MPPCYuLsXPboJ+DJLsvPrIfdjWnfr5K+9GxgsUx8X9pdMwe/S1X1pLhh2OQtVQhIl8IAOd4UQYMkhhI1mgWO2vfBauQ34TBsP0A7fueW7z3W3xzL2vk/u3udNrjFOd7J7IUY2HO+ycMDzf8Do7aRLY3VE7AADO6TpalLTDiOccvKREaeCAqYxzuoZfn2rzxa7A6Lo=;vQFRem2ZTgQPEsiKdbmfbA=="
 ---
