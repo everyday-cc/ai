@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why AI needs to learn new languages"
-    excerpt: "In other languages it is less impressive. When taking the test in Telugu, an Indian language spoken by around 100m people, for instance, it scored just 62%. Open AI has not revealed much about how Chat GPT -4 was built."
-    publishedDateTime: 2024-01-24T19:01:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2024/01/24/why-ai-needs-to-learn-new-languages"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_STD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence needs theology"
     excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
     publishedDateTime: 2024-01-26T07:32:00Z

@@ -51,20 +51,6 @@ related:
         width: 1218
         height: 600
         isCached: true
-  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
-    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
-    publishedDateTime: 2024-01-24T17:14:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
-        width: 1021
-        height: 509
-        isCached: true
   - title: "What Are the Privacy Risks of Generative Artificial Intelligence?"
     excerpt: "Businesses should apply controls so that AI tools do not compromise users’ personal information, and users must be careful not to inadvertently share private data."
     publishedDateTime: 2024-01-25T21:40:00Z

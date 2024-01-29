@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mactech.com/2024/01/26/send-app-gets-personalized-artifi
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/01/26/send-app-gets-personalized-artificial-intelligence-feature/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MacTech
@@ -39,20 +39,6 @@ related:
       - url: "https://www.ft.com/partnercontent/mailchimp/dist/slideTwoImg.78814e9e.png"
         width: 634
         height: 300
-        isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "9Lt+H1ZLTZy1qXTJtysumUtcQcwCZBvIUw/5J/CSwLVemq0244yaoz7dq8V1y66FyTPeWyemENlbMLGnvNZIWBUt7UDr1lbd51h4d2/7E62+mxkG1Znuar4I33iTTHmRYRzGzuf/qzbYKxsnEydBxzlpdAn+42+coEiEdMU2kekfPc6ShwuCYqGVSuUuGg5WGfZaCYRs2vkhFFXfVlMk31uAWptdsD7WjpKNALumogn2zK5Yw2+xeUY+sSrfsBm8bEAv0p6kenvPM7qtlL2LXk0MSkEfiscGAIw0WC4Z3N+LPYayJIAXrxtbNdv8eSVnllWbo/1Q4rV51t8vR0fPrYr53UDisYQgi5nzizKAAn1tN8RACp+rNv2kwoCYSLuF2Xt3GgO8ykzxZWeMU6jiq0MS8OY1686p27peAsm/QqBX3Po6XMZVRgZ4vfFkfZpWYF8cI3VRbtFDF2/qKazf0AWeeIXhHDXyIsQNMhR/+CFoKF6Urq+IfvOz/ad3mF2xNQm42NX+TFF5gutsXMLKQA==;bQR9euS7nJfya+Txprfppg=="

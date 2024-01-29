@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-cla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 820
         height: 428
         isCached: true
-  - title: "Voltron Data Acquires Claypot AI As It Unlocks the Power of the Largest Datasets for AI"
-    excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired Claypot AI, a real-time AI platform startup. Voltron Data processes large batch workloads on GPUs today and will be incorporating Claypot AI's real-time capabilities on GPU."
-    publishedDateTime: 2024-01-24T18:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voltron-data-acquires-claypot-ai-as-it-unlocks-the-power-of-the-largest-datasets-for-ai-1032993532"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Voltron Data Acquires Claypot AI, Aiming to Enhance Data Preprocessing and AI/ML Workloads"
     excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired"
     publishedDateTime: 2024-01-25T17:55:00Z

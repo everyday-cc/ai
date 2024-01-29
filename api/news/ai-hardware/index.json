@@ -100,19 +100,19 @@
     {
       "path": "_news/2024-01-29-idtechex-the-age-of-artificial-intelligence-ai-chips-to-2034.md",
       "title": "IDTechEx: The Age of Artificial Intelligence - AI Chips to 2034",
-      "excerpt": "For AI at the edge, ASICs are preferred, given that chips are more commonly designed with specific problems in mind (such as for object detection within security camera systems, for example). As the below graph shows, Digital Signal Processors (DSPs ...",
+      "excerpt": "Drawing from the \" AI Chips: 2023–2033 \" and \" AI Chips for Edge Applications 2024–2034: Artificial Intelligence at the Edge \" reports, IDTechEx predicts that the growth of AI, both for training and inference within the cloud and inference at the edge,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg?p=facebook",
-          "width": 2699,
-          "height": 1414,
+          "url": "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,11 +122,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T07:32:00Z",
+      "publishedDateTime": "2024-01-29T07:47:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -136,8 +136,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -461,7 +461,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {

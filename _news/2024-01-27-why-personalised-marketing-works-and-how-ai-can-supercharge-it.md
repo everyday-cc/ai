@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 690
         isCached: true
-  - title: "Oracle Extends AI Across Its Stack With New GenAI Cloud Features"
-    excerpt: "Organizations are struggling to find ways to deliver GenAI successfully. The key challenges to GenAI deployment include difficulty in integrating GenAI"
-    publishedDateTime: 2024-01-24T17:14:00Z
-    webUrl: "https://www.datanami.com/2024/01/24/oracle-extends-ai-across-its-stack-with-new-genai-cloud-features/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/12/cloud_shutterstock_jijomathaidesigners.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "LHmLAyiGMKTKMxjfaeDK46TzvjBbSLIRq6WX+SDfgwkX0ZhFuf+2vVz1kR7UEF5oLkyqgLWbjMX6K4rP+9MUN8ANQ4NxM8EvMAwnigUKnzotask5U2SVFoEcFGrAwGAevBdjt6+HEpQ4XwtVw4a++pKASIGKM34ZJBDlHbrHNFrEjA9ZDf2HeCceKURE9AGM3c4WQdlMAT6N4WpyUYqGflNuIM3x5vKTBjgejpSy5eqnly90cHpv8Sf5RUxe2Y4bZ7OdBkQR6UpUBs9QLb6WqRlPaBsS1F69R6h1N1C8rTwYs0TOcOrkJDiW0orWLuyidgcR7no9Xw2JZVsaQii4YMshLnJR4r16mpYPpJtXwi62m6K3pG5Gz6t38Se+DS8LPnzqwTBDJIdIosMIDyzvPt1Mzr22Qwvpn2SOUZsTMJmJsvzffCBnPSnhsvBovT7cmr/obH8t/IbNmGw7xj2fUGTlqZvbLTzdxxlEuylVt9mHIB+5ukdMKxcpl7H1a31A58B7PRBcyryyHQd7M8hmSw==;1JZNlCXb0NvVr6RLUue/qw=="
 ---

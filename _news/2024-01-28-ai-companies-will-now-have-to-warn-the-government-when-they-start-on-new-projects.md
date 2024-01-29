@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/ai/150641/ai-companies-will-now-have-to-warn-
 webUrl: "https://uk.pcmag.com/ai/150641/ai-companies-will-now-have-to-warn-the-government-when-they-start-on-new-projects"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Companies Will Be Required to Report Safety Tests to U.S. Government"
+    excerpt: "(WASHINGTON) — The Biden Administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday ..."
+    publishedDateTime: 2024-01-29T17:54:00Z
+    webUrl: "https://time.com/6589627/ai-safety-tests-reporting/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1754343700.jpg?quality=85"
+        width: 5921
+        height: 3947
+        isCached: true
   - title: "AI companies to start safety test reports under Defense Production Act"
     excerpt: "(Josep Lago/AFP via Getty Images) The Biden administration will start implementing a requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to ..."
     publishedDateTime: 2024-01-29T14:46:00Z
@@ -36,6 +50,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "AI companies will need to start reporting safety tests to the government"
+    excerpt: "The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday to review ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://thedailyrecord.com/2024/01/29/ai-companies-will-need-to-start-reporting-safety-tests-to-the-government/"
+    type: article
+    provider:
+      name: The Daily Record (Maryland)
+      domain: thedailyrecord.com
+    quality: 16
 
 secured: "Je8D8VA2D8qBryF1ZJTZLHthUUkThzPFc/vfAHkmGHUQ3cq4cg9L9HXopPbi55Ajq2vLQvJE+pOc6AXJO28+sEFgghR8kRlaIKcWxUgIYZGlQ8cJCV5nTLOmExr7Zu7JYoxRgd4DlcCUyGcBxT7zyUTeDVQgAzZlpvDQJ9MBPHqEbKWQ/grkIYDCBI08McJ6b2viacC/0rMQ9UM2r/4OnMFhHm+SthZsfV/7+z5+gVXlKTV82PBCXQXATa8mj5OKLc4x4DD2QpY8J+PIm4f3M8MYnA4EfcAZZhvtwv32hB5Cz/3IlgfCbqGxfIkBjGFkdH2PhdBXRpfrQbxbwzhH28pgyGs7cTAY4/uN2OiOABholnunvvodWVB4jYqyBKFhoN19sQ/vpSEZ4Q5zyVdzVgHA/h/+L7SOyor1ZL0tfkztAK0SVUtyrWkj/EveMKMSZjf0hY9kjYbCcQRgsmqIRXKkmh/86hl+9aJDltIOK0A15S01nw8o+1fFbOp6+ro+GWX4lW+Az++XdfkZ9Xq4BQ==;6WCtv7bWgYNkQxJXAu1Sdg=="
 ---

@@ -50,15 +50,6 @@ related:
         width: 820
         height: 428
         isCached: true
-  - title: "Voltron Data Acquires Claypot AI As It Unlocks the Power of the Largest Datasets for AI"
-    excerpt: "Voltron Data, the company accelerating modular and composable data analytics systems, today announced that it has acquired Claypot AI, a real-time AI platform startup. Voltron Data processes large batch workloads on GPUs today and will be incorporating Claypot AI's real-time capabilities on GPU."
-    publishedDateTime: 2024-01-24T18:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/voltron-data-acquires-claypot-ai-as-it-unlocks-the-power-of-the-largest-datasets-for-ai-1032993532"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
 
 secured: "Mfk0mrmYWUQIDPp6LOb8oiQVJ5pSIop9ljRmOc1iQZZ5G7CNi1JJS5uqS3c/oC6WhWjXhJFJkcyJt/l9zkQZ4Hi9CRFXgrIF8POjhJfFihmrcstZa/nK97JXwtvoMez8c/UyyEZP5+pAjasYZpsgmTix4VdxhaZyTD3C2fGOFzEIjM0aYBOQoLjC6J7Nx1sxB0VnfWdssXGuk8PiYn79nZHqNtVx96+sKfLTQ2L3SwM9VZUmKqDasLTzFVeK5WGUwjz8JDjAWL8wyQg/Xke0SMqmONOUeNeBNuRkU+VM86jR8UxKEokFyvOedZHZJ9vEFwSKkS+vyTy9dHUv86NCr2C8X9ri/ZUduADIcLBe+pjjLx0h5RPWHDrv+J9NlYnigXWmDbKGIvZ3IZC+xQYXyPO4y9FwJstjrJtfetfDTqAal88SvEtFqKl/FRUWWOY6Cpvf3v9DtIgGf4JN+HQZS3jXLreB2V0S8qjjWHzLQxMbCNQh8wBZ1/OM21A5GVcz8/PopKx1l3Ec8azkVDJQJw==;vMd5Gn+a4KVouqOX+zgeSw=="
 ---

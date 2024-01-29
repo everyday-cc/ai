@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Klarna Enters Subscription Market with Launch of Klarna Plus in the United States"
-    excerpt: "Klarna, the AI powered global payments network and shopping assistant ... online lending, and other forms of Fintech. Join Crowdfund Insider and securitiescrowdfunding experts to review thepast years market of privatesecurities offerings availableonline."
-    publishedDateTime: 2024-01-25T18:03:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220687-fintech-klarna-enters-subscription-market-with-launch-of-klarna-plus-in-the-united-states/amp/"
+  - title: "The rise of digital banking: Fintech trends in 2024"
+    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
+    publishedDateTime: 2024-01-29T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 35
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Klarna.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
+        width: 1000
+        height: 800
         isCached: true
   - title: "The Chief Financial Officer's Role In The Fintech Evolution"
     excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
@@ -50,15 +48,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "F|T: The FinTech Times – Brex burning bucks while Klarna mulls IPO"
-    excerpt: "One of the pandemic-era darlings of the fintech sector is stuck in a rut."
-    publishedDateTime: 2024-01-29T14:34:00Z
-    webUrl: "https://betakit.com/ft-the-fintech-times-brex-burning-bucks-while-klarna-mulls-ipo/"
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "zqkpBIvIaiiOW4sHO+iV30573HueBsJTDCAATbFW5g7/w/ZbyCW4NCwQVuUTwzw4DE9ajuwrmx0wgF1mh5mPiVy1Fk82nqEzNy4WuOi9caXFIv7APyk5nhvITfp8u7ZBu1glz0a7PbQm8PPA+1NBEvgdIaIqdNcJwNdZfeL2jOWXWCQf7Ln8NQiGF46m+NeRsdsIyY+UgygAP/+SidZGLcpN5wpSQuW2XB5MT4YCgqrCV25uj0WUTMEU0IhORHqzl2V8gitJCiXfdVVkelAPMAoRZR7YO6USvVHwQpS69PzckeIcoWqwaMowSExwkF0ksjWPF7CIwvpf2ZcImFPfl5pJtmDik3VBEabm4kuPlLo=;QT2OdxOyov5ybEE52Oq9og=="
 ---

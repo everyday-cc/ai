@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IDTechEx: The Age of Artificial Intelligence - AI Chips to 2034"
-excerpt: "For AI at the edge, ASICs are preferred, given that chips are more commonly designed with specific problems in mind (such as for object detection within security camera systems, for example). As the below graph shows, Digital Signal Processors (DSPs ..."
-publishedDateTime: 2024-01-29T07:32:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html"
+excerpt: "Drawing from the \" AI Chips: 2023–2033 \" and \" AI Chips for Edge Applications 2024–2034: Artificial Intelligence at the Edge \" reports, IDTechEx predicts that the growth of AI, both for training and inference within the cloud and inference at the edge,"
+publishedDateTime: 2024-01-29T07:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm"
 type: article
 quality: 69
 heat: 79
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg?p=facebook"
-    width: 2699
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 280
         isCached: true
 
-secured: "f4IbaLkJoS826nxll98XzS2Vs8/n1F36AlyRpA/w4HGLAhi9InWcnWDryjGCjt7hdn7XTfLaAT1En1mIq2sjf5zbsXZGhzBnnsQWJ6ZuW3L8VUdG0efeRSk1fo47NmilaGfbc/BKadw2vygw+dC6WIKpr9Byi7R6pfJydrO6ffUqb4MqyGvppYWXrcAl6xR4xpuyZVnl1nNqL1IVSvHSFd7RXI7i+qb2uuwGOO8de9MRuINXSo4pcw3K2V2B/ICQkinB0P72xXazmjQWWSP2+HT65fewMZ0MQignuSMn+xucOlzzkungo8wwDElJeCbWPoD0arVtN3d3ddnoUNLL9SAOE7Gqdck/+M8v2U6Ejxy7rF58+r4e+TVhAECmsaTNolk7X1FTTAZtRJpPKCe/7IupcZ7ZWxYXvvJcmBN/Q2B0Q5gA+Ri31R0TdY+TlQ8MetVM3i/yA4WvbHTeJbZJqtqFBY4EyBxLkixnf4VaQynCMYGn7Y/6UadGyoapECmWAT1O8oq35mP/s9zGa8ziZg==;dIjVul7BfggxAp9X3mTuRw=="
+secured: "ANMhSWPsp+L87J9H3EDZMyc15LnU1w800n/87UiJilVV5+2m2pVESwzcuyZwNC4nvEwhNXq+xvrQUz8EDJbdVDPBm+yPOuazmQ7iILYizgSDL0bi6fGXzX5rYrxYLa+LCZKBQyOlDAOM8r48oFCicA7fu2+F55gzdH7rBmxIyZYF6r656lgTlQ+2baiFS0pEEaGoS1xJvo+PUbqAsrlcZtjHBx+KgSojHQVYkh6zV94Ks+UVADinx7eCoGQfa8VUCUpGVbYbyAJGn2tAlUV7bNjkC7C3VmeDJ5Doad6BwCaohk50G9iDvBF18rjMAWGAVYYuvlOOjMqf//A2iGWzRWB1jyUYt2u0GZp35WlpMIQ=;6j7cYzPLlnr4yV2PPqsCmA=="
 ---
 

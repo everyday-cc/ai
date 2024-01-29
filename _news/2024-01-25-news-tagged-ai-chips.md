@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "IDTechEx: The Age of Artificial Intelligence - AI Chips to 2034"
-    excerpt: "For AI at the edge, ASICs are preferred, given that chips are more commonly designed with specific problems in mind (such as for object detection within security camera systems, for example). As the below graph shows, Digital Signal Processors (DSPs ..."
-    publishedDateTime: 2024-01-29T07:32:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/idtechex-the-age-of-artificial-intelligence---ai-chips-to-2034-302045633.html"
+    excerpt: "Drawing from the \" AI Chips: 2023–2033 \" and \" AI Chips for Edge Applications 2024–2034: Artificial Intelligence at the Edge \" reports, IDTechEx predicts that the growth of AI, both for training and inference within the cloud and inference at the edge,"
+    publishedDateTime: 2024-01-29T07:47:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "HT8RwyWabla5oEoiAl+hIMGQMJD0XXYTUeWFWkZ4VEVmYiHkcIKCMGIKpwcKfw5jfOx1nfwDUr2Q1Ct1GDAUnq69H6h1yRTqFM+TsQoogZxHpsE8FQXoG+AhEptzZvYI1I0BHqNGA1BtdpO/VPjNYUIvGLJp35B+gYxDPYqFgpdU/xeIr71YmjA+AaF1a11FmT+rx/YWoIRb5FxqOKeUCPB5r6K81rXuv3KITc5rYmolOp++0ua5ZzgtdbKcyRci5DHRJX5GavtphmP0OvqTVLnCxii/XFbACxlcmgAawh7cavv0RS6j8lq1HoItG8/ZWL1+vLLYuH9stmbUxwu5R6OtONi8UqZulUi1AcrOfls=;ss4yUXBEMQ3gVwhEaAZMlA=="
