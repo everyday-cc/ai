@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-76
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Indian Express
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Minisforum HX100G Gaming Mini-PC packs AMD Ryzen 7 7840HS and Radeon RX 6650M GPU"
+    excerpt: "Minisforum's new HX100G Gaming Mini-PC system features AMD Ryzen 7 7840HS 'Phoenix' APU and Radeon RX 6650M GPU, with a stylish design."
+    publishedDateTime: 2024-01-29T02:10:00Z
+    webUrl: "https://www.tweaktown.com/news/95838/minisforum-hx100g-gaming-mini-pc-packs-amd-ryzen-7-7840hs-and-radeon-rx-6650m-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95838_12_minisforum-hx100g-gaming-mini-pc-packs-amd-ryzen-7-7840hs-and-radeon-rx-6650m-gpu_full.jpg"
+        width: 1500
+        height: 780
+        isCached: true
   - title: "TT Show Episode 19 - RTX 4070 Ti SUPER, Radeon RX 7600 XT, Apple Vision Pro, Meta AI, and more!"
     excerpt: "Kosta and Jak discuss how they fit into the current GPU landscape. It's not all GPU talk, as Jak and Kosta touch on Mark Zuckerberg and Meta's big AI push that will see them spend over $10 billion on NVIDIA GPUs. Then there's the Apple Vision Pro ..."
     publishedDateTime: 2024-01-25T23:01:00Z

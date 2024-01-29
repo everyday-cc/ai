@@ -75,20 +75,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "SK Hynix posts surprise Q4 profit on AI chip demand"
-    excerpt: "He added that SK Hynix will strive to \"grow into a total AI memory provider\". Hynix's results outpaced market expectations as strong appetite continued for its advanced DRAM chips such as high bandwidth memory (HBM) chips used in generative AI. SK Hynix is ..."
-    publishedDateTime: 2024-01-24T01:09:00Z
-    webUrl: "https://www.aol.com/news/sk-hynix-posts-surprise-q4-232727507.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/055bf27c3c6bd38ee76dedba759d0b9b"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "C/SvkdcerRGrCDi4tngyDRlG06/w8EikNd7GIXvH9EHZTqBQZ7Tcq/FdxIrpCQHGS8bstz3CyRaSSvX0rEtPKUP33QkcIep73u/oz9f6Q/VP7YqxY2sMbPClIOGvVIsL/8PxmT7y9BmT73+oyXIACkzl9dyYAYhdMTARdt/YIfBQiMkfKQrM4IFEDx49xifFCvZWM+UPqXhATjlWRbiuCaXu/0fQxBGQ1Or/eS8OjmorrLDgl3exbT42v4vg+Lxa69q9r3Ulw4N5fQ7ZnPFGsxGUXghMQvrqsM0FaMl1x2PniLSi6z7ghzRZ6fG/jUtuEkI0LGZ4vAg3Ayy+2gOoEnd7pqJaq1X7XF1hgqkzZuc=;LA0Fsq0J/yUQ80UYMxgr+A=="
 ---

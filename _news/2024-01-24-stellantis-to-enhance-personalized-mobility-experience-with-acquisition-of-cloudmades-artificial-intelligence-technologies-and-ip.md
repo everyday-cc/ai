@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/stellantis-to-enha
 webUrl: "https://markets.businessinsider.com/news/stocks/stellantis-to-enhance-personalized-mobility-experience-with-acquisition-of-cloudmade-s-artificial-intelligence-technologies-and-ip-1032992446"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -29,21 +29,14 @@ images:
 
 related:
   - title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
-    excerpt: "Stellantis NV has acquired artificial intelligence and machine learning technology, intellectual property rights and patents from U.K.-based CloudMade to enhance its in-vehicle experience."
-    publishedDateTime: 2024-01-25T12:05:00Z
-    webUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.html"
-    ampWebUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
+    excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
+    publishedDateTime: 2024-01-24T17:09:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/stellantis.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 17
 
 secured: "I7SOQ8brDF+fsymLK0FnF/s2HVlWBu6oMvEj9VM9eloykD06NitHMFG278tXpjCuy2649TFaXifzZVFTHF7KXRiMb6yKE27GjkjteQgpSwEWKobV+V84toTX8PSxF+gUIJUybWNDKuDxa7ObIEHiGyCOHm8nRQwgMQoH+6eZVBR1NmAnmIRgO+PIw2+MqG8gP42AXlhZUPB5HOMf3ieBeHpnKfBSHsx3eASzQeUESyoYYG7IDFMqckMI617wp5hNl1L0wI6Jg6JUeLFZwJJq9kNGGdfdCHsdqj3Z4mj7nl+Gei++R5FC2LBFf46Hwawbef5Pyz+FhkHAZoTWJ4HAbCIzYNlefhI7ny7IF1s9COk=;DUfuREn6j64zySnqfgWBnQ=="
 ---

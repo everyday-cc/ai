@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Stellantis acquires startup's AI tech for in-vehicle software platform"
-excerpt: "Stellantis NV has acquired artificial intelligence and machine learning technology, intellectual property rights and patents from U.K.-based CloudMade to enhance its in-vehicle experience."
-publishedDateTime: 2024-01-25T12:05:00Z
-originalUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.html"
-webUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.html"
-ampWebUrl: "https://techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-stellantis-startup-ai-tech-vehicle.amp"
+excerpt: "CloudMade's AI-powered framework is the industry-leading cloud and software development kit for collecting an analyzing automotive data sets that has contributed to the advancements in user experiences over the past decade, according to a Stellantis news release."
+publishedDateTime: 2024-01-24T17:09:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
+webUrl: "https://www.detroitnews.com/story/business/autos/chrysler/2024/01/24/stellantis-acquires-cloudmade-artificial-intelligence-stla-smartcockpit/72337467007/"
 type: article
-quality: 57
-heat: 67
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/stellantis.jpg"
-    width: 2880
-    height: 1920
-    isCached: true
 
 related:
   - title: "Stellantis to Enhance Personalized Mobility Experience with Acquisition of CloudMade’s Artificial Intelligence Technologies and IP"
@@ -41,6 +33,6 @@ related:
         height: 8534
         isCached: true
 
-secured: "EWsijyw2PXeI4p1LcI58fMsH2/hGo5+DOs9pcEIGjt/yQ3fdwtS9OUeQQz7RwPY2spTceaZL28zaw1TJtMoWFZ+bZi1h4bG9ATqMlLR1R2tnZNWD3QQTqW05pB/WcZ7h6u6AtPCczm0V2hvHwFAM9nCidQlFqIoIhG7pF5uvFkBYkscp1/XeplbnHjULEBe25tvIEDFdPSFo17lXeOgoeckaf9aD1QSxMMK7G1v0Cd5LH6WrFVd+M+OTiNnvAKwarw2x1h66cLAAwf+3xZlWEHvhSrQ5vCiyeYkwu/Pb7Ak7luI0hY0wgm0yDRlX4k2q5V2HDMkdc7B4NOm76QcMqtqDH21CuvQg6ZU7fgBsNVU=;HQTfEkJ61WyffB697SYXGA=="
+secured: "lXU73NkttQ1bhxRPosGNIcHn8+8D3TLB6ZgUjgrYCeu20M07FLFlqFehqS/Vt1XnzTsdgUGmEWYIRLVyCJg3hsD2044kMkDkHyMrq6aWOiCqfpVYqerfukSYh/BcUrfGn7QMku16Kcetq2++YvvO85wmCte9kIpT7lOqYJy0/ZZ8SdRq2kH55QOHa4CUnMCRhN0ir9QWVd+o94AMICsJWeReWx21kC3jPLpj3VahnCZAhPRI12KzeoawssGPGA3FaugMnzKbfzJIyKa8hIImczQ72sYVkSum9z/QaAlVLFFGXwM3ED1sn2dPiW8NaDC45hA6zaLm7DY/Hr6oC1FSrvVxkDeld4+RvML5aIdMq5uxt9z7bJeZfbV6LDupjyDeQvzjztJ+BABY5gCqIFU9DwEw6Q6T6ayg5YZzIAdfBIhHdwy0JFQo01oLaRKB1JBbfDB5FHYuaZ5rFs4F51be9kSvsnLjGWETN/VAgqauCc3gVF2+sAdwYqLE5tpSg4WlNfesWyNTG0PTZ+NgoEnrXg==;8xRwOjqQxvL5IsK7W7sFtg=="
 ---
 

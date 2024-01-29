@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
-excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
-publishedDateTime: 2024-01-24T13:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
+title: "Nvidia: Don't Chase AI Too Far"
+excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
+publishedDateTime: 2024-01-29T00:59:00Z
+originalUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
+webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
 type: article
-quality: 31
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
+    width: 1536
+    height: 1024
     isCached: true
 
 related:
@@ -48,19 +48,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Nvidia: Don't Chase AI Too Far"
-    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
-    publishedDateTime: 2024-01-29T00:59:00Z
-    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
+  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
+    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
+    publishedDateTime: 2024-01-24T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "NSF launches AI research hub"
     excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
@@ -81,6 +81,6 @@ related:
       domain: cointelegraph.com
     quality: 19
 
-secured: "bZfjELJ3mjjIalrBgbcOS4op2U2qQ4ctt4InjGtTeukJg0vLi+Ai9lZ9oqRAr1kgLW0pB5NiExRy/tCmHLHfC5LNggAJfe+WiNwktvYFg/z64ETIZohN5RkJACF2wqKVTLe+S/rboK3g9Snmex7HsGR1Qa2UDiSa6YdSeMMWTDKlQaJEozgXUGur64enHvNPbR67TciUvqbRNCHbnVGSMBxfbSFZSduJJVltzPd+L2V6z960aY8df56+X9mQVeT6eJdxbNIok7gnJl2Tel9lyTxCsRDbrXjX3IEz3LEPQQNJnKJCvpXfsl2A2JyNRmXq7ORUJBR1EE7RSAuXEbpdXRbQk1uK77BzPAp8m/4uUUs=;aSRd+jOsGx+NktzBv7w1Og=="
+secured: "kGUbt4yU/J8BEMvUkvbY6OM+68nPDMyV+DQqvA9bgl8fNcRDuUPGdSU+xWxMASdZMLI1h8Zn0P/0ys3OmnI05yuh3DaDe/i3uHk+fGoXBI0h9hI8AvQTWuKe6PLAg4BBM3UBInnTCW45Wd8gpaTfY3CYIZOh5P0MnS2WWLIAPJFesjHgPpSU9tZrMt7+m28Q38dNG7ZWtqUO6AHByunYU+hX/xgCz/KI2jbzadu1/br3bFO1m8dluNjuGygYucdKUg3k0nSXaFUzA2BnD5sucEXZCGUfCl2rmytV8wKyzYELKmd7GUu55ji6axmFrRYkNOI91A7RZRnmwy4ueK2lkvBzMcMQ831qBaQ+fvE+twk=;3jbRy1xGG4Hu+1fyqGLJwQ=="
 ---
 

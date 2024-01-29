@@ -62,20 +62,6 @@ related:
         width: 400
         height: 265
         isCached: true
-  - title: "Google Terminates Contract With Australian Firm That Helped Train Google Search and Bard"
-    excerpt: "Google LLC has ended its contract with Australian AI data firm Appen, which helped the tech giant train its AI chatbot Bard, Search Engine, and other products. Contractors at Appen help rate answers and data quality from AI models such as Bard and search ..."
-    publishedDateTime: 2024-01-24T02:15:00Z
-    webUrl: "https://techreport.com/news/google-terminates-contract-with-australian-firm-that-helped-train-google-search-and-bard/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 30
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/mitchell-luo-UZqq8Oi7PXk-unsplash-scaled.jpg?_t=1706091323"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
     excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
     publishedDateTime: 2024-01-26T17:35:00Z

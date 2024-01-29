@@ -7,8 +7,8 @@ originalUrl: "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-c
 webUrl: "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Reseller News
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches SMB competency"
+    excerpt: "AWS is addressing the needs of Small & Medium Businesses (SMB) through launching its first go-to-market specialisation designed for partners that deliver to SMB customers. This competency was created to address the needs of SMB customers, as they require ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.arnnet.com.au/article/1300665/aws-launches-smb-competency.html"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://www.arnnet.com.au/wp-content/uploads/2024/01/aws_1200x800_3-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AWS introduces SME partner competency"
     excerpt: "Cloud player reacts to small and medium customer requirements for dedicated support with the launch of a targeted option."
     publishedDateTime: 2024-01-26T09:45:00Z

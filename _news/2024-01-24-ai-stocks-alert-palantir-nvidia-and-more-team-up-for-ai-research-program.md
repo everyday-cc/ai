@@ -37,6 +37,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Nvidia: Don't Chase AI Too Far"
+    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
+    publishedDateTime: 2024-01-29T00:59:00Z
+    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
   - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
     excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
     publishedDateTime: 2024-01-24T13:52:00Z

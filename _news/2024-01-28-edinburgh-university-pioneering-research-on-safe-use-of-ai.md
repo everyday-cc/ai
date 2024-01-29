@@ -3,8 +3,8 @@ category: news
 title: "Edinburgh University pioneering research on safe use of AI"
 excerpt: "Professor Helen Hastie, Head of the School of Informatics at the University of Edinburgh, said that GAIL will not only advance leadership, research and development for AI but also in safety and ethics. “The University of Edinburgh is in prime position to ..."
 publishedDateTime: 2024-01-28T10:03:00Z
-originalUrl: "https://www.heraldscotland.com/news/24076933.edinburgh-university-pioneering-research-safe-use-ai/?ref=rss"
-webUrl: "https://www.heraldscotland.com/news/24076933.edinburgh-university-pioneering-research-safe-use-ai/?ref=rss"
+originalUrl: "https://www.heraldscotland.com/news/24076933.edinburgh-university-pioneering-research-safe-use-ai/?ref=socialflow"
+webUrl: "https://www.heraldscotland.com/news/24076933.edinburgh-university-pioneering-research-safe-use-ai/?ref=socialflow"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "wls7fKUh+9JFX2RzmMa/A7KWqXLs6LBILw5h7KGnW04kDRFSo8Vmn9DtT7TaHmT4LrwRD2DJfYYixXnouDLYDDXQ1h7qoI/5TAvPs4ZdmIYpuyBZclf+CS5Cne76dfjuTOUtzSV/SdxZG3kfwJSjWFKVVIza9gMjwYbhlCvdDic7phxpQdlt0pbePQr4PphPMAhsJ4SKJMX1/kSY53yjKQP42Eu79g66HJBsWg+fO/m1unZ0YaRh1bOH++FSW4VVVsiPJ0CQYd+VLsyPpvz6sPk+5nm1nHeRU4xUEuBY9iy4vXT4bUp8cymXwH9JoDb9tUk5Mdd6mHUzkVWhrwljLKHVQ7JmRq5GRSPGUiVZHi0=;Z8vl67vCnqxoLsmLt+NakA=="
+secured: "V2i3/fJvHZF8j5H45JoByjIu7raj95eo9q6I9DwYRh7fvPCv41tb6lU0LXa9z6a2kQl+aK5rDAXfifKgt47jqcgvQGpqYCo/wBHdfuyBN2HpecHIygFeYuQ0dm3/lYueNTM6SCM8UepqEKohj4m+QD4P0ElCoQykmqCwm80CRNXeHQ/4XZUZjEVbzsQMUic21e6rZdptd7r+niUyjB9sImIpEs/PVu2sqc0WBgOOaRx//80m8Q+D/RBk/SUXMrkI5YeRt51A7W5wUgvS+70FB7G7jlvHIcCqNWbeXm9cOo1/bXWIvUMj/klFVw0BvQBwoZo4ixdvZCXckAYlVshMp9EOvsKvNroD/Y4443dhRL8=;dE/VfwX69SetfqIvgvcEpA=="
 ---
 

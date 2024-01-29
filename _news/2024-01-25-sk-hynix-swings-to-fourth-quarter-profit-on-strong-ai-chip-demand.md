@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarte
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.networkworld.com/wp-content/uploads/2024/01/id-2960930-ddr4_module_2-0-100602653-orig-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "SK Hynix posts surprise Q4 profit on AI chip demand"
-    excerpt: "He added that SK Hynix will strive to \"grow into a total AI memory provider\". Hynix's results outpaced market expectations as strong appetite continued for its advanced DRAM chips such as high bandwidth memory (HBM) chips used in generative AI. SK Hynix is ..."
-    publishedDateTime: 2024-01-24T01:09:00Z
-    webUrl: "https://www.aol.com/news/sk-hynix-posts-surprise-q4-232727507.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/055bf27c3c6bd38ee76dedba759d0b9b"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "i0fHNFMqo9AFCHIs5bk7+AM/0hCCoVoveF4GCkYSiVu95Ribn16ln0R1CCGXI3b7j9TEbejX5JiRVoqWmvBcCqS5gi8otUPI1ip/TWP5POwicpiW9BSqguY7usjVlWA7bvtUwqlnvOdYoreKUAxt3Qno9Pr5d/Wit0TeWrfwD3y1Ygy1npC9EmZRyZsS69YogYa5TcqaX0djeNa8f7sIXqGuD53EVyqyACAYIBoNV17cYI2AaYmodPqI4WAd7eUT8Pb8FEiOAiBLmZHEcseTAGw4FAyzVszos4/UkmO9a6ou04uh+YbmYDLSYvRVFSzhwplMcLpnbGp7vNgp8Clg4e4daOCwGgcWKQdb/JZRpHiK2F25xjJT4Zn0Hf3ObrUNFyM7IAeF+x29OLG5QEw5CNpiQqI3Yy0V5bldHP4dBMDiYOWBNzvLFmfi5RnE9j4PEG2jyQRH8H6mRtW4o4ocN5im7Z9eIIENrz+E0e5jqyZBzS5pqFG2NsGF3GGmucty1an1zBlRU+XQPQJLoWyvjw==;QR5wTFGUbjCfJBEVZuFt3Q=="

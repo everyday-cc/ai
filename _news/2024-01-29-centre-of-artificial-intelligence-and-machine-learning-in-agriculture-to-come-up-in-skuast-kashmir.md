@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/india/centre-of-artificial-intelligence-and-mach
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/centre-of-artificial-intelligence-and-machine-learning-in-agriculture-to-come-up-in-skuast-kashmir/1942924/?amp"
 type: article
 quality: 60
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "SKUSAT-K to have centre for AI, machine learning"
+    excerpt: "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ..."
+    publishedDateTime: 2024-01-29T02:05:00Z
+    webUrl: "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307"
+    ampWebUrl: "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307"
+    cdnAmpWebUrl: "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png"
+        width: 360
+        height: 360
+        isCached: true
 
 secured: "NosAOZvGIKLg5/iURfVHi5OTe5j8rcVjAL7LzlrLVbwmOGSRdkbTFYAS2fI6NKT5qomXP3hJF0D8odyqiFWqEzdPgbM0Q57Mo7zCMkOFB589IHjb6j6IMUA1khAsgPcKvDeAI8bL+U3Q35lohElgEiOPSZN+5P+IGrbKQPl+HPWt4d/TGXXMGwGljerpA/TI+KFRmqg9Y9F4Eg+fHRqQb9CMO8sqEXCvbA5ymonI3auYqtkkGnq13NCoVxg2JeZzEVU2nf7vlYxW+GS9DKHmTCxp5Uxr6dCknjyiU7OswKWeqhCWV2WVe3rOprqzjqTLjmfM5wWa+YFgbOTwqq4JePZhk2OJlnqnrNVKwbp/cDE=;c6t+qiTTUuNRejICEukMuw=="
 ---
