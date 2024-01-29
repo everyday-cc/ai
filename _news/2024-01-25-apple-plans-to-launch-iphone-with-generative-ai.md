@@ -23,76 +23,114 @@ topics:
   - AI
 
 related:
-  - title: "Apple aims to run AI models directly on iPhones, other devices"
-    excerpt: "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology."
-    publishedDateTime: 2024-01-24T15:39:00Z
-    webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
+  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
+    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
+    publishedDateTime: 2024-01-26T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/apple-ai-list-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
-    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
-    publishedDateTime: 2024-01-24T18:16:00Z
-    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
+        height: 600
         isCached: true
-  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
-    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
-    publishedDateTime: 2024-01-25T03:33:00Z
-    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
+    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
+    publishedDateTime: 2024-01-24T17:14:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
+        width: 1021
+        height: 509
+        isCached: true
+  - title: "What Are the Privacy Risks of Generative Artificial Intelligence?"
+    excerpt: "Businesses should apply controls so that AI tools do not compromise users’ personal information, and users must be careful not to inadvertently share private data."
+    publishedDateTime: 2024-01-25T21:40:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202401/GettyImages-1208700065.jpg?itok=ecE4m4H0"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
+    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
+    publishedDateTime: 2024-01-26T02:00:00Z
+    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 39
     images:
-      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
-        width: 1500
-        height: 857
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
         isCached: true
-  - title: "Chinese AI processor developers face challenges"
-    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
-    publishedDateTime: 2024-01-25T01:25:00Z
-    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
+    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
+    publishedDateTime: 2024-01-24T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 30
     images:
-      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
-    excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
+    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
     publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
+    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
 
 secured: "KFeN+ZImFP7duifjAoRMkZfa0YmYwQJRZLdcdreA8l7Va296AUa6rNLMcPcbdE/zqE1CwJ4IXS7Dw37tTEgm92Fa0Sn9rAIwSo6BPfLKagDotK5k/5D+SKNUyblMZiWGv+0ud+CMcpSZVxxfxvdaBXf/GJICo+WdA6fwNHXfqUxOjo5nScvjivY5WomjddcEkg1zixErrk3EhOO9XmCzwALvIYpArSumd9fue5/njS8V24ZWaPoiM6lIGW46EPIkSfbHiwOZRMb6cq8AhJYjNrcZWjSt/6sUAQZM0iTZY2TjipBsnKlS8oVL+sUNt1007Po4y8q5HdHCWlcq11ve41n57zkCf4Q0GCzBjyXoTnc=;s0lkeTDivSoz4qJb8MFAWQ=="
 ---

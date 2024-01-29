@@ -58,15 +58,6 @@ related:
       name: Ummid
       domain: ummid.com
     quality: 32
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
 
 secured: "2fGFLv7hOpTe2YU4H+HR214uTZLkNy36ed8Zl8YNKD3aAp+u5wv3qVrq0H3xKjiGmkQkCdDAwfmJBoIiRIZimD2XkNum+DW9kHGltkx11OZO/L8ZCAWSpLez5iU7y56y9nMeQFvtg1PHKoOQorbyyBgXAK6PIMZ40idv1T0PHrFef5oJMEejqDMt3HzDvJT4GNLx9INC4vv0U8UgGD2p+6Ailvd2CID7Jq9a1RE4TxAFt/zgHuUfq0r9bqJjrTitYUiWUOGtxNSkR1w+sHDghf0V01YlMxPKu1h+HK90v3oriqsEveYQ5EUg8L1CWKL0/i9ecWNiEjRX9NN7Q+HQmRVXdkpycCaWNSyHsKfNSlg=;VraasLEUo0SZMRzhmsMKiw=="
 ---

@@ -53,15 +53,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Apple Plans To Launch IPhone With Generative AI"
-    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
-    publishedDateTime: 2024-01-24T21:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Chinese AI processor developers face challenges"
     excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
     publishedDateTime: 2024-01-25T01:25:00Z

@@ -2,6 +2,281 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
+      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
+      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "publishedDateTime": "2024-01-25T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-amd-launches-radeon-rx-7600-xt-gpu-with-fluid-motion-frames-technology.md",
+      "title": "AMD launches Radeon RX 7600 XT GPU with Fluid Motion Frames Technology",
+      "excerpt": "AMD compares the performance of the Radeon RX 7600 XT GPU with the NVIDIA GeForce RTX 2060 and claims to offer 1.9x faster gaming and raytracing performance. The graphics card does support all the latest Radeon software technologies such as AMD Fluid Motion Frames (AFMF), which generates additional frames to make the game look smoother.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "originalUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/amd-radeon-rx-7600-xt.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "publishedDateTime": "2024-01-25T06:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse.md",
+      "title": "Will Generative AI Help Us Solve The Climate Crisis (Or Will It Make It Worse)?",
+      "excerpt": "You might be surprised to learn that AI is already proving to be a powerful weapon in the fight against climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2091ee442f865f2c67c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "publishedDateTime": "2024-01-25T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards.md",
+      "title": "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards",
+      "excerpt": "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "originalUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2024/01/AI-Stories-with-watsonx-on-GRAMMYs-social-media-channels.jpg",
+          "width": 640,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "cdnAmpWebUrl": "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-us-regulator-probes-ai-investments-by-tech-giants.md",
+      "title": "US regulator probes AI investments by tech giants",
+      "excerpt": "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
+      "originalUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
+      "cdnAmpWebUrl": "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grand Junction Daily Sentinel",
+        "domain": "gjsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-health-care-down-slightly-after-mixed-earnings-health-care-roundup.md",
+      "title": "Health Care Down Slightly After Mixed Earnings -- Health Care Roundup",
+      "excerpt": "Health-care companies fell slightly amid mixed earnings ... Evaxion Biotech shares surged, almost doubling in value, after the vaccine developer said it was applying artificial-intelligence methods to exploration of cancer vaccines, pledging to produce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "publishedDateTime": "2024-01-24T22:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love.md",
       "title": "AI is for everyone: Prompts to help you with work, life, school and love",
       "excerpt": "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ...",
@@ -364,58 +639,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace.md",
-      "title": "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace",
-      "excerpt": "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg",
-          "width": 1021,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T17:14:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024.md",
       "title": "How Blockchain And AI Are Set To Transform Small Businesses In 2024",
       "excerpt": "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates.",
@@ -570,7 +793,7 @@
       "originalUrl": "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -717,57 +940,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals.md",
-      "title": "Google’s latest AI video generator renders implausible situations for cute animals",
-      "excerpt": "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-24-microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth.md",
       "title": "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth",
       "excerpt": "Also Read: Microsoft Represents Solid Reacceleration Story in 2024 – Bank of America Analyst Raises Forecast Radke expects a solid beat and raise and notes improving IT budgets, partially driven by generative AI where Microsoft is in a leadership ...",
@@ -870,6 +1042,58 @@
         "Meta AI",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos.md",
+      "title": "Google shows off Lumiere, a space-time diffusion model for realistic AI videos",
+      "excerpt": "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/",
+      "originalUrl": "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T12:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1029,229 +1253,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.md",
-      "title": "Google ends contract with Australian data firm that helped train Bard AI",
-      "excerpt": "San Francisco: Google has terminated its contract with Australian data company Appen which helped the tech giant in training its large language model (LLM) AI tools used in Bard and Search. Appen said in an Australian exchange filing that it had no prior ...",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107104318,imgsize-4362,width-1200,height=765,overlay-ettelecom/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/google-ends-contract-with-australian-data-firm-that-helped-train-bard-ai/107104318",
-      "publishedDateTime": "2024-01-24T06:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-role-of-artificial-intelligence-in-improving-sexual-and-mental-health.md",
-      "title": "Role of artificial intelligence in improving sexual and mental health",
-      "excerpt": "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
-      "originalUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html",
-      "publishedDateTime": "2024-01-24T06:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-ai-helps-drive-cloud-more-safely.md",
-      "title": "How AI Helps Drive Cloud More Safely",
-      "excerpt": "There’s a place for an accelerated cloud vulnerability resolution process and a drive down safer cloud journeys through the use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65afcb5df16229caf4ad0178/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/24/how-ai-helps-drive-cloud-more-safely/amp/",
-      "publishedDateTime": "2024-01-24T06:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-13-ways-writers-should-embrace-generative-ai.md",
-      "title": "13 Ways Writers Should Embrace Generative AI",
-      "excerpt": "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0b9c87ae3e866980f22c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/",
-      "publishedDateTime": "2024-01-24T06:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-facial-recognition-software-concerns.md",
-      "title": "AI facial recognition software concerns",
-      "excerpt": "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/video/1399941",
-      "originalUrl": "https://www.fox26houston.com/video/1399941",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/video/1399941.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp",
-      "publishedDateTime": "2024-01-24T00:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
+    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
+    publishedDateTime: 2024-01-24T12:57:00Z
+    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google’s latest AI video generator renders implausible situations for cute animals"
     excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
     publishedDateTime: 2024-01-24T14:45:00Z

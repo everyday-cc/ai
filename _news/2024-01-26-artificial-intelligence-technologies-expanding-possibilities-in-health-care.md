@@ -19,62 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
-    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
-    publishedDateTime: 2024-01-28T12:25:00Z
-    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
+  - title: "Emerging AI technologies that are reshaping financial services"
+    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
+    publishedDateTime: 2024-01-24T21:19:00Z
+    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: American Banker
+      domain: americanbanker.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "How AI Revolutionizes Industries: Inspiring Examples That Will Blow Your Mind"
-    excerpt: "Are you ready to have your mind blown? Artificial Intelligence (AI) is not just the stuff of science fiction anymore – it’s revolutionizing industries in ways that were unimaginable just a few years ago."
-    publishedDateTime: 2024-01-25T16:01:00Z
-    webUrl: "https://techbullion.com/how-ai-revolutionizes-industries-inspiring-examples-that-will-blow-your-mind/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/AI-technology.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "AI is ready to start changing health care, but people are holding it back"
-    excerpt: "AI is ready to make a positive impact in health care, Philips CEO Roy Jakobs told me last week in Davos, but people in charge of the health care system are holding it back."
-    publishedDateTime: 2024-01-25T16:38:00Z
-    webUrl: "https://www.aol.com/finance/ai-ready-start-changing-health-143852499.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/h.KemaIwJF0kbcefeAMVqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/04495ca03e65074387d50da84af11f91"
+      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
-    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
-    publishedDateTime: 2024-01-25T08:42:00Z
-    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
+  - title: "Financial services and insurance leaders confront AI growing pains as focus shifts to large-scale integration"
+    excerpt: "The largest financial services firms and insurance carriers are all-in on artificial intelligence (AI), with the vast majority (91%) launching point solutions and proofs of concept over the last year."
+    publishedDateTime: 2024-01-25T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-services-and-insurance-leaders-confront-ai-growing-pains-as-focus-shifts-to-large-scale-integration-1032996673"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 26
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
+    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
+    publishedDateTime: 2024-01-26T17:05:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 25
 
 secured: "Jva/eiuM/Tr3KH/jVBoFcX9t77ipizLL/FddnY59xKHC9iNwJ2oO77p/9jB1+imafas/35p6vX2vfEppIYVEYeHZiWGgr7XHIbicU8NQLF7onuq2CYQzdsApokZRvgXHzzfwnmMTJAnRG2+t9CT5DKjw8qJdiDhj4in05uaW7RT7X8xcyZOW3ejCzAGTjLgmhDweEgl2HMlEhKXBY/r7jq5FPTSOqncVIFFlfWE5yTDkXqoT93ckbVZxwKYLMZwrqHOM/9aAsNDfnoouziqt0D/EWyjM/NCFbT4IK1e/N1iIxLvQYR0EBC7IPFMyw6BwNnYeb3Asc1JUFoyrFMaYJIDiwB93HR6XknSNSBrs3UnnSG16TQyEpWwgZ2TGlArjcgQPxAmuxNbDSt6FfAoKZirkh8q98XBgbdMUUH4BEOCyInIvY8CCzXUYknJvvCi8tMMyuYw7FpUWVDEJ1Lf+MuzhXvUoxivtz6fTyCGrn0WTfWCsVm7xNTUYZUZq3glA/iyJSXth+ZYaSsDMcSNLjQ==;kfxUq/WmKRLd6/ze+USSdA=="
 ---

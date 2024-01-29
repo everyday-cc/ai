@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/
 webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Live Speech-to-Speech AI Translation Goes Commercial"
-    excerpt: "S2ST is used to translate conversations between customers and hotel and restaurant staff. This is usually done via an app running on a device, like a mobile phone or a tablet. An example of a commercial product is SoundHound AI Voice AI Concierge, which is available in 25 languages."
-    publishedDateTime: 2024-01-26T08:05:00Z
-    webUrl: "https://slator.com/live-speech-to-speech-ai-translation-goes-commercial/"
+  - title: "Australian Open hopes AI audio translations will speak to new fans"
+    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
+    publishedDateTime: 2024-01-27T18:00:00Z
+    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
+    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
+    publishedDateTime: 2024-01-26T17:35:00Z
+    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 21
-  - title: "Delaware lawmakers seek rules for artificial intelligence"
-    excerpt: "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism"
-    publishedDateTime: 2024-01-24T12:18:00Z
-    webUrl: "https://gazette.com/news/wex/delaware-lawmakers-seek-rules-for-artificial-intelligence/article_f2f4c8d3-79c4-5a2d-a25d-73a73e0000a6.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 17
-  - title: "Groundbreaking Linguistic AI Solution ‘Evolve’ by RWS Transforms Global Translation Practices"
-    excerpt: "Following a successful beta program involving Dell and several other industry leaders, RWS announces the availability of Evolve."
-    publishedDateTime: 2024-01-25T08:00:00Z
-    webUrl: "https://slator.com/groundbreaking-linguistic-ai-solution-evolve-by-rws-transforms-global-translation-practices/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 8
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "/9XRPS2snNX6cSmIC8QU6vhmz1dzCiPxep3/3gmQ7yyZrxf6Z1E0IqB6m7U7JpdrpQBAlji+LSTYI1iLi3UQKQSCFLqeEIdmnfhs6HsnJNdemZgtkfV1zZEJOg/wy3xSveaEAKaXmzeppVpmnEUdUht65MV1v8CFIl7FzpTqxvogImquQEnpNbdq/imWaUV0SMapv544BPqCgGhvbMhvyHQtGsU+LSOCkif/U6wsuWiwTNev534xANNkzEN8bHzM2MuiSLhs6ZTvbGuQr3pbND/bziibhLbI8o8iBRdpDq2WRSi4ov0gXhF8FiMtPZYXjJz9cB/auFNyrDfXCu6thFD9dGnTjau25iu/6sBQwgK1C5b4euwOzavMIPP6pPn0z3eumbhhM94dGW85TTQweRxbxGOFOwoMNv1rvNK07ABfFpkG2fKcxN3WXbYz8haa36lcoAflG3hmTAAa3jotKhr/BgEauCzP/2XDcZ+flE1q2535G2+BN/WfvPOWizp/ra91ujPEFt1sZmTBuCSVtg==;cPI9zlMXZdeq8r6z9orPTg=="
 ---

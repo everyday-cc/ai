@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Role of artificial intelligence in improving sexual and mental health"
-    excerpt: "Therapy and counseling are effective treatments for people suffering from such issues, but societal taboos and the cost of treatments often deter people from seeking necessary treatment. A promising potential solution is emerging in the form of Generative AI. Why is Generative AI especially significant for a country like India?"
-    publishedDateTime: 2024-01-24T06:30:00Z
-    webUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.html"
-    ampWebUrl: "https://www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/24/role-of-artificial-intelligence-in-improving-sexual-and-mental-h.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 59
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/2022/images/2022/12/21/diagnosis--artificial-intelligence-AI-healthcare-Doctor-heart-computer-shut.jpg"
-        width: 760
-        height: 443
-        isCached: true
   - title: "Can AI-Driven Cancer Care Help Improve Mental Well-Being?"
     excerpt: "Navigating a cancer diagnosis can be an emotionally challenging journey, leaving caregivers and loved ones grappling with a profound sense of confusion. One study reports that over half (58 percent) of cancer patients surveyed communicated that they struggle more with mental challenges than the physical treatment and side effects."
     publishedDateTime: 2024-01-26T18:49:00Z
@@ -57,52 +41,15 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+  - title: "Can AI end client frustrations over billing?"
+    excerpt: "Sharon Scenna of Intapp discusses the potential role that AI can play in improving client billing along with best practices that come with use of the technology."
+    publishedDateTime: 2024-01-25T14:51:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/can-ai-end-client-frustrations-over-billing-2024-01-25/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Emerging AI technologies that are reshaping financial services"
-    excerpt: "Thank you for your interest. You can now access the asset below. The financial services industry is evolving rapidly in response to the latest advancements in AI and machine learning. Today, banking and capital markets increasingly live in the cloud ..."
-    publishedDateTime: 2024-01-24T21:19:00Z
-    webUrl: "https://www.americanbanker.com/ebook/emerging-ai-technologies-that-are-reshaping-financial-services"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 39
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/fe118d6/2147483647/strip/true/crop/784x412+0+98/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F79%2F3e%2Fea5f135d4c9ca42227cd2c69b4c1%2Fnttdata.PNG"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The tantalising promise of AI for the emerging world"
-    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
-    publishedDateTime: 2024-01-25T11:50:00Z
-    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Can Artificial Intelligence Help Human Mental Health?"
-    excerpt: "We talk with UC Berkeley School of Public Health Professor Jodi Halpern about AI ethics, empathy, and mental health."
-    publishedDateTime: 2024-01-24T18:01:00Z
-    webUrl: "https://greatergood.berkeley.edu/article/item/can_artificial_intelligence_help_human_mental_health"
-    type: article
-    provider:
-      name: Cal Alumni Association
-      domain: berkeley.edu
-    quality: 21
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "kjrWVaet1u/5M2e/kFBCdP2B8mYtifq8JD0OfmCiIvYcPEuU9mBeiG0iWUa3EiffniC8MQIH2p+CTTPguylWTlx9q84DNzeRInA/vIh0S3IZXVoKzlxiFME8RMd9KkOOUp4/h8Ou0Lovkexv+/MC9CM5K1wTAUpK69GqPbaW6ZNiM1KNz+UG3eQ+2VyWoimjslx+oJsxq8P29tcjOhV7wu4CfvScpJDDl9cv6iROaBcHCKwKkq9rl3kxnsncuGLUdb0gO1Wk1qN0mJ9g7n39VyIRSYk7WFE6CSHIjh0tVTV7Rc61NApfB3kOZFQQDejpL8TWjn3UTlg63/KhxU4q+rebWxhaC0grINL8b6+ZI2VBPNt2Dv6EgWNKTnUqnBeJOORQmrcBRlrER8uKcTmRp9+OM813scsuhu8tocGw/oJ+3bjCsPUrS25f499jlBecJ4rYcoZK48enLSQPTD/81bnNKtVYXphlsGaqKnq0Cm89GvfkrmDu05nSJj/2tA5Vip7T35bQu6HFfNuyCfF+Sg==;VLIg2fImLzmic/OwdRRQUA=="
 ---

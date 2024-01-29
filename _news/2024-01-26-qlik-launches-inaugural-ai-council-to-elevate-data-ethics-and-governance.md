@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/qlik-launches-inaugural-ai-council-elevate-da
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/qlik-launches-inaugural-ai-council-elevate-data-ethics-and-governance?amp"
 type: article
 quality: 73
-heat: 95
+heat: 93
 published: true
 
 provider:

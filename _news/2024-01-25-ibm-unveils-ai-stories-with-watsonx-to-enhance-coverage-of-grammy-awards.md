@@ -9,7 +9,7 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stor
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
 type: article
 quality: 73
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Ummid
       domain: ummid.com
     quality: 32
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
   - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
     excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
     publishedDateTime: 2024-01-25T10:45:00Z

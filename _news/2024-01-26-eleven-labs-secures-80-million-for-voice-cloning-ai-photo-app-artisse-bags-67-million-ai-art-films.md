@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "AI voice cloning startup ElevenLabs becomes unicorn after $80 million funding round"
-    excerpt: "AI voice cloning startup ElevenLabs has gained unicorn status after its latest round of fundraising, per a Reuters report on Monday. According to a source, the company raised $80 million in Series B funding from investors led by Andreessen Horowitz ..."
-    publishedDateTime: 2024-01-24T06:50:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-voice-cloning-startup-elevenlabs-rides-the-unicorn-wave-with-80m-funding-round/article67771721.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 51
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/i19zt7/article67771715.ece/alternates/FREE_1200/2024-01-04T174955Z_1617394727_RC24B5AC0VSG_RTRMADP_3_APPLE-AI-INVESTORS.JPG"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "oPl408zYBfoUpKO7Lmgxh6o6LdPkS+AFLXSmQVKdtixPzzfalC5U66XqgSmhMsRGYOh7gBZN9dWzjAOek1YULbPKoaO0hSi/NIUXMGD5zVge7rmLZQBP6PVwZrVM6G9hObxwq/zO2QptUebyDWh00r4IIBg+EI6P7ziw76+DHAadpTlE/1UVl66oD1qR1sUsyo5Q3uICwCZPLMJSmO2vaMXA577GT923/YVMnQKQ4MxNdclkoRnSMem2Y37uy+fUg6BLmKXBhSz3uvB8y0YC2mc9ck5/QahzZFzO9AuEXPUYVmcRJxMWkNXpm+5Xbhryxx4awTvCB6OXhI9mafbG+CgtJYROKhnL99xG3mwW7L3W9/G56kMnybMSKUrpE3FBMrDpBb3tv9vZ+pqJh7RIOH5SeuM1tSb4rFpISbxYfnApZG5p2wxGTWzSag+MktEw0KzIklbyCJamUeTiqUVlcafMQHw4kL9wAJrQg1OEyIcb2QVK4CXlUtZXW8HywByEqsfKzZG2NLFmQMb7PI3cFQ==;pvQRYizzyZ0+8V/7XOeMMg=="
 ---

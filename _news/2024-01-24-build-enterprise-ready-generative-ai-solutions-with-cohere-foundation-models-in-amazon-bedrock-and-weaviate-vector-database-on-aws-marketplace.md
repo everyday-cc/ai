@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-rea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,43 +29,109 @@ images:
     isCached: true
 
 related:
-  - title: "Google shows off Lumiere, a space-time diffusion model for realistic AI videos"
-    excerpt: "As more and more enterprises continue to double down on the power of generative AI, organizations are racing to build more ... something that remains an open challenge for future research. VentureBeat's mission is to be a digital town square for ..."
-    publishedDateTime: 2024-01-24T12:57:00Z
-    webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
+  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
+    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
+    publishedDateTime: 2024-01-26T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Screenshot-2024-01-25-at-12.55.55 AM-2-e1706124553997.png?w=1200&strip=all"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
         height: 600
         isCached: true
-  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
-    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+  - title: "What Are the Privacy Risks of Generative Artificial Intelligence?"
+    excerpt: "Businesses should apply controls so that AI tools do not compromise users’ personal information, and users must be careful not to inadvertently share private data."
+    publishedDateTime: 2024-01-25T21:40:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202401/GettyImages-1208700065.jpg?itok=ecE4m4H0"
+        width: 1440
+        height: 500
         isCached: true
-  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
-    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
+  - title: "Apple Plans To Launch IPhone With Generative AI"
+    excerpt: "Apple (AAPL) has been involved in acquiring, hiring staff and updating hardware to design an iPhone with generative artificial"
+    publishedDateTime: 2024-01-24T21:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-plans-to-launch-iphone-with-generative-ai-1032994009"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 2
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
+    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
+    publishedDateTime: 2024-01-26T02:00:00Z
+    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 39
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
+    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
+    publishedDateTime: 2024-01-24T11:17:00Z
+    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 30
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
+  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
+    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
+    publishedDateTime: 2024-01-24T15:47:00Z
+    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
 
 secured: "XdLditINECDpMd+8QgZHnpMQDxwfDgzRCogxxd/GiuNvzrxqQ7tmAykHPvOjQlJ1eYvF39W+SO3EWGkV9yjmGnot7NRTrn15CGvdLRRU6CEQC48nnimFGer+TndWQWaHGctf9Oje/ge6Hh7a6b/D4AqOub2TdytlMI1DCa8iDERFymQScDvR5bJAAORUCZShGp7+CLeJu7WpGaNzI/P7KtMfl1lUtuoRi+bzUBhWTHl2SIip3Ab9f1A83hsqWkdEDyN8hZydH46CIcJz1GZEQBU9pfaZOFDy70ln4CSQ/vxgYe5nTiNNlNZ2yL5bhR6H4AnlcyQ7s+raM2pIKK2JvOWU6DiWAyim+rUzxjH47EY=;JRPgXSnTdbK1sghkcf8Npw=="
 ---

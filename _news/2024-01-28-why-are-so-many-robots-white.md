@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2790601-why-are-so-m
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: devdiscourse
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Are So Many Robots White?"
+    excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
+    publishedDateTime: 2024-01-29T05:47:00Z
+    webUrl: "https://za.investing.com/news/why-are-so-many-robots-white-2991784"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 39
+    images:
+      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+        width: 251
+        height: 282
+        isCached: true
   - title: "Why are so many robots white?"
     excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
     publishedDateTime: 2024-01-26T18:03:00Z

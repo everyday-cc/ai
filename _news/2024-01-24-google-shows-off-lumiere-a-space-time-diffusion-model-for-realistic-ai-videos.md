@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-d
 webUrl: "https://venturebeat.com/ai/google-shows-off-lumiere-a-space-time-diffusion-model-for-realistic-ai-videos/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: VentureBeat
@@ -29,43 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Build enterprise-ready generative AI solutions with Cohere foundation models in Amazon Bedrock and Weaviate vector database on AWS Marketplace"
-    excerpt: "This post discusses how enterprises can build accurate, transparent, and secure generative AI applications while keeping full control over proprietary data. The proposed solution is a RAG pipeline using an AI-native technology stack, whose components are designed from the ground up with AI at their core,"
-    publishedDateTime: 2024-01-24T17:14:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-enterprise-ready-generative-ai-solutions-with-cohere-foundation-models-in-amazon-bedrock-and-weaviate-vector-database-on-aws-marketplace/"
+  - title: "Google’s latest AI video generator renders implausible situations for cute animals"
+    excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
+    publishedDateTime: 2024-01-24T14:45:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 61
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/24/weaviate-bedrock.jpg"
-        width: 1021
-        height: 509
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
-    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
+  - title: "Lumiere, Google's latest generative AI model, can create brief yet fairly realistic video clips"
+    excerpt: "Google has just unveiled Lumiere, the company's latest AI model for video creation. Lumiere is a significant improvement in video synthesis, Google states, as creating \"realistic,"
+    publishedDateTime: 2024-01-25T15:13:00Z
+    webUrl: "https://www.techspot.com/news/101642-lumiere-google-latest-generative-model-can-create-brief.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: TechSpot
+      domain: techspot.com
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-25-image-3.jpg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Storyblok partners with Lokalise to bring AI-powered translation and localisation into content operations"
-    excerpt: "COMPANY NEWS: 35% of businesses publish content in only one language. Storyblok, the content management system (CMS) category leader, has partnered with Lokalise, the leading one-stop solution for AI-powered translations and automated localisation."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/storyblok-partners-with-lokalise-to-bring-ai-powered-translation-and-localisation-into-content-operations.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 2
 
 secured: "44Fsvt/PqWc2Dm0UU5oj2gI4rjtXAS9hx6RlMgXLn656F9ii7rCIZUkJMrdVVAoeUmxv5lq7/ycPdRxpDIdWnzjagg5U+xIxOqMxDHJ3Ok8q/Bz1RaLUb7UyNf6YugMDPGXvrTRTwisNXUO/1SObaMRTdYdAmk95wr1O/F6yXAfVTJOdiihH8B9Rzn6ISleVbTB5MtEW/A3Dg65cGXlsN4W7Vr3ZDZa5qjMlCSfYDfL/Gv08PaBenGR9qUfQomn7O3ab1gepGVEOTSbvlxh7zie1PsRvRNc0bLozcLjLP8YKnW1a2kZinW9cQ3+hEqQR1mcOCKiwM0uDxtpnu54LHN2pspeeE4Y0ef8eXvQ0UKs=;T87ng0w0rPHSWp3bvY8R1g=="
 ---

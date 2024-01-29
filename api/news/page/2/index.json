@@ -2,6 +2,235 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-26-networks-unchained-the-shift-toward-intent-based-autonomous-operations.md",
+      "title": "Networks unchained: the shift toward intent-based autonomous operations",
+      "excerpt": "To succeed in the modern era, CSPs need data scientists, software developers and service assurance engineers to succeed.\nThe post Networks unchained: the shift toward intent-based autonomous operations appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/networks-unchained-the-shift-toward-intent-based-autonomous-operations/",
+      "originalUrl": "https://www.ibm.com/blog/networks-unchained-the-shift-toward-intent-based-autonomous-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T19:06:18Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-can-ai-driven-cancer-care-help-improve-mental-well-being.md",
+      "title": "Can AI-Driven Cancer Care Help Improve Mental Well-Being?",
+      "excerpt": "Navigating a cancer diagnosis can be an emotionally challenging journey, leaving caregivers and loved ones grappling with a profound sense of confusion. One study reports that over half (58 percent) of cancer patients surveyed communicated that they struggle more with mental challenges than the physical treatment and side effects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/BinocularRobHyronsShutterstock_206038120.jpg?itok=hjCizb-t",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp",
+      "publishedDateTime": "2024-01-26T18:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-exclusive-amazon-ceo-andy-jassy-on-jeff-bezoss-leadership-and-the-future-hes-imagining-for-ai-and-health-care.md",
+      "title": "Exclusive: Amazon CEO Andy Jassy on Jeff Bezos's leadership, and the future he’s imagining for AI and health care",
+      "excerpt": "Jassy spoke in an interview with Fortune CEO Alan Murray at the World Economic Forum in Davos.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-on-jeff-bezos%27s-leadership%2C-and-the-future-he’s-imagining-for-ai-and-health-care/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d",
+      "originalUrl": "https://fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-on-jeff-bezos%27s-leadership%2C-and-the-future-he’s-imagining-for-ai-and-health-care/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d/Images/posterImage-ver3-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-on-jeff-bezos's-leadership%2C-and-the-future-he%E2%80%99s-imagining-for-ai-and-health-care/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-on-jeff-bezos's-leadership%2C-and-the-future-he%E2%80%99s-imagining-for-ai-and-health-care/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d/amp",
+      "publishedDateTime": "2024-01-26T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-the-fallout-from-the-taylor-swift-ai-porn-could-be-huge.md",
+      "title": "The Fallout From the Taylor Swift AI Porn Could Be Huge",
+      "excerpt": "Earlier this week, AI-generated porn featuring Taylor Swift started circulating on X (formerly Twitter). Swifties were scandalized. Polite society was incensed. Swift herself hasn’t publicly commented on the scandal but it’s easy to imagine she’s probably not thrilled about it.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828",
+      "originalUrl": "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T17:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-the-different-types-of-renewable-energy.md",
+      "title": "The different types of renewable energy ",
+      "excerpt": "Understanding the types of renewable energy sources available can be a key step towards reducing your carbon footprint.\nThe post The different types of renewable energy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "originalUrl": "https://www.ibm.com/blog/renewable-energy-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-why-the-rise-of-ai-shouldnt-change-the-way-you-invest.md",
       "title": "Why The Rise Of AI Shouldn’t Change The Way You Invest",
       "excerpt": "An exploration of AI's impact on the three largest sectors of the S&P 500 and why investors shouldn't change the way they invest because of AI.",
@@ -479,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -519,6 +748,57 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai.md",
+      "title": "Five Techniques To Ensure Reliable And Honest Use Of Generative AI",
+      "excerpt": "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/",
+      "publishedDateTime": "2024-01-26T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -582,7 +862,7 @@
       "originalUrl": "https://diginomica.com/qlik-launches-inaugural-ai-council-elevate-data-ethics-and-governance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -866,7 +1146,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -906,289 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-opinion-intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead.md",
-      "title": "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead",
-      "excerpt": "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-474373/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "publishedDateTime": "2024-01-26T00:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high.md",
-      "title": "Broadcom’s Software Expansion And AI Potential Drive Stock To New Record High",
-      "excerpt": "Generative AI is already powering growth in Broadcom’s semiconductor business, while the recently completed acquisition of VMware will significantly boost the company's software exposure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2e9383cb2fdb041209470/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/amp/",
-      "publishedDateTime": "2024-01-25T23:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-general-purpose-humanoid-robots-bill-gates-is-a-believer.md",
-      "title": "General purpose humanoid robots? Bill Gates is a believer",
-      "excerpt": "To Apptronik, an Austin-based start-up that spun out of the human-centered robotics lab at the University of Texas ... Other firms mentioned in the piece include robotic perception firm Field AI and Tevel, which builds apple-picking drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
-      "originalUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
-      "publishedDateTime": "2024-01-25T22:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-customer-experience-examples-that-drive-value.md",
-      "title": "Customer experience examples that drive value",
-      "excerpt": "Discover some proven customer experience examples that organizations can use to improve customer loyalty and grow value.\nThe post Customer experience examples that drive value appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T20:39:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-jacobi-robotics-shortens-the-robot-programming-cycle-in-partnership-with-formic.md",
-      "title": "Jacobi Robotics shortens the robot programming cycle in partnership with Formic",
-      "excerpt": "Jacobi Robotics has launched new path-planning and optimization system with Formic to accelerate palletizing applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/",
-      "originalUrl": "https://www.therobotreport.com/jacobi-robotics-shortens-robot-programming-cycle-partnership-with-formic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-hugging-face-teams-up-with-google-to-accelerate-open-ai-development.md",
-      "title": "Hugging Face teams up with Google to accelerate open AI development",
-      "excerpt": "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],
