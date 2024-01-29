@@ -44,20 +44,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)"
-    excerpt: "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election."
-    publishedDateTime: 2024-01-24T20:38:00Z
-    webUrl: "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Artificial intelligence and the dangers of deepfakes"
     excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
     publishedDateTime: 2024-01-26T23:43:00Z
@@ -71,6 +57,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
         width: 700
         height: 394
+        isCached: true
+  - title: "Fake 'Biden' calls traced to AI startup"
+    excerpt: "CONCORD — Fake robocalls that appropriated the voice of President Joe Biden to encourage New Hampshire voters to stay away from the polls have been traced to ElevenLabs, a successful startup company in the field of artificial intelligence. Officials at ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.unionleader.com/news/politics/voters/fake-biden-calls-traced-to-ai-startup/article_2509e5d0-bedf-11ee-895c-13df9b32807f.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/c1/3c1c504a-bee0-11ee-ac7d-63171bcd371a/65b07cdfa9dd8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cJWaGj5jb1egZo3KilpLhsRMiUECc/E74c4Kfi4hmYIh0Q2VcJi666L5T+gRbiuGyqU8xulqdVNS6GwDe9TZaBXqUwM5Nj4/taaJ50M2LZPvVghglJUuSQ5UqxajCqMov2WYPrC9GTlgoxPu2Of3cfSiKwO07nwNdNZayQa2NFNvdmkpvBqMR9Hjvsf95OghcUIIYf7e2StJ5OMXB8wsfoIbOOa6sWyCfQd+8MPWtOHUU1YTM5HQpxPkgdHjzgkdr4uR1fEf4o8CtrxGN+h/hxRTnbF7DmZ/TfR+dyHskdHo+YOKoRczcAowjQzFiGqrXe1FyJfWtgTJuXkzkjiQ+hv8Jnzhy6CfTUI2a/xmWLg=;3IdSgnInBzruC/7mKjB++g=="

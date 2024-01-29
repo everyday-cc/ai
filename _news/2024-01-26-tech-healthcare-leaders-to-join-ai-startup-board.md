@@ -39,6 +39,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "How Are Healthcare AI Developers Responding to WHO’s New Guidance on LLMs?"
+    excerpt: "This month, the World Health Organization released new guidelines on the ethics and governance of LLMs in healthcare. Reactions from the leaders of healthcare AI companies have been mainly positive. However,"
+    publishedDateTime: 2024-01-29T21:59:00Z
+    webUrl: "https://medcitynews.com/2024/01/ai-llm-healthcare-technology/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 54
+    images:
+      - url: "https://medcitynews.com/uploads/2021/11/GettyImages-1077219356.jpg"
+        width: 788
+        height: 443
+        isCached: true
 
 secured: "5n6mMnHyUhuhYxrBd228IMhw2DlOwFKljlcYJzUDjkUAqtsHYs58NVk8+zZWHVPmh2NSY5syfq+EZczkD9TUeJkdRVtKDlQj9oByvu9ssloAwqYujDQvSK1ZYm8XXykHhseJcUSuH4NtTjRKyPj1iuHG9QSKLas6La2pZ6rYZwSLybMOtccCNbQ8IR3veSnF/EyVKHNwk+QiBX1fcw+Xt+8uwIGCfUzNiNSeSiGcHykmubmrHK8S2LGSDxe5RyD21O7MpkCAf377P0QM315TgiTnhqvzpqk/NF/nlASyu4isi79DerjeBwV963Q9sS6aNtW7YbC71iZRa5vB9RKK26bNbG2Jx3rdSOF++1htkio=;z53osG7FDJHGGKajKTxI+Q=="
 ---

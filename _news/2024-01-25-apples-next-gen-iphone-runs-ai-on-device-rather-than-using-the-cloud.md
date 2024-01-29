@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple iOS 18 expected to be a big software update, iPhone could be getting AI features"
+    excerpt: "Bloomberg's Mark Gurman reports that iOS 18, expected to launch in 2024, could be Apple's most significant OS update ever. It could mark the Cupertino giant's"
+    publishedDateTime: 2024-01-29T22:28:00Z
+    webUrl: "https://www.techspot.com/news/101686-apple-ios-18-expected-big-software-update-iphone.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 41
 
 secured: "cMnSNQGDRPc3BZDc7AE4uJMT7RC058xd0KJwbLAhFRZoy9Oo2rjOUFFC5Eo6OrsAns1ukPAnUyw97OCpNGD4Amf3vHE8AVvNPnZudZjhpvpQ+lU2jWLwd896/++Ze+5IGCx2VzBIt0iVZl88eb21Ttn2BsmautQnHpJAmpnW9Jm3c1cGwskvBDX0/65a1nTSYuft7a+Eu+Y7ikBgR78Cvliz41891oGCpa2KmpUC9Do3KJenglnWkfstq+iCwi+CYtyHT69nxQsUVQBN2mHHKb9PwIYCbG4vmzngAlshHrpWMDDI4QyzYUOoDsKyRLlO4lPJaxhqrhNU9mX6NCn5tcKL2L9gWaxSKsa3IYdiSd0=;WZ2hngPO6UD1fW6SImgBsg=="
 ---

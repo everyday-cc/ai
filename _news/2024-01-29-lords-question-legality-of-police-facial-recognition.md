@@ -7,7 +7,7 @@ originalUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legal
 webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Dem Senators Ask: Is Facial Recognition A Civil Rights Violation?"
-    excerpt: "In a letter sent to the Department of Justice (DOJ) on Thursday, a group of Democratic senators demanded that the agency review how police use facial recognition and other biometric technologies and whether the use of such tools are in violation of federal civil rights laws."
-    publishedDateTime: 2024-01-24T23:00:00Z
-    webUrl: "https://crooksandliars.com/2024/01/dem-senators-ask-facial-recognition-civil"
+  - title: "Study Confirms Facial Recognition Technology’s Success in Disease Prediction"
+    excerpt: "MyAnIML used proprietary facial recognition and deep learning technology to accurately predict Infectious Bovine Keratoconjunctivitis (IBK), or bovine pinkeye, 99.4% of the time and several days before veterinarians were able to detect symptoms ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-recognition-technologys-success-disease-prediction"
     type: article
     provider:
-      name: Crooks and Liars
-      domain: crooksandliars.com
-    quality: 41
+      name: AgWeb
+      domain: agweb.com
+    quality: 36
     images:
-      - url: "https://crooksandliars.com/files/primary_image/24/01/surveillance.jpg"
-        width: 1584
-        height: 1024
+      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_52490.jpg"
+        width: 345
+        height: 238
         isCached: true
   - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
     excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
@@ -53,6 +53,26 @@ related:
         width: 600
         height: 320
         isCached: true
+  - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
+    excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
+    publishedDateTime: 2024-01-26T15:32:00Z
+    webUrl: "https://www.tri-cityherald.com/opinion/editorials/article284663040.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/opinion/editorials/article284663040.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/opinion/editorials/article284663040.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 28
+  - title: "HK, China ink deal on recognition of civil, commercial cases"
+    excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
+    publishedDateTime: 2024-01-29T07:30:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/01/29/hk-china-ink-deal-on-recognition-of-civil-commercial-cases/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "kEHHB0av/TkV3TXW2zzhIqVIDD5SZwa4kW/QSbDi3kgbj7UewBn5op1BbxfeaIHfDk6e9toaw8Gf9z773R1ISyZ3Y1hASGLwBJlb6j90cT48001e6Ox+Yrt1gABU24Ad2WGvkz9QuwLxaSiCgki7M0mQ8g6meiDDQoqMHKmeda0Ld+MibjwUVSj510L6SfzHW3ZbVxbOnCoFjAvOBuVtatCi0iEHGp8Qz1Juw5Yz3YBe5rRmKeTJoA7wKt50y0PH7HGbQJ8UZy6H3hY6BhkDOngMDuC+JJFwzNDAkJ/A+LX5+q3mgzMolc4zma1mtx9dQM30qZNep/qYQfGhnr3Jld9WlinfMT1j1eWMHXVKDfqy1tQR37ArbQWzstH6ZxgQ8NEVkhlFo1+Py0Q0IZvqMFEuluj/Zd7Hi/WKZFds62RQXtYAiO5Om4RDCrrFuMW3s8VVsnT+vp73TEJEAoexXT370t2YfIH503lbnKRxYUB2o0p9uaVvM9JIwoRodOloVgBN4ac1NHXFf1ouVOm3FA==;0bW9PNE1r5Sc+DIMbtLv2A=="
 ---

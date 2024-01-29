@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deepfake deluge expected from AI image generation breakthrough (so long, LoRA?)"
-    excerpt: "A new AI image generation method, InstantID, could foster a flood of deepfake audio, images, video tools, just in time for the 2024 election."
-    publishedDateTime: 2024-01-24T20:38:00Z
-    webUrl: "https://venturebeat.com/ai/deepfake-deluge-expected-from-ai-image-generation-breakthrough-so-long-lora/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/Untitled-design-2024-01-24T131918.271.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
     excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
     publishedDateTime: 2024-01-27T16:01:00Z
@@ -71,6 +57,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
         width: 700
         height: 394
+        isCached: true
+  - title: "Fake 'Biden' calls traced to AI startup"
+    excerpt: "CONCORD — Fake robocalls that appropriated the voice of President Joe Biden to encourage New Hampshire voters to stay away from the polls have been traced to ElevenLabs, a successful startup company in the field of artificial intelligence. Officials at ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.unionleader.com/news/politics/voters/fake-biden-calls-traced-to-ai-startup/article_2509e5d0-bedf-11ee-895c-13df9b32807f.html"
+    type: article
+    provider:
+      name: New Hampshire Union Leader
+      domain: unionleader.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/c1/3c1c504a-bee0-11ee-ac7d-63171bcd371a/65b07cdfa9dd8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NrUA4n+XKtpOnK7Ky94F1WlSZykW0sWnHmcjvXpfncQe9DVPWe7Dp0lba4Tbk12wOjFutaWFPOt6qmFnPzkHtwE/gQpj8Kj4a++JbGFGgG/NwKdMxFANBm5/LzqRWq8Mw89lItWl/7fUHYY5bPn8xRqn7sK+iqiGQGWQsDJ2/y4NzswH4qis6Iyl8ox9EGP7IWcjLx4XwlQRjh5ipBs1/Rp5e72DI5PeQ8tdEwLQ0xJkX42yeFX9vCa/dxIfBBOKKjLkES0+LEfW3Lo3yQyBvKGlrnGniLfMFq2pn0643xbbrzEDiO6n5jSqamuXc/HtjuVyGt8KgOV5XZihCj4hZT216VofmAA5UnN9Y8vtMx3ZbfdJCcAv+lqYw6bd1bHI2WRF9i2QTzTc8CYTqXtjW7Ge1m4OzxdN879VGHR+AWpadr6+r2KJW9QL831SLxlOnmakOhT/h8zqI5VlFc1PsgWNI1SrFf9LXedv8L+gkHEj/HzvReziJjeL7dhCnvm5eY4N9OzVvJlR73+rHbrCyA==;fAie1t7BvrzP0v7MthBwPQ=="

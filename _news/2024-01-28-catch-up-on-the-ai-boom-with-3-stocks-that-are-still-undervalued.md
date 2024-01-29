@@ -31,6 +31,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "3 Edge AI Stocks to Profit From Technology’s Next Big Thing"
+    excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
+    publishedDateTime: 2024-01-26T10:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-edge-ai-stocks-to-profit-from-technologys-next-big-thing-1033001777"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
+    publishedDateTime: 2024-01-29T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "The tantalising promise of AI for the emerging world"
     excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
     publishedDateTime: 2024-01-25T11:50:00Z

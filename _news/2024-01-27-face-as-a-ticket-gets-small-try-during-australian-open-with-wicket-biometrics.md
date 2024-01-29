@@ -55,6 +55,20 @@ related:
         width: 8256
         height: 5504
         isCached: true
+  - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
+    excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
+    publishedDateTime: 2024-01-29T21:57:00Z
+    webUrl: "https://www.adnews.com.au/news/rolex-and-kia-dominate-australian-open-sponsor-share-of-voice"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 24
+    images:
+      - url: "https://yaffa-cdn.s3.amazonaws.com/adnews/live/images/dmImage/StandardImage/ao_2022_wide-world-of-sports2.png"
+        width: 630
+        height: 354
+        isCached: true
 
 secured: "cZUr4si+vMfkF35/lcFe9KoBelYJVNIsDgIxpZRTLPF0ELsPziFfnsqp7TKObEAsUUvPTbKGc3tw2Ewd4Szd4w3XCkpfjc4amSfTEZq8jMFDuwpDh18CtU7UgSz4jHSB1OUZohI5GhcX2L0UtdZL1ott4suPwnazyj01XegOKE8ofM7YBJHcideARt5vViX/CPEoEZgx6Hn8sbrkLMYuPHRxoYuKMpZQYU2CHwetkZuXdgzkGYJ+T4oVN3ZJgiMuLULwgSvXbsLpzaAoTsIDwvkyMde/7AjelXf6g+Uyk9BVvY68lohPmuTYRb6zbxeKw1W7aWZqEQle+lmIlUKTSYSgyFHGciEhRDC99pILkTY=;xZfdLx+0mwnEfT8yYMx1GA=="
 ---

@@ -209,6 +209,15 @@ related:
         width: 768
         height: 423
         isCached: true
+  - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
+    excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
+    publishedDateTime: 2024-01-29T14:47:00Z
+    webUrl: "https://menafn.com/1107782783/The-Future-In-Your-Palm-Samsung-Galaxy-S24-Series-Marks-The-Dawn-Of-The-First-Galaxy-AI-Phone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
 
 secured: "WxpcGfsaiXwNIM//9D1ovRJEZYSqZizP0bIAQXuZkumZj1HGm7jq1pBTYeMgwWAPARPEnMeGSZC0haCyUkswSOqFMns0VdPu7pNGeSYXASE5y66EE9EEngPqfKco7k4TsBBkjIC/v9t/pKg1OlfAylAGfXbcct5ZvHet7xqSr2L2N9PZefCTDNr91DtABV8KWdNBNx5M0a4RydnKzn590haPKixElzvjB3oFxuuCefW6fACMAimg92P6qYWJXWX+2nGJyrz+yPTfAWCgA/H+JO04a7oOatp36LkF3k1IqJbEY4rA2Kf2vXPMnQDZZ6uNyzBQ23oBGMK1n5ughxN7eoObd2XbHyTszUdi18lf/9r0FMXLbXeJa1E3LS2rv0JyyDLgbq0zt1ICMbbqVXrtSXmcvt8Tsn43OES9iefM60MKcyhWenOmbQz6j1A8hBR9n9kYLUyG+uZgzBJmsERIiLHrC4qy6+kv0mL4mfENqXxm9M2NEYnceZ5KnF9fCvsRmDn2Uc9XhFCoh9uOv/9HIw==;ZhDAX4szTju1LexkKC8IjA=="
 ---

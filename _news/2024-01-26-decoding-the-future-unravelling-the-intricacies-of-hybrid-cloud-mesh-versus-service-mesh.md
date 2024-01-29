@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/"
 webUrl: "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Navigating the Future: Emerging Internet Technologies to Watch"
+    excerpt: "Introduction: As we stand on the brink of a new era in technology, the Internet continues to be at the forefront of innovation. From the rise of artificial intelligence to the integration of augmented reality,"
+    publishedDateTime: 2024-01-29T20:36:00Z
+    webUrl: "https://techbullion.com/navigating-the-future-emerging-internet-technologies-to-watch/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "5i/W3y4FFgqOGfJXvpRIxw3UGWMgEvl6Tf2mYTinocxV2x9zoeKhLIoBDSHc2CQC5JzvsP8e2rSEymHza5btL2J+eotyTo+D/WvSWcUDsmNkABGsfUK+Yup0R6fQ7ChgaP1vXwQespV+T/r+OxWVR6WVeRQ8+JrjY4ozpiwUmTtb4DrX1ebIFVh1oeS0zxIu/gfEwGPSfaTGGtVrB1bmZDoG58Gp9hGv40KMcO9d2/P0f8RDLNddt+cy9a9LSt/JueowqMQcad1Xwflbvv6yReZHb6mvfGa1ZL1+lLs7OoblEH/UPLQB75yy4IsNgsLZMHMWByOJA3fYLjM1l2AmdAxhk6sjhUnHgA186Hm/Sto=;pJzheB6RJ8VAM+NiON9h+A=="
 ---

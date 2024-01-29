@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-f
 webUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Intel Q4 earnings preview: Chipmaker to report as AI sends tech stocks soaring"
-    excerpt: "Wall Street analysts anticipate a strong year-over-year recovery for Intel’s client computing group, which encompasses the chips side of the business that sells to PC makers and enthusiasts. Analysts expect the company to report client computing revenue of $8.4 billion, up from $6.6 billion in Q4 2022."
-    publishedDateTime: 2024-01-24T22:14:00Z
-    webUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-201429769.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/7TJ0.qq9eYigcw6Oc68Iqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/7ca2ceeb2e27b320bd775e4f33c7afb3"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "OXD89en6QErC4BC+fSSjTM4+h5bdlfptAk/GzAiGrJAyMU2VTKUX1rJCsDsJf/f0/39MS0FRLkROnpN3J4kR4LoLGOm++KcYnyMqaQ62zpoujowfzgOx+1lIYcHGsi5ClHI3fPe+IO9oH807cXNuN4rVHxZw6d34pbjCtKOzHAhEkqkBdtQoIc5FIwWT83TlJmxVEqMOXJBG7Hk5Mwo+pdVwrGp16uAe1S9q8JGMgbQ6IitmX167VYNbR3rqoN2mRFi9wefnyYmozqazLK+mn6vzMEAwoXaSyUo4X8AcreMrzpfdG6inXjQOdlZQ87vvqnk+JlUEUQQW8xERn6yOVhQc5m21p+0f0kIzLmG+ibumeVySsMELLtVW53HUhfyBG99qxpIZc1Kt4J00C2zz8tiZpFsloc+zjeLalCwW80HxWxpXR2X8TUGa+rPJAvsKdVGOL8idcSsdHHbea3S5Ivc/KD+puJyv2jfZIy1EnYM8F21xdgBHrTA9+DtEEuLCUg3PlydyINHc8oOBMfR4GQ==;K5tawbWJt+egjJkeYr/Zvg=="

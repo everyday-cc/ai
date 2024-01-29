@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/impactsures-sure-platform-go
 webUrl: "https://ibsintelligence.com/ibsi-news/impactsures-sure-platform-goes-live-on-the-microsoft-azure-marketplace/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
 
 secured: "2OXfOILkRNGLtUWbSoXlFnehhwZw/d+9SsnMXJKlj6vQ0UNKQa63jYmU/pnREHAUJBzRBzZoHnKgkznKBggutx9ZYtw+qsAVQU7HKNiLMmZNruCaEZd2oEpHYIdbOTOh9C2T7CSiTQj5dvT8XxKHLeLsZHGIoS+FVsEilFDlahaZL37QedmAHNoe6U598kSXJJIKwIFB4aVEukp3/uWKnWSjwZxL7rBIsVA5/7ZI+xE5EKSjmDCNJp7pGK1PKJBaEwJfMy8Lx926NBn/K3yB57sHWVary0JR+aIYZVQemduLTOqVxhAIutTM03yE72v0oEps345bVwJzNAG3H2Cj/8K9jZK5UJF2zUEnEfjnSdz8FISohHFV0Uhi5KEd5x2cn75NWcQbHjbJuPLMa3GxTv3RgGX2GTpkJaiBwi1V7BO7g+J9h5KPuJcRqI8zdSJFJ9hg0yN1JIAuF47iyib/VnHuKnytUmqn2h1VTX/5VT2b9RJfMHe1wEB2i2D4znQcW1AbTzvsnDJybmIOca/C6Q==;bCFDUAHspu5KVkUvYYVrEA=="
 ---

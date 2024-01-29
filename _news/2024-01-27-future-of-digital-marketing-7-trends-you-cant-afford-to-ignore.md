@@ -58,22 +58,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI And The Future Of Coding"
-    excerpt: "It makes sense, because writing code is a technical process as opposed to one that is more intuitive, like writing poetry."
-    publishedDateTime: 2024-01-24T19:52:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/ai-and-the-future-of-coding/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b177efa844ab4b23d7579a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1040
-        height: 700
-        isCached: true
   - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
     excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
     publishedDateTime: 2024-01-26T12:16:00Z

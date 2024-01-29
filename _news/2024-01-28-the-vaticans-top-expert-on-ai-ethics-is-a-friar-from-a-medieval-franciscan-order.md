@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Vatican’s top AI expert is a Franciscan friar"
+    excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing “one of the most fascinating combinations in the world” in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year ..."
+    publishedDateTime: 2024-01-27T06:04:00Z
+    webUrl: "https://www.columbian.com/news/2024/jan/27/vaticans-top-ai-expert-is-a-franciscan-friar/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 19
+
 secured: "KWsg2qRCcGdDyl9NGXKYyI1Dxk9rWJxnZyOxdTQhEHeXmEJU/WnXidkS2cYtesKA08nOxkrDhLSx+5OZhsd3sRYrB1FrFAEp4eVyk4vz+1UU3mIdtfoeKxWUNw2ECxtudaoHk7ka1S4MGAlRvyGKdxK0B4lHyAHAkZbWlFd1k50nJwjwiFAyeeEWZJtl/L1vmZ+//DXxn7+ydjIurVkiTqTyLkIwCqa3a0bRYH9rQN2SrpF1kJu81PbChZVY9+V7L4LGrOWlokl9/ttB/DUckUSJq0b+qMUPhfEKcV0I0DdLWNQxRj82uJNU5Mfdi2P0vIBX2HNqicgvPp/xyDIQ/y/4Mi2M+NvyEfGDp8V0dbPARtLdUorTAxawmxxWptP7p8o04o7V97Oc2N0Np3+iuvhB6MHRBey5FQyQ/8mBSXeBePbQLXleS0Uea/OhTo22GCbk0q2rPhwnjVhNVG8Yph1zzFp40T5/6PCyu944Sf3T8jjef/UD6NmOvvLd4K84AMvuUDsS9QLqWRmZ4AawuA==;h3C1MJYywSIHmwK5Vd8fkg=="
 ---
 

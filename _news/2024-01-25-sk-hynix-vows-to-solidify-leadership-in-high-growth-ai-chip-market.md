@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK Hynix swings to fourth-quarter profit on strong AI chip demand"
-    excerpt: "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter."
-    publishedDateTime: 2024-01-24T21:36:00Z
-    webUrl: "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107094418-1658892335251-gettyimages-465379179-SKOREA_HYNIX_EARNS.jpeg?v=1706139305"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand"
     excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence."
     publishedDateTime: 2024-01-25T06:57:00Z

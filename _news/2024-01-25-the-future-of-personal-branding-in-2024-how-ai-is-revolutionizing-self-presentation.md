@@ -64,15 +64,15 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
-    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
+    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
+    publishedDateTime: 2024-01-29T20:24:00Z
+    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 4
 
 secured: "x7zu1sKjV1mEsBm/MFolXJLt4lmOAVHI9+8GKC5/n8iyMCPksPLyAQbl+2r2Lt5ia8VwjbFn8PvViaRRGDmDxEU5096vIwiCJtI9+40nAG7Kf3H8EUKJIK5RDAN8byl5TCAP1f61JADOu7RZLZvZz0o7KXYfpT7XI2ZMWHJWybPm6vfwmo6Xka7JYY1aafz35GMg0fpadLGVBDi5MK0SlKGzRGYqpTGm9I0kRkIcPHHNQC9eYV0B3BOksTB1mWd9vdvrYBJscbR9qQZQScxmkjPhJaHox4MoVhzISA5HmeZFJu7VHlwkhINIXBBekZX4Ijn2h4oAMk8X2dYC6H5HC/zLGqpQX9ztESneVqquOiMeOcHqqmIII24eC48RDhb9ZcG28EoAeH0VgzSSAtXOz5z4FJ1F6eQ8nEp8AP23rEV3FAO7/HQraT9puCVx8dpJqADZyfqc2Z7jxB/qgvGCPGaeX60Bxcq+NyMLsPQK3Hl2otGs+K7KlK0wH0W/yyc2ewtA9qrkjgAmIhWbb9r0tg==;nTiUOo7AHT2twbtZlMccGA=="
 ---

@@ -1,0 +1,23 @@
+---
+category: news
+title: "Early look at Google’s Bard-powered Assistant emerges online"
+excerpt: "Google is working on supercharging its long-standing Google Assistant with its Bard AI. We now know how the new Bard-powered Assistant will work ahead of its possible March arrival. As pointed out by Nail Sadykov, the owner of the Google News Telegram ..."
+publishedDateTime: 2024-01-29T18:27:00Z
+originalUrl: "https://mobilesyrup.com/2024/01/29/early-look-google-bard-assistant-march-release/"
+webUrl: "https://mobilesyrup.com/2024/01/29/early-look-google-bard-assistant-march-release/"
+type: article
+quality: 4
+heat: 4
+published: false
+
+provider:
+  name: MobileSyrup
+  domain: mobilesyrup.com
+
+topics:
+  - Google AI
+  - AI
+
+secured: "61KiqKA8/Kz2CencDXpM5GVhqCC8Zqnn3Tmm9RWaX93dZtAM+5rB9+cLEqJMnnyz9/m0QEkfoAhCx9uZk12puz9oSjMCBJYrHlsC3vuXuyjhJ7pNh0/eztV7RdZXwWy3ao6qPqOSWK/U1RvcbIO2B8e3mtA1ZOVkD1ghyarS6lEUSFc/Co+6ma21zZABNqSCwJ8ED9nmsj5bbPrKGNyoozynFf+PYO/kIr5fgdPAX+XJmOcceyX+O3RwpMuIRzDHuJOgryV76FyxtyZWwZv1eJlNUwNMDEKEhcMQgUd9x1CtScNt3HJgiHK2e2PmwIQfJvpGGHj2ZZ9a/YwHCz1xK1KkiAFR5uBmnKJQwWNM104=;PDi+3A+sayorLtwycwxA+A=="
+---
+

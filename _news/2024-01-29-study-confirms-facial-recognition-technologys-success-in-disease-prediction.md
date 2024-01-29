@@ -7,7 +7,7 @@ originalUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-re
 webUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-recognition-technologys-success-disease-prediction"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,23 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Face recognition technology follows long analog history of surveillance and control"
-    excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit and detained in jail for 18 hours for allegedly stealing watches in 2020."
-    publishedDateTime: 2024-01-25T21:31:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features"
+  - title: "Lords question legality of police facial recognition"
+    excerpt: "UK police are expanding their use of live facial recognition (LFR) technology without proper scrutiny or accountability, despite lacking a clear legal basis for their deployments, according to a Lords committee. Writing to the Home Secretary on 27 January ..."
+    publishedDateTime: 2024-01-29T10:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 15
-  - title: "Enterprise technology predictions 2024"
-    excerpt: "ITDMs on average said that in 2023, their spending ended up growing at 3.4%. You can see the forecast for 2024 is 4.3%, but it’s back-loaded with Q1 and Q2 2024 expected to grow at 2.4% and 3.1%, respectively."
-    publishedDateTime: 2024-01-27T18:41:00Z
-    webUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predictions-2024/"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
+    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
+    publishedDateTime: 2024-01-27T02:44:00Z
+    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 33
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
+        width: 600
+        height: 320
+        isCached: true
+  - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
+    excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
+    publishedDateTime: 2024-01-26T15:32:00Z
+    webUrl: "https://www.tri-cityherald.com/opinion/editorials/article284663040.html"
+    ampWebUrl: "https://amp.tri-cityherald.com/opinion/editorials/article284663040.html"
+    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/opinion/editorials/article284663040.html"
+    type: article
+    provider:
+      name: Tri-City Herald
+      domain: tri-cityherald.com
+    quality: 28
+  - title: "HK, China ink deal on recognition of civil, commercial cases"
+    excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
+    publishedDateTime: 2024-01-29T07:30:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/01/29/hk-china-ink-deal-on-recognition-of-civil-commercial-cases/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 4
 
 secured: "ToCs+L2ap8tqj1B2wvTkP1+FP/bcVNjRYa03iPudppz4/mIcR1RE/qwQkdkuQiPT/o8FlhOXMloR2ItR/wi7MeasOsHmdGEZd5mQNA7GA1bY+bvdKlAjBtM7cLmSBg3k8fT0ZsFdO7S5o4sQBdD9wAx2xs6ZOGyzQuSSxB/U9cq7aDNwdXlio0heOdXvonTrHJINDsjN91UFRmbqc63CxXJQxxOVSuB/rja/Ltw+uuKxCaOANAQtUm5vAj8jhU/RpOHTh1MB/Ui705CNHgSC3JeHNgEYDMWTsE8uFSO7HUi11ff3vqnmr0kjoIb1rY6bJh90uWP5Xc7uui3WfUrpuZfa1RRHRvNLbr77TYUUPviz/yK0Ptd4GId5A2dvT42s5XC1snCd1KpXr2Tb0h5NylZjfbmZEiQiCsRc+5JOzTwvnYY4oSOSr7AM898na6azuZE4bFE/YfEwYiYF/oqvlpKS6v2mKYAraB79Xj2KKg5ym1YWD825S64991udRLtH15JCJKwNRUPaEZtw83hNtg==;smd1YTca/+UGlznBAmBnKA=="

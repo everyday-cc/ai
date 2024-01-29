@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "1 Monster AI Growth Stock Up 31,400% Since 2000 to Buy Now and Hold Long-Term"
+    excerpt: "Nvidia stock gained over 31,400% over the last 24 years, compounding at 27.4% annually. To put that in context, $10,000 invested in the company in January 2000 would be worth about $3.1 million today. The chart below shows how much Nvidia's stock price increased (or decreased) in each year between 2000 and 2023."
+    publishedDateTime: 2024-01-28T09:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-monster-ai-growth-stock-up-31400-since-2000-to-buy-now-and-hold-long-term"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
   - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
     excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
     publishedDateTime: 2024-01-26T22:30:00Z

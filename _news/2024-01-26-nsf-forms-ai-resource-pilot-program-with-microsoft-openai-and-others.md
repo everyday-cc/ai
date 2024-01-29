@@ -31,29 +31,36 @@ images:
     isCached: true
 
 related:
-  - title: "Deploy a Microsoft Teams gateway for Amazon Q, your business expert"
-    excerpt: "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get"
-    publishedDateTime: 2024-01-25T17:41:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
+  - title: "OpenAI is working on AI education and safety initiative with Common Sense media"
+    excerpt: "OpenAI is partnering with Common Sense Media nonprofit on an initiative to create AI guidelines and education materials for teens and families."
+    publishedDateTime: 2024-01-29T19:52:00Z
+    webUrl: "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
+      name: CNBC
+      domain: cnbc.com
+    quality: 100
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg"
-        width: 1023
-        height: 513
+      - url: "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949"
+        width: 3500
+        height: 2279
         isCached: true
-  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
-    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
+  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
+    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
+    publishedDateTime: 2024-01-25T14:09:00Z
+    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
     excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
     publishedDateTime: 2024-01-25T17:26:00Z
@@ -70,110 +77,70 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Microsoft adds two more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T06:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
+  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
+    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
+    publishedDateTime: 2024-01-26T17:31:00Z
+    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
+      name: Wired
+      domain: wired.com
+    quality: 56
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
+      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
         width: 1280
-        height: 720
+        height: 670
         isCached: true
-  - title: "Microsoft adds two new Indian languages to Translator service"
-    excerpt: "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India."
-    publishedDateTime: 2024-01-25T10:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
+  - title: "OpenAI CEO Altman consulting with Congress on adding chip factories to meet AI demand"
+    excerpt: "OpenAI CEO Sam Altman has been in discussions with members of Congress about building new semiconductor factories in the United States to keep up with the growing demand for AI programs."
+    publishedDateTime: 2024-01-25T17:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2817557/openai-ceo-consulting-with-congress-chip-factories/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 61
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 47
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107145308,width-1280,height-720,resizemode-4/107145308.jpg"
-        width: 1280
-        height: 720
+      - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Microsoft adds 2 new Indian languages to Translator"
-    excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
-    publishedDateTime: 2024-01-29T09:00:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
+  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
+    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
+    publishedDateTime: 2024-01-26T05:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 61
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
-    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
-        isCached: true
-  - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
-    excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
-    publishedDateTime: 2024-01-29T11:00:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/24/01/36827397/microsoft-analysts-to-focus-on-tech-giants-expansive-ai-ambitions-following-q2-earnings"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/microsoft-shutter_1.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "Microsoft adds two more Indian languages to Translator"
-    excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T09:25:00Z
-    webUrl: "https://www.deccanherald.com/technology/microsoft-adds-two-more-indian-languages-to-translator-2864237"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 41
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
-    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
-    publishedDateTime: 2024-01-26T11:52:00Z
-    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
+  - title: "OpenAI is getting into the hardware business in the AI arms race"
+    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
+    publishedDateTime: 2024-01-29T14:21:00Z
+    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 26
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
-        width: 1200
-        height: 856
-        isCached: true
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 21
+  - title: "White House science chief signals US-China co-operation on AI safety"
+    excerpt: "Biden adviser says the two nations must work together to tackle risks from artificial intelligence despite race to dominate its development"
+    publishedDateTime: 2024-01-25T05:01:00Z
+    webUrl: "https://www.ft.com/content/94b9878b-9412-4dbc-83ba-aac2baadafd9"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
+  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
+    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
+    publishedDateTime: 2024-01-26T09:33:00Z
+    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 13
 
 secured: "SlMXya10xbZrC67zTl8oPHpO7UxuGjbRdojokVUyUK16BEUVFOA/WvcC8IcWY6/v/7hmr2ifpiIp5r2vxBP8PBJBuEpBsBXKY3d884KYipQ1Azib++Wr3iGziyaE1WvR7dbGyTCnBioAiT0cv/5Jp7HnER8i0dxbMPZgM7NraDOTHy1C7FlPkowC5TBowU6bsNRxsbtuDqBaJWSzGF6qwu7rPM1ONjKqdP+K9nr7YLBxtRRxt7lQGKzafu7YNl9dc4/kZmsqyLKZ4l05DIYAZ1xmAmtSFtsVuPWse/7NXwRPDMVQukHFof+SBhxwhGXXtogagWlLhTF0ZXTevWPK8xfpJcv3ln39X16UYhd4T88rOazgnkuguDJAb5KGi53DtU+AyaHnRYsN+o5l+1q5JwGu4uYXI44MPQyAOnlE9897PWoJIP7zIiiSYHryGwkkSelJ9lwQMEq5QPbwKf+V9UuIyE70PQokuyF41imtr6iMsOd8r/uWOJAiVDfHR1fWBeM0i6IDCKM1U0w/mWAwaw==;0nqhYA+xYHHx/iqfNTM10w=="
 ---

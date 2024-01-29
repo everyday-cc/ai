@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/computing-components/leaked-be
 webUrl: "https://www.techradar.com/computing/computing-components/leaked-benchmarks-reveal-the-nvidia-rtx-4080-super-gpu-isnt-much-better-than-its-normal-version"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The New NVIDIA GeForce RTX 4070 Ti SUPER GPU Is Now Available for Purchase"
-    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER is available starting today, January 24. The great news is that it's priced at the same MSRP as the RTX 4070 Ti that it replaces. The 4070 Ti SUPER refresh offers a bit better performance and more VRAM; it gets you ever closer to RTX 4080 performance without having to spend over $1000 on an NVIDA GeForce GPU."
-    publishedDateTime: 2024-01-24T20:21:00Z
-    webUrl: "https://www.ign.com/articles/the-new-nvidia-geforce-rtx-4070-ti-super-gpu-is-now-available-for-purchase"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 52
-    images:
-      - url: "https://assets-prd.ignimgs.com/2024/01/24/asusrtx4070tisuper-1706132887823.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "65D2Gq4xtvKkekjH7g/trNEgf5UtPrrefNpSlRH8GDFWtykiRBOxqvApOI86Mqxsoo9cqHXUUIGvQF+6zNEM3axQ3f261C5hlk4xquLhei8L8X5e612tracCbP8JESDOCMctB2WGcdWcweaTo+bCeZazRR+C/bUFgy69gfPuV/Qic8o7aUD36rrPlWxfruh2JNJZ3GRuK2Mzf8hL5KGJnvnF0vOCk/hogeH6bq37kKUHGWb/J8j0mkecjBQHuZ3oy7rZ/F7Ea+SXTEZ1slb8HHhihrqvvikGX1v3WBauAP9q78dxctQZcvV+5fxn0ZoJGThC+wHvWJLihaFXd//i2NeLmbwEyixVhtUxjH4IWG8=;Jw9pvq/FGU/Kfq3D8yBUsw=="
 ---

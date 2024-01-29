@@ -65,6 +65,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "1 Monster AI Growth Stock Up 31,400% Since 2000 to Buy Now and Hold Long-Term"
+    excerpt: "Nvidia stock gained over 31,400% over the last 24 years, compounding at 27.4% annually. To put that in context, $10,000 invested in the company in January 2000 would be worth about $3.1 million today. The chart below shows how much Nvidia's stock price increased (or decreased) in each year between 2000 and 2023."
+    publishedDateTime: 2024-01-28T09:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-monster-ai-growth-stock-up-31400-since-2000-to-buy-now-and-hold-long-term"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
   - title: "10 Amazing AI Tools for 2024"
     excerpt: "This video translation app effortlessly translates spoken language into over 29 languages ... You record sounds mimicking musical instruments, and the AI orchestrates these into harmonious music. It’s an engaging tool for anyone looking to experiment ..."
     publishedDateTime: 2024-01-26T00:00:00Z

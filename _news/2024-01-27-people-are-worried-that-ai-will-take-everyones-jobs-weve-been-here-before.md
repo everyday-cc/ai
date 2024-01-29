@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/01/27/1087041/technological-un
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/27/1087041/technological-unemployment-elon-musk-jobs-ai/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 3000
     height: 1688
     isCached: true
-
-related:
-  - title: "Will AI Take Our Jobs?"
-    excerpt: "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\""
-    publishedDateTime: 2024-01-24T21:01:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/"
-    ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 852
-        height: 568
-        isCached: true
 
 secured: "cw9L1/J2TJoJYpjlbOZepiXShK9dbrgom9i1jskqXf5mHCnjc01ndie640cmVH2+LwFVT9LbmwolSoaoIz0wBQ2Nm83ME4jm5sZjO1gZGIgsiXhuN4OfuavS7cKAsL2trAyV3GEDmaDjQiHAKm2Z/trEqNEMJ8Og0GeIt0DfEN8ncBUU7H6r525a/VHWRNAH8Nmh5vFuNr3GKkvyW+HfkJ8utMJ+K/oTtUtMxH+cV7SKyV3PUXCeRiEwodFcCxgyJ1Qd1KjPP966Tpd0WVczog0Fvh1j2ad4Ml9RU5AtJK/8uAyWG9uYIYBbVyBuJfCNREO+Z7G53hzhfhCcQegp3icHylMJHqpBQboBA4FXcvtEolivaS/2b+ANyVxN32Qn4ohQHzHn2Hq7ogRu0IVFozH1YHqq9OdOsdK5/qHZkD+2/LklYjQTOAHitfvNqhr8NXXApFdcQTWSrwoxMlVFwA8K4mwc/DVypWliRAgOjZsH21/Eh18pV5hwLyTHXsOBpd1kWhEnkQM1TtVN70xu3A==;6M8hFIXMBb31g0GIVXYp3Q=="
 ---

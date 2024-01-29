@@ -7,8 +7,8 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2024-01-29/italy-r
 webUrl: "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -21,6 +21,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Italian Regulator Again Finds Privacy Problems in OpenAI"
+    excerpt: "ChatGPT maker OpenAI has 30 days to respond to the Italian data regulator after an investigation by the agency concluded the company apparently had violated"
+    publishedDateTime: 2024-01-29T22:53:00Z
+    webUrl: "https://www.govinfosecurity.com/italian-regulator-again-finds-privacy-problems-in-openai-a-24209"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 39
+    images:
+      - url: "https://6d63d49ccb7c52435540-5070aa97eaa2b8df4eb5a91600e69901.ssl.cf1.rackcdn.com/ryan-witt-largeImage-7-a-1339.jpg"
+        width: 400
+        height: 500
+        isCached: true
 
 secured: "b6wZajyCPQLnLhUzgCPFNNS7im2wIw3oCJSrmH7kzZ7eYJvVl67bDxH8f8kXYebqtOiK7NGe24c5xuBVUdR/umEbK63OHHOjlKX/ykbINP2FtV9v8FojTErZqOukI/2xe/0wENot0EBnqjAg0NvooFcjlKVTL+/K0WT7ABI4kRd8QSKY/d3+vXQkBDhlZ0Gn+ntJLoSoWJidONlookb2Jwk6UcFZ/8kKucdcZxf8W3ThrSSz7BpDyBD9Eo7BaH9KJj3BSgAPdpYRLF6x/8xDkYnb8luoXiLkVuQVCO4adMIhmhp1fBfA57pjrVx36t4+b+oXR0WcWs575THgdl8gIY+2Wr4cnkj35HHaB9koziXseqg2iJfddUYY5jkUPHILffUqZ4ZwPCyfQ+P0TBE4APBTJ8eix+7vFSOizR9NXj23c2pO4/2337UPzEq8g+iWINuxi9IpxM9ITCoLI7q0qgDPVWBPIlIAvIeCubMtVdCfWlm2zQMrNpx0yNdi4DWYFJsVDdby1T6/aow8zGBzRg==;pgClzofZ4Es+pDps2f6LzQ=="
 ---

@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
-    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
-    publishedDateTime: 2024-01-25T14:09:00Z
-    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
   - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-26T12:34:00Z

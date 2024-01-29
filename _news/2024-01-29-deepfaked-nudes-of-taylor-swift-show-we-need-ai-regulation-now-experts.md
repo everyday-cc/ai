@@ -40,6 +40,20 @@ related:
         width: 4523
         height: 3047
         isCached: true
+  - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
+    excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
+    publishedDateTime: 2024-01-29T17:42:00Z
+    webUrl: "https://venturebeat.com/business/microsoft-adds-new-restrictions-to-designer-ai-used-to-make-taylor-swift-deepfakes/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-11.56.24-A-colorful-vector-art-minimalistic-line-art-style-image-showing-a-construction-crew-building-barriers-around-a-giant-messy-desk.-The-desk-is-filled-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
     excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
     publishedDateTime: 2024-01-26T22:52:00Z
@@ -147,20 +161,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CF56/production/_132487035_gettyimages-1917155488.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Microsoft deviates from OpenAI with new team for small AI models"
-    excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
-    publishedDateTime: 2024-01-24T20:32:00Z
-    webUrl: "https://www.techzine.eu/news/applications/115694/microsoft-deviates-from-openai-with-new-team-for-small-ai-models/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/shutterstock_2167303377-scaled.jpg"
-        width: 2560
-        height: 1280
         isCached: true
   - title: "Microsoft, Amazon and Google are kingmakers for AI start-ups"
     excerpt: "Microsoft Corp., Alphabet Inc. and Amazon.com Inc. have invested billions in the top AI start-ups, supercharging the fast-growing AI sector and establishing the old guard of technology companies as kingmakers for a new generation of businesses."

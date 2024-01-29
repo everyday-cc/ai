@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-s
 webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
 type: article
 quality: 69
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -214,6 +214,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
+    excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
+    publishedDateTime: 2024-01-29T14:47:00Z
+    webUrl: "https://menafn.com/1107782783/The-Future-In-Your-Palm-Samsung-Galaxy-S24-Series-Marks-The-Dawn-Of-The-First-Galaxy-AI-Phone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
 
 secured: "c02L2HAQb41RGx1QYssN0y99jzbxkn3mHMarCjHbns4QhqC67Jq6xrk635p6k98fqZlPinu5+0WVCqEwT4nIhtgz2ptv9BEMUVY2qaAfQa6HcbUv0pmFt5CtgxvNmVpzcFRv9qb55ALVE34NMxraLH5oxfNqY1TxeEYauULq3ChqmCE4S8k2aP7JnGFjLMOpUhoatxn4jm/uiYa7bQPAseyKQhMf5frK26IV5XqgHhCOEQRPl40OAZ2tqzLgR8wLpbuepNsBC9+KYx5L/MMIfSXBFrXCpGn6Cj9zTh3wiMo8W2ljnKHH62ehOcVf2gS7TzqDA275MSe52SD+zZ4AWufFWY707L3D1G9rfdUIFEk=;5o8UZ4/65SLMAM7QrRH3ig=="
 ---

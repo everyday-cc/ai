@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-inve
 cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
-    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
-    publishedDateTime: 2024-01-26T17:31:00Z
-    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 56
-    images:
-      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "FTC probes Big Tech ties with AI"
     excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
     publishedDateTime: 2024-01-25T22:24:00Z

@@ -46,6 +46,15 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 34
+  - title: "Four steps for integrating generative AI in learning and teaching"
+    excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.timeshighereducation.com/campus/four-steps-integrating-generative-ai-learning-and-teaching"
+    type: article
+    provider:
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "5JYUdjDBQn+qm4YZHocU7nOiq+XSI740c8Jd2qkk0APBDoEloX+V2jnEECOGuFQFeE9TyPKp09Gyr9OtVajDJexGMHqTDsbxRInqaj8dsbZznb/cgV+KcIcldYDOb3epJEFEqGx5fHXguBZ16I5S16yEn1SENtJ3QuIm7H428ONFbeuR8YcZBaqX4Cz+t4uwKUOO6mBtjxc1TRvdmjMn7yJKOL+ZqEMWjDpSva8le05vnyu3038RL3P4YNt94SxuqY0yOYPBv/JZA9HysPE3uyvdQ3ZfHg0TYN10/K+u5GSaom3q5xOxMoQpvwKNw4zVJHLaRkH1JssdUMpj9uhRHyXHJchw/CnGvH6P+uq9iIs=;QyFTa7LDawUPnSfhjcRzEQ=="
 ---

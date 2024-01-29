@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Pope Francis Warns Of AI Dangers After Fake Image Of Himself Went Viral"
-    excerpt: "Pope Francis warned about the dangers of AI in a speech in Vatican City on Wednesday, calling the potential of such technology, “both exciting and disorienting.”"
-    publishedDateTime: 2024-01-24T19:10:00Z
-    webUrl: "https://www.forbes.com/sites/mattnovak/2024/01/24/pope-francis-warns-of-ai-dangers-after-fake-image-of-himself-went-viral/"
-    ampWebUrl: "https://www.forbes.com/sites/mattnovak/2024/01/24/pope-francis-warns-of-ai-dangers-after-fake-image-of-himself-went-viral/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattnovak/2024/01/24/pope-francis-warns-of-ai-dangers-after-fake-image-of-himself-went-viral/amp/"
+  - title: "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order"
+    excerpt: "He is the go-to person on the technology and has the ear of Pope Francis as well as some of Silicon Valley's top engineers and executives."
+    publishedDateTime: 2024-01-27T21:45:00Z
+    webUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Omaha.com
+      domain: omaha.com
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b15f48d219055e25138958/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 959
-        height: 603
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "wgaze+cnVyUreo+D2tVuBpkDdf1ZQgiG7YJZTC1Ii/n7PgBUA00VH9LLH8mqnN8U0Jt7+4DYlvMTCxgE/UP0B5fWOTcY4j1/A64sSom2/5F6Q6f8O63fSOIzlayWGmxH58+FyvhZrTluDsYc4ZdALtLmPcD+f9yg+S8AznseCTdKjs3OtiU+cYvzZU861xuFM2WsL1AjNxQC3w1PQZhWm2x9331UJp5/aOd2JRqUbxAS8VOr1Y8qgOPcmPu4yj1chh+qbrLQ0PW/BaBWqiVIfdlnedu45U8gWje0rPGvYSeFxOPifXqE0uwWrwXLE9oA+1/dj40NJqcNedHSrIx4ws5EHam+IrF2DGjv7JCfbEKjAsWmlL3c+tDS1ooH9OByljiEAsMvdRCv3foviMpqXcsvvwYzTyUt0gZ8Dx2VsWedlGa7P7/uR9Wn6beEGGCjfGHPasDUFu7rNXhsbN3M5CMw4Zg6BtcbBDOKu+YzMZEvZnwbdk4trGh3ZyDhfwyDBTpk4TQMsk5b8Rfpliu5nw==;SMIOwOg1sVXavedPC2Tc1Q=="

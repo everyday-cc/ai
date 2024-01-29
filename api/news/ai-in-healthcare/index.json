@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-ai-in-healthcare-risks-and-rewards.md",
+      "title": "AI in healthcare – risks and rewards",
+      "excerpt": "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40286158",
+      "originalUrl": "https://www.brecorder.com/news/40286158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-28T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-how-could-artificial-intelligence-help-pregnant-women-in-zambia.md",
       "title": "How Could Artificial Intelligence Help Pregnant Women In Zambia?",
       "excerpt": "A team of entrepreneurs, researchers and health professional in Zambia are harnessing artificial intelligence to help improve care for pregnant women.",
@@ -1298,40 +1342,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-deepcell-announces-collaboration-with-nvidia-to-accelerate-use-of-generative-artificial-intelligence-in-single-cell-research.md",
-      "title": "Deepcell Announces Collaboration with NVIDIA to Accelerate Use of Generative Artificial Intelligence in Single Cell Research",
-      "excerpt": "Deepcell, a pioneer in artificial intelligence (AI)-powered single cell analysis to fuel deep biological discoveries, today announced a research collaboration with NVIDIA to accelerate the development and adoption of advanced computer vision solutions in life sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240108313176/en/Deepcell-Announces-Collaboration-with-NVIDIA-to-Accelerate-Use-of-Generative-Artificial-Intelligence-in-Single-Cell-Research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T23:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

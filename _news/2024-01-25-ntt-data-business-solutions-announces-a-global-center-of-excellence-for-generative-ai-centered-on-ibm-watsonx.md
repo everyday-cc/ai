@@ -39,21 +39,21 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
-    excerpt: "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ..."
-    publishedDateTime: 2024-01-24T22:03:00Z
-    webUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love"
-    ampWebUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
+  - title: "An Introduction To The Privacy And Legal Concerns Of Generative AI"
+    excerpt: "However, as this technological marvel gains momentum, it brings along a wave of multifaceted concerns, especially in the domains of education, ethics, privacy and legality. Generative AI, encapsulated in models like Bard, ChatGPT and DALL-E, embodies an ..."
+    publishedDateTime: 2024-01-29T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 88
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d82d0b5-ce16-415b-ac50-c309419796e2/57376624-6d61-4e7a-898e-04ec81ef53d2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 833
         isCached: true
   - title: "10 Mind-Blowing Generative AI Stats Everyone Should Know About"
     excerpt: "Discover the staggering impact of generative AI, from 75% of professionals expecting significant industry changes to 70% of Gen Z trusting AI for decision-making."

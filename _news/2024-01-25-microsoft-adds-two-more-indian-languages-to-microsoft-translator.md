@@ -42,20 +42,6 @@ related:
         width: 1023
         height: 513
         isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
-        width: 1400
-        height: 786
-        isCached: true
   - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
     excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
     publishedDateTime: 2024-01-26T10:28:00Z
@@ -65,22 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
-  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
-    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-    publishedDateTime: 2024-01-25T17:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
-    images:
-      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Microsoft adds two new Indian languages to Translator service"
     excerpt: "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India."
     publishedDateTime: 2024-01-25T10:36:00Z

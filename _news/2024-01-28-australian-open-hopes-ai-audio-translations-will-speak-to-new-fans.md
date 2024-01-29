@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
         width: 8256
         height: 5504
+        isCached: true
+  - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
+    excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
+    publishedDateTime: 2024-01-29T21:57:00Z
+    webUrl: "https://www.adnews.com.au/news/rolex-and-kia-dominate-australian-open-sponsor-share-of-voice"
+    type: article
+    provider:
+      name: AdNews
+      domain: adnews.com.au
+    quality: 24
+    images:
+      - url: "https://yaffa-cdn.s3.amazonaws.com/adnews/live/images/dmImage/StandardImage/ao_2022_wide-world-of-sports2.png"
+        width: 630
+        height: 354
         isCached: true
   - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
     excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."

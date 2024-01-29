@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Barron's
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "SK Hynix swings to fourth-quarter profit on strong AI chip demand"
-    excerpt: "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter."
-    publishedDateTime: 2024-01-24T21:36:00Z
-    webUrl: "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107094418-1658892335251-gettyimages-465379179-SKOREA_HYNIX_EARNS.jpeg?v=1706139305"
-        width: 4000
-        height: 2667
-        isCached: true
   - title: "SK hynix vows to solidify leadership in high-growth AI chip market"
     excerpt: "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ..."
     publishedDateTime: 2024-01-25T07:20:00Z

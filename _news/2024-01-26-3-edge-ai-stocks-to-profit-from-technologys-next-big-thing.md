@@ -23,31 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways"
-    excerpt: "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%."
-    publishedDateTime: 2024-01-24T20:30:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/"
+  - title: "The 7 Most Promising Blue-Chip Stocks According to Grok AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded"
+    publishedDateTime: 2024-01-29T15:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
+    publishedDateTime: 2024-01-29T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "The tantalising promise of AI for the emerging world"
+    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
+    publishedDateTime: 2024-01-25T11:50:00Z
+    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "From Davos To Dominance: How AI Is Rewriting Our Planet and Business"
-    excerpt: "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ..."
-    publishedDateTime: 2024-01-28T18:39:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "rKJsFo3tgEcGwChsW+UdXlcWZzActF8puxWoHo0TD21Q/sI5h+R6PHbkuBUc1vTvzn7WfzoCoavLDhBnfFMS0QSRHE8eOJN4guZ3TF6i1Bj8DgLexZH0IL2hEam5Wrp7Yu/NRXMid2hgjUegSNwUbzBy86rNvuCf+aXnt5ssJtowN4/fEEeCTrFaA4cE9mbKjx/0kuLTbzz5rQ0VsjaMtMzupSy8adv0/++B5HKn2M+6VghbSfLpgJaP2gj2bhMTiWbvkiI1WSN6tYjfG52JRhTBhdahX4Aa4GsA90rRxNxeS9eUcWoo+Ep6SVjUmMWePOgi73yPXBQ8DB1t0GiJzbb/L9Ljxasp4Nx+uw10RJk=;xMh/QpTbGJ3VucWxH5hvIQ=="
 ---

@@ -210,6 +210,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
+    excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
+    publishedDateTime: 2024-01-29T14:47:00Z
+    webUrl: "https://menafn.com/1107782783/The-Future-In-Your-Palm-Samsung-Galaxy-S24-Series-Marks-The-Dawn-Of-The-First-Galaxy-AI-Phone"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
 
 secured: "Dl5ApgnTGvt09t2HzR8PseinPEF49GWeDfSgfGaB5PGG3wFmhSs8Z8j0TgDqcwpSEgATTDK5tz+m/vLxL8D25w6fSwLYDNLZCXZJbVJ7MXmQXXPaqGzIuIaOIL7aHqeqRDomuk8uSpJTGF9h96b6CMam70scyKPD5FiDtbLYVBsKaPCfCUIo5V4CtC8cPLDseZtJ6qYm2TonFRPdqunz9ujLP7TtcwqrrMDisoO0amJKA4OT0tjtEkKqUGsorEQkPVkCbvvb5TR36hxVoRWnHM/KGq7aKNlahTmLKk1dcPC9O36H955WHPYFXwo4R5340VVifOtDxmKYbcdpqaMDctCYVM7nZwNAK61C/sfnUp0=;LsaJ8n9Y6RBtqHj9g1z/6A=="
 ---

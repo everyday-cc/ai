@@ -1,0 +1,59 @@
+---
+category: news
+title: "Apple iOS 18 expected to be a big software update, iPhone could be getting AI features"
+excerpt: "Bloomberg's Mark Gurman reports that iOS 18, expected to launch in 2024, could be Apple's most significant OS update ever. It could mark the Cupertino giant's"
+publishedDateTime: 2024-01-29T22:28:00Z
+originalUrl: "https://www.techspot.com/news/101686-apple-ios-18-expected-big-software-update-iphone.html"
+webUrl: "https://www.techspot.com/news/101686-apple-ios-18-expected-big-software-update-iphone.html"
+type: article
+quality: 41
+heat: -1
+published: false
+
+provider:
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+related:
+  - title: "This new iPhone app fuses AI with web search, saving you time and energy"
+    excerpt: "With the AI summaries, you can scan the basic facts about your topic ... Arc Search kicks in other tools to help with your searches. You can easily start a new search by tapping the Search icon at the bottom. From there, a keyboard automatically pops ..."
+    publishedDateTime: 2024-01-29T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b6885bc6bcd0abe4c5c8a3b58435763354bf7f61/2024/01/29/a62a9d4d-c58b-4e7d-a565-da26eb4b6bc4/gettyimages-1401267940.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
+    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
+    publishedDateTime: 2024-01-25T03:33:00Z
+    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 39
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
+        width: 1500
+        height: 857
+        isCached: true
+
+secured: "NMIc7xVXAUq/ZJoL5aC4g8uuf6M9vmsKAKHbH1EasM5blMLznIyBlAFuSVdXi31jUNgH/v5rTs+oJemmZaWV6AH76FHIDfubD0KBn4SWts/wZzR4J34DljAGdG7/fFo2FMI227WqPvTMetuH8K33AyaQbL5WfFvSqB4AXVr9tB5r8gOPPoh6x0FdSHkVUTVP6nHwsJIxPoVCZUPnEEGB18bRAw9Pxou6pAdvYg6+XrWJqgxPQAtVl089aHIZ8N/+cm2ahwW/ueEPZwMaw99BXJozHdURsXyt7bcsnnjK1p6jGS1gJSkZSKOLqAOuxUgci2swy6qEhxtQemvUHCeFqz0UYYM92OSYCF0dPn5vcNe5zTidI33isCYCZf/0xktgOz1O9KNLy+iZm23C0ACbtUqCkZtb151P+h9we/k60QPRsb0lgUL9R4C87i0+NSMXuMuJ0pohjir/A0hVYModnURIHkcvRsyfIUP9YJGxmlyKiFKfI0SsZiqrmEJyoFV+3yNA3X27pconORDTfsnYyA==;7tRcspmFg33qWTD8xqc2GQ=="
+---
+

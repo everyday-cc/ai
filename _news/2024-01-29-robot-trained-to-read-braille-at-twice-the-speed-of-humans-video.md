@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Robot trained to read braille at twice the speed of humans"
+    excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers."
+    publishedDateTime: 2024-01-29T20:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Robot trained to read braille at twice the speed of humans (IMAGE)"
     excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases ..."
     publishedDateTime: 2024-01-29T05:01:00Z

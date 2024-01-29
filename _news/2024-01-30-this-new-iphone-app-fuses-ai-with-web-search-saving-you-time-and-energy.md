@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Apple iOS 18 expected to be a big software update, iPhone could be getting AI features"
+    excerpt: "Bloomberg's Mark Gurman reports that iOS 18, expected to launch in 2024, could be Apple's most significant OS update ever. It could mark the Cupertino giant's"
+    publishedDateTime: 2024-01-29T22:28:00Z
+    webUrl: "https://www.techspot.com/news/101686-apple-ios-18-expected-big-software-update-iphone.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 41
   - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
     excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
     publishedDateTime: 2024-01-25T03:33:00Z
