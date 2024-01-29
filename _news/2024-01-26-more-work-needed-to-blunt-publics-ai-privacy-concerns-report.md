@@ -7,7 +7,7 @@ originalUrl: "https://www.itworldcanada.com/article/more-work-needed-to-blunt-pu
 webUrl: "https://www.itworldcanada.com/article/more-work-needed-to-blunt-publics-ai-privacy-concerns-report/557328"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,47 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "AI facial recognition software concerns"
-    excerpt: "A Houston man who was falsely identified by facial recognition software was thrown in jail, and violently attacked, but how did it happen? FOX 26's Damali Keith reports more."
-    publishedDateTime: 2024-01-24T00:06:00Z
-    webUrl: "https://www.fox26houston.com/video/1399941"
-    ampWebUrl: "https://www.fox26houston.com/video/1399941.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1399941.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 54
-  - title: "Face recognition AI will check you’re old enough to buy alcohol"
-    excerpt: "Government hopes that the digital technology will act as a ‘shield to aggression’ for shopworkers trying to stop under-age sales"
-    publishedDateTime: 2024-01-24T23:20:00Z
-    webUrl: "https://www.thetimes.co.uk/article/face-recognition-ai-will-check-youre-old-enough-to-buy-alcohol-w86rlmp3s"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F86e88859-0a71-4ffc-b612-4c8b7083d210.jpg?crop=2121%2C1193%2C0%2C110&resize=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Dubai announces new $95.3m nol card upgrade; facial recognition, artificial intelligence and smartphone payment plan"
-    excerpt: "Dubai’s RTA announces major upgrade of nol card system to pay for public transport services Dubai nol cards will undergo a major upgrade after the Roads and Transport Authority (RTA) has announced a major upgrade, which will see facial recognition ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-new-95-3m-nol-card-upgrade-facial-recognition-artificial-intelligence-and-smartphone-payment-plan"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 46
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2024/01/28/dubai-nol-card.jpg"
-        width: 1199
-        height: 899
-        isCached: true
 
 secured: "lgNmZD1HTDUuxLrX3/tZYnjUteq2vQKw5B35LidyRT3Gds5eSN6evFfUYeDRbQpz2UAV6EU2EeG24xmN6V6BP+Jk7FXu66ZZgYGFz3KJZLc33homH2Gvignh5DJbOA6Pz33CWCifP+UFfgDQSoTWDyRBzHP+sfbQ8wc1lheJRkbLhfeOCrzuuUJaK9tv8pcAS1A93fN9WoNRM8Dtq9wnTrhhhDBvhVpkrQHKzFGIgbITV8qqwccgtJP+cN4wzWuCAvNYXkCKUx0P/rKnS58eNB6zZp78vVo4kdhwYMNhOFf04nGphlIqirRZKChEcNC9TfziSFtSh/jkqdI+yfEnrE3cbJ++N0v/b1UuRGIX3g6r3lpSMrSuRVV23b6yN4HFGYRLxvNjemm/hQHM6A+VoV49rS99Je+BeKcpM0aV69tpp3zV5hA7U/4f+/9CMnwRct4BO5HSYdvFpaN06ha6lwXJ8lem1Y3JrgGmc92ngVu2pMdndeRH1oEri98Rz0zE/ThZ5oKRrzBLCDijcXvRcA==;n0LQrl6ZdnSiYbscV27Auw=="
 ---

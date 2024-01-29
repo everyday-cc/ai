@@ -47,43 +47,6 @@ related:
         width: 630
         height: 442
         isCached: true
-  - title: "‘Make Or Break Point’: Apple Delays Car Launch To 2028, Dials Back Self-Driving Features"
-    excerpt: "But Apple has struggled with how to approach such a product. As of the end of 2022, the Cupertino, California-based company aimed to release a car by 2026 with advanced self-driving features for highways. Now, after finding it wouldn’t be able to ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://jalopnik.com/make-or-break-point-apple-delays-car-launch-to-2028-1851191962"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 15
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b8d11f62d7b6573c4b81c8edac85c6ee.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple Car release date reportedly pushed back — and it doesn't sound like the self-driving car of the future"
-    excerpt: "According to Bloomberg's Mark Gurman, the scheduled launch of Apple's anticipated EV has slipped from 2026 to 2028. The project, which has reportedly been in the works since 2014, was aiming to deliver advanced self-driving features to a sleek electric car. But now it seems the company's ambitions are scaled back."
-    publishedDateTime: 2024-01-23T23:02:00Z
-    webUrl: "https://www.tomsguide.com/news/apple-car-release-date-reportedly-pushed-back-and-it-doesnt-sound-like-the-self-driving-car-of-the-future"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 5
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/43Zjm88ELA9RYTdGeVBQYP-1200-80.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Report: Apple's 'Project Titan' self-driving car project gets rethought"
-    excerpt: "Following years speculation and setbacks it appears Apple Inc.'s legendary self-driving car is being reimagined as a partially autonomous electric vehicle (EV). According to a report from Bloomberg, the Cupertino-based tech titan (Nasdaq: AAPL) has ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/01/24/apple-project-titan-bloomberg.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "kpSuv5ixz9KPVHhBBzFUhfjU1w0kPF+/6N2MgsXlUIkonYuZVf7P1W+4wC5Vrq1rZe9ZB9xM71nSEG2vqQx1nBQit3pG4wrp835ESo+1PAJJJMqAchcHEs34ZNSx7osQpeaXQf+cKjoXsLmrdET2luI3/76Oc71VT25HZR67wC5Z7IicQUyV5zCvRm4/AyvBaYxZrBKJnE0lUiyTN7fVkYlx/GvwjI8xREdmkoJq1TvjI8ku+/IC4FP1QLkeS4uz8qNvvE2w4KSqUHV87suEni8uubLmkrLcE70jPlpfNJgjBCaogN+z8RjJMfHt4n5+VmDvyymj41fozuAnS77iyZuAkZ9gJurzkgTGjcc4Stg=;7yxVzi74qJ1q0ulXfus16g=="
 ---

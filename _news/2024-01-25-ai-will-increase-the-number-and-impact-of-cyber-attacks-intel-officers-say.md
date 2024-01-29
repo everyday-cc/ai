@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-numbe
 webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Rise Will Lead to Increase in Cyberattacks, GCHQ Warns"
-    excerpt: "LONDON (Reuters) - The rapid development of novel Artificial Intelligence (AI) tools will lead to an increase in cyberattacks and lower the barrier of entry for less sophisticated hackers to do digital harm, Britain’s GCHQ spy agency warned on Wednesday."
-    publishedDateTime: 2024-01-24T00:04:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2024-01-23/ai-rise-will-lead-to-increase-in-cyberattacks-gchq-warns"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web"
     excerpt: "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power"
     publishedDateTime: 2024-01-24T14:49:00Z

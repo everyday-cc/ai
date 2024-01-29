@@ -321,29 +321,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cushman & Wakefield Leans Into AI With New Microsoft Partnership"
-    excerpt: "The firm, which has 52,000 employees across 400 offices, will use three different Microsoft AI tools: Azure OpenAI Service, Microsoft Technology Centers and Copilot for Microsoft 365. “With this next generation of AI, we have a unique opportunity to ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.bisnow.com/national/news/proptech/cushman-wakefield-taps-microsofts-suite-for-ai-tools-122541"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 34
-  - title: "Microsoft forms advanced AI team dedicated to developing OpenAI-like models but at a smaller and cheaper scale"
-    excerpt: "Microsoft has already assembled a team to take on this new challenge, which will fall under its Azure Cloud unit. Microsoft's CVP, Misha Bilenko, alongside top developers from the company's Research division, will see this project through. The small AI ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.windowscentral.com/microsoft/microsoft-forms-advanced-ai-team-dedicated-to-developing-openai-like-models-but-at-a-smaller-and-cheaper-scale"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/NFzzMK2Dge3jNDmviSZDgB-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, Google embrace openness with Sama AI data integrations"
     excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
     publishedDateTime: 2024-01-26T10:37:00Z
@@ -362,15 +339,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Cushman & Wakefield Collaborates with Microsoft to Enhance AI Technology Platform"
-    excerpt: "Cushman & Wakefield (NYSE: CWK), a global leader in real estate services, today announced the firm is working with"
-    publishedDateTime: 2024-01-23T23:17:00Z
-    webUrl: "https://www.01net.it/cushman-wakefield-collaborates-with-microsoft-to-enhance-ai-technology-platform/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 29
   - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
     excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
     publishedDateTime: 2024-01-26T11:52:00Z

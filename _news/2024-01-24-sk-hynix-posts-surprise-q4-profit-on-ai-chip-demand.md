@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Memory chip giant SK Hynix returns to profit on strong AI demand"
-    excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence. SK Hynix posted an operating profit of ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.sfexaminer.com/news/national/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand/article_696bf7dc-7fa1-553c-b5f5-21fa6ed4c54c.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/2/8c/28cb7910-3dd2-5e62-a0a3-7a37fdee90e8/65b1ee9504814.image.jpg?resize=400%2C270"
-        width: 400
-        height: 270
-        isCached: true
 
 secured: "m6eVIPXBoNht5M6pSMRTa13bjE0OEh8kRPQFhR4aVstRV8QbcMwmYI6LpmT6M2LLvPnvrMM/apx9f32Yc+1oRySjw1oKK3noqQ2UeRnzY7I59Zb96vq2SFqjdCsohQsmFUVRLzolaK/3fi8TMf/inz6dV+z9q3Wdv3+6hMsQUJOhqSf6nME90rTROhT9iSQQwZp5iogDVVLeW4pkrNJjo/HvP8imvfBv5Dt4Agvrh7bqcxvSM9bm/KsYStyX8Nza8T3mCV5J0OOsZ+lcJMdLRvvOQG6n1686c6mmuQNqLTeYUT35+ANe0mYfF5onZpfvIvDlR8PJT+eq+5x2hu4T9ToqPHI87blqFvq7VIOKXKw=;pQnsqJGs1yMBHCeRd9Dc7Q=="
 ---

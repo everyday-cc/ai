@@ -24,22 +24,6 @@ images:
     height: 1807
     isCached: true
 
-related:
-  - title: "How to Create Amazing Google Bard Prompts"
-    excerpt: "Google Bard, an advanced language model developed by Google AI, represents a boundless creative platform, tailor-made for individuals who possess a natural curiosity and a flair for linguistic expression. The true essence of Bard, akin to any influential ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-create-amazing-google-bard-prompts/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-15.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "pibhRox1mcJmr1o7UuneYhMO9gjnN9CoOGljyZIjjTrlqK1+cGTIirx/VBvUPqwH67qxyDwSPRjvLGgK5uGXJwnXtuCEpaGKKNzc4UrfRYPZ1d/bqeMr2nnueBlXcaSD6Gyt6Hvi92G4VnqVfRpMaLxombFVAhy+R3ouauZUn3UL2XAn85g0h7rhWpopeFClD3zDkhsnXDzX+JnMDrZbBfUmHv0tgvDiXCrcaJMjmQImRYAHiWL8ymMdzzHJ1zw9zktA2T+uqwJQzpGzVRZeq/9hM5MP3NXoGr0KVpmFwUtOLi3oJH9A4OBbos937Lj640e2jrlHbHikFkD78CY4xBzNWDxQT7fjl0n0G7Z1PPb3iz395QbgTPlH9Q5gKMFKQT6YojsC0MdJhhXblHsK8R5AzyM5/jOOcq07K3lrfUZgWPF7pTLWYlmyMdDu1j/W4NPOtwvW2KiCsYuBMkFDguBJml+0HtkMQ6cBjgVHDIX3T/fWSWFsU+XvUigKi0IpW5ZVDSF181RFxBwH3w/xNA==;ME8VDYW0KTNWPlOZxofFPQ=="
 ---
 

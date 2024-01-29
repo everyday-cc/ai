@@ -19,21 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system"
-    excerpt: "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/"
-    ampWebUrl: "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/"
+  - title: "I Just Cancelled My Tesla Full-Self Driving Subscription."
+    excerpt: "I canceled myFull-Self Driving subscription. Whether that’s bad news or good news forTesla depends on your point of view."
+    publishedDateTime: 2024-01-28T18:54:00Z
+    webUrl: "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
+    ampWebUrl: "https://www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 84
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840"
-        width: 840
-        height: 560
+      - url: "https://images.barrons.com/im-06217458/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Elon Musk: automakers don’t believe Tesla Full Self-Driving is real"
+    excerpt: "Elon Musk says that other automakers don’t believe Tesla’s Full Self-Driving (FSD) is “real” as Tesla tries to sell"
+    publishedDateTime: 2024-01-25T14:59:00Z
+    webUrl: "https://electrek.co/2024/01/25/elon-musk-automakers-dont-believe-tesla-full-self-driving-real/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "vvqrKa1lFZFcCPqVYuyXvFLMG50oZEZvswr/bQ8K1MIqgZugrWtfo27YhJcxLa0kGrJxoFOKU9VLF+lnunAlKpNyYXRj7abgNv7jASEl4xtOAGyvAEiX0xEQZ1D1hagLRfkZFwGI54roN0caiQYmN5sb54vcFQmLDHr8ZIzhkVcntb+EiBBG+e4Ep3SUaFkewGMYSt7M6g/YreDQ3qnigm6ENcOARPV34ZnMSNC+UguRvt+IMpuyKgRk2Vt+ERgGhXxfPe0vBL4m1psuG10REwtJ/koAa5JpXtbxAMckGkctQpKAg0HfxgmJB5tCm01GvST0DLlSDnhZ9hdOj/nHjQHSeH3SvNnE6PxZK+62+Es=;beIn2aeSlZGgOMxQk9ODCg=="

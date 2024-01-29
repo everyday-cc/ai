@@ -41,20 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in the Workplace: Use Policies"
-    excerpt: "Artificial intelligence (AI) technology has presented numerous ways to perform tasks more efficiently, including in the workplace. But as AI in the workplace grows, so do potential legal risks for an organization. As more businesses embrace AI, their ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-8706757/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16153_4556.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "05UDOPAXY9Q53+q73aStDGngdRa/YyoeR5FurBGn0VgTvkANfkaoDg0zBH5JmJtJgTsCpNKgDC2nqvfAD44mHjhSvEt0JX3wtkKFTsssRvh1obKeUldXIhN58wBl5/5NJl6rMCUiIwsFTjAoShDIQETx97yfjWoH/nnzT3SDDDO5/qYjdG1fd6lVTZrX5TlX1w3jtV0G6foBQ2bhl5KwzSExu8ucAGYOQ7F64LxGUNp0YXTNBYO8Ml348BI/lzgLlYiXLOgbuUqY0AmbzaICZduqZakJA32v4rNtjJJDBw4/cEp7fPJakdkUlb9xNg6OcbNoJbTi2n87apZqKfVpLlfm/FjS0WlEnTHSnA0QtZs=;7q7M5ysewbnlWKdnkE2aZg=="
 ---

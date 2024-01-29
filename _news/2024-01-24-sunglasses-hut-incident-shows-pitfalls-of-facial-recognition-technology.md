@@ -51,17 +51,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "How did facial recognition technology send the wrong man to jail where he was brutally attacked?"
-    excerpt: "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail."
-    publishedDateTime: 2024-01-24T00:28:00Z
-    webUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked"
-    ampWebUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 41
   - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
     excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
     publishedDateTime: 2024-01-25T16:32:00Z

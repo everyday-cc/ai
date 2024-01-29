@@ -21,9 +21,9 @@ topics:
 
 related:
   - title: "Supermicro Introduces a Rack Scale Total Solution for AI Storage to Accelerate Data Pipelines for High-Performance AI Training and Inference"
-    excerpt: "\"The high performance and large flash capacity of Supermicro's All-Flash Petascale Storage Servers perfectly complement WEKA's AI-native data platform software. Together, they provide the unparalleled speed, scale, and simplicity demanded by today's enterprise AI customers,\" said Jonathan Martin, president at WEKA."
+    excerpt: "Turn-Key Data Storage Solution for Large Scale AI Training and Inference – Hundreds of Petabytes in a Multi-tier Solution Supports the Massive Data Capacity Required and High-Pe"
     publishedDateTime: 2024-01-25T21:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/25/9952732.htm"
     type: article
     provider:
       name: TMCnet

@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-s
 webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -132,6 +132,20 @@ related:
       - url: "https://imagevars.gulfnews.com/2024/01/26/-_18d45b1eb29_medium.jpg"
         width: 540
         height: 405
+        isCached: true
+  - title: "Samsung Galaxy S24 Ultra: All about AI"
+    excerpt: "On top of that, the AI can translate any text (and voice), currently supporting 13 languages, including English, Mandarin, and Spanish. For some languages, it includes multiple locales – United States and the United Kingdom for English, for example."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/29/samsung-galaxy-s24-ultra-all-about-ai"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/28/2514788.jpg"
+        width: 1240
+        height: 825
         isCached: true
   - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
     excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."

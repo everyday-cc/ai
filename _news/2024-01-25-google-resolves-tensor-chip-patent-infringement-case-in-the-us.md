@@ -66,15 +66,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Google settles AI-related chip patent lawsuit that sought US$1.67-billion in damages"
-    excerpt: "Google on Wednesday reached a settlement in a patent infringement lawsuit over chips that power the company’s artificial-intelligence technology, according to a filing in Massachusetts federal court. The settlement comes the same day that closing ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-google-settles-ai-related-chip-patent-lawsuit-that-sought-us167/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
 
 secured: "6yfaW4oItQmd5htSzrm+KOLedl2Qb0YtEcogaWGaqlqQMhNq5p3P4pMcHXvRS7Dv6xumY7tSWBA7Zeg2obAGMQTtRZorRNRqdNCtY7NAgYL739BznqE1ztbju2R76jAH1BF+bhMejwPDeHpuqBvbsirHg6JL2aSggZGc8Eiov97y/wkQImm2pA7obKwgLgq5SJP1GOaDyycnRQxJrl/d66l31T6fwXI+WEIzU2kzU6SfgjbXDYGy16ZQJtYbib6SNMrmE7OAkUaaQum+R+G5Rw26osOgWwPDskeMV3+S0FjGKYkB+TCk4rDbjCmgy8If5JVFyxVj8d4bpCOorLuHhd99V024NzB+5H/p5OPKC5E=;n/IgGqivOGgukrJ8m8U1sQ=="
 ---

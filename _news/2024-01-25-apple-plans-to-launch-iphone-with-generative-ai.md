@@ -51,20 +51,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Tech Trends for 2024: Generative AI Models Will Get Smaller, An iPhone’s Average Life Will Be 8 Years"
-    excerpt: "AI will teach coders new skills and support creativity Workers are already using AI to augment their day-to-day jobs, such as by assisting with basic research, helping come up with ideas or even creating better reports. One of the first tech jobs AI has ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.techrepublic.com/article/tech-trends-2024/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 54
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240124-tech-trends-2024.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
     excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
     publishedDateTime: 2024-01-25T03:33:00Z

@@ -34,6 +34,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "AI in healthcare – risks and rewards"
+    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
+    publishedDateTime: 2024-01-28T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40286158"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
+    images:
+      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
     excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
     publishedDateTime: 2024-01-25T06:30:00Z

@@ -41,17 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "How did facial recognition technology send the wrong man to jail where he was brutally attacked?"
-    excerpt: "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail."
-    publishedDateTime: 2024-01-24T00:28:00Z
-    webUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked"
-    ampWebUrl: "https://www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.amp"
-    type: article
-    provider:
-      name: KRIV
-      domain: fox26houston.com
-    quality: 41
   - title: "Sunglasses Hut Incident Shows Pitfalls Of Facial Recognition Technology"
     excerpt: "Harvey Murphy is a 61-year-old man who has recently sued Macy’s and EssilorLuxottica, who is Sunglass Hut's parent company. This is due to a wrongful arrest made from using a facial recognition system."
     publishedDateTime: 2024-01-24T10:44:00Z

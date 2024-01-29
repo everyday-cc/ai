@@ -33,15 +33,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "AI Rise Will Lead to Increase in Cyberattacks, GCHQ Warns"
-    excerpt: "LONDON (Reuters) - The rapid development of novel Artificial Intelligence (AI) tools will lead to an increase in cyberattacks and lower the barrier of entry for less sophisticated hackers to do digital harm, Britain’s GCHQ spy agency warned on Wednesday."
-    publishedDateTime: 2024-01-24T00:04:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2024-01-23/ai-rise-will-lead-to-increase-in-cyberattacks-gchq-warns"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
 
 secured: "j5BbdqYvS54XcuaO+R8IeNYTYFFspr4pgvPHVnv3nZ3h5KbE+N4j5DV2k5l86V2Lu9i0SpJIPIRRdpq1W35EvSpR2huiXEZXmN4J0q5891hIi1IbbWY7NWl9+T6w7KamiUsZtPXfjqjqkYro4Qs6vw3WCA1CygsfG1/aogl+kNDqUf1fK9jbjqPmnkyfH3R5ppEO3s4M1PkGJqyZ9IWC0ZPTtGpzor7HH7p+OE5K/1pZGocZ8Mxkflkc9ITODt2GjRZv0TblQNfIhTGuaoimDc9FN3xxsSK+SYAqj/GYCOSyWVGLVb/Irr3n7GWHNZoQoCL7tiQGvSplCpsTGlz1mtNSEDQxCW+LZnin0KU25y8=;cZ571prc5d4DvZbptb4y+w=="
 ---

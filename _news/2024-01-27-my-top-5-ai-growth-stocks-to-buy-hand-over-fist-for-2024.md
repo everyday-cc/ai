@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 3 Most Promising Artificial Intelligence Stocks in 2024, According to Grok AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the steady rise of artificial intelligence, we asked Grok AI for its"
-    publishedDateTime: 2024-01-23T23:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-most-promising-artificial-intelligence-stocks-in-2024-according-to-grok-ai-1032989672"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
   - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
     publishedDateTime: 2024-01-25T18:49:00Z

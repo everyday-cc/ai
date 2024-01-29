@@ -25,29 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers"
-    excerpt: "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/"
+  - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"
+    excerpt: "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more"
+    publishedDateTime: 2024-01-24T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 54
     images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg"
-        width: 1200
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
-    excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
-    publishedDateTime: 2024-01-27T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23645298/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street/"
+  - title: "AI Stocks Alert: Palantir, Nvidia, and More Team Up for AI Research Program"
+    excerpt: "Earlier Wednesday morning, the National Science Foundation (NSF) announced that it will team up with some of the top-flight names in technology to launch the National Artificial Intelligence Research Resource (NAIRR) pilot program. Naturally, this ..."
+    publishedDateTime: 2024-01-24T13:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-alert-palantir-nvidia-and-more-team-up-for-ai-research-program-1032993879"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 16
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "NSF launches AI research hub"
+    excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
+    publishedDateTime: 2024-01-24T16:01:00Z
+    webUrl: "https://www.axios.com/pro/tech-policy/2024/01/24/nsf-launches-ai-research-hub"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "Nvidia, U.S. National Science Foundation partner for AI advancement"
+    excerpt: "Nvidia, one of the world’s leading artificial intelligence (AI) chip manufacturers, and the United States National Science Foundation (NSF) announced a new partnership that will support a new AI research initiative. The National Artificial Intelligence ..."
+    publishedDateTime: 2024-01-25T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/nvidia-us-national-science-foundation-partner-ai-research-pilot"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "bZfjELJ3mjjIalrBgbcOS4op2U2qQ4ctt4InjGtTeukJg0vLi+Ai9lZ9oqRAr1kgLW0pB5NiExRy/tCmHLHfC5LNggAJfe+WiNwktvYFg/z64ETIZohN5RkJACF2wqKVTLe+S/rboK3g9Snmex7HsGR1Qa2UDiSa6YdSeMMWTDKlQaJEozgXUGur64enHvNPbR67TciUvqbRNCHbnVGSMBxfbSFZSduJJVltzPd+L2V6z960aY8df56+X9mQVeT6eJdxbNIok7gnJl2Tel9lyTxCsRDbrXjX3IEz3LEPQQNJnKJCvpXfsl2A2JyNRmXq7ORUJBR1EE7RSAuXEbpdXRbQk1uK77BzPAp8m/4uUUs=;aSRd+jOsGx+NktzBv7w1Og=="
 ---

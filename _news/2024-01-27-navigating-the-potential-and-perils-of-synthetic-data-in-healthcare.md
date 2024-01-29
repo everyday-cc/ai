@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3712462/google-settles-1-7-bil
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Google settles AI-related chip patent lawsuit that sought US$1.67-billion in damages"
-    excerpt: "Google on Wednesday reached a settlement in a patent infringement lawsuit over chips that power the company’s artificial-intelligence technology, according to a filing in Massachusetts federal court. The settlement comes the same day that closing ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/technology/article-google-settles-ai-related-chip-patent-lawsuit-that-sought-us167/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
 
 secured: "z0J+tUt+edS2Hgp4VLqjd34mjzqgvmgiuqBZ4u6o0mDBUIfVnH+10kVe79zlWVhTYMJJIlERLdfsg9Z1ETLZj0SVU1WQKzCF10yvQxh3/XU4sEl+7oUrwHv6KcQD1R8OSAT+R8UZc+LT5MQUkXGD86IIvYFa+26iDwKbTHAbSLIcgRv4G05tuLPEcGJDbJufX7qaYRq5lOVLtAbU50cy73qfTAKG4ZnndaleydFVxZK39U6lZIm7STBNBJO+gOdwhsEPEfrsT8hjdZQF2DSiQvFQPxUOS+d/9p2v7tIIuJAEDgnPJOKOXLsoQkZXsv1XnfGqngf01hHgimYJhDmMtNkwVehbHOIVlWufKaXYahgYr+xlmfk5ihxC5Hp3lW/ysy0X6tljqBzWGucH7B0fUv+j/zrBeXgXrcjDI783lNa0fFofaH3PIkXK3neXThyMyXoewJvXOcrfPgjsAKmBaxjWvVW61ylefY1N0LR9eoLT0oGWaUF+q2gBAxKujpYAKsN06oCq1h1xq3naNhxa/A==;MQ92OjrT3Af5guMagA7hHQ=="
 ---

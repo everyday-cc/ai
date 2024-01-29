@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/01/googles-lat
 webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-25-image-3.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Google launches AI-first startup accelerator for ecosystem expansion"
-    excerpt: "Google has announced the addition of AI First category to its startup accelerator program. Initially targeting startups in North America and Canada, the program is set to expand its reach to Europe, India, Brazil, and other regions. Selected startups will ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240123PD218/ai-startup-accelerator-gemini-google-it+ce-software-big-data.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240123pd218_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
 
 secured: "0FvOLrabzBSCjD7Do9P2+qP0uQFiPqc01ihcCAKwLnaMqa2qTGIRTGUOt5lfKObpvLBaimROLgd3bF0Rrz9GLXQfHDx7eYQVDHS05nvqRlPR+G9q5lIIujLr3GtwwkrIQQJaDRyuxkr7o01sedyRfzWEIooEFVfAHpNpuQ7bdr91ajsBljK7H18jJIugsiUenkmWuBlaEVzPrsJ1fBfS3eRMSdTZtQmuHXA9VjVW6bS4dtLRfMKAzPeJHHmuhhJ5t/d15VNf7695npm1zc0ydP7v/lMYWZk59vn2yJsEHPtbkYgA11cTloLbTYyJg8LEc6tpy0Y3WgNHbfkBnWmfTD4VGOVKy4wA0RNIiIWNTidEUy5yCLlO/ez+VchwZ0oXZ60kCPUJSztG3qRt8DuqK+zOKbI3FLRn7Vc5Gvn5o08K1WMk/MgAKVyU+2eDRDOJrt+5Mh0+OX3kmAlU9uTjPhTn3BrGG+RRq2AeQJUtM8KigOopqkgVNYy/r8IEfZ1Jgv0vklkbdNpNfehMnrbnyg==;zo61YdE6S105yqmtBAXQ+A=="

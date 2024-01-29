@@ -33,6 +33,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "AI in healthcare – risks and rewards"
+    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
+    publishedDateTime: 2024-01-28T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40286158"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
+    images:
+      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Tech, healthcare leaders to join AI startup board"
     excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
     publishedDateTime: 2024-01-25T17:48:00Z

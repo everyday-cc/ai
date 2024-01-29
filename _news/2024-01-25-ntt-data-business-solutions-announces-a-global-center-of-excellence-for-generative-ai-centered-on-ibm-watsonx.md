@@ -41,15 +41,6 @@ related:
         width: 640
         height: 405
         isCached: true
-  - title: "IBM watsonx AI scores pro soccer player scouting gig"
-    excerpt: "An artificial intelligence (AI) tool, Scout Adviser, built on IBM’s ‘watsonx’ platform, will help the Spanish football team Sevilla FC find new players with AI. In an announcement released on IBM’s blog, the technology company revealed that Scout ..."
-    publishedDateTime: 2024-01-24T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/ibm-watsonx-ai-pro-soccer-player-scouting-gig"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
   - title: "'AI Stories with IBM Watsonx' now live - How it helps 66th Grammy Nominees"
     excerpt: "Tech giant IBM Thursday January 25, 2024 introduced 'AI Stories with IBM Watsonx' - a generative AI solution co-created alongside the Recording Academy to generate and scale editorial content around GRAMMY nominees before and during the 66th Annual GRAMMY Awards."
     publishedDateTime: 2024-01-25T08:31:00Z

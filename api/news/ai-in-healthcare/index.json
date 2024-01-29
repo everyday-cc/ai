@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": null,
       "content": "",
@@ -538,6 +538,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-how-can-ai-support-value-based-care.md",
+      "title": "How Can AI Support Value-Based Care?",
+      "excerpt": "Artificial Intelligence has the potential ... 28 providers and payers made commitments for responsible use of AI in healthcare. These organizations include CVS Health, Mass General Brigham ...",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
+      "originalUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1279,49 +1322,6 @@
         "name": "Business Wire",
         "domain": "businesswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-option-care-health-selects-palantirs-artificial-intelligence-platform-for-enterprise-wide-digital-transformation.md",
-      "title": "Option Care Health Selects Palantir’s Artificial Intelligence Platform for Enterprise-Wide Digital Transformation",
-      "excerpt": "Option Care Health expects to use Palantir’s Artificial Intelligence Platform (AIP) across nurse scheduling, patient onboarding, purchasing optimization, and supply chain execution, among other potential use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

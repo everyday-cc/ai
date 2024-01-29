@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Supermicro Introduces a Rack Scale Total Solution for AI Storage to Accelerate Data Pipelines for High-Performance AI Training and Inference"
-excerpt: "\"The high performance and large flash capacity of Supermicro's All-Flash Petascale Storage Servers perfectly complement WEKA's AI-native data platform software. Together, they provide the unparalleled speed, scale, and simplicity demanded by today's enterprise AI customers,\" said Jonathan Martin, president at WEKA."
+excerpt: "Turn-Key Data Storage Solution for Large Scale AI Training and Inference – Hundreds of Petabytes in a Multi-tier Solution Supports the Massive Data Capacity Required and High-Pe"
 publishedDateTime: 2024-01-25T21:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/01/25/9952732.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/01/25/9952732.htm"
 type: article
 quality: 4
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: datanami.com
     quality: 34
 
-secured: "sGeeV6OLGhNlEkrxWe6pgIK24itOeKrKBhk+Yrv3B3u603a+7UgJ1/SlqiFLHbeb1bInPLwJK7pdfKr6XI1D/m1+AXhBXW6YNamM4q+13t5RDN0ErzSbsEzn+IVviYd0Sjqx8IlVxuGn15V2/+1dX8Gn3uX/c5Z7IFxj7BdiW6uMUquLiZngHM7pGe/t5nFBB8yKO8FwUxdu2D4XXnyw18xLCe09CYwa7E3JO0B7Wm1SY6BV/NbbCgVo9ji3bEQbkcqjqmCV4WZflBSlS9cfE5eP1QtPCz2cd/74V7S9zvffNjl+31q5YTo4ZINt4jJ7U5IhlUehYzWsUIA3F2Z5Hl6GXPhnKE7GwoJaTxGvdcPNEmP5tbykoCVcegxYg9TvoSTxWT04ZeVkT+KElpKTBv7xh/AqnYWnqlTqdoa/7F/bZceUOyatBQ92j5f/avEdgEGBD0hguAr2+JdzgZjWZQgCcr5qkFuGq9FGeAuzYULDJo7I4NbT43XllCRDqVHrj8sPxTVGdx5Fe/HZxwpOjw==;D1Rjh2okRVS1CGvMsG1ADA=="
+secured: "ustEX1zsrFFaRy8eBvYGcxe/xBzjyzlfPi3wv+03YASF2ioBqDlIXgYpfZRVndaW96BRCcaO8IkJI+hAK/hjq8FeA6WEAbkO+wpuwLEmAPLWvtALTQxF7+f4PCHAH708N63Ynf5J/oZ6kPPMMhKFp0a6O6G1PVxsEi4Fj57mIDOlXjRIneUzePqY1wTrFKjwE8IeONKoxuD5eKlHWGhLBLfrHUxQuNiLR9FCGOBiQSxrG7bPQQt9/b/TWrpl8IdPeEcW1aLRWE8C+ZAzroIy7wBra2upo9UDz6WH34qHu34NE+FLvFTHjODxd+Nib91BffrWkcoQQL58pMiMwBab/pkQlER4JTvxw1hgaLjjVDs=;feiBHK0eAznq+kwaQgmKyg=="
 ---
 
