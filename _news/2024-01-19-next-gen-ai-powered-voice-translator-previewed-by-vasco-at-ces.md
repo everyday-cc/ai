@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Next-gen AI-powered voice translator previewed by Vasco at CES"
-excerpt: "Vasco Electronics previewed its next-generation live voice translation device that is powered by artificial intelligence (AI) and can provide live translations of nearly 50 languages to your ear."
-publishedDateTime: 2024-01-19T13:00:00Z
-originalUrl: "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces"
-webUrl: "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces"
-ampWebUrl: "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp"
-cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp"
+excerpt: "Vasco Electronics is planning to release its next-generation AI-powered live voice translation device, the E1, to the U.S. market in the second quarter of this year."
+publishedDateTime: 2024-01-19T12:00:00Z
+originalUrl: "https://www.aol.com/next-gen-ai-powered-voice-130022321.html"
+webUrl: "https://www.aol.com/next-gen-ai-powered-voice-130022321.html"
+ampWebUrl: "https://www.aol.com/amphtml/next-gen-ai-powered-voice-130022321.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/next-gen-ai-powered-voice-130022321.html"
 type: article
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/25844fe6-06e4-4c68-abf2-849fa1a0bde3/c5a474d0-0442-458b-b0ea-60f7ca9bd359/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s.yimg.com/ny/api/res/1.2/snfU7K1WAa_iRy5ns5X5EA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/ce4e738d28a12f151ca93d64babd1c3a"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "XyhcSVV78Gsz+j7tc+dbK3iTJwJ0hW/Qo/8nvRYBVyHiTt1Lm837sWQYs44u4/dvfagV+UIUx0U2ypScq7bOrm7OfCS55jbEQFWx/TQkwpCylTukmvaX7yIlZRTXg2vxVV7f9PI3rol1GxwVHfBpeUz30LViC9XFuZhOXIvTEqFn1gN6SIFAP4FTIutTqZVdXOAm8mdPa7ShRkabUWgFUxnsKITbkWDwosP1C/bCwpBtEXgPBHNX+Nf6JazAa0NPr4Nh7KvCW04dK3EF1lb6xmi5kp8IXiqvVMj3xV3wnkj6jtrFA90MUbY9L1rb2tPTCkUNHV6LVzOcXDtvHOe/+gkYRY5Ahnwu8CP4KMucr0A=;exe61elhHhZD6TajMssFpQ=="
+secured: "Afg9Rh2fzVVwthEP54qZFQ/QnEvKGM61XnmirLpKZmVDxr6O0FpZ0K5XEYLocp9A0m91ghjWvhY1MXZ0qPKHsNVRtSajCkiqdivMRnquagikVQym3RzU7Sk7v0D5vXQpw/3lEqUzozhHV4oEB9Rv4Bn67NuMmcLqh+EayGoSTW3g+aXA5HVDNgIChXI0TINFicDOjD9LL5izdZEhAPanfEvKH3XrMKUeMRCpqcdPuRJBzYXVOmkCPRVpCO4eqGbax9KIo1ku96hgMd00LQjBujfDkRVhCPlI/AiEC9xvhHRz287v4hl2dCjT0Kl8S0OWSnZj/qzpne1UsdzHpwZbtoeOEwB1idG4liVL5oiX89U=;1m4ZU9JEdg5Oicpaheb8NA=="
 ---
 

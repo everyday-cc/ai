@@ -51,6 +51,20 @@ related:
         width: 1023
         height: 513
         isCached: true
+  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
+    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
+        width: 1400
+        height: 786
+        isCached: true
   - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
     excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
     publishedDateTime: 2024-01-25T21:42:00Z
@@ -111,29 +125,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Microsoft: Azure Taking Share With AI Push"
-    excerpt: "Microsoft is positioned to benefit greatly from the AI revolution. Azure, Microsoft's cloud platform, has been a major growth driver for the company, fueled by increased AI consumption. MSFT's expansion of AI to its other products and services, as well as ..."
-    publishedDateTime: 2024-01-24T04:19:00Z
-    webUrl: "https://seekingalpha.com/article/4664547-microsoft-azure-taking-share-with-ai-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 69
-    images:
-      - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
-        width: 594
-        height: 370
-        isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
     publishedDateTime: 2024-01-25T13:17:00Z

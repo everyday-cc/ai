@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-27-why-the-rise-of-ai-shouldnt-change-the-way-you-invest.md",
+      "title": "Why The Rise Of AI Shouldn’t Change The Way You Invest",
+      "excerpt": "An exploration of AI's impact on the three largest sectors of the S&P 500 and why investors shouldn't change the way they invest because of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/",
+      "originalUrl": "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a96d9cae8f77d36a930c03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/",
+      "publishedDateTime": "2024-01-26T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy.md",
       "title": "The Creator Economy Is Facing A Perfect Storm Of AI-Generated Content And Piracy",
       "excerpt": "From Taylor Swift deepfakes to systematic theft of copyrighted content, social platforms are being overwhelmed by AI-driven bad actors.",
@@ -616,7 +667,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1138,57 +1189,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-kirsty-gilmour-working-with-ai-firm-in-bid-to-end-online-threats.md",
-      "title": "Kirsty Gilmour working with AI firm in bid to end online threats",
-      "excerpt": "Scotland's Kirsty Gilmour says she is still receiving death threats and abusive messages on social media despite using AI to block out trolls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/badminton/68100383",
-      "originalUrl": "https://www.bbc.com/sport/badminton/68100383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/576E/production/_132428322_gettyimages-1473746886.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/badminton/68100383.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/badminton/68100383.amp",
-      "publishedDateTime": "2024-01-25T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

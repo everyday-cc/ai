@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
+        height: 600
         isCached: true
   - title: "North Korean Hackers Spotted Using Generative AI"
     excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."

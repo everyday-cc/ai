@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-25-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love.md",
+      "title": "AI is for everyone: Prompts to help you with work, life, school and love",
+      "excerpt": "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
+      "originalUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d82d0b5-ce16-415b-ac50-c309419796e2/57376624-6d61-4e7a-898e-04ec81ef53d2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
+      "publishedDateTime": "2024-01-24T22:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.md",
       "title": "SK Hynix swings to fourth-quarter profit on strong AI chip demand",
       "excerpt": "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter.",
@@ -724,7 +776,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 359,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1177,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/24/13-ways-writers-should-embrace-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1199,49 +1251,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-ai-is-currently-too-expensive-to-take-most-of-our-jobs-finds-mit-researchers.md",
-      "title": "AI is currently too expensive to take most of our jobs, finds MIT researchers",
-      "excerpt": "So, how worried should we be about AI coming for our jobs? That is the focus of some new research from MIT FutureTech, which doesn’t just look at the capability or effectiveness of AI in carrying out tasks end-to-end, but also acknowledges the costs ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers",
-      "originalUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2022-03/shutterstock_2067577946.png",
-          "width": 740,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-currently-too-expensive-take-most-our-jobs-finds-mit-researchers?amp",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

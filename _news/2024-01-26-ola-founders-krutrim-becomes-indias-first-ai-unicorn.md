@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-uni
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ola backed-Krutrim becomes India's first AI startup to get Unicorn status with $50 million funding"
+    excerpt: "Ola's Bhavish Aggarwal-backed Krutrim has raised $50 million in funding, with Matrix Partners India to become India's first AI startup to get the Unicorn status. Now, the company plans to expand beyond language models,"
+    publishedDateTime: 2024-01-29T03:44:00Z
+    webUrl: "https://www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html"
+    ampWebUrl: "https://www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 43
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Ola-backed-Krutrim-becomes-Indias-first-AI-startup-to-get-Unicorn-status-with-50-million-funding.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Krutim’s 2 trillion token LLM is India’s first AI unicorn"
     excerpt: "Krutim, a generative AI company that can converse fluently in multiple Indian languages achieved the status of India's first AI unicorn."
     publishedDateTime: 2024-01-27T05:43:00Z
@@ -90,6 +106,20 @@ related:
       - url: "https://invezz.com/wp-content/uploads/2024/01/mother-daughter-indian-laptop-phone-1024x535.jpg"
         width: 1024
         height: 535
+        isCached: true
+  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
+    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
+    publishedDateTime: 2024-01-29T02:00:00Z
+    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 37
+    images:
+      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ola founder Bhavish's Krutrim becomes first $1 billion Indian AI startup"
     excerpt: "It becomes the first Indian AI startup to gain a billion-dollar valuation, a mere month after debuting a large language model, the firm said in a blog post"

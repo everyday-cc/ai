@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-25T20:41:00Z
 originalUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
 webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
 type: article
-quality: 66
+quality: 88
 heat: -1
 published: false
 
@@ -22,6 +22,13 @@ topics:
   - Meta AI
   - AI
   - Microsoft AI
+  - AI Ethics
+
+images:
+  - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
+    width: 1400
+    height: 786
+    isCached: true
 
 related:
   - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
@@ -120,20 +127,6 @@ related:
       - url: "https://images.cnbctv18.com/wp-content/uploads/2019/04/2019-04-24T202127Z_3_LYNXNPEF3N1PX_RTROPTP_4_MICROSOFT-AI.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Microsoft: Azure Taking Share With AI Push"
-    excerpt: "Microsoft is positioned to benefit greatly from the AI revolution. Azure, Microsoft's cloud platform, has been a major growth driver for the company, fueled by increased AI consumption. MSFT's expansion of AI to its other products and services, as well as ..."
-    publishedDateTime: 2024-01-24T04:19:00Z
-    webUrl: "https://seekingalpha.com/article/4664547-microsoft-azure-taking-share-with-ai-push"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 69
-    images:
-      - url: "https://media.gettyimages.com/id/1486417529/photo/new-york-ny-a-microsoft-corporate-logo-hangs-on-the-side-of-their-office-building-on-eighth.jpg?b=1&s=594x594&w=0&k=20&c=dCO1hUJxEbzFhzQJp24FW4bqDLzv4Oz4-7vo__n_bZg="
-        width: 594
-        height: 370
         isCached: true
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
@@ -368,6 +361,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "GBu6MYfVR73JKEAE1LMb+dj7WDs5afy8noUSh536WXxm4TYcIppj92pL0Q7ZF65fe51NO2vIqOpQlGG5rM0PmYZ+x9rlp5HAR/sPGhHJ9+wzE9JXb44e+VFcO4bAsj81GOFQgYzMRnRssQ/1D64odCDpO7cQ9aRtBozHbfYf4jpTsK5HteU/JVn1sJ+LenHXqfd38Aja57AODab32nIRQFtb8kjo4/gmPpc+x99D9tGsPA+A2zkMoYxnOye77nNWaO5wcGsoej6FBALnXfAl88bKWUpFe2SN7L/yZKC4d2AJC0nUpmPM0gwiuRdwwMLNzpdN3zhi9IER22Py34U6qog53LMBdCPSzz+Jw01wLIF1HgV2MnYP1gx9eugcLLfs1eNAQ/S0fL0mUlTYbGlUAPJqR2PX26E5bN7LlvS6uDX4Ki2fRJs8xgitWgqnOge5UGJnnWfELuUwP7P/eMWx5zTi6qe7g96toiWcOUUeYlnQOJ1MIkOSZ8n0qqo/NhmA1r8Ncd7cU21A0+JUoKR9ew==;MBvyf+PyYBW53rmgSJRvPw=="
+secured: "q6wBWt4VSQwMtuzzszGvk0OLxxztGTAbsosx7GJcKqIE2/jkqkBOXA7E1Vq0HxTASLYyBIGOO8ZfWihsrfSoccOwS5GmveL6qUv3OXjz3CdhFe0vCnpD3/UCysC+Uj8DZqQhC2I6QRqMxBZahai3cxsrWfzpXNF0PDWQwoBcoFjWTYOlNYPwyJ60Szw4EjhCDZk3vp1N2ITzeLyVQnfSQ8vTKtsjwsYu4j1Jgja42Zr60nCJUfLz+ZI0I7oa+gPsg92eweizlzl1zJp9TaxKnhNgSYt8tBQIoqBBUvBKEvDCyIJSbIjNrrUZjpdr+tMYGUwZyVkg30Otb8WzFAmiIZpfimY4EncL5oKAG4ngatk=;8Wv9qvBX613d/tMZDeHP+w=="
 ---
 

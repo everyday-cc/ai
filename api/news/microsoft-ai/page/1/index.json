@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024.md",
+      "title": "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024",
+      "excerpt": "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "publishedDateTime": "2024-01-29T03:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act.md",
       "title": "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’",
       "excerpt": "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt",
@@ -34,58 +86,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-openai-updates-chatgpt-4-model-with-potential-fix-for-ai-laziness-problem.md",
-      "title": "OpenAI updates ChatGPT-4 model with potential fix for AI “laziness” problem",
-      "excerpt": "OpenAI announced updates to the AI models that power its ChatGPT assistant. Amid less noteworthy updates, OpenAI tucked in a mention of a potential fix to a widely reported \"laziness\" problem seen in GPT-4 Turbo since its release in November.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/openai-updates-chatgpt-model-with-potential-fix-for-ai-laziness-problem/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/openai-updates-chatgpt-model-with-potential-fix-for-ai-laziness-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lazy_robot_hero_2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -263,7 +263,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 359,
       "tags": null,
       "images": [
         {

@@ -3,8 +3,8 @@ category: news
 title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
 excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
 publishedDateTime: 2024-01-28T17:42:00Z
-originalUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671"
+webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671"
 ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
 type: article
@@ -89,6 +89,6 @@ related:
       domain: thedailybeast.com
     quality: 15
 
-secured: "SFufyceoU+lBNT+NucJCOuuQFieVoVsFJXXepDZogHEcTtReUsRJ/45/khBXfX+S32LbPw4cS9BhsDoxguyqbGHJkds2TqqxPJV1F645ikPiOKVSG04Au4ZPjmxv6sF2zz9lJHHMqpHoTBn8dSiM48AkO/tvnwMdrjX9EefpTqiNpqPb1/F2v0VTecRJquAq4LrYJpL1Y6hTkiMcgT7zS6HnILfDqEZYrN8l5oXNDPubez7tIbY0ULOWeJG536+Lc10wdq7LGOMf5x6Llb+PNpcEZfTIHcxYZbjxb6I5Ykr7QufyNdNtdD+5k/kpQ49BDeVZr880DuppbgS69HXGyGNC3il7LTEqdjcSvYvqmyLGMEDEZi8k8tPkxO6L0TB9UrxkDPPIb+9iVaGbv1PX2BKNWp+7fVbDCQbFzdIuEKZtjbyJLPzQE35CFsWcI2Vkkf9oHE/LOJY/haUh1xBwmcjL7eMJ48rw/g0dOufRqe12m+BM6QrEd4w1qQ6bJIAVtEJ0onHb5vdwGAyGzlkU3Q==;+94F2+6fIyKXjAq1B0hSEA=="
+secured: "C+QptaWNDtf8+Dw+A+ALWvzsdzMSWRwMPTgjmsLzfyPOtESE/P+FQG0IFwyb9b0Rjf1NOoy+0MREzF+bnzpOevEVumMuUTdAU1FsBTLHA1tNDWzR6sv+FNi8+O2VJUuqoYwfB3261MF7iN59n7G9hDQydnDD+paXuVsd4yb80a+j1Z3PBgsFDcuMZBHy7tvw+vgmu5HgjIaLOZ4aDAKo5LEsgDIPexEGgzJoGOfVOoJQVZH744fmnRsTSy5o8jlVB0j0IMeOp0M/XDZWNGCEvhBL261SmgiJs8bl6+fG1fykhLJls1GOHs/MB9B3r/wKr93jw36FExKz9JsfYIfncSkLeOa+Qq3c6PKhQbewljo=;obxan9yztBB1TRPAqJ5s/A=="
 ---
 

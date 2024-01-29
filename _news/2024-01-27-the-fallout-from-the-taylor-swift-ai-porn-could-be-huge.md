@@ -48,7 +48,7 @@ related:
   - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
     excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
     publishedDateTime: 2024-01-28T17:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671"
     ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
     type: article
