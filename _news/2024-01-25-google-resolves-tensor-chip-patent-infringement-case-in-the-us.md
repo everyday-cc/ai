@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google Settles AI-Chip Suit That Had Sought Over $5 Billion"
-    excerpt: "Google LLC is settling a patent lawsuit in which it was accused of ripping off a lone inventor’s protected computer chip designs that more cheaply run artificial intelligence and cloud computing functions,"
-    publishedDateTime: 2024-01-24T14:20:00Z
-    webUrl: "https://news.bloomberglaw.com/ip-law/google-settles-ai-chip-design-suit-that-had-sought-billions"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 54
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/7108fc7/2147483647/crop/5472x2109%2B0%2B1259/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F2f%2F78%2F346e8b3842afb844906d7219893b%2Fgoogle-david-gray-iphone.jpg"
-        width: 1920
-        height: 740
-        isCached: true
 
 secured: "6yfaW4oItQmd5htSzrm+KOLedl2Qb0YtEcogaWGaqlqQMhNq5p3P4pMcHXvRS7Dv6xumY7tSWBA7Zeg2obAGMQTtRZorRNRqdNCtY7NAgYL739BznqE1ztbju2R76jAH1BF+bhMejwPDeHpuqBvbsirHg6JL2aSggZGc8Eiov97y/wkQImm2pA7obKwgLgq5SJP1GOaDyycnRQxJrl/d66l31T6fwXI+WEIzU2kzU6SfgjbXDYGy16ZQJtYbib6SNMrmE7OAkUaaQum+R+G5Rw26osOgWwPDskeMV3+S0FjGKYkB+TCk4rDbjCmgy8If5JVFyxVj8d4bpCOorLuHhd99V024NzB+5H/p5OPKC5E=;n/IgGqivOGgukrJ8m8U1sQ=="
 ---

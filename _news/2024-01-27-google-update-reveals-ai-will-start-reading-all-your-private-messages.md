@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Bard in Messages app may access your private conversations"
+    excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
+    publishedDateTime: 2024-01-29T13:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-messages-integrates-bard-ai-privacy-concerns-raised/articleshow/107236045.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "UKuMOuwG0SHyu+SaEa9kMjlvLjjrNh6xJqQRQMdg+ahRqNxRCY7WuYb+IhliNQAlv643iP3+zWD5Xe9LJWROyqGyATp+6SXTqVucP+Ieb3UstCe00o56ObdInz6JhpWtXg+tU3BqrY7lteWTzh7h+lUyy8+GO5obgBXEwxqQtx6JdZwQzwimOFLVznD+t+ZkT2zre6MbDV6A5sLDgv/DEGzkAu3TBDnConCXW3X5EDcpvwjBF5sIa3N2z6tHymXPnXKnSdYEDncF7DKBe7WTKKMsVfH2+1KZZH+9as74dVwV6/4irZ1DYG7i044JYQWRIdGK+G8SwBUxplTDKnWPOjxV+/SWiHYCjUdikzNKnS1v2VM5h6ZpguQhK8scunwi0zVT/aJZkcmmEEsSB7kUzVdxMVrV7PWsOZGY02lzHTBeH0igHjpFO/cAmFrBPEpWRwye1F2I/HxHHbEuhhLjBDCNtKwRDKO/dzv2Qah7vtqQHu8boX0HcC6/FIeSkc8cLA/n1Kd1tm+JZal7+TIGZw==;7HgfX3+3P/5xibKiDtzxVg=="
 ---

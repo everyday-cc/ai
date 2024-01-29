@@ -1,0 +1,58 @@
+---
+category: news
+title: "Transforming Sleep and Industry in the AI Era with Smart Mattresses"
+excerpt: "In the realm of healthcare, AI is making significant strides towards personalized treatment strategies. IBM Watson for Oncology, for instance, utilizes artificial intelligence to assist in formulating treatment plans for cancer patients. Watson can process ..."
+publishedDateTime: 2024-01-29T00:00:00Z
+originalUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
+webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
+type: article
+quality: 69
+heat: 89
+published: true
+
+provider:
+  name: New Atlas
+  domain: newatlas.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://assets.newatlas.com/dims4/default/1c03d48/2147483647/strip/true/crop/1800x945+0+128/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2Fa8%2Fc23cf9ea41c19e6bc43c449c89ba%2Fnew-altas-4-lead-image.jpeg&na.image_optimisation=0"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Leveraging AI For Good In The Healthcare Industry"
+    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
+    publishedDateTime: 2024-01-25T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Artificial Intelligence in Business: Transforming Industries"
+    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
+    publishedDateTime: 2024-01-27T09:15:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
+
+secured: "5aEGbg9bclWXEPUndVSD6u9ooB8t7/v9jTRg8XEDXWf2f2H3Gd9vM7aPTImpzmuu3Qr/zFHNfMREbEmEoQvnigcfs2uxEBb4t4b8GmGRyR3oOOivuyjpVXWUjiIq9IxVOz5qMsQOELYEq/5V0RBFdAmXQwI756s5NpqqFu+45bzeTKyp2k0UhxU3LAVfcLjCeLf4s4HAVp1sZfBf0H5ZYq7v17lR0nWkCxGITvtCK2cBXHrV3vIBHp1Mc5DgCKiF7OYuhQv/nApRjmZgJpmXQlHLjPRgWD07zYL1E51oYt80jQCQ9lJeGJWq/tVEIAfNZrcx9DYQ60QKeQrfrIMAEOs0peMupkTfKPebE9L/zSA=;cwp+zt0Iy2Qh5solZFE6Fw=="
+---
+

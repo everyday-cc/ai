@@ -9,8 +9,8 @@ ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stor
 cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
 type: article
 quality: 73
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: infotechlead
@@ -27,6 +27,66 @@ images:
     isCached: true
 
 related:
+  - title: "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity"
+    excerpt: "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-29T15:50:31Z
+    webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 114
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
+    excerpt: "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ..."
+    publishedDateTime: 2024-01-24T22:03:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 88
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d82d0b5-ce16-415b-ac50-c309419796e2/57376624-6d61-4e7a-898e-04ec81ef53d2/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "10 Mind-Blowing Generative AI Stats Everyone Should Know About"
+    excerpt: "Discover the staggering impact of generative AI, from 75% of professionals expecting significant industry changes to 70% of Gen Z trusting AI for decision-making."
+    publishedDateTime: 2024-01-29T06:11:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b74f6f409f6c7459d4254b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1512
+        height: 900
+        isCached: true
+  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
+    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
+    publishedDateTime: 2024-01-28T05:45:00Z
+    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 38
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
     excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
     publishedDateTime: 2024-01-25T00:00:00Z
@@ -41,15 +101,6 @@ related:
         width: 300
         height: 235
         isCached: true
-  - title: "'AI Stories with IBM Watsonx' now live - How it helps 66th Grammy Nominees"
-    excerpt: "Tech giant IBM Thursday January 25, 2024 introduced 'AI Stories with IBM Watsonx' - a generative AI solution co-created alongside the Recording Academy to generate and scale editorial content around GRAMMY nominees before and during the 66th Annual GRAMMY Awards."
-    publishedDateTime: 2024-01-25T08:31:00Z
-    webUrl: "https://ummid.com/news/2024/january/25-01-2024/ai-stories-with-ibm-watsonx-now-live-how-it-helps-66th-grammy-nominees.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 32
   - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
     excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
     publishedDateTime: 2024-01-25T10:45:00Z

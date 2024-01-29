@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
+    excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-google-bard-with-gemini-just-matched-it-with-a-huge-upgrade"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 30
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s Gemini Pro Beats GPT-4"
     excerpt: "Google's Bard (Gemini Pro) has clinched the second position on the HuggingFace Chat Bot Arena Leaderboard, surpassing OpenAI’s GPT-4."
     publishedDateTime: 2024-01-27T04:41:00Z
@@ -40,6 +54,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5SfWH2UCiixtQqM650GancXlQtPu4KuB9+yYm2m7bQan54yz6OS5uRXWP7WN4EdhP/RnBWKRbfaSSxE1okyPJ+ojYYkIy7yUBYMSi8mzyUI5HCmgHz5DDRtztg1Xi+ZA6OyHQ2kOwpIK4l2HDZwu+JW13/uwtocU8x+ZJ1geFaQjmWVcKdZK1iY6do1N2o5IMcUz4O4gyHKGwF8ZtRvdCHrDo3bd1xB6V5HNGkV0WRAZA3xkr7F/LvTo9u0W4GzfOL1ho2SAaR8c8NbPkEBAHqPUCfrSEV8VAWaEHUy1x2OH+/uL9ueZBYV5toUR5OoomlA9wgZff9Ziq2bJ2N1PkOHLlg43hzi7GEN/3TUjG/4=;Vyw4BkdtMUKPcyyz0VfahQ=="
+secured: "TFtJwSG9HVbxdY4dAynUUC7m7sBWF72rn48LndkZI2L7yHz9whe5wNYweS17ZtoTKdRu/LClv4EIGdhF98jHRBaqA/RZs5nJHfOMm/nW/Gre+yl22x5pnWxdEBeUZ2GlwVd3DN73fxindR9NHYg51hQUpXhyigFSwyn2SVLaMFE6/fGRIwRwEFcyH9GhfSjN49gz/diKZ7R3xSL7az2P+6uaqTG9AkVvp9gNrI6wtlbGUkTF31PB4+IuQ7WpIgAVsi6xNst4XAZpinXkjHmvkmBaFHiIELh+WEGdoP32s2/NtJD17gXbs0wOdL1yM4OF01H9NlRXa1iJriJS24nD70vCKObjdFhoH8UC0X3tEMiRIkXjZuGheWh+JWUSmeLAtAdXR4hMcKbezF9kvSJGcR20ZlOBiuLy0/0F4DOX1ovPwPLEI+Cba7ML/xv+GqfXGmaZOCrmJQD9kH41r+ba3oWb7BhjzyzOwhjqqs0BB5/RP19rSWwSeo4QE8O5QnB+PDjoclL1piUFiWPE7Bfehg==;XLKJE+hkCXylO9b+fPV5aw=="
 ---
 

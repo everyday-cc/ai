@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-
 webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1021
     height: 739
     isCached: true
+
+related:
+  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
+    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
+    publishedDateTime: 2024-01-26T06:57:00Z
+    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "3AC5Ial8iR370QCOqFZbGF5A8xmIF9cm6h/N9OZCK8JNWrQ/+ErxxaClCMRUGTfk7uxiNTJ42lh3z6aIBGCwf7PItWe0z95C9wa79Mjk5ZTeto/mmrAInzyrGx4iD2ByM0oLUDytPqdIBUTh0zLxfxHTuSNDml2hpVSyxhXfYmqKguCXZ2s5oaRtv935Yskt0B0nm0c9+xjTLV5PaKcUZBNtMiUvXe2NvyRR5lUiEzbDEy1s1rd2IhfBOnD09xoC7CnsylFvVeb7tbajG+mSYTZ7hg81AgpWafaRYqyTmc3djIhzC2dtdzLokBNYAqvu2822sMzI5JMXbYWJD5CMeWAesLsRxnpsYhacbA1uQ+k=;c83gXjVyS3wn6xPWE9ttqg=="
 ---

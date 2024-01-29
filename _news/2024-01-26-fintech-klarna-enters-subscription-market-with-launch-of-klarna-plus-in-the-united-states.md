@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Chief Financial Officer's Role In The Fintech Evolution"
+    excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
+    publishedDateTime: 2024-01-29T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/the-chief-financial-officers-role-in-the-fintech-evolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "FinTech Focus: Catch latest developments of the week"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2024-01-25T10:33:00Z
@@ -41,6 +50,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "F|T: The FinTech Times – Brex burning bucks while Klarna mulls IPO"
+    excerpt: "One of the pandemic-era darlings of the fintech sector is stuck in a rut."
+    publishedDateTime: 2024-01-29T14:34:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-brex-burning-bucks-while-klarna-mulls-ipo/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 4
 
 secured: "VZw60lySB8kwWOYRiuE+W+GrElv/HraDpPXf536zS0+Tzc2Lr6knJZsbAKhOWbrjb8NfctikOnrOOwxWb8kbCmFtWl+/3VQK0/lkBkacOpipV4cyLhMu3RDVUf39/9FOu5h/KM66ZdtTFp/SVZ7viYX+Y5fQzWzQRGXKLiqWTLU6yswCtv+oamo8Rle/+GNuRX0IWntekN/bGZUaFmpv5X1F/TIb17PQD3rhaZHFvtQnTI/AZzettXDUHzsevUviQ0/7/o92KzD+uD4Kw10QqIgly+0LPVotWce4G76cA5hawL5KT1PL3QIWRaApHgjmI6R7K/J4nNW/saOyIPAlHZkOJLRw1dysjV4JrLalTkmZ8e/DWN1u9BtNb65aGgoCCnNmzNtyR60fXktYZAl6tfUm9Nd7ZbrAy5ZyRIUbIMKxQPu7yZagDhQnbPt3j5Ymu8qtCpU5mXy0+CzGSdbS7a+/2Wru71W5h1dX+InmbtTL5LaIAr6OsCDoPr3AKyqtJc/uKOBvc9TgGDyockyxsw==;xDRJ8CJ+I/qIrE1sZr4B+Q=="
 ---

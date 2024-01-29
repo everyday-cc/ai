@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Ryzen 7 8700G & Ryzen 5 8600G Review: AMD Zen 4 With A Potent Radeon GPU"
+    excerpt: "They feature Zen 4 processor cores, an RDNA 3-based integrated GPU, and target mainstream market segments ... Phoenix 2 also lacks the XDNA Ryzen AI NPU and it has fewer PCIe lanes. The lack of an NPU, different mix of cores, IO, and iGPU CU configurations ..."
+    publishedDateTime: 2024-01-29T14:49:00Z
+    webUrl: "https://hothardware.com/reviews/amd-ryzen-8000g-with-radeon-graphics-apu-review"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 38
+    images:
+      - url: "https://images.hothardware.com/contentimages/article/3398/content/small_amd-ryzen-7-8700g-style.jpg"
+        width: 708
+        height: 469
+        isCached: true
   - title: "TT Show Episode 19 - RTX 4070 Ti SUPER, Radeon RX 7600 XT, Apple Vision Pro, Meta AI, and more!"
     excerpt: "Kosta and Jak discuss how they fit into the current GPU landscape. It's not all GPU talk, as Jak and Kosta touch on Mark Zuckerberg and Meta's big AI push that will see them spend over $10 billion on NVIDIA GPUs. Then there's the Apple Vision Pro ..."
     publishedDateTime: 2024-01-25T23:01:00Z

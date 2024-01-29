@@ -19,31 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom"
-    excerpt: "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products."
-    publishedDateTime: 2024-01-25T16:56:00Z
-    webUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1"
-    ampWebUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
+  - title: "Building AI agents with Semantic Kernel"
+    excerpt: "How can you be sure that it remains grounded, and avoids inaccuracies and errors? One option is to work with the Prompt Flow tool in Azure AI Studio to build a test framework that evaluates the accuracy of your planners and plugins. It’s able to use a ..."
+    publishedDateTime: 2024-01-25T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.html"
+    ampWebUrl: "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg"
+      - url: "https://images.techhive.com/images/article/2015/12/thinkstockphotos-479260062-100632520-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 600
+        height: 850
         isCached: true
-  - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
-    publishedDateTime: 2024-01-26T18:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-capitalizing-on-the-artificial-intelligence-boom-1033002073"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "8JPZFlksAdax7Yl1b/FJC83DV47qGudWqos/+nT6KoStmcqWj3nZu4GefRLceL+jLlZO2MbH/cvtF16xX9ocVWFlcWeP/fd1y7eUQUO8W4lYfkWNGn3BfOmCDwcNXLMWKaAeGdmpVpFQF2eGeEKavurMaGJiYLX2mq+g+WC6mKv/UUw4sbVseq3Bl8JL0XFm3rJUsFHVEcaW6GzsRxAqltF57+rprQeh+/wWhpI4qPWaMkzBlHqYnNg7odfyR/gTm0t2zdjk9qCJCI/gzFlJp2dLuJWich3MNSLOl8Nenc9bSXtSWDpUsZ14F7nfJKXZPPG+G3B1suNrK25oxVg8MmYvczbNg1NQoAXgPGMHlvc=;SBJ6ve9F1N1xtJC7+m881Q=="
 ---

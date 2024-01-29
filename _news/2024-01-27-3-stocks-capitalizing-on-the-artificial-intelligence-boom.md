@@ -39,15 +39,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Artificial Intelligence and the arts"
-    excerpt: "Since ancient times, humans have dreamed of having mechanical servants to do their work for them. Aristotle reasoned that robots would one day bring about “equality” for all. He was"
-    publishedDateTime: 2024-01-25T10:59:00Z
-    webUrl: "https://www.thecourierexpress.com/the_leader_vindicator/opinion/columns/artificial-intelligence-and-the-arts/article_62e703a6-b4a8-11ee-986f-8bda7a9a89d7.html"
+  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
+    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
+    publishedDateTime: 2024-01-29T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
     type: article
     provider:
-      name: TheCourierExpress.com
-      domain: thecourierexpress.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "S7Wzx+F0maWmSEcpMzW/IhuDIdk2tO0IJp5O4dnhnLZMt+HNCr1Vmd7osu6quEiZFbcqzDZNeisCSIw5a9bdVC6vW0IQeT7/ZhmLXa3TK14f3sjol/G5GnBJry+8ssTa0lXOc7Pu8ESEQWBFpEt8aB1C9ZKuMzlQWDhhZIhyLbQ4IHB0w3PHA4cHMOokyrA5dEo7h0Hsa4I9ZcRABfEsuynwlPxNQuL9Flnyscc7qp9lfWx3EHTmswDg0tktvxBm2cf1VAISo60wzDj4p5F21SK2GnakPuAUu3107M9LBGad8JsHcC2WZCe8brHQCIk1SbhHDxSy3VRg3JjzATntAgndzofI9TaSM77KsR4tUCFXmA/gSUgtI0WyFeqCzcS0Vz03TUKy7JskSTisdwdWIgDEnM6dSmNUgF6Itnl8nJoP1GAApphcdDNSaqYD57VIORt47z1QTwopgXFZr3Q5rSnp6UMMwi3LW8iQn5UpGAmQ5mDsGtPjQFzOXxtQuORFSvh8aS49nNlVlMeCximcHA==;X6I/S//E7NDn5cmCasZ2aQ=="
 ---

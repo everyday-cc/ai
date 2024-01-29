@@ -62,6 +62,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
+    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
+    publishedDateTime: 2024-01-24T20:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "vriy97h01v9KzvhwBOZhWoLnfu/SAsLvxezPPqAXoQlETj8g8fTq7jPkWN4tBjuzt1vp3vlbbyoAOI//8GF7dvoZA85/kJ526GpW2ktvd7kOK2UBbAlk5wqJIdbfqSEhm2AUFMGUNhM/1wiThsayoBkffBcw9pgjo/XjDPkrMRf6fYaHMrtils51zaCygHigvwOJtwVuTyPQ0wOt6kfxChBPnCH5UjqyoAP2rujacOSmBn4Se3kskwVtlkXimWJvbxrSpKXvaHefQ+B0xLeqdH2t4AkIOLzbCC4J3xuTLGKp15dU87dusT/ukY2ClLjcipFAWNp3AxsInj8D19K83hdveICaO33zinC3onkB1B8=;ZpsuuggiJfzZsURN+VTTKA=="
 ---

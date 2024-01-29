@@ -56,6 +56,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung Galaxy S24 Ultra review: all that and AI"
+    excerpt: "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features."
+    publishedDateTime: 2024-01-29T15:36:00Z
+    webUrl: "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
     excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
     publishedDateTime: 2024-01-27T02:31:00Z

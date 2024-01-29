@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-numbe
 webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -29,24 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats"
-    excerpt: "From spam filters to spear phishing, AI is both defender and weapon. Learn how Cylance AI is staying ahead of the game,"
-    publishedDateTime: 2024-01-29T11:11:00Z
-    webUrl: "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"
+  - title: "Intel says major AI enhancements expected in Panther, Arrow, and Lunar Lake chips"
+    excerpt: "Speaking at the company's Q4 2023 earnings call, Gelsinger revealed that the company is looking to improve the AI performance of its x86 processors by as"
+    publishedDateTime: 2024-01-29T14:41:00Z
+    webUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html"
     type: article
     provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 29
-  - title: "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web"
-    excerpt: "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power"
-    publishedDateTime: 2024-01-24T14:49:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-29-image-8.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Intel Q4 earnings preview: Chipmaker to report as AI sends tech stocks soaring"
+    excerpt: "Wall Street analysts anticipate a strong year-over-year recovery for Intel’s client computing group, which encompasses the chips side of the business that sells to PC makers and enthusiasts. Analysts expect the company to report client computing revenue of $8.4 billion, up from $6.6 billion in Q4 2022."
+    publishedDateTime: 2024-01-24T22:14:00Z
+    webUrl: "https://www.aol.com/finance/intel-q4-earnings-preview-chipmaker-201429769.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
+      name: AOL
+      domain: aol.com
+    quality: 50
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/7TJ0.qq9eYigcw6Oc68Iqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/7ca2ceeb2e27b320bd775e4f33c7afb3"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "H0VlRHMuIfRuU/2UT3P+FX67V0fuM9IEqwCE6tPlosW6J5gslUsCeupuJm/sIgubBQJv9Qko101bDVygdLLPxJPphrjwG4yIMPU7cKmo7hPfjYJY1YSVAA865z5oVIpQjR4ckOEDL6LduQ3xb2a46+Wz+IJhbGocIffnIiaeS7PPSdk8fEqJ1X3jlUCDUWz1ZCaMAyeFRbNVpZb1pKkAnuBWOXAiofaRqTR2lGLkcShL051GyJf06BeIpudyPyP49GxECZAkyK5l0HcrRIK+3+tyUKI8UTGs8X92kHtNe9YcSeqDibsk+TgjNYs+25JwsBQmetqjEXCYT1SUUlwrCm/fcLbtcCk7EbIcYjp6AoZ9y7J5jor13O7K9/mlotTszUkDzJvp+b3K2Y/S4ZvzlOtdBkEFkvWJVB2pZmG471CMg3MBWul7gRvjQ3rMMfFKrVjdPCuJb0O4PcVU0kVS8i8iGNlqKYzSk6t7fGJjNrEZMIvn7YqnTq7moZgam5NkoIY4rf/NZxGQjgbL4drIaQ==;R9monb+tA/0w0nGTyghzEA=="
 ---

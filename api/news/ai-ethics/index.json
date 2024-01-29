@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-intel-says-major-ai-enhancements-expected-in-panther-arrow-and-lunar-lake-chips.md",
+      "title": "Intel says major AI enhancements expected in Panther, Arrow, and Lunar Lake chips",
+      "excerpt": "Speaking at the company's Q4 2023 earnings call, Gelsinger revealed that the company is looking to improve the AI performance of its x86 processors by as",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-29-image-8.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-qlik-launches-inaugural-ai-council-to-elevate-data-ethics-and-governance.md",
       "title": "Qlik launches inaugural AI Council to elevate data ethics and governance",
       "excerpt": "With great data power comes great data responsibility. Qlik's initiative of an AI Council adds weight to it's traditional mission of trust.",
@@ -147,6 +200,58 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-apple-is-working-on-ai-models-that-can-run-on-device-rather-than-on-the-cloud.md",
+      "title": "Apple is working on AI models that can run on-device rather than on the cloud",
+      "excerpt": "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html",
+      "originalUrl": "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1329,93 +1434,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-massive-breakthroughs-in-ai-expected-in-2024.md",
-      "title": "Massive breakthroughs in AI expected in 2024",
-      "excerpt": "Large Language Models (LLMs) and digital assistants will fundamentally reshape how people interact with software in their personal and professional lives.",
-      "sourceUrl": null,
-      "webUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/",
-      "originalUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2023/06/Macbook-15-air.jpg",
-          "width": 956,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/?amp=1",
-      "cdnAmpWebUrl": "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/?amp=1",
-      "publishedDateTime": "2023-12-26T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Memeburn",
-        "domain": "memeburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution.md",
-      "title": "5 stages of AI maturity in marketing: A blueprint for the marketing revolution",
-      "excerpt": "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "originalUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2023/Dec/img_225345_aiandmarketing_bg.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "publishedDateTime": "2023-12-26T05:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

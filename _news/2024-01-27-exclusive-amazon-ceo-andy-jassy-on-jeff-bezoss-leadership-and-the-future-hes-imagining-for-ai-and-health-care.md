@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/exclusive%3A-amazon-ceo-andy-jassy-on-jeff-bezos's-leadership%2C-and-the-future-he%E2%80%99s-imagining-for-ai-and-health-care/5dfb031b-788d-47e4-bf0d-f92ae54b0f4d/amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Fortune
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "NVIDIA and Jeff Bezos investing in Perplexity AI"
-    excerpt: "In a bold move that's catching the attention of the tech world, NVIDIA and Jeff Bezos have placed their bets on an AI startup named Perplexity. This"
-    publishedDateTime: 2024-01-24T13:58:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-and-jeff-bezos-investing-in-perplexity-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "384a0RHBiMjr1VJRzL16qN6VNJsCY9CbI1v015f5UelWkBllWwrei8nlDMiteabY5RX8ILmz5gUZE8zCW2PKRAZe9Ixz0AjkwCkl1FGEp9l0NolEFzvmn8qHFCYJPiDteJ0HX6RcZO+lHeaVgacUb1ycdCKU+iWB07M3V0OcCF6dJxCRxLaxp9ZMrYK1e3AmgrAvesSOja1utCj86kqRcz/ryyIi0LT8Schg1rlB9/XbMHAfuVpPj5tbAlEXksKf0VxPK/nP2YKrY0IGd/0xSbaY43m04EhhRTye3xs+d46pyN6KE4xxvonXctwRMyT635bNawjGR+VgmXQcon9AE7PHVJXuvZn7r+4bsyzuId3+vE+zIevGFn8NwLzl+dgYDlMUvq/zbaHP95/QuCoeNIyXD124DtfdYXBHzwI6DAnHJXpZPLu/w/1Vcw22dnsgxxYL/PjSGgtm8r6XDs/ai0TeLMwqRXJ2D/4/RbdCGiIqCbCnCWNqIVuuJPaIeBGtVMMkhI9plG5jCYQ2uP9+Kg==;3BXtcNgZjnrvy5BZxnVEWg=="
 ---

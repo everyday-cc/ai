@@ -28,6 +28,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
+  - title: "3 Stocks That Could Be Surprise Artificial Intelligence (AI) Winners in 2024"
+    excerpt: "2023 kicked off an arms race in artificial intelligence (AI). Big tech companies spent heavily on software development and specific chips from companies like Nvidia to train their AI models. As a result, investors saw a few select chipmakers emerge as big ..."
+    publishedDateTime: 2024-01-29T14:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU-Q/pressreleases/23667927/3-stocks-that-could-be-surprise-artificial-intelligence-ai-winners-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
 
 secured: "T183tLq9AMpgZgmeHXboT0M86xNAZvC8RpATyyp9OdJNJzGe33iWnVyErWgp587mIeBQYNEfRAISxsjOd+h2HUKcpyIgijjeUDahLquUpFPcRMRzh+koax7PkwanL/mPKDLOf3SDzb0F9zW7iiFKxB/u/2y/zXFuJFwrQPsNmXwPHPOu3Mp9qfTnHj/0IlC9lQCF4KEFQ2Dk1h++zjxUo/Dk1F2+dDLsYJaETrA0Gu5MV7dipo2zq4tnmJh0/1+Ma6xIm6Bjcs3AB1uxYd2EIUpgvwuG6iGNsaBcSCZjfejvgelwqif2JXlC82cV4i8IJfLfKnrWe5zbJCL4RlNwoVnalXFEdNtCk65ZYFCe9bUi9zTudEKylLLTC8lF4/lx0FRkUsziXeHfCM4JG93GVN8NEzbvXkjwV7HnDFGjq34LjKDnJdFvoQb1mGFLp/G5wczs8YLwtG9X+ZBowpsxXmDpeG631FiW8eoCejPgUlPbjRp/fYlTZysMAPbayv8W7igExUYLr/AnTRXggGME2g==;OpQP19/ikEP8FMRADKYmFQ=="
 ---

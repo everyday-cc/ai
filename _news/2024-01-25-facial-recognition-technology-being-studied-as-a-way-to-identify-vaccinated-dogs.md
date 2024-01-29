@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition app for dogs developed to help in fight against rabies"
-    excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
-    publishedDateTime: 2024-01-24T13:15:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1032196"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 53
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "pMgNKe0zXxJMo04Fw/jUGprIjQpXktomBdek1jyDSX5d0+rQ9cGWgB6Xy3Br7oYGsLr+6V6qQYeV3Ci07FJWTYFRqPEULRmKlEkcGycvdI+Ed4lPmSIKrvLZunvnhdbKxXWf6qKckvnYVtvplRkIjbwn+fQ9s0Zp1HIwW/2Y81k3al3WDRomGK3moVfBIotrswW8pSSw7/lSiVGHv5nzwZISSDrL+MSj5aYCVrqBprSJWUW+e2gw+GDkGsJFupmJZT4r0ho73ZOgOk62aM6W/uUseUtjRpDqwa+Cc5DFNtgLXqQ05QMdsxeTetym6rFfFzM0M0N5dzERFZPxMnojvFCvd5OvKJ0D1mhcuyC0Ji0=;UYDeIi9a6Mckj8lv2MJ1/A=="
 ---

@@ -28,17 +28,6 @@ images:
     height: 304
     isCached: true
 
-related:
-  - title: "Publicis to invest 300 mln euros in AI plan over next three years"
-    excerpt: "Publicis , the world's largest advertising group by market value, said on Thursday it will invest 300 million euros ($326.94 million) in artificial intelligence (AI) over the next three years, as part of its new plan to become \"the industry's first AI-powered intelligent system\"."
-    publishedDateTime: 2024-01-25T05:34:00Z
-    webUrl: "https://www.reuters.com/technology/publicis-invest-300-mln-euros-ai-plan-over-next-three-years-2024-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
-
 secured: "ASUJyb2tEf/Krf/ccwb5h793EASj8RyVKjUZTuUleY1H/nyxVQELnJuUrhbt/VNW7XBEn2tgITp4BW28BE6KOwLNpicSB/ZbVNSRcq6nkSPRqk9+4o1+ItR5DBkLntL7keEozYJGRuL+ad2HzLnjmtnJXkktjbGPE+Q7buaOWHBDqnDozRX91btCs/Cbc9h146sKSotI6bpVVl19tw1Fx0ppt7lIHZ9dUo4istrUw0RFrPk7QOLRIzCOi58HUab4iZfdS1+QuIQ7FnTmtCq2J1ZHCTpVCEWc2D2HSZTM/1ebFapVOlS74h3gss4VupwCu3lumHHKp0k70vWk8jOzNS3uI9ppvMEbJWJQcesOXPM=;DBIhHKsh3i0QOcHNmnHTlw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/kit-eaton/google-just-teased-a-crazy-ai-video-
 webUrl: "https://www.inc.com/kit-eaton/google-just-teased-a-crazy-ai-video-generating-service-start-thinking-of-what-it-could-do-for-your-business.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "6 Ways AI Could Disrupt Your Business"
-    excerpt: "How can boards better understand the potential impacts of AI? The authors suggest six scenarios that all boards must consider — and then act upon — ranging from predicting extreme operational changes,"
-    publishedDateTime: 2024-01-25T13:15:00Z
-    webUrl: "https://hbr.org/2024/01/6-ways-ai-could-disrupt-your-business"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan23_25_4028174.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "6wdk6mwUk+WlGhGOAw/sVrdcD1VyRG6+VAJHvNDghN2K3ueIRLvBvg4iVVUvzxEfiQbefRf4xSPLrRyXleWTh9142ks4mZoplBj8riz2GhhfKBuRw+D59td+g5kDiNr5sU3P28eQIzsFswkKMqyJ3Q9S5RRek9J2+11M0GgTZlm0hzvxwpKQyNWaxu28oAu1wt8WdsCalPWlGWOkbpxbv/FqaiYv8mBS8PJHZwu4bmNoWXPUEjup7foowx3lttzEXW1UuOF58qC2HqD+hv9iRvfAHhCZjzFuL3I2QoXpPVaCpKuoelbcdwVMPHbe8H/y0OIkTNU0k+OqZtE+po3yyNk/INAaHTB5NshIOebEqMIlBJSGzGlIAv8AVn0OllNUXCbosIJxxs5HV+FtgoplZoChmYMsysxIi/VqoHQx6MqZB7vl0ZTGgHAy1ZhyTogdbBEqBJn5OYkkPZKvOfqvLjSO/VKw/svyLX6FYWpPsJnHypXq7U6ryhk1FV/4O/gbJ5Uui+zoAqAjUxHeB2b6GQ==;oh3cpZbMPKa+u+R831c9SA=="
 ---

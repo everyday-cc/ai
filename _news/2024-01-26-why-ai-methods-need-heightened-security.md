@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: The Star
       domain: the-star.co.ke
     quality: 25
-  - title: "Why AI needs to learn new languages"
-    excerpt: "These are passed to a piece of machine-translation software developed at IIT Madras ... ChatGPT-4 is much better than ChatGPT-3 at answering questions in non-English languages. However it is done, teaching AI to speak more of the world’s 7,000-odd ..."
-    publishedDateTime: 2024-01-24T14:01:00Z
-    webUrl: "https://www.aol.com/finance/why-ai-needs-learn-languages-190103985.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
   - title: "The Role of Artificial Intelligence in Cybersecurity"
     excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
     publishedDateTime: 2024-01-27T13:21:00Z

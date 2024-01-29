@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/man-says-ai-facial-recognition-163202740.
 webUrl: "https://www.aol.com/news/man-says-ai-facial-recognition-163202740.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man Sues Sunglass Hut After Faulty AI Facial Recognition Tech Led to Wrongful Arrest"
-    excerpt: "Harvey Murphy was arrested in October 2022 for the armed burglary of a Huston-area Sunglass Hut store after a facial recognition device identified him as the burglar. The only problem? Murphy was in Sacramento, California at the time of the crime ..."
-    publishedDateTime: 2024-01-24T15:13:00Z
-    webUrl: "https://reason.com/2024/01/24/man-sues-sunglass-hut-after-faulty-ai-facial-recognition-tech-led-to-wrongful-arrest/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 47
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/01/zumaglobalten922832-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "61-year-old says he was wrongfully arrested due to facial recognition technology, then sexually assaulted in jail"
     excerpt: "A 61-year-old grandfather is now suing Sunglasses Hut and Macy’s after he says he was wrongfully arrested and jailed in Harris County due to faulty facial recognition technology."
     publishedDateTime: 2024-01-26T12:47:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
+    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
+    publishedDateTime: 2024-01-26T17:11:00Z
+    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 16
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "I7BATwB6IbSyaUMqfvTZgLKigHxIp4thaHn1BXwcW7HLKWDmYBqnbY7q8M8TcSY1iVN0s6f5FFSGj0XqzxlCmFCACQsF+NdWQg3Rar7S6HV8UBOe9i9veZHJgWiImGcinuTYNpRE/QL14T8sYVWk1HrShqlsDdmKGs77vvYq4oKhojD3ovXB34OtI4vGck2YVdIMYfQ6j+f4ACUbdvs0ioM733PjzagCyNPPD24YSiZ72pdVKvxjqBYvilwKcz6mSOSZZKId7TOu8abAct8/ya0zfBBDvtQQHs8XU6A3GGz/HXIjHlu5eOSy14af9IjGaURjZPT4aByqAtrX/04W2VI0R8shJ2p5BIQVVIia80g=;AJyl+i/0e+POXnTRwLXJKw=="

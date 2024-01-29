@@ -24,6 +24,17 @@ images:
     height: 683
     isCached: true
 
+related:
+  - title: "OpenAI is getting into the hardware business in the AI arms race"
+    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
+    publishedDateTime: 2024-01-29T14:21:00Z
+    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 21
+
 secured: "sIECHbmbiXbjyk+xXmG9hv/xC3wEY0p/CXJzCNZsWPJsnxcXbgPmDL42+pRXCCobXEq2sad1dl5/xmddIKnCWGtggzRkV+S7GWH/3xjDUebuWaQHYNdpskrFHFE9pdgeXFYgXvpgARrX3soHnccD0JMG2KYddOA0b4fPFoFVPi3nrdIOKrRrDUelbBMLSHJX2gNI9HKsZSTBMX4ZPVERzsVcFMQpkIOymSS2fc/xm60fm3w57Gm0/YMRJPmZc4vLXnrI+qFbJyO1cZ+aCxAtZ6UXYawOBtU7IlNXFR5x+6TbykKkGrXtmpOhtxoZ6HOh0gVOKh4VcJuS/hdGcXCAojX4b1eJ28wZwheZ6YJvi5j1o0D0aGU6EkEpw41JW9V8dfAS/jsGqH+p3s1Q9kuqyPCNwulfX3E7LIo/alkbUBoUE5KOqy8WWE3p8jYFUZ9XPT45RPik2oj88ShZvn5IowybKCzGfedjlTXcwqqI5804j0DQTfRAfTxuzljgBoK2+9qignFOiN3MX/b725QhUQ==;LZFtWIvGtg6mAAVb8cZWPw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.md",
+      "title": "Microsoft CEO responds to AI-generated Taylor Swift fake nude images",
+      "excerpt": "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571",
+          "width": 4523,
+          "height": 3047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "publishedDateTime": "2024-01-29T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
       "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
       "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
@@ -98,21 +150,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-27-asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act.md",
-      "title": "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’",
-      "excerpt": "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt",
+      "path": "_news/2024-01-25-deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert.md",
+      "title": "Deploy a Microsoft Teams gateway for Amazon Q, your business expert",
+      "excerpt": "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get",
       "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/",
-      "originalUrl": "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 191,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2024/01/holt-nadella.jpg",
-          "width": 413,
-          "height": 549,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg",
+          "width": 1023,
+          "height": 513,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -122,14 +174,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T22:52:00Z",
+      "publishedDateTime": "2024-01-25T17:41:19Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -146,6 +198,7 @@
       ],
       "topics": [
         "AI",
+        "AWS AI",
         "Microsoft AI"
       ]
     },
@@ -158,7 +211,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -202,21 +255,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-25-microsoft-adds-two-new-indian-languages-to-translator-service.md",
-      "title": "Microsoft adds two new Indian languages to Translator service",
-      "excerpt": "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India.",
+      "path": "_news/2024-01-25-building-ai-agents-with-semantic-kernel.md",
+      "title": "Building AI agents with Semantic Kernel",
+      "excerpt": "How can you be sure that it remains grounded, and avoids inaccuracies and errors? One option is to work with the Prompt Flow tool in Azure AI Studio to build a test framework that evaluates the accuracy of your planners and plugins. It’s able to use a ...",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms",
+      "webUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.html",
+      "originalUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/thumb/msid-107145308,width-1280,height-720,resizemode-4/107145308.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-479260062-100632520-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -224,14 +277,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms",
-      "publishedDateTime": "2024-01-25T10:36:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html",
+      "publishedDateTime": "2024-01-25T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -240,9 +302,8 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1416,49 +1477,6 @@
         "name": "Redmond Magazine",
         "domain": "redmondmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-what-are-the-best-paying-tech-jobs-to-have-in-2024.md",
-      "title": "What are the best paying tech jobs to have in 2024?",
-      "excerpt": "A complete list of the highest paying roles to go for in your field: software development, cybersecurity, data science, cloud, SDLC, leadership, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

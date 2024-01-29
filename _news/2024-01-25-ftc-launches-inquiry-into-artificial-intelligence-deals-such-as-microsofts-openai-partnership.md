@@ -26,47 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
-    excerpt: "Also Read: Microsoft Represents Solid Reacceleration Story in 2024 – Bank of America Analyst Raises Forecast Radke expects a solid beat and raise and notes improving IT budgets, partially driven by generative AI where Microsoft is in a leadership ..."
-    publishedDateTime: 2024-01-24T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
+  - title: "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'"
+    excerpt: "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology."
+    publishedDateTime: 2024-01-25T15:37:00Z
+    webUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: CNBC
+      domain: cnbc.com
+    quality: 90
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microsoft-shutter_0.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Deploy a Microsoft Teams gateway for Amazon Q, your business expert"
-    excerpt: "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get"
-    publishedDateTime: 2024-01-25T17:41:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg"
-        width: 1023
-        height: 513
-        isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
-        width: 1400
-        height: 786
+      - url: "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509"
+        width: 594
+        height: 396
         isCached: true
   - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
     excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
@@ -82,15 +56,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
-    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
   - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
     excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
     publishedDateTime: 2024-01-25T14:09:00Z
@@ -105,72 +70,36 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
-    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-    publishedDateTime: 2024-01-25T17:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+  - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
+    excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
+    publishedDateTime: 2024-01-26T12:34:00Z
+    webUrl: "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
-        width: 620
-        height: 372
+      - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1530150886.jpg?quality=85"
+        width: 7571
+        height: 5046
         isCached: true
-  - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
-    excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
-    publishedDateTime: 2024-01-25T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/01/25/microsoft-uses-ai-and-hpc-to-analyze-32-million-new-materials/"
+  - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
+    excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
+    publishedDateTime: 2024-01-25T23:00:00Z
+    webUrl: "https://www.barrons.com/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    ampWebUrl: "https://www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Microsoft adds two more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T06:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP6244888337299153745034023267276247467373---1.jpg"
+        width: 768
+        height: 512
         isCached: true
-  - title: "Microsoft adds 2 new Indian languages to Translator"
-    excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
-    publishedDateTime: 2024-01-29T09:00:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 61
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
-    excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
-    publishedDateTime: 2024-01-24T15:50:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-24-2024/card/microsoft-s-journey-to-3-trillion-aided-by-cloud-growth-ai-optimism-and-big-deals-XHk5tNNJ8qOg4xrQbGNe"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 57
   - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
     excerpt: "The FTC said on Thursday that it has issued “compulsory orders” to five companies, requiring them to provide information regarding investments and partnerships."
     publishedDateTime: 2024-01-25T18:42:00Z
@@ -185,180 +114,122 @@ related:
         width: 506
         height: 338
         isCached: true
-  - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
-    excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
-    publishedDateTime: 2024-01-26T10:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58333-us-watchdog-probes-microsoft-google-and-amazon-s-ai-investments"
+  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
+    publishedDateTime: 2024-01-25T21:43:00Z
+    webUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5a1be1bea6dcd18ceedb33210235d286_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/ftc-opens-inquiry-into.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-25T05:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/impactsures-sure-platform-goes-live-on-the-microsoft-azure-marketplace/"
+  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested."
+    publishedDateTime: 2024-01-27T18:00:00Z
+    webUrl: "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+    ampWebUrl: "https://komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
+    cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
+      name: komonews
+      domain: komonews.com
+    quality: 57
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
+      - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
+        width: 986
+        height: 555
         isCached: true
-  - title: "Microsoft deviates from OpenAI with new team for small AI models"
-    excerpt: "Microsoft has formed a team to develop smaller AI models. In doing so, it wants to make AI a lot cheaper to run than it is today. At the same time, the"
-    publishedDateTime: 2024-01-24T20:32:00Z
-    webUrl: "https://www.techzine.eu/news/applications/115694/microsoft-deviates-from-openai-with-new-team-for-small-ai-models/"
+  - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
+    excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
+    publishedDateTime: 2024-01-25T18:27:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
     type: article
     provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 54
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2023/05/shutterstock_2167303377-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
-    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
-        isCached: true
-  - title: "Microsoft, Amazon and Google are kingmakers for AI start-ups"
-    excerpt: "Microsoft Corp., Alphabet Inc. and Amazon.com Inc. have invested billions in the top AI start-ups, supercharging the fast-growing AI sector and establishing the old guard of technology companies as kingmakers for a new generation of businesses."
-    publishedDateTime: 2024-01-26T03:22:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/digitaledge/tech/microsoft-amazon-and-google-are-kingmakers-ai-start-ups"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 54
-  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
-    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
-    publishedDateTime: 2024-01-26T00:59:00Z
-    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
-    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
-    type: article
-    provider:
-      name: Coingape
-      domain: coingape.com
+      name: PBS
+      domain: pbs.org
     quality: 52
-  - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
-    excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
-    publishedDateTime: 2024-01-24T17:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 41
     images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2024/01/OasisSmall_Context_003_Web_Carousel-1024x576.png"
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/2021-04-21T162907Z_733587271_RC2G0N91NZC0_RTRMADP_3_USA-BIDEN-NASA-1024x683.jpg"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
-  - title: "Microsoft adds two more Indian languages to Translator"
-    excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T09:25:00Z
-    webUrl: "https://www.deccanherald.com/technology/microsoft-adds-two-more-indian-languages-to-translator-2864237"
+  - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
+    excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"
+    publishedDateTime: 2024-01-25T19:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/"
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 41
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
-    excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
-    publishedDateTime: 2024-01-29T07:10:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36819835/microsoft-ceo-satya-nadella-reportedly-gearing-up-for-india-visit-with-focus-on-ai-opportunities"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/01/29/microsoft-ceo-satya-nadella.jpeg?width=1200&height=800&fit=crop"
-        width: 1016
-        height: 677
-        isCached: true
-  - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
-    excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"
-    publishedDateTime: 2024-01-25T17:03:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/458489-vodafone-microsoft-sign-decade-long-alliance-generative-ai.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
-    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
-    publishedDateTime: 2024-01-26T10:37:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 34
-  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
-    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
-    publishedDateTime: 2024-01-26T11:41:00Z
-    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
-  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
-    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
-    publishedDateTime: 2024-01-26T11:52:00Z
-    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 46
+  - title: "Google Cloud partners with Hugging Face to attract AI developers"
+    excerpt: "The cloud computing arm of Alphabet Inc said on Thursday it had formed a partnership with startup Hugging Face to ease artificial intelligence (AI) software development in the company's Google Cloud."
+    publishedDateTime: 2024-01-25T16:03:00Z
+    webUrl: "https://www.aol.com/news/google-cloud-partners-hugging-face-140453436.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 26
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
-        width: 1200
-        height: 856
+      - url: "https://media.zenfs.com/en/aol_reuters_29/f8d3efd91cbcb0dc4a86c897b6556f8e"
+        width: 800
+        height: 545
         isCached: true
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
+  - title: "FTC Begins Inquiry into Artificial Intelligence"
+    excerpt: "Jan 26, 2024 The Federal Trade Commission (FTC) issued orders to five companies requiring them to provide information about their investments and partnerships involving artificial intelligence (AI)."
+    publishedDateTime: 2024-01-26T18:00:00Z
+    webUrl: "https://www.rfidjournal.com/ftc-begins-inquiry-into-artificial-intelligence"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 37
+    images:
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2024/01/FTC-Adobe.jpeg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "FTC opens inquiry into Big Tech’s partnerships with leading AI startups"
+    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have"
+    publishedDateTime: 2024-01-26T17:15:00Z
+    webUrl: "https://www.orlandosentinel.com/2024/01/25/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 37
+    images:
+      - url: "https://www.orlandosentinel.com/wp-content/uploads/2024/01/FTC_AI_Antitrust_43493-4.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
+    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
+    publishedDateTime: 2024-01-25T19:43:00Z
+    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+  - title: "Big Tech’s AI partnerships draw inquiry from FTC"
+    excerpt: "US regulator seeks more information on multibillion-dollar ties between Google, Amazon and Microsoft and OpenAI and Anthropic"
+    publishedDateTime: 2024-01-25T18:48:00Z
+    webUrl: "https://www.ft.com/content/6046292f-1c6d-499b-8ed5-7e7c337c5bbd"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
     quality: 17
 
 secured: "5VRVIijFz9fySRJYoWR0/5DdftVPV6+GSrefj45EKYkMKOvtkefVSVVD5YEEMPz0RaOY3Ye9MknzYjrsPtBxwRuf5kSe4N5r/9Kgq7nXiu0aPHkLR+6e+3PkcDCc+RkqLTJuXSLWIwIbqzHpDYhi1uTm9gJLz+bSrbk0F7koGxrke648B8E/I7ohX60e9fFHSniV9wlZvHu4hHLlkcIAqAzo32JDl4lS0QTPLzSUB273MmKLXWcjsuuKy1oloxuK7MK13iF+lyvDy7STEQwl0iO1n0QKAMDCYEZT9fvNkuhaYSFtqm2yW08+LAbcbxG3bsoZfx4dRT5S+8iY9u/RIcFMslLvAUHswVYpe8auaJUxSJQqbGXD1g5/j8LOqVNF1LvwyF4NffEcBcln8P4Af0OufKrOewKS38Ynwp6APTBwz6khnoucFxPYwHksMAkJMGV2vdR+ScmxN37ICgQwEvS1lod/LRTypZpYuFcckPf2y3jIO1RyPaUDAfhg26JuEYUStFtJCNfhw1mAG/C2Ng==;/56p1inlS5ugN8iwONdwFQ=="

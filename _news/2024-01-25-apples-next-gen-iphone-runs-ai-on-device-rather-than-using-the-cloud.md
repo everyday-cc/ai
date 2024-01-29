@@ -25,61 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple aims to run AI models directly on iPhones, other devices"
-    excerpt: "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology."
-    publishedDateTime: 2024-01-24T15:39:00Z
-    webUrl: "https://arstechnica.com/apple/2024/01/apple-aims-to-run-ai-models-directly-on-iphones-other-devices/2/"
+  - title: "This new iPhone app fuses AI with web search, saving you time and energy"
+    excerpt: "With the AI summaries, you can scan the basic facts about your topic ... Arc Search kicks in other tools to help with your searches. You can easily start a new search by tapping the Search icon at the bottom. From there, a keyboard automatically pops ..."
+    publishedDateTime: 2024-01-29T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/apple-ai-list-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Apple is working on AI models that can run on-device rather than on the cloud"
-    excerpt: "Read our ethics statement. Forward-looking ... Part of this plan is to circumvent cloud-based AI in favor of locally-processed solutions. The Financial Times reports that Apple's hiring records, previous statements, and comments from analysts suggest ..."
-    publishedDateTime: 2024-01-24T18:16:00Z
-    webUrl: "https://www.techspot.com/news/101635-apple-ai-models-likely-device-rather-than-cloud.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 66
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/05/2023-05-16-image-19.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Chinese AI processor developers face challenges"
-    excerpt: "Chinese AI chip developers, including Biren Technology and Cambricon Technologies, are having tough times that could burst the AI bubble in China."
-    publishedDateTime: 2024-01-25T01:25:00Z
-    webUrl: "https://www.digitimes.com/news/a20240124PD223/ai-chip-biren-cambricon.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240124pd223_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Everyone says the iPhone 16 will get Apple’s own AI and smarter Siri – here’s why"
-    excerpt: "But Tim Cook did say last summer that Apple is investing responsibly in AI and the company “has been doing research across a wide range of AI technologies.” All of the above are indications that Apple’s own GPT product for the iPhone and Siri is ..."
-    publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://bgr.com/tech/everyone-says-the-iphone-16-will-get-apples-own-ai-and-smarter-siri-heres-why/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 36
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
+      - url: "https://www.zdnet.com/a/img/resize/b6885bc6bcd0abe4c5c8a3b58435763354bf7f61/2024/01/29/a62a9d4d-c58b-4e7d-a565-da26eb4b6bc4/gettyimages-1401267940.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "cMnSNQGDRPc3BZDc7AE4uJMT7RC058xd0KJwbLAhFRZoy9Oo2rjOUFFC5Eo6OrsAns1ukPAnUyw97OCpNGD4Amf3vHE8AVvNPnZudZjhpvpQ+lU2jWLwd896/++Ze+5IGCx2VzBIt0iVZl88eb21Ttn2BsmautQnHpJAmpnW9Jm3c1cGwskvBDX0/65a1nTSYuft7a+Eu+Y7ikBgR78Cvliz41891oGCpa2KmpUC9Do3KJenglnWkfstq+iCwi+CYtyHT69nxQsUVQBN2mHHKb9PwIYCbG4vmzngAlshHrpWMDDI4QyzYUOoDsKyRLlO4lPJaxhqrhNU9mX6NCn5tcKL2L9gWaxSKsa3IYdiSd0=;WZ2hngPO6UD1fW6SImgBsg=="

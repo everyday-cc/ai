@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predicti
 webUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predictions-2024/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,31 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Study Confirms Facial Recognition Technology’s Success in Disease Prediction"
+    excerpt: "MyAnIML used proprietary facial recognition and deep learning technology to accurately predict Infectious Bovine Keratoconjunctivitis (IBK), or bovine pinkeye, 99.4% of the time and several days before veterinarians were able to detect symptoms ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-recognition-technologys-success-disease-prediction"
+    type: article
+    provider:
+      name: AgWeb
+      domain: agweb.com
+    quality: 36
+    images:
+      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_52490.jpg"
+        width: 345
+        height: 238
+        isCached: true
+  - title: "Face recognition technology follows long analog history of surveillance and control"
+    excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit and detained in jail for 18 hours for allegedly stealing watches in 2020."
+    publishedDateTime: 2024-01-25T21:31:00Z
+    webUrl: "https://japantoday.com/category/features/opinions/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 15
 
 secured: "LOHGLOduubMfN/H5ZJ9lL7JYtT3tbUS6AEOI+6Uyg1bOYuZoyOWG85ZHkMJmyILXw6hGzE3IP9NvkmZFFswE/PrWG/ZpWOBw9lh0brZ7KYqB7Qe9VJ4MfG3FVoKMVL7sR4YtqDKKSLKpdYRLyCAK9wHPkFeMi1XexlwyJIuZekZUOEdpd3NvjMCO3TFow8VsQrFjyPXsdcKuEMcEwhe4hzCZ/QiSDOzpWXkvLb8U6KzgSFO5sUwauW5lwub3tn+U6aK8FovXt6Mabik838Yu0Q4OFxqSi7Np3ZdwmcNZ+XPCRdXr6bX9HMuTeQcjiFaykShyM6WeHYQMZqZ9/SHYYrxObOMQU/q0b4aZT1n8xrF4AHHZEahsVE3T3wy5OqpHPc8ynHfozJYK611oMFtR8/cdN/Sb9v79p1lrTvFA1EakGFjnDbw44kVEW14NaqQtO70J3R3mtK/uSBVk9/HfnjpnpL0qQiU4D6PeLkMb0egn7yLbj7PC/5PFSHq9nR6c7N13itNaQuLgVrovNyQ8IQ==;FhQneOx8nuhTK36GCv1Dsw=="
 ---

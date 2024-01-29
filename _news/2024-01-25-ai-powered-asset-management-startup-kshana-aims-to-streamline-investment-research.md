@@ -23,6 +23,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Winnow Unveils Groundbreaking AI-Powered Legal Search Assistant, Streamlining Compliance for Banks and Lenders"
+    excerpt: "ANAHEIM, Calif., Jan. 29, 2024 /PRNewswire/ -- Winnow Solutions, LLC announces the development of Winnow AI, a groundbreaking AI-powered legal search assistant designed to streamline compliance for banks, lenders, and financial institutions. The company unveiled the new product during Legalweek in New York on Monday."
+    publishedDateTime: 2024-01-29T16:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-winnow-unveils-groundbreaking-ai-powered-legal-search-assistant-/2024/01/29/9953359.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "8rwqEAseLSX0G9Gb0i5oDsyFZq5cUMyVG7ShVnFkSi0M4Oe2uUzWPDZ7a2yY89+EpoVmAtGf+77qLmO61vg4HGbdrT9AN1NWSMzw1PKWAuOgEAjb/4d3yhpYtwxfU6U5fb2xrRg62GMpl4WVtNEWoPPa4ROMsYThedUfqZvUK3TAuJIhYcoAyy2zdBMMYGTcpnUkS6gzq40RbVIzDikKKrmlCPQ2yEmS935m7ZF64P+7qj6nPLps6elqYEEBuy7EWpNrIF6/LnSoEqXonwP29GFo5KSBBCIz/CdcpPeprpmEEyjohr2EpH9FLqxvw+p2pZC/l66tSe8p9823mF+7OXghI9Ht0Hn94s7J7al6g5M=;St0r7l55vhn/69AM2IcJ1A=="
 ---
 

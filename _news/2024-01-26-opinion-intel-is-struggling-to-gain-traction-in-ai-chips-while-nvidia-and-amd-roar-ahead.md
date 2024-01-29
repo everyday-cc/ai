@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-tr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
 type: article
 quality: 95
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1608
         height: 1262
         isCached: true
+  - title: "Nvidia and Equinix partner for AI data center infrastructure"
+    excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
     publishedDateTime: 2024-01-26T12:57:00Z

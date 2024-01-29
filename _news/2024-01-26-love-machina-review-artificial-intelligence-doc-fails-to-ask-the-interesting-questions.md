@@ -54,6 +54,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Samsung Galaxy S24 Ultra review: all that and AI"
+    excerpt: "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features."
+    publishedDateTime: 2024-01-29T15:36:00Z
+    webUrl: "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 69
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Galaxy AI may have helped the Galaxy S24 series break a pre-order record"
     excerpt: "touting a variety of AI capabilities. The Korean brand allowed users around the world to pre-order the devices ahead of the January 31 in-store sale date, and it looks like pre-orders are off to a good start in one market. Maeil Business News reports that ..."
     publishedDateTime: 2024-01-26T08:49:00Z

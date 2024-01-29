@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/good-thinking/facial-recognition-app-rabies-v
 webUrl: "https://newatlas.com/good-thinking/facial-recognition-app-rabies-vaccinated-dogs"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/02/c03893c5-bcb8-44d3-9b19-c87e49653699/thumbnail/1200x630/9ed86ac5acd8d7c83bf8a08685fda1fb/gettyimages-1147997709.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition app for dogs developed to help in fight against rabies"
-    excerpt: "Researchers use the new facial recognition technology to determine the rabies vaccination of status of dogs during a rabies vaccination clinic in rural Tanzania. A new mobile phone-based facial recognition application for dogs has the potential to ..."
-    publishedDateTime: 2024-01-24T13:15:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1032196"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 53
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a0b4d667-caac-44c1-a4ff-d67dfd0c0afd/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
         isCached: true
 
 secured: "54drVfmzvRfKbL9SOxjKJlCDo8dp78rP9xNz7qJdItVfAn1PnQ9YVpsKKhGKQXxSzAdpeqI0eJy4irm0J694ZpVONv6KmxYQ4a15pNFK30Zaom1cwymZP7MtezyOS+tNCKPKnlKsYqR+VlBK7pwjobup3bIIeCj7QBr2VNn2Noufb5I2H5cyW2N+aO5gx6XBPFgz/i4EJmUZ4KH9MVzVO6YXTcGPvBwWfioDQ+K6zogdVnJDtNdg1IbCnwb+5bhzn5jGwQAH1Ia92nteXRveAJTwAUFpKURYPOePvjRuHz3ulKePkwP2WtvPMuThtbx+Ie2+Dy7ulTVK02MO6hkQrz9Ze5KQkAW3kuW3ETW8pFX0s41BwvKwmPw4/YirfOzwt2UP8P2Y/i6hobD6I1HuKcYMhh1E6fxFwmw3YJODmJ+BIy250CaRKqXnbjYwQHlW6T3YYF2WB3+4Ayk74rKohkeHKIppg2C6W/QP0j8OcdRozhpR9VNq6Z2rgs2noesAUNa0HCOOxYduci/1l+FILA==;O+OS4vvIjlfAwwKmyvGQfQ=="

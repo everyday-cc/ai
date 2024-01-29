@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 92
 published: true
 
 provider:

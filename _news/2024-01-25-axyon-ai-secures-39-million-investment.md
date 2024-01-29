@@ -40,6 +40,20 @@ related:
         width: 899
         height: 1280
         isCached: true
+  - title: "The Rise of Fintech Funding: Exploring Different Investor Types"
+    excerpt: "Are you curious about the rapid growth of fintech funding and the diverse range of investors who are fueling this phenomenon? From venture capitalists to angel investors, banks to corporations, there’s an exciting influx of funds pouring into the financial technology sector."
+    publishedDateTime: 2024-01-29T15:20:00Z
+    webUrl: "https://techbullion.com/the-rise-of-fintech-funding-exploring-different-investor-types/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/FinTech-Investor.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101642-lumiere-google-latest-generat
 webUrl: "https://www.techspot.com/news/101642-lumiere-google-latest-generative-model-can-create-brief.html"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "Google’s latest AI video generator renders implausible situations for cute animals"
-    excerpt: "On Tuesday, Google announced Lumiere, an AI video generator that it calls \"a space-time diffusion ... it can create the entire video, from start to finish, in one smooth process. Lumiere can also do plenty of party tricks, which are laid out quite well ..."
-    publishedDateTime: 2024-01-24T14:45:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/googles-latest-ai-video-generator-renders-implausible-situations-for-cute-animals/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 61
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/lumiere_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "2lFTukwKkUfuaPwsMe+xl398FS7Vzz0WxIqOyIDz4Evx9tVdIIFFM9e/t+G7JFR1lJxvayZvP6LVgtbgRP08hRCjjeqaJjt0wpevj0GLyJe2UjajwcnPeSk+QPLuV15GUcpZVgr2T0NdFCjtwSm9gtRKb39OYqr/RMp2GUPm70tuXfJuYJ09vbFlLJFOPrZvWJ4EH/b8rau2F4BsI32H/oOTGdP8zxWkjqQMEDQv4OqoogyxfESUBF0K3QL/wH/vZ8xC3h2B2AtCgNgQUZsTmSlvIqcfwaPo24akDRhO9yAkV78JqNowYWS1QP6QgQXdKzIdQz5vE3CyqrxxV8PYqFD8AFgxI2Pz2KyGeDlA4BjRW76Itr+g5vSgz3l97s0j3AmjADsXryPsVL3K6F/SQBLbPUEzBsUCRhYQZ6eDFdT3Cd43xVRL9jqrmJbnsbVy4SJxstat7SLq9UsSLZtijMAB1S76cv7/gKkBfyoerrfio8uZ/ml8MmwJ1dPAteiXTiR71X81yYJIr+pxB8KmfA==;RPhHOtROagQttoX478YyGA=="
 ---

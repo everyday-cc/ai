@@ -43,6 +43,34 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
+    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
+    publishedDateTime: 2024-01-25T21:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 85
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
+    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
+    publishedDateTime: 2024-01-25T14:09:00Z
+    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-26T12:34:00Z
@@ -56,6 +84,34 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1530150886.jpg?quality=85"
         width: 7571
         height: 5046
+        isCached: true
+  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
+    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
+    publishedDateTime: 2024-01-25T12:05:00Z
+    webUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/RAPQTDWAONALZBRKPFLSSVLCGI.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
+    excerpt: "The FTC said on Thursday that it has issued “compulsory orders” to five companies, requiring them to provide information regarding investments and partnerships."
+    publishedDateTime: 2024-01-25T18:42:00Z
+    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 57
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
+        width: 506
+        height: 338
         isCached: true
   - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
     excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."

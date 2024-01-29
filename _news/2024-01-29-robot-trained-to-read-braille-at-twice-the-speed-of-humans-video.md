@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI-powered Robot reads braille at double the human speed, 315 words a min"
+    excerpt: "Human fingertips are highly sensitive and help us make sense of the world around us. Replicating this in robots has been challenging so far."
+    publishedDateTime: 2024-01-29T16:25:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-powered-braille-robot-reads-twice-faster"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 53
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/29/image/jpeg/Jh0LSUDwnN8s575xYLGge80nmg9VgTpRSfpXHXB0.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Dwadp0mN3d6lvW6jhb/0BoLYJp71FJXQRHFX1UD9xRfCnLZc4MrEnEeJHIpYYUpP+oECMOgptYFl8HudeV7mDFTtU9IfBv/Rbd4Cf5pC/YIvy5DZgt32EoC4ptfVVj75BTicFZI3u3lbZGvt0wwhpNDjmXn2ERveczoF1fc+/E5qmfiEExPkrSQGMSN47oGyCYiTqxlyecGv+iWOyyTjZgiytuE82Rjc12G16FoUN8qWuXpcNEZuednCrefaIZE1cSZTY32QCVQoTwzG8DDfLJmwme4fVyyPUZV8H8u1L23jSUmowtfAgzYxC0pBfrzjoIsMXDkqL5UOXSIY2GR04i6rlaRXdXCDzgKiIbTVmok=;gxRX7mdG6WzZnW87ihqd7w=="
 ---

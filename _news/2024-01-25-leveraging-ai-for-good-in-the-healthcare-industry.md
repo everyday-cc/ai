@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leve
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
 type: article
 quality: 64
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -23,80 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "AI in healthcare – risks and rewards"
-    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
-    publishedDateTime: 2024-01-28T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40286158"
+  - title: "Transforming Sleep and Industry in the AI Era with Smart Mattresses"
+    excerpt: "In the realm of healthcare, AI is making significant strides towards personalized treatment strategies. IBM Watson for Oncology, for instance, utilizes artificial intelligence to assist in formulating treatment plans for cancer patients. Watson can process ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 56
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
     images:
-      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Tech, healthcare leaders to join AI startup board"
-    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
-    publishedDateTime: 2024-01-25T17:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
-    excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
-    publishedDateTime: 2024-01-25T06:30:00Z
-    webUrl: "https://www.businessinsider.com/ad-group-publicis-lays-out-300-million-ai-ambitions-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/65b16205617029e90a601387?width=1200&format=jpeg"
-        width: 1126
-        height: 563
-        isCached: true
-  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
-    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
-    publishedDateTime: 2024-01-26T05:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+      - url: "https://assets.newatlas.com/dims4/default/1c03d48/2147483647/strip/true/crop/1800x945+0+128/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2Fa8%2Fc23cf9ea41c19e6bc43c449c89ba%2Fnew-altas-4-lead-image.jpeg&na.image_optimisation=0"
         width: 1200
-        height: 575
+        height: 630
         isCached: true
-  - title: "Expertini Analyzed How Artificial Intelligence Is Impacting the Recruitment Industry: A Revolutionary Age in Computing Catalyst"
-    excerpt: "Expertini has integrated the Resume-Score tool in all its global regions, utilizing natural language processing (NLP) and machine learning algorithms to effectively analyze applications based on job descriptions."
-    publishedDateTime: 2024-01-24T20:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951864.htm"
+  - title: "Artificial Intelligence in Business: Transforming Industries"
+    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
+    publishedDateTime: 2024-01-27T09:15:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "LLJvLpg7u8xwP0bu2nU3OFSKaZz90iOvWceo8WgLUBctmMcy2RBoXmCZEctXWue9wd1tHjTV4xr4eeAB37IzfWMEGNMALba5W4NfS/dTGyIxFMVsAS3G85HwZwHBYfmUTQFdYMoDSy+fjJ9jQQd9ZK3WU0J+utIUWaLx3xtsq4eqt8ML8eqMYiGXAszGKCpJLKrt1iyNkFM+iu6mYEJxBRphNXrKEaiavo2iqW5yDdMDHcD3cS/WTo5sSk/eW8KLoVqvGbna2+3j5oKcADxq0krLXICFzApLUAhpa0eoJCVaqS3UI9Kew9voaabf1cWrzSqrH6cRzgZ+Yde272wvmCMV3KPCyTIArkkqqQ7BRl2JKMawhdvNpCjVuTN8Si/7HNJcRHyQ0UO4BoXQ7zo4nwTDETnjcEWO7PId9+E7RLPcxRmC9ZQJSAuREv7/26y6nUiwbb0/iRwQAM+me5dGBH49UwkmXyd2wmoShTL3+NsupWAWlZRcTPBeXtwaxiHKcgrvEZBRRYmZC4DA/s/tqQ==;FvJa9xaGTI5yVeJ9LoqT0A=="
 ---

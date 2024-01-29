@@ -51,17 +51,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Biden administration, tech giants partner for AI research program"
-    excerpt: "and nine other federal agencies to launch a pilot program aimed at creating a shared AI research infrastructure, the government announced Wednesday. The launch of the pilot program for the National Artificial Intelligence Research Resource (NAIRR ..."
-    publishedDateTime: 2024-01-24T16:38:00Z
-    webUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/"
-    ampWebUrl: "https://thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4426486-biden-administration-tech-giants-partner-for-ai-research-program/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
   - title: "Tech Giants Take a Beating at FTC's AI Summit"
     excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
     publishedDateTime: 2024-01-26T06:52:00Z

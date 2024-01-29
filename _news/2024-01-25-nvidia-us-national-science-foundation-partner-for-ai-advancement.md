@@ -19,66 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"
-    excerpt: "The National Science Foundation on Wednesday launched a sprawling new AI infrastructure program aimed at increasing the access of computing resources to more"
-    publishedDateTime: 2024-01-24T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/01/24/nairr-openai-nvidia-meta-nsf-nasa/"
+  - title: "Variational AI Announces Generative AI Project With Merck"
+    excerpt: "Press Release Variational AI, developer of the Enki™ generative artificial intelligence (AI) platform for drug discovery, today announced a project with Merck Research Labs supported by the CQDM Quantum Leap program."
+    publishedDateTime: 2024-01-25T12:26:00Z
+    webUrl: "https://venturebeat.com/business/variational-ai-announces-generative-ai-project-with-merck/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0785665f27caee4881109/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AI Stocks Alert: Palantir, Nvidia, and More Team Up for AI Research Program"
-    excerpt: "Earlier Wednesday morning, the National Science Foundation (NSF) announced that it will team up with some of the top-flight names in technology to launch the National Artificial Intelligence Research Resource (NAIRR) pilot program. Naturally, this ..."
-    publishedDateTime: 2024-01-24T13:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-stocks-alert-palantir-nvidia-and-more-team-up-for-ai-research-program-1032993879"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-  - title: "Nvidia: Don't Chase AI Too Far"
-    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
-    publishedDateTime: 2024-01-29T00:59:00Z
-    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
-  - title: "Seeed Studio Accelerates Vision AI and Generative AI at the Industrial Edge with NVIDIA"
-    excerpt: "Seeed Studio, an Elite partner of the NVIDIA Partner Network, today announced it is bringing NVIDIA Metropolis Microservices on Jetson to their reThings hardware platform, powered by NVIDIA Jetson Orin."
-    publishedDateTime: 2024-01-24T13:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/24/9951478.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "NSF launches AI research hub"
-    excerpt: "The pilot program will last two years and provide computing power, data, software and training to researchers."
-    publishedDateTime: 2024-01-24T16:01:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/01/24/nsf-launches-ai-research-hub"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
 
 secured: "xt2qPwnqyRuQkEzll5XVohNDav+YmcoiRYqZs4rVi0/4pE/riDpzvESexBNtLc6bFC9hXbG5zH8ZI4prSYUM4Qr2ujrxWv4YGhUq473gwlBiSaBRN5Rc+9l3gMORn2tchlxptOFzgu7bCXsr5tDP1oolEose4Bh7nHMPSzjoTDykiVNI7s8qTShPWndjlulrbEitWDYK8HapwsSawkOA9L+Sd9lYf7m75z6f5BLTt51S8tp9nRISp7npZy6Vdbcjwr1RNeuDvRJ3TqYTpHjtZ2HIv4DqzuzjUGhnO1uxlKpC0geis7y6CWF0QiEj6QfDWYa7mGlLSDqPYobOhNErdZ743q8px+l+nd+O0knghU0Gl7ZmB2pSkOmojtz7nbE1RhAqB2n3f+JoL/RmNldT367h5VXe3jieWMJatr9kgJ25O9rnxpkV8kZNntZVk7q5You+PFqDfD/iUG8AJtV3S60TS1QMLzKL2o6wrMR4PfkoVetJpBVIri2NByPCaTC3llmEedgUOL3yHn3/H6NYRg==;ut81C8cYh6P4YN4NxgqLFA=="
 ---

@@ -25,6 +25,22 @@ images:
     height: 717
     isCached: true
 
+related:
+  - title: "Use These Apps to Stop AI From Stealing Your Art"
+    excerpt: "Note: There are non-GPU Windows versions that may work on other PCs that don ... A higher intensity will have a stronger effect against the AI, but will also result in more visual changes to the image. Adjust the render quality. Higher settings will ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 39
+    images:
+      - url: "https://lifehacker.com/imagery/articles/01HN4DG8KERSQ5HJ52GZMVTWMG/hero-image.fill.size_1200x675.png"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "asvI4yo6F7vHXwMWttQlidZZvaPdhKYllm273keHs5xAEDD+Kt7wpwA3R39eWQvbZEkcMmtOlJgM/sN8OEDwJK/t55ALO48L1AxrFsu5sC/ugZ1BT31252mEdfgY4Qx6gji2tTSHJBb6IE8xtILMk3RamnY7mFh/3OQmjF6zsVjdv/Ug568VIENmWT0ji1lSv+lkmMsRaKqR2EfIzXMKILt2F5/KWgJjvdPBN3kU7Qj6UCjoHkIDmc5LDlpbVEuyqJiXW3k2u4/vPS4G9h8cLxFw2pjy1qb3ek4Y1hVu8heR0AMJhjsIoW1I93TDgzV+mr0dCYzZdgCpzrJ9AafMDewfaiuodChKxdvkfTpEcCgnV0SDMosp7k2F4jsFZg3dWbOmMBH0zQw0IbTOg4zZYu27DYOD1s8y9dUv9Y5AaM0PpHrABwHdx8TAI02HP3MkBxCYTHKmqYT3sp9LlLt406m/xgirgE6rTV9Fad7yIkhNWTDvZ1wRpHplHLFVYVQth18LVVFO4/w5wga1TwpYsg==;J7yFi8lrM1FGIzZajwtAcw=="
 ---
 

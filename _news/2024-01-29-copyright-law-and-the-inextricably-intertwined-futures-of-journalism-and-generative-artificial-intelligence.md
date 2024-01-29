@@ -126,15 +126,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 18
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
-    publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
 
 secured: "VI6xWLZ1ibpCxmGMpmFWyg5tUm1jSgmhlh0a//yXMXHMAaZyltxenMiYoi9V+R6b41aQkqlpbF4cW1zhLBKbkTkVq43OemYKwd4+w0Lz7aQCcFJRN4a6Bs077wtXtZtN/kMi1Bscc6kaCwmky6OuoKGcJ6SRGuKRh62rzuEX1rQIhaVz9AI5AWFdFsDWU7VP3s896vpxhDYRpTrKMEZmiS48MGx65fln13mYCSzYseMZNbwedjNsfPDr8UhnSJzRMovYtDFOdqQF2vQ8XlnMDxPUaZ6iBk33wUSRivKt17zJKwlipKCG6NYV43JaFnzJ4vVdq+8+Yh8WN3OAFJ9p6Yeql5IN54jZTceox/0cv9Q=;mOSLg9EucRaGjm+mm+yLhA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/microsoft
 cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/microsoft-adds-two-more-indian-languages-to-translator-total-tally-at-20-124012500298_1.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft adds two new Indian languages to Translator service"
-    excerpt: "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India."
-    publishedDateTime: 2024-01-25T10:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107145308,width-1280,height-720,resizemode-4/107145308.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Translator adds two new languages, Chhattisgarhi and Manipuri"
     excerpt: "Further, the company now claims to cover more than 95 per cent of the Indian population in terms of its language support options in Microsoft Translator"
     publishedDateTime: 2024-01-25T12:53:00Z

@@ -25,100 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Analyst Bullish On Q2 Prospects With Strong Azure, AI Growth"
-    excerpt: "Also Read: Microsoft Represents Solid Reacceleration Story in 2024 – Bank of America Analyst Raises Forecast Radke expects a solid beat and raise and notes improving IT budgets, partially driven by generative AI where Microsoft is in a leadership ..."
-    publishedDateTime: 2024-01-24T14:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-q2-prospects-with-strong-azure-ai-growth-1032993888"
+  - title: "Microsoft CEO responds to AI-generated Taylor Swift fake nude images"
+    excerpt: "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week."
+    publishedDateTime: 2024-01-29T13:14:00Z
+    webUrl: "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microsoft-shutter_0.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571"
+        width: 4523
+        height: 3047
         isCached: true
-  - title: "Deploy a Microsoft Teams gateway for Amazon Q, your business expert"
-    excerpt: "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get"
-    publishedDateTime: 2024-01-25T17:41:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-a-microsoft-teams-gateway-for-amazon-q-your-business-expert/"
+  - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
+    excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
+    publishedDateTime: 2024-01-26T22:52:00Z
+    webUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 91
+      name: GeekWire
+      domain: geekwire.com
+    quality: 72
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/25/deploy-microsoft-teams-amazon-q.jpg"
-        width: 1023
-        height: 513
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/01/holt-nadella.jpg"
+        width: 413
+        height: 549
         isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
+  - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
+    excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."
+    publishedDateTime: 2024-01-29T05:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
     images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
-        width: 1400
-        height: 786
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-10-Mar-2023-10-52-AM-8936.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
-    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
-    publishedDateTime: 2024-01-25T21:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
+  - title: "The Fallout From the Taylor Swift AI Porn Could Be Huge"
+    excerpt: "Earlier this week, AI-generated porn featuring Taylor Swift started circulating on X (formerly Twitter). Swifties were scandalized. Polite society was incensed. Swift herself hasn’t publicly commented on the scandal but it’s easy to imagine she’s probably not thrilled about it."
+    publishedDateTime: 2024-01-26T17:20:00Z
+    webUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
-    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
-    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
-    publishedDateTime: 2024-01-25T14:09:00Z
-    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg"
         width: 1200
-        height: 598
-        isCached: true
-  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
-    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
-    publishedDateTime: 2024-01-25T17:26:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 73
-    images:
-      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
-        width: 620
-        height: 372
+        height: 675
         isCached: true
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
@@ -129,74 +94,30 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Microsoft adds two more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T06:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
+  - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
+    excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
+    publishedDateTime: 2024-01-29T11:09:00Z
+    webUrl: "https://www.nasdaq.com/articles/preview-microsoft-set-for-ai-powered-revenue-surge-as-stock-pulls-ahead"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft adds 2 new Indian languages to Translator"
-    excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
-    publishedDateTime: 2024-01-29T09:00:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
+    excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
+    publishedDateTime: 2024-01-26T15:36:00Z
+    webUrl: "https://www.cbsnews.com/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
+    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 61
+      name: CBS News
+      domain: cbsnews.com
+    quality: 56
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/08/acd6305a-ba64-44fc-9d13-bb9a78cd7208/thumbnail/1200x630/10200a0442733918c2d545efb616e0f9/gettyimages-1916486593.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
         width: 1200
-        height: 720
-        isCached: true
-  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
-    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
-    publishedDateTime: 2024-01-25T12:05:00Z
-    webUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/RAPQTDWAONALZBRKPFLSSVLCGI.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Microsoft’s Journey to $3 Trillion Aided by Cloud Growth, AI Optimism, and Big Deals"
-    excerpt: "Microsoft’s market valuation crossed $3 trillion for the first time Wednesday, the latest landmark that the nearly 50-year-old software has passed with increasing speed. The stock, recently up 1.3% to above $404, has yet to close above that level, $403.65."
-    publishedDateTime: 2024-01-24T15:50:00Z
-    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-earnings-01-24-2024/card/microsoft-s-journey-to-3-trillion-aided-by-cloud-growth-ai-optimism-and-big-deals-XHk5tNNJ8qOg4xrQbGNe"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 57
-  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
-    excerpt: "The FTC said on Thursday that it has issued “compulsory orders” to five companies, requiring them to provide information regarding investments and partnerships."
-    publishedDateTime: 2024-01-25T18:42:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 57
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
-        width: 506
-        height: 338
+        height: 630
         isCached: true
   - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
     excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
@@ -212,33 +133,21 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Impactsure’s SURE platform goes live on the Microsoft Azure Marketplace"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-25T05:56:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/impactsures-sure-platform-goes-live-on-the-microsoft-azure-marketplace/"
+  - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
+    excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
+    publishedDateTime: 2024-01-28T17:42:00Z
+    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671"
+    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 54
+      name: BBC
+      domain: bbc.co.uk
+    quality: 55
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
-    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CF56/production/_132487035_gettyimages-1917155488.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft, Amazon and Google are kingmakers for AI start-ups"
     excerpt: "Microsoft Corp., Alphabet Inc. and Amazon.com Inc. have invested billions in the top AI start-ups, supercharging the fast-growing AI sector and establishing the old guard of technology companies as kingmakers for a new generation of businesses."
@@ -251,45 +160,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 54
-  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
-    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
-    publishedDateTime: 2024-01-26T00:59:00Z
-    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
-    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
+    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
+    publishedDateTime: 2024-01-25T20:30:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
     type: article
     provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 52
-  - title: "Bring virtual connections to life with Microsoft Mesh, now generally available in Microsoft Teams"
-    excerpt: "Microsoft Mesh is now generally available. Experience Mesh today in Microsoft Teams and elevate your meetings with immersive virtual spaces."
-    publishedDateTime: 2024-01-24T17:00:00Z
-    webUrl: "https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 41
-    images:
-      - url: "https://www.microsoft.com/en-us/microsoft-365/blog/wp-content/uploads/sites/2/2024/01/OasisSmall_Context_003_Web_Carousel-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft adds two more Indian languages to Translator"
-    excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T09:25:00Z
-    webUrl: "https://www.deccanherald.com/technology/microsoft-adds-two-more-indian-languages-to-translator-2864237"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 41
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 45
   - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
     excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
     publishedDateTime: 2024-01-29T07:10:00Z
@@ -304,61 +183,38 @@ related:
         width: 1016
         height: 677
         isCached: true
-  - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
-    excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"
-    publishedDateTime: 2024-01-25T17:03:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/458489-vodafone-microsoft-sign-decade-long-alliance-generative-ai.htm"
+  - title: "Deepfaked nudes of Taylor Swift show we need AI regulation now: experts"
+    excerpt: "Mohit Rajhans, Think Start media and tech consultant, told CTV News Channel on Sunday that “we’ve turned into the wild west online,” when it comes to generating and spreading AI content. \"The train has left the station, artificial general ..."
+    publishedDateTime: 2024-01-28T23:34:00Z
+    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/deepfaked-nudes-of-taylor-swift-show-we-need-ai-regulation-now-experts-1.6745906?clipId=104069"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 37
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://www.ctvnews.ca/polopoly_fs/1.6745918.1706483708!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
-    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
-    publishedDateTime: 2024-01-26T10:37:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
+  - title: "Microsoft CEO Satya Nadella likely to visit India in February, expected to meet AI start-ups: Report"
+    excerpt: "as well as Bhavish Aggarwal's AI startup Krutrim, among others, in Mumbai and Bangalore. These interactions are poised to explore new opportunities and reinforce Microsoft's commitment to leveraging technology for expanding possibilities in India."
+    publishedDateTime: 2024-01-29T14:09:00Z
+    webUrl: "https://www.businesstoday.in/tech-today/news/story/microsoft-ceo-satya-nadella-likely-to-visit-india-in-february-expected-to-meet-ai-start-ups-report-415278-2024-01-29"
     type: article
     provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 34
-  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
-    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
-    publishedDateTime: 2024-01-26T11:41:00Z
-    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
+      name: Business Today
+      domain: businesstoday.in
+    quality: 19
+  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
+    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
+    publishedDateTime: 2024-01-27T20:27:00Z
+    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
-  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
-    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
-    publishedDateTime: 2024-01-26T11:52:00Z
-    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 26
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
-        width: 1200
-        height: 856
-        isCached: true
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 15
 
 secured: "vvStQnPvfHQ+7JfaUqf0aXUv1uyBi5i7XNPS9idxOXUlPeJfholWKFFn2DlmtGZku32jeOuSAducH2Q9OBkR/+gfsYCXUjeZfgJkIS49rIoxXptkY59tMkGF21J9LsNV7jI0KBW/L9Q1v2y6qjH6wk9A6nQg1ddB+QzX6hcyxq7tuYPIT2QEM2oCGbpWsJIanmW0mDwLTnbLuZMWTIln3jk2CwlyqdQUcAG8dEzb00BDT9jMxT5elNMeUX2rVxDL377YfdooWyLa9Lgu1py52hI0KPIPXSUGExVjyj7YH6wiVCDmypI10hsaU5C3YCVhuWRoO4RB/LGu+FL6M8Cd3eyd834rR+NklabB7Ali1CmTKioUjO7nRvOTOv70NB8h2f+wLxlAHZp9cmXtTpQGKp0jlocY0eK8ssQqJAWKNnOD12+Z41s6D0uY8FDTGp8moTK0mWsp/x2MFYJBnL7KWkyPGyrj4MdqrFfGRG3lG6NeunuWqErgzp70SJCNyz2XZuCspn+irbeWllyexPpraw==;LkgMtvCOoVg+dTvlMNmDxw=="
 ---

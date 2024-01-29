@@ -123,15 +123,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 18
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption at Scale"
-    excerpt: "DUBAI, United Arab Emirates and AUSTIN, Texas, Jan. 24, 2024 -- Oracle today announced the general availability of the Oracle Cloud Infrastructure (OCI)"
-    publishedDateTime: 2024-01-24T15:47:00Z
-    webUrl: "https://www.datanami.com/this-just-in/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-at-scale/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 8
   - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
     excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
     publishedDateTime: 2024-01-29T00:00:00Z

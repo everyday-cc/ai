@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-76
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ryzen 7 8700G & Ryzen 5 8600G Review: AMD Zen 4 With A Potent Radeon GPU"
+    excerpt: "They feature Zen 4 processor cores, an RDNA 3-based integrated GPU, and target mainstream market segments ... Phoenix 2 also lacks the XDNA Ryzen AI NPU and it has fewer PCIe lanes. The lack of an NPU, different mix of cores, IO, and iGPU CU configurations ..."
+    publishedDateTime: 2024-01-29T14:49:00Z
+    webUrl: "https://hothardware.com/reviews/amd-ryzen-8000g-with-radeon-graphics-apu-review"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 38
+    images:
+      - url: "https://images.hothardware.com/contentimages/article/3398/content/small_amd-ryzen-7-8700g-style.jpg"
+        width: 708
+        height: 469
+        isCached: true
   - title: "Minisforum HX100G Gaming Mini-PC packs AMD Ryzen 7 7840HS and Radeon RX 6650M GPU"
     excerpt: "Minisforum's new HX100G Gaming Mini-PC system features AMD Ryzen 7 7840HS 'Phoenix' APU and Radeon RX 6650M GPU, with a stylish design."
     publishedDateTime: 2024-01-29T02:10:00Z

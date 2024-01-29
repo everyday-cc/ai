@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-robot-trained-to-read-braille-at-twice-the-speed-of-humans-image.md",
+      "title": "Robot trained to read braille at twice the speed of humans (IMAGE)",
+      "excerpt": "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/multimedia/1013207",
+      "originalUrl": "https://www.eurekalert.org/multimedia/1013207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e0364dda-1617-4216-8aa3-55a31a28b380/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
       "title": "Why are so many robots white?",
       "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
@@ -42,58 +85,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-the-fallout-from-the-taylor-swift-ai-porn-could-be-huge.md",
-      "title": "The Fallout From the Taylor Swift AI Porn Could Be Huge",
-      "excerpt": "Earlier this week, AI-generated porn featuring Taylor Swift started circulating on X (formerly Twitter). Swifties were scandalized. Polite society was incensed. Swift herself hasn’t publicly commented on the scandal but it’s easy to imagine she’s probably not thrilled about it.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828",
-      "originalUrl": "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -244,7 +235,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -286,58 +277,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love.md",
-      "title": "AI is for everyone: Prompts to help you with work, life, school and love",
-      "excerpt": "Where should we start?\" Find a date: Most people are blank, staring at that dating profile screen. It’s hard to talk about ourselves! Instead of going too serious, over the top or self-deprecating, see what AI comes up with. Try it: \"I need to create a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
-      "originalUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d82d0b5-ce16-415b-ac50-c309419796e2/57376624-6d61-4e7a-898e-04ec81ef53d2/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-everyone-prompts-help-work-life-school-love.amp",
-      "publishedDateTime": "2024-01-24T22:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Robotics"
       ]
     },
@@ -1360,6 +1299,49 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
+      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
+      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

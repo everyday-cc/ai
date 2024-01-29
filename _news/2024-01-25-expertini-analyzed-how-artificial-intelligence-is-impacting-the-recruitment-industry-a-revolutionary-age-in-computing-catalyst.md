@@ -19,79 +19,56 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Leveraging AI For Good In The Healthcare Industry"
-    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
-    publishedDateTime: 2024-01-25T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
+  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
+    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
+    publishedDateTime: 2024-01-25T13:36:00Z
+    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "AI in healthcare – risks and rewards"
-    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
-    publishedDateTime: 2024-01-28T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40286158"
+      name: Newsweek
+      domain: newsweek.com
+    quality: 40
+  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
+    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
+    publishedDateTime: 2024-01-28T12:25:00Z
+    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
     type: article
     provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 56
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
     images:
-      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
-        width: 640
-        height: 480
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Tech, healthcare leaders to join AI startup board"
-    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
-    publishedDateTime: 2024-01-25T17:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
+  - title: "UK researchers using artificial intelligence to revolutionise traditional industries like farming"
+    excerpt: "Researchers in Britain are using artificial intelligence (AI) to revolutionise traditional ... but we want to leverage AI to do things these days.” Mini robot tractors and pesticide-spraying drones are technologies that could become common."
+    publishedDateTime: 2024-01-25T08:42:00Z
+    webUrl: "https://www.channelnewsasia.com/world/uk-researchers-using-artificial-intelligence-revolutionise-traditional-industries-farming-4070646"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 26
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Publicis just laid down the gauntlet on the ad industry by pledging to invest more than $300 million in AI"
-    excerpt: "platforms and AI models, such as those provided by Microsoft Azure OpenAI, Eleven Labs, and Stable Diffusion. Publicis said that work that used to take weeks — like drawing up a media plan, and identifying industry trends and competitor moves to quickly ..."
-    publishedDateTime: 2024-01-25T06:30:00Z
-    webUrl: "https://www.businessinsider.com/ad-group-publicis-lays-out-300-million-ai-ambitions-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/65b16205617029e90a601387?width=1200&format=jpeg"
-        width: 1126
-        height: 563
-        isCached: true
-  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
-    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
-    publishedDateTime: 2024-01-26T05:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--iHkBxm12--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2024/01/24/screenshot_863.png?itok=PhlBIYD-"
         width: 1200
-        height: 575
+        height: 676
+        isCached: true
+  - title: "Budget 2024: Navigating the future of India's fintech sector"
+    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
+    publishedDateTime: 2024-01-29T08:33:00Z
+    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "fZ2RXbCZ58G+NMPzC8vnIxhxbqu0cJATYp9lMY/zoG7xu+Lm32+4WYi/lE/o9XqFu93vZ+wjC2KGeDQt3e/M2drSOVpVR0lX/5PcDZRU8+Lg+JDkSWe+Ud6YvyY//RYgC/s8uAxcVdCHf2Djsfp+PiNjM5kWNamGf1o440LEyYj99qnaI/up5nY03y7/tthbP+mrhOTm7U+l6/U8xg0tW9HgqQ4CnsUUQpyDEOTsegUpp4yIJ2695CpG/rmZlHU402Jo1KRx2mA15vSYFyB2zEF37czUSgiEoj6JwjraE53aa0BUxOLwWIZZeSeTJNTAaJ+WkOIPfhCB5VP9gmIicNoAzA2p3aBx1RRcGt/EHSg=;SEJi8VNrdGNhGkc8nw/wXw=="

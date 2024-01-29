@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
+    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
+    publishedDateTime: 2024-01-26T10:37:00Z
+    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 34
 
 secured: "5JYUdjDBQn+qm4YZHocU7nOiq+XSI740c8Jd2qkk0APBDoEloX+V2jnEECOGuFQFeE9TyPKp09Gyr9OtVajDJexGMHqTDsbxRInqaj8dsbZznb/cgV+KcIcldYDOb3epJEFEqGx5fHXguBZ16I5S16yEn1SENtJ3QuIm7H428ONFbeuR8YcZBaqX4Cz+t4uwKUOO6mBtjxc1TRvdmjMn7yJKOL+ZqEMWjDpSva8le05vnyu3038RL3P4YNt94SxuqY0yOYPBv/JZA9HysPE3uyvdQ3ZfHg0TYN10/K+u5GSaom3q5xOxMoQpvwKNw4zVJHLaRkH1JssdUMpj9uhRHyXHJchw/CnGvH6P+uq9iIs=;QyFTa7LDawUPnSfhjcRzEQ=="
 ---

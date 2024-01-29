@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man Sues Sunglass Hut After Faulty AI Facial Recognition Tech Led to Wrongful Arrest"
-    excerpt: "Harvey Murphy was arrested in October 2022 for the armed burglary of a Huston-area Sunglass Hut store after a facial recognition device identified him as the burglar. The only problem? Murphy was in Sacramento, California at the time of the crime ..."
-    publishedDateTime: 2024-01-24T15:13:00Z
-    webUrl: "https://reason.com/2024/01/24/man-sues-sunglass-hut-after-faulty-ai-facial-recognition-tech-led-to-wrongful-arrest/"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 47
-    images:
-      - url: "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/01/zumaglobalten922832-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
     excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
     publishedDateTime: 2024-01-25T16:32:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
+    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
+    publishedDateTime: 2024-01-26T17:11:00Z
+    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 16
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "PFfHWlXW4tvZhhCrg+i/GMOCbcZdPGdUn/kcaqQwJ71qnTGA8f5HWp1C2Opqi4ZoBYhJXxhRe95Lkh/CGDrI0x6UAjzTNh7iWwhHZdduTGDwHyK+jE4n8Sps4EgzpegmoePmccM6/X0ytfvaT5dH5ROFavJt9gXCxqGn3ey9Wndg9BJh4uEG9sfmGX33mbuemcEYGhHQo91zWefMa06J9X8b5g6DT8kfxoNQo/zeBp1lk+ncgkrqEOmtk0xu1af+szC9QSKMDtlsXcDQbkCFszofNd5faxKzIIuivfdwMqFbimPw2SI3zjv7GOg0O/SDJbMOz8bofay5I9troQeOX17Fc6TCrfylS4PrlckKZg/iFKcAOOwFhfUXqVRGD7xr/n47J5A7RDXfRehuSoz2sb56k+wRVBWij/Boj7TpO7PwrNGffm9q7lDzicY83vRWGqAiEAJeYgLXkZrNJ5nNaYQohWzkxJJVkoLNGAbx+qDOlrg4ynEGphV/noHC5CPe7pkRtLX7qbClp5c7dzbHEg==;LLkuBya/39kYVR9b9dymcg=="
