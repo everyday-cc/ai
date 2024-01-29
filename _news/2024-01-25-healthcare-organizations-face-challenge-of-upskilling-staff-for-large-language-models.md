@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/healthcare-organizations-face-challenge-of-upskilling-staff-for-large-language-models.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "World Health Organization (WHO) Lays Out Crucial Warnings About The Use Of Generative AI And Large Language Models In Medicine And Health"
-    excerpt: "In today’s column, I am continuing my ongoing series about generative AI in the medical and health domain by taking a close look at the recently released World Health Organization (WHO) report entitled “Ethics and Governance of Artificial Intelligence ..."
-    publishedDateTime: 2024-01-24T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/24/world-health-organization-who-lays-out-crucial-warnings-about-the-use-of-generative-ai-and-large-language-models-in-medicine-and-health/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b0c0c0a8706b21e2c100bb/0x0.jpg?format=jpg&crop=3240,2160,x51,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "CSFynRtkpLUbvg1UVDMfBpYFlcYuksHVfOgQdy8KPnrBWU/qUbcUfrUDJjmLsEVROLuo6LaKEJkgWgTy+2wjgKGoa3mCO/wQGNYTK5xpUobLZXGIg47xbdKiIaroLhoi5uvvhJjyFgB8ZLq4/lirN8nt3JO/Da3JOn+GjHbyLZyMWzL1llBVi5Rq3Qv52q1tZ2KwFbFNh1p9FASXLpGeoS1PPPh4TGTRQ+EJ8ti7UAfyDAW9B2ih4iyaio2wmhqm/g2laVmM5KNKrHwkLuKo+VeGWb3b5euZCsv5vBltluPVUJ1o5YaYWZ4JkMq1a7UFPJxIP2A/9vtAYKQ/4CJ8kj2NnQwbYvpAPdIkQ09S300=;HBfFydp33MBMpX5NbeOjDA=="
 ---

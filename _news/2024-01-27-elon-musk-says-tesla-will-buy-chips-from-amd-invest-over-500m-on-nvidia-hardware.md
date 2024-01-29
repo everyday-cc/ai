@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk's Tesla loads up on AI hardware to improve self-driving software"
+    excerpt: "Tesla CEO Elon Musk said he plans to buy chips from Advanced Micro Devices Inc. as part of a spending spree on computing hardware to handle AI."
+    publishedDateTime: 2024-01-29T12:14:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 72
+    images:
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/boring-company-tunnel_7f8024d0-0fe8-11e9-b03e-d829a175bb22_1706530317317.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware"
     excerpt: "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware."
     publishedDateTime: 2024-01-27T09:54:00Z

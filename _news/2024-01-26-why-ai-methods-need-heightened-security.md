@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data Security, Privacy, Compliance And Hygiene For AI"
-    excerpt: "Data privacy regulations, security frameworks and AI ethics guidelines are constantly evolving, continuing to be top of mind for security and business leaders. Learn to stay ahead of the curve by automatically applying policies based on data type and ..."
-    publishedDateTime: 2024-01-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Here’s how AI can enhance cybersecurity in healthcare"
     excerpt: "Artificial intelligence (AI) can help because of its potential to find anomalies in huge datasets in no time, facilitating early detection of ransomware, breaches, and insider threats. Before we highlight the ways AI impacts healthcare, let’s look at the ..."
     publishedDateTime: 2024-01-26T00:00:00Z
@@ -60,29 +44,52 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
-    excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
-    publishedDateTime: 2024-01-24T22:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240124609493/en/Protect-AI-Announces-Guardian-A-Secure-Gateway-To-Enforce-ML-Model-Security"
+  - title: "Why AI needs to learn new languages"
+    excerpt: "In other languages it is less impressive. When taking the test in Telugu, an Indian language spoken by around 100m people, for instance, it scored just 62%. Open AI has not revealed much about how Chat GPT -4 was built."
+    publishedDateTime: 2024-01-24T19:01:00Z
+    webUrl: "https://www.economist.com/science-and-technology/2024/01/24/why-ai-needs-to-learn-new-languages"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 48
-  - title: "The University of Texas San Antonio Creates a College for AI and Cybersecurity"
-    excerpt: "OpenAI CEO Sam Altman argued that AI is good for education and this makes sense. If an AI can help a CEO dream up a new business plan, then it can certainly help a professor with routine tasks like pulling together the right topics for their course syllabus."
-    publishedDateTime: 2024-01-24T18:01:00Z
-    webUrl: "https://www.inc.com/kit-eaton/the-university-of-texas-san-antonio-creates-a-college-for-ai-cybersecurity.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
+      name: The Economist
+      domain: economist.com
+    quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1516287974_536738_fmgdao.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_STD001.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Artificial intelligence needs theology"
+    excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
+    publishedDateTime: 2024-01-26T07:32:00Z
+    webUrl: "https://www.christiancentury.org/editors/artificial-intelligence-needs-theology"
+    type: article
+    provider:
+      name: The Christian Century
+      domain: christiancentury.org
+    quality: 39
+    images:
+      - url: "https://www.christiancentury.org/sites/default/files/styles/facebook_ratio/public/images/022024-ai-theology.jpg?h=4bb898aa&itok=xMLz5fBL"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Use Artificial Intelligence to fight insecurity, Gachagua tells regional security chiefs"
+    excerpt: "Deputy President Rigathi Gachagua has called for the integration of artificial intelligence and other forms of technology to enhance security in Eastern Africa. Speaking in Mombasa when he officially opened the Mashariki Cooperation Conference,"
+    publishedDateTime: 2024-01-28T14:34:00Z
+    webUrl: "https://www.the-star.co.ke/news/2024-01-28-use-artificial-intelligence-to-fight-insecurity-gachagua-tells-regional-security-chiefs/"
+    type: article
+    provider:
+      name: The Star
+      domain: the-star.co.ke
+    quality: 25
+  - title: "Why AI needs to learn new languages"
+    excerpt: "These are passed to a piece of machine-translation software developed at IIT Madras ... ChatGPT-4 is much better than ChatGPT-3 at answering questions in non-English languages. However it is done, teaching AI to speak more of the world’s 7,000-odd ..."
+    publishedDateTime: 2024-01-24T14:01:00Z
+    webUrl: "https://www.aol.com/finance/why-ai-needs-learn-languages-190103985.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "The Role of Artificial Intelligence in Cybersecurity"
     excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
     publishedDateTime: 2024-01-27T13:21:00Z
@@ -91,15 +98,6 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 19
-  - title: "CFTC seeks feedback on AI use in compliance and market dynamics"
-    excerpt: "The U.S. CFTC seeks insights on AI use in compliance by issuing a comment request. The agency emphasizes AI’s potential in trading, compliance, and more."
-    publishedDateTime: 2024-01-28T12:41:00Z
-    webUrl: "https://cointelegraph.com/news/cftc-seeks-feedback-on-ai-use-in-compliance-and-market-dynamics"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
     quality: 19
 
 secured: "VC0rWWytoaBPYL47RzRqOBRV5xN7Z9sbO0LfvtVQSWLpJbeWzCm6ctcEP1iSRF3mUq7zQ2+P8vEE0fFGh+obPafwgngd029oudmL5fDDk2io3ZwGp8CH4q+lgyy/rVBeJqvdrNsJyQ52kA5fLEj7/+5lT9gedDjOa3zRhS926j8WYrLer9fV7jw+ogIxpXQjIvP9DO+k7/qgBtl+achy+koA9RYyHbNqHCSIJCNi9ViMvdfsx4GVORMsh719RKTIuHMKsQF8ppW7EfIEzOQOrugilKlSV5MxBgPWroahwVHECriSZX9ppNNw5v7Gbfl9+6fSnODDKOrndSKCVuOrkkh0aMlGkaTVWlnoB8a/CWo=;sBMo9dOfySPcBUVyiV0nxg=="

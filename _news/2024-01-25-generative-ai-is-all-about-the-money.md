@@ -41,19 +41,21 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "AI risks in healthcare: Misdiagnosis, inequality, and ethical concerns"
-    excerpt: "Healthcare providers need to be aware of the risks of using AI – especially in low- and middle-income countries – the World Health Organization (WHO) said."
-    publishedDateTime: 2024-01-24T12:27:00Z
-    webUrl: "https://www.news-medical.net/news/20240123/AI-risks-in-healthcare-Misdiagnosis-inequality-and-ethical-concerns.aspx"
+  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
+    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
+    publishedDateTime: 2024-01-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/6/British_GP_talking_to_senior_couple_in_surgery-Monkey_Business_Images-2000_f6030d6ad6a14fd9b5373dd78745ad65-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 900
         isCached: true
   - title: "Generative AI: value, risk and regulation"
     excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."

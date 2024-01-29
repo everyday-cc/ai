@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-29-the-blueprint-for-a-modern-data-center.md",
+      "title": "The blueprint for a modern data center ",
+      "excerpt": "A look at designing the modern data center, exploring the role of advanced technologies, such as AI and containerization.\nThe post The blueprint for a modern data center  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-blueprint-for-a-modern-data-center/",
+      "originalUrl": "https://www.ibm.com/blog/the-blueprint-for-a-modern-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software.md",
+      "title": "Elon Musk's Tesla loads up on AI hardware to improve self-driving software",
+      "excerpt": "Tesla CEO Elon Musk said he plans to buy chips from Advanced Micro Devices Inc. as part of a spending spree on computing hardware to handle AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html",
+      "originalUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/boring-company-tunnel_7f8024d0-0fe8-11e9-b03e-d829a175bb22_1706530317317.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html",
+      "publishedDateTime": "2024-01-29T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-an-ai-opportunity-agenda-for-asean.md",
       "title": "An AI opportunity agenda for ASEAN",
       "excerpt": "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential.",
@@ -980,6 +1065,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-27-google-update-reveals-ai-will-start-reading-all-your-private-messages.md",
+      "title": "Google Update Reveals AI Will Start Reading All Your Private Messages",
+      "excerpt": "Bard also warns that such data analysis might bias its results. “AI algorithms can perpetuate biases present in the data they're trained on. Analyzing messages could lead to unintended profiling based on language, demographics, or social circles.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
+      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
+      "publishedDateTime": "2024-01-27T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-my-top-5-ai-growth-stocks-to-buy-hand-over-fist-for-2024.md",
       "title": "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024",
       "excerpt": "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed.",
@@ -1032,41 +1169,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
-      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
-      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "publishedDateTime": "2024-01-27T09:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
       "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
       "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
@@ -1116,109 +1218,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-browser-alternatives-brave-arc-add-new-ai-integrations.md",
-      "title": "Browser alternatives Brave, Arc, add new AI integrations",
-      "excerpt": "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
-      "originalUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
-      "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
-      "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Abstract_art_of_a_business_man_IT_guy_looking_at_a_co_b0eba95a-e87d-4907-b704-c6c0ccfb5b69-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

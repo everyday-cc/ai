@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Google Gemini Pro moves to second place in chatbot performance table"
+    excerpt: "Google's Bard has made a significant leap in the world of chatbots, climbing to the second position on the Chatbot Arena leaderboard. This notable rise"
+    publishedDateTime: 2024-01-29T11:38:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-pro-benchmarks/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEKodjqr5FCY%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
+
 secured: "7xg4luTyvxs1EEhOMKc1zB6dl7zUgY8HyMBZLSwEoNnPpugXWoZauV0g0RpIAdRkH3xFRlnN0uXeR9ZheTynUsUfxEPsMf3mEcp8w4ykASw54Y3zQ/dmUpUBO8bussKzZ+jtzTNcn/tc3Sn6UnA5vQ3Oq8paAX0QwSlDRXUyvrF7jGHCQJET1Wj2wxy4+af+uy7/LOyFwLBzNRq9951yqKibatm7FBZj09cf6RazW/H9nhdsPCDAymRDX4t1m2uTIBKDtUVXFL4/1EVZPnGQYJASL3W0h9fV2rDKAa67amunnAwNNDyVX6Q2CLiV7Mr+Q8MbI3HBAXVMmGyLU/PFuRwkCvkgmce7DU+qqXRVzC4=;s91PBFegKFe6H3ZKhQFk/g=="
 ---
 

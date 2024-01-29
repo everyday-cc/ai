@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
-    excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
-    publishedDateTime: 2024-01-24T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1138068_apple-car-reportedly-due-in-2028-with-scaled-back-self-driving-goals"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/ios-16-next-generation-apple-carplay-preview_100843991_h.jpg"
-        width: 1920
-        height: 1098
-        isCached: true
   - title: "Apple Car project reportedly delayed yet again, this time to 2028 – self-driving system reduced to Level 2+"
     excerpt: "Apple’s electric car project (also known as Project Titan) is back in the spotlight, with Bloomberg reporting the project has been delayed yet again, with production now slated to begin in 2028. Project Titan first"
     publishedDateTime: 2024-01-26T02:24:00Z

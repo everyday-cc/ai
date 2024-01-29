@@ -7,7 +7,7 @@ originalUrl: "https://paultan.org/2024/01/26/apple-car-project-reportedly-delaye
 webUrl: "https://paultan.org/2024/01/26/apple-car-project-reportedly-delayed-yet-again-this-time-to-2028/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple car reportedly due in 2028 with scaled-back self-driving goals"
-    excerpt: "Apple has reportedly abandoned a goal for true self-driving capability for its car project in order to get a product to market sooner."
-    publishedDateTime: 2024-01-24T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1138068_apple-car-reportedly-due-in-2028-with-scaled-back-self-driving-goals"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/ios-16-next-generation-apple-carplay-preview_100843991_h.jpg"
-        width: 1920
-        height: 1098
-        isCached: true
   - title: "Rivian Poaches Apple Executive Involved In Early Stages Of Tech Giant's Self-driving Project: Report"
     excerpt: "Apple's self-driving car project, codenamed \"Project Titan,\" has been in the works for over a decade now. The company is proceeding with a scaled-back plan for its car and may eye a 2028 launch. What Happened: DJ Novotney, who was vice president of ..."
     publishedDateTime: 2024-01-28T09:21:00Z

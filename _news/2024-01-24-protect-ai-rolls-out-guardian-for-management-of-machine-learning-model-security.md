@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-mana
 webUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: SiliconANGLE
@@ -24,6 +24,17 @@ images:
     width: 2500
     height: 1313
     isCached: true
+
+related:
+  - title: "Protect AI Announces Guardian, A Secure Gateway To Enforce ML Model Security"
+    excerpt: "ML models are new types of assets, yet they are not scanned for viruses and malicious code with the same rigor as even a PDF file before they are used"
+    publishedDateTime: 2024-01-24T22:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240124609493/en/Protect-AI-Announces-Guardian-A-Secure-Gateway-To-Enforce-ML-Model-Security"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 48
 
 secured: "KZgXq5/72VhYWmF5QnjATHBUhy4GRd2EScxTxgYBtsOflVybjyVGM+0yqAoeZoK8zOCoEVpnkfnSESZZywon3GC+VbY2+ppyEL+Wnp12Ux09bYTiuLdr2eELdUksYGbJUudpqCxm6TMm2eI+Ryo91JbCqWaH1F2xUbJmMhR2zTrJVfe8GtYDdzjURPjUeofcbcFURrr3mAX3oh8SKokeglPYJJbLsD3oMbwUF8oOB0+kktk+eWg9wHLUl7DNR7rGSwZjgp8G79zZ8qYn5/Saesq0JcRkO6HV6xeo2OoYaNktl20wZ1zpes74YowkfIHZ0+zobhrJSl4XlF9OD3hcdGbSYifeXdxapkhJSx6x0oxc12PDReWgBB97z+lxzLjkAdnVog4k2SIIVy96xXNMNyo2Ru4srbUdwyfZAWjj67j0on9NGnQc6zi456Gtv2fEEbU5rFuPS+H9WfxaUsf2ERDeaD8+SWYw67waQOAT3Z1GBuz/Wg9XmR9rcrghy0cR8pfGcyDIo7E6UdLQH1qjSg==;06A1BYuBIv3/nX9gHa3DpQ=="
 ---

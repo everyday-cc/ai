@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-s
 webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://www.indiewire.com/wp-content/uploads/2024/01/80g980futLoveMachina-Still1.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
+    excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-browsing-assist-on-samsung-galaxy-s24"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 46
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xqrpsmD89RAHzjKcG7SLxi-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."

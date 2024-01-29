@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Shape-Shifting Robot Lands on Moon"
-excerpt: "A lunar robot developed by researchers at Japan's Doshisha University, toy manufacturer Takara Tomy, Sony Group, and the Japan Aerospace Exploration Agency (JAXA) successfully landed on the Moon."
+excerpt: "A lunar robot developed by researchers at Japan's Doshisha University, toy manufacturer Takara Tomy, Sony Group, and the Japan Aerospace Exploration Agency (JAXA) successfully landed on the Moon. Lunar Excursion Vehicle-2 (LEV-2),"
 publishedDateTime: 2024-01-25T17:22:00Z
-originalUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon/fulltext"
-webUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon/fulltext"
+originalUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon"
+webUrl: "https://cacm.acm.org/news/279514-shape-shifting-robot-lands-on-moon"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "fuzUghiuzUyuQt1kW1TPxOTaeFY/Hp3W21cT7nsFyBlKaIb3PsqMUVgQn9wyNBqKc2mP47266aKGA4mq4yQX14v+tQprTpLPdkv+4Rc0zViiZOxHuSfWoQjTsrlUXxFF/019lNn9vnZKXXeDpKApO0U3ET9g1HjVmS8/RkFYM2R6chHgIx6VfwsI53KQjUcjrofDTVmBn2mGFrNNJRaWPnLlN86vA8ZanpBXJkkL555vp0rQAnzkDJZIcptEbpeTPHb8noDDamJRUhoAqsLsISIhAoRUDtvWCrrUDmNAEDOkrNhdZgBbDmZBBYEKBRFj3sHz6x9Xa8Karc2/JQH1upWU58BRBSQAqymywN4unmuUhEywVw+wF6X0u7Q6J/gow4AoVAO+YHYFF1XOKVtP4ZI9f0MwTUAYtschaSQU64pICDk4ktAuXelvz7mCXgfFvRHBn7Yt9eehzluhXwDe+duZ7GY529e65/EG8CDsDbKNmn4wGDCuNyPIKfMZdhRakhSeZ7lkeS49E2UDyW+GoQ==;xFU10RkgvSDVcQ3fw9yu7g=="
+secured: "dmrOruM96P8gN65MYAFjVSLv8/xUkC7oC1inUcsSXAFQQFiRQa3fcq/sxmWC+3aZtZFX4CZEkxiexKRu62CQ1JQJDd4+Z4xcwNys8ZSyuiNwB8Nsk+/DZi89nKhzMdwTKj8FGgXf60oIpKJTi17KJA/tHXFInteSrCq6hdPwLL8o0tbKtd6kvMhI0wO1/AB9t0bbZGUwJ+Opabjre12pNxzOCe13xHHDUBqR8z1dhkbylhoXEa1C6m404jpvZoU3R79G1AD2FDFlwFTWmZfHaoARza86jNweDC4x7jpMaMxcuHR+P2kkLMmS7b9cFEEtjOPS/kEMpg636Ip9BB24ETui2j4jA1j0RYux0NJoPMcdXkXb3cdcBwCIYvXZgogYf7NVGc+kDK9ro0Jd50m8luJLSTqyrsKKitBLYnEmELnmgOqF2nyU8TDzSlczJWddV7Of3s0sGaEIzJIJiHjXHbwL69MN2JQf3Rb11QZzsuPL/mE6OzYaoSmuU+mOHLFywb9rOZ8EpFIAVMTL1HQ7Fw==;G9trP09A9nwP/9aJZgwPkw=="
 ---
 

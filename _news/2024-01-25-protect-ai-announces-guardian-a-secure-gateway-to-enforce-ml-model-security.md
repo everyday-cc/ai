@@ -20,82 +20,20 @@ topics:
   - AI in Security
 
 related:
-  - title: "Data Security, Privacy, Compliance And Hygiene For AI"
-    excerpt: "Data privacy regulations, security frameworks and AI ethics guidelines are constantly evolving, continuing to be top of mind for security and business leaders. Learn to stay ahead of the curve by automatically applying policies based on data type and ..."
-    publishedDateTime: 2024-01-24T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/"
+  - title: "Protect AI rolls out Guardian for management of machine learning model security"
+    excerpt: "Artificial intelligence and machine learning cybersecurity startup Protect AI Inc. today announced the launch of Guardian, a new secure gateway that enables organizations to enforce security policies on machine learning models to prevent malicious code ..."
+    publishedDateTime: 2024-01-24T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/24/protect-ai-rolls-guardian-management-machine-learning-model-security/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/07/protectai.png"
+        width: 2500
+        height: 1313
         isCached: true
-  - title: "Why AI Methods Need Heightened Security"
-    excerpt: "The company has blended talent disciplines from cybersecurity and deep learning and they are now entering their fifth year of software development of their secure AI risk platform that covers computer vision, natural language processing, machine learning ..."
-    publishedDateTime: 2024-01-26T15:41:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b3cc5450e1d7610d2631ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Here’s how AI can enhance cybersecurity in healthcare"
-    excerpt: "Artificial intelligence (AI) can help because of its potential to find anomalies in huge datasets in no time, facilitating early detection of ransomware, breaches, and insider threats. Before we highlight the ways AI impacts healthcare, let’s look at the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.scmagazine.com/perspective/four-ways-ai-can-enhance-cybersecurity-in-healthcare"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/DavidBalabanColJAN2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The University of Texas San Antonio Creates a College for AI and Cybersecurity"
-    excerpt: "OpenAI CEO Sam Altman argued that AI is good for education and this makes sense. If an AI can help a CEO dream up a new business plan, then it can certainly help a professor with routine tasks like pulling together the right topics for their course syllabus."
-    publishedDateTime: 2024-01-24T18:01:00Z
-    webUrl: "https://www.inc.com/kit-eaton/the-university-of-texas-san-antonio-creates-a-college-for-ai-cybersecurity.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1516287974_536738_fmgdao.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Role of Artificial Intelligence in Cybersecurity"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
-    publishedDateTime: 2024-01-27T13:21:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
-  - title: "CFTC seeks feedback on AI use in compliance and market dynamics"
-    excerpt: "The U.S. CFTC seeks insights on AI use in compliance by issuing a comment request. The agency emphasizes AI’s potential in trading, compliance, and more."
-    publishedDateTime: 2024-01-28T12:41:00Z
-    webUrl: "https://cointelegraph.com/news/cftc-seeks-feedback-on-ai-use-in-compliance-and-market-dynamics"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "rGujgGXoF/ev1KbqYOU55FitsuQfFYuzOdG99WT2FtNDTccmKpJDNhjB/H3npM7TBgZ7E6rToL13W4zc0gAjroQ1w+K39+Qlh9F9Y5j8Q7r3/88rwdgFTveZRtW4Wa1SLuT/KbilbLdSqgKBLGFWftAW9JL1bbvhFWN4iq1hOzstT0TsSXqHycbjsFwp4UF9cReg2LsXKWZDsM+pW5oPekp9RnCJbbSao5gCEZAZJC4L6VCYM7+Z1QhZWTy1OX4ocgmgOujnoR9entmMbrItuE8x3FK/eruJg8ikpjvWeBgS+NYUW7zeU8Mtic+eLKlSyPuSlcWZAxHz1BVtYMSSmz5xp8aSXZ1ICIgTBXwHXO4=;snjmTipfvU0inrLko7uu+Q=="
 ---

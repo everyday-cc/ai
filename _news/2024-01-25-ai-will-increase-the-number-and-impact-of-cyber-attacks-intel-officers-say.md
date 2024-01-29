@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-numbe
 webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats"
+    excerpt: "From spam filters to spear phishing, AI is both defender and weapon. Learn how Cylance AI is staying ahead of the game,"
+    publishedDateTime: 2024-01-29T11:11:00Z
+    webUrl: "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 29
   - title: "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web"
     excerpt: "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power"
     publishedDateTime: 2024-01-24T14:49:00Z

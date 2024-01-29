@@ -112,22 +112,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Mastek partners with Microsoft to transform industries using Generative AI"
-    excerpt: "This collaboration aims to lead innovative solutions by leveraging the capabilities of Microsoft Azure OpenAI Service and Azure AI Services, with a specific focus on sectors such as retail, healthcare,"
-    publishedDateTime: 2024-01-24T11:34:00Z
-    webUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/mastek-partners-with-microsoft-to-transform-industries-using-generative-ai-18881141.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 72
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/04/2019-04-24T202127Z_3_LYNXNPEF3N1PX_RTROPTP_4_MICROSOFT-AI.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
     excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
     publishedDateTime: 2024-01-25T13:17:00Z
@@ -311,6 +295,20 @@ related:
       - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
+    excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
+    publishedDateTime: 2024-01-29T07:10:00Z
+    webUrl: "https://www.benzinga.com/news/24/01/36819835/microsoft-ceo-satya-nadella-reportedly-gearing-up-for-india-visit-with-focus-on-ai-opportunities"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/01/29/microsoft-ceo-satya-nadella.jpeg?width=1200&height=800&fit=crop"
+        width: 1016
+        height: 677
         isCached: true
   - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
     excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"

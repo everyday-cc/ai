@@ -130,6 +130,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
+    excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-browsing-assist-on-samsung-galaxy-s24"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 46
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xqrpsmD89RAHzjKcG7SLxi-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."
     publishedDateTime: 2024-01-26T12:41:00Z
@@ -182,6 +196,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "49HPa/9HBcMRhKb6/8Ig/iJmdA8XF8UMZYY99nUCqtqWKTvNFkA8pO6cJFPvvxrNbq+qwuwU/Kppc3+T1+W1onLDmhyGvKOipA3QDjH0Hk1pZobBJNU30PVE8a7DCiwqfs7QLDMz5qjPhKpRKTvX1amn9lOGWo5g80bJlsqPjexgrb83Ht/Qva4TWYPw8SHkqqT3Z1ToiM4VdMlu1GsYN7SK7+VQ64cwn2v0xAp5qMQJNc7su5GeileiLgYk/AQ7W8lrH+7G3QhX4i1ob3gx1dNaDzFwEQkpVLpBcmYxgwf/YRpmPwJpkZpQfmT8BalmNjOOCw/E5MRv5NT2lfGJYggkrYJsYpRVKvGocR/hgf4=;Y6PJajHnGeCR5/ZJrtApBQ=="
+secured: "ufMU44A0JTR9UaJ/XA4EllW6AxKsSHypfLuaHj8HM+vb36D5azVKm7awzJyBZzJfok2eG80H/U0IdbFCtN+edaGOKUku9mdTii9IOc2pdh1f3cy2q8QkQiaSoHVC0/W6CVI0xV2xnzkPEo1M7v7WFW82v06dgu9WHxp+B1tO2VIBWe6/yw3+jchfKLkCC9ZF8/uSCMZ/4gmSJcU9HUpdl3/Niuz6gtbL7YvHNw5AjIk4Vaxp95jGJ2b2VLqP2vznk3XyQHtqafy589IPEWZksLKHTqSc2IxGDnQIWd6dgiHSxwGKTRDz5bD2P2eGpaDov6Of5GeNhXCPMIsZJNEhQt7j8l5GmqlxCw0LnxQBVgOTWPiOvPy8yRDMyT9BpW4urnQM1EDEgyuWvbjL2DvfWR4WA4G5WpuTc8DR1Y64dJyfdJRnE4mYqrcRpA8/1/5o0lYZKyVuefJO765jFMEyQK4w5eW7taR0sAL+XhcZBJ3m82CcYYBVhdrsjXVunJuYUnTATXCqP5ALac5X8bsBSA==;Ci1FuLu8gdQQUHT0SMjmvw=="
 ---
 

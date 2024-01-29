@@ -99,19 +99,19 @@ related:
         width: 1100
         height: 550
         isCached: true
-  - title: "Oracle Embeds Generative AI Across the Technology Stack to Enable Enterprise AI Adoption"
-    excerpt: "OCI Generative AI service is a fully managed service that seamlessly integrates large language models (LLMs) from Cohere and Meta Llama 2 to address a wide range of business use cases. OCI Generative AI service now includes multilingual capabilities that ..."
-    publishedDateTime: 2024-01-24T11:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/oracle-embeds-generative-ai-across-the-technology-stack-to-enable-enterprise-ai-adoption-nid-227567-cid-1.html"
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 30
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/s86Gtwx9.jpg"
-        width: 570
-        height: 367
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
         isCached: true
   - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
     excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."

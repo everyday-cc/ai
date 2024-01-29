@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-expe
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -27,16 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+  - title: "Budget 2024 Expectations: What fintech and digital lending industry expects this year?"
+    excerpt: "The thriving fintech and digital lending industry in India, encompassing the gold loan sector, delivers innovative and accessible credit solutions to millions in rural and underserved areas through digital platforms and technologies."
+    publishedDateTime: 2024-01-26T04:55:00Z
+    webUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024-11706181720832.html"
+    ampWebUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/25/1600x900/jason-briscoe-amLfrL8LGls-unsplash_1706184277887_1706184290565.jpg"
+        width: 1373
+        height: 900
+        isCached: true
 
-secured: "u1sV4Enooc7uBFIRjG3bxJSmLxTF6Wk7cJh2gRxSAgmqti8JDfRQqWNxwaKRFK5NJkviioLHGzVnfEeRvb9wg56W4rM5Xha4Uc9i25jrxtbpE/bljwP4D6BQmzXz1Zw3BbYykSiicXCeR6Ho/P9lUilxWgkQK5OoMLJC7BPcGxeowfmRr9MsGrSmBM2nzJ/kux8cXvTLfjRGtFYXkNb2PfZuQEWhIHDu/046QX7PcSVazZK2Zpmfq9RSh+jTiWZb8hWP26j6h4ktHMjQANK/OBfGHNhlMwOtCdZc/4rTWcwUKjIDgJ1Qk8SpNJADxPRpghL1irCs+91wkoiWzkbTDY77u170ebtFkGzq6Lin0B0=;q92nsWy0WQsk1zbk1rdT7g=="
+secured: "1AIiAzpL4nqbt2FLnWdshxvJZqo7H0LPDDRtL/41cEJ4DZs3a+0qhpcMSoMJebtdDjc2HblIvE+lvd4VoBqgn76RZJPykQbUSU1qZFQAmN9PCtC7Jx+MaTnXbe71R/ams8zL1ZbupuAGkwuf+VQ42REhOxYrnZnjQLjbWngLhj3xntaTmHbEyzPI//5v5PolZ19PvvShwRmYG8C8eghfUZQBGv3aGF6jrCRIpq3OUmXdBEuDT3hcWANtDIXaxX/P6kvyC9g1ii4iFfwHKa/ZKnJ6jHg4AX3NbUiUu97qhGwyOBYjO92N8IhbYFYS0GnGmUHRaDbsxEnEslBUVzkk4CyCZXW5TU7XMa2JF2jww2pPSW+qxES9OsB8QFKF0Co+AWb8mnaeemv8UpcbUHYiT43oLzdJRRFpIdyU0oagn3QUe2Y6dRUdV7HB679EL5xS/NXiHVcpH2kinmDRVbn8eA4X7R9i3Gv/HOlEMITORqXvHRbv4Dda/9r0MHQctrBVoHsW116aF/VxML4i1CmAHQ==;ke/RHFbEBzM7DLHn2zwX4A=="
 ---
 

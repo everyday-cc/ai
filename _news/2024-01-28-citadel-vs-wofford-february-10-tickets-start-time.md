@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "North Texas vs. SMU February 11 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Sunday's AAC slate includes the SMU Mustangs ... Houston Christian February 10 Tickets & Start Time Houston vs. Cincinnati February 10 Tickets & Start Time Texas A&M vs. Tennessee February 10 Tickets & Start Time"
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/11/north-texas-vs-smu-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/GXVYEDM4TFMBZEQKGQ3CAGH6GE.jpg?auth=98c5b9465297535951f1781cabbd7edf59f7dd6182f07faf5dfacca4c3e1a80a&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "UTSA vs. UAB February 11 Women's Basketball Tickets & Start Time"
     excerpt: "UTSA Roadrunners vs. UAB Blazers women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-01-29T10:23:00Z
