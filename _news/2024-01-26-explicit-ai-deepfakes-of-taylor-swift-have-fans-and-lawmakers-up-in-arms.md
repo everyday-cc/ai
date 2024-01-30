@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-h
 webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
+    excerpt: "How lawmakers hope to create a federal, baseline protection against AI abuse and uphold Americans' First Amendment rights online."
+    publishedDateTime: 2024-01-29T23:47:00Z
+    webUrl: "https://abcnews.go.com/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    ampWebUrl: "https://abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/GMA/taylor-swift-gty-bb-231003_1696355293910_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
     excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
     publishedDateTime: 2024-01-26T22:00:00Z

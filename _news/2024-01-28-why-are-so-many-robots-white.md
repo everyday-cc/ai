@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2790601-why-are-so-m
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Academic demands diversity because there are too many white robots"
+    excerpt: "Paterson referred to a book on human machine interaction by anthropologist Lucy Suchman which gives a “cultural imaginary” (what is shared in pop culture, texts and images) of what robots are supposed to look like. He explained that the cultural imaginary can be linked to how computer science and engineering teams view robot bodies."
+    publishedDateTime: 2024-01-30T00:46:00Z
+    webUrl: "https://torontosun.com/news/weird/academic-demands-diversity-because-there-are-too-many-white-robots"
+    ampWebUrl: "https://torontosun.com/news/weird/academic-demands-diversity-because-there-are-too-many-white-robots/wcm/70d5a22f-4dc7-44b7-8e60-ed020ca91a75/amp/"
+    cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/academic-demands-diversity-because-there-are-too-many-white-robots/wcm/70d5a22f-4dc7-44b7-8e60-ed020ca91a75/amp/"
+    type: article
+    provider:
+      name: Toronto Sun
+      domain: torontosun.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2024/01/GettyImages-1248579074-e1706558719145.jpg"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Why Are So Many Robots White?"
     excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
     publishedDateTime: 2024-01-29T05:47:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GCC Artificial Intelligence Market Size To Reach US$ 23.7 Billion By 2032 At 13.88% CAGR"
-    excerpt: "(MENAFN- IMARC Group) The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market ... and competitiveness in various non-oil sectors such as healthcare, finance, retail, and tourism. In line with this, AI is being widely used for ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://menafn.com/1107765559/GCC-Artificial-Intelligence-Market-Size-To-Reach-US-237-Billion-By-2032-At-1388-CAGR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
   - title: "43.6% CAGR to be Recorded in Aerospace Artificial Intelligence Market between 2023 and 2028 - 17,000+ Technavio Research Reports"
     excerpt: "NEW YORK, Jan. 28, 2024 /PRNewswire/ -- The global aerospace artificial intelligence market size is estimated to grow by USD 4.69 billion from 2023 to 2028, according to Technavio. The market is estimated to grow at a CAGR of 43.6% during the forecast period. It is also estimated to register a 40.42% YOY growth during 2024."
     publishedDateTime: 2024-01-28T00:00:00Z

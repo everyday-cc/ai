@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
+excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
 publishedDateTime: 2024-01-29T17:50:00Z
-originalUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
-webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
+originalUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
+webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
+    width: 1199
+    height: 815
+    isCached: true
 
 related:
   - title: "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch"
@@ -52,6 +58,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "2ycfV++CzLZrnb5Bp/mqQYBBvr217/TfXtY56di+BKePEIvur0yPVqGYz0rOzDEUZGTzDamsSPwVo1/AwKpkONAtDWmb7uvhJf4zlJXPv7fSVqR6eAg7BEtMClHRQkNsqneijuzQeW8wfIA1fXHF3iPqNuLFIG0XE1Dnn4o/oZ64x7QkJuDr4uvMz2khJF8qIIMSBmLpNxawcHrDQmTUVkqvUYg6534AoJfX+pMOFCQgL2O0iHi96T7nh8x3LrC0H/1TKG/JgETdpSNAHM0TP0Pi0DD7ZlFtTmCbnM767Z2plSCz6ICPENiy0Oxs2oO2q3BbAoiWyftKDufCppnnGj2uU/K5DychFy1+jQw85xDxIJv+shir+UJIy7JHwFMUK30FKexDWb6TNNe3JeJG3bpOanw6SMWV82A3xu2AElSWqBJHazygoBq7JRlPpC8ML+64T1bwgPeM76dizCiZ1qWYhuAwX+KvZ/bT6/ygbBejqkfblG++GFeGvqTzMN4fzntp3jR7N9UC/TZg05ujjg==;19fZWP2P6u5wkjQyY+TFYw=="
+secured: "yUxDnSd5ZqyqdWCHJuie+gueCFOlcs6bOxDnhBgJUUta6Mvtuk7+zVrUZdjHOK2u61kG+nUg/MQm87REGayv4vEErb8f/dZUMOBWMjQ1kY7Qh/JcgjrAbF38Yf9Qr17wVn2/H0dNNCmb66qnQvoFQF8zNBv8gs+dCjSAJa5j8IeO0Zff2h8xaHDG45gI+qe5mIo7ukvST2X9kdY1wD/Xp2Z/8BqASw/qm5Q7BEabz2/xKfH5noz9zIE/jGeACvcvQ1QO4wjG3kYPQHD0SRwAIT9Ehdbm2NDCpeURacnPRZkc3Uebm9in3t3MXyfs/4loYc7ZTfpWKJELtdqv1eDwyndaKZ/MFwHfUVzLpLLjCdw=;oFNAiKZQlivaNGPWvnntSQ=="
 ---
 

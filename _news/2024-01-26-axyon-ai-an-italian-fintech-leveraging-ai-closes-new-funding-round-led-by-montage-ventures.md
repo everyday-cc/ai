@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axyon AI secures €3.9 million investment"
-    excerpt: "Axyon AI, a pioneering Italian C company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures and accompanied by Techshop SGR, alongside other angel investors."
-    publishedDateTime: 2024-01-25T00:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99416/axyon-ai-secures-39-million-investment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "The Rise of Fintech Funding: Exploring Different Investor Types"
     excerpt: "Are you curious about the rapid growth of fintech funding and the diverse range of investors who are fueling this phenomenon? From venture capitalists to angel investors, banks to corporations, there’s an exciting influx of funds pouring into the financial technology sector."
     publishedDateTime: 2024-01-29T15:20:00Z

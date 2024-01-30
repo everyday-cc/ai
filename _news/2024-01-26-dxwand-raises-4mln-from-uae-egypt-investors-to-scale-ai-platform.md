@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/dxwand-rais
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/dxwand-raises-4mln-from-uae-egypt-investors-to-scale-ai-platform-dpjigc22?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 724
     height: 482
     isCached: true
-
-related:
-  - title: "Dutch startup Send AI raises $2.39M from Google and Keen Venture Partners"
-    excerpt: "Dutch artificial intelligence startup Send AI Inc. has raised €2.2 million ($2.39 million) from Gradient Ventures LLC, Google LLC’s AI fund and Dutch firm Keen Venture Partners LP to accelerate the development of its AI models and expand into ..."
-    publishedDateTime: 2024-01-24T23:54:00Z
-    webUrl: "https://siliconangle.com/2024/01/24/dutch-startup-send-ai-raises-2-39m-google-keen-venture-partners/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/sendai.png"
-        width: 1600
-        height: 1294
-        isCached: true
 
 secured: "xeeM3REB3a9PdrSTwSNDdyQn6z9ChL0Jc8we3+CRW1B/ijadf3OlnxqENyvK8IRyoJmWYkH6Wda/gAWc2W71LPltLOEBBvhyPch9Pb5foUsmNxHJgFJZF9Mnx0pRwnF2m3+MuwuefYWoHfSTtxjJ+W3qviGrLivHf0Qz5t5V6dASu9XROpYafCvZvDFIZClWXk5bm8qwayuffKBnyQdej5x0Er/Hk07+KPFtNNhnmbONeM316TqUBVrNsoCfYpp0vg9nh7sj+zaox5LlwXK2qL1rG2pog8ZY66+k30Xvhg/nQSeC2Y3RfJcZCPIzucsWEziMDnoFMyPwX4kB5gQy9LuCTWZwD4csEUXVpFktHjk=;L7rnX9wU+haM8lVDZApyJA=="
 ---

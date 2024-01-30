@@ -7,7 +7,7 @@ originalUrl: "https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-fr
 webUrl: "https://lifehacker.com/tech/use-glaze-and-nightshade-to-stop-ai-from-stealing-your-art"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "New AI apps transforming our daily lives from creativity to research"
-    excerpt: "A selection of new AI apps enabling you to easily transform your daily lives and business workflows into more productive and accessible"
-    publishedDateTime: 2024-01-27T14:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-AI-apps-transforming-our-daily-lives.jpg"
-        width: 1280
-        height: 717
-        isCached: true
 
 secured: "9hLxDwwYVtSNaMrRW5FgevWlQGTD91hfalXqbF/RxhKnAjYHenxvUrTNepUuIGrY+jOrXP34UOKbwoyxeonU+2DfVeiqSdyhCof2NsmAqhtxtBz+EgyEp1ZBJ8HCNEwgt9gHGDmdotb/du3bOGCMIbnU51nJ3SSJHOTn8yPnzMklHvmMoCR8oBAUOGxNTw/YDMI/3FR3c+Xxw4j+uGGQY10FwSe4Fjd+X93bPSkg+1YrUZAzimgbC9KbGYl407lo3Dv9H8X544LQ2TjpRiN37Brdbbtdn+ljs+r89/q5ddF0y6pceUE7XkME+Rc3yzfk6v7wUAZzcyuPLdNHKrfMw6FgQ8Z8Ioy14lPtkt3VHJUxFm7Dh8uCPAIFGvWk5XGQ48LdkwEXrL0QFubYvbZOdRc0EtJE+gETFlpsoCrdvm+CS59cgtbgqlpabG6JNHDEHt7+S22K6uW2SdZ/45yVRoo2+dq3pHbqeBrVMVSJJbzU84Dc9JPdAjH1Nn3Q18IVtdF8Tf0c6QzYdlenC7FHIw==;k8nSOH0t+nyDhr4j9t2wSA=="
 ---

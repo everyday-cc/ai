@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
+    excerpt: "How lawmakers hope to create a federal, baseline protection against AI abuse and uphold Americans' First Amendment rights online."
+    publishedDateTime: 2024-01-29T23:47:00Z
+    webUrl: "https://abcnews.go.com/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    ampWebUrl: "https://abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 49
+    images:
+      - url: "https://s.abcnews.com/images/GMA/taylor-swift-gty-bb-231003_1696355293910_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "3AC5Ial8iR370QCOqFZbGF5A8xmIF9cm6h/N9OZCK8JNWrQ/+ErxxaClCMRUGTfk7uxiNTJ42lh3z6aIBGCwf7PItWe0z95C9wa79Mjk5ZTeto/mmrAInzyrGx4iD2ByM0oLUDytPqdIBUTh0zLxfxHTuSNDml2hpVSyxhXfYmqKguCXZ2s5oaRtv935Yskt0B0nm0c9+xjTLV5PaKcUZBNtMiUvXe2NvyRR5lUiEzbDEy1s1rd2IhfBOnD09xoC7CnsylFvVeb7tbajG+mSYTZ7hg81AgpWafaRYqyTmc3djIhzC2dtdzLokBNYAqvu2822sMzI5JMXbYWJD5CMeWAesLsRxnpsYhacbA1uQ+k=;c83gXjVyS3wn6xPWE9ttqg=="
 ---

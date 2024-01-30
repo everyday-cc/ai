@@ -78,6 +78,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
+    excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
+    publishedDateTime: 2024-01-29T23:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
     excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
     publishedDateTime: 2024-01-26T17:31:00Z

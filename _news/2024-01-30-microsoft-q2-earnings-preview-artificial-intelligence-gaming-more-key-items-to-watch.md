@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
+    excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
+    publishedDateTime: 2024-01-29T17:50:00Z
+    webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
+        width: 1199
+        height: 815
+        isCached: true
   - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
     excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
     publishedDateTime: 2024-01-26T11:41:00Z
@@ -38,15 +52,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
-    publishedDateTime: 2024-01-29T17:50:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 27
   - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
     excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
     publishedDateTime: 2024-01-26T13:34:00Z
@@ -57,6 +62,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "SCwpCkzLLRRNri0e9Igv3Q+BczVulslqR++gBqYUMGJF40IrLWiswAraeRRuB9Jh8l4eWlq3/yHov9YHYpvnpY3kKvFnrE3H/XR/To6LjYNkdeVWgmLwzZTohsuUqnu/eXZhMOQSLPGPxSbX1/+HnSIIZ6sKnI49yC9+faalAczG7ZdRBbkRorE2DSvb1W+hSx5VrDEf/UK+ay5oJpAWYC1Bx/R/th9KtohJAtVWFQxB/oejtFwizzZLN+u3Ha9QKE+ZvK7Cezg2qlO3OghSkXJ19GoB2S6mph/hrwPfhl1gPyHZRopiIjbMHOGT3DPweb0lN/lpYSl9MHaVkPX+uBirFxzLr0UYBcoDl63BkIE=;MRGKWpBlM/cUw8Dzk04TRw=="
+secured: "KOygok3Rmm40jGXrFVdsTfoWz9iqevIEXfXjpKvgTcH0ZmNFPmMVI6hGpHzl3y+Cu5U1mnSmiQ6NyFQiF6XieuKxte395HsDongAOCezlcE9/uTu8A0xaABV45418u+nIiorarVJCqtHS2xBucv7KEa3ZcQW7XxuzDYQZXW69CxQhIu525UD7IQrp3s6F38DglNPuKxrsJfYyi8X1zzhIP2d93kpHBgYZNZPE6SFhe6+sOsk3KR+dySYH31V/OFZeJ520xC9E5LYj/pi02LTIUjpBzXMTnam/uBAr3IP86JXsINNbwB4tpnXKIu3Vhp+Ue2geIFYii4lNnlC54Gvz1/y4jAnDSqWjMNJ+WmUeJ4iJv3WJLifmCJlDysqBjuYTS93SJYTJ0yS8jZynwkwEKCyiGiQuchsVk/puTnBlYlVmkfr0BUu91PoRfc+YPbXZ00Mh6KNMXI8GW8iVt5WBVERO9tA3z6DvTusOSWie18uDNHl41Jgp7pwnHwrx57FI4KQwjM9oY4diIC5W5pVzg==;fLuWHofpOHVfu18PSaxRnQ=="
 ---
 

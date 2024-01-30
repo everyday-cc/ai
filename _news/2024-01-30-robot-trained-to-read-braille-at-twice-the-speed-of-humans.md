@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e0364dda-1617-4216-8aa3-55a31a28b380/Rendition/thumbnail/Content/Public"
         width: 300
         height: 300
+        isCached: true
+  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
+    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
+    publishedDateTime: 2024-01-29T21:51:00Z
+    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
+    images:
+      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
+        width: 1200
+        height: 955
         isCached: true
   - title: "AI-powered Robot reads braille at double the human speed, 315 words a min"
     excerpt: "Human fingertips are highly sensitive and help us make sense of the world around us. Replicating this in robots has been challenging so far."

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "Let Facial Recognition Wrongful Arrest Trial Proceed, ACLU Urges"
+    excerpt: "The New Jersey police department a man sued after a faulty facial recognition match led to his wrongful arrest shouldn’t be allowed to avoid a trial in the case, the American Civil Liberties Union told a federal court in a brief Monday."
+    publishedDateTime: 2024-01-29T23:51:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/let-facial-recognition-wrongful-arrest-trial-proceed-aclu-urges"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/02f3d53/2147483647/crop/7888x3040%2B27%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "Study Confirms Facial Recognition Technology’s Success in Disease Prediction"
     excerpt: "MyAnIML used proprietary facial recognition and deep learning technology to accurately predict Infectious Bovine Keratoconjunctivitis (IBK), or bovine pinkeye, 99.4% of the time and several days before veterinarians were able to detect symptoms ..."
     publishedDateTime: 2024-01-29T00:00:00Z

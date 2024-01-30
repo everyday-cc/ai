@@ -38,15 +38,6 @@ related:
         width: 400
         height: 231
         isCached: true
-  - title: "GCC Artificial Intelligence Market Size To Reach US$ 23.7 Billion By 2032 At 13.88% CAGR"
-    excerpt: "(MENAFN- IMARC Group) The latest report by IMARC Group, titled“ GCC Artificial Intelligence Market ... and competitiveness in various non-oil sectors such as healthcare, finance, retail, and tourism. In line with this, AI is being widely used for ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://menafn.com/1107765559/GCC-Artificial-Intelligence-Market-Size-To-Reach-US-237-Billion-By-2032-At-1388-CAGR"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 10
 
 secured: "36unK8drG2QOlWF0ZZcY7KYFGOZUUorJdBGnGmS88NHnxOAEf6hbV0bySelig5JgjEDEdITsVDwFvZUIheZsTJ4uTyiD1sB1KjeKOrwD3NnbMFONIXY3QML7vy1mxH9q3E/bA4fMUGTOrJGyqJ6ieafeWRPlctMqsqskJiPMtWG7VhYxczKfBAUw0gK8R0hCpScxY/fKoUpzSXHn+akcjOC76fq6fKimJXzy6WvQXJGI/8kwtJpwTV2W07y6pT3im9Xf6orvPzYUFZNTDzW+nLHR6gat6OQ8dMyQTIaUNUFvtUJx2q0ssG7Q63XQkonY5VOWoOoqhNOlU9myuZGn59dh9Ei7YKaZBAcRuRxy0iCmiHa+mT7ffq6t+4e1maqTD5ktuccLchSBf8OfDkj3kUuPj5FOBxi5w7QVRkzn/XztDkBJFTkcgNLgief6BmhDzizg4Zo2hdFaJ72cofml03WgU1so904CZa29xub1L7zHBkwPVOady96xd6a+24f0mP4y0fltNJcHQ6QNfT5m+w==;fwqeOZfNf/vNfFJbO7y/OQ=="
 ---

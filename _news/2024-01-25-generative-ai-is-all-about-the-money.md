@@ -57,6 +57,15 @@ related:
         width: 1050
         height: 900
         isCached: true
+  - title: "Implications of Generative AI on U.S. National Security National Conference"
+    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
+    publishedDateTime: 2024-01-29T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Generative AI: value, risk and regulation"
     excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
     publishedDateTime: 2024-01-28T16:10:00Z
@@ -89,20 +98,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 19
-  - title: "CGI Federal’s Steve Sousa: AI Integration Could Enable Federal Health Agencies to Enhance Patient Care, Drive Innovation"
-    excerpt: "Steve Sousa, senior vice president of health and social services at CGI’s (NYSE: GIB) federal arm, said integrating artificial intelligence technologies provides federal health care agencies with opportunities to improve patient outcomes by harnessing ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.govconwire.com/2024/01/cgi-federals-steve-sousa-ai-integration-could-enable-federal-health-agencies-to-enhance-patient-care-drive-innovation/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 14
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2024/01/daf58c4a-7d07-4d56-bf43-b93604dfbd7e.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "XIX5yJm2d8Bp3wa1YaXJFIgStqyl5sj1VaP5UTtPuLMAhexbva2Pim5Q+svRcJWmkLBK1089om+lXhsMEZ7mJGEpsgELFb3E/sb/UkbC8P+87rVl7ZD3GIZUJnyLbsxhMCvk2KKbeR7regU0N1rewRhkw2Nk6ZnTTr5dLP7PhB73/wdLMkC4pVtcknk2Tr+5eVVG+anHtOVJlu5Yk5E8/5hP++l3nlDPmKXyapV40Ab2l9Cd9hwqFFVZsCGxipBW4oVeAJ7aeePdtH0II5kuJWO8AoWzx4Grp3nROjgwBQWAUfzR/u/HeTQfLJ49ci89vAnTebToQ710QlYE3GwUQhjJBkoWTPAtoGtx3QGttnM=;iyYzbX/TWGTSzjfuEM55qw=="
 ---

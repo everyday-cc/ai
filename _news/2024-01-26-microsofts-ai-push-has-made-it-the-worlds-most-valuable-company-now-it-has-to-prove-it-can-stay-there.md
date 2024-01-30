@@ -33,6 +33,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
+    excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
+    publishedDateTime: 2024-01-29T17:50:00Z
+    webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
+        width: 1199
+        height: 815
+        isCached: true
   - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
     excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
     publishedDateTime: 2024-01-26T11:41:00Z
@@ -42,15 +56,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
-    publishedDateTime: 2024-01-29T17:50:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 27
 
 secured: "UgA7pyEB2I+t82x1vlqbqaNeZqxLdHULJWiWqBi16+xXGVFt6wX+XCNh70bJY5NaUVWEWUOeH30dN7/0gZf7jACbVgAbRTptpN5vp6t7DN9ny6B0lC1NnbEc3Gm/O52Ah2kqoXNY4K4j8DOaBOPc9Eun7p4NCzZOLDBRTd8iwdRzRUULHT8Be6Uu4aUv3VHYwywvkoZOmlJidEtiO73kp07x/zY/fJxrmdJTPRqnTkchf/sSeMgBwNwK8u8/qD9i4XPanbLBTOzZ9lau6BpV3q2tWhbEUVRMNovQM4z50he0gKaI3KIGHG0Eco2jlOHSjeTsFqysyBU1OOTmuYDoJv94Oq6uj6GBTvYjW4Hb+R55YJTaiOf7W9bQvgCmt+3DsPM8asFEik53edaKIu+xypv4asWggCZ4Wv0VJkN1wHuMTF+bb8OT0z5x5LO4fLolrVRtj2y1F8j/DEH3osYsxpf5C9X7sSrGoeOLBbzQQFVHaMjPiSnxQcPO1oP7xv/6aWTWgwirQpHbjVxEzHOohQ==;pBehigPDhMlNmF47dI6pdA=="
 ---

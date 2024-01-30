@@ -43,15 +43,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 17
-  - title: "GM’s self-driving car division under investigation after pedestrian dragged"
-    excerpt: "Cruise, General Motors' self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise \"robotaxi.\" In just the latest setback in the auto industry's attempt ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.abc12.com/news/business/gm-s-self-driving-car-division-under-investigation-after-pedestrian-dragged/article_dca8c65d-d1b2-5f08-b376-a64d842e1196.html"
-    type: article
-    provider:
-      name: ABC12
-      domain: abc12.com
-    quality: 2
 
 secured: "tPjocUUjEEH5N9M64Dm5m3DrSt9Jpft+pCcSKuCyUpaoKqOHOwbmDcwqxPl9F37HbyqAv0KbtVTtVjXwqkxfYMTB8TiO4ya/MBOfVE+3V8AZgpr6uqLj3Riwe8olqIdYbke+9egUQ+BL20dOoJokWzMsSTSQnQo7ZM7X2+Ap+447MFC8bQ5Ani6k3fal3OtAklzgvetAikAP5Hri5/NryFeSvWCdZu6UifbdC+rBfLcxenOGztTFt6yjtN2uABDedQDhKW72uCJ+AyrYtJOu6d6+GrU1ZVcG/x87c2O7fb7TlpdYTlOQpgfTQpOOaCF5ed9j/OjxCMB3dKaaGQBdQb9h9IRPdesJ+/6fsZLNyhQ=;3bCpU+QGVEMTCIOKGD1vzA=="
 ---

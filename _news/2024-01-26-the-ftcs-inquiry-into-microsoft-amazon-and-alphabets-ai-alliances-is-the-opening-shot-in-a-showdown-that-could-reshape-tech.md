@@ -124,6 +124,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
+    excerpt: "Generative artificial intelligence software tools like OpenAI’s ChatGPT, Google’s Bard and Microsoft’s Copilot are helping small businesses and “solopreneurs” transform their operations. Here’s how."
+    publishedDateTime: 2024-01-29T23:15:00Z
+    webUrl: "https://missoulian.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_0b5dced9-aa4a-57be-baa7-7fd188e1b1af.html"
+    type: article
+    provider:
+      name: Missoulian
+      domain: missoulian.com
+    quality: 45
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/0/b5/0b5dced9-aa4a-57be-baa7-7fd188e1b1af/65b284db922af.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft adds two more Indian languages to Translator"
     excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
     publishedDateTime: 2024-01-25T09:25:00Z

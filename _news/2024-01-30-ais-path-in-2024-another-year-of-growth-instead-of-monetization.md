@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Best Of BETT 2024: The Floor of BETT UK Has More AI and Robots Than Ever"
-    excerpt: "Lu Interactive offers an interactive learning display wall quite unlike any other on display here at BETT 2024. This features a projector, speakers and lights, but creates an interactive wall on any flat surface -- rather than floor-based interactions as have been traditionally the offering."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.techlearning.com/news/best-of-bett-2024-the-floor-of-bett-uk-has-more-ai-and-robots-than-ever"
+  - title: "After Davos 2024: From AI hype to reality"
+    excerpt: "Post Davos, we stand at a crossroads where stewardship and innovation can steer us to a future where AI technology amplifies human potential."
+    publishedDateTime: 2024-01-29T03:15:00Z
+    webUrl: "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/"
     type: article
     provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JLXPLZsgoDC649ukCXooKb-1200-80.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/humanoid_robot_pondering_the_meaning_of_life_da-transformed.jpeg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 750
         isCached: true
+  - title: "From Davos To Dominance: How AI Is Rewriting Our Planet and Business"
+    excerpt: "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ..."
+    publishedDateTime: 2024-01-28T18:39:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "f+NVo0Z8+FTjz67mvXpNZo/SsKgycX9xxvynnwp7ExI/ZWKJa5IxswgXiqK1MPO4QalLIQI03mDOz9EJ+B4R6qZppQ9ovWF358okXoPBsY3gF0nvNR7mrlJPZd2/A9fQ6K/sej4SLYhSs41CnasQn14X6sbKf9OYQV+K9BviddbEtnXzViyt6bVlTHxNrkHNCTSn5tdiKZGF88mkFactc8o5yFWDK7HgbDBKylv8guOJc6EtFCPaRahm8ROABbzSZZSZJ4o/sA0HzAQ0+u1fupk+8jKgmadYm7pY5Vm8CbldCXZfPIQ60b66mc9Quml3A03U6JvZYrDqkKv5qwbcWLZrC5Xuds9VHymgr2XKEGRSmIqxhW2Z7GJJqyfa3yo/V8zQWp5uOZqcvTFf2G7oR2KjkymvjuEDpVLIKSlUiuZSFaBZ7PgZt/RNjJ48m8nB152WL/hbg1URYEXFE1VEfRDzhi5OHBo6tHrJIc8of76ADxvOkmwotPjrR8zyza48D/pKujs3Xjt4E/12YEFJzA==;vA0N41ac6E4hPOylGDp6Zg=="
 ---

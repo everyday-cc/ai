@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/science/explinable-deep-learning-antibiotics-new-class-research/article67785902.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -94,6 +94,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-after-davos-2024-from-ai-hype-to-reality.md",
+      "title": "After Davos 2024: From AI hype to reality",
+      "excerpt": "Post Davos, we stand at a crossroads where stewardship and innovation can steer us to a future where AI technology amplifies human potential.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/",
+      "originalUrl": "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/humanoid_robot_pondering_the_meaning_of_life_da-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T03:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -296,7 +347,7 @@
       "originalUrl": "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -475,7 +526,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -506,57 +557,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-ex-google-chief-eric-schmidts-startup-develops-ai-drones-for-ukraine.md",
-      "title": "Ex-Google Chief Eric Schmidt’s Startup Develops AI Drones for Ukraine",
-      "excerpt": "Former Google CEO Eric Schmidt is at the center of a new tech venture, White Stork, a startup developing kamikaze drones powered ... The commission issued a report in 2021 that stated “AI will transform the way war is conducted in every domain.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/01/28/ex-google-chief-eric-schmidts-startup-develops-ai-drones-for-ukraine/",
-      "originalUrl": "https://www.gizmochina.com/2024/01/28/ex-google-chief-eric-schmidts-startup-develops-ai-drones-for-ukraine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/01/Eric-Schmidt-White-Stork-drone.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -722,7 +722,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -825,7 +825,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 139,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
         width: 620
         height: 372
+        isCached: true
+  - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
+    excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
+    publishedDateTime: 2024-01-29T23:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
     excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
@@ -140,6 +154,6 @@ related:
       domain: ft.com
     quality: 13
 
-secured: "QVloWxW60S3B/RVRH2ehAR6vCvZ1w+inuN9HR3HSLm6S3AW9/RMXrVuPP1NkWskn8MVEPON6MktgNVnMO4JwVwQv8MhzoxYav64g0BI/rSkmV3p7C41CkfAPwQ6ddFGsrIf1RZnuhm6Utlp5D0h2CB5tAAdJE88xcVdMaA5R6YN6R9TZeLYV1YcMNFSRNlInU6Ijwzajna9Oy5GcbkajUhoV7W8Yfx2rDfCd9iHn+UV/ljn4x+EP9Ws4UPIZl0pWzpBq9OGZHGkvhIyCBvf3ybk5ybxGQEuv9Y4ex2yR9e+kyd5nz2YqsRjUvT8dTtnGvx1GsAuujnDMkaUD5seK/FmO/6WcHug6LPnGF1ZQXh8=;k9tvlKpFRU2X1evg+6BpHw=="
+secured: "HeCJoqWlh/2CeD3ice6nVyWe4LU81W9bVnH+ysiD3INR7dAHyOzelw9Mn42ja/ybDD4D8/sfFsLK2DCVkKY9Bm8xZhgyl4sTbcp+ExkPJdF9Iy2kLeo9q8inW7HRsM9PD2ZAdqh7eC9v21sPW5iAR7B30qehwzt0tqsUC8k7+Y/k3zf5n/TufjlmNiJcZEviBukvhi54n5UmPwH/dy1cdK881YItBqskgwnj7nIoR/W8fxl7ZmkuU0uzEAqyI9M1YVK6fAWmkyB5zgmaPAqVPqc9mXYkkuMnQKpi6J7icOt09uR6n/elM8o08M28NplTapJVSDYfcQxgxcNHXR7SqM4frKFCbDV3EZUph+yomG2HIojkQ3RzINVjhb2SIyO2SGDvqNWoH+/5N69BUYtkqgCMaEWT5tdBKnhRlu8hGB1DglmK40rMCcbip7ex85vJ5p3i2I8tfJ31PzoyYELwaEV1OLqAZphZh8msrSEjfI+flaoWY7xrRMBzY+Atgn/KV6OQL4awJztEK6AZGqBIuQ==;is1C1FK26gac7R9ksVAr1w=="
 ---
 

@@ -62,6 +62,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
+    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
+    publishedDateTime: 2024-01-29T21:51:00Z
+    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
+    images:
+      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
+        width: 1200
+        height: 955
+        isCached: true
 
 secured: "NIUJYtx6Xj9zctv1bSQbuDvY4+VVTW1wEGhFJL1qbZUOfi59Kw+ew5Vae4Vn2NcqUZ947R21h+SO0fZlhCB/Dy+u8id1dyIdMahh/LbZTsMogloUbct0US0SNMSVOQL0HbmDdmgsh2MaNihx9skZm+6oQ9+4rvSUpFLF7xy/pCZSKegxpCsAJRvmBbEJXr+an5q7jqVQGNmBAts0P6ZNrSzbP4XNxewIl99Jq7QdqqEXTciLgS6cdsJZrZgU2tydJW/88CG+fWONQ4Q4XziUcg02B/LLzu5fh0yNc8s1Xz6yIXV9Z6SZFbA2Yzm45aCEZA1i8S5dScDvIsiUbhB+u4wd2sph+WU6n5dqC2aLW/unatJqjv0X/4mclP8czsBoz2j602Iu90XXFmBRkjZSikCpVJjDvwkW45TBxK9XWklmuQug/UMEv+QMjX1bPLIo9IbgV9vBd6Dn54wobiFycX7QQDE+u2JTf3hpXOykjgtCmsdurMM27CJFmIm4bamP64IPriOLt9dutFOCBy18jg==;JIREMFjXB2rZz2NfO0F61Q=="
 ---

@@ -51,6 +51,15 @@ related:
         width: 1050
         height: 900
         isCached: true
+  - title: "Implications of Generative AI on U.S. National Security National Conference"
+    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
+    publishedDateTime: 2024-01-29T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Generative AI Is All About the Money"
     excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
     publishedDateTime: 2024-01-25T15:26:00Z
@@ -88,20 +97,6 @@ related:
       name: business-reporter.co.uk
       domain: business-reporter.co.uk
     quality: 36
-  - title: "CGI Federal’s Steve Sousa: AI Integration Could Enable Federal Health Agencies to Enhance Patient Care, Drive Innovation"
-    excerpt: "Steve Sousa, senior vice president of health and social services at CGI’s (NYSE: GIB) federal arm, said integrating artificial intelligence technologies provides federal health care agencies with opportunities to improve patient outcomes by harnessing ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.govconwire.com/2024/01/cgi-federals-steve-sousa-ai-integration-could-enable-federal-health-agencies-to-enhance-patient-care-drive-innovation/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 14
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2024/01/daf58c4a-7d07-4d56-bf43-b93604dfbd7e.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Zc/b3uA6zbWNMUVRUQHLvKWCmb07yd+sCJ4CnhPWRQRlxMSXDcfm5XAAR22SenZiQkRLx64ywdeDWBcBRpww3bZ0TlkdkHBUnTWzI6RsQwxgGo0zuZPr4Le5qizeQk/d1Ys4IffFBBYHRvI5zL+L7OsTTr9BjZ7z6qkzAkAZ2GF4CX1g2XGhGT2AAhLg8brioR8Iyu9RGbIWp3TApC+6lI8e1YKsScm4SdTfrGixn4PhLCqqv/C/Yk2tHMk9/jE1vuIBodVJqKuolCvv+uIGetXmeGCu/4Om4hCP0YSgg27YKnWx6k9wJu3SMCiAccuNZs1sQwYvETn0S5YJufAjg+JE3IB08m2apfcCtAYihHCwJSoCgPZ2txKPAE8cyzCVfJ5beAaGtetwptPwd80vRmnEbJHZgi6ITHNHcQ8SKzvm3LQBZV1MUso/vyBRKD4QB6ylz7pb7u74m1A8xF8vcmH0c5AVlWouQ+3Lqk7kyZx5T1jIq2/vEyDnGc8z+XiGGJnZvCn6wN4FPv3ALj0k2Q==;/9kZlNs7qgCT3TGrHsM9CA=="
 ---

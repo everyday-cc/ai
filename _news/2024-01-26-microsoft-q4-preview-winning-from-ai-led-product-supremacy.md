@@ -34,14 +34,19 @@ related:
         height: 768
         isCached: true
   - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
+    excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
     publishedDateTime: 2024-01-29T17:50:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
+    webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 27
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
+        width: 1199
+        height: 815
+        isCached: true
   - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
     excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
     publishedDateTime: 2024-01-26T13:34:00Z

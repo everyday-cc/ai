@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beat
 webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "US regulator probes AI investments by tech giants"
-    excerpt: "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html"
-    ampWebUrl: "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
-    cdnAmpWebUrl: "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html"
+  - title: "FTC hosts tech summit on artificial intelligence; CFPB weighs in"
+    excerpt: "On January 25, the FTC hosted a virtual tech summit focused on artificial intelligence (AI). The summit featured speakers from the FTC––including all three commissioners––software engineers, lawyers, technologists, entrepreneurs, journalists ..."
+    publishedDateTime: 2024-01-29T15:11:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artificial-4803308/"
     type: article
     provider:
-      name: The Grand Junction Daily Sentinel
-      domain: gjsentinel.com
-    quality: 59
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "FTC probes Big Tech ties with AI"
-    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
-    publishedDateTime: 2024-01-25T22:24:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+  - title: "When It Comes To Generative AI, The FTC Has Big Tech In Its Crosshairs"
+    excerpt: "Which is why “centralized, shared resources for improving the safety and quality of AI models” is on Frankle’s wish list. Anyone could pull a data set off the shelf, whether they’re a fledgling startup’s founder looking to fine-tune a model ..."
+    publishedDateTime: 2024-01-29T10:50:00Z
+    webUrl: "https://www.adexchanger.com/ai/when-it-comes-to-generative-ai-the-ftc-has-big-tech-in-its-crosshairs/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 37
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/09/adx-social.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TSl/64iWt+HSQlXlGnMH2tZTNx7obAcXZhgvwwGs1F7aIRj1VlK8K3NfTCg05wXjIdTriG5j/3u9Jen+VTY2tRRXd3VgYUrjTKTEvu7Wo5kniTToda8hUPlBt+SmhKUfwTZyYcQ4ew8pz98jF31hkRDrh7WR6MrM+YM/XkyxP0oStIrdJSuGXv2FYu0FzPuf19/Z8mQFuicoS8ghT3vW2mqBMtbWGpBBTxoTeHk6sLaLPDXALU9GQz8r0/Dj7mBvaS5RBXNtNkfgBHIZNgP9SO4wNRQaONWhwJn1h7Cm5e6CdqKG3lBiBsISl8cZwuMHaSpNY3F9i5CdS4Kzk0I+92tVx9hN3WFSEF9CiUOE8KQ=;3xuUsh2guCE4HAr/hrcBfQ=="
 ---

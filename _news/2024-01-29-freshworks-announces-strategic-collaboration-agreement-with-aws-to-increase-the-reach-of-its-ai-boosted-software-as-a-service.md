@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announc
 webUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-1033005842"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,48 @@ topics:
   - AI
 
 related:
-  - title: "Freshworks Inc: Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
-    excerpt: "This SCA aims to provide AWS customers with new ways to purchase and use Freshworks' solutions, including industry-specific, artificial intelligence (AI)-powered business applications to be hosted on AWS. The collaboration brings together the benefits of ..."
-    publishedDateTime: 2024-01-29T12:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61255907-freshworks-inc-freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-399.htm"
+  - title: "Amazon Web Services, U of A join forces to streamline research using artificial intelligence"
+    excerpt: "The University of Alberta has forged a partnership with Amazon Web Services to launch an artificial intelligence discovery place."
+    publishedDateTime: 2024-01-30T00:37:00Z
+    webUrl: "https://edmonton.ctvnews.ca/amazon-web-services-u-of-a-join-forces-to-streamline-research-using-artificial-intelligence-1.6747460"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 43
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/1/29/amazon--u-of-a-team-up-on-ai-project-1-6747461-1706574575649.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "New AI apps transforming our daily lives from creativity to research"
+    excerpt: "A selection of new AI apps enabling you to easily transform your daily lives and business workflows into more productive and accessible"
+    publishedDateTime: 2024-01-27T14:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-apps/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-AI-apps-transforming-our-daily-lives.jpg"
+        width: 1280
+        height: 717
+        isCached: true
+  - title: "AI-powered asset management startup Kshana aims to streamline investment research"
+    excerpt: "Head of AI at nference; and product leaders from Twitter, HP and Google. The startup plans to raise additional funding from institutions soon. It was part of TechSparks 2023, YourStory’s flagship tech startup event held last year in Bengaluru ..."
+    publishedDateTime: 2024-01-25T02:18:00Z
+    webUrl: "https://yourstory.com/2024/01/ai-powered-asset-management-startup-kshana-streamline-investment-research"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 32
+    images:
+      - url: "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofImageTaggingnoframesEditorialTeamMaster-1706092427563.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
 
 secured: "iaHOP1nGd+YLCZRL6/UHvNCclAOxabm2KBdOq4eD84UKvDbKaumEdiaQyYdyytkIXlZrrQ5scfKRhpUNkF5Xl8ph32DB6kB67TtwlQNkZ3QOPPB6vhpEzJfsc3MOP77QFzaXHzsboIdZDDokxc9SMFzsVb+1i0xg3y1y0YrF9EKMED60qyBe1Gyjo67EU1ArAMf2ZRhnoI6I0iGCsXYOoaItOTBmYet9w52YRWf18an4qifcMTR6cTyfmDK40P1t3Fx7wYfgzYPr+czAr5H/LlWKOZlNMNaCPtvVAew9wdSN9iR4rHB7/46RfDM1ZH9lEa3uzPEbpzV1362CSCb3k1/YFLFmsHXGHpw8hsx2KSM=;hLLaGU4umbO5L69fmFmWOg=="
 ---

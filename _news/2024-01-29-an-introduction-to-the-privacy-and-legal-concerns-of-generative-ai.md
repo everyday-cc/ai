@@ -61,22 +61,6 @@ related:
         width: 1512
         height: 900
         isCached: true
-  - title: "IBM Unveils AI Stories with Watsonx to Enhance Coverage of GRAMMY Awards"
-    excerpt: "IBM has launched AI Stories with IBM Watsonx, a generative AI solution developed in collaboration with the Recording Academy. This innovative tool aims to generate and amplify editorial content focusing on GRAMMY nominees leading up to and during the 66th ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628"
-    ampWebUrl: "https://infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
-    cdnAmpWebUrl: "https://infotechlead-com.cdn.ampproject.org/c/s/infotechlead.com/artificial-intelligence/ibm-unveils-ai-stories-with-watsonx-to-enhance-coverage-of-grammy-awards-82628?amp=1"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 73
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2024/01/AI-Stories-with-watsonx-on-GRAMMYs-social-media-channels.jpg"
-        width: 640
-        height: 405
-        isCached: true
   - title: "AI is for everyone: Prompts to help you with work, life, school and love"
     excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
     publishedDateTime: 2024-01-28T05:45:00Z
@@ -91,20 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "BIELEFELD, Germany and COPENHAGEN, Jan. 25, 2024 — NTT DATA Business Solutions and IBM have announced the establishment of a Center of Excellence (CoE) for the watsonx generative AI platform. The joint CoE will focus on the use of the IBM watsonx AI and ..."
-    publishedDateTime: 2024-01-25T00:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/08/watsonx-300x235.png"
-        width: 300
-        height: 235
-        isCached: true
   - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
     excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
     publishedDateTime: 2024-01-25T10:45:00Z
@@ -115,6 +85,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "09j3hxWi+SuEGsWTtqSfOFgLYC1Mat47htJgZVaUK4FKk+KQ9LYYvTtYlG4D0/MWH+SnZtuTMxyQVZdcfWh5LHOVfVfDWngSbh5SsXwlv9WFUzWhrBCbJgSaKs9raAyP4Hw+a3EZjGv6IX7mNNJnFHLH410zRUrfyrSC9qbg3TSpadOaUGJtcdNWHdTLwgPXCITmEZNxefVmvqoIzJaQJ7cIdCVrvb1HI3DpxEYZ3ccmQGPFyj7JoV4wFguHGu+DsRHidK9Xz2UbtK7aMhicwBElBJw73YTJIW1UeeAbv5taVnp1hClzdX3s7rpaWZW3Kbi/NqyLXYXVYyrAN2HYupzVs/W6OooeeKoChGEDedA=;bJFRDJBIeXjuYBQwD12QNg=="
+secured: "ddPaAHywGaRaQc71sIcNDed3dtpa1YA5dlNbmzOQ5lMWkRfqUF6YwIuasTOFhc5pcuObA+a8jdLwNKukPLW5RZgUQvNJhMr18M6CgIBAacwuKeywF2Wu0Xz6p3Ct+sjqmzDFHrHVOHzsgiKRM9+QweKqWl1qeEdxDDvMFBcmVeGFam9nBWPdVHMYP4vVzhV2sC9smRVc4depjWNZn88bTW7ez+TDzqs74h57ygZqUKYzkooaMILyvHcPP8wfAZw1VC2yYOKOZeQL9Go5v/ZKXhEdnKPJBku3Mgdw4zMROkMxuZgLM+QSdlkxUQvdl0YkNF1S6eC4yWicx2gRF0XpQzXfgDLAIDefJWc/+YtcB6T0TROZRSrqrJudyKygCjMbaSPLTybdBKkaiOIz3OVERSuQ9mnU9dBpnfe5ERkff0IxLpm1GydrXJGh6xmXPA1yHn9pAHEpRKHpB+Faj/7UqgBG3jg4AZMa1CmnWc58uDsVUu1VlSZ3+5PWZPRyhpK6e73jh+Ic8zgCkkzxabsuqw==;o8bt/wGtearOGg6zr4gZgg=="
 ---
 

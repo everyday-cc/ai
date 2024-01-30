@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2024/01/28/ex-google-chief-eric-schmidt
 webUrl: "https://www.gizmochina.com/2024/01/28/ex-google-chief-eric-schmidts-startup-develops-ai-drones-for-ukraine/"
 type: article
 quality: 67
-heat: 73
-published: true
+heat: 67
+published: false
 
 provider:
   name: Gizmochina
