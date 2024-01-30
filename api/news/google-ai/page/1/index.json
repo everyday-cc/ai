@@ -672,6 +672,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
+      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
+      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-20-google-makes-a-surprise-new-offer-to-all-pixel-8-pro-buyers.md",
       "title": "Google Makes A Surprise New Offer To All Pixel 8 Pro Buyers",
       "excerpt": "It looks like Google is planning to replace Assistant with the more accomplished generative AI chatbot, Bard, which could end up with some premium paid-for tiers soon. Your Pixel phone is a conduit to more Google subscriptions. Update January 19th ...",
@@ -1434,58 +1486,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-how-best-take-makes-your-group-photos-better.md",
-      "title": "How Best Take makes your group photos better",
-      "excerpt": "Learn more about how Google built Google Photo’s Best Take tool.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "originalUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Best-Take.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/how-google-photos-best-take-works/amp/",
-      "publishedDateTime": "2024-01-16T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

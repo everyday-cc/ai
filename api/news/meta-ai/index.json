@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-30-meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model.md",
+      "title": "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model",
+      "excerpt": "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
+      "publishedDateTime": "2024-01-30T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-hugging-face-teams-up-with-google-to-accelerate-open-ai-development.md",
       "title": "Hugging Face teams up with Google to accelerate open AI development",
       "excerpt": "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs.",
@@ -1343,59 +1395,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
-      "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
-      "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
-      "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
-      "publishedDateTime": "2023-12-22T20:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
         "Meta AI"
       ]
     }

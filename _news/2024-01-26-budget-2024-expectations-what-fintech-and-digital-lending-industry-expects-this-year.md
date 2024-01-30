@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectat
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Budget 2024: Fintech sector wants government to improve KYC and anti-fraud systems"
+    excerpt: "Fintech sector expects the interim budget to help boost the lending space and introduce initiatives that can help support further innovation."
+    publishedDateTime: 2024-01-30T05:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/articleshow/107249791.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/amp_articleshow/107249791.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/amp_articleshow/107249791.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 38
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35180,msid-107249760/budget.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
     excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
     publishedDateTime: 2024-01-29T09:33:00Z

@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-29-4-new-ai-features-for-developers-in-singlestoredb.md",
+      "title": "4 new AI features for developers in SingleStoreDB",
+      "excerpt": "From faster vector search to collaborative Notebooks, SingleStore recently unveiled several AI-focused innovations with developers in mind. Let’s dive in. At the inaugural SingleStore Now conference, SingleStore announced several AI-focused innovations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.html",
+      "originalUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/04/11/cliff-diving_taking-the-plunge_dive-into-a-project_ocean_swimming_by-aydinmutlu-getty_2400x1600-100832259-large-100933055-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.amp.html",
+      "publishedDateTime": "2024-01-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-idtechex-the-age-of-artificial-intelligence-ai-chips-to-2034.md",
+      "title": "IDTechEx: The Age of Artificial Intelligence - AI Chips to 2034",
+      "excerpt": "Drawing from the \" AI Chips: 2023–2033 \" and \" AI Chips for Edge Applications 2024–2034: Artificial Intelligence at the Edge \" reports, IDTechEx predicts that the growth of AI, both for training and inference within the cloud and inference at the edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2327613/IDTechEx.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T07:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
       "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
       "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
@@ -673,7 +767,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1076,7 +1170,7 @@
       "originalUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1115,110 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
-      "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
-      "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Abstract_art_of_a_business_man_IT_guy_looking_at_a_co_b0eba95a-e87d-4907-b704-c6c0ccfb5b69-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-navigating-the-potential-and-perils-of-synthetic-data-in-healthcare.md",
-      "title": "Navigating The Potential And Perils Of Synthetic Data In Healthcare",
-      "excerpt": "Synthetic data holds great potential for enhancing healthcare AI, but caution is required due to its associated risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b48b0efa533a4f3972fef0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1371,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/amp/",
-      "publishedDateTime": "2024-01-27T05:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

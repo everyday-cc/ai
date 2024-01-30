@@ -51,22 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
-  - title: "Microsoft adds two more Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India on Thursday said it has added two new Indian languages - Chhattisgarhi and Manipuri - in Microsoft translator. With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T06:52:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/microsoft-adds-two-more-indian-languages-to-microsoft-translator-12124071.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/Microsoft_reuters.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z

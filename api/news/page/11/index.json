@@ -2,6 +2,144 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-01-19-artificial-neural-network-ordinals.md",
+      "title": "Artificial Neural Network (Ordinals)",
+      "excerpt": "UK Inflation Rate Rises to 4.0% Dashing Hopes for BoE Rate Cut DiscussionsWed, 17 Jan 2024 07:26:19 GMT USD/JPY Forecast – US Dollar Looks Ready to Pull BackFri, 19 Jan 2024 15:11:22 GMT S&P 500 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
+      "originalUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXEmpire.com",
+        "domain": "fxempire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-the-secret-to-healthcare-ai-is-human-beings.md",
+      "title": "The secret to healthcare AI is ... human beings",
+      "excerpt": "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
+      "originalUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
+      "publishedDateTime": "2024-01-19T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.md",
+      "title": "Amazon's AWS to invest $15 bln to expand cloud computing in Japan",
+      "excerpt": "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
+      "publishedDateTime": "2024-01-19T06:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-attackers-could-eavesdrop-on-ai-conversations-on-apple-amd-imagination-and-qualcomm-gpus.md",
       "title": "Attackers Could Eavesdrop on AI Conversations on Apple, AMD, Imagination and Qualcomm GPUs",
       "excerpt": "Security researchers from Trail of Bits identified a GPU memory vulnerability they called LeftoverLocals. Some affected GPU vendors have issued fixes.",
@@ -1059,154 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
-      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
-      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
-      "publishedDateTime": "2024-01-18T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
-      "title": "Academic Intelligence: The Evolution of Education Through AI",
-      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
-          "width": 2311,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T12:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diplomatic Courier",
-        "domain": "diplomaticourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-deepminds-cofounder-mustafa-suleyman-warns-that-ai-is-a-fundamentally-labor-replacing-tool.md",
-      "title": "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool",
-      "excerpt": "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
-      "originalUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65a90e936979d737182439db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
-      "publishedDateTime": "2024-01-18T12:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

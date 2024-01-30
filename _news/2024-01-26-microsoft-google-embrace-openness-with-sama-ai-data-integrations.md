@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "ServiceNow’s Strong Growth and AI Integration Justify Buy Rating and Increased Price Target"
-    excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on ServiceNow (NOW – Research Report), with a price target ... Bachman is optimistic about ServiceNow’s initial success with artificial intelligence, particularly with the GenAI features ..."
-    publishedDateTime: 2024-01-25T06:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/servicenow-s-strong-growth-and-ai-integration-justify-buy-rating-and-increased-price-target-1032997661"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Four steps for integrating generative AI in learning and teaching"
     excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
     publishedDateTime: 2024-01-29T00:00:00Z

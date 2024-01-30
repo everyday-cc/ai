@@ -23,43 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "The rise of digital banking: Fintech trends in 2024"
-    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
-    publishedDateTime: 2024-01-29T18:34:00Z
-    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
+  - title: "Application of Gen AI in Banks and \"Fintech\""
+    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
+    publishedDateTime: 2024-01-30T05:28:00Z
+    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
+      name: Kompas
+      domain: kompas.id
+    quality: 54
     images:
-      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
-        width: 1000
-        height: 800
+      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "FinTech Focus: Catch latest developments of the week"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2024-01-25T10:33:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-focus-catch-latest-developments-of-the-week-11/"
+  - title: "AI, sustainability and enterprise tech marketing take center stage at CES 2024"
+    excerpt: "At CES 2024, we witnessed a wide range of innovative applications in AI, sustainability and enterprise tech marketing. What was considered a new innovation just four years ago at CES 2020 is now more advanced and mainstream. We are seeing an increase in the promotion of AI in its various forms."
+    publishedDateTime: 2024-01-30T03:30:00Z
+    webUrl: "https://siliconangle.com/2024/01/29/ai-sustainability-enterprise-tech-marketing-take-center-stage-ces-2024/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 50
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/11/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/AI-Sustain-AdobeStock_581983652.jpeg"
+        width: 5000
+        height: 3333
         isCached: true
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "2aBHAD7xsGsMOSGwFRHqkkTUf6Rwr0OrX+LVMMwhKUks+7CU2SM7qN8/Vg2mdUl9Ohi8kkxcPPuGfSZz+4p333ks0LVcBqcALmrQqIYeOjs7Qsa1wvXEeEf9JuXrV22JzYqe2QeQCjgvpVHm4tc/4vq7mVTkqjckP3JNWZ+90z65U8jM1bEm/9KGMOQ8eKEl7EYyN1eWE2EaWB2OB3XqYsA/SLeNYPYx/hBNJMRMfr2AkFTfscglxvIfW0rmycY2cB6RvPyKQyx34BexvDYEsP2ytZPH+0Pqqe/n42jLacbXFzC1lcR2n6KF2TmjrKNTcE0XGZIkabwe0e3tB9mEz7Wrm5P+b8dlMBzZSMoSz1vPIj6tPsFYTx99aNHKHmIgkwU+oMqomGvqXWbVU83d5xetFSxSml08oQgPVFPIVNA9nfd9eWnOj4KgjWy9a1dCY/5cD3PwkD4QcMlvRPqTo+8xaP6v+aoxDKc1H+VTu8HUWIXJE6INv7jTLQZk1/mTOmWU00R5SMJlJA/pkXMMxQ==;TODB1y9PzbnaG+4wH/Wdfg=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand"
-    excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence."
-    publishedDateTime: 2024-01-25T06:57:00Z
-    webUrl: "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    ampWebUrl: "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9831328596374683969694032955726021614765---1.jpg"
-        width: 768
-        height: 519
-        isCached: true
   - title: "SK hynix vows to solidify leadership in high-growth AI chip market"
     excerpt: "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ..."
     publishedDateTime: 2024-01-25T07:20:00Z

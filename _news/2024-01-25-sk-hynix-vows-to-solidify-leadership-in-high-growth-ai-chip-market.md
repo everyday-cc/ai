@@ -9,8 +9,8 @@ ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Korea Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand"
-    excerpt: "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence."
-    publishedDateTime: 2024-01-25T06:57:00Z
-    webUrl: "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    ampWebUrl: "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP9831328596374683969694032955726021614765---1.jpg"
-        width: 768
-        height: 519
-        isCached: true
   - title: "SK Hynix’s Q4 profit signals an AI-backed rise in advanced DRAM demand"
     excerpt: "Sales of key products, DDR5 and HBM3, have surged with over four and fivefold increases compared to the previous year."
     publishedDateTime: 2024-01-25T11:09:00Z

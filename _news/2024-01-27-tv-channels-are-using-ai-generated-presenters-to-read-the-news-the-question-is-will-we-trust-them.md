@@ -38,20 +38,6 @@ related:
         width: 624
         height: 351
         isCached: true
-  - title: "OpenAI refuses to queue for AI chips; will build its fab faster to get them?"
-    excerpt: "OpenAI CEO Sam Altman's plan to raised eyebrows these days as some say that Altman wants to raise cows for his milk, which would make sense if the cost of milk has become exceedingly expensive or if they have to line up for months to get limited supplies."
-    publishedDateTime: 2024-01-25T05:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240124pd205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "iVFiqGZwI3s2wVZlZJe+Fbu1vCAT5v/Qlwb7cMiWEB7OX0BaEXwonsjIwBLzyHSDmB54A0cRPAfbsYoIGerJV+mc8YBHjUGdIyxe8qwwRR4mcrprfva05rwmxpkksH+s7J8bPG1IBc7F9UdCGORoc75EgCP8xtznNDRokDL6oN7XsOc+0rBaM/2R7sebibehYiil/rd1vxONF+3Iuf2z1LJuXBG4Akn2zT5dRhdoJm6rVdgyDGhtlFmCPWBuphhOAhRzBKssQzSSZyO2hAzK6FQa8QgezoG4Yd0ZDcPcWq2BuUWJtKar4C9mngoeMqZodayCxOISR4PULpVfgOtflmMtpXfcmjYS56Yl4J6dgeOpnxCITJGAs6kyBuxnu5MFyCQOoT+xdr94Q5Gwsj8dlPmkzQO0z0K7Fm+Wke5zVjXQGFUnU1Jc8zOyNKc13cqblbpwfZRLM4WCOFq6Q0Bag9N5F9obGHTl6XMXx3R5JjX30Y1Wwh6lFLnaeGcq5afLBGIfV/Hd0fx5AhfzSvtcGQ==;a91hsE5Is4k2gGc0j5xzMw=="
 ---

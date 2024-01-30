@@ -2,6 +2,126 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
+      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
+      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-mark-zuckerberg-announces-new-open-source-agi-under-development.md",
+      "title": "Mark Zuckerberg announces new open source AGI under development",
+      "excerpt": "To achieve this, Meta, the parent company of Facebook, is investing heavily ... AGI represents a frontier in AI research, blending the power of machine learning with the adaptability of human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
+      "originalUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
+      "title": "This AI robot was made to help seniors combat loneliness",
+      "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
+      "originalUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T20:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-how-to-build-a-successful-disaster-recovery-strategy.md",
       "title": "How to build a successful disaster recovery strategy",
       "excerpt": "A disaster recovery strategy lays out how your businesses will respond to a number of unplanned incidents.\nThe post How to build a successful disaster recovery strategy appeared first on IBM Blog.\n",
@@ -1082,144 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-artificial-neural-network-ordinals.md",
-      "title": "Artificial Neural Network (Ordinals)",
-      "excerpt": "UK Inflation Rate Rises to 4.0% Dashing Hopes for BoE Rate Cut DiscussionsWed, 17 Jan 2024 07:26:19 GMT USD/JPY Forecast – US Dollar Looks Ready to Pull BackFri, 19 Jan 2024 15:11:22 GMT S&P 500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "originalUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXEmpire.com",
-        "domain": "fxempire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-the-secret-to-healthcare-ai-is-human-beings.md",
-      "title": "The secret to healthcare AI is ... human beings",
-      "excerpt": "Artificial intelligence is impacting every industry -- even healthcare. AI excels at repetitive tasks and could free up time so human beings do what they are best at -- being human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
-      "originalUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8340b48-52b3-410f-9548-af5106d9beee/5208d7da-14a2-4a61-b832-89dbaa694f53/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/secret-healthcare-ai-human-beings.amp",
-      "publishedDateTime": "2024-01-19T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.md",
-      "title": "Amazon's AWS to invest $15 bln to expand cloud computing in Japan",
-      "excerpt": "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "publishedDateTime": "2024-01-19T06:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

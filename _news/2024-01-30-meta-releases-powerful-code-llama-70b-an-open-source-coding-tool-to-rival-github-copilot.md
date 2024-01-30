@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model"
+    excerpt: "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property."
+    publishedDateTime: 2024-01-30T04:04:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "Meta Releases Code Llama 70B"
     excerpt: "Meta has released Code Llama 70 B. The new iteration, available for download at https://bit.ly/48QeOs7, maintains an open license, aligning with its predecessors—Llama 2 and prior Code Llama models—aimed at supporting research and commercial innovation."
     publishedDateTime: 2024-01-29T17:31:00Z
@@ -56,6 +72,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "ZgcfaqErr3JgJYwr5hX0bkPjiQE3nnP8OxkN5bYr7ahIW8l3CikfnB9Kc4VrhyLKLwBTxqIotkdwGb5ntF7Xrfoqj+lY9ge94ltQs5KJ2qh0roaM04PgZPU5rhA3Or93gZCDtTmFHcFY/RaM3Q2yjWft1rOJq7b0AsVOxnGu/7y2XUZq2p+lKcX6c85y8WkUSEEnfpVtrk06cMqIcWL8mL+sMzyGANgO0A7MrZ/VXcfSMJq74u5EZrEVx2xICECrUDU6G3z9pZHMpHQP8sSt+uuAAAkmyineV8kbR2B8fF5hBKnVPjVrKR4pCAbJS4hzzpj8ZYy34D4guZBx7TmekFE90CBUmdCGyVz9bmBS/Pg=;w5etEkgenLwQFeJiwi18Hw=="
+secured: "MLEt3NENu2Xl6vwRnDbfS6jp8QZDXQXXNNU/DZfPyv+UTwSnGHSxLKVwaifS2QcXlsATGFZT0gcFQchaPDVcQPvc4Qamlfl8SXpxU+IOCO+RfPDRPHFD3mAihXxvgRyoVbc68r9+/ho/888LR742XMkOF4GM7bZEYHo6Q8nwIkOTCqSlWGf71aj7RD3sQfBskaKQyW64NzVAf/XQSHEtm+6l1DPgEV6bR98ugUcCVIAy/NPT/+tEIJAzr9VLIBJ16pyOJNQDi+vA7mP1KrXQ3MFsDVOkvNQGtDQLS/rNVXQZTfm80NE9EqIriv9tLJry06/G+RJD6Px9QKRXno5ImUA/z6LW7V7gFpAUdcDhL6oOdMYBWv/HchSAe7r9IDlcqT+TtWtuWxB07Xc81vZ9VCULLCA9IbN/7SGHTq/p4kDkiLdRPsU+DGgrB54ZAwHg8p4yEzWWJmOrKSGfl9Z/76popuQRayet29JQd4ygMfBT6e7miT+5gtOUZfP6IMOIjpBtX1ZBSN2vTFefZqyAIg==;JF+ZMgutLE5b0frG+dpyOQ=="
 ---
 

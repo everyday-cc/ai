@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "ServiceNow’s Strong Growth and AI Integration Justify Buy Rating and Increased Price Target"
-    excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on ServiceNow (NOW – Research Report), with a price target ... Bachman is optimistic about ServiceNow’s initial success with artificial intelligence, particularly with the GenAI features ..."
-    publishedDateTime: 2024-01-25T06:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/servicenow-s-strong-growth-and-ai-integration-justify-buy-rating-and-increased-price-target-1032997661"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Microsoft, Google embrace openness with Sama AI data integrations"
     excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
     publishedDateTime: 2024-01-26T10:37:00Z

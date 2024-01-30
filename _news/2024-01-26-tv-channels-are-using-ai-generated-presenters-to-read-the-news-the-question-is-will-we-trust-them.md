@@ -7,8 +7,8 @@ originalUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-au
 webUrl: "https://www.bbc.com/future/article/20240126-ai-news-anchors-why-audiences-might-find-digitally-generated-tv-presenters-hard-to-trust"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: BBC
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI refuses to queue for AI chips; will build its fab faster to get them?"
-    excerpt: "OpenAI CEO Sam Altman's plan to raised eyebrows these days as some say that Altman wants to raise cows for his milk, which would make sense if the cost of milk has become exceedingly expensive or if they have to line up for months to get limited supplies."
-    publishedDateTime: 2024-01-25T05:56:00Z
-    webUrl: "https://www.digitimes.com/news/a20240124PD205/openai-ai-chips-cowos-advanced-packaging-ai-gpu.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240124pd205_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "TV channels are using AI-generated presenters to read the news. The question is, will we trust them?"
     excerpt: "A start-up is developing a news service presented artificial intelligence, but will it upend the parasocial relationship between television audiences and those on screen?"
     publishedDateTime: 2024-01-26T16:40:00Z

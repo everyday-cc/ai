@@ -65,6 +65,20 @@ related:
         width: 251
         height: 282
         isCached: true
+  - title: "Why are so many robots white?"
+    excerpt: "Problems of racial and gender bias in artificial intelligence algorithms and the data used to train large language models like ChatGPT have drawn the attention of researchers and generated headlines."
+    publishedDateTime: 2024-01-30T04:00:00Z
+    webUrl: "https://www.phillytrib.com/commentary/why-are-so-many-robots-white/article_088ac0c5-b4fe-50e1-9cf2-010d3c8e800b.html"
+    type: article
+    provider:
+      name: Philadelphia Tribune
+      domain: phillytrib.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/6/a3/6a37c5c5-b6ae-5e0b-b4ec-4ed3249fb6d3/65b7c008528e2.image.jpg?crop=1024%2C538%2C0%2C72&resize=1024%2C538&order=crop%2Cresize"
+        width: 1024
+        height: 538
+        isCached: true
 
 secured: "Mf/JXiQNUUvjs0FRhXOc527MdWYWX4RhEhcaQVEHVuETZk/pkZmpAIxcXhHiiveqtt6elrhR9FV5wkxirFaD30NnIlY3kBaEnhQRTHpq3tvpWniKVz7s5/KPaeyLTzbUIJkrApPZs8Nd2kTDY5fTkg2gVUQ6GmiswFsl3EnBYYl66JsasCpORphwKZ7VhxaNgSYU5f7gg1Rx3PSqRJK7Umx9g25hoAYL/KfMEsbjk1pVnkvwPlWyoikGY3EM5ePPmsse9NVfYk4nK2a86MCI1FlgwA5GFfp0OvpK6juaUKCWsKKCQYlgB9OolJtGfcqwWvA9HeiyCqOAWM0bTcE4fpDa1hmTcjkcJq3Qi+6MDk0=;Nw17d5ZJB3Y1Jux7HxmOuw=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model"
+    excerpt: "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property."
+    publishedDateTime: 2024-01-30T04:04:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 560
+        isCached: true
   - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
     excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
     publishedDateTime: 2024-01-30T04:22:00Z
