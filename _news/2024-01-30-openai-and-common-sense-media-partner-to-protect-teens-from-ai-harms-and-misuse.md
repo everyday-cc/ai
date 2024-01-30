@@ -88,6 +88,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Implications of Generative AI on U.S. National Security National Conference"
+    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
+    publishedDateTime: 2024-01-29T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
     excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
     publishedDateTime: 2024-01-26T17:31:00Z
@@ -125,6 +134,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "AI and healthcare communication"
+    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
+    publishedDateTime: 2024-01-28T02:26:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 36
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z

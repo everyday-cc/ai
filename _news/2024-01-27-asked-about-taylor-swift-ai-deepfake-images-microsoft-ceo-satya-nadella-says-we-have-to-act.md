@@ -59,6 +59,22 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Microsoft set for AI-powered revenue surge"
+    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
+    publishedDateTime: 2024-01-30T10:38:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
     excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."
     publishedDateTime: 2024-01-29T05:51:00Z

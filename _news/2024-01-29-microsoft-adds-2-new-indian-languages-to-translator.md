@@ -51,22 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
-  - title: "Microsoft adds two new Indian languages to Translator service"
-    excerpt: "Microsoft has added two new Indian languages Chhattisgarhi and Manipuri in Microsoft Translator, expanding the total number of supported Indian languages to 20. This addition aims to enhance linguistic and cultural diversity in India."
-    publishedDateTime: 2024-01-25T10:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/articleshow/107145371.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-adds-two-new-indian-languages-to-translator-service/amp_articleshow/107145371.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 61
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107145308,width-1280,height-720,resizemode-4/107145308.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
     excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
     publishedDateTime: 2024-01-26T00:00:00Z
@@ -109,20 +93,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft adds two more Indian languages to Translator"
-    excerpt: "With the latest move, Microsoft Translator now supports a total of 20 official Indian languages."
-    publishedDateTime: 2024-01-25T09:25:00Z
-    webUrl: "https://www.deccanherald.com/technology/microsoft-adds-two-more-indian-languages-to-translator-2864237"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 41
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Feec281dd-3591-49c4-b1d7-a6dbe1b54408%2FMicrosoft_Translator.jpg?rect=0%2C0%2C1106%2C581&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
     excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
     publishedDateTime: 2024-01-26T11:52:00Z
@@ -137,6 +107,15 @@ related:
         width: 1200
         height: 856
         isCached: true
+  - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
+    excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
+    publishedDateTime: 2024-01-30T00:35:00Z
+    webUrl: "https://techreport.com/news/microsoft-poised-to-overtake-apple-as-most-valuable-company/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
 
 secured: "DbY0ZDklqib3G8usqK9jB4YFK7GkK8b46FZzDSlqTuhw5d6nb/OrQIiukWOUDjt0pZPPeMziMTYL78rOM+w/7b9aKowKzm/XsZkL1ABjEF0Zixu8nSB2Rx3JYiX0ZCg5K1cemwPUTqXJ/Nsrs9fczFnr/qB/M/El7Ob5iXi/ryezU+zshZWvoJzHmEoG1w0/hCGnDB2riCP8eirpyLqqTRym7bv7pBFGsdw96ePu4pMTQdEsPKc7WhU+EzYOQu2LwflQYpytIBg1y4zjzezR7rs5flI13sr4kKS3k21jj/Uyaq8ij9iae9YTmHnmZdveBSqdTanXs+p/zxmdQwEb1QEdDgWfe9V1ftzD/VA7OYk=;Qf/N6Woa/MAQqcfbav8b7w=="
 ---

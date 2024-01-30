@@ -7,7 +7,7 @@ originalUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation
 webUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation-a-major-theme-this-legislative-session"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,47 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
+    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
+    publishedDateTime: 2024-01-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 94
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 900
+        isCached: true
+  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
+    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
+    publishedDateTime: 2024-01-29T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "A red flag for AI translation"
+    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
+    publishedDateTime: 2024-01-25T20:31:00Z
+    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
+        width: 8256
+        height: 5504
+        isCached: true
 
 secured: "MgpiHLlORRyf8AdADfo6BSpUFRNKJwUk1vSLzbz9QlayNXBvsa/Upcu58m07orlo7HfvUlIciwmJLL6ZPfPL/RzMEZR7K92xMnCE3V3Yv72tNTrUP4IKgUCLcGN7YJSzCBQgm9gimpRG8uZF4sc5U/xAYs8xxlJz2lGGckL2qCZL+8I5Eeu+TxBMrKJK10YxDDPHctxZaKq+q/Q4wIUsFLw753tenXntp8wZpZKg6rJj5BCHRktw4XL5F0r1Qe5QYCvJO/Fh2/kNhz6XU49i96EIMNOw6epJIqJ/PPv+hKgPhcc/D5lmx3lQj/Y9eAAnoGkSlWiqV8sMZNFiAgccZeUpHUJY8+/fS4+juDPdEKEkBvTJTOdKX0SLB7pwQdwdtIdC+FyY8WCMyX2Cs3ItqA+G95AooHeAGwqy4GnaLLKjwilOxiVWw1ufu3kqE74M+o1uvtbvHlCiM7wvs7XDLWphUQJ+1oi3eQeHNvpTdRcTnM/tMMeD6Fdc2njgR/xF5xe0jkXzxcl9GQiiOki1gA==;Y5mopoVLrlVIF9g7nh0MAQ=="
 ---

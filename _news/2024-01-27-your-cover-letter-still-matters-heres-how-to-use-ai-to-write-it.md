@@ -21,31 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
-        width: 1200
-        height: 575
-        isCached: true
-  - title: "Afraid of AI? Here's how to get started and use it to make your life easier"
-    excerpt: "Artificial intelligence, or AI, can sound overwhelming if you've never tried it. However, it can be a game changer for just about anyone."
-    publishedDateTime: 2024-01-25T09:21:00Z
-    webUrl: "https://www.freep.com/story/tech/columnist/komando/2024/01/25/how-to-use-ai-to-improve-life/72328123007/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 17
-
 secured: "J+L2XFDAcJnM1s4/Mz6EPI2OEdmJswpUhpJxHVGO58RZLORUPsaYeryG/c4jfJEqy75PxFSOrd7oA5w1NcdWn/cF3pNKeX9BD/vxKhdb9u+GTqffj3tVnJjcQ5+UC6hnuX+j0Xje+rdZnyRx5UrFdgUc//EuiBKO+T82ujmPu0vtAqfEgEDvbZT6+Sw+29EyhRSuDYvu9/j2x5T9oI7ygHwSKgIcHvMEl3sKQdtR5TmnRyBrAn25E1rLuTeJmS31K5e4oxMkXuqR16pHlFQgg//Ogvv69enE9bkn/m9YHsUcBiBtyIxfhz3XY38gz+Sz1WEhYxnfpVEAN00Cri8Vvqn2iosK9UxQK+XkKm2+UXaTmrxjc0uV3ny4Ui/CcHztiJ8vq8ysXXZkAXxzdEoWWwV60u9DdMwDi8IxS/Y3MdlfItNaLxZS4hb0U/JlOr8E1XJQl+Pa1941aPRSx0DFPAftMCOx2aIhjPtMsVdA9q6SMmJ+HrPfujGDYkyUq5Sv6VTfM0nqT1NuxFB2An7Myw==;fqi2HNDgblaGL5pULUzOpw=="
 ---
 

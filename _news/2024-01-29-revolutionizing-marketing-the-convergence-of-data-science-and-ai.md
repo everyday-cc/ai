@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Conversational marketing - combining the power of AI with humans"
+    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
+    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
+        width: 640
+        height: 390
         isCached: true
   - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
     excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."

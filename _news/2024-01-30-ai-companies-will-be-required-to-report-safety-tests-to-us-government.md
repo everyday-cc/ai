@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6589627/ai-safety-tests-reporting/"
 webUrl: "https://time.com/6589627/ai-safety-tests-reporting/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.c4isrnet.com/resizer/C3gopGxEqzlCgzJUEic37kFQV4g=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CNMDMYHQ2RBKBC2U4OONO6KLWQ.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "AI companies will report their safety tests to the government"
+    excerpt: "(AP Photo/Jacquelyn Martin, File) WASHINGTON (AP) -- The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI ..."
+    publishedDateTime: 2024-01-30T10:20:00Z
+    webUrl: "https://www.newstribune.com/news/2024/jan/30/ai-companies-will-report-their-safety-tests-to/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/206381872_206381872-1f141c021b494c2dac5d9f3d6df65f2d_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
         isCached: true
   - title: "AI companies will need to start reporting safety tests to the government"
     excerpt: "The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday to review ..."

@@ -41,20 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "A red flag for AI translation"
-    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
-    publishedDateTime: 2024-01-25T20:31:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
-        width: 8256
-        height: 5504
-        isCached: true
   - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
     excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
     publishedDateTime: 2024-01-29T21:57:00Z

@@ -71,15 +71,6 @@ related:
         width: 1512
         height: 900
         isCached: true
-  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-    publishedDateTime: 2024-01-25T10:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "Q/V836bvGhCA+DjXxqArGt5vzl9FIBEpBb/xITdymqOyXCnxs5teylUFfmcxxBzVSngBGsjMx517/WnOuiepgumG5r6AB2XX10GIQXdpXYuOOamQm8ZQnpO11LkvxN/GNwJjk315mDfV6mwC2sOvBQnKmtK5xkkagrP7RpKMsGvxMB2uTJU+F/1Rzwgtjy6sdpDRaKyWmSfhdMh1K7Nu2XCBYUSXZJDOQOAkJBIdUwxA6f5yEPLHRyvFZw96L8ktBILczH0xsTUUtAvwoLaTFm9OZgP1yI4AmsgD9enkala2h4MFWMpB/N6sXPjvOGypG6Zj56szDqpqL8butlpTL26h5HPR51if6MlRNuC6zAk=;W274wM5aZ17KemuO9W+zZw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coe
 webUrl: "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coes-for-model-risk/"
 type: article
 quality: 136
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The State of AI in Literary Translation"
-    excerpt: "So-called translation fails can get plenty of attention on social media worldwide — particularly when they involve big-name buyers and/or shocking mistranslations in marketing materials. Interest in literary translation,"
-    publishedDateTime: 2024-01-25T10:25:00Z
-    webUrl: "https://slator.com/state-of-ai-in-literary-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "+oO/Clt8wsZ++KdR9+BUVHxKHWj1dcumHocNNz8vCCy0Sfu5jsHqqpFwaXoir47CBPLzyDlxXG/9HrGUpTAWYkU6qNbslcKUjOwSRh+mWIVqrM5TkzWdS+8QfuX4whKA/nn5Kv1q3KLjSQpK+L8nhx4fttUj0htosfPQ7X3gKdE0bmULW9RImh7x45SIgVHIuNHHQTMES3O9RmgsKtmWOn9CsNRHUqrA+lVI/0ndpl4+T8Z5V8PiEtHSmM1Ubtv/j7KEpCvAhwLhCvY0wen6z6paTI9XfBzawCxvXVv9lvaVIoeBBFIHCjGE3DCU9u+3tpWQ3mQ3EV7SkOnzvUcytNQAfXlvxBtEXwH5X3CdwPM=;iQ91+9l9zZFO5qpuMB4dtw=="
 ---

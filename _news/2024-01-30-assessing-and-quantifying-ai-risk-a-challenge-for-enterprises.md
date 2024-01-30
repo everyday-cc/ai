@@ -8,8 +8,8 @@ webUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-
 ampWebUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
 cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
+  - AI Ethics
 
 images:
   - url: "https://www.csoonline.com/wp-content/uploads/2024/01/shutterstock_333013640.jpg?quality=50&strip=all&w=1024"

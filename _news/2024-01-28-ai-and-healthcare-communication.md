@@ -20,37 +20,65 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations"
-    excerpt: "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood."
-    publishedDateTime: 2024-01-25T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
+  - title: "OpenAI is working on AI education and safety initiative with Common Sense media"
+    excerpt: "OpenAI is partnering with Common Sense Media nonprofit on an initiative to create AI guidelines and education materials for teens and families."
+    publishedDateTime: 2024-01-29T19:52:00Z
+    webUrl: "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
+      name: CNBC
+      domain: cnbc.com
+    quality: 100
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949"
+        width: 3500
+        height: 2279
         isCached: true
-  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
-    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
-    publishedDateTime: 2024-01-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
+    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
+    publishedDateTime: 2024-01-25T20:41:00Z
+    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1050
-        height: 900
+      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
+        width: 1400
+        height: 786
+        isCached: true
+  - title: "FTC probes Amazon, Alphabet, Microsoft, OpenAI, Anthropic and their massive generative AI deals"
+    excerpt: "The tech giant has also pledged to increase investment in the development and deployment of specialized supercomputing systems to “accelerate OpenAI’s groundbreaking independent AI research.” Microsoft is further deploying OpenAI’s models across ..."
+    publishedDateTime: 2024-01-25T14:09:00Z
+    webUrl: "https://venturebeat.com/ai/ftc-probes-amazon-alphabet-microsoft-openai-anthropic-and-their-massive-generative-ai-deals/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/05/ftc-e1580329614247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
+  - title: "US launches inquiry into AI deals by Microsoft, OpenAI, Google and Amazon"
+    excerpt: "FTC will examine what rights the tech giants’ investments in AI companies have conferred and if those deals harm competition"
+    publishedDateTime: 2024-01-25T17:26:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/25/ftc-ai-inquiry-microsoft-alphabet-amazon"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 73
+    images:
+      - url: "https://i.guim.co.uk/img/media/c7e1cee5590c8787a82ded65954680f6a07100cc/273_236_3233_1940/master/3233.jpg?width=620&quality=85&auto=format&fit=max&s=11dfd32b9dc125c67c1f6f6f6321a26b"
+        width: 620
+        height: 372
         isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
@@ -61,43 +89,75 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "Generative AI Is All About the Money"
-    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
-    publishedDateTime: 2024-01-25T15:26:00Z
-    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+  - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
+    excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
+    publishedDateTime: 2024-01-29T23:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/"
     type: article
     provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
     images:
-      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
-        width: 737
-        height: 737
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Generative AI: value, risk and regulation"
-    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
-    publishedDateTime: 2024-01-28T16:10:00Z
-    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
+  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
+    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
+    publishedDateTime: 2024-01-26T17:31:00Z
+    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
     type: article
     provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 56
     images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
-        width: 1200
-        height: 628
+      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "The generative AI smartphone age is here"
-    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
-    publishedDateTime: 2024-01-26T15:11:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
+  - title: "OpenAI CEO Altman consulting with Congress on adding chip factories to meet AI demand"
+    excerpt: "OpenAI CEO Sam Altman has been in discussions with members of Congress about building new semiconductor factories in the United States to keep up with the growing demand for AI programs."
+    publishedDateTime: 2024-01-25T17:04:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2817557/openai-ceo-consulting-with-congress-chip-factories/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 47
+    images:
+      - url: "http://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/ap23321019821214.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
+    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
+    publishedDateTime: 2024-01-26T05:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+  - title: "OpenAI is getting into the hardware business in the AI arms race"
+    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
+    publishedDateTime: 2024-01-29T14:21:00Z
+    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 21
+  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
+    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
+    publishedDateTime: 2024-01-26T09:33:00Z
+    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 13
 
 secured: "xZe9H9x4uWtF7J+on0e+lcEnMK05iBsmNXlaDIB5G5WwjZbPri0JY9StvYWbKwxctPKbFRydQ7kAgLzs8e3/9caTC6nfw77+0grc/zWdQ3ammJGZtclNBAYV7NKvyfW3HPl5O8AOJEKJaDZ3YrNxykFD/BHGFiRpAzEBd+M60se+oOkwd/sCtRJ6pZ+4hSjUN+63q933LGz0yOVoHkQptdBHVC5vV/vK3UiuxNefjJf0Eh1X+r6r1wnI95hyCM33hdz13C0qhZ/RD/QSm5iyP/nvgY12CqloPZzhwBq3MxT6YyX/UsM+CoScH/zuo3HvQE4jn1WRe68k9EM2wYbZrJYBhf4yHDkaHrZLMVqs7Tg=;DVMKx0zGDNyBwi4onRSQsg=="
 ---

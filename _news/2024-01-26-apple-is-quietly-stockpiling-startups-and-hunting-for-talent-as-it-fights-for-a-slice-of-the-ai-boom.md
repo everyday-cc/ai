@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-br
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
-    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
-    publishedDateTime: 2024-01-29T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
     publishedDateTime: 2024-01-26T18:06:00Z

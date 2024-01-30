@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-11.56.24-A-colorful-vector-art-minimalistic-line-art-style-image-showing-a-construction-crew-building-barriers-around-a-giant-messy-desk.-The-desk-is-filled-.png?w=1200&strip=all"
         width: 1199
         height: 685
+        isCached: true
+  - title: "Microsoft set for AI-powered revenue surge"
+    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
+    publishedDateTime: 2024-01-30T10:38:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
     excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"

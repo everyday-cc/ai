@@ -41,20 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "A red flag for AI translation"
-    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
-    publishedDateTime: 2024-01-25T20:31:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
-        width: 8256
-        height: 5504
-        isCached: true
   - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
     excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
     publishedDateTime: 2024-01-26T17:35:00Z

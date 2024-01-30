@@ -25,49 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Australian Open hopes AI audio translations will speak to new fans"
-    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
-    publishedDateTime: 2024-01-27T18:00:00Z
-    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
+  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
+    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
+    publishedDateTime: 2024-01-29T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 94
     images:
-      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
-        width: 620
-        height: 413
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1050
+        height: 900
         isCached: true
-  - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
-    excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
-    publishedDateTime: 2024-01-29T21:57:00Z
-    webUrl: "https://www.adnews.com.au/news/rolex-and-kia-dominate-australian-open-sponsor-share-of-voice"
+  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
+    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
+    publishedDateTime: 2024-01-29T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
     type: article
     provider:
-      name: AdNews
-      domain: adnews.com.au
-    quality: 24
-    images:
-      - url: "https://yaffa-cdn.s3.amazonaws.com/adnews/live/images/dmImage/StandardImage/ao_2022_wide-world-of-sports2.png"
-        width: 630
-        height: 354
-        isCached: true
-  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
-    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
-    publishedDateTime: 2024-01-26T17:35:00Z
-    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Artificial intelligence regulation a major theme this legislative session"
+    excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
+    publishedDateTime: 2024-01-29T21:26:00Z
+    webUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation-a-major-theme-this-legislative-session"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
+      name: WLRN
+      domain: wlrn.org
+    quality: 36
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://npr.brightspotcdn.com/dims4/default/1431b27/2147483647/strip/true/crop/2000x1050+0+275/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F25%2Fbb71713941e7bb4959907c8ae495%2F42271822770-09cee734c0-k.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "/9XRPS2snNX6cSmIC8QU6vhmz1dzCiPxep3/3gmQ7yyZrxf6Z1E0IqB6m7U7JpdrpQBAlji+LSTYI1iLi3UQKQSCFLqeEIdmnfhs6HsnJNdemZgtkfV1zZEJOg/wy3xSveaEAKaXmzeppVpmnEUdUht65MV1v8CFIl7FzpTqxvogImquQEnpNbdq/imWaUV0SMapv544BPqCgGhvbMhvyHQtGsU+LSOCkif/U6wsuWiwTNev534xANNkzEN8bHzM2MuiSLhs6ZTvbGuQr3pbND/bziibhLbI8o8iBRdpDq2WRSi4ov0gXhF8FiMtPZYXjJz9cB/auFNyrDfXCu6thFD9dGnTjau25iu/6sBQwgK1C5b4euwOzavMIPP6pPn0z3eumbhhM94dGW85TTQweRxbxGOFOwoMNv1rvNK07ABfFpkG2fKcxN3WXbYz8haa36lcoAflG3hmTAAa3jotKhr/BgEauCzP/2XDcZ+flE1q2535G2+BN/WfvPOWizp/ra91ujPEFt1sZmTBuCSVtg==;cPI9zlMXZdeq8r6z9orPTg=="

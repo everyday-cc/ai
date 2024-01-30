@@ -40,15 +40,6 @@ related:
         width: 630
         height: 330
         isCached: true
-  - title: "The State of AI in Literary Translation"
-    excerpt: "So-called translation fails can get plenty of attention on social media worldwide — particularly when they involve big-name buyers and/or shocking mistranslations in marketing materials. Interest in literary translation,"
-    publishedDateTime: 2024-01-25T10:25:00Z
-    webUrl: "https://slator.com/state-of-ai-in-literary-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "EnmAFiZe9RtfQweS5CjI9fRLp/TPmueVQ7m22k+YLfgFLjNwj24wihP3sUwyqBgp0OPDrDcq9IYLkjnT9+4DhNW2e9FXm9yBLDxZ2f7guOg5VBFNbawQyG+pKMLETA+Rr0veRBuTfTgp6dK/4SmedkFrPZxsZYocfAaxakf88OqeyYmkU39dAxwaG0oieWmTDExQU9vn+gtUQq2laS+5QOs04Ra5teLZDz8n1ZXUR27/BcaH1r8sg1Dmfdtw2obkCnHRDvzKoCWzbb7rNR4GlPf5Yp3W/MwWcasUcAoa7yk7G7IGGcyXnLxUV8W2A8hMc4h1EFNkXd8bwVxVFwNDZCY4qwd4w7tvr5STo4koe2A=;qV9fWQpoHJ/P6g8QxZKzJg=="
 ---

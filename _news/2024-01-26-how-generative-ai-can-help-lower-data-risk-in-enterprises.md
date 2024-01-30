@@ -73,6 +73,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Generative AI Is All About the Money"
+    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
+    publishedDateTime: 2024-01-25T15:26:00Z
+    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "How generative AI is transforming the future of work"
     excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
     publishedDateTime: 2024-01-29T11:20:00Z
@@ -87,6 +101,15 @@ related:
         width: 1181
         height: 405
         isCached: true
+  - title: "The generative AI smartphone age is here"
+    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
+    publishedDateTime: 2024-01-26T15:11:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
     excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
     publishedDateTime: 2024-01-26T13:04:00Z

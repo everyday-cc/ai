@@ -51,6 +51,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Artificial Intelligence and the Law"
+    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
+    publishedDateTime: 2024-01-29T14:30:00Z
+    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
+        width: 429
+        height: 648
+        isCached: true
 
 secured: "LLJvLpg7u8xwP0bu2nU3OFSKaZz90iOvWceo8WgLUBctmMcy2RBoXmCZEctXWue9wd1tHjTV4xr4eeAB37IzfWMEGNMALba5W4NfS/dTGyIxFMVsAS3G85HwZwHBYfmUTQFdYMoDSy+fjJ9jQQd9ZK3WU0J+utIUWaLx3xtsq4eqt8ML8eqMYiGXAszGKCpJLKrt1iyNkFM+iu6mYEJxBRphNXrKEaiavo2iqW5yDdMDHcD3cS/WTo5sSk/eW8KLoVqvGbna2+3j5oKcADxq0krLXICFzApLUAhpa0eoJCVaqS3UI9Kew9voaabf1cWrzSqrH6cRzgZ+Yde272wvmCMV3KPCyTIArkkqqQ7BRl2JKMawhdvNpCjVuTN8Si/7HNJcRHyQ0UO4BoXQ7zo4nwTDETnjcEWO7PId9+E7RLPcxRmC9ZQJSAuREv7/26y6nUiwbb0/iRwQAM+me5dGBH49UwkmXyd2wmoShTL3+NsupWAWlZRcTPBeXtwaxiHKcgrvEZBRRYmZC4DA/s/tqQ==;FvJa9xaGTI5yVeJ9LoqT0A=="
 ---

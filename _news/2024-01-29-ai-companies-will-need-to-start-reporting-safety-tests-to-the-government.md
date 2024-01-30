@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "AI companies will report their safety tests to the government"
+    excerpt: "(AP Photo/Jacquelyn Martin, File) WASHINGTON (AP) -- The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI ..."
+    publishedDateTime: 2024-01-30T10:20:00Z
+    webUrl: "https://www.newstribune.com/news/2024/jan/30/ai-companies-will-report-their-safety-tests-to/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/206381872_206381872-1f141c021b494c2dac5d9f3d6df65f2d_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "MJvQyjqyeT4ceFXmCgkkqXG+MnTIpYs3Gu9ppdphf8EJ1IBRn6CMpkMZh/X7+EkJMK2Lr3MOA2x5fxqyGP9aOXnSO2F+aWPoFW+qHFxDLqztHdz2pGMjN8v4ZGVr6DfWzCgzZ3Y03J3SIyfFcDvVctv6/gCoVGErwGDynyX9q0b2xK81ulpt6Dzg7wkE4TOpiq06RSTKNJTdANIcGurcNWZ37oL+9Df92Wh1yUNZjq3LalvQyTF1zmefGSCRHrK5e3pJZWOU8OsZXc+hVzWTe1IPEVWn8UEOpxV9I6BZ9S/A1SaFi89BLQlg3xrGBPEQg/yxXq7H5YGYBIHaaGEQsKpaswGoB76BuntLgVTbAVNet46JZ9LWH3RACyYLeb4hgGaKfgxiLl1GCMdPlH1+6AoVN7PW5ioEv3Ui/dWVNusVcoc8HwDPvsrso+ylaI7GmECC7bWbSHxSWqJL3AQmh1pQAT6h3maD51CxKAV+00OadsgSYiEBGWSPu3biE56JikBz5AaJYYTDGPLIgxbOWQ==;4rnmmaMqEEOsPO3+A3E9ow=="
 ---

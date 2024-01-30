@@ -67,6 +67,20 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "Generative AI Is All About the Money"
+    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
+    publishedDateTime: 2024-01-25T15:26:00Z
+    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 39
+    images:
+      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
+        width: 737
+        height: 737
+        isCached: true
   - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
     excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
     publishedDateTime: 2024-01-26T02:00:00Z
@@ -95,6 +109,15 @@ related:
         width: 1181
         height: 405
         isCached: true
+  - title: "The generative AI smartphone age is here"
+    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
+    publishedDateTime: 2024-01-26T15:11:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
     excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
     publishedDateTime: 2024-01-29T00:00:00Z

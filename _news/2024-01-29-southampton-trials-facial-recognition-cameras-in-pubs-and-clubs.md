@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-hampshire-68071705.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-hampshire-68071705.amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UK House of Lords Calls For Legislation on Facial Recognition Tech"
+    excerpt: "The UK parliament’s upper chamber has said it is “deeply concerned” about unaccountable police use of live facial recognition (LFR) tech and called on the government to legislate. Baroness Hamwee, chair of the House of Lords Justice and Home Affairs ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lords-call-legislation-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "MULNxXyr7tPSLMfI3e2ezUyqja3AdJlkYlblTZvOkVzg4c/ELL/6fLjEWWiADugwZYtvdL1GwfbDkXkZW6415Y9+Eqdsdh+Zd46JTtXYWp51/o5GVG33cWzVDv7EHMIEiX92oympa7GTwZYs9d9cP7znikMlQcJV6Lcuxvhy9QJaT/77s3uzVjpmO6YXwsQmSM7z/z/SHWeuTJW/l7ZFvvqOqE9ypD1oQ9wvXD3hDMXaWKZEaHQ2b+UlBh71EQIe2GXHKiM5eRn8khCloUtiG7XOnvBHl1cRqWOQmgYf6k2JnDrBAaQT+xXESlSNUx/BXBiRW9ddKqvOJJLy9ksuuUTnSbPQEz0T/s4Mf+RAFNnVCjjFkMXDocTSUB03ofSRYb1ReB/cAYM6GfngnmjPqR7i1CpGDjRWkeYtGE3l6AGl6WRIlkV7xp/S0Eim21ZPqQZLtcZOvFGvwUxNH8vJv6i6Fp6nYORMvTAHrR01qiQ5I5K8EjT3TIV0smKlziOjTPKeQ5KrvWRcISyB/gYAvQ==;/FZY0XEscG0lR74J1P+VtA=="
 ---

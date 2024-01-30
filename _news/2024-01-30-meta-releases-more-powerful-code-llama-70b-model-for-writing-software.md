@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Meta releases new open-source AI coding assistant Code Llama 70B"
+    excerpt: "Meta has released its latest version of Code Llama called the Code Llama 70-B which it has called its best and most powerful coding assistant."
+    publishedDateTime: 2024-01-30T10:16:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/8pwml7/article67792337.ece/alternates/FREE_1200/2024-01-29T182506Z_91499539_RC2WH3ADVC2D_RTRMADP_3_TECH-RESULTS-ADVERTISING.JPG"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
     excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
     publishedDateTime: 2024-01-30T04:22:00Z

@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UK House of Lords Calls For Legislation on Facial Recognition Tech"
+    excerpt: "The UK parliament’s upper chamber has said it is “deeply concerned” about unaccountable police use of live facial recognition (LFR) tech and called on the government to legislate. Baroness Hamwee, chair of the House of Lords Justice and Home Affairs ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lords-call-legislation-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "CXCet0gArvsxHEyR+sA/DS5dX2rcazmpRVEDFCDr/772aRoaW1LP8ASfqYjjToIq7g2vnQbSzeqKkAl65AYnKeyh+f5bbLk8Up74HHJVgYKaUuQfs553TfszInx3ssIaFErXm1N7o8CmN7kGjv8rXUp/hiodr7AwfyTANYETfIFSp/lsTPnZLQiN53iA3CZjvZgGa3lLWXwVjKa+yqqxS6pd+ZNIa4M1gGJiqXV9bZBOZeJ/yVgBUwrVD3nTyuXeZk7jT7GsLInrR61SPkOuOmQ0vFluDsiQR0HjrpcKuySMmHl62LE2QYIfQcTXuLLBBckwFXHf/HPNuSI7IgB+L7HExoS3XwtYjYJ0aMfZqNSxm4nvY3RmdJWXVwDUZacn18AqGr8JPcP5Ankp09gUQkY3OZUVzWvDnlbQxo1clRtlydr/iIf0Xj6hAHPdAip8wIP6A8bbyI6LpXfhuFghIEgh36pSqHhbAWs/lNsAWHpKKOJ9eRAOVIC9AszlXWOxsW6SoBu2lmjMeKqYjJAs/A==;XHLSyuKL1sz8ZjV82JO/sw=="
 ---

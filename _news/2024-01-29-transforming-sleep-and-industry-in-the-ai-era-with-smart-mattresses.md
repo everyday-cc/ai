@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
         width: 650
         height: 450
+        isCached: true
+  - title: "Artificial Intelligence and the Law"
+    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
+    publishedDateTime: 2024-01-29T14:30:00Z
+    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
+        width: 429
+        height: 648
         isCached: true
 
 secured: "5aEGbg9bclWXEPUndVSD6u9ooB8t7/v9jTRg8XEDXWf2f2H3Gd9vM7aPTImpzmuu3Qr/zFHNfMREbEmEoQvnigcfs2uxEBb4t4b8GmGRyR3oOOivuyjpVXWUjiIq9IxVOz5qMsQOELYEq/5V0RBFdAmXQwI756s5NpqqFu+45bzeTKyp2k0UhxU3LAVfcLjCeLf4s4HAVp1sZfBf0H5ZYq7v17lR0nWkCxGITvtCK2cBXHrV3vIBHp1Mc5DgCKiF7OYuhQv/nApRjmZgJpmXQlHLjPRgWD07zYL1E51oYt80jQCQ9lJeGJWq/tVEIAfNZrcx9DYQ60QKeQrfrIMAEOs0peMupkTfKPebE9L/zSA=;cwp+zt0Iy2Qh5solZFE6Fw=="

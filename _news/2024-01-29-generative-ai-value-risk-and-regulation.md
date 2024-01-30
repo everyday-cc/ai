@@ -25,79 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations"
-    excerpt: "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood."
-    publishedDateTime: 2024-01-25T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/"
+  - title: "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work."
+    excerpt: "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter."
+    publishedDateTime: 2024-01-26T02:41:00Z
+    webUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/"
+    ampWebUrl: "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 111
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b1996fda6126e5c3faa4d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
-    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
-    publishedDateTime: 2024-01-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1050
-        height: 900
-        isCached: true
-  - title: "Implications of Generative AI on U.S. National Security National Conference"
-    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
-    publishedDateTime: 2024-01-29T23:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "Generative AI Is All About the Money"
-    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
-    publishedDateTime: 2024-01-25T15:26:00Z
-    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
-    images:
-      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
-        width: 737
-        height: 737
-        isCached: true
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
-  - title: "The generative AI smartphone age is here"
-    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
-    publishedDateTime: 2024-01-26T15:11:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "RZMjlzVyrjsrsJwob/4SN3zRoW1IegOn+TJYDkQXMU9DQULlLJmTXTYq7E5N5zljkOqpDAUeEMVyj4MTKOKlmmuDBav35jPaGXbpOiCKeCTOJ/saE9IEcxzqYs2S54Yl1KQM+Z9JRVxAVxvOVTvbgsjtL1syxtdjcLc7KRnRdZbHMEd7Ak/X9wHhFbOONo0oqKd5VuNcjDioYuSn92/qjneRHCjHp3xAbKRSvdPyz7FtxzKAdxrGUnHbGmeFf+/Hnw5shaYV+mxii5vt9Ir8tDsXJcrmOiDWHZf4fht/osGaAytiHWPCKBohqqsA6yy56O5sERjCYPCRRrUCaWtuIfdtnvSq1tBojFXwzNO/LUs=;cdWMDMQzKLnFCSSkAJa2NQ=="
 ---

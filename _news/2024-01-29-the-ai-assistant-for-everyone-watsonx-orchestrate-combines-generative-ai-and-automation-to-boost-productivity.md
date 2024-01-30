@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orc
 webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
 type: article
 quality: 114
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "NTT DATA Business Solutions AG: NTT DATA Business Solutions Announces a Global Center of Excellence for Generative AI Centered on IBM watsonx"
-    excerpt: "NTT DATA Business Solutions taps IBM watsonx AI and data platform to create new customer solutions for application modernization, finance, hospitality and the public sector BIELEFELD, Germany and COPENHAGEN, Denmark, Jan. 25, 2024 /PRNewswire/ -- NTT DATA ..."
-    publishedDateTime: 2024-01-25T10:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61227641-ntt-data-business-solutions-ag-ntt-data-business-solutions-announces-a-global-center-of-excellence-for-generative-ai-centered-on-ibm-watsonx-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "iMBra2yed31lKzCu5WD+Az8h1WOc5s3JZdaShxbbhSquI9TNU5ndZco+0ZCQtbwJys8MYICu1XILTZs6aaDHFSsST8jHxIAdw3wSFpgQa4uGEDlHIw6Q4FCPa1hPE9T8E/YdkwJE6EkXlhzL7YKrkGdCl2AFSGIQd52GX69ku56fJ0eNDvYfj5FYjbkjdcG9gVMtpHPEDJjBmZYPJr78brNgEMX2zFKi/qS6DJA91IZunaqmVm37s1EhGOVNbrFYC8AGK11wnUcwveVAz/oi1vH7i1Im2OM3JmQCp6YYqlnBfeZ7ArsFtm+8eLUhsLffZ66tP1NsCu3qtWki+ccJRlZ0q9RkSh+XbuPZ6JR1fkY=;VCDkA2DlPmVw+mZ7ZpjmpQ=="
 ---
