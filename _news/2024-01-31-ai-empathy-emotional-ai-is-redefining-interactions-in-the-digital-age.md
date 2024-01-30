@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -81,6 +82,6 @@ related:
       domain: timeshighereducation.com
     quality: 19
 
-secured: "nW2DXy3hZeH9KY6j1QF76CShnKztrNachVdaYud34b6kSfuZLTOkveAfFGLSwIHXL4bgNTBakTR+mFZ/TmjoGDuQvfAh5C0imFb7r6VaRV4/FbrES41Hb8sRgbugaBskXe7AOIrU6d7RLORhugswBnkzC0Gx5o0KqvNki2NYAOhSlAq8eAwQKFimqmOxMSSD5ndpi7c4VdJ1jbHnIQlczVsOkJNbqrgA8k/bf4kgME/G4ZAaoPAQ7ru1ezdg3hBoJ8/s7zA7RwdCGfjg0rziy01zDsB8Y+B0449981F+tfUDTcZ3+dI9lfq5ujUOPpfJODlTW1jfIDFIh4fauwksuOr95YC8B31QJZxfueZbtuY=;RED96E0B94ErTIzc9lMNZg=="
+secured: "JLH3GJylFBeARwbo/LeFih9ekEl+0KIR5loX0bCA+chcR+KFeqM1GmB+cnZAvi0vkpdUDOwbtKBbwy2Y6Bex5TdiVPA5aY2QgNKBFrloSjflyQ7IMgQYoJOw0U1WhS43Jhg/EWgxUSjp+TpSLChHjZ/bmM/z5CpwbJzZv82vEvLG2rQF1y3F4YafVGtMBA4Jlg8OCWJpbTLtyMmOasAvIkKsb13imeJvRr5cF17GeL0flsBQhqTspgFmUIXkgJJqiJ/Ge+wwM7k3WrSnONkBZ659uJP4xYiJOHnP0xWk2iaE9Y1sEyS69c5l4b7E0HEmgso1NP4h5N/2UnW7tyedVyiQHLiDQuEsdLTpCD95WfbsyJfFV4uKphD9Df9uLBZrUpxJ4koADRf+Q0IHPqLO3utD1GbeXKbbgft35ECBCfTsYQ1kyxIUY7WZOU72FWXtmLLKJtQ/0Q1+JoDLgU77rqnrbIw+YDwn+r3Jc9dMvV1LcRDTj0f6cx/M/EpNCvyJCXiGOuu4MuFgo8m9RRFfnQ==;tPUfl37bTQSiX5Bnyf2R5A=="
 ---
 
