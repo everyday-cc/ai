@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-30-illuminating-traditions-ai-lights-up-chinese-new-year-celebrations.md",
+      "title": "Illuminating Traditions: AI Lights Up Chinese New Year Celebrations",
+      "excerpt": "As AI entwines itself with these age-old Chinese New Year celebrations, it brings a fresh perspective and an energizing spirit to the festivities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b77f96461666cd1334ed1e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
+      "publishedDateTime": "2024-01-30T06:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-application-of-gen-ai-in-banks-and-fintech.md",
       "title": "Application of Gen AI in Banks and \"Fintech\"",
       "excerpt": "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy.",
@@ -105,7 +156,7 @@
       "originalUrl": "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -304,7 +355,7 @@
       "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -928,7 +979,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1159,49 +1210,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt.md",
-      "title": "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT",
-      "excerpt": "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

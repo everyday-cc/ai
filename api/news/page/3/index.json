@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
+      "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
+      "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "originalUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
+      "publishedDateTime": "2024-01-27T08:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-27-browser-alternatives-brave-arc-add-new-ai-integrations.md",
+      "title": "Browser alternatives Brave, Arc, add new AI integrations",
+      "excerpt": "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
+      "originalUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T05:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
       "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
       "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
@@ -1063,7 +1166,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1087,109 +1190,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms.md",
-      "title": "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms",
-      "excerpt": "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/",
-      "originalUrl": "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T06:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-heads-of-chip-giants-nvidia-tsmc-meet-in-taiwan-as-tight-chip-supply-threatens-to-hinder-ai-boom.md",
-      "title": "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom",
-      "excerpt": "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/26/a2635928-5278-4dc8-8593-d3abe5d38ede_2622355f.jpg?itok=G3ionfAy&v=1706240895",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "publishedDateTime": "2024-01-26T04:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

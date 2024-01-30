@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-
 ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 74
+heat: 74
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

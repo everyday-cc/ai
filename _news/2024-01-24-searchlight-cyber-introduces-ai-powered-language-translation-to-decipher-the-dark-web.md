@@ -1,48 +1,20 @@
 ---
 category: news
 title: "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web"
-excerpt: "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power"
-publishedDateTime: 2024-01-24T14:49:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
+excerpt: "PORTSMOUTH, England & WASHINGTON--(BUSINESS WIRE)--Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring ..."
+publishedDateTime: 2024-01-24T08:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20240124937773/en/Searchlight-Cyber-Introduces-AI-Powered-Language-Translation-to-Decipher-the-Dark-Web"
+webUrl: "https://www.businesswire.com/news/home/20240124937773/en/Searchlight-Cyber-Introduces-AI-Powered-Language-Translation-to-Decipher-the-Dark-Web"
 type: article
-quality: 12
-heat: -1
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "AI will increase the number and impact of cyber attacks, intel officers say"
-    excerpt: "Threats from malicious cyber activity are likely to increase as nation-states, financially motivated criminals, and novices increasingly incorporate artificial intelligence into their routines, the UK’s top intelligence agency said."
-    publishedDateTime: 2024-01-25T13:44:00Z
-    webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats"
-    excerpt: "From spam filters to spear phishing, AI is both defender and weapon. Learn how Cylance AI is staying ahead of the game,"
-    publishedDateTime: 2024-01-29T11:11:00Z
-    webUrl: "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 29
-
-secured: "j5BbdqYvS54XcuaO+R8IeNYTYFFspr4pgvPHVnv3nZ3h5KbE+N4j5DV2k5l86V2Lu9i0SpJIPIRRdpq1W35EvSpR2huiXEZXmN4J0q5891hIi1IbbWY7NWl9+T6w7KamiUsZtPXfjqjqkYro4Qs6vw3WCA1CygsfG1/aogl+kNDqUf1fK9jbjqPmnkyfH3R5ppEO3s4M1PkGJqyZ9IWC0ZPTtGpzor7HH7p+OE5K/1pZGocZ8Mxkflkc9ITODt2GjRZv0TblQNfIhTGuaoimDc9FN3xxsSK+SYAqj/GYCOSyWVGLVb/Irr3n7GWHNZoQoCL7tiQGvSplCpsTGlz1mtNSEDQxCW+LZnin0KU25y8=;cZ571prc5d4DvZbptb4y+w=="
+secured: "0wfA3pBgmvyf+OsaKB8x13/egWh9ZJPRx1Qb89EcQdRgha878DyKSPnFSV/Ock1zomoxqH2e+OIXkRPNKT40tR94v7SVmEEOB3QfQav9pZyNpiWhsR942u+8FzlKCT9pryI0JEYEE3/e6Ao2ZUXs2pNOtJpt8xnRLUmFDHbKqrPU4mZlFm4LZrRmpukPRNEsi3hEE+0j1PrbDNhSLzYKS9RFg2MEbzobGWM2OcnJ+CLsHtqjqFmJZPUI1zGw5PsJjCBC0YmID7Mvwn9gr2/8SogV3/snnw8hMRfQVHJnDF4cFHFjEtkbS3Zx/5xhNVCwXwbZro6V8HxZ39OmHdGU3ax65SeqZw7q33D5D2wB89g=;Y7k5woveoQuzvxsuzWzTbA=="
 ---
 

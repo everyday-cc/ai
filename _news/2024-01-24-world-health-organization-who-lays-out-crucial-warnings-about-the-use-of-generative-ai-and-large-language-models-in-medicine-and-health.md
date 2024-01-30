@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65b0c0c0a8706b21e2c100bb/0x0.jpg?format=jpg&crop=3240,2160,x51,y0,safe&height=900&width=1600&fit=bounds"

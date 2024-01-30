@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/assistant-with-bard-rollout-date-
 webUrl: "https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Android Authority
@@ -44,6 +44,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107240825,width-1280,height-720,resizemode-4/107240825.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google Assistant with Bard coming soon to these Pixel devices: What you need to know"
+    excerpt: "Google is set to introduce an upgraded digital assistant called Assistant with Bard, offering smarter features, with leaks indicating its appearance in the Pixel Tips app and potential release in March 2024 for selected devices,"
+    publishedDateTime: 2024-01-30T08:11:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 37
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/google-assistant-with-bard-rolling-out-soon-1706601848.jpg"
+        width: 360
+        height: 202
         isCached: true
 
 secured: "1Bs4hFkjmr2aMbnuMBK5PzjaDRtfwEgE5G+CYqK6LOgCXlMw2BfpJlQiamDg7q9Jxw5pJebD4H8J5JwO2bLN5u95kN+iVDf4Sv+9m7aqjFz9+ONC2efQ5NmHnhOZ9yJiN1zp4nfcCYCtTGUrSILuSmEjepdNc8xqWx12PmPY5K01m8dAmHa/nCoSzhLqHpoc3DXu0fy8WQgOuk+SALtQDy7bhYnVai5LVN7Ip1wLNykjnuK/ZLuJJjAs4RAMNEqI7FjlZUSIgQw2N36ddnrbE3RPT3dsy6DEWdIJl60R/9+FkRtEILBlP3Av/lD1t7kfqL+dYMgmsl7QVFUBM3885XczfixbNFa3ROlZFBKBNefuvnMYw9NMnRBzMaJLSDD/dXI0qxQO7fYjSkOMqp19gGL1Ed4Bcdw8XYjozCSbWl2T1Lu50U95qGcFTVW4cLP0Ic6Qot/f4KZtkJN6ANK8Pr+e9Cmp3W8ufxMpiTwgws4lwNe0NnEUgshTj9rPzjfRBgXMNNno3RyZCEpt+LwaEg==;u4GgujkFyciUVpqNVp6Hkg=="

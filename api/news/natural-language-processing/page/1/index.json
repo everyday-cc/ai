@@ -255,6 +255,40 @@
       ]
     },
     {
+      "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
+      "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
+      "excerpt": "PORTSMOUTH, England & WASHINGTON--(BUSINESS WIRE)--Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240124937773/en/Searchlight-Cyber-Introduces-AI-Powered-Language-Translation-to-Decipher-the-Dark-Web",
+      "originalUrl": "https://www.businesswire.com/news/home/20240124937773/en/Searchlight-Cyber-Introduces-AI-Powered-Language-Translation-to-Decipher-the-Dark-Web",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-13-ways-writers-should-embrace-generative-ai.md",
       "title": "13 Ways Writers Should Embrace Generative AI",
       "excerpt": "Explore 13 innovative ways writers can embrace generative AI, from leveraging AI writing assistants for professional content to utilizing AI for creative writing tasks.",
@@ -1385,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-24-best-ai-tools-for-2024-optimize-entrepreneurial-success.md",
-      "title": "24 Best AI Tools For 2024: Optimize Entrepreneurial Success",
-      "excerpt": "Jasper AI is an advanced writing assistant leveraging AI models for efficient content creation, language translation, and diverse creative outputs. In development, it proves valuable for crafting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "originalUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4501328/chatgpt-became-fastest-adopted-app-history-since-taken-over-metas-threads-users-marveled.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

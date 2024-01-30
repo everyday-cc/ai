@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
+    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
+    publishedDateTime: 2024-01-30T07:54:00Z
+    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
+    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z

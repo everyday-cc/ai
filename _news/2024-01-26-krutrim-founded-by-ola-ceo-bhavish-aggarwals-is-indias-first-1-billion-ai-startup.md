@@ -56,6 +56,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "6 Job Openings for Responsible AI and Ethics in India"
+    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
+    publishedDateTime: 2024-01-29T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup"
     excerpt: "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion."
     publishedDateTime: 2024-01-27T05:08:00Z

@@ -88,6 +88,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
+      "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
+      "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
+      "originalUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14807e631844a3005ca8d/0x0.jpg?format=jpg&crop=1230,922,x144,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "publishedDateTime": "2024-01-25T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
       "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
       "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
@@ -1253,49 +1305,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services.md",
-      "title": "InterSystems introduces two new cloud-native smart data services",
-      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed problems, today announced general availability of the InterSystems IRIS® Cloud SQL and InterSystems IRIS® Cloud IntegratedML® services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
-      "originalUrl": "https://www.silverliningsinfo.com/newswire/intersystems-introduces-two-new-cloud-native-smart-data-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/quartz/qcloud4/media/image/MicrosoftTeams-image%20%2831%29_1.png?VersionId=Cbn_y6LTOv_tbk_8AsA2ykcCaWtlTUTR",
-          "width": 1410,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "silverliningsinfo",
-        "domain": "silverliningsinfo.com",
         "images": null,
         "publishers": null,
         "authors": null

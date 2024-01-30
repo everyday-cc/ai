@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

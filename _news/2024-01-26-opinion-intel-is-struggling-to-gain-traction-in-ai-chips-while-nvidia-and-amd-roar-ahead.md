@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-tr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
 type: article
 quality: 95
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
+    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
+    publishedDateTime: 2024-01-30T07:54:00Z
+    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
+    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
+        width: 600
+        height: 314
+        isCached: true
   - title: "AI Chips Market Reaching $400+ Billion in 2027"
     excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
     publishedDateTime: 2024-01-26T00:00:00Z

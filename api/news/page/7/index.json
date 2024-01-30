@@ -2,6 +2,296 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-24-phew-ai-wont-take-your-job-just-yet-mit-data-finds-but-theres-a-caveat.md",
+      "title": "Phew! AI Won't Take Your Job Just Yet, MIT Data Finds — But There's A Caveat",
+      "excerpt": "Researchers at MIT conclude that the fear of job displacement by AI may be exaggerated, as human labor is still cheaper in most cases.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/AI-CEO_0.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-ai-startups-margin-profile-could-ding-their-long-term-worth.md",
+      "title": "AI startups’ margin profile could ding their long-term worth",
+      "excerpt": "The fact that Anthropic, a leading AI startup that has raised billions of dollars, reportedly had gross margins of 50% to 55% last December, underscores the costs of building and running modern AI models, and hints that AI-focused startups have a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "originalUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/puzzle-ai-triptych-01.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
+      "title": "Procurement transformation: Why excellence matters",
+      "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T16:27:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-delaware-lawmakers-seek-rules-for-artificial-intelligence.md",
+      "title": "Delaware lawmakers seek rules for artificial intelligence",
+      "excerpt": "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "originalUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/0/41/04126c30-ba11-11ee-8d3e-371c2e512477/65aff0f824b16.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "publishedDateTime": "2024-01-23T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Center Square",
+        "domain": "thecentersquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
+      "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
+      "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "publishedDateTime": "2024-01-23T15:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-ai-hardware-and-fintech-collide-at-ces-2024-in-vegas.md",
       "title": "AI, Hardware And Fintech Collide At CES 2024 In Vegas",
       "excerpt": "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving",
@@ -939,270 +1229,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
-      "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
-      "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/23/screenshot-2024-01-23-at-102728-am_o0nq7eE.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-peak-xv-backed-healthtech-startup-qureai-in-talks-for-fresh-funding.md",
-      "title": "Peak XV-backed healthtech startup Qure.ai in talks for fresh funding",
-      "excerpt": "Qure.ai Technologies Pvt. Ltd, a health-tech startup that uses artificial intelligence for medical imaging diagnostics, has hit the market to raise what could be its biggest institutional round of funding till date, two people aware of the development told ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
-      "originalUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2024/01/Qure-CEO.jpg",
-          "width": 712,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "cdnAmpWebUrl": "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
-      "title": "Is there AI discussion fatigue in healthcare?",
-      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-lawyers-use-of-ai-spurs-ethics-rule-changes.md",
-      "title": "Lawyers' use of AI spurs ethics rule changes",
-      "excerpt": "The Florida Bar on Friday provided lawyers with some clarity on how they can use artificial intelligence without running afoul of ethics rules, following a similar move by the California Bar in November.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
-      "title": "How to handle a ransomware attack ",
-      "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting.md",
-      "title": "AI-Powered Robocall Deepfakes Biden's Voice to Discourage Primary Voting",
-      "excerpt": "The robocall is targeting residents in New Hampshire, which will hold a presidential primary on Tuesday. 'Your vote makes a difference in November, not this Tuesday,' it falsely states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "originalUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06sHJQ6QhfcIt6SC8UIb7vv-1.fit_lim.size_1200x630.v1705948204.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T18:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

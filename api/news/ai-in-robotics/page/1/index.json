@@ -533,6 +533,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-22-robotic-priests-ai-cults-and-a-bible-by-chatgpt-why-people-around-the-world-are-worshipping-robots-and-artificial-intelligence.md",
+      "title": "Robotic priests, AI cults and a 'Bible' by ChatGPT: Why people around the world are worshipping robots and artificial intelligence",
+      "excerpt": "Robot priest Mindar is six feet four inches ... dedicated to building a new God with 'Christian morals' using artificial intelligence. Other quasi-religious movements which 'worship' AI include ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/01/22/15/80133115-0-image-a-1_1705936006585.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T15:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
       "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
       "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
@@ -1308,49 +1352,6 @@
       "provider": {
         "name": "Steel News",
         "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "“This idea that technology, robotics and artificial intelligence is just running ... Meng Wang, co-founder of food tech startup Artly Coffee, one of the more than 4,000 exhibitors at CES this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/39/f39c544c-7b61-5cc8-b067-fcd779026475/65a19bc78d905.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

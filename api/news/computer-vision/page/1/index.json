@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-24-nomad-go-raises-15m-to-power-computer-vision-software-that-automatically-counts-inventory.md",
+      "title": "Nomad Go raises $1.5M to power computer vision software that automatically counts inventory",
+      "excerpt": "Using an iPad or iPhone rather than relying on manual counts by employees using pencil and paper, Nomad Go’s Metashelf combines edge AI computer vision, spatial computing and augmented reality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2024/nomad-go-raises-1-5m-to-power-computer-vision-software-that-automatically-counts-inventory/",
+      "originalUrl": "https://www.geekwire.com/2024/nomad-go-raises-1-5m-to-power-computer-vision-software-that-automatically-counts-inventory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2024/01/NomadGo-Overview--1260x682.png",
+          "width": 1260,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T12:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
       "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
       "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
@@ -1275,41 +1327,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

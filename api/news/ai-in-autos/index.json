@@ -88,6 +88,110 @@
       ]
     },
     {
+      "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
+      "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
+      "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "publishedDateTime": "2024-01-25T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-self-driving-vehicle-company-aurora-cuts-3-of-its-workforce.md",
+      "title": "Self-driving vehicle company Aurora cuts 3% of its workforce",
+      "excerpt": "Aurora Innovation, the autonomous vehicle technology company aiming to launch a “driverless” self-driving trucks business by the end of 2024, laid off dozens of workers this month, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "originalUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "publishedDateTime": "2024-01-24T22:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
       "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
       "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
@@ -1233,83 +1337,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
-      "title": "California considers artificial intelligence to improve traffic",
-      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "publishedDateTime": "2024-01-11T06:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News 8",
-        "domain": "cbs8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "It was the awe-inspiring works of Renaissance masters that propelled me onto a transformative trajectory, guiding me toward harnessing the immense potential of artificial intelligence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
