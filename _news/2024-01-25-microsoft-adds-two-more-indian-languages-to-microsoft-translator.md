@@ -112,16 +112,16 @@ related:
         height: 553
         isCached: true
   - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
-    excerpt: "Generative artificial intelligence software tools like OpenAI’s ChatGPT, Google’s Bard and Microsoft’s Copilot are helping small businesses and “solopreneurs” transform their operations. Here’s how."
-    publishedDateTime: 2024-01-29T23:15:00Z
-    webUrl: "https://lacrossetribune.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6.html"
+    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
+    publishedDateTime: 2024-01-30T01:40:00Z
+    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
     type: article
     provider:
-      name: La Crosse Tribune
-      domain: lacrossetribune.com
+      name: Winona Daily News
+      domain: winonadailynews.com
     quality: 45
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/1/5c/15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6/65b284db42608.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

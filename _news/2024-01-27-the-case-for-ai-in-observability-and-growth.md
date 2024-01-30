@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Network Security in 2024: Artificial Intelligence, Observability, Simplicity, and Beyond"
+    excerpt: "Looking back on this past year, the network and security space has experienced a series of major advancements, as well as brand new challenges. The"
+    publishedDateTime: 2024-01-30T04:21:00Z
+    webUrl: "https://www.thefastmode.com/expert-opinion/34768-network-security-in-2024-artificial-intelligence-observability-simplicity-and-beyond"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/1d4b41e77fbc585f9b26a114ef5a1dcc.jpg?t=20240130_040639"
+        width: 1124
+        height: 549
+        isCached: true
 
 secured: "CpBKXYekqLAXhM7nw9R5ImvTvT0PH3sjHgm8EFedKE5qMTdQNM7uspiwEWxFnj8uZXVIY6ojPceLYdOU4rWPq+ue+cdXPJk8LSqYm5OkJV/VzPMHD++yrcAlRkwEljfCbV4uM1mvxSiTeUBWRNcVUHJ4HyXcDR+/zsq4VZIOfiROeIBpBIQw0t7/IYtes1TF9/PqCs18hzBfTveVLMdwWIrcUhfahoTCZSTbk0bgCruQZEIcBVr9xRE3TFQWxcP6xwWKe+/8uoJ2hKXvXRQWikUMYDzzB7aTuumvfM0aqifgtqORRBRfNXF0DFxxukOnrkk0kX1q7U2pVPTzIqbrAUCdySTD/2lNWc8csDCxQP2Z/7Ng2FDIkN7vEWMjMELAXwNnkMF2R3JlZ3z+9ApLqgImQPqlSkSSqFRR4qGWX9wt6ITbKr5pgkVM51imfbmGzVSLs+rS+GodYPPJCWSojrd5tOQ+hVmJCFSJsyOly7aqy+xS2dltMu1iJcvKcBfFaObe2t1uOpvxlBj6mR0Kgg==;X8ecQIwJ1u9jS6e4Lh2DTg=="
 ---

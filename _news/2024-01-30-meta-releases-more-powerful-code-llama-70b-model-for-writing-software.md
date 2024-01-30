@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
+    excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
+    publishedDateTime: 2024-01-30T04:22:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
+    images:
+      - url: "https://images.indianexpress.com/2024/01/meta-code-llama.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Meta Releases Code Llama 70B"
     excerpt: "Meta has released Code Llama 70 B. The new iteration, available for download at https://bit.ly/48QeOs7, maintains an open license, aligning with its predecessors—Llama 2 and prior Code Llama models—aimed at supporting research and commercial innovation."
     publishedDateTime: 2024-01-29T17:31:00Z
@@ -40,6 +56,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "kLaVk/qSAK+TaJuPpr4Z5FgXZKOlsrUbc7iPfj459CkmrSed7cRcchd00zKwcakY4Sbc1dV5MGrsAotMIsHasl3O8hwhAUKrb2dInHzQKc0XQDpMJiru3iL5YXqbhIm17A3E/jl8Y17fbpYDNU1k1sjIgUnWHElnHVdxBFFSYYq1lB/ZZaDPgj56RoEYbHmaVFDP+7SiPNO9BVDF80FDUnclHsGRSHsH7Qni9mID1nlmczY0bwTWsIu2Pe9xL9mDKmlVvaAIHnfE5KhrPpVyptvc64+voVnOrPMW+a0xq9erog7wY3GRryGPRjJUv5LtsZyxWqhb/JJC/QJrFCp7XUcKc55DcHfX8JQ2wcU2VUY=;7CFrfsfR2ge91IYf1/Vc7g=="
+secured: "Kch0TCgtDzg3pEwzniE2kQ6DEzsoVW0WwOAaAZYVLwS+z9M/IueqmFrXJICcc4ZMCwAqkjlPdMMrgEZD1l1y8LxuZBfJXu+WaLtd7XE2OH8SUTexVyvW5NtzFkSrcVUwG/SWOWR/glABXq+urUkpN8gD8oDxHP6HuyD3OnTlTFbdmQNd2Irwe3skrWkLE0KxP+V/BqtNg1AGfrG5/9h0ZAehf/j82gIKx7J0LOjcln2Y15qAK0e8Bj/Dk+1w0r1gkt+UIZv579+XSUhdGzVvcS70aREJLnKO8m2vnVZfoMUu8311Nx1b+omSIhdr5U7JFRFoS39XHSKqwJWYuC2PxCqSK1sALoUfuJn1lHcztuneqKNYbuYKZ0xKUvOMfTPpEfVzCCztMQcqFDzGlEP6eakh/s0fwObgY9UnKZQS40Xx4NwxfYpeDixr7zLd4wPTk5V/RPNnFaW307HcCxqzFDLA5DggLxaGXer9N32H3wrr+DDw6kYEbLKT1TfvzItOE/ze9BKlVqnKbuVFluJB4Q==;RS4XuGSAkkMV5RYuGdkVoA=="
 ---
 

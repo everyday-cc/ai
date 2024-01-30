@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-30T02:31:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quantum-computing-to-offer-ibms-ai-and-quantum-computing-solutions-including-watsonx"
 webUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quantum-computing-to-offer-ibms-ai-and-quantum-computing-solutions-including-watsonx"
 type: article
-quality: 28
-heat: 28
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.thefastmode.com/media/k2/items/src/e6bac6a5a03525377b12e819dfb58fb3.jpg?t=20240130_022718"
@@ -40,6 +41,6 @@ related:
         height: 316
         isCached: true
 
-secured: "LTUVvyJ/dIgTDD/UJhQsVUOTBnmyx4HbmwuxMGUF0pgTaBYWX+Jh4jdWa6D8JEhzIxGbWqzv02DVtB8nOBK7DhzftdWAs16AgxGBsqob+vqmTiMrLeakuXilXKte+hZlV8hb8/wcZ2I/P0h4i3mPxtOiTCyZrnHUenhZYICif2LTQRVoqsrV2W8+AQbUQCJrQdRMXPHXW4yOe2wmiWj7nRYouYqFvei+yP2zy6bCABMn1KzheVgpZ0SWQLPdRwwMk+oVcdfukv2pijz6smIT40dDrLZVjLLSFgEgLE58Jhl7WbUwBW/E9TUUtIY2u4shEfI4FtuHizMRexQjEUW43xGJTIy7vKecLKh9ea2+B48=;nf2ZEjZNRZ3HY+F4XXEayA=="
+secured: "RAA/nTbNnBUsiBMlIWUeMGQjIIjD5OqH8RNb8b7ENVkHXU+h3Ki2ruYBrqBztrvF556C+l8dxWyDZP5IXVbEUJTF0PCX2jQzenYgoGzrU0818NrKlp/BOjjdFxZANVbyt0qbxavjuru8FQMhZ6NJr3+k+wVT3JzIYYKSRvgeb4Aau49gH3Il2t6wlh6ZjORty0aqUUmGkWB5tOF8FGNHdOFsg7wOs9OqoPs/IL+oYMfGDQKVkoZCCd8CaKFqcE9PxtiV5FnvdSuiKDXDEp8iPPZ4l3ahi9TzamnfscQksGyYueskH5KyVBlIBH0aXvKzUksPpk7yO396AzJr5Hirg9vc1yhym5iIHEbFNZiM0r5iZsf6Z6e63UgjXcLXuW9JkNa+4T85iyqTIQJCN9cgEZbRU6wd4BGTQigr/xUMimh4HR04jVNrjBj4huj+QRQmdGlvGF+syz5H+NHTOcAw3zx5M95DB3aMblWSDsOeytbDdGWxgnL0eU7oxeYUIsSLg0CEfTO216pIUA42u5lxqA==;U4oTqvhOXp8y4kYp477RTw=="
 ---
 

@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Why self-driving cars are able to completely break the rules in this California city"
-    excerpt: "Autonomous vehicles have been operating legally in San Francisco city limits since 2022. Citations for violations cannot be issued unless there is a driver or safety driver present."
-    publishedDateTime: 2024-01-25T15:00:00Z
-    webUrl: "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city"
-    ampWebUrl: "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp"
+  - title: "Nala Robotics incorporates generative AI into restaurant robot recipes"
+    excerpt: "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste."
+    publishedDateTime: 2024-01-29T18:52:00Z
+    webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 67
+      name: The Robot Report
+      domain: therobotreport.com
+    quality: 99
     images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524b243f-059e-4548-ae47-865c746a7721/aed75e40-78a0-4500-84a4-882b5003c87a/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg"
+        width: 770
+        height: 497
+        isCached: true
+  - title: "Generative AI Will Not Replace Your Employees"
+    excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
+    publishedDateTime: 2024-01-29T16:14:00Z
+    webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "2TCe9FCVVvNfSoetqaGjIgQOf9KhXqvuI9kzpF0jh2IlGbtgf+zmLxuR5By1dwD96k2xgWVQZy2+hbehnCj42a+fs0kR3i7qwBn72AvsQyo7DV8vbIBLAJzLG83iMRyG9F6MqOyvME6tIy2B5eFPkTksmBSssfaE5R6EsSeQcYZ/LVAdLHvjAtLEflwWLTNiKB1yW07zkSHfM2Xo2kk43nTGwI0BrATVU7OIiPk69ihFvx4LCjOigYpMSlKTX95vm1Y/3eXsbbXcW0OpWvy2UbcvDoPW1/vMenbRRMljN4dWOed0NMlw9fe4oBpbskxN08xdNKWT2ZZvyQuHdV+ls6jXN8AVhjVeHu0e7SmjeNDuJkWBwvj+86evjGRF2rBcGXR/NBOdDb3QoBJL31HJQnj1oo/sCB1Gzs6NsSiULgH6yGrfcw92mfHlqIzasUHxoPs0WZQBIDzkHjLIrGPXGUYbd769PkHAUZT9Po865D34xfPTc4+4Ss9xsoKYCLMIKwfWn2L4gyz5jg5d5vWTyA==;YKIBh1IxRZvi+KF22YnX9Q=="

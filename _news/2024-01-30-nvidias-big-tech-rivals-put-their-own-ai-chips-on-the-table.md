@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Nvidia and Equinix partner for AI data center infrastructure"
-excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
-publishedDateTime: 2024-01-29T00:00:00Z
-originalUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
-webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
+title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
+excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
+publishedDateTime: 2024-01-30T03:43:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
 type: article
-quality: 19
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead"
@@ -49,20 +55,15 @@ related:
         width: 1608
         height: 1262
         isCached: true
-  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
-    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
-    publishedDateTime: 2024-01-30T03:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
+  - title: "Nvidia and Equinix partner for AI data center infrastructure"
+    excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Network World
+      domain: networkworld.com
+    quality: 19
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
     publishedDateTime: 2024-01-26T12:57:00Z
@@ -73,6 +74,6 @@ related:
       domain: thestreet.com
     quality: 17
 
-secured: "ZFogF2zN/SJRSmL/ppDGgtSyWWPI9TMFLKMpsbZbPaRJlvOjro7vwn5TUpMUXI4TowggfvIahtHIe+wWDvgwm8Zkm9Yp9MvxoKR/J/7clgp0BO/fGX5usGK2p3q3LmQ9inh3rLz+8rVOJb4qdnuLW19GCocCxIqxa/+JJOEPq6TsBuqcWmJxE3s+yoNLU4vsHANFMDCk75l6FvKgigjT839OzEfh38l/O3SxQnrMCyFSU/beSQQpQAJBH4FasFkmopGYpz+R2e9wt4g+JEtieE5lJkxzY9M3V1kupZVGD18RME9DcqtE+KcNi806+AVXbPlqOQt0fDxSY4iHrDgMrsACZtUCAQTjWuZFaYZ7xqG76Z/JHUxr3yGyIdFMhNvmnl9XpeqQGWXhSW0cPN37ZtXIt3WQpMKEWbxgJr5X/2UeFwedW4qmUEQWTqsM/luliTpWl+Vme/ElmZapar+f5zEKP7hjWL7s/hz7YhgnamA3zwuxyJk/hiSwMLqs8DqUhdUGWkgm+BXyYWLEfvjh7w==;kGUsTsu50aFK6bRpjI4RjA=="
+secured: "Q08v74Uy1y2wM+G/aXNHtNouP7R7hZX0MYRkB+Ur7roDYUwE9jOIccMVwOaa87093XuEzJ8VcKVI8u8QIA0lnIkeJTADaECL89ec33c4vwlRGhNIitWyMwgboCeAgHhBR+5FUnmtMjZIjfLXFntal7pi//kctztQwp5pyeQNqe3aH9+Tnaq26UgO6agvn0p7MiqAlmhU/RajGZqCQsxM3AO8ajgxJxo1zK1jaxPYNEuAih564X5eGj6zuWpG6iPYXoxAZkzLUTlGctdXNK13YUpUUiA/tlRmh0UAxyQ701Q//reKKgMFrNG8gEeNPE+1h0k5mqWpudx4kn2d1Yub+Uaa6TkiOfXARdxNCJ15004=;Ii/5dtRXRw8DV9+H0GgppA=="
 ---
 

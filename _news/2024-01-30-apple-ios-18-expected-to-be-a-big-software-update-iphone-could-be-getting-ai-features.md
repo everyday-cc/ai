@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
-    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
-    publishedDateTime: 2024-01-25T03:33:00Z
-    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "NMIc7xVXAUq/ZJoL5aC4g8uuf6M9vmsKAKHbH1EasM5blMLznIyBlAFuSVdXi31jUNgH/v5rTs+oJemmZaWV6AH76FHIDfubD0KBn4SWts/wZzR4J34DljAGdG7/fFo2FMI227WqPvTMetuH8K33AyaQbL5WfFvSqB4AXVr9tB5r8gOPPoh6x0FdSHkVUTVP6nHwsJIxPoVCZUPnEEGB18bRAw9Pxou6pAdvYg6+XrWJqgxPQAtVl089aHIZ8N/+cm2ahwW/ueEPZwMaw99BXJozHdURsXyt7bcsnnjK1p6jGS1gJSkZSKOLqAOuxUgci2swy6qEhxtQemvUHCeFqz0UYYM92OSYCF0dPn5vcNe5zTidI33isCYCZf/0xktgOz1O9KNLy+iZm23C0ACbtUqCkZtb151P+h9we/k60QPRsb0lgUL9R4C87i0+NSMXuMuJ0pohjir/A0hVYModnURIHkcvRsyfIUP9YJGxmlyKiFKfI0SsZiqrmEJyoFV+3yNA3X27pconORDTfsnYyA==;7tRcspmFg33qWTD8xqc2GQ=="
 ---

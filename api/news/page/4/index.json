@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-26-aws-takes-aim-at-smbs-with-new-competency.md",
+      "title": "AWS takes aim at SMBs with new competency",
+      "excerpt": "AWS SMB competency partners can deliver solutions and offerings across the full spectrum of SMB needs including platform solutions such as migration and modernisation, security, data storage, disaster recovery, and artificial intelligence/machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/",
+      "originalUrl": "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12.jpg",
+          "width": 505,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T02:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films.md",
       "title": "Eleven Labs Secures $80 Million For Voice Cloning, AI Photo App Artisse Bags $6.7 Million, AI Art Films",
       "excerpt": "In this photo illustration, the Eleven Labs logo is displayed on a smartphone ... [+] screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket v",
@@ -61,7 +104,7 @@
       "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -643,58 +686,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-why-self-driving-cars-are-able-to-completely-break-the-rules-in-this-california-city.md",
-      "title": "Why self-driving cars are able to completely break the rules in this California city",
-      "excerpt": "Autonomous vehicles have been operating legally in San Francisco city limits since 2022. Citations for violations cannot be issued unless there is a driver or safety driver present.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
-      "originalUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/524b243f-059e-4548-ae47-865c746a7721/aed75e40-78a0-4500-84a4-882b5003c87a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/why-self-driving-cars-are-able-to-completely-break-rules-in-california-city.amp",
-      "publishedDateTime": "2024-01-25T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {

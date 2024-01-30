@@ -138,15 +138,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 21
-  - title: "White House science chief signals US-China co-operation on AI safety"
-    excerpt: "Biden adviser says the two nations must work together to tackle risks from artificial intelligence despite race to dominate its development"
-    publishedDateTime: 2024-01-25T05:01:00Z
-    webUrl: "https://www.ft.com/content/94b9878b-9412-4dbc-83ba-aac2baadafd9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "KhhC/IKQeh1BmLIhjJmMvfhMuMzkwkAT0gCnGbxzWMbPyyxmRD+ET2gn+9qu82QX8kb0XApcX1vqFTxPCEotrKMZxDX4kpIiuhr16qKwvu2E4ex2Fx5KKIAbbWdFTuN2wNzyGRbSzW7pgKjC620QrUw33YseRIUi5mLTpWF3UgKQRsAUFnCntElmxt9mZNM/UToS/TCemAEsqOCPA3d1YhiJRKaDNbTw45MTOaKjVB4bhWUkyDbRp/mfiAL7FhcY27ZC9quOif3zIWFCeFJENZf07yNlPIHyZ9lOCxMy1orYp5pxaR4zGbQJCkG09+Z2TMaSGdikLQ+O7VrKR+hAe6LD6zFzsSe+5IF3R/vf6l4=;F+rsx6IICa6E1brIffnMqg=="
 ---

@@ -137,15 +137,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 21
-  - title: "White House science chief signals US-China co-operation on AI safety"
-    excerpt: "Biden adviser says the two nations must work together to tackle risks from artificial intelligence despite race to dominate its development"
-    publishedDateTime: 2024-01-25T05:01:00Z
-    webUrl: "https://www.ft.com/content/94b9878b-9412-4dbc-83ba-aac2baadafd9"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
     publishedDateTime: 2024-01-26T09:33:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-27-new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode.md",
+      "title": "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode",
+      "excerpt": "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/",
+      "originalUrl": "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-11.45.04-Generate-a-minimalist-abstract-illustration-that-represents-AI-code-generation-ensuring-it-contains-no-human-elements-or-facial-features.-The-design-.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T02:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-north-korean-hackers-spotted-using-generative-ai.md",
       "title": "North Korean Hackers Spotted Using Generative AI",
       "excerpt": "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes.",
@@ -1153,49 +1205,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-aws-takes-aim-at-smbs-with-new-competency.md",
-      "title": "AWS takes aim at SMBs with new competency",
-      "excerpt": "AWS SMB competency partners can deliver solutions and offerings across the full spectrum of SMB needs including platform solutions such as migration and modernisation, security, data storage, disaster recovery, and artificial intelligence/machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/",
-      "originalUrl": "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12.jpg",
-          "width": 505,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T02:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

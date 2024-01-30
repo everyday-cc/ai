@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 41
-  - title: "Apple's next-gen iPhone runs AI on-device, rather than using the cloud"
-    excerpt: "Apple doesn't want to use cloud-based AI for its future iPhones, will run generative AI models using built-in hardware, on the iPhone itself."
-    publishedDateTime: 2024-01-25T03:33:00Z
-    webUrl: "https://www.tweaktown.com/news/95798/apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 39
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95798_811_apples-next-gen-iphone-runs-ai-on-device-rather-than-using-the-cloud_full.png"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "CM2Fe6mWA01pJK10b6vl0Q3il91QGntQweVn7i96MbzS1VZW1BulpJ2s5on7bVi9VWWQA/YycJnNK+LpTedFGL7k179H7MpJHrjnsZcQslPBIbEbFwPgRC8zHZHRmDU72EigG3cdM9/YbOuHerkVaPaPg2P8PomsBoORnDMqjM+leVR4AePMEwBAXgIEcUvJ+TyDT/mr3lLT5hN6sc2O1uyqBfOi/8utifHpUOzK8EFnxhniyVEIJrR/YRRYWgxOmRiIA27FyXMP8LucZy2WAJk7qx9qd68yHFIS2IvOY3ATolaYkuVa+X+99ScQF2o5JMv1MkL4DFQIvbdYX5oP4IuBkJBYltovDMoG4BcCYb0=;6VyERJYbgG6gdIJvD5YJKg=="
 ---

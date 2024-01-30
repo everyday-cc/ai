@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/meta-releases-code-llama-70b/"
 webUrl: "https://analyticsindiamag.com/meta-releases-code-llama-70b/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
+    excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
+    publishedDateTime: 2024-01-30T04:22:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 34
+    images:
+      - url: "https://images.indianexpress.com/2024/01/meta-code-llama.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Meta releases more powerful Code Llama 70B model for writing software"
     excerpt: "Meta Platforms Inc. today announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
     publishedDateTime: 2024-01-30T01:27:00Z

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
+      "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
+      "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "publishedDateTime": "2024-01-29T07:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-southampton-trials-facial-recognition-cameras-in-pubs-and-clubs.md",
       "title": "Southampton trials facial recognition cameras in pubs and clubs",
       "excerpt": "Facial recognition cameras are being trialled to help stop those banned from pubs and clubs gaining access. The scheme, which is taking place in Southampton, is running for three months across six venues.",
@@ -113,7 +157,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/science/explinable-deep-learning-antibiotics-new-class-research/article67785902.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -825,7 +869,7 @@
       "originalUrl": "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -876,7 +920,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1175,58 +1219,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode.md",
-      "title": "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode",
-      "excerpt": "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/",
-      "originalUrl": "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-11.45.04-Generate-a-minimalist-abstract-illustration-that-represents-AI-code-generation-ensuring-it-contains-no-human-elements-or-facial-features.-The-design-.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T02:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

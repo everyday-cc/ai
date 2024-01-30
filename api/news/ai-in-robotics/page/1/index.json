@@ -88,6 +88,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-30-nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes.md",
+      "title": "Nala Robotics incorporates generative AI into restaurant robot recipes",
+      "excerpt": "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
+      "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg",
+          "width": 770,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T18:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
       "title": "Why are so many robots white?",
       "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
@@ -1308,49 +1351,6 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
-      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
-      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
