@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 type: article
 quality: 64
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -80,6 +80,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Yj/3chMjvN/VaQqxN1f7BUYSj10B7Kr83z4Zon2SdNd1Xm2Q+oAP9ozAK3gYKd7bfNIrUfDb7uT1/SgVZ+l120lPhNy9p8TuHOsM4UP+jqtUJdzMLdm0scuu3jsJt4qr5I+l5b03l0QZENISAxKCKSehmy9dAxxf8Ab5vdh58BmSwYmbv03qiG2v0qI0ZsRkRul9Qhp3nji066vrakmtdbHWf2SDg3Qwvkksl4DWxDu20VyMgtm6g/0eckb680r77nSMHAzw/LXxNKoJrdFHGsRdqoSCbYqXLuKUGdHSvBfD00Ygjh0t2JyDidYnY2QHybu949pq1AfTy1ZuKJMzYS0qGB5vlo5CE+F7/lvM67k=;7cCmjkNaShNv04NfUC0gsg=="
+secured: "J7WQcpglGTaoM9Ve+8FvV/mGP/8q1vgjsqLzj/BHrOSu2tMs+374qIZX+SmK55lHqCzgnFNgBJhbpY9iBbE0O0xQ069Uh7a3oWuhiLmJOpYhbTKBLzTX8hWFUk6DUiNJZz8tuIUtBOcL7f8THRoF8bD6POb6GqysRx75wbNvdrSOJobt6nTeY6r2Wt1oLWsw7PH+1sJQ5WVN0L1QBxX4z7REejAwnj5R57bX4J4+3r6/8SfD1kbmfOZhQszBtf1qejM+a5MiT7ZqyltU9hhm/MJ+gcti5ffT6X44tF9idhEtWmg2PYUdGtBt9enopfcRhSCQj0XP3vMhNy5GrkjfUTr56FAj+FAeTkxKnRF+qmY=;Xd3PEIHAheL7VdSVm1OYHw=="
 ---
 

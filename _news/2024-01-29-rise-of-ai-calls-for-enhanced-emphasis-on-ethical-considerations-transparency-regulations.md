@@ -55,7 +55,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
+    quality: 66
   - title: "Generative AI Is All About the Money"
     excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
     publishedDateTime: 2024-01-25T15:26:00Z

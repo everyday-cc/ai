@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "AI-powered asset management startup Kshana aims to streamline investment research"
-    excerpt: "Head of AI at nference; and product leaders from Twitter, HP and Google. The startup plans to raise additional funding from institutions soon. It was part of TechSparks 2023, YourStory’s flagship tech startup event held last year in Bengaluru ..."
-    publishedDateTime: 2024-01-25T02:18:00Z
-    webUrl: "https://yourstory.com/2024/01/ai-powered-asset-management-startup-kshana-streamline-investment-research"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 32
-    images:
-      - url: "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofImageTaggingnoframesEditorialTeamMaster-1706092427563.jpg?fm=png&auto=format"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "iaHOP1nGd+YLCZRL6/UHvNCclAOxabm2KBdOq4eD84UKvDbKaumEdiaQyYdyytkIXlZrrQ5scfKRhpUNkF5Xl8ph32DB6kB67TtwlQNkZ3QOPPB6vhpEzJfsc3MOP77QFzaXHzsboIdZDDokxc9SMFzsVb+1i0xg3y1y0YrF9EKMED60qyBe1Gyjo67EU1ArAMf2ZRhnoI6I0iGCsXYOoaItOTBmYet9w52YRWf18an4qifcMTR6cTyfmDK40P1t3Fx7wYfgzYPr+czAr5H/LlWKOZlNMNaCPtvVAew9wdSN9iR4rHB7/46RfDM1ZH9lEa3uzPEbpzV1362CSCb3k1/YFLFmsHXGHpw8hsx2KSM=;hLLaGU4umbO5L69fmFmWOg=="
 ---

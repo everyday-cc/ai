@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/assistant-with-bard-rollout-date-
 webUrl: "https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Google's Assistant with Bard may arrive for these Pixel devices in March"
+    excerpt: "Discover the enhanced features of Google's Assistant with Bard, an AI-powered digital assistant. Get the latest release details for this exciting update coming to select Pixel devices in March."
+    publishedDateTime: 2024-01-30T01:45:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/articleshow/107240827.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107240825,width-1280,height-720,resizemode-4/107240825.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1Bs4hFkjmr2aMbnuMBK5PzjaDRtfwEgE5G+CYqK6LOgCXlMw2BfpJlQiamDg7q9Jxw5pJebD4H8J5JwO2bLN5u95kN+iVDf4Sv+9m7aqjFz9+ONC2efQ5NmHnhOZ9yJiN1zp4nfcCYCtTGUrSILuSmEjepdNc8xqWx12PmPY5K01m8dAmHa/nCoSzhLqHpoc3DXu0fy8WQgOuk+SALtQDy7bhYnVai5LVN7Ip1wLNykjnuK/ZLuJJjAs4RAMNEqI7FjlZUSIgQw2N36ddnrbE3RPT3dsy6DEWdIJl60R/9+FkRtEILBlP3Av/lD1t7kfqL+dYMgmsl7QVFUBM3885XczfixbNFa3ROlZFBKBNefuvnMYw9NMnRBzMaJLSDD/dXI0qxQO7fYjSkOMqp19gGL1Ed4Bcdw8XYjozCSbWl2T1Lu50U95qGcFTVW4cLP0Ic6Qot/f4KZtkJN6ANK8Pr+e9Cmp3W8ufxMpiTwgws4lwNe0NnEUgshTj9rPzjfRBgXMNNno3RyZCEpt+LwaEg==;u4GgujkFyciUVpqNVp6Hkg=="
 ---

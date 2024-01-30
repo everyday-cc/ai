@@ -65,7 +65,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 64
+    quality: 66
   - title: "Generative AI: value, risk and regulation"
     excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
     publishedDateTime: 2024-01-28T16:10:00Z

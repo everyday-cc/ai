@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
+excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
 publishedDateTime: 2024-01-29T17:50:00Z
-originalUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
-webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
+originalUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
+webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
 type: article
 quality: 47
 heat: -1
@@ -58,6 +58,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "yUxDnSd5ZqyqdWCHJuie+gueCFOlcs6bOxDnhBgJUUta6Mvtuk7+zVrUZdjHOK2u61kG+nUg/MQm87REGayv4vEErb8f/dZUMOBWMjQ1kY7Qh/JcgjrAbF38Yf9Qr17wVn2/H0dNNCmb66qnQvoFQF8zNBv8gs+dCjSAJa5j8IeO0Zff2h8xaHDG45gI+qe5mIo7ukvST2X9kdY1wD/Xp2Z/8BqASw/qm5Q7BEabz2/xKfH5noz9zIE/jGeACvcvQ1QO4wjG3kYPQHD0SRwAIT9Ehdbm2NDCpeURacnPRZkc3Uebm9in3t3MXyfs/4loYc7ZTfpWKJELtdqv1eDwyndaKZ/MFwHfUVzLpLLjCdw=;oFNAiKZQlivaNGPWvnntSQ=="
+secured: "ieLKV1CR9jpy9RMT+erl5z3jOfrQeyJhq8noiZvoNSNoSMoKVHu+4jAyAiMe8Ghl00sZpnAQc4oCfga3HFSsd8WTIdCwQ0V8Dgw9QoqFsDoOw8QgAMZoVb4TKCf+4rWIKFWRWR7/rax85lx6lr3XyVyj80WgzcVPxYguFJIkhMs5JmLADgbiRnUAY5bGbtcMLwohF6+jHjHk/HNNG1qIExUJw3Kac3FlnSh09wn5tuRhv/m/dCwtR35RB2yUJebIhB7lj2Dk5iWdPBMM+NCzdnSkxjLTt6jlUG0hciAc6tpES/ksdfRFjFirm2+itAqEJkz7NoCBQEcf08lefXls3mCuz/jv8CeYVmeFFKVmugA=;JoFPAYiqMw3MlGpv1qXkSg=="
 ---
 

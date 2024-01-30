@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-29T22:46:00Z
 originalUrl: "https://www.wfae.org/education/2024-01-29/ai-is-poised-to-transform-schools-and-life"
 webUrl: "https://www.wfae.org/education/2024-01-29/ai-is-poised-to-transform-schools-and-life"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://npr.brightspotcdn.com/dims4/default/4a64b44/2147483647/strip/true/crop/1200x630+0+135/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fd5%2F4870703142edb3edbe36d093e6eb%2Fai1a-izeaed.png"

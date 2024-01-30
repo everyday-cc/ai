@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-    excerpt: "Microsoft will report its second quarter earnings after the bell on Tuesday, as Wall Street looks for signs that the company’s vast artificial intelligence (AI) investments cont"
+    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
     publishedDateTime: 2024-01-29T17:50:00Z
-    webUrl: "https://www.aol.com/microsoft-earnings-tech-giant-report-185023354.html"
+    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
     type: article
     provider:
       name: AOL

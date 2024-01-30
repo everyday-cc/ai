@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-29T07:54:00Z
 originalUrl: "https://venturebeat.com/ai/how-enterprises-are-using-open-source-llms-16-examples/"
 webUrl: "https://venturebeat.com/ai/how-enterprises-are-using-open-source-llms-16-examples/"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - Meta AI
   - AI
 
-secured: "y+jbRCJ2m2tI+nPuMXSPJ4OU1DFec7cs1WhEO4WgiGcx7T2gOJgpEHAX17NK2DJvgM89dfj+BHVAxTFvR6OFamAx7SJeGpyZeXM/UXAUhoIN5FNOp+4Hn523PMekpqj4ho1nSNdkF5bxxM8Buwe2+9vFg4hZoBV+Rde21u6tiRpfTAXAfB04mWf/Eaa+E07DyztvPWOXYuteVYza8YDMNce2x0JdP1qc4yAXw6rtEciLqTD26Gj6kwwNgRRNphjtcaPA14FKhRBa1T8zCwO1K9M9pbXFjbUewnRpylmmXWJ/6hH0Qdo31Q6rr0fGr6H4L5r+Zg7a8mGo5QPKkKWwRBWb2HBHFNz9/EmuYsEPK0c=;xGKc3dn5r7zC5tM1FTun9A=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2024/01/The_universe_of_open_source_large_language_models_is_small_in_number-e1706200036796.png?w=1200&strip=all"
+    width: 1024
+    height: 512
+    isCached: true
+
+secured: "JkQDWScNpbbgqgCgIu+yvqvF/sTPV+u/BmPrJzM7TXnaz0auHW/wUnCMIJphvDJbVuGn6EPCwIWBtvvtPei58zI3zssaYS8y31GihTQESTX3RLD7OeOZpY1Z6XNsHGGS/DWUPC9mhruOdYhFgkCttHWmymz3Nlt9CfCA8Tlytmkcg1OxXNllLmyLFxQTAmfBwYa/e+bURHfKDtvwh9SomyMhdAQOr7O8qIIjAZYBvMuS4GwIHCiGqTCmMNDGlvhbfif8XzHfwQCVNmzjTIclXsK8IJpFah/gFVtOeVWu0Abtb+k5uVLIjCt6o3KtqZTeP3T9x5et/Ei4kvm0VHBsgC+5DcAzKYHtjvhdhlRUazg=;2n4vMlX7wIZiMwynyT0JeQ=="
 ---
 

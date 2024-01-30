@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-gene
 webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
+    excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."
+    publishedDateTime: 2024-01-30T02:01:00Z
+    webUrl: "https://www.tweaktown.com/news/95881/rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95881_47_rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "WJxNyH/LAv4uiYR4R3AaeMZ02SG0EHh99WqM5wInW610qDsGZ7HYSRVgVMjZiKkG+CY6JlHs37bJR/k/gst8yMrYWvij9XmEjY9MnMEo5CoVIJcSac7wEElUcopaTKogcrMYx3fOxbYoP0zPWUjH1hANqydF85MzlDcgotf8NJpk4cGzI2wrgjkSg3ngeniqkIj6lvBkgNPeXzZXz8rcFB8CyOHwWmbXq68djfhR0QhZByU6tjWfsUhuEA8q6OBs0aKWk7FMaG8gvHHmR/DGUBNamxn4v2zhAmD2DHCr2ubJMDJN9MRQFajhcznRITAS9+63ectadu6CCChiNIh+tcy769OXxw68pEjPkdaRvloVGrjmTVNJVnVDtzzQ8O5qDIBXZp/xZOJbvzK11IWoYolgp3fdeBrKIXm0vPo27s4T6m50kTBrVcJzKIkpHGc4MkrEJg86QRwyOyeu61mc38h0E4+66Xrx6o/bwSQ8s9FH7FT/s90zdSSuVi+v0i/Jqvgw+auRhlKw2wR/QgHT4g==;D4pScvpKZmTJ9pYat8CmQg=="
 ---

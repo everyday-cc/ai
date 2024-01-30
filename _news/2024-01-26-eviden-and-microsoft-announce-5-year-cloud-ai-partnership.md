@@ -113,14 +113,14 @@ related:
   - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
     excerpt: "Generative artificial intelligence software tools like OpenAI’s ChatGPT, Google’s Bard and Microsoft’s Copilot are helping small businesses and “solopreneurs” transform their operations. Here’s how."
     publishedDateTime: 2024-01-29T23:15:00Z
-    webUrl: "https://missoulian.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_0b5dced9-aa4a-57be-baa7-7fd188e1b1af.html"
+    webUrl: "https://lacrossetribune.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6.html"
     type: article
     provider:
-      name: Missoulian
-      domain: missoulian.com
+      name: La Crosse Tribune
+      domain: lacrossetribune.com
     quality: 45
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/0/b5/0b5dced9-aa4a-57be-baa7-7fd188e1b1af/65b284db922af.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/1/5c/15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6/65b284db42608.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -3,16 +3,16 @@ category: news
 title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
 excerpt: "Generative artificial intelligence software tools like OpenAI’s ChatGPT, Google’s Bard and Microsoft’s Copilot are helping small businesses and “solopreneurs” transform their operations. Here’s how."
 publishedDateTime: 2024-01-29T23:15:00Z
-originalUrl: "https://missoulian.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_0b5dced9-aa4a-57be-baa7-7fd188e1b1af.html"
-webUrl: "https://missoulian.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_0b5dced9-aa4a-57be-baa7-7fd188e1b1af.html"
+originalUrl: "https://lacrossetribune.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6.html"
+webUrl: "https://lacrossetribune.com/news/nation-world/business/small-business-ai-microsoft-copilot-chatgpt/article_15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6.html"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Missoulian
-  domain: missoulian.com
+  name: La Crosse Tribune
+  domain: lacrossetribune.com
 
 topics:
   - Google AI
@@ -20,7 +20,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/0/b5/0b5dced9-aa4a-57be-baa7-7fd188e1b1af/65b284db922af.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/1/5c/15cf5e6d-42c3-50f4-95a9-c1dbcdf538c6/65b284db42608.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -154,6 +154,6 @@ related:
         height: 856
         isCached: true
 
-secured: "GQf7f1L2ydfhMzgpLnnQ07niUTaDOfqgte7SCiyUKmYQkmDvNtgtknh1RZ8ungiyN2usRgkmFeT7mDU7Tv8drsPBizfxzYjuZhwnmWoqMZzSf8OVeKRpFecK14SBJi/g0wsYs60yYxnVvmUu9Uq2zGJ7s2TwOfhwhsVo9profaAgiGpFYVhWRMBl/JGKkgd1H4MkvzVuEAnjE+r0VIglSsVvv3xo/ZlY0FBwxs/Wnb+OoTv2sgYNEPazmQcuKNpQnb+cY+G9NpzZdTlpORMHRl0hgTWAEKHsesDB5NXEJ/PmRV6iyxICyRAHQxJ8oZlCJHzhggBUAMSvlr20EsEmYIVjjWsS1T3521Np5NUhGMM=;Je4aYLYTIWM84bIlhNuq6g=="
+secured: "Pw3lUBCYZ53zQi9ClDUJl+xDHQwP2Eozjpd46eaqE1gGCc5tlKUNkCg4ozi5KvRa8o5wx0uVTs12aThPIfdQgebgiyVsdO4DGj0557OV0mloYWzEOJWowyh1J5SDw2rqWCMDSgVoBLuWVIfg2OzvD9Jx5CC/iktrt36FsJrwuH/QzXmshnOhOwDg7LPtwau3Jsifto+GciFAsVAu+nUauHTH08Jjl5k/YQ+4SuFj43RX0FlNWZriFJCA6PYn4VfyMD53Pg/cUCg5CM+wKjvrMxUdvRJVmzP3TaQv6hkkC2E+DI2L+966/cAyvkXw2K8IyfhK2fIZ+q1eCEDqpJMcAle8Bydov9CYsxhHT+Q7kJg=;2UsXLgBdikmk7Bj1ZQ5riA=="
 ---
 

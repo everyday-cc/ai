@@ -33,7 +33,7 @@ related:
     provider:
       name: WFAE
       domain: wfae.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://npr.brightspotcdn.com/dims4/default/4a64b44/2147483647/strip/true/crop/1200x630+0+135/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2Fd5%2F4870703142edb3edbe36d093e6eb%2Fai1a-izeaed.png"
         width: 1200
