@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Leveraging AI For Good In The Healthcare Industry"
-    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
-    publishedDateTime: 2024-01-25T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Artificial Intelligence in Business: Transforming Industries"
     excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
     publishedDateTime: 2024-01-27T09:15:00Z

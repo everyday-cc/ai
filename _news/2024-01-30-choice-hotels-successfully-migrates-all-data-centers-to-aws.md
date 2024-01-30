@@ -24,6 +24,22 @@ images:
     height: 408
     isCached: true
 
+related:
+  - title: "Choice Hotels fully migrates to the cloud with AWS"
+    excerpt: "Choice Hotels International has closed its last data center and completed its full migration to the cloud. Announced on January 29, the hotel chain is now using Amazon Web Services' (AWS) cloud for all its operations."
+    publishedDateTime: 2024-01-30T17:35:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/choice-hotels-fully-migrates-to-the-cloud-with-aws/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/image_support-contact_property.2e16d0ba.fill-1200x630.jpg"
+        width: 1080
+        height: 567
+        isCached: true
+
 secured: "klJqHvG5rqygjUybne1qTE9bp9kb/+SdQrzlsiR5eBhhBDN9EUyzaOzS9ysgd2u0Kk80mOpJmsIRLT50kDoMiNVnV6kCBOEwHL8ShKBguHI5GUKGDJ63BYIAmN5FXa7hrdJhEOqamojCf3XRbktPk8FjDT7ZJHO36iJjw/Li1L78Mhta9GvPe2+wLeCSntHoZtUHLxwYbsPcqAFjc9mfksZkwGK1thtiJrROIuJ6H8zMo/D3ZiJeImSE/D/2gWawJtE/x0LZrtwY8VchZkcTD1oyLNulL2AdEhGhbYzUpG7G8XjXAuOKD+fzmMR4OJLHF6ETHTiEINxJHy86CPPXZT3N7XH30C+O1lyV0Khmvwkf65JtXVlHLovuOWYIkiAfR8uEo+IoYbHkTeZ6n7XJqCKE4Mjyh5cMiaixAqmS7rQkATyF+LDYUjyimEcqd5vMs/nZllrXfqL9fx30KYBW2MCF+0qmRWat4wKtrm4I+/A9M5v5oQT1C/44DjMDsGz4Su792OueC6YNBi3MSWJwOw==;2Fo53/cztL40oal56yk3UQ=="
 ---
 

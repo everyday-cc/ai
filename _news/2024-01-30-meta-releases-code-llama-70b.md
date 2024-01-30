@@ -87,6 +87,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
+    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "FvQXMpa+bVgKhlZEfoTeAECQ65TQ3MN6EtZZow7n7mWLNVYWtSU40tt64NKynZrR6FsCmB7r8AFKQpElBNNZHi8WwdNHZs73BRKebB+7TIyKRizDfcRk848BX9SywzbIR7MJjQdqb05UD9xmY4clJoCuiSvwVOMb1BhtI5cJNKCdPPasgk2tm51KpMI7nwGSvuMdEedpwK7C3jn/7yoCtoDr6/DMXQnkcH731BqN34ZQxQG3rTH/VNa9fQS5X2K0ss10vMKhHbG6ITOB252ZcoLrgZEemWOIzfXuKbiqJwB5zo97Xcnkv2lqj/t6EbWVsjDe+Emw5JkkrQC/pj8fpqSmOVe2pD3SSL5/uQd+Uzefn1bchHpwfb0z457XbmgM9/MX4x2pWMQGQEIb7Ur5hGWsCPkCkkL9PYE+7Urfc8QCHJIco+jpDQ7g0uEbHn4CxR2u9sJQTxjJfH7W8VFpRB+ASkRU+hqALFK333LiNqdZSV33jBA+DNiCqeERsi2wUd+Kl4y/8MwO+OzVnVImfA==;cgpwdH52PKwIlx+cSdQnPg=="
 ---

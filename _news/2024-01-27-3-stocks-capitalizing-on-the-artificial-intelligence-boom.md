@@ -23,22 +23,42 @@ topics:
   - AI
 
 related:
-  - title: "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom"
-    excerpt: "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products."
-    publishedDateTime: 2024-01-25T16:56:00Z
-    webUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1"
-    ampWebUrl: "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp"
+  - title: "The 7 Most Promising Blue-Chip Stocks According to Grok AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded"
+    publishedDateTime: 2024-01-29T15:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+    quality: 64
+  - title: "3 Edge AI Stocks to Profit From Technology’s Next Big Thing"
+    excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
+    publishedDateTime: 2024-01-26T10:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-edge-ai-stocks-to-profit-from-technologys-next-big-thing-1033001777"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
+    publishedDateTime: 2024-01-29T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "S7Wzx+F0maWmSEcpMzW/IhuDIdk2tO0IJp5O4dnhnLZMt+HNCr1Vmd7osu6quEiZFbcqzDZNeisCSIw5a9bdVC6vW0IQeT7/ZhmLXa3TK14f3sjol/G5GnBJry+8ssTa0lXOc7Pu8ESEQWBFpEt8aB1C9ZKuMzlQWDhhZIhyLbQ4IHB0w3PHA4cHMOokyrA5dEo7h0Hsa4I9ZcRABfEsuynwlPxNQuL9Flnyscc7qp9lfWx3EHTmswDg0tktvxBm2cf1VAISo60wzDj4p5F21SK2GnakPuAUu3107M9LBGad8JsHcC2WZCe8brHQCIk1SbhHDxSy3VRg3JjzATntAgndzofI9TaSM77KsR4tUCFXmA/gSUgtI0WyFeqCzcS0Vz03TUKy7JskSTisdwdWIgDEnM6dSmNUgF6Itnl8nJoP1GAApphcdDNSaqYD57VIORt47z1QTwopgXFZr3Q5rSnp6UMMwi3LW8iQn5UpGAmQ5mDsGtPjQFzOXxtQuORFSvh8aS49nNlVlMeCximcHA==;X6I/S//E7NDn5cmCasZ2aQ=="
 ---

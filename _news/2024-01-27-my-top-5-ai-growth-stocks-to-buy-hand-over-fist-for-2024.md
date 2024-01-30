@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
-    publishedDateTime: 2024-01-25T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "3 of the Smartest AI Stocks to Buy Now for Long-Term Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you looking for AI stocks that could provide long-term ... lower YoY due to increased operating expenses, mainly research and development, and lower operating income. Despite that, SMCI ..."
     publishedDateTime: 2024-01-28T00:50:00Z

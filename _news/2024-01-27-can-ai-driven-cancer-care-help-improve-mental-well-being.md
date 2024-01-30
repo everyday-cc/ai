@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/well-being-and-life-qualit
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/well-being-and-life-quality/202401/can-ai-driven-cancer-care-help-improve-mental-well-being?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Psychology Today
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI end client frustrations over billing?"
-    excerpt: "Sharon Scenna of Intapp discusses the potential role that AI can play in improving client billing along with best practices that come with use of the technology."
-    publishedDateTime: 2024-01-25T14:51:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/can-ai-end-client-frustrations-over-billing-2024-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "AI can crack open the 'black box' of effective mental health therapy at scale, study finds"
     excerpt: "As artificial intelligence advances in different areas of healthcare, there are concerns that technology and AI-based chatbots will replace the human connections between patients and practitioners. | A new study finds promising potential for AI and large language models to enhance mental health therapy at scale by being able to analyze millions of text-based counseling messages to shine a light on what works."
     publishedDateTime: 2024-01-26T16:00:00Z

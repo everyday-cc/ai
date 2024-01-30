@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
+    excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/code-llama-beats-chatgpt-at-coding/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 21
 
 secured: "XT9W6OsIC+mKkx3wj4jKffPuuqL2+xDiOUa0MhvR/0Ctwj0h6tbZYsE/M6+sPlJqwTSEQbk01kZX27GUDfGqFvoBZ/msrdfkccYBRGnXfXcE+63TYfjRM+hiSpp6UQ1IphofS0UTNf1DBX2Uzkxg2carUB1Q0OPfrzha5ggI6eVtZQfncrIvqiKH5CbCEvXSb0+92Ofy82aUBJgH0be29bzEoXdvSIRgTBt7weTptQ+dq7fg6vOKR5bc4TFafuDdMDuD8PFOH8yfWqlZ6MS5Ng+TyJDpO8Jf1gWN+XDwzqXpWOjPusITN/447uXO4lCBJfe4AtM6GcfHrpFQm5O2czQZddLZ8PlsqJ4tTktu3n7m6dbp94z9wU/yEYAEA9DTFqQYzYq+RM6wHmEpsiIVa/PQYjoo24ChjFvUBNJdeQ1Ci0V/6UCcaW8kbMG1gxqLVdxjdxnlOOrDo39DtApXaGMA820Du34SOkb4njQ5r3B4SN5w7f4EYbPy8zIkTX9EavyOwex9CDMyZ5JCXD3hEA==;4tz8Gnh34CZ7dNct3byHSg=="
 ---

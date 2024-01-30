@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability"
+    excerpt: "Forrester constructed a single composite organization that aggregated the representatives’ experiences with using the Instana platform.\nThe post Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-30T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 81
 
 secured: "g7jBmjnsN0Iop5uh3EpLTUfZC5ElSMvxTlQgPVJFS+yIgJGdgBdKw3zkjOY+7QFa1RdNg7AK6BHnEyJz6eMpZa0FWkt9Xrsi8qIjg7W9EAv/l5FjZD3wT98HwCERwxPWLULI6plYK+v+jorQYu9zX5T/xJBXuNbq0VqXQZzrStOPsCxdpQdEAoxMMEOw+IKxUhAB2EOdfSz4FH7i+mJNLuqmsF3KfC2gvDgCr7f+EhV0qcalRaHM4ugEiRAPzvuqv8zhVohAuvMxRXPLVURbqr6V1/Hva2RcB5xmaHx9en2qPvdylVvth8qjGrwqfJ/vxZeGvfuijNYS6gHwWgk0TUW69Frg0U9r8JojkCPd2yg=;LYS+qvOt6v34adwF7ppgGg=="
 ---

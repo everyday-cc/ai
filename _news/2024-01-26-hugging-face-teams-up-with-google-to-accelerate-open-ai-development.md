@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-ac
 webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud Partners With Hugging Face to Attract AI Developers"
-    excerpt: "The arrangement will allow developers using Google Cloud's technical infrastructure to access and deploy Hugging Face's repository of open source AI software, such as models and data sets. Hugging Face has grown into a central hub for open-source AI software, and signed a similar arrangement in February last year with Amazon.com's cloud unit."
-    publishedDateTime: 2024-01-25T14:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google-cloud-partners-with-hugging-face-to-attract-ai-developers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Google Cloud opens up infrastructure for Hugging Face developers"
     excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
     publishedDateTime: 2024-01-26T15:41:00Z

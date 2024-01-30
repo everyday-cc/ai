@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2024-01-29/italy-r
 webUrl: "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 400
         height: 500
         isCached: true
+  - title: "ChatGPT violated European privacy laws, Italy tells chatbot maker OpenAI"
+    excerpt: "Italian regulators say they informed OpenAI that its ChatGPT artificial intelligence chatbot has violated European Union’s stringent data privacy rules."
+    publishedDateTime: 2024-01-30T13:45:00Z
+    webUrl: "https://www.seattletimes.com/business/chatgpt-violated-european-privacy-laws-italy-tells-chatbot-maker-openai/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 33
 
 secured: "b6wZajyCPQLnLhUzgCPFNNS7im2wIw3oCJSrmH7kzZ7eYJvVl67bDxH8f8kXYebqtOiK7NGe24c5xuBVUdR/umEbK63OHHOjlKX/ykbINP2FtV9v8FojTErZqOukI/2xe/0wENot0EBnqjAg0NvooFcjlKVTL+/K0WT7ABI4kRd8QSKY/d3+vXQkBDhlZ0Gn+ntJLoSoWJidONlookb2Jwk6UcFZ/8kKucdcZxf8W3ThrSSz7BpDyBD9Eo7BaH9KJj3BSgAPdpYRLF6x/8xDkYnb8luoXiLkVuQVCO4adMIhmhp1fBfA57pjrVx36t4+b+oXR0WcWs575THgdl8gIY+2Wr4cnkj35HHaB9koziXseqg2iJfddUYY5jkUPHILffUqZ4ZwPCyfQ+P0TBE4APBTJ8eix+7vFSOizR9NXj23c2pO4/2337UPzEq8g+iWINuxi9IpxM9ITCoLI7q0qgDPVWBPIlIAvIeCubMtVdCfWlm2zQMrNpx0yNdi4DWYFJsVDdby1T6/aow8zGBzRg==;pgClzofZ4Es+pDps2f6LzQ=="
 ---

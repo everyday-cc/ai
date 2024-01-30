@@ -24,17 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "12 Google Bard Productivity Hacks for 2024"
-    excerpt: "This guide is designed to show you a range of Google Bard productivity hacks. Staying productive in 2024 amidst the ever-increasing demands of work and"
-    publishedDateTime: 2024-01-25T13:30:00Z
-    webUrl: "https://www.geeky-gadgets.com/12-google-bard-productivity-hacks-for-2024/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-
 secured: "BRnaSGoayA4BWbSO5+ngJD8J1fv2SxxeNngaN9GiWEpsWP8Q3qqwq9n+rRFwDCjj+DCDRrKVIarfZiBRZQyyRWi47HhcpxhlYlk/UhemYo9eKy714LRWrP43Gur+OxDpIFO6/gNHGSz9eYnS+jW/UtazRIMZEVlmDoAqOGql0RLqWZnIg9JpiDdRU04BhR2YD9Z9amK+hzpXzQZjzh0wjFx/hzmQVJvo2qGK4j/URcU1bjLTFzoi2ed+XsBG07eYhQi5v/AEIPlErOfisfaFObUqtWwBcPE01D6JQD3jm8d/k4fnR8ZOuLhHrm5h8jpSSMRBWP6nKpFn/FK1OwdHgBjbVR0h+FB5YTqNIr8rJ1i/xPcCgh/I1Uy2JG+fLddLlx7nlnxfHngvLlYAepiYGNzJILDWiTBMZQ9I0HYnaCHivt2VKVYllseKIUmqImsHKxdA5aL9TJtPna8kIz7ESzZKyMT4NZxI2SIcMJkXk4liqdzw5MvEHSQ7GmxEPGbzBmdsKoewvhX4jJLK4Z9j2Q==;KvAP86cAihWTGlfBOXYhQQ=="
 ---
 

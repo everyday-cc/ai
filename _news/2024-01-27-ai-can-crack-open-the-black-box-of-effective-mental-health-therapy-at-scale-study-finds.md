@@ -41,15 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Can AI end client frustrations over billing?"
-    excerpt: "Sharon Scenna of Intapp discusses the potential role that AI can play in improving client billing along with best practices that come with use of the technology."
-    publishedDateTime: 2024-01-25T14:51:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/can-ai-end-client-frustrations-over-billing-2024-01-25/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "kjrWVaet1u/5M2e/kFBCdP2B8mYtifq8JD0OfmCiIvYcPEuU9mBeiG0iWUa3EiffniC8MQIH2p+CTTPguylWTlx9q84DNzeRInA/vIh0S3IZXVoKzlxiFME8RMd9KkOOUp4/h8Ou0Lovkexv+/MC9CM5K1wTAUpK69GqPbaW6ZNiM1KNz+UG3eQ+2VyWoimjslx+oJsxq8P29tcjOhV7wu4CfvScpJDDl9cv6iROaBcHCKwKkq9rl3kxnsncuGLUdb0gO1Wk1qN0mJ9g7n39VyIRSYk7WFE6CSHIjh0tVTV7Rc61NApfB3kOZFQQDejpL8TWjn3UTlg63/KhxU4q+rebWxhaC0grINL8b6+ZI2VBPNt2Dv6EgWNKTnUqnBeJOORQmrcBRlrER8uKcTmRp9+OM813scsuhu8tocGw/oJ+3bjCsPUrS25f499jlBecJ4rYcoZK48enLSQPTD/81bnNKtVYXphlsGaqKnq0Cm89GvfkrmDu05nSJj/2tA5Vip7T35bQu6HFfNuyCfF+Sg==;VLIg2fImLzmic/OwdRRQUA=="
 ---

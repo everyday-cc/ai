@@ -7,8 +7,8 @@ originalUrl: "https://www.brecorder.com/news/40286158"
 webUrl: "https://www.brecorder.com/news/40286158"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Recorder
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech, healthcare leaders to join AI startup board"
-    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
-    publishedDateTime: 2024-01-25T17:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "How Are Healthcare AI Developers Responding to WHO’s New Guidance on LLMs?"
     excerpt: "This month, the World Health Organization released new guidelines on the ethics and governance of LLMs in healthcare. Reactions from the leaders of healthcare AI companies have been mainly positive. However,"
     publishedDateTime: 2024-01-29T21:59:00Z

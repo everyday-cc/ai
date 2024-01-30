@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-f
 webUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html"
 type: article
 quality: 81
-heat: 91
+heat: 83
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 2000
     height: 1125
     isCached: true
-
-related:
-  - title: "AI will increase the number and impact of cyber attacks, intel officers say"
-    excerpt: "Threats from malicious cyber activity are likely to increase as nation-states, financially motivated criminals, and novices increasingly incorporate artificial intelligence into their routines, the UK’s top intelligence agency said."
-    publishedDateTime: 2024-01-25T13:44:00Z
-    webUrl: "https://arstechnica.com/science/2024/01/ai-will-increase-the-number-and-impact-of-cyber-attacks-intel-officers-say/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai-robot-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "OXD89en6QErC4BC+fSSjTM4+h5bdlfptAk/GzAiGrJAyMU2VTKUX1rJCsDsJf/f0/39MS0FRLkROnpN3J4kR4LoLGOm++KcYnyMqaQ62zpoujowfzgOx+1lIYcHGsi5ClHI3fPe+IO9oH807cXNuN4rVHxZw6d34pbjCtKOzHAhEkqkBdtQoIc5FIwWT83TlJmxVEqMOXJBG7Hk5Mwo+pdVwrGp16uAe1S9q8JGMgbQ6IitmX167VYNbR3rqoN2mRFi9wefnyYmozqazLK+mn6vzMEAwoXaSyUo4X8AcreMrzpfdG6inXjQOdlZQ87vvqnk+JlUEUQQW8xERn6yOVhQc5m21p+0f0kIzLmG+ibumeVySsMELLtVW53HUhfyBG99qxpIZc1Kt4J00C2zz8tiZpFsloc+zjeLalCwW80HxWxpXR2X8TUGa+rPJAvsKdVGOL8idcSsdHHbea3S5Ivc/KD+puJyv2jfZIy1EnYM8F21xdgBHrTA9+DtEEuLCUg3PlydyINHc8oOBMfR4GQ==;K5tawbWJt+egjJkeYr/Zvg=="
 ---

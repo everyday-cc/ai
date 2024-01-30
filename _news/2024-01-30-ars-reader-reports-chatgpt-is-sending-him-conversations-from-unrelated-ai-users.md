@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgp
 webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
 type: article
 quality: 80
-heat: 94
+heat: 95
 published: true
 
 provider:

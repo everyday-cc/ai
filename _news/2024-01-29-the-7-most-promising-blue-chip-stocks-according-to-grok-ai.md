@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,15 @@ related:
     excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
     publishedDateTime: 2024-01-26T10:14:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/3-edge-ai-stocks-to-profit-from-technologys-next-big-thing-1033001777"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
+    publishedDateTime: 2024-01-26T18:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-capitalizing-on-the-artificial-intelligence-boom-1033002073"
     type: article
     provider:
       name: Business Insider

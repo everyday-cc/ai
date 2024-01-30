@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/kit-eaton/google-just-teased-a-crazy-ai-video-
 webUrl: "https://www.inc.com/kit-eaton/google-just-teased-a-crazy-ai-video-generating-service-start-thinking-of-what-it-could-do-for-your-business.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
+    excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
+    publishedDateTime: 2024-01-30T15:42:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-business-leaders-can-harness-the-potential-of-ai"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
 
 secured: "6wdk6mwUk+WlGhGOAw/sVrdcD1VyRG6+VAJHvNDghN2K3ueIRLvBvg4iVVUvzxEfiQbefRf4xSPLrRyXleWTh9142ks4mZoplBj8riz2GhhfKBuRw+D59td+g5kDiNr5sU3P28eQIzsFswkKMqyJ3Q9S5RRek9J2+11M0GgTZlm0hzvxwpKQyNWaxu28oAu1wt8WdsCalPWlGWOkbpxbv/FqaiYv8mBS8PJHZwu4bmNoWXPUEjup7foowx3lttzEXW1UuOF58qC2HqD+hv9iRvfAHhCZjzFuL3I2QoXpPVaCpKuoelbcdwVMPHbe8H/y0OIkTNU0k+OqZtE+po3yyNk/INAaHTB5NshIOebEqMIlBJSGzGlIAv8AVn0OllNUXCbosIJxxs5HV+FtgoplZoChmYMsysxIi/VqoHQx6MqZB7vl0ZTGgHAy1ZhyTogdbBEqBJn5OYkkPZKvOfqvLjSO/VKw/svyLX6FYWpPsJnHypXq7U6ryhk1FV/4O/gbJ5Uui+zoAqAjUxHeB2b6GQ==;oh3cpZbMPKa+u+R831c9SA=="
 ---

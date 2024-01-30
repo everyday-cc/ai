@@ -111,15 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
-    excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
-    publishedDateTime: 2024-01-25T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/01/25/microsoft-uses-ai-and-hpc-to-analyze-32-million-new-materials/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
     excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
     publishedDateTime: 2024-01-29T11:09:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-
 webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
-    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
-    publishedDateTime: 2024-01-26T10:37:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 34
 
 secured: "OtEIKejGVUnepB/1qnH4I1J/PiJ2GYqZiSMeik7l2ZJAgdUGVimxcsybTHHbfq8AwdNso3hR0lfJv2gilbyrScPYXy1aa6biiVuP6z6sfh+Kwu7Ug/SUtydDMF/51XacI6cAoLa6dGPtHQ/anEc7nzLRruNs0zr5lVGfIOmVsD38TbslwOGLOPFGtXQLyezzejLYupPj1SG5ABoR4rIUq8JFZwlDgwDPupYpKHRPZcCCoGFt99CQ83aMW7CVDlavHxw3QUAsQGTe+RQ6TBzbYLO+7wQtN295BNRuo35u9TV2OdaCLgV7X0IViCAI36NtfWcY14B+VIb6kxTn4QJG1kPb00hQVQGp+i2tInQGNNoTi5bIHQIba+gPRCfH1zMZL9oboGARQ/ZctdRepMDnP+CxVoSXiO6bQufZLD8rMIGEqgGMvrkJ0ju80LpX5ffAQtcYWT/3YZ7lTLZP5rNhj8TEtigaYCHHzlxKk44jaerRfnqh6Tymk7E9HZfY7XqIPFpFMCVwNagcddbZEdpuVQ==;LmBT/t6ZmWAzuFvIe15uNw=="
 ---

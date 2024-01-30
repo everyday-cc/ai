@@ -68,6 +68,15 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
+    excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/code-llama-beats-chatgpt-at-coding/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 21
 
 secured: "9gsbYoPxHos2tD4U941lZMQxStAxcFzsOBmWAmRy/MbAxK0gza2wdtp8ICfZvNTjtQ6SsTD/yFZHzqeLzAqMDonuYgZpPqf5yKhhAUSzDjrVByxC1bbVzPwtfBaVpO1NdehnyM2elEUUQS9xiIZsVKmIdhu6SEE6dfTZs8OiMMY+KJYtvS++FpBcht5JzGgFF9sZm17DlfW9Wi8h0lTMnInTfAB7LAvoKfmX1vsefIS7Zosf8L5vVvE1epgUTLq3wfQ6UuVvkdbzE/cdCZVUijx+Z+jjlh20yczclcJ/pVIGaY1fVNbfhbSHJPAIAGdocKI7WMH+fBLfkKwdCKhugtJH/oAbwEFftFozfundwP+ueumOckZGOwLo4n1duv4SPmrMndb19YZoDSJFcRAdJbgRkA8vQUB9uUZ1hJeXbLn4RIIC39lwb3c+Gn6aImj/uH6TNpSiCL1fERiso4MH95IHJDkJZEaK6MaHVbjnKI1wZczm/T7OOMEtzK0hhX57/RKJ5PPyCQ78isKmGEQUlw==;VVvmuqbXPRveVMlks0CgJw=="
 ---

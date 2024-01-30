@@ -40,6 +40,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 Stocks Capitalizing on the Artificial Intelligence Boom"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) can increase global productivity and help"
+    publishedDateTime: 2024-01-26T18:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-capitalizing-on-the-artificial-intelligence-boom-1033002073"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
     publishedDateTime: 2024-01-29T21:26:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.automation.com/getmedia/afa71657-d551-435d-bd7d-325fab45a602/Hannover-news-Jan-22-2024-web.png?width=500&height=313&ext=.png"

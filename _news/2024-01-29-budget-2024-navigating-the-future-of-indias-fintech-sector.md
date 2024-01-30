@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Happy New Year For FinTech? Lessons Looking Back On 2023 And Embracing 2024"
+    excerpt: "To dive into the core FinTech lessons of 2023 and predictions of 2024, The Pnyx reached out to three global experts in the FinTech and venture worlds to get their opinions on the past and future 12 months of the industry (you can listen to these episodes here )."
+    publishedDateTime: 2024-01-30T15:24:00Z
+    webUrl: "https://www.forbes.com/sites/vikasraj/2024/01/30/happy-new-year-for-fintech-lessons-looking-back-on-2023-and-embracing-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 32
   - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
     excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
     publishedDateTime: 2024-01-30T06:47:00Z

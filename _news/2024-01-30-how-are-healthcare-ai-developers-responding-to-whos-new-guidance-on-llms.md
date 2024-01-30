@@ -40,20 +40,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Tech, healthcare leaders to join AI startup board"
-    excerpt: "Leaders from CommonSpirit and Fairview Health Services join Suki's advisory board, bringing expertise in healthcare and technology to guide the company's AI vo"
-    publishedDateTime: 2024-01-25T17:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/tech-healthcare-leaders-to-join-ai-startup-board.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "MtrSgEQE7ojehcGvDowz+1N16utVpbvixi+D0eFNpnpJad5IAek8fgtp3fdrfknQ3WlRtbM86OAVM1nU7xtfSLkQSs97QBRQRBbLAOIa5P1vLFI7bVJEM5L/20489Va+3/iu81NfhuLeI7wT7l3sT6dtdmlAZzBwRAxjRGaWIxb0kV+Jcgp1k9WcU4Do1ea3BLumfdkFfDqQ1zJv6C/12G3txc+tn8GWLrKj62D2sgx9FvqkyU9szRTTrgyhLdl+hlnIF39cA8qmNa/OHorAoOLnXQYMq8MpuIfoRGFwkXMl2/pdGlP3jnvORHFNrngiZ6+d3Dz0Rn95vWWXD+3z+gSz6h0aFwB1etYg2/EWzcY=;jfH0mVf202ZXk9oWO0VfKA=="
 ---

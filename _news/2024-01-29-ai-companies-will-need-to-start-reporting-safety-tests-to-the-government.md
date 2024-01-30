@@ -85,6 +85,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Commerce Department starts requiring AI model operators to report key security data"
+    excerpt: "AI developers whose models pose risks to national security are now starting to report \"vital information,\" including safety test results, to the Department of Commerce before releasing their models to the public, the White House said Monday."
+    publishedDateTime: 2024-01-30T18:28:00Z
+    webUrl: "https://www.axios.com/2024/01/30/commerce-ai-model-info-sharing"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 28
 
 secured: "MJvQyjqyeT4ceFXmCgkkqXG+MnTIpYs3Gu9ppdphf8EJ1IBRn6CMpkMZh/X7+EkJMK2Lr3MOA2x5fxqyGP9aOXnSO2F+aWPoFW+qHFxDLqztHdz2pGMjN8v4ZGVr6DfWzCgzZ3Y03J3SIyfFcDvVctv6/gCoVGErwGDynyX9q0b2xK81ulpt6Dzg7wkE4TOpiq06RSTKNJTdANIcGurcNWZ37oL+9Df92Wh1yUNZjq3LalvQyTF1zmefGSCRHrK5e3pJZWOU8OsZXc+hVzWTe1IPEVWn8UEOpxV9I6BZ9S/A1SaFi89BLQlg3xrGBPEQg/yxXq7H5YGYBIHaaGEQsKpaswGoB76BuntLgVTbAVNet46JZ9LWH3RACyYLeb4hgGaKfgxiLl1GCMdPlH1+6AoVN7PW5ioEv3Ui/dWVNusVcoc8HwDPvsrso+ylaI7GmECC7bWbSHxSWqJL3AQmh1pQAT6h3maD51CxKAV+00OadsgSYiEBGWSPu3biE56JikBz5AaJYYTDGPLIgxbOWQ==;4rnmmaMqEEOsPO3+A3E9ow=="
 ---

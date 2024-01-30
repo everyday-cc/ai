@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Uses AI And HPC To Analyze 32 Million New Materials"
-    excerpt: "Microsoft's partnership with the Pacific Northwest National Laboratory is part of an ambitious project to compress 250 years of chemistry research into the next 25 years."
-    publishedDateTime: 2024-01-25T13:17:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2024/01/25/microsoft-uses-ai-and-hpc-to-analyze-32-million-new-materials/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
     excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
     publishedDateTime: 2024-01-26T15:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predicti
 webUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predictions-2024/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Top Financial Technology Certifications to Consider in 2024"
+    excerpt: "Are you ready to future-proof your career and dive into the exciting world of financial technology? Whether you’re a seasoned professional looking for new opportunities or just starting out, staying ahead of the curve with the right certifications is crucial."
+    publishedDateTime: 2024-01-28T09:41:00Z
+    webUrl: "https://techbullion.com/top-financial-technology-certifications-to-consider-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/FinTech-Certification.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "CoorB, For Financial Technology, Launches Its Operations In Three Key Markets In The Middle-East"
+    excerpt: "CoorB, the company specializing in information technology and digital financial services, has just announced the launch of its operations in three ke"
+    publishedDateTime: 2024-01-30T10:02:00Z
+    webUrl: "https://menafn.com/1107784885/CoorB-For-Financial-Technology-Launches-Its-Operations-In-Three-Key-Markets-In-The-Middle-East"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 11
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/30/pr_16278_06af47be_image_story.jpeg"
+        width: 800
+        height: 465
+        isCached: true
 
 secured: "LOHGLOduubMfN/H5ZJ9lL7JYtT3tbUS6AEOI+6Uyg1bOYuZoyOWG85ZHkMJmyILXw6hGzE3IP9NvkmZFFswE/PrWG/ZpWOBw9lh0brZ7KYqB7Qe9VJ4MfG3FVoKMVL7sR4YtqDKKSLKpdYRLyCAK9wHPkFeMi1XexlwyJIuZekZUOEdpd3NvjMCO3TFow8VsQrFjyPXsdcKuEMcEwhe4hzCZ/QiSDOzpWXkvLb8U6KzgSFO5sUwauW5lwub3tn+U6aK8FovXt6Mabik838Yu0Q4OFxqSi7Np3ZdwmcNZ+XPCRdXr6bX9HMuTeQcjiFaykShyM6WeHYQMZqZ9/SHYYrxObOMQU/q0b4aZT1n8xrF4AHHZEahsVE3T3wy5OqpHPc8ynHfozJYK611oMFtR8/cdN/Sb9v79p1lrTvFA1EakGFjnDbw44kVEW14NaqQtO70J3R3mtK/uSBVk9/HfnjpnpL0qQiU4D6PeLkMb0egn7yLbj7PC/5PFSHq9nR6c7N13itNaQuLgVrovNyQ8IQ==;FhQneOx8nuhTK36GCv1Dsw=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Happy New Year For FinTech? Lessons Looking Back On 2023 And Embracing 2024"
+    excerpt: "To dive into the core FinTech lessons of 2023 and predictions of 2024, The Pnyx reached out to three global experts in the FinTech and venture worlds to get their opinions on the past and future 12 months of the industry (you can listen to these episodes here )."
+    publishedDateTime: 2024-01-30T15:24:00Z
+    webUrl: "https://www.forbes.com/sites/vikasraj/2024/01/30/happy-new-year-for-fintech-lessons-looking-back-on-2023-and-embracing-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 32
   - title: "Budget 2024: Navigating the future of India's fintech sector"
     excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
     publishedDateTime: 2024-01-29T08:33:00Z

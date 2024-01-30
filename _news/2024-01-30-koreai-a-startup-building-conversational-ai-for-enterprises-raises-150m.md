@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-convers
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 137
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Three Questions Every Enterprise AI Startup Should Ask"
+    excerpt: "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that."
+    publishedDateTime: 2024-01-30T16:58:00Z
+    webUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/"
+    ampWebUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1576
+        height: 900
+        isCached: true
   - title: "Assessing and quantifying AI risk: A challenge for enterprises"
     excerpt: "Risks associated with artificial intelligence have grown with the use of GenAI and companies must first understand their risk to create the best protection plan."
     publishedDateTime: 2024-01-30T08:00:00Z
@@ -77,7 +93,16 @@ related:
         width: 837
         height: 472
         isCached: true
+  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
+    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
+    publishedDateTime: 2024-01-30T14:39:00Z
+    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 17
 
-secured: "iuCJFSi86c/WoBI07WYY4R4b+PQS2XBQ2WXvQZ7TTHbbiKO3zIoMW96+tIb2YnjatsyIGoknO3/Q0m3DtadjVerilHYWxV98wwJXAQl0qmzKr5lRGD5HwVqmM/NimtGqPcmsSqmsG+ebhGKuDJAVGiGW32+2D/q1XQeeH3czDtFyvYSXH/OHiX/x/Y6f02I41klBWNiZtAaiWWsUxgUBwk6+v2nssc2zcgJmbabzpUu5ipnG7Bf9yRL5cHQJQmQakxFmqsuNjyye2m6ZUpq2WXoFKw/3ZtUEMXfUW8z+HMzNjzxruZdNtF52NJkgIPJv7fvyBTEZN0xEow6UHqb2uFjFqBnUGsuszwLzPyQv8AU=;LJCMRZyj61CaZnR/BfUrEA=="
+secured: "wptL5OZCnyE/d0ikt6BhH+Nh2LfwxceMZC6eSTmG2wTrNQ+QSh2G9uciwXg/wCweOkU/XyzMgFPMdD6gw5YrE0fdF4NvSPCm9LeevzDX2GEmVKCcQI1IoJ1XfpkzIqRLWpM/3ufB5QKCV2NvgqK1OkQlOqT6q8t+QqorH8eAJ3vJmYC3wsN3Mi7HHsZc43ADSR27riLrLgrmDTS/bGWTYEJOVzXjaOZZNzF3J0psUJPflV1cCRjMS6SCzRZsYipK1UDCDFOp4A2mA9jhiM0VZtYeyHeHzyhZLZgp+rzppV2Ni3jEebz/gZzSSXPsEYa6ZWHX2hWzfbrNFSEmAUuNzri5eKVO+MvTCa97TqQEdf8=;lT8QR3O4d/3z/fRKRGpvhA=="
 ---
 

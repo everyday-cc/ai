@@ -52,6 +52,20 @@ related:
         width: 600
         height: 320
         isCached: true
+  - title: "CyberLink's Facial Recognition Engine, FaceMe®, Powers 2-Factor Biometric Authentication Solution for South Korean Banking Sector"
+    excerpt: "Leading AI facial recognition provider, CyberLink Corp. (5203.TW), today announces a new collaboration with South Korean company, UNIONCOMMUNITY. In addition to the existing FaceMe® SDK integration into their UBio-X Face Premium terminal for access control,"
+    publishedDateTime: 2024-01-30T17:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954377.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "JuI9LiZPDeG5AQY2ytFM+apiq5eexarhHEPrKCtNXa4TgKBetbR+9mHrnqEpQV+d2zt+QmZXj66iqitlgQmt+HJNGQMs2AouoZnpftNSk197KIQzYgCICeLl7GLm9giKrtI8uudfRTWCEdbB8MtmLDX/nVzlJBp1IThv7p57mWOHinhDXu6OoPQaVeuHWRrCh2mh4SH1E0n14bxE20mo9Ky4ERLzvfn6F4T56RTU7mrDUm5TY6hFRT3JTFkMI0FTdAZDmHpmKAqxydUguZS2HP9pLV2qbd926ill6UIdB66itrccojfHcindBTqvvm7prH5XdXhqI7w5fqlsogkql8rj9akKdwxHsDj/U7aKrI2QYVWqdhKH7fkVPHI5deZp4vNz8wrM4UVqtmBpR6GDL5r75r5jVdxElYJW8mZe55XWxMa3d3/aQsC0FRdz1Sfaa3pgw8B1sNn3wX4ny1ivLUiTN8Jrtws5MSeQmsWUDJrya90h+bfUsOh0v+rWFRYFmNGTkv0ySj0sgboEkySQNg==;4/7RrngCuzkeK1OMYAu5+Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
+    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "MmGVfKDHywwxy7uSBKj/xwMj4stT6yaEFMAZigx/RTASFRTYINzMUkBt9qa3SWNlFfj19TUnvhFpZQwahO+bzdI2wnrrpAJPreRx34WCHp47ZVPTK7xmsgiff7j/ZqvAtKZD3tn5RBpXXzVcMHVmjaNKpCVD12xddvSas4E84lifmZ/ML7HUZxcsCw+/o8qKSA40R1RlitcWI1sTkjnnGPEokXopBwn2UzqLQ4VycBjB8W1yAXpdgHnmbZvBl9OpHWpBe6p4jsgBqx340BMlBnEmZ70K9+O/QUtCH8d5xDhltTol2a2l7royHAXBzBZDh3dkAzjRB7S03N0GRoTEmqBVNsTro7fTkQ14CmrG4oc=;syeLbsZNKUPBbCjwZdBKtA=="
 ---

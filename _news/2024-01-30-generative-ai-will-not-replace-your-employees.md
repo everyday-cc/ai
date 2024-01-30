@@ -47,6 +47,15 @@ related:
       name: KWTX
       domain: kwtx.com
     quality: 34
+  - title: "Yelp will use AI to generate restaurant descriptions"
+    excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
+    publishedDateTime: 2024-01-30T14:07:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/yelp-will-use-ai-generate-restaurant-descriptions"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 17
 
 secured: "bYXbrzD09UmooaWXsqLmrXW6ILfrZDItSzrVYPUB8psTP3An9whGW6zY4InafXvuOCbtxbWFcBR1YXvgA1dGjYKbCK4PocgKeLRKzfZIQHLPUj/ddzKddJ5diBuICC4PVbuYq0Uvk+49dCdMtt4aQeUgnuGcwKKYKqh0+Js5hmyUquE1+AGuZjnUhvxnNQRATUhSvmAbsGQmOBrWF8QX+yYQMR+xUPqrRCHI2A97Kj09m6FQ6dofceI9kK7vRWPawl5fVOUpZovhkDiHHHUT0lwx9bMhYyYR05ANYi+8QcQ7lGZosAYWbw0k7oUa5RO7q5UHDqV5m0P7d9Hb+rnSdnf0JYc1/lmcQ5AyHlja+0zs+asXdnd8bdUY1zcgr+34Cbjqt+FEvu0iXswZr7W44rYYSEt8ZjOpCEE82C3QEKKpiblNokK5FJwXYJfpvPjanXSBMtsWYw+YR3xDfAbXkFG6WGvSJeI/whvtGg+BncmugW9mzk6ik2Yylsvs2tJ6Z1H4yj8lqrmJrB2UFKUpJQ==;tI7VvTIG8IAFl1HnKkW0pA=="
 ---

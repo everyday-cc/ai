@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leveraging AI For Good In The Healthcare Industry"
-    excerpt: "AI is a transformational tool, and it offers exciting opportunities to solve our toughest healthcare challenges."
-    publishedDateTime: 2024-01-25T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/25/leveraging-ai-for-good-in-the-healthcare-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "AI Use Builds in the Construction Industry"
     excerpt: "Syska has invested in Shadow Ventures, a contech and real estate investment fund, which in turn funded Okibo, a startup that makes smart robots for construction sites. “Robotics is just building a robot that can paint the wall,” said Ioanna. “The AI ..."
     publishedDateTime: 2024-01-30T06:00:00Z

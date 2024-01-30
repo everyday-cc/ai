@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,31 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s App Store now permits streaming game stores, adds in-app purchase for mini-apps, games, or AI chatbots"
-    excerpt: "Alongside the numerous changes Apple is making to its platforms to comply with the EU's Digital Markets Act (DMA), the company is also updating its rules"
-    publishedDateTime: 2024-01-25T18:12:00Z
-    webUrl: "https://techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/"
-    ampWebUrl: "https://techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/amp/"
+  - title: "Exclusive: AI chatbots take aim at human loneliness"
+    excerpt: "Luka executives have also been making the case that chatbots offer a safe space for people to try out dialogue and improve their human relationships. Yes, but: Kuyda acknowledged that attitudes could shift to the negative if other companies create AI chatbots that aim to maximize user attention in order to sell ads."
+    publishedDateTime: 2024-01-30T17:12:00Z
+    webUrl: "https://www.axios.com/2024/01/30/ai-chatbots-human-loneliness-tomo-luka"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple’s App Store now permits streaming game stores, adds in-app purchase for mini-apps, games, and AI chatbots"
-    excerpt: "Alongside the numerous changes Apple is making to its platforms to comply with the EU's Digital Markets Act (DMA), the company is also updating its rules"
-    publishedDateTime: 2024-01-25T18:54:00Z
-    webUrl: "https://techcrunch.com/2024/01/25/apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 27
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "lQHvEmlkuZsqCxwWbwKHztYShy6gMUyexYFesuXcZor5+XUFhG7HyhJgElUgslZp646xoDAdkXK1ecQBfmpd7wy7Z/1L40B8YeRnSgmeM5ruYbwXrZw0hRvzxkgAcACjLGlsGqkEUd+tmmsqWeMfBhG86S1S6tLNEgxu34d0xYF8k43/P2uLpxbb+oJqbF8ypw1i1H2CEzocdWamPut8RN0Uz+JQQqk58sKOwjhb6oO1zMXH+kAro550jkrIC4U9BJMsTkwkFh6PlymVpgCaV7s6hzoFy/coVLOJbieX5lFOC4HTSxlZNHLrPAl6NNezAZ+2pVV/sEWrjPfVc+nUKikONgkwvzjnKRIiOy1/leY=;HDmeAJsL8fVWYQoiup+x+A=="
 ---

@@ -63,6 +63,20 @@ related:
         width: 345
         height: 238
         isCached: true
+  - title: "US Senators seek balance between facial recognition benefits, risks for investigations"
+    excerpt: "The social and political context for the hearing was set by ongoing revelations about police misconduct in cases where FRT is used and people wrongly arrested."
+    publishedDateTime: 2024-01-30T18:45:00Z
+    webUrl: "https://www.biometricupdate.com/202401/us-senators-seek-balance-between-facial-recognition-benefits-risks-for-investigations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "HK, China ink deal on recognition of civil, commercial cases"
     excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
     publishedDateTime: 2024-01-29T07:30:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
-    excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
-    publishedDateTime: 2024-01-25T16:36:00Z
-    webUrl: "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Samsung Galaxy S24 Ultra review: all that and AI"
     excerpt: "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features."
     publishedDateTime: 2024-01-29T15:36:00Z
@@ -46,20 +32,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Baidu’s Ernie Bot Powers up Samsung’s AI Smartphones"
-    excerpt: "Baidu shares were up 2% today, but have declined nearly 23% in the past year."
-    publishedDateTime: 2024-01-29T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ernie-bot-powers-up-samsung-s-ai-smartphones-1033006430"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2024/01/image-761.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 899
-        height: 319
         isCached: true
   - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
     excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
@@ -181,6 +153,29 @@ related:
         width: 768
         height: 423
         isCached: true
+  - title: "Galaxy S24 Ultra Review: Would you spend $1,300 on AI and a lackluster camera?"
+    excerpt: "The Samsung Galaxy S24 Ultra is possibly the best Android phone on the market, but limited upgrades and a high price tag make it a hard sell."
+    publishedDateTime: 2024-01-30T18:00:00Z
+    webUrl: "https://9to5google.com/2024/01/30/samsung-galaxy-s24-ultra-review/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 35
+    images:
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Screenshot_20240129_145159_One-UI-Home.jpg?quality=82&strip=all&w=473"
+        width: 473
+        height: 1024
+        isCached: true
+  - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
+    excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."
+    publishedDateTime: 2024-01-30T14:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/apple-vision-pro-review-a-mind-blowing-look-at-an-unfinished-future/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
   - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
     excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
     publishedDateTime: 2024-01-29T14:47:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/google-made-an-ai-doctor-that-can-help-diagno
 webUrl: "https://bgr.com/tech/google-made-an-ai-doctor-that-can-help-diagnose-patients/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,61 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "4 skills that can help companies thrive with AI"
-    excerpt: "In-depth knowledge of market dynamics, product-market fit, and understanding your customer have always been essential business skills, but they’re especially critical in the AI era, says Subbaiah."
-    publishedDateTime: 2024-01-25T16:32:00Z
-    webUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html"
-    ampWebUrl: "https://www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1298599/4-skills-that-can-help-companies-thrive-with-ai.html?amp=1"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2024/01/3_iStock-1133750811.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 710
-        isCached: true
-  - title: "Google cuts ties with company that help train Bard, here's why"
-    excerpt: "Google ends contract with Appen Ltd for labeling training data for Bard. Appen loses major client, impacting financial stability. Google terminates contract to evaluate supplier partnerships, says Courtenay Mencini from Alphabet. Google ends contract with ..."
-    publishedDateTime: 2024-01-28T03:58:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/articleshow/107196861.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-cuts-ties-with-company-that-help-train-bard-heres-why/amp_articleshow/107196861.cms"
+  - title: "Russian doctors use Artificial Intelligence to treat patients"
+    excerpt: "Russian doctors have long benefited from artificial intelligence's ability (AI) to diagnose dozens of pathologies in a matter of minutes, without the need for sleep or fatigue. This Real-time analysis of studies in 29 clinical areas is done in Moscow by 60 ..."
+    publishedDateTime: 2024-01-28T02:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/russian-doctors-use-artificial-intelligence-to-treat-patients/videoshow/107196057.cms"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107196861,width-1280,height-720,resizemode-4/107196861.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
-    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
-    publishedDateTime: 2024-01-30T06:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
+    quality: 17
+  - title: "Can AI actually help parents? These moms say absolutely."
+    excerpt: "OP/ED: Parenting is full of hard decisions. Here’s how artificial intelligence could make those choices a little easier."
+    publishedDateTime: 2024-01-29T19:29:00Z
+    webUrl: "https://www.msnbc.com/know-your-value/out-of-office/can-ai-actually-help-parents-moms-say-absolutely-rcna136212"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
-    excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"
-    publishedDateTime: 2024-01-26T13:15:00Z
-    webUrl: "https://hbr.org/2024/01/how-data-collaboration-platforms-can-help-companies-build-better-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2024/01/Jan24_26_1128845361.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+      name: MSNBC
+      domain: msnbc.com
+    quality: 17
 
 secured: "gR7I19YXQtl6uI8bnv35UDqnQ1Uebd4BeAfd5sA7YJ8k3k5m7rIYlqOrgMfYGkdremuOlnr8qTVJ3kzjrrecCrpJxQh2Hi0LxoSFGd9L9NveUG2igoMMvp2iIE8//BzuyDmFhUki/bhBEca9Ia+C37HNdLso9HqXQOsye7MGAQsePzKL12p2wB7+utrLGLRXOFq2bAnckAS/ilUdB5UroafYmJD3YXeb9w0NSctXfBecrERyXzIxftDKphnNXnxYNsPll3Zi5Fe36AAlRHW3vqaIHHo2iq/ZOK+7P13/a7pEl52iazR043P6AGXRto9muOU84I0a9yLWtmXG8ENLHoWQa/2t9H/Cs3V3ehnHjNvabNwgs5Z+sD6ioGIlLADcuY7ITtdhcbmNb/qzcLjnAcn2x8kdFbzCkqPajRYI6sNvI38KUbdgzjvQNppUvHa2DpIMhU4VeKaXB218Z0BOpAU5AubJ8bcUIePG0o8Ui2ZywmTBGvwCKn+9aODRJzR0NkoK5+W0kP2NFP9bbu96/A==;7CeOfADtku39jvBD/zr7eQ=="
 ---

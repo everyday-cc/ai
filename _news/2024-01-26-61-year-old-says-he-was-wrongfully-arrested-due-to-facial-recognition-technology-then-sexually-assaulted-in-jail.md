@@ -7,7 +7,7 @@ originalUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-sa
 webUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-says-he-was-wrongfully-arrested-due-to-facial-recognition-technology-then-sexually-assaulted-in-jail/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man says AI and facial recognition software falsely ID'd him for robbing Sunglass Hut, was jailed and assaulted"
-    excerpt: "A 61-year-old man living in California said he was wrongly accused of robbing a Sunglass Hut in Texas, arrested and then sexually assaulted by inmates after facial recognition software falsely identified him as the suspect."
-    publishedDateTime: 2024-01-25T16:32:00Z
-    webUrl: "https://www.aol.com/news/man-says-ai-facial-recognition-163202740.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JefRMUbC3InWx3hUHtNoaw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjU-/https://media.zenfs.com/en/aol_nbc_universal_184/13f8a04416b6b38713c34ccacebc464b"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Texas grandfather was wrongly ID'd as Sunglass Hut robber by facial recognition technology and GANG-RAPED after being jailed for crime that took place while he was in ..."
     excerpt: "Using artificial intelligence and facial recognition software, EssilorLuxottica and Macy’s took the video from the robbery and determined that Murphy was the robber,' the lawsuit states. 'The video was recorded by Kimco’s poor low-quality cameras.'"
     publishedDateTime: 2024-01-25T21:51:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://afro.com/inequitable-algorithms-facial-recognitions-alarmi
 webUrl: "https://afro.com/inequitable-algorithms-facial-recognitions-alarming-pattern-of-misidentifying-black-individuals-sparks-calls-for-reform/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 810
     height: 648
     isCached: true
-
-related:
-  - title: "Beijing implements facial recognition for foreigners registering a business"
-    excerpt: "The change eliminates the need for foreign nationals applying to register foreign-funded enterprises to supply proof of identity issued by their home country."
-    publishedDateTime: 2024-01-25T14:12:00Z
-    webUrl: "https://www.biometricupdate.com/202401/beijing-implements-facial-recognition-for-foreigners-registering-a-business"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
 
 secured: "QqpToPb/jRJX0Ucc8IiXz2JQFHDom7241BPTEvTGCBXO1VuCYhl6EYSUTOlkixyK97Lr6uWiKqvS+aV3j9He7HMxLwO/O+ymWAxG8OwxOpd6kWulG/7e9kBQwllFQyir2zF6R6Tnl2RLV49LSAXszRYNECtJ4OmprgHhraLnn2eUBkwgOXtdQq9Vctyaku0+/WVYtNK+ZLJF7/p+5/70b52h/QceamMwZuetL90z/fxaRji8UvLiHSb9jsNrpfgzTA29nxGawsaScQ+45tRYDe3X6eI/nl7benzF2e1gMV7aRV7GvR7AI+KuiTNYPP0kRLjJn1mrxGhYFABfFC7MMm9MLgj8RwCDwc5OdVkq+mW99OMSsuCNmw9LylkooWFTJgs0Lu6GWV4tSdREzYD80ioVxWODY3EgiLuWYXC8BiQFhBXtEN9oSEZxy4HfV85LsLB4w4Tk1QJE+q3mpgkzyLTBq0luQqekHmo6JqD61x9Ks8vxD9ersDoo1O9vDcZXdZ8YiqF3AIPTRc7DYkb8tw==;IGJarj7oCD5iNA255PROmA=="
 ---

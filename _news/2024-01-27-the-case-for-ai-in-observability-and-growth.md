@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability"
+    excerpt: "Forrester constructed a single composite organization that aggregated the representatives’ experiences with using the Instana platform.\nThe post Average 219% ROI: The Total Economic Impact™ of IBM Instana Observability appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-30T15:00:00Z
+    webUrl: "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 81
   - title: "Network Security in 2024: Artificial Intelligence, Observability, Simplicity, and Beyond"
     excerpt: "Looking back on this past year, the network and security space has experienced a series of major advancements, as well as brand new challenges. The"
     publishedDateTime: 2024-01-30T04:21:00Z

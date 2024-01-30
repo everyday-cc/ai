@@ -62,29 +62,6 @@ related:
         width: 1218
         height: 600
         isCached: true
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Generative AI Is All About the Money"
-    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
-    publishedDateTime: 2024-01-25T15:26:00Z
-    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
-    images:
-      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
-        width: 737
-        height: 737
-        isCached: true
   - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
     excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
     publishedDateTime: 2024-01-26T02:00:00Z
@@ -141,6 +118,15 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology"
+    excerpt: "“Leveraging cutting-edge AI technology is a testament to HYCU's commitment to technological innovation and leadership in the data protection industry,” said Philippe Nicolas, Principal, Coldago Research ... us on LinkedIn, Facebook, Instagram ..."
+    publishedDateTime: 2024-01-30T08:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/hycu-inc-leverages-anthropic-to-revolutionize-data-protection-through-generative-ai-technology-1033009921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "The generative AI smartphone age is here"
     excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
     publishedDateTime: 2024-01-26T15:11:00Z

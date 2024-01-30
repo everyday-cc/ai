@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Cloud Partners With Hugging Face to Attract AI Developers"
-    excerpt: "The arrangement will allow developers using Google Cloud's technical infrastructure to access and deploy Hugging Face's repository of open source AI software, such as models and data sets. Hugging Face has grown into a central hub for open-source AI software, and signed a similar arrangement in February last year with Amazon.com's cloud unit."
-    publishedDateTime: 2024-01-25T14:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google-cloud-partners-with-hugging-face-to-attract-ai-developers"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "UcpL3Gpk/FmDHZQ9TlAHdHuF0bBrVKpK3W6aFzasiptvtGw8FtzZfZ8CRnSLPWLLShPl+5j/VIhqNO/qWDG+So0/tQz8qsmhn5RbiVLWz57/uGG8NZSEhh3FhCl+QzBhLOxWGkCRCGyKOcj68nrvisJ/NR+wfMLXhVdAHDRdzvAex5+hVM7wSGzEuLykYe1MxOwutWTmtMDyh5Eaq/v+qLJApwHtp35brIZOLONKsP68tG0WaEOxR44YCnaS5WoPAdK9y6eKlA9BvfYTxq3cG8zdEsxXfYF8rgeHhKi5kqeH03cfac74qTb27RispnGFdxXrh+/4u2TSX39AJsG0LYScFgMH4lXHYINgYCF5064=;+LhPkZI0oX0O7C/iigj2iA=="
 ---

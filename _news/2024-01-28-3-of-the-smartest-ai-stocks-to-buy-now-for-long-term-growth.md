@@ -37,15 +37,6 @@ related:
         width: 2102
         height: 1426
         isCached: true
-  - title: "The Next Stock Superstar? 3 AI Stocks the Gurus Are Buying Hand Over Fist"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The run-up in valuation for Nvidia (NASDAQ:NVDA), Microsoft (NASDAQ:MSFT) and"
-    publishedDateTime: 2024-01-25T18:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-next-stock-superstar-3-ai-stocks-the-gurus-are-buying-hand-over-fist-1032998266"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
   - title: "3 Artificial Intelligence Stocks to Buy as the Technology Advances in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips According to the International Monetary Fund, we are on the brink of a"
     publishedDateTime: 2024-01-26T02:25:00Z

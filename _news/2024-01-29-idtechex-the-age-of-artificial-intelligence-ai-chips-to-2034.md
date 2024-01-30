@@ -7,8 +7,8 @@ originalUrl: "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligen
 webUrl: "https://www.tmcnet.com/usubmit/-idtechex-age-artificial-intelligence-ai-chips-2034-/2024/01/29/9953153.htm"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TMCnet
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "NEWS TAGGED AI CHIPS"
-    excerpt: "Lee's startup 01.AI reached the US$1 billion unicorn mark last year after receiving investment during its latest funding round from China's Alibaba and Lee's Beijing-based company... Semiconductor ..."
-    publishedDateTime: 2024-01-25T15:29:00Z
-    webUrl: "https://www.digitimes.com/tag/ai_chips/00110853.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/ad/en_20231113_asasemiconductor_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
 
 secured: "ANMhSWPsp+L87J9H3EDZMyc15LnU1w800n/87UiJilVV5+2m2pVESwzcuyZwNC4nvEwhNXq+xvrQUz8EDJbdVDPBm+yPOuazmQ7iILYizgSDL0bi6fGXzX5rYrxYLa+LCZKBQyOlDAOM8r48oFCicA7fu2+F55gzdH7rBmxIyZYF6r656lgTlQ+2baiFS0pEEaGoS1xJvo+PUbqAsrlcZtjHBx+KgSojHQVYkh6zV94Ks+UVADinx7eCoGQfa8VUCUpGVbYbyAJGn2tAlUV7bNjkC7C3VmeDJ5Doad6BwCaohk50G9iDvBF18rjMAWGAVYYuvlOOjMqf//A2iGWzRWB1jyUYt2u0GZp35WlpMIQ=;6j7cYzPLlnr4yV2PPqsCmA=="
 ---

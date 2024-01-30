@@ -61,6 +61,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Three Questions Every Enterprise AI Startup Should Ask"
+    excerpt: "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that."
+    publishedDateTime: 2024-01-30T16:58:00Z
+    webUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/"
+    ampWebUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1576
+        height: 900
+        isCached: true
   - title: "Cohere: The multinational, AI-for-enterprise company explained"
     excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
     publishedDateTime: 2024-01-29T00:00:00Z
@@ -75,7 +91,16 @@ related:
         width: 837
         height: 472
         isCached: true
+  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
+    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
+    publishedDateTime: 2024-01-30T14:39:00Z
+    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 17
 
-secured: "ZtyhRRhSmUzlliVbqCxwdN33pa4rmZSvJpyUkkZO/ElT7xkLzZJakUk6OZX4j3WIsDqqMKiZo1kpTUc19n8aRSFDhdjpL8oNya3RzfJLFmi2RcRpbhDcgYtW1BOjJ/96oq/RYdnJ7SqPSA4nKpH97u58ygI0IK04mfOwQDJvkLk4qLIU98T/Eeuj9gEuQXCOdW/K5NCWhXwMEWWcGr2mt9mVMndIbZLFmmmpn5j+94UrFNYEBY0NXRQHUGPUf87S/67sZhJHBPnrx4sLylUGGQlO46BQkcJ3FP0cmSftTwX4/7KeN/3NrTBYz5Cob2GXTKHhah82sHEj/+UVKwK1CCeGEsaYTZ1SIlV8/mIqFwo=;f+soGRulS0uEE6QSO/Pgcg=="
+secured: "bhFcVydqz3XEE/yYT2n/dD4eaWoeMqZ+RiKaV9QGfZkfWRGGJxT/VUaJCCnnB/wfy7QF6ZYDUP5MMp59PB+ufdYLeN5HWfA+10uPTVAbnGtUe8sR6f9UZIZEJL/NXRQU0/o5Pxu3WKyS9rbjczXykxuyfD+irrMY06npRYbPOQrJlQQ+BZ6mevvWDMO4YDe1qB79+z+Y0ytpVu/d/s3wCeg//jvv6NZOG7oXVhCQlfVwFPoUM5hD/Dhkd0zuWJsQOfKnqGPMrXKd4W+XCqbDt5YRxmo2AR39HmmfbZKz0igH2xdGwNy4DTm9DLAo8IpMWKIHUVzVOMKaltmsdScdNFHTVb646msUtf+jg9m7olau0KCq0K6WOzoHbkwZ/4oSsfz81yoMXJ3Lm1w5U3OQoH14TWVCysMaKJ9Fyw3tEtcOgpttQc1oXA50c0JGTMgTdJRZzmkFMYOGsQLI6uFwKJgIPmTSxfVD27VaHozayXdRyKk31E3GSsLO1ilj5twj57JfRAplFrueqXxF3OSiEQ==;ZQ0NC24LCexsvsRvq/2cLQ=="
 ---
 

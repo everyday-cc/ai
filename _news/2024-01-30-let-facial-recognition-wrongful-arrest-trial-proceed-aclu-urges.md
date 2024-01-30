@@ -53,6 +53,20 @@ related:
         width: 345
         height: 238
         isCached: true
+  - title: "US Senators seek balance between facial recognition benefits, risks for investigations"
+    excerpt: "The social and political context for the hearing was set by ongoing revelations about police misconduct in cases where FRT is used and people wrongly arrested."
+    publishedDateTime: 2024-01-30T18:45:00Z
+    webUrl: "https://www.biometricupdate.com/202401/us-senators-seek-balance-between-facial-recognition-benefits-risks-for-investigations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
     excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
     publishedDateTime: 2024-01-26T15:32:00Z

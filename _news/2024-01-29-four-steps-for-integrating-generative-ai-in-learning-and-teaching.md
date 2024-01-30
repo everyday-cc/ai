@@ -51,6 +51,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "AI Empathy: Emotional AI Is Redefining Interactions In The Digital Age"
+    excerpt: "These advanced tools are not just software interfaces; they are bridges to understanding human emotions and behaviours in a manner that was once the realm of science"
+    publishedDateTime: 2024-01-30T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/"
+    ampWebUrl: "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 571
+        isCached: true
   - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
     excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
     publishedDateTime: 2024-01-26T12:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generati
 webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: KWTX
       domain: kwtx.com
     quality: 34
+  - title: "Yelp will use AI to generate restaurant descriptions"
+    excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
+    publishedDateTime: 2024-01-30T14:07:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/yelp-will-use-ai-generate-restaurant-descriptions"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 17
 
 secured: "ItdtmN2YEes+NcHiyOKfyWhsfqQEhXpDwxM9RCkzeVEZdfDNZUNDCGWhnHa8ThJcrbBQPMbA1+Gcaq6CkVA0NpjgOT4w65MC61QpicqfPk5WRvq5n7AU1x8C37skkif4NWfwfMcAzwwCa2gznGO59ewRvr8EIqsNT9cFmUhZpdh+/GA5r0hQkKbvxhRPOUmY+GWPslV1hNTHhN0hb7gAPNaGeBAvA5nNXQTffC90YDqLOX1Av9fD7VhvTWLo8s7l32Gu3wGvU/oJV27smbsET/Od1yQpq+IZrNit7p6Dp73ts48VNlnuQKRL8B/S8wDqi7Ai1ZTJOzcEXB7VeqBxt2DbxlxLciRXoW3JDZMKCDoRPqD2iQdwx3tk7uON5UqdiGd8GG7uPtFYa/ELLwWbv7ntA/FoCbOWiiY8hjkETYSzj7Qi0l0Y8fmLGAtHMKBvBccl9ejSSHbbJ2pHs/50l6jKTa7GKWUeqrOuiphefPpTVFZWlyCXojE4aqfXbdTFLKf47VlPG5etXYZnd8Izbw==;l9SNYzAn7fuJJ20A9M9gSg=="
 ---

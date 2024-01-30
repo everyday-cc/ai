@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
 type: article
 quality: 94
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
+    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
+    publishedDateTime: 2024-01-30T16:08:00Z
+    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 29
 
 secured: "z+L3lzEMUObzQdzBWsF8X7M6YlFK0uzYPe9yI6Btdk9n9iDeyIF1mJXHCHUvGEgc2SttEsDZt5X6lMNcKM3yd1db7v7UxvtcLa8anRC/bDNUJp0pi0bk1uGAuEKFerSfiV8VNjbsSSmfOVr2KUKdCC8rcy9GvFiPSo3Vd2GXp63nIHd48NOEqb9LWx2rQ3dImv57b9kOm5Mb7MKflcx0gZxF6kQnNX4WE0JfKXY25NVGpjj6CKvRdPBMfJ1jKCAklqq18bZx09hm3nvoxgGNpj936JtwGMKrPrk4QdLIOr9LMvHT61GNWRx1fnEeTuOO65gH5zawqx+6U9Oaf73N1K8Q1wn+QdVXdUrUaDLk5sY9AVTJMjuaJi3meZHeteSTvTVGNZNPHnI1FGroRpE49gGMeyKTSQNeJ5XsN0m34trwErI8GZZafRpyVk4p3BE9eD7MZdEEijjvWIDQEGjjicvVbnCjlb5oAuyfCIhXG2T/YAf2ofhNmgFP9HCBHGw95X9KLGuQLUYuEKB6aV5osA==;Qy8nEMSG1RsjhA07M0XTng=="
 ---

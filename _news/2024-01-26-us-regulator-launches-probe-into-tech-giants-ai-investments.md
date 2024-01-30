@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FTC launches AI inquiry into Amazon, Alphabet, Microsoft, looking at 'investments and partnerships'"
-    excerpt: "FTC Chair Lina Khan said on Thursday that her agency is looking int AI deals among the biggest players developing and using the technology."
-    publishedDateTime: 2024-01-25T15:37:00Z
-    webUrl: "https://www.cnbc.com/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/ftc-looking-into-ai-deals-at-amazon-alphabet-microsoft-openai-.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 90
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107312111-1696517485628-gettyimages-1708318046-776043929.jpeg?v=1696517509"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
-    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
-    publishedDateTime: 2024-01-25T21:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "FTC Launches Inquiry Into Artificial Intelligence Deals"
     excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
     publishedDateTime: 2024-01-26T12:34:00Z
@@ -70,20 +40,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1530150886.jpg?quality=85"
         width: 7571
         height: 5046
-        isCached: true
-  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft’s OpenAI partnership"
-    excerpt: "The FTC said on Thursday that it has issued “compulsory orders” to five companies, requiring them to provide information regarding investments and partnerships."
-    publishedDateTime: 2024-01-25T18:42:00Z
-    webUrl: "https://www.bostonglobe.com/2024/01/25/business/ftc-launches-inquiry-into-artificial-intelligence-deals-such-microsofts-openai-partnership/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 57
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/rMSqy-kgGKFgxe-8_8OgALcUETI=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/45GMYXTDWKGTYBY3BBASLU254U.jpg"
-        width: 506
-        height: 338
         isCached: true
   - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
     excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
@@ -117,58 +73,30 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
-    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
+  - title: "FTC probes Big Tech ties with AI"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
+    publishedDateTime: 2024-01-25T22:24:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
+    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
-        isCached: true
-  - title: "FTC launches antitrust inquiry into artificial intelligence deals by tech giants"
-    excerpt: "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ..."
-    publishedDateTime: 2024-01-25T18:27:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/ftc-launches-antitrust-inquiry-into-artificial-intelligence-deals-by-tech-giants"
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "Tech Giants Take a Beating at FTC's AI Summit"
+    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
+    publishedDateTime: 2024-01-26T06:52:00Z
+    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 52
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2024/01/2021-04-21T162907Z_733587271_RC2G0N91NZC0_RTRMADP_3_USA-BIDEN-NASA-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
-    excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"
-    publishedDateTime: 2024-01-25T19:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/25/ftc-orders-ai-companies-to-dish-on-investments-partnerships-and-meetings/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 46
-  - title: "Google Cloud partners with Hugging Face to attract AI developers"
-    excerpt: "The cloud computing arm of Alphabet Inc said on Thursday it had formed a partnership with startup Hugging Face to ease artificial intelligence (AI) software development in the company's Google Cloud."
-    publishedDateTime: 2024-01-25T16:03:00Z
-    webUrl: "https://www.aol.com/news/google-cloud-partners-hugging-face-140453436.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: Law
+      domain: law.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/f8d3efd91cbcb0dc4a86c897b6556f8e"
-        width: 800
-        height: 545
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "FTC Begins Inquiry into Artificial Intelligence"
     excerpt: "Jan 26, 2024 The Federal Trade Commission (FTC) issued orders to five companies requiring them to provide information about their investments and partnerships involving artificial intelligence (AI)."
@@ -198,24 +126,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
-    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
-    publishedDateTime: 2024-01-25T19:43:00Z
-    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-  - title: "Big Tech’s AI partnerships draw inquiry from FTC"
-    excerpt: "US regulator seeks more information on multibillion-dollar ties between Google, Amazon and Microsoft and OpenAI and Anthropic"
-    publishedDateTime: 2024-01-25T18:48:00Z
-    webUrl: "https://www.ft.com/content/6046292f-1c6d-499b-8ed5-7e7c337c5bbd"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "WWYWA+T6o1E0/v4yZ/ObiMmymlEL3dQmf5xCHGx0DFzLAWV0A6Al3VtUVBnjurb8Rv0iTpcpCw5vItCgP2v2KRgMwDvK8ilwHQKdRcXacNHKr/h0KRZmZ9DpdUvnJAIknFBySFMAKFeMJhpp3jz28RL+nhO9mdBB/GDdpBh5PMbJWG0UuKKnB5qusY65VcI/4n36A9c0pUXsATN49OmTFMnaMttVqkp17jItP20WePX/5kM78qB5/DfqGNDEQh2A/N0tHBbD0mtp0mDdbfEY74IeCUVi+zzhpF5JTAVqHobVSt/raBUl3O4XFc8L0I3D8WfZAynvs3+fWr51YI9NS4xk7RoTzQ4V0+CBo8ylgh8=;WWvTO3QJUZKvDOpDBF+2eQ=="
 ---
