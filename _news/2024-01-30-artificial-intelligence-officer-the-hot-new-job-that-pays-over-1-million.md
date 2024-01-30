@@ -8,8 +8,8 @@ webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-officer-the-hot
 ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-officer-the-hot-new-job-that-pays-over-1-million-4958872/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-officer-the-hot-new-job-that-pays-over-1-million-4958872/amp/1"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://c.ndtvimg.com/2024-01/ql0u916_virtual-reality-generic_625x300_30_January_24.jpg"

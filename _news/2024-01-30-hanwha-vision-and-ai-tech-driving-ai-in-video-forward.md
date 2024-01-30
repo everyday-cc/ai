@@ -3,11 +3,13 @@ category: news
 title: "Hanwha Vision and A.I. Tech: Driving AI in video forward"
 excerpt: "The latest in our ongoing series introducing some of Hanwha Vision’s pioneering partners has us meet with Alessia Saggese, co-owner at A.I. Tech. Here, Alessia discusses how cutting-edge"
 publishedDateTime: 2024-01-30T10:34:00Z
-originalUrl: "https://www.sourcesecurity.com/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html"
+webUrl: "https://www.sourcesecurity.com/tags/video-analytics/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/hanwha-vision-tech-driving-ai-video-co-1437-ga-co-13961-ga.1706601571.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "O/oSrH9VFH/ZXVgMggvDDk7a9VIEg8m/NYG7ezwSPKSfI7PE6qUKwvybH9FBSwbaBD3UCuukG43/FAhHD5nqX9117u8K/diAZNm+etvFZK8Wjh7qzShaJHWPx5ZBk2pkY+NxPUVDBCHGv4No790MP8zmtiFUzgPQz30K/S/j+oljmPo6Eh+nCx529UIWbE8XH4G9zfPZwquYdB7MX4uqGPFCpwYAFK0g5MgbzoOPKpyB6X4VIVDYJ6h990iOLpdl6PqaP6soYmb61WXDtQoy6JPRent1eII2faRFCeCAJV+TSsmHHQRyqnI2WS2UGdSP9O4jP+AKp1tEBzAEgx13SotpFHO4THk2VU/sDxdHrPI=;7RjT0Wpqr3xhtLA9W/eePg=="
+secured: "FYw20919qtOM09X/Z0MGKidm9N+7/FsYVvUq3y/aNtlyDnwjZOBIqyElpAGnwFrMxRkYNB1JV14P7FU3CwR2qh/rTdIxu4sbVgvSaHGPDfVuQnry1WqQxjAr+c5Vs3CNOTnGi1/BA6hBTyAcLaADyDoBetk/AuncqSfX342sfBUEwHH/t/HeER+1tziJNvSyHRHAxAFo+NW4DETDyY6UMDzF51H3CXm2n7a8ypWWOu0yI5l31VrMU5FTz6j5Y9BvcvBsCSlYEqcaJ02cMyQBxZKOWe5tD3PvjsAMCiOJQy3XrLgxwSWWbjRgeYpHEXTw1ii9K/PQShTClb2ed0m1kBWG4vWmeBwkDIQ5kSifUTE=;5Dbl7O5selqC7qesI5dCZA=="
 ---
 

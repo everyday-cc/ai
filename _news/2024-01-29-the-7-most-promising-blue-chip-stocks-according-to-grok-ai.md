@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The tantalising promise of AI for the emerging world"
-    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
-    publishedDateTime: 2024-01-25T11:50:00Z
-    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "CPFvSTAuYGRJZ2F3IeahfkRTOMi0e4lj8UPBYbIk2g7Do5W69DtPcxOaLuL5vmdEElafOwS/H3vTgSRXiqE264cyxre45t4k6Twav4/rMy43rRD1/x61Hl4uDVu1/rC4qVNqbfu39j+3T/lGNRbqMubm0xWYYua/bVznchbwf2RgQA8deOCYzZezrLZNmNsEL3245dv6Ya/FA1zIbU+MZhMBr9PLty+f7ShVvmESqIBcxo9gtcz1l0fsiyDFFvPiqCvhhqrlsN939c6dRpk+IrJstMnPJ+aHl98xcx9u1jBreD0DAE7x7vaRmiMQ8OFFFeXWePeo87z9OzyUb+NoSyhxXPyDkyHJRD/PZUwQgTI=;cLeQX2nQVgUAuSKM+C9jXQ=="
 ---

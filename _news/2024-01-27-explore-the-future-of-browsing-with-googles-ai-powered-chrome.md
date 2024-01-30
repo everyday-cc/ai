@@ -27,43 +27,40 @@ images:
     isCached: true
 
 related:
-  - title: "Hugging Face teams up with Google to accelerate open AI development"
-    excerpt: "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs."
-    publishedDateTime: 2024-01-25T19:19:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
+  - title: "Conversational marketing - combining the power of AI with humans"
+    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
+    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
+        width: 640
+        height: 390
         isCached: true
-  - title: "Google Cloud Partners With Hugging Face to Attract AI Developers"
-    excerpt: "The arrangement will allow developers using Google Cloud's technical infrastructure to access and deploy Hugging Face's repository of open source AI software, such as models and data sets. Hugging Face has grown into a central hub for open-source AI software, and signed a similar arrangement in February last year with Amazon.com's cloud unit."
-    publishedDateTime: 2024-01-25T14:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-25/google-cloud-partners-with-hugging-face-to-attract-ai-developers"
+  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
+    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
-    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
-    publishedDateTime: 2024-01-26T15:41:00Z
-    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+  - title: "AI companies face growing competition, slower technology gains"
+    excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
+    publishedDateTime: 2024-01-28T00:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-ai-companies-face-growing-competition-slower-technology-gains/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 24
-    images:
-      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "NcEMP8BdLZA8gxUYPz9Scc1Nlm9A+uZ9P1YvOrlshk3+pbKy52FMM9PVib7JuVUp2+dmTcZPRgkYpF6tKuCdz6EwzgsiUFYl9JqzifcBHwhRV8ZLqF+KnLRlLQaeez9YdisyrM4g1eDUTcFjhn2VUx6ddyLRxGYSVyKX5IszVqdTMHTdAT7BryRuphNzC46E/wfdL8sABsbdT6eb83DvcaPSFuAd4ZyMooc+aDJAxK0QHLqXDMoQiQ1tIsK+mgBj1O2CVoeDpdtOvuX32g3wI/mSW+avMMmMT9wTTf06YHcHPSmO6/HwcSQ/RJcjxujrEseZMlF8tLtLDyThlm/BLjm7KUJu3vSRheL9YeM3l5UVSQnSUDeT8HgNA5vXdnW5fp6Z1qd8B+oWL+ieDb80RnaFUx9Cs/HkHnai3QPgZVdbsXOA+Mcl4vdDostG2ZbmPpDroxunq9sPEKm5Tv3iTmzQtRldkONPbrud76Dsp/ANm/QdzKmz1PZZE/ZduvMVw6pkkpodiNCKEXGmITjT+w==;h+9gUA199fuk8c2dB4UHsQ=="
 ---

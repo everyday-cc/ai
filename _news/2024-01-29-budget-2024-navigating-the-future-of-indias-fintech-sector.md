@@ -25,38 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Personal Branding in 2024: How AI Is Revolutionizing Self-Presentation"
-    excerpt: "AI isn't just an accessory; it's a fundamental architect of our online personas — analyzing, creating, refining."
-    publishedDateTime: 2024-01-25T13:36:00Z
-    webUrl: "https://www.newsweek.com/future-personal-branding-2024-how-ai-revolutionizing-self-presentation-1863572"
+  - title: "The rise of digital banking: Fintech trends in 2024"
+    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
+    publishedDateTime: 2024-01-29T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 40
-  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
-    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
-    publishedDateTime: 2024-01-28T12:25:00Z
-    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
+        width: 1000
+        height: 800
         isCached: true
-  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
-    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
-    publishedDateTime: 2024-01-29T20:24:00Z
-    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
+  - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
+    excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
+    publishedDateTime: 2024-01-30T06:47:00Z
+    webUrl: "https://fintechnews.ch/events/top-20-fintech-events-to-attend-in-europe-in-h1-2024/69113/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 4
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2024/01/Top-20-Fintech-Events-to-Attend-in-Europe-in-H1-2024.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "ubIZZ+CyLIK+KhmMWSL1b9d5pqY7knReJWAB/MiW3+zR6foHbrhzGcvX+FeCXoBxJ6y6tTY8DOBTpuBmuha4b3aTVCA8WDS2y/0siNiJ3FSojP2SPQTsax8tlzEzjk7IAmBZPGR+NyBawKVGgi1Ii25fzGwT9JOIqhIcsAplFXsqat22bPhKypEnYi0+4f897qYckHSDro5KR7J1VpyprZyx7Ugpg+9ZwUU502gO2++UYc1zCHm8Cl+KjInn3mLfjU21nEPbdgB2xeAyDkE2jLcamlyQMXCOfe5Kecy2Y9+8LR13C1q5MzRV1aVpgCDpPtbEmIbMVk0nS7/t893SCyeTEakEWCVSWKeaFPkFRo4Q/bCa+SSomwcO9uJQBHDJmvKly1RtG0Ruqewiw0WwVm8utksjlt1BSUG0+uE25nTjlATRJmonN4fDjkePRD5/UPbIZBQPwV3Yi3recwzTwUC0heMU9upJ1THRXH7TrG4/j3/gbL+BxC6qDQ53BJkZyPRcLumMMcUExXfhIoY6QA==;s0qmw6pqhF6Vp4q/9ybxTQ=="
 ---

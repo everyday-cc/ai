@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy"
-    excerpt: "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage."
-    publishedDateTime: 2024-01-25T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 134
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Warning: Google Will Start Mass Deleting Nest Hub Features Today"
     excerpt: "Google’s process of deleting Assistant features, the AI that powers its Nest Hub products, starts today. Two weeks ago, the company announced that it plans to delete 17 Assistant features on January 26th: today."
     publishedDateTime: 2024-01-26T16:40:00Z

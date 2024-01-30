@@ -2,6 +2,343 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-29-the-7-most-promising-blue-chip-stocks-according-to-grok-ai.md",
+      "title": "The 7 Most Promising Blue-Chip Stocks According to Grok AI",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity.md",
+      "title": "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity",
+      "excerpt": "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
+      "originalUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:50:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-intel-says-major-ai-enhancements-expected-in-panther-arrow-and-lunar-lake-chips.md",
+      "title": "Intel says major AI enhancements expected in Panther, Arrow, and Lunar Lake chips",
+      "excerpt": "Speaking at the company's Q4 2023 earnings call, Gelsinger revealed that the company is looking to improve the AI performance of its x86 processors by as",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-29-image-8.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.md",
+      "title": "Microsoft CEO responds to AI-generated Taylor Swift fake nude images",
+      "excerpt": "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571",
+          "width": 4523,
+          "height": 3047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "publishedDateTime": "2024-01-29T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-the-blueprint-for-a-modern-data-center.md",
+      "title": "The blueprint for a modern data center ",
+      "excerpt": "A look at designing the modern data center, exploring the role of advanced technologies, such as AI and containerization.\nThe post The blueprint for a modern data center  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-blueprint-for-a-modern-data-center/",
+      "originalUrl": "https://www.ibm.com/blog/the-blueprint-for-a-modern-data-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software.md",
+      "title": "Elon Musk's Tesla loads up on AI hardware to improve self-driving software",
+      "excerpt": "Tesla CEO Elon Musk said he plans to buy chips from Advanced Micro Devices Inc. as part of a spending spree on computing hardware to handle AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html",
+      "originalUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/boring-company-tunnel_7f8024d0-0fe8-11e9-b03e-d829a175bb22_1706530317317.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html",
+      "publishedDateTime": "2024-01-29T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-an-ai-opportunity-agenda-for-asean.md",
+      "title": "An AI opportunity agenda for ASEAN",
+      "excerpt": "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2024-01-29_at_11.12.38.width-1300.png",
+          "width": 978,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
+      "publishedDateTime": "2024-01-29T11:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations.md",
       "title": "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations",
       "excerpt": "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently.",
@@ -485,57 +822,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-29-after-davos-2024-from-ai-hype-to-reality.md",
-      "title": "After Davos 2024: From AI hype to reality",
-      "excerpt": "Post Davos, we stand at a crossroads where stewardship and innovation can steer us to a future where AI technology amplifies human potential.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/",
-      "originalUrl": "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/humanoid_robot_pondering_the_meaning_of_life_da-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T03:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
       "title": "SKUSAT-K to have centre for AI, machine learning",
       "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
@@ -587,7 +873,7 @@
       "originalUrl": "https://newatlas.com/sponsored-content/derucci-smart-mattresses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -770,19 +1056,19 @@
       ]
     },
     {
-      "path": "_news/2024-01-29-revolutionizing-marketing-the-convergence-of-data-science-and-ai.md",
-      "title": "Revolutionizing Marketing: The Convergence Of Data Science And AI",
-      "excerpt": "It's like having a high-powered microscope that reveals the intricate patterns and trends of consumer behavior.",
+      "path": "_news/2024-01-29-from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business.md",
+      "title": "From Davos To Dominance: How AI Is Rewriting Our Planet and Business",
+      "excerpt": "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b69ee7487bbaa2db1536d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "width": 1351,
           "height": 900,
           "title": null,
@@ -792,9 +1078,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/",
-      "publishedDateTime": "2024-01-28T17:38:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
+      "publishedDateTime": "2024-01-28T18:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -817,8 +1103,9 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI",
-        "AI in Marketing"
+        "Microsoft AI"
       ]
     },
     {
@@ -903,305 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
-      "title": "Why are so many robots white?",
-      "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_05_2020_04_41_08_0489537.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "publishedDateTime": "2024-01-28T06:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-nh-primary-biden-deepfake-robocall-traced-to-ai-startup.md",
-      "title": "N.H. Primary Biden Deepfake Robocall Traced to AI Startup",
-      "excerpt": "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
-      "originalUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T23:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend.md",
-      "title": "A Psychologist Reveals 2 Dangers Of Falling For An AI Girlfriend",
-      "excerpt": "AI girlfriends are chatbots, powered by large language models like GPT-3, or more recently, GPT-4, that can simulate coherent and diverse conversations through voice, text or images. These are virtual companions that users can “train” to be their ideal girlfriends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
-      "originalUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b531dd28205bb1fc4614e6/0x0.jpg?format=jpg&crop=2452,1150,x0,y227,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
-      "publishedDateTime": "2024-01-27T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-australian-open-hopes-ai-audio-translations-will-speak-to-new-fans.md",
-      "title": "Australian Open hopes AI audio translations will speak to new fans",
-      "excerpt": "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "originalUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "publishedDateTime": "2024-01-27T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-the-case-for-ai-in-observability-and-growth.md",
-      "title": "The Case For AI In Observability And Growth",
-      "excerpt": "In the modern business landscape, data is the new currency. It informs decisions, drives strategies, and can be a key differentiator in competitive markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/",
-      "originalUrl": "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b52f9a184f38f65ecec3bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/",
-      "publishedDateTime": "2024-01-27T15:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-google-update-reveals-ai-will-start-reading-all-your-private-messages.md",
-      "title": "Google Update Reveals AI Will Start Reading All Your Private Messages",
-      "excerpt": "Bard also warns that such data analysis might bias its results. “AI algorithms can perpetuate biases present in the data they're trained on. Analyzing messages could lead to unintended profiling based on language, demographics, or social circles.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/27/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "publishedDateTime": "2024-01-27T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

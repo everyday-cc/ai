@@ -48,6 +48,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "AI Use Builds in the Construction Industry"
+    excerpt: "Syska has invested in Shadow Ventures, a contech and real estate investment fund, which in turn funded Okibo, a startup that makes smart robots for construction sites. “Robotics is just building a robot that can paint the wall,” said Ioanna. “The AI ..."
+    publishedDateTime: 2024-01-30T06:00:00Z
+    webUrl: "https://commercialobserver.com/2024/01/ai-in-construction-industry/"
+    type: article
+    provider:
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 41
+    images:
+      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/01/image0_WEB.jpg?quality=80&w=768\t"
+        width: 768
+        height: 522
+        isCached: true
   - title: "Artificial Intelligence in Business: Transforming Industries"
     excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
     publishedDateTime: 2024-01-27T09:15:00Z

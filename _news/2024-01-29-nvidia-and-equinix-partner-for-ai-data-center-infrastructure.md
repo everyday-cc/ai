@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
+    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
+    publishedDateTime: 2024-01-30T10:54:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 48
+    images:
+      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
     excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
     publishedDateTime: 2024-01-26T12:57:00Z

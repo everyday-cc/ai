@@ -5,10 +5,12 @@ excerpt: "Remaking business playbooks for an AI-infused marketplace demands reva
 publishedDateTime: 2024-01-28T18:39:00Z
 originalUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
 webUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
+ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1351
+    height: 900
+    isCached: true
 
 related:
   - title: "After Davos 2024: From AI hype to reality"
@@ -37,21 +46,7 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "AI’s path in 2024: Another year of growth instead of monetization"
-    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
-    publishedDateTime: 2024-01-29T16:44:00Z
-    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
-        width: 1200
-        height: 806
-        isCached: true
 
-secured: "/EIT+14xNaTIAgPXQhCDBLDhXU0fSPFDNkAUjVyPkmeb0r2twTd3nzrE4OP+Ecfeyr1W/xJvstnYnOOSwUaX9kchnBe7j+zf0KVMQua9uzOAITWBo00+44q0utwlQawPGtC++1+GSFnuaiHiLZDtnegntkzCp9WbY1DYInjLVHgHriCU7jkKmVixYb4r2LTGrYrjhzpMCq1SL/NLqk5sPknBtMttrIb69+VyzuVmnELnceex0RmTLkprtmbAR9ZfyUjKYzo6b5RkuRfphCIRaecqzwJEFUYlwW7/n2kgIqTvfLGscMdVPBPWKV4+Ozp1Pl8kcqapR2pmEl5BwUML2gcDZ0LCwnnzsw4OnVlnbczjTaVMwEU927LYgUyx6D/9Mwoat0a8tCBxPVRbAnsZaXXIjDNLydOzYg1vQh1ejYO0131W/kvwejIrZDGnpTq+R/REP6sKKsp1KkXXx84n1YSxCcW3GNjClBLfxThJOhsZ/qBaZZpl87e2XHSkZOaJh/PLY3aC4cM1OdduSS0Ixw==;rIIZFtHaDty7h5y/1sTcrQ=="
+secured: "LX4V53vi98jHpHrRdBpJPqfJvEFMsFZbmVC5gpoISHKpglO6HFAQ0LWMpU2imFfyjBuwMKz/ZJ3M9JO/TDdRLL69ZBeiXE8rS0MSr1wh4gKD7EASF/tR+xM5Bs54ZHkI3B7/l6MlZ/my8R9fKB2x+nJUnzGCRsdaARfbI2y2gL3OpV1hy58aQELgGMj6tZ5CDmxb9bgKfeqsciyRC3pHFiMIUH4CLEntu9s/CM1wk2M74jKe/mn1LjYd385S3Et/kx24mXnxsfZxhVSoyahezZlFAAX0CUBpCsMeN6BZ9Zftj5Itf3Vx/9BpxJ+lYTqGw7iiuyUxEjpUqLW+MVRqhthFMoYS4VRlLHR72ylCxZs=;IL0BjbTiQKnqIlnwVdmGTw=="
 ---
 

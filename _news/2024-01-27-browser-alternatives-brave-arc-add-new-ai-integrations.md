@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-
 webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 34
-  - title: "Four steps for integrating generative AI in learning and teaching"
-    excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.timeshighereducation.com/campus/four-steps-integrating-generative-ai-learning-and-teaching"
-    type: article
-    provider:
-      name: Times Higher Education
-      domain: timeshighereducation.com
-    quality: 19
 
 secured: "OtEIKejGVUnepB/1qnH4I1J/PiJ2GYqZiSMeik7l2ZJAgdUGVimxcsybTHHbfq8AwdNso3hR0lfJv2gilbyrScPYXy1aa6biiVuP6z6sfh+Kwu7Ug/SUtydDMF/51XacI6cAoLa6dGPtHQ/anEc7nzLRruNs0zr5lVGfIOmVsD38TbslwOGLOPFGtXQLyezzejLYupPj1SG5ABoR4rIUq8JFZwlDgwDPupYpKHRPZcCCoGFt99CQ83aMW7CVDlavHxw3QUAsQGTe+RQ6TBzbYLO+7wQtN295BNRuo35u9TV2OdaCLgV7X0IViCAI36NtfWcY14B+VIb6kxTn4QJG1kPb00hQVQGp+i2tInQGNNoTi5bIHQIba+gPRCfH1zMZL9oboGARQ/ZctdRepMDnP+CxVoSXiO6bQufZLD8rMIGEqgGMvrkJ0ju80LpX5ffAQtcYWT/3YZ7lTLZP5rNhj8TEtigaYCHHzlxKk44jaerRfnqh6Tymk7E9HZfY7XqIPFpFMCVwNagcddbZEdpuVQ==;LmBT/t6ZmWAzuFvIe15uNw=="
 ---

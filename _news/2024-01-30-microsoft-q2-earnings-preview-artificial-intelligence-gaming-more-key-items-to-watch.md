@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-q2-earni
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
 
 secured: "KOygok3Rmm40jGXrFVdsTfoWz9iqevIEXfXjpKvgTcH0ZmNFPmMVI6hGpHzl3y+Cu5U1mnSmiQ6NyFQiF6XieuKxte395HsDongAOCezlcE9/uTu8A0xaABV45418u+nIiorarVJCqtHS2xBucv7KEa3ZcQW7XxuzDYQZXW69CxQhIu525UD7IQrp3s6F38DglNPuKxrsJfYyi8X1zzhIP2d93kpHBgYZNZPE6SFhe6+sOsk3KR+dySYH31V/OFZeJ520xC9E5LYj/pi02LTIUjpBzXMTnam/uBAr3IP86JXsINNbwB4tpnXKIu3Vhp+Ue2geIFYii4lNnlC54Gvz1/y4jAnDSqWjMNJ+WmUeJ4iJv3WJLifmCJlDysqBjuYTS93SJYTJ0yS8jZynwkwEKCyiGiQuchsVk/puTnBlYlVmkfr0BUu91PoRfc+YPbXZ00Mh6KNMXI8GW8iVt5WBVERO9tA3z6DvTusOSWie18uDNHl41Jgp7pwnHwrx57FI4KQwjM9oY4diIC5W5pVzg==;fLuWHofpOHVfu18PSaxRnQ=="
 ---

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze"
-    excerpt: "You can also translate any of these types of content into different languages. These features should sound familiar to anyone who has been following Google's AI developments over the past year. That's intentional: Samsung worked closely with Google on ..."
-    publishedDateTime: 2024-01-25T13:00:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/cc46635c9507b24a40989d15d3a3dbdad54f175f/hub/2024/01/24/73947584-67eb-4e99-b66d-207b4c0e1eda/samsung-galaxy-s24-ultra-1887.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now"
     excerpt: "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series."
     publishedDateTime: 2024-01-25T16:36:00Z
@@ -67,19 +53,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Galaxy AI may have helped the Galaxy S24 series break a pre-order record"
-    excerpt: "touting a variety of AI capabilities. The Korean brand allowed users around the world to pre-order the devices ahead of the January 31 in-store sale date, and it looks like pre-orders are off to a good start in one market. Maeil Business News reports that ..."
-    publishedDateTime: 2024-01-26T08:49:00Z
-    webUrl: "https://www.androidauthority.com/samsung-galaxy-s24-pre-sale-record-korea-3407961/"
+  - title: "Baidu’s Ernie Bot Powers up Samsung’s AI Smartphones"
+    excerpt: "Baidu shares were up 2% today, but have declined nearly 23% in the past year."
+    publishedDateTime: 2024-01-29T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/baidu-s-ernie-bot-powers-up-samsung-s-ai-smartphones-1033006430"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-series-standing-angled.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://blog.tipranks.com/wp-content/uploads/2024/01/image-761.png?utm_source=markets.businessinsider.com&utm_medium=referral"
+        width: 899
+        height: 319
         isCached: true
   - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
     excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
@@ -144,20 +130,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107181443,width-1280,height-720,resizemode-4/107181443.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "‘Love Machina’ Review: Artificial Intelligence Doc Fails to Ask the Interesting Questions"
-    excerpt: "Peter Sillen’s documentary follows married couple Bina and Martine Rothblatt and the robot they constructed to transfer Bina’s consciousness."
-    publishedDateTime: 2024-01-25T22:00:00Z
-    webUrl: "https://www.indiewire.com/criticism/movies/love-machina-review-1234948198/"
-    type: article
-    provider:
-      name: IndieWire
-      domain: indiewire.com
-    quality: 47
-    images:
-      - url: "https://www.indiewire.com/wp-content/uploads/2024/01/80g980futLoveMachina-Still1.jpg"
-        width: 2560
-        height: 1440
         isCached: true
   - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
     excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."

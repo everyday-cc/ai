@@ -27,7 +27,7 @@ related:
     provider:
       name: Omaha.com
       domain: omaha.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
         width: 1200

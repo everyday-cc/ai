@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-ac
 webUrl: "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Cloud Partners With Hugging Face to Attract AI Developers"
     excerpt: "The arrangement will allow developers using Google Cloud's technical infrastructure to access and deploy Hugging Face's repository of open source AI software, such as models and data sets. Hugging Face has grown into a central hub for open-source AI software, and signed a similar arrangement in February last year with Amazon.com's cloud unit."
     publishedDateTime: 2024-01-25T14:04:00Z

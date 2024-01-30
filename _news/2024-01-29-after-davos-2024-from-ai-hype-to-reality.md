@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-realit
 webUrl: "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -32,24 +32,17 @@ related:
     excerpt: "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ..."
     publishedDateTime: 2024-01-28T18:39:00Z
     webUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 49
-  - title: "AI’s path in 2024: Another year of growth instead of monetization"
-    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
-    publishedDateTime: 2024-01-29T16:44:00Z
-    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+    quality: 91
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
-        width: 1200
-        height: 806
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
 
 secured: "61T26PR6VaDrBM+F3ZFlF0TWeU89zDt1mnCYMGLTY9bEVITJaIdlO7gXhEcUL3mt9YGa0L0VDlI4KyYIN4ri1yZDmMtBcmIKmZOJ68XRS23Y3CjxNJNGHDspD9Bx6OdjXOLN3a0kGeVPnsrSn7rGcmNjxrC74rXX+TdtNP2Xp5SeNfRv1EWVD7H5wo7p3dmR41eG0gpwuGYASrZNbAqdzDaGmEVFIslA0++9LZ+QoGSwkF4Bk869ufz4xgOar55twdQozdCgPte+doVXiHpBSmWGqNGOqv8+CrL7foxfyBjf6yCHs0kaGoizifUcr8k9GbhqmXMku3tzf5TPYWOXY36eWomZdK+DvmXlDh8xqNdUvwPO6MMYMT2r37Ikf2/C7Le4cl9ML7ymhCQX4w6HKREhjYn3YJN4oqhpH+B08dEvzHsFVD7zBr+PqoonWIgE2O5L6PwnCfn/WAhi7dP8zbmWJ4LfNuOneSIa2U4X30c7xGV76f8ScO2XWpnwo07uTZ85NA47APIw13hlLs/PuA==;P7DXGm2li/7bO7Z4PGM+XA=="

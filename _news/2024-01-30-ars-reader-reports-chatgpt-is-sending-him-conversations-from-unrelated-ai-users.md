@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgp
 webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
 type: article
 quality: 80
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "A tutor shares 3 rules for writing college application essays, including how to use ChatGPT the right way"
+    excerpt: "A Stanford grad who runs a tutoring business shared his rules for students writing their college application essays — and how they should use ChatGPT."
+    publishedDateTime: 2024-01-29T12:13:00Z
+    webUrl: "https://www.businessinsider.com/how-to-write-college-application-essays-chatgpt-tutor-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+    images:
+      - url: "https://i.insider.com/65b3d08bf4b446f3be9d3de3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "nfZgbdxnrOmh9hJ/l/HaYabQYRD3wchSrM1PIOHoIeb4S8A1rSXBLNxa4hUQ+6cYStltbIxVgl/lzQln5Hw9wFewpj8CJ674Z2JqQ9RJwAZWB7EIwMmhq98PPS9mWLaujx23cWwFkwd+wlli/m1ayixda+ZYpV4ufM50ukd6b7r4GD/I23FuOXBsMtcmRnbeGYRBWUdnElGKz9lK4OBq06zoBndIv1RC4/WGLuNUFnyBaciO9o+M4UPjTVxRiMEjLp/Gi62h2F8AV2Hgewtu1RyAFuh4Pvyb3MUkVjfygJqd3qkgNHIdvNkk0zDwdhilMDZH0y2hSuJLItuP2yoDA2+hlMKVzgZnUDpjLDVKVfU=;LEFrvkuxV8iZC2jVGCGG9A=="
 ---

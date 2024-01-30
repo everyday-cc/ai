@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Texas Tech vs. Kansas February 12 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Monday's Big 12 slate includes the Texas Tech ... Incarnate Word February 12 Tickets & Start Time Incarnate Word vs. Lamar February 12 Tickets & Start Time UTEP vs. New Mexico State February 10 Tickets & Start Time"
+    publishedDateTime: 2024-01-30T11:16:00Z
+    webUrl: "https://www.kcbd.com/sports/betting/2024/02/12/texas-tech-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KCBD
+      domain: kcbd.com
+    quality: 22
+    images:
+      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/32QKXD5GFJIY5P4K3YPBK2WKNU.jpg?auth=24f1346ec87403f39a5b307de8e9253ae1bcd38588e3e85cc97aa474ce4247db&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Citadel vs. Wofford February 10 Tickets & Start Time"
     excerpt: "Saturday's SoCon slate includes the Wofford Terriers (12-9, 5-3 SoCon) versus the Citadel Bulldogs (9-12, 1-7 SoCon) at 7:00 PM ET on ESPN+. If you're looking to catch this game in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-01-28T14:20:00Z

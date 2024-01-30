@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107784909/VAST-Data-and-Genesis-Cloud-Partner-
 webUrl: "https://menafn.com/1107784909/VAST-Data-and-Genesis-Cloud-Partner-to-Deliver-AI-Optimized-Cloud-Infrastructure-for-Organizations-Worldwide"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
+    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
+    publishedDateTime: 2024-01-29T13:22:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
     excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
     publishedDateTime: 2024-01-26T19:18:00Z

@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Budget 2024: Navigating the future of India's fintech sector"
+    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
+    publishedDateTime: 2024-01-29T08:33:00Z
+    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
     excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
     publishedDateTime: 2024-01-26T00:00:00Z

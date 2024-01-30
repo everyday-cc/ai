@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
+      "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
+      "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
+      "sourceUrl": null,
+      "webUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "originalUrl": "https://za.investing.com/news/microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years--goldman-sachs-432SI-2980556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
+          "width": 251,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
+      "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
+      "excerpt": "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.morningstar.com/news/accesswire/823648msn/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-vodafone-signs-15-billion-microsoft-deal-for-ai-cloud-and-iot.md",
       "title": "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT",
       "excerpt": "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses.",
@@ -491,10 +603,10 @@
     {
       "path": "_news/2024-01-10-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions.md",
       "title": "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions",
-      "excerpt": "Translator for SharePoint: an enterprise-ready integration with Microsoft Cognitive Services to provide content authors translation services directly from within their content creation flow. \"Accelerator 365 is a great opportunity for us to bring together ...",
+      "excerpt": "Reply, a leading network of highly specialised companies active in the fields of digital transformation and innovation, announced the launch of Accelerator 365, a new product that delivers innovative applications for intranets and digital workplaces.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm",
+      "webUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
+      "originalUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -504,11 +616,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T09:36:00Z",
+      "publishedDateTime": "2024-01-10T09:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "AFP",
+        "domain": "afp.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1189,154 +1301,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
-      "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
-      "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/658c4651ab6f2ebb11f71246?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "publishedDateTime": "2023-12-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-best-ai-tools-of-2023-chatgpt-rules-the-roost-followed-by-copilot-midjourney-and-more.md",
-      "title": "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more",
-      "excerpt": "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/Social-Media-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "publishedDateTime": "2023-12-27T09:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app.md",
-      "title": "You can now run Microsoft's AI-powered Copilot as a free Android app",
-      "excerpt": "Android users now have yet another AI-powered app they can run on their devices. Courtesy of Microsoft, the new Copilot app works similarly to OpenAI's ChatGPT app and Microsoft's own Bing AI app and kicks in the latest models for GPT-4 and DALL-E 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/91de305b1ff9b91f5fa2ee3e2cccf31c7fb36338/2023/12/27/8bb71652-c584-4532-a5b5-af0318dbb2c9/gettyimages-1684489759.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "publishedDateTime": "2023-12-27T07:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

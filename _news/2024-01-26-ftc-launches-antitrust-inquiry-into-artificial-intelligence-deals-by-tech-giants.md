@@ -70,20 +70,6 @@ related:
         width: 7571
         height: 5046
         isCached: true
-  - title: "FTC launches inquiry into artificial intelligence deals such as Microsoft's OpenAI partnership"
-    excerpt: "OpenAI started out as a nonprofit research institute dedicated to the safe development of futuristic forms of AI. It's still governed as a nonprofit, though most of its staff works for the for-profit arm it formed several years later. AP business writer ..."
-    publishedDateTime: 2024-01-25T12:05:00Z
-    webUrl: "https://www.ksat.com/news/2024/01/25/ftc-launches-inquiry-into-artificial-intelligence-deals-such-as-microsofts-openai-partnership/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/RAPQTDWAONALZBRKPFLSSVLCGI.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
     excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
     publishedDateTime: 2024-01-25T23:00:00Z
@@ -145,6 +131,20 @@ related:
       - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
         width: 986
         height: 555
+        isCached: true
+  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
+    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
+        width: 623
+        height: 309
         isCached: true
   - title: "FTC orders AI companies to dish on investments, partnerships and meetings"
     excerpt: "The FTC is aiming to unravel the complex and secretive corporate relationships in the top AI companies out there in a new inquiry. Orders have been sent"

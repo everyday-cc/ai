@@ -26,68 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Lords question legality of police facial recognition"
-    excerpt: "UK police are expanding their use of live facial recognition (LFR) technology without proper scrutiny or accountability, despite lacking a clear legal basis for their deployments, according to a Lords committee. Writing to the Home Secretary on 27 January ..."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
+  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
+    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
+    publishedDateTime: 2024-01-30T02:59:00Z
+    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
+    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
+      name: Skift
+      domain: skift.com
+    quality: 54
+  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
+    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
+    publishedDateTime: 2024-01-30T09:53:00Z
+    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 49
     images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
+        width: 640
+        height: 362
         isCached: true
-  - title: "Let Facial Recognition Wrongful Arrest Trial Proceed, ACLU Urges"
-    excerpt: "The New Jersey police department a man sued after a faulty facial recognition match led to his wrongful arrest shouldn’t be allowed to avoid a trial in the case, the American Civil Liberties Union told a federal court in a brief Monday."
-    publishedDateTime: 2024-01-29T23:51:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/let-facial-recognition-wrongful-arrest-trial-proceed-aclu-urges"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 39
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/02f3d53/2147483647/crop/7888x3040%2B27%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg"
-        width: 1920
-        height: 740
-        isCached: true
-  - title: "Study Confirms Facial Recognition Technology’s Success in Disease Prediction"
-    excerpt: "MyAnIML used proprietary facial recognition and deep learning technology to accurately predict Infectious Bovine Keratoconjunctivitis (IBK), or bovine pinkeye, 99.4% of the time and several days before veterinarians were able to detect symptoms ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-recognition-technologys-success-disease-prediction"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 36
-    images:
-      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_52490.jpg"
-        width: 345
-        height: 238
-        isCached: true
-  - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
-    excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
-    publishedDateTime: 2024-01-26T15:32:00Z
-    webUrl: "https://www.tri-cityherald.com/opinion/editorials/article284663040.html"
-    ampWebUrl: "https://amp.tri-cityherald.com/opinion/editorials/article284663040.html"
-    cdnAmpWebUrl: "https://amp-tri--cityherald-com.cdn.ampproject.org/c/s/amp.tri-cityherald.com/opinion/editorials/article284663040.html"
-    type: article
-    provider:
-      name: Tri-City Herald
-      domain: tri-cityherald.com
-    quality: 28
-  - title: "HK, China ink deal on recognition of civil, commercial cases"
-    excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
-    publishedDateTime: 2024-01-29T07:30:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/01/29/hk-china-ink-deal-on-recognition-of-civil-commercial-cases/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "6go8fNGY3oFK4fCcmPc3Z3d2dD0OhL29JGkDoC0pou23x1Mp3Kofvr/LedbMMEmUeVhW6t0Izhm9sfRkR9VEk0p6bITAn4ACFJvOIXULic553jD4Bn5eOl4bJ7jtB+zsX7N3w6ovV2/n6kUKxx07WM9TO9QiCEYLewvi+hU31ji2hASl1BpXMJVx0rix0pkPAT4IpJH8owJ4DBTS2+p0emXIPFz/RKZJRaSLi10GYQmI/7PHVBFfISqDUJFMzTfBd946a5U4c523MuxqlHAPnS6LThiCuDLizuYrBFzpp7fhXl6vYcF9Uvki8ZPWo307eRImPAGL7cqo0AYZ9UR0bJGfhIW2oQvBRAFp8wnvJvEsqS36z3GwJ9AjBHcLMKtZTRuYhU5zrMXY+zFnQK7aiYVBPhaUF7J3rXpnV4QXeCFl/Dy6CB+rQM6BkbRo8Uwdn3shRQddxgmiTjzDlX1s6d/4EJVtbVAnudvo9QqDWUXQQsV7HOejR/qANkwm2GNBGQIod7irpf/9BarzTNBpDw==;pOMzAKv2KgHKVk1qkw+cVw=="
 ---

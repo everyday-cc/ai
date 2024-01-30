@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The tantalising promise of AI for the emerging world"
-    excerpt: "Yet ai stands to transform lives in the emerging world, too. As it spreads, the technology could raise productivity and shrink gaps in human capital faster than many before it. People in developing countries need not be passive recipients of AI,"
-    publishedDateTime: 2024-01-25T11:50:00Z
-    webUrl: "https://www.economist.com/leaders/2024/01/25/the-tantalising-promise-of-ai-for-the-emerging-world"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240127_LDD002.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "rKJsFo3tgEcGwChsW+UdXlcWZzActF8puxWoHo0TD21Q/sI5h+R6PHbkuBUc1vTvzn7WfzoCoavLDhBnfFMS0QSRHE8eOJN4guZ3TF6i1Bj8DgLexZH0IL2hEam5Wrp7Yu/NRXMid2hgjUegSNwUbzBy86rNvuCf+aXnt5ssJtowN4/fEEeCTrFaA4cE9mbKjx/0kuLTbzz5rQ0VsjaMtMzupSy8adv0/++B5HKn2M+6VghbSfLpgJaP2gj2bhMTiWbvkiI1WSN6tYjfG52JRhTBhdahX4Aa4GsA90rRxNxeS9eUcWoo+Ep6SVjUmMWePOgi73yPXBQ8DB1t0GiJzbb/L9Ljxasp4Nx+uw10RJk=;xMh/QpTbGJ3VucWxH5hvIQ=="
 ---

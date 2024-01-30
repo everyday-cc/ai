@@ -53,6 +53,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google could rebrand Assistant with Bard to Gemini"
+    excerpt: "Google's new version of its Assistant called \"Assistant with Bard\" may be named \"Gemini\" after the company experimented with a standalone \"Bard\" brand for it. The new name \"Gemini\" could help promote the underlying AI technology and create a more cohesive branding strategy for Google's AI tools."
+    publishedDateTime: 2024-01-30T10:27:00Z
+    webUrl: "https://www.androidpolice.com/google-rebrand-assistant-with-bard-gemini/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "TFtJwSG9HVbxdY4dAynUUC7m7sBWF72rn48LndkZI2L7yHz9whe5wNYweS17ZtoTKdRu/LClv4EIGdhF98jHRBaqA/RZs5nJHfOMm/nW/Gre+yl22x5pnWxdEBeUZ2GlwVd3DN73fxindR9NHYg51hQUpXhyigFSwyn2SVLaMFE6/fGRIwRwEFcyH9GhfSjN49gz/diKZ7R3xSL7az2P+6uaqTG9AkVvp9gNrI6wtlbGUkTF31PB4+IuQ7WpIgAVsi6xNst4XAZpinXkjHmvkmBaFHiIELh+WEGdoP32s2/NtJD17gXbs0wOdL1yM4OF01H9NlRXa1iJriJS24nD70vCKObjdFhoH8UC0X3tEMiRIkXjZuGheWh+JWUSmeLAtAdXR4hMcKbezF9kvSJGcR20ZlOBiuLy0/0F4DOX1ovPwPLEI+Cba7ML/xv+GqfXGmaZOCrmJQD9kH41r+ba3oWb7BhjzyzOwhjqqs0BB5/RP19rSWwSeo4QE8O5QnB+PDjoclL1piUFiWPE7Bfehg==;XLKJE+hkCXylO9b+fPV5aw=="
 ---

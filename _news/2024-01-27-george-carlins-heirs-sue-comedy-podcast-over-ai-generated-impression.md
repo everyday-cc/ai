@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy
 webUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
     quality: 67
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Did an AI write that hour-long “George Carlin” special? I’m not convinced."
-    excerpt: "But I think that anger is at least partially misplaced. After spending the last few weeks diving down a distractingly deep rabbit hole, I’m convinced that Dudesy’s “AI-generated” George Carlin special was actually written by a human, using voice- and image-generation tools to essentially perform in “AI face” as part of an ongoing comedy bit."
-    publishedDateTime: 2024-01-25T12:01:00Z
-    webUrl: "https://arstechnica.com/ai/2024/01/did-an-ai-write-that-hour-long-george-carlin-special-im-not-convinced/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 65
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/george-carlin-mask-760x380.jpg"
         width: 760
         height: 380
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-h
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Diginomica
@@ -27,60 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Marketing: The Convergence Of Data Science And AI"
-    excerpt: "It's like having a high-powered microscope that reveals the intricate patterns and trends of consumer behavior."
-    publishedDateTime: 2024-01-28T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
+  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
+    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
+    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b69ee7487bbaa2db1536d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
-    excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
-    publishedDateTime: 2024-01-26T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/26/14-ways-to-create-unique-marketing-and-ad-campaigns-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Future of Digital Marketing: 7 Trends You Can’t Afford to Ignore"
-    excerpt: "The increasing reliance on AI in digital marketing cannot be overlooked, as it is transforming how businesses develop"
-    publishedDateTime: 2024-01-26T23:17:00Z
-    webUrl: "https://www.dmnews.com/future-of-digital-marketing-7-trends-you-cant-afford-to-ignore/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 41
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Digital-Marketing-Trends.jpg"
-        width: 1000
-        height: 571
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
     excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
@@ -91,6 +52,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 33
+  - title: "AI companies face growing competition, slower technology gains"
+    excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
+    publishedDateTime: 2024-01-28T00:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/article-ai-companies-face-growing-competition-slower-technology-gains/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "AQuum0k3aNbOcHs2CgNQD7S7nLfv3YFoz2pQ839wWfTS+ZpSXbBYYwQZe96zMhRvT0pVsHVwejQVXHC/EQ8T2knq8apm3Jcf7zHbJHBeatSNzVcqntQP6MPb6wOsEWYFTrHjUsDG0+WMqhTq8zGiw1qXI09EjRskRtqu+OhdXIby4DTlKOt7i9nhLC0JXa4Dr4V0szdKq6uBgeD2i6OpdKrJQOrskp1SxwtPJoAMyXRIzSETKINHj/e75e6tS2lK9JYu1YUG+x5DSjfRoW864RaKI1n+joHdu+qy4mPw4iXh0KLUAAsm0ZQUt2OnvnH2NhVidltx0SKCRkNG3ffRidcYeWV1lSOMJcRnL38s4nA=;kZ3uAR5nntD5FejMOYrbbA=="
 ---

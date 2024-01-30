@@ -18,114 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+  - title: "A vision for AI and the future: How Boldstart Ventures seeks to fund the next wave of enterprise innovation"
+    excerpt: "The roles played by data and AI highlight the instant use cases of a generational shift in how things are produced and consumed. Power dynamics are shifting to the founders of exciting new startups that are well-positioned to take advantage of this wave of wealth creation and innovation."
+    publishedDateTime: 2024-01-27T02:11:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/vision-ai-future-boldstart-ventures-seeks-fund-next-wave-enterprise-innovation-cubeconversations/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
-    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
-    publishedDateTime: 2024-01-29T03:19:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1218
-        height: 600
-        isCached: true
-  - title: "What Are the Privacy Risks of Generative Artificial Intelligence?"
-    excerpt: "Businesses should apply controls so that AI tools do not compromise users’ personal information, and users must be careful not to inadvertently share private data."
-    publishedDateTime: 2024-01-25T21:40:00Z
-    webUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence"
-    ampWebUrl: "https://biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/01/what-are-privacy-risks-generative-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 57
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202401/GettyImages-1208700065.jpg?itok=ecE4m4H0"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "Generative AI Is All About the Money"
-    excerpt: "Much of the hype and attention around generative AI is calculated based on financial objectives. Painting AI as such an incredibly exciting and powerful technology that it poses an existential threat to humanity (even if it is currently far from it) does wonders for the financial valuation of generative AI companies like OpenAI."
-    publishedDateTime: 2024-01-25T15:26:00Z
-    webUrl: "https://ssir.org/articles/entry/generative-ai-openai-all-about-the-money"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 39
-    images:
-      - url: "https://ssir.org/images/blog/generative-ai-all-about-money-737x737.jpg"
-        width: 737
-        height: 737
-        isCached: true
-  - title: "How Generative AI Can Help Lower Data Risk in Enterprises"
-    excerpt: "In this contributed article, Sid Banerjee, CEO of SG Analytics, discusses how generative AI has become widely popular. However, its adoption comes with a degree of ethical data risk. It has become more vital than ever for businesses to prioritize the use of generative AI responsibility while ensuring an accurate,"
-    publishedDateTime: 2024-01-26T02:00:00Z
-    webUrl: "https://insidebigdata.com/2024/01/25/how-generative-ai-can-help-lower-data-risk-in-enterprises/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg"
-        width: 1100
-        height: 550
-        isCached: true
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
-  - title: "The generative AI smartphone age is here"
-    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
-    publishedDateTime: 2024-01-26T15:11:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 19
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/Ed-Sim-CUBE-Conversation-January-2024.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "VI6xWLZ1ibpCxmGMpmFWyg5tUm1jSgmhlh0a//yXMXHMAaZyltxenMiYoi9V+R6b41aQkqlpbF4cW1zhLBKbkTkVq43OemYKwd4+w0Lz7aQCcFJRN4a6Bs077wtXtZtN/kMi1Bscc6kaCwmky6OuoKGcJ6SRGuKRh62rzuEX1rQIhaVz9AI5AWFdFsDWU7VP3s896vpxhDYRpTrKMEZmiS48MGx65fln13mYCSzYseMZNbwedjNsfPDr8UhnSJzRMovYtDFOdqQF2vQ8XlnMDxPUaZ6iBk33wUSRivKt17zJKwlipKCG6NYV43JaFnzJ4vVdq+8+Yh8WN3OAFJ9p6Yeql5IN54jZTceox/0cv9Q=;mOSLg9EucRaGjm+mm+yLhA=="
 ---

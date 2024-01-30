@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
-    excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"
-    publishedDateTime: 2024-01-25T17:03:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/458489-vodafone-microsoft-sign-decade-long-alliance-generative-ai.htm"
+  - title: "CES 2024 Attracts Record International and Startup Participation, Shares Strategic Growth Strategies"
+    excerpt: "Displaying everything from flying cars and transparent TVs to ice cream robots and artificial intelligence-enhanced products, CES 2024 was a triumph."
+    publishedDateTime: 2024-01-26T15:36:00Z
+    webUrl: "https://www.tsnn.com/news/ces-2024-attracts-record-international-and-startup-participation-shares-strategic-growth"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
+      name: TSNN
+      domain: tsnn.com
+    quality: 9
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
-        width: 1200
-        height: 630
+      - url: "https://www.tsnn.com/sites/default/files/CTA%20CEO%20Gary%20Shapiro%20Speaking%20at%20CES%20Walmart%20Keynote.JPG"
+        width: 700
+        height: 426
         isCached: true
 
 secured: "QX8tCAqLflEe0tamnzRVJM7vWFl8kAPD53lTtwqthPiuflMuN4iFwzwVL9okV4chvIMthXLyuVQwXwNFbv67a+cVs4GMrNNzcZt5+cYcG8fxQg4aD/G7JQ5H7VKZ71xAvnRjcN5J8O+41L+y0+bqUSfD4lkggl48dgc1VyrMeB5iCgaa8wgIUxWJcSdPWz8zjm/hEl57oUeT30jUGvQvBEp4dkP5PCLLFGeI/aNsXmF1FQnOAsSK+B7a6CjSj7b6CBAMrbkXCMHe+85pKfkG6pmyeuAht/qSXgcm7XK0sDQs7ulLEgS4mmPexeYG+mXm6aM/QOFN9U+rBS4U8072H+ck+K6z6o5XCW1tHVtiH+mXZ/3HvL9qkPmcsA5YVgdEDG2T3szWxnkd1d9XBGe9mNdvlNRRMObRnkytr+9Qzin5EfdfFQY9Y7X0SOZUpcE0yDzLNVAplOgYWzb9ozKbFnI31XPLCVy4+pXZea3vi5VH4LC6KEFFV05k8dkug6WprhwERFqvXJKefpyxlRDKLQ==;QWhPWZEBrTOHxs/DlAz2ag=="

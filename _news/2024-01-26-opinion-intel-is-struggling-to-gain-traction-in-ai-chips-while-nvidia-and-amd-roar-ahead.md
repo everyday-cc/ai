@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-tr
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
 type: article
 quality: 95
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
+    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
+    publishedDateTime: 2024-01-30T10:54:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 48
+    images:
+      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
+        width: 780
+        height: 520
         isCached: true
   - title: "Nvidia and Equinix partner for AI data center infrastructure"
     excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."

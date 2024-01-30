@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
+    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
+    publishedDateTime: 2024-01-30T06:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "How Data Collaboration Platforms Can Help Companies Build Better AI"
     excerpt: "There are three immediate challenges for companies that want to train fine-tuned AI models: 1) they require extensive, high-quality data — a scarce resource for many enterprises, 2) third-party AI models can include problematic biases,"
     publishedDateTime: 2024-01-26T13:15:00Z

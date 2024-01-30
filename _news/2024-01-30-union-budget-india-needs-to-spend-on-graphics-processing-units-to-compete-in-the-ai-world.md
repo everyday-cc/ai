@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-sp
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,33 @@ images:
     height: 362
     isCached: true
 
-secured: "wYyJ85TFHsbEyPBfYiuHwOO5Sw9+S859ZFZmsklwTeU2cwGWWis4AvAbB5iE6696Sc3Npyx4VFqWVS7B3wZpDh6ZYKPUj+fVWi8b7dJs7tFKw7cAN5QPIEzeaXgYtxKuw1f8yRON+MpAAuHr4IV6Txopb9TX5sWsDwFIPLuSn06ZP0BcczdD++U+bW3hOhT4PiaupgJvhP6DSOYu9bhtu4lMg8zo9QvzMXrkmCRvp2DG5HM2r8krLwEVwwTOgedGytpsUY5FRI/h1/PrFEVPUkKm2ds2JTxbd/tAhjPgB/P9rO5r8UMwnMuqoPzGsaH009YycexUgsNGoZ834U2b6AQEHsdE7xqmGaKWY+g6Vt4=;gUOiMZxNEhO5OyQBMtqKZQ=="
+related:
+  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
+    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
+    publishedDateTime: 2024-01-30T02:59:00Z
+    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
+    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 54
+  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
+    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
+    publishedDateTime: 2024-01-27T02:44:00Z
+    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 33
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
+        width: 600
+        height: 320
+        isCached: true
+
+secured: "JuI9LiZPDeG5AQY2ytFM+apiq5eexarhHEPrKCtNXa4TgKBetbR+9mHrnqEpQV+d2zt+QmZXj66iqitlgQmt+HJNGQMs2AouoZnpftNSk197KIQzYgCICeLl7GLm9giKrtI8uudfRTWCEdbB8MtmLDX/nVzlJBp1IThv7p57mWOHinhDXu6OoPQaVeuHWRrCh2mh4SH1E0n14bxE20mo9Ky4ERLzvfn6F4T56RTU7mrDUm5TY6hFRT3JTFkMI0FTdAZDmHpmKAqxydUguZS2HP9pLV2qbd926ill6UIdB66itrccojfHcindBTqvvm7prH5XdXhqI7w5fqlsogkql8rj9akKdwxHsDj/U7aKrI2QYVWqdhKH7fkVPHI5deZp4vNz8wrM4UVqtmBpR6GDL5r75r5jVdxElYJW8mZe55XWxMa3d3/aQsC0FRdz1Sfaa3pgw8B1sNn3wX4ny1ivLUiTN8Jrtws5MSeQmsWUDJrya90h+bfUsOh0v+rWFRYFmNGTkv0ySj0sgboEkySQNg==;4/7RrngCuzkeK1OMYAu5+Q=="
 ---
 

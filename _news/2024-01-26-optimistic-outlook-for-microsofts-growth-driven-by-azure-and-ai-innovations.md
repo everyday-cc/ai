@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Get this Microsoft tech certification training bundle for just $70"
+    excerpt: "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ..."
+    publishedDateTime: 2024-01-29T19:28:00Z
+    webUrl: "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/df5b14b9cd2f8cf22d8e1d6c9ef6321492a07146/2023/12/15/85893fe1-b2e5-4319-a1b2-16aa30ef10c1/microsoft-stack-social-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Deploy a Microsoft Teams gateway for Amazon Q, your business expert"
     excerpt: "In this post, we show you how to bring Amazon Q, your business expert, to users in Microsoft Teams. (If you use Slack, refer to Deploy a Slack gateway for Amazon Q, your business expert.) You’ll be able converse with Amazon Q business expert using Teams direct messages (DMs) to ask questions and get"
     publishedDateTime: 2024-01-25T17:41:19Z
@@ -53,20 +69,17 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
-    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
+  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
+    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
+    publishedDateTime: 2024-01-26T00:59:00Z
+    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
+    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
-        isCached: true
+      name: Coingape
+      domain: coingape.com
+    quality: 52
   - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
     excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
     publishedDateTime: 2024-01-29T11:00:00Z
@@ -81,17 +94,17 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
-    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
-    publishedDateTime: 2024-01-30T01:40:00Z
-    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
+  - title: "Vodafone and Microsoft Sign Decade-Long Alliance for Generative AI, Digital Services, Cloud Innovation"
+    excerpt: "Vodafone and Microsoft announced a new, 10-year strategic partnership to bring scaled digital platforms to more than 300 million businesses, public sector organizations and consumers"
+    publishedDateTime: 2024-01-25T17:03:00Z
+    webUrl: "https://www.tmcnet.com/voip/news/articles/458489-vodafone-microsoft-sign-decade-long-alliance-generative-ai.htm"
     type: article
     provider:
-      name: Winona Daily News
-      domain: winonadailynews.com
-    quality: 45
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"
         width: 1200
         height: 630
         isCached: true
@@ -118,6 +131,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 19
+  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
+    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
+    publishedDateTime: 2024-01-26T13:34:00Z
+    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 17
 
 secured: "Z0+C5qSqh25wn9SUUf4fr0IEV+JE+8ltbHtWWcujChrJFuxbSpIQUP0D7+0nLObtuVghbuhUsTaTgjLXS9Ejo658NhxGg+zsU5tMrP2V+o1JrBEMUvz3Zs4aPUYPe71V1zEbb8wc58MYH9G0lUqtCkADaaWl3TTyHnEkUF1f5bR562+vmtrOG2T2mgiMa0P8vCremG5+nlgvz1V9xgD688LkcRbR0cjUxbouvxjIy6weNI0b4p1UfJDwvx6xyqxJEx7q1eHNpVvp3WNr2JJ2w3iwGMoKwhVciGk4tcucZHjYj2G/VffG0Ac3mONuids7fxtzGPY8slNJ94CzCjUqeed7GCX/1V23Am1SIr4+BW8=;K9DNbntRboXjwVN6ro8PSQ=="
 ---

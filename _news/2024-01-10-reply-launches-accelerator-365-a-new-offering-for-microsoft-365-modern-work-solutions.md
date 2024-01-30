@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions"
-excerpt: "Translator for SharePoint: an enterprise-ready integration with Microsoft Cognitive Services to provide content authors translation services directly from within their content creation flow. \"Accelerator 365 is a great opportunity for us to bring together ..."
-publishedDateTime: 2024-01-10T09:36:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61100192-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions-004.htm"
+excerpt: "Reply, a leading network of highly specialised companies active in the fields of digital transformation and innovation, announced the launch of Accelerator 365, a new product that delivers innovative applications for intranets and digital workplaces."
+publishedDateTime: 2024-01-10T09:56:00Z
+originalUrl: "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971"
+webUrl: "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: AFP
+  domain: afp.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "xz9uBWcGcOwcnhNr1P5luUvpow+vRmj7sQbAPBtclo3b3vJGjHPreS4mk3kbhC+5pOHeWtPv19DkZqZLBVzbbnUnUHNL4gixsnJbSP8ANjQqYhglBhMCbM1zzoy5EylqVQqsixyqY6e+kXNdUxpbkFZE6KfY2Vq/J9m2Igo8kd0VZILfGOXXBZut7TZU9ohmgBmGFvhQ7UV/6SroUQxysD+KuSv+cvwFCc3j7/Yg59pVGIRlO1mmVbJgh9uh0VcK/MfOo5eucHqRyFvF0JCvTLhAqdyfTobyT/rt78QJyymwnDP0JmDpSQyuS6qesZAayWUQKqdWaDHUkRCczTf1se39mfxuLS/vCg7fBsci/0I=;UlNbCsjt7sq5PKT7WUxYBg=="
+secured: "2ui9JzVteCxm7dPEw1wAr6AQrNO0bhaVDc5SCiUcHEkat91pENxqtJIsisC7gcg198Q/ktNwEXiiwZWiLWDIYZ53jl2TP1H6SW62vpxNNmyL0zVYo8bHrS/Twalp2asp0WqdUZY8s7cIOuxRzEddBPfHoLY6D2Nu4xkwVt98A6MY9iYCtvQyGp45noEv56IbI0RJUpUHeDgD0Ag69b0gHiIWMnjqi9879D+FLBZ2WyBklQQLbzylCD4jj4AZnsg2YyTH2CnDYIA+1vMUYz+l2wfR7NQKCUjDfYa5x2FT4OGU5vpfhP8z+Rj+0IcmNpR4e51ZqdVi2/2WM3EmihlHpCL2B7HO2UkmIhSh5L6zMOH207fjLC2zj3u1Zz4K3tdwQuNv1mDqHvJT8s9JyM8vhD/w9OZhnkdNy+qXWm5d8oO8tDpWqyETOh5a+MJH0e5ENsCpk4H8qKcy/HBrLadN4SeOk2HWBd2geJLIU5+y2wNRHlZ+pZ+1EEc3fEYdXFLd/NPYk0NuMogLLW8/NYgMmQ==;MUUtNCvSEwB0raRHe/RTKQ=="
 ---
 

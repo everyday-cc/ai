@@ -53,20 +53,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
-    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
-    publishedDateTime: 2024-01-27T02:44:00Z
-    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 33
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
-        width: 600
-        height: 320
-        isCached: true
   - title: "Benton sheriff should impose strict oversight if county deploys facial recognition | Opinion"
     excerpt: "The Benton County Sheriff’s Office wants to become the first agency in Washington to deploy facial recognition software. Before signing off on it, the public and county commissioners should demand strict accountability that safeguards the rights and well-being of residents."
     publishedDateTime: 2024-01-26T15:32:00Z

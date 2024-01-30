@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-27T21:45:00Z
 originalUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
 webUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"

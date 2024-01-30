@@ -63,20 +63,6 @@ related:
         width: 345
         height: 238
         isCached: true
-  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
-    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
-    publishedDateTime: 2024-01-27T02:44:00Z
-    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 33
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
-        width: 600
-        height: 320
-        isCached: true
   - title: "HK, China ink deal on recognition of civil, commercial cases"
     excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
     publishedDateTime: 2024-01-29T07:30:00Z

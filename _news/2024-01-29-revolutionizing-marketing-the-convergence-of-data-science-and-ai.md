@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
 type: article
 quality: 104
-heat: 154
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
+  - title: "AI And EI: Balancing Empathy And Artificial Intelligence In Marketing"
+    excerpt: "2. Ensure that you have a seasoned team that knows how to be judicious and scrutinize when and how much to use your AI tools and when to balance that with human intelligence, forethought and empathy. Integrating AI effectively can and should be a means to ..."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
-        width: 640
-        height: 390
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 855
+        height: 570
         isCached: true
   - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
     excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
@@ -72,29 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Future of Digital Marketing: 7 Trends You Can’t Afford to Ignore"
-    excerpt: "The increasing reliance on AI in digital marketing cannot be overlooked, as it is transforming how businesses develop"
-    publishedDateTime: 2024-01-26T23:17:00Z
-    webUrl: "https://www.dmnews.com/future-of-digital-marketing-7-trends-you-cant-afford-to-ignore/"
+  - title: "Four steps for integrating generative AI in learning and teaching"
+    excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.timeshighereducation.com/campus/four-steps-integrating-generative-ai-learning-and-teaching"
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 41
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Digital-Marketing-Trends.jpg"
-        width: 1000
-        height: 571
-        isCached: true
-  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
-    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
+      name: Times Higher Education
+      domain: timeshighereducation.com
+    quality: 19
 
 secured: "ScfLzOL6Ziq7Nzbpsg//hbq7DPktUydeUf8v3FVCgW5iaKQsoS7LrvbSSitpEiA0dyQ72X4WuqUu4wrEiIJTjsLhi34A90VHgTGj7ugQ860VvW80qN7MEKI374zMcIXnHhgJcN4mAE1Ebp7mriw8SNb/2rnH8mJlwqoyCPClTXQr6hUWyJ0bz+YONI3lEWuEo1lqriV2bVC/XcPVk6g/HnA5P0J20ZKrtfqC+MLCvVE4m2SEEN8LYbi7KEs5kAr5+5FIPMrmHCG++8bUyu7l2gCD8agTe8lwIeGAyIiRPqImF8DOT/c3yUsVp8rtpMlyU4OzteP/uoH2C/L7hcC6NNz95yGha4WkY29+PsFCnpLQ/Z+0wLP7737nqAkkCV7uC+1yY2IFwbgIZJFBf6JneS8irD92LuZ51aFaemmzYFOrB1KiGBjqbR0KKx+3LmTx3Qupq9SPSwSuMcp+B9RKg0wZ0U/eakAczRbCSikLiQ9s0uNVUxOHC+GhCY1U6nc+H5+gd2cs3yi9Hs0LOGvsDQ==;PlsE9vjx7v0Pf/YCpf8BAw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
     quality: 67
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/9J2TaTmwLtSwcqA2WW9QrG-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The role of artificial intelligence in solar energy"
+    excerpt: "As Artificial Intelligence (AI) advances, its transformative impact on the renewable energy (RE) sector has become increasingly apparent. AI’s ability to analyse patterns and leverage vast knowledge has set the stage for improvements in energy production, conversion, and delivery."
+    publishedDateTime: 2024-01-26T06:00:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 57
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/Untitled-design-2024-01-25T155933.608.jpg"
         width: 1200
         height: 675
         isCached: true
