@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-29-benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart.md",
+      "title": "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart ",
+      "excerpt": "When deploying a large language model (LLM), machine learning (ML) practitioners typically care about two measurements for model serving performance: latency, defined by the time it takes to generate a single token, and throughput, defined by the number of tokens generated per second. Although a single",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/19/ML-15932-image002-1-1260x504.jpg",
+          "width": 1260,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T18:34:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-ai-companies-will-be-required-to-report-safety-tests-to-us-government.md",
+      "title": "AI Companies Will Be Required to Report Safety Tests to U.S. Government",
+      "excerpt": "(WASHINGTON) — The Biden Administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
+      "originalUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1754343700.jpg?quality=85",
+          "width": 5921,
+          "height": 3947,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T17:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-digital-transformation-examples.md",
+      "title": "Digital transformation examples",
+      "excerpt": "Explore four real-world digital transformation examples and the technology solutions that made them possible. \nThe post Digital transformation examples appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/digital-transformation-examples/",
+      "originalUrl": "https://www.ibm.com/blog/digital-transformation-examples/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-shortwave-email-client-will-show-ai-powered-summaries-automatically.md",
       "title": "Shortwave email client will show AI-powered summaries automatically",
       "excerpt": "The startup introduced AI-powered summaries last year, but you had to tap a button to generate that summary. Now, with the new instant summary feature, the client shows the gist of an email or a thread in one sentence automatically. You can tap on that ...",
@@ -163,7 +308,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "",
@@ -206,7 +351,7 @@
       "originalUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -310,7 +455,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -363,7 +508,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -552,7 +697,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -794,7 +939,7 @@
       "originalUrl": "https://www.bbc.com/news/articles/cq578jyexzno",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -845,7 +990,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/science/explinable-deep-learning-antibiotics-new-class-research/article67785902.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1180,7 @@
       "originalUrl": "https://newatlas.com/sponsored-content/derucci-smart-mattresses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1076,154 +1221,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-how-could-artificial-intelligence-help-pregnant-women-in-zambia.md",
-      "title": "How Could Artificial Intelligence Help Pregnant Women In Zambia?",
-      "excerpt": "A team of entrepreneurs, researchers and health professional in Zambia are harnessing artificial intelligence to help improve care for pregnant women.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17e5e12ae6b54b8aef398/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/amp/",
-      "publishedDateTime": "2024-01-28T21:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-i-just-cancelled-my-tesla-full-self-driving-subscription.md",
-      "title": "I Just Cancelled My Tesla Full-Self Driving Subscription.",
-      "excerpt": "I canceled myFull-Self Driving subscription. Whether that’s bad news or good news forTesla depends on your point of view.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "originalUrl": "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-06217458/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "publishedDateTime": "2024-01-28T18:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business.md",
-      "title": "From Davos To Dominance: How AI Is Rewriting Our Planet and Business",
-      "excerpt": "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "publishedDateTime": "2024-01-28T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

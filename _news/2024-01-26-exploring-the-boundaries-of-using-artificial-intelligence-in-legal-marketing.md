@@ -60,12 +60,21 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 36
+    quality: 40
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
         width: 1000
         height: 500
         isCached: true
+  - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
+    excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
+    publishedDateTime: 2024-01-30T20:21:00Z
+    webUrl: "https://www.jhuapl.edu/news/news-releases/240130b-ai-improves-air-quality-forecasting"
+    type: article
+    provider:
+      name: jhuapl
+      domain: jhuapl.edu
+    quality: 30
   - title: "AI companies face growing competition, slower technology gains"
     excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
     publishedDateTime: 2024-01-28T00:00:00Z
@@ -75,6 +84,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 19
+  - title: "Virtual Incision's Miniaturized Surgical Robot En Route to the International Space Station for Testing of Long-Range Remote Capabilities"
+    excerpt: "Testing with spaceMIRA on the International Space Station will assess the impact of zero gravity when performing simulated surgical tasks. During a portion of the experiment, a surgeon operator at Virtual Incision's headquarters in Lincoln, Nebraska will utilize remote-controlled technology to direct the movements of the robot."
+    publishedDateTime: 2024-01-30T17:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954482.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "sNJqS0AgCaKsJOY2B2lYcxrRmyDQnkyDVwjRHSIJ2hP54DgV/PSd0I91LcWnw3EpAKG5Ax6SXzX0Y92ZpDQcHPVx8Z02D2g/15w5lYNdqeCnWxBqKuAXOeE/E9R77KkmKEFcvals61+iOY5M8DuejtJrLG1bt01Bbi4oaBugtRWC91py5DbNGydLRJcL/KVIRtyZf1suhk6bHkbxJlaI1IIjTKPafTIIAlxAnNzTAw7Xz1fAslhhgb6qPuFf0pSKaPARfarJRO5DocMUc5rN2AnzJI17p9VwmXUqP+CD+HNCh1DBk0LLnH+OFy7QQTMj+j7C0on1NmdpFM+6DFb/WXxraL0gTJZUb0KWfo65Ds8=;z8FgY29mEvz6mC8NHc2PlA=="
 ---

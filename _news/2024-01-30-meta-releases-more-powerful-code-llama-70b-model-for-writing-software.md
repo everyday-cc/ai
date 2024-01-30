@@ -87,6 +87,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Meta releases Code Llama 70B, the company’s largest coding model"
+    excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
+    publishedDateTime: 2024-01-30T22:13:00Z
+    webUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-generative-ai/706065/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
     excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
     publishedDateTime: 2024-01-30T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/science/explinable-deep-learning-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/explinable-deep-learning-antibiotics-new-class-research/article67785902.ece/amp/"
 type: article
 quality: 73
-heat: 76
+heat: 77
 published: true
 
 provider:

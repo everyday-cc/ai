@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "This AI Chip Stock Has a Near-Monopoly"
+    excerpt: "The need for high-performance memory chips — a bottleneck in realizing full AI potential, according to Wennick — also adds urgency for chipmakers to book EUV lithography systems, especially since it normally takes the company between 12 to 18 months to ..."
+    publishedDateTime: 2024-01-30T22:58:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXHB/pressreleases/23710695/this-ai-chip-stock-has-a-near-monopoly/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/711674cab7014ef022276ee149baa799/aoeuna9hsm3e25h9.png"
+        width: 879
+        height: 649
+        isCached: true
   - title: "3 Edge AI Stocks to Profit From Technology’s Next Big Thing"
     excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
     publishedDateTime: 2024-01-26T10:14:00Z

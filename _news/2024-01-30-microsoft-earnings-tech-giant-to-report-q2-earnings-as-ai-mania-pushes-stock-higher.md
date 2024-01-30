@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Eviden and Microsoft Announce 5-Year Cloud & AI Partnership"
+    excerpt: "leveraging Eviden’s expertise in Machine Learning (ML), AI and Azure OpenAI Service as previously announced in November. Eviden commits to using Microsoft Azure to build and accelerate the development of these industry solutions. Further to the ..."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://insidehpc.com/2024/01/eviden-and-microsoft-announce-5-year-cloud-ai-partnership/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
+        width: 623
+        height: 309
+        isCached: true
   - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
     excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
     publishedDateTime: 2024-01-26T11:41:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T20:00:00Z
 originalUrl: "https://venturebeat.com/ai/atropos-health-partners-with-google-cloud-to-rapidly-generate-insights-from-healthcare-data-using-ai/"
 webUrl: "https://venturebeat.com/ai/atropos-health-partners-with-google-cloud-to-rapidly-generate-insights-from-healthcare-data-using-ai/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

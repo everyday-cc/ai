@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T18:59:00Z
 originalUrl: "https://www.therobotreport.com/kodama-systems-uses-robotics-to-mitigate-wildfire-risk/"
 webUrl: "https://www.therobotreport.com/kodama-systems-uses-robotics-to-mitigate-wildfire-risk/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: The Robot Report

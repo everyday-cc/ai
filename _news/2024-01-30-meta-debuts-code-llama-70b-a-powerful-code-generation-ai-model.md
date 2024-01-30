@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
         width: 2400
         height: 1260
+        isCached: true
+  - title: "Meta releases Code Llama 70B, the company’s largest coding model"
+    excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
+    publishedDateTime: 2024-01-30T22:13:00Z
+    webUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-generative-ai/706065/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
     excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."

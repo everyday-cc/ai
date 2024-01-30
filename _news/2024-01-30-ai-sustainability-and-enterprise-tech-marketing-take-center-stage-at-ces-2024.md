@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "The Chief Financial Officer's Role In The Fintech Evolution"
-    excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
-    publishedDateTime: 2024-01-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/the-chief-financial-officers-role-in-the-fintech-evolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "KT2+YqBVpR9xMlx/7cCgoUog1so3znBNul7YYGvSVCKcbXDCe9QZW01bJuheMhxW22rMqv3wc9X/Z8PxfF+D0buwXSDVOG+abBuazKyuoN6yfLDFJuDuSwihLjfYJlfv9pFW8JmqPTCEKjApzDDKIFT1MDEuiHKNVlKe8LfwLBDkf+jspv/gJinKfJYtIJ/BoVYNSyH+NkfyCvAMgTTE6ElY5u0SXUOv0vDzBKSMXEALh+KD/yC4TrdTPXERmzouoEE4VNrh/dvn3XyBXVlcWlZQKz3fJTMnzyl1ucuhNtta3SO3ZHeBI9+MZp8G2KkN+j08EPdzWJUKO219OioJYLqhTvQtmwRFQkl8oe863RA=;+x1VDJl5ZMDULwMFFWu+KA=="
 ---

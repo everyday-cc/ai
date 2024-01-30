@@ -20,20 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Supermicro Introduces a Rack Scale Total Solution for AI Storage to Accelerate Data Pipelines for High-Performance AI Training and Inference"
-    excerpt: "\"The high performance and large flash capacity of Supermicro's All-Flash Petascale Storage Servers perfectly complement WEKA's AI-native data platform software. Together, they provide the unparalleled speed, scale, and simplicity demanded by today's enterprise AI customers,\" said Jonathan Martin, president at WEKA."
-    publishedDateTime: 2024-01-25T21:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-supermicro-introduces-rack-scale-total-solution-ai-storage-/2024/01/25/9952732.htm"
+  - title: "Supermicro Racks Up The AI Servers And Rakes In The Big Bucks"
+    excerpt: "and of that 1,500 racks will be for direct liquid cooled systems – something that is increasingly necessary as the GPU does a lot of the calculating on AI and HPC workloads. Over the past four quarters, Supermicro has hinted about how its AI and ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.nextplatform.com/2024/01/30/supermicro-racks-up-the-ai-servers-and-rakes-in-the-big-bucks/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-    images:
-      - url: "https://mma.prnewswire.com/media/2327188/Supermicro_AI_Data_Storage.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 19
 
 secured: "rk0yXBHGdJeWu4oTT55B9PLANUPbo1eKEnaRo2XIbW0TP0hHhzI9f+sgG0G6hwwbkZa/ggtG+w91NLmv1koQHA+NRHWLCbqVNlZMZSDnYwpToOB1hHtIKf6vXx2RfocpEYxEMgTI1umH5EF6Dum17/RO/H4IbGn59c6b/F4aK0MoR3O1RFjkhALSWcwUnlxYVkfB05iuRDrPHB/jHMY5OUZpugtkhxA7PN4K8lkK4ds+htMCAtEV+P2ot1BtWPcf7G2K0i7SZuzqKUoQzj9kWAmicP/uzr7hZPJJ0bdLLr7cbGDT28o8BpiRWmTGz02t58AZdeGm01MIWvs5Boqc+Gerwg3Yv7aHcCbQLSPPTmPnsP2UPAdX33qdqCQA2fNM2Kqa3Gi1OMThNe6HYrWEhAcgCAXWuTfqiK7lTonqS5DdQvjTOQovzk5eHD41m+nbShBoFQDvbfsVErAOsv7RzVR5fLMBWdY1iw6gXQaNNZS7RiVdv7lHoVYnTLIQwoIcbEH1bXf3syXY62HBCJbWaA==;R4l2tvXbQnIlWnkVq4d9bw=="
 ---

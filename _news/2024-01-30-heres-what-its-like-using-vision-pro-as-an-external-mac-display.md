@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T15:55:00Z
 originalUrl: "https://9to5mac.com/2024/01/30/heres-what-its-like-using-vision-pro-as-an-external-mac-display/"
 webUrl: "https://9to5mac.com/2024/01/30/heres-what-its-like-using-vision-pro-as-an-external-mac-display/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: 9to5Mac

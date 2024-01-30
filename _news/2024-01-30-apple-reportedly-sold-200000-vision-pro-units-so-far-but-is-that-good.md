@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T11:50:00Z
 originalUrl: "https://bgr.com/tech/apple-reportedly-sold-200000-vision-pro-units-so-far-is-that-good/"
 webUrl: "https://bgr.com/tech/apple-reportedly-sold-200000-vision-pro-units-so-far-is-that-good/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: BGR

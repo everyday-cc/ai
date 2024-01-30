@@ -39,15 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
-    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
-    publishedDateTime: 2024-01-25T19:43:00Z
-    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
+  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
+    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
     excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
     publishedDateTime: 2024-01-26T19:18:00Z

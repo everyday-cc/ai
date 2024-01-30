@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-amd-4q-profit-rises-amid-artificial-intelligence-chip-demand.md",
+      "title": "AMD 4Q Profit Rises Amid Artificial Intelligence Chip Demand",
+      "excerpt": "Advanced Micro Devices saw profit beat expectations in the fourth quarter as artificial intelligence demand continued to boost sales. The Santa Clara, Calif.-based, chipmaker posted a profit of $667 million, or 41 cents a share, in the quarter-ended Dec ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "publishedDateTime": "2024-01-30T21:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-ai-growth-lower-interest-rates-foil-recession-threats-in-2024-says-imf.md",
       "title": "AI Growth, Lower Interest Rates Foil Recession Threats In 2024, Says IMF",
       "excerpt": "NVDA), which is the market leader in AI chip production. “It’s hard to find a company that has benefited more from AI than Nvidia. Currently, Nvidia produces 70%-90% of all AI chips globally. As just about every analyst calls a top, the company keeps ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": null,
       "content": "",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -262,7 +314,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1414,58 +1466,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-better-artificial-intelligence-ai-stock-nvidia-vs-amd.md",
-      "title": "Better Artificial Intelligence (AI) Stock: Nvidia vs. AMD",
-      "excerpt": "Of course, AMD stock could be rewarded with a higher multiple if it can grow at a faster pace, assuming its AI business accelerates strongly. However, on current form and 2024 prospects, Nvidia seems like the better AI stock of the two, especially considering the potential upside it could deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/19/better-artificial-intelligence-ai-stock-nvidia-vs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761413/chatbot-smartphone-person.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

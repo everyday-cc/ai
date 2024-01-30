@@ -49,20 +49,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "A red flag for AI translation"
-    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
-    publishedDateTime: 2024-01-25T20:31:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
-        width: 8256
-        height: 5504
-        isCached: true
   - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
     excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
     publishedDateTime: 2024-01-30T16:08:00Z

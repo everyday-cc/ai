@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T20:48:00Z
 originalUrl: "https://www.pcmag.com/news/whats-the-vibe-yelp-rolls-out-ai-powered-business-summaries"
 webUrl: "https://www.pcmag.com/news/whats-the-vibe-yelp-rolls-out-ai-powered-business-summaries"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: PC Magazine

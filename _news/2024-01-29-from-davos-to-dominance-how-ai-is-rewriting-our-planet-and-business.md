@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-d
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/01/humanoid_robot_pondering_the_meaning_of_life_da-transformed.jpeg?w=1200&strip=all"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Using artificial intelligence in business"
+    excerpt: "(MASS APPEAL) – AI, or artificial intelligence, is everywhere and growing rapidly. But, as Jessica Curtis found out, it’s not just a tool for big corporations. It’s a powerful tool for small to medium sized businesses as long as they use it in a safe ..."
+    publishedDateTime: 2024-01-30T19:17:00Z
+    webUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/"
+    ampWebUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LX4V53vi98jHpHrRdBpJPqfJvEFMsFZbmVC5gpoISHKpglO6HFAQ0LWMpU2imFfyjBuwMKz/ZJ3M9JO/TDdRLL69ZBeiXE8rS0MSr1wh4gKD7EASF/tR+xM5Bs54ZHkI3B7/l6MlZ/my8R9fKB2x+nJUnzGCRsdaARfbI2y2gL3OpV1hy58aQELgGMj6tZ5CDmxb9bgKfeqsciyRC3pHFiMIUH4CLEntu9s/CM1wk2M74jKe/mn1LjYd385S3Et/kx24mXnxsfZxhVSoyahezZlFAAX0CUBpCsMeN6BZ9Zftj5Itf3Vx/9BpxJ+lYTqGw7iiuyUxEjpUqLW+MVRqhthFMoYS4VRlLHR72ylCxZs=;IL0BjbTiQKnqIlnwVdmGTw=="

@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-22-nvidia-ceo-jensen-huang-visits-china-for-celebration-with-employees-amid-ai-chip-restrictions.md",
+      "title": "Nvidia CEO Jensen Huang visits China for celebration with employees amid AI-chip restrictions",
+      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Why it matters: Amid increasing China-US tensions and more AI-chip sanctions being placed on the Asian nation, Nvidia CEO Jensen Huang has just visited the country for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html",
+      "originalUrl": "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image-7.jpg",
+          "width": 1456,
+          "height": 971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-ais-massive-power-consumption-demands-innovative-energy-solutions.md",
+      "title": "AI's Massive Power Consumption Demands Innovative Energy Solutions",
+      "excerpt": "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "publishedDateTime": "2024-01-22T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-how-genai-influences-your-agile-knowledge-management-transformation.md",
+      "title": "How GenAI Influences Your Agile Knowledge Management Transformation",
+      "excerpt": "Advancements in natural language processing (NLP) and deep learning will make AI-driven operations even more intuitive and human-like. The future of operations requires a seamless integration between AI and humans to create and deliver exceptional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae71f796befe48a727f531/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 691,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "publishedDateTime": "2024-01-22T07:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-implement-artificial-neural-network-hardware-systems-by-stacking-them-like-neuron-synapse-neuron-structural-blocks.md",
       "title": "Implement artificial neural network hardware systems by stacking them like \"neuron-synapse-neuron\" structural blocks",
       "excerpt": "(a) Schematic diagram of a biological neural network and (b) circuit schematic of an artificial neural network implemented in hardware using an artificial neuromorphic device. (c) Experimental ...",
@@ -971,153 +1119,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.md",
-      "title": "Musk denies report his AI company secures $500 million toward $1 billion funding goal",
-      "excerpt": "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858",
-          "width": 7008,
-          "height": 4672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "publishedDateTime": "2024-01-20T13:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-two-google-deepmind-scientists-may-leave-company-to-form-ai-startup.md",
-      "title": "Two Google DeepMind scientists may leave company to form AI startup",
-      "excerpt": "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107013470,width-1280,height-720,resizemode-4/107013470.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
-      "publishedDateTime": "2024-01-20T12:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt.md",
-      "title": "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT",
-      "excerpt": "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "AI in Robotics"
       ]
     }

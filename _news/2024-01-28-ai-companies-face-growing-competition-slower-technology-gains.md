@@ -59,7 +59,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 36
+    quality: 40
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
         width: 1000
@@ -74,6 +74,24 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 33
+  - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
+    excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
+    publishedDateTime: 2024-01-30T20:21:00Z
+    webUrl: "https://www.jhuapl.edu/news/news-releases/240130b-ai-improves-air-quality-forecasting"
+    type: article
+    provider:
+      name: jhuapl
+      domain: jhuapl.edu
+    quality: 30
+  - title: "Virtual Incision's Miniaturized Surgical Robot En Route to the International Space Station for Testing of Long-Range Remote Capabilities"
+    excerpt: "Testing with spaceMIRA on the International Space Station will assess the impact of zero gravity when performing simulated surgical tasks. During a portion of the experiment, a surgeon operator at Virtual Incision's headquarters in Lincoln, Nebraska will utilize remote-controlled technology to direct the movements of the robot."
+    publishedDateTime: 2024-01-30T17:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954482.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "d8v4NCVH0FNx39Zc2WJ+bhI450jsdxA6Ff5JOf9piW2OkYQpT3rN1u5i+1n9OjJG6/WhnoN5EYzF8n7jMRdX0OVKYjmSK2SkLz1ixWscKbU3Hbyr9qzKZmRQNmKlS15aa8C+ZEDuIuUas5/WsiT95xSGeD/TvHWy6fSV9f6PEoB8UIwd3g+kvgSQvy0djf7VBuk8z+j5+RKcRiNn00xKY1A/npqvs0ZRuAKouoZNdAGbICEbiHTvrSo4Pzy4L1hMHosafzdT9P796Ene6Fy76QWGiRLw9fBNgNs9rotg1PYDS+Arbc9Hwqs0iGQUgJQA0kHALPXTWWKn1kc1Y7Tor9EGJtp0AG7TlXF+0RJItMTZrQUtcNfydOFrIeyJHwHrW0EFTxUHI3YOH0iXYgeGM+R3BSretwaBEc7sfCQpb32mokLqaE1mFMoLj5XRMlh6Bw6nO0fxBoSaH4bPuicdjYjzq98u0cWNCtvfqH0gU4vrbyCM+IM6mhramAOC+JZcXck19jBn4U2TkdqTIF+iGQ==;yB2cCVGavRXQgigebc2p1A=="
 ---

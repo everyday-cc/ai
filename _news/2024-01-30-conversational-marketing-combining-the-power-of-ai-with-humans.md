@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-h
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -51,7 +51,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 36
+    quality: 40
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
         width: 1000
@@ -66,6 +66,15 @@ related:
       name: JD Supra
       domain: jdsupra.com
     quality: 33
+  - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
+    excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
+    publishedDateTime: 2024-01-30T20:21:00Z
+    webUrl: "https://www.jhuapl.edu/news/news-releases/240130b-ai-improves-air-quality-forecasting"
+    type: article
+    provider:
+      name: jhuapl
+      domain: jhuapl.edu
+    quality: 30
   - title: "AI companies face growing competition, slower technology gains"
     excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
     publishedDateTime: 2024-01-28T00:00:00Z
@@ -75,6 +84,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 19
+  - title: "Virtual Incision's Miniaturized Surgical Robot En Route to the International Space Station for Testing of Long-Range Remote Capabilities"
+    excerpt: "Testing with spaceMIRA on the International Space Station will assess the impact of zero gravity when performing simulated surgical tasks. During a portion of the experiment, a surgeon operator at Virtual Incision's headquarters in Lincoln, Nebraska will utilize remote-controlled technology to direct the movements of the robot."
+    publishedDateTime: 2024-01-30T17:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954482.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "7Zoh5Z+GXNCKMDAwvFhqtCaq8IUE032cxR/T47gzKLMd+8xKWTczk3yT54aRbNQrxnDKDiFdrwnBkydxYdadm2Z82ZXq0Z4TqeJdXIZItBuklmeQuGTqc9hOPFIQW/HkRbfFhqnY1z86plq4ehuDvcp1GQWVHwv3Krf4QMiX3cLjafManeTw/+lqVpcJ6MGKdrTmalJLogGwGGN7FD0kvRUbpPylxhivql45ZTTFlZiIO6LW2oCvfAHbgfH+wLjpStrDPuMaeiNlxOhjVomIpiDGhNQa8VAaBSD3k8FsbTFcYSlfC9WhTKcaevc7DTrJ0X6IK6RR6C3Xj1KMr875mEamJ5zCn20BdSUC+NvHyQM=;M50f/YIQI9UT96gLDso+rQ=="
 ---

@@ -23,6 +23,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "CFTC Requests Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets"
+    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/cftc-requests-comment-use-artificial-intelligence-cftc-regulated-markets"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 10
+
 secured: "pcTw0BGr8/ghPFgunSTP5gzm/Zwl+bNLh4OjnYzzolMkvVL18C14cAhEDWzzWaKFsuR86zlD88FQSITokJU10+152vQT55DwDlz1ACK2ScqPUvhOkfj6Hv4M/eeh2yZuosnOUhmITwJrhCQvy4yf5CEshqNdanlhdWzSvU80loEz6OspQA6THaO1EKjqPAfWKXIGiL7B8ZmujDcOA1+95J4JfTfoz9AXSJYFK8X//hhrayy4bohBn1r8sLO1JTiksi35c3FWVe9Xb1vG99OEzl5yPx9rT4g4QV0xFF7kh6c5nwNLfdl7fZ7hwizArBdI5gWUYEJrZitMAFkZbcpVidCo1sb/uz0WTKoNhnMcXq8=;enVj7fCzzvd/Sx2snRkPrQ=="
 ---
 

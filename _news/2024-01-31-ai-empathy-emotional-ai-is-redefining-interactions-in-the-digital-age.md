@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotiona
 ampWebUrl: "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 

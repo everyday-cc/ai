@@ -71,6 +71,15 @@ related:
         width: 1512
         height: 900
         isCached: true
+  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
+    excerpt: "IBM watsonx is bringing generative AI to the music industry."
+    publishedDateTime: 2024-01-30T18:48:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
 
 secured: "Q/V836bvGhCA+DjXxqArGt5vzl9FIBEpBb/xITdymqOyXCnxs5teylUFfmcxxBzVSngBGsjMx517/WnOuiepgumG5r6AB2XX10GIQXdpXYuOOamQm8ZQnpO11LkvxN/GNwJjk315mDfV6mwC2sOvBQnKmtK5xkkagrP7RpKMsGvxMB2uTJU+F/1Rzwgtjy6sdpDRaKyWmSfhdMh1K7Nu2XCBYUSXZJDOQOAkJBIdUwxA6f5yEPLHRyvFZw96L8ktBILczH0xsTUUtAvwoLaTFm9OZgP1yI4AmsgD9enkala2h4MFWMpB/N6sXPjvOGypG6Zj56szDqpqL8butlpTL26h5HPR51if6MlRNuC6zAk=;W274wM5aZ17KemuO9W+zZw=="
 ---

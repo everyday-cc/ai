@@ -39,15 +39,6 @@ related:
         width: 800
         height: 465
         isCached: true
-  - title: "Enterprise technology predictions 2024"
-    excerpt: "ITDMs on average said that in 2023, their spending ended up growing at 3.4%. You can see the forecast for 2024 is 4.3%, but it’s back-loaded with Q1 and Q2 2024 expected to grow at 2.4% and 3.1%, respectively."
-    publishedDateTime: 2024-01-27T18:41:00Z
-    webUrl: "https://siliconangle.com/2024/01/27/enterprise-technology-predictions-2024/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 4
 
 secured: "chj1obQx8NMQMF/iT9fldCdiiqz7QJuoW2Q3o3JJhO5LyBGoO31rjKeaHZxye8Gi6mhyQqKm80ZF4Opi7UTfzlA3w3GKbnrop+N2uLQPfVfzBE36RG4JXo3SfrL1I9/NO4gq05UdJXvhssxZEzH+j4ybix5ruj6buAZ3S7Gj/jvx7QW0xUGo+S4Bq5Otsd0pSht8OqnauVwrZM/AHCc3h+a/VtE4Y4nlSr/ud40S685J40jp3tD2av5g9QS5Oh4qunwC01XvKi4YDbYDS0LLJfUYOD50huMBFcXjDbF9x46q38W4kb+iHB/EE2s0HL2rDlj8b581oJp3uTq+RVGpkcKH953XBS43hUTMuyx4lNQ=;muF8Jk3q8goIpyE6KYHBWA=="
 ---

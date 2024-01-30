@@ -25,38 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts"
-    excerpt: "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024."
-    publishedDateTime: 2024-01-25T21:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537"
+  - title: "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch"
+    excerpt: "A look at the expectations from analysts for Microsoft's Q2 earnings report and key items for investors to watch."
+    publishedDateTime: 2024-01-29T22:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 85
+    quality: 76
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png"
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Microsoft-Shutterstock_0.jpeg"
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
-    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
-    publishedDateTime: 2024-01-26T10:37:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
+  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
+    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
+    publishedDateTime: 2024-01-29T17:50:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
     type: article
     provider:
-      name: SDxCentral
-      domain: sdxcentral.com
+      name: AOL
+      domain: aol.com
+    quality: 47
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
+        width: 1199
+        height: 815
+        isCached: true
+  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
+    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
+    publishedDateTime: 2024-01-26T11:41:00Z
+    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 34
-  - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
-    excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
-    publishedDateTime: 2024-01-30T12:39:00Z
-    webUrl: "https://realmoney.thestreet.com/markets/microsoft-amd-and-ai-s-big-night-an-unexpected-boost-no-growth-europe-16143042"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 33
 
 secured: "tq2I0O7LsF9yevj+Cvrd0xmfoUclGLJyHKBQRgMg6pNoigYe8DzF/7N1JthCo5vYa/RtZ2rv01n3mleZFuADpCDlLo+Xbm+8MCX7z8eIv44SK/nm+uW6KIQcR9q6MUrOSclmc7aDXd9LyRLm2EcLGrga1dBgOXC1F+YG3uQZ3QipskVh0q+Toy6QmgcWMl1LnH68CGFC+rMxNE93r6R79y5J2W7XhvyO0/Mb6HtRSI2/RTQuw+2ozxZcSlZUO05xiPwZ8TsxHysQ3bJJJj57jYxpwzQyx0nOR3y3C+awDlMWJTryJxqKD149neSWQpfq7jJvIpUnMByKkdH/9QpnWbx7YokZ6W4OdJ84xmLUC1s=;zimhwzMkFzNkoMfh3t1GRA=="
 ---

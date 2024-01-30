@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
+      "title": "Block becomes the latest fintech to lay off workers",
+      "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1321753242.jpg?w=1024",
+          "width": 1024,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
+      "publishedDateTime": "2024-01-30T21:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
+      "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
+      "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b96d877014f9ce8b7c5fe2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "publishedDateTime": "2024-01-30T21:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-amd-4q-profit-rises-amid-artificial-intelligence-chip-demand.md",
+      "title": "AMD 4Q Profit Rises Amid Artificial Intelligence Chip Demand",
+      "excerpt": "Advanced Micro Devices saw profit beat expectations in the fourth quarter as artificial intelligence demand continued to boost sales. The Santa Clara, Calif.-based, chipmaker posted a profit of $667 million, or 41 cents a share, in the quarter-ended Dec ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
+      "publishedDateTime": "2024-01-30T21:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-8-steps-to-build-a-successful-multicloud-strategy.md",
+      "title": "8 steps to build a successful multicloud strategy",
+      "excerpt": "To overcome various challenges associated with multicloud, organizations need to map out a comprehensive multicloud management strategy to achieve success.\nThe post 8 steps to build a successful multicloud strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/multicloud-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/multicloud-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T19:47:21Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-achieve-data-center-excellence-with-ibm-and-vmware.md",
       "title": "Achieve data center excellence with IBM and VMware",
       "excerpt": "A successful data center implementation can best be described as a distributed, dynamic, efficient and resilient IT nucleus.\nThe post Achieve data center excellence with IBM and VMware appeared first on IBM Blog.\n",
@@ -207,7 +405,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -259,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -354,49 +552,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-30-application-of-gen-ai-in-banks-and-fintech.md",
-      "title": "Application of Gen AI in Banks and \"Fintech\"",
-      "excerpt": "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech",
-      "originalUrl": "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T05:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kompas",
-        "domain": "kompas.id",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-30-meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model.md",
       "title": "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model",
       "excerpt": "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property.",
@@ -405,7 +560,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -586,7 +741,7 @@
       "originalUrl": "https://diginomica.com/conversational-marketing-combining-power-ai-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -680,7 +835,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -732,7 +887,7 @@
       "originalUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -784,7 +939,7 @@
       "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -878,7 +1033,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -930,7 +1085,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1056,151 +1211,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart.md",
-      "title": "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart ",
-      "excerpt": "When deploying a large language model (LLM), machine learning (ML) practitioners typically care about two measurements for model serving performance: latency, defined by the time it takes to generate a single token, and throughput, defined by the number of tokens generated per second. Although a single",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/19/ML-15932-image002-1-1260x504.jpg",
-          "width": 1260,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:34:21Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-ai-companies-will-be-required-to-report-safety-tests-to-us-government.md",
-      "title": "AI Companies Will Be Required to Report Safety Tests to U.S. Government",
-      "excerpt": "(WASHINGTON) — The Biden Administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
-      "originalUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1754343700.jpg?quality=85",
-          "width": 5921,
-          "height": 3947,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T17:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-digital-transformation-examples.md",
-      "title": "Digital transformation examples",
-      "excerpt": "Explore four real-world digital transformation examples and the technology solutions that made them possible. \nThe post Digital transformation examples appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/digital-transformation-examples/",
-      "originalUrl": "https://www.ibm.com/blog/digital-transformation-examples/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

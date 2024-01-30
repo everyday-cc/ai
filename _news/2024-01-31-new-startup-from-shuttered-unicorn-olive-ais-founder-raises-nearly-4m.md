@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T18:08:00Z
 originalUrl: "https://www.bizjournals.com/columbus/news/2024/01/30/ghostdog-startup-sean-lane-form-d.html"
 webUrl: "https://www.bizjournals.com/columbus/news/2024/01/30/ghostdog-startup-sean-lane-form-d.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Business Journals

@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T00:00:00Z
 originalUrl: "https://www.nextplatform.com/2024/01/30/supermicro-racks-up-the-ai-servers-and-rakes-in-the-big-bucks/"
 webUrl: "https://www.nextplatform.com/2024/01/30/supermicro-racks-up-the-ai-servers-and-rakes-in-the-big-bucks/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: The Next Platform
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Supermicro Launches Optimized Storage for Enhanced AI and ML Data Pipelines"
+    excerpt: "This new solution maximizes AI time-to-value by keeping GPU data pipelines fully saturated. For AI training, massive amounts of raw data at petascale capacities can be collected, transformed, and loaded into an organization’s AI workflow pipeline."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/supermicro-launches-optimized-storage-for-enhanced-ai-and-ml-data-pipelines/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "+tYIB638uL60ZxMtiPqS6I1PSOxxqsMQad795/sKACkQcqf2fAPi8eo8Hh3xo2F8mb6N7afiTohmsHBM9noqAV/s1q8GN36FrrV/dt5RFcSbm6qgtGrd6fklIExY+wyrKUCUxtj5IZ2K4RT6HsoMksRaeFWTeZu1J6Kyz6Bn3dSlktT774kxFsVbcG/a7XhqoGNywEEBbSB43AIQTCllDcT1dfnSeyrDXa0h5eyKYb45zBgeh3aMUE9bKdFPntGjRDNgJtk1fKz/FUmk6Q6h6fb5E4keYalpXM38jxdVM9hM7FewMLcZVwgUwBjYe3WdG3KYHLuPM8H6K92Co3gumUmIwF7Id3JJBXnOoVNzKG5kWfWe/chPhpCfdsrNfRxJIE9J0iPm65zljlXHGBKMqCfYrMmKQZbXyGcV2D1/r6DOM4tqgyd64/68OuKAiX/2JlVVaMCnHnhW720gkSpXm9UwCZtlRzxZjbibCFMjDptyu69UGGwfaTkPu+GgGuPpnNPFAa6KXTqOxi/9pAtMwQ==;DRFZy7D8iAjJyLfk3QKMVQ=="
 ---

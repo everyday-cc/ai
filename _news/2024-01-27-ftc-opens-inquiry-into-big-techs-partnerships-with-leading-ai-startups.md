@@ -38,38 +38,6 @@ related:
         width: 7571
         height: 5046
         isCached: true
-  - title: "US Regulator Launches Probe Into Tech Giants' AI Investments"
-    excerpt: "A top US antitrust regulator said it was launching an inquiry Thursday about investments made by Microsoft, Google and Amazon into generative AI startups OpenAI and Anthropic."
-    publishedDateTime: 2024-01-25T23:00:00Z
-    webUrl: "https://www.barrons.com/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
-    ampWebUrl: "https://www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/us-regulator-launches-probe-into-tech-giants-ai-investments-32a96c46"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP6244888337299153745034023267276247467373---1.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
-    excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and the tech giants that have invested billions of dollars into them."
-    publishedDateTime: 2024-01-25T21:43:00Z
-    webUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.html"
-    ampWebUrl: "https://techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-probe-tech-giants-ai-investments.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/ftc-opens-inquiry-into.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "FTC opens inquiry into Big Tech's partnerships with leading AI startups"
     excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested."
     publishedDateTime: 2024-01-27T18:00:00Z
@@ -86,17 +54,6 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "FTC probes Big Tech ties with AI"
-    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology The Big Story FTC probes relationships between AI firms, tech giants The Federal Trade Commission (FTC) is"
-    publishedDateTime: 2024-01-25T22:24:00Z
-    webUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/"
-    ampWebUrl: "https://thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4430313-ftc-probes-big-tech-ties-with-ai/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
   - title: "Tech Giants Take a Beating at FTC's AI Summit"
     excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
     publishedDateTime: 2024-01-26T06:52:00Z

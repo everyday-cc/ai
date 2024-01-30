@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-uni
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -146,6 +146,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 36
+  - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
+    excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
+    publishedDateTime: 2024-01-27T12:51:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/krutrim-ai-startup-first-indian-unicorn-bhavish-aggarwal-4942613"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 15
 
 secured: "tzuVUZI3Q88yuTxnqvlg4nkzGyHKWVwfi34IMmipWBvlbEwEzg+ok9tYlFLHpCo/51JtT2kM2ykdB85u+E81DQOqquEVEsFXjn27UAUVUB0emC5cU1aWY6DzaD1KbDduHoiA70huPC0HKUcFB1u1CRkLJfmBksAl99GO7ea25Xp1go7Q3qlMqS4MeSya4p2NxqiBHtgANgyZDhd4lWueNvex4GhiueRkCp3hkFP9+Cijh81ssThoRDBde3cqqGLGhUCR9rewGi3GVinzYu539ajwxZbiNIxSJ5PSnBrL+0YsZftig+jm906y/8Wp1YL/N18OwvyHot17ETHRAhD4qsRl/FImhei7sHAzFP+H0e/Cw3ncGgkVlE2xSVkoiJPN1mFQ/bJPALNbE7Iaog3lP49bKeQXBMHxlZgJ9Y6BxELPnsfg1QZmpRTpPQV1GxNL9nzViMZ/F6eYWR+hrDa07G08cG0beTIR3HH9X5/X1JKQsT2HhFAhSwup6RYo8K89xvh0amTI9eRaWF/kU+JbwA==;riNLjjle6PLjAc9AUzGVcw=="
 ---

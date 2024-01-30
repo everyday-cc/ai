@@ -40,6 +40,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Korea Quantum Computing and IBM Collaborate"
+    excerpt: "has engaged IBM to offer IBM’s AI software and infrastructure, as well as quantum computing services. KQC’s ecosystem of users will have access to IBM’s full stack solution for AI, including watsonx, an AI and data platform to train, tune"
+    publishedDateTime: 2024-01-30T21:36:00Z
+    webUrl: "https://insidehpc.com/tag/watsonx/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "RAA/nTbNnBUsiBMlIWUeMGQjIIjD5OqH8RNb8b7ENVkHXU+h3Ki2ruYBrqBztrvF556C+l8dxWyDZP5IXVbEUJTF0PCX2jQzenYgoGzrU0818NrKlp/BOjjdFxZANVbyt0qbxavjuru8FQMhZ6NJr3+k+wVT3JzIYYKSRvgeb4Aau49gH3Il2t6wlh6ZjORty0aqUUmGkWB5tOF8FGNHdOFsg7wOs9OqoPs/IL+oYMfGDQKVkoZCCd8CaKFqcE9PxtiV5FnvdSuiKDXDEp8iPPZ4l3ahi9TzamnfscQksGyYueskH5KyVBlIBH0aXvKzUksPpk7yO396AzJr5Hirg9vc1yhym5iIHEbFNZiM0r5iZsf6Z6e63UgjXcLXuW9JkNa+4T85iyqTIQJCN9cgEZbRU6wd4BGTQigr/xUMimh4HR04jVNrjBj4huj+QRQmdGlvGF+syz5H+NHTOcAw3zx5M95DB3aMblWSDsOeytbDdGWxgnL0eU7oxeYUIsSLg0CEfTO216pIUA42u5lxqA==;U4oTqvhOXp8y4kYp477RTw=="
 ---

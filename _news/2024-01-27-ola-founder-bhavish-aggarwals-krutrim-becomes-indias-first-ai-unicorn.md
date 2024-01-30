@@ -145,6 +145,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 36
+  - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
+    excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
+    publishedDateTime: 2024-01-27T12:51:00Z
+    webUrl: "https://www.gadgets360.com/internet/news/krutrim-ai-startup-first-indian-unicorn-bhavish-aggarwal-4942613"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 15
 
 secured: "Il8GF83kfCnkrfxlwbEkwp67e96QNcZTt5EaFp3N52lHpUJb1IiLa8axTCIUIJRk9zl4Yy8O0yZNTHK29Qq0H/fDc5ReDU6kC17HRvjTpbSO4W4AA1h6SsFFpFIMSgLjadLgkPFFx6wPK0isxBHMZ6Y0PwPuwQ33je15QCBzvxNReu0lwAYC8z5ff+1SHgEPtQSk1WqLjw5pCojEjyWs5/Uuy5uzC59bUL3wATLGM7M30P4QUc7CPTmc0c49+DSCm8YIi6u/pwIUcCebk6Vt/NrgtQZwymcUF6dsvk6Hch0UqqJaKDAKAofVX5R3ko1Qjga03oEc9I+ai1ukDmbarRo9lI9F4DTzkhn2S0nlYrM=;952sk45TQ3hQ3uftJIkSTA=="
 ---

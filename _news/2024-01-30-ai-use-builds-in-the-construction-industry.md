@@ -68,6 +68,15 @@ related:
         width: 429
         height: 648
         isCached: true
+  - title: "Embrace AI and use it wisely to transform"
+    excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
+    publishedDateTime: 2024-01-30T18:56:00Z
+    webUrl: "https://www.newindianexpress.com/editorials/2024/Jan/30/embrace-ai-and-use-it-wisely-to-transform"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 19
 
 secured: "8fCfT++F0XRYxcBeWc3D/pvl7jHRShcRTNcjB96gwYDCpUstF6ythR4EtBIpDQd10Yy+4HFcAhfqSr+EPnua4WmwuEYtTVK1ZwGKVEOG/4qii+1HNoo0G+QPotzeM98wRhSFMK8grHNsDz46aBEKJ1MCzmXfCqXpXArFl8O6z/5oxkfi8fG7Z0TMK9Wt8BOadxAZYn7QAiXvwNGnjjz7chaX91NN+2VRpyYQhbaRI7ERXx8qHMdrALxTlUZIhIvloKOrlgiHS1e3+iGa86xUNf/NSf3Xy6PenRFsIcfmefAx22+IYeIFCjJhzOGHdvEMCURpU7MwEMvEhZDlEoYsRZKRZMBvQg8V4EcBq/68s/o=;C9gq70JsVzcN4Jz3F5yooQ=="
 ---

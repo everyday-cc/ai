@@ -62,6 +62,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Microsoft Surpasses Expectations, Fueled by Azure’s Accelerated Growth"
+    excerpt: "Microsoft's Q2 earnings hit $2.93/share, beating $2.78 estimates with Azure's 30% revenue surge, showcasing its cloud sector dominance."
+    publishedDateTime: 2024-01-30T21:25:00Z
+    webUrl: "https://www.fxempire.com/news/article/microsoft-surpasses-expectations-fueled-by-azures-accelerated-growth-1406151"
+    ampWebUrl: "https://amp.fxempire.com/en/microsoft-surpasses-expectations-fueled-by-azures-accelerated-growth/1406151"
+    cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/microsoft-surpasses-expectations-fueled-by-azures-accelerated-growth/1406151"
+    type: article
+    provider:
+      name: FXEmpire.com
+      domain: fxempire.com
+    quality: 54
   - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
     excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
     publishedDateTime: 2024-01-29T11:00:00Z

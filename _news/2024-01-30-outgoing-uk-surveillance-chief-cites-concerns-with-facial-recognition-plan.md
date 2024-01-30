@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-s
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1325
     height: 900
     isCached: true
-
-related:
-  - title: "Face recognition technology follows long analog history of surveillance and control"
-    excerpt: "American Amara Majeed was accused of terrorism by the Sri Lankan police in 2019. Robert Williams was arrested outside his house in Detroit and detained in jail for 18 hours for allegedly stealing watches in 2020."
-    publishedDateTime: 2024-01-25T21:31:00Z
-    webUrl: "https://japantoday.com/category/features/opinions/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 15
 
 secured: "uRqWiqgZ5+o8/6lzt9DlQjl5thFaPm16Gdf2QTYH5WhUajoGMLZ0Xqhh2M8Rl//lgMISQwTBU+v7+eLH3ZipVYY/7vk4bar3gSezj3H2l2Jg7lo4PG1i20V8deqcQ0w9LYuH0K5IXgHRUpm7Iry6m78iQdQBfjN1uLKY6lWPAosbihURwZqW4XE2+oEcFDRMxmQS74Gj6simivdORLNkQ8X0euPs5/kYvBLrhYFl9/obRbqwLzmU0FrUAbg2bV9JcFduvC/tGzpQ1lBuL7GPxWYbqls51detZhjsRkv7EMRa+uckZIgabCDaaZiWGrnBOm+07Rq1wGc1l5p8SDF7YApKJ5R6qndvJHo3B/boMnQ=;SrTW5IjU+p94mg6S7pf3PQ=="
 ---

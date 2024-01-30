@@ -33,6 +33,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
+    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
+        width: 770
+        height: 435
+        isCached: true
   - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure for Organizations Worldwide"
     excerpt: "January 29, 2024 – VAST Data, the AI data platform company, today announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud."
     publishedDateTime: 2024-01-30T08:35:00Z
@@ -47,15 +61,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Google Cloud and Hugging Face ink AI infrastructure partnership"
-    excerpt: "Google LLC’s cloud unit today announced a new partnership with Hugging Face Inc., the operator of a popular platform for sharing open-source artificial intelligence models."
-    publishedDateTime: 2024-01-25T19:43:00Z
-    webUrl: "https://siliconangle.com/2024/01/25/google-cloud-hugging-face-ink-ai-infrastructure-partnership/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
 
 secured: "i4LbVizkRfl9rfD16v4exxrUYklDNVfZgf7fuEGJ2IZ4nqs1Kws1ya1v6OCfm1hCsGPvHAhK2QMrJA4HeUb1AH7Vzsq5jH2zGNH65j8ZI6a1ynPJ37FhvnjPVzPlKb+CUJxlgU0z/ushODOABhcHp1UGP8FuwEtJktnX7JoOKXXK9woX8ynY8ydX5AlNPCVDXGLRfXqD2OpUQWz4FFQA1uHIL7eChkY1w7yI9mqm58Pln5/EKYbpDYetrN6MoTV120YUdf0s8hqiGRvGi9IJpPwDFDbwD7ltsOROp54jnB1n150MfClqHGvY0sejDBsd7s8rpLKNTmjlrR6icK6XoHoOU7xaGPLsbfdMwC+YwvhTkCkx+yTl0WUzMGrb5b+QxwbdKEL7dfq6s3XhF1xQ7iLW7aXOy56R23YUdcOxDbPrWr4X1WJsdssUNncPrVWCdQz3mWi50ouWhGBtGxYI+pOA81Oh/DVufJMKzV9r8+7j3c2bxgycAa1/KcK6GmrIWMtfQjD7PZm/oCJIKVoedg==;SfVenf0gXvRRfKc4sYTPSQ=="
 ---

@@ -180,6 +180,31 @@ related:
         width: 1480
         height: 833
         isCached: true
+  - title: "AI advances lift Microsoft revenues to $62bn"
+    excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"
+    publishedDateTime: 2024-01-30T22:04:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-advances-lift-microsoft-revenues-to-62bn-ls0l67czk"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F351b03b7-d52c-459e-b009-37ac83b2803f.jpg?crop=5000%2C2813%2C0%2C260&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft beats Q2 estimates with help from AI features"
+    excerpt: "Investors are watching Microsoft's Azure and Office revenues closely to see what sales flow from the money the company plans to pour into data centers to deliver generative AI."
+    publishedDateTime: 2024-01-30T21:34:00Z
+    webUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/"
+    ampWebUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 54
   - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
     excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
     publishedDateTime: 2024-01-30T00:35:00Z
@@ -194,15 +219,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Fake AI Taylor Swift images flood X amid calls to criminalize deepfake porn"
-    excerpt: "Explicit, fake AI-generated images sexualizing Taylor Swift began circulating online this week, quickly sparking mass outrage that may finally force a mainstream reckoning with harms caused by spreading non-consensual deepfake pornography."
-    publishedDateTime: 2024-01-25T20:30:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/01/fake-ai-taylor-swift-images-flood-x-amid-calls-to-criminalize-deepfake-porn/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 45
   - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
     excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
     publishedDateTime: 2024-01-29T07:10:00Z
@@ -231,6 +247,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Cloud strength and AI excitement boost Microsoft revenue"
+    excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
+    publishedDateTime: 2024-01-30T13:46:00Z
+    webUrl: "https://www.ft.com/content/a062df1d-aaf5-4604-8f97-4444170482f2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
   - title: "Microsoft CEO Satya Nadella likely to visit India in February, expected to meet AI start-ups: Report"
     excerpt: "as well as Bhavish Aggarwal's AI startup Krutrim, among others, in Mumbai and Bangalore. These interactions are poised to explore new opportunities and reinforce Microsoft's commitment to leveraging technology for expanding possibilities in India."
     publishedDateTime: 2024-01-29T14:09:00Z

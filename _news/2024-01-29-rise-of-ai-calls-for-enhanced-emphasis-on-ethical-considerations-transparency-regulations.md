@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
 type: article
 quality: 94
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "A red flag for AI translation"
-    excerpt: "The RAND researchers recommend scaling up various “red-teaming” exercises meant to detect malevolent AI activity before its use in the wild, and bolstering the research community around negative AI capabilities. The Library of Congress’ Copyright Office is unexpectedly central to AI legal fights."
-    publishedDateTime: 2024-01-25T20:31:00Z
-    webUrl: "https://www.politico.com/newsletters/digital-future-daily/2024/01/25/a-red-flag-for-ai-translation-00137942"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 39
-    images:
-      - url: "https://static.politico.com/ee/10/b085daa94dcf9c1b3544bb3ce8cd/https-delivery-gettyimages.com/downloads/1250089491"
-        width: 8256
-        height: 5504
-        isCached: true
   - title: "Artificial intelligence regulation a major theme this legislative session"
     excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
     publishedDateTime: 2024-01-29T21:26:00Z

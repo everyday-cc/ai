@@ -2,6 +2,146 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-24-agnostiq-partners-with-nexgen-clouds-hyperstack-platform-to-increase-covalent-clouds-gpu-capacity.md",
+      "title": "Agnostiq Partners With Nexgen Cloud’s Hyperstack Platform To Increase Covalent Cloud’s GPU Capacity",
+      "excerpt": "The Hyperstack collaboration significantly increases the capacity and availability of AI infrastructure in the Covalent Cloud platform, making premium GPU hardware more accessible to end-users",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/press-releases/article284624670.html",
+      "originalUrl": "https://www.sacbee.com/press-releases/article284624670.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-data-security-privacy-compliance-and-hygiene-for-ai.md",
+      "title": "Data Security, Privacy, Compliance And Hygiene For AI",
+      "excerpt": "Data privacy regulations, security frameworks and AI ethics guidelines are constantly evolving, continuing to be top of mind for security and business leaders. Learn to stay ahead of the curve by automatically applying policies based on data type and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/24/data-security-privacy-compliance-and-hygiene-for-ai/amp/",
+      "publishedDateTime": "2024-01-24T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
+      "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
+      "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
+      "originalUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
+      "publishedDateTime": "2024-01-24T09:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-most-top-news-sites-block-ai-bots-right-wing-media-welcomes-them.md",
       "title": "Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them",
       "excerpt": "Originality tallied which sites block GPTbot and other AI scrapers by surveying the robots.txt files that websites use to inform automated web crawlers which pages they are welcome to visit or barred from. The startup used Internet Archive data to ...",
@@ -1058,163 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
-      "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
-      "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
-      "publishedDateTime": "2024-01-23T15:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-hardware-and-fintech-collide-at-ces-2024-in-vegas.md",
-      "title": "AI, Hardware And Fintech Collide At CES 2024 In Vegas",
-      "excerpt": "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
-      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1362,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
-      "publishedDateTime": "2024-01-23T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
-      "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
-      "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742",
-          "width": 5246,
-          "height": 3497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
-      "publishedDateTime": "2024-01-23T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

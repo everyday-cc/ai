@@ -41,20 +41,6 @@ related:
         width: 3500
         height: 2279
         isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
-        width: 1400
-        height: 786
-        isCached: true
   - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
     excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
     publishedDateTime: 2024-01-29T23:12:00Z

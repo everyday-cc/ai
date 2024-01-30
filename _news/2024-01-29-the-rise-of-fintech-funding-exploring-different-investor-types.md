@@ -25,21 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Axyon AI, an Italian Fintech Leveraging AI, Closes New Funding Round led by Montage Ventures"
-    excerpt: "Axyon AI, an Italian AI fintech company, has closed its latest funding round led by the US-based venture capital firm Montage Ventures."
-    publishedDateTime: 2024-01-26T15:09:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220733-axyon-ai-an-italian-fintech-leveraging-ai-closes-new-funding-round-led-by-montage-ventures/amp/"
+  - title: "Block becomes the latest fintech to lay off workers"
+    excerpt: "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo."
+    publishedDateTime: 2024-01-30T21:56:00Z
+    webUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/"
+    ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/06/David-Florence-Italy.jpeg"
-        width: 899
-        height: 1280
+      - url: "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1321753242.jpg?w=1024"
+        width: 1024
+        height: 751
+        isCached: true
+  - title: "The rise of digital banking: Fintech trends in 2024"
+    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
+    publishedDateTime: 2024-01-29T18:34:00Z
+    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
+        width: 1000
+        height: 800
+        isCached: true
+  - title: "The Chief Financial Officer's Role In The Fintech Evolution"
+    excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
+    publishedDateTime: 2024-01-29T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/the-chief-financial-officers-role-in-the-fintech-evolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
+  - title: "Budget 2024: Navigating the future of India's fintech sector"
+    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
+    publishedDateTime: 2024-01-29T08:33:00Z
+    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 24
+    images:
+      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
+    excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
+    publishedDateTime: 2024-01-30T06:47:00Z
+    webUrl: "https://fintechnews.ch/events/top-20-fintech-events-to-attend-in-europe-in-h1-2024/69113/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2024/01/Top-20-Fintech-Events-to-Attend-in-Europe-in-H1-2024.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
@@ -50,6 +101,33 @@ related:
       name: Gulf News
       domain: gulfnews.com
     quality: 4
+  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
+    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
+    publishedDateTime: 2024-01-26T00:00:00Z
+    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
+  - title: "Startup Digest: PB Fintech turns profitable in Q3, iRobot to lay off 350 employees, and more"
+    excerpt: "Consumer robot maker iRobot announced layoffs of nearly 350 employees, approximately 31% of its workforce, after the $1.7 billion Amazon-iRobot deal was mutually terminated over regulatory hurdles. Founder and CEO Colin Angle is also expected to step down."
+    publishedDateTime: 2024-01-30T14:08:00Z
+    webUrl: "https://www.cnbctv18.com/startup/startup-digest-pb-fintech-irobot-amazon-elon-musk-neuralink-nvidia-18927391.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 0
+  - title: "Yara Technologies enters African market, targets rapidly-growing fintech market"
+    excerpt: "Yara Technologies, Sri Lanka’s premier edfintech company, expanded into the African market by partnering with Meus.... .."
+    publishedDateTime: 2024-01-30T19:16:00Z
+    webUrl: "https://www.dailymirror.lk/business/Yara-Technologies-enters-African-market-targets-rapidly-growing-fintech-market/215-276003"
+    type: article
+    provider:
+      name: The Daily Mirror
+      domain: dailymirror.lk
+    quality: 0
 
 secured: "arxDtQYwFnC8/ecNyAwK6U9CzmDdOciEtK9tqVmq/H7LYhMRD2MntA1X6XDN5YAfvIjGShcoUBebbMahsuw/RnJV/JKXnpgpRY7iQWMi5fE0MHFDyTc/wBP7lYtKxmf3NOT/fO/a4vafjBhhszcHQPAZzeFaTk+NOkbFLD2qBD005A1Ozp8DJ9Tw7kpbEV+WQXuRawmOAC1IdBwe8snUOUPKMgUBTuPm0uiTqNd3HwGHN/D+6aagnnEqluZhR9fYzlI5xusD/pxgWvR19Z64oyrgVGjDpaz/c/TT/MRjb3HlYFuxxnBL9RXRmOkqZ+FL2HcLDsgMJ/M0tsfBGa1I61W/s8Bxyhenw8E6J2XXO5M=;SUe7UhZZGoBskJXC4MEm4g=="
 ---

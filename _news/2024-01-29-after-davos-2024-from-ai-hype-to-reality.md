@@ -44,6 +44,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Using artificial intelligence in business"
+    excerpt: "(MASS APPEAL) – AI, or artificial intelligence, is everywhere and growing rapidly. But, as Jessica Curtis found out, it’s not just a tool for big corporations. It’s a powerful tool for small to medium sized businesses as long as they use it in a safe ..."
+    publishedDateTime: 2024-01-30T19:17:00Z
+    webUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/"
+    ampWebUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 59
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "61T26PR6VaDrBM+F3ZFlF0TWeU89zDt1mnCYMGLTY9bEVITJaIdlO7gXhEcUL3mt9YGa0L0VDlI4KyYIN4ri1yZDmMtBcmIKmZOJ68XRS23Y3CjxNJNGHDspD9Bx6OdjXOLN3a0kGeVPnsrSn7rGcmNjxrC74rXX+TdtNP2Xp5SeNfRv1EWVD7H5wo7p3dmR41eG0gpwuGYASrZNbAqdzDaGmEVFIslA0++9LZ+QoGSwkF4Bk869ufz4xgOar55twdQozdCgPte+doVXiHpBSmWGqNGOqv8+CrL7foxfyBjf6yCHs0kaGoizifUcr8k9GbhqmXMku3tzf5TPYWOXY36eWomZdK+DvmXlDh8xqNdUvwPO6MMYMT2r37Ikf2/C7Le4cl9ML7ymhCQX4w6HKREhjYn3YJN4oqhpH+B08dEvzHsFVD7zBr+PqoonWIgE2O5L6PwnCfn/WAhi7dP8zbmWJ4LfNuOneSIa2U4X30c7xGV76f8ScO2XWpnwo07uTZ85NA47APIw13hlLs/PuA==;P7DXGm2li/7bO7Z4PGM+XA=="
 ---

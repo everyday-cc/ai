@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "HK, China ink deal on recognition of civil, commercial cases"
+    excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
+    publishedDateTime: 2024-01-29T07:30:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/01/29/hk-china-ink-deal-on-recognition-of-civil-commercial-cases/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
+
 secured: "WMm1k2nhUzm70ue8yulHoKAAmW1dVRc34tQiX3Abgb9WDZeYrlJmkMmfSv4IsF1KiuuGJCLqqqjO5JwjXfk+Deo81O6JH8N7v6mcW7lH8bCx5HC3PoPWXA35HTdlVSda3T5iXuBpBTKhxtoqdhUF+6ccs4i+R15YUMMEWglXRp//3WNzeX1FUJhqbetw3Ndy+7/kp9+o7bM9b29NZ5WwC4zCSJIcW31RpvebzCpl+u38gGfO13jAs3q9j+TitqK2zVAesD5mqk9e5Kp10RVjrPOBNCJ+Ah5Awfy+HgjxprfNZUfYhBqKQlIFA4nvx5qn4DCaL0luflD5sAOGJvGbAcue6PdalmTeiP6mENuPAz4=;tUbo9vQBriB/7ZKJF/InLQ=="
 ---
 

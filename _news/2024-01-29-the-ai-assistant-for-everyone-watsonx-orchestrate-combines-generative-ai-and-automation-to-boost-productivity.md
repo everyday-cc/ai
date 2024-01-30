@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orc
 webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
 type: article
 quality: 114
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1512
         height: 900
         isCached: true
+  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
+    excerpt: "IBM watsonx is bringing generative AI to the music industry."
+    publishedDateTime: 2024-01-30T18:48:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "AI is for everyone: Prompts to help you with work, life, school and love"
     excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
     publishedDateTime: 2024-01-28T05:45:00Z

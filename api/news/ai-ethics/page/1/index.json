@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
+      "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
+      "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b96d877014f9ce8b7c5fe2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
+      "publishedDateTime": "2024-01-30T21:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-intel-says-major-ai-enhancements-expected-in-panther-arrow-and-lunar-lake-chips.md",
       "title": "Intel says major AI enhancements expected in Panther, Arrow, and Lunar Lake chips",
       "excerpt": "Speaking at the company's Q4 2023 earnings call, Gelsinger revealed that the company is looking to improve the AI performance of its x86 processors by as",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -115,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1399,58 +1451,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-what-to-expect-from-europes-ai-startups-in-2024-according-to-vcs.md",
-      "title": "What to expect from Europe's AI startups in 2024, according to VCs",
-      "excerpt": "Startups using AI to tackle industry-specific issues are predicted to thrive while funding to more generalist AI startups is expected to taper off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
-      "originalUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/658405b0cefc010bea260ac0?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

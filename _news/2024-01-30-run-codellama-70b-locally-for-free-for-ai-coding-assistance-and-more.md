@@ -95,6 +95,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Meta releases Code Llama 70B, the company’s largest coding model"
+    excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
+    publishedDateTime: 2024-01-30T22:13:00Z
+    webUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-generative-ai/706065/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
+    images:
+      - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
+        width: 770
+        height: 435
+        isCached: true
 
 secured: "8EjJjV6gMZLzhBuC3/vb4bCLApkdFgM4pZ34P9/59s6nQiwi0FgcAWlaKW+KWkY3wdiOnSzbjchNvxp9k8FFoc4MMdS2FQe/QOfZbGzfbAUcJg6tsKDZ+IACBItv8u2wJxSqNebZjsnakmx8h59OOZZXPlOel2iJ/fm4I2QgHXDzr21ZjqI7K5EBprtpcuRXxaAW7NrjY+XNAnim0DEheDMIhO0uoeMiEVL00f/cE0bnhXLo+4FjDTLA4FCTLOlfj1VKU4xgTbImx88j4AhC9L4Bmwk7LAB0Wdn27Qz2zR7wsVNyKpdsBIhUCJ3AGpu4HnYg0ZUaY7+V+3kJfaU3cEHOEEtFxGrue71Ij0opaVI=;mDIKTeabe6QjV6Vh5uVyvg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T19:47:21Z
 originalUrl: "https://www.ibm.com/blog/multicloud-strategy/"
 webUrl: "https://www.ibm.com/blog/multicloud-strategy/"
 type: article
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: IBM

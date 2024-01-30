@@ -66,6 +66,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Man Behind ‘AI’ George Carlin Has Plan to Literally Resurrect Himself"
+    excerpt: "Turns out artificial intelligence wasn’t behind that “new” George Carlin stand-up special. But the guy who actually wrote it has clearly thought a lot about coming back to life."
+    publishedDateTime: 2024-01-30T20:00:00Z
+    webUrl: "https://www.thedailybeast.com/chad-kultgen-man-behind-ai-george-carlin-has-plan-to-resurrect-himself"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "mds/NGZXSFqtSFncq1mixkrb818e8SCimwfM1ThTw1bNIlMUegcLeg8JvtCPbOl8ThqWmOW3gZhhXPQExqvNfsQOFIhQWaLMOTR4l8yR3WpPGKuRW7wj2rvRQ4k85OQdWEAhpra4H3oCACp/vuOlmmagD9imXyIfYVkVhkafkUlyz6qiOYbB8cZYCgs8/VW58Npd7eO4Nyo0uZmkITYOUQWC5IoaR+krCcdUkLlV34k6I7ChzGgtLUlAKrDKbdUrpgY7GDPIrfdnrmHp10+HtcTbtSQnAoLGTNtuLmUooFtapP4C5ZPKOynmK2mBnqTxczlFT6KtcteCYacCmY7qbhDkTTkmoB+PjYt8dtItRF8=;Udz6ocokoT5439DVbhblrQ=="
 ---

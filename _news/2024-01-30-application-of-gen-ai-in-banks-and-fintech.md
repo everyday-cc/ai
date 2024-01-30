@@ -7,8 +7,8 @@ originalUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-
 webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 66
+published: false
 
 provider:
   name: Kompas
@@ -39,15 +39,6 @@ related:
         width: 5000
         height: 3333
         isCached: true
-  - title: "The Chief Financial Officer's Role In The Fintech Evolution"
-    excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
-    publishedDateTime: 2024-01-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/the-chief-financial-officers-role-in-the-fintech-evolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "JANmdx5F4zqaOuKYeWuUhj8ZSdwqZOp9v+KcjVGY/emq03fRA+fYWmbRvoWhLAGATyG1qrZGr9yK8t74hNDeBc0h8HetLDCbf/YgXBL+wFOeiMsr2N1fqYEjCbCWxIzVNgvGuyd2OMZ3t4k5zCPnNnFNof0ELFs7qHnFRdIVSMmmtiCA/ADuPs+Y9NnyJBKkzCGbTDWIxs1Oyq1y46bHIRsZM75QKEjg9kK/YPetUogazL8mNJCCJl5ZOtVqn6Gj3S7KIpSgWNI2S6toKbJPPaw3uptZyZodlL212AsoaJhISV416IKDUpEUukhkMmE1JcatKiXvjyhWz2V6uz2aMb5slktUhfni9Zz9i1LudcJzw+X7j19sTiQbv/PyPukurk9pKW4nGbyr085bXm4EEE3QKipIYbjY2dSzK3PFV1jogf8Ka82p7+0tFnorN/mr3wdTvCjgf0zirHXJ9GNwk4pP9h+mo2r/FHkUyDcJ5MqO8+Y/PE38d41+BehPl4iszFU4en5aG4t6Uq+EbaifmA==;6qat1aQU2dRuiQAVtwdhgQ=="
 ---

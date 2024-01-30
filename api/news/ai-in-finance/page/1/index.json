@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-30-application-of-gen-ai-in-banks-and-fintech.md",
-      "title": "Application of Gen AI in Banks and \"Fintech\"",
-      "excerpt": "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy.",
+      "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
+      "title": "Block becomes the latest fintech to lay off workers",
+      "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
       "sourceUrl": null,
-      "webUrl": "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech",
-      "originalUrl": "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech",
+      "webUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1321753242.jpg?w=1024",
           "width": 1024,
-          "height": 576,
+          "height": 751,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T05:28:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
+      "publishedDateTime": "2024-01-30T21:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kompas",
-        "domain": "kompas.id",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

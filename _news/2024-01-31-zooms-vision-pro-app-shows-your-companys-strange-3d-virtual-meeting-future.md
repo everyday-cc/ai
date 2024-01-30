@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T17:26:00Z
 originalUrl: "https://www.inc.com/kit-eaton/zooms-vision-pro-app-shows-your-companys-strange-3d-virtual-meeting-future.html"
 webUrl: "https://www.inc.com/kit-eaton/zooms-vision-pro-app-shows-your-companys-strange-3d-virtual-meeting-future.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Inc

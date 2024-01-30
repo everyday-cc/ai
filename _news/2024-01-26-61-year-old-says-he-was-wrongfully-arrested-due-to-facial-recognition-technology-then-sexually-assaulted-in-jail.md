@@ -7,7 +7,7 @@ originalUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-sa
 webUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-says-he-was-wrongfully-arrested-due-to-facial-recognition-technology-then-sexually-assaulted-in-jail/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Texas grandfather was wrongly ID'd as Sunglass Hut robber by facial recognition technology and GANG-RAPED after being jailed for crime that took place while he was in ..."
-    excerpt: "Using artificial intelligence and facial recognition software, EssilorLuxottica and Macy’s took the video from the robbery and determined that Murphy was the robber,' the lawsuit states. 'The video was recorded by Kimco’s poor low-quality cameras.'"
-    publishedDateTime: 2024-01-25T21:51:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-13007297/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13007297/amp/texas-man-sues-sunglass-hut-facial-recognition-wrongly-identified.html"
+  - title: "Let Facial Recognition Wrongful Arrest Trial Proceed, ACLU Urges"
+    excerpt: "The New Jersey police department a man sued after a faulty facial recognition match led to his wrongful arrest shouldn’t be allowed to avoid a trial in the case, the American Civil Liberties Union told a federal court in a brief Monday."
+    publishedDateTime: 2024-01-29T23:51:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/let-facial-recognition-wrongful-arrest-trial-proceed-aclu-urges"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 24
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
     images:
-      - url: "https://i.dailymail.co.uk/1s/2024/01/25/21/80479585-0-image-a-54_1706218867911.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
-    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
-    publishedDateTime: 2024-01-26T17:11:00Z
-    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 16
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/02f3d53/2147483647/crop/7888x3040%2B27%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg"
+        width: 1920
+        height: 740
         isCached: true
 
 secured: "PFfHWlXW4tvZhhCrg+i/GMOCbcZdPGdUn/kcaqQwJ71qnTGA8f5HWp1C2Opqi4ZoBYhJXxhRe95Lkh/CGDrI0x6UAjzTNh7iWwhHZdduTGDwHyK+jE4n8Sps4EgzpegmoePmccM6/X0ytfvaT5dH5ROFavJt9gXCxqGn3ey9Wndg9BJh4uEG9sfmGX33mbuemcEYGhHQo91zWefMa06J9X8b5g6DT8kfxoNQo/zeBp1lk+ncgkrqEOmtk0xu1af+szC9QSKMDtlsXcDQbkCFszofNd5faxKzIIuivfdwMqFbimPw2SI3zjv7GOg0O/SDJbMOz8bofay5I9troQeOX17Fc6TCrfylS4PrlckKZg/iFKcAOOwFhfUXqVRGD7xr/n47J5A7RDXfRehuSoz2sb56k+wRVBWij/Boj7TpO7PwrNGffm9q7lDzicY83vRWGqAiEAJeYgLXkZrNJ5nNaYQohWzkxJJVkoLNGAbx+qDOlrg4ynEGphV/noHC5CPe7pkRtLX7qbClp5c7dzbHEg==;LLkuBya/39kYVR9b9dymcg=="

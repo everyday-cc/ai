@@ -39,20 +39,6 @@ related:
         width: 3500
         height: 2279
         isCached: true
-  - title: "NSF Forms AI Resource Pilot Program With Microsoft, OpenAI and Others"
-    excerpt: "Microsoft, NVIDIA, OpenAI and Google are among the organizations partnering with NSF and NAIRR. Applications for access and partnership are now open."
-    publishedDateTime: 2024-01-25T20:41:00Z
-    webUrl: "https://www.techrepublic.com/article/nsf-launches-nairr/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 88
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/01/ai-research-hero-jan-24.jpeg"
-        width: 1400
-        height: 786
-        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z

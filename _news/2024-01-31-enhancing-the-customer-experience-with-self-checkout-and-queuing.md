@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T20:01:00Z
 originalUrl: "https://www.cspdailynews.com/snacks-candy/enhancing-customer-experience-self-checkout-queuing"
 webUrl: "https://www.cspdailynews.com/snacks-candy/enhancing-customer-experience-self-checkout-queuing"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Convenience Store News

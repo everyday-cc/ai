@@ -6,6 +6,9 @@ publishedDateTime: 2024-01-30T17:01:00Z
 originalUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
 webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Business Journals
