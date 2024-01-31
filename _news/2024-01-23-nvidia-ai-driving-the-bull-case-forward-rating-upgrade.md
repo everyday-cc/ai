@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.gettyimages.com/id/1730512586/photo/the-logo-of-nvidia-is-seen-during-the-hon-hai-tech-day-in-taipei-on-october-18-2023.jpg?b=1&s=594x594&w=0&k=20&c=euQbL59kd03W1e09HfVxCMei1WIaMFeJvmoNY7Az7Fc="

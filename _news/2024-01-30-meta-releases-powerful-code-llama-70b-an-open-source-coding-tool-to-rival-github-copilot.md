@@ -115,6 +115,20 @@ related:
         width: 770
         height: 435
         isCached: true
+  - title: "Meta releases enormously powerful Code Llama 70B model for writing software"
+    excerpt: "Meta Platforms Inc. has announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
+    publishedDateTime: 2024-01-30T01:23:00Z
+    webUrl: "https://siliconangle.com/2024/01/29/meta-releases-enormously-powerful-code-llama-70b-model-writing-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
+        width: 2400
+        height: 1260
+        isCached: true
 
 secured: "MLEt3NENu2Xl6vwRnDbfS6jp8QZDXQXXNNU/DZfPyv+UTwSnGHSxLKVwaifS2QcXlsATGFZT0gcFQchaPDVcQPvc4Qamlfl8SXpxU+IOCO+RfPDRPHFD3mAihXxvgRyoVbc68r9+/ho/888LR742XMkOF4GM7bZEYHo6Q8nwIkOTCqSlWGf71aj7RD3sQfBskaKQyW64NzVAf/XQSHEtm+6l1DPgEV6bR98ugUcCVIAy/NPT/+tEIJAzr9VLIBJ16pyOJNQDi+vA7mP1KrXQ3MFsDVOkvNQGtDQLS/rNVXQZTfm80NE9EqIriv9tLJry06/G+RJD6Px9QKRXno5ImUA/z6LW7V7gFpAUdcDhL6oOdMYBWv/HchSAe7r9IDlcqT+TtWtuWxB07Xc81vZ9VCULLCA9IbN/7SGHTq/p4kDkiLdRPsU+DGgrB54ZAwHg8p4yEzWWJmOrKSGfl9Z/76popuQRayet29JQd4ygMfBT6e7miT+5gtOUZfP6IMOIjpBtX1ZBSN2vTFefZqyAIg==;JF+ZMgutLE5b0frG+dpyOQ=="
 ---

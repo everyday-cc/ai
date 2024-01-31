@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2024 Expectations: What fintech and digital lending industry expects this year?"
-    excerpt: "The thriving fintech and digital lending industry in India, encompassing the gold loan sector, delivers innovative and accessible credit solutions to millions in rural and underserved areas through digital platforms and technologies."
-    publishedDateTime: 2024-01-26T04:55:00Z
-    webUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024-11706181720832.html"
-    ampWebUrl: "https://www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/money/personal-finance/budget-2024-expectations-fintech-digital-lending-industry-gold-loan-sector-interim-budget-2024/amp-11706181720832.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 36
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/25/1600x900/jason-briscoe-amLfrL8LGls-unsplash_1706184277887_1706184290565.jpg"
-        width: 1373
-        height: 900
-        isCached: true
   - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
     excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
     publishedDateTime: 2024-01-29T09:33:00Z

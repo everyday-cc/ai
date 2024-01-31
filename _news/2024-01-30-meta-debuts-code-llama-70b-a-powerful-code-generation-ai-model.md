@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
         width: 770
         height: 435
+        isCached: true
+  - title: "Meta releases enormously powerful Code Llama 70B model for writing software"
+    excerpt: "Meta Platforms Inc. has announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
+    publishedDateTime: 2024-01-30T01:23:00Z
+    webUrl: "https://siliconangle.com/2024/01/29/meta-releases-enormously-powerful-code-llama-70b-model-writing-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
+        width: 2400
+        height: 1260
         isCached: true
 
 secured: "MmGVfKDHywwxy7uSBKj/xwMj4stT6yaEFMAZigx/RTASFRTYINzMUkBt9qa3SWNlFfj19TUnvhFpZQwahO+bzdI2wnrrpAJPreRx34WCHp47ZVPTK7xmsgiff7j/ZqvAtKZD3tn5RBpXXzVcMHVmjaNKpCVD12xddvSas4E84lifmZ/ML7HUZxcsCw+/o8qKSA40R1RlitcWI1sTkjnnGPEokXopBwn2UzqLQ4VycBjB8W1yAXpdgHnmbZvBl9OpHWpBe6p4jsgBqx340BMlBnEmZ70K9+O/QUtCH8d5xDhltTol2a2l7royHAXBzBZDh3dkAzjRB7S03N0GRoTEmqBVNsTro7fTkQ14CmrG4oc=;syeLbsZNKUPBbCjwZdBKtA=="

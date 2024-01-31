@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -24,38 +24,52 @@ topics:
   - AI in Security
 
 related:
-  - title: "AI in 2024: Riding the next wave of transformation"
-    excerpt: "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ..."
-    publishedDateTime: 2024-01-26T06:39:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
+  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
+    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
+    publishedDateTime: 2024-01-30T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: Microsoft
+      domain: microsoft.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
-    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
-    publishedDateTime: 2024-01-30T22:55:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+  - title: "Generative AI startup taps 3 health system execs"
+    excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
+    publishedDateTime: 2024-01-30T18:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-startup-taps-3-health-system-execs.html"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
-    quality: 46
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
+  - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
+    excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
+    publishedDateTime: 2024-01-30T12:26:00Z
+    webUrl: "https://www.aol.com/finance/language-dies-every-2-weeks-172634105.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 3
 
 secured: "swzsQytHecjbi+5WEhpkZWMcUxo2CxJVQaXI+5kw9Ub+H70ZEA3ibBZlkjuGTgJm3IGR3LL5hlkNXBE10d30meddLSEEkhCz48HtyNfSL/aXA/aCLGG9P6RzkFAJNmWDXKOLrzISWilrQ/CSDgpKZCo/D1ejew/Jp8e+73Ui24hf3OD6iv0Xyd6XkdlJlMNaVHGWgNvJsDshV/h2uC6wdto/hWg45th8auJRvGRRqqSH9I+Ezbidk82MiYv13ujZy6ybWrwwnU9PDYsMeMUvR3mUV1ZVeqXEe/3+cgkWj2EfslLvMrKHrTPa4ndWki5C4GiyHelsHCq94H4o2ROqqo0sG+WxdATDs6kdZmAIbk8=;i+9CX5D0raiN2tfEL9QMVA=="
 ---

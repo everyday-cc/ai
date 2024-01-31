@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: The Financial Express
@@ -27,31 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "Architect defense-in-depth security for generative AI applications using the OWASP Top 10 for LLMs"
-    excerpt: "This post provides three guided steps to architect risk management strategies while developing generative AI applications using LLMs. We first delve into the vulnerabilities, threats, and risks that arise from the implementation, deployment, and use of LLM solutions, and provide guidance on how to start"
-    publishedDateTime: 2024-01-26T20:37:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
+  - title: "Best Of BETT 2024: The Floor of BETT UK Has More AI and Robots Than Ever"
+    excerpt: "Lu Interactive offers an interactive learning display wall quite unlike any other on display here at BETT 2024. This features a projector, speakers and lights, but creates an interactive wall on any flat surface -- rather than floor-based interactions as have been traditionally the offering."
+    publishedDateTime: 2024-01-29T10:00:00Z
+    webUrl: "https://www.techlearning.com/news/best-of-bett-2024-the-floor-of-bett-uk-has-more-ai-and-robots-than-ever"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
-    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
-    publishedDateTime: 2024-01-30T22:55:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 46
+      name: techlearning
+      domain: techlearning.com
+    quality: 53
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.mos.cms.futurecdn.net/JLXPLZsgoDC649ukCXooKb-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "AI’s path in 2024: Another year of growth instead of monetization"
+    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
+    publishedDateTime: 2024-01-29T16:44:00Z
+    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
+        width: 1200
+        height: 806
+        isCached: true
+  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
+    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
+    publishedDateTime: 2024-01-31T00:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 35
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats"
+    excerpt: "From spam filters to spear phishing, AI is both defender and weapon. Learn how Cylance AI is staying ahead of the game,"
+    publishedDateTime: 2024-01-29T11:11:00Z
+    webUrl: "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"
+    type: article
+    provider:
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 29
+  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
+    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
+    publishedDateTime: 2024-01-29T20:24:00Z
+    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 4
 
 secured: "LMnDogy+YFNsaJDQ7GTw8rAHzM5Bom0+/FziC1gMDYIXszKm0Vne4V6vCFDI1MwGYAMQSWGBy6MYhUDJ/4WrHIKSOL/tYgIwGbjNzLsAUhZN3OCop7Ooj12ww4Qi+R1EHn8B011twU6iWfn0ebd79z+/Vq3+lbhx10B6EFXGs0KkGFz5rIyTzNVI3J8sFi42y/PVfvErLFNj1yOe3lPph0nqC79xD0ZPR0RSbLdp4JLtfyDtwlAfkiNt5jax+Ueu0+GPkTLlQxtBwsR4iKWjoj+VD3Yl3+3ate2cEm5bZN5hAbtOLvLPeaq87reEa1VqB3WUa3HgdHPSlUHpsDAT0BcgDMC4w6ZFnAqPH3y3zCU=;VcszXB1V3uhkE1kDlzs30Q=="
 ---

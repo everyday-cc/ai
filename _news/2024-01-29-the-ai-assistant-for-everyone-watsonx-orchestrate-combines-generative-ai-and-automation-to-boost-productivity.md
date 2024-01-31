@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orc
 webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
 type: article
 quality: 114
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-31T02:31:00Z
-    webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
   - title: "AI is for everyone: Prompts to help you with work, life, school and love"
     excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
     publishedDateTime: 2024-01-28T05:45:00Z

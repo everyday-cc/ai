@@ -82,15 +82,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
     publishedDateTime: 2024-01-26T09:33:00Z

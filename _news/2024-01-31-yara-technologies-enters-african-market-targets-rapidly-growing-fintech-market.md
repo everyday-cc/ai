@@ -49,6 +49,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Twitter co-founder’s fintech company is laying off a “large number” of employees"
+    excerpt: "Block, a fintech corporation headed by Twitter co-founder Jack Dorsey that has several subsidiaries including Square, Cash App, and Afterpay, is laying off employees in “large numbers”."
+    publishedDateTime: 2024-01-31T03:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/twitter-co-founders-fintech-company-is-laying-off-a-large-number-of-employees/articleshow/107278056.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/twitter-co-founders-fintech-company-is-laying-off-a-large-number-of-employees/amp_articleshow/107278056.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/twitter-co-founders-fintech-company-is-laying-off-a-large-number-of-employees/amp_articleshow/107278056.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107278054,width-1280,height-720,resizemode-4/107278054.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Chief Financial Officer's Role In The Fintech Evolution"
     excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
     publishedDateTime: 2024-01-29T13:00:00Z

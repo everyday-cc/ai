@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-h
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
 type: article
 quality: 74
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -27,63 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
+  - title: "Elevate Azure expertise with new AI and optimization video episodes"
+    excerpt: "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps"
+    publishedDateTime: 2024-01-30T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png"
+        width: 1260
+        height: 708
         isCached: true
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
+  - title: "Application of Gen AI in Banks and \"Fintech\""
+    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
+    publishedDateTime: 2024-01-30T05:28:00Z
+    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
+      name: Kompas
+      domain: kompas.id
+    quality: 54
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
+      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
-    excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
-    publishedDateTime: 2024-01-30T20:21:00Z
-    webUrl: "https://www.jhuapl.edu/news/news-releases/240130b-ai-improves-air-quality-forecasting"
+  - title: "AI and healthcare communication"
+    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
+    publishedDateTime: 2024-01-28T02:26:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
     type: article
     provider:
-      name: jhuapl
-      domain: jhuapl.edu
-    quality: 30
-  - title: "AI companies face growing competition, slower technology gains"
-    excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-ai-companies-face-growing-competition-slower-technology-gains/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
-  - title: "Virtual Incision's Miniaturized Surgical Robot En Route to the International Space Station for Testing of Long-Range Remote Capabilities"
-    excerpt: "Testing with spaceMIRA on the International Space Station will assess the impact of zero gravity when performing simulated surgical tasks. During a portion of the experiment, a surgeon operator at Virtual Incision's headquarters in Lincoln, Nebraska will utilize remote-controlled technology to direct the movements of the robot."
-    publishedDateTime: 2024-01-30T17:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 36
 
 secured: "7Zoh5Z+GXNCKMDAwvFhqtCaq8IUE032cxR/T47gzKLMd+8xKWTczk3yT54aRbNQrxnDKDiFdrwnBkydxYdadm2Z82ZXq0Z4TqeJdXIZItBuklmeQuGTqc9hOPFIQW/HkRbfFhqnY1z86plq4ehuDvcp1GQWVHwv3Krf4QMiX3cLjafManeTw/+lqVpcJ6MGKdrTmalJLogGwGGN7FD0kvRUbpPylxhivql45ZTTFlZiIO6LW2oCvfAHbgfH+wLjpStrDPuMaeiNlxOhjVomIpiDGhNQa8VAaBSD3k8FsbTFcYSlfC9WhTKcaevc7DTrJ0X6IK6RR6C3Xj1KMr875mEamJ5zCn20BdSUC+NvHyQM=;M50f/YIQI9UT96gLDso+rQ=="
 ---

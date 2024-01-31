@@ -76,15 +76,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z

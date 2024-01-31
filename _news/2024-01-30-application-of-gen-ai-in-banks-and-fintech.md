@@ -7,7 +7,7 @@ originalUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-
 webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
 type: article
 quality: 54
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "AI, sustainability and enterprise tech marketing take center stage at CES 2024"
-    excerpt: "At CES 2024, we witnessed a wide range of innovative applications in AI, sustainability and enterprise tech marketing. What was considered a new innovation just four years ago at CES 2020 is now more advanced and mainstream. We are seeing an increase in the promotion of AI in its various forms."
-    publishedDateTime: 2024-01-30T03:30:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/ai-sustainability-enterprise-tech-marketing-take-center-stage-ces-2024/"
+  - title: "Elevate Azure expertise with new AI and optimization video episodes"
+    excerpt: "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps"
+    publishedDateTime: 2024-01-30T17:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
+      name: Microsoft
+      domain: microsoft.com
+    quality: 104
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/AI-Sustain-AdobeStock_581983652.jpeg"
-        width: 5000
-        height: 3333
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png"
+        width: 1260
+        height: 708
         isCached: true
+  - title: "Conversational marketing - combining the power of AI with humans"
+    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
+    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 74
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
+        width: 640
+        height: 390
+        isCached: true
+  - title: "AI and healthcare communication"
+    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
+    publishedDateTime: 2024-01-28T02:26:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 36
 
 secured: "JANmdx5F4zqaOuKYeWuUhj8ZSdwqZOp9v+KcjVGY/emq03fRA+fYWmbRvoWhLAGATyG1qrZGr9yK8t74hNDeBc0h8HetLDCbf/YgXBL+wFOeiMsr2N1fqYEjCbCWxIzVNgvGuyd2OMZ3t4k5zCPnNnFNof0ELFs7qHnFRdIVSMmmtiCA/ADuPs+Y9NnyJBKkzCGbTDWIxs1Oyq1y46bHIRsZM75QKEjg9kK/YPetUogazL8mNJCCJl5ZOtVqn6Gj3S7KIpSgWNI2S6toKbJPPaw3uptZyZodlL212AsoaJhISV416IKDUpEUukhkMmE1JcatKiXvjyhWz2V6uz2aMb5slktUhfni9Zz9i1LudcJzw+X7j19sTiQbv/PyPukurk9pKW4nGbyr085bXm4EEE3QKipIYbjY2dSzK3PFV1jogf8Ka82p7+0tFnorN/mr3wdTvCjgf0zirHXJ9GNwk4pP9h+mo2r/FHkUyDcJ5MqO8+Y/PE38d41+BehPl4iszFU4en5aG4t6Uq+EbaifmA==;6qat1aQU2dRuiQAVtwdhgQ=="
 ---

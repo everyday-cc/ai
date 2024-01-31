@@ -192,6 +192,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-30-robot-trained-to-read-braille-at-twice-the-speed-of-humans.md",
+      "title": "Robot trained to read braille at twice the speed of humans",
+      "excerpt": "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240129122413.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122413.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T20:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-southampton-trials-facial-recognition-cameras-in-pubs-and-clubs.md",
       "title": "Southampton trials facial recognition cameras in pubs and clubs",
       "excerpt": "Facial recognition cameras are being trialled to help stop those banned from pubs and clubs gaining access. The scheme, which is taking place in Southampton, is running for three months across six venues.",
@@ -478,6 +522,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-23-when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes.md",
+      "title": "When One Man Used Computer Vision To Reassemble Shredded Bank Notes",
+      "excerpt": "Clearly manual re-assembly is a challenging task. But now Chung Kong, a PhD student at Hong Kong University, has shown that computer vision can help reassemble shredded notes at least partially. Kong became intrigued after noticing that the Hong Kong ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
+      "originalUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7i570QQ4vqddhILtr7pm8w/359aedccf5cd48c71d78e57e1a2a0254/paper-shredding-currency.jpg",
+          "width": 1000,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
       "title": "Corydon: Five arrests after Met Police uses live facial recognition",
       "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
@@ -629,8 +717,8 @@
       "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
       "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
-      "originalUrl": "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
+      "webUrl": "https://tulsaworld.com/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
+      "originalUrl": "https://tulsaworld.com/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1248,101 +1336,6 @@
       "provider": {
         "name": "Local 12 WKRC Cincinnati",
         "domain": "local12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-this-smart-lock-can-recognize-your-face.md",
-      "title": "This smart lock can recognize your face",
-      "excerpt": "CES is where we get to see all those cool tech gadgets you see in movies become a reality, and with Lockly’s latest smart lock, facial recognition is finally coming to our front doors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/8/24025150/lockly-visage-facial-recognition-smart-lock-matter-home-key",
-      "originalUrl": "https://www.theverge.com/2024/1/8/24025150/lockly-visage-facial-recognition-smart-lock-matter-home-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/SzAn-PgeS_Tfx_crCA_k9qq3ZYY=/0x0:1044x1045/1200x628/filters:focal(522x523:523x524)/cdn.vox-cdn.com/uploads/chorus_asset/file/25203762/Lockly_Visage_Lifestyle.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai.md",
-      "title": "An Elevated Retail Advertising Experience With VSBLTY's Cutting-Edge Computer Vision AI",
-      "excerpt": "Jay Hutton, the CEO, President, and Director of VSBLTY Groupe Technologies Corp. (OTCQB:  VSBGF | CSE:  VSBY | Frankfurt  5VS), delves into the company's latest technological breakthroughs, the strategic acquisition of Shelf Nine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/08/vsblty_-_benzinga_featured_image.png?width=1200&height=800&fit=crop",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36533865",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36533865",
-      "publishedDateTime": "2024-01-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

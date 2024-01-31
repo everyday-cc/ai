@@ -62,15 +62,6 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
-  - title: "Nvidia and Equinix partner for AI data center infrastructure"
-    excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
 
 secured: "UcpL3Gpk/FmDHZQ9TlAHdHuF0bBrVKpK3W6aFzasiptvtGw8FtzZfZ8CRnSLPWLLShPl+5j/VIhqNO/qWDG+So0/tQz8qsmhn5RbiVLWz57/uGG8NZSEhh3FhCl+QzBhLOxWGkCRCGyKOcj68nrvisJ/NR+wfMLXhVdAHDRdzvAex5+hVM7wSGzEuLykYe1MxOwutWTmtMDyh5Eaq/v+qLJApwHtp35brIZOLONKsP68tG0WaEOxR44YCnaS5WoPAdK9y6eKlA9BvfYTxq3cG8zdEsxXfYF8rgeHhKi5kqeH03cfac74qTb27RispnGFdxXrh+/4u2TSX39AJsG0LYScFgMH4lXHYINgYCF5064=;+LhPkZI0oX0O7C/iigj2iA=="
 ---

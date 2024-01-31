@@ -50,22 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
-  - title: "Microsoft touts AI strength, but shares dip as market digests costs"
-    excerpt: "Microsoft beat market estimates for quarterly profit and revenue on Tuesday, as new artificial-intelligence features helped attract customers"
-    publishedDateTime: 2024-01-31T00:15:00Z
-    webUrl: "https://theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/"
-    ampWebUrl: "https://theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 74
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2024/01/Microsoft_553.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z
@@ -91,6 +75,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
+  - title: "AI stocks crash, companies lose $190 billion as Google, Microsoft, other tech companies reveal earnings"
+    excerpt: "Market cap and stock prices of various tech companies, especially those that are working with AI saw a crash on Tuesday, after several tech companies like Google, Microsoft and other tech companies re"
+    publishedDateTime: 2024-01-31T04:27:00Z
+    webUrl: "https://www.firstpost.com/tech/ai-stocks-crash-companies-lose-billions-as-google-microsoft-other-tech-companies-reveal-earnings-13672552.html"
+    ampWebUrl: "https://www.firstpost.com/tech/ai-stocks-crash-companies-lose-billions-as-google-microsoft-other-tech-companies-reveal-earnings-13672552.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/ai-stocks-crash-companies-lose-billions-as-google-microsoft-other-tech-companies-reveal-earnings-13672552.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 58
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/AI-stocks-crash-companies-lose-billions-as-Google-Microsoft-other-tech-companies-reveal-earnings.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Insight Enterprises inks new multi-year Microsoft Azure deal"
     excerpt: "The company has received 65 Microsoft partner of the year awards in the last decade, including 11 worldwide awards for AI, Azure migration, IoT and mobile app development, among others. One of the first partners to publish offers for Microsoft 365 Copilot ..."
     publishedDateTime: 2024-01-31T00:03:00Z
@@ -129,6 +129,17 @@ related:
     provider:
       name: FXEmpire.com
       domain: fxempire.com
+    quality: 54
+  - title: "Microsoft touts AI strength, but shares dip as market digests costs"
+    excerpt: "Azure AI customers, a third of whom were new to the service in the past 12 months, Nadella told analysts on a conference call"
+    publishedDateTime: 2024-01-31T02:27:00Z
+    webUrl: "https://www.business-standard.com/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
     quality: 54
   - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
     excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
@@ -177,6 +188,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "QZxnkNdLOGJalcVDm1SDp0M6UKoLHRmZnt3/7yGLR6da5drVuZN1kXlowZuYLS/YMEkkQsKodJ4phCL1x+u9vcj5jrFYx3c2lJgfBpVqAp+iW9N+DDgV2CECeE8jGfDttvLLnLU8sTlXp37pSaSekMVGyvnTX/xYgz1gLktv7RzvklyLvbMinzT165vPIy9a3YEUJousxJ3ZCqdH+dGNiHI6TJJTS+wp4Fq3eUAV/ktSA2+hAw710NvLIGAlMwbf3bwvBaCesNTN8WwKlgMuZcHQPexZ9yqQ3ZmCWOCSGZ5eDAwayVonZtzyXbb2bwrso4a//NUocTkao5ZIvt6LzYPBr71ZSmUFFARzLqynEGU=;pUuH7Few4NdhZjBSpqb7Bg=="
+secured: "r9MsZSJcNKzIUqTFuguZLCaxpYM00vHEw5wRmSMGnQ26HlrBnoba2X8d309CQBKNmtvfgtVIbXEB5dIhW+gpkskDJkaGjlRxmARTrBdrWWIUuEIn1XTGR84CWgr8LUagOsnbKbPd6vsRM+8e1hmR7xpAR1Y9MlK5zhndE0UOKDYSgM8XKatgJWXC//8RAJ/cagcsayPrfr0/nG0uBfJuMb5lSHvc1WbeHXZ5Ox04Kkt0+YMYiz+YGdIEgr2eh/K2tK0FNyTfBWQ16UcTKSAkCbKZcxDQVAiSph/XMlELd+DRgdWkjAXiIR4dpBgtlzoYN/umaYLdQVz+VvdwWiDI8fCP4hGhjFjk4NO8zBBVWVMXStujdXzBOiAvOlXfIn0U7xaEOsyuxHoopZke9WGl3Pl7nWPoO2I80a9DCPjIuAb6BOyBrUhbCKcjNKCFIFvVSW9zKhhOWvMN5Sz9P9t9lilO2KXQMXMG+3KDzzK/rvNiOKQkyYJEY7+7SxAycz7mYmRyV1iVvOWzuLjkgvhgkA==;gsDMPCDuDYtUaGvW3D4x5g=="
 ---
 

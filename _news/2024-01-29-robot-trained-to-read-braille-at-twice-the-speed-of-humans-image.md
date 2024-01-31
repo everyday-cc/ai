@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 64
+    quality: 66
   - title: "Robot trained to read braille at twice the speed of humans (VIDEO)"
     excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers. (Note: this video is at 2x speed) Disclaimer: AAAS and EurekAlert! are not responsible for ..."
     publishedDateTime: 2024-01-29T05:01:00Z

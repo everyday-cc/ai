@@ -1,100 +1,63 @@
 ---
 category: news
 title: "Washington state to develop guidelines for agencies using generative AI"
-excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
-publishedDateTime: 2024-01-31T02:31:00Z
-originalUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
-webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
+excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
+publishedDateTime: 2024-01-30T22:37:00Z
+originalUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: katu
+  domain: katu.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
+  - url: "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg"
+    width: 648
+    height: 364
     isCached: true
 
 related:
-  - title: "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity"
-    excerpt: "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-29T15:50:31Z
-    webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
+      name: PBS
+      domain: pbs.org
+    quality: 46
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg"
-        width: 2400
-        height: 1260
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "An Introduction To The Privacy And Legal Concerns Of Generative AI"
-    excerpt: "However, as this technological marvel gains momentum, it brings along a wave of multifaceted concerns, especially in the domains of education, ethics, privacy and legality. Generative AI, encapsulated in models like Bard, ChatGPT and DALL-E, embodies an ..."
-    publishedDateTime: 2024-01-29T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
+  - title: "Washington Healthcare Update - January 2024 #3"
+    excerpt: "Telemental Health Care Access Act Reintroduced On Jan. 24 ... ONC Final Rule Establishes Transparency Requirements for Artificial Intelligence and Predictive Algorithms On Dec. 13, the Department of Health and Human Services Office of the National ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/washington-healthcare-update-january-5495854/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 833
-        isCached: true
-  - title: "10 Mind-Blowing Generative AI Stats Everyone Should Know About"
-    excerpt: "Discover the staggering impact of generative AI, from 75% of professionals expecting significant industry changes to 70% of Gen Z trusting AI for decision-making."
-    publishedDateTime: 2024-01-29T06:11:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b74f6f409f6c7459d4254b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1512
-        height: 900
-        isCached: true
-  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
-    excerpt: "IBM watsonx is bringing generative AI to the music industry."
-    publishedDateTime: 2024-01-30T18:48:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
-    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-    publishedDateTime: 2024-01-28T05:45:00Z
-    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 38
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
-        width: 1600
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15934_0210.jpg"
+        width: 1200
         height: 900
         isCached: true
 
-secured: "bjEh6HysOInOFpOXWjIosRfSiRF0reT4FLOsjnD7prTcoWQA09uLtNaf5ANt5AhYxQ1y6GkuV4/AJQTBRKRT4lSGvq1veBztUsR+otNHVMpMmgoUg7xfwft8ObEGXlrrxGnhILfjQ6YyqAuZ/QF+nOW94swKQr77QHALgeOOI/K7ZJbP9uHwPH1lebiT22nqmU6KAZ8xoZaF8nqLIkep3yxqdPOXlHYpgqJ0p9fQPnHHa0kw86z74iq8SNDsNvFQ72z/R7HU0lpJDtVldd/Sx3vI+xu5DASlm7Jnl1wxoodZsat1aoAivestlvr77pQ3ZI2+9fdgWYgEEYqzSrmPIGoeP/WEXLxOHExElhWKbPI=;lLQo0CCZ+9N3zL/bZTt/gg=="
+secured: "4fcrKeI6jArg+x3EMO3J1GOvw2hVFjH1HO1Wg6Dzxi0mnd5R7Hm94L1PvvBiV3RkMRcXqlFqsp/AJbfvqrZrTn04/70PH/cd7KlzImuVCQcFo0FXheR4nySor9wMzT/SLy4nPAuzGXTTbiN7NumWxouonTjlJEFsINigrEtnZWySxUUh9MVBw0A3UuaHRF5qwXWI3xSkooYpq+ifjHNpeZ0QzMCPQ5v3sg7IOJV5FG5Z3TR9r7utMrCVlP8RzgA93MFVvhgSTcjKbTXeZH8gTs/D6Dn49vONXoZOqrg2Ixs1vsyhjRL+L+pFFzZFcjELDQCESaRl2rZxO8jEnToX2M0ECF58va1+dTWTs0fZGnc=;NQ+uoFjXcN2VjVTRJf17zg=="
 ---
 

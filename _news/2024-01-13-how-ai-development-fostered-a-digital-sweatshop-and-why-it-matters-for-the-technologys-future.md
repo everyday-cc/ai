@@ -3,8 +3,10 @@ category: news
 title: "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future"
 excerpt: "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training."
 publishedDateTime: 2024-01-13T07:52:00Z
-originalUrl: "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage"
-webUrl: "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future?module=top_story&pgtype=homepage"
+originalUrl: "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future"
+webUrl: "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future"
+ampWebUrl: "https://amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future"
 type: article
 
 provider:
@@ -25,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "2jHHL4uYs2H/iaNq3BWm57lwq1yJSblQyUlyGY2ho3DCtcsq4WuxWgZwYmZ93D9+dYzdE/fZ69DUKtKHFAkANxXxO25kgOvKxMevmw5ZLEB0HPc4bbkis1EDH38mAhql2javwRMebAsIk25p//oSClkeExEFNFkT2IUfrhhotQGT/IdTZrGGrUON0ZlwNSZxiUu5akPKOA9We4RR9abOyN1YDLhLiNUD8et84rkEeA9jKU/NyZil2pgHskTZxUaIxSu3D7Xz/rpqEU+3juKY5eaXZmox1oBWGUCdxIUZHOsQ2x+frMN/ztn/OFI8NoeXM1w4wyvi2Lf1H4Nnrdv4+OeGJu+RPkmb6b1uF7KW+ZD74fxjpXOuAo8EOgkLICIRhlCo/g90+nBlU76uuSNaTCP3Ft+B13QPKknkj19hEWOZ2p3CJ1PZkXaKhhIrMSKl6AKRJRv2Q85Aua4DfnbFw3+4O4DfdT9aWeL/GSQQseefdTP1q9T6jU5Tp5hBzI4qihMXGOF+foeSTo7SXxn7DA==;3DpBEU9Niqoku8yFJVTeOw=="
+secured: "gRUX7AfyXrKPp5Ecd0n9FlBzegIt1Gt7IztrCpr7DNMriqEK9JtXM35WL3Ar1Su+Z0ll0GR7VyHUvXDuzr/lFWVGbZL7vu+yQF0HHFyM2ApXQ6DCGI52M1/7EOe3U+mIBrrj1Mn3R27VPfzSWS4oMBOOViKwV6FMF0umi7xSwHZHh8SjJm8QRnVvi9ArfK+Sfi6gRCrm19qarsDnDsteZz4zqCf0t/O4giFSnseVQRFBuVPd07oGy7bUfCgJW8W/hbgNzDz9aQg3VK4j0Qn8YKo/BO303WrCZpwxwq7xCeA7nNcBlIn0pHVeBz/rRxDW7tWiOqcyw5sHrLrBuilquidaLg4SAEmEHeqjvX2BwxE=;Pu5bH0hoRg7TvbqUHg6exA=="
 ---
 

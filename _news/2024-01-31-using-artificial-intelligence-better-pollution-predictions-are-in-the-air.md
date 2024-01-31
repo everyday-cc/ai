@@ -18,70 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+  - title: "Browser alternatives Brave, Arc, add new AI integrations"
+    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
+    publishedDateTime: 2024-01-27T05:42:00Z
+    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
-        width: 640
-        height: 390
-        isCached: true
-  - title: "Explore the Future of Browsing with Google’s AI-Powered Chrome"
-    excerpt: "Google’s Chrome browser is using AI to improve the user experience. Instead of simply adding a Bard sidebar to the browser, Google is introducing features that use its models to make the browser more pleasant to use. These features are now available in ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/"
-    ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2024/01/chrome-AI-ftr-1200x675.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 672
         isCached: true
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "AI companies face growing competition, slower technology gains"
-    excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-ai-companies-face-growing-competition-slower-technology-gains/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
-  - title: "Virtual Incision's Miniaturized Surgical Robot En Route to the International Space Station for Testing of Long-Range Remote Capabilities"
-    excerpt: "Testing with spaceMIRA on the International Space Station will assess the impact of zero gravity when performing simulated surgical tasks. During a portion of the experiment, a surgeon operator at Virtual Incision's headquarters in Lincoln, Nebraska will utilize remote-controlled technology to direct the movements of the robot."
-    publishedDateTime: 2024-01-30T17:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954482.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "es6BFIVpfiZsaGYwq016sNACQ5ll0lGMzM5FZm8GbvrWhF/UZyzP/g/1WanHIrTA7UnO+oJKyR/Hd57pyDb5ze8x9X+MMncxX+zq241HVZPsS05vUbFqb/mpFWRdafobeSH+G/lYcAqUHyJzu25PyVQ6+VqYntXHUBUxDC4o/5xvhXYe0vK24xo88QT0sUSxNoKSRRd2xRS7qnkaO/JFNhhPLzEI/rHPyYgkBOunDkpOn/8oh5YzYD16K+f+LPSUuu0cFOqx/XAHvZKWUdEx98WveckwlP9ZSuJ8HV7XBDZk5Fs44iDt+C0mFU6M+0tPYlFs3X9Lr0PvQeDiTmwwtKAkK7TiyM9klPlfGiCRxzs=;+AD6liiLRLz1lKIPeaGyLw=="
 ---

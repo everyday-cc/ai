@@ -25,37 +25,92 @@ images:
     isCached: true
 
 related:
-  - title: "Industry leaders debate AI impact in Parliament"
-    excerpt: "Leaders from the fintech industry gathered in Parliament last night to discuss the challenges and opportunities of the increased use of Artificial Intelligence (AI) in businesses across the UK."
-    publishedDateTime: 2024-01-30T09:00:00Z
-    webUrl: "https://bmmagazine.co.uk/news/industry-leaders-debate-ai-impact-in-parliament/"
-    ampWebUrl: "https://bmmagazine.co.uk/news/industry-leaders-debate-ai-impact-in-parliament/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/industry-leaders-debate-ai-impact-in-parliament/?amp"
+  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
+    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
+    publishedDateTime: 2024-01-30T07:54:00Z
+    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
+    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 59
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2024/01/image001.jpg"
-        width: 753
-        height: 496
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
+        width: 600
+        height: 314
         isCached: true
-  - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
-    excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
-    publishedDateTime: 2024-01-26T16:08:00Z
-    webUrl: "https://www.csrwire.com/press_releases/793536-its-time-industry-leaders-start-using-ai-good-heres-how"
+  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
+    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
+    publishedDateTime: 2024-01-30T03:43:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
     type: article
     provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 54
     images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/hero2_MCCFIG_12324.jpg"
+      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
         width: 1200
-        height: 575
+        height: 630
         isCached: true
+  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
+    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
+    publishedDateTime: 2024-01-30T10:54:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 48
+    images:
+      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
+        width: 780
+        height: 520
+        isCached: true
+  - title: "Nvidia: Don't Chase AI Too Far"
+    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
+    publishedDateTime: 2024-01-29T00:59:00Z
+    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
+        isCached: true
+  - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
+    excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."
+    publishedDateTime: 2024-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2024/01/29/technology/ai-chips-nvidia-amazon-google-microsoft-meta.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 34
+  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
+    excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
+    publishedDateTime: 2024-01-27T20:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23645298/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
+  - title: "Singtel partners Nvidia under new direction to build new green AI-ready data centres"
+    excerpt: "SINGTEL will shut down five of its older data centres as it shifts its focus to building greener, artificial intelligence (AI) ready data centres under a new brand, Nxera, the telco announced on Wednesday (Jan 31)."
+    publishedDateTime: 2024-01-31T03:30:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/singtel-partners-nvidia-under-new-direction-build-new-green-ai-ready-data-centres"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 12
 
-secured: "ZHP9135xjChDgoAU2tklYZvY4b0r4Dqmdr+5NHAfVVsmOTaGEaPBxXeBWflJhxJxARFAM16zOenQ0p80ri5t1sNpl/pRG+GApSBfJ7v9YHBpz12pPEr4TwS33XCl+EojRdCaT17RzIHEHa7XR7mFzgLsxdBiRzLgKU92cMtVv1jfHLu+vNBlYAdDUNda+XdAbDxGXPxCHTLc32dkZXzH4C7ENZDh13c/c0tx9JWe98ZR4GD5/3hgGOrYPYTD3lnvSM81Or5JCx9p3JnV/KiC9S/2qVB8tZl4/vrE7SFaah2PyaW1vTBjjco5Hq+dU0geKm4jSWPg3XDHRk7WYKfbfF43L8lR003nEHI8336CJiE=;UoWxjdHuymHUmE40nkqtww=="
+secured: "9HcJPq4fX1KNIEjUYdrKtT8vLATXtvnUgKHuuU3VhKXq2eKPyGcn6wClmg6M+vJBuMK64wQE4bB32bhXHkYOg7qJ7/fjtpV+1dPnOVdhHk9h4kjxYOSISBqmThLiIYL/rFqWGMLtXC21m+Msa9gJniQTDEcqtgSf1KxacLu7Vn/GtxMmxP1TQKaSEWvO2wCoAO5SA/31kqB7/Cwl0ocWtJ4GS6SavBf8ir5UEiBsITKXU9WrJqFo4yXDx0VF15PKJmLtwGSiKRviaL8ZCPdRS3NU6AbehnLtB6UOLXRs8nx6/fgAsKFNmspnHU2juc9WghTtKmF9yyN9m0LeDtXCEaEvSkuV/C/pRu+RZMSnWTt1ryMXVQzmXdBqk9AC9qBAMur1v0v3AeLCEz1iZYSNHMPRC/AmI6pO28Ti1vle96dK7kBbxjrluIvzmLZEENp0QT2fm1XnDGtN0Jfcb3iyvFIlOn5noJWN/TvEnMbgXykTWdRzs9ZVaoyNinal9X8fvSI1IyUl0ol4ZrGPbOyXsw==;yGAU3HcQ5PmUDX1mXyNVFA=="
 ---
 

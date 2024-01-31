@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generati
 webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
 type: article
 quality: 99
-heat: 129
+heat: 130
 published: true
 
 provider:

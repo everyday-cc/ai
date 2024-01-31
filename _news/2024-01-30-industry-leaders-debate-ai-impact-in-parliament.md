@@ -9,8 +9,8 @@ ampWebUrl: "https://bmmagazine.co.uk/news/industry-leaders-debate-ai-impact-in-p
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/news/industry-leaders-debate-ai-impact-in-parliament/?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Matters
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia GTC to bring together renowned AI industry leaders"
-    excerpt: "Jensen Huang, Nvidia's founder and CEO, will make a keynote address at the forthcoming GPU Technology Conference (GTC) in mid-March 2024. Given its high level of sponsorship, the annual conference is expected to attract well-known AI leaders, according..."
-    publishedDateTime: 2024-01-31T00:00:00Z
-    webUrl: "https://www.digitimes.com/news/a20240130PD231/nvidia-gpu-conference-ai-tsmc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240130pd231_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "It’s Time for Industry Leaders To Start Using AI for Good; Here’s How"
     excerpt: "When it came time for 17-year-old Esther Egbe – an aspiring engineer living in Texas – to attend college, like millions of students, she needed financial aid to pay for it."
     publishedDateTime: 2024-01-26T16:08:00Z

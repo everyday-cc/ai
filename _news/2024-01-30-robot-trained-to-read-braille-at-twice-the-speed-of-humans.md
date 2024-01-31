@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-29T20:14:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 type: article
-quality: 64
-heat: 105
+quality: 66
+heat: 106
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 related:
   - title: "Robot trained to read braille at twice the speed of humans (IMAGE)"
