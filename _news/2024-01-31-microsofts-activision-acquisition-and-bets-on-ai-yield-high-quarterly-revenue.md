@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue"
 excerpt: "Tech giant now second business in history to reach a stock market valuation of $3tn, overtaking Apple as the world’s most valuable"
 publishedDateTime: 2024-01-30T21:53:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
 type: article
@@ -41,6 +41,6 @@ related:
       domain: stockhouse.com
     quality: 7
 
-secured: "ZGrqMerNmN4Qa4H8r1kZ/TuxkERORlg5Jb7KAHMOpp5HjR2DjXXPj3RB8UNaz2teiV5s2PpOfdD+lbAhwIN5qU7o6RIYsDCKAZq2zeJhpL1J44J8yCDvLX2mUMXMegpbQaBXluYgobolrxmdNTPTib6439a0TBfjG55rflto5CFcDVde3wFEKohfyKtyys6yY/5J19M43BWWipLz8wHuEKpqRlHt3K2L01x+5kUuM2XaN+sX88Yide4jNpTw57Z4UVHpt5nDqJ14SMEpBwZM+j4DNWU2o+HZaVlwB2kKy5TdXN5YgKggStUpKgbRDmsKi6HcajE4ED5gXBZLPzvD7u7WX5Z5+VKxe+o3XGdOK3M=;jIdAzPHXZBg7iw+XCQV1ow=="
+secured: "1Ev1RejGgd7lvvSWEMJZr1ybdb0UPWD8AuL/zLni7np66x+q26bRKetCP7MCL0be6n/8fZN6Br7E+xUHMQil0EsltGW7KhdAEpQ4TivqYDcMXC2Ot/EQ3eZHoA6+AYjZ6npwmOPmRd4MK6MS5IeQ2jAbOEEcRXgPUy962PGMPvqxqIiCP+ysilR23buIR2LVjiKmY4ajCWzzX4QB+1O8xSjQ7xPVBOdRxTbHs7Vh7jo4D2eDdYjCpr5AFh6SQCWc3wo6xZxGVSUbL7/80WSbL1L6ok8wqzylTvJv2Wz5OS5V3tU6M21tJ5cqgWHPZhwiiHhYz1TTcYccRtEUM/um+Mnp9BoWprDSByWdKEMuOOA=;xC8+Q9vRZdl4rp1ksOWkVg=="
 ---
 

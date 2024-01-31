@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
+    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
+    publishedDateTime: 2024-01-31T01:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
     excerpt: "How lawmakers hope to create a federal, baseline protection against AI abuse and uphold Americans' First Amendment rights online."
     publishedDateTime: 2024-01-29T23:47:00Z
@@ -70,6 +86,6 @@ related:
         height: 739
         isCached: true
 
-secured: "ML/1XFfqxCFWRHz6TtgSHOsT8K/aKBX6ZAcvjaCLE7K+KV2d7IqgNRYsScJ33dAwQrvvZzuG+U9ZOKJzMmsyAFHb+39d8dY9vBzprJmVErSnZJGPnwPd8+p10PPkXzDPCTDnNzooCw6qIq+sm/05OBNiN5Gx7ZzhC/ZZWLMtv4ZI2CJDlqw9O2NpReUrmaNNVhcumNmC1rajqeywLULi4amdS3rhXa2UlyGy866UTasoBOXXC5N9pWCADnnRVauqFtpPrJ/iYOjIQs+rcMm7VuSiXFhArHTBI5/H4ZWC7CPCm4iK/6VQZcy6Mey88eN7Cm3GDLoMh6g+vKQqWZ3g/fafSGkT8oiunf/ZxTjMP3M=;kWFghweY+1r2d0FiBUiJMg=="
+secured: "YF2PdfATQ2qNvHrD4NWHXSJxCveJ+zNwdgE+fOp972vxGwvWY7C9AdfCoy9LhN0ijXBzPy/khDDYgKid1eXNBLwvEipSDXAf7WFMWu0XodBXohBI8HWkdGHiHQxoO0RWe5uIiI7nz8w5x4Xy060nf+nrMVoRlORloyjNl/8Rzh6qngFXdPbEvD2C2v5SRYWJoqdCFH/WQrltx85ELbcEbRpPsYmZHnUjlpInYufdzsg1+j7kGmBg1JKGHveaqxcbD8T5OpJ1ElstZQDGoCzsE+1wgLF7pP/3nAeMhzwLi/m4vj+1o9gTtA3nDzMuowmcwuuJWF/grEiQ0WK6g3Xve2rnecyY+h6cYcVTcg81B1Ax8IT2OeW97qAuxMgqYGNNyG99yFJP9c6+fKylMXiwYMiliAZief3cEMRiQ3UE1D2ml8AuGotzua8EedKC+8LjkjmR1r16NxM1YFpuu1sK9zeS32vBzfwlYu5sjvw4gHYRz1JRaSHQ5hZluzo0arsSFbTHHQBpF0LHE72AbhGDGg==;KD5+GuF3lxE2ajBjw2+GBw=="
 ---
 

@@ -33,6 +33,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Kash Rangan Reaffirms Buy Rating on Microsoft, Citing Strong Q2 Performance and Azure Growth Prospects"
+    excerpt: "In a report released today, Kash Rangan from Goldman Sachs reiterated a Buy rating on Microsoft (MSFT – Research Report), with a price"
+    publishedDateTime: 2024-01-30T22:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kash-rangan-reaffirms-buy-rating-on-microsoft-citing-strong-q2-performance-and-azure-growth-prospects-1033012069"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
     excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
     publishedDateTime: 2024-01-29T17:50:00Z

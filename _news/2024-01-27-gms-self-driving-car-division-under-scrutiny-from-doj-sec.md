@@ -32,20 +32,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 17
-  - title: "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident"
-    excerpt: "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,"
-    publishedDateTime: 2024-01-26T01:14:00Z
-    webUrl: "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/"
-    type: article
-    provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 8
-    images:
-      - url: "https://ktvz.b-cdn.net/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHJ0dHJ0Z2gwMDAwM2I2aGVwNmIyNjFz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscnRudXlhdTAwMHMyNnAxZmdsbjhzdHo-scaled.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "L+Thq/bUreOiH0ELdDRLsKUbLWGfxCWiJ6W9V1x/8Ac5QFm4ImyB1ouMdWNCQ4Pu4f5bmX9AqIl3MpM4U/g5rfpUYTOyk8K55UQw9SOtK61xv+sctCf8EMHqkOYAk3nwfGvLCSAwoCHjFBXvBz3Uwlu51sYqK5NOb+uM5iPIYH5mJOwSC3YsOyFib48hSsE+Kr/nU2J6KZQ4rf1rDZNxaNt9p4JBbBy30bilh5s1WBGn1XixHg9/j9lHmmUH6oJw9WUxVlPlQJn7RQ+Xa+qTquZObCYcRYp7BqwU+X1H5QGw/19DNerB9PflUAM5NP8sziX5X0s080GqVeBv5JnNHL6B7RjkRMrEyVi7hyf5zNs=;r1Pu7C+6ND5E7BtijLdvyQ=="
 ---

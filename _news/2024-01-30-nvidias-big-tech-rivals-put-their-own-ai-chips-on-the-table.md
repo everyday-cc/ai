@@ -71,6 +71,20 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "NVIDIA rumored to switch to Intel for advanced packaging for next-gen AI GPUs, away from TSMC"
+    excerpt: "NVIDIA has reportedly moved to Intel for advanced packaging of its next-gen AI GPUs to stop shortages, the company is bottlenecked by TSMC's CoWoS tech."
+    publishedDateTime: 2024-01-31T02:46:00Z
+    webUrl: "https://www.tweaktown.com/news/95923/nvidia-rumored-to-switch-intel-for-advanced-packaging-next-gen-ai-gpus-away-from-tsmc/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 43
+    images:
+      - url: "https://static.tweaktown.com/news/9/5/95923_07_nvidia-rumored-to-switch-intel-for-advanced-packaging-next-gen-ai-gpus-away-from-tsmc_full.png"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "Q08v74Uy1y2wM+G/aXNHtNouP7R7hZX0MYRkB+Ur7roDYUwE9jOIccMVwOaa87093XuEzJ8VcKVI8u8QIA0lnIkeJTADaECL89ec33c4vwlRGhNIitWyMwgboCeAgHhBR+5FUnmtMjZIjfLXFntal7pi//kctztQwp5pyeQNqe3aH9+Tnaq26UgO6agvn0p7MiqAlmhU/RajGZqCQsxM3AO8ajgxJxo1zK1jaxPYNEuAih564X5eGj6zuWpG6iPYXoxAZkzLUTlGctdXNK13YUpUUiA/tlRmh0UAxyQ701Q//reKKgMFrNG8gEeNPE+1h0k5mqWpudx4kn2d1Yub+Uaa6TkiOfXARdxNCJ15004=;Ii/5dtRXRw8DV9+H0GgppA=="
 ---

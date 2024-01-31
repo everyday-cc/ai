@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-30T11:50:00Z
 originalUrl: "https://bgr.com/tech/apple-reportedly-sold-200000-vision-pro-units-so-far-is-that-good/"
 webUrl: "https://bgr.com/tech/apple-reportedly-sold-200000-vision-pro-units-so-far-is-that-good/"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "mXv2bMntm58F6tzwuSg6qrzLUy76nDotNla8E0BW3TfdYwPAXtNJT4ZLytJZ47R1WUjIrYkFs25tRpeCbobPBBwdEUNczf6mF0wmN1yLtGCd6B31dOVHWvV0ePtmflFDQzGzTQn7kzHcDzx5tvvWtQE8HhfdowmRtU0S4Ve9oqkT+EAdKo4QGTK3KJxlH//NngXyh6Vo8lr5xqp1OlFCq4kMVlRtC68FIZYLgzBuEiZF5rRUsE9IW67ryeu0idIksvByl/5FtSrmYB2kSxNN1epSgxVF3iTrDjdS992xg1qzOD4e5SBDlakhqORZndwThJe+h2pRkwqKDVAEXv6cuOVnmdrz1P4uhsupV69Js84=;kfsWgzjkQMIfuQbikgviUQ=="
+images:
+  - url: "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all"
+    width: 1599
+    height: 1066
+    isCached: true
+
+secured: "Ezy5AZAKklkzAgYqau2tGUIfUe7EfMESl0v6+X8HqDKM3qpaHtR6yQ21KIsPYwH70bwW4kwEqVqSj1ZARr3mmzUEuJJfR0YDGc8965TzJqrw+EG1Zlmfst+rBK2oGlQCScBsi2UHJ6ecPsgoqJcxpsBdTIrzq27DDt9VOXhopw+DuxxvU1eCyyyuce6TnOn3IpGCRaNntiauHWhLFMLMtMMfTBKSd79NL+DoVII3Wgjg79pl9qb5fIR8d2MsX4V0FaLuJamzL3mO5EyUpepHIdzFT6Ora8hy+NmJEUS8/UxDuQEmvZoGMPIQ/DXFfaTB3YkX19KrHV5O5yfHPqMy2GxuJL0M6PiobbOHm9ZF8eo=;RIHHZE8ZW1BTBjxsT4xxvw=="
 ---
 

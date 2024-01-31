@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
+    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
+    publishedDateTime: 2024-01-31T01:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3"
+        width: 620
+        height: 372
+        isCached: true
   - title: "How Taylor Swift’s Experience With ‘Deepfakes’ Can Help Students Examine AI Ethics"
     excerpt: "Bordeaux, 17, has studied artificial intelligence in her journalism and yearbook class at Dawson County High School in Dawsonville, Ga., so she knew immediately that she was looking at “deepfakes”—AI-manipulated video, audio, or photos created using someone’s voice or likeness without their permission."
     publishedDateTime: 2024-01-30T22:11:00Z

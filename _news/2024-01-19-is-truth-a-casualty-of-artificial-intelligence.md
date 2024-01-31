@@ -2,9 +2,11 @@
 category: news
 title: "Is Truth a Casualty of Artificial Intelligence?"
 excerpt: "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ..."
-publishedDateTime: 2024-01-18T22:27:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+publishedDateTime: 2024-01-18T22:36:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "6W/5kQ9UyUpkgAq6+O18WoRWKClFUWocQYA5xI6uNv/Odt1snjoHo4uQ9hTtPRFUuPIZPTAMaMgVQySQ5IQZHbxACgM7AEJnrt4bCBDyswmstTaD35g/5Z2mkw2qsi8wovjs/xT2vuWViMkLtLcazBCSiXDJ5G1FjFj0IJNcZO9q/k50k1d/4b+tmPGGJSvLwR1JcMz6MHNwtpi2uxoLHXG9NTQZtVrpCGGuNU1DY8upr5xZgJQ/rJgR+mfuraR7pXsO+P/b7qdo6tXnAcumh16cKMAGnB3DudSBkPk4ilYb78UVzmyqZGx3XL3/Rw0D/hSSPPVduOHjrNxv3G6fhFHkrFx0iEBWrZQkQ4Mb2pcyHeCX3VSEFoffBjQTJwyFRSk4iXZkm+6yHRvdSm0kxGj1ew5ohcNbz/c5SJUTHcU/CzwBRDYiD4BKdcvjT3xRob4VJgVDYcDDKObP1wseMyaE3rXsI75RqZZok5mDxO2TEgtN2dU/2jH/rVTx7P4o4sZLDzV7DvEeSOrliq2GrQ==;ZvCkuLoetmkp3bD56to1Fg=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS"
+    width: 1528
+    height: 800
+    isCached: true
+
+secured: "K8Q3+9sdVlOHsfouEtua7o5TKT2+4tyzeWgYraVzty837KcLB5Q08icR5nW+LyOW6YkVDUIf60rdjkBjhO0jUU1UIpI8bZ2rNzzibzfjNQekJ2VGUg2tmn2kKq3n6C5wWnCQ1lB2H9uSisJy4a0RakFEWlI4bw870cVkVC88G94u1iC0JY9PHZAOsfFwJ+nb0exfz70U52/ywnrAwhhuWJc0kZ1+c50MWyU5dIjTtu6rKeiFR8dtG+ruGggzbrrCtjjN2baA96/EWjb4MgV7JqgfF9pJXTJm9w3GdX/OswlDU65whKFJNhRY0sc1JVguxawpDNmnm+u9bQejpw2mOrOgg7qz/LGipjblVbFLMK0=;3dhNNWaPj8hf+69LqCqP6w=="
 ---
 

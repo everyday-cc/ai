@@ -70,6 +70,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Cutting-edge projects driving robotics, according to Bill Gates"
+    excerpt: "The billionaire and co-founder of Microsoft is most enthusiastic about building machines that mimic the function of the human body."
+    publishedDateTime: 2024-01-31T02:00:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2024/01/31/cutting-edge-projects-driving-robotics-according-to-bill-gates/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "ll7vU5ZQXtwhojZLDFQpxpK0I27snvMYJ5rvF5yKaL/AdjonAqIWqWdFshwsqBjK61ZbpfzqkiJcs91qgbRYK5ztU4v2hcI9xEIA4Vk1Rwg1DT18PaWPl19n64PSFfuFI3QtmPEbxe5nKZNvRuaQA3U6hUBRCQeefO6qOFNF+UvR5e86XjUybnBZWYlTx+4ArEDqdHVdxODiwZtRI1StyH90kqXXmxnqPhzHMQ5tloKBy12mxx6PDYlaYsXcC8d/rawtKniS4DQGWqbpYIVLJJhdVTat08y8/emh0NYLra/9ixC9q8UwiB3QSesaai3jMOrsv8rTY/8GGq95jCErTK0XqANfkycHA+UgLZgQhuQ=;iCdghr5I4Ze6o1ogO7W2xQ=="
 ---

@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Kash Rangan Reaffirms Buy Rating on Microsoft, Citing Strong Q2 Performance and Azure Growth Prospects"
+    excerpt: "In a report released today, Kash Rangan from Goldman Sachs reiterated a Buy rating on Microsoft (MSFT – Research Report), with a price"
+    publishedDateTime: 2024-01-30T22:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kash-rangan-reaffirms-buy-rating-on-microsoft-citing-strong-q2-performance-and-azure-growth-prospects-1033012069"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
     excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
     publishedDateTime: 2024-01-26T11:41:00Z

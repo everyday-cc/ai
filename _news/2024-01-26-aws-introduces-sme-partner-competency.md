@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS takes aim at SMBs with new competency"
-    excerpt: "AWS SMB competency partners can deliver solutions and offerings across the full spectrum of SMB needs including platform solutions such as migration and modernisation, security, data storage, disaster recovery, and artificial intelligence/machine learning."
-    publishedDateTime: 2024-01-26T02:33:00Z
-    webUrl: "https://www.reseller.co.nz/article/709965/aws-takes-aim-smbs-new-competency/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/aws_dreamstime_12.jpg"
-        width: 505
-        height: 315
-        isCached: true
   - title: "AWS launches SMB competency"
     excerpt: "AWS is addressing the needs of Small & Medium Businesses (SMB) through launching its first go-to-market specialisation designed for partners that deliver to SMB customers. This competency was created to address the needs of SMB customers, as they require ..."
     publishedDateTime: 2024-01-29T00:00:00Z

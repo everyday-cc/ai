@@ -105,6 +105,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft says AI is getting deployed 'at scale'"
+    excerpt: "Microsoft sales accelerated in the final months of 2023, lifted by demand for its artificial intelligence tools. The company said revenue in September to December rose 18% year-on-year to more than $60bn."
+    publishedDateTime: 2024-01-30T21:56:00Z
+    webUrl: "https://www.aol.com/news/microsoft-says-ai-getting-deployed-225611893.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/11a199d7b8ebd90a0341baf5d4de221e"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Microsoft Surpasses Expectations, Fueled by Azure’s Accelerated Growth"
     excerpt: "Microsoft's Q2 earnings hit $2.93/share, beating $2.78 estimates with Azure's 30% revenue surge, showcasing its cloud sector dominance."
     publishedDateTime: 2024-01-30T21:25:00Z
@@ -116,6 +130,20 @@ related:
       name: FXEmpire.com
       domain: fxempire.com
     quality: 54
+  - title: "Microsoft again blows away earnings estimates as AI’s contribution grows"
+    excerpt: "Growth of 30% in the Azure cloud business was a big reason for the quarter’s success, beating analysts’ estimates of 27% growth. Microsoft attributed 6% of that expansion to demand related to its Azure AI and other AI services. That was twice the AI contribution of the previous quarter."
+    publishedDateTime: 2024-01-31T00:55:00Z
+    webUrl: "https://siliconangle.com/2024/01/30/microsoft-blows-away-earnings-estimates-ais-contribution-grows/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 53
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/satyanadella-copilot-ignite2023.png"
+        width: 2802
+        height: 1562
+        isCached: true
   - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
     excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
     publishedDateTime: 2024-01-26T11:52:00Z
