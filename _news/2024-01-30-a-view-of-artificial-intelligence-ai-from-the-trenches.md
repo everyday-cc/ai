@@ -5,10 +5,12 @@ excerpt: "Digital transformation and cyber security ought to be bigger prioritie
 publishedDateTime: 2024-01-30T14:11:00Z
 originalUrl: "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/"
 webUrl: "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/"
+ampWebUrl: "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: Forbes
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
-secured: "v/m2EXglOfae5Hok+3ohjGC0FyQkd3kMGCTWtF4YCGuJlOjqCSjK7w3cekFAPkccfrHIkvDEh7tkX6TT2GEwtfnThcdNfr2eAE/FsqLts0uQajOW5oVblhnHi5PPwXuX94fYs+V9CA9Lt2K3nSwIMdQf9P/ANVrqeOkILBOQGBHciqm8hBNYTmuiadFNvgnA+yBUepNmbPltgPn3174MQpW/eaDJnwbUo8IemjyC34zzXVbIRPBv9D20MPi70HYeMu867fwXHQLR9cSYOUQT7k3RZ7FbMSN2h93sUzFhNpZSKjP9QaIwFaUZb0b5epNghmMaI50ECrP4wR6c9oG/Uoh50Oewqcg6wzd5DNMobUUrtFRtid+h+R77mew0jhXFMw/te/EHlUYNdrS1mIOg2TvWSULx+q7cLL7X92pF5JVICPzTLgwwhRfve67S1z07ofYxhJjx2/FgrfAaATFJcwKcoltgen9zjxw1Ge3QRfehVC2xL463IKnt+2ZWivsT3CbQHtNe5n8UGqX8CI1UEQ==;HuEYH1Oa9ihCdy35lkE8FQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65b90343142eedce6b991d95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1350
+    height: 900
+    isCached: true
+
+secured: "XtLl6BGFbyz6ECY8Fj+z7bVuABWKzEm3QD49M3voa2kvIRkzuKvPYGfHFz42vkpTI+iN+9ya0w2TFw7j4lCmgnP62FzpckEukvUNjYsgp23Hbnbazhzp+pZvdIuMmoKpR82H8I3l89qecSURZBgnDdQUMdVFR2X5+x2oCCj1GIw1nk1t1WYeRwPFZb1Z03niK+eqTMLflDK56fl31ly4oZKGd0QcDNOmMP3KH/PrIx8ptPZIusbBX5vKqa2wCXsZWdt6M3/Wq7fEHxKO9iYDZx9YtviPq9I5vXGAbrFaXdDoClsF0hU7nL1kiN2VWksjMSAjkboxcZSlQED2sziOnVWBtiw6dXwJoNe4QLzRPCY=;wpZn5tpz054Ow3RJhDyH+w=="
 ---
 

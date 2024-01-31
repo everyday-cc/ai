@@ -72,6 +72,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Samsung's Galaxy AI to Reach 100 Million Galaxy Mobile Devices This Year"
+    excerpt: "Samsung's Galaxy AI and its features will reportedly remain free for users until 2025. The South Korean brand may consider introducing more powerful AI features in the future for paid Galaxy AI subscribers."
+    publishedDateTime: 2024-01-30T10:16:00Z
+    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526"
+    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24_ultra_1705558454678.jpg"
+        width: 1440
+        height: 740
+        isCached: true
   - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
     excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
     publishedDateTime: 2024-01-29T10:37:00Z
@@ -101,6 +117,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
         width: 900
         height: 500
+        isCached: true
+  - title: "Samsung is optimistic about AI-driven smartphones, despite losing sales crown"
+    excerpt: "The company told investors that it anticipates the smartphone market to rebound in 2024, particularly with the rollout of new products, such as AI-powered smartphones ... According to market research firm IDC, the iPhone maker held 20.1% of global market ..."
+    publishedDateTime: 2024-01-31T06:01:00Z
+    webUrl: "https://localnews8.com/money/cnn-business-consumer/2024/01/30/samsung-is-optimistic-about-ai-driven-smartphones-despite-losing-sales-crown/"
+    type: article
+    provider:
+      name: Local News 8
+      domain: localnews8.com
+    quality: 53
+    images:
+      - url: "https://localnews8.b-cdn.net/2024/01/qsNeacaJ-slot3-375x225.jpg"
+        width: 375
+        height: 225
         isCached: true
   - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
     excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."

@@ -1047,6 +1047,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-23-human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is.md",
+      "title": "Human workers still have one crucial advantage over AI - but you might not be happy to hear what it is",
+      "excerpt": "According to a new study conducted by researchers are the Massachusetts Institute of Technology (MIT) (via SiliconAngle), increasing concern that AI could replace human workers imminently is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "originalUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ZCE7nTe3udASYn64aitQem-1200-80.jpg",
+          "width": 1024,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
       "title": "How to handle a ransomware attack ",
       "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
@@ -1303,48 +1355,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-19T18:07:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
-      "title": "Exploring the hyper-competitive future of customer experience",
-      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:26:49Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -24,22 +24,6 @@ images:
     height: 740
     isCached: true
 
-related:
-  - title: "61-year-old says he was wrongfully arrested due to facial recognition technology, then sexually assaulted in jail"
-    excerpt: "A 61-year-old grandfather is now suing Sunglasses Hut and Macy’s after he says he was wrongfully arrested and jailed in Harris County due to faulty facial recognition technology."
-    publishedDateTime: 2024-01-26T12:47:00Z
-    webUrl: "https://www.click2houston.com/news/local/2024/01/26/61-year-old-says-he-was-wrongfully-arrested-due-to-facial-recognition-technology-then-sexually-assaulted-in-jail/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 33
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_0ea45d2be86740c696cfaabb8db5d244_name_MicrosoftTeams_image__20_.png?_a=ATAPphC0"
-        width: 700
-        height: 447
-        isCached: true
-
 secured: "njfExQorJfJ4YdYENS4ktjQnX+1si/Fbr1zhxrsXXwrzvYMhlXAvxGpj8TKFd9WcDiS0UrlkFfoEIDf445TIj3UtT44sFnnOy6JEL8oViAoGvukKt8abyGF6T5FewJhFhK8b1stkrz59Kxfa91aR+SYSz84WB1PELwk0p4Pv1HE/MQM7oKpTNxMszEdfcgMgnyfWyrClZ5JKm2b0zFb0KbnDCfcwuVvt148ul65ZBjwJi2O+L/mTGj7rOpUcgVrIKT5j+HAyDoEZGMB5s/+neyYFxQPAQAUplbYrYIv1vXScqf6yExQEa5bezI1KCot8nSqvfbZKo5OTuw9iPouiRfSIzIBdI8wA1MuqX2mTxIc=;U1hB+1QE+DyJ0kh+ftXxOA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
 type: article
 quality: 99
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 36
-  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
-    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
-    publishedDateTime: 2024-01-26T11:41:00Z
-    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
     excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
     publishedDateTime: 2024-01-30T12:39:00Z
@@ -89,6 +80,6 @@ related:
       domain: thestreet.com
     quality: 33
 
-secured: "5qVcE1g6Vb9crD1yp2gb3esUmXjcwmAq8C+ByJ98UHVVpJviQQb3GDHpusGQ9TmOrArB8Y5YRL2ovJIQFShufQhACAXy/K6ZQE+2F+Od+nDR7c41RIzjl5zFRb4xEEFtj0m8Cw2wJEpT6Jwu5yNx4o39pTibuUtLmqFEmlYOGSJ79kYGztD+8suMyS8j5imU+A3U/UFcl0sVWc9y/YkTu/aKw8xGKgs+h8EwAh0SZzpVEvJC+8aNvc6+UoA8LiSpWRKV6AhLUgDyjzfdKhK8e713phGDhGU5cePBbpZW5RFC2TNl1QoI198QTTf2BK6emLV0TvE6y2gqMO5DmxaiyK5z27RtwmZGsfrY9lus0P4=;Uh3/e/Qv9vH1C6pXAn3BjQ=="
+secured: "5ZL1ti0mwee2YTeptjvJHFBAt5lQx1b8p0Zw9aVNub8YyFRI7DQJfpNNlO1xmfX6cl2i+W4oKn6XEuEZxqsgpv6csHGsNAn0X0qQqu/cdtX0JiKrtStLwDvLjqpeDucE1Kcg3nJVu+oxo091EsUQeZidv8hOa92xcUOnhE1MT5oHkJ0zHyjnii50V01JjT5Buv+zWF5O1TVj8iTsqPZEG09TMzKLgCrzG+lmzCUENZOxZ7rMIHTkJ+rzUC9lbHjeg26axsjktfO3g02IJ1t8gRsm9RZUsEGk7PlnyKBu/+FFDmqlaDZYMRby4Tt1E4Axo3m7r19N8xRNf1iC7Dw7QTUJZm2GQAUj+1IhCdsg+URrESm6SwzOQjDymX3GlHSCa89QwkbtXqX+KZJKTIkzo1WBuSiDPk3L7GwLK48kwEdqZjDXKiVmXOygT/VQeirY69DcpcpRtGMOtRqal4v5kMe3Rp8zkdE9W2sLpoPvSfeUBwI/EsXk7KgyRavd7cjhIHE4f/5TswWZE0VhYG5s8g==;srySTo8a13Chs5/zGlyxHw=="
 ---
 

@@ -41,6 +41,22 @@ related:
         width: 3500
         height: 2279
         isCached: true
+  - title: "Humanoid robot startup Figure AI in funding talks with Microsoft, OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanlike robots, is in talks to raise as much as $500 million in a funding round led by Microsoft Corp. and OpenAI, according to a person with knowledge of the matter."
+    publishedDateTime: 2024-01-31T12:32:00Z
+    webUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 90
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/humanlike-robot.jpg"
+        width: 2880
+        height: 2106
+        isCached: true
   - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
     excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
     publishedDateTime: 2024-01-29T23:12:00Z

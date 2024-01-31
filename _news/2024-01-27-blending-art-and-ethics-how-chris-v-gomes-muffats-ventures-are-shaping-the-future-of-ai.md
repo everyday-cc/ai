@@ -49,6 +49,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Life Science And IT Leaders Explore The Power Of Artificial Intelligence At Bio-IT World Conference"
+    excerpt: "AI to Take Center Stage at Bio-IT World Conference & Expo, the Hub for Pharmaceutical, Biotech and IT Collaboration BO"
+    publishedDateTime: 2024-01-31T11:39:00Z
+    webUrl: "https://menafn.com/1107789848/Life-Science-And-IT-Leaders-Explore-The-Power-Of-Artificial-Intelligence-At-Bio-IT-World-Conference"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?656455"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "Cwazzz+7ebNv3PZ43Df2SRotQ4BxvznuGEDM5Unw9DFVVAKsD/g+9PF17KhqnpG8NBO6lrpDk+86y6Ivtnan1gMqGks8ioiOBipD2/X9fvJceHM6vpfljca9mHVwwGNQf5aKBEAi83DZFlFnp3iwIvXPagN/vWY+7t8t3xbz992U+4k4OtNHrua8SmVB7yo/P1Mup7Vxh9ecx1RH/9xn/SedxWj15bP3gfwnS+VhocMrc+6rT5/SjWbQbXzMgBuFFIab5wmBZqa/Q1aioU2CB18Bt+p9zp3r96/HY0IBmx27ucuPRq1X4yk9CRF2fxqDWLiWkpJ6eB3xmtpzrvYRs7Przw+spYNF6ktWhP8wODw6mvruuZAFF//e5faL/tURrx4e1YkiuRDAhrLwkB9XKXkqJRRmBdiq0sbXQL4/oICujItOnjB/bmimKy3OZuGfBtN+b7h8KZllF/MQeBZAnHn1ev9sfP//g3W/dMRxiS86Fckk+G4GFh0c7vuJHEIQCap92L60jcJY9iV/wf+82Q==;CY1xBkY0qxWHXuAoS5IOBw=="
 ---

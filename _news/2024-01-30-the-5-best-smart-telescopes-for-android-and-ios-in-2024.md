@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/space/best-smart-telescopes/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/space/best-smart-telescopes/?amp"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

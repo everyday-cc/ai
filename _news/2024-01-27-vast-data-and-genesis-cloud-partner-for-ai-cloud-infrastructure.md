@@ -33,19 +33,19 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "WEKA Partners With Nexgen Cloud To Democratize AI"
-    excerpt: "NexGen Cloud's Hyperstack Platform andAI Supercloud Are Leveraging WEKA's Data Platform Software To Provide Fast, Affordable, Sustainable On-D"
-    publishedDateTime: 2024-01-31T09:59:00Z
-    webUrl: "https://menafn.com/1107790805/WEKA-Partners-With-Nexgen-Cloud-To-Democratize-AI"
+  - title: "WEKA Partners With NexGen Cloud to Democratize AI"
+    excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
+    publishedDateTime: 2024-01-31T09:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979557"
-        width: 444
-        height: 250
+      - url: "https://mma.prnewswire.com/media/2329623/PR_WEKA_NexGen.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure for Organizations Worldwide"
     excerpt: "January 29, 2024 – VAST Data, the AI data platform company, today announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud."

@@ -73,6 +73,15 @@ related:
         width: 396
         height: 250
         isCached: true
+  - title: "Strong Buy on AMD Amidst Gaming Decline: Data Center Growth and AI Expansion Drive Long-Term Value"
+    excerpt: "Goldman Sachs analyst Toshiya Hari has reiterated their bullish stance on AMD stock, giving a Buy rating today. Toshiya Hari’s Buy"
+    publishedDateTime: 2024-01-31T08:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-on-amd-amidst-gaming-decline-data-center-growth-and-ai-expansion-drive-long-term-value-1033014307"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "AMD Raises Outlook for AI Chips. It Wasn’t Enough."
     excerpt: "Advanced Micro Devices increased its guidance for data center AI chip sales. On a conference call late Tuesday with investors and analysts, CEO Lisa Su said that AMD expects revenue for its data center GPU products to surpass $3."
     publishedDateTime: 2024-01-30T22:18:00Z

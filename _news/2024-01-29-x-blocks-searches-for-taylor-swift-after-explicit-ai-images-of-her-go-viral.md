@@ -42,6 +42,36 @@ related:
         width: 4523
         height: 3047
         isCached: true
+  - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
+    excerpt: "Looking at Microsoft Intelligent Cloud, the segment that includes server products and cloud services, such as Azure, revenue was $25.9 billion—up 20% (up 19% in constant currency) from the same time a year ago. Generative AI services such as large ..."
+    publishedDateTime: 2024-01-31T12:14:00Z
+    webUrl: "https://fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/"
+    ampWebUrl: "https://fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 104
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1921159214-e1706703158734.jpg?w=840"
+        width: 840
+        height: 590
+        isCached: true
+  - title: "AI push sees Microsoft cloud revenues hit new high"
+    excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
+    publishedDateTime: 2024-01-31T12:28:00Z
+    webUrl: "https://www.techradar.com/pro/ai-push-sees-microsoft-cloud-revenues-hit-new-high"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/1e26f696ffbc15486daabd6ce566b3ee-1200-80.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
     excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
     publishedDateTime: 2024-01-29T17:42:00Z
@@ -162,6 +192,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft results show benefits of AI on Azure"
+    excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."
+    publishedDateTime: 2024-01-31T07:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366568432/Microsoft-results-show-benefits-of-AI-on-Azure"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-300124-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
     excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
     publishedDateTime: 2024-01-29T11:09:00Z
@@ -235,6 +279,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 54
+  - title: "Microsoft smashes profit forecasts thanks to AI"
+    excerpt: "Worth more than Apple now  Software King of the World Microsoft has wowed investors with its latest results, showing a massive surge in profits thanks to getting its foot in the AI door early. Microsoft reported adjusted earnings per share of $2."
+    publishedDateTime: 2024-01-31T11:11:00Z
+    webUrl: "https://www.fudzilla.com/news/58362-microsoft-smashes-profit-forecasts-thanks-to-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/8225a7d4b17d48ea511e848d1b49acde_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
     excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
     publishedDateTime: 2024-01-30T00:35:00Z

@@ -67,15 +67,6 @@ related:
         width: 1600
         height: 571
         isCached: true
-  - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
-    excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
-    publishedDateTime: 2024-01-26T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/26/14-ways-to-create-unique-marketing-and-ad-campaigns-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "3Jg8fYj+M7vQtpCSJtav8ktc8oiITpaCtIww9Fk4xxq2t8lwSjXmLCaXyhjbRrsp67LioGLPKI2aZL95FjRcwJahm2rE8C09UiiWFkQDYkGtuWEwYyQCqWOLuyjeMyb55PRwNJd0ufakxBl0c4L9pYESIvMez1Ilj6H38gYXymI2ly05T8BiFkRj1YDaWeiQ154O8gCYyNiczjhsIfiP7c8tRhZos+smeyF4GERLaRX961EvWWJ3txswg+KK3LX2tumzDzVRv4F6kP3IkVL5XSHLXyPfOi6QhSVSMiOPEHYgYaYBMbnB8VCJi5YYC0utQEUr68cUu9CF+WWrZjQLG5og5t8rHfbfXo1Glp8Cy68=;B1KbiWc5sa0iz73ypmQSWw=="
 ---

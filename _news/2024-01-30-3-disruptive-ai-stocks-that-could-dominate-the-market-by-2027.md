@@ -24,19 +24,21 @@ topics:
   - AI Hardware
 
 related:
-  - title: "How Artificial Intelligence Could Be the Ultimate Weapon Against Cancer"
-    excerpt: "Even just a year ago, we couldn’t fathom a cure for cancer. Now, we can."
-    publishedDateTime: 2024-01-30T13:45:00Z
-    webUrl: "https://medcitynews.com/2024/01/how-artificial-intelligence-could-be-the-ultimate-weapon-against-cancer/"
+  - title: "What the G7 countries should do at their next summit to regulate AI"
+    excerpt: "Agreement on AI at the upcoming G7 summit should address social inequalities plaguing training data, laborers, and users."
+    publishedDateTime: 2024-01-31T11:00:00Z
+    webUrl: "https://thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/"
+    ampWebUrl: "https://thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/amp/"
+    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 56
+      name: Bulletin of the Atomic Scientists
+      domain: thebulletin.org
+    quality: 59
     images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1157229146.jpg"
-        width: 1732
-        height: 1732
+      - url: "https://thebulletin.org/wp-content/uploads/2024/01/AdobeStock_704826826.jpeg"
+        width: 1920
+        height: 934
         isCached: true
 
 secured: "W9YaFVdxN4gKGrCNj5VHneKDgpqAGNWAtfJLqKDPGZ5Kxtb8AJBLwT2r/lQaJrRRk+VU3ZCT9wtx4QmLK7N9LtuszG3VcbjIiXSkefTQ+OJ7ofm4AlkePyslS3gOWCkPBBoqMAaMEMoO2pzDWSdfcPEo7nkYx89DNKI8p5ZdqOfqP7MHtcpqG30SIzhOME70aEQPaadCxeLdLLeAqw4m+Z4ZRmt6WAz+82ca1ihUNjIlZj4pZPV1ZzXSvUKFF2ksiwFe126tTRwK4a/HxgTbbIuQ2UTp5GOVfzKvibidmMCKSt6opFKtiQLMWT5pA5ZQ3ohmqISiDv42uKdUE2RqCtIlRWYQZ9zpVK9A/oovYYY=;k+aSYtzsY++IONqyqds1CA=="

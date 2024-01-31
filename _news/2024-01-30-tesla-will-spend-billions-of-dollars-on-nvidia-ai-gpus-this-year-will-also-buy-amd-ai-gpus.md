@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-
 webUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: TweakTown
@@ -24,17 +24,6 @@ images:
     width: 1500
     height: 857
     isCached: true
-
-related:
-  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
-    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
-    publishedDateTime: 2024-01-26T12:57:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "Wfj3ZTVDJvCFRYwEspNSBjziL6As7z9+DfPTfqArUCmD55sNhuGjk654Eiqr+nP6I0UlKwYObsaAZGboLbZZJmsCTpce0cC2mlxnzSpuyvrMjNErP55YBO3gOd3yqIglrdA1WLcS2pWnHoWv2jWj2EziBfc7IY7U0N58cYQbovyH6tArna73ij9IkSGSr/5FI1uANKOKvNgDJsPFwvaLBXgSOuskaClCdcIt7zbCcuUQFBL4CiXlEovSviZsaiT8hpLyp5leqGRSWOEMEVsIGdPqpRIeclPgAuQ4ifSvOjbTPEd28m/hm+I7WolXCREXANiUCP10C4Ol8jjnXo/i2n/wwHFO7SLQs9ewFXPRLZWJBrLNtOWYV2RrV7igTQsiMgPsDJN8upCnjL/6OZKembfKefB0D761z/WXvSdp9Ml+lwARmwgvGE0eNdSYSLGtjgJi983fMpHARGAW+2YtUQ4ejmBx7Kki3+1geJ/E2vzYYWvLTmkr0+9CvdFKGM8WOQIU3VPGgQy8M5bvdT2eAg==;rgoVMeYjwJCYOHamd/GCcg=="
 ---

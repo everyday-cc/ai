@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "All Hype? How To Counter Distrust In AI By Looking Under The Hood"
-    excerpt: "In 2021, Zillow relied on iBuying’s AI algorithms to buy and sell houses. Unfortunately, the algorithm was incorrect for Q3 and Q4, resulting in Zillow overpaying for homes. This overpayment combined with overtly aggressive expansion led to stunning losses of over $550 million. What seemed to be an easy solution ended up being a huge mess."
-    publishedDateTime: 2024-01-26T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/all-hype-how-to-counter-distrust-in-ai-by-looking-under-the-hood/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b286daab54378741749fe0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1394
-        height: 900
-        isCached: true
   - title: "Can AI possibly live up to the hype?"
     excerpt: "its Azure cloud business and its software business, which includes Word, Excel, PowerPoint and Outlook. And there are also questions about the speed with which its customers will embrace AI. And this means there’s a risk that investors will become ..."
     publishedDateTime: 2024-01-29T06:51:00Z

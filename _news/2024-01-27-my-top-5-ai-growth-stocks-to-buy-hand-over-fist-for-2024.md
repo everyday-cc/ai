@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Artificial Intelligence (AI) Stocks You Should Buy and Keep Forever"
+    excerpt: "Detailed price information for Amazon.com Inc (AMZN-Q) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2024-01-31T12:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/667b46d4c23ff4d85ed20232924d5b22/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5eedbbef10113d068d4c0ed29a82971.png%26amp%3Bw%3D700"
+        width: 720
+        height: 466
+        isCached: true
   - title: "3 of the Smartest AI Stocks to Buy Now for Long-Term Growth"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you looking for AI stocks that could provide long-term ... lower YoY due to increased operating expenses, mainly research and development, and lower operating income. Despite that, SMCI ..."
     publishedDateTime: 2024-01-28T00:50:00Z

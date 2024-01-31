@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI Brings Google Gemini to Google Ads"
+    excerpt: "See how AI is transforming digital advertising with Google's new conversational experience, streamlining complex campaigns effortlessly."
+    publishedDateTime: 2024-01-31T11:31:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/conversational-ai-brings-google-gemini-to-google-ads/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c4c2693d0c8a4771a2aa48acd6aca9a1.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
     excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
     publishedDateTime: 2024-01-29T00:00:00Z

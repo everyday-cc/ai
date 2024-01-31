@@ -1,27 +1,27 @@
 ---
 category: news
-title: "WEKA Partners With Nexgen Cloud To Democratize AI"
-excerpt: "NexGen Cloud's Hyperstack Platform andAI Supercloud Are Leveraging WEKA's Data Platform Software To Provide Fast, Affordable, Sustainable On-D"
-publishedDateTime: 2024-01-31T09:59:00Z
-originalUrl: "https://menafn.com/1107790805/WEKA-Partners-With-Nexgen-Cloud-To-Democratize-AI"
-webUrl: "https://menafn.com/1107790805/WEKA-Partners-With-Nexgen-Cloud-To-Democratize-AI"
+title: "WEKA Partners With NexGen Cloud to Democratize AI"
+excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
+publishedDateTime: 2024-01-31T09:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979557"
-    width: 444
-    height: 250
+  - url: "https://mma.prnewswire.com/media/2329623/PR_WEKA_NexGen.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -63,6 +63,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "B1cp678Q9IkXAmGF4OSjpsT8ypOwlBHJDUoPeb+D4QvlWQbCCsRAIFi3j3l4jdaFKCfw3tj2DoBF/5BpsqR6i2MIl22SQr+TDsIb3RLCHBorFEIAiIqm8aRyGiJSdz/nuJBvXFFQZRXcd1Ar34KO/It8w8P4/TZVv2XfSRRANxLVA7Ga3VBiBXjzYUKxDAKli7RAoQzlUqt5egM3SHE023SnDJKJFqOJ3x8oDatWjG6SDvfkAWF/f0XBvFDJowU/aK4sp4bScOJtGL/JQgLlTc7gmCTzt+2d68qJ1XgG7DXIV38uflkNeEfXyEGwp6be2uq92Wz0mBBpsWwNcCuToB59+S4g3SnQrLnQ7dp8Tqc=;qeqwNS1A6XQJ9KMnvhRpAA=="
+secured: "zkppVOc7isOE8ptKatF8XSL0S7rlCpoGPvYDuKAhlJRhshAzfJTyB6+WEOvRRCu2OXGfoJOePy+do5JvFUXblcZATURUuLmSyO0F4wpPxf2DXOlp/Wpbv2plen1qIHVxzdHGuJMuzSCk658bHFPty8gjdPTILsm4p8RyYIHvB6NqEMQdhG2rkAeG8IYai0O5WDzhpAXO4DYj9AxB6yHMhDxjYB9F86hI/NU2arQvHDSFQ7JT22SFyofeN5WI+Efc+/jMjUhayuPnvcfpDaeF6Ejx4yB4Labh6NRektyqYCg8Uq8AdRc/CM7TV7Y+YxodTs1+j6hj6faOJCPv1fpRx+lMkNbBDovWMH3bfUogohQ=;7B3KJJGCYqbUCB+bkkkbYA=="
 ---
 

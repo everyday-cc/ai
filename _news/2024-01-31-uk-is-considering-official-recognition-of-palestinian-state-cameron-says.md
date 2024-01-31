@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "David Cameron did not clear Palestinian statehood speech with No 10"
+    excerpt: "Foreign Office sources insist the Foreign Secretary's remarks did not differ from an article which had been cleared by Downing Street"
+    publishedDateTime: 2024-01-31T08:03:00Z
+    webUrl: "https://inews.co.uk/news/politics/david-cameron-did-not-clear-palestinian-statehood-speech-with-no10-2881367?ico=editors_picks"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 24
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2023/11/SEI_181111124-1200x630-pl-exclusive-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sBnkkthI77+YwdDb4PN3SZGCJN9SBLD9n2ei76WM6RWY8Y+bXTXfQtxuKxPbvzxMt3rU6nngKIAsKjbDjnXrFUCf7hyTpzT6Ez0tpLJq6KotLiPbTOvx2vpvO/3W5mplI2f7Ib3L3vcpReDjpjr+nOPdl5sVX71QLK0B8QIDdWgQ1jYTIbHwKe47AOIC7/d3nhpqU43x+9aKWhS5Wai6LG4Q7V7pKA/2BUAhjNdXa/yhJhn/sGAxI4JukWaJnlqTWPT0/15PQYEbU67J28G8JZF7cQFuXdR2QsXV9uyhs6jPQxS4KZG7MXz5Wvq17FpMzEX4Qk2jntEs0D/04V5rtauzSFaSXB0CO5ttz0KU5ss=;SxpI3ZCRcnhtm7eYsd6Lgg=="
 ---

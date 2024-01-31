@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue"
 excerpt: "Tech giant now second business in history to reach a stock market valuation of $3tn, overtaking Apple as the world’s most valuable"
-publishedDateTime: 2024-01-30T21:53:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=mc.news"
-webUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=mc.news"
+publishedDateTime: 2024-01-30T22:51:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
 type: article
@@ -41,6 +41,6 @@ related:
       domain: businessinsider.com
     quality: 37
 
-secured: "76TNXVo0KhBheJ4xujfWNoJLN6d4VkDk0XWj6l9a1KEj0h0etSnGsX9ULos9QsTsfoa3ruIJItdtkPffh7m9AsJmdktpBZpWkxXznCiFiqNzWcaZkftX6G9DtC3NvAcVQmhg19f9tPWHBMmECPj9TRHKoyVZpNhgUGfLYXRhvNwVYvqk5Gg69iCrb/uYvpaFgn8CYidrhziFEJPX1XbVfY1jbySIi/3Q9tEc7JDzgf5R1nGNS7TbrIWtsW9sbMvcVdJuHavwXjL7Wd9HxM7gu113NYkmc2fBExsv5bJhb9w/lq7RCeBi3n10MzL2Snb4QUlTgBo2xz2T35PPPmHU5MtZA51vDhNX/6frmzS7Qry1XzaIopLV+dno5InKAMdB6fQ6q0NVBLPHC75E00pi1+j43gw/WtiiE5q7HeXAy5F9qFJ9YwKUIJCwLi5Ryyuoau8tWsP02cSDQDnGFzp9D3ZdV7mH8e8x8r6JvUd0MlvGsUxuoR69oVQBoqypTXnZ4PelRbUxY/67DLFZJA5CEA==;tEKPvInYHZx7cUrDUgr/uQ=="
+secured: "npuTELoM9kJz6Ck3l1vGpSwPYSEVDMdctUTQRwBBcc2KNybJvH3mDrLvjKmCqp4s7GpcDaHtsNzB5cTFQmIa4KACqpnHZ7KRuVKrnH0BnoKPp94bPv1AZiz32dJcy/g921fCVP6HSNMMslBUVRknCx9fNoletEB97hgUS9A5WZN72QDPtJHYlIwsdjyhRo+0IlkXyoDbH6IhL1UZ7J/X3Ty1Kp92SpuOdnnkn/9aAlvJ5I96ZcKJxGHkrnp81nhX5Bfyr3NcKlXBFPdMxjgf8Enf4E/7kM1qYtkUwCIIZn/lvBeFKBYZhVzf3kmVxc0TjMJJVxfKia8k861hsaBM1i2wyaJ19I3FqJOVMmQAwmY=;ManHAUkdnJeO0k+wFpPdJA=="
 ---
 

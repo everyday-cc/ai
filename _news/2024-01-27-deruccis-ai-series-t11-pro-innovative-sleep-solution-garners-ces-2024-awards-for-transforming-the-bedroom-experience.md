@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/deruccis-ai-series-t11-pro-innovativ
 webUrl: "https://www.geeky-gadgets.com/deruccis-ai-series-t11-pro-innovative-sleep-solution-garners-ces-2024-awards-for-transforming-the-bedroom-experience/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 1706
     isCached: true
+
+related:
+  - title: "DeRUCCI’s AI mattress elevates your sleep with advanced tech"
+    excerpt: "Awaken to DeRUCCI's T11 Pro AI mattress – the dream mattress that adapts to your body, tracks sleep, and creates an optimal sleep environment."
+    publishedDateTime: 2024-01-30T16:52:00Z
+    webUrl: "https://knowtechie.com/deruccis-ai-mattress-bedtime-sleep-tech/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2024/01/t11-pro-ai-mattress-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "kGzCT6WLZBA2NbbShegl3PHhl2b+e13BAnadLHmPc9Xux+eeTc+nl9YkH9ljuMJ3SwuHGSvgzRdVc71eb0FygX9LVXs07EsXi6qwX/HDhaWlJ8OtScnCNYOudspEDmb73G14+m4yF5xit/d7z/k2k1l8SpZrYPtBW0BQ5aV/qciNDsAlLsDi5oAJWkpRUOhCSG2ZjM9gNzAeSESZ2X2vIjAmq4w/OwvIjVl9aFjCK9CsT5UWJGoSyTfA9ZXacJXWWyta+YMx0IW1QNpkZbSTl8GqFIpT/5inrmYW4ds8mr4+mAtzCWgJKh0MCSXACKk8HzsMPh3/3JGMMlDy3b0ZskpuWHyAa6goitwUKyj9zvY=;zneXW5G9OuZn/zdp8/NXqg=="
 ---

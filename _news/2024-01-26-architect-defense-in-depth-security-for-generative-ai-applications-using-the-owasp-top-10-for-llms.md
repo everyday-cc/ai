@@ -38,6 +38,52 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Three Tips To Help Your Business Start Winning With Generative AI"
+    excerpt: "As the generative AI revolution continues, it’s natural for business leaders to view it with curiosity and maybe even a little trepidation."
+    publishedDateTime: 2024-01-31T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b93b16980861665a65b341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
+        height: 600
+        isCached: true
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
+    images:
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
+        isCached: true
   - title: "Generative AI startup taps 3 health system execs"
     excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
     publishedDateTime: 2024-01-30T18:14:00Z
@@ -52,6 +98,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The generative AI smartphone age is here"
+    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
+    publishedDateTime: 2024-01-26T15:11:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 19
   - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
     excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
     publishedDateTime: 2024-01-30T12:26:00Z

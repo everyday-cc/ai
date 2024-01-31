@@ -63,15 +63,6 @@ related:
         width: 1600
         height: 571
         isCached: true
-  - title: "14 Ways To Create Unique Marketing And Ad Campaigns With AI"
-    excerpt: "As consumers and business leaders strive to grasp the impact of this huge evolution in tech, marketers and advertisers are enthusiastic early adopters of generative AI."
-    publishedDateTime: 2024-01-26T12:16:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/01/26/14-ways-to-create-unique-marketing-and-ad-campaigns-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Four steps for integrating generative AI in learning and teaching"
     excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
     publishedDateTime: 2024-01-29T00:00:00Z

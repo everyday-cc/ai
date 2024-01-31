@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence in personalized cancer medicine: New therapies require flexible and safe approval conditions"
-excerpt: "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in recent years. Applications of artificial intelligence (AI) will allow to adapt personalised therapies in an even more targeted manner."
-publishedDateTime: 2024-01-20T09:14:00Z
-originalUrl: "https://idw-online.de/de/news827773"
-webUrl: "https://idw-online.de/de/news827773"
+excerpt: "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in"
+publishedDateTime: 2024-01-20T00:01:00Z
+originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242114"
+webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242114"
 type: article
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: AlphaGalileo
+  domain: alphagalileo.org
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "LZrxbAa0d7iYNAUvhHAr/mwdUxck0uchkd9lwCym3YLJhs5Ejtti0+OqFuIk6/bX4c9Wt9YEAAScUuu3S6UPu35bRYuWpdDBW2SPqXWP/cf5q19FnkQbobIlCRdal4zgsAbxEdtDYR9l3rxZyAJisXU2LF1YEkYegZYawEF+0XkYwqJYl4qNiYN4q7D9Sk7+cwOUgN3jg3BP+Ygwvn9mOdzxHYy0O6bNidW76XEztNhPls/ZpYL+Dma4k1PCWXVYd54Vngq+fcc4oQTTFS+kPbYsWGutZv7BReIfndoN9Ta1yjVRTiuWLSK382Rmrfs5tftUH0TwVCDh1ntUIKj0Ucc2PpTky7sf+V6gkWNq9pU=;8aOWJu4tNIWfGsp0XLlLZQ=="
+images:
+  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png"
+    width: 654
+    height: 274
+    isCached: true
+
+secured: "gAfLax6OUZxziXYqQF0LyIaw11tpbMN1/CPRtdaoJCO6CxEcDqG69ZLPlAn31gh5ohcVy5qLkc/QRk8lNhIXTp6EtXHvUNinIVrvPotjGcterdVnZzRJyhr3urK6TfygYI7ZuHQ2576fC5rvA96OQV5/4NsnIMAtGeBR09lJaEdL2lqQlQXVxMJ8p5v2xMqzMWWoEDZJXm/INm/nMW1OApEO0TOcGAANLaxL3kVgvXndrLrk0xX/QQ7arwx3ysgMsHWcg85BW1Jid9LjzTmXOP7MS4f+eLIvrcwGHIFH43/9X0C4HSR4x1tUNBXizn8gr28TKJwd8z0KNF7aMfRfunysIWs4c1RHp5uelTOb2uU=;bv28cS8IUHIi4xQjVJxL9g=="
 ---
 

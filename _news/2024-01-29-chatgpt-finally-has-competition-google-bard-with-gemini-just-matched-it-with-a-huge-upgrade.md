@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-googl
 webUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-google-bard-with-gemini-just-matched-it-with-a-huge-upgrade"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Conversational AI Brings Google Gemini to Google Ads"
+    excerpt: "See how AI is transforming digital advertising with Google's new conversational experience, streamlining complex campaigns effortlessly."
+    publishedDateTime: 2024-01-31T11:31:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/conversational-ai-brings-google-gemini-to-google-ads/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/c4c2693d0c8a4771a2aa48acd6aca9a1.ashx"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Google’s Gemini Pro Beats GPT-4"
     excerpt: "Google's Bard (Gemini Pro) has clinched the second position on the HuggingFace Chat Bot Arena Leaderboard, surpassing OpenAI’s GPT-4."
     publishedDateTime: 2024-01-27T04:41:00Z

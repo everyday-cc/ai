@@ -65,6 +65,22 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 63
+  - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
+    excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
+    publishedDateTime: 2024-01-31T12:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/articleshow/107296536.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
     excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
     publishedDateTime: 2024-01-30T00:00:00Z

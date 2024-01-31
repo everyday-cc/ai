@@ -9,8 +9,8 @@ ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artif
 cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: katu
@@ -27,122 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
-    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
-    publishedDateTime: 2024-01-26T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
+    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
+    publishedDateTime: 2024-01-31T07:17:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 46
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Washington Healthcare Update - January 2024 #3"
+    excerpt: "Telemental Health Care Access Act Reintroduced On Jan. 24 ... ONC Final Rule Establishes Transparency Requirements for Artificial Intelligence and Predictive Algorithms On Dec. 13, the Department of Health and Human Services Office of the National ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/washington-healthcare-update-january-5495854/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15934_0210.jpg"
+        width: 1200
         height: 900
         isCached: true
-  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
-    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
-    publishedDateTime: 2024-01-29T03:19:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1218
-        height: 600
-        isCached: true
-  - title: "Generative AI: value, risk and regulation"
-    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
-    publishedDateTime: 2024-01-28T16:10:00Z
-    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
-  - title: "Use of generative artificial intelligence at UNIGE"
-    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
-    publishedDateTime: 2024-01-30T12:44:00Z
-    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
-    type: article
-    provider:
-      name: unige.ch
-      domain: unige.ch
-    quality: 37
-    images:
-      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
-        width: 1200
-        height: 620
-        isCached: true
-  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
-    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
-    publishedDateTime: 2024-01-30T16:43:00Z
-    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "The generative AI smartphone age is here"
-    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
-    publishedDateTime: 2024-01-26T15:11:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
-  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
-    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
-    type: article
-    provider:
-      name: American Enterprise Institute
-      domain: aei.org
-    quality: 0
 
-secured: "RGW06uz9Zk+nMJ5J/O57sjvoSlShJ4uFGeOIETLU0WWropchRU1ZYZipjCmKN2dyNc07Zrwicntsg6xtcGnj3TbssZXx2jLkRMtMWNx5fZgxFDTzAeVZf9kJIg7cCVjj14auNkwmaZdGypY2t4MCx8PcfvRAgM/4/ZuYJQQeaCXFhh3ZPdkEclkhpzTVaYAW3vpuVb2rTg9YtYBGkUR5vP6Cj9lTYh2d1BpVwI7QpjRbWMRFWpZmVZDqQnhip6AoH/wVRfBji0Wi65nSEY86FoF9jfByBN9MqPLdP/8Tor/yyk9n1oua5vmkoFTyAJUBwKVJDpS5oKpta2Yxgay8yQYWPO3SVYaydvxK7+Qz/3o=;a9b9R/UEwmgCRO689rhppQ=="
+secured: "4b5JDSkNquUFMkFr9Zg9jQuypn9Yt2SOzqlinNWM7d8UFgTWbwK0wVpj41toJi+v3cx7p1QCEgvBhhNEWXSMgF04koLnBDBftqz4TJECtw8XUEVfFpQRKjbFfgNottb5RW4Q8q3+jFJ8MAfCQGFWKTj1GDq0zKOfy7PqZSXJF31frsF1rbNOt7vT47iiCVsPQaUntQ4mv4IaqsmJjdQ2Fg6IRGUDZEhwBTJomjkOY26dFob/Mudn9BQWXz/N/gRAM1Hp1pLgFXcpcIb6+HwhR6QMEFo6KRulUxWYt0eN7ti0239Pt0eesGtOZ9VfVPlQz2l4kr81xBvjrkIACUz2S+ERebH2BUCoHSnPld8IfvFT3Muv6ZO1McHouaTqauKJAiSR+Wsxn2HmlXIxRDKF6WQ9iL92SKSjBWeXq7MhhYLGZyTxx2jWym7ZMazreHOTPIx/6cKn2xg0I9iAOwR5UpVvU1mOLK00j5fnxjTZxYhEYgEg7vqGq4TbinP1C7MT4MCWBU5mZ+v9pDmJrBH+Dw==;266NjqYkY3vCUynqMebaKg=="
 ---
 

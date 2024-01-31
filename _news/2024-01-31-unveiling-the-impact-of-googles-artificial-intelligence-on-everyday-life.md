@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Life Science And IT Leaders Explore The Power Of Artificial Intelligence At Bio-IT World Conference"
+    excerpt: "AI to Take Center Stage at Bio-IT World Conference & Expo, the Hub for Pharmaceutical, Biotech and IT Collaboration BO"
+    publishedDateTime: 2024-01-31T11:39:00Z
+    webUrl: "https://menafn.com/1107789848/Life-Science-And-IT-Leaders-Explore-The-Power-Of-Artificial-Intelligence-At-Bio-IT-World-Conference"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?656455"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
     excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
     publishedDateTime: 2024-01-26T17:05:00Z

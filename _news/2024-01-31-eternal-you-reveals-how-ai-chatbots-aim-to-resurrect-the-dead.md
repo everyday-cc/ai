@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/eternal-you-review"
 webUrl: "https://mashable.com/article/eternal-you-review"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -50,6 +50,6 @@ related:
       domain: axios.com
     quality: 17
 
-secured: "+uRnfhGKiyNLLi4G8cNRfN0KSW1eqZGQ8T4yRJtj5LmQ9gDUfmjXQg0wN8ZnDceYCPWKhpOydeuOEGepnpDBvFfm/Zjfkn+BI1qF+CCIPA8mKNuErWalY5jiJhe5mzt66D4hT22fZarTeBCtbEjvPzP1VAKqwBqQ7FZt4d30SoAmSpn3qJ8dh7pt0qnKwg0aJM0Csb1HxsVGPSkRonRxqjwMZjDTolyMLXQhDJcIa1FGUUsawmMCavOgjqQ2EuTlswICAKe0DoAExaensqhzlBMbSPHdBfOcKVpv4kLiJraJyivzf0rzymnLI245iSnyhKuxlQzx4GI/q2Le9E3WoCbltlqkCW43pYZI82g1DE8=;RGkPdkR+ZA51/s7bkUL0Pw=="
+secured: "TOlMBFVCP70yZhwYfSrHyQ4eWLktyXLRYy4EV+UQzMpmljknnTTFGfarBG4NwcgNVrbZY3wryUaRPPZgqoEehCTNxi542X9mQqpl9VFwto1f36IRQaM7Le20mX0AtA+cSa1TE2Vn7mr90hYi6u4r9nfS7KyB3JYi+yYbMTJf1JhJAe9HlIxXCkpRLBdo+s5OO2KFVODtl1WgSPLcFOpPvBezeqWBqnpo+C21EwXX0tOYpA5fW50DuElbCkbdWpnDcBs336ax4SqKLHKjfbgGZYAkD/jdx7n+Tyu/3JVlC9OaVEZcBW0oLMFb34adsjbxlDDZTJ3/hNpXp8imS8k8TprwSW8zxlbeDIqe4yR4ozjiwfTxljNG4SUfqbx8n+zRwuswnCUE/C+20TTEKr01ywCYCWankdiHgVwVOf9XRjayvaCwlLLwhhh5DWB6Kh3+AnNcL5y6vBYJb7lVs8IU9JftMuN+yWxqwjsh1nPHBxCGYw2b5k998w9cSUf+FUHBQZio1FUZ2lAlY91/r875Lw==;ms2xI0zsO+EmoIAFZ5Bc2A=="
 ---
 

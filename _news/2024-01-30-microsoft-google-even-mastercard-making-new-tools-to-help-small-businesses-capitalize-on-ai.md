@@ -67,15 +67,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 36
-  - title: "Microsoft Q4 Preview: Winning From AI-Led Product Supremacy"
-    excerpt: "AI- and Copilot-related uptakes by customers can increase recurring revenues and provide Microsoft with greater pricing power. Read more about MSFT here."
-    publishedDateTime: 2024-01-26T11:41:00Z
-    webUrl: "https://seekingalpha.com/article/4665251-microsoft-q4-preview-winning-from-ai-led-product-supremacy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 34
   - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
     excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
     publishedDateTime: 2024-01-30T12:39:00Z

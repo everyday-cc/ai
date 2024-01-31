@@ -49,6 +49,20 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "Experts explore insights on personal data, AI and responsible tech use"
+    excerpt: "Qatar has a liberal data protection law when it comes to the crossing of the border by data and the country is looking at engaging with"
+    publishedDateTime: 2024-01-31T07:58:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/31/01/2024/experts-explore-insights-on-personal-data-ai-and-responsible-tech-use"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20210121_1611205231-270803.jpg?1635250003"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Six Principles for Redefining Retail with Responsible AI"
     excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
     publishedDateTime: 2024-01-30T12:00:00Z

@@ -37,6 +37,20 @@ related:
         width: 2102
         height: 1426
         isCached: true
+  - title: "3 Artificial Intelligence (AI) Stocks You Should Buy and Keep Forever"
+    excerpt: "Detailed price information for Amazon.com Inc (AMZN-Q) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2024-01-31T12:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/667b46d4c23ff4d85ed20232924d5b22/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5eedbbef10113d068d4c0ed29a82971.png%26amp%3Bw%3D700"
+        width: 720
+        height: 466
+        isCached: true
   - title: "1 Monster AI Growth Stock Up 31,400% Since 2000 to Buy Now and Hold Long-Term"
     excerpt: "Nvidia stock gained over 31,400% over the last 24 years, compounding at 27.4% annually. To put that in context, $10,000 invested in the company in January 2000 would be worth about $3.1 million today. The chart below shows how much Nvidia's stock price increased (or decreased) in each year between 2000 and 2023."
     publishedDateTime: 2024-01-28T09:30:00Z

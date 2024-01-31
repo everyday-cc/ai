@@ -8,7 +8,7 @@ webUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-busine
 ampWebUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
 cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"

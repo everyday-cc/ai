@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsi
 webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
         width: 640
         height: 362
+        isCached: true
+  - title: "Experts explore insights on personal data, AI and responsible tech use"
+    excerpt: "Qatar has a liberal data protection law when it comes to the crossing of the border by data and the country is looking at engaging with"
+    publishedDateTime: 2024-01-31T07:58:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/31/01/2024/experts-explore-insights-on-personal-data-ai-and-responsible-tech-use"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 39
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20210121_1611205231-270803.jpg?1635250003"
+        width: 960
+        height: 640
         isCached: true
   - title: "Meta to build $800 million, AI-first data center in Indiana"
     excerpt: "Facebook parent company Meta will build one of its first data centers dedicated to generative AI workloads in Jeffersonville, Indiana, creating roughly 100 operational jobs and about 1,250 in construction work at a cost of $800 million."

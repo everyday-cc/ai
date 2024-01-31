@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-
 webUrl: "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/xqrpsmD89RAHzjKcG7SLxi-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Samsung’s AI-powered Galaxy S24 Series makes life easier than ever"
-    excerpt: "And if there is someone around you who would understand it better in another language, Galaxy AI can translate it for them too. Another remarkable AI feature on the Galaxy S24 Series is the Live Translate, which allows you to easily find your way around in ..."
-    publishedDateTime: 2024-01-26T12:41:00Z
-    webUrl: "https://gulfnews.com/technology/consumer-electronics/samsungs-ai-powered-galaxy-s24-series-makes-life-easier-than-ever-1.1706272769043"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 39
-    images:
-      - url: "https://imagevars.gulfnews.com/2024/01/26/-_18d45b1eb29_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
   - title: "Samsung Galaxy S24 Ultra: All about AI"
     excerpt: "On top of that, the AI can translate any text (and voice), currently supporting 13 languages, including English, Mandarin, and Spanish. For some languages, it includes multiple locales – United States and the United Kingdom for English, for example."

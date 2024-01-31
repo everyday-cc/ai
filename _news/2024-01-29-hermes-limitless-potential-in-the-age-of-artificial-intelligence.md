@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-29T01:54:00Z
 originalUrl: "https://seekingalpha.com/article/4665659-hermes-limitless-potential-in-the-age-of-artificial-intelligence"
 webUrl: "https://seekingalpha.com/article/4665659-hermes-limitless-potential-in-the-age-of-artificial-intelligence"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1321811490/image_1321811490.jpg?io=getty-c-w1536"

@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-30-tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-will-also-buy-amd-ai-gpus.md",
-      "title": "Tesla will spend billions of dollars on NVIDIA AI GPUs this year, will also buy AMD AI GPUs",
-      "excerpt": "NVIDIA already commands an estimated 90% of the AI GPU market, but Tesla has said that it will be not only using NVIDIA's various AI GPUs but also AMD AI GPUs but didn't specify which of AMD's AI GPUs it would be purchasing. Tesla boss Elon Musk did state ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/5/95840_91_tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd_full.png",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T14:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2024-01-29-elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software.md",
       "title": "Elon Musk's Tesla loads up on AI hardware to improve self-driving software",
       "excerpt": "Tesla CEO Elon Musk said he plans to buy chips from Advanced Micro Devices Inc. as part of a spending spree on computing hardware to handle AI.",
@@ -161,6 +117,49 @@
       "provider": {
         "name": "KXLY 4 News",
         "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-tech-companies-are-slashing-thousands-of-jobs-as-they-pivot-toward-ai.md",
+      "title": "Tech companies are slashing thousands of jobs as they pivot toward AI",
+      "excerpt": "Technology companies are investing heavily in artificial intelligence, and some workers are already paying the price. SAP is the latest big tech player to cut jobs as it pours money into AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "originalUrl": "https://www.cbsnews.com/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/24/b4c8acc6-c388-4fd5-83a1-3ddda0cfd7bd/thumbnail/1200x630/9c701ffb876eb0e4aff6783dcb64f4d0/gettyimages-1759446379.jpg?v=82ad4e2325e43ceb15c3334435d40e92",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tech-layoffs-artificial-intelligence-ai-chatgpt/",
+      "publishedDateTime": "2024-01-25T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

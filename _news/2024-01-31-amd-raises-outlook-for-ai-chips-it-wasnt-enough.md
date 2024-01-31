@@ -81,6 +81,15 @@ related:
         width: 396
         height: 250
         isCached: true
+  - title: "Strong Buy on AMD Amidst Gaming Decline: Data Center Growth and AI Expansion Drive Long-Term Value"
+    excerpt: "Goldman Sachs analyst Toshiya Hari has reiterated their bullish stance on AMD stock, giving a Buy rating today. Toshiya Hari’s Buy"
+    publishedDateTime: 2024-01-31T08:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/strong-buy-on-amd-amidst-gaming-decline-data-center-growth-and-ai-expansion-drive-long-term-value-1033014307"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "EkDJ8F9DL3Qlc5RClxhpAO3uEw6BUcZSUKdEloDpq2Bg3Tu+MXPYHV5e2kSHaaA1b2L5nM5kOpNN9JGurjg1IfTCLqHpuI/2fBlpjX2nnT1iOpt1sKQJVeNrSp9WSaHo7NIwjf/bRsOBlIzP8uOhcbiKSfRF+wyT/K7xoIM5UYfdDV4DAPzEX9ZUK9n0tE6s7mHcbwxTb3SAMfw9CHKvutcToggwVTAFyZrabKnlulyhUzBoKrlCt2RMWCwg5hn50IhqdfTlXI+cfu2GNMADV/3IWuc+JD77LjXAADA2W0SbuthzpPPy2Z3icxl83fkzVL2D5x3Q60nacSKABumfd3+6tv+LmwCJfzCfKiiElGw=;c3SaA8Nr3e/SLYgAR/uBGA=="
 ---

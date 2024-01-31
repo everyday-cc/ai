@@ -56,7 +56,7 @@ related:
     provider:
       name: WWLP-22News
       domain: wwlp.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
         width: 1280

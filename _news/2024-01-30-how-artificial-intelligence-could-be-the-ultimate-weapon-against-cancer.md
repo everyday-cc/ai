@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2024/01/how-artificial-intelligence-could-
 webUrl: "https://medcitynews.com/2024/01/how-artificial-intelligence-could-be-the-ultimate-weapon-against-cancer/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1732
     height: 1732
     isCached: true
-
-related:
-  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
-    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
-    publishedDateTime: 2024-01-30T06:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
 
 secured: "OLujEEZRMmldHB1XggEq34h80VxXx0BCirEO/jweWDCmJ3CVGtBoHMc9hqZYkDOy4buw1+nqeU4OO5+xNCaotbCXjUpjjPabddjvctWNYCptHDS1YZckt9WjHMTmW9ad7xXQmzPA6quy7OaditJdh+xnYdOQZ6hr7gOn2VBEH1MIDZ9WtrbeDFPBy6oeFeOPSx9soHyVK/w4chYSg9mrM7ut9hObjajscR6uXPihL87zecWV+r5l4zpxPcUo5SIzh3Ho3Yqqs/RHXeJcKrGO/6jSezC6aatFqDxN3VD2tQIedCvu9v4VQJzsv288R7s7Mrwih9ylUAtZ0vziNp6mzTo+2p1Drkoo/NInA6wya3g=;XenE7kNfaFzK0AI+izHaAA=="
 ---

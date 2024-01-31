@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft issues light guidance even as Azure growth drives earnings beat"
+    excerpt: "Microsoft shares moved as much as 2% lower in extended trading Tuesday after the software maker issued fiscal second-quarter results that outdid analysts’ estimates and a light quarterly revenue outlook. Here’s how the company performed, compared with consensus among analysts polled by LSEG, formerly known as Refinitiv:"
+    publishedDateTime: 2024-01-30T23:09:00Z
+    webUrl: "https://www.cnbc.com/2024/01/30/microsoft-msft-q2-earnings-report-2024.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/30/microsoft-msft-q2-earnings-report-2024.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/microsoft-msft-q2-earnings-report-2024.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 103
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107324589-1698424883333-gettyimages-1702402106-GOOGLE_DOJ_ANTITRUST.jpeg?v=1706552089"
+        width: 3727
+        height: 2485
+        isCached: true
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
     publishedDateTime: 2024-01-30T21:42:00Z
@@ -84,6 +100,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Buy Rating for Microsoft on Strong Q2 Results and Impressive AI-Driven Growth"
+    excerpt: "Microsoft’s Azure cloud service, including its AI services, experienced a significant year-over-year growth, outstripping the guidance and market expectations. The contribution from AI services, in particular, doubled and now represents a substantial and ..."
+    publishedDateTime: 2024-01-31T03:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-microsoft-on-strong-q2-results-and-impressive-ai-driven-growth-1033014540"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "Humanoid Robot Startup Reportedly In Talks For Mega Funding Round Led By Microsoft, OpenAI"
     excerpt: "AI startup Figure AI Inc. is in advanced talks to secure up to $500 million in funding led by Microsoft Corporation and OpenAI for developing humanoid robots capable of performing hazardous tasks."
     publishedDateTime: 2024-01-31T05:00:00Z
@@ -98,6 +123,15 @@ related:
         width: 845
         height: 563
         isCached: true
+  - title: "Investors Punish Microsoft, Alphabet as AI Returns Fall Short of Lofty Expectations"
+    excerpt: "Shares of chipmaker AMD, which boosted its 2024 forecast for AI processors to $3.5 billion on Tuesday, fell 7%. Analysts had previously expected AMD to sell $4 billion to $8 billion worth of AI chips, said Summit Insights analyst Kinngai Chan, adding the stock's valuation is also pegged to those figures."
+    publishedDateTime: 2024-01-31T11:23:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-01-31/investors-punish-microsoft-alphabet-as-ai-returns-fall-short-of-lofty-expectations"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "AI Companies Lose $190 Billion in Market Cap After Alphabet and Microsoft Report"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who had sent their stocks soaring."
     publishedDateTime: 2024-01-31T00:15:00Z
@@ -189,20 +223,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/satyanadella-copilot-ignite2023.png"
         width: 2802
         height: 1562
-        isCached: true
-  - title: "The FTC’s inquiry into Microsoft, Amazon, and Alphabet’s AI alliances is the opening shot in a showdown that could reshape tech"
-    excerpt: "Big Tech's multi-billion dollar partnerships with OpenAI and Anthropic are in the regulatory spotlight. And the stakes on all sides have never been higher."
-    publishedDateTime: 2024-01-26T11:52:00Z
-    webUrl: "https://www.aol.com/finance/ftc-inquiry-microsoft-amazon-alphabet-045259084.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 26
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/88hUpqpR_ZwtelGfORIXbQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTY-/https://media.zenfs.com/en/aol_fortune_385/5838e2d0df3f4ecd6b85bb4284787667"
-        width: 1200
-        height: 856
         isCached: true
   - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
     excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
