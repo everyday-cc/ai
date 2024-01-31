@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Explicit AI deepfakes of Taylor Swift have fans and lawmakers up in arms"
-    excerpt: "Perhaps then it is not surprising to see calls from lawmakers in the U.S., Swift's home country, to further regulate the technology."
-    publishedDateTime: 2024-01-26T06:57:00Z
-    webUrl: "https://venturebeat.com/ai/explicit-ai-deepfakes-of-taylor-swift-have-fans-and-lawmakers-up-in-arms/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_eerie_and_foreboding_abstract_image_featuring_a_silhout_df2c0cca-980b-41f4-a5e8-f6d84d95758a.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
     excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
     publishedDateTime: 2024-01-31T01:17:00Z
@@ -70,20 +56,6 @@ related:
       - url: "https://s.abcnews.com/images/GMA/taylor-swift-gty-bb-231003_1696355293910_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
-    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
-    publishedDateTime: 2024-01-26T22:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
-        width: 1021
-        height: 739
         isCached: true
 
 secured: "YF2PdfATQ2qNvHrD4NWHXSJxCveJ+zNwdgE+fOp972vxGwvWY7C9AdfCoy9LhN0ijXBzPy/khDDYgKid1eXNBLwvEipSDXAf7WFMWu0XodBXohBI8HWkdGHiHQxoO0RWe5uIiI7nz8w5x4Xy060nf+nrMVoRlORloyjNl/8Rzh6qngFXdPbEvD2C2v5SRYWJoqdCFH/WQrltx85ELbcEbRpPsYmZHnUjlpInYufdzsg1+j7kGmBg1JKGHveaqxcbD8T5OpJ1ElstZQDGoCzsE+1wgLF7pP/3nAeMhzwLi/m4vj+1o9gTtA3nDzMuowmcwuuJWF/grEiQ0WK6g3Xve2rnecyY+h6cYcVTcg81B1Ax8IT2OeW97qAuxMgqYGNNyG99yFJP9c6+fKylMXiwYMiliAZief3cEMRiQ3UE1D2ml8AuGotzua8EedKC+8LjkjmR1r16NxM1YFpuu1sK9zeS32vBzfwlYu5sjvw4gHYRz1JRaSHQ5hZluzo0arsSFbTHHQBpF0LHE72AbhGDGg==;KD5+GuF3lxE2ajBjw2+GBw=="

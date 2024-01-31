@@ -54,20 +54,6 @@ related:
         width: 986
         height: 555
         isCached: true
-  - title: "Tech Giants Take a Beating at FTC's AI Summit"
-    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
-    publishedDateTime: 2024-01-26T06:52:00Z
-    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "FTC opens inquiry into Big Tech’s partnerships with leading AI startups"
     excerpt: "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have"
     publishedDateTime: 2024-01-26T17:15:00Z

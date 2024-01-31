@@ -35,6 +35,22 @@ related:
         width: 1024
         height: 751
         isCached: true
+  - title: "Jack Dorsey's fintech firm Block lays off nearly 1,000 employees"
+    excerpt: "Jack Dorsey's financial services company Block is laying off close to 1,000 employees, which will affect staff in the Cash App, Afterpay and Square subsidiaries of the company."
+    publishedDateTime: 2024-01-31T05:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/articleshow/107281058.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-4496,msid-107281078/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The rise of digital banking: Fintech trends in 2024"
     excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
     publishedDateTime: 2024-01-29T18:34:00Z

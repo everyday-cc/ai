@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-29-italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt.md",
+      "title": "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT",
+      "excerpt": "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-4-new-ai-features-for-developers-in-singlestoredb.md",
       "title": "4 new AI features for developers in SingleStoreDB",
       "excerpt": "From faster vector search to collaborative Notebooks, SingleStore recently unveiled several AI-focused innovations with developers in mind. Let’s dive in. At the inaugural SingleStore Now conference, SingleStore announced several AI-focused innovations ...",
@@ -251,7 +294,7 @@
       "originalUrl": "https://www.androidauthority.com/assistant-with-bard-rollout-date-3408672/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1177,58 +1220,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-navigating-the-potential-and-perils-of-synthetic-data-in-healthcare.md",
-      "title": "Navigating The Potential And Perils Of Synthetic Data In Healthcare",
-      "excerpt": "Synthetic data holds great potential for enhancing healthcare AI, but caution is required due to its associated risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b48b0efa533a4f3972fef0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1371,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/27/navigating-the-potential-and-perils-of-synthetic-data-in-healthcare/amp/",
-      "publishedDateTime": "2024-01-27T05:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

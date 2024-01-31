@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/"
 webUrl: "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891"
         width: 986
         height: 555
-        isCached: true
-  - title: "Tech Giants Take a Beating at FTC's AI Summit"
-    excerpt: "The FTC hosted a virtual summit Thursday focused on competition problems in the burgeoning AI industry. The outlook is grim for new entrants into the market for chips and cloud computing services, and experts said it may be too late to level the playing field."
-    publishedDateTime: 2024-01-26T06:52:00Z
-    webUrl: "https://www.law.com/corpcounsel/2024/01/26/tech-giants-take-a-beating-at-ftcs-ai-summit/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Lina-Khan-767x633.jpg"
-        width: 768
-        height: 633
         isCached: true
   - title: "FTC Begins Inquiry into Artificial Intelligence"
     excerpt: "Jan 26, 2024 The Federal Trade Commission (FTC) issued orders to five companies requiring them to provide information about their investments and partnerships involving artificial intelligence (AI)."

@@ -19,52 +19,128 @@ topics:
   - AI
 
 related:
-  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
-    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
-    publishedDateTime: 2024-01-30T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
+  - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
+    excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
+    publishedDateTime: 2024-01-26T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/26/five-techniques-to-ensure-reliable-and-honest-use-of-generative-ai/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
-        width: 1200
-        height: 674
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Architect defense-in-depth security for generative AI applications using the OWASP Top 10 for LLMs"
-    excerpt: "This post provides three guided steps to architect risk management strategies while developing generative AI applications using LLMs. We first delve into the vulnerabilities, threats, and risks that arise from the implementation, deployment, and use of LLM solutions, and provide guidance on how to start"
-    publishedDateTime: 2024-01-26T20:37:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
-  - title: "Generative AI startup taps 3 health system execs"
-    excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
-    publishedDateTime: 2024-01-30T18:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-startup-taps-3-health-system-execs.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
         height: 600
         isCached: true
-  - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
-    excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
-    publishedDateTime: 2024-01-30T12:26:00Z
-    webUrl: "https://www.aol.com/finance/language-dies-every-2-weeks-172634105.html"
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-30T22:37:00Z
+    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    type: article
+    provider:
+      name: katu
+      domain: katu.com
+    quality: 59
+    images:
+      - url: "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg"
+        width: 648
+        height: 364
+        isCached: true
+  - title: "Generative AI: value, risk and regulation"
+    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
+    publishedDateTime: 2024-01-28T16:10:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
+    images:
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
+        isCached: true
+  - title: "Use of generative artificial intelligence at UNIGE"
+    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
+    publishedDateTime: 2024-01-30T12:44:00Z
+    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
+    type: article
+    provider:
+      name: unige.ch
+      domain: unige.ch
+    quality: 37
+    images:
+      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
+        width: 1200
+        height: 620
+        isCached: true
+  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
+    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
+    publishedDateTime: 2024-01-30T16:43:00Z
+    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "The generative AI smartphone age is here"
+    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
+    publishedDateTime: 2024-01-26T15:11:00Z
+    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 3
+    quality: 19
+  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
+    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 0
 
 secured: "wxzxt6KjtQmY/JJP+FEFkeiKIqAqVqMp45WHwsWyr0PqCkWL64O9FHLzUe0ghx6FJzoVYFH6Jw/ESNjYjTyNrk03W9MjsJiVj6Es4DU/QEdnP2S8U5rpLfdpUKI0hN5y3tHz0XcOSoSdVCtb4UkhZ35e66NNh82PFbRuRyi7mPa91owoWQm5JSfl7zvxrHySFs+Ca3i9ceBwLmNDrGS3h3pHmfyGRgzWgAPqpyX8ERVmeG7UhFsLs5Z/HVUSwfXK7gEMYCXlMqSUSQrciYYdOif//HKmvddGwS8GN0N5cgJx22bevlQT+OQQBdvmdr2n9W9QXRJijT6z1Nb9lT2kSvHpC+m6IwEof1jrEh7rS8xVg4b4tBBMk+Y8BuPGDJCC7ZOwFabmSZA3HERlpkRh7cf3oMSVr22Q+ziarVEHCTtD6sAAje1mO4ptJzG3xvv5XcuwaHiur0HSV510si+9KBJyTCfwKNeXZ/PCt774yr6+fjQlMS4v47yyN5xnJAAb/UoPiTUjGOQLlRTnsYwsvw==;x1ampjuzOrsluuqhyT2wBw=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1600
         height: 856
         isCached: true
-  - title: "The role of artificial intelligence in solar energy"
-    excerpt: "As Artificial Intelligence (AI) advances, its transformative impact on the renewable energy (RE) sector has become increasingly apparent. AI’s ability to analyse patterns and leverage vast knowledge has set the stage for improvements in energy production, conversion, and delivery."
-    publishedDateTime: 2024-01-26T06:00:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-artificial-intelligence-in-solar-energy-3375167/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 57
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/01/Untitled-design-2024-01-25T155933.608.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "B4pZuhOIzSzQpxTGprOVEKQrMIO8gqk+LthBhE5ycmuVEpMx0E+xab23wz7tQ1GEtUD9ZfHGTETwhxOhkt4YaryqP5lKjGhUi858VcBRSrF73J+mWxROxXufn7Kjt3xymt1Ia2B+FauqKOVsYOvcMHYSIufQSkRTOnjlX1HWqmHaymdzI3xPBKhf7wFRoKkWlWKbuR9lkMrBrJs608pknGr8Omb4NPeO4cBmq4KIOau5oigt40JDPEFYyvTJagg+3E6TBOWNj0N/e9XRb9vFxmHdgnRd3qZKyq0ySzEGyQiV8G7BAYiT29qDRBDP5ki6sykn/peBOgY8c4ccTmOlOoWXOHqxLshGJm7cKsq9J7Q=;RCJ/GCCNa8IQaLg6gP6ixg=="
 ---

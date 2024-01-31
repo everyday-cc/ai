@@ -47,15 +47,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 72
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
   - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
     excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
     publishedDateTime: 2024-01-30T12:26:00Z

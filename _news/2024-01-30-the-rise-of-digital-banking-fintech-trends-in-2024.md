@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 751
         isCached: true
+  - title: "Jack Dorsey's fintech firm Block lays off nearly 1,000 employees"
+    excerpt: "Jack Dorsey's financial services company Block is laying off close to 1,000 employees, which will affect staff in the Cash App, Afterpay and Square subsidiaries of the company."
+    publishedDateTime: 2024-01-31T05:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/articleshow/107281058.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-4496,msid-107281078/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Twitter co-founder’s fintech company is laying off a “large number” of employees"
     excerpt: "Block, a fintech corporation headed by Twitter co-founder Jack Dorsey that has several subsidiaries including Square, Cash App, and Afterpay, is laying off employees in “large numbers”."
     publishedDateTime: 2024-01-31T03:40:00Z

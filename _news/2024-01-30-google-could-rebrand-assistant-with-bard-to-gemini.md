@@ -25,48 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
-    excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-google-bard-with-gemini-just-matched-it-with-a-huge-upgrade"
+  - title: "Google prepares users for a new era with Bard-integrated Assistant: Report"
+    excerpt: "Google Assistant is reportedly gearing up for a transformation with the integration of AI chatbot, Bard. The rollout is anticipated in March and will utilize Google's Gemini family of Large Language Models to enhance the virtual assistant's features."
+    publishedDateTime: 2024-01-31T06:26:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-prepares-users-for-a-new-era-with-bard-integrated-assistant-report-11706682019246.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-prepares-users-for-a-new-era-with-bard-integrated-assistant-report/amp-11706682019246.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-prepares-users-for-a-new-era-with-bard-integrated-assistant-report/amp-11706682019246.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/31/1600x900/Europe-Artificial-Intelligence-0_1705736459532_1706682137355.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google Assistant with Bard details just leaked — including release info and new features"
+    excerpt: "Google is hoping to breathe new life into Assistant by integrating its large language model chatbot Bard. Fresh leaks suggest this could launch as soon as March, bringing generative AI capabilities and improved reasoning to the voice assistant."
+    publishedDateTime: 2024-01-29T16:59:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-assistant-with-bard-details-just-leaked-including-release-info-and-new-features"
     type: article
     provider:
       name: Tom's Guide
       domain: tomsguide.com
     quality: 30
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg"
+        width: 1116
+        height: 628
+        isCached: true
+  - title: "Google might be considering another name for Assistant with Bard: Gemini"
+    excerpt: "We previously spotted how Google might be rebranding \"Assistant with Bard\" to just \"Bard\" and now it's apparently called"
+    publishedDateTime: 2024-01-29T22:42:00Z
+    webUrl: "https://9to5google.com/2024/01/29/assistant-bard-gemini-name/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-assistant-with-bard-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Google’s Gemini Pro Beats GPT-4"
-    excerpt: "Google's Bard (Gemini Pro) has clinched the second position on the HuggingFace Chat Bot Arena Leaderboard, surpassing OpenAI’s GPT-4."
-    publishedDateTime: 2024-01-27T04:41:00Z
-    webUrl: "https://analyticsindiamag.com/googles-gemini-pro-beats-gpt-4/"
+  - title: "Early look at Google’s Bard-powered Assistant emerges online"
+    excerpt: "Google is working on supercharging its long-standing Google Assistant with its Bard AI. We now know how the new Bard-powered Assistant will work ahead of its possible March arrival. As pointed out by Nail Sadykov, the owner of the Google News Telegram ..."
+    publishedDateTime: 2024-01-29T18:27:00Z
+    webUrl: "https://mobilesyrup.com/2024/01/29/early-look-google-bard-assistant-march-release/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/09/google.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Google Gemini Pro moves to second place in chatbot performance table"
-    excerpt: "Google's Bard has made a significant leap in the world of chatbots, climbing to the second position on the Chatbot Arena leaderboard. This notable rise"
-    publishedDateTime: 2024-01-29T11:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-gemini-pro-benchmarks/"
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 4
+  - title: "Google plans to add a Bard Assistant in the next Pixel feature drop"
+    excerpt: "Google is working on supercharging its long-standing Google Assistant with its Bard AI. We now know how the new Bard-powered Assistant will work ahead of its possible March arrival. As pointed out by Nail Sadykov, the owner of the Google News Telegram ..."
+    publishedDateTime: 2024-01-29T18:27:00Z
+    webUrl: "https://mobilesyrup.com/2024/01/29/google-plans-to-add-a-bard-assistant-in-the-next-pixel-feature-drop/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEKodjqr5FCY%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 4
 
 secured: "0Qaa26cf6/S818cZYpMeZqj8Ha3BWrf5qPCt07nlLWyz1WuQfpluClUt8aTO7uV2L3Q6qzKn8LdVL1SkagM5QeWeW6WTX5eLCoHOO349RU5sZwJ6DMaGt2R0iJNpV2DCZ1ZvlXvb0t+GcjcKuuWIvM/7+11UENUPYv8olpTjkkav3Defbu2z4K+AP4kTN6o9n3nG/cUimrUj0UyFBGLyUV6dMKyaSQR/A7Qdz3fv9O17c+Ede0Fj/j/XVeignr6l6G1gWb2MsnM3aPXWjxpEDsQjaAJquDiMNIRCW1v7a4ATfLEBB4mzqZgrkbRPP2fvU0HdTnwUjuU86qmRrDZeTg32YEhryLMjJ3bCDhCpklM=;p07y+fYSYkBeJrYId76XJA=="
 ---

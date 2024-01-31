@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
-    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
-    publishedDateTime: 2024-01-26T05:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
     excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
     publishedDateTime: 2024-01-26T09:33:00Z

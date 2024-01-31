@@ -54,6 +54,100 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-taylor-swift-ai-images-prompt-us-bill-to-tackle-nonconsensual-sexual-deepfakes.md",
+      "title": "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes",
+      "excerpt": "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill",
+      "publishedDateTime": "2024-01-31T01:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-ai-machine-learning-to-keep-old-structures-strong.md",
+      "title": "AI, machine learning to keep old structures strong",
+      "excerpt": "Old buildings can now be made safe and collapse-proof using machine learning and artificial intelligence-aided mechanisms. Philadelphia-based Drexel University",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "originalUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.assettype.com/newindianexpress%2F2024-01%2F22218b5f-7a88-49a3-91fe-7bcd9eff582f%2FMachine.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "publishedDateTime": "2024-01-30T23:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
       "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
       "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
@@ -106,49 +200,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-31-washington-state-to-develop-guidelines-for-agencies-using-generative-ai.md",
-      "title": "Washington state to develop guidelines for agencies using generative AI",
-      "excerpt": "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations.",
-      "sourceUrl": null,
-      "webUrl": "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "originalUrl": "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg",
-          "width": 648,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "cdnAmpWebUrl": "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "publishedDateTime": "2024-01-30T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "katu",
-        "domain": "katu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
       "title": "Block becomes the latest fintech to lay off workers",
       "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
@@ -157,7 +208,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -512,7 +563,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -754,7 +805,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1182,49 +1233,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.md",
-      "title": "Can AI and robotics whip you into shape? Avon fitness studio thinks so",
-      "excerpt": "AVON, Ohio -- Amy and Paul VanderEyk have opened a new high-tech fitness studio -- where your personal trainer will rely on artificial intelligence and robotics. The married duo, from Columbia Station, have opened their first The Exercise Coach franchise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
-      "originalUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4QEA5WTPN5C6FG6IJMWCJTOQJY.jpg",
-          "width": 480,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
-      "publishedDateTime": "2024-01-30T01:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

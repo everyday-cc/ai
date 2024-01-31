@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How Generative AI Is Revolutionizing Customer Service"
-    excerpt: "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights."
-    publishedDateTime: 2024-01-26T06:22:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Five Techniques To Ensure Reliable And Honest Use Of Generative AI"
     excerpt: "It's no longer a stretch of the imagination to see how generative artificial intelligence (AI) brings value to modern enterprises. Streamlined work speeds up organizational processes, accurate collection of data reduces human errors and advanced analytics facilitates strategic decision-making."
     publishedDateTime: 2024-01-26T11:45:00Z
@@ -67,19 +51,35 @@ related:
         width: 1218
         height: 600
         isCached: true
-  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
-    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
-    publishedDateTime: 2024-01-28T12:25:00Z
-    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-30T22:37:00Z
+    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: katu
+      domain: katu.com
+    quality: 59
+    images:
+      - url: "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg"
+        width: 648
+        height: 364
+        isCached: true
+  - title: "Generative AI: value, risk and regulation"
+    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
+    publishedDateTime: 2024-01-28T16:10:00Z
+    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
     quality: 39
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
-        width: 600
-        height: 450
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "How generative AI is transforming the future of work"
     excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
@@ -109,15 +109,38 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology"
-    excerpt: "“Leveraging cutting-edge AI technology is a testament to HYCU's commitment to technological innovation and leadership in the data protection industry,” said Philippe Nicolas, Principal, Coldago Research ... us on LinkedIn, Facebook, Instagram ..."
-    publishedDateTime: 2024-01-30T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hycu-inc-leverages-anthropic-to-revolutionize-data-protection-through-generative-ai-technology-1033009921"
+  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
+    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
+    publishedDateTime: 2024-01-30T16:43:00Z
+    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: WPLG
+      domain: local10.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
+    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
+    publishedDateTime: 2024-01-26T13:04:00Z
+    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 18
+  - title: "Copyright Law and the Inextricably Intertwined Futures of Journalism and Generative Artificial Intelligence"
+    excerpt: "It’s increasingly evident that bright futures for both journalism and generative artificial intelligence (Gen AI) hinge on copyright law, licensing agreements, and high levels of cooperation between content creators and technology innovators. The New ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.aei.org/technology-and-innovation/copyright-law-and-the-inextricably-intertwined-futures-of-journalism-and-generative-artificial-intelligence/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 0
 
 secured: "Zc/b3uA6zbWNMUVRUQHLvKWCmb07yd+sCJ4CnhPWRQRlxMSXDcfm5XAAR22SenZiQkRLx64ywdeDWBcBRpww3bZ0TlkdkHBUnTWzI6RsQwxgGo0zuZPr4Le5qizeQk/d1Ys4IffFBBYHRvI5zL+L7OsTTr9BjZ7z6qkzAkAZ2GF4CX1g2XGhGT2AAhLg8brioR8Iyu9RGbIWp3TApC+6lI8e1YKsScm4SdTfrGixn4PhLCqqv/C/Yk2tHMk9/jE1vuIBodVJqKuolCvv+uIGetXmeGCu/4Om4hCP0YSgg27YKnWx6k9wJu3SMCiAccuNZs1sQwYvETn0S5YJufAjg+JE3IB08m2apfcCtAYihHCwJSoCgPZ2txKPAE8cyzCVfJ5beAaGtetwptPwd80vRmnEbJHZgi6ITHNHcQ8SKzvm3LQBZV1MUso/vyBRKD4QB6ylz7pb7u74m1A8xF8vcmH0c5AVlWouQ+3Lqk7kyZx5T1jIq2/vEyDnGc8z+XiGGJnZvCn6wN4FPv3ALj0k2Q==;/9kZlNs7qgCT3TGrHsM9CA=="
 ---

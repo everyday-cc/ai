@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-opera
 webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Big-tech firms like IBM and Amazon lead generative AI boom with new tools"
-    excerpt: "As the realm of AI-enabled tech continues to evolve, its application scope also expands, leading more companies to integrate these technologies into their operations."
-    publishedDateTime: 2024-01-26T13:04:00Z
-    webUrl: "https://cointelegraph.com/news/big-tech-ibm-amazon-ai-boom"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 18
   - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
     excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
     publishedDateTime: 2024-01-30T12:26:00Z
@@ -71,6 +62,6 @@ related:
       domain: aol.com
     quality: 3
 
-secured: "iDM2hJf9GlBG8FnGZdxc7zNZS+DYZ08DYDui0jr1cKVo33qXjvII+xVW0Qe0NXu/f07HQikEudwZeS2gc3tSHSbSgme9vPRMaoLrVB5BRwOvwp6fUZzErKld9MJiMteUunQF5hi+FXbnhHSPrbd8YRV3QmkC3m7rQHmarooD/LwAFxVghXdhhzf0VDgDbmznYQuL8cGxHDUDLz+7ziYkOC89eNesTgtIiBRpjstmahD3xUTWVVVF2y5MAyB7pHAwhN/Blx++TF2mjMncZUAsnbh3+HXnHf8ATkJ3Uyqzwjbb1wv3W1jc9cFvoxYlDG47hhs49rU2m02WVPkP7vYVvhYi+pavGiEEMTIiHBUZizU=;+ThGSNrF1F5vBjiASfVmxQ=="
+secured: "MnQwDWstF+4ceTSBvfqDCJYtv0P0kG+1Jo1A7wz/1VmjrJXlNSWr+0HCk6wd1vnEfylCZdWysd6LUsEiu4OUzMQZj1EHs1GFYkuMtrMU4mGVE9aNWeiEugXJ0zaVLo5AHtSbgQ4oc9D6WnjZ3Pgb9xe5Hk5nswRNkv/nnpEVLRjsGyBggcuuBgIZgcVrs/58vzBxPAZDyLkRHbtP09ldzMFJqMTtDnOj1/J4EDai7tilINw6tznpAb0JXID9FCPc8co4PqyNY8AeMS+beKemfx82YhXfgY3TbcFCba1waIxFpWNFKeVto6OcqXD0DP/AROKK8IbEeJjezG/NZMlzo7u0j1cfQZj0bkj8fLqx2vg=;VCpT+86Q8rkrVIWRVaj6sA=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 751
         isCached: true
+  - title: "Jack Dorsey's fintech firm Block lays off nearly 1,000 employees"
+    excerpt: "Jack Dorsey's financial services company Block is laying off close to 1,000 employees, which will affect staff in the Cash App, Afterpay and Square subsidiaries of the company."
+    publishedDateTime: 2024-01-31T05:39:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/articleshow/107281058.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees/amp_articleshow/107281058.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-4496,msid-107281078/jack-dorseys-fintech-firm-block-lays-off-nearly-1000-employees.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "The rise of digital banking: Fintech trends in 2024"
     excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
     publishedDateTime: 2024-01-29T18:34:00Z
@@ -136,6 +152,6 @@ related:
       domain: dailymirror.lk
     quality: 0
 
-secured: "0PVCDEqig4qkNFvRLi+6qG+EbueifheaUXBKGmaszMVRhMQZtqojYuie2GqFK8zodBIOAj/5DkgwD00hjLUZp/QuSEcihu8QfRtZXo4gjk/Y8wGYgsUn0OSjXAM4dSjHjiwqT5yqC1vzZohrSM/WmfYE9OeryYuiOVn0dwlAHaRAazqToYh24hJfJxFHijgWX2pjAmdRiF9FIjGRpR4Y0QgUDZ/dDBN4b7MGRe7LYbvlozgYSeQCBxiJ1+xL57da11K+09sgwA/xRFbFazF9iaXaF8lvJAeghDu0OtyHsRSyDE+ndXol1fBMZNbQ4d2l16WKMr39txHpUx9SueAz8hqTfvbEHvknfAxcWFn9OLU=;HbjSxjCUf8ZoPfJD+4FspA=="
+secured: "pnLEKwo7Vxhq7eXrRKAQ5R6OrQTH2EPpZ8OHK9oE9KWXOQpSgBjJ7WjzyzeC8A4xS6rhxfjELnO5pi7X5mipKeJirhT0XGVGOxxr4cfP1nPMwPND2n3tJEBcXkfcaQtm8G1dpQ/OAE0Jw7O9cMMGBQ3jN0ZGaYerdsVUFwOjnQVttxpPrXX90byZ0qul4+zlTRiKqcFDDqgXIc1FR8katWBjnCHTlzlee9sugYkOrdFICgnPpKELEJLBEcDzj/6drNP6UVjL8+XD/lIkJjc4hCKHXRfWqiBcLLvwwR48MYUTt3/cUSyBNUcDnnF8zBpVAWVba3Sbr2TVT5OvERa7oztUu8oPlY9c7gbxPTGT2IikYm8NLK/BDeMnjcDE0ICRdqx1Vday3G6QYNFh69hF97wX4jPRmXC+InICbwE1QzpgVpQP+1m7lTWg4j1HKJUdZfTuRuFT3qfOl5huqAfZ3Ihm7p23tDGAjcrU1fdPDO3S8EkBaSzCNkpVU0cQhpDh+QE/V7T2LBmkLNm+Wz5QlQ==;7CMQcQSAhUxpATFtGMlImg=="
 ---
 

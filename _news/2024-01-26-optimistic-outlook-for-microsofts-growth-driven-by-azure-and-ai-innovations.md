@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
+    excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
+    publishedDateTime: 2024-01-30T21:42:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/microsoft-profit-soars-33-ai-cloud-computing-investments-106809074"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/microsoft-profit-soars-33-ai-cloud-computing-investments-106809074"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-profit-soars-33-ai-cloud-computing-investments-106809074"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 74
+    images:
+      - url: "https://s.abcnews.com/images/Business/wirestory_9a81e475deef2baec8cdfdb58142d475_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "Humanoid Robot Startup Reportedly In Talks For Mega Funding Round Led By Microsoft, OpenAI"
+    excerpt: "AI startup Figure AI Inc. is in advanced talks to secure up to $500 million in funding led by Microsoft Corporation and OpenAI for developing humanoid robots capable of performing hazardous tasks."
+    publishedDateTime: 2024-01-31T05:00:00Z
+    webUrl: "https://www.benzinga.com/news/24/01/36860130/humanoid-robot-startup-reportedly-in-talks-for-mega-funding-round-led-by-microsoft-openai"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/AI-robot.jpeg?width=1200&height=800&fit=crop"
+        width: 845
+        height: 563
         isCached: true
   - title: "AI Companies Lose $190 Billion in Market Cap After Alphabet and Microsoft Report"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who had sent their stocks soaring."

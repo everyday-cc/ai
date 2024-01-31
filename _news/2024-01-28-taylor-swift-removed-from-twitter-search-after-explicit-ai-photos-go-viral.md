@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft revenue surges as AI bet delivers"
+    excerpt: "Sales leaped to $62 billion for the October to December period, up 18 percent year-on-year and above the $61.1 billion projected by analysts"
+    publishedDateTime: 2024-01-31T05:10:00Z
+    webUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781"
+    ampWebUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/pixabay.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
     excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
     publishedDateTime: 2024-01-26T22:52:00Z
@@ -93,6 +109,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-10-Mar-2023-10-52-AM-8936.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
         isCached: true
   - title: "The Fallout From the Taylor Swift AI Porn Could Be Huge"
     excerpt: "Earlier this week, AI-generated porn featuring Taylor Swift started circulating on X (formerly Twitter). Swifties were scandalized. Polite society was incensed. Swift herself hasn’t publicly commented on the scandal but it’s easy to imagine she’s probably not thrilled about it."

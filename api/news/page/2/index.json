@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-30-can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.md",
+      "title": "Can AI and robotics whip you into shape? Avon fitness studio thinks so",
+      "excerpt": "AVON, Ohio -- Amy and Paul VanderEyk have opened a new high-tech fitness studio -- where your personal trainer will rely on artificial intelligence and robotics. The married duo, from Columbia Station, have opened their first The Exercise Coach franchise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
+      "originalUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4QEA5WTPN5C6FG6IJMWCJTOQJY.jpg",
+          "width": 480,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/community/2024/01/can-ai-and-robotics-whip-you-into-shape-avon-fitness-studio-thinks-so.html?outputType=amp",
+      "publishedDateTime": "2024-01-30T01:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-heart-failure-monitoring-startup-acorai-turns-heads-with-oversubscribed-seed.md",
       "title": "Heart failure monitoring startup, Acorai, turns heads with oversubscribed seed",
       "excerpt": "Swedish medical device startup Acorai is pairing proprietary sensing hardware ... “We are able to estimate these pressures directly, as opposed to, you know, an AI index of risk or something like that — and I think that’s a very important competitive ...",
@@ -113,7 +156,7 @@
       "originalUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -260,7 +303,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -312,7 +355,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -406,7 +449,7 @@
       "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -947,7 +990,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 324,
       "tags": null,
       "images": [
         {
@@ -1177,49 +1220,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt.md",
-      "title": "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT",
-      "excerpt": "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

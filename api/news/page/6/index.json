@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
+      "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
+      "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
+      "originalUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14807e631844a3005ca8d/0x0.jpg?format=jpg&crop=1230,922,x144,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "publishedDateTime": "2024-01-25T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-how-to-use-cognitive-automation-to-optimize-operational-workflows.md",
+      "title": "How To Use Cognitive Automation To Optimize Operational Workflows",
+      "excerpt": "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 883,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "publishedDateTime": "2024-01-25T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
       "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
       "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
@@ -1113,110 +1217,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-generative-ai-revolutionizing-professional-services-for-wealthy-families.md",
-      "title": "Generative AI: Revolutionizing Professional Services For Wealthy Families",
-      "excerpt": "These platforms used AI to provide automated, algorithm-driven financial planning services with little to no human supervision. Across these professions, the journey of AI started with basic automation and rule-based systems and has evolved to incorporate sophisticated machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
-      "originalUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b12fef3783787dec0c5115/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
-      "publishedDateTime": "2024-01-24T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
-      "title": "6 Critical – And Urgent – Ethics Issues With AI",
-      "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
-      "publishedDateTime": "2024-01-24T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Generative AI: value, risk and regulation"
-    excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
-    publishedDateTime: 2024-01-28T16:10:00Z
-    webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
-    type: article
-    provider:
-      name: BusinessMirror
-      domain: businessmirror.com.ph
-    quality: 39
-    images:
-      - url: "https://businessmirror.com.ph/wp-content/uploads/2023/01/KPMG-Perspectives.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-
 secured: "rkBGjvTf5z5dOrw0owFeeXjcLHMuh0rjHADfnzJoyGXAhufdr3te2E/PXSM7ckIVNaKQ5NM5P61mZIHurXzlClLqhS/C9wh7XccGpx4ZQLFuwEotlXB0qOHf+nACl0fy6q37CYFB9KotQRCM1Kxlu1t3fFgUMelDjorAMuLZ3dG9aDfKe4FgM830Kq1pjkOj924QU9L59DeDiP1bqO4G1mq+97SCyU47EVql7jkxlF6h8p/ZXwJdCci/t+yHKcA1NOvOp1FxKdMIzSxp9Ybz3RaC88Xpesz4V244TqmUKmpNeH6NZdecBqGyLlTIQv+mB5kjLbZORG3H1zx9QWN4GQoEGxzb9PufX4u2jvz8VSZBpktJ284reOrqDtGLYgahL0Dh4wQ+0glmxjdSPEMxvVkUE0GQTxHW1LeKcdN1wf0GV/NJY8PPmFb86OwVdnBHYlN47tGaW/g6f0EghBr4qG8LRWBw0/DdX1cJ6w+CLrOpW8AKeb+8a/wrClv4uBC3dUMjRqAHfiHE6E+297YNOg==;vF1hMNbVLCDb3hhQEO+PWg=="
 ---
 

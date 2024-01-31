@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Buy Rating Affirmed for Alphabet on Strong Investment in AI and Operational Efficiency"
-    excerpt: "TD Cowen analyst Michael Elias maintained a Buy rating on Alphabet Class C (GOOG – Research Report) today and set a price ... which are essential for scaling up the company’s Generative AI (GenAI) efforts across various business segments."
-    publishedDateTime: 2024-01-26T05:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-alphabet-on-strong-investment-in-ai-and-operational-efficiency-1033001066"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 41
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z

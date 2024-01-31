@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-24-generative-ai-revolutionizing-professional-services-for-wealthy-families.md",
+      "title": "Generative AI: Revolutionizing Professional Services For Wealthy Families",
+      "excerpt": "These platforms used AI to provide automated, algorithm-driven financial planning services with little to no human supervision. Across these professions, the journey of AI started with basic automation and rule-based systems and has evolved to incorporate sophisticated machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
+      "originalUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b12fef3783787dec0c5115/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/matthewerskine/2024/01/24/generative-ai-revolutionizing-professional-services-for-wealthy-families/amp/",
+      "publishedDateTime": "2024-01-24T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-6-critical-and-urgent-ethics-issues-with-ai.md",
+      "title": "6 Critical – And Urgent – Ethics Issues With AI",
+      "excerpt": "There is no doubt in most people’s minds that AI is one of the most transformative technologies of our time. There is no doubt in mine that it is the most transformative technology ever. The “of our time” position has been borne out already.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b13f5dbfd1c5e8bad17861/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2024/01/24/6-critical--and-urgent--ethics-issues-with-ai/amp/",
+      "publishedDateTime": "2024-01-24T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-apple-aims-to-run-ai-models-directly-on-iphones-other-devices.md",
       "title": "Apple aims to run AI models directly on iPhones, other devices",
       "excerpt": "Chief executive Tim Cook told analysts last summer that it “has been doing research across a wide range of AI technologies” and investing and innovating “responsibly” when it comes to the new technology.",
@@ -1098,112 +1202,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-national-cyber-security-centre-study-generative-ai-may-increase-global-ransomware-threat.md",
-      "title": "National Cyber Security Centre Study: Generative AI May Increase Global Ransomware Threat",
-      "excerpt": "Similarly to how attackers offer ransomware-as-a-service, they now offer generative AI-as-a-service as well, the report said. SEE: A recent malware botnet snags cloud credentials from AWS, Microsoft Azure and more (TechRepublic) “AI services lower ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/",
-      "originalUrl": "https://www.techrepublic.com/article/generative-ai-ransomware-threats-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/cybersecurity-hero-adobe-stock-kras99-jan-24-v2.jpeg",
-          "width": 799,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
-      "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
-      "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
-      "originalUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
