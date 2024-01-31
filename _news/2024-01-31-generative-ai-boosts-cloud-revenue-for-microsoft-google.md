@@ -135,20 +135,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
-    excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
-    publishedDateTime: 2024-01-26T22:52:00Z
-    webUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/01/holt-nadella.jpg"
-        width: 413
-        height: 549
-        isCached: true
   - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
     excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."
     publishedDateTime: 2024-01-29T05:51:00Z
@@ -405,6 +391,6 @@ related:
       domain: thedailybeast.com
     quality: 15
 
-secured: "iz/AShxlQnJVr4Vb+yKGAqdLpW4eghLtyx+NICnDp4cXez2+XVs13tXzZi7yrAfwgeWCdlcPfN5LRer/vyIqi8ZO1lKf6xsoWxuqq709ZESWrJhgmq3WZ1kkEmSsgxnqlGioULCdhOvqG3TqZx8T4Doq9KEVP+Ob0TFejz9dslGzjqFd5Y/9QUw2FDmY/Cr6CIqu+pQJq/eGk9Qi2wea5hKHt7jWmcpljcozhe4e2iWAbEsGaWzwoy0aCYX3XNJlPCPqPjvO2xo3SOrgaTvWA/Ykgsewc9I2yDNU6nvRWIwZhhYFf/pGBDKsNjvTbRScBys8KKm9GJpzwqeoYedcXzW60DWBPjHds82e0LAWE7U=;rho1YufQNdCDpJzKdgAxng=="
+secured: "cywhM1a6ktcXG3WQaFdFqHjeudBPvPAQznRy91cSqGFFbwFdsvNKVrHk6V6WJXG7vmcXvdMXlGT3Kb+Fd4VNnkFHBspAbi8+kiSlRS0fI2uK04Mkl0O0lNeavC6LkG+DnX+dUbYjAJtIso+CNhCF46aSxz9SjLqLcB81LuiujwYC0+ceg6dEQroNLyCVU/BG+7SLzOxLf4E879WrkN7xzOVSet23DMSIT9LDq3h9k2RJ8h1f1m9Q9fvLsagR5KkiUrwj+6spx+R77o3BKoqh6zpVVpM9/E55hB2JBCC2Fq1N5tPY0gapPbZPsgK0hkhEOnD1YXSMvXiBtqGEFH5ahKbL/zaq6C1zOCq5fbRAYi60eKITLEdQP8woxCFTO6jgyqeLk8Ua8EZT0hIlGcGg0LdxVEPnV6AANI/v1eCf6tQOPv1hJnL3v+QcvkX80CYj1EQrtGxIhw8WT8kvVUknN1nTNIilmCpDR11wutGuoDES5OwCZ/M94mQyH6zLN4uYVh1A/R13+OeLkk/X3kCIdg==;aWbmjgbAW28D5ZrEsxNlvw=="
 ---
 

@@ -68,20 +68,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
-    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
-    publishedDateTime: 2024-01-26T22:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
-        width: 1021
-        height: 739
-        isCached: true
   - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
     excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
     publishedDateTime: 2024-01-31T01:17:00Z
@@ -92,6 +78,6 @@ related:
       domain: theguardian.com
     quality: 13
 
-secured: "VRzaeg/0DnaQnp4sORKUjDPkWt5nPE0A9/tBASFTsRyaLCnXD5ihKZciVV+Gb66gI/n2FIYSEtgsAUv3EeJOyfNOdTwh9PLCQuSctBWf7zTGchrlRLfYPtJsSKxC7C3Cslg2xNORnliH9hv2Hnbzegui0Hy9SjKShNE8mZXGitrs3ywjD1CV5zggjwNY0zWzc7eqKVGjSS4lmG8yPpZUrSRC9c5rMCMyfRvHe1qX8ZI2/o89J21DRRKiJP/l1a0rLdhI4wgAgRUXpZw7GHt7ipxEaVEw0MH/dhhAJBPsU3Npjg7LZdoEZL0qqdMBrbCQ3aoj3s++HFynhpNaDFWA6UAVglQPgG9kEJQHpJQEZ9c=;qlXKLh67dvwhXFnxOdDIOA=="
+secured: "ZCjw6essupNrJMA+LAOsnpfDVoMa9WOQCV2+FWEhT1behRgNONb/K8PMzTwxNaU6xlQwNr1vOdrxDpoGoDxmWHWp+E+s4qV6OuqLDYYkuz9XmHdJbytvyMcDMmUNiymdpTnnHOjzNEFFCUHE3zNPNNsoGXhC0DXj4a9VlpWQWYSXf6p5NH7g5QyDF75SwG4pVFLbY1ghsfhYB6QhXY6OMI7+cHnUYS3/7n3E8z1ZpwEIfdSOU5IHioqq8QvUTSK/x8xAGMDMmBnQp6HU90nUJ56Y0L4n+FwRcnu1aMm9vMCQvv6elYeAShI4mC6BCulNh8sTiVmp1FWNEvPpGJkSNxO1KSmF2s0piu9LOceNmn2RorHXdE+cbltxB/d1khyT+yCVC/wVMg+cCcm9Gos89zYVZljiHzvQqbp+00Y9Pm1KgM003fHHsvSWJztsPC/gCq/7MIGCqelCqxnFGvx0k7QgCsBwqpzluMeKLrrtXFS7NmtzxrstrHwbdh4S8e4wk+CS0Nj4fnQ9O7oxBJsZHg==;b0NShxrWvxUMSI5kbxoqIA=="
 ---
 

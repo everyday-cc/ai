@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
 type: article
 quality: 99
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
+    publishedDateTime: 2024-01-31T17:20:00Z
+    webUrl: "https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
   - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
     publishedDateTime: 2024-01-31T02:13:00Z

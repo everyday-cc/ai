@@ -105,6 +105,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Could AMD break Nvidia’s chokehold on chips?"
+    excerpt: "On January 30th, in its quarterly earnings call, AMD announced that it expected to sell $3.5bn-worth of MI300s this year. It also reported strong revenues of $23bn in 2023, four times what they had been in 2014,"
+    publishedDateTime: 2024-01-31T19:27:00Z
+    webUrl: "https://www.economist.com/business/2024/01/31/could-amd-break-nvidias-chokehold-on-chips"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 39
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_WBP502.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
     excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."
     publishedDateTime: 2024-01-29T10:00:00Z

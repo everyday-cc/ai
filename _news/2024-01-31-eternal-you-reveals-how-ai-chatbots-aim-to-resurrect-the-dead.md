@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/eternal-you-review"
 webUrl: "https://mashable.com/article/eternal-you-review"
 type: article
 quality: 67
-heat: 90
+heat: 91
 published: true
 
 provider:

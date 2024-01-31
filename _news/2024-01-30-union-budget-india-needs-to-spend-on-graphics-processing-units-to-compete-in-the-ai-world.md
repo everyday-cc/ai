@@ -55,6 +55,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "The economy and ethics of AI training data"
+    excerpt: "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans."
+    publishedDateTime: 2024-01-31T22:12:00Z
+    webUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 54
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Experts explore insights on personal data, AI and responsible tech use"
     excerpt: "Qatar has a liberal data protection law when it comes to the crossing of the border by data and the country is looking at engaging with"
     publishedDateTime: 2024-01-31T07:58:00Z

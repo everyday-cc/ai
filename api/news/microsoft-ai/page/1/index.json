@@ -62,7 +62,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -270,7 +270,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -322,7 +322,7 @@
       "originalUrl": "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -374,7 +374,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -386,7 +386,7 @@
           "isCached": true
         }
       ],
-      "content": "\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
@@ -426,7 +426,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 394,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -565,7 +565,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1257,6 +1257,40 @@
       ]
     },
     {
+      "path": "_news/2024-01-22-is-ai-ready-to-be-your-therapist.md",
+      "title": "Is AI Ready to Be Your Therapist?",
+      "excerpt": "The use of AI in healthcare continues to grow. A 2023 survey showed that more than 1 in 10 clinicians already use chatbots such as ChatGPT as part of their routine workflow, and n",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
+      "publishedDateTime": "2024-01-21T23:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
       "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
       "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
@@ -1457,58 +1491,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-arizona-state-students-will-get-their-own-chatgpt-powered-tutors-as-openai-partners-with-the-university.md",
-      "title": "Arizona State students will get their own ChatGPT-powered tutors as OpenAI partners with the university",
-      "excerpt": "Students, professors, and researchers at Arizona State University are set to get access to OpenAI's ChatGPT Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1",
-      "originalUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65aa55866979d737182492d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arizona-state-students-ai-tutors-openai-partnership-2024-1?amp",
-      "publishedDateTime": "2024-01-19T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

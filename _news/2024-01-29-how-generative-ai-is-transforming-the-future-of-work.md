@@ -71,15 +71,6 @@ related:
         width: 1218
         height: 600
         isCached: true
-  - title: "Architect defense-in-depth security for generative AI applications using the OWASP Top 10 for LLMs"
-    excerpt: "This post provides three guided steps to architect risk management strategies while developing generative AI applications using LLMs. We first delve into the vulnerabilities, threats, and risks that arise from the implementation, deployment, and use of LLM solutions, and provide guidance on how to start"
-    publishedDateTime: 2024-01-26T20:37:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
   - title: "Generative AI startup taps 3 health system execs"
     excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
     publishedDateTime: 2024-01-30T18:14:00Z

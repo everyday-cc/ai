@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-convers
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 149
 published: true
 
 provider:

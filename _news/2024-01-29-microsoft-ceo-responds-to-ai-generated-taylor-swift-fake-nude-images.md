@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 394
+heat: 384
 published: true
 
 provider:
@@ -138,20 +138,6 @@ related:
       - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/pixabay.jpg"
         width: 750
         height: 393
-        isCached: true
-  - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
-    excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
-    publishedDateTime: 2024-01-26T22:52:00Z
-    webUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/01/holt-nadella.jpg"
-        width: 413
-        height: 549
         isCached: true
   - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
     excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."

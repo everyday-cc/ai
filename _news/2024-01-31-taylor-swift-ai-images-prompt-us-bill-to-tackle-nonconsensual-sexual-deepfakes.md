@@ -80,20 +80,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
-    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
-    publishedDateTime: 2024-01-26T22:00:00Z
-    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
-        width: 1021
-        height: 739
-        isCached: true
 
 secured: "i9H7K27LTlx5H3NljGKEd6RoytrL6iWab20CpF4YySYe9bmBvcPMvxPMUVmDVu0oaTxMUkA1O7WwTKp0CBP+prI+1dO2L+wOyTsb6PBK9IsbufItCfI7ySmKcYdQw9wo3PP8nVD75aoT9JKcOFY9q9DU9n5Ie5Zt/u/RA/1JteJAex9HdTqHCQtyXcXhXMJQECRwXKwMYnJnrdc2R9FP7F7heaJnCZJp2UvD3n/KRGBnD3WVjQ0zAoDCsHsG79m9GhNIgEOHzBFUlhig13oJ0ocKKoZ64aCBLz+hPfhSFe/+rE/CfskYFqtSQqVpgaRcaWkLdH7M+2wWStTuLqA5jRh2PK++o98I/at/TWx7SlAVq/3Vl+5PDIS4pBdNiziOrkrKODAKImiERt7jf6vpjI7jgRl4ekIRMIBROssuMTqp9s0xTaCaf9buk/Ek/fx09zBa+cPjz8V1CSrdueYpu+ckGkFOxny5yC5OLo7FfKi9TXvk3ZBhlDOzBYcMQC7QS2vg2L284MaZ+YSVnpJ5KQ==;dTGNqDksNSd/yhLUMqlNJQ=="
 ---

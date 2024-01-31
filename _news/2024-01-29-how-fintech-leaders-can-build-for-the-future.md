@@ -146,6 +146,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "FIS launches Fintech Hangout Series"
+    excerpt: "Accelerator graduates have a track record of success with four members - Lama AI, Forage, Sardine and Array - just named to the GGCV U.S 2024 Fintech Innovation 50. Applications for the FIS Fintech Accelerator Program 2024, its ninth cohort, will open in ..."
+    publishedDateTime: 2024-01-31T20:49:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99516/fis-launches-fintech-hangout-series"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "How can fintech companies improve their customer experience?"
     excerpt: "In this era of digital transformation, Fintech companies are not just adapting; they're evolving to prioritize and enhance their customer experiences, creating bonds that stand the test of time. Let's explore some strategies that can infuse a human touch  into Fintech, making it more than just a service but an experience."
     publishedDateTime: 2024-01-31T10:01:00Z

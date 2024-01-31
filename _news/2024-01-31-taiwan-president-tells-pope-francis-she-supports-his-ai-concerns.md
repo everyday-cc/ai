@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/world/articles/2024-01-30/taiwan-presi
 webUrl: "https://www.usnews.com/news/world/articles/2024-01-30/taiwan-president-tells-pope-francis-she-supports-his-ai-concerns"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -30,12 +30,7 @@ related:
     provider:
       name: Richmond
       domain: richmond.com
-    quality: 49
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/28/4281811b-659c-5c3c-b39c-70f01ea5c625/65adbff409ac0.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 29
   - title: "Vatican’s top AI expert is a Franciscan friar"
     excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing “one of the most fascinating combinations in the world” in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year ..."
     publishedDateTime: 2024-01-27T06:04:00Z

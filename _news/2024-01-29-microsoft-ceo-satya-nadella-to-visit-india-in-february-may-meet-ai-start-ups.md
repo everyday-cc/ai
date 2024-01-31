@@ -151,20 +151,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Asked about Taylor Swift AI deepfake images, Microsoft CEO Satya Nadella says ‘we have to act’"
-    excerpt: "NBC Nightly News released an early written excerpt from an interview scheduled to air Tuesday evening with Satya Nadella, in which anchor Lester Holt"
-    publishedDateTime: 2024-01-26T22:52:00Z
-    webUrl: "https://www.geekwire.com/2024/asked-about-taylor-swift-ai-deepfake-images-microsoft-ceo-satya-nadella-says-we-have-to-act/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 72
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2024/01/holt-nadella.jpg"
-        width: 413
-        height: 549
-        isCached: true
   - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
     excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
     publishedDateTime: 2024-01-31T05:58:00Z

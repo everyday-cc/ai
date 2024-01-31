@@ -3,10 +3,10 @@ category: news
 title: "WEKA Partners With NexGen Cloud to Democratize AI"
 excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
 publishedDateTime: 2024-01-31T09:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/2329623/PR_WEKA_NexGen.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
 related:
   - title: "WEKA Partners With NexGen Cloud to Democratise AI"
     excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
@@ -33,6 +27,34 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/2329670/PR_WEKA_NexGen.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "WEKA Partners with NexGen Cloud on AI Supercloud"
+    excerpt: "AI-native data platform provider WekaIO (WEKA) announced today it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
+    publishedDateTime: 2024-01-31T22:35:00Z
+    webUrl: "https://insidehpc.com/2024/01/weka-partners-with-nexgen-cloud-on-ai-supercloud/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Weka-logo-2-1.png"
+        width: 589
+        height: 294
+        isCached: true
+  - title: "WEKA Partners With NexGen Cloud to Democratise AI"
+    excerpt: "WekaIO (WEKA), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
+    publishedDateTime: 2024-01-31T22:06:00Z
+    webUrl: "https://www.aap.com.au/aapreleases/cision20240131ae22621/"
+    type: article
+    provider:
+      name: Australian Associated Press
+      domain: aap.com.au
     quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/2329670/PR_WEKA_NexGen.jpg"
@@ -53,16 +75,7 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
-    excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
-    publishedDateTime: 2024-01-26T19:18:00Z
-    webUrl: "https://insidehpc.com/2024/01/vast-data-and-genesis-cloud-partner-for-ai-cloud-infrastructure/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
-secured: "+A+6Xw91WMscbqdgwdnlY0ut7fLHJbEOK4FIBv9FuloYLIsk0drltwn+5iOQVite4gYecHZnoZ2YidmIoibmReNPdEgdY8Hbakc7WHwtvdkAv5LzLCLMqZKiOTNXxIV4fwzfViH5hKIUXoMNZST13djl+2atHmQfuqnCi1N9PXkGAh2N/QH77EfDoRKB+JPbSe4yNfAv1197CqzXLaVfNnBVnGma+XfKIXv7iHRq5TAdu55MnhQdjpQhMbBT4SwMQ/ljHLwZbreRC25o9vyMExMgfJloGUqL/ZIGsV0zKEgLkUZj/94MZnBAk5ZNVFpNEGHsmoicY7D/vK8euLRxk6Kv5mprOVctCYAqbtZPVjDsj6wn+Eqqo+35lT9nTXPWmkEFkHz+rrkroO3jXDty0oZAifWm1tinnugffMqCTbBViCO64wZTC1ATNsjnBy+iD/sxpe4pmSzezSwxR8/A8ORXJOqPnCqTzM6u/G2bty10pwhVyceM/eZSnZx+PP1d9wlgHD4DKQOstp6vtmrwNQ==;fiVjYf8BqLIQ9sHpUli98g=="
+secured: "lkqREMFLdGSi3gp+GXWB7WAVKmRfJD1tsf7jM7edvz0UeLyMUe+dKaEzJT0BHBGtf37zcAykNKlycpAlL28p4efU7h5Wz1XNt3qURy7okPQM31q9e3kZw49PNFbv6kqDwXmBvPKsYwjeIMynQYTMBmf8/7HfHTlZyN5ubRWFnWnRWhA4tAvi7LtylRinr6VTb49zhIBrfeO5J+klJyV53HXsJsUCmBBoaJrP7YbjLHLAmrcvf1lMQor+z9K8h4HNPXgtyee/XlGBLL+fOvfoCKfRRF7/FIGyIgmx7xgzGD1gDKUYI+GQ8GvsFPmb5lNJV8g93ZarZ0PsUaiCinYeW9kAvLtQkJraZaGEl/M9dUktBieSmV51jwSiVntI6rLqjZFA3Ha80kMWvn4iMwfq2gLLhsZhvU32CaC3VF8znlHwEKm0CC43jbILvg0x/E8Ku82t3kveexujwKDWMypcCATYu0+cEFDUfXhWTI9wByASCn6U9+zmlQvBdTaIkeL9Q35R8MVvx9y54F2I4P0+Eg==;XlddtxbEYssRbNKdjc6mhQ=="
 ---
 

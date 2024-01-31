@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
         width: 816
         height: 459
+        isCached: true
+  - title: "FIS launches Fintech Hangout Series"
+    excerpt: "Accelerator graduates have a track record of success with four members - Lama AI, Forage, Sardine and Array - just named to the GGCV U.S 2024 Fintech Innovation 50. Applications for the FIS Fintech Accelerator Program 2024, its ninth cohort, will open in ..."
+    publishedDateTime: 2024-01-31T20:49:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99516/fis-launches-fintech-hangout-series"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."

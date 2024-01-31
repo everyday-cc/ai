@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
+    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
+    publishedDateTime: 2024-01-31T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
     excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
     publishedDateTime: 2024-01-31T12:42:00Z
@@ -97,6 +111,6 @@ related:
       domain: geeky-gadgets.com
     quality: 21
 
-secured: "NeZbTiibllqiKrLZq2QCDDaYNBJ98aOp+4/Kc5BDi8V4QxTM9MEMVC+aDEETSNw+P+UkcFRRvlzWT4eHeOBINK9tpL9V53yG5z0r45U98vyubi4zh2hx2wk+lSVYFzyw9hBBXIZ/Nifnm5+/7wp+4acGLpQ1IXgimwGCoaMstTNLwdQ0yKXVHprZ8Iv/bEBJ/rKlNaMW+nGWyM/ht9VvAD62smzy1rAGuASp658MfB22gw72jK4HaulRbhLlZcd2cqe1wc5O5L4gkadk6etjP/JPBaW6AAP6XnsIXnGyyL/5Px9vKuMIOcDM32afGjaZ77A7vayvOwcdti5QO+CfkOfh5ojNTLCHNIJc0QwtWPo=;QIOLT2NVhMlSLVHeZBt16g=="
+secured: "75ssHoJKTnAKDjPAW24vEHGAxouSHszLGvID9JG2H1c5mOxsGt+M/a8khygK9eMJRGY3LAGs0rx2c8WhqlxRyDwdMKZxeSizdaL/Plb9CW+ttal2F4/21jbZHY62tXVHQvQxP6i1STkBzPj++pD8lIsXmeQ4KMEaeeiN0LuIBJlki5Ehz15gI8e/O4D2QflAgl1847vMRNPEjDq7elfRi/VkZRhSgYOZ11dHpg0lJYipr20zpNSzGD+iEc5aZjtxpCq7amIDKtWchgypL+zxxQNNEEYtxVPbbGoH7XnwZGzNfwg0SQ73l9/6SP/X/ZRJpDXI2nwcVo7RenzRKVN6kBmG2+OtvBhwCMveM4nZn4as5KAvLOWdxfdL5BwddVuYNnMntZ6qh7tMsnUgyU3CUmBreUXg9+BEm4SE3vBV5Ffd0muU5vXQL5dFcRGRfJrEciVrEHGYoWokS1gA9/f4qW6MGhhAciRN4meVn4fA5crbeUflPYgulEsQmoX+WhYX6KNfDMER+qz27Ps45u/xvg==;y8Y4VaFRt67TB8cFOVWMzQ=="
 ---
 

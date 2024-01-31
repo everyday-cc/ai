@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/programming-development/codeium-nabs-65m-f
 webUrl: "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,17 @@ images:
     width: 750
     height: 375
     isCached: true
+
+related:
+  - title: "Machine learning for Java developers: Machine learning data pipelines"
+    excerpt: "Deploying a machine learning model is not the same as developing one. These are different parts of the software development lifecycle, and often implemented by different teams. Developing a machine learning model requires understanding the underlying data ..."
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3454363/machine-learning-for-java-developers-machine-learning-data-pipelines.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 49
 
 secured: "TpKV/XyEzIVpEy0JgcbzrDOxGhY1cXCXbGKwMyrEkEBJw1LMosuxcYWjAXKLgw7ujIT5D5TEAd/X4O3gu7hokS/rFMcttpj0Tgr2NBqBDvGNPdLZ5GFvMm2Vvj8RV79/sobkF1kmpMkDj45unX7RdXqrpVuQYcxSRbzmPouxr9mdYktjxB6DBEAyCGrDHa4SSa6ZWQf6mTMSJgawygvlbALN6Uaz3FKWTJmiDiyJ55BxsFsitFAHySXz3XCoRgobDq43LVxnskLkHWVfPh3RbndbyRhY8F+vOejFRmYh1pr0326Is3H2vVW8Ia59qGeaQFcMrHUUOYwYIqqBiK/Y1deuE5RVkPufcp2bZui+3WY=;B6nI4EZoPbjsHH1iXi6zAg=="
 ---

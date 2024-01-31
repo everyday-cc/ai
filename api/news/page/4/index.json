@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-29-4-new-ai-features-for-developers-in-singlestoredb.md",
+      "title": "4 new AI features for developers in SingleStoreDB",
+      "excerpt": "From faster vector search to collaborative Notebooks, SingleStore recently unveiled several AI-focused innovations with developers in mind. Let’s dive in. At the inaugural SingleStore Now conference, SingleStore announced several AI-focused innovations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.html",
+      "originalUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/10/04/11/cliff-diving_taking-the-plunge_dive-into-a-project_ocean_swimming_by-aydinmutlu-getty_2400x1600-100832259-large-100933055-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712502/4-new-ai-features-for-developers-in-singlestoredb.amp.html",
+      "publishedDateTime": "2024-01-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-6-job-openings-for-responsible-ai-and-ethics-in-india.md",
+      "title": "6 Job Openings for Responsible AI and Ethics in India",
+      "excerpt": "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/",
+      "originalUrl": "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T08:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
+      "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
+      "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "publishedDateTime": "2024-01-29T07:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-southampton-trials-facial-recognition-cameras-in-pubs-and-clubs.md",
       "title": "Southampton trials facial recognition cameras in pubs and clubs",
       "excerpt": "Facial recognition cameras are being trialled to help stop those banned from pubs and clubs gaining access. The scheme, which is taking place in Southampton, is running for three months across six venues.",
@@ -208,7 +346,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -863,6 +1001,57 @@
       ]
     },
     {
+      "path": "_news/2024-01-28-australian-open-hopes-ai-audio-translations-will-speak-to-new-fans.md",
+      "title": "Australian Open hopes AI audio translations will speak to new fans",
+      "excerpt": "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
+      "originalUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
+      "publishedDateTime": "2024-01-27T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-27-the-case-for-ai-in-observability-and-growth.md",
       "title": "The Case For AI In Observability And Growth",
       "excerpt": "In the modern business landscape, data is the new currency. It informs decisions, drives strategies, and can be a key differentiator in competitive markets.",
@@ -974,7 +1163,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1015,196 +1204,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware.md",
-      "title": "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware",
-      "excerpt": "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/",
-      "publishedDateTime": "2024-01-27T09:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
-      "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
-      "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "originalUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "publishedDateTime": "2024-01-27T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-browser-alternatives-brave-arc-add-new-ai-integrations.md",
-      "title": "Browser alternatives Brave, Arc, add new AI integrations",
-      "excerpt": "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
-      "originalUrl": "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
-      "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
-      "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Abstract_art_of_a_business_man_IT_guy_looking_at_a_co_b0eba95a-e87d-4907-b704-c6c0ccfb5b69-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

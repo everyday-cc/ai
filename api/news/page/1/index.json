@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-why-ddi-solutions-arent-always-ideal-for-authoritative-dns.md",
+      "title": "Why DDI solutions aren’t always ideal for authoritative DNS",
+      "excerpt": "Plenty of companies use their internal DNS, DHCP and IPAM (DDI) solution for external authoritative DNS as well. Here’s why that might not be the best idea.\nThe post Why DDI solutions aren’t always ideal for authoritative DNS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-authoritative-dns/",
+      "originalUrl": "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-authoritative-dns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies.md",
       "title": "What The Top Nine Percent Understand About AI And Other Transformative Technologies",
       "excerpt": "A new report from Accenture exploring a predicted major uptick in business leaders using generative AI as the catalyst for strategic reinvention in the next 12-24",
@@ -666,7 +708,7 @@
       "originalUrl": "https://mashable.com/article/eternal-you-review",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -950,7 +992,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -994,6 +1036,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-codeium-nabs-65m-for-developer-ai-toolkit.md",
+      "title": "Codeium nabs $65M for developer AI toolkit",
+      "excerpt": "The goal is to go beyond writing and running code and address tasks in every stage of the software development lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
+      "originalUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_vintage_advertisement_illustration_of_coding_assessme_d81046ca-d3be-4a9d-906f-21e81e9f057e-transformed-e1706634498787.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T01:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-amd-earnings-ai-gpu-revenue-is-on-the-rise.md",
       "title": "AMD Earnings: AI GPU Revenue Is On the Rise",
       "excerpt": "We foresee the firm beating this new target, and we model $4 billion in DC GPU revenue in 2024. But we suspect this new estimate is still short of the expectations of at least some investors, perhaps leading to the 6% selloff in shares after hours.",
@@ -1002,7 +1096,7 @@
       "originalUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1129,111 +1223,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
-      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
-      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
-      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
-      "publishedDateTime": "2024-01-30T22:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
-      "title": "Block becomes the latest fintech to lay off workers",
-      "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
-      "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1321753242.jpg?w=1024",
-          "width": 1024,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
-      "publishedDateTime": "2024-01-30T21:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

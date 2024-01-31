@@ -65,6 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
+    publishedDateTime: 2024-01-31T17:20:00Z
+    webUrl: "https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
   - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
     excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
     publishedDateTime: 2024-01-30T12:39:00Z

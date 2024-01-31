@@ -47,6 +47,24 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "'Magnificent 7' Tumble As $300B Vanishes On Bleak AI Earnings: Could The Fed Make Things Worse?"
+    excerpt: "Tech giants lose $270 billion in market value as 'Magnificent Seven' stocks suffer from disappointing earnings reports and investor concerns over interest rate changes."
+    publishedDateTime: 2024-01-31T18:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/magnificent-7-tumble-as-300b-vanishes-on-bleak-ai-earnings-could-the-fed-make-things-worse-1033016392"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "Google earnings: 100 Million Google One subscribers, Google Cloud profits"
+    excerpt: "Alphabet's earnings call was yesterday, and as usual, the company took in a lot of money ($86.31 billion) thanks mostly to ad click-through rates being at a certain level. More interesting, though, are the product numbers tucked away in the report."
+    publishedDateTime: 2024-01-31T19:53:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/01/google-earnings-100-million-google-one-subscribers-google-cloud-profits/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 33
 
 secured: "E6OIoW8OwPma08l6glfIQRVVWL6i3JSXv4l3HsPz9UGs7jYukIHLpgpV/ezsRvCjN55CPP2L+2fh/dFhNAQNp7JwVJ7rN54RFFEFACXIR1QbF7YcUjEX4skGo26KbM1CnHdlQtay+41uqwYn61viY8KO/OsAV8er67gKohRAHseied0nHWHUFaGdnxhq0UzuhBg/T2uFpYTk+/wEbyDTOlSc81j8/480w1grYG2l50eeODEzDRoyrN3xIv2PB0IGQuKeUWnQW51ajSf5ubbbh3siKOMk/UbJZQ9ry++aH5GQDYMPU+W7WNtt0Z3KgFvIYwJndS1D7l9bbuIofa1wIqtJxaX4AbRlrXXkSwyDpys=;9Ux4i7Is2yJgwIyfcVQcow=="
 ---

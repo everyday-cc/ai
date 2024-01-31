@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stock
 webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
-  - title: "3 Spectacular Artificial Intelligence (AI) Stocks to Consider Buying Hand Over Fist for 2024"
-    excerpt: "Fool.com contributor Parkev Tatevosian compares three fantastic artificial intelligence stocks that could deserve a spot in your portfolio. *Stock prices used were the afternoon prices of Jan. 23, 2024. The video was published on Jan. 25, 2024. Should you ..."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23628764/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 41
-    images:
-      - url: "https://www.theglobeandmail.com/files/dev/www/cache-long/images/financial/valueReport.jpg"
-        width: 709
-        height: 868
-        isCached: true
   - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
     excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
     publishedDateTime: 2024-01-28T20:15:00Z

@@ -114,6 +114,15 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
+  - title: "Samsung Galaxy S24: First Features You Should Try"
+    excerpt: "The Samsung Galaxy S24 is a particularly feature-packed release from the South Korean tech giant, and—yes—most of them surround all the newfangled (and, for the moment, free) Galaxy AI. Sure, there’s the Ultra’s titanium, but you’re interested in just what the new phone is capable of compared to previous generations."
+    publishedDateTime: 2024-01-31T19:56:00Z
+    webUrl: "https://gizmodo.com/samsung-galaxy-s24-features-you-should-try-android-ai-1851213139"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 34
 
 secured: "Z/HpW9Cu7Kxblv54558F4TTCbH2zuAsHvaYJUXpA6leaZWtn+2SITrnht34mz8Q7db0Gf/Lb2LlFc/58fuRyDlwe7cGlqB1R6YBMSSNSW0GXAmGzjkuLpGcCL8UnhOu743KFV8FpoEdQ6anp8B6amhGTgmzFCG9GuDDtN6m30TVs6A9KlIGt+hT54u9wi/otS+d1Hqc8MRwYnCfLjK4t0UWpHHpJGRqTgYFvuLF9dUSsP8GoospUz1CRshkOtYWNxlVo2LjgrAAh3h5rGatqjDjo6f76i+p9AZz29Hk8YcMzinjF79pNrOF/7w/Jpd2vBf4/AJNQknQ4uxH9aKYRzv+LkfrfbxX1O0Yq1NbragMJbrmOhZt69e/3U8UrMU6jirLMO31rojKootwbpgUUpNYVthh0gdzHSR0skVaushHYcdBicHj+gIOX2NfmGnTWuu6FdBs4Zky6m2s7P9wX0gYvSP4d9S0F57WNODm/kxwcRlsC8IcuJgtzELbxXEfAvJ2r8FdjtOeNQuAYVafMQw==;U8LD3oNr+r9Sqf19wp5wCA=="
 ---

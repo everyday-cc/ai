@@ -109,6 +109,15 @@ related:
         width: 473
         height: 1024
         isCached: true
+  - title: "Samsung Galaxy S24: First Features You Should Try"
+    excerpt: "The Samsung Galaxy S24 is a particularly feature-packed release from the South Korean tech giant, and—yes—most of them surround all the newfangled (and, for the moment, free) Galaxy AI. Sure, there’s the Ultra’s titanium, but you’re interested in just what the new phone is capable of compared to previous generations."
+    publishedDateTime: 2024-01-31T19:56:00Z
+    webUrl: "https://gizmodo.com/samsung-galaxy-s24-features-you-should-try-android-ai-1851213139"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 34
   - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
     excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
     publishedDateTime: 2024-01-29T14:47:00Z

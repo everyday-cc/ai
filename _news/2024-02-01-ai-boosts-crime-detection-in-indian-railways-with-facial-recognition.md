@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The economy and ethics of AI training data"
+    excerpt: "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans."
+    publishedDateTime: 2024-01-31T22:12:00Z
+    webUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 54
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
     excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
     publishedDateTime: 2024-01-30T09:53:00Z

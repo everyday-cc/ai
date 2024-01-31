@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgp
 webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
 type: article
 quality: 80
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT Now Allows Users to Bring Multiple AIs Into Conversations"
+    excerpt: "Artificial intelligence company OpenAI rolled out a new feature for ChatGPT this week that allows ChatGPT Plus users to add multiple GPT chatbots into existing conversations. This means that it's now possible to have your custom chatbots talk to each other. The feature could help users boost creativity and make better decisions."
+    publishedDateTime: 2024-01-31T21:34:00Z
+    webUrl: "https://www.inc.com/ben-sherry/chatgpt-now-allows-users-to-bring-multiple-ais-into-conversationshow-to-turn-chatgpts-new-feature-to-boost-creativity-at-work.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1362558433_536956_idayhy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "A tutor shares 3 rules for writing college application essays, including how to use ChatGPT the right way"
     excerpt: "A Stanford grad who runs a tutoring business shared his rules for students writing their college application essays — and how they should use ChatGPT."
     publishedDateTime: 2024-01-29T12:13:00Z

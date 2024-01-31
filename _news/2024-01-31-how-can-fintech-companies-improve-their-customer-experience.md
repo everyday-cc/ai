@@ -146,6 +146,20 @@ related:
         width: 816
         height: 459
         isCached: true
+  - title: "FIS launches Fintech Hangout Series"
+    excerpt: "Accelerator graduates have a track record of success with four members - Lama AI, Forage, Sardine and Array - just named to the GGCV U.S 2024 Fintech Innovation 50. Applications for the FIS Fintech Accelerator Program 2024, its ninth cohort, will open in ..."
+    publishedDateTime: 2024-01-31T20:49:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99516/fis-launches-fintech-hangout-series"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

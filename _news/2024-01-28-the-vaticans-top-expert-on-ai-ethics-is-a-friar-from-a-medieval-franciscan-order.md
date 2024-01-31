@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-27T23:13:00Z
 originalUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
 webUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: -1
 published: false
 
 provider:
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/28/4281811b-659c-5c3c-b39c-70f01ea5c625/65adbff409ac0.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Taiwan President Tells Pope Francis She Supports His AI Concerns"
@@ -44,6 +38,6 @@ related:
       domain: columbian.com
     quality: 19
 
-secured: "y9m5+GF37F3PMQqGXi3xET/29WvIhq7E3QRUIF7exehJuEUsYF2hRKT0sxRp3cqFxGigoVceZF+Mpr/7ERwtHa244uQM1NbdxWFO2Dkg9qxtmRnFSKSX+Y+B9U34z23zl8JScltCAQLrgpwVmQrBDzAFBOXeFG5uNfM/XCTDM02A8Cg9pTRhdeQJKesAAcpdUJi/6iBYb+xqww8wQvp1hASwkyT6Dp+TQSt10QNAq4ok0E5ngBPpHw0xPTJvgX0QA9ebw1qIVI+hAQU5ZestQ9lUhRYtNYQNxLAiWKWTvrxG4izjaPg8E0mdpPpyfRmx1iO7PQ5/OdehTiCF6XzMROIYkX/pbv1prVVV5GnOLDA=;+MXs0dG7LxCliaPG1yaqLg=="
+secured: "VNSJhRiZ9L2UZWbxWiX/QYsrMPqoZOHe/XW5aGE1W3yQdLphS8hiAvZJ3ojV2PPQL1HchrA50C6q8fQLMPI3UqCSFKbPaw2aj8YmcLji7jWoS6EBC0DBIyIW99Xxd72Ghx+SfgZgfws8hxhEZJp5fGrLAm6hMODX7C3jPavS9MZeAzukfU3E+58cRv4wdBXhsi0HFJs/FzND+gIcHsFVERt4Y+IMXL6fc/WheV5is4th+MSWSiWrUd+vm0byZLICdNzazIZwAUWKBSzI0ywkoGV3ePsdrC62cbd79GESBauBLWJFGITw+rbu/BrMAQa8XxqYqFwkcQB59VzebgsYqoX4VaYCZcRorzHAPbBiS7A=;S0SMyESNCmtyK+FqT8hr6g=="
 ---
 

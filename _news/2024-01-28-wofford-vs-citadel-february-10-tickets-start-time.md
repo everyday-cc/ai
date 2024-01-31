@@ -7,7 +7,7 @@ originalUrl: "https://www.live5news.com/sports/betting/2024/02/10/wofford-vs-cit
 webUrl: "https://www.live5news.com/sports/betting/2024/02/10/wofford-vs-citadel-buy-college-basketball-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SFA vs. UT Arlington February 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The UT Arlington Mavericks (9-11, 4-5 WAC) play the Stephen F. Austin Lumberjacks (12-8, 5-4 WAC) in a clash of WAC teams at 3:00 PM ET on Saturday. The game airs on ESPN+. Watch college basketball, other live sports and ..."
-    publishedDateTime: 2024-01-28T11:17:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/02/10/sfa-vs-ut-arlington-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
-    images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/24SNZPDLRZOEZD7EW4Y4YLOBQE.jpg?auth=477be25dcb40d614270dd2fd1c6c969270fe94c3ca9814f9d0a3149bfe708b59&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "North Texas vs. SMU February 11 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Sunday's AAC slate includes the SMU Mustangs ... Houston Christian February 10 Tickets & Start Time Houston vs. Cincinnati February 10 Tickets & Start Time Texas A&M vs. Tennessee February 10 Tickets & Start Time"
     publishedDateTime: 2024-01-29T11:20:00Z

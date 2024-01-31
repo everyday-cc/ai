@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
+    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
+    publishedDateTime: 2024-01-31T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "AI Game-Changers: ChatGPT vs. Llama"
     excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
     publishedDateTime: 2024-01-31T18:26:00Z

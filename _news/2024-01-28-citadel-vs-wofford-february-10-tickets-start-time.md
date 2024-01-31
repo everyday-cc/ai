@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "SFA vs. UT Arlington February 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The UT Arlington Mavericks (9-11, 4-5 WAC) play the Stephen F. Austin Lumberjacks (12-8, 5-4 WAC) in a clash of WAC teams at 3:00 PM ET on Saturday. The game airs on ESPN+. Watch college basketball, other live sports and ..."
-    publishedDateTime: 2024-01-28T11:17:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/02/10/sfa-vs-ut-arlington-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
-    images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/24SNZPDLRZOEZD7EW4Y4YLOBQE.jpg?auth=477be25dcb40d614270dd2fd1c6c969270fe94c3ca9814f9d0a3149bfe708b59&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Wofford vs. Citadel February 10 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Saturday's SoCon slate includes the Wofford Terriers (12-9, 5-3 SoCon) facing the Citadel Bulldogs (9-12, 1-7 SoCon) at 7:00 PM ET on ESPN+. Watch college basketball, other live sports and more on Fubo! Use our link to ..."
     publishedDateTime: 2024-01-28T11:19:00Z

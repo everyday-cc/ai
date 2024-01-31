@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -44,6 +44,15 @@ related:
         width: 630
         height: 354
         isCached: true
+  - title: "Australian gaming org pushes for 1:N face matching for gambling exclusions"
+    excerpt: "Clubs Australia wants the government to loosen restrictions on FRT but one-to-many face matching has been a red line for many Australian privacy advocates."
+    publishedDateTime: 2024-01-31T18:36:00Z
+    webUrl: "https://www.biometricupdate.com/202401/australian-gaming-org-pushes-for-1n-face-matching-for-gambling-exclusions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 2
 
 secured: "1otCdEeMvgpU6YNlXo5ZKNnnX88+F+1DtZ9twfP3JZ/OPowK9t+25bT+x+SWnccLwRPuE6hIImSNNpp/cUn9zZM20fblkSbWOHpcV3OmrNnahXjSu86MZpIqu8w3hWRV1DQ9GwQonEwOLgveoXkc6ZIbOkHPxTFZ8vC1ojeUp0tc9obMsm1Ye6fzCDFEszVOgSK+R949lcvPySp8ra2V01u5lnB/OJyQ7RYSjpesOuDqEFwMGbFzsMI0Nq4Nvg22MQVK7vf3xCZ0i5hGi8/LJZWp1FhUCwGopTZwqxehToZgaCHzl9BmRxlrrtsupbsHwUWt8QfVX5VDHm718V38FkftFX63khlGyCUOJSzsYgp7H2Wo1JV5K0dW8yDe47nPuej5Vsq5mtPkkWN/+Cy++YCPw4sgDXMajNPfitwZbGbKkXVeXuuQOvrLFqZBb0rmVLKhuhWzXV4x1LqkZ2b89Dt+SEXaX4a9jrDMsB1h8FAwnbrMKnmfuO8yB5JRIcuhvnpFJuNgP3m7ov+9zUwvrw==;7VqpxIQi4E1qJBgCjuGGyA=="
 ---

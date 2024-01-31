@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2024/01/29/google-cloud-essential-ai"
 webUrl: "https://www.axios.com/2024/01/29/google-cloud-essential-ai"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Exclusive: Organic baby food startup Yumi has slashed its valuation after running low on cash"
+    excerpt: "Yumi is raising a down round at a valuation around $40 million, BI has learned. It was once valued at more than $300 million, according to Pitchbook."
+    publishedDateTime: 2024-01-31T22:32:00Z
+    webUrl: "https://www.businessinsider.com/yumi-organic-baby-food-startup-valuation-down-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
+    images:
+      - url: "https://i.insider.com/65b954de7a3d27148875f4ff?width=1200&format=jpeg"
+        width: 1066
+        height: 533
+        isCached: true
 
 secured: "NCcnWe4SjyIdc8Z1H8hW4UKDrynz30m7fyiDXaBIOoNlz4VhBzr2xRIqb3OC182v/acNRt/sdRDSA+TtgL0fhEQ48fXzeNOkdT/FGYD2wiV75ME2ZNVV3Jpjcau7iav7tuwAf7sEbMSswVWt3hiXMk74exbeao8PMKWK5bTDEvLZ8wx/COpqK99WifnbFxCwM9ceovQaGBHe1SOC3X4lVuIWscFbMCRtLjrrSabpjk7FxeAmIoeq/kKHMU8qgflw/AankwK2b5rJ3htjpfgzAc59XwfjD31fzDkIgl6JT766h2hMd5c8V2thG4TGRLXsudfxpDTl5FNCeoFYPHm8XrVISeW4UQ1WcwT24k11YiadxurBO9DZrPgE67uIC5ijrXHee4wkKrp1Cg4lCcW9ixEAzVtcdIulwHgVVL9mGXP5dfxz7wsfk5MIU1ekIGGLlhLeKp+jxv7r9o3JwL6KLb0MmnGEzdN5B1Ixi+A2axwSWbyE7kUnG9scV70GR/JdUW9iE1WqRGrP6v/etOA+yw==;KuLMrELRkQIZh+LQhMqVEQ=="
 ---

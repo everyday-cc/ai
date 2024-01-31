@@ -233,6 +233,20 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 36
+  - title: "Inside a collaboration between Microsoft and the Pacific Northwest National Laboratory"
+    excerpt: "The Pacific Northwest National Laboratory (PNNL) in Richland, Washington, has turned to Microsoft for high-performance computing requirements. In what it calls a multi-year collaboration, the lab and the software giant will apply artificial intelligence to speed up research in clean energy."
+    publishedDateTime: 2024-01-29T20:17:00Z
+    webUrl: "https://federalnewsnetwork.com/technology-main/2024/01/inside-a-collaboration-between-microsoft-and-the-pacific-northwest-national-laboratory/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 31
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/Artificial-Intelligence-e1691600019351.jpg"
+        width: 1089
+        height: 725
+        isCached: true
   - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
     excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
     publishedDateTime: 2024-01-30T00:35:00Z
@@ -241,6 +255,15 @@ related:
     provider:
       name: The Tech Report
       domain: techreport.com
+    quality: 19
+  - title: "Microsoft Data Governance: Preparing for the Copilots"
+    excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
+    publishedDateTime: 2024-01-31T20:47:00Z
+    webUrl: "https://virtualizationreview.com/Articles/2024/01/31/data-governance-and-copilots.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
     quality: 19
 
 secured: "CaKAALlgs3rMakXkSQYz5QCOWEBO99wTHFFN2215de2ofMdfrQ8GLlhKnu5LfJAC/ZClfCwYEl27nsBqXE3O5TzM0KjFyoZ3jtoALtXiSpcQVsMRggm/4pe75J3puIvlOsNqw73xrGVRoTVlAE4FFrn6dA9w5EgCAepcqSHoJ/Xb3DK30AMpl0B+gI4cnTy+Mqh55sxB958rKPlTLFQM+u3BBoSTpiEG1rGupgNnuiGuwe1zu/WnEoqAhV7EBZIlbLoRTUQXmQVDJ2FYh3hPTsqsQFNGtQiFcR2+WVHzz+NCPm8i9G5EVWIy8S4F7Omndx7ZlfGZcVZyWNwFoOmilEV/Fj/7Q/ciqihbyxmfR/8=;5fp40cUTquvE5SMUnDa6VQ=="

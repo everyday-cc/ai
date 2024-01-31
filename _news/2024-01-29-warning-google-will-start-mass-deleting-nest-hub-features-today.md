@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-as
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1351
     height: 900
     isCached: true
+
+related:
+  - title: "Music-Learning Via Machine-Learning: Ultimate Guitar Launches Practice Mode"
+    excerpt: "Ultimate Guitar launches Practice Mode: a new iOS app feature that supports guitar learners by listening to practice sessions and provi"
+    publishedDateTime: 2024-01-31T21:26:00Z
+    webUrl: "https://menafn.com/1107793674/Music-Learning-Via-Machine-Learning-Ultimate-Guitar-Launches-Practice-Mode"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 22
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?674635"
+        width: 430
+        height: 250
+        isCached: true
 
 secured: "9yLCLeN7mWePnlXL4bBD+MCnomgtl3ao+AxHZRZ+oU9qh+YEOByRvDc11l4L4NpHfved0jPYBLFz3F1jkDLfMXgBswUJXhu9cCVWZ/u3pIEzXVu+svGR30IObW8A8FzHheyD2emlb2ppjx1ZVMTXogvUZiquAa6ehvBqb653EtLIr8UGDE1YWkzQ6sdreWQybgrH0fjZJIFUUfunUFEO48bihyDv+vyN9lx6rN/URUMOGS+rFVJ6TEw9B84Kf77I0UConzosqVCUWekagLqcVTwqtVQEbUH/sy8Qe0yXPxYYcrU3+B7nSqRcWoZZBPgBsXNW6wyniEXWNr5FKVI5csF8dGS1G/DHUMEOQwYRhUXkcWTC80qYu/0ohhF17POJxCaykyqgDmOUyr/KNsaKObudcmC8XecAHlmb2RikGbHGkAE5AagivrGagzpVa+7+Rh5I3f9i+IAMxlQBuP1UvQg5WgdnaGDeQhXIwtqoKanTiuD8ve9NOYuQ+uQP/HtczD1iN53z0LMkJM6EegQjBA==;dJdFP1xPQfigqURuEG5kSA=="
 ---

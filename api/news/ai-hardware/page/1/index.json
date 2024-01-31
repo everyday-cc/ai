@@ -53,7 +53,7 @@
       "originalUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -96,7 +96,7 @@
       "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -148,7 +148,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant?ref=biztoc.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -190,6 +190,49 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-inferenceai-matches-ai-workloads-with-cloud-gpu-compute.md",
+      "title": "Inference.ai matches AI workloads with cloud GPU compute",
+      "excerpt": "Inference.ai, a startup building a platform that matches AI workloads with available GPU compute, has raised new venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-30T13:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -253,7 +296,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -391,7 +434,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -444,7 +487,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1377,58 +1420,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-sam-altman-entering-the-chip-business.md",
-      "title": "Is Sam Altman Entering The Chip Business?",
-      "excerpt": "Sam Altman is reportedly in discussions with key investors, and TSMC, to launch a new chip venture to design and build semiconductors for accelerating AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65af2c370b3956c11331aae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1318,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/",
-      "publishedDateTime": "2024-01-23T03:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
