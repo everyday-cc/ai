@@ -57,6 +57,22 @@ related:
         width: 1218
         height: 600
         isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-30T22:37:00Z
+    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    type: article
+    provider:
+      name: katu
+      domain: katu.com
+    quality: 59
+    images:
+      - url: "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg"
+        width: 648
+        height: 364
+        isCached: true
   - title: "Generative AI: value, risk and regulation"
     excerpt: "IN the last few months, generative Artificial Intelligence (AI) has become a global sensation. Predictions of its potential impact on society, employment, politics, culture and business fill the media and the internet. Business leaders are intrigued by the ..."
     publishedDateTime: 2024-01-28T16:10:00Z

@@ -125,6 +125,15 @@ related:
         width: 768
         height: 423
         isCached: true
+  - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
+    excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"
+    publishedDateTime: 2024-01-31T10:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-samsung-galaxy-s24-series-now-available-in-canada-promising-a-new-beginning-with-galaxy-ai-1033014083"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "j9ieEN3zkizKnXFK7C15YijFK0IY6ua1lAxQXcz0++eA/l5A8pkes97V7HdoHZNlpHKUX4tEYBfLnFTecqayOgKCgL3cYHg6JBgmLfKXh1OPQpsuY1pewTVGd89efViPqIRpRSAz4QHAu5uOZxcT9UJJ7VuKzEgcYfS2QjNlkbTjbjONdyw8Hr9g/CoPJZDqjWX7HPJsDMsGjpmj5R7DTc3JLRu6WMjNokF38hgUymq75NeumyEFeKrQL1prpNSy+gAcoD19Sh0o3PRvXF3mvCKbk/qiiCM3IZXzGtn/eXklUFG0AasJWb+oR39oEfkWLQw2Ak7QeQSaaPgapUlMIWRAUKcbZUowqEj++VkkJlEwotPMBxlL8eK8SHsZegOPuVSWCoqaXKEnX/pXRWuD+v3vuEbaZh3ek7hSk5aKpgpDih+GwCcUyLrLbnHzGs17Is6V54qmv/hYkjUQaNA3DhvA+IzOgrykSIkm4CfDq21JkghIlDueVKcC/uHH8PUeJy1eYy6MqcAB3byOEthUUA==;pLyXZvdfLBzh13i4jOnI8g=="
 ---

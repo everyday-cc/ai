@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Microsoft, Google ride AI wave as revenues surge"
-excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked reve"
-publishedDateTime: 2024-01-31T00:38:00Z
-originalUrl: "https://menafn.com/1107789058/Microsoft-Google-ride-AI-wave-as-revenues-surge"
-webUrl: "https://menafn.com/1107789058/Microsoft-Google-ride-AI-wave-as-revenues-surge"
+excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
+publishedDateTime: 2024-01-31T09:40:00Z
+originalUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
+webUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
+ampWebUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-01/30/AFP_e555dimage_story.jpg"
-    width: 768
-    height: 511
+  - url: "https://scx2.b-cdn.net/gfx/news/2024/microsoft-ceo-satya-na.jpg"
+    width: 1280
+    height: 852
     isCached: true
 
 related:
@@ -154,6 +156,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Microsoft Omits the AI Progress Report Investors Wanted"
+    excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-01-31/microsoft-omits-the-ai-progress-report-investors-wanted"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
     excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
     publishedDateTime: 2024-01-26T15:36:00Z
@@ -169,20 +180,6 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/08/acd6305a-ba64-44fc-9d13-bb9a78cd7208/thumbnail/1200x630/10200a0442733918c2d545efb616e0f9/gettyimages-1916486593.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
         width: 1200
         height: 630
-        isCached: true
-  - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
-    excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
-    publishedDateTime: 2024-01-26T10:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58333-us-watchdog-probes-microsoft-google-and-amazon-s-ai-investments"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5a1be1bea6dcd18ceedb33210235d286_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
     excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
@@ -332,6 +329,6 @@ related:
       domain: thedailybeast.com
     quality: 15
 
-secured: "7Ubl2o+pTVm02UP4qCd4kibWIgJW+s1n20MQk5P6xfsNNUueZlNGemK/9Dp5RZb8bttLoX7IVfxrN5X2ZEn8KQCn31YrlB2x1hnn63T1HOBcFOOJIgFjvo8+n1xkKDaOnCl3XguokDrk7pT4TJ4F/i89vf3NYbTteJSrrGX5hcS45wkpp2hJbhLUau/VHdxeqzMLu4pFNNSJ5Ui5vx4kdKjXpkbX1UhKiWYSizMBTAuxCjKF6nm5hVm9yqHa4P/7C8g6ZYD7jfTgOfuH9wdkx1+X6lGSvjIS2QtYL/Cil+ZA+ynCjdPJE3zXIXzjyG14kFBwnYKmK2rmXfeSPs6yg3iCRCSLnULYgOjuLyplBuI=;b6vs8GtZPnChtWLCCkT9tA=="
+secured: "L6qj6VwxAq049GFq30z9rsOXWjSmwmss1c/fOvrB+ZX/qHhApRfkK7mHD1EgX2QTmA2TXEZsi4iah/Y57g9+oAc3DEquYYU73ITtxrH620wFEM79NddQGdDf59WKmMM2L7mO5LzVsST53hmlB7uxod5aeXyW+ikhRoA8dZ1Lgk1yhke5gpXwZuJHj/mOF/WsRhO5Gr/pQShe2iknTknocRSSapPRxrymVomvwvSIPDDygNm2TV09Lu7WR6wFKy/7aeIEAtMY5f52MjOLvkb46pQkvNKYo6jUw3EELDuOAb93Q+/7a1ovBfhbb2LzrTWruK0V9471IN0TY1bNLPDm8IGFc2cgz9FDQnqHR0LdfWc=;qpM5RbuSzpEWPacV8ZAd7w=="
 ---
 

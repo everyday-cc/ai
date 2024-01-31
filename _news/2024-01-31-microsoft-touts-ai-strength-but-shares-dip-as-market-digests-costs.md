@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Microsoft touts AI strength, but shares dip as market digests costs"
-excerpt: "Azure AI customers, a third of whom were new to the service in the past 12 months, Nadella told analysts on a conference call"
-publishedDateTime: 2024-01-31T02:27:00Z
-originalUrl: "https://www.business-standard.com/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
-webUrl: "https://www.business-standard.com/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
-ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
-cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
+excerpt: "Microsoft beat market estimates for quarterly profit and revenue on Tuesday (Jan 30), as new artificial intelligence features helped attract customers to its Azure cloud service as it built out its own AI services."
+publishedDateTime: 2024-01-31T09:02:00Z
+originalUrl: "https://www.channelnewsasia.com/business/microsoft-ai-strength-shares-dip-market-costs-4086751"
+webUrl: "https://www.channelnewsasia.com/business/microsoft-ai-strength-shares-dip-market-costs-4086751"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--Sqmu8y3r--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-30t210430z_2_lynxmpek0t0oq_rtroptp_3_microsoft-layoffs-headquarters.jpg?itok=fUTa4xCY"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Get this Microsoft tech certification training bundle for just $70"
@@ -37,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
-    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
     publishedDateTime: 2024-01-30T21:42:00Z
@@ -62,6 +57,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AI robot startup Figure in talks for funding round led by Microsoft, OpenAI"
+    excerpt: "US-based startup Figure AI, specialising in humanoid robots, is reportedly in discussion with Microsoft and OpenAI to lead a funding round to secure $500 million. According to a Bloomberg report, Microsoft is expected to invest approximately $95 million, with OpenAI contributing around $5 million."
+    publishedDateTime: 2024-01-31T09:28:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z
@@ -217,6 +223,6 @@ related:
       domain: barrons.com
     quality: 17
 
-secured: "FLNBdvf8G6KqkxLEjJP4F15VcjiYMSg1ykYdadq7qsIllEm5z9N1W6qZ6KAGbQrtbY7bkPOKpf04/Ogft3klb7WNcgXq0fIwv1OKJ8tJuPiUqomakrmu8V9AhTKWMItAk8z2/4y6SXZvNbum+Vd5J2YRmfCjwidMYiNbfyRl3mPfS+t1GY1TBH8oBRdSM1YyzjuQ3u3PcJl6KdIEs8yGM4i9/KxkHHMj91rXzb7KKzUzCTbU0ldcHtznI7MmCjyjrjaPO5xy1Ge8+YevsdFLUiEhq6HQwG3g7H979cSJK3sFMvJsGdsqlmWmcM8HmBpcO8U4Bvsw7yu+fYPcJsuD7xW1j8vmP6YuZZ1GxaMIH31tUe+F86rX3Al+fGfY3spJcJ7oqm04/J0dJHwZ5Dzi+VChjWpFoa1Dr4GnHmH8usUgIfvdxMncEUsvrq2xobtFStbYoxYxbf9nT/8xBu5sgW1OgSAwTW1faP2JV5YuKNSasTuQTDxWYeGfTycAXvd9Iaotju2P6QY9u3KrVwUWvg==;GDk+4LAobuvb7jhWMTW/nA=="
+secured: "vpQa8nPM/uHwvkv3gsKpQhDwJy3MsGfSYYdPPTzXMm3Q1+WbGESGC2gL4RkU909PtdKWR5beVPXoodQXKK1w0rwT+oyeNvy0graRmj7Bh5u2DVjm5Z6NdwMdmSYQ0CyYBPk+/cJSmN2QdpUV19M6kZvZ+zgKNG/mqExd10p7MP0eWrWfPsA5O9GQEahBBP4xuvbQEsj2LjhnLW6yHj25dVVghP4KRnxW0tE1XF0LUWJVCRgdVsU07TPKHXj7nLqkDVXOHmmq0prGxxzeyrFGp2te4GwWEc/gftGIAQ5MIZNyWe1NStLfO4utAH8Gyf/NBpYWJufVklchuOpDe1KM8Ls9YvF3TN5nysHu0WhMWdQ=;ONdkCSRLFL5XZI/K8+dYBA=="
 ---
 

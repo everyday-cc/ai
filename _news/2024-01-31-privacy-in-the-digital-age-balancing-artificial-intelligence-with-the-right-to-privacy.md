@@ -8,8 +8,8 @@ webUrl: "https://www.devdiscourse.com/article/technology/2791941-privacy-in-the-
 ampWebUrl: "https://www.devdiscourse.com/article/technology/2791941-privacy-in-the-digital-age-balancing-artificial-intelligence-with-the-right-to-privacy?amp"
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2791941-privacy-in-the-digital-age-balancing-artificial-intelligence-with-the-right-to-privacy?amp"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Healthcare
 
 images:
   - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/29_01_2024_17_47_39_7895168.png?width=1280"
@@ -26,6 +27,6 @@ images:
     height: 731
     isCached: true
 
-secured: "Iz30uAK2MBVuw3GvpRF04owGE0B1d9nqOrDkNfKbwcyDoU3b4B/wzX6hiD5AsEl74BZdNNMiMZ8sKZ5/dSSBRE1EftLuO6gp3ipHzD8aOnJX21bHKW3RxAu0VBKeTh7n52gY9V3hH0I71mjPhwZDuCHA3hQWpKJwkW/PwMUgD4c/Cc693W3i5te+W9f72wH8nvJZ3zi3By9g77VdCUUGVcqc1PWAE2VK0TNfMys8Rg4dqoZRQ/PRyjU9u5s/dzD/ceubrocsUX/J5z/HWpDXOrGY8KMeVsr35sWSUeCI4OfsBjtmhaYTXVEdHUdBIu8Nz97rgfskQcIP/Kxecqqj0Q8XwBMn+xlzLBcWQXbgFyk=;DCfq9xpWQAwNzT5zFuUp6Q=="
+secured: "fgKhHtv5+5VoRK9yuf86cnrikrkiW1IjkRoRhngD5QArK2tTliQROZ3uleeMOYBBWIpC26KcrsfhUXnmQV1Fbq2wuRcbBPLSHt6Q/5H7F441K+WItRMA/67aempi0npK5LiLsAJ3mZWYLeaBnKpwOYzOmLd082GZrs+MD/C+I15TiLoTNvL477H4dY8tIg3t64pDpX93FslRPbcwuBeolS91JEcxqkP25G0LyLt1HvtsFlmYE7BOs8v8/j38xe9YvHj3AS7Jbci5wN3moUF51gYOeE08ejZB9Am2uBsIXWbbmM83uMzs1F2WQdL+ukkfJnhO+dN1dj/4SptNMlMSwaWNaA0R8wHEHQexjDbXoxINVuMhUD1RldbrK5bKz5iIG+V6poUPPf4qYcvOmZDXACraD3G3zt2zDuc4mbM2bVAGODAB58+3KeHadF+f03AUXZwp0kNOvqsmoQcELcVN1/mBD41DxNhx0Q8wp6GTlyrx9k8sXiNDcV5xNJ2Ua+CGyk2pEehHevi49o9nlaEHCQ==;jg0zrEIg0fKBpUOrYCClfw=="
 ---
 

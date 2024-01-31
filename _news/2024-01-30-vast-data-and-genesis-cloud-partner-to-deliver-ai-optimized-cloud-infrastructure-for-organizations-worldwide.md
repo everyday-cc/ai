@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
-    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
-    publishedDateTime: 2024-01-26T15:41:00Z
-    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
+  - title: "WEKA Partners With NexGen Cloud to Democratise AI"
+    excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
+    publishedDateTime: 2024-01-31T09:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954728.htm"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 24
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
     images:
-      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://mma.prnewswire.com/media/2329670/PR_WEKA_NexGen.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "WEKA Partners With Nexgen Cloud To Democratize AI"
+    excerpt: "NexGen Cloud's Hyperstack Platform andAI Supercloud Are Leveraging WEKA's Data Platform Software To Provide Fast, Affordable, Sustainable On-D"
+    publishedDateTime: 2024-01-31T09:59:00Z
+    webUrl: "https://menafn.com/1107790805/WEKA-Partners-With-Nexgen-Cloud-To-Democratize-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?979557"
+        width: 444
+        height: 250
         isCached: true
   - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
     excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"

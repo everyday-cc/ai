@@ -78,17 +78,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "Ola founder Bhavish's Krutrim becomes first $1 billion Indian AI startup"
-    excerpt: "It becomes the first Indian AI startup to gain a billion-dollar valuation, a mere month after debuting a large language model, the firm said in a blog post"
-    publishedDateTime: 2024-01-26T10:39:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 36
   - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
     excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
     publishedDateTime: 2024-01-27T12:51:00Z

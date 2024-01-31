@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 21
-  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
-    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
-    publishedDateTime: 2024-01-26T09:33:00Z
-    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 13
 
 secured: "8dxZ3esg702KQi58ltbn7FvjWVFY0hd2I3RRMAaL0spgRjp3NvnwnLYmaY6i1XE22CIv/R+qgXeMM0yc2X1c9yh5MQ0E6Vjty9E9a+/c9ar2Di0f5WxWLt01jTaQJaqpHXiFKLAi89+IXcYRtbuwM65GFs99HZRiXeM5JdjVd+UgLrdqrQI7MQhbkj2XvOMiHTdo6k2WlyT56ZFRm8Z7XgtbsCzEO70l1t4AkkyZQa2YZ5eF1qkaf8HG2FSYAb4+WS6FAqflxB7KZNrfIpd/DlAI6pxd2GgaoOFpfJkywC/fxvcC9IKbGr8D+a49BKXbWDVyjKFbv6BZX8Q8PMhGUAplSdTiv7U7bK+RKjDAO0v4L4H32mvinU+UliXJNZTdBRKnz192SOf3kywEImSbGrF3PlCAO6S7L+f6CzErN+sAhwpft7Y5CM6qMqgzkVUFOGJcJRG8oDp7t+N7YJPcltpJ+DbUJ7a4Hbb93NtaC+DafiqNPPsI9dh7UUCM8VipUg7sD26F+99p/L0DLm+GNg==;Fz7xDfrivThNPZAOi3CBuw=="
 ---

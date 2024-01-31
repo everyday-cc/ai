@@ -78,15 +78,6 @@ related:
       name: Bizcommunity
       domain: bizcommunity.com
     quality: 21
-  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
-    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
-    publishedDateTime: 2024-01-26T09:33:00Z
-    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 13
 
 secured: "hA1CJeODlIcIzcNK6j+Ue1u42xZJW2We/zEXIj3BBq3gYMAUpWW5yZZ0D0hWHSn7V5/R+Oo/5PcgsCjvcZfrSCd/VtQ8gNOH9wCo9gcGFR63Zfr1BcUJn4+Cdue6+8oKlLF5UfhVz26c+cNws6ks7/5+5HUT0E1zMrm8uhKf6iNZI1i1wC+ZPyI9UsFG1SintgZ6TJVQc7nglwUqe39j0UNNIUVIwQAGZNDpoT1NUjiM/awtsZCGLhm9qswXRzbUVLDyByF0m+7GLGqcq1raX4/KVkjW57tSYWS/io6HoMb9dkKZfb3iDcFBVai9lOLVhCYcnWw1EDa3qDGctPQF2oNb1NEanN3s7LGwIfNqz7w=;iiYG0ECSd0EZ22t954eI3Q=="
 ---

@@ -80,20 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-31T02:31:00Z
-    webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "Q/V836bvGhCA+DjXxqArGt5vzl9FIBEpBb/xITdymqOyXCnxs5teylUFfmcxxBzVSngBGsjMx517/WnOuiepgumG5r6AB2XX10GIQXdpXYuOOamQm8ZQnpO11LkvxN/GNwJjk315mDfV6mwC2sOvBQnKmtK5xkkagrP7RpKMsGvxMB2uTJU+F/1Rzwgtjy6sdpDRaKyWmSfhdMh1K7Nu2XCBYUSXZJDOQOAkJBIdUwxA6f5yEPLHRyvFZw96L8ktBILczH0xsTUUtAvwoLaTFm9OZgP1yI4AmsgD9enkala2h4MFWMpB/N6sXPjvOGypG6Zj56szDqpqL8butlpTL26h5HPR51if6MlRNuC6zAk=;W274wM5aZ17KemuO9W+zZw=="
 ---

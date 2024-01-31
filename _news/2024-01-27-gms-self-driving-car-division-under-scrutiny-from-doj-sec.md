@@ -22,17 +22,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "How GM's Cruise tried — and failed — to contain self-driving safety crisis"
-    excerpt: "In the wee hours of Oct. 3, the circumstances of a collision that now imperils the future of General Motors self-driving subsidiary Cruise first became clear to dozens of company employees. At 3:45 a.m., a little more than six hours after the pedestrian ..."
-    publishedDateTime: 2024-01-26T10:07:00Z
-    webUrl: "https://www.autonews.com/mobility-report/cruise-tried-failed-contain-robotaxi-safety-crisis"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
-
 secured: "L+Thq/bUreOiH0ELdDRLsKUbLWGfxCWiJ6W9V1x/8Ac5QFm4ImyB1ouMdWNCQ4Pu4f5bmX9AqIl3MpM4U/g5rfpUYTOyk8K55UQw9SOtK61xv+sctCf8EMHqkOYAk3nwfGvLCSAwoCHjFBXvBz3Uwlu51sYqK5NOb+uM5iPIYH5mJOwSC3YsOyFib48hSsE+Kr/nU2J6KZQ4rf1rDZNxaNt9p4JBbBy30bilh5s1WBGn1XixHg9/j9lHmmUH6oJw9WUxVlPlQJn7RQ+Xa+qTquZObCYcRYp7BqwU+X1H5QGw/19DNerB9PflUAM5NP8sziX5X0s080GqVeBv5JnNHL6B7RjkRMrEyVi7hyf5zNs=;r1Pu7C+6ND5E7BtijLdvyQ=="
 ---
 

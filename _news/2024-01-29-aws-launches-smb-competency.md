@@ -24,17 +24,6 @@ images:
     height: 682
     isCached: true
 
-related:
-  - title: "AWS introduces SME partner competency"
-    excerpt: "Cloud player reacts to small and medium customer requirements for dedicated support with the launch of a targeted option."
-    publishedDateTime: 2024-01-26T09:45:00Z
-    webUrl: "https://www.computerweekly.com/microscope/news/366567973/AWS-introduces-SME-partner-competency"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 19
-
 secured: "4Iwdk6QusTTZtVUULZhSmyUDv9Lm34xrJjOlLwOHc81uNFmwPrl7W85O8+U/6DnAuYgB/jfBavFRX6LYBD+PRHgG6mHCzC3zj6hfhLdUx6OmW3wvX/uWMhDt3CcMyV8kFkkmUFhsmHPyT/fZgu2hgDZDmW/gglvexPboX5PMF4fupYC0Km41NbpPbKXD817nv6dnhspcs9qIcUBH2eXuyXMS+sZm2NLs1Cf7oWRgwKJbmCoUAar0wdaGTUL65TQA3V7VqNJTGESMBZhHlvtR2u9z/N/AvyFYVT7FczOj2sFEhAAxzD+UljZY+LTSgqYyu/nHhGWDLYmg4li5heqShQYejJnXbTFi2j+M6cOnTpdhW8YOjXdcilU95F8yx1ULwtPc0tM4KpOitoQl4u5S5lQN64R4E2me6w+fOp2QEFF4A0Qln5k8gNKs8a7mMlZFKqML6gLTPC50V2FhiwdIH/QQekBlJujOoujK2BVvdmkC8PMIwJ5C+tiukzVNWc6K878pFYjdLU0fim0V2iSonA==;a02M5zoXhUR5n3BvxbqLpA=="
 ---
 

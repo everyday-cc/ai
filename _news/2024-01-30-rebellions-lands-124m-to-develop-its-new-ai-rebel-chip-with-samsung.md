@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 768
         height: 423
         isCached: true
+  - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
+    excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"
+    publishedDateTime: 2024-01-31T10:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-samsung-galaxy-s24-series-now-available-in-canada-promising-a-new-beginning-with-galaxy-ai-1033014083"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
     excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
     publishedDateTime: 2024-01-30T19:12:00Z

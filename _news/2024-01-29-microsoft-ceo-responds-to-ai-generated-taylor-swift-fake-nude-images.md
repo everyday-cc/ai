@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Microsoft, Google ride AI wave as revenues surge"
+    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
+    publishedDateTime: 2024-01-31T09:40:00Z
+    webUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/microsoft-ceo-satya-na.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Microsoft revenue surges as AI bet delivers"
     excerpt: "Sales leaped to $62 billion for the October to December period, up 18 percent year-on-year and above the $61.1 billion projected by analysts"
     publishedDateTime: 2024-01-31T05:10:00Z
@@ -144,6 +160,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "Microsoft Omits the AI Progress Report Investors Wanted"
+    excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-01-31/microsoft-omits-the-ai-progress-report-investors-wanted"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
     excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
     publishedDateTime: 2024-01-26T15:36:00Z
@@ -159,20 +184,6 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/08/acd6305a-ba64-44fc-9d13-bb9a78cd7208/thumbnail/1200x630/10200a0442733918c2d545efb616e0f9/gettyimages-1916486593.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
         width: 1200
         height: 630
-        isCached: true
-  - title: "US watchdog probes Microsoft, Google and Amazon's AI investments"
-    excerpt: "Concerns about investing in rivals A US watchdog is snuffling around the billions of dollars that Microsoft, Google and Amazon have splashed on rival AI startups OpenAI and Anthropic. The Federal Trade Commission (FTC) wants to ensure that tech giants stay within the competition in the booming"
-    publishedDateTime: 2024-01-26T10:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58333-us-watchdog-probes-microsoft-google-and-amazon-s-ai-investments"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5a1be1bea6dcd18ceedb33210235d286_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
     excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
@@ -229,20 +240,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 54
-  - title: "Microsoft, Google ride AI wave as revenues surge"
-    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked reve"
-    publishedDateTime: 2024-01-31T00:38:00Z
-    webUrl: "https://menafn.com/1107789058/Microsoft-Google-ride-AI-wave-as-revenues-surge"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/30/AFP_e555dimage_story.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
     excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
     publishedDateTime: 2024-01-30T00:35:00Z

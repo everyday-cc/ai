@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Elon Musk’s AI start-up seeks to raise $6bn from investors to challenge OpenAI"
-    excerpt: "Elon Musk’s xAI is in talks to raise up to $6bn, as the Tesla and X chief looks to global investors, including in Hong Kong, to finance his challenge to Microsoft-backed OpenAI."
-    publishedDateTime: 2024-01-26T09:33:00Z
-    webUrl: "https://www.ft.com/content/28983bdc-2a38-4103-beae-08d9542ab69d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 13
 
 secured: "YHnkWFakfatXLh4qWSXyDsfaD7TWaDWlfQvjN8LXy4QdoP4HvGTH5IWyKI59runIyPtpvYOTI2jIL9pGotTKZb4wNlBuhj5OKALFGUujTHkzq2lyaDPeCSTufM5BxRdxM/znM4RwFkSi1knqZQmkIYXF8IJXpBrph2/uB99NA5lHvqHiCnhkZm6j4NsfxQAs6N6IbwCjkWeVIEfjipNgCzsWgpsg0GpwplkMhTjRQW3yFfew7udHu1VwLFUN1UNJJyEMoH/jUuspug8bnOQ2vRQ+WeELl5Bn2DMWYlRf2czovdaZ8sZ46pD7qRkPq4/s6CVa4EoiXc2wl3BYh2U9APkYAwVrMYwO/i3CExJIGHbKkqaUJRByXpIfUxoRknI99yUHGVgHxCnSlg8CfwZEDyJcg4u4SkbEg+x2NJk0kCEeyu7NFHazganobTOD6nRTmGPNry709VWxlihd9+/acfnqkt47m0bBZlhBz8bIILjCbQEmSaD8utbUNCA5tDRlVtZCzAl6RhvrvFIMSOs3ag==;pP5l2Ndtp4N1yjH8PurSsA=="
 ---

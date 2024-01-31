@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 41
+  - title: "Google Assistant With Bard Puts an AI Chatbot in Your iPhone or Android"
+    excerpt: "Spread the loveIn the ever-evolving landscape of artificial intelligence, Google has once again redefined the boundaries by integrating Bard, an advanced AI chatbot, with its widely popular Google Assistant."
+    publishedDateTime: 2024-01-31T08:33:00Z
+    webUrl: "https://www.thetechedvocate.org/google-assistant-with-bard-puts-an-ai-chatbot-in-your-iphone-or-android/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2018/05/pexels-photo-267885-660x400.jpeg"
+        width: 660
+        height: 400
+        isCached: true
 
 secured: "CM2Fe6mWA01pJK10b6vl0Q3il91QGntQweVn7i96MbzS1VZW1BulpJ2s5on7bVi9VWWQA/YycJnNK+LpTedFGL7k179H7MpJHrjnsZcQslPBIbEbFwPgRC8zHZHRmDU72EigG3cdM9/YbOuHerkVaPaPg2P8PomsBoORnDMqjM+leVR4AePMEwBAXgIEcUvJ+TyDT/mr3lLT5hN6sc2O1uyqBfOi/8utifHpUOzK8EFnxhniyVEIJrR/YRRYWgxOmRiIA27FyXMP8LucZy2WAJk7qx9qd68yHFIS2IvOY3ATolaYkuVa+X+99ScQF2o5JMv1MkL4DFQIvbdYX5oP4IuBkJBYltovDMoG4BcCYb0=;6VyERJYbgG6gdIJvD5YJKg=="
 ---

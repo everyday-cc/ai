@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Krutrim, founded by Ola CEO Bhavish Aggarwal's is India's first $1 billion AI startup"
-    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India. It becomes the first Indian AI startup to gain a billion-dollar ..."
-    publishedDateTime: 2024-01-26T09:49:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup-11706261875275.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup/amp-11706261875275.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup/amp-11706261875275.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 50
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/26/1600x900/Bhavish_Aggarwal_Ola_AI_Startup_1706262119561_1706262119860.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
     excerpt: "Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader in connected TV (CTV ..."
     publishedDateTime: 2024-01-27T09:54:00Z

@@ -74,15 +74,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 36
-  - title: "Microsoft, Google embrace openness with Sama AI data integrations"
-    excerpt: "The Google Cloud and Microsoft Azure integrations are a piece of Sama’s larger efforts to speed up time-to-market and lower the overall costs of AI model ownership. Sama boasts a 99% client acceptance rate for AI training data and an annotation delivery ..."
-    publishedDateTime: 2024-01-26T10:37:00Z
-    webUrl: "https://www.sdxcentral.com/articles/news/microsoft-google-embrace-openness-with-sama-ai-data-integrations/2024/01/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 34
   - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
     excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
     publishedDateTime: 2024-01-30T12:39:00Z

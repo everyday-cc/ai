@@ -46,10 +46,10 @@ related:
         width: 879
         height: 649
         isCached: true
-  - title: "3 Edge AI Stocks to Profit From Technology’s Next Big Thing"
-    excerpt: "According to Gartner, Edge AI “refers to the use of AI techniques embedded in ... Larry Ramer has conducted research and written articles on U.S. stocks for 15 years. He has been employed by The Fly and Israel’s largest business newspaper, Globes."
-    publishedDateTime: 2024-01-26T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-edge-ai-stocks-to-profit-from-technologys-next-big-thing-1033001777"
+  - title: "3 Once-in-a-Lifetime AI Stocks With Unprecedented Surge Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips History will show that 2023 was the year that AI stocks truly took off. Many"
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-once-in-a-lifetime-ai-stocks-with-unprecedented-surge-potential-1033014097"
     type: article
     provider:
       name: Business Insider

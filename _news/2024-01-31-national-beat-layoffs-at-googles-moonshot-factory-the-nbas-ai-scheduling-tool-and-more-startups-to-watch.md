@@ -1,10 +1,10 @@
 ---
 category: news
 title: "National Beat: Layoffs at Google's moonshot factory, the NBA's AI scheduling tool, and more startups to watch"
-excerpt: "As layoffs ripple their way across Alphabet, the latest to see cuts is the inno vation lab of Google, Bay Area Inno reports."
-publishedDateTime: 2024-01-30T16:01:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
+excerpt: "Want this rundown of startup deals, exclusive insights and business intelligence ... Even if a measure does pass, the current proposal only defers the tax through 2025. Figure AI has inked a deal with BMW to have its robot work in the car developer ..."
+publishedDateTime: 2024-01-30T17:01:00Z
+originalUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "BuWze+W/j5eH9V5xeS/PxzSmwgzO8vm0iBXWtHB52RrJ3IKFZizoigzpy6b451T44ygp+yZKUE++WjK0LypckBgks9XbGJ0FRSvSAI8duqDJisPDyRARcsQdiopGNNnC1CQLWRIRykCsb4nL6KVXSsShN1lAyUpxfwoapci6JRP6y1ZC6NRYHhi86907dPuGZptPIIa5ypUYgiitYL1Ys/BtR6ZC5NE430qtotAwchybk1oUPzC7JZimqEIFlkHdWBsGuNKPYqBWT6lwpwVOrRYJiyXat9DnHH1r2VC0y8W3X/jLO+Cnib6igvJD9J7zeCvbWNa0OflVsrO4eAIxYkRVcp36hB6X9cisfqOWysZ2ZbRKVY2TFN5F+6ZW62/qxpkhnqLjNK2Z7eISbx3CKzXgnIAYnW8g5PK/h/9Nxpe385PPKM9WRt+6DEiO5GzpiI/+r5aRq8W10PAOJTgDVjZNrHnLv71KlUeIjMeBSQE9ir2z1opa/YixTXjTPH6aQSLxcGQJD55l/vLe4EsOYQ==;aBCAkIOQeLSc60E7friaWg=="
+secured: "Zs+CkvSTzYy+lKv9Wa9s176IY07yEbKwoY6ri4MHq1Ng7XtOQKBZoWt1qfx9vzYARddKZRrmMMkEaD3DVXtzc9WtfSOQQ7WxN7Ip+bFzy+BlXa7VBVcT8Z7Kg9f+ZURtwzd0TZ2BnoQ+/EmTHbQpUhB+bulqk3aBLTdYHKN3fedAaWzg+TmesJrXajUccMHcojsGT6DJ07CPDDQWHnWcVp8kOfEKFxdJaFM8zrldRMUReWFl7A/+8qVMrfbc/lrDIOWgqQgxjQP/vqiOocqbyBHNnsUktJFWgoi3vDD1S8D+xZcUGhfv4Jg6qE3a5Jv3BSEpqmD858JOlRZa73cqkPaAHhqCem1XW6LeAQpjnWLy4+xqGgFQ+kRrhqZImHREngxtDA16oUALtSOEKVeq5w0kuB3uqq02MaK6It10B/fcwknHJoxL0FWjkQwobfzoE8miKDArC4zScA5G0PEct9NQhOJhRKQ7LVcU10AKS+N7C0Pd+F5PzBTo1L6KLWyHVVjLgIMuzenkKIGZmKwx5w==;K2vkdueRCr9Oz4akTGus9Q=="
 ---
 

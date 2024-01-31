@@ -132,6 +132,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Reasons to be fintech cheerful"
+    excerpt: "I wrote about failure and began thinking I need to find reasons to be cheerful. The easiest way to find cheer is to think about success. I’ve always come to fintech with a wide net: watching as emerging technologies and business models influence incumbent bank projects and culture,"
+    publishedDateTime: 2024-01-31T09:11:00Z
+    webUrl: "https://www.thebanker.com/Reasons-to-be-fintech-cheerful-1706689723"
+    type: article
+    provider:
+      name: The Banker
+      domain: thebanker.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https://www.thebanker.com/var/ezflow_site/storage/images/media/images/liz-headshot-july-23/12744001-1-eng-GB/Liz-headshot-July-23.jpg?source=specialist-tb-article&width=816"
+        width: 816
+        height: 459
+        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z
@@ -140,6 +154,15 @@ related:
     provider:
       name: Gulf News
       domain: gulfnews.com
+    quality: 4
+  - title: "How can fintech companies improve their customer experience?"
+    excerpt: "In this era of digital transformation, Fintech companies are not just adapting; they're evolving to prioritize and enhance their customer experiences, creating bonds that stand the test of time. Let's explore some strategies that can infuse a human touch  into Fintech, making it more than just a service but an experience."
+    publishedDateTime: 2024-01-31T10:01:00Z
+    webUrl: "https://www.finextra.com/blogposting/25624/how-can-fintech-companies-improve-their-customer-experience"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 4
   - title: "Yara Technologies enters African market, targets rapidly-growing fintech market"
     excerpt: "Yara Technologies, Sri Lanka’s premier edfintech company, expanded into the African market by partnering with Meus.... .."

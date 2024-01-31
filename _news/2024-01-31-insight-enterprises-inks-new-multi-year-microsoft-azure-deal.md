@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Optimistic Outlook for Microsoft’s Growth Driven by Azure and AI Innovations"
-    excerpt: "Brad Reback, an analyst from Stifel Nicolaus, maintained the Buy rating on Microsoft (MSFT – Research Report). The associated price"
-    publishedDateTime: 2024-01-26T10:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/optimistic-outlook-for-microsoft-s-growth-driven-by-azure-and-ai-innovations-1033000866"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
     publishedDateTime: 2024-01-30T21:42:00Z
@@ -66,6 +57,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "AI robot startup Figure in talks for funding round led by Microsoft, OpenAI"
+    excerpt: "US-based startup Figure AI, specialising in humanoid robots, is reportedly in discussion with Microsoft and OpenAI to lead a funding round to secure $500 million. According to a Bloomberg report, Microsoft is expected to invest approximately $95 million, with OpenAI contributing around $5 million."
+    publishedDateTime: 2024-01-31T09:28:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-robot-startup-figure-in-talks-for-funding-round-led-by-microsoft-openai-124013100484_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 69
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z
@@ -147,16 +149,19 @@ related:
       domain: fxempire.com
     quality: 54
   - title: "Microsoft touts AI strength, but shares dip as market digests costs"
-    excerpt: "Azure AI customers, a third of whom were new to the service in the past 12 months, Nadella told analysts on a conference call"
-    publishedDateTime: 2024-01-31T02:27:00Z
-    webUrl: "https://www.business-standard.com/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs-124013100087_1.html"
+    excerpt: "Microsoft beat market estimates for quarterly profit and revenue on Tuesday (Jan 30), as new artificial intelligence features helped attract customers to its Azure cloud service as it built out its own AI services."
+    publishedDateTime: 2024-01-31T09:02:00Z
+    webUrl: "https://www.channelnewsasia.com/business/microsoft-ai-strength-shares-dip-market-costs-4086751"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--Sqmu8y3r--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-30t210430z_2_lynxmpek0t0oq_rtroptp_3_microsoft-layoffs-headquarters.jpg?itok=fUTa4xCY"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Microsoft again blows away earnings estimates as AI’s contribution grows"
     excerpt: "Growth of 30% in the Azure cloud business was a big reason for the quarter’s success, beating analysts’ estimates of 27% growth. Microsoft attributed 6% of that expansion to demand related to its Azure AI and other AI services. That was twice the AI contribution of the previous quarter."
     publishedDateTime: 2024-01-31T00:55:00Z

@@ -23,6 +23,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Four Key Artificial-Intelligence Trends for 2024"
+    excerpt: "AI development and deployment, with no corner of the world unaffected. Four main trends will be of particular consequence in the coming months: the transformative power of generative AI, the diversity of multimodal AI,"
+    publishedDateTime: 2024-01-31T09:15:00Z
+    webUrl: "https://internationalbanker.com/technology/four-key-artificial-intelligence-trends-for-2024/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 4
+
 secured: "hVb4hZA9VX0ujHqSdjkaf/IcPdPMr4Cen0mipkY0NoMMzJN/if/yNtzcqsUz5ziuY8lFFZzkMZfv+Y8M9r9GReg0fdzE1vNV5RCOPFYPewQ4zNTFGnw9oTk+IpQ/jhVxsPGzMC1Qqf+ZhPaClqYgCs/Hldq8ca4shtlQtKC2rLGujRHO759EGKz93OsrPjxmvIWTxjnl8YRo8W5rjWHV/5TC3mGs5xaa6mqhERmssG2Fs4Spsn/twC4SuWmR3aVzqK1PYa6g7osZlqTrRZPc0EBwGeIzWYbgfc4s5T/h6V0e6BBx6v+586IqNor0Ga9ntOxS/lET9zD0a0LG4gTV2MKjd8dGoC+a915ZauIaZEI=;UZ5Eh2xUBtys2K4bbwL0zg=="
 ---
 

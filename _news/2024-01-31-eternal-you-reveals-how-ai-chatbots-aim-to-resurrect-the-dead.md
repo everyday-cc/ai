@@ -1,0 +1,55 @@
+---
+category: news
+title: "'Eternal You' reveals how AI chatbots aim to resurrect the dead"
+excerpt: "Chatbots can scan the dead's social media profiles and texts, and then simulate the departed's way of speaking to create new messages. The documentary Eternal You probes into this intriguing use of AI,"
+publishedDateTime: 2024-01-31T10:00:00Z
+originalUrl: "https://mashable.com/article/eternal-you-review"
+webUrl: "https://mashable.com/article/eternal-you-review"
+type: article
+quality: 67
+heat: 87
+published: true
+
+provider:
+  name: Mashable
+  domain: mashable.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://helios-i.mashable.com/imagery/articles/07ET7WkarUwAIIdJLgASzRF/hero-image.fill.size_1200x675.v1706637281.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "AI Chatbots Can Now Go On First Dates for You"
+    excerpt: "An artificial intelligence (AI) chatbot can now interview you and then go on first dates for you, mirroring your interests and even mimicking your conversation style. Source: Photo by ThisIsEngineering from Pexels \"My AI chatbot had a really good time with your AI chatbot."
+    publishedDateTime: 2024-01-29T14:52:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/pexels-thisisengineering-3861969_0.jpg?itok=9fke_752"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "Exclusive: AI chatbots take aim at human loneliness"
+    excerpt: "Luka executives have also been making the case that chatbots offer a safe space for people to try out dialogue and improve their human relationships. Yes, but: Kuyda acknowledged that attitudes could shift to the negative if other companies create AI chatbots that aim to maximize user attention in order to sell ads."
+    publishedDateTime: 2024-01-30T17:12:00Z
+    webUrl: "https://www.axios.com/2024/01/30/ai-chatbots-human-loneliness-tomo-luka"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
+
+secured: "+uRnfhGKiyNLLi4G8cNRfN0KSW1eqZGQ8T4yRJtj5LmQ9gDUfmjXQg0wN8ZnDceYCPWKhpOydeuOEGepnpDBvFfm/Zjfkn+BI1qF+CCIPA8mKNuErWalY5jiJhe5mzt66D4hT22fZarTeBCtbEjvPzP1VAKqwBqQ7FZt4d30SoAmSpn3qJ8dh7pt0qnKwg0aJM0Csb1HxsVGPSkRonRxqjwMZjDTolyMLXQhDJcIa1FGUUsawmMCavOgjqQ2EuTlswICAKe0DoAExaensqhzlBMbSPHdBfOcKVpv4kLiJraJyivzf0rzymnLI245iSnyhKuxlQzx4GI/q2Le9E3WoCbltlqkCW43pYZI82g1DE8=;RGkPdkR+ZA51/s7bkUL0Pw=="
+---
+

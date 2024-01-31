@@ -78,17 +78,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "Ola founder Bhavish's Krutrim becomes first $1 billion Indian AI startup"
-    excerpt: "It becomes the first Indian AI startup to gain a billion-dollar valuation, a mere month after debuting a large language model, the firm said in a blog post"
-    publishedDateTime: 2024-01-26T10:39:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 36
   - title: "Krutrim & AI — Bhavish Aggarwal’s Biggest Bets"
     excerpt: "Bhavish Aggarwal’s Krutrim has come out of the gates fast and furious in a bid to create ‘AI For India’ and compete against tech giants"
     publishedDateTime: 2024-01-28T01:29:00Z
